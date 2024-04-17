@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-25 commits.
+26 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -23,8 +23,12 @@
     <sub>[#146845](https://github.com/flutter/flutter/pull/146845) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146845) over 1 hour, 6 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Try to be more consistent about deleting test apps in devicelab logic. (#146856)"<br />
+    <sub>[#146927](https://github.com/flutter/flutter/pull/146927) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146927) over 30 seconds, 22 additions and 66 deletions in 22 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Try to be more consistent about deleting test apps in devicelab logic.<br />
-    <sub>[#146856](https://github.com/flutter/flutter/pull/146856) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146856) over 17 hours, 66 additions and 22 deletions in 22 files</sub><br />
+    <sub>[#146856](https://github.com/flutter/flutter/pull/146856) merged on April 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/146856) over 17 hours, 66 additions and 22 deletions in 22 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fix test-case for RenderView<br />
