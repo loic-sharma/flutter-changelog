@@ -68,9 +68,6 @@
 * **[drown0315](https://github.com/drown0315)** &mdash; Improved documentation for SpringSimulation<br />
     <sub>[#146674](https://github.com/flutter/flutter/pull/146674) opened on on April 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146674) 41 additions and 1 deletion in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for sliver_animated_opacity.0.dart API example.<br />
-    <sub>[#146722](https://github.com/flutter/flutter/pull/146722) opened on on April 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146722) 50 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Add a breadcrumb for the pub autoroller<br />
     <sub>[#146786](https://github.com/flutter/flutter/pull/146786) opened on on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146786) 12 additions and 3 deletions in 2 files</sub><br />
 
