@@ -77,6 +77,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back route transitions by default<br />
     <sub>[#146788](https://github.com/flutter/flutter/pull/146788) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146788) 232 additions and 2 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Try to be more consistent about deleting test apps in devicelab logic.<br />
-    <sub>[#146856](https://github.com/flutter/flutter/pull/146856) opened on on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146856) 66 additions and 22 deletions in 22 files</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in data table<br />
+    <sub>[#146892](https://github.com/flutter/flutter/pull/146892) opened on on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146892) 10 additions and 5 deletions in 2 files</sub><br />
 
