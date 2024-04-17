@@ -69,7 +69,7 @@
     <sub>[#146786](https://github.com/flutter/flutter/pull/146786) opened on on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146786) 12 additions and 3 deletions in 2 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back route transitions by default<br />
-    <sub>[#146788](https://github.com/flutter/flutter/pull/146788) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146788) 232 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#146788](https://github.com/flutter/flutter/pull/146788) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146788) 231 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for focus_node.0.dart API example.<br />
     <sub>[#146943](https://github.com/flutter/flutter/pull/146943) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146943) 193 additions and 1 deletion in 2 files</sub><br />
