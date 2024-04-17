@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-28 commits.
+29 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -74,6 +74,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Doctor] Improve CocoaPods messages<br />
     <sub>[#146701](https://github.com/flutter/flutter/pull/146701) merged on April 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146701) over 2 days, 27 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#146929](https://github.com/flutter/flutter/pull/146929) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146929) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Rewrap some lines that are about to get much longer.<br />
     <sub>[#146803](https://github.com/flutter/flutter/pull/146803) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146803) over 22 hours, 38 additions and 10 deletions in 1 file</sub><br />
@@ -1136,7 +1140,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-12 commits.
+13 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android<br />
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub><br />
@@ -1153,6 +1157,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Link should work when triggered by keyboard<br />
     <sub>[#6505](https://github.com/flutter/packages/pull/6505) merged on April 15, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/6505) over 3 days, 331 additions and 11 deletions in 4 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Initial iOS Pigeon conversion<br />
+    <sub>[#6553](https://github.com/flutter/packages/pull/6553) merged on April 17, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/6553) over 4 hours, 557 additions and 133 deletions in 15 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Remove iOS thread-safe result class<br />
     <sub>[#6498](https://github.com/flutter/packages/pull/6498) merged on April 16, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/6498) over 6 days, 283 additions and 583 deletions in 28 files</sub><br />
