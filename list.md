@@ -563,8 +563,8 @@
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/90a6d70f-db22-4684-80f9-1cea3dc21ac5)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Off by default experimental canvas.
-    <sub>[#52035](https://github.com/flutter/engine/pull/52035) merged on April 17, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/52035) over 1 week, 778 additions and 228 deletions in 9 files</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+    <sub>[#52035](https://github.com/flutter/engine/pull/52035) merged on April 17, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/52035) over 1 week, 778 additions and 228 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Wang's formula for quad/cubic subdivision.
     <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub>
