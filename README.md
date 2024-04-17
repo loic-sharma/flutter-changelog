@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-27 commits.
+28 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Added missing tests for OverflowBar example.<br />
     <sub>[#146780](https://github.com/flutter/flutter/pull/146780) merged on April 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/146780) over 1 day, 28 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Get rid of _NullElement.<br />
+    <sub>[#146741](https://github.com/flutter/flutter/pull/146741) merged on April 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/146741) over 2 days, 5 additions and 24 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS] Migrate @UIApplicationMain attribute to @main<br />
     <sub>[#146707](https://github.com/flutter/flutter/pull/146707) merged on April 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/146707) over 3 days, 173 additions and 20 deletions in 14 files</sub><br />
@@ -1132,7 +1136,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-11 commits.
+12 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android<br />
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub><br />
@@ -1165,6 +1169,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [video_player] Calls `onDestroy` instead of `initialize` in onDetachedFromEngine<br />
     <sub>[#6501](https://github.com/flutter/packages/pull/6501) merged on April 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6501) over 4 days, 8 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase] Add countryCode implementation to android and storekit<br />
+    <sub>[#6556](https://github.com/flutter/packages/pull/6556) merged on April 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6556) over 3 hours, 73 additions and 5 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase_platform_interface] Adds countryCode API<br />
     <sub>[#6548](https://github.com/flutter/packages/pull/6548) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6548) over 20 hours, 33 additions and 3 deletions in 4 files</sub><br />
