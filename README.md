@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-22 commits.
+23 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -90,6 +90,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; test: Fix memory leak in transitions test<br />
     <sub>[#146747](https://github.com/flutter/flutter/pull/146747) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146747) over 14 hours, 55 additions and 47 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Reland: Update link branches to `main`<br />
+    <sub>[#146882](https://github.com/flutter/flutter/pull/146882) merged on April 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146882) over 1 hour, 120 additions and 55 deletions in 42 files</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Revert "Update link branches to `main`"<br />
     <sub>[#146880](https://github.com/flutter/flutter/pull/146880) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146880) over 3 minutes, 53 additions and 118 deletions in 41 files</sub><br />
@@ -499,7 +503,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-20 commits.
+22 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"<br />
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub><br />
@@ -543,6 +547,14 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] moved to bgra10_xr (#52019)"<br />
     <sub>[#52140](https://github.com/flutter/engine/pull/52140) merged on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52140) over 1 minute, 34 additions and 76 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] FlutterSurfaceManager should not return surfaces that are in use<br />
+    <sub>[#52082](https://github.com/flutter/engine/pull/52082) merged on April 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52082) over 4 days, 108 additions and 13 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] FlutterView should not override platform view cursor<br />
+    <sub>[#52159](https://github.com/flutter/engine/pull/52159) merged on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52159) over 21 hours, 126 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Handle reparenting platform views<br />
     <sub>[#52152](https://github.com/flutter/engine/pull/52152) merged on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52152) over 1 day, 34 additions and 3 deletions in 2 files</sub><br />
