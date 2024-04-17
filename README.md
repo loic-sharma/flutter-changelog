@@ -4,7 +4,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-29 commits.
+30 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds<br />
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub><br />
@@ -21,6 +21,10 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove checked mode references<br />
     <sub>[#146845](https://github.com/flutter/flutter/pull/146845) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146845) over 1 hour, 6 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove now-redundant tests for isForEnvironment<br />
+    <sub>[#146804](https://github.com/flutter/flutter/pull/146804) merged on April 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/146804) over 1 day, 0 additions and 321 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Try to be more consistent about deleting test apps in devicelab logic. (#146856)"<br />
@@ -527,7 +531,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-30 commits.
+31 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"<br />
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub><br />
@@ -583,6 +587,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added static check that fragment shader and vertex shaders slots match<br />
     <sub>[#52174](https://github.com/flutter/engine/pull/52174) merged on April 17, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/52174) over 17 hours, 84 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Handle interleaved movement and gesture events<br />
+    <sub>[#52201](https://github.com/flutter/engine/pull/52201) merged on April 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52201) over 1 hour, 43 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Callum Moffat](https://github.com/moffatman)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add/remove view failures should not hang<br />
     <sub>[#52164](https://github.com/flutter/engine/pull/52164) merged on April 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52164) over 23 hours, 70 additions and 5 deletions in 2 files</sub><br />
