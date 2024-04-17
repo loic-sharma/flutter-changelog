@@ -27,13 +27,13 @@
     <sub>[#146825](https://github.com/flutter/flutter/pull/146825) merged on April 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146825) over 7 hours, 1 addition and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS] Migrate @UIApplicationMain attribute to @main<br />
-    <sub>[#146707](https://github.com/flutter/flutter/pull/146707) merged on April 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/146707) over 3 days, 173 additions and 20 deletions in 14 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
-
 * **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Added missing tests for OverflowBar example.<br />
     <sub>[#146780](https://github.com/flutter/flutter/pull/146780) merged on April 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/146780) over 1 day, 28 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [iOS] Migrate @UIApplicationMain attribute to @main<br />
+    <sub>[#146707](https://github.com/flutter/flutter/pull/146707) merged on April 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/146707) over 3 days, 173 additions and 20 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix doc reference to RendererBinding.renderViews<br />
     <sub>[#146837](https://github.com/flutter/flutter/pull/146837) merged on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146837) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
