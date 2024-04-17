@@ -1156,7 +1156,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-13 commits.
+14 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android<br />
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub><br />
@@ -1185,6 +1185,10 @@
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [image_picker] Adopt code excerpts in README<br />
     <sub>[#5523](https://github.com/flutter/packages/pull/5523) merged on April 15, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/5523) over 4 months, 110 additions and 9 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase] Add api to expose country code<br />
+    <sub>[#6540](https://github.com/flutter/packages/pull/6540) merged on April 17, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/6540) over 2 days, 38 additions and 7 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update local_auth_android minSdkVersion to 19<br />
     <sub>[#6537](https://github.com/flutter/packages/pull/6537) merged on April 15, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6537) over 1 hour, 7 additions and 6 deletions in 3 files</sub><br />
