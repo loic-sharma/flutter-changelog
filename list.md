@@ -507,7 +507,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-24 commits.
+25 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub>
@@ -531,6 +531,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved to bgra10_xr
     <sub>[#52019](https://github.com/flutter/engine/pull/52019) merged on April 15, 2024 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/52019) over 5 days, 76 additions and 34 deletions in 10 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] move AccessibilityAnnouncements into SemanticsOwner
+    <sub>[#52138](https://github.com/flutter/engine/pull/52138) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52138) over 1 day, 45 additions and 26 deletions in 7 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterUIPressProxy, ios_context*, rendering_api_selection, and a few other files to ARC
     <sub>[#51633](https://github.com/flutter/engine/pull/51633) merged on April 16, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/51633) over 3 weeks, 59 additions and 38 deletions in 12 files</sub>
