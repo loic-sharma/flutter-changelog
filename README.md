@@ -1084,7 +1084,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-8 commits.
+9 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android<br />
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub><br />
@@ -1113,6 +1113,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [video_player] Calls `onDestroy` instead of `initialize` in onDetachedFromEngine<br />
     <sub>[#6501](https://github.com/flutter/packages/pull/6501) merged on April 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6501) over 4 days, 8 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Update app-facing package iOS requirements<br />
+    <sub>[#6552](https://github.com/flutter/packages/pull/6552) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6552) over 3 hours, 15 additions and 7 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CupertinoIcons] fix broken icons and vertical alignment, bump the version to 1.08<br />
     <sub>[#6520](https://github.com/flutter/packages/pull/6520) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6520) over 1 day, 4 additions and 2 deletions in 3 files</sub><br />
