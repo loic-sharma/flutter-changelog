@@ -1088,7 +1088,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-9 commits.
+10 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub>
@@ -1117,6 +1117,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [video_player] Calls `onDestroy` instead of `initialize` in onDetachedFromEngine
     <sub>[#6501](https://github.com/flutter/packages/pull/6501) merged on April 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6501) over 4 days, 8 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase_platform_interface] Adds countryCode API
+    <sub>[#6548](https://github.com/flutter/packages/pull/6548) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6548) over 20 hours, 33 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Update app-facing package iOS requirements
     <sub>[#6552](https://github.com/flutter/packages/pull/6552) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6552) over 3 hours, 15 additions and 7 deletions in 5 files</sub>
