@@ -71,9 +71,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Predictive back route transitions by default<br />
     <sub>[#146788](https://github.com/flutter/flutter/pull/146788) opened on on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146788) 232 additions and 2 deletions in 2 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#146942](https://github.com/flutter/flutter/pull/146942) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146942) 30 additions and 2 deletions in 1 file</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for focus_node.0.dart API example.<br />
     <sub>[#146943](https://github.com/flutter/flutter/pull/146943) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146943) 193 additions and 1 deletion in 2 files</sub><br />
 
