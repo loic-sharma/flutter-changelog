@@ -86,3 +86,6 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update link branches to `main` (continued)<br />
     <sub>[#146985](https://github.com/flutter/flutter/pull/146985) opened on on April 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146985) 59 additions and 28 deletions in 7 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in navigation rail<br />
+    <sub>[#146988](https://github.com/flutter/flutter/pull/146988) opened on on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146988) 104 additions and 65 deletions in 2 files</sub><br />
+
