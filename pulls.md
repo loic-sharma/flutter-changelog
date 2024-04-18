@@ -71,6 +71,3 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update link branches to `main` (continued)<br />
     <sub>[#146985](https://github.com/flutter/flutter/pull/146985) opened on on April 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146985) 62 additions and 28 deletions in 7 files</sub><br />
 
-* **[Tim Maffett](https://github.com/timmaffett)** &mdash; add focusNode and textEditingController parameters to Autocomplete - fixes #146994<br />
-    <sub>[#146995](https://github.com/flutter/flutter/pull/146995) opened on on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146995) 47 additions and 1 deletion in 1 file</sub><br />
-
