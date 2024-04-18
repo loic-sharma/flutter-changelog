@@ -4,20 +4,20 @@
 
 ### April 13, 2024 to April 19, 2024
 
-38 commits.
+40 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix filled text field active indicator overflows container bounds
     <sub>[#146637](https://github.com/flutter/flutter/pull/146637) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146637) over 3 days, 74 additions and 57 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/ed2878ba-130a-4410-b170-423d00a8893d) | ![image](https://github.com/flutter/flutter/assets/840911/f78d06c0-a161-4ab6-b01f-dae297939956)</details></sub>
 
-* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add hitTestBehavior and rootOverlay to LongPressDraggable constructor…
-    <sub>[#146386](https://github.com/flutter/flutter/pull/146386) merged on April 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146386) over 1 week, 88 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[Jesse](https://github.com/sealesj)** &mdash; Create web tests suite & runner_utils
     <sub>[#146592](https://github.com/flutter/flutter/pull/146592) merged on April 17, 2024 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/146592) over 1 week, 1162 additions and 1141 deletions in 6 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add hitTestBehavior and rootOverlay to LongPressDraggable constructor…
+    <sub>[#146386](https://github.com/flutter/flutter/pull/146386) merged on April 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146386) over 1 week, 88 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implementing control flow collections
     <sub>[#146601](https://github.com/flutter/flutter/pull/146601) merged on April 15, 2024 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/146601) over 4 days, 276 additions and 494 deletions in 37 files</sub>
@@ -39,9 +39,9 @@
     <sub>[#146845](https://github.com/flutter/flutter/pull/146845) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146845) over 1 hour, 6 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Try to be more consistent about deleting test apps in devicelab logic (#146931)"
-    <sub>[#146947](https://github.com/flutter/flutter/pull/146947) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146947) over 1 minute, 34 additions and 74 deletions in 23 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fix test-case for RenderView
+    <sub>[#146825](https://github.com/flutter/flutter/pull/146825) merged on April 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146825) over 7 hours, 1 addition and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Try to be more consistent about deleting test apps in devicelab logic. (#146856)"
     <sub>[#146927](https://github.com/flutter/flutter/pull/146927) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146927) over 30 seconds, 22 additions and 66 deletions in 22 files</sub>
@@ -55,9 +55,9 @@
     <sub>[#146780](https://github.com/flutter/flutter/pull/146780) merged on April 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/146780) over 1 day, 28 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fix test-case for RenderView
-    <sub>[#146825](https://github.com/flutter/flutter/pull/146825) merged on April 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146825) over 7 hours, 1 addition and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Try to be more consistent about deleting test apps in devicelab logic (#146931)"
+    <sub>[#146947](https://github.com/flutter/flutter/pull/146947) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146947) over 1 minute, 34 additions and 74 deletions in 23 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Try to be more consistent about deleting test apps in devicelab logic
     <sub>[#146931](https://github.com/flutter/flutter/pull/146931) merged on April 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146931) over 2 hours, 74 additions and 34 deletions in 23 files</sub>
@@ -99,13 +99,17 @@
     <sub>[#146701](https://github.com/flutter/flutter/pull/146701) merged on April 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146701) over 2 days, 27 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `MaterialBanner`
+    <sub>[#146963](https://github.com/flutter/flutter/pull/146963) merged on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146963) over 11 hours, 31 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in data table
+    <sub>[#146892](https://github.com/flutter/flutter/pull/146892) merged on April 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146892) over 1 day, 5 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Dispose the curved animation in transition test
     <sub>[#146961](https://github.com/flutter/flutter/pull/146961) merged on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146961) over 12 hours, 5 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make goldenFileComparator a field instead of a trivial property
-    <sub>[#146800](https://github.com/flutter/flutter/pull/146800) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146800) over 1 day, 1 addition and 5 deletions in 1 file</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#146851](https://github.com/flutter/flutter/pull/146851) merged on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146851) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
@@ -127,9 +131,9 @@
     <sub>[#146797](https://github.com/flutter/flutter/pull/146797) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146797) over 2 hours, 23 additions and 23 deletions in 11 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
-    <sub>[#146782](https://github.com/flutter/flutter/pull/146782) merged on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146782) over 1 hour, 4 additions and 4 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make goldenFileComparator a field instead of a trivial property
+    <sub>[#146800](https://github.com/flutter/flutter/pull/146800) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146800) over 1 day, 1 addition and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Assert that the goldenFileComparator is a LocalFileComparator
     <sub>[#146802](https://github.com/flutter/flutter/pull/146802) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146802) over 1 day, 15 additions and 0 deletions in 1 file</sub>
@@ -142,6 +146,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Rewrap some lines that are about to get much longer.
     <sub>[#146803](https://github.com/flutter/flutter/pull/146803) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146803) over 22 hours, 38 additions and 10 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#146782](https://github.com/flutter/flutter/pull/146782) merged on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146782) over 1 hour, 4 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Switch to relevant `Remote` constructors
     <sub>[#146773](https://github.com/flutter/flutter/pull/146773) merged on April 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146773) over 1 day, 15 additions and 51 deletions in 5 files</sub>
