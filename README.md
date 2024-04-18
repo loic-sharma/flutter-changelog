@@ -24,7 +24,7 @@
     <sub>Reviewed by: [Stephen Adams](https://github.com/rakudrama), [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [macOS] Migrate @NSApplicationMain attribute to @main<br />
-    <sub>[#146848](https://github.com/flutter/flutter/pull/146848) merged on April 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/146848) over 1 day, 162 additions and 16 deletions in 20 files</sub><br />
+    <sub>[#146848](https://github.com/flutter/flutter/pull/146848) merged on April 18, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/146848) over 1 day, 162 additions and 16 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump meta to 1.14.0<br />
