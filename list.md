@@ -1243,8 +1243,8 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Initial iOS Pigeon conversion
-    <sub>[#6553](https://github.com/flutter/packages/pull/6553) merged on April 17, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/6553) over 4 hours, 557 additions and 133 deletions in 15 files</sub>
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+    <sub>[#6553](https://github.com/flutter/packages/pull/6553) merged on April 17, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/6553) over 4 hours, 557 additions and 133 deletions in 15 files</sub>
+    <sub>Reviewed by: [emakar](https://github.com/emakar), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Remove iOS thread-safe result class
     <sub>[#6498](https://github.com/flutter/packages/pull/6498) merged on April 16, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/6498) over 6 days, 283 additions and 583 deletions in 28 files</sub>

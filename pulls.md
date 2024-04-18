@@ -83,3 +83,6 @@
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add focusNode and textEditingController parameters to Autocomplete - fixes #146994<br />
     <sub>[#146995](https://github.com/flutter/flutter/pull/146995) opened on on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146995) 47 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Changing the renderer on the web target should change its build key.<br />
+    <sub>[#147003](https://github.com/flutter/flutter/pull/147003) opened on on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147003) 63 additions and 0 deletions in 2 files</sub><br />
+
