@@ -74,9 +74,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for focus_node.0.dart API example.<br />
     <sub>[#146943](https://github.com/flutter/flutter/pull/146943) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146943) 193 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Try to be more consistent about deleting test apps in devicelab logic<br />
-    <sub>[#146952](https://github.com/flutter/flutter/pull/146952) opened on on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146952) 78 additions and 24 deletions in 22 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default goldenFileComparator.<br />
     <sub>[#146956](https://github.com/flutter/flutter/pull/146956) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146956) 37 additions and 33 deletions in 2 files</sub><br />
 
