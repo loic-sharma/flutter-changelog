@@ -1196,7 +1196,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-15 commits.
+16 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android<br />
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub><br />
@@ -1241,6 +1241,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [video_player] Calls `onDestroy` instead of `initialize` in onDetachedFromEngine<br />
     <sub>[#6501](https://github.com/flutter/packages/pull/6501) merged on April 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6501) over 4 days, 8 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add Linux desktop support to Linux custom_package_tests<br />
+    <sub>[#6551](https://github.com/flutter/packages/pull/6551) merged on April 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6551) over 16 hours, 5 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase] Add countryCode implementation to android and storekit<br />
     <sub>[#6556](https://github.com/flutter/packages/pull/6556) merged on April 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6556) over 3 hours, 73 additions and 5 deletions in 10 files</sub><br />
