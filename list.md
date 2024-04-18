@@ -579,21 +579,26 @@
 
 ### April 13, 2024 to April 19, 2024
 
-37 commits.
+38 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/90a6d70f-db22-4684-80f9-1cea3dc21ac5)</details></sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Off by default experimental canvas.
-    <sub>[#52035](https://github.com/flutter/engine/pull/52035) merged on April 17, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/52035) over 1 week, 778 additions and 228 deletions in 9 files</sub>
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Brandon DeRosier](https://github.com/bdero)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Wang's formula for quad/cubic subdivision.
     <sub>[#52079](https://github.com/flutter/engine/pull/52079) merged on April 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52079) over 3 days, 134 additions and 116 deletions in 8 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/engine/assets/8975114/8dc45012-3999-4598-ac3b-713e09d5a31f)![image](https://github.com/flutter/engine/assets/8975114/8a90636f-9698-46e6-bd3f-2f47c8abdbba)</details></sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix docs for SemanticsAction
+    <sub>[#52229](https://github.com/flutter/engine/pull/52229) merged on April 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52229) over 49 minutes, 5 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/1227763/201c1bed-b27b-40de-8abf-0c091fb20d3f)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Off by default experimental canvas.
+    <sub>[#52035](https://github.com/flutter/engine/pull/52035) merged on April 17, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/52035) over 1 week, 778 additions and 228 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove most temporary allocation during polyline generation.
     <sub>[#52131](https://github.com/flutter/engine/pull/52131) merged on April 16, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/52131) over 22 hours, 480 additions and 429 deletions in 14 files</sub>
@@ -612,13 +617,9 @@
     <sub>[#51494](https://github.com/flutter/engine/pull/51494) merged on April 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51494) over 1 month, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll reclient, libpng, and zlib
-    <sub>[#52072](https://github.com/flutter/engine/pull/52072) merged on April 16, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/52072) over 4 days, 464 additions and 14 deletions in 27 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] organize shaders a bit, make filter shaders use same vertex source.
-    <sub>[#52113](https://github.com/flutter/engine/pull/52113) merged on April 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/52113) over 1 day, 393 additions and 1283 deletions in 23 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterUIPressProxy, ios_context*, rendering_api_selection, and a few other files to ARC
+    <sub>[#51633](https://github.com/flutter/engine/pull/51633) merged on April 16, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/51633) over 3 weeks, 59 additions and 38 deletions in 12 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; DisplayList tracks maximum render op depths
     <sub>[#52070](https://github.com/flutter/engine/pull/52070) merged on April 17, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/52070) over 6 days, 617 additions and 444 deletions in 9 files</sub>
@@ -628,13 +629,17 @@
     <sub>[#52138](https://github.com/flutter/engine/pull/52138) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52138) over 1 day, 45 additions and 26 deletions in 7 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] organize shaders a bit, make filter shaders use same vertex source.
+    <sub>[#52113](https://github.com/flutter/engine/pull/52113) merged on April 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/52113) over 1 day, 393 additions and 1283 deletions in 23 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll reclient, libpng, and zlib
+    <sub>[#52072](https://github.com/flutter/engine/pull/52072) merged on April 16, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/52072) over 4 days, 464 additions and 14 deletions in 27 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterCallbackCache and FlutterKeyboardManager to ARC
     <sub>[#51983](https://github.com/flutter/engine/pull/51983) merged on April 15, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/engine/pull/51983) over 6 days, 50 additions and 138 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterUIPressProxy, ios_context*, rendering_api_selection, and a few other files to ARC
-    <sub>[#51633](https://github.com/flutter/engine/pull/51633) merged on April 16, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/51633) over 3 weeks, 59 additions and 38 deletions in 12 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] moved to bgra10_xr (#52019)"
     <sub>[#52140](https://github.com/flutter/engine/pull/52140) merged on April 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52140) over 1 minute, 34 additions and 76 deletions in 10 files</sub>
@@ -676,10 +681,6 @@
     <sub>[#52148](https://github.com/flutter/engine/pull/52148) merged on April 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52148) over 18 hours, 40 additions and 60 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll buildroot and set ios_use_simulator variable used by Skia GN scripts
-    <sub>[#52101](https://github.com/flutter/engine/pull/52101) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52101) over 2 days, 7 additions and 6 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenarios] test disabling surface clear.
     <sub>[#52128](https://github.com/flutter/engine/pull/52128) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52128) over 43 minutes, 6 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -704,9 +705,9 @@
     <sub>[#52069](https://github.com/flutter/engine/pull/52069) merged on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52069) over 4 days, 19 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub>
 
-* **[bungeman](https://github.com/bungeman)** &mdash; Update Skia's BUILD.gn
-    <sub>[#52194](https://github.com/flutter/engine/pull/52194) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52194) over 3 hours, 0 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Brian Osman](https://github.com/brianosman)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll buildroot and set ios_use_simulator variable used by Skia GN scripts
+    <sub>[#52101](https://github.com/flutter/engine/pull/52101) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52101) over 2 days, 7 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Alexander Markov](https://github.com/alexmarkov)** &mdash; Cleanup obsolete Dart VM flags
     <sub>[#52197](https://github.com/flutter/engine/pull/52197) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52197) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
@@ -727,6 +728,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use booleans instead of counting backdrop reads.
     <sub>[#52181](https://github.com/flutter/engine/pull/52181) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52181) over 18 hours, 18 additions and 20 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Update Skia's BUILD.gn
+    <sub>[#52194](https://github.com/flutter/engine/pull/52194) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52194) over 3 hours, 0 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Brian Osman](https://github.com/brianosman)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Relands "[Impeller] moved to bgra10_xr (#52019)"
     <sub>[#52142](https://github.com/flutter/engine/pull/52142) merged on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52142) over 1 hour, 78 additions and 35 deletions in 10 files</sub>
@@ -1243,7 +1248,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Initial iOS Pigeon conversion
-    <sub>[#6553](https://github.com/flutter/packages/pull/6553) merged on April 17, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/6553) over 4 hours, 557 additions and 133 deletions in 15 files</sub>
+    <sub>[#6553](https://github.com/flutter/packages/pull/6553) merged on April 17, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/6553) over 4 hours, 557 additions and 133 deletions in 15 files</sub>
     <sub>Reviewed by: [emakar](https://github.com/emakar), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Remove iOS thread-safe result class
