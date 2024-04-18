@@ -83,3 +83,6 @@
 * **[Tim Maffett](https://github.com/timmaffett)** &mdash; add focusNode and textEditingController parameters to Autocomplete - fixes #146994<br />
     <sub>[#146995](https://github.com/flutter/flutter/pull/146995) opened on on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146995) 47 additions and 1 deletion in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `CupertinoPageTransition`<br />
+    <sub>[#146999](https://github.com/flutter/flutter/pull/146999) opened on on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146999) 90 additions and 37 deletions in 2 files</sub><br />
+
