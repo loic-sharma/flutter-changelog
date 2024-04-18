@@ -27,7 +27,7 @@
     <sub>[#146386](https://github.com/flutter/flutter/pull/146386) merged on April 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146386) over 1 week, 88 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Jesse](https://github.com/sealesj)** &mdash; Create web tests suite & runner_utils
+* **[Jesse](https://github.com/sealesj)** &mdash; Create web tests suite & update utils
     <sub>[#146592](https://github.com/flutter/flutter/pull/146592) merged on April 17, 2024 &mdash; **Extra large:** [19 comments](https://github.com/flutter/flutter/pull/146592) over 1 week, 1162 additions and 1141 deletions in 6 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
