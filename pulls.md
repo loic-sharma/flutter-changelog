@@ -83,3 +83,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `MaterialBanner`<br />
     <sub>[#146963](https://github.com/flutter/flutter/pull/146963) opened on on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146963) 31 additions and 8 deletions in 2 files</sub><br />
 
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Update link branches to `main` (continued)<br />
+    <sub>[#146985](https://github.com/flutter/flutter/pull/146985) opened on on April 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146985) 54 additions and 27 deletions in 7 files</sub><br />
+
