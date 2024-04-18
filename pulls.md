@@ -80,3 +80,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default goldenFileComparator.<br />
     <sub>[#146956](https://github.com/flutter/flutter/pull/146956) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146956) 37 additions and 33 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `MaterialBanner`<br />
+    <sub>[#146963](https://github.com/flutter/flutter/pull/146963) opened on on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146963) 31 additions and 8 deletions in 2 files</sub><br />
+
