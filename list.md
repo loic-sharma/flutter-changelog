@@ -1250,7 +1250,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-16 commits.
+17 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub>
@@ -1295,6 +1295,10 @@
 * **[Rulong Chen（陈汝龙）](https://github.com/0xZOne)** &mdash; [video_player] Calls `onDestroy` instead of `initialize` in onDetachedFromEngine
     <sub>[#6501](https://github.com/flutter/packages/pull/6501) merged on April 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6501) over 4 days, 8 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add more dev dependency checks, and fix errors
+    <sub>[#6563](https://github.com/flutter/packages/pull/6563) merged on April 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6563) over 8 hours, 94 additions and 56 deletions in 4 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add Linux desktop support to Linux custom_package_tests
     <sub>[#6551](https://github.com/flutter/packages/pull/6551) merged on April 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6551) over 16 hours, 5 additions and 1 deletion in 1 file</sub>
