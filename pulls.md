@@ -83,3 +83,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Opt out users from GA3 if opted out of GA4<br />
     <sub>[#147060](https://github.com/flutter/flutter/pull/147060) opened on on April 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147060) 98 additions and 4 deletions in 4 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Kostiantyn Sokolovskyi to the AUTHORS.<br />
+    <sub>[#147065](https://github.com/flutter/flutter/pull/147065) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147065) 1 addition and 0 deletions in 1 file</sub><br />
+
