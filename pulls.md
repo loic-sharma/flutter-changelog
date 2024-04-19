@@ -80,3 +80,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Kostiantyn Sokolovskyi to the AUTHORS.<br />
     <sub>[#147065](https://github.com/flutter/flutter/pull/147065) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147065) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed few typos<br />
+    <sub>[#147087](https://github.com/flutter/flutter/pull/147087) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147087) 64 additions and 64 deletions in 25 files</sub><br />
+
