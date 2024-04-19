@@ -71,3 +71,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#147030](https://github.com/flutter/flutter/pull/147030) opened on on April 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147030) 2 additions and 30 deletions in 1 file</sub><br />
 
+* **[Jago](https://github.com/jagomf)** &mdash; [material] Fix info text<br />
+    <sub>[#147040](https://github.com/flutter/flutter/pull/147040) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147040) 1 addition and 1 deletion in 1 file</sub><br />
+
