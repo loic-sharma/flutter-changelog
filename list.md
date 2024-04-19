@@ -1282,7 +1282,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-17 commits.
+18 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub>
@@ -1303,6 +1303,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] Refactor Spans for common use
     <sub>[#6550](https://github.com/flutter/packages/pull/6550) merged on April 17, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/6550) over 1 day, 724 additions and 426 deletions in 8 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Kurogoma4D](https://github.com/Kurogoma4D)** &mdash; [flutter_markdown] Ensure customize nested bullet list style.
+    <sub>[#6384](https://github.com/flutter/packages/pull/6384) merged on April 19, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/6384) over 3 weeks, 186 additions and 6 deletions in 7 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Initial iOS Pigeon conversion
     <sub>[#6553](https://github.com/flutter/packages/pull/6553) merged on April 17, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/6553) over 4 hours, 557 additions and 133 deletions in 15 files</sub>
