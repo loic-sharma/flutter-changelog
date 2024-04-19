@@ -643,7 +643,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-47 commits.
+49 commits.
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] remove most temporary allocation during polyline generation. (#52131)"<br />
     <sub>[#52177](https://github.com/flutter/engine/pull/52177) merged on April 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52177) over 1 minute, 429 additions and 480 deletions in 14 files</sub><br />
@@ -673,6 +673,10 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
     <sub><details><summary>2 images...</summary>![rebase](https://github.com/flutter/engine/assets/682784/db7279c7-ca27-4ccf-9f6b-f9c4ad10c20a)![Screenshot 2024-04-15 at 2 06 24 PM](https://github.com/flutter/engine/assets/682784/bc80a6bc-9fd9-447f-b060-18f3a5b05775)</details></sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove most temporary allocation during polyline generation.<br />
+    <sub>[#52131](https://github.com/flutter/engine/pull/52131) merged on April 16, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/52131) over 22 hours, 480 additions and 429 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use the new DisplayList depth info in the experimental canvas prototype<br />
     <sub>[#52214](https://github.com/flutter/engine/pull/52214) merged on April 19, 2024 &mdash; **Medium:** [24 comments](https://github.com/flutter/engine/pull/52214) over 1 day, 387 additions and 103 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -682,10 +686,6 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![pipeline-seq](https://github.com/flutter/engine/assets/30870216/b70d84fb-2e8e-4d08-a404-ae1434ad03da)</details></sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove most temporary allocation during polyline generation.<br />
-    <sub>[#52131](https://github.com/flutter/engine/pull/52131) merged on April 16, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/52131) over 22 hours, 480 additions and 429 deletions in 14 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Replace LinkedLists that are used as a queue in android FlutterRenderer with ArrayDeques<br />
     <sub>[#51494](https://github.com/flutter/engine/pull/51494) merged on April 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/51494) over 1 month, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
@@ -694,25 +694,25 @@
     <sub>[#52227](https://github.com/flutter/engine/pull/52227) merged on April 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52227) over 2 hours, 2 additions and 8 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] organize shaders a bit, make filter shaders use same vertex source.<br />
-    <sub>[#52113](https://github.com/flutter/engine/pull/52113) merged on April 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/52113) over 1 day, 393 additions and 1283 deletions in 23 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterUIPressProxy, ios_context*, rendering_api_selection, and a few other files to ARC<br />
     <sub>[#51633](https://github.com/flutter/engine/pull/51633) merged on April 16, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/51633) over 3 weeks, 59 additions and 38 deletions in 12 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] organize texture shaders / delete blend.frag + external_texture_fill<br />
-    <sub>[#52137](https://github.com/flutter/engine/pull/52137) merged on April 19, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/52137) over 3 days, 254 additions and 945 deletions in 19 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] move AccessibilityAnnouncements into SemanticsOwner<br />
     <sub>[#52138](https://github.com/flutter/engine/pull/52138) merged on April 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52138) over 1 day, 45 additions and 26 deletions in 7 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] organize texture shaders / delete blend.frag + external_texture_fill<br />
+    <sub>[#52137](https://github.com/flutter/engine/pull/52137) merged on April 19, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/52137) over 3 days, 254 additions and 945 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll reclient, libpng, and zlib<br />
     <sub>[#52072](https://github.com/flutter/engine/pull/52072) merged on April 16, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/52072) over 4 days, 464 additions and 14 deletions in 27 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] organize shaders a bit, make filter shaders use same vertex source.<br />
+    <sub>[#52113](https://github.com/flutter/engine/pull/52113) merged on April 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/52113) over 1 day, 393 additions and 1283 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; DisplayList tracks maximum render op depths<br />
     <sub>[#52070](https://github.com/flutter/engine/pull/52070) merged on April 17, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/52070) over 6 days, 617 additions and 444 deletions in 9 files</sub><br />
@@ -762,9 +762,17 @@
     <sub>[#52164](https://github.com/flutter/engine/pull/52164) merged on April 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52164) over 23 hours, 70 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Tong Mu](https://github.com/dkwingsmt), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] removes advanced plus blending<br />
+    <sub>[#52163](https://github.com/flutter/engine/pull/52163) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52163) over 2 hours, 65 additions and 180 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate vsync_waiter_ios to ARC<br />
     <sub>[#52104](https://github.com/flutter/engine/pull/52104) merged on April 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/52104) over 2 days, 70 additions and 71 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update the readme to reflect current guidance on how to try Impeller.<br />
+    <sub>[#52135](https://github.com/flutter/engine/pull/52135) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52135) over 2 hours, 24 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll buildroot and set ios_use_simulator variable used by Skia GN scripts<br />
     <sub>[#52101](https://github.com/flutter/engine/pull/52101) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52101) over 2 days, 7 additions and 6 deletions in 2 files</sub><br />
@@ -774,18 +782,6 @@
     <sub>[#52128](https://github.com/flutter/engine/pull/52128) merged on April 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52128) over 43 minutes, 6 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] allow enabling asserts from Plist.<br />
-    <sub>[#52069](https://github.com/flutter/engine/pull/52069) merged on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52069) over 4 days, 19 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] FlutterSurfaceManager should not return surfaces that are in use<br />
-    <sub>[#52082](https://github.com/flutter/engine/pull/52082) merged on April 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52082) over 4 days, 108 additions and 13 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] FlutterView should not override platform view cursor<br />
-    <sub>[#52159](https://github.com/flutter/engine/pull/52159) merged on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52159) over 21 hours, 126 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterChannelKeyResponder and FlutterSpellCheckPlugin to ARC<br />
     <sub>[#52148](https://github.com/flutter/engine/pull/52148) merged on April 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52148) over 18 hours, 40 additions and 60 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
@@ -794,21 +790,33 @@
     <sub>[#52081](https://github.com/flutter/engine/pull/52081) merged on April 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52081) over 3 days, 19 additions and 23 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] FlutterSurfaceManager should not return surfaces that are in use<br />
+    <sub>[#52082](https://github.com/flutter/engine/pull/52082) merged on April 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52082) over 4 days, 108 additions and 13 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] allow enabling asserts from Plist.<br />
+    <sub>[#52069](https://github.com/flutter/engine/pull/52069) merged on April 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52069) over 4 days, 19 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add non-emulated advanced blend support to experimental canvas<br />
+    <sub>[#52245](https://github.com/flutter/engine/pull/52245) merged on April 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52245) over 17 hours, 33 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] FlutterView should not override platform view cursor<br />
+    <sub>[#52159](https://github.com/flutter/engine/pull/52159) merged on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52159) over 21 hours, 126 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Handle reparenting platform views<br />
     <sub>[#52152](https://github.com/flutter/engine/pull/52152) merged on April 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52152) over 1 day, 34 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update the readme to reflect current guidance on how to try Impeller.<br />
-    <sub>[#52135](https://github.com/flutter/engine/pull/52135) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52135) over 2 hours, 24 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] removes advanced plus blending<br />
-    <sub>[#52163](https://github.com/flutter/engine/pull/52163) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52163) over 2 hours, 65 additions and 180 deletions in 19 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Alexander Markov](https://github.com/alexmarkov)** &mdash; Cleanup obsolete Dart VM flags<br />
     <sub>[#52197](https://github.com/flutter/engine/pull/52197) merged on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52197) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [macOS] Consolidate view management<br />
+    <sub>[#52254](https://github.com/flutter/engine/pull/52254) merged on April 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52254) over 13 hours, 32 additions and 35 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Brian Quinlan](https://github.com/brianquinlan)** &mdash; Add a dependency on `package:web_socket` in pkg_demo_test<br />
     <sub>[#52239](https://github.com/flutter/engine/pull/52239) merged on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52239) over 2 hours, 2 additions and 0 deletions in 1 file</sub><br />
