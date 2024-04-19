@@ -48,7 +48,7 @@
     <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
 
 * **[淡泊明志](https://github.com/YueLiXing)** &mdash; use hard link，Optimized directory display in xcode.<br />
-    <sub>[#146396](https://github.com/flutter/flutter/pull/146396) opened on on April 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146396) 11 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#146396](https://github.com/flutter/flutter/pull/146396) opened on on April 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146396) 11 additions and 1 deletion in 1 file</sub><br />
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Check active entries on parent navigator for `hasActiveRouteBelow`<br />
     <sub>[#146428](https://github.com/flutter/flutter/pull/146428) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146428) 74 additions and 0 deletions in 2 files</sub><br />
@@ -81,5 +81,5 @@
     <sub>[#147054](https://github.com/flutter/flutter/pull/147054) opened on on April 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147054) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Opt out users from GA3 if opted out of GA4<br />
-    <sub>[#147060](https://github.com/flutter/flutter/pull/147060) opened on on April 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147060) 98 additions and 4 deletions in 4 files</sub><br />
+    <sub>[#147060](https://github.com/flutter/flutter/pull/147060) opened on on April 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147060) 98 additions and 4 deletions in 4 files</sub><br />
 
