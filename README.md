@@ -136,7 +136,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_padding.0.dart API example.<br />
-    <sub>[#146718](https://github.com/flutter/flutter/pull/146718) merged on April 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/146718) over 6 days, 50 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#146718](https://github.com/flutter/flutter/pull/146718) merged on April 19, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146718) over 6 days, 50 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Rewrap some lines that are about to get much longer.<br />
@@ -156,7 +156,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for dismissible.0.dart API example.<br />
-    <sub>[#146723](https://github.com/flutter/flutter/pull/146723) merged on April 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/146723) over 6 days, 81 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#146723](https://github.com/flutter/flutter/pull/146723) merged on April 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/146723) over 6 days, 81 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Clean up flutterRoot<br />
