@@ -1290,7 +1290,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-19 commits.
+20 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub>
@@ -1367,6 +1367,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CupertinoIcons] fix broken icons and vertical alignment, bump the version to 1.08
     <sub>[#6520](https://github.com/flutter/packages/pull/6520) merged on April 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6520) over 1 day, 4 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 300451adae58 to 54e66469a933 (1 revision)
+    <sub>[#6575](https://github.com/flutter/packages/pull/6575) merged on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6575) over 48 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### April 6, 2024 to April 12, 2024
 
