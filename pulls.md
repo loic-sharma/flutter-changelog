@@ -77,9 +77,3 @@
 * **[Kane Wickman](https://github.com/k-ane)** &mdash; Fix paintOrigin for RenderSliverFloatingPersistentHeader<br />
     <sub>[#147054](https://github.com/flutter/flutter/pull/147054) opened on on April 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147054) 6 additions and 1 deletion in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Kostiantyn Sokolovskyi to the AUTHORS.<br />
-    <sub>[#147065](https://github.com/flutter/flutter/pull/147065) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147065) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed few typos<br />
-    <sub>[#147087](https://github.com/flutter/flutter/pull/147087) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147087) 64 additions and 64 deletions in 25 files</sub><br />
-
