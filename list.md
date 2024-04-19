@@ -1326,7 +1326,7 @@
 
 ### April 13, 2024 to April 19, 2024
 
-20 commits.
+21 commits.
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub>
@@ -1367,6 +1367,10 @@
 * **[Michael McGuiness](https://github.com/mike-v2)** &mdash; [image_picker] Adopt code excerpts in README
     <sub>[#5523](https://github.com/flutter/packages/pull/5523) merged on April 15, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/5523) over 4 months, 110 additions and 9 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Dawid Wenderski](https://github.com/dawidope)** &mdash; [flutter_markdown] Custom fontfeature superscript
+    <sub>[#5874](https://github.com/flutter/packages/pull/5874) merged on April 19, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5874) over 3 months, 50 additions and 2 deletions in 5 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase] Add api to expose country code
     <sub>[#6540](https://github.com/flutter/packages/pull/6540) merged on April 17, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/6540) over 2 days, 38 additions and 7 deletions in 4 files</sub>
