@@ -47,9 +47,6 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
     <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
 
-* **[淡泊明志](https://github.com/YueLiXing)** &mdash; use hard link，Optimized directory display in xcode.<br />
-    <sub>[#146396](https://github.com/flutter/flutter/pull/146396) opened on on April 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146396) 11 additions and 1 deletion in 1 file</sub><br />
-
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Check active entries on parent navigator for `hasActiveRouteBelow`<br />
     <sub>[#146428](https://github.com/flutter/flutter/pull/146428) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146428) 74 additions and 0 deletions in 2 files</sub><br />
 
@@ -85,4 +82,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add Kostiantyn Sokolovskyi to the AUTHORS.<br />
     <sub>[#147065](https://github.com/flutter/flutter/pull/147065) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147065) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Make `_SelectableRegionSelectionContainerDelegate` public<br />
+    <sub>[#147080](https://github.com/flutter/flutter/pull/147080) opened on on April 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147080) 13 additions and 2 deletions in 1 file</sub><br />
 
