@@ -74,3 +74,6 @@
 * **[Jago](https://github.com/jagomf)** &mdash; [material] Fix info text<br />
     <sub>[#147040](https://github.com/flutter/flutter/pull/147040) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147040) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add Amir Panahandeh to AUTHORS<br />
+    <sub>[#147052](https://github.com/flutter/flutter/pull/147052) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147052) 1 addition and 0 deletions in 1 file</sub><br />
+
