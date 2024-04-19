@@ -74,3 +74,6 @@
 * **[Jago](https://github.com/jagomf)** &mdash; [material] Fix info text<br />
     <sub>[#147040](https://github.com/flutter/flutter/pull/147040) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147040) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Mention visualDensity impact on ButtonStyle.padding documentation<br />
+    <sub>[#147048](https://github.com/flutter/flutter/pull/147048) opened on on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147048) 19 additions and 0 deletions in 1 file</sub><br />
+
