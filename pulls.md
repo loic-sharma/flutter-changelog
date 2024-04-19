@@ -54,7 +54,7 @@
     <sub>[#146428](https://github.com/flutter/flutter/pull/146428) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146428) 74 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor android preview tool integration tests<br />
-    <sub>[#146518](https://github.com/flutter/flutter/pull/146518) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146518) 25 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#146518](https://github.com/flutter/flutter/pull/146518) opened on on April 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146518) 27 additions and 15 deletions in 2 files</sub><br />
 
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
