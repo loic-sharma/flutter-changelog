@@ -81,5 +81,5 @@
     <sub>[#147054](https://github.com/flutter/flutter/pull/147054) opened on on April 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147054) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Replace CocoaPods deprecated `exists?` with `exist?`<br />
-    <sub>[#147056](https://github.com/flutter/flutter/pull/147056) opened on on April 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147056) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#147056](https://github.com/flutter/flutter/pull/147056) opened on on April 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147056) 2 additions and 2 deletions in 1 file</sub><br />
 
