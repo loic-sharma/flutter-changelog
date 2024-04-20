@@ -80,6 +80,6 @@
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Add support for overriding `reverseCurve` with `ExpansionTile.expansionAnimationStyle`<br />
     <sub>[#147103](https://github.com/flutter/flutter/pull/147103) opened on on April 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147103) 31 additions and 6 deletions in 2 files</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; some gesture not getting disposed<br />
-    <sub>[#147112](https://github.com/flutter/flutter/pull/147112) opened on on April 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147112) 6 additions and 0 deletions in 1 file</sub><br />
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes some gesture not getting disposed<br />
+    <sub>[#147112](https://github.com/flutter/flutter/pull/147112) opened on on April 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147112) 9 additions and 0 deletions in 2 files</sub><br />
 
