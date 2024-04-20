@@ -164,7 +164,7 @@
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for gesture_detector.0.dart and gesture_detector.1.dart API examples.
-    <sub>[#146724](https://github.com/flutter/flutter/pull/146724) merged on April 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146724) over 6 days, 92 additions and 2 deletions in 3 files</sub>
+    <sub>[#146724](https://github.com/flutter/flutter/pull/146724) merged on April 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146724) over 6 days, 92 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Clean up flutterRoot
