@@ -71,3 +71,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#147094](https://github.com/flutter/flutter/pull/147094) opened on on April 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147094) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix ExpandIcon color when ExpansionPanel.canTapOnHeader true (#147097)<br />
+    <sub>[#147098](https://github.com/flutter/flutter/pull/147098) opened on on April 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147098) 1 addition and 1 deletion in 1 file</sub><br />
+
