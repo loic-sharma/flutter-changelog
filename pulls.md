@@ -80,3 +80,6 @@
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Add support for overriding `reverseCurve` with `ExpansionTile.expansionAnimationStyle`<br />
     <sub>[#147103](https://github.com/flutter/flutter/pull/147103) opened on on April 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147103) 31 additions and 6 deletions in 2 files</sub><br />
 
+* **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Make ExpansionPanel support custom splash color<br />
+    <sub>[#147126](https://github.com/flutter/flutter/pull/147126) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147126) 15 additions and 0 deletions in 2 files</sub><br />
+
