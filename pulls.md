@@ -83,3 +83,6 @@
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Add support for ExpansionPanel custom splash color<br />
     <sub>[#147126](https://github.com/flutter/flutter/pull/147126) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147126) 16 additions and 0 deletions in 2 files</sub><br />
 
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes cupertino page transition leak<br />
+    <sub>[#147133](https://github.com/flutter/flutter/pull/147133) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147133) 81 additions and 32 deletions in 1 file</sub><br />
+
