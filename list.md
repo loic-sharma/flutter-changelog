@@ -465,14 +465,14 @@
 
 ### April 20, 2024 to April 26, 2024
 
-7 commits.
+8 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] skip lineTo for empty contours.
-    <sub>[#52290](https://github.com/flutter/engine/pull/52290) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52290) over 1 day, 70 additions and 11 deletions in 4 files</sub>
+    <sub>[#52290](https://github.com/flutter/engine/pull/52290) merged on April 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52290) over 1 day, 70 additions and 11 deletions in 4 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add configuration for maximum canvases
@@ -482,6 +482,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Refactor and migrate FlutterUndoManagerPlugin to ARC
     <sub>[#52234](https://github.com/flutter/engine/pull/52234) merged on April 22, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/52234) over 3 days, 134 additions and 124 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fail `run_impeller_golden_tests` if `LUCI_CONTEXT && !GOLDCTL`
+    <sub>[#52300](https://github.com/flutter/engine/pull/52300) merged on April 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52300) over 4 hours, 28 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Break dependency cycle of FlutterViewController <-> FlutterPlatformView
     <sub>[#52271](https://github.com/flutter/engine/pull/52271) merged on April 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52271) over 2 days, 52 additions and 69 deletions in 11 files</sub>
@@ -630,7 +634,7 @@
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Fix path canonicalization
-    <sub>[#52274](https://github.com/flutter/engine/pull/52274) merged on April 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52274) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>[#52274](https://github.com/flutter/engine/pull/52274) merged on April 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52274) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add non-emulated advanced blend support to experimental canvas
@@ -638,8 +642,8 @@
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Simplify path canonicalisation logic
-    <sub>[#52275](https://github.com/flutter/engine/pull/52275) merged on April 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52275) over 4 hours, 12 additions and 18 deletions in 1 file</sub>
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+    <sub>[#52275](https://github.com/flutter/engine/pull/52275) merged on April 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52275) over 4 hours, 12 additions and 18 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll buildroot and set ios_use_simulator variable used by Skia GN scripts
     <sub>[#52101](https://github.com/flutter/engine/pull/52101) merged on April 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52101) over 2 days, 7 additions and 6 deletions in 2 files</sub>
