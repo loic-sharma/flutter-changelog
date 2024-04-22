@@ -453,7 +453,11 @@
 
 ### April 20, 2024 to April 26, 2024
 
-2 commits.
+3 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add configuration for maximum canvases
+    <sub>[#51735](https://github.com/flutter/engine/pull/51735) merged on April 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51735) over 3 weeks, 91 additions and 6 deletions in 5 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Refactor and migrate FlutterUndoManagerPlugin to ARC
     <sub>[#52234](https://github.com/flutter/engine/pull/52234) merged on April 22, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/52234) over 3 days, 134 additions and 124 deletions in 6 files</sub>
