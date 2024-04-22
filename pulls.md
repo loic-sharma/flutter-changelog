@@ -86,3 +86,6 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoFullscreenDialogTransition` leaks<br />
     <sub>[#147168](https://github.com/flutter/flutter/pull/147168) opened on on April 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147168) 74 additions and 23 deletions in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `PopupMenu`<br />
+    <sub>[#147174](https://github.com/flutter/flutter/pull/147174) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147174) 77 additions and 27 deletions in 2 files</sub><br />
+
