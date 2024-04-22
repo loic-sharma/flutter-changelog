@@ -538,7 +538,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] organize texture shaders / delete blend.frag + external_texture_fill
-    <sub>[#52137](https://github.com/flutter/engine/pull/52137) merged on April 19, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/52137) over 3 days, 254 additions and 945 deletions in 19 files</sub>
+    <sub>[#52137](https://github.com/flutter/engine/pull/52137) merged on April 19, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/52137) over 3 days, 254 additions and 945 deletions in 19 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; DisplayList tracks maximum render op depths
