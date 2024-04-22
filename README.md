@@ -888,9 +888,18 @@
 
 ## flutter/packages
 
+### April 20, 2024 to April 26, 2024
+
+1 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [pointer_interceptor_web] Remove semantic tests.<br />
+    <sub>[#6580](https://github.com/flutter/packages/pull/6580) merged on April 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6580) over 2 days, 0 additions and 62 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
 ### April 13, 2024 to April 19, 2024
 
-21 commits.
+<details>
+<summary>21 commits...</summary>
 
 * **[Piotr Denert](https://github.com/pdenert)** &mdash; [image_picker] Add limit parameter to pickMultiImage and pickMultipleMedia to ios and Android<br />
     <sub>[#6201](https://github.com/flutter/packages/pull/6201) merged on April 16, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/packages/pull/6201) over 1 month, 1111 additions and 366 deletions in 35 files</sub><br />
@@ -975,6 +984,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 300451adae58 to 54e66469a933 (1 revision)<br />
     <sub>[#6575](https://github.com/flutter/packages/pull/6575) merged on April 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6575) over 48 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### April 6, 2024 to April 12, 2024
 
