@@ -83,3 +83,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `PopupMenu`<br />
     <sub>[#147174](https://github.com/flutter/flutter/pull/147174) opened on on April 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147174) 77 additions and 27 deletions in 2 files</sub><br />
 
+* **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; Fix frozen `StretchingOverscrollIndicator` animation<br />
+    <sub>[#147195](https://github.com/flutter/flutter/pull/147195) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147195) 75 additions and 2 deletions in 2 files</sub><br />
+
