@@ -86,6 +86,3 @@
 * **[Pearl Null](https://github.com/asyncmeow)** &mdash; Fix Flutter project builds under Nix environments on MacOS<br />
     <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147144) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Use kernel concatenation<br />
-    <sub>[#147158](https://github.com/flutter/flutter/pull/147158) opened on on April 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/147158) 234 additions and 99 deletions in 4 files</sub><br />
-
