@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 20, 2024 to April 26, 2024
+
+1 commits.
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Reland "Expose build mode in environment of asset transformer processes"
+    <sub>[#144958](https://github.com/flutter/flutter/pull/144958) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144958) over 1 month, 86 additions and 11 deletions in 18 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 ### April 13, 2024 to April 19, 2024
 
-63 commits.
+<details>
+<summary>63 commits...</summary>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add Swift Package Manager as new opt-in feature for iOS and macOS
     <sub>[#146256](https://github.com/flutter/flutter/pull/146256) merged on April 18, 2024 &mdash; **Extra large:** [57 comments](https://github.com/flutter/flutter/pull/146256) over 2 weeks, 10015 additions and 137 deletions in 56 files</sub>
@@ -258,6 +267,8 @@
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; Reland: Update link branches to `main`
     <sub>[#146882](https://github.com/flutter/flutter/pull/146882) merged on April 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146882) over 1 hour, 120 additions and 55 deletions in 42 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+</details>
 
 ### April 6, 2024 to April 12, 2024
 
