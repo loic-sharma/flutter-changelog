@@ -472,8 +472,8 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] skip lineTo for empty contours.
-    <sub>[#52290](https://github.com/flutter/engine/pull/52290) merged on April 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52290) over 1 day, 70 additions and 11 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>[#52290](https://github.com/flutter/engine/pull/52290) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52290) over 1 day, 70 additions and 11 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add configuration for maximum canvases
     <sub>[#51735](https://github.com/flutter/engine/pull/51735) merged on April 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51735) over 3 weeks, 91 additions and 6 deletions in 5 files</sub>
@@ -524,8 +524,8 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Only print "gclient sync" warning once during rebase
-    <sub>[#52133](https://github.com/flutter/engine/pull/52133) merged on April 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52133) over 20 hours, 3 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>[#52133](https://github.com/flutter/engine/pull/52133) merged on April 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52133) over 20 hours, 3 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Loïc Sharma](https://github.com/loic-sharma)</sub>
     <sub><details><summary>2 images...</summary>![rebase](https://github.com/flutter/engine/assets/682784/db7279c7-ca27-4ccf-9f6b-f9c4ad10c20a)![Screenshot 2024-04-15 at 2 06 24 PM](https://github.com/flutter/engine/assets/682784/bc80a6bc-9fd9-447f-b060-18f3a5b05775)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove most temporary allocation during polyline generation.
