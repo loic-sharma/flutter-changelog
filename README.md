@@ -918,11 +918,15 @@
 
 ### April 20, 2024 to April 26, 2024
 
-1 commits.
+2 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [pointer_interceptor_web] Remove semantic tests.<br />
     <sub>[#6580](https://github.com/flutter/packages/pull/6580) merged on April 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6580) over 2 days, 0 additions and 62 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [image_picker] Fix If imageToScale is nil, the app will crash (#146682)<br />
+    <sub>[#6514](https://github.com/flutter/packages/pull/6514) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6514) over 1 week, 28 additions and 1 deletion in 4 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### April 13, 2024 to April 19, 2024
 
