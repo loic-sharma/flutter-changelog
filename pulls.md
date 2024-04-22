@@ -65,9 +65,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default goldenFileComparator.<br />
     <sub>[#146956](https://github.com/flutter/flutter/pull/146956) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146956) 37 additions and 33 deletions in 2 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#147094](https://github.com/flutter/flutter/pull/147094) opened on on April 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147094) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix ExpandIcon color when ExpansionPanel.canTapOnHeader true (#147097)<br />
     <sub>[#147098](https://github.com/flutter/flutter/pull/147098) opened on on April 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147098) 9 additions and 7 deletions in 1 file</sub><br />
 
