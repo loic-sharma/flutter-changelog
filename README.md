@@ -614,7 +614,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: remove most temporary allocation during polyline generation.<br />
-    <sub>[#52180](https://github.com/flutter/engine/pull/52180) merged on April 18, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/52180) over 1 day, 513 additions and 429 deletions in 14 files</sub><br />
+    <sub>[#52180](https://github.com/flutter/engine/pull/52180) merged on April 18, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/52180) over 1 day, 513 additions and 429 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix CkBrowserImageDecoder conversion of images to ImageByteFormat.rawRgba and rawStraightRgba<br />
