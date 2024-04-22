@@ -80,6 +80,3 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoFullscreenDialogTransition` leaks<br />
     <sub>[#147168](https://github.com/flutter/flutter/pull/147168) opened on on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147168) 74 additions and 23 deletions in 1 file</sub><br />
 
-* **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; Fix frozen `StretchingOverscrollIndicator` animation<br />
-    <sub>[#147195](https://github.com/flutter/flutter/pull/147195) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147195) 75 additions and 2 deletions in 2 files</sub><br />
-
