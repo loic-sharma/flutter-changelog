@@ -465,11 +465,15 @@
 
 ### April 20, 2024 to April 26, 2024
 
-6 commits.
+7 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.<br />
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] skip lineTo for empty contours.<br />
+    <sub>[#52290](https://github.com/flutter/engine/pull/52290) merged on April 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52290) over 1 day, 70 additions and 11 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add configuration for maximum canvases<br />
     <sub>[#51735](https://github.com/flutter/engine/pull/51735) merged on April 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51735) over 3 weeks, 91 additions and 6 deletions in 5 files</sub><br />
