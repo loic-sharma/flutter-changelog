@@ -4,7 +4,11 @@
 
 ### April 20, 2024 to April 26, 2024
 
-4 commits.
+5 commits.
+
+* **[Lam Thanh Nhan](https://github.com/lamnhan066)** &mdash; Update `examples/api` for android platform<br />
+    <sub>[#147102](https://github.com/flutter/flutter/pull/147102) merged on April 22, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/147102) over 2 days, 3 additions and 1446 deletions in 56 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; print traces when transforming an asset<br />
     <sub>[#146374](https://github.com/flutter/flutter/pull/146374) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146374) over 2 weeks, 15 additions and 0 deletions in 4 files</sub><br />
