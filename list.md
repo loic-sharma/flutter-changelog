@@ -883,7 +883,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Kurogoma4D](https://github.com/Kurogoma4D)** &mdash; [flutter_markdown] Ensure customize nested bullet list style.
-    <sub>[#6384](https://github.com/flutter/packages/pull/6384) merged on April 19, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/6384) over 3 weeks, 186 additions and 6 deletions in 7 files</sub>
+    <sub>[#6384](https://github.com/flutter/packages/pull/6384) merged on April 19, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/6384) over 3 weeks, 186 additions and 6 deletions in 7 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Initial iOS Pigeon conversion
