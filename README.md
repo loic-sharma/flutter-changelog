@@ -497,7 +497,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-13 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.<br />
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub><br />
@@ -518,6 +518,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Refactor and migrate FlutterUndoManagerPlugin to ARC<br />
     <sub>[#52234](https://github.com/flutter/engine/pull/52234) merged on April 22, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/52234) over 3 days, 134 additions and 124 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[John O'Neil](https://github.com/johnoneil)** &mdash; Issue #146080 : Fix for incorrect STB based atlas glyph scaling<br />
+    <sub>[#51882](https://github.com/flutter/engine/pull/51882) merged on April 23, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/51882) over 2 weeks, 7 additions and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not call std::forward on the serialized arguments in the canvas recorder<br />
     <sub>[#52307](https://github.com/flutter/engine/pull/52307) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52307) over 18 hours, 13 additions and 5 deletions in 2 files</sub><br />
