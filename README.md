@@ -173,7 +173,7 @@
     <sub>[#146707](https://github.com/flutter/flutter/pull/146707) merged on April 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/146707) over 3 days, 173 additions and 20 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Opt out users from GA3 if opted out of GA4<br />
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Send event to GA3 for telemetry status mismatches between GA3 and GA4<br />
     <sub>[#146453](https://github.com/flutter/flutter/pull/146453) merged on April 19, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/146453) over 1 week, 98 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
