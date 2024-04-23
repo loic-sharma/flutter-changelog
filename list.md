@@ -43,7 +43,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_positioned.0.dart API example.
-    <sub>[#146720](https://github.com/flutter/flutter/pull/146720) merged on April 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146720) over 1 week, 111 additions and 6 deletions in 3 files</sub>
+    <sub>[#146720](https://github.com/flutter/flutter/pull/146720) merged on April 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/146720) over 1 week, 111 additions and 6 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages

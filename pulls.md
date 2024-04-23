@@ -44,7 +44,7 @@
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jesse](https://github.com/sealesj)** &mdash; Refactor framework tests<br />
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor framework + test harness tests<br />
     <sub>[#146213](https://github.com/flutter/flutter/pull/146213) opened on on April 3, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/146213) 504 additions and 490 deletions in 6 files</sub><br />
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor tool tests<br />
