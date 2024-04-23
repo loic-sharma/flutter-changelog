@@ -4,7 +4,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-21 commits.
+22 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips delete icon override the default icon size and ignores `IconTheme` from the chip property and `ChipThemeData`
     <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub>
@@ -54,6 +54,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; print traces when transforming an asset
     <sub>[#146374](https://github.com/flutter/flutter/pull/146374) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146374) over 2 weeks, 15 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for focus_node.0.dart API example.
+    <sub>[#146943](https://github.com/flutter/flutter/pull/146943) merged on April 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/146943) over 6 days, 191 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_align.0.dart API example.
     <sub>[#146719](https://github.com/flutter/flutter/pull/146719) merged on April 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146719) over 1 week, 97 additions and 5 deletions in 3 files</sub>
