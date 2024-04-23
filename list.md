@@ -538,7 +538,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-22 commits.
+23 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub>
@@ -571,6 +571,10 @@
 * **[John O'Neil](https://github.com/johnoneil)** &mdash; Issue #146080 : Fix for incorrect STB based atlas glyph scaling
     <sub>[#51882](https://github.com/flutter/engine/pull/51882) merged on April 23, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/51882) over 2 weeks, 7 additions and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Disable FlutterEngineTest.BackgroundColor
+    <sub>[#52341](https://github.com/flutter/engine/pull/52341) merged on April 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52341) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add DriverInfoVK::IsEmulator and a log dumper for driver info.
     <sub>[#52337](https://github.com/flutter/engine/pull/52337) merged on April 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52337) over 35 minutes, 117 additions and 0 deletions in 3 files</sub>
