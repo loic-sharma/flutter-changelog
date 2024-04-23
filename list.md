@@ -501,7 +501,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-15 commits.
+17 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub>
@@ -515,9 +515,17 @@
     <sub>[#52290](https://github.com/flutter/engine/pull/52290) merged on April 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52290) over 1 day, 70 additions and 11 deletions in 4 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] only use framebuffer advanced blends if available.
+    <sub>[#52284](https://github.com/flutter/engine/pull/52284) merged on April 23, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/52284) over 2 days, 312 additions and 55 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add configuration for maximum canvases
     <sub>[#51735](https://github.com/flutter/engine/pull/51735) merged on April 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51735) over 3 weeks, 91 additions and 6 deletions in 5 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] drawVertices uber shader.
+    <sub>[#52315](https://github.com/flutter/engine/pull/52315) merged on April 23, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/52315) over 13 hours, 674 additions and 63 deletions in 14 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Refactor and migrate FlutterUndoManagerPlugin to ARC
     <sub>[#52234](https://github.com/flutter/engine/pull/52234) merged on April 22, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/52234) over 3 days, 134 additions and 124 deletions in 6 files</sub>
