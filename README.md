@@ -4,7 +4,16 @@
 
 ### April 20, 2024 to April 26, 2024
 
-19 commits.
+21 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips delete icon override the default icon size and ignores `IconTheme` from the chip property and `ChipThemeData`<br />
+    <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-04-09 at 16 48 48](https://github.com/flutter/flutter/assets/48603081/79d14a63-3c24-4f3e-bda4-5de76b319160)![Screenshot 2024-04-09 at 16 48 31](https://github.com/flutter/flutter/assets/48603081/8d54373f-53f1-4908-bd9c-2ee351227f27)</details></sub>
+
+* **[Jesse](https://github.com/sealesj)** &mdash; Refactor framework + test harness tests<br />
+    <sub>[#146213](https://github.com/flutter/flutter/pull/146213) merged on April 23, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/146213) over 2 weeks, 504 additions and 490 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; Fix frozen `StretchingOverscrollIndicator` animation<br />
     <sub>[#147195](https://github.com/flutter/flutter/pull/147195) merged on April 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147195) over 21 hours, 75 additions and 2 deletions in 2 files</sub><br />
