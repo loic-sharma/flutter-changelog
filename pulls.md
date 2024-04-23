@@ -86,3 +86,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `BottomNavigationBar` <br />
     <sub>[#147213](https://github.com/flutter/flutter/pull/147213) opened on on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147213) 14 additions and 3 deletions in 2 files</sub><br />
 
+* **[ChoiYS](https://github.com/choi88andys)** &mdash; Fix typos related to Navigator<br />
+    <sub>[#147221](https://github.com/flutter/flutter/pull/147221) opened on on April 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147221) 6 additions and 6 deletions in 1 file</sub><br />
+
