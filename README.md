@@ -4,12 +4,16 @@
 
 ### April 20, 2024 to April 26, 2024
 
-22 commits.
+24 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips delete icon override the default icon size and ignores `IconTheme` from the chip property and `ChipThemeData`<br />
     <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2024-04-09 at 16 48 48](https://github.com/flutter/flutter/assets/48603081/79d14a63-3c24-4f3e-bda4-5de76b319160)![Screenshot 2024-04-09 at 16 48 31](https://github.com/flutter/flutter/assets/48603081/8d54373f-53f1-4908-bd9c-2ee351227f27)</details></sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Adds AutovalidateMode.onFocusChange to Form and FormField<br />
+    <sub>[#140962](https://github.com/flutter/flutter/pull/140962) merged on April 23, 2024 &mdash; **Small:** [66 comments](https://github.com/flutter/flutter/pull/140962) over 3 months, 228 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Jesse](https://github.com/sealesj)** &mdash; Refactor framework + test harness tests<br />
     <sub>[#146213](https://github.com/flutter/flutter/pull/146213) merged on April 23, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/146213) over 2 weeks, 504 additions and 490 deletions in 6 files</sub><br />
@@ -54,6 +58,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; print traces when transforming an asset<br />
     <sub>[#146374](https://github.com/flutter/flutter/pull/146374) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146374) over 2 weeks, 15 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for sliver_animated_opacity.0.dart API example.<br />
+    <sub>[#146722](https://github.com/flutter/flutter/pull/146722) merged on April 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/146722) over 1 week, 106 additions and 6 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for focus_node.0.dart API example.<br />
     <sub>[#146943](https://github.com/flutter/flutter/pull/146943) merged on April 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/146943) over 6 days, 191 additions and 1 deletion in 2 files</sub><br />
@@ -526,7 +534,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-20 commits.
+22 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.<br />
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub><br />
@@ -559,6 +567,10 @@
 * **[John O'Neil](https://github.com/johnoneil)** &mdash; Issue #146080 : Fix for incorrect STB based atlas glyph scaling<br />
     <sub>[#51882](https://github.com/flutter/engine/pull/51882) merged on April 23, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/51882) over 2 weeks, 7 additions and 11 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add DriverInfoVK::IsEmulator and a log dumper for driver info.<br />
+    <sub>[#52337](https://github.com/flutter/engine/pull/52337) merged on April 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52337) over 35 minutes, 117 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add containsCommand matcher<br />
     <sub>[#52306](https://github.com/flutter/engine/pull/52306) merged on April 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52306) over 22 hours, 127 additions and 22 deletions in 3 files</sub><br />
@@ -607,6 +619,10 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix link in BlendMode.saturation<br />
     <sub>[#52156](https://github.com/flutter/engine/pull/52156) merged on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52156) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: Compute UVs in vertex stage.<br />
+    <sub>[#52303](https://github.com/flutter/engine/pull/52303) merged on April 23, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/52303) over 1 day, 419 additions and 1046 deletions in 40 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 ### April 13, 2024 to April 19, 2024
 

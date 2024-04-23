@@ -41,9 +41,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
     <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145620) 39 additions and 2 deletions in 2 files</sub><br />
 
-* **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
-    <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
     <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
 
@@ -55,9 +52,6 @@
 
 * **[abylaykhan](https://github.com/abikko)** &mdash; Added ListTileControlAffinity into the ListTileTheme<br />
     <sub>[#146630](https://github.com/flutter/flutter/pull/146630) opened on on April 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146630) 61 additions and 34 deletions in 5 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default goldenFileComparator.<br />
-    <sub>[#146956](https://github.com/flutter/flutter/pull/146956) opened on on April 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/146956) 37 additions and 33 deletions in 2 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix ExpandIcon color when ExpansionPanel.canTapOnHeader true (#147097)<br />
     <sub>[#147098](https://github.com/flutter/flutter/pull/147098) opened on on April 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147098) 9 additions and 7 deletions in 1 file</sub><br />
