@@ -27,7 +27,7 @@
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes cupertino page transition leak<br />
-    <sub>[#147133](https://github.com/flutter/flutter/pull/147133) merged on April 23, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147133) over 1 day, 85 additions and 32 deletions in 1 file</sub><br />
+    <sub>[#147133](https://github.com/flutter/flutter/pull/147133) merged on April 23, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/147133) over 1 day, 85 additions and 32 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Valentin Vignal](https://github.com/ValentinVignal), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; print traces when transforming an asset<br />
