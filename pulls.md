@@ -83,9 +83,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `BottomNavigationBar` <br />
     <sub>[#147213](https://github.com/flutter/flutter/pull/147213) opened on on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147213) 14 additions and 3 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in switch painter<br />
-    <sub>[#147228](https://github.com/flutter/flutter/pull/147228) opened on on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147228) 12 additions and 2 deletions in 2 files</sub><br />
-
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix DropdownMenu overflow<br />
     <sub>[#147233](https://github.com/flutter/flutter/pull/147233) opened on on April 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147233) 61 additions and 4 deletions in 2 files</sub><br />
 

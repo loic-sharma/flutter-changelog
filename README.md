@@ -4,7 +4,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-15 commits.
+16 commits.
 
 * **[Lam Thanh Nhan](https://github.com/lamnhan066)** &mdash; Update `examples/api` for android platform<br />
     <sub>[#147102](https://github.com/flutter/flutter/pull/147102) merged on April 22, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/147102) over 2 days, 3 additions and 1446 deletions in 56 files</sub><br />
@@ -35,12 +35,16 @@
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes cupertino page transition leak<br />
-    <sub>[#147133](https://github.com/flutter/flutter/pull/147133) merged on April 23, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/147133) over 1 day, 85 additions and 32 deletions in 1 file</sub><br />
+    <sub>[#147133](https://github.com/flutter/flutter/pull/147133) merged on April 23, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/147133) over 1 day, 85 additions and 32 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Valentin Vignal](https://github.com/ValentinVignal), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; print traces when transforming an asset<br />
     <sub>[#146374](https://github.com/flutter/flutter/pull/146374) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146374) over 2 weeks, 15 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in switch painter<br />
+    <sub>[#147228](https://github.com/flutter/flutter/pull/147228) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147228) over 7 hours, 12 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_positioned.0.dart API example.<br />
     <sub>[#146720](https://github.com/flutter/flutter/pull/146720) merged on April 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/146720) over 1 week, 111 additions and 6 deletions in 3 files</sub><br />
@@ -497,7 +501,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-14 commits.
+15 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.<br />
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub><br />
@@ -522,6 +526,10 @@
 * **[John O'Neil](https://github.com/johnoneil)** &mdash; Issue #146080 : Fix for incorrect STB based atlas glyph scaling<br />
     <sub>[#51882](https://github.com/flutter/engine/pull/51882) merged on April 23, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/51882) over 2 weeks, 7 additions and 11 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Cleanup `PipelineVK::Create`<br />
+    <sub>[#52278](https://github.com/flutter/engine/pull/52278) merged on April 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52278) over 3 days, 133 additions and 88 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not call std::forward on the serialized arguments in the canvas recorder<br />
     <sub>[#52307](https://github.com/flutter/engine/pull/52307) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52307) over 18 hours, 13 additions and 5 deletions in 2 files</sub><br />
@@ -986,11 +994,15 @@
 
 ### April 20, 2024 to April 26, 2024
 
-2 commits.
+3 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [pointer_interceptor_web] Remove semantic tests.<br />
     <sub>[#6580](https://github.com/flutter/packages/pull/6580) merged on April 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6580) over 2 days, 0 additions and 62 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Bump legacy all_packages project AGP version to 7.0.0, Gradle version to 7.0.2<br />
+    <sub>[#6591](https://github.com/flutter/packages/pull/6591) merged on April 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6591) over 1 day, 10 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [image_picker] Fix If imageToScale is nil, the app will crash (#146682)<br />
     <sub>[#6514](https://github.com/flutter/packages/pull/6514) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6514) over 1 week, 28 additions and 1 deletion in 4 files</sub><br />
