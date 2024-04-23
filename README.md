@@ -485,7 +485,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-9 commits.
+10 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.<br />
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub><br />
@@ -518,6 +518,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Lookup output filesystem path, not label<br />
     <sub>[#52248](https://github.com/flutter/engine/pull/52248) merged on April 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52248) over 3 days, 67 additions and 35 deletions in 4 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Remove no-op GN flag<br />
+    <sub>[#52121](https://github.com/flutter/engine/pull/52121) merged on April 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52121) over 1 week, 1 addition and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix link in BlendMode.saturation<br />
     <sub>[#52156](https://github.com/flutter/engine/pull/52156) merged on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52156) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
