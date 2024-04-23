@@ -75,7 +75,7 @@
     <sub>[#147126](https://github.com/flutter/flutter/pull/147126) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147126) 16 additions and 0 deletions in 2 files</sub><br />
 
 * **[Pearl Null](https://github.com/asyncmeow)** &mdash; Fix Flutter project builds under Nix environments on MacOS<br />
-    <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147144) 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147144) 8 additions and 0 deletions in 2 files</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoFullscreenDialogTransition` leaks<br />
     <sub>[#147168](https://github.com/flutter/flutter/pull/147168) opened on on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147168) 74 additions and 23 deletions in 1 file</sub><br />
