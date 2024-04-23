@@ -14,6 +14,10 @@
     <sub>[#146745](https://github.com/flutter/flutter/pull/146745) merged on April 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146745) over 1 week, 13 additions and 9 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add Amir Panahandeh to AUTHORS<br />
+    <sub>[#147052](https://github.com/flutter/flutter/pull/147052) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147052) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `CupertinoTextMagnifier`<br />
     <sub>[#147208](https://github.com/flutter/flutter/pull/147208) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147208) over 2 hours, 15 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
@@ -37,10 +41,6 @@
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed few typos<br />
     <sub>[#147087](https://github.com/flutter/flutter/pull/147087) merged on April 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147087) over 2 days, 64 additions and 64 deletions in 25 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add Amir Panahandeh to AUTHORS<br />
-    <sub>[#147052](https://github.com/flutter/flutter/pull/147052) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147052) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Reland "Expose build mode in environment of asset transformer processes"<br />
     <sub>[#144958](https://github.com/flutter/flutter/pull/144958) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144958) over 1 month, 86 additions and 11 deletions in 18 files</sub><br />
