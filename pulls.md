@@ -12,7 +12,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
-    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/140284) 156 additions and 11 deletions in 4 files</sub><br />
+    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/140284) 156 additions and 11 deletions in 4 files</sub><br />
 
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Enable gesture immediately on the underlying page when swiping back<br />
     <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/140704) 128 additions and 1 deletion in 4 files</sub><br />
@@ -39,7 +39,7 @@
     <sub>[#145502](https://github.com/flutter/flutter/pull/145502) opened on on March 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/145502) 17 additions and 7 deletions in 3 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
-    <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/145620) 39 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/145620) 39 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kagan Ozdemir](https://github.com/kaganzdmr58)** &mdash; Update text.dart<br />
     <sub>[#146117](https://github.com/flutter/flutter/pull/146117) opened on on April 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146117) 2 additions and 0 deletions in 1 file</sub><br />

@@ -522,7 +522,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-17 commits.
+19 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.<br />
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub><br />
@@ -556,6 +556,10 @@
     <sub>[#51882](https://github.com/flutter/engine/pull/51882) merged on April 23, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/51882) over 2 weeks, 7 additions and 11 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix Vulkan validation error on latest MoltenVK.<br />
+    <sub>[#52332](https://github.com/flutter/engine/pull/52332) merged on April 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52332) over 48 minutes, 13 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Cleanup `PipelineVK::Create`<br />
     <sub>[#52278](https://github.com/flutter/engine/pull/52278) merged on April 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52278) over 3 days, 133 additions and 88 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -579,6 +583,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Lookup output filesystem path, not label<br />
     <sub>[#52248](https://github.com/flutter/engine/pull/52248) merged on April 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52248) over 3 days, 67 additions and 35 deletions in 4 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix sampling options for low filter quality to match CanvasKit.<br />
+    <sub>[#52331](https://github.com/flutter/engine/pull/52331) merged on April 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52331) over 1 hour, 27 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Update Fuchsia API version to 17<br />
     <sub>[#52266](https://github.com/flutter/engine/pull/52266) merged on April 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52266) over 3 days, 4 additions and 4 deletions in 2 files</sub><br />
