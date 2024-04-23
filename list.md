@@ -485,7 +485,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-11 commits.
+12 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub>
@@ -506,6 +506,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Refactor and migrate FlutterUndoManagerPlugin to ARC
     <sub>[#52234](https://github.com/flutter/engine/pull/52234) merged on April 22, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/52234) over 3 days, 134 additions and 124 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add test case for path that explicitly closes at origin.
+    <sub>[#52314](https://github.com/flutter/engine/pull/52314) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52314) over 12 hours, 16 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fail `run_impeller_golden_tests` if `LUCI_CONTEXT && !GOLDCTL`
     <sub>[#52300](https://github.com/flutter/engine/pull/52300) merged on April 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52300) over 4 hours, 28 additions and 3 deletions in 2 files</sub>
