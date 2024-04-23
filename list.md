@@ -4,7 +4,11 @@
 
 ### April 20, 2024 to April 26, 2024
 
-16 commits.
+19 commits.
+
+* **[Gil Nobrega](https://github.com/gilnobrega)** &mdash; Fix frozen `StretchingOverscrollIndicator` animation
+    <sub>[#147195](https://github.com/flutter/flutter/pull/147195) merged on April 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147195) over 21 hours, 75 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Lam Thanh Nhan](https://github.com/lamnhan066)** &mdash; Update `examples/api` for android platform
     <sub>[#147102](https://github.com/flutter/flutter/pull/147102) merged on April 22, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/147102) over 2 days, 3 additions and 1446 deletions in 56 files</sub>
@@ -41,6 +45,14 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; print traces when transforming an asset
     <sub>[#146374](https://github.com/flutter/flutter/pull/146374) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146374) over 2 weeks, 15 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_align.0.dart API example.
+    <sub>[#146719](https://github.com/flutter/flutter/pull/146719) merged on April 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146719) over 1 week, 97 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[ChoiYS](https://github.com/choi88andys)** &mdash; Fix typos related to Navigator
+    <sub>[#147221](https://github.com/flutter/flutter/pull/147221) merged on April 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147221) over 10 hours, 6 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in switch painter
     <sub>[#147228](https://github.com/flutter/flutter/pull/147228) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147228) over 7 hours, 12 additions and 2 deletions in 2 files</sub>

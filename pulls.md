@@ -77,8 +77,8 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoFullscreenDialogTransition` leaks<br />
     <sub>[#147168](https://github.com/flutter/flutter/pull/147168) opened on on April 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/147168) 74 additions and 23 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `BottomNavigationBar` <br />
-    <sub>[#147213](https://github.com/flutter/flutter/pull/147213) opened on on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147213) 14 additions and 3 deletions in 2 files</sub><br />
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Invoke optionsViewBuilder even when optionsBuilder returns empty Iterable<br />
+    <sub>[#147194](https://github.com/flutter/flutter/pull/147194) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147194) 5 additions and 5 deletions in 2 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix DropdownMenu overflow<br />
     <sub>[#147233](https://github.com/flutter/flutter/pull/147233) opened on on April 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147233) 61 additions and 4 deletions in 2 files</sub><br />
