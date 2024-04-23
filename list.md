@@ -4,7 +4,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-12 commits.
+13 commits.
 
 * **[Lam Thanh Nhan](https://github.com/lamnhan066)** &mdash; Update `examples/api` for android platform
     <sub>[#147102](https://github.com/flutter/flutter/pull/147102) merged on April 22, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/147102) over 2 days, 3 additions and 1446 deletions in 56 files</sub>
@@ -21,6 +21,10 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add Amir Panahandeh to AUTHORS
     <sub>[#147052](https://github.com/flutter/flutter/pull/147052) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147052) over 3 days, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions
+    <sub>[#146293](https://github.com/flutter/flutter/pull/146293) merged on April 23, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/146293) over 2 weeks, 111 additions and 203 deletions in 19 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `CupertinoTextMagnifier`
     <sub>[#147208](https://github.com/flutter/flutter/pull/147208) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147208) over 2 hours, 15 additions and 8 deletions in 2 files</sub>
