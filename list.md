@@ -4,7 +4,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-24 commits.
+25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips delete icon override the default icon size and ignores `IconTheme` from the chip property and `ChipThemeData`
     <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub>
@@ -58,6 +58,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; print traces when transforming an asset
     <sub>[#146374](https://github.com/flutter/flutter/pull/146374) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146374) over 2 weeks, 15 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Remove unneeded local variables and comments in Editable and RenderParagraph
+    <sub>[#146843](https://github.com/flutter/flutter/pull/146843) merged on April 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/146843) over 1 week, 7 additions and 21 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for sliver_animated_opacity.0.dart API example.
     <sub>[#146722](https://github.com/flutter/flutter/pull/146722) merged on April 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/146722) over 1 week, 106 additions and 6 deletions in 3 files</sub>
@@ -653,7 +657,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Only print "gclient sync" warning once during rebase
-    <sub>[#52133](https://github.com/flutter/engine/pull/52133) merged on April 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52133) over 20 hours, 3 additions and 0 deletions in 1 file</sub>
+    <sub>[#52133](https://github.com/flutter/engine/pull/52133) merged on April 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52133) over 20 hours, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Loïc Sharma](https://github.com/loic-sharma)</sub>
     <sub><details><summary>2 images...</summary>![rebase](https://github.com/flutter/engine/assets/682784/db7279c7-ca27-4ccf-9f6b-f9c4ad10c20a)![Screenshot 2024-04-15 at 2 06 24 PM](https://github.com/flutter/engine/assets/682784/bc80a6bc-9fd9-447f-b060-18f3a5b05775)</details></sub>
 
