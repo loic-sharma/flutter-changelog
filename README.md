@@ -694,7 +694,7 @@
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Simplify path canonicalisation logic<br />
-    <sub>[#52275](https://github.com/flutter/engine/pull/52275) merged on April 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52275) over 4 hours, 12 additions and 18 deletions in 1 file</sub><br />
+    <sub>[#52275](https://github.com/flutter/engine/pull/52275) merged on April 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52275) over 4 hours, 12 additions and 18 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll buildroot and set ios_use_simulator variable used by Skia GN scripts<br />
