@@ -485,7 +485,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-10 commits.
+11 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub>
@@ -518,6 +518,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Lookup output filesystem path, not label
     <sub>[#52248](https://github.com/flutter/engine/pull/52248) merged on April 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52248) over 3 days, 67 additions and 35 deletions in 4 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Update Fuchsia API version to 17
+    <sub>[#52266](https://github.com/flutter/engine/pull/52266) merged on April 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52266) over 3 days, 4 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Remove no-op GN flag
     <sub>[#52121](https://github.com/flutter/engine/pull/52121) merged on April 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52121) over 1 week, 1 addition and 1 deletion in 2 files</sub>
