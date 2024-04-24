@@ -53,9 +53,6 @@
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix ExpandIcon color when ExpansionPanel.canTapOnHeader true (#147097)<br />
     <sub>[#147098](https://github.com/flutter/flutter/pull/147098) opened on on April 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147098) 9 additions and 7 deletions in 1 file</sub><br />
 
-* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Add support for overriding `reverseCurve` with `ExpansionTile.expansionAnimationStyle`<br />
-    <sub>[#147103](https://github.com/flutter/flutter/pull/147103) opened on on April 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147103) 31 additions and 6 deletions in 2 files</sub><br />
-
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Add support for ExpansionPanel custom splash color<br />
     <sub>[#147126](https://github.com/flutter/flutter/pull/147126) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147126) 16 additions and 0 deletions in 2 files</sub><br />
 
