@@ -71,3 +71,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix DropdownMenu overflow<br />
     <sub>[#147233](https://github.com/flutter/flutter/pull/147233) opened on on April 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147233) 61 additions and 4 deletions in 2 files</sub><br />
 
+* **[davhumich](https://github.com/davhumich)** &mdash; Proposed solution to issue 147232.<br />
+    <sub>[#147268](https://github.com/flutter/flutter/pull/147268) opened on on April 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147268) 5 additions and 1 deletion in 1 file</sub><br />
+
