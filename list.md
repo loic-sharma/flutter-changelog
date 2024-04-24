@@ -1076,18 +1076,26 @@
 
 ### April 20, 2024 to April 26, 2024
 
-4 commits.
+6 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [pointer_interceptor_web] Remove semantic tests.
     <sub>[#6580](https://github.com/flutter/packages/pull/6580) merged on April 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6580) over 2 days, 0 additions and 62 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue where route future does not complete when …
+    <sub>[#6596](https://github.com/flutter/packages/pull/6596) merged on April 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6596) over 1 day, 58 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase_android] Readme update for Alternative billing
     <sub>[#6578](https://github.com/flutter/packages/pull/6578) merged on April 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6578) over 4 days, 14 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Bump legacy all_packages project AGP version to 7.0.0, Gradle version to 7.0.2 (#6591)"
+    <sub>[#6605](https://github.com/flutter/packages/pull/6605) merged on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6605) over 1 minute, 2 additions and 10 deletions in 3 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Bump legacy all_packages project AGP version to 7.0.0, Gradle version to 7.0.2
-    <sub>[#6591](https://github.com/flutter/packages/pull/6591) merged on April 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6591) over 1 day, 10 additions and 2 deletions in 3 files</sub>
+    <sub>[#6591](https://github.com/flutter/packages/pull/6591) merged on April 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6591) over 1 day, 10 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [image_picker] Fix If imageToScale is nil, the app will crash (#146682)
