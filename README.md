@@ -4,7 +4,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-30 commits.
+33 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips delete icon override the default icon size and ignores `IconTheme` from the chip property and `ChipThemeData`<br />
     <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub><br />
@@ -15,6 +15,10 @@
     <sub>[#146685](https://github.com/flutter/flutter/pull/146685) merged on April 24, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/146685) over 1 week, 611 additions and 74 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>1 image...</summary>![ScreenRecording2024-04-12at15 25 58-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/89b9638d-f369-4ef1-b501-17c9c74b2541)</details></sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add create app and plugin templates for Swift Package Manager<br />
+    <sub>[#147082](https://github.com/flutter/flutter/pull/147082) merged on April 24, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/147082) over 5 days, 1197 additions and 451 deletions in 36 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds AutovalidateMode.onFocusChange to Form and FormField<br />
     <sub>[#140962](https://github.com/flutter/flutter/pull/140962) merged on April 23, 2024 &mdash; **Small:** [66 comments](https://github.com/flutter/flutter/pull/140962) over 3 months, 228 additions and 5 deletions in 2 files</sub><br />
@@ -63,6 +67,14 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; print traces when transforming an asset<br />
     <sub>[#146374](https://github.com/flutter/flutter/pull/146374) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146374) over 2 weeks, 15 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default goldenFileComparator.<br />
+    <sub>[#146956](https://github.com/flutter/flutter/pull/146956) merged on April 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146956) over 1 week, 37 additions and 33 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Add support for overriding `reverseCurve` with `ExpansionTile.expansionAnimationStyle`<br />
+    <sub>[#147103](https://github.com/flutter/flutter/pull/147103) merged on April 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147103) over 4 days, 31 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[keyonghan](https://github.com/keyonghan)** &mdash; Mark firebase tests as `bringup: true`<br />
     <sub>[#147338](https://github.com/flutter/flutter/pull/147338) merged on April 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147338) over 5 minutes, 3 additions and 0 deletions in 1 file</sub><br />
