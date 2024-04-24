@@ -551,7 +551,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-25 commits.
+26 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.<br />
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub><br />
@@ -584,6 +584,10 @@
 * **[John O'Neil](https://github.com/johnoneil)** &mdash; Issue #146080 : Fix for incorrect STB based atlas glyph scaling<br />
     <sub>[#51882](https://github.com/flutter/engine/pull/51882) merged on April 23, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/51882) over 2 weeks, 7 additions and 11 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some warnings reported by recent versions of clang-tidy<br />
+    <sub>[#52349](https://github.com/flutter/engine/pull/52349) merged on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52349) over 17 hours, 9 additions and 1 deletion in 4 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete unused geometry API.<br />
     <sub>[#52347](https://github.com/flutter/engine/pull/52347) merged on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52347) over 45 minutes, 0 additions and 86 deletions in 21 files</sub><br />
