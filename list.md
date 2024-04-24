@@ -1152,7 +1152,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-8 commits.
+9 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add CI steps to test iOS and macOS plugins with both CocoaPods and Swift Package Manager
     <sub>[#6557](https://github.com/flutter/packages/pull/6557) merged on April 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6557) over 1 week, 198 additions and 2 deletions in 4 files</sub>
@@ -1173,6 +1173,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase_android] Readme update for Alternative billing
     <sub>[#6578](https://github.com/flutter/packages/pull/6578) merged on April 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6578) over 4 days, 14 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add `GoRouterState state` parameter to `GoRouterData.onExit`
+    <sub>[#6495](https://github.com/flutter/packages/pull/6495) merged on April 24, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6495) over 2 weeks, 145 additions and 35 deletions in 8 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Bump legacy all_packages project AGP version to 7.0.0, Gradle version to 7.0.2 (#6591)"
     <sub>[#6605](https://github.com/flutter/packages/pull/6605) merged on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6605) over 1 minute, 2 additions and 10 deletions in 3 files</sub>
