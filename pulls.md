@@ -65,9 +65,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Invoke optionsViewBuilder even when optionsBuilder returns empty Iterable<br />
     <sub>[#147194](https://github.com/flutter/flutter/pull/147194) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147194) 5 additions and 5 deletions in 2 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow the SceneBuilder, PictureRecord, and Canvas constructor calls from the rendering layer to be hooked<br />
-    <sub>[#147271](https://github.com/flutter/flutter/pull/147271) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147271) 213 additions and 25 deletions in 7 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add Valentin Vignal to AUTHORS<br />
     <sub>[#147314](https://github.com/flutter/flutter/pull/147314) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147314) 1 addition and 0 deletions in 1 file</sub><br />
 
