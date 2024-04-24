@@ -551,7 +551,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-28 commits.
+29 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub>
@@ -644,6 +644,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Lookup output filesystem path, not label
     <sub>[#52248](https://github.com/flutter/engine/pull/52248) merged on April 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52248) over 3 days, 67 additions and 35 deletions in 4 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [darwin] Update pixel format handling in FlutterTexture
+    <sub>[#52326](https://github.com/flutter/engine/pull/52326) merged on April 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52326) over 1 day, 63 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix sampling options for low filter quality to match CanvasKit.
     <sub>[#52331](https://github.com/flutter/engine/pull/52331) merged on April 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52331) over 1 hour, 27 additions and 5 deletions in 2 files</sub>
