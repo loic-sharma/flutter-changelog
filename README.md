@@ -551,7 +551,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-32 commits.
+33 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete points compute shader.<br />
     <sub>[#52346](https://github.com/flutter/engine/pull/52346) merged on April 24, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/52346) over 18 hours, 12 additions and 317 deletions in 11 files</sub><br />
@@ -604,6 +604,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate ios_surface files to ARC<br />
     <sub>[#52139](https://github.com/flutter/engine/pull/52139) merged on April 24, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52139) over 1 week, 45 additions and 33 deletions in 7 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gaaclarke](https://github.com/gaaclarke), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove libtess2 from libflutter.<br />
+    <sub>[#52357](https://github.com/flutter/engine/pull/52357) merged on April 24, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/52357) over 14 hours, 288 additions and 212 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some warnings reported by recent versions of clang-tidy<br />
     <sub>[#52349](https://github.com/flutter/engine/pull/52349) merged on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52349) over 17 hours, 9 additions and 1 deletion in 4 files</sub><br />
