@@ -551,7 +551,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-30 commits.
+31 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete points compute shader.<br />
     <sub>[#52346](https://github.com/flutter/engine/pull/52346) merged on April 24, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/52346) over 18 hours, 12 additions and 317 deletions in 11 files</sub><br />
@@ -576,6 +576,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add configuration for maximum canvases<br />
     <sub>[#51735](https://github.com/flutter/engine/pull/51735) merged on April 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51735) over 3 weeks, 91 additions and 6 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use spec constant for gaussian shader, rename, and reuse vertex sources.<br />
+    <sub>[#52361](https://github.com/flutter/engine/pull/52361) merged on April 24, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/engine/pull/52361) over 4 hours, 753 additions and 1869 deletions in 17 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make drawAtlas always use porterduff or vertices_uber shader<br />
     <sub>[#52348](https://github.com/flutter/engine/pull/52348) merged on April 24, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/52348) over 17 hours, 59 additions and 497 deletions in 3 files</sub><br />
