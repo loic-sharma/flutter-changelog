@@ -68,9 +68,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Invoke optionsViewBuilder even when optionsBuilder returns empty Iterable<br />
     <sub>[#147194](https://github.com/flutter/flutter/pull/147194) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147194) 5 additions and 5 deletions in 2 files</sub><br />
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix DropdownMenu overflow<br />
-    <sub>[#147233](https://github.com/flutter/flutter/pull/147233) opened on on April 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147233) 62 additions and 4 deletions in 2 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow the SceneBuilder, PictureRecord, and Canvas constructor calls from the rendering layer to be hooked<br />
     <sub>[#147271](https://github.com/flutter/flutter/pull/147271) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147271) 128 additions and 25 deletions in 6 files</sub><br />
 
