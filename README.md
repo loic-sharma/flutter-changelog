@@ -551,7 +551,11 @@
 
 ### April 20, 2024 to April 26, 2024
 
-29 commits.
+30 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete points compute shader.<br />
+    <sub>[#52346](https://github.com/flutter/engine/pull/52346) merged on April 24, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/52346) over 18 hours, 12 additions and 317 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.<br />
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub><br />
