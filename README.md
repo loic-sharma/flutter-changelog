@@ -551,7 +551,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-26 commits.
+28 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable gold CTL.<br />
     <sub>[#52299](https://github.com/flutter/engine/pull/52299) merged on April 22, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/52299) over 2 hours, 1522 additions and 889 deletions in 54 files</sub><br />
@@ -573,6 +573,10 @@
     <sub>[#51735](https://github.com/flutter/engine/pull/51735) merged on April 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51735) over 3 weeks, 91 additions and 6 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make drawAtlas always use porterduff or vertices_uber shader<br />
+    <sub>[#52348](https://github.com/flutter/engine/pull/52348) merged on April 24, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/52348) over 17 hours, 59 additions and 497 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] drawVertices uber shader.<br />
     <sub>[#52315](https://github.com/flutter/engine/pull/52315) merged on April 23, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/52315) over 13 hours, 674 additions and 63 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -584,6 +588,10 @@
 * **[John O'Neil](https://github.com/johnoneil)** &mdash; Issue #146080 : Fix for incorrect STB based atlas glyph scaling<br />
     <sub>[#51882](https://github.com/flutter/engine/pull/51882) merged on April 23, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/51882) over 2 weeks, 7 additions and 11 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate ios_surface files to ARC<br />
+    <sub>[#52139](https://github.com/flutter/engine/pull/52139) merged on April 24, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52139) over 1 week, 45 additions and 33 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gaaclarke](https://github.com/gaaclarke), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some warnings reported by recent versions of clang-tidy<br />
     <sub>[#52349](https://github.com/flutter/engine/pull/52349) merged on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52349) over 17 hours, 9 additions and 1 deletion in 4 files</sub><br />
