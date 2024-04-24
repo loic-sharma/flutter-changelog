@@ -7,7 +7,7 @@
 25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips delete icon override the default icon size and ignores `IconTheme` from the chip property and `ChipThemeData`
-    <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub>
+    <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2024-04-09 at 16 48 48](https://github.com/flutter/flutter/assets/48603081/79d14a63-3c24-4f3e-bda4-5de76b319160)![Screenshot 2024-04-09 at 16 48 31](https://github.com/flutter/flutter/assets/48603081/8d54373f-53f1-4908-bd9c-2ee351227f27)</details></sub>
 
