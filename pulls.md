@@ -68,9 +68,9 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow the SceneBuilder, PictureRecord, and Canvas constructor calls from the rendering layer to be hooked<br />
     <sub>[#147271](https://github.com/flutter/flutter/pull/147271) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147271) 128 additions and 25 deletions in 6 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `Hero` widget<br />
-    <sub>[#147303](https://github.com/flutter/flutter/pull/147303) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147303) 19 additions and 4 deletions in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add Valentin Vignal to AUTHORS<br />
     <sub>[#147314](https://github.com/flutter/flutter/pull/147314) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147314) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Added missing tests for Table api example `table.0.dart`.<br />
+    <sub>[#147318](https://github.com/flutter/flutter/pull/147318) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147318) 49 additions and 1 deletion in 2 files</sub><br />
 
