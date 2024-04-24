@@ -71,3 +71,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Disable leak tracking for selection text area<br />
     <sub>[#147273](https://github.com/flutter/flutter/pull/147273) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147273) 1 addition and 5 deletions in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `Hero` widget<br />
+    <sub>[#147303](https://github.com/flutter/flutter/pull/147303) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147303) 19 additions and 4 deletions in 2 files</sub><br />
+
