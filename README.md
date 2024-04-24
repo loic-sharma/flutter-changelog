@@ -4,12 +4,17 @@
 
 ### April 20, 2024 to April 26, 2024
 
-25 commits.
+26 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips delete icon override the default icon size and ignores `IconTheme` from the chip property and `ChipThemeData`<br />
     <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2024-04-09 at 16 48 48](https://github.com/flutter/flutter/assets/48603081/79d14a63-3c24-4f3e-bda4-5de76b319160)![Screenshot 2024-04-09 at 16 48 31](https://github.com/flutter/flutter/assets/48603081/8d54373f-53f1-4908-bd9c-2ee351227f27)</details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add missing `overlayColor` property in `styleFrom` methods<br />
+    <sub>[#146685](https://github.com/flutter/flutter/pull/146685) merged on April 24, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/146685) over 1 week, 611 additions and 74 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>1 image...</summary>![ScreenRecording2024-04-12at15 25 58-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/89b9638d-f369-4ef1-b501-17c9c74b2541)</details></sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds AutovalidateMode.onFocusChange to Form and FormField<br />
     <sub>[#140962](https://github.com/flutter/flutter/pull/140962) merged on April 23, 2024 &mdash; **Small:** [66 comments](https://github.com/flutter/flutter/pull/140962) over 3 months, 228 additions and 5 deletions in 2 files</sub><br />
@@ -1082,7 +1087,7 @@
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Bump legacy all_packages project AGP version to 7.0.0, Gradle version to 7.0.2<br />
-    <sub>[#6591](https://github.com/flutter/packages/pull/6591) merged on April 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6591) over 1 day, 10 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#6591](https://github.com/flutter/packages/pull/6591) merged on April 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6591) over 1 day, 10 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [image_picker] Fix If imageToScale is nil, the app will crash (#146682)<br />
