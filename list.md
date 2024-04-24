@@ -4,7 +4,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-33 commits.
+34 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips delete icon override the default icon size and ignores `IconTheme` from the chip property and `ChipThemeData`
     <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub>
@@ -68,6 +68,10 @@
     <sub>[#146374](https://github.com/flutter/flutter/pull/146374) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146374) over 2 weeks, 15 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run new_gallery__transition_perf on mokey in staging
+    <sub>[#147339](https://github.com/flutter/flutter/pull/147339) merged on April 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147339) over 53 minutes, 33 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [yusuf-goog](https://github.com/yusuf-goog)</sub>
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default goldenFileComparator.
     <sub>[#146956](https://github.com/flutter/flutter/pull/146956) merged on April 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/146956) over 1 week, 37 additions and 33 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
@@ -88,9 +92,9 @@
     <sub>[#147213](https://github.com/flutter/flutter/pull/147213) merged on April 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147213) over 1 day, 14 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Disable leak tracking for selection text area
-    <sub>[#147273](https://github.com/flutter/flutter/pull/147273) merged on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147273) over 14 hours, 1 addition and 5 deletions in 1 file</sub>
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+* **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed few typos
+    <sub>[#147087](https://github.com/flutter/flutter/pull/147087) merged on April 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147087) over 2 days, 64 additions and 64 deletions in 25 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Remove unneeded local variables and comments in Editable and RenderParagraph
     <sub>[#146843](https://github.com/flutter/flutter/pull/146843) merged on April 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/146843) over 1 week, 7 additions and 21 deletions in 3 files</sub>
@@ -132,9 +136,9 @@
     <sub>[#147094](https://github.com/flutter/flutter/pull/147094) merged on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147094) over 2 days, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
-* **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed few typos
-    <sub>[#147087](https://github.com/flutter/flutter/pull/147087) merged on April 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147087) over 2 days, 64 additions and 64 deletions in 25 files</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Disable leak tracking for selection text area
+    <sub>[#147273](https://github.com/flutter/flutter/pull/147273) merged on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147273) over 14 hours, 1 addition and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Reland "Expose build mode in environment of asset transformer processes"
     <sub>[#144958](https://github.com/flutter/flutter/pull/144958) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144958) over 1 month, 86 additions and 11 deletions in 18 files</sub>
