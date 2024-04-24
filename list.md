@@ -1087,7 +1087,7 @@
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Bump legacy all_packages project AGP version to 7.0.0, Gradle version to 7.0.2
-    <sub>[#6591](https://github.com/flutter/packages/pull/6591) merged on April 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6591) over 1 day, 10 additions and 2 deletions in 3 files</sub>
+    <sub>[#6591](https://github.com/flutter/packages/pull/6591) merged on April 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6591) over 1 day, 10 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [image_picker] Fix If imageToScale is nil, the app will crash (#146682)

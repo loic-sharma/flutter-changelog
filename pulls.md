@@ -77,3 +77,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix `DropdownMenu` keyboard navigation<br />
     <sub>[#147294](https://github.com/flutter/flutter/pull/147294) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147294) 74 additions and 0 deletions in 2 files</sub><br />
 
+* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Swap crash reporting with unified analytics<br />
+    <sub>[#147296](https://github.com/flutter/flutter/pull/147296) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147296) 27 additions and 23 deletions in 3 files</sub><br />
+
