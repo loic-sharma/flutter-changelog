@@ -74,3 +74,6 @@
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Added missing tests for table.0.dart API example<br />
     <sub>[#147310](https://github.com/flutter/flutter/pull/147310) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147310) 49 additions and 1 deletion in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add Valentin Vignal to AUTHORS<br />
+    <sub>[#147314](https://github.com/flutter/flutter/pull/147314) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147314) 1 addition and 0 deletions in 1 file</sub><br />
+
