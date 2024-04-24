@@ -1124,7 +1124,11 @@
 
 ### April 20, 2024 to April 26, 2024
 
-7 commits.
+8 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add CI steps to test iOS and macOS plugins with both CocoaPods and Swift Package Manager<br />
+    <sub>[#6557](https://github.com/flutter/packages/pull/6557) merged on April 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6557) over 1 week, 198 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [pointer_interceptor_web] Remove semantic tests.<br />
     <sub>[#6580](https://github.com/flutter/packages/pull/6580) merged on April 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6580) over 2 days, 0 additions and 62 deletions in 1 file</sub><br />
