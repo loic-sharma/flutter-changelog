@@ -74,6 +74,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Disable leak tracking for selection text area<br />
     <sub>[#147273](https://github.com/flutter/flutter/pull/147273) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147273) 1 addition and 5 deletions in 1 file</sub><br />
 
-* **[Elias Yishak](https://github.com/eliasyishak)** &mdash; Swap crash reporting with unified analytics<br />
-    <sub>[#147296](https://github.com/flutter/flutter/pull/147296) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147296) 27 additions and 23 deletions in 3 files</sub><br />
-
