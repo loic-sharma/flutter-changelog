@@ -1104,11 +1104,15 @@
 
 ### April 20, 2024 to April 26, 2024
 
-6 commits.
+7 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [pointer_interceptor_web] Remove semantic tests.<br />
     <sub>[#6580](https://github.com/flutter/packages/pull/6580) merged on April 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6580) over 2 days, 0 additions and 62 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Finish converting iOS to Pigeon<br />
+    <sub>[#6601](https://github.com/flutter/packages/pull/6601) merged on April 24, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/6601) over 22 hours, 3497 additions and 2179 deletions in 37 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue where route future does not complete when …<br />
     <sub>[#6596](https://github.com/flutter/packages/pull/6596) merged on April 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6596) over 1 day, 58 additions and 3 deletions in 4 files</sub><br />
