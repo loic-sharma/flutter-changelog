@@ -68,9 +68,12 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Allow the SceneBuilder, PictureRecord, and Canvas constructor calls from the rendering layer to be hooked<br />
     <sub>[#147271](https://github.com/flutter/flutter/pull/147271) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147271) 128 additions and 25 deletions in 6 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Disable leak tracking for selection text area<br />
-    <sub>[#147273](https://github.com/flutter/flutter/pull/147273) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147273) 1 addition and 5 deletions in 1 file</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `Hero` widget<br />
     <sub>[#147303](https://github.com/flutter/flutter/pull/147303) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147303) 19 additions and 4 deletions in 2 files</sub><br />
+
+* **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Added missing tests for Table example.<br />
+    <sub>[#147310](https://github.com/flutter/flutter/pull/147310) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147310) 49 additions and 1 deletion in 2 files</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaks in a test.<br />
+    <sub>[#147312](https://github.com/flutter/flutter/pull/147312) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147312) 4 additions and 0 deletions in 1 file</sub><br />
 
