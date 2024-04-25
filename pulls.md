@@ -54,7 +54,7 @@
     <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147144) 8 additions and 0 deletions in 2 files</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoFullscreenDialogTransition` leaks<br />
-    <sub>[#147168](https://github.com/flutter/flutter/pull/147168) opened on on April 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/147168) 74 additions and 23 deletions in 1 file</sub><br />
+    <sub>[#147168](https://github.com/flutter/flutter/pull/147168) opened on on April 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/147168) 123 additions and 23 deletions in 2 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Invoke optionsViewBuilder even when optionsBuilder returns empty Iterable<br />
     <sub>[#147194](https://github.com/flutter/flutter/pull/147194) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147194) 5 additions and 5 deletions in 2 files</sub><br />
