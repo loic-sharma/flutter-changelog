@@ -1223,7 +1223,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-10 commits.
+11 commits.
 
 * **[さとやｎ](https://github.com/satoyan)** &mdash; [go_router_builder] add support to go_router_builder for initializing a StatefulShellBranch with observers
     <sub>[#5865](https://github.com/flutter/packages/pull/5865) merged on April 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/5865) over 3 months, 37 additions and 2 deletions in 5 files</sub>
@@ -1248,6 +1248,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase_android] Readme update for Alternative billing
     <sub>[#6578](https://github.com/flutter/packages/pull/6578) merged on April 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6578) over 4 days, 14 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Eli Geller](https://github.com/elitree)** &mdash; [go_router] Update redirect documentation example code for clarity
+    <sub>[#6213](https://github.com/flutter/packages/pull/6213) merged on April 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6213) over 1 month, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add `GoRouterState state` parameter to `GoRouterData.onExit`
     <sub>[#6495](https://github.com/flutter/packages/pull/6495) merged on April 24, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6495) over 2 weeks, 145 additions and 35 deletions in 8 files</sub>
