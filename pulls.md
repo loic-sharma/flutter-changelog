@@ -65,3 +65,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default LocalPlatform<br />
     <sub>[#147342](https://github.com/flutter/flutter/pull/147342) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147342) 68 additions and 47 deletions in 3 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Always relies on floatingLabelStyle when FloatingLabelBehavior.always<br />
+    <sub>[#147374](https://github.com/flutter/flutter/pull/147374) opened on on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147374) 132 additions and 1 deletion in 2 files</sub><br />
+
