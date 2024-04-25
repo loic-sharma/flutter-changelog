@@ -65,6 +65,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default LocalPlatform<br />
     <sub>[#147342](https://github.com/flutter/flutter/pull/147342) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147342) 68 additions and 47 deletions in 3 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `FloatingActionButton` docs for `background` and `foreground` properties<br />
-    <sub>[#147372](https://github.com/flutter/flutter/pull/147372) opened on on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147372) 10 additions and 9 deletions in 1 file</sub><br />
-
