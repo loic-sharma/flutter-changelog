@@ -65,3 +65,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for character_activator.0.dart API example.<br />
     <sub>[#147384](https://github.com/flutter/flutter/pull/147384) opened on on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147384) 54 additions and 2 deletions in 3 files</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix route focus node creation<br />
+    <sub>[#147390](https://github.com/flutter/flutter/pull/147390) opened on on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147390) 10 additions and 10 deletions in 2 files</sub><br />
+
