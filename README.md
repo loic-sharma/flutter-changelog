@@ -4,7 +4,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-36 commits.
+37 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips delete icon override the default icon size and ignores `IconTheme` from the chip property and `ChipThemeData`<br />
     <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub><br />
@@ -56,6 +56,10 @@
     <sub>[#147052](https://github.com/flutter/flutter/pull/147052) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147052) over 3 days, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Use kernel concatenation<br />
+    <sub>[#147158](https://github.com/flutter/flutter/pull/147158) merged on April 25, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/147158) over 2 days, 269 additions and 99 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
     <sub>[#146293](https://github.com/flutter/flutter/pull/146293) merged on April 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/146293) over 2 weeks, 111 additions and 203 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -96,9 +100,9 @@
     <sub>[#147314](https://github.com/flutter/flutter/pull/147314) merged on April 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147314) over 5 hours, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `BottomNavigationBar` <br />
-    <sub>[#147213](https://github.com/flutter/flutter/pull/147213) merged on April 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147213) over 1 day, 14 additions and 3 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+* **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed few typos<br />
+    <sub>[#147087](https://github.com/flutter/flutter/pull/147087) merged on April 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147087) over 2 days, 64 additions and 64 deletions in 25 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Tomasz Gucio](https://github.com/tgucio)** &mdash; Remove unneeded local variables and comments in Editable and RenderParagraph<br />
     <sub>[#146843](https://github.com/flutter/flutter/pull/146843) merged on April 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/146843) over 1 week, 7 additions and 21 deletions in 3 files</sub><br />
@@ -136,9 +140,9 @@
     <sub>[#147094](https://github.com/flutter/flutter/pull/147094) merged on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147094) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed few typos<br />
-    <sub>[#147087](https://github.com/flutter/flutter/pull/147087) merged on April 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147087) over 2 days, 64 additions and 64 deletions in 25 files</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `BottomNavigationBar` <br />
+    <sub>[#147213](https://github.com/flutter/flutter/pull/147213) merged on April 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147213) over 1 day, 14 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Disable leak tracking for selection text area<br />
     <sub>[#147273](https://github.com/flutter/flutter/pull/147273) merged on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147273) over 14 hours, 1 addition and 5 deletions in 1 file</sub><br />
