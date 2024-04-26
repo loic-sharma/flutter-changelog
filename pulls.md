@@ -66,5 +66,5 @@
     <sub>[#147408](https://github.com/flutter/flutter/pull/147408) opened on on April 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147408) 74 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add default argument to `AnimatedPhysicalModel`<br />
-    <sub>[#147424](https://github.com/flutter/flutter/pull/147424) opened on on April 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147424) 40 additions and 3 deletions in 4 files</sub><br />
+    <sub>[#147424](https://github.com/flutter/flutter/pull/147424) opened on on April 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147424) 42 additions and 3 deletions in 4 files</sub><br />
 
