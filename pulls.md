@@ -74,3 +74,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `TabPageSelector` <br />
     <sub>[#147403](https://github.com/flutter/flutter/pull/147403) opened on on April 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147403) 84 additions and 30 deletions in 3 files</sub><br />
 
+* **[osama](https://github.com/osama383)** &mdash; Added missing tests for ButtonStyle example<br />
+    <sub>[#147408](https://github.com/flutter/flutter/pull/147408) opened on on April 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147408) 74 additions and 0 deletions in 1 file</sub><br />
+
