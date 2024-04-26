@@ -650,7 +650,7 @@
 
 ### April 20, 2024 to April 26, 2024
 
-55 commits.
+56 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] only use porter duff or vertices.uber for drawVertices.<br />
     <sub>[#52345](https://github.com/flutter/engine/pull/52345) merged on April 24, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/52345) over 1 day, 94 additions and 535 deletions in 10 files</sub><br />
@@ -722,6 +722,10 @@
     <sub>[#52348](https://github.com/flutter/engine/pull/52348) merged on April 24, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/52348) over 17 hours, 59 additions and 497 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Move `PointerDataPacketConverter` from `PlatformView` to `RuntimeController`<br />
+    <sub>[#51952](https://github.com/flutter/engine/pull/51952) merged on April 26, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/51952) over 3 weeks, 24 additions and 24 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Dustin Green](https://github.com/dustingreen)** &mdash; [fuchsia] route fuchsia.sysmem2.Allocator<br />
     <sub>[#52187](https://github.com/flutter/engine/pull/52187) merged on April 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52187) over 1 week, 16 additions and 0 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonny Wang](https://github.com/jrwang)</sub><br />
@@ -738,6 +742,18 @@
     <sub>[#52357](https://github.com/flutter/engine/pull/52357) merged on April 24, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/52357) over 14 hours, 288 additions and 212 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix function type cast warnings for macOS embedder callbacks<br />
+    <sub>[#52377](https://github.com/flutter/engine/pull/52377) merged on April 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52377) over 1 day, 6 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove "gclient sync" warning call during pre-rebase<br />
+    <sub>[#52342](https://github.com/flutter/engine/pull/52342) merged on April 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52342) over 2 days, 0 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] while we still have benchmarks, see if we're efficient enough for this to be faster.<br />
+    <sub>[#52398](https://github.com/flutter/engine/pull/52398) merged on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52398) over 31 minutes, 13 additions and 46 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove goma support from impeller-cmake-example<br />
     <sub>[#52390](https://github.com/flutter/engine/pull/52390) merged on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52390) over 57 minutes, 0 additions and 15 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -746,29 +762,49 @@
     <sub>[#52368](https://github.com/flutter/engine/pull/52368) merged on April 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52368) over 3 hours, 0 additions and 45 deletions in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove TODO I will never do: `runIfNot` is deprecated.<br />
-    <sub>[#52308](https://github.com/flutter/engine/pull/52308) merged on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52308) over 1 day, 0 additions and 9 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
-
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Disable FlutterEngineTest.BackgroundColor<br />
     <sub>[#52341](https://github.com/flutter/engine/pull/52341) merged on April 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52341) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove TODO I will never do: `runIfNot` is deprecated.<br />
+    <sub>[#52308](https://github.com/flutter/engine/pull/52308) merged on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52308) over 1 day, 0 additions and 9 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add DriverInfoVK::IsEmulator and a log dumper for driver info.<br />
     <sub>[#52337](https://github.com/flutter/engine/pull/52337) merged on April 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52337) over 35 minutes, 117 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Add containsCommand matcher<br />
-    <sub>[#52306](https://github.com/flutter/engine/pull/52306) merged on April 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52306) over 22 hours, 127 additions and 22 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Don't require the --verbose flag when requesting a ci/ build<br />
+    <sub>[#52339](https://github.com/flutter/engine/pull/52339) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52339) over 1 hour, 72 additions and 15 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] clamp maximum glyph scale.<br />
+    <sub>[#52403](https://github.com/flutter/engine/pull/52403) merged on April 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52403) over 17 hours, 28 additions and 1 deletion in 4 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add markdown docs about RBE<br />
+    <sub>[#52394](https://github.com/flutter/engine/pull/52394) merged on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52394) over 22 hours, 161 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not call std::forward on the serialized arguments in the canvas recorder<br />
+    <sub>[#52307](https://github.com/flutter/engine/pull/52307) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52307) over 18 hours, 13 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix Vulkan validation error on latest MoltenVK.<br />
     <sub>[#52332](https://github.com/flutter/engine/pull/52332) merged on April 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52332) over 48 minutes, 13 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] clamp maximum glyph scale.<br />
-    <sub>[#52403](https://github.com/flutter/engine/pull/52403) merged on April 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52403) over 17 hours, 28 additions and 1 deletion in 4 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Break dependency cycle of FlutterViewController <-> FlutterPlatformView<br />
+    <sub>[#52271](https://github.com/flutter/engine/pull/52271) merged on April 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52271) over 2 days, 52 additions and 69 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Lookup output filesystem path, not label<br />
+    <sub>[#52248](https://github.com/flutter/engine/pull/52248) merged on April 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52248) over 3 days, 67 additions and 35 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fail `run_impeller_golden_tests` if `LUCI_CONTEXT && !GOLDCTL`<br />
+    <sub>[#52300](https://github.com/flutter/engine/pull/52300) merged on April 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52300) over 4 hours, 28 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Cleanup `PipelineVK::Create`<br />
     <sub>[#52278](https://github.com/flutter/engine/pull/52278) merged on April 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52278) over 3 days, 133 additions and 88 deletions in 2 files</sub><br />
@@ -778,49 +814,17 @@
     <sub>[#52314](https://github.com/flutter/engine/pull/52314) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52314) over 12 hours, 16 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add markdown docs about RBE<br />
-    <sub>[#52394](https://github.com/flutter/engine/pull/52394) merged on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52394) over 22 hours, 161 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove "gclient sync" warning call during pre-rebase<br />
-    <sub>[#52342](https://github.com/flutter/engine/pull/52342) merged on April 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52342) over 2 days, 0 additions and 6 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fail `run_impeller_golden_tests` if `LUCI_CONTEXT && !GOLDCTL`<br />
-    <sub>[#52300](https://github.com/flutter/engine/pull/52300) merged on April 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52300) over 4 hours, 28 additions and 3 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [et] Lookup output filesystem path, not label<br />
-    <sub>[#52248](https://github.com/flutter/engine/pull/52248) merged on April 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52248) over 3 days, 67 additions and 35 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] while we still have benchmarks, see if we're efficient enough for this to be faster.<br />
-    <sub>[#52398](https://github.com/flutter/engine/pull/52398) merged on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52398) over 31 minutes, 13 additions and 46 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not call std::forward on the serialized arguments in the canvas recorder<br />
-    <sub>[#52307](https://github.com/flutter/engine/pull/52307) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52307) over 18 hours, 13 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix function type cast warnings for macOS embedder callbacks<br />
-    <sub>[#52377](https://github.com/flutter/engine/pull/52377) merged on April 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52377) over 1 day, 6 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete unused geometry API.<br />
+    <sub>[#52347](https://github.com/flutter/engine/pull/52347) merged on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52347) over 45 minutes, 0 additions and 86 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix some warnings reported by recent versions of clang-tidy<br />
     <sub>[#52349](https://github.com/flutter/engine/pull/52349) merged on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52349) over 17 hours, 9 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Break dependency cycle of FlutterViewController <-> FlutterPlatformView<br />
-    <sub>[#52271](https://github.com/flutter/engine/pull/52271) merged on April 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52271) over 2 days, 52 additions and 69 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete unused geometry API.<br />
-    <sub>[#52347](https://github.com/flutter/engine/pull/52347) merged on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52347) over 45 minutes, 0 additions and 86 deletions in 21 files</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Don't require the --verbose flag when requesting a ci/ build<br />
-    <sub>[#52339](https://github.com/flutter/engine/pull/52339) merged on April 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52339) over 1 hour, 72 additions and 15 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Add containsCommand matcher<br />
+    <sub>[#52306](https://github.com/flutter/engine/pull/52306) merged on April 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52306) over 22 hours, 127 additions and 22 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Update Fuchsia API version to 17<br />
     <sub>[#52266](https://github.com/flutter/engine/pull/52266) merged on April 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52266) over 3 days, 4 additions and 4 deletions in 2 files</sub><br />
@@ -833,10 +837,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix sampling options for low filter quality to match CanvasKit.<br />
     <sub>[#52331](https://github.com/flutter/engine/pull/52331) merged on April 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52331) over 1 hour, 27 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Document the new binding hooks for SceneBuilder, PictureRecorder, Canvas<br />
-    <sub>[#52374](https://github.com/flutter/engine/pull/52374) merged on April 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52374) over 5 hours, 37 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [macOS] Remove extra `setViewController` and extra import<br />
     <sub>[#52255](https://github.com/flutter/engine/pull/52255) merged on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52255) over 5 days, 1 addition and 2 deletions in 3 files</sub><br />
@@ -858,13 +858,17 @@
     <sub>[#52324](https://github.com/flutter/engine/pull/52324) merged on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52324) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add support for drawing Flutter GPU textures in the playground.<br />
+    <sub>[#52352](https://github.com/flutter/engine/pull/52352) merged on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52352) over 2 days, 223 additions and 44 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix link in BlendMode.saturation<br />
     <sub>[#52156](https://github.com/flutter/engine/pull/52156) merged on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52156) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add support for drawing Flutter GPU textures in the playground.<br />
-    <sub>[#52352](https://github.com/flutter/engine/pull/52352) merged on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52352) over 2 days, 223 additions and 44 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Document the new binding hooks for SceneBuilder, PictureRecorder, Canvas<br />
+    <sub>[#52374](https://github.com/flutter/engine/pull/52374) merged on April 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52374) over 5 hours, 37 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: Compute UVs in vertex stage.<br />
     <sub>[#52303](https://github.com/flutter/engine/pull/52303) merged on April 23, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/52303) over 1 day, 419 additions and 1046 deletions in 40 files</sub><br />
