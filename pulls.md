@@ -74,3 +74,6 @@
 * **[osama](https://github.com/osama383)** &mdash; Added missing tests for ButtonStyle example<br />
     <sub>[#147408](https://github.com/flutter/flutter/pull/147408) opened on on April 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147408) 74 additions and 0 deletions in 1 file</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Add default argument to `AnimatedPhysicalModel`<br />
+    <sub>[#147424](https://github.com/flutter/flutter/pull/147424) opened on on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147424) 1 addition and 3 deletions in 3 files</sub><br />
+
