@@ -57,7 +57,7 @@
     <sub>[#147194](https://github.com/flutter/flutter/pull/147194) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147194) 5 additions and 5 deletions in 2 files</sub><br />
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Added missing tests for Table api example `table.0.dart`.<br />
-    <sub>[#147318](https://github.com/flutter/flutter/pull/147318) opened on on April 24, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/147318) 39 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#147318](https://github.com/flutter/flutter/pull/147318) opened on on April 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/147318) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default LocalPlatform<br />
     <sub>[#147342](https://github.com/flutter/flutter/pull/147342) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147342) 68 additions and 47 deletions in 3 files</sub><br />
