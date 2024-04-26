@@ -69,7 +69,7 @@
     <sub>[#147390](https://github.com/flutter/flutter/pull/147390) opened on on April 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147390) 11 additions and 11 deletions in 3 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Making `material.dart` more public<br />
-    <sub>[#147393](https://github.com/flutter/flutter/pull/147393) opened on on April 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147393) 151 additions and 144 deletions in 2 files</sub><br />
+    <sub>[#147393](https://github.com/flutter/flutter/pull/147393) opened on on April 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147393) 149 additions and 142 deletions in 2 files</sub><br />
 
 * **[osama](https://github.com/osama383)** &mdash; Added missing tests for ButtonStyle example<br />
     <sub>[#147408](https://github.com/flutter/flutter/pull/147408) opened on on April 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147408) 74 additions and 0 deletions in 1 file</sub><br />
