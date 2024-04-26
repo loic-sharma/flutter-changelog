@@ -62,15 +62,9 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default LocalPlatform<br />
     <sub>[#147342](https://github.com/flutter/flutter/pull/147342) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147342) 68 additions and 47 deletions in 3 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for character_activator.0.dart API example.<br />
-    <sub>[#147384](https://github.com/flutter/flutter/pull/147384) opened on on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147384) 54 additions and 2 deletions in 3 files</sub><br />
-
 * **[osama](https://github.com/osama383)** &mdash; Added missing tests for ButtonStyle example<br />
     <sub>[#147408](https://github.com/flutter/flutter/pull/147408) opened on on April 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147408) 74 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add default argument to `AnimatedPhysicalModel`<br />
     <sub>[#147424](https://github.com/flutter/flutter/pull/147424) opened on on April 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147424) 40 additions and 3 deletions in 4 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for single_activator.0.dart API example.<br />
-    <sub>[#147426](https://github.com/flutter/flutter/pull/147426) opened on on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147426) 49 additions and 3 deletions in 4 files</sub><br />
 
