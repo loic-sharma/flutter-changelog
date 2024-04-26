@@ -66,7 +66,7 @@
     <sub>[#147384](https://github.com/flutter/flutter/pull/147384) opened on on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147384) 54 additions and 2 deletions in 3 files</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Refactor route focus node creation<br />
-    <sub>[#147390](https://github.com/flutter/flutter/pull/147390) opened on on April 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147390) 11 additions and 11 deletions in 3 files</sub><br />
+    <sub>[#147390](https://github.com/flutter/flutter/pull/147390) opened on on April 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147390) 11 additions and 11 deletions in 3 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Making `material.dart` more public<br />
     <sub>[#147393](https://github.com/flutter/flutter/pull/147393) opened on on April 25, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/147393) 196 additions and 184 deletions in 4 files</sub><br />
