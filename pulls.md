@@ -71,3 +71,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Making `material.dart` more public<br />
     <sub>[#147393](https://github.com/flutter/flutter/pull/147393) opened on on April 25, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/147393) 196 additions and 184 deletions in 4 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `TabPageSelector` <br />
+    <sub>[#147403](https://github.com/flutter/flutter/pull/147403) opened on on April 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147403) 84 additions and 30 deletions in 3 files</sub><br />
+
