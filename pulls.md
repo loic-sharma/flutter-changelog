@@ -27,7 +27,7 @@
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Rework getting plugin implementation candidates and plugin resolution<br />
-    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Large:** [47 comments](https://github.com/flutter/flutter/pull/145258) 401 additions and 102 deletions in 2 files</sub><br />
+    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/145258) 402 additions and 104 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`<br />
     <sub>[#145620](https://github.com/flutter/flutter/pull/145620) opened on on March 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/145620) 47 additions and 2 deletions in 2 files</sub><br />
@@ -54,7 +54,7 @@
     <sub>[#147194](https://github.com/flutter/flutter/pull/147194) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147194) 5 additions and 5 deletions in 2 files</sub><br />
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Added missing tests for Table api example `table.0.dart`.<br />
-    <sub>[#147318](https://github.com/flutter/flutter/pull/147318) opened on on April 24, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/147318) 39 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#147318](https://github.com/flutter/flutter/pull/147318) opened on on April 24, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/147318) 39 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default LocalPlatform<br />
     <sub>[#147342](https://github.com/flutter/flutter/pull/147342) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147342) 68 additions and 47 deletions in 3 files</sub><br />
@@ -64,4 +64,7 @@
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add default argument to `AnimatedPhysicalModel`<br />
     <sub>[#147424](https://github.com/flutter/flutter/pull/147424) opened on on April 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147424) 42 additions and 3 deletions in 4 files</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
+    <sub>[#147433](https://github.com/flutter/flutter/pull/147433) opened on on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147433) 120 additions and 2 deletions in 3 files</sub><br />
 
