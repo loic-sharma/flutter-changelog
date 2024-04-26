@@ -32,17 +32,11 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
     <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
 
-* **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; fix: Check active entries on parent navigator for `hasActiveRouteBelow`<br />
-    <sub>[#146428](https://github.com/flutter/flutter/pull/146428) opened on on April 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/146428) 74 additions and 0 deletions in 2 files</sub><br />
-
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix ExpandIcon color when ExpansionPanel.canTapOnHeader true (#147097)<br />
     <sub>[#147098](https://github.com/flutter/flutter/pull/147098) opened on on April 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147098) 9 additions and 7 deletions in 1 file</sub><br />
-
-* **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Add support for ExpansionPanel custom splash color<br />
-    <sub>[#147126](https://github.com/flutter/flutter/pull/147126) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147126) 16 additions and 0 deletions in 2 files</sub><br />
 
 * **[Pearl Null](https://github.com/asyncmeow)** &mdash; Fix Flutter project builds under Nix environments on MacOS<br />
     <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147144) 8 additions and 0 deletions in 2 files</sub><br />
@@ -52,12 +46,6 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default LocalPlatform<br />
     <sub>[#147342](https://github.com/flutter/flutter/pull/147342) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147342) 68 additions and 47 deletions in 3 files</sub><br />
-
-* **[osama](https://github.com/osama383)** &mdash; Added missing tests for ButtonStyle example<br />
-    <sub>[#147408](https://github.com/flutter/flutter/pull/147408) opened on on April 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147408) 74 additions and 0 deletions in 1 file</sub><br />
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Add default argument to `AnimatedPhysicalModel`<br />
-    <sub>[#147424](https://github.com/flutter/flutter/pull/147424) opened on on April 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147424) 42 additions and 3 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
     <sub>[#147433](https://github.com/flutter/flutter/pull/147433) opened on on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147433) 120 additions and 2 deletions in 3 files</sub><br />
