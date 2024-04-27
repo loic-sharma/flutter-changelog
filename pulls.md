@@ -53,3 +53,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
     <sub>[#147433](https://github.com/flutter/flutter/pull/147433) opened on on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147433) 120 additions and 2 deletions in 3 files</sub><br />
 
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Fix `_RenderValueIndicator` leak<br />
+    <sub>[#147451](https://github.com/flutter/flutter/pull/147451) opened on on April 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147451) 7 additions and 1 deletion in 1 file</sub><br />
+
