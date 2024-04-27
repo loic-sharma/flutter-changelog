@@ -65,3 +65,6 @@
 * **[Szilard](https://github.com/seelrd)** &mdash; Catch exceptions when trying to decode state restoration saved datas<br />
     <sub>[#147458](https://github.com/flutter/flutter/pull/147458) opened on on April 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147458) 12 additions and 1 deletion in 1 file</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; improve focus example<br />
+    <sub>[#147464](https://github.com/flutter/flutter/pull/147464) opened on on April 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147464) 100 additions and 2 deletions in 3 files</sub><br />
+
