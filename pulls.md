@@ -54,5 +54,5 @@
     <sub>[#147433](https://github.com/flutter/flutter/pull/147433) opened on on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147433) 120 additions and 2 deletions in 3 files</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Fix `_RenderValueIndicator` leak<br />
-    <sub>[#147451](https://github.com/flutter/flutter/pull/147451) opened on on April 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147451) 12 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#147451](https://github.com/flutter/flutter/pull/147451) opened on on April 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147451) 12 additions and 2 deletions in 2 files</sub><br />
 
