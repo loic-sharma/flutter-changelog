@@ -62,3 +62,6 @@
 * **[osama](https://github.com/osama383)** &mdash; Added missing tests for ButtonStyle example<br />
     <sub>[#147457](https://github.com/flutter/flutter/pull/147457) opened on on April 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147457) 74 additions and 1 deletion in 2 files</sub><br />
 
+* **[Szilard](https://github.com/seelrd)** &mdash; Catch exceptions when trying to decode state restoration saved datas<br />
+    <sub>[#147458](https://github.com/flutter/flutter/pull/147458) opened on on April 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147458) 12 additions and 1 deletion in 1 file</sub><br />
+
