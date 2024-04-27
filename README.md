@@ -132,7 +132,7 @@
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for character_activator.0.dart API example.<br />
-    <sub>[#147384](https://github.com/flutter/flutter/pull/147384) merged on April 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147384) over 1 day, 54 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#147384](https://github.com/flutter/flutter/pull/147384) merged on April 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147384) over 1 day, 54 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix helperMaxLines and errorMaxLines documentation<br />
