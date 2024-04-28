@@ -69,5 +69,5 @@
     <sub>[#147464](https://github.com/flutter/flutter/pull/147464) opened on on April 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147464) 100 additions and 2 deletions in 3 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
-    <sub>[#147472](https://github.com/flutter/flutter/pull/147472) opened on on April 27, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147472) 195 additions and 255 deletions in 31 files</sub><br />
+    <sub>[#147472](https://github.com/flutter/flutter/pull/147472) opened on on April 27, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147472) 210 additions and 290 deletions in 31 files</sub><br />
 
