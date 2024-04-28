@@ -71,3 +71,6 @@
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Added missing code block language in docs<br />
     <sub>[#147481](https://github.com/flutter/flutter/pull/147481) opened on on April 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147481) 58 additions and 58 deletions in 28 files</sub><br />
 
+* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix 147479<br />
+    <sub>[#147485](https://github.com/flutter/flutter/pull/147485) opened on on April 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147485) 19 additions and 1 deletion in 2 files</sub><br />
+
