@@ -68,3 +68,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
     <sub>[#147472](https://github.com/flutter/flutter/pull/147472) opened on on April 27, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147472) 210 additions and 290 deletions in 31 files</sub><br />
 
+* **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Added missing code block language in docs<br />
+    <sub>[#147481](https://github.com/flutter/flutter/pull/147481) opened on on April 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147481) 58 additions and 58 deletions in 28 files</sub><br />
+
