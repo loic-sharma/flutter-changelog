@@ -56,9 +56,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Control flow collections: `flutter_tools/`<br />
     <sub>[#147450](https://github.com/flutter/flutter/pull/147450) opened on on April 27, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/147450) 221 additions and 459 deletions in 26 files</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Fix `_RenderValueIndicator` leak<br />
-    <sub>[#147451](https://github.com/flutter/flutter/pull/147451) opened on on April 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147451) 12 additions and 2 deletions in 2 files</sub><br />
-
 * **[osama](https://github.com/osama383)** &mdash; Added missing tests for ButtonStyle example<br />
     <sub>[#147457](https://github.com/flutter/flutter/pull/147457) opened on on April 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147457) 74 additions and 1 deletion in 2 files</sub><br />
 
