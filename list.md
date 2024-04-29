@@ -522,11 +522,15 @@
 
 ### April 27, 2024 to May 3, 2024
 
-2 commits.
+3 commits.
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Make SkUnicode explicitly instead of relying on SkParagraph to make it for us
     <sub>[#52086](https://github.com/flutter/engine/pull/52086) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52086) over 2 weeks, 25 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove references to goma
+    <sub>[#52411](https://github.com/flutter/engine/pull/52411) merged on April 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52411) over 2 days, 30 additions and 252 deletions in 16 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix GLES image upload.
     <sub>[#52430](https://github.com/flutter/engine/pull/52430) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52430) over 15 hours, 21 additions and 10 deletions in 1 file</sub>
