@@ -1026,11 +1026,15 @@
 
 ### April 27, 2024 to May 3, 2024
 
-2 commits.
+3 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [file_selector_android] Modifies `getDirectoryPath`, `openFile`, `openFiles` to return file/directory paths instead of URIs<br />
     <sub>[#6438](https://github.com/flutter/packages/pull/6438) merged on April 29, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6438) over 1 month, 712 additions and 141 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Don't log if `hierarchicalLoggingEnabled` is `true` <br />
+    <sub>[#6019](https://github.com/flutter/packages/pull/6019) merged on April 29, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/6019) over 2 months, 78 additions and 13 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [file_selector_android] Update `LICENSE` file to include newly added licensed code<br />
     <sub>[#6626](https://github.com/flutter/packages/pull/6626) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6626) over 27 minutes, 210 additions and 1 deletion in 3 files</sub><br />
