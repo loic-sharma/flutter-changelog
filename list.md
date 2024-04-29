@@ -89,6 +89,10 @@
     <sub>[#147349](https://github.com/flutter/flutter/pull/147349) merged on April 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147349) over 1 day, 21 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions
+    <sub>[#146293](https://github.com/flutter/flutter/pull/146293) merged on April 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/146293) over 2 weeks, 111 additions and 203 deletions in 19 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Mention visualDensity impact on ButtonStyle.padding documentation
     <sub>[#147048](https://github.com/flutter/flutter/pull/147048) merged on April 23, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/147048) over 3 days, 19 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub>
@@ -116,10 +120,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; print traces when transforming an asset
     <sub>[#146374](https://github.com/flutter/flutter/pull/146374) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146374) over 2 weeks, 15 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions
-    <sub>[#146293](https://github.com/flutter/flutter/pull/146293) merged on April 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/146293) over 2 weeks, 111 additions and 203 deletions in 19 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes cupertino page transition leak
     <sub>[#147133](https://github.com/flutter/flutter/pull/147133) merged on April 23, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/147133) over 1 day, 85 additions and 32 deletions in 1 file</sub>
@@ -520,9 +520,18 @@
 
 ## flutter/engine
 
+### April 27, 2024 to May 3, 2024
+
+1 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix GLES image upload.
+    <sub>[#52430](https://github.com/flutter/engine/pull/52430) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52430) over 15 hours, 21 additions and 10 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 ### April 20, 2024 to April 26, 2024
 
-60 commits.
+<details>
+<summary>60 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] only use porter duff or vertices.uber for drawVertices.
     <sub>[#52345](https://github.com/flutter/engine/pull/52345) merged on April 24, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/52345) over 1 day, 94 additions and 535 deletions in 10 files</sub>
@@ -765,6 +774,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 9936bafe5eb1 to 919c7cab870b (1 revision)
     <sub>[#52409](https://github.com/flutter/engine/pull/52409) merged on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52409) over 45 minutes, 4 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### April 13, 2024 to April 19, 2024
 
