@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-4 commits.
+5 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to disable `FloatingActionButton` scale and rotation animations using `FloatingActionButtonAnimator.noAnimation`<br />
     <sub>[#146126](https://github.com/flutter/flutter/pull/146126) merged on April 29, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/146126) over 3 weeks, 362 additions and 6 deletions in 5 files</sub><br />
@@ -19,6 +19,10 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: showDateRangePicker with "large" helpText cutoffs the save button<br />
     <sub>[#146049](https://github.com/flutter/flutter/pull/146049) merged on April 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/146049) over 4 weeks, 16 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add configurable hitTestBehavior to Scrollable<br />
+    <sub>[#146403](https://github.com/flutter/flutter/pull/146403) merged on April 29, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/146403) over 3 weeks, 208 additions and 1 deletion in 10 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 752b146df767 to f4c20e97e6aa (2 revisions) (#147495)"<br />
     <sub>[#147502](https://github.com/flutter/flutter/pull/147502) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147502) over 16 seconds, 1 addition and 1 deletion in 1 file</sub><br />
