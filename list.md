@@ -1019,9 +1019,18 @@
 
 ## flutter/packages
 
+### April 27, 2024 to May 3, 2024
+
+1 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [file_selector_android] Modifies `getDirectoryPath`, `openFile`, `openFiles` to return file/directory paths instead of URIs
+    <sub>[#6438](https://github.com/flutter/packages/pull/6438) merged on April 29, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6438) over 1 month, 712 additions and 141 deletions in 9 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
 ### April 20, 2024 to April 26, 2024
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[さとやｎ](https://github.com/satoyan)** &mdash; [go_router_builder] add support to go_router_builder for initializing a StatefulShellBranch with observers
     <sub>[#5865](https://github.com/flutter/packages/pull/5865) merged on April 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/5865) over 3 months, 37 additions and 2 deletions in 5 files</sub>
@@ -1066,6 +1075,8 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [image_picker] Fix If imageToScale is nil, the app will crash (#146682)
     <sub>[#6514](https://github.com/flutter/packages/pull/6514) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6514) over 1 week, 28 additions and 1 deletion in 4 files</sub>
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+</details>
 
 ### April 13, 2024 to April 19, 2024
 
