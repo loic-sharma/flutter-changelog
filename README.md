@@ -4,12 +4,16 @@
 
 ### April 27, 2024 to May 3, 2024
 
-2 commits.
+3 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to disable `FloatingActionButton` scale and rotation animations using `FloatingActionButtonAnimator.noAnimation`<br />
     <sub>[#146126](https://github.com/flutter/flutter/pull/146126) merged on April 29, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/146126) over 3 weeks, 362 additions and 6 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
     <sub><details><summary>2 images...</summary>![ScreenRecording2024-04-02at16 19 03-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/627ea564-7f60-4eb4-bed9-95c053ae2f56)![ScreenRecording2024-04-02at16 17 20-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/d0a936ea-9e16-4225-8dc4-40a11ee8a975)</details></sub>
+
+* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: showDateRangePicker with "large" helpText cutoffs the save button<br />
+    <sub>[#146049](https://github.com/flutter/flutter/pull/146049) merged on April 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/146049) over 4 weeks, 16 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 752b146df767 to f4c20e97e6aa (2 revisions) (#147495)"<br />
     <sub>[#147502](https://github.com/flutter/flutter/pull/147502) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147502) over 16 seconds, 1 addition and 1 deletion in 1 file</sub><br />
