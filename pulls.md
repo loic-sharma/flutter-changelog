@@ -12,7 +12,7 @@
     <sub>[#138025](https://github.com/flutter/flutter/pull/138025) opened on on November 7, 2023 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/138025) 150 additions and 30 deletions in 2 files</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
-    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/140284) 155 additions and 11 deletions in 4 files</sub><br />
+    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/140284) 155 additions and 11 deletions in 4 files</sub><br />
 
 * **[toda-bps](https://github.com/toda-bps)** &mdash; Enable gesture immediately on the underlying page when swiping back<br />
     <sub>[#140704](https://github.com/flutter/flutter/pull/140704) opened on on December 28, 2023 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/140704) 128 additions and 1 deletion in 4 files</sub><br />
