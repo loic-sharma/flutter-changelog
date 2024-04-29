@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### April 27, 2024 to May 3, 2024
+
+1 commits.
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 752b146df767 to f4c20e97e6aa (2 revisions) (#147495)"
+    <sub>[#147502](https://github.com/flutter/flutter/pull/147502) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147502) over 16 seconds, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 ### April 20, 2024 to April 26, 2024
 
-54 commits.
+<details>
+<summary>54 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix chips delete icon override the default icon size and ignores `IconTheme` from the chip property and `ChipThemeData`
     <sub>[#146509](https://github.com/flutter/flutter/pull/146509) merged on April 23, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/146509) over 2 weeks, 205 additions and 25 deletions in 3 files</sub>
@@ -226,6 +235,8 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Reland "Expose build mode in environment of asset transformer processes"
     <sub>[#144958](https://github.com/flutter/flutter/pull/144958) merged on April 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/144958) over 1 month, 86 additions and 11 deletions in 18 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+</details>
 
 ### April 13, 2024 to April 19, 2024
 
