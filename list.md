@@ -880,7 +880,7 @@
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added static check that fragment shader and vertex shaders slots match
-    <sub>[#52174](https://github.com/flutter/engine/pull/52174) merged on April 17, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/52174) over 17 hours, 84 additions and 0 deletions in 3 files</sub>
+    <sub>[#52174](https://github.com/flutter/engine/pull/52174) merged on April 17, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52174) over 17 hours, 84 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove absorb opacity limit.
