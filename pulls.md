@@ -72,5 +72,8 @@
     <sub>[#147481](https://github.com/flutter/flutter/pull/147481) opened on on April 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147481) 58 additions and 58 deletions in 28 files</sub><br />
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix MenuItemButton if child is null <br />
-    <sub>[#147485](https://github.com/flutter/flutter/pull/147485) opened on on April 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147485) 19 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#147485](https://github.com/flutter/flutter/pull/147485) opened on on April 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147485) 19 additions and 1 deletion in 2 files</sub><br />
+
+* **[Ellet](https://github.com/ellet0)** &mdash; Update reorderable_list.dart to use Dart 3 return switch statement for consistency<br />
+    <sub>[#147505](https://github.com/flutter/flutter/pull/147505) opened on on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147505) 4 additions and 6 deletions in 1 file</sub><br />
 
