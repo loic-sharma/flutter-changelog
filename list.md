@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-5 commits.
+6 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to disable `FloatingActionButton` scale and rotation animations using `FloatingActionButtonAnimator.noAnimation`
     <sub>[#146126](https://github.com/flutter/flutter/pull/146126) merged on April 29, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/146126) over 3 weeks, 362 additions and 6 deletions in 5 files</sub>
@@ -23,6 +23,10 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add configurable hitTestBehavior to Scrollable
     <sub>[#146403](https://github.com/flutter/flutter/pull/146403) merged on April 29, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/146403) over 3 weeks, 208 additions and 1 deletion in 10 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter
+    <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 752b146df767 to f4c20e97e6aa (2 revisions) (#147495)"
     <sub>[#147502](https://github.com/flutter/flutter/pull/147502) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147502) over 16 seconds, 1 addition and 1 deletion in 1 file</sub>
@@ -535,11 +539,19 @@
 
 ### April 27, 2024 to May 3, 2024
 
-3 commits.
+5 commits.
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Make SkUnicode explicitly instead of relying on SkParagraph to make it for us
     <sub>[#52086](https://github.com/flutter/engine/pull/52086) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52086) over 2 weeks, 25 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add commands to rbe.md
+    <sub>[#52442](https://github.com/flutter/engine/pull/52442) merged on April 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52442) over 1 hour, 45 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add a host_debug_unopt_arm64 macOS configuration.
+    <sub>[#52443](https://github.com/flutter/engine/pull/52443) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52443) over 38 minutes, 32 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove references to goma
     <sub>[#52411](https://github.com/flutter/engine/pull/52411) merged on April 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52411) over 2 days, 30 additions and 252 deletions in 16 files</sub>
