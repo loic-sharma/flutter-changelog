@@ -1046,7 +1046,11 @@
 
 ### April 27, 2024 to May 3, 2024
 
-4 commits.
+5 commits.
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - web implementation
+    <sub>[#6187](https://github.com/flutter/packages/pull/6187) merged on April 30, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6187) over 2 months, 657 additions and 107 deletions in 20 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - android implementation
     <sub>[#6185](https://github.com/flutter/packages/pull/6185) merged on April 30, 2024 &mdash; **Extra large:** [72 comments](https://github.com/flutter/packages/pull/6185) over 2 months, 1810 additions and 67 deletions in 28 files</sub>
