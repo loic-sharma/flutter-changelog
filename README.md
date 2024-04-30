@@ -6,15 +6,15 @@
 
 6 commits.
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to disable `FloatingActionButton` scale and rotation animations using `FloatingActionButtonAnimator.noAnimation`<br />
-    <sub>[#146126](https://github.com/flutter/flutter/pull/146126) merged on April 29, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/146126) over 3 weeks, 362 additions and 6 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
-    <sub><details><summary>2 images...</summary>![ScreenRecording2024-04-02at16 19 03-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/627ea564-7f60-4eb4-bed9-95c053ae2f56)![ScreenRecording2024-04-02at16 17 20-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/d0a936ea-9e16-4225-8dc4-40a11ee8a975)</details></sub>
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3<br />
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
     <sub><details><summary>3 images...</summary>![specs](https://github.com/flutter/flutter/assets/48603081/4d946d57-1e00-4b11-b414-0788a20fe0cb)![before](https://github.com/flutter/flutter/assets/48603081/e3a70179-540f-4307-b996-7cf35d28adbc)![after](https://github.com/flutter/flutter/assets/48603081/c65a2d1d-b0ae-4969-868e-e64f5c845fcb)</details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to disable `FloatingActionButton` scale and rotation animations using `FloatingActionButtonAnimator.noAnimation`<br />
+    <sub>[#146126](https://github.com/flutter/flutter/pull/146126) merged on April 29, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/146126) over 3 weeks, 362 additions and 6 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+    <sub><details><summary>2 images...</summary>![ScreenRecording2024-04-02at16 19 03-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/627ea564-7f60-4eb4-bed9-95c053ae2f56)![ScreenRecording2024-04-02at16 17 20-ezgif com-video-to-gif-converter](https://github.com/flutter/flutter/assets/48603081/d0a936ea-9e16-4225-8dc4-40a11ee8a975)</details></sub>
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: showDateRangePicker with "large" helpText cutoffs the save button<br />
     <sub>[#146049](https://github.com/flutter/flutter/pull/146049) merged on April 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/146049) over 4 weeks, 16 additions and 1 deletion in 2 files</sub><br />
