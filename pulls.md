@@ -47,39 +47,15 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add kotlinOptions jvmTarget to templates<br />
     <sub>[#147326](https://github.com/flutter/flutter/pull/147326) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147326) 31 additions and 7 deletions in 11 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default LocalPlatform<br />
-    <sub>[#147342](https://github.com/flutter/flutter/pull/147342) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147342) 68 additions and 47 deletions in 3 files</sub><br />
-
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactor `Material` build method<br />
     <sub>[#147430](https://github.com/flutter/flutter/pull/147430) opened on on April 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147430) 37 additions and 92 deletions in 1 file</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
-    <sub>[#147433](https://github.com/flutter/flutter/pull/147433) opened on on April 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147433) 120 additions and 2 deletions in 3 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Control flow collections: `flutter_tools/`<br />
     <sub>[#147450](https://github.com/flutter/flutter/pull/147450) opened on on April 27, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/147450) 221 additions and 459 deletions in 26 files</sub><br />
 
-* **[osama](https://github.com/osama383)** &mdash; Added missing tests for ButtonStyle example<br />
-    <sub>[#147457](https://github.com/flutter/flutter/pull/147457) opened on on April 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147457) 74 additions and 1 deletion in 2 files</sub><br />
-
-* **[Szilard](https://github.com/seelrd)** &mdash; Catch exceptions when trying to decode state restoration saved datas<br />
-    <sub>[#147458](https://github.com/flutter/flutter/pull/147458) opened on on April 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147458) 12 additions and 1 deletion in 1 file</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; improve focus example<br />
-    <sub>[#147464](https://github.com/flutter/flutter/pull/147464) opened on on April 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147464) 100 additions and 2 deletions in 3 files</sub><br />
-
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix MenuItemButton if child is null <br />
     <sub>[#147485](https://github.com/flutter/flutter/pull/147485) opened on on April 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147485) 19 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ellet](https://github.com/ellet0)** &mdash; Update reorderable_list.dart to use Dart 3 return switch statement for consistency<br />
-    <sub>[#147505](https://github.com/flutter/flutter/pull/147505) opened on on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147505) 4 additions and 6 deletions in 1 file</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Add boundary feature to the drag gesture.<br />
     <sub>[#147521](https://github.com/flutter/flutter/pull/147521) opened on on April 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/147521) 1200 additions and 13 deletions in 13 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for callback_shortcuts.0.dart API example.<br />
-    <sub>[#147536](https://github.com/flutter/flutter/pull/147536) opened on on April 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147536) 60 additions and 30 deletions in 3 files</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; test focus example 0<br />
-    <sub>[#147564](https://github.com/flutter/flutter/pull/147564) opened on on April 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147564) 80 additions and 1 deletion in 2 files</sub><br />
 
