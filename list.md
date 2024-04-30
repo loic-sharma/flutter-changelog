@@ -717,7 +717,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add markdown docs about RBE
-    <sub>[#52394](https://github.com/flutter/engine/pull/52394) merged on April 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52394) over 22 hours, 161 additions and 0 deletions in 2 files</sub>
+    <sub>[#52394](https://github.com/flutter/engine/pull/52394) merged on April 26, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52394) over 22 hours, 161 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Break dependency cycle of FlutterViewController <-> FlutterPlatformView
