@@ -80,6 +80,3 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test focus example 0<br />
     <sub>[#147564](https://github.com/flutter/flutter/pull/147564) opened on on April 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147564) 80 additions and 1 deletion in 2 files</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; `_RenderValueIndicator` leak fix used on `RangeSlider`<br />
-    <sub>[#147581](https://github.com/flutter/flutter/pull/147581) opened on on April 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147581) 12 additions and 2 deletions in 2 files</sub><br />
-
