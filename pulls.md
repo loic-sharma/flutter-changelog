@@ -74,7 +74,7 @@
 * **[yim](https://github.com/yiiim)** &mdash; Add boundary feature to the drag gesture.<br />
     <sub>[#147521](https://github.com/flutter/flutter/pull/147521) opened on on April 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/147521) 1200 additions and 13 deletions in 13 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for callback_shortcuts.0.dart API examples.<br />
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for callback_shortcuts.0.dart API example.<br />
     <sub>[#147536](https://github.com/flutter/flutter/pull/147536) opened on on April 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147536) 60 additions and 30 deletions in 3 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test focus example 0<br />
