@@ -81,5 +81,5 @@
     <sub>[#147564](https://github.com/flutter/flutter/pull/147564) opened on on April 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147564) 80 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ExpansionTile.<br />
-    <sub>[#147596](https://github.com/flutter/flutter/pull/147596) opened on on April 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147596) 6 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#147596](https://github.com/flutter/flutter/pull/147596) opened on on April 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147596) 6 additions and 1 deletion in 2 files</sub><br />
 
