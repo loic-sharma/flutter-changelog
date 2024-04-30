@@ -1046,7 +1046,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-6 commits.
+7 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - web implementation
     <sub>[#6187](https://github.com/flutter/packages/pull/6187) merged on April 30, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6187) over 2 months, 657 additions and 107 deletions in 20 files</sub>
@@ -1063,6 +1063,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Don't log if `hierarchicalLoggingEnabled` is `true` 
     <sub>[#6019](https://github.com/flutter/packages/pull/6019) merged on April 29, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/6019) over 2 months, 78 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Waleed Alenazi](https://github.com/waleedf112)** &mdash; [flutter_adaptive_scaffold] use `MediaQuery.sizeOf` instead of `MediaQuery.of` to prevent unnecessary rebuilds
+    <sub>[#6544](https://github.com/flutter/packages/pull/6544) merged on April 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6544) over 2 weeks, 47 additions and 5 deletions in 4 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [image_picker] Update documentation to note that Photo Picker use is non-optional on Android 13+
     <sub>[#6569](https://github.com/flutter/packages/pull/6569) merged on April 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6569) over 1 week, 15 additions and 5 deletions in 6 files</sub>
