@@ -79,7 +79,7 @@
     <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add a new PopScope.onPopWithResultInvoke widget to replace PopScope.onPopInvoke<br />
-    <sub>[#147016](https://github.com/flutter/flutter/pull/147016) merged on April 26, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/147016) over 1 week, 546 additions and 75 deletions in 18 files</sub><br />
+    <sub>[#147016](https://github.com/flutter/flutter/pull/147016) merged on April 26, 2024 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/147016) over 1 week, 546 additions and 75 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds AutovalidateMode.onFocusChange to Form and FormField<br />
