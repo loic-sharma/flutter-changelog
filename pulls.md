@@ -41,6 +41,9 @@
 * **[Pearl Null](https://github.com/asyncmeow)** &mdash; Fix Flutter project builds under Nix environments on MacOS<br />
     <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147144) 8 additions and 0 deletions in 2 files</sub><br />
 
+* **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent test folder deletion on running `flutter create --empty` on an existing app project<br />
+    <sub>[#147160](https://github.com/flutter/flutter/pull/147160) opened on on April 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147160) 17 additions and 1 deletion in 2 files</sub><br />
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Invoke optionsViewBuilder even when optionsBuilder returns empty Iterable<br />
     <sub>[#147194](https://github.com/flutter/flutter/pull/147194) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147194) 5 additions and 5 deletions in 2 files</sub><br />
 
@@ -55,7 +58,4 @@
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix MenuItemButton if child is null <br />
     <sub>[#147485](https://github.com/flutter/flutter/pull/147485) opened on on April 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147485) 19 additions and 1 deletion in 2 files</sub><br />
-
-* **[yim](https://github.com/yiiim)** &mdash; Add boundary feature to the drag gesture.<br />
-    <sub>[#147521](https://github.com/flutter/flutter/pull/147521) opened on on April 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/147521) 1200 additions and 13 deletions in 13 files</sub><br />
 
