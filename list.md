@@ -1058,7 +1058,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-7 commits.
+8 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - web implementation
     <sub>[#6187](https://github.com/flutter/packages/pull/6187) merged on April 30, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6187) over 2 months, 657 additions and 107 deletions in 20 files</sub>
@@ -1087,6 +1087,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [file_selector_android] Update `LICENSE` file to include newly added licensed code
     <sub>[#6626](https://github.com/flutter/packages/pull/6626) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6626) over 27 minutes, 210 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [go_router_builder] Tweaks for latest analyzer-6.5.0
+    <sub>[#6632](https://github.com/flutter/packages/pull/6632) merged on April 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6632) over 2 hours, 9 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 ### April 20, 2024 to April 26, 2024
 
