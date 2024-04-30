@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-8 commits.
+9 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3<br />
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub><br />
@@ -23,6 +23,10 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add configurable hitTestBehavior to Scrollable<br />
     <sub>[#146403](https://github.com/flutter/flutter/pull/146403) merged on April 29, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/146403) over 3 weeks, 208 additions and 1 deletion in 10 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "add a new PopScope.onPopWithResultInvoke widget to replace Po…<br />
+    <sub>[#147597](https://github.com/flutter/flutter/pull/147597) merged on April 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/147597) over 7 minutes, 75 additions and 546 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; include exception details in tool exit displayed when adb call fails<br />
     <sub>[#147498](https://github.com/flutter/flutter/pull/147498) merged on April 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147498) over 1 day, 12 additions and 3 deletions in 2 files</sub><br />
