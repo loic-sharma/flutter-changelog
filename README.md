@@ -1058,7 +1058,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-8 commits.
+9 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - web implementation<br />
     <sub>[#6187](https://github.com/flutter/packages/pull/6187) merged on April 30, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6187) over 2 months, 657 additions and 107 deletions in 20 files</sub><br />
@@ -1091,6 +1091,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [go_router_builder] Tweaks for latest analyzer-6.5.0<br />
     <sub>[#6632](https://github.com/flutter/packages/pull/6632) merged on April 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6632) over 2 hours, 9 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip podspec Swift Search Path validation if only swift file is Package.swift<br />
+    <sub>[#6627](https://github.com/flutter/packages/pull/6627) merged on April 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6627) over 1 day, 55 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 ### April 20, 2024 to April 26, 2024
 
