@@ -77,3 +77,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for callback_shortcuts.0.dart API examples.<br />
     <sub>[#147536](https://github.com/flutter/flutter/pull/147536) opened on on April 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147536) 60 additions and 30 deletions in 3 files</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; test focus example 0<br />
+    <sub>[#147564](https://github.com/flutter/flutter/pull/147564) opened on on April 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147564) 80 additions and 1 deletion in 2 files</sub><br />
+
