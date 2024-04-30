@@ -67,7 +67,7 @@
     <sub><details><summary>1 image...</summary><img width="382" alt="Screenshot 2024-04-24 at 9 18 05 AM" src="https://github.com/flutter/flutter/assets/12115586/52d69038-8537-49f3-a7f8-535e59390c5e"></details></sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Catch any `FileSystemException` thrown when trying to read the template manifest during `flutter create`
-    <sub>[#145620](https://github.com/flutter/flutter/pull/145620) merged on April 26, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/145620) over 1 month, 46 additions and 1 deletion in 2 files</sub>
+    <sub>[#145620](https://github.com/flutter/flutter/pull/145620) merged on April 26, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/145620) over 1 month, 46 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Elias Yishak](https://github.com/eliasyishak), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add a new PopScope.onPopWithResultInvoke widget to replace PopScope.onPopInvoke
