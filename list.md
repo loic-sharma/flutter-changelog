@@ -1046,7 +1046,11 @@
 
 ### April 27, 2024 to May 3, 2024
 
-3 commits.
+4 commits.
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - android implementation
+    <sub>[#6185](https://github.com/flutter/packages/pull/6185) merged on April 30, 2024 &mdash; **Extra large:** [72 comments](https://github.com/flutter/packages/pull/6185) over 2 months, 1810 additions and 67 deletions in 28 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [file_selector_android] Modifies `getDirectoryPath`, `openFile`, `openFiles` to return file/directory paths instead of URIs
     <sub>[#6438](https://github.com/flutter/packages/pull/6438) merged on April 29, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6438) over 1 month, 712 additions and 141 deletions in 9 files</sub>
