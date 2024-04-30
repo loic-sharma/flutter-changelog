@@ -44,6 +44,9 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Invoke optionsViewBuilder even when optionsBuilder returns empty Iterable<br />
     <sub>[#147194](https://github.com/flutter/flutter/pull/147194) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147194) 5 additions and 5 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add kotlinOptions jvmTarget to templates<br />
+    <sub>[#147326](https://github.com/flutter/flutter/pull/147326) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147326) 31 additions and 7 deletions in 11 files</sub><br />
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on the default LocalPlatform<br />
     <sub>[#147342](https://github.com/flutter/flutter/pull/147342) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147342) 68 additions and 47 deletions in 3 files</sub><br />
 
@@ -79,7 +82,4 @@
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test focus example 0<br />
     <sub>[#147564](https://github.com/flutter/flutter/pull/147564) opened on on April 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147564) 80 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ExpansionTile.<br />
-    <sub>[#147596](https://github.com/flutter/flutter/pull/147596) opened on on April 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147596) 6 additions and 1 deletion in 2 files</sub><br />
 
