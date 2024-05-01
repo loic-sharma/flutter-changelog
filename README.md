@@ -37,7 +37,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fix memory leak in `TabPageSelector`  (#147403)"<br />
-    <sub>[#147622](https://github.com/flutter/flutter/pull/147622) merged on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147622) over 31 seconds, 27 additions and 81 deletions in 2 files</sub><br />
+    <sub>[#147622](https://github.com/flutter/flutter/pull/147622) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147622) over 31 seconds, 27 additions and 81 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `TabPageSelector` <br />
