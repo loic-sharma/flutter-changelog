@@ -595,7 +595,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-11 commits.
+12 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wire up hardware buffer backed swapchains on Android.<br />
     <sub>[#52087](https://github.com/flutter/engine/pull/52087) merged on May 1, 2024 &mdash; **Large:** [50 comments](https://github.com/flutter/engine/pull/52087) over 2 weeks, 1181 additions and 79 deletions in 31 files</sub><br />
@@ -632,6 +632,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix GLES image upload.<br />
     <sub>[#52430](https://github.com/flutter/engine/pull/52430) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52430) over 15 hours, 21 additions and 10 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; macOS fluttertextinputplugin drops selector called if no client<br />
+    <sub>[#52495](https://github.com/flutter/engine/pull/52495) merged on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52495) over 3 hours, 45 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix et run<br />
     <sub>[#52477](https://github.com/flutter/engine/pull/52477) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52477) over 10 hours, 28 additions and 16 deletions in 2 files</sub><br />
