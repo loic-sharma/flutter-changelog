@@ -555,7 +555,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-8 commits.
+9 commits.
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Workaround HardwareRenderer breakage in Android 14
     <sub>[#52370](https://github.com/flutter/engine/pull/52370) merged on April 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52370) over 5 days, 114 additions and 6 deletions in 5 files</sub>
@@ -584,6 +584,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix GLES image upload.
     <sub>[#52430](https://github.com/flutter/engine/pull/52430) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52430) over 15 hours, 21 additions and 10 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix et run
+    <sub>[#52477](https://github.com/flutter/engine/pull/52477) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52477) over 10 hours, 28 additions and 16 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Change default `FilterQuality` to `None` for image shaders.
     <sub>[#52468](https://github.com/flutter/engine/pull/52468) merged on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52468) over 3 hours, 91 additions and 27 deletions in 2 files</sub>
