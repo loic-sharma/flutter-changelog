@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-11 commits.
+12 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -39,6 +39,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter
     <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Added missing code block language in docs
+    <sub>[#147481](https://github.com/flutter/flutter/pull/147481) merged on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147481) over 3 days, 58 additions and 58 deletions in 28 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fix memory leak in `TabPageSelector`  (#147403)"
     <sub>[#147622](https://github.com/flutter/flutter/pull/147622) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147622) over 31 seconds, 27 additions and 81 deletions in 2 files</sub>
