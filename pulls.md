@@ -65,3 +65,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add test for focus example 2<br />
     <sub>[#147624](https://github.com/flutter/flutter/pull/147624) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147624) 42 additions and 1 deletion in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `clipBehavior` to `DialogTheme`<br />
+    <sub>[#147635](https://github.com/flutter/flutter/pull/147635) opened on on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147635) 22 additions and 10 deletions in 2 files</sub><br />
+
