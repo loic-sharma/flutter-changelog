@@ -1106,7 +1106,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-9 commits.
+10 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - web implementation<br />
     <sub>[#6187](https://github.com/flutter/packages/pull/6187) merged on April 30, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6187) over 2 months, 657 additions and 107 deletions in 20 files</sub><br />
@@ -1123,6 +1123,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Don't log if `hierarchicalLoggingEnabled` is `true` <br />
     <sub>[#6019](https://github.com/flutter/packages/pull/6019) merged on April 29, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/6019) over 2 months, 78 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[petermnt](https://github.com/petermnt)** &mdash; [webview_flutter_android] Fixes iframe navigation with `onNavigationRequest`<br />
+    <sub>[#6335](https://github.com/flutter/packages/pull/6335) merged on May 1, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/6335) over 1 month, 325 additions and 10 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Waleed Alenazi](https://github.com/waleedf112)** &mdash; [flutter_adaptive_scaffold] use `MediaQuery.sizeOf` instead of `MediaQuery.of` to prevent unnecessary rebuilds<br />
     <sub>[#6544](https://github.com/flutter/packages/pull/6544) merged on April 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6544) over 2 weeks, 47 additions and 5 deletions in 4 files</sub><br />
