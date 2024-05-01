@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-15 commits.
+16 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3<br />
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub><br />
@@ -19,6 +19,10 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: showDateRangePicker with "large" helpText cutoffs the save button<br />
     <sub>[#146049](https://github.com/flutter/flutter/pull/146049) merged on April 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/146049) over 4 weeks, 16 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Tim Lehmann](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning<br />
+    <sub>[#145647](https://github.com/flutter/flutter/pull/145647) merged on May 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/145647) over 1 month, 134 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add configurable hitTestBehavior to Scrollable<br />
     <sub>[#146403](https://github.com/flutter/flutter/pull/146403) merged on April 29, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/146403) over 3 weeks, 208 additions and 1 deletion in 10 files</sub><br />
@@ -61,7 +65,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `TabPageSelector` <br />
-    <sub>[#147403](https://github.com/flutter/flutter/pull/147403) merged on April 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147403) over 4 days, 81 additions and 27 deletions in 2 files</sub><br />
+    <sub>[#147403](https://github.com/flutter/flutter/pull/147403) merged on April 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147403) over 4 days, 81 additions and 27 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 752b146df767 to f4c20e97e6aa (2 revisions) (#147495)"<br />
