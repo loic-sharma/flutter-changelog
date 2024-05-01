@@ -558,7 +558,7 @@
 8 commits.
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Workaround HardwareRenderer breakage in Android 14<br />
-    <sub>[#52370](https://github.com/flutter/engine/pull/52370) merged on April 30, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/52370) over 5 days, 114 additions and 6 deletions in 5 files</sub><br />
+    <sub>[#52370](https://github.com/flutter/engine/pull/52370) merged on April 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52370) over 5 days, 114 additions and 6 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Phil D](https://github.com/phcd30), [Jorge Nicolás Nogueiras](https://github.com/nogueirasjorge), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Make SkUnicode explicitly instead of relying on SkParagraph to make it for us<br />
