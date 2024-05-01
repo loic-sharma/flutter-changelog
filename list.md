@@ -551,7 +551,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-7 commits.
+8 commits.
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Workaround HardwareRenderer breakage in Android 14
     <sub>[#52370](https://github.com/flutter/engine/pull/52370) merged on April 30, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/52370) over 5 days, 114 additions and 6 deletions in 5 files</sub>
@@ -560,6 +560,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Make SkUnicode explicitly instead of relying on SkParagraph to make it for us
     <sub>[#52086](https://github.com/flutter/engine/pull/52086) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52086) over 2 weeks, 25 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document the EGL toolkit.
+    <sub>[#52469](https://github.com/flutter/engine/pull/52469) merged on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52469) over 5 hours, 168 additions and 10 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add commands to rbe.md
     <sub>[#52442](https://github.com/flutter/engine/pull/52442) merged on April 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52442) over 1 hour, 45 additions and 0 deletions in 1 file</sub>
