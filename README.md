@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-20 commits.
+21 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3<br />
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub><br />
@@ -47,6 +47,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; include exception details in tool exit displayed when adb call fails<br />
     <sub>[#147498](https://github.com/flutter/flutter/pull/147498) merged on April 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147498) over 1 day, 12 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove platform_messages_integration test<br />
+    <sub>[#147654](https://github.com/flutter/flutter/pull/147654) merged on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147654) over 4 hours, 0 additions and 129 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; add lang attribute to the a11y_assessments app<br />
     <sub>[#147586](https://github.com/flutter/flutter/pull/147586) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147586) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -595,7 +599,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-12 commits.
+13 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wire up hardware buffer backed swapchains on Android.<br />
     <sub>[#52087](https://github.com/flutter/engine/pull/52087) merged on May 1, 2024 &mdash; **Large:** [50 comments](https://github.com/flutter/engine/pull/52087) over 2 weeks, 1181 additions and 79 deletions in 31 files</sub><br />
@@ -604,6 +608,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Implements retry for `Picture.toImage`<br />
     <sub>[#52470](https://github.com/flutter/engine/pull/52470) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52470) over 18 hours, 198 additions and 49 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate PlatformMessageHandlerIos to ARC<br />
+    <sub>[#52226](https://github.com/flutter/engine/pull/52226) merged on May 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/52226) over 1 week, 13 additions and 19 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Workaround HardwareRenderer breakage in Android 14<br />
     <sub>[#52370](https://github.com/flutter/engine/pull/52370) merged on April 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52370) over 5 days, 114 additions and 6 deletions in 5 files</sub><br />

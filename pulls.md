@@ -44,9 +44,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactor `Material` build method<br />
     <sub>[#147430](https://github.com/flutter/flutter/pull/147430) opened on on April 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147430) 37 additions and 92 deletions in 1 file</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Control flow collections: `flutter_tools/`<br />
-    <sub>[#147450](https://github.com/flutter/flutter/pull/147450) opened on on April 27, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/147450) 221 additions and 459 deletions in 26 files</sub><br />
-
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix MenuItemButton if child is null <br />
     <sub>[#147485](https://github.com/flutter/flutter/pull/147485) opened on on April 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147485) 19 additions and 1 deletion in 2 files</sub><br />
 
@@ -61,7 +58,4 @@
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `SearchAnchor` leak<br />
     <sub>[#147652](https://github.com/flutter/flutter/pull/147652) opened on on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147652) 55 additions and 23 deletions in 2 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove obsolete performance analysis tools.<br />
-    <sub>[#147663](https://github.com/flutter/flutter/pull/147663) opened on on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147663) 4 additions and 217 deletions in 8 files</sub><br />
 
