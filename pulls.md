@@ -62,3 +62,6 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `SearchAnchor` leak<br />
     <sub>[#147652](https://github.com/flutter/flutter/pull/147652) opened on on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147652) 55 additions and 23 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove obsolete performance analysis tools.<br />
+    <sub>[#147663](https://github.com/flutter/flutter/pull/147663) opened on on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147663) 4 additions and 217 deletions in 8 files</sub><br />
+

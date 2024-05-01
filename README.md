@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-18 commits.
+19 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3<br />
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub><br />
@@ -55,6 +55,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter<br />
     <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions<br />
+    <sub>[#147472](https://github.com/flutter/flutter/pull/147472) merged on May 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/147472) over 4 days, 195 additions and 275 deletions in 25 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Ellet](https://github.com/ellet0)** &mdash; Update reorderable_list.dart to use Dart 3 return switch statement for consistency<br />
     <sub>[#147505](https://github.com/flutter/flutter/pull/147505) merged on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147505) over 2 days, 4 additions and 6 deletions in 1 file</sub><br />
@@ -587,7 +591,11 @@
 
 ### April 27, 2024 to May 3, 2024
 
-10 commits.
+11 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wire up hardware buffer backed swapchains on Android.<br />
+    <sub>[#52087](https://github.com/flutter/engine/pull/52087) merged on May 1, 2024 &mdash; **Large:** [50 comments](https://github.com/flutter/engine/pull/52087) over 2 weeks, 1181 additions and 79 deletions in 31 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Implements retry for `Picture.toImage`<br />
     <sub>[#52470](https://github.com/flutter/engine/pull/52470) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52470) over 18 hours, 198 additions and 49 deletions in 13 files</sub><br />
