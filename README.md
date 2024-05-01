@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-9 commits.
+10 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3<br />
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub><br />
@@ -36,8 +36,12 @@
     <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fix memory leak in `TabPageSelector`  (#147403)"<br />
+    <sub>[#147622](https://github.com/flutter/flutter/pull/147622) merged on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147622) over 31 seconds, 27 additions and 81 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `TabPageSelector` <br />
-    <sub>[#147403](https://github.com/flutter/flutter/pull/147403) merged on April 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147403) over 4 days, 81 additions and 27 deletions in 2 files</sub><br />
+    <sub>[#147403](https://github.com/flutter/flutter/pull/147403) merged on April 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147403) over 4 days, 81 additions and 27 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 752b146df767 to f4c20e97e6aa (2 revisions) (#147495)"<br />
