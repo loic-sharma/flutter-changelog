@@ -62,3 +62,6 @@
 * **[Ellet](https://github.com/ellet0)** &mdash; Use super.key instead of manually passing the Key parameter to the parent class<br />
     <sub>[#147621](https://github.com/flutter/flutter/pull/147621) opened on on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147621) 30 additions and 33 deletions in 11 files</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add test for focus example 2<br />
+    <sub>[#147624](https://github.com/flutter/flutter/pull/147624) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147624) 42 additions and 1 deletion in 2 files</sub><br />
+
