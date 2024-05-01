@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-21 commits.
+22 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -31,6 +31,10 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add configurable hitTestBehavior to Scrollable
     <sub>[#146403](https://github.com/flutter/flutter/pull/146403) merged on April 29, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/146403) over 3 weeks, 208 additions and 1 deletion in 10 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix DropdownMenu overflow
+    <sub>[#147233](https://github.com/flutter/flutter/pull/147233) merged on May 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147233) over 1 week, 62 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Draggable feedback positioning (#145647)"
     <sub>[#147658](https://github.com/flutter/flutter/pull/147658) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147658) over 56 seconds, 4 additions and 134 deletions in 2 files</sub>
