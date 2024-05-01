@@ -68,3 +68,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `clipBehavior` to `DialogTheme`<br />
     <sub>[#147635](https://github.com/flutter/flutter/pull/147635) opened on on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147635) 74 additions and 10 deletions in 3 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.<br />
+    <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147637) 151 additions and 3 deletions in 4 files</sub><br />
+
