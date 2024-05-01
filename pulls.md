@@ -72,5 +72,5 @@
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147637) 151 additions and 3 deletions in 4 files</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `SearchAnchor` leak<br />
-    <sub>[#147652](https://github.com/flutter/flutter/pull/147652) opened on on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147652) 55 additions and 23 deletions in 2 files</sub><br />
+    <sub>[#147652](https://github.com/flutter/flutter/pull/147652) opened on on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147652) 55 additions and 23 deletions in 2 files</sub><br />
 
