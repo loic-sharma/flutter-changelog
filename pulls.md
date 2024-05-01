@@ -23,9 +23,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; feat: Rework getting plugin implementation candidates and plugin resolution<br />
     <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/145258) 409 additions and 105 deletions in 2 files</sub><br />
 
-* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
-    <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
-
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
@@ -52,9 +49,6 @@
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix MenuItemButton if child is null <br />
     <sub>[#147485](https://github.com/flutter/flutter/pull/147485) opened on on April 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147485) 19 additions and 1 deletion in 2 files</sub><br />
-
-* **[Ellet](https://github.com/ellet0)** &mdash; Use super.key instead of manually passing the Key parameter to the parent class<br />
-    <sub>[#147621](https://github.com/flutter/flutter/pull/147621) opened on on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147621) 30 additions and 33 deletions in 11 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add test for focus example 2<br />
     <sub>[#147624](https://github.com/flutter/flutter/pull/147624) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147624) 42 additions and 1 deletion in 2 files</sub><br />
