@@ -60,5 +60,5 @@
     <sub>[#147485](https://github.com/flutter/flutter/pull/147485) opened on on April 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147485) 19 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ellet](https://github.com/ellet0)** &mdash; Use super.key instead of manually passing the Key parameter to the parent class<br />
-    <sub>[#147621](https://github.com/flutter/flutter/pull/147621) opened on on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147621) 31 additions and 34 deletions in 12 files</sub><br />
+    <sub>[#147621](https://github.com/flutter/flutter/pull/147621) opened on on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147621) 30 additions and 33 deletions in 11 files</sub><br />
 
