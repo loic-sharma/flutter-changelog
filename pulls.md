@@ -71,3 +71,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.<br />
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147637) 151 additions and 3 deletions in 4 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move docs_test and docs_publish to bringup<br />
+    <sub>[#147645](https://github.com/flutter/flutter/pull/147645) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147645) 2 additions and 0 deletions in 1 file</sub><br />
+
