@@ -27,7 +27,7 @@
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Rework getting plugin implementation candidates and plugin resolution<br />
-    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/flutter/pull/145258) 409 additions and 105 deletions in 2 files</sub><br />
+    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/145258) 409 additions and 105 deletions in 2 files</sub><br />
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; [Fix]: MenuAnchor is close when screen size change (#146380)<br />
     <sub>[#146384](https://github.com/flutter/flutter/pull/146384) opened on on April 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/146384) 40 additions and 1 deletion in 2 files</sub><br />
