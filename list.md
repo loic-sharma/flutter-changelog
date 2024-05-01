@@ -73,7 +73,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `TabPageSelector` 
-    <sub>[#147403](https://github.com/flutter/flutter/pull/147403) merged on April 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147403) over 4 days, 81 additions and 27 deletions in 2 files</sub>
+    <sub>[#147403](https://github.com/flutter/flutter/pull/147403) merged on April 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147403) over 4 days, 81 additions and 27 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 752b146df767 to f4c20e97e6aa (2 revisions) (#147495)"
