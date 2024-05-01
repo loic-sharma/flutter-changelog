@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-17 commits.
+18 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -21,12 +21,16 @@
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Tim Lehmann](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning
-    <sub>[#145647](https://github.com/flutter/flutter/pull/145647) merged on May 1, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/145647) over 1 month, 134 additions and 4 deletions in 2 files</sub>
+    <sub>[#145647](https://github.com/flutter/flutter/pull/145647) merged on May 1, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/145647) over 1 month, 134 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add configurable hitTestBehavior to Scrollable
     <sub>[#146403](https://github.com/flutter/flutter/pull/146403) merged on April 29, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/146403) over 3 weeks, 208 additions and 1 deletion in 10 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Draggable feedback positioning (#145647)"
+    <sub>[#147658](https://github.com/flutter/flutter/pull/147658) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147658) over 56 seconds, 4 additions and 134 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_fractionally_sized_box.0.dart API example.
     <sub>[#146721](https://github.com/flutter/flutter/pull/146721) merged on May 1, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/146721) over 2 weeks, 150 additions and 8 deletions in 3 files</sub>
