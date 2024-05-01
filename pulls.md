@@ -71,6 +71,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.<br />
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147637) 151 additions and 3 deletions in 4 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [framework] dont clip navigator by default.<br />
-    <sub>[#147648](https://github.com/flutter/flutter/pull/147648) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147648) 6 additions and 6 deletions in 3 files</sub><br />
-

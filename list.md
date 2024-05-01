@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-13 commits.
+15 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -24,6 +24,10 @@
     <sub>[#146403](https://github.com/flutter/flutter/pull/146403) merged on April 29, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/146403) over 3 weeks, 208 additions and 1 deletion in 10 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_fractionally_sized_box.0.dart API example.
+    <sub>[#146721](https://github.com/flutter/flutter/pull/146721) merged on May 1, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/146721) over 2 weeks, 150 additions and 8 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "add a new PopScope.onPopWithResultInvoke widget to replace Po…
     <sub>[#147597](https://github.com/flutter/flutter/pull/147597) merged on April 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/147597) over 7 minutes, 75 additions and 546 deletions in 18 files</sub>
     <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
@@ -39,6 +43,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter
     <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Ellet](https://github.com/ellet0)** &mdash; Update reorderable_list.dart to use Dart 3 return switch statement for consistency
+    <sub>[#147505](https://github.com/flutter/flutter/pull/147505) merged on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147505) over 2 days, 4 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for single_activator.0.dart API example.
     <sub>[#147426](https://github.com/flutter/flutter/pull/147426) merged on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147426) over 4 days, 49 additions and 3 deletions in 4 files</sub>
@@ -567,7 +575,11 @@
 
 ### April 27, 2024 to May 3, 2024
 
-9 commits.
+10 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Implements retry for `Picture.toImage`
+    <sub>[#52470](https://github.com/flutter/engine/pull/52470) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52470) over 18 hours, 198 additions and 49 deletions in 13 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Workaround HardwareRenderer breakage in Android 14
     <sub>[#52370](https://github.com/flutter/engine/pull/52370) merged on April 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52370) over 5 days, 114 additions and 6 deletions in 5 files</sub>
