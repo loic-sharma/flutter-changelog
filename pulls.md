@@ -33,7 +33,7 @@
     <sub>[#147194](https://github.com/flutter/flutter/pull/147194) opened on on April 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147194) 5 additions and 5 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add kotlinOptions jvmTarget to templates<br />
-    <sub>[#147326](https://github.com/flutter/flutter/pull/147326) opened on on April 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147326) 31 additions and 7 deletions in 11 files</sub><br />
+    <sub>[#147326](https://github.com/flutter/flutter/pull/147326) opened on on April 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147326) 31 additions and 7 deletions in 11 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactor `Material` build method<br />
     <sub>[#147430](https://github.com/flutter/flutter/pull/147430) opened on on April 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147430) 37 additions and 92 deletions in 1 file</sub><br />
