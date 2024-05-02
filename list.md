@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-29 commits.
+30 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -59,6 +59,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for `RenderWrap`
     <sub>[#146260](https://github.com/flutter/flutter/pull/146260) merged on May 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/146260) over 3 weeks, 238 additions and 179 deletions in 3 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] increase chromedriver logging level
+    <sub>[#147687](https://github.com/flutter/flutter/pull/147687) merged on May 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147687) over 16 hours, 3 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update selectable_text_test.dart
     <sub>[#147677](https://github.com/flutter/flutter/pull/147677) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147677) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
