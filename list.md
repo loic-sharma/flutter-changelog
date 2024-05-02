@@ -651,7 +651,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove incremental allocation during filled path tessellation.
-    <sub>[#52401](https://github.com/flutter/engine/pull/52401) merged on May 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52401) over 6 days, 346 additions and 175 deletions in 14 files</sub>
+    <sub>[#52401](https://github.com/flutter/engine/pull/52401) merged on May 2, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/52401) over 6 days, 346 additions and 175 deletions in 14 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove rasterizerTracingThreshold, checkerboardRasterCacheImages, and checkerboardOffscreenLayers, etc
