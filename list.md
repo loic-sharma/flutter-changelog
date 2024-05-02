@@ -637,6 +637,11 @@
 
 20 commits.
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; et phone home
+    <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>1 image...</summary><img width="684" alt="image" src="https://github.com/flutter/engine/assets/919017/2dcdc7e9-b0e1-434d-9078-1de6a3d57d35"></details></sub>
+
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Expose browser_detection through ui_web.
     <sub>[#52380](https://github.com/flutter/engine/pull/52380) merged on May 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52380) over 1 week, 607 additions and 533 deletions in 53 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
@@ -644,11 +649,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wire up hardware buffer backed swapchains on Android.
     <sub>[#52087](https://github.com/flutter/engine/pull/52087) merged on May 1, 2024 &mdash; **Large:** [51 comments](https://github.com/flutter/engine/pull/52087) over 2 weeks, 1181 additions and 79 deletions in 31 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; et phone home
-    <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-    <sub><details><summary>1 image...</summary><img width="684" alt="image" src="https://github.com/flutter/engine/assets/919017/2dcdc7e9-b0e1-434d-9078-1de6a3d57d35"></details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Implements retry for `Picture.toImage`
     <sub>[#52470](https://github.com/flutter/engine/pull/52470) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52470) over 18 hours, 198 additions and 49 deletions in 13 files</sub>
