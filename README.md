@@ -639,7 +639,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-21 commits.
+22 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; et phone home<br />
     <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub><br />
@@ -681,6 +681,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Make SkUnicode explicitly instead of relying on SkParagraph to make it for us<br />
     <sub>[#52086](https://github.com/flutter/engine/pull/52086) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52086) over 2 weeks, 25 additions and 12 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Put the view focus functionality behind a (disabled by default) flag<br />
+    <sub>[#52527](https://github.com/flutter/engine/pull/52527) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52527) over 56 minutes, 21 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Use new Dart_PortEx api to ensure SendPort can be rebuild properly.<br />
     <sub>[#52498](https://github.com/flutter/engine/pull/52498) merged on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52498) over 20 hours, 22 additions and 18 deletions in 4 files</sub><br />
