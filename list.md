@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-26 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -80,12 +80,16 @@
     <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow explicit exclusion of packages from pinned packages in `flutter update-packages --force-update`
+    <sub>[#147679](https://github.com/flutter/flutter/pull/147679) merged on May 2, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/147679) over 2 hours, 191 additions and 115 deletions in 41 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove obsolete performance analysis tools.
     <sub>[#147663](https://github.com/flutter/flutter/pull/147663) merged on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147663) over 2 hours, 4 additions and 217 deletions in 8 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `flutter/lib/src/`: refactoring if-chains into switch expressions
-    <sub>[#147472](https://github.com/flutter/flutter/pull/147472) merged on May 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/147472) over 4 days, 195 additions and 275 deletions in 25 files</sub>
+    <sub>[#147472](https://github.com/flutter/flutter/pull/147472) merged on May 1, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/147472) over 4 days, 195 additions and 275 deletions in 25 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Ellet](https://github.com/ellet0)** &mdash; Update reorderable_list.dart to use Dart 3 return switch statement for consistency
@@ -105,7 +109,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `TabPageSelector` 
-    <sub>[#147403](https://github.com/flutter/flutter/pull/147403) merged on April 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147403) over 4 days, 81 additions and 27 deletions in 2 files</sub>
+    <sub>[#147403](https://github.com/flutter/flutter/pull/147403) merged on April 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147403) over 4 days, 81 additions and 27 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from 752b146df767 to f4c20e97e6aa (2 revisions) (#147495)"
@@ -619,7 +623,11 @@
 
 ### April 27, 2024 to May 3, 2024
 
-14 commits.
+16 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Expose browser_detection through ui_web.
+    <sub>[#52380](https://github.com/flutter/engine/pull/52380) merged on May 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52380) over 1 week, 607 additions and 533 deletions in 53 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wire up hardware buffer backed swapchains on Android.
     <sub>[#52087](https://github.com/flutter/engine/pull/52087) merged on May 1, 2024 &mdash; **Large:** [50 comments](https://github.com/flutter/engine/pull/52087) over 2 weeks, 1181 additions and 79 deletions in 31 files</sub>
@@ -628,6 +636,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Implements retry for `Picture.toImage`
     <sub>[#52470](https://github.com/flutter/engine/pull/52470) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52470) over 18 hours, 198 additions and 49 deletions in 13 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove incremental allocation during filled path tessellation.
+    <sub>[#52401](https://github.com/flutter/engine/pull/52401) merged on May 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52401) over 6 days, 346 additions and 175 deletions in 14 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate PlatformMessageHandlerIos to ARC
     <sub>[#52226](https://github.com/flutter/engine/pull/52226) merged on May 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/52226) over 1 week, 13 additions and 19 deletions in 3 files</sub>
