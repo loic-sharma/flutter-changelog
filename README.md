@@ -1199,7 +1199,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-11 commits.
+12 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - web implementation<br />
     <sub>[#6187](https://github.com/flutter/packages/pull/6187) merged on April 30, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6187) over 2 months, 657 additions and 107 deletions in 20 files</sub><br />
@@ -1228,6 +1228,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [image_picker] Update documentation to note that Photo Picker use is non-optional on Android 13+<br />
     <sub>[#6569](https://github.com/flutter/packages/pull/6569) merged on April 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6569) over 1 week, 15 additions and 5 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [in_app_purchase] implement countryCode correctly<br />
+    <sub>[#6636](https://github.com/flutter/packages/pull/6636) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6636) over 4 hours, 30 additions and 7 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [file_selector_android] Update `LICENSE` file to include newly added licensed code<br />
     <sub>[#6626](https://github.com/flutter/packages/pull/6626) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6626) over 27 minutes, 210 additions and 1 deletion in 3 files</sub><br />
