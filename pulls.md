@@ -50,12 +50,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.<br />
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147637) 151 additions and 3 deletions in 4 files</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `SearchAnchor` leak<br />
-    <sub>[#147652](https://github.com/flutter/flutter/pull/147652) opened on on May 1, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147652) 55 additions and 23 deletions in 2 files</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland fix memory leaks for tab selector<br />
-    <sub>[#147689](https://github.com/flutter/flutter/pull/147689) opened on on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147689) 81 additions and 27 deletions in 2 files</sub><br />
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix dep tracking<br />
     <sub>[#147709](https://github.com/flutter/flutter/pull/147709) opened on on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147709) 42 additions and 13 deletions in 2 files</sub><br />
 
