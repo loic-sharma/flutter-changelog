@@ -1205,6 +1205,10 @@
     <sub>[#6438](https://github.com/flutter/packages/pull/6438) merged on April 29, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6438) over 1 month, 712 additions and 141 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
+* **[Waleed Alenazi](https://github.com/waleedf112)** &mdash; [flutter_adaptive_scaffold] use `MediaQuery.sizeOf` instead of `MediaQuery.of` to prevent unnecessary rebuilds<br />
+    <sub>[#6544](https://github.com/flutter/packages/pull/6544) merged on April 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6544) over 2 weeks, 47 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Don't log if `hierarchicalLoggingEnabled` is `true` <br />
     <sub>[#6019](https://github.com/flutter/packages/pull/6019) merged on April 29, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/6019) over 2 months, 78 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
@@ -1212,10 +1216,6 @@
 * **[petermnt](https://github.com/petermnt)** &mdash; [webview_flutter_android] Fixes iframe navigation with `onNavigationRequest`<br />
     <sub>[#6335](https://github.com/flutter/packages/pull/6335) merged on May 1, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/packages/pull/6335) over 1 month, 325 additions and 10 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
-
-* **[Waleed Alenazi](https://github.com/waleedf112)** &mdash; [flutter_adaptive_scaffold] use `MediaQuery.sizeOf` instead of `MediaQuery.of` to prevent unnecessary rebuilds<br />
-    <sub>[#6544](https://github.com/flutter/packages/pull/6544) merged on April 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6544) over 2 weeks, 47 additions and 5 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [image_picker] Update documentation to note that Photo Picker use is non-optional on Android 13+<br />
     <sub>[#6569](https://github.com/flutter/packages/pull/6569) merged on April 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6569) over 1 week, 15 additions and 5 deletions in 6 files</sub><br />
