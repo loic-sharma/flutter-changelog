@@ -21,7 +21,7 @@
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Tim Lehmann](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning
-    <sub>[#145647](https://github.com/flutter/flutter/pull/145647) merged on May 1, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/145647) over 1 month, 134 additions and 4 deletions in 2 files</sub>
+    <sub>[#145647](https://github.com/flutter/flutter/pull/145647) merged on May 1, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/145647) over 1 month, 134 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix `TextField` horizontal drag conflicts
@@ -635,7 +635,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-20 commits.
+21 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; et phone home
     <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub>
@@ -657,6 +657,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove incremental allocation during filled path tessellation.
     <sub>[#52401](https://github.com/flutter/engine/pull/52401) merged on May 2, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/52401) over 6 days, 346 additions and 175 deletions in 14 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove checkerboard.
+    <sub>[#52524](https://github.com/flutter/engine/pull/52524) merged on May 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/52524) over 2 hours, 0 additions and 677 deletions in 19 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove rasterizerTracingThreshold, checkerboardRasterCacheImages, and checkerboardOffscreenLayers, etc
     <sub>[#52446](https://github.com/flutter/engine/pull/52446) merged on May 2, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/52446) over 2 days, 215 additions and 767 deletions in 28 files</sub>
