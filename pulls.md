@@ -62,3 +62,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for logical_key_set.0.dart API example.<br />
     <sub>[#147735](https://github.com/flutter/flutter/pull/147735) opened on on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147735) 132 additions and 1 deletion in 2 files</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip debug mode CanvasKit e2e tests due to flakiness; unskip all other modes<br />
+    <sub>[#147736](https://github.com/flutter/flutter/pull/147736) opened on on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147736) 13 additions and 4 deletions in 1 file</sub><br />
+
