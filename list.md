@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-31 commits.
+32 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -62,6 +62,10 @@
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for `RenderWrap`
     <sub>[#146260](https://github.com/flutter/flutter/pull/146260) merged on May 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/146260) over 3 weeks, 238 additions and 179 deletions in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Add default arguments to `AnimatedPhysicalModel`
+    <sub>[#147424](https://github.com/flutter/flutter/pull/147424) merged on May 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147424) over 6 days, 49 additions and 11 deletions in 3 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] increase chromedriver logging level
@@ -639,7 +643,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-22 commits.
+23 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; et phone home
     <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub>
@@ -681,6 +685,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Make SkUnicode explicitly instead of relying on SkParagraph to make it for us
     <sub>[#52086](https://github.com/flutter/engine/pull/52086) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52086) over 2 weeks, 25 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated RBE documentation for default credentials.
+    <sub>[#52530](https://github.com/flutter/engine/pull/52530) merged on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52530) over 40 minutes, 8 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Put the view focus functionality behind a (disabled by default) flag
     <sub>[#52527](https://github.com/flutter/engine/pull/52527) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52527) over 56 minutes, 21 additions and 2 deletions in 2 files</sub>
