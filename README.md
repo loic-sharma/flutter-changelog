@@ -631,7 +631,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-18 commits.
+19 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Expose browser_detection through ui_web.<br />
     <sub>[#52380](https://github.com/flutter/engine/pull/52380) merged on May 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52380) over 1 week, 607 additions and 533 deletions in 53 files</sub><br />
@@ -669,6 +669,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Make SkUnicode explicitly instead of relying on SkParagraph to make it for us<br />
     <sub>[#52086](https://github.com/flutter/engine/pull/52086) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52086) over 2 weeks, 25 additions and 12 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] allow for one more active swapchain image.<br />
+    <sub>[#52505](https://github.com/flutter/engine/pull/52505) merged on May 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52505) over 5 hours, 4 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document the EGL toolkit.<br />
     <sub>[#52469](https://github.com/flutter/engine/pull/52469) merged on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52469) over 5 hours, 168 additions and 10 deletions in 6 files</sub><br />
