@@ -59,9 +59,6 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `SearchAnchor` leak<br />
     <sub>[#147652](https://github.com/flutter/flutter/pull/147652) opened on on May 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147652) 55 additions and 23 deletions in 2 files</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] increase chromedriver logging level<br />
-    <sub>[#147687](https://github.com/flutter/flutter/pull/147687) opened on on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147687) 3 additions and 2 deletions in 1 file</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland fix memory leaks for tab selector<br />
     <sub>[#147689](https://github.com/flutter/flutter/pull/147689) opened on on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147689) 81 additions and 27 deletions in 2 files</sub><br />
 
