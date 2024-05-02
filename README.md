@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-27 commits.
+28 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3<br />
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub><br />
@@ -57,7 +57,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for `RenderWrap`<br />
-    <sub>[#146260](https://github.com/flutter/flutter/pull/146260) merged on May 1, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/146260) over 3 weeks, 238 additions and 179 deletions in 3 files</sub><br />
+    <sub>[#146260](https://github.com/flutter/flutter/pull/146260) merged on May 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/146260) over 3 weeks, 238 additions and 179 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update selectable_text_test.dart<br />
@@ -79,6 +79,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter<br />
     <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Implement computeDryBaseline for `RenderWrap` (#146260)"<br />
+    <sub>[#147692](https://github.com/flutter/flutter/pull/147692) merged on May 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147692) over 43 seconds, 179 additions and 238 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow explicit exclusion of packages from pinned packages in `flutter update-packages --force-update`<br />
     <sub>[#147679](https://github.com/flutter/flutter/pull/147679) merged on May 2, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/147679) over 2 hours, 191 additions and 115 deletions in 41 files</sub><br />
