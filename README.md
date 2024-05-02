@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-32 commits.
+34 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3<br />
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub><br />
@@ -20,6 +20,10 @@
     <sub>[#146049](https://github.com/flutter/flutter/pull/146049) merged on April 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/146049) over 4 weeks, 16 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Control flow collections: `flutter_tools/`<br />
+    <sub>[#147450](https://github.com/flutter/flutter/pull/147450) merged on May 2, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/147450) over 5 days, 221 additions and 459 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 * **[Tim Lehmann](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning<br />
     <sub>[#145647](https://github.com/flutter/flutter/pull/145647) merged on May 1, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/145647) over 1 month, 134 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -32,9 +36,13 @@
     <sub>[#146403](https://github.com/flutter/flutter/pull/146403) merged on April 29, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/146403) over 3 weeks, 208 additions and 1 deletion in 10 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix DropdownMenu overflow<br />
-    <sub>[#147233](https://github.com/flutter/flutter/pull/147233) merged on May 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147233) over 1 week, 62 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] skip debug mode CanvasKit e2e tests due to flakiness; unskip all other modes<br />
+    <sub>[#147736](https://github.com/flutter/flutter/pull/147736) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147736) over 2 hours, 13 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "add a new PopScope.onPopWithResultInvoke widget to replace Po…<br />
+    <sub>[#147597](https://github.com/flutter/flutter/pull/147597) merged on April 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/147597) over 7 minutes, 75 additions and 546 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Draggable feedback positioning (#145647)"<br />
     <sub>[#147658](https://github.com/flutter/flutter/pull/147658) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147658) over 56 seconds, 4 additions and 134 deletions in 2 files</sub><br />
@@ -44,9 +52,9 @@
     <sub>[#146721](https://github.com/flutter/flutter/pull/146721) merged on May 1, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/146721) over 2 weeks, 150 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "add a new PopScope.onPopWithResultInvoke widget to replace Po…<br />
-    <sub>[#147597](https://github.com/flutter/flutter/pull/147597) merged on April 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/147597) over 7 minutes, 75 additions and 546 deletions in 18 files</sub><br />
-    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix DropdownMenu overflow<br />
+    <sub>[#147233](https://github.com/flutter/flutter/pull/147233) merged on May 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147233) over 1 week, 62 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; include exception details in tool exit displayed when adb call fails<br />
     <sub>[#147498](https://github.com/flutter/flutter/pull/147498) merged on April 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147498) over 1 day, 12 additions and 3 deletions in 2 files</sub><br />
@@ -84,17 +92,17 @@
     <sub>[#147472](https://github.com/flutter/flutter/pull/147472) merged on May 1, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/147472) over 4 days, 195 additions and 275 deletions in 25 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; add lang attribute to the a11y_assessments app<br />
-    <sub>[#147586](https://github.com/flutter/flutter/pull/147586) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147586) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter<br />
+    <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move docs_test and docs_publish to bringup<br />
     <sub>[#147645](https://github.com/flutter/flutter/pull/147645) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147645) over 8 minutes, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter<br />
-    <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Yegor](https://github.com/yjbanov)** &mdash; add lang attribute to the a11y_assessments app<br />
+    <sub>[#147586](https://github.com/flutter/flutter/pull/147586) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147586) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add verbose logging to select hot reload/hot restart tests<br />
     <sub>[#147673](https://github.com/flutter/flutter/pull/147673) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147673) over 6 hours, 12 additions and 3 deletions in 5 files</sub><br />
