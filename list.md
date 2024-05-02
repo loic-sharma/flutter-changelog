@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-28 commits.
+29 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -78,6 +78,10 @@
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter
     <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add verbose logging to select hot reload/hot restart tests
+    <sub>[#147673](https://github.com/flutter/flutter/pull/147673) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147673) over 6 hours, 12 additions and 3 deletions in 5 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Implement computeDryBaseline for `RenderWrap` (#146260)"
