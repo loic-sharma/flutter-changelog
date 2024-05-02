@@ -634,7 +634,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; et phone home<br />
-    <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary><img width="684" alt="image" src="https://github.com/flutter/engine/assets/919017/2dcdc7e9-b0e1-434d-9078-1de6a3d57d35"></details></sub>
 
