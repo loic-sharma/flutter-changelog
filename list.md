@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-24 commits.
+25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -55,6 +55,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for `RenderWrap`
     <sub>[#146260](https://github.com/flutter/flutter/pull/146260) merged on May 1, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/146260) over 3 weeks, 238 additions and 179 deletions in 3 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Update selectable_text_test.dart
+    <sub>[#147677](https://github.com/flutter/flutter/pull/147677) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147677) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] remove platform_messages_integration test
     <sub>[#147654](https://github.com/flutter/flutter/pull/147654) merged on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147654) over 4 hours, 0 additions and 129 deletions in 4 files</sub>
@@ -611,7 +615,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-13 commits.
+14 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wire up hardware buffer backed swapchains on Android.
     <sub>[#52087](https://github.com/flutter/engine/pull/52087) merged on May 1, 2024 &mdash; **Large:** [50 comments](https://github.com/flutter/engine/pull/52087) over 2 weeks, 1181 additions and 79 deletions in 31 files</sub>
@@ -652,6 +656,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix GLES image upload.
     <sub>[#52430](https://github.com/flutter/engine/pull/52430) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52430) over 15 hours, 21 additions and 10 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Don't mark the backend texture as mipmapped, since it isn't.
+    <sub>[#52501](https://github.com/flutter/engine/pull/52501) merged on May 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52501) over 3 hours, 3 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; macOS fluttertextinputplugin drops selector called if no client
     <sub>[#52495](https://github.com/flutter/engine/pull/52495) merged on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52495) over 3 hours, 45 additions and 1 deletion in 2 files</sub>
