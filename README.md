@@ -671,7 +671,7 @@
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] allow for one more active swapchain image.<br />
-    <sub>[#52505](https://github.com/flutter/engine/pull/52505) merged on May 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52505) over 5 hours, 4 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#52505](https://github.com/flutter/engine/pull/52505) merged on May 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52505) over 5 hours, 4 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document the EGL toolkit.<br />
