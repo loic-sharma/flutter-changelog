@@ -651,7 +651,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-23 commits.
+24 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; et phone home<br />
     <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub><br />
@@ -693,6 +693,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Make SkUnicode explicitly instead of relying on SkParagraph to make it for us<br />
     <sub>[#52086](https://github.com/flutter/engine/pull/52086) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52086) over 2 weeks, 25 additions and 12 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Round physical size to nearest whole number pixels<br />
+    <sub>[#52467](https://github.com/flutter/engine/pull/52467) merged on May 2, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/52467) over 2 days, 122 additions and 64 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated RBE documentation for default credentials.<br />
     <sub>[#52530](https://github.com/flutter/engine/pull/52530) merged on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52530) over 40 minutes, 8 additions and 0 deletions in 1 file</sub><br />
