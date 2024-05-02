@@ -56,3 +56,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland fix memory leaks for tab selector<br />
     <sub>[#147689](https://github.com/flutter/flutter/pull/147689) opened on on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147689) 81 additions and 27 deletions in 2 files</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add tests for material banner example<br />
+    <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147733) 73 additions and 2 deletions in 3 files</sub><br />
+
