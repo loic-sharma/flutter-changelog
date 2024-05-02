@@ -631,7 +631,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-19 commits.
+20 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Expose browser_detection through ui_web.
     <sub>[#52380](https://github.com/flutter/engine/pull/52380) merged on May 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/52380) over 1 week, 607 additions and 533 deletions in 53 files</sub>
@@ -669,6 +669,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Make SkUnicode explicitly instead of relying on SkParagraph to make it for us
     <sub>[#52086](https://github.com/flutter/engine/pull/52086) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52086) over 2 weeks, 25 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Use new Dart_PortEx api to ensure SendPort can be rebuild properly.
+    <sub>[#52498](https://github.com/flutter/engine/pull/52498) merged on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52498) over 20 hours, 22 additions and 18 deletions in 4 files</sub>
+    <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] allow for one more active swapchain image.
     <sub>[#52505](https://github.com/flutter/engine/pull/52505) merged on May 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52505) over 5 hours, 4 additions and 2 deletions in 1 file</sub>
