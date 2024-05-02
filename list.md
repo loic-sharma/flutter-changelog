@@ -695,8 +695,8 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Don't mark the backend texture as mipmapped, since it isn't.
-    <sub>[#52501](https://github.com/flutter/engine/pull/52501) merged on May 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52501) over 3 hours, 3 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+    <sub>[#52501](https://github.com/flutter/engine/pull/52501) merged on May 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52501) over 3 hours, 3 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kaylee Lubick](https://github.com/kjlubick), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; macOS fluttertextinputplugin drops selector called if no client
     <sub>[#52495](https://github.com/flutter/engine/pull/52495) merged on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52495) over 3 hours, 45 additions and 1 deletion in 2 files</sub>
