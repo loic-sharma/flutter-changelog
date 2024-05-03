@@ -76,6 +76,10 @@
     <sub>[#146260](https://github.com/flutter/flutter/pull/146260) merged on May 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/146260) over 3 weeks, 238 additions and 179 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Ellet](https://github.com/ellet0)** &mdash; Update reorderable_list.dart to use Dart 3 return switch statement for consistency<br />
+    <sub>[#147505](https://github.com/flutter/flutter/pull/147505) merged on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147505) over 2 days, 4 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `_RenderDecorator.computeDryBaseline` <br />
     <sub>[#146365](https://github.com/flutter/flutter/pull/146365) merged on May 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146365) over 3 weeks, 72 additions and 31 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -104,13 +108,13 @@
     <sub>[#147586](https://github.com/flutter/flutter/pull/147586) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147586) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move docs_test and docs_publish to bringup<br />
-    <sub>[#147645](https://github.com/flutter/flutter/pull/147645) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147645) over 8 minutes, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter<br />
     <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move docs_test and docs_publish to bringup<br />
+    <sub>[#147645](https://github.com/flutter/flutter/pull/147645) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147645) over 8 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow explicit exclusion of packages from pinned packages in `flutter update-packages --force-update`<br />
     <sub>[#147679](https://github.com/flutter/flutter/pull/147679) merged on May 2, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/147679) over 2 hours, 191 additions and 115 deletions in 41 files</sub><br />
@@ -119,10 +123,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove obsolete performance analysis tools.<br />
     <sub>[#147663](https://github.com/flutter/flutter/pull/147663) merged on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147663) over 2 hours, 4 additions and 217 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Ellet](https://github.com/ellet0)** &mdash; Update reorderable_list.dart to use Dart 3 return switch statement for consistency<br />
-    <sub>[#147505](https://github.com/flutter/flutter/pull/147505) merged on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147505) over 2 days, 4 additions and 6 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for single_activator.0.dart API example.<br />
     <sub>[#147426](https://github.com/flutter/flutter/pull/147426) merged on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147426) over 4 days, 49 additions and 3 deletions in 4 files</sub><br />
