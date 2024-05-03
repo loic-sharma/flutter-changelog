@@ -655,7 +655,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-24 commits.
+27 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; et phone home<br />
     <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub><br />
@@ -669,6 +669,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wire up hardware buffer backed swapchains on Android.<br />
     <sub>[#52087](https://github.com/flutter/engine/pull/52087) merged on May 1, 2024 &mdash; **Large:** [51 comments](https://github.com/flutter/engine/pull/52087) over 2 weeks, 1181 additions and 79 deletions in 31 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove Entity capture/AiksInspector.<br />
+    <sub>[#52526](https://github.com/flutter/engine/pull/52526) merged on May 3, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/52526) over 4 hours, 18 additions and 1004 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Implements retry for `Picture.toImage`<br />
     <sub>[#52470](https://github.com/flutter/engine/pull/52470) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52470) over 18 hours, 198 additions and 49 deletions in 13 files</sub><br />
@@ -697,6 +701,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Make SkUnicode explicitly instead of relying on SkParagraph to make it for us<br />
     <sub>[#52086](https://github.com/flutter/engine/pull/52086) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52086) over 2 weeks, 25 additions and 12 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [et] Add Linux host_debug_unopt local engine builder<br />
+    <sub>[#52538](https://github.com/flutter/engine/pull/52538) merged on May 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52538) over 44 minutes, 26 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Round physical size to nearest whole number pixels<br />
     <sub>[#52467](https://github.com/flutter/engine/pull/52467) merged on May 2, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/52467) over 2 days, 122 additions and 64 deletions in 8 files</sub><br />
@@ -736,6 +744,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix GLES image upload.<br />
     <sub>[#52430](https://github.com/flutter/engine/pull/52430) merged on April 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52430) over 15 hours, 21 additions and 10 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [et] Add ios_debug_unopt build config.<br />
+    <sub>[#52537](https://github.com/flutter/engine/pull/52537) merged on May 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52537) over 46 minutes, 33 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Don't mark the backend texture as mipmapped, since it isn't.<br />
