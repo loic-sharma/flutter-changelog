@@ -655,7 +655,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-27 commits.
+28 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; et phone home<br />
     <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub><br />
@@ -681,6 +681,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove incremental allocation during filled path tessellation.<br />
     <sub>[#52401](https://github.com/flutter/engine/pull/52401) merged on May 2, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/52401) over 6 days, 346 additions and 175 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Dustin Green](https://github.com/dustingreen)** &mdash; [fuchsia] route fuchsia.sysmem2.Allocator pt 2<br />
+    <sub>[#52509](https://github.com/flutter/engine/pull/52509) merged on May 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52509) over 22 hours, 10 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonny Wang](https://github.com/jrwang)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Remove checkerboard.<br />
     <sub>[#52524](https://github.com/flutter/engine/pull/52524) merged on May 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/52524) over 2 hours, 0 additions and 677 deletions in 19 files</sub><br />
