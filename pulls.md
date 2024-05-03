@@ -59,6 +59,3 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
     <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147774) 274 additions and 82 deletions in 4 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new `Slider` shapes<br />
-    <sub>[#147783](https://github.com/flutter/flutter/pull/147783) opened on on May 3, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/147783) 1762 additions and 56 deletions in 7 files</sub><br />
-
