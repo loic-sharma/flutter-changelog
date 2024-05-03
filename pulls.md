@@ -62,3 +62,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `if` chains → `switch` expressions<br />
     <sub>[#147793](https://github.com/flutter/flutter/pull/147793) opened on on May 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147793) 194 additions and 297 deletions in 33 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Enhanced enum features for `AnimationStatus`<br />
+    <sub>[#147801](https://github.com/flutter/flutter/pull/147801) opened on on May 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147801) 156 additions and 1 deletion in 3 files</sub><br />
+
