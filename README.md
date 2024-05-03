@@ -1382,7 +1382,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in_ios] Upgrade GoogleSignIn iOS SDK to 7.1<br />
-    <sub>[#6404](https://github.com/flutter/packages/pull/6404) merged on April 17, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/packages/pull/6404) over 3 weeks, 65 additions and 15 deletions in 9 files</sub><br />
+    <sub>[#6404](https://github.com/flutter/packages/pull/6404) merged on April 17, 2024 &mdash; **Small:** [37 comments](https://github.com/flutter/packages/pull/6404) over 3 weeks, 65 additions and 15 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Link should work when triggered by keyboard<br />
