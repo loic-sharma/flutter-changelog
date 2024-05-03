@@ -59,3 +59,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
     <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147774) 274 additions and 82 deletions in 4 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; `if` chains → `switch` expressions<br />
+    <sub>[#147793](https://github.com/flutter/flutter/pull/147793) opened on on May 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147793) 194 additions and 297 deletions in 33 files</sub><br />
+
