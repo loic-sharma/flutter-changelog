@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-38 commits.
+39 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3<br />
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub><br />
@@ -44,33 +44,29 @@
     <sub>[#147736](https://github.com/flutter/flutter/pull/147736) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147736) over 2 hours, 13 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Draggable feedback positioning (#145647)"<br />
+    <sub>[#147658](https://github.com/flutter/flutter/pull/147658) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147658) over 56 seconds, 4 additions and 134 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "add a new PopScope.onPopWithResultInvoke widget to replace Po…<br />
     <sub>[#147597](https://github.com/flutter/flutter/pull/147597) merged on April 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/147597) over 7 minutes, 75 additions and 546 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_fractionally_sized_box.0.dart API example.<br />
-    <sub>[#146721](https://github.com/flutter/flutter/pull/146721) merged on May 1, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/146721) over 2 weeks, 150 additions and 8 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[drown0315](https://github.com/drown0315)** &mdash; Improved documentation for SpringSimulation<br />
     <sub>[#146674](https://github.com/flutter/flutter/pull/146674) merged on May 3, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/146674) over 3 weeks, 54 additions and 8 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; include exception details in tool exit displayed when adb call fails<br />
-    <sub>[#147498](https://github.com/flutter/flutter/pull/147498) merged on April 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147498) over 1 day, 12 additions and 3 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix DropdownMenu overflow<br />
     <sub>[#147233](https://github.com/flutter/flutter/pull/147233) merged on May 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147233) over 1 week, 62 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Draggable feedback positioning (#145647)"<br />
-    <sub>[#147658](https://github.com/flutter/flutter/pull/147658) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147658) over 56 seconds, 4 additions and 134 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; include exception details in tool exit displayed when adb call fails<br />
+    <sub>[#147498](https://github.com/flutter/flutter/pull/147498) merged on April 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147498) over 1 day, 12 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `_RenderDecorator.computeDryBaseline` <br />
-    <sub>[#146365](https://github.com/flutter/flutter/pull/146365) merged on May 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146365) over 3 weeks, 72 additions and 31 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_fractionally_sized_box.0.dart API example.<br />
+    <sub>[#146721](https://github.com/flutter/flutter/pull/146721) merged on May 1, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/146721) over 2 weeks, 150 additions and 8 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement getDryBaseline for Stack and Overlay<br />
     <sub>[#146253](https://github.com/flutter/flutter/pull/146253) merged on May 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146253) over 3 weeks, 173 additions and 71 deletions in 3 files</sub><br />
@@ -79,6 +75,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for `RenderWrap`<br />
     <sub>[#146260](https://github.com/flutter/flutter/pull/146260) merged on May 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/146260) over 3 weeks, 238 additions and 179 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `_RenderDecorator.computeDryBaseline` <br />
+    <sub>[#146365](https://github.com/flutter/flutter/pull/146365) merged on May 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146365) over 3 weeks, 72 additions and 31 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add default arguments to `AnimatedPhysicalModel`<br />
     <sub>[#147424](https://github.com/flutter/flutter/pull/147424) merged on May 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147424) over 6 days, 49 additions and 11 deletions in 3 files</sub><br />
@@ -104,13 +104,13 @@
     <sub>[#147586](https://github.com/flutter/flutter/pull/147586) merged on May 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147586) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter<br />
-    <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move docs_test and docs_publish to bringup<br />
     <sub>[#147645](https://github.com/flutter/flutter/pull/147645) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147645) over 8 minutes, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Bump dependencies in Flutter<br />
+    <sub>[#147546](https://github.com/flutter/flutter/pull/147546) merged on April 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147546) over 1 hour, 88 additions and 94 deletions in 29 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow explicit exclusion of packages from pinned packages in `flutter update-packages --force-update`<br />
     <sub>[#147679](https://github.com/flutter/flutter/pull/147679) merged on May 2, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/147679) over 2 hours, 191 additions and 115 deletions in 41 files</sub><br />
@@ -138,6 +138,10 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `TabPageSelector` <br />
     <sub>[#147403](https://github.com/flutter/flutter/pull/147403) merged on April 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147403) over 4 days, 81 additions and 27 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `SearchAnchor` leak<br />
+    <sub>[#147652](https://github.com/flutter/flutter/pull/147652) merged on May 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147652) over 2 days, 57 additions and 25 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Always relies on floatingLabelStyle when FloatingLabelBehavior.always<br />
