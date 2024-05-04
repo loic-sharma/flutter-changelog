@@ -63,8 +63,8 @@
     <sub>[#147801](https://github.com/flutter/flutter/pull/147801) opened on on May 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147801) 156 additions and 1 deletion in 3 files</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `DialogRoute` memory leak<br />
-    <sub>[#147816](https://github.com/flutter/flutter/pull/147816) opened on on May 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147816) 25 additions and 11 deletions in 2 files</sub><br />
+    <sub>[#147816](https://github.com/flutter/flutter/pull/147816) opened on on May 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147816) 25 additions and 11 deletions in 2 files</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `RawDialogRoute` memory leak<br />
-    <sub>[#147817](https://github.com/flutter/flutter/pull/147817) opened on on May 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147817) 6 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#147817](https://github.com/flutter/flutter/pull/147817) opened on on May 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147817) 6 additions and 5 deletions in 2 files</sub><br />
 
