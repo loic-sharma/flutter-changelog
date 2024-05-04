@@ -68,3 +68,6 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `RawDialogRoute` memory leak<br />
     <sub>[#147817](https://github.com/flutter/flutter/pull/147817) opened on on May 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147817) 6 additions and 5 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `CupertinoSwitch`<br />
+    <sub>[#147821](https://github.com/flutter/flutter/pull/147821) opened on on May 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147821) 9 additions and 3 deletions in 2 files</sub><br />
+
