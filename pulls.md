@@ -80,3 +80,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_size.0.dart API example.<br />
     <sub>[#147828](https://github.com/flutter/flutter/pull/147828) opened on on May 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147828) 111 additions and 18 deletions in 4 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.<br />
+    <sub>[#147830](https://github.com/flutter/flutter/pull/147830) opened on on May 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147830) 261 additions and 44 deletions in 5 files</sub><br />
+
