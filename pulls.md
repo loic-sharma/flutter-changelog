@@ -75,5 +75,5 @@
     <sub>[#147822](https://github.com/flutter/flutter/pull/147822) opened on on May 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147822) 29 additions and 20 deletions in 1 file</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoModalPopupRoute` and `CupertinoDialogRoute` leaks<br />
-    <sub>[#147823](https://github.com/flutter/flutter/pull/147823) opened on on May 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147823) 91 additions and 22 deletions in 2 files</sub><br />
+    <sub>[#147823](https://github.com/flutter/flutter/pull/147823) opened on on May 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147823) 91 additions and 22 deletions in 2 files</sub><br />
 
