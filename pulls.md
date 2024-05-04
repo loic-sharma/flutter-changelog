@@ -77,3 +77,6 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoModalPopupRoute` and `CupertinoDialogRoute` leaks<br />
     <sub>[#147823](https://github.com/flutter/flutter/pull/147823) opened on on May 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147823) 91 additions and 22 deletions in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_size.0.dart API example.<br />
+    <sub>[#147828](https://github.com/flutter/flutter/pull/147828) opened on on May 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147828) 111 additions and 18 deletions in 4 files</sub><br />
+
