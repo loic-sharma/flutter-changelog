@@ -71,3 +71,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `CupertinoSwitch`<br />
     <sub>[#147821](https://github.com/flutter/flutter/pull/147821) opened on on May 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147821) 9 additions and 3 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in context menu<br />
+    <sub>[#147822](https://github.com/flutter/flutter/pull/147822) opened on on May 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147822) 29 additions and 20 deletions in 1 file</sub><br />
+
