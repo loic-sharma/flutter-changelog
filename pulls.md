@@ -62,3 +62,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Enhanced enum features for `AnimationStatus`<br />
     <sub>[#147801](https://github.com/flutter/flutter/pull/147801) opened on on May 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147801) 156 additions and 1 deletion in 3 files</sub><br />
 
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `DialogRoute` memory leak<br />
+    <sub>[#147816](https://github.com/flutter/flutter/pull/147816) opened on on May 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147816) 25 additions and 11 deletions in 2 files</sub><br />
+
