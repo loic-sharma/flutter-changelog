@@ -4,7 +4,7 @@
 
 ### April 27, 2024 to May 3, 2024
 
-42 commits.
+43 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -44,10 +44,6 @@
     <sub>[#147736](https://github.com/flutter/flutter/pull/147736) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147736) over 2 hours, 13 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Draggable feedback positioning (#145647)"
-    <sub>[#147658](https://github.com/flutter/flutter/pull/147658) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147658) over 56 seconds, 4 additions and 134 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "add a new PopScope.onPopWithResultInvoke widget to replace Po…
     <sub>[#147597](https://github.com/flutter/flutter/pull/147597) merged on April 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/147597) over 7 minutes, 75 additions and 546 deletions in 18 files</sub>
     <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
@@ -60,6 +56,10 @@
     <sub>[#147233](https://github.com/flutter/flutter/pull/147233) merged on May 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147233) over 1 week, 62 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Draggable feedback positioning (#145647)"
+    <sub>[#147658](https://github.com/flutter/flutter/pull/147658) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147658) over 56 seconds, 4 additions and 134 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; include exception details in tool exit displayed when adb call fails
     <sub>[#147498](https://github.com/flutter/flutter/pull/147498) merged on April 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147498) over 1 day, 12 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -68,21 +68,25 @@
     <sub>[#146721](https://github.com/flutter/flutter/pull/146721) merged on May 1, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/146721) over 2 weeks, 150 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement getDryBaseline for Stack and Overlay
-    <sub>[#146253](https://github.com/flutter/flutter/pull/146253) merged on May 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146253) over 3 weeks, 173 additions and 71 deletions in 3 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[Ellet](https://github.com/ellet0)** &mdash; Update reorderable_list.dart to use Dart 3 return switch statement for consistency
     <sub>[#147505](https://github.com/flutter/flutter/pull/147505) merged on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147505) over 2 days, 4 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for `RenderWrap`
+    <sub>[#146260](https://github.com/flutter/flutter/pull/146260) merged on May 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/146260) over 3 weeks, 238 additions and 179 deletions in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement getDryBaseline for Stack and Overlay
+    <sub>[#146253](https://github.com/flutter/flutter/pull/146253) merged on May 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/146253) over 3 weeks, 173 additions and 71 deletions in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `_RenderDecorator.computeDryBaseline` 
     <sub>[#146365](https://github.com/flutter/flutter/pull/146365) merged on May 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/146365) over 3 weeks, 72 additions and 31 deletions in 1 file</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for `RenderWrap`
-    <sub>[#146260](https://github.com/flutter/flutter/pull/146260) merged on May 1, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/146260) over 3 weeks, 238 additions and 179 deletions in 3 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix test.
+    <sub>[#147813](https://github.com/flutter/flutter/pull/147813) merged on May 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147813) over 1 day, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Add default arguments to `AnimatedPhysicalModel`
     <sub>[#147424](https://github.com/flutter/flutter/pull/147424) merged on May 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147424) over 6 days, 49 additions and 11 deletions in 3 files</sub>
@@ -132,9 +136,9 @@
     <sub>[#147481](https://github.com/flutter/flutter/pull/147481) merged on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147481) over 3 days, 58 additions and 58 deletions in 28 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fix memory leak in `TabPageSelector`  (#147403)"
-    <sub>[#147622](https://github.com/flutter/flutter/pull/147622) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147622) over 31 seconds, 27 additions and 81 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `CupertinoSwitch`
+    <sub>[#147821](https://github.com/flutter/flutter/pull/147821) merged on May 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147821) over 20 hours, 9 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ExpansionTile.
     <sub>[#147596](https://github.com/flutter/flutter/pull/147596) merged on May 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147596) over 4 days, 6 additions and 1 deletion in 2 files</sub>
@@ -148,21 +152,21 @@
     <sub>[#147374](https://github.com/flutter/flutter/pull/147374) merged on May 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/147374) over 1 week, 183 additions and 9 deletions in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
-    <sub>[#147741](https://github.com/flutter/flutter/pull/147741) merged on May 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147741) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leak in `TabPageSelector` 
     <sub>[#147403](https://github.com/flutter/flutter/pull/147403) merged on April 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147403) over 4 days, 81 additions and 27 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#147741](https://github.com/flutter/flutter/pull/147741) merged on May 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147741) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fix memory leak in `TabPageSelector`  (#147403)"
+    <sub>[#147622](https://github.com/flutter/flutter/pull/147622) merged on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147622) over 31 seconds, 27 additions and 81 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add verbose logging to select hot reload/hot restart tests
     <sub>[#147673](https://github.com/flutter/flutter/pull/147673) merged on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147673) over 6 hours, 12 additions and 3 deletions in 5 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `CupertinoSwitch`
-    <sub>[#147821](https://github.com/flutter/flutter/pull/147821) merged on May 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147821) over 20 hours, 9 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Implement computeDryBaseline for `RenderWrap` (#146260)"
     <sub>[#147692](https://github.com/flutter/flutter/pull/147692) merged on May 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147692) over 43 seconds, 179 additions and 238 deletions in 3 files</sub>
