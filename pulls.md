@@ -74,3 +74,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for stream_builder.0.dart API example.<br />
     <sub>[#147832](https://github.com/flutter/flutter/pull/147832) opened on on May 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147832) 249 additions and 85 deletions in 3 files</sub><br />
 
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; MultiSelectableSelectionContainerDelegate documentation fixes.<br />
+    <sub>[#147843](https://github.com/flutter/flutter/pull/147843) opened on on May 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147843) 5 additions and 7 deletions in 1 file</sub><br />
+
