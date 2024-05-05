@@ -137,7 +137,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix memory leak in ExpansionTile.
-    <sub>[#147596](https://github.com/flutter/flutter/pull/147596) merged on May 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147596) over 4 days, 6 additions and 1 deletion in 2 files</sub>
+    <sub>[#147596](https://github.com/flutter/flutter/pull/147596) merged on May 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147596) over 4 days, 6 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: </sub>
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `SearchAnchor` leak
