@@ -62,20 +62,8 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Enhanced enum features for `AnimationStatus`<br />
     <sub>[#147801](https://github.com/flutter/flutter/pull/147801) opened on on May 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147801) 156 additions and 1 deletion in 3 files</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `DialogRoute` memory leak<br />
-    <sub>[#147816](https://github.com/flutter/flutter/pull/147816) opened on on May 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147816) 25 additions and 11 deletions in 2 files</sub><br />
-
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `RawDialogRoute` memory leak<br />
-    <sub>[#147817](https://github.com/flutter/flutter/pull/147817) opened on on May 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147817) 6 additions and 5 deletions in 2 files</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `CupertinoSwitch`<br />
-    <sub>[#147821](https://github.com/flutter/flutter/pull/147821) opened on on May 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147821) 9 additions and 3 deletions in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in context menu<br />
-    <sub>[#147822](https://github.com/flutter/flutter/pull/147822) opened on on May 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147822) 29 additions and 20 deletions in 1 file</sub><br />
-
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoModalPopupRoute` and `CupertinoDialogRoute` leaks<br />
-    <sub>[#147823](https://github.com/flutter/flutter/pull/147823) opened on on May 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147823) 91 additions and 22 deletions in 2 files</sub><br />
+    <sub>[#147822](https://github.com/flutter/flutter/pull/147822) opened on on May 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147822) 29 additions and 20 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_size.0.dart API example.<br />
     <sub>[#147828](https://github.com/flutter/flutter/pull/147828) opened on on May 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147828) 111 additions and 18 deletions in 4 files</sub><br />
