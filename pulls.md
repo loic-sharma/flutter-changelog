@@ -63,7 +63,7 @@
     <sub>[#147801](https://github.com/flutter/flutter/pull/147801) opened on on May 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147801) 156 additions and 1 deletion in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in context menu<br />
-    <sub>[#147822](https://github.com/flutter/flutter/pull/147822) opened on on May 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147822) 29 additions and 20 deletions in 1 file</sub><br />
+    <sub>[#147822](https://github.com/flutter/flutter/pull/147822) opened on on May 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147822) 29 additions and 20 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_size.0.dart API example.<br />
     <sub>[#147828](https://github.com/flutter/flutter/pull/147828) opened on on May 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147828) 111 additions and 18 deletions in 4 files</sub><br />
