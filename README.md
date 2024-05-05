@@ -1338,13 +1338,13 @@
 <details>
 <summary>11 commits...</summary>
 
-* **[さとやｎ](https://github.com/satoyan)** &mdash; [go_router_builder] add support to go_router_builder for initializing a StatefulShellBranch with observers<br />
-    <sub>[#5865](https://github.com/flutter/packages/pull/5865) merged on April 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/5865) over 3 months, 37 additions and 2 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin), [John Ryan](https://github.com/johnpryan)</sub><br />
-
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Add CI steps to test iOS and macOS plugins with both CocoaPods and Swift Package Manager<br />
     <sub>[#6557](https://github.com/flutter/packages/pull/6557) merged on April 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6557) over 1 week, 198 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[さとやｎ](https://github.com/satoyan)** &mdash; [go_router_builder] add support to go_router_builder for initializing a StatefulShellBranch with observers<br />
+    <sub>[#5865](https://github.com/flutter/packages/pull/5865) merged on April 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/5865) over 3 months, 37 additions and 2 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [pointer_interceptor_web] Remove semantic tests.<br />
     <sub>[#6580](https://github.com/flutter/packages/pull/6580) merged on April 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6580) over 2 days, 0 additions and 62 deletions in 1 file</sub><br />
