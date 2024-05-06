@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 4, 2024 to May 10, 2024
+
+1 commits.
+
+* **[Karel Klíč](https://github.com/karelklic)** &mdash; Fix Tooltip.decoration comment
+    <sub>[#147858](https://github.com/flutter/flutter/pull/147858) merged on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147858) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 ### April 27, 2024 to May 3, 2024
 
-43 commits.
+<details>
+<summary>43 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix wide `DatePicker` input mode button padding for Material 3
     <sub>[#147236](https://github.com/flutter/flutter/pull/147236) merged on April 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147236) over 6 days, 20 additions and 6 deletions in 2 files</sub>
@@ -179,6 +188,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland fix memory leaks for tab selector
     <sub>[#147689](https://github.com/flutter/flutter/pull/147689) merged on May 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147689) over 3 days, 159 additions and 27 deletions in 2 files</sub>
     <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
+
+</details>
 
 ### April 20, 2024 to April 26, 2024
 
