@@ -442,11 +442,15 @@
 
 ### May 4, 2024 to May 10, 2024
 
-2 commits.
+3 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix missing GPU probe.
     <sub>[#52580](https://github.com/flutter/engine/pull/52580) merged on May 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52580) over 43 minutes, 6 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove unused includes.
+    <sub>[#52579](https://github.com/flutter/engine/pull/52579) merged on May 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52579) over 1 hour, 7 additions and 228 deletions in 133 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Skip files in the clang-tidy driver if clang-tidy crashes when processing the file
     <sub>[#52379](https://github.com/flutter/engine/pull/52379) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52379) over 1 week, 65 additions and 5 deletions in 3 files</sub>
@@ -852,7 +856,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-4 commits.
+5 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub>
@@ -865,6 +869,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Prevent using unsupported concurrent camera use cases
     <sub>[#6608](https://github.com/flutter/packages/pull/6608) merged on May 6, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/6608) over 1 week, 2333 additions and 545 deletions in 26 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add empty implementation for `prepareForVideoRecording` not used on Android
+    <sub>[#6676](https://github.com/flutter/packages/pull/6676) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6676) over 2 hours, 32 additions and 1 deletion in 4 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Reduce the number of tasks in recipe CQ
     <sub>[#6673](https://github.com/flutter/packages/pull/6673) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6673) over 1 hour, 0 additions and 20 deletions in 1 file</sub>
