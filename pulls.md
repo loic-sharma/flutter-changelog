@@ -77,3 +77,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; MultiSelectableSelectionContainerDelegate documentation fixes.<br />
     <sub>[#147843](https://github.com/flutter/flutter/pull/147843) opened on on May 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147843) 5 additions and 7 deletions in 1 file</sub><br />
 
+* **[Karel Klíč](https://github.com/karelklic)** &mdash; Fix Tooltip.decoration comment<br />
+    <sub>[#147858](https://github.com/flutter/flutter/pull/147858) opened on on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147858) 2 additions and 2 deletions in 1 file</sub><br />
+
