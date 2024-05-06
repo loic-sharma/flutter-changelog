@@ -80,3 +80,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix floating SnackBar is not centered when RTL and Material 2<br />
     <sub>[#147861](https://github.com/flutter/flutter/pull/147861) opened on on May 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147861) 48 additions and 10 deletions in 3 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Maintain the same layout constraints for item in the ReorderableList during dragging as before dragging.<br />
+    <sub>[#147863](https://github.com/flutter/flutter/pull/147863) opened on on May 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147863) 65 additions and 5 deletions in 2 files</sub><br />
+
