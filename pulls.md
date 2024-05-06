@@ -39,7 +39,7 @@
     <sub>[#147624](https://github.com/flutter/flutter/pull/147624) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147624) 42 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `clipBehavior` to `DialogTheme`<br />
-    <sub>[#147635](https://github.com/flutter/flutter/pull/147635) opened on on May 1, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/147635) 74 additions and 10 deletions in 3 files</sub><br />
+    <sub>[#147635](https://github.com/flutter/flutter/pull/147635) opened on on May 1, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/147635) 91 additions and 16 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.<br />
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147637) 151 additions and 3 deletions in 4 files</sub><br />
@@ -78,5 +78,5 @@
     <sub>[#147843](https://github.com/flutter/flutter/pull/147843) opened on on May 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147843) 5 additions and 7 deletions in 1 file</sub><br />
 
 * **[Karel Klíč](https://github.com/karelklic)** &mdash; Fix Tooltip.decoration comment<br />
-    <sub>[#147858](https://github.com/flutter/flutter/pull/147858) opened on on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147858) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#147858](https://github.com/flutter/flutter/pull/147858) opened on on May 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147858) 2 additions and 2 deletions in 1 file</sub><br />
 
