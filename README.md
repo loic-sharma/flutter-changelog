@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-4 commits.
+5 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix janks and memory leaks in `CupertinoPageTransition` and `CupertinoFullscreenDialogTransition`<br />
     <sub>[#146999](https://github.com/flutter/flutter/pull/146999) merged on May 6, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/146999) over 2 weeks, 198 additions and 9 deletions in 2 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in a test.<br />
     <sub>[#147846](https://github.com/flutter/flutter/pull/147846) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147846) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#147891](https://github.com/flutter/flutter/pull/147891) merged on May 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147891) over 51 minutes, 78 additions and 78 deletions in 39 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Karel Klíč](https://github.com/karelklic)** &mdash; Fix Tooltip.decoration comment<br />
     <sub>[#147858](https://github.com/flutter/flutter/pull/147858) merged on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147858) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
