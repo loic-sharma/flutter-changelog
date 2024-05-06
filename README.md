@@ -442,11 +442,15 @@
 
 ### May 4, 2024 to May 10, 2024
 
-3 commits.
+4 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix missing GPU probe.<br />
     <sub>[#52580](https://github.com/flutter/engine/pull/52580) merged on May 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52580) over 43 minutes, 6 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate third_party/android_tools to flutter/third_party<br />
+    <sub>[#52582](https://github.com/flutter/engine/pull/52582) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52582) over 1 hour, 53 additions and 35 deletions in 20 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove unused includes.<br />
     <sub>[#52579](https://github.com/flutter/engine/pull/52579) merged on May 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52579) over 1 hour, 7 additions and 228 deletions in 133 files</sub><br />
