@@ -80,3 +80,6 @@
 * **[Karel Klíč](https://github.com/karelklic)** &mdash; Fix Tooltip.decoration comment<br />
     <sub>[#147858](https://github.com/flutter/flutter/pull/147858) opened on on May 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147858) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; DropdownMenu cleanup<br />
+    <sub>[#147860](https://github.com/flutter/flutter/pull/147860) opened on on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147860) 65 additions and 66 deletions in 1 file</sub><br />
+
