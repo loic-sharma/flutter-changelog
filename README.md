@@ -4,7 +4,11 @@
 
 ### May 4, 2024 to May 10, 2024
 
-2 commits.
+3 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [new gallery] Reisze gallery images<br />
+    <sub>[#147882](https://github.com/flutter/flutter/pull/147882) merged on May 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147882) over 47 minutes, 14 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in a test.<br />
     <sub>[#147846](https://github.com/flutter/flutter/pull/147846) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147846) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
