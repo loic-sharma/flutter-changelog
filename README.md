@@ -432,9 +432,18 @@
 
 ## flutter/engine
 
+### May 4, 2024 to May 10, 2024
+
+1 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Skip files in the clang-tidy driver if clang-tidy crashes when processing the file<br />
+    <sub>[#52379](https://github.com/flutter/engine/pull/52379) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52379) over 1 week, 65 additions and 5 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 ### April 27, 2024 to May 3, 2024
 
-28 commits.
+<details>
+<summary>28 commits...</summary>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; et phone home<br />
     <sub>[#52506](https://github.com/flutter/engine/pull/52506) merged on May 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52506) over 1 hour, 73 additions and 0 deletions in 3 files</sub><br />
@@ -548,6 +557,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Change default `FilterQuality` to `None` for image shaders.<br />
     <sub>[#52468](https://github.com/flutter/engine/pull/52468) merged on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52468) over 3 hours, 91 additions and 27 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+</details>
 
 ### April 20, 2024 to April 26, 2024
 
