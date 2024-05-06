@@ -77,3 +77,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test material text field example<br />
     <sub>[#147864](https://github.com/flutter/flutter/pull/147864) opened on on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147864) 71 additions and 2 deletions in 3 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [new gallery] Reisze gallery images<br />
+    <sub>[#147882](https://github.com/flutter/flutter/pull/147882) opened on on May 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147882) 14 additions and 6 deletions in 2 files</sub><br />
+
