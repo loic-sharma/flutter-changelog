@@ -816,9 +816,18 @@
 
 ## flutter/packages
 
+### May 4, 2024 to May 10, 2024
+
+1 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; Fix unnecessary toList/fromList calls during encode/decode process
+    <sub>[#6426](https://github.com/flutter/packages/pull/6426) merged on May 6, 2024 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/6426) over 1 month, 1309 additions and 1357 deletions in 48 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 ### April 27, 2024 to May 3, 2024
 
-12 commits.
+<details>
+<summary>12 commits...</summary>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - web implementation
     <sub>[#6187](https://github.com/flutter/packages/pull/6187) merged on April 30, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/6187) over 2 months, 657 additions and 107 deletions in 20 files</sub>
@@ -867,6 +876,8 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Skip podspec Swift Search Path validation if only swift file is Package.swift
     <sub>[#6627](https://github.com/flutter/packages/pull/6627) merged on April 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6627) over 1 day, 55 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+</details>
 
 ### April 20, 2024 to April 26, 2024
 
