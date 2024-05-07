@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-27 commits.
+28 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141295) over 3 months, 2 additions and 1 deletion in 2 files</sub><br />
@@ -68,6 +68,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in a test.<br />
     <sub>[#147846](https://github.com/flutter/flutter/pull/147846) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147846) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `RawDialogRoute` memory leak<br />
+    <sub>[#147817](https://github.com/flutter/flutter/pull/147817) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147817) over 3 days, 6 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `RenderEditable.computeDryBaseline`<br />
     <sub>[#147911](https://github.com/flutter/flutter/pull/147911) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147911) over 14 hours, 9 additions and 0 deletions in 1 file</sub><br />
