@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-23 commits.
+24 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141295) over 3 months, 2 additions and 1 deletion in 2 files</sub>
@@ -15,6 +15,11 @@
     <sub>[#147809](https://github.com/flutter/flutter/pull/147809) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147809) over 3 days, 70 additions and 19 deletions in 3 files</sub>
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [pretizy](https://github.com/pretizy), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
     <sub><details><summary>1 image...</summary><img width="1209" alt="demo" src="https://github.com/flutter/flutter/assets/40357511/be3522b5-d1b4-4983-9fed-8aaa0f0bc7f7"></details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `TabBar.textScaler` for tab label upper text scale limit
+    <sub>[#147232](https://github.com/flutter/flutter/pull/147232) merged on May 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147232) over 2 weeks, 110 additions and 2 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-04-30 at 13 46 10](https://github.com/flutter/flutter/assets/48603081/99db889a-b717-4ddf-b99e-89fdf7edb3ac)![Screenshot 2024-04-30 at 14 04 22](https://github.com/flutter/flutter/assets/48603081/92216cbb-eb89-4c0a-b2f2-feb6a33a3337)</details></sub>
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Rework getting plugin implementation candidates and plugin resolution
     <sub>[#145258](https://github.com/flutter/flutter/pull/145258) merged on May 7, 2024 &mdash; **Large:** [64 comments](https://github.com/flutter/flutter/pull/145258) over 1 month, 408 additions and 104 deletions in 2 files</sub>
@@ -524,7 +529,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-17 commits.
+18 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eagerly bootstrap content context.
     <sub>[#52590](https://github.com/flutter/engine/pull/52590) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52590) over 2 hours, 16 additions and 0 deletions in 2 files</sub>
@@ -554,6 +559,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix missing GPU probe.
     <sub>[#52580](https://github.com/flutter/engine/pull/52580) merged on May 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52580) over 43 minutes, 6 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move setting the logging level into the `Logger` constructor, refactor.
+    <sub>[#52624](https://github.com/flutter/engine/pull/52624) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52624) over 1 hour, 19 additions and 22 deletions in 4 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add host_profile_arm64 and host_release_arm64 local engine configurations.
     <sub>[#52620](https://github.com/flutter/engine/pull/52620) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52620) over 51 minutes, 62 additions and 0 deletions in 1 file</sub>
@@ -1009,13 +1018,13 @@
     <sub>[#6608](https://github.com/flutter/packages/pull/6608) merged on May 6, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/6608) over 1 week, 2333 additions and 545 deletions in 26 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [camera] Ignore implementation imports outside of lib
+    <sub>[#6191](https://github.com/flutter/packages/pull/6191) merged on May 7, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/6191) over 2 months, 9 additions and 0 deletions in 9 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Add Swift Package Manager support
     <sub>[#6680](https://github.com/flutter/packages/pull/6680) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6680) over 6 hours, 35 additions and 5 deletions in 8 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; [camera] Ignore implementation imports outside of lib
-    <sub>[#6191](https://github.com/flutter/packages/pull/6191) merged on May 7, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/6191) over 2 months, 9 additions and 0 deletions in 9 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [shared_preferences_foundation] Adds Swift Package Manager compatibility
     <sub>[#6640](https://github.com/flutter/packages/pull/6640) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6640) over 3 days, 41 additions and 11 deletions in 14 files</sub>
