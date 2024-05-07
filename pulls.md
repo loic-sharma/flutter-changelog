@@ -47,9 +47,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
     <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147774) 274 additions and 82 deletions in 4 files</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Enhanced enum features for `AnimationStatus`<br />
-    <sub>[#147801](https://github.com/flutter/flutter/pull/147801) opened on on May 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147801) 156 additions and 1 deletion in 3 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in context menu<br />
     <sub>[#147822](https://github.com/flutter/flutter/pull/147822) opened on on May 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147822) 29 additions and 20 deletions in 1 file</sub><br />
 
