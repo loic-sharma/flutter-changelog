@@ -470,7 +470,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-8 commits.
+9 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eagerly bootstrap content context.
     <sub>[#52590](https://github.com/flutter/engine/pull/52590) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52590) over 2 hours, 16 additions and 0 deletions in 2 files</sub>
@@ -492,6 +492,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix missing GPU probe.
     <sub>[#52580](https://github.com/flutter/engine/pull/52580) merged on May 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52580) over 43 minutes, 6 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] AHB swapchain mark frame start for tracer.
+    <sub>[#52596](https://github.com/flutter/engine/pull/52596) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52596) over 35 minutes, 5 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate third_party/android_tools to flutter/third_party
     <sub>[#52582](https://github.com/flutter/engine/pull/52582) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52582) over 1 hour, 53 additions and 35 deletions in 20 files</sub>
