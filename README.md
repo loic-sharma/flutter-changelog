@@ -979,7 +979,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-8 commits.
+9 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings<br />
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub><br />
@@ -1004,6 +1004,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add support for SPM<br />
     <sub>[#6672](https://github.com/flutter/packages/pull/6672) merged on May 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6672) over 4 hours, 88 additions and 12 deletions in 22 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [go_router] guard context access in then clauses<br />
+    <sub>[#6685](https://github.com/flutter/packages/pull/6685) merged on May 7, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6685) over 1 hour, 12 additions and 1 deletion in 4 files</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add empty implementation for `prepareForVideoRecording` not used on Android<br />
     <sub>[#6676](https://github.com/flutter/packages/pull/6676) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6676) over 2 hours, 32 additions and 1 deletion in 4 files</sub><br />
