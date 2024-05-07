@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-8 commits.
+9 commits.
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix janks and memory leaks in `CupertinoPageTransition` and `CupertinoFullscreenDialogTransition`
     <sub>[#146999](https://github.com/flutter/flutter/pull/146999) merged on May 6, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/146999) over 2 weeks, 198 additions and 9 deletions in 2 files</sub>
@@ -17,6 +17,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in a test.
     <sub>[#147846](https://github.com/flutter/flutter/pull/147846) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147846) over 1 day, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix document generation, eliminate template support from snippets tool.
+    <sub>[#147893](https://github.com/flutter/flutter/pull/147893) merged on May 7, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/147893) over 3 hours, 69 additions and 265 deletions in 11 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test focus example 0
     <sub>[#147564](https://github.com/flutter/flutter/pull/147564) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147564) over 6 days, 80 additions and 1 deletion in 2 files</sub>
