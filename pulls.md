@@ -38,9 +38,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.<br />
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147637) 151 additions and 3 deletions in 4 files</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix dep tracking<br />
-    <sub>[#147709](https://github.com/flutter/flutter/pull/147709) opened on on May 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147709) 42 additions and 13 deletions in 2 files</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add tests for material banner example<br />
     <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147733) 73 additions and 2 deletions in 3 files</sub><br />
 
