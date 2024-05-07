@@ -458,11 +458,15 @@
 
 ### May 4, 2024 to May 10, 2024
 
-6 commits.
+7 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document how to use Impeller as a standalone library with OpenGL ES and EGL.
     <sub>[#52473](https://github.com/flutter/engine/pull/52473) merged on May 6, 2024 &mdash; **Small:** [57 comments](https://github.com/flutter/engine/pull/52473) over 6 days, 196 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Henry Riehl](https://github.com/whiskeyPeak), [Ian Hickson](https://github.com/Hixie), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add clip coverage stack to exp canvas.
+    <sub>[#52215](https://github.com/flutter/engine/pull/52215) merged on May 7, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52215) over 2 weeks, 133 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove compute tessellator.
     <sub>[#52584](https://github.com/flutter/engine/pull/52584) merged on May 6, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/52584) over 1 hour, 0 additions and 1139 deletions in 12 files</sub>

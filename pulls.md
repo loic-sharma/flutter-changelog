@@ -71,3 +71,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test material text field example<br />
     <sub>[#147864](https://github.com/flutter/flutter/pull/147864) opened on on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147864) 71 additions and 2 deletions in 3 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Update _handlePushRouteInformation to Future<bool>  to indicate whether any of the observer has handled the route or not<br />
+    <sub>[#147901](https://github.com/flutter/flutter/pull/147901) opened on on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147901) 13 additions and 9 deletions in 1 file</sub><br />
+
