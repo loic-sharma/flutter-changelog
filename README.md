@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-26 commits.
+27 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141295) over 3 months, 2 additions and 1 deletion in 2 files</sub><br />
@@ -52,6 +52,10 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix MenuItemButton if child is null <br />
     <sub>[#147485](https://github.com/flutter/flutter/pull/147485) merged on May 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147485) over 1 week, 34 additions and 16 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Nate](https://github.com/nate-thegrate), [Mahmoud Saleh](https://github.com/mahmoudsaleh1997)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter web] Listen for service extension registration events to determine hot-restart method name<br />
+    <sub>[#147897](https://github.com/flutter/flutter/pull/147897) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147897) over 1 day, 35 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly guard context access in then clauses<br />
     <sub>[#147935](https://github.com/flutter/flutter/pull/147935) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147935) over 3 hours, 4 additions and 1 deletion in 1 file</sub><br />
@@ -537,7 +541,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-20 commits.
+21 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eagerly bootstrap content context.<br />
     <sub>[#52590](https://github.com/flutter/engine/pull/52590) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52590) over 2 hours, 16 additions and 0 deletions in 2 files</sub><br />
@@ -567,6 +571,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix missing GPU probe.<br />
     <sub>[#52580](https://github.com/flutter/engine/pull/52580) merged on May 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52580) over 43 minutes, 6 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Disable aging in the AHB swapchains and use FILO.<br />
+    <sub>[#52637](https://github.com/flutter/engine/pull/52637) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52637) over 1 hour, 16 additions and 25 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `Logger.test` to an injected log output versus leaky abstraction.<br />
     <sub>[#52639](https://github.com/flutter/engine/pull/52639) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52639) over 53 minutes, 81 additions and 65 deletions in 10 files</sub><br />
