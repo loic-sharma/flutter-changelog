@@ -16,7 +16,7 @@
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [new gallery] Reisze gallery images<br />
-    <sub>[#147882](https://github.com/flutter/flutter/pull/147882) merged on May 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147882) over 47 minutes, 14 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#147882](https://github.com/flutter/flutter/pull/147882) merged on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147882) over 47 minutes, 14 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />

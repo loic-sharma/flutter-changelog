@@ -71,6 +71,3 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test material text field example<br />
     <sub>[#147864](https://github.com/flutter/flutter/pull/147864) opened on on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147864) 71 additions and 2 deletions in 3 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix more memory leaks in cupertino page transition<br />
-    <sub>[#147907](https://github.com/flutter/flutter/pull/147907) opened on on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147907) 22 additions and 26 deletions in 1 file</sub><br />
-
