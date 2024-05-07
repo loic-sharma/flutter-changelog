@@ -4,7 +4,12 @@
 
 ### May 4, 2024 to May 10, 2024
 
-19 commits.
+20 commits.
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
+    <sub>[#141295](https://github.com/flutter/flutter/pull/141295) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141295) over 3 months, 2 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="315" alt="Screenshot 2024-01-10 at 10 49 26 AM" src="https://github.com/flutter/flutter/assets/58190796/c8beba30-04d2-4c22-86ae-85c0576136ee"><img width="289" alt="Screenshot 2024-01-10 at 10 52 11 AM" src="https://github.com/flutter/flutter/assets/58190796/c6b33aaf-791c-460e-a640-37d8ddf3f713"></details></sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Improve Android SDK and NDK mistmatch warning message<br />
     <sub>[#147809](https://github.com/flutter/flutter/pull/147809) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147809) over 3 days, 70 additions and 19 deletions in 3 files</sub><br />
