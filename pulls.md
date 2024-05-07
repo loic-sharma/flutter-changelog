@@ -63,7 +63,7 @@
     <sub>[#147832](https://github.com/flutter/flutter/pull/147832) opened on on May 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147832) 258 additions and 85 deletions in 3 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test material text field example<br />
-    <sub>[#147864](https://github.com/flutter/flutter/pull/147864) opened on on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147864) 71 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#147864](https://github.com/flutter/flutter/pull/147864) opened on on May 6, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147864) 71 additions and 2 deletions in 3 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Try fix module test<br />
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) opened on on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147934) 0 additions and 4 deletions in 1 file</sub><br />
