@@ -537,7 +537,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-19 commits.
+20 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eagerly bootstrap content context.
     <sub>[#52590](https://github.com/flutter/engine/pull/52590) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52590) over 2 hours, 16 additions and 0 deletions in 2 files</sub>
@@ -567,6 +567,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix missing GPU probe.
     <sub>[#52580](https://github.com/flutter/engine/pull/52580) merged on May 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52580) over 43 minutes, 6 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `Logger.test` to an injected log output versus leaky abstraction.
+    <sub>[#52639](https://github.com/flutter/engine/pull/52639) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52639) over 53 minutes, 81 additions and 65 deletions in 10 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix links in rbe.md
     <sub>[#52635](https://github.com/flutter/engine/pull/52635) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52635) over 43 minutes, 13 additions and 16 deletions in 1 file</sub>
