@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-16 commits.
+18 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Improve Android SDK and NDK mistmatch warning message<br />
     <sub>[#147809](https://github.com/flutter/flutter/pull/147809) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147809) over 3 days, 70 additions and 19 deletions in 3 files</sub><br />
@@ -22,6 +22,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply new PopScope API<br />
     <sub>[#147607](https://github.com/flutter/flutter/pull/147607) merged on May 7, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/147607) over 6 days, 577 additions and 81 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add kotlinOptions jvmTarget to templates<br />
+    <sub>[#147326](https://github.com/flutter/flutter/pull/147326) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147326) over 1 week, 31 additions and 7 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
     <sub>[#147433](https://github.com/flutter/flutter/pull/147433) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147433) over 1 week, 110 additions and 2 deletions in 3 files</sub><br />
@@ -70,6 +74,10 @@
 * **[Karel Klíč](https://github.com/karelklic)** &mdash; Fix Tooltip.decoration comment<br />
     <sub>[#147858](https://github.com/flutter/flutter/pull/147858) merged on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147858) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Revert "Move docs_test and docs_publish to bringup (#147645)"<br />
+    <sub>[#147928](https://github.com/flutter/flutter/pull/147928) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147928) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 ### April 27, 2024 to May 3, 2024
 
