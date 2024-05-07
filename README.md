@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-15 commits.
+16 commits.
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Improve Android SDK and NDK mistmatch warning message<br />
     <sub>[#147809](https://github.com/flutter/flutter/pull/147809) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147809) over 3 days, 70 additions and 19 deletions in 3 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [new gallery] Reisze gallery images<br />
     <sub>[#147882](https://github.com/flutter/flutter/pull/147882) merged on May 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147882) over 47 minutes, 14 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply new PopScope API<br />
+    <sub>[#147607](https://github.com/flutter/flutter/pull/147607) merged on May 7, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/147607) over 6 days, 577 additions and 81 deletions in 18 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
     <sub>[#147433](https://github.com/flutter/flutter/pull/147433) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147433) over 1 week, 110 additions and 2 deletions in 3 files</sub><br />
