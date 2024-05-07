@@ -4,7 +4,12 @@
 
 ### May 4, 2024 to May 10, 2024
 
-13 commits.
+15 commits.
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Improve Android SDK and NDK mistmatch warning message<br />
+    <sub>[#147809](https://github.com/flutter/flutter/pull/147809) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147809) over 3 days, 70 additions and 19 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [pretizy](https://github.com/pretizy), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="1209" alt="demo" src="https://github.com/flutter/flutter/assets/40357511/be3522b5-d1b4-4983-9fed-8aaa0f0bc7f7"></details></sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix janks and memory leaks in `CupertinoPageTransition` and `CupertinoFullscreenDialogTransition`<br />
     <sub>[#146999](https://github.com/flutter/flutter/pull/146999) merged on May 6, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/146999) over 2 weeks, 198 additions and 9 deletions in 2 files</sub><br />
@@ -15,7 +20,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
-    <sub>[#147433](https://github.com/flutter/flutter/pull/147433) merged on May 7, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/147433) over 1 week, 110 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#147433](https://github.com/flutter/flutter/pull/147433) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147433) over 1 week, 110 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix MenuItemButton if child is null <br />
@@ -25,6 +30,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in a test.<br />
     <sub>[#147846](https://github.com/flutter/flutter/pull/147846) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147846) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for callback_shortcuts.0.dart API example.<br />
+    <sub>[#147536](https://github.com/flutter/flutter/pull/147536) merged on May 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147536) over 1 week, 55 additions and 30 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[osama](https://github.com/osama383)** &mdash; Added missing tests for ButtonStyle example<br />
     <sub>[#147457](https://github.com/flutter/flutter/pull/147457) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147457) over 1 week, 74 additions and 1 deletion in 2 files</sub><br />
@@ -482,7 +491,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-10 commits.
+11 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eagerly bootstrap content context.<br />
     <sub>[#52590](https://github.com/flutter/engine/pull/52590) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52590) over 2 hours, 16 additions and 0 deletions in 2 files</sub><br />
@@ -521,8 +530,12 @@
     <sub>[#52379](https://github.com/flutter/engine/pull/52379) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52379) over 1 week, 65 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Various documentation improvements (#52600)"<br />
+    <sub>[#52607](https://github.com/flutter/engine/pull/52607) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52607) over 1 minute, 14 additions and 54 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Various documentation improvements<br />
-    <sub>[#52600](https://github.com/flutter/engine/pull/52600) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52600) over 51 minutes, 54 additions and 14 deletions in 4 files</sub><br />
+    <sub>[#52600](https://github.com/flutter/engine/pull/52600) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52600) over 51 minutes, 54 additions and 14 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 ### April 27, 2024 to May 3, 2024
