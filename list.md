@@ -552,7 +552,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add host_profile_arm64 and host_release_arm64 local engine configurations.
-    <sub>[#52620](https://github.com/flutter/engine/pull/52620) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52620) over 51 minutes, 62 additions and 0 deletions in 1 file</sub>
+    <sub>[#52620](https://github.com/flutter/engine/pull/52620) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52620) over 51 minutes, 62 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Skia roll to 2319f1ae8fe42525f8b6a1969a1cee67bdbee290
