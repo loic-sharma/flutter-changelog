@@ -15,7 +15,7 @@
     <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Rework getting plugin implementation candidates and plugin resolution<br />
-    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/flutter/pull/145258) 409 additions and 105 deletions in 2 files</sub><br />
+    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) opened on on March 16, 2024 &mdash; **Large:** [57 comments](https://github.com/flutter/flutter/pull/145258) 409 additions and 105 deletions in 2 files</sub><br />
 
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
