@@ -11,9 +11,6 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/140284) 155 additions and 11 deletions in 4 files</sub><br />
 
-* **[Xilai Zhang](https://github.com/XilaiZhang)** &mdash; [flutter roll] include engine cp<br />
-    <sub>[#144592](https://github.com/flutter/flutter/pull/144592) opened on on March 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/144592) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
