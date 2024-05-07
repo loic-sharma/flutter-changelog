@@ -507,7 +507,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-15 commits.
+16 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eagerly bootstrap content context.
     <sub>[#52590](https://github.com/flutter/engine/pull/52590) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52590) over 2 hours, 16 additions and 0 deletions in 2 files</sub>
@@ -517,6 +517,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document how to use Impeller as a standalone library with OpenGL ES and EGL.
     <sub>[#52473](https://github.com/flutter/engine/pull/52473) merged on May 6, 2024 &mdash; **Small:** [57 comments](https://github.com/flutter/engine/pull/52473) over 6 days, 196 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Henry Riehl](https://github.com/whiskeyPeak), [Ian Hickson](https://github.com/Hixie), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `verbose` to `environment.verbose`, pass to `ninja --verbose` if provided.
+    <sub>[#52619](https://github.com/flutter/engine/pull/52619) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52619) over 1 hour, 47 additions and 50 deletions in 13 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wait for the previous AHB texture to be fully recyclable.
     <sub>[#52588](https://github.com/flutter/engine/pull/52588) merged on May 7, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/52588) over 19 hours, 291 additions and 63 deletions in 14 files</sub>
@@ -563,11 +567,11 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Various documentation improvements (#52600)"
-    <sub>[#52607](https://github.com/flutter/engine/pull/52607) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52607) over 1 minute, 14 additions and 54 deletions in 4 files</sub>
+    <sub>[#52607](https://github.com/flutter/engine/pull/52607) merged on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52607) over 1 minute, 14 additions and 54 deletions in 4 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Various documentation improvements
-    <sub>[#52600](https://github.com/flutter/engine/pull/52600) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52600) over 51 minutes, 54 additions and 14 deletions in 4 files</sub>
+    <sub>[#52600](https://github.com/flutter/engine/pull/52600) merged on May 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52600) over 51 minutes, 54 additions and 14 deletions in 4 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 ### April 27, 2024 to May 3, 2024
