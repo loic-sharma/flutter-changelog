@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-20 commits.
+21 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141295) over 3 months, 2 additions and 1 deletion in 2 files</sub><br />
@@ -15,6 +15,10 @@
     <sub>[#147809](https://github.com/flutter/flutter/pull/147809) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147809) over 3 days, 70 additions and 19 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [pretizy](https://github.com/pretizy), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
     <sub><details><summary>1 image...</summary><img width="1209" alt="demo" src="https://github.com/flutter/flutter/assets/40357511/be3522b5-d1b4-4983-9fed-8aaa0f0bc7f7"></details></sub>
+
+* **[August](https://github.com/Gustl22)** &mdash; feat: Rework getting plugin implementation candidates and plugin resolution<br />
+    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) merged on May 7, 2024 &mdash; **Large:** [64 comments](https://github.com/flutter/flutter/pull/145258) over 1 month, 408 additions and 104 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix janks and memory leaks in `CupertinoPageTransition` and `CupertinoFullscreenDialogTransition`<br />
     <sub>[#146999](https://github.com/flutter/flutter/pull/146999) merged on May 6, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/146999) over 2 weeks, 198 additions and 9 deletions in 2 files</sub><br />
@@ -979,7 +983,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-9 commits.
+10 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings<br />
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub><br />
@@ -992,6 +996,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Prevent using unsupported concurrent camera use cases<br />
     <sub>[#6608](https://github.com/flutter/packages/pull/6608) merged on May 6, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/6608) over 1 week, 2333 additions and 545 deletions in 26 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Add Swift Package Manager support<br />
+    <sub>[#6680](https://github.com/flutter/packages/pull/6680) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6680) over 6 hours, 35 additions and 5 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [camera] Ignore implementation imports outside of lib<br />
     <sub>[#6191](https://github.com/flutter/packages/pull/6191) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/6191) over 2 months, 9 additions and 0 deletions in 9 files</sub><br />
