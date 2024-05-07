@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-25 commits.
+26 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141295) over 3 months, 2 additions and 1 deletion in 2 files</sub>
@@ -20,6 +20,10 @@
     <sub>[#147232](https://github.com/flutter/flutter/pull/147232) merged on May 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147232) over 2 weeks, 110 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2024-04-30 at 13 46 10](https://github.com/flutter/flutter/assets/48603081/99db889a-b717-4ddf-b99e-89fdf7edb3ac)![Screenshot 2024-04-30 at 14 04 22](https://github.com/flutter/flutter/assets/48603081/92216cbb-eb89-4c0a-b2f2-feb6a33a3337)</details></sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Use platform detection from Flutter web engine.
+    <sub>[#147346](https://github.com/flutter/flutter/pull/147346) merged on May 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147346) over 1 week, 68 additions and 37 deletions in 2 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Rework getting plugin implementation candidates and plugin resolution
     <sub>[#145258](https://github.com/flutter/flutter/pull/145258) merged on May 7, 2024 &mdash; **Large:** [64 comments](https://github.com/flutter/flutter/pull/145258) over 1 month, 408 additions and 104 deletions in 2 files</sub>
