@@ -553,7 +553,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-23 commits.
+24 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Support copy from buffer to texture for GLES blitpass, use blit pass to set contents in glyph atlas.
     <sub>[#52510](https://github.com/flutter/engine/pull/52510) merged on May 8, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/52510) over 5 days, 528 additions and 690 deletions in 45 files</sub>
@@ -587,6 +587,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix missing GPU probe.
     <sub>[#52580](https://github.com/flutter/engine/pull/52580) merged on May 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52580) over 43 minutes, 6 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] bump image count to 3
+    <sub>[#52650](https://github.com/flutter/engine/pull/52650) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52650) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] In the AHB swapchain, make the wait stages be non-temporaries.
     <sub>[#52644](https://github.com/flutter/engine/pull/52644) merged on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52644) over 45 minutes, 1 addition and 1 deletion in 1 file</sub>
