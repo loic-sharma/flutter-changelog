@@ -565,7 +565,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-28 commits.
+29 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Support copy from buffer to texture for GLES blitpass, use blit pass to set contents in glyph atlas.<br />
     <sub>[#52510](https://github.com/flutter/engine/pull/52510) merged on May 8, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/52510) over 5 days, 528 additions and 690 deletions in 45 files</sub><br />
@@ -679,6 +679,10 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Various documentation improvements<br />
     <sub>[#52600](https://github.com/flutter/engine/pull/52600) merged on May 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52600) over 51 minutes, 54 additions and 14 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a9cf6a411c71 to b7cad2edae4b (7 revisions)<br />
+    <sub>[#52669](https://github.com/flutter/engine/pull/52669) merged on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52669) over 52 minutes, 56 additions and 56 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### April 27, 2024 to May 3, 2024
 
