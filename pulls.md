@@ -65,3 +65,6 @@
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; resolved issue #147363<br />
     <sub>[#147961](https://github.com/flutter/flutter/pull/147961) opened on on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147961) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold.1.dart<br />
+    <sub>[#147966](https://github.com/flutter/flutter/pull/147966) opened on on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147966) 26 additions and 2 deletions in 2 files</sub><br />
+
