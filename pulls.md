@@ -23,9 +23,6 @@
 * **[pearl null](https://github.com/asyncmeow)** &mdash; Fix Flutter project builds under Nix environments on MacOS<br />
     <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147144) 8 additions and 0 deletions in 2 files</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Refactor `Material` build method<br />
-    <sub>[#147430](https://github.com/flutter/flutter/pull/147430) opened on on April 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147430) 37 additions and 92 deletions in 1 file</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add test for focus example 2<br />
     <sub>[#147624](https://github.com/flutter/flutter/pull/147624) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147624) 42 additions and 1 deletion in 2 files</sub><br />
 
