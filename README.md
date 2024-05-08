@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-35 commits.
+37 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family<br />
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141295) over 3 months, 2 additions and 1 deletion in 2 files</sub><br />
@@ -49,21 +49,21 @@
     <sub>[#147326](https://github.com/flutter/flutter/pull/147326) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147326) over 1 week, 31 additions and 7 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
-    <sub>[#147433](https://github.com/flutter/flutter/pull/147433) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147433) over 1 week, 110 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix floating SnackBar is not centered when RTL and Material 2<br />
-    <sub>[#147861](https://github.com/flutter/flutter/pull/147861) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147861) over 1 day, 48 additions and 10 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix MenuItemButton if child is null <br />
+    <sub>[#147485](https://github.com/flutter/flutter/pull/147485) merged on May 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147485) over 1 week, 34 additions and 16 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Nate](https://github.com/nate-thegrate), [Mahmoud Saleh](https://github.com/mahmoudsaleh1997)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for RenderChip<br />
     <sub>[#146224](https://github.com/flutter/flutter/pull/146224) merged on May 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146224) over 1 month, 55 additions and 27 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix MenuItemButton if child is null <br />
-    <sub>[#147485](https://github.com/flutter/flutter/pull/147485) merged on May 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147485) over 1 week, 34 additions and 16 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Nate](https://github.com/nate-thegrate), [Mahmoud Saleh](https://github.com/mahmoudsaleh1997)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix floating SnackBar is not centered when RTL and Material 2<br />
+    <sub>[#147861](https://github.com/flutter/flutter/pull/147861) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147861) over 1 day, 48 additions and 10 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
+    <sub>[#147433](https://github.com/flutter/flutter/pull/147433) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147433) over 1 week, 110 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter web] Listen for service extension registration events to determine hot-restart method name<br />
     <sub>[#147897](https://github.com/flutter/flutter/pull/147897) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147897) over 1 day, 35 additions and 3 deletions in 2 files</sub><br />
@@ -80,6 +80,14 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in a test.<br />
     <sub>[#147846](https://github.com/flutter/flutter/pull/147846) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147846) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add print traces to reload isolate resume logic<br />
+    <sub>[#147997](https://github.com/flutter/flutter/pull/147997) merged on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147997) over 1 hour, 10 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Tweak to fix context.mounted in dialog_demo<br />
+    <sub>[#147998](https://github.com/flutter/flutter/pull/147998) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147998) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; `_RenderValueIndicator` leak fix used on `RangeSlider`<br />
     <sub>[#147581](https://github.com/flutter/flutter/pull/147581) merged on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147581) over 1 week, 12 additions and 2 deletions in 2 files</sub><br />
@@ -99,14 +107,6 @@
 
 * **[Karel Klíč](https://github.com/karelklic)** &mdash; Fix Tooltip.decoration comment<br />
     <sub>[#147858](https://github.com/flutter/flutter/pull/147858) merged on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147858) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; improve focus example<br />
-    <sub>[#147464](https://github.com/flutter/flutter/pull/147464) merged on May 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147464) over 1 week, 101 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [MANAGEMENT](https://github.com/A111one), [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for callback_shortcuts.0.dart API example.<br />
-    <sub>[#147536](https://github.com/flutter/flutter/pull/147536) merged on May 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147536) over 1 week, 55 additions and 30 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[osama](https://github.com/osama383)** &mdash; Added missing tests for ButtonStyle example<br />
@@ -144,6 +144,14 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `RenderEditable.computeDryBaseline`<br />
     <sub>[#147911](https://github.com/flutter/flutter/pull/147911) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147911) over 14 hours, 9 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; improve focus example<br />
+    <sub>[#147464](https://github.com/flutter/flutter/pull/147464) merged on May 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147464) over 1 week, 101 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [MANAGEMENT](https://github.com/A111one), [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for callback_shortcuts.0.dart API example.<br />
+    <sub>[#147536](https://github.com/flutter/flutter/pull/147536) merged on May 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147536) over 1 week, 55 additions and 30 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Revert "Move docs_test and docs_publish to bringup (#147645)"<br />
     <sub>[#147928](https://github.com/flutter/flutter/pull/147928) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147928) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
