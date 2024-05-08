@@ -573,7 +573,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-31 commits.
+32 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Support copy from buffer to texture for GLES blitpass, use blit pass to set contents in glyph atlas.<br />
     <sub>[#52510](https://github.com/flutter/engine/pull/52510) merged on May 8, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/52510) over 5 days, 528 additions and 690 deletions in 45 files</sub><br />
@@ -683,6 +683,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Skip files in the clang-tidy driver if clang-tidy crashes when processing the file<br />
     <sub>[#52379](https://github.com/flutter/engine/pull/52379) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52379) over 1 week, 65 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from b7cad2edae4b to 673b3aa8558a (1 revision) (#52677)"<br />
+    <sub>[#52683](https://github.com/flutter/engine/pull/52683) merged on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52683) over 1 minute, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add host_profile_arm64 and host_release_arm64 local engine configurations. (#52620)"<br />
     <sub>[#52630](https://github.com/flutter/engine/pull/52630) merged on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52630) over 55 seconds, 0 additions and 62 deletions in 1 file</sub><br />
