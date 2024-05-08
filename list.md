@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-34 commits.
+35 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141295) over 3 months, 2 additions and 1 deletion in 2 files</sub>
@@ -49,17 +49,17 @@
     <sub>[#147326](https://github.com/flutter/flutter/pull/147326) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147326) over 1 week, 31 additions and 7 deletions in 11 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for RenderChip
-    <sub>[#146224](https://github.com/flutter/flutter/pull/146224) merged on May 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146224) over 1 month, 55 additions and 27 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.
+    <sub>[#147433](https://github.com/flutter/flutter/pull/147433) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147433) over 1 week, 110 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix floating SnackBar is not centered when RTL and Material 2
     <sub>[#147861](https://github.com/flutter/flutter/pull/147861) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147861) over 1 day, 48 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.
-    <sub>[#147433](https://github.com/flutter/flutter/pull/147433) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147433) over 1 week, 110 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for RenderChip
+    <sub>[#146224](https://github.com/flutter/flutter/pull/146224) merged on May 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146224) over 1 month, 55 additions and 27 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix MenuItemButton if child is null 
     <sub>[#147485](https://github.com/flutter/flutter/pull/147485) merged on May 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147485) over 1 week, 34 additions and 16 deletions in 2 files</sub>
@@ -81,6 +81,10 @@
     <sub>[#147846](https://github.com/flutter/flutter/pull/147846) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147846) over 1 day, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; `_RenderValueIndicator` leak fix used on `RangeSlider`
+    <sub>[#147581](https://github.com/flutter/flutter/pull/147581) merged on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147581) over 1 week, 12 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in context menu
     <sub>[#147822](https://github.com/flutter/flutter/pull/147822) merged on May 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147822) over 4 days, 60 additions and 28 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
@@ -96,10 +100,6 @@
 * **[Karel Klíč](https://github.com/karelklic)** &mdash; Fix Tooltip.decoration comment
     <sub>[#147858](https://github.com/flutter/flutter/pull/147858) merged on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147858) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `RenderEditable.computeDryBaseline`
-    <sub>[#147911](https://github.com/flutter/flutter/pull/147911) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147911) over 14 hours, 9 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; improve focus example
     <sub>[#147464](https://github.com/flutter/flutter/pull/147464) merged on May 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147464) over 1 week, 101 additions and 2 deletions in 3 files</sub>
@@ -140,6 +140,10 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `RawDialogRoute` memory leak
     <sub>[#147817](https://github.com/flutter/flutter/pull/147817) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147817) over 3 days, 6 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement `RenderEditable.computeDryBaseline`
+    <sub>[#147911](https://github.com/flutter/flutter/pull/147911) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147911) over 14 hours, 9 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Revert "Move docs_test and docs_publish to bringup (#147645)"
     <sub>[#147928](https://github.com/flutter/flutter/pull/147928) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147928) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
@@ -1096,7 +1100,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-12 commits.
+13 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub>
@@ -1121,6 +1125,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [camera] Ignore implementation imports outside of lib
     <sub>[#6191](https://github.com/flutter/packages/pull/6191) merged on May 7, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/6191) over 2 months, 9 additions and 0 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [image_picker_ios] Adds Swift Package Manager compatibility to image_picker_ios
+    <sub>[#6617](https://github.com/flutter/packages/pull/6617) merged on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6617) over 1 week, 110 additions and 10 deletions in 27 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Add Swift Package Manager support
     <sub>[#6680](https://github.com/flutter/packages/pull/6680) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6680) over 6 hours, 35 additions and 5 deletions in 8 files</sub>
