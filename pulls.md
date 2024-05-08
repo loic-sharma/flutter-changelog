@@ -77,3 +77,6 @@
 * **[Andrew Shin](https://github.com/As90909w)** &mdash; Update flutter_console.bat<br />
     <sub>[#148016](https://github.com/flutter/flutter/pull/148016) opened on on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148016) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump flutter_lints to 4.0<br />
+    <sub>[#148020](https://github.com/flutter/flutter/pull/148020) opened on on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148020) 7 additions and 7 deletions in 6 files</sub><br />
+
