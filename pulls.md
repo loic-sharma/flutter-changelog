@@ -63,7 +63,7 @@
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for draggable.0.dart API example.<br />
-    <sub>[#147941](https://github.com/flutter/flutter/pull/147941) opened on on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147941) 133 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#147941](https://github.com/flutter/flutter/pull/147941) opened on on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147941) 122 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; resolved issue #147363<br />
     <sub>[#147961](https://github.com/flutter/flutter/pull/147961) opened on on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147961) 1 addition and 0 deletions in 1 file</sub><br />

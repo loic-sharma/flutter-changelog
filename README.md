@@ -565,7 +565,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-26 commits.
+27 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Support copy from buffer to texture for GLES blitpass, use blit pass to set contents in glyph atlas.<br />
     <sub>[#52510](https://github.com/flutter/engine/pull/52510) merged on May 8, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/52510) over 5 days, 528 additions and 690 deletions in 45 files</sub><br />
@@ -579,6 +579,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document how to use Impeller as a standalone library with OpenGL ES and EGL.<br />
     <sub>[#52473](https://github.com/flutter/engine/pull/52473) merged on May 6, 2024 &mdash; **Small:** [57 comments](https://github.com/flutter/engine/pull/52473) over 6 days, 196 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Henry Riehl](https://github.com/whiskeyPeak), [Ian Hickson](https://github.com/Hixie), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; DisplayListBuilder internal reorganization with better rendering op overlap detection<br />
+    <sub>[#52646](https://github.com/flutter/engine/pull/52646) merged on May 8, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/52646) over 15 hours, 1074 additions and 909 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `verbose` to `environment.verbose`, pass to `ninja --verbose` if provided.<br />
     <sub>[#52619](https://github.com/flutter/engine/pull/52619) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52619) over 1 hour, 47 additions and 50 deletions in 13 files</sub><br />
