@@ -569,7 +569,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-30 commits.
+31 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Support copy from buffer to texture for GLES blitpass, use blit pass to set contents in glyph atlas.
     <sub>[#52510](https://github.com/flutter/engine/pull/52510) merged on May 8, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/52510) over 5 days, 528 additions and 690 deletions in 45 files</sub>
@@ -583,6 +583,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document how to use Impeller as a standalone library with OpenGL ES and EGL.
     <sub>[#52473](https://github.com/flutter/engine/pull/52473) merged on May 6, 2024 &mdash; **Small:** [57 comments](https://github.com/flutter/engine/pull/52473) over 6 days, 196 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Henry Riehl](https://github.com/whiskeyPeak), [Ian Hickson](https://github.com/Hixie), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert 484688634c71ec38c18218eaa13dc47fa7007b74
+    <sub>[#52680](https://github.com/flutter/engine/pull/52680) merged on May 8, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/52680) over 45 minutes, 1004 additions and 18 deletions in 26 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; DisplayListBuilder internal reorganization with better rendering op overlap detection
     <sub>[#52646](https://github.com/flutter/engine/pull/52646) merged on May 8, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/52646) over 15 hours, 1074 additions and 909 deletions in 16 files</sub>
@@ -1092,7 +1096,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-10 commits.
+12 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub>
@@ -1105,6 +1109,14 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Prevent using unsupported concurrent camera use cases
     <sub>[#6608](https://github.com/flutter/packages/pull/6608) merged on May 6, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/6608) over 1 week, 2333 additions and 545 deletions in 26 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [ios_platform_images] Add Swift Package Manager support
+    <sub>[#6684](https://github.com/flutter/packages/pull/6684) merged on May 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6684) over 1 day, 36 additions and 5 deletions in 11 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [video_player_avfoundation] Adds Swift Package Manager compatibility
+    <sub>[#6675](https://github.com/flutter/packages/pull/6675) merged on May 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6675) over 2 days, 174 additions and 17 deletions in 27 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [camera] Ignore implementation imports outside of lib
     <sub>[#6191](https://github.com/flutter/packages/pull/6191) merged on May 7, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/6191) over 2 months, 9 additions and 0 deletions in 9 files</sub>
