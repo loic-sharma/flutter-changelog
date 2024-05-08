@@ -26,7 +26,7 @@
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Rework getting plugin implementation candidates and plugin resolution<br />
-    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) merged on May 7, 2024 &mdash; **Large:** [64 comments](https://github.com/flutter/flutter/pull/145258) over 1 month, 408 additions and 104 deletions in 2 files</sub><br />
+    <sub>[#145258](https://github.com/flutter/flutter/pull/145258) merged on May 7, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/145258) over 1 month, 408 additions and 104 deletions in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix janks and memory leaks in `CupertinoPageTransition` and `CupertinoFullscreenDialogTransition`<br />
