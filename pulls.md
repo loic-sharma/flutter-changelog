@@ -36,7 +36,7 @@
     <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147733) 73 additions and 2 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for logical_key_set.0.dart API example.<br />
-    <sub>[#147735](https://github.com/flutter/flutter/pull/147735) opened on on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147735) 118 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#147735](https://github.com/flutter/flutter/pull/147735) opened on on May 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147735) 118 additions and 1 deletion in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
     <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147774) 274 additions and 82 deletions in 4 files</sub><br />
