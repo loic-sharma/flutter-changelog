@@ -66,7 +66,7 @@
     <sub>[#147941](https://github.com/flutter/flutter/pull/147941) opened on on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147941) 122 additions and 1 deletion in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix semantic debugger<br />
-    <sub>[#147953](https://github.com/flutter/flutter/pull/147953) opened on on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147953) 76 additions and 116 deletions in 8 files</sub><br />
+    <sub>[#147953](https://github.com/flutter/flutter/pull/147953) opened on on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147953) 82 additions and 117 deletions in 8 files</sub><br />
 
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; resolved issue #147363<br />
     <sub>[#147961](https://github.com/flutter/flutter/pull/147961) opened on on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147961) 1 addition and 0 deletions in 1 file</sub><br />
@@ -79,4 +79,7 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `flex` a `num?`<br />
     <sub>[#147976](https://github.com/flutter/flutter/pull/147976) opened on on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147976) 76 additions and 29 deletions in 3 files</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#147995](https://github.com/flutter/flutter/pull/147995) opened on on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147995) 8 additions and 8 deletions in 4 files</sub><br />
 
