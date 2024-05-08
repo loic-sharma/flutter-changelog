@@ -15,7 +15,7 @@
     <sub>[#143416](https://github.com/flutter/flutter/pull/143416) opened on on February 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143416) 694 additions and 122 deletions in 12 files</sub><br />
 
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
-    <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix ExpandIcon color when ExpansionPanel.canTapOnHeader true (#147097)<br />
     <sub>[#147098](https://github.com/flutter/flutter/pull/147098) opened on on April 20, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147098) 9 additions and 7 deletions in 1 file</sub><br />
@@ -70,4 +70,7 @@
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#148011](https://github.com/flutter/flutter/pull/148011) opened on on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148011) 4 additions and 4 deletions in 2 files</sub><br />
+
+* **[Andrew Shin](https://github.com/As90909w)** &mdash; Update .gitattributes<br />
+    <sub>[#148015](https://github.com/flutter/flutter/pull/148015) opened on on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148015) 1 addition and 0 deletions in 1 file</sub><br />
 
