@@ -74,3 +74,6 @@
 * **[Andrew Shin](https://github.com/As90909w)** &mdash; Update .gitattributes<br />
     <sub>[#148015](https://github.com/flutter/flutter/pull/148015) opened on on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148015) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Andrew Shin](https://github.com/As90909w)** &mdash; Update flutter_console.bat<br />
+    <sub>[#148016](https://github.com/flutter/flutter/pull/148016) opened on on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148016) 1 addition and 0 deletions in 1 file</sub><br />
+
