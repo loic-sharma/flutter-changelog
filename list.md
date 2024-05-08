@@ -581,7 +581,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-32 commits.
+33 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Support copy from buffer to texture for GLES blitpass, use blit pass to set contents in glyph atlas.
     <sub>[#52510](https://github.com/flutter/engine/pull/52510) merged on May 8, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/52510) over 5 days, 528 additions and 690 deletions in 45 files</sub>
@@ -623,6 +623,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix missing GPU probe.
     <sub>[#52580](https://github.com/flutter/engine/pull/52580) merged on May 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52580) over 43 minutes, 6 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Start a glossary.
+    <sub>[#52641](https://github.com/flutter/engine/pull/52641) merged on May 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52641) over 21 hours, 42 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Update BlitPass::AddCopy to use destination_region instead of origin for buffer to texture copies.
     <sub>[#52555](https://github.com/flutter/engine/pull/52555) merged on May 8, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52555) over 4 days, 165 additions and 48 deletions in 19 files</sub>
