@@ -69,5 +69,5 @@
     <sub>[#147966](https://github.com/flutter/flutter/pull/147966) opened on on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147966) 26 additions and 2 deletions in 2 files</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; Feat add default flavor<br />
-    <sub>[#147968](https://github.com/flutter/flutter/pull/147968) opened on on May 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147968) 81 additions and 1 deletion in 4 files</sub><br />
+    <sub>[#147968](https://github.com/flutter/flutter/pull/147968) opened on on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147968) 81 additions and 1 deletion in 4 files</sub><br />
 
