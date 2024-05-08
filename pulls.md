@@ -71,3 +71,6 @@
 * **[holzgeist](https://github.com/holzgeist)** &mdash; Feat add default flavor<br />
     <sub>[#147968](https://github.com/flutter/flutter/pull/147968) opened on on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147968) 81 additions and 1 deletion in 4 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `flex` a `num?`<br />
+    <sub>[#147976](https://github.com/flutter/flutter/pull/147976) opened on on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147976) 76 additions and 29 deletions in 3 files</sub><br />
+
