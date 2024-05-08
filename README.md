@@ -585,7 +585,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-33 commits.
+34 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Support copy from buffer to texture for GLES blitpass, use blit pass to set contents in glyph atlas.<br />
     <sub>[#52510](https://github.com/flutter/engine/pull/52510) merged on May 8, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/52510) over 5 days, 528 additions and 690 deletions in 45 files</sub><br />
@@ -672,8 +672,8 @@
     <sub>[#52624](https://github.com/flutter/engine/pull/52624) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52624) over 1 hour, 19 additions and 22 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add host_profile_arm64 and host_release_arm64 local engine configurations.<br />
-    <sub>[#52620](https://github.com/flutter/engine/pull/52620) merged on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52620) over 51 minutes, 62 additions and 0 deletions in 1 file</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Skip files in the clang-tidy driver if clang-tidy crashes when processing the file<br />
+    <sub>[#52379](https://github.com/flutter/engine/pull/52379) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52379) over 1 week, 65 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Skia roll to 2319f1ae8fe42525f8b6a1969a1cee67bdbee290<br />
@@ -696,13 +696,9 @@
     <sub>[#52579](https://github.com/flutter/engine/pull/52579) merged on May 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52579) over 1 hour, 7 additions and 228 deletions in 133 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Skip files in the clang-tidy driver if clang-tidy crashes when processing the file<br />
-    <sub>[#52379](https://github.com/flutter/engine/pull/52379) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52379) over 1 week, 65 additions and 5 deletions in 3 files</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add host_profile_arm64 and host_release_arm64 local engine configurations.<br />
+    <sub>[#52620](https://github.com/flutter/engine/pull/52620) merged on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52620) over 51 minutes, 62 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from b7cad2edae4b to 673b3aa8558a (1 revision) (#52677)"<br />
-    <sub>[#52683](https://github.com/flutter/engine/pull/52683) merged on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52683) over 1 minute, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add host_profile_arm64 and host_release_arm64 local engine configurations. (#52620)"<br />
     <sub>[#52630](https://github.com/flutter/engine/pull/52630) merged on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52630) over 55 seconds, 0 additions and 62 deletions in 1 file</sub><br />
@@ -716,9 +712,17 @@
     <sub>[#52600](https://github.com/flutter/engine/pull/52600) merged on May 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52600) over 51 minutes, 54 additions and 14 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from b7cad2edae4b to 673b3aa8558a (1 revision) (#52677)"<br />
+    <sub>[#52683](https://github.com/flutter/engine/pull/52683) merged on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52683) over 1 minute, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a9cf6a411c71 to b7cad2edae4b (7 revisions)<br />
     <sub>[#52669](https://github.com/flutter/engine/pull/52669) merged on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52669) over 52 minutes, 56 additions and 56 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Reland "Add host_profile_arm64 and host_release_arm64 local engine configurations."<br />
+    <sub>[#52633](https://github.com/flutter/engine/pull/52633) merged on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52633) over 23 hours, 64 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 ### April 27, 2024 to May 3, 2024
 
