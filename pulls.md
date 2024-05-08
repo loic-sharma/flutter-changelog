@@ -30,7 +30,7 @@
     <sub>[#147635](https://github.com/flutter/flutter/pull/147635) opened on on May 1, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/147635) 91 additions and 16 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.<br />
-    <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147637) 135 additions and 3 deletions in 4 files</sub><br />
+    <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147637) 135 additions and 3 deletions in 4 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add tests for material banner example<br />
     <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147733) 73 additions and 2 deletions in 3 files</sub><br />
