@@ -74,7 +74,7 @@
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix dep tracking
-    <sub>[#147709](https://github.com/flutter/flutter/pull/147709) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147709) over 5 days, 42 additions and 13 deletions in 2 files</sub>
+    <sub>[#147709](https://github.com/flutter/flutter/pull/147709) merged on May 7, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147709) over 5 days, 42 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in a test.
@@ -581,7 +581,7 @@
     <sub>Reviewed by: [Henry Riehl](https://github.com/whiskeyPeak), [Ian Hickson](https://github.com/Hixie), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; DisplayListBuilder internal reorganization with better rendering op overlap detection
-    <sub>[#52646](https://github.com/flutter/engine/pull/52646) merged on May 8, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/52646) over 15 hours, 1074 additions and 909 deletions in 16 files</sub>
+    <sub>[#52646](https://github.com/flutter/engine/pull/52646) merged on May 8, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/52646) over 15 hours, 1074 additions and 909 deletions in 16 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `verbose` to `environment.verbose`, pass to `ninja --verbose` if provided.
@@ -589,7 +589,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wait for the previous AHB texture to be fully recyclable.
-    <sub>[#52588](https://github.com/flutter/engine/pull/52588) merged on May 7, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/52588) over 19 hours, 291 additions and 63 deletions in 14 files</sub>
+    <sub>[#52588](https://github.com/flutter/engine/pull/52588) merged on May 7, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/engine/pull/52588) over 19 hours, 291 additions and 63 deletions in 14 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add clip coverage stack to exp canvas.
