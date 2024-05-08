@@ -4,7 +4,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-38 commits.
+39 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Change dialog font family
     <sub>[#141295](https://github.com/flutter/flutter/pull/141295) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/141295) over 3 months, 2 additions and 1 deletion in 2 files</sub>
@@ -57,25 +57,29 @@
     <sub>[#147485](https://github.com/flutter/flutter/pull/147485) merged on May 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147485) over 1 week, 34 additions and 16 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Nate](https://github.com/nate-thegrate), [Mahmoud Saleh](https://github.com/mahmoudsaleh1997)</sub>
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for RenderChip
+    <sub>[#146224](https://github.com/flutter/flutter/pull/146224) merged on May 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146224) over 1 month, 55 additions and 27 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix floating SnackBar is not centered when RTL and Material 2
     <sub>[#147861](https://github.com/flutter/flutter/pull/147861) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147861) over 1 day, 48 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for RenderChip
-    <sub>[#146224](https://github.com/flutter/flutter/pull/146224) merged on May 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146224) over 1 month, 55 additions and 27 deletions in 2 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix semantic debugger
+    <sub>[#147953](https://github.com/flutter/flutter/pull/147953) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147953) over 23 hours, 82 additions and 117 deletions in 8 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [flutter web] Listen for service extension registration events to determine hot-restart method name
     <sub>[#147897](https://github.com/flutter/flutter/pull/147897) merged on May 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147897) over 1 day, 35 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix dep tracking
-    <sub>[#147709](https://github.com/flutter/flutter/pull/147709) merged on May 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147709) over 5 days, 42 additions and 13 deletions in 2 files</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly guard context access in then clauses
     <sub>[#147935](https://github.com/flutter/flutter/pull/147935) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147935) over 3 hours, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Fix dep tracking
+    <sub>[#147709](https://github.com/flutter/flutter/pull/147709) merged on May 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147709) over 5 days, 42 additions and 13 deletions in 2 files</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in a test.
     <sub>[#147846](https://github.com/flutter/flutter/pull/147846) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147846) over 1 day, 1 addition and 0 deletions in 1 file</sub>
@@ -101,9 +105,9 @@
     <sub>[#147822](https://github.com/flutter/flutter/pull/147822) merged on May 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147822) over 4 days, 60 additions and 28 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin DDS and roll pub packages
-    <sub>[#147925](https://github.com/flutter/flutter/pull/147925) merged on May 8, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/147925) over 18 hours, 183 additions and 216 deletions in 66 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; MultiSelectableSelectionContainerDelegate documentation fixes.
+    <sub>[#147843](https://github.com/flutter/flutter/pull/147843) merged on May 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147843) over 1 day, 5 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Karel Klíč](https://github.com/karelklic)** &mdash; Fix Tooltip.decoration comment
     <sub>[#147858](https://github.com/flutter/flutter/pull/147858) merged on May 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147858) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -133,9 +137,9 @@
     <sub>[#147896](https://github.com/flutter/flutter/pull/147896) merged on May 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147896) over 53 minutes, 78 additions and 78 deletions in 39 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; MultiSelectableSelectionContainerDelegate documentation fixes.
-    <sub>[#147843](https://github.com/flutter/flutter/pull/147843) merged on May 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147843) over 1 day, 5 additions and 7 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unpin DDS and roll pub packages
+    <sub>[#147925](https://github.com/flutter/flutter/pull/147925) merged on May 8, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/147925) over 18 hours, 183 additions and 216 deletions in 66 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix more memory leaks in cupertino page transition
     <sub>[#147907](https://github.com/flutter/flutter/pull/147907) merged on May 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147907) over 21 hours, 22 additions and 26 deletions in 1 file</sub>
@@ -149,13 +153,13 @@
     <sub>[#147911](https://github.com/flutter/flutter/pull/147911) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147911) over 14 hours, 9 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; improve focus example
-    <sub>[#147464](https://github.com/flutter/flutter/pull/147464) merged on May 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147464) over 1 week, 101 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [MANAGEMENT](https://github.com/A111one), [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#147891](https://github.com/flutter/flutter/pull/147891) merged on May 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147891) over 51 minutes, 78 additions and 78 deletions in 39 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; improve focus example
+    <sub>[#147464](https://github.com/flutter/flutter/pull/147464) merged on May 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147464) over 1 week, 101 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [MANAGEMENT](https://github.com/A111one), [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Revert "Move docs_test and docs_publish to bringup (#147645)"
     <sub>[#147928](https://github.com/flutter/flutter/pull/147928) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147928) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
