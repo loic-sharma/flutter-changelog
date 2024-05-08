@@ -569,7 +569,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-29 commits.
+30 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Support copy from buffer to texture for GLES blitpass, use blit pass to set contents in glyph atlas.<br />
     <sub>[#52510](https://github.com/flutter/engine/pull/52510) merged on May 8, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/52510) over 5 days, 528 additions and 690 deletions in 45 files</sub><br />
@@ -610,6 +610,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Update BlitPass::AddCopy to use destination_region instead of origin for buffer to texture copies.<br />
     <sub>[#52555](https://github.com/flutter/engine/pull/52555) merged on May 8, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52555) over 4 days, 165 additions and 48 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] require and use backpressure for AHB swapchain.<br />
+    <sub>[#52676](https://github.com/flutter/engine/pull/52676) merged on May 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52676) over 1 hour, 11 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll reclient forward<br />
