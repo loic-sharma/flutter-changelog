@@ -1100,7 +1100,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-13 commits.
+14 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings<br />
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub><br />
@@ -1126,8 +1126,12 @@
     <sub>[#6191](https://github.com/flutter/packages/pull/6191) merged on May 7, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/6191) over 2 months, 9 additions and 0 deletions in 9 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[image_picker_ios] Adds Swift Package Manager compatibility to image_picker_ios (#6617)"<br />
+    <sub>[#6693](https://github.com/flutter/packages/pull/6693) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6693) over 54 seconds, 10 additions and 110 deletions in 27 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [image_picker_ios] Adds Swift Package Manager compatibility to image_picker_ios<br />
-    <sub>[#6617](https://github.com/flutter/packages/pull/6617) merged on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6617) over 1 week, 110 additions and 10 deletions in 27 files</sub><br />
+    <sub>[#6617](https://github.com/flutter/packages/pull/6617) merged on May 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6617) over 1 week, 110 additions and 10 deletions in 27 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Add Swift Package Manager support<br />
