@@ -74,3 +74,9 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds Getter for floatingActionButtonLocation in ScaffoldState<br />
     <sub>[#148082](https://github.com/flutter/flutter/pull/148082) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148082) 47 additions and 0 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout (more).<br />
+    <sub>[#148095](https://github.com/flutter/flutter/pull/148095) opened on on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148095) 5 additions and 2 deletions in 2 files</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on LocalProcessManager<br />
+    <sub>[#148096](https://github.com/flutter/flutter/pull/148096) opened on on May 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148096) 20 additions and 1 deletion in 3 files</sub><br />
+
