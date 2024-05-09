@@ -83,3 +83,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in open upwards page transition<br />
     <sub>[#148046](https://github.com/flutter/flutter/pull/148046) opened on on May 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148046) 64 additions and 20 deletions in 2 files</sub><br />
 
+* **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside.<br />
+    <sub>[#148052](https://github.com/flutter/flutter/pull/148052) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148052) 74 additions and 0 deletions in 2 files</sub><br />
+
