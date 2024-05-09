@@ -80,6 +80,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `clipBehavior` to `DrawerThemeData`<br />
     <sub>[#148061](https://github.com/flutter/flutter/pull/148061) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148061) 42 additions and 6 deletions in 4 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea's selection should not be cleared on loss of window focus<br />
-    <sub>[#148067](https://github.com/flutter/flutter/pull/148067) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148067) 64 additions and 3 deletions in 5 files</sub><br />
-
