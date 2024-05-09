@@ -1144,7 +1144,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-15 commits.
+16 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub>
@@ -1193,6 +1193,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [go_router] guard context access in then clauses
     <sub>[#6685](https://github.com/flutter/packages/pull/6685) merged on May 7, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6685) over 1 hour, 12 additions and 1 deletion in 4 files</sub>
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pointer_interceptor] Remove `implements` from app-facing package
+    <sub>[#6699](https://github.com/flutter/packages/pull/6699) merged on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6699) over 1 hour, 4 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily add empty header files to video_player_avfoundation so include directory is downloaded
     <sub>[#6694](https://github.com/flutter/packages/pull/6694) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6694) over 43 minutes, 17 additions and 1 deletion in 4 files</sub>
