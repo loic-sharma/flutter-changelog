@@ -68,9 +68,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `flex` a `num?`<br />
     <sub>[#147976](https://github.com/flutter/flutter/pull/147976) opened on on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147976) 76 additions and 29 deletions in 3 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#148011](https://github.com/flutter/flutter/pull/148011) opened on on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148011) 4 additions and 4 deletions in 2 files</sub><br />
-
 * **[Andrew Shin](https://github.com/As90909w)** &mdash; Update .gitattributes<br />
     <sub>[#148015](https://github.com/flutter/flutter/pull/148015) opened on on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148015) 1 addition and 0 deletions in 1 file</sub><br />
 
