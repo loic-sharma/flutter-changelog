@@ -65,12 +65,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `flex` a `num?`<br />
     <sub>[#147976](https://github.com/flutter/flutter/pull/147976) opened on on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147976) 76 additions and 29 deletions in 3 files</sub><br />
 
-* **[Andrew Shin](https://github.com/As90909w)** &mdash; Update .gitattributes<br />
-    <sub>[#148015](https://github.com/flutter/flutter/pull/148015) opened on on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148015) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Andrew Shin](https://github.com/As90909w)** &mdash; Update flutter_console.bat<br />
-    <sub>[#148016](https://github.com/flutter/flutter/pull/148016) opened on on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148016) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test sliver fill remaining examples<br />
     <sub>[#148041](https://github.com/flutter/flutter/pull/148041) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148041) 149 additions and 4 deletions in 5 files</sub><br />
 
@@ -79,12 +73,6 @@
 
 * **[John Angelo Cordero](https://github.com/angelocordero)** &mdash; allow changing textAlign of TextField in DropdownMenu<br />
     <sub>[#148074](https://github.com/flutter/flutter/pull/148074) opened on on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148074) 7 additions and 0 deletions in 1 file</sub><br />
-
-* **[Andrew Shin](https://github.com/As90909w)** &mdash; Update settings.json<br />
-    <sub>[#148077](https://github.com/flutter/flutter/pull/148077) opened on on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148077) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Andrew Shin](https://github.com/As90909w)** &mdash; Create .flutterBuild.ts<br />
-    <sub>[#148078](https://github.com/flutter/flutter/pull/148078) opened on on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148078) 24 additions and 0 deletions in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds Getter for floatingActionButtonLocation in ScaffoldState<br />
     <sub>[#148082](https://github.com/flutter/flutter/pull/148082) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148082) 47 additions and 0 deletions in 2 files</sub><br />
