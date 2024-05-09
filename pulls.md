@@ -18,7 +18,7 @@
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix ExpandIcon color when ExpansionPanel.canTapOnHeader true (#147097)<br />
-    <sub>[#147098](https://github.com/flutter/flutter/pull/147098) opened on on April 20, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/147098) 39 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#147098](https://github.com/flutter/flutter/pull/147098) opened on on April 20, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/147098) 39 additions and 0 deletions in 2 files</sub><br />
 
 * **[pearl null](https://github.com/asyncmeow)** &mdash; Fix Flutter project builds under Nix environments on MacOS<br />
     <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147144) 8 additions and 0 deletions in 2 files</sub><br />
