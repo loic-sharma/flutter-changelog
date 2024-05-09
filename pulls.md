@@ -27,7 +27,7 @@
     <sub>[#147624](https://github.com/flutter/flutter/pull/147624) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147624) 42 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `clipBehavior` to `DialogTheme`<br />
-    <sub>[#147635](https://github.com/flutter/flutter/pull/147635) opened on on May 1, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/147635) 91 additions and 16 deletions in 4 files</sub><br />
+    <sub>[#147635](https://github.com/flutter/flutter/pull/147635) opened on on May 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/147635) 91 additions and 16 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.<br />
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147637) 135 additions and 3 deletions in 4 files</sub><br />
