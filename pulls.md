@@ -86,3 +86,6 @@
 * **[Andrew Shin](https://github.com/As90909w)** &mdash; Create .flutterBuild.ts<br />
     <sub>[#148078](https://github.com/flutter/flutter/pull/148078) opened on on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148078) 24 additions and 0 deletions in 1 file</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; Adds Getter for floatingActionButtonLocation in ScaffoldState<br />
+    <sub>[#148082](https://github.com/flutter/flutter/pull/148082) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148082) 47 additions and 0 deletions in 2 files</sub><br />
+
