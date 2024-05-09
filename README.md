@@ -45,6 +45,10 @@
     <sub>[#148023](https://github.com/flutter/flutter/pull/148023) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148023) over 36 minutes, 5 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Update wasm CLI details to be clear JavaScript is ALSO compiled<br />
+    <sub>[#147944](https://github.com/flutter/flutter/pull/147944) merged on May 9, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/147944) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Jackson Gardner](https://github.com/eyebrowsoffire), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reapply new PopScope API<br />
     <sub>[#147607](https://github.com/flutter/flutter/pull/147607) merged on May 7, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/147607) over 6 days, 577 additions and 81 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -57,21 +61,17 @@
     <sub>[#147485](https://github.com/flutter/flutter/pull/147485) merged on May 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147485) over 1 week, 34 additions and 16 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Nate](https://github.com/nate-thegrate), [Mahmoud Saleh](https://github.com/mahmoudsaleh1997)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for RenderChip<br />
-    <sub>[#146224](https://github.com/flutter/flutter/pull/146224) merged on May 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146224) over 1 month, 55 additions and 27 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
+    <sub>[#147433](https://github.com/flutter/flutter/pull/147433) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147433) over 1 week, 110 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix floating SnackBar is not centered when RTL and Material 2<br />
     <sub>[#147861](https://github.com/flutter/flutter/pull/147861) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147861) over 1 day, 48 additions and 10 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] Update wasm CLI details to be clear JavaScript is ALSO compiled<br />
-    <sub>[#147944](https://github.com/flutter/flutter/pull/147944) merged on May 9, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/147944) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Jackson Gardner](https://github.com/eyebrowsoffire), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shortcuts.dart API examples.<br />
-    <sub>[#147433](https://github.com/flutter/flutter/pull/147433) merged on May 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147433) over 1 week, 110 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Implement computeDryBaseline for RenderChip<br />
+    <sub>[#146224](https://github.com/flutter/flutter/pull/146224) merged on May 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146224) over 1 month, 55 additions and 27 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix semantic debugger<br />
     <sub>[#147953](https://github.com/flutter/flutter/pull/147953) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147953) over 23 hours, 82 additions and 117 deletions in 8 files</sub><br />
