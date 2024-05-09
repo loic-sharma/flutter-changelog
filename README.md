@@ -1240,7 +1240,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pointer_interceptor] Remove `implements` from app-facing package<br />
-    <sub>[#6699](https://github.com/flutter/packages/pull/6699) merged on May 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6699) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
+    <sub>[#6699](https://github.com/flutter/packages/pull/6699) merged on May 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6699) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily add empty header files to video_player_avfoundation so include directory is downloaded<br />
