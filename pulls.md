@@ -77,9 +77,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test sliver fill remaining examples<br />
     <sub>[#148041](https://github.com/flutter/flutter/pull/148041) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148041) 149 additions and 4 deletions in 5 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in open upwards page transition<br />
-    <sub>[#148046](https://github.com/flutter/flutter/pull/148046) opened on on May 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148046) 64 additions and 20 deletions in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `clipBehavior` to `DrawerThemeData`<br />
     <sub>[#148061](https://github.com/flutter/flutter/pull/148061) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148061) 42 additions and 6 deletions in 4 files</sub><br />
 
