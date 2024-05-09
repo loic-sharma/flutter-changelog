@@ -614,16 +614,16 @@
 
 ### May 4, 2024 to May 10, 2024
 
-40 commits.
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Support copy from buffer to texture for GLES blitpass, use blit pass to set contents in glyph atlas.<br />
-    <sub>[#52510](https://github.com/flutter/engine/pull/52510) merged on May 8, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/52510) over 5 days, 528 additions and 690 deletions in 45 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+41 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eagerly bootstrap content context.<br />
     <sub>[#52590](https://github.com/flutter/engine/pull/52590) merged on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52590) over 2 hours, 16 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/engine/assets/8975114/5238d169-a68b-4905-848b-3ee7a7972de8)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Support copy from buffer to texture for GLES blitpass, use blit pass to set contents in glyph atlas.<br />
+    <sub>[#52510](https://github.com/flutter/engine/pull/52510) merged on May 8, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/engine/pull/52510) over 5 days, 528 additions and 690 deletions in 45 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document how to use Impeller as a standalone library with OpenGL ES and EGL.<br />
     <sub>[#52473](https://github.com/flutter/engine/pull/52473) merged on May 6, 2024 &mdash; **Small:** [57 comments](https://github.com/flutter/engine/pull/52473) over 6 days, 196 additions and 0 deletions in 2 files</sub><br />
@@ -665,13 +665,17 @@
     <sub>[#52641](https://github.com/flutter/engine/pull/52641) merged on May 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52641) over 21 hours, 42 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Size AHB swapchain based on vk surface properties.<br />
-    <sub>[#52692](https://github.com/flutter/engine/pull/52692) merged on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52692) over 15 hours, 49 additions and 26 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] Adds impeller display list golden tests<br />
+    <sub>[#52690](https://github.com/flutter/engine/pull/52690) merged on May 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52690) over 21 hours, 182 additions and 18 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; updated analysis exclusion<br />
     <sub>[#52699](https://github.com/flutter/engine/pull/52699) merged on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52699) over 56 minutes, 3 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Size AHB swapchain based on vk surface properties.<br />
+    <sub>[#52692](https://github.com/flutter/engine/pull/52692) merged on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52692) over 15 hours, 49 additions and 26 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Update BlitPass::AddCopy to use destination_region instead of origin for buffer to texture copies.<br />
     <sub>[#52555](https://github.com/flutter/engine/pull/52555) merged on May 8, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52555) over 4 days, 165 additions and 48 deletions in 19 files</sub><br />
@@ -713,17 +717,13 @@
     <sub>[#52591](https://github.com/flutter/engine/pull/52591) merged on May 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52591) over 1 day, 48 additions and 20 deletions in 3 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] initialize ahb swapchain with max entries.<br />
-    <sub>[#52670](https://github.com/flutter/engine/pull/52670) merged on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52670) over 7 hours, 6 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate third_party/android_tools to flutter/third_party<br />
+    <sub>[#52582](https://github.com/flutter/engine/pull/52582) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52582) over 1 hour, 53 additions and 35 deletions in 20 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Skip files in the clang-tidy driver if clang-tidy crashes when processing the file<br />
     <sub>[#52379](https://github.com/flutter/engine/pull/52379) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52379) over 1 week, 65 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix links in rbe.md<br />
-    <sub>[#52635](https://github.com/flutter/engine/pull/52635) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52635) over 43 minutes, 13 additions and 16 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move setting the logging level into the `Logger` constructor, refactor.<br />
     <sub>[#52624](https://github.com/flutter/engine/pull/52624) merged on May 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52624) over 1 hour, 19 additions and 22 deletions in 4 files</sub><br />
@@ -741,9 +741,9 @@
     <sub>[#52615](https://github.com/flutter/engine/pull/52615) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52615) over 1 hour, 7 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate third_party/android_tools to flutter/third_party<br />
-    <sub>[#52582](https://github.com/flutter/engine/pull/52582) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52582) over 1 hour, 53 additions and 35 deletions in 20 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] initialize ahb swapchain with max entries.<br />
+    <sub>[#52670](https://github.com/flutter/engine/pull/52670) merged on May 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52670) over 7 hours, 6 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] allow cloning a rectangle packer with an increased size.<br />
     <sub>[#52563](https://github.com/flutter/engine/pull/52563) merged on May 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52563) over 3 days, 101 additions and 21 deletions in 5 files</sub><br />
@@ -753,9 +753,9 @@
     <sub>[#52579](https://github.com/flutter/engine/pull/52579) merged on May 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52579) over 1 hour, 7 additions and 228 deletions in 133 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Various documentation improvements<br />
-    <sub>[#52600](https://github.com/flutter/engine/pull/52600) merged on May 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52600) over 51 minutes, 54 additions and 14 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix links in rbe.md<br />
+    <sub>[#52635](https://github.com/flutter/engine/pull/52635) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52635) over 43 minutes, 13 additions and 16 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from b7cad2edae4b to 673b3aa8558a (1 revision) (#52677)"<br />
     <sub>[#52683](https://github.com/flutter/engine/pull/52683) merged on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52683) over 1 minute, 2 additions and 2 deletions in 1 file</sub><br />
@@ -768,6 +768,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Various documentation improvements (#52600)"<br />
     <sub>[#52607](https://github.com/flutter/engine/pull/52607) merged on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52607) over 1 minute, 14 additions and 54 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Various documentation improvements<br />
+    <sub>[#52600](https://github.com/flutter/engine/pull/52600) merged on May 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52600) over 51 minutes, 54 additions and 14 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a9cf6a411c71 to b7cad2edae4b (7 revisions)<br />
     <sub>[#52669](https://github.com/flutter/engine/pull/52669) merged on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52669) over 52 minutes, 56 additions and 56 deletions in 3 files</sub><br />
