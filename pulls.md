@@ -71,9 +71,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `clipBehavior` to `DrawerThemeData`<br />
     <sub>[#148061](https://github.com/flutter/flutter/pull/148061) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148061) 42 additions and 6 deletions in 4 files</sub><br />
 
-* **[John Angelo Cordero](https://github.com/angelocordero)** &mdash; allow changing textAlign of TextField in DropdownMenu<br />
-    <sub>[#148074](https://github.com/flutter/flutter/pull/148074) opened on on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148074) 7 additions and 0 deletions in 1 file</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds Getter for floatingActionButtonLocation in ScaffoldState<br />
     <sub>[#148082](https://github.com/flutter/flutter/pull/148082) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148082) 47 additions and 0 deletions in 2 files</sub><br />
 
