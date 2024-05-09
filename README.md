@@ -1181,11 +1181,15 @@
 
 ### May 4, 2024 to May 10, 2024
 
-18 commits.
+19 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings<br />
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman), [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; [go_router] Feat add route redirect shellroutes (#114559)<br />
+    <sub>[#6432](https://github.com/flutter/packages/pull/6432) merged on May 9, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6432) over 1 month, 169 additions and 74 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; Fix unnecessary toList/fromList calls during encode/decode process<br />
     <sub>[#6426](https://github.com/flutter/packages/pull/6426) merged on May 6, 2024 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/6426) over 1 month, 1309 additions and 1357 deletions in 48 files</sub><br />
