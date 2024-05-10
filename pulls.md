@@ -45,7 +45,7 @@
     <sub>[#147830](https://github.com/flutter/flutter/pull/147830) opened on on May 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147830) 245 additions and 44 deletions in 5 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for stream_builder.0.dart API example.<br />
-    <sub>[#147832](https://github.com/flutter/flutter/pull/147832) opened on on May 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147832) 236 additions and 85 deletions in 3 files</sub><br />
+    <sub>[#147832](https://github.com/flutter/flutter/pull/147832) opened on on May 4, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/147832) 236 additions and 85 deletions in 3 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Try fix module test<br />
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) opened on on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147934) 0 additions and 4 deletions in 1 file</sub><br />
