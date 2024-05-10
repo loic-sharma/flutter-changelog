@@ -80,6 +80,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on LocalProcessManager<br />
     <sub>[#148096](https://github.com/flutter/flutter/pull/148096) opened on on May 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148096) 20 additions and 1 deletion in 3 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update TESTOWNERS<br />
-    <sub>[#148108](https://github.com/flutter/flutter/pull/148108) opened on on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148108) 7 additions and 7 deletions in 1 file</sub><br />
-
