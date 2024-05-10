@@ -735,7 +735,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed constness of display list storage.
-    <sub>[#52705](https://github.com/flutter/engine/pull/52705) merged on May 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52705) over 17 hours, 22 additions and 18 deletions in 2 files</sub>
+    <sub>[#52705](https://github.com/flutter/engine/pull/52705) merged on May 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52705) over 17 hours, 22 additions and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 70a42312a688
@@ -1258,11 +1258,15 @@
 
 ### May 4, 2024 to May 10, 2024
 
-24 commits.
+25 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman), [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android][webview_flutter] Run integration tests on emulators running Android 34
+    <sub>[#6499](https://github.com/flutter/packages/pull/6499) merged on May 10, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/6499) over 1 month, 250 additions and 375 deletions in 8 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Victor Ohashi](https://github.com/VictorOhashi)** &mdash; [go_router] Feat add route redirect shellroutes (#114559)
     <sub>[#6432](https://github.com/flutter/packages/pull/6432) merged on May 9, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6432) over 1 month, 169 additions and 74 deletions in 5 files</sub>
