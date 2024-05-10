@@ -819,7 +819,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Various documentation improvements (#52600)<br />
-    <sub>[#52623](https://github.com/flutter/engine/pull/52623) merged on May 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52623) over 2 days, 54 additions and 14 deletions in 4 files</sub><br />
+    <sub>[#52623](https://github.com/flutter/engine/pull/52623) merged on May 9, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52623) over 2 days, 54 additions and 14 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Various documentation improvements (#52600)"<br />
@@ -1258,7 +1258,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-19 commits.
+20 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings<br />
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub><br />
@@ -1275,6 +1275,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Prevent using unsupported concurrent camera use cases<br />
     <sub>[#6608](https://github.com/flutter/packages/pull/6608) merged on May 6, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/6608) over 1 week, 2333 additions and 545 deletions in 26 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [local_auth_darwin] Adds Swift Package Manager compatibility<br />
+    <sub>[#6708](https://github.com/flutter/packages/pull/6708) merged on May 10, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6708) over 23 hours, 50 additions and 10 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Victoria Ashworth](https://github.com/vashworth), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [ios_platform_images] Add Swift Package Manager support<br />
     <sub>[#6684](https://github.com/flutter/packages/pull/6684) merged on May 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6684) over 1 day, 36 additions and 5 deletions in 11 files</sub><br />
