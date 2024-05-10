@@ -83,6 +83,3 @@
 * **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside <br />
     <sub>[#148112](https://github.com/flutter/flutter/pull/148112) opened on on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148112) 74 additions and 0 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing InputDecorator.hintText tests<br />
-    <sub>[#148113](https://github.com/flutter/flutter/pull/148113) opened on on May 10, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/148113) 1530 additions and 494 deletions in 1 file</sub><br />
-
