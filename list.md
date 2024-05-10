@@ -735,7 +735,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed constness of display list storage.
-    <sub>[#52705](https://github.com/flutter/engine/pull/52705) merged on May 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52705) over 17 hours, 22 additions and 18 deletions in 2 files</sub>
+    <sub>[#52705](https://github.com/flutter/engine/pull/52705) merged on May 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52705) over 17 hours, 22 additions and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 70a42312a688
@@ -1258,7 +1258,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-22 commits.
+24 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub>
@@ -1284,6 +1284,10 @@
     <sub>[#6684](https://github.com/flutter/packages/pull/6684) merged on May 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6684) over 1 day, 36 additions and 5 deletions in 11 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Make fixes required to swap camera_android_camerax for camera_android
+    <sub>[#6697](https://github.com/flutter/packages/pull/6697) merged on May 10, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/6697) over 1 day, 501 additions and 32 deletions in 14 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [video_player_avfoundation] Adds Swift Package Manager compatibility
     <sub>[#6675](https://github.com/flutter/packages/pull/6675) merged on May 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6675) over 2 days, 174 additions and 17 deletions in 27 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma)</sub>
@@ -1295,6 +1299,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [quick_actions_android] Switch to `Compat` version of `ShortcutManager` to support Google surfaces
     <sub>[#6638](https://github.com/flutter/packages/pull/6638) merged on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6638) over 1 week, 20 additions and 28 deletions in 5 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; [image_picker_android] - will fix crash on Android 12+ devices
+    <sub>[#6691](https://github.com/flutter/packages/pull/6691) merged on May 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6691) over 2 days, 38 additions and 10 deletions in 4 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[image_picker_ios] Adds Swift Package Manager compatibility to image_picker_ios (#6617)"
     <sub>[#6693](https://github.com/flutter/packages/pull/6693) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6693) over 54 seconds, 10 additions and 110 deletions in 27 files</sub>
