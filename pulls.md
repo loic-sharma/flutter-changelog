@@ -39,13 +39,13 @@
     <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147774) 274 additions and 82 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_size.0.dart API example.<br />
-    <sub>[#147828](https://github.com/flutter/flutter/pull/147828) opened on on May 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147828) 108 additions and 18 deletions in 4 files</sub><br />
+    <sub>[#147828](https://github.com/flutter/flutter/pull/147828) opened on on May 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147828) 108 additions and 18 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.<br />
     <sub>[#147830](https://github.com/flutter/flutter/pull/147830) opened on on May 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147830) 245 additions and 44 deletions in 5 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for stream_builder.0.dart API example.<br />
-    <sub>[#147832](https://github.com/flutter/flutter/pull/147832) opened on on May 4, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/147832) 236 additions and 85 deletions in 3 files</sub><br />
+    <sub>[#147832](https://github.com/flutter/flutter/pull/147832) opened on on May 4, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/147832) 236 additions and 85 deletions in 3 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Try fix module test<br />
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) opened on on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147934) 0 additions and 4 deletions in 1 file</sub><br />
@@ -80,7 +80,7 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on LocalProcessManager<br />
     <sub>[#148096](https://github.com/flutter/flutter/pull/148096) opened on on May 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148096) 20 additions and 1 deletion in 3 files</sub><br />
 
-* **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside<br />
+* **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside <br />
     <sub>[#148112](https://github.com/flutter/flutter/pull/148112) opened on on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148112) 74 additions and 0 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing InputDecorator.hintText tests<br />
