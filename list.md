@@ -735,8 +735,8 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed constness of display list storage.
-    <sub>[#52705](https://github.com/flutter/engine/pull/52705) merged on May 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52705) over 17 hours, 22 additions and 18 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>[#52705](https://github.com/flutter/engine/pull/52705) merged on May 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52705) over 17 hours, 22 additions and 18 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 70a42312a688
     <sub>[#52675](https://github.com/flutter/engine/pull/52675) merged on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52675) over 1 day, 1 addition and 1 deletion in 1 file</sub>
@@ -1258,7 +1258,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-21 commits.
+22 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub>
@@ -1315,6 +1315,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Add support for SPM
     <sub>[#6672](https://github.com/flutter/packages/pull/6672) merged on May 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6672) over 4 hours, 88 additions and 12 deletions in 22 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update .gitignore for Swift Package Manager
+    <sub>[#6705](https://github.com/flutter/packages/pull/6705) merged on May 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6705) over 1 day, 3 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [flutter_lints] Rev to 4.0.0; prepare for publishing
     <sub>[#6695](https://github.com/flutter/packages/pull/6695) merged on May 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6695) over 19 hours, 10 additions and 2 deletions in 2 files</sub>
