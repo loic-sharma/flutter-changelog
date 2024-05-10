@@ -53,6 +53,3 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on LocalProcessManager<br />
     <sub>[#148096](https://github.com/flutter/flutter/pull/148096) opened on on May 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148096) 20 additions and 1 deletion in 3 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#148148](https://github.com/flutter/flutter/pull/148148) opened on on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148148) 6 additions and 6 deletions in 2 files</sub><br />
-
