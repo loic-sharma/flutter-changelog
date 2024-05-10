@@ -844,7 +844,7 @@
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from b7cad2edae4b to 01121c008f4d (3 revisions)
     <sub>[#52706](https://github.com/flutter/engine/pull/52706) merged on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52706) over 14 hours, 5 additions and 8 deletions in 3 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a9cf6a411c71 to b7cad2edae4b (7 revisions)
     <sub>[#52669](https://github.com/flutter/engine/pull/52669) merged on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52669) over 52 minutes, 56 additions and 56 deletions in 3 files</sub>
@@ -1258,7 +1258,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-20 commits.
+21 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub>
@@ -1291,6 +1291,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [camera] Ignore implementation imports outside of lib
     <sub>[#6191](https://github.com/flutter/packages/pull/6191) merged on May 7, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/6191) over 2 months, 9 additions and 0 deletions in 9 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [quick_actions_android] Switch to `Compat` version of `ShortcutManager` to support Google surfaces
+    <sub>[#6638](https://github.com/flutter/packages/pull/6638) merged on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6638) over 1 week, 20 additions and 28 deletions in 5 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[image_picker_ios] Adds Swift Package Manager compatibility to image_picker_ios (#6617)"
     <sub>[#6693](https://github.com/flutter/packages/pull/6693) merged on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6693) over 54 seconds, 10 additions and 110 deletions in 27 files</sub>
