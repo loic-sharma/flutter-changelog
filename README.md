@@ -699,7 +699,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; DisplayListBuilder internal reorganization with better rendering op overlap detection<br />
-    <sub>[#52646](https://github.com/flutter/engine/pull/52646) merged on May 8, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/52646) over 15 hours, 1074 additions and 909 deletions in 16 files</sub><br />
+    <sub>[#52646](https://github.com/flutter/engine/pull/52646) merged on May 8, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52646) over 15 hours, 1074 additions and 909 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kihara, Takuya](https://github.com/tacck)** &mdash; [iOS] Fix App crash when use WebView with iOS VoiceOver<br />
@@ -1258,7 +1258,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-26 commits.
+27 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings<br />
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub><br />
@@ -1303,6 +1303,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [quick_actions_android] Switch to `Compat` version of `ShortcutManager` to support Google surfaces<br />
     <sub>[#6638](https://github.com/flutter/packages/pull/6638) merged on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6638) over 1 week, 20 additions and 28 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [quick_actions] Add Swift Package Manager support<br />
+    <sub>[#6682](https://github.com/flutter/packages/pull/6682) merged on May 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6682) over 3 days, 35 additions and 5 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Add Swift Package Manager support<br />
     <sub>[#6677](https://github.com/flutter/packages/pull/6677) merged on May 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6677) over 4 days, 86 additions and 11 deletions in 19 files</sub><br />
