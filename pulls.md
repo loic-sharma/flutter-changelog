@@ -39,13 +39,13 @@
     <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147774) 274 additions and 82 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for animated_size.0.dart API example.<br />
-    <sub>[#147828](https://github.com/flutter/flutter/pull/147828) opened on on May 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147828) 108 additions and 18 deletions in 4 files</sub><br />
+    <sub>[#147828](https://github.com/flutter/flutter/pull/147828) opened on on May 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147828) 108 additions and 18 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.<br />
     <sub>[#147830](https://github.com/flutter/flutter/pull/147830) opened on on May 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147830) 245 additions and 44 deletions in 5 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for stream_builder.0.dart API example.<br />
-    <sub>[#147832](https://github.com/flutter/flutter/pull/147832) opened on on May 4, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/147832) 236 additions and 85 deletions in 3 files</sub><br />
+    <sub>[#147832](https://github.com/flutter/flutter/pull/147832) opened on on May 4, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/147832) 236 additions and 85 deletions in 3 files</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Try fix module test<br />
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) opened on on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147934) 0 additions and 4 deletions in 1 file</sub><br />
@@ -54,7 +54,7 @@
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for draggable.0.dart API example.<br />
-    <sub>[#147941](https://github.com/flutter/flutter/pull/147941) opened on on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147941) 122 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#147941](https://github.com/flutter/flutter/pull/147941) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147941) 122 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold.1.dart<br />
     <sub>[#147966](https://github.com/flutter/flutter/pull/147966) opened on on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147966) 26 additions and 2 deletions in 2 files</sub><br />
