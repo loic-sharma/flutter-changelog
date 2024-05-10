@@ -802,7 +802,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Various documentation improvements (#52600)
-    <sub>[#52623](https://github.com/flutter/engine/pull/52623) merged on May 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52623) over 2 days, 54 additions and 14 deletions in 4 files</sub>
+    <sub>[#52623](https://github.com/flutter/engine/pull/52623) merged on May 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52623) over 2 days, 54 additions and 14 deletions in 4 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Various documentation improvements (#52600)"
