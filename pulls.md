@@ -56,23 +56,8 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for draggable.0.dart API example.<br />
     <sub>[#147941](https://github.com/flutter/flutter/pull/147941) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147941) 122 additions and 1 deletion in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold.1.dart<br />
-    <sub>[#147966](https://github.com/flutter/flutter/pull/147966) opened on on May 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147966) 26 additions and 2 deletions in 2 files</sub><br />
-
 * **[holzgeist](https://github.com/holzgeist)** &mdash; Feat add default flavor<br />
     <sub>[#147968](https://github.com/flutter/flutter/pull/147968) opened on on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147968) 81 additions and 1 deletion in 4 files</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `flex` a `num?`<br />
-    <sub>[#147976](https://github.com/flutter/flutter/pull/147976) opened on on May 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147976) 76 additions and 29 deletions in 3 files</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; test sliver fill remaining examples<br />
-    <sub>[#148041](https://github.com/flutter/flutter/pull/148041) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148041) 149 additions and 4 deletions in 5 files</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `clipBehavior` to `DrawerThemeData`<br />
-    <sub>[#148061](https://github.com/flutter/flutter/pull/148061) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148061) 42 additions and 6 deletions in 4 files</sub><br />
-
-* **[Tirth](https://github.com/piedcipher)** &mdash; Adds Getter for floatingActionButtonLocation in ScaffoldState<br />
-    <sub>[#148082](https://github.com/flutter/flutter/pull/148082) opened on on May 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148082) 47 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout (more).<br />
     <sub>[#148095](https://github.com/flutter/flutter/pull/148095) opened on on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148095) 5 additions and 2 deletions in 2 files</sub><br />

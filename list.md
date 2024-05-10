@@ -1258,7 +1258,7 @@
 
 ### May 4, 2024 to May 10, 2024
 
-25 commits.
+26 commits.
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub>
@@ -1303,6 +1303,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [quick_actions_android] Switch to `Compat` version of `ShortcutManager` to support Google surfaces
     <sub>[#6638](https://github.com/flutter/packages/pull/6638) merged on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6638) over 1 week, 20 additions and 28 deletions in 5 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Add Swift Package Manager support
+    <sub>[#6677](https://github.com/flutter/packages/pull/6677) merged on May 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6677) over 4 days, 86 additions and 11 deletions in 19 files</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [image_picker_android] - will fix crash on Android 12+ devices
     <sub>[#6691](https://github.com/flutter/packages/pull/6691) merged on May 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6691) over 2 days, 38 additions and 10 deletions in 4 files</sub>
