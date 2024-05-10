@@ -21,6 +21,10 @@
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [pretizy](https://github.com/pretizy), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
     <sub><details><summary>1 image...</summary><img width="1209" alt="demo" src="https://github.com/flutter/flutter/assets/40357511/be3522b5-d1b4-4983-9fed-8aaa0f0bc7f7"></details></sub>
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Getting rid of containers<br />
+    <sub>[#147432](https://github.com/flutter/flutter/pull/147432) merged on May 9, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/147432) over 1 week, 480 additions and 428 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Momin Ahmad](https://github.com/MominRaza), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `TabBar.textScaler` for tab label upper text scale limit<br />
     <sub>[#147232](https://github.com/flutter/flutter/pull/147232) merged on May 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147232) over 2 weeks, 110 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -37,10 +41,6 @@
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; 🐛 : FIX : Long labels overflowing in extended navigation rail.<br />
     <sub>[#145474](https://github.com/flutter/flutter/pull/145474) merged on May 8, 2024 &mdash; **Small:** [58 comments](https://github.com/flutter/flutter/pull/145474) over 1 month, 61 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Getting rid of containers<br />
-    <sub>[#147432](https://github.com/flutter/flutter/pull/147432) merged on May 9, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/147432) over 1 week, 480 additions and 428 deletions in 21 files</sub><br />
-    <sub>Reviewed by: [Momin Ahmad](https://github.com/MominRaza), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix ExpandIcon color when ExpansionPanel.canTapOnHeader true (#147097)<br />
     <sub>[#147098](https://github.com/flutter/flutter/pull/147098) merged on May 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/147098) over 2 weeks, 39 additions and 0 deletions in 2 files</sub><br />
