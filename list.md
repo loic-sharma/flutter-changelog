@@ -663,7 +663,7 @@
     <sub>Reviewed by: [Henry Riehl](https://github.com/whiskeyPeak), [Ian Hickson](https://github.com/Hixie), [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document how to do basic rendering in Impeller.
-    <sub>[#52703](https://github.com/flutter/engine/pull/52703) merged on May 10, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/engine/pull/52703) over 20 hours, 373 additions and 0 deletions in 9 files</sub>
+    <sub>[#52703](https://github.com/flutter/engine/pull/52703) merged on May 10, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/engine/pull/52703) over 20 hours, 373 additions and 0 deletions in 9 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; When `et` is not attached to a terminal, still split lines for status updates.
