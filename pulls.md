@@ -89,6 +89,3 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `MaterialStateBorderSide` lerp in the `Checkbox` and chips<br />
     <sub>[#148124](https://github.com/flutter/flutter/pull/148124) opened on on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148124) 92 additions and 1 deletion in 4 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownButton.menuWidth<br />
-    <sub>[#148125](https://github.com/flutter/flutter/pull/148125) opened on on May 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148125) 67 additions and 18 deletions in 2 files</sub><br />
-
