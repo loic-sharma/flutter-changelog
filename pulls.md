@@ -56,3 +56,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold.0.dart and scaffold.2.dart<br />
     <sub>[#148166](https://github.com/flutter/flutter/pull/148166) opened on on May 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148166) 59 additions and 3 deletions in 5 files</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Adds tests to NestedScrollView examples<br />
+    <sub>[#148170](https://github.com/flutter/flutter/pull/148170) opened on on May 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148170) 91 additions and 3 deletions in 4 files</sub><br />
+
