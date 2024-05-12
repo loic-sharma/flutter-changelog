@@ -68,3 +68,6 @@
 * **[ufraaan](https://github.com/Ufraan)** &mdash; refactor flutter driver command extensions<br />
     <sub>[#148180](https://github.com/flutter/flutter/pull/148180) opened on on May 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148180) 4 additions and 6 deletions in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for tab_controller.1.dart API example.<br />
+    <sub>[#148189](https://github.com/flutter/flutter/pull/148189) opened on on May 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148189) 184 additions and 25 deletions in 3 files</sub><br />
+
