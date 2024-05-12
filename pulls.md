@@ -60,7 +60,7 @@
     <sub>[#148170](https://github.com/flutter/flutter/pull/148170) opened on on May 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148170) 91 additions and 3 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix painting API examples tests directories structure.<br />
-    <sub>[#148177](https://github.com/flutter/flutter/pull/148177) opened on on May 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148177) 0 additions and 4 deletions in 5 files</sub><br />
+    <sub>[#148177](https://github.com/flutter/flutter/pull/148177) opened on on May 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148177) 0 additions and 4 deletions in 5 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for fade_transition.0.dart API example.<br />
     <sub>[#148178](https://github.com/flutter/flutter/pull/148178) opened on on May 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148178) 124 additions and 8 deletions in 3 files</sub><br />
