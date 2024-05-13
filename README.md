@@ -492,7 +492,11 @@
 
 ### May 11, 2024 to May 17, 2024
 
-2 commits.
+3 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.<br />
+    <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove -[NSNotificationCenter removeObserver:] in deallocs<br />
     <sub>[#52772](https://github.com/flutter/engine/pull/52772) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52772) over 1 hour, 36 additions and 38 deletions in 6 files</sub><br />
