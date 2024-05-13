@@ -919,7 +919,7 @@
     <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [image_picker_android] - will fix crash on Android 12+ devices
-    <sub>[#6691](https://github.com/flutter/packages/pull/6691) merged on May 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6691) over 2 days, 38 additions and 10 deletions in 4 files</sub>
+    <sub>[#6691](https://github.com/flutter/packages/pull/6691) merged on May 10, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6691) over 2 days, 38 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[image_picker_ios] Adds Swift Package Manager compatibility to image_picker_ios (#6617)"
