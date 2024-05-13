@@ -5,6 +5,9 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
     <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132273) 45 additions and 12 deletions in 4 files</sub><br />
 
+* **[August](https://github.com/Gustl22)** &mdash; feat: Support overriding native endorsed plugins<br />
+    <sub>[#137040](https://github.com/flutter/flutter/pull/137040) opened on on October 22, 2023 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/137040) 929 additions and 655 deletions in 4 files</sub><br />
+
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
