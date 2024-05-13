@@ -871,7 +871,11 @@
 
 ### May 11, 2024 to May 17, 2024
 
-1 commits.
+2 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera] Change default Android implementation from `camera_android` to `camera_android_camerax`
+    <sub>[#6629](https://github.com/flutter/packages/pull/6629) merged on May 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/6629) over 1 week, 101 additions and 51 deletions in 10 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [image_picker_ios] Make all headers public for SwiftPM to keep inline with CocoaPods
     <sub>[#6707](https://github.com/flutter/packages/pull/6707) merged on May 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6707) over 3 days, 15 additions and 9 deletions in 12 files</sub>
