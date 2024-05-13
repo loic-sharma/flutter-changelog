@@ -89,3 +89,6 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Fix two dimensional viewport unexpected null exception when no child is laid out<br />
     <sub>[#148256](https://github.com/flutter/flutter/pull/148256) opened on on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148256) 27 additions and 4 deletions in 3 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes semantics ordering when there are multiple TextFields with pref…<br />
+    <sub>[#148267](https://github.com/flutter/flutter/pull/148267) opened on on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148267) 56 additions and 6 deletions in 2 files</sub><br />
+
