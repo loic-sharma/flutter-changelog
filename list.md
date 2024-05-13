@@ -4,12 +4,17 @@
 
 ### May 11, 2024 to May 17, 2024
 
-6 commits.
+7 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Native ios context menu
     <sub>[#143002](https://github.com/flutter/flutter/pull/143002) merged on May 13, 2024 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/143002) over 3 months, 1321 additions and 43 deletions in 13 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [hellohuanlin](https://github.com/hellohuanlin)</sub>
     <sub><details><summary>1 image...</summary><img width="385" alt="Screenshot 2024-02-06 at 11 52 25 AM" src="https://github.com/flutter/flutter/assets/389558/d82e18ee-b8a3-4082-9225-cf47fa7f3674"></details></sub>
+
+* **[Ellet](https://github.com/ellet0)** &mdash; Use super.key instead of manually passing the Key parameter to the parent class
+    <sub>[#147621](https://github.com/flutter/flutter/pull/147621) merged on May 13, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/147621) over 1 week, 13 additions and 16 deletions in 8 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate](https://github.com/nate-thegrate)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/73608287/898f62f5-10f9-4d76-a46c-6def328177cb)</details></sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Native ios context menu (#143002)"
     <sub>[#148237](https://github.com/flutter/flutter/pull/148237) merged on May 13, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148237) over 1 minute, 43 additions and 1321 deletions in 13 files</sub>
@@ -492,11 +497,15 @@
 
 ### May 11, 2024 to May 17, 2024
 
-3 commits.
+4 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.
     <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove outdated comment.
+    <sub>[#52778](https://github.com/flutter/engine/pull/52778) merged on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52778) over 43 minutes, 0 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove -[NSNotificationCenter removeObserver:] in deallocs
     <sub>[#52772](https://github.com/flutter/engine/pull/52772) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52772) over 1 hour, 36 additions and 38 deletions in 6 files</sub>
