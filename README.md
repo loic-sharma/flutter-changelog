@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 11, 2024 to May 17, 2024
+
+1 commits.
+
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; test sliver fill remaining examples<br />
+    <sub>[#148041](https://github.com/flutter/flutter/pull/148041) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148041) over 4 days, 149 additions and 4 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 ### May 4, 2024 to May 10, 2024
 
-62 commits.
+<details>
+<summary>62 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `MaterialStateBorderSide` lerp in the `Checkbox` and chips<br />
     <sub>[#148124](https://github.com/flutter/flutter/pull/148124) merged on May 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148124) over 11 hours, 92 additions and 1 deletion in 4 files</sub><br />
@@ -258,6 +267,8 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Revert "Move docs_test and docs_publish to bringup (#147645)"<br />
     <sub>[#147928](https://github.com/flutter/flutter/pull/147928) merged on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147928) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+</details>
 
 ### April 27, 2024 to May 3, 2024
 
