@@ -478,9 +478,18 @@
 
 ## flutter/engine
 
+### May 11, 2024 to May 17, 2024
+
+1 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterDartProject and FlutterPluginAppLifeCycleDelegate to ARC
+    <sub>[#52719](https://github.com/flutter/engine/pull/52719) merged on May 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52719) over 2 days, 19 additions and 37 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
 ### May 4, 2024 to May 10, 2024
 
-61 commits.
+<details>
+<summary>61 commits...</summary>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Clip before applying ColorFilter so it doesn't filter beyond child bounds
     <sub>[#52704](https://github.com/flutter/engine/pull/52704) merged on May 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52704) over 22 hours, 119 additions and 9 deletions in 5 files</sub>
@@ -728,6 +737,8 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Reland "Add host_profile_arm64 and host_release_arm64 local engine configurations."
     <sub>[#52633](https://github.com/flutter/engine/pull/52633) merged on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52633) over 23 hours, 64 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+</details>
 
 ### April 27, 2024 to May 3, 2024
 
