@@ -853,9 +853,18 @@
 
 ## flutter/packages
 
+### May 11, 2024 to May 17, 2024
+
+1 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [image_picker_ios] Make all headers public for SwiftPM to keep inline with CocoaPods
+    <sub>[#6707](https://github.com/flutter/packages/pull/6707) merged on May 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6707) over 3 days, 15 additions and 9 deletions in 12 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 ### May 4, 2024 to May 10, 2024
 
-27 commits.
+<details>
+<summary>27 commits...</summary>
 
 * **[Vladimir E. Koltunov](https://github.com/PROGrand)** &mdash; [camera] MediaSettings parameter for createCameraWithSettings
     <sub>[#3586](https://github.com/flutter/packages/pull/3586) merged on May 6, 2024 &mdash; **Small:** [194 comments](https://github.com/flutter/packages/pull/3586) over 13 months, 106 additions and 23 deletions in 5 files</sub>
@@ -964,6 +973,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Reduce the number of tasks in recipe CQ
     <sub>[#6673](https://github.com/flutter/packages/pull/6673) merged on May 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6673) over 1 hour, 0 additions and 20 deletions in 1 file</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+</details>
 
 ### April 27, 2024 to May 3, 2024
 
