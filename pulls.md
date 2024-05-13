@@ -77,3 +77,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for undo_history_controller.0.dart<br />
     <sub>[#148205](https://github.com/flutter/flutter/pull/148205) opened on on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148205) 47 additions and 1 deletion in 2 files</sub><br />
 
+* **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside<br />
+    <sub>[#148206](https://github.com/flutter/flutter/pull/148206) opened on on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148206) 100 additions and 1 deletion in 5 files</sub><br />
+
