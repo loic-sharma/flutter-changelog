@@ -509,7 +509,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-6 commits.
+7 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.<br />
     <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub><br />
@@ -518,6 +518,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] rectangle packer actually packs.<br />
     <sub>[#52781](https://github.com/flutter/engine/pull/52781) merged on May 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52781) over 1 hour, 72 additions and 87 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Delete Settings::msaa_samples.<br />
+    <sub>[#52780](https://github.com/flutter/engine/pull/52780) merged on May 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52780) over 1 hour, 41 additions and 238 deletions in 29 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; ios_external_view_embedder to ARC<br />
     <sub>[#52782](https://github.com/flutter/engine/pull/52782) merged on May 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52782) over 51 minutes, 12 additions and 3 deletions in 4 files</sub><br />
