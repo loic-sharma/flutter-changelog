@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-4 commits.
+5 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Native ios context menu
     <sub>[#143002](https://github.com/flutter/flutter/pull/143002) merged on May 13, 2024 &mdash; **Large:** [35 comments](https://github.com/flutter/flutter/pull/143002) over 3 months, 1321 additions and 43 deletions in 13 files</sub>
@@ -21,8 +21,12 @@
     <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland Native ios context menu (#143002)
-    <sub>[#148238](https://github.com/flutter/flutter/pull/148238) merged on May 13, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/148238) over 2 hours, 1322 additions and 43 deletions in 13 files</sub>
+    <sub>[#148238](https://github.com/flutter/flutter/pull/148238) merged on May 13, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/148238) over 2 hours, 1322 additions and 43 deletions in 13 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland Native ios context menu (#143002) (#148238)"
+    <sub>[#148254](https://github.com/flutter/flutter/pull/148254) merged on May 13, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148254) over 1 minute, 43 additions and 1322 deletions in 13 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### May 4, 2024 to May 10, 2024
 
@@ -484,7 +488,11 @@
 
 ### May 11, 2024 to May 17, 2024
 
-1 commits.
+2 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove -[NSNotificationCenter removeObserver:] in deallocs
+    <sub>[#52772](https://github.com/flutter/engine/pull/52772) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52772) over 1 hour, 36 additions and 38 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterDartProject and FlutterPluginAppLifeCycleDelegate to ARC
     <sub>[#52719](https://github.com/flutter/engine/pull/52719) merged on May 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52719) over 2 days, 19 additions and 37 deletions in 4 files</sub>

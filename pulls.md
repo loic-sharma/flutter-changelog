@@ -41,9 +41,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.<br />
     <sub>[#147830](https://github.com/flutter/flutter/pull/147830) opened on on May 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/147830) 245 additions and 44 deletions in 5 files</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Try fix module test<br />
-    <sub>[#147934](https://github.com/flutter/flutter/pull/147934) opened on on May 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147934) 0 additions and 4 deletions in 1 file</sub><br />
-
 * **[Jam M. Hernandez Quiceno](https://github.com/JamMarHer)** &mdash; Limit flutter service worker cache to flutter resources.<br />
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
 
