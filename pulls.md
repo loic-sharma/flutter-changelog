@@ -89,6 +89,6 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Fix two dimensional viewport unexpected null exception when no child is laid out<br />
     <sub>[#148256](https://github.com/flutter/flutter/pull/148256) opened on on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148256) 27 additions and 4 deletions in 3 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop running module_test_ios in devicelab<br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop running module_test_ios in devicelab and x64 Macs<br />
     <sub>[#148264](https://github.com/flutter/flutter/pull/148264) opened on on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148264) 0 additions and 33 deletions in 1 file</sub><br />
 
