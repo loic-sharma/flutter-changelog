@@ -984,7 +984,11 @@
 
 ### May 11, 2024 to May 17, 2024
 
-6 commits.
+7 commits.
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [image_picker_android] Refactor getting of paths from intent to single helper
+    <sub>[#5009](https://github.com/flutter/packages/pull/5009) merged on May 14, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/5009) over 7 months, 95 additions and 58 deletions in 4 files</sub>
+    <sub>Reviewed by: [Geraldi Kusuma Arnanto](https://github.com/aldee), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera] Change default Android implementation from `camera_android` to `camera_android_camerax`
     <sub>[#6629](https://github.com/flutter/packages/pull/6629) merged on May 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/6629) over 1 week, 101 additions and 51 deletions in 10 files</sub>
