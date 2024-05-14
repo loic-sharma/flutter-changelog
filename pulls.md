@@ -104,3 +104,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test remaining transitions api examples<br />
     <sub>[#148302](https://github.com/flutter/flutter/pull/148302) opened on on May 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148302) 579 additions and 14 deletions in 15 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] codesign native assets during embed<br />
+    <sub>[#148310](https://github.com/flutter/flutter/pull/148310) opened on on May 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148310) 6 additions and 0 deletions in 1 file</sub><br />
+
