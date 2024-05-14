@@ -545,7 +545,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-22 commits.
+23 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.
     <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub>
@@ -558,6 +558,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `json_utils` with a modern `extension type`, add tests.
     <sub>[#52769](https://github.com/flutter/engine/pull/52769) merged on May 14, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/52769) over 8 hours, 663 additions and 160 deletions in 7 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] immediately encode blit commands for Vulkan.
+    <sub>[#52794](https://github.com/flutter/engine/pull/52794) merged on May 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/52794) over 20 hours, 352 additions and 635 deletions in 10 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix non-vd android platform view input event offsets
     <sub>[#52532](https://github.com/flutter/engine/pull/52532) merged on May 14, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/52532) over 1 week, 102 additions and 37 deletions in 3 files</sub>
