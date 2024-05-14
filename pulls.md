@@ -54,7 +54,7 @@
     <sub>[#148096](https://github.com/flutter/flutter/pull/148096) opened on on May 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148096) 20 additions and 1 deletion in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold.0.dart and scaffold.2.dart<br />
-    <sub>[#148166](https://github.com/flutter/flutter/pull/148166) opened on on May 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148166) 56 additions and 2 deletions in 4 files</sub><br />
+    <sub>[#148166](https://github.com/flutter/flutter/pull/148166) opened on on May 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148166) 56 additions and 2 deletions in 4 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Adds tests to NestedScrollView examples<br />
     <sub>[#148170](https://github.com/flutter/flutter/pull/148170) opened on on May 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148170) 91 additions and 3 deletions in 4 files</sub><br />
@@ -94,4 +94,7 @@
 
 * **[FMorschel](https://github.com/FMorschel)** &mdash; Removing duplicate assert on `VisualDensity` constructor<br />
     <sub>[#148281](https://github.com/flutter/flutter/pull/148281) opened on on May 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148281) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[MajdSallora](https://github.com/MajdSallora)** &mdash; Add locale in DatePickerThemeData<br />
+    <sub>[#148292](https://github.com/flutter/flutter/pull/148292) opened on on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148292) 21 additions and 1 deletion in 2 files</sub><br />
 
