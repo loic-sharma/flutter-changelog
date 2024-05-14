@@ -30,7 +30,7 @@
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) opened on on May 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147637) 135 additions and 3 deletions in 4 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add tests for material banner example<br />
-    <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147733) 73 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147733) 73 additions and 2 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for logical_key_set.0.dart API example.<br />
     <sub>[#147735](https://github.com/flutter/flutter/pull/147735) opened on on May 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147735) 118 additions and 1 deletion in 2 files</sub><br />
