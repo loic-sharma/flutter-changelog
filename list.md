@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-10 commits.
+11 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub>
@@ -32,6 +32,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Try fix module test
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147934) over 6 days, 0 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add another print trace to runInView
+    <sub>[#148337](https://github.com/flutter/flutter/pull/148337) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148337) over 1 hour, 5 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add more print traces in hot runner workflow
     <sub>[#148258](https://github.com/flutter/flutter/pull/148258) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148258) over 1 hour, 17 additions and 8 deletions in 4 files</sub>
@@ -509,7 +513,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-16 commits.
+17 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.
     <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub>
@@ -532,7 +536,7 @@
     <sub>Reviewed by: [Tom Robinson](https://github.com/tarobins)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] immediately encode blit commands for Metal.
-    <sub>[#52795](https://github.com/flutter/engine/pull/52795) merged on May 14, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/52795) over 14 hours, 157 additions and 300 deletions in 7 files</sub>
+    <sub>[#52795](https://github.com/flutter/engine/pull/52795) merged on May 14, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/52795) over 14 hours, 157 additions and 300 deletions in 7 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] rectangle packer actually packs.
@@ -574,6 +578,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterDartProject and FlutterPluginAppLifeCycleDelegate to ARC
     <sub>[#52719](https://github.com/flutter/engine/pull/52719) merged on May 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52719) over 2 days, 19 additions and 37 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] immediately encode blit commands for Metal. (#52795)"
+    <sub>[#52816](https://github.com/flutter/engine/pull/52816) merged on May 14, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/52816) over 1 minute, 300 additions and 157 deletions in 7 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### May 4, 2024 to May 10, 2024
 
