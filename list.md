@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-11 commits.
+13 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub>
@@ -32,6 +32,14 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Try fix module test
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147934) over 6 days, 0 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; test material text field example
+    <sub>[#147864](https://github.com/flutter/flutter/pull/147864) merged on May 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147864) over 1 week, 73 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Move toggleable to widget layer
+    <sub>[#148272](https://github.com/flutter/flutter/pull/148272) merged on May 14, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/148272) over 20 hours, 89 additions and 282 deletions in 10 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Pierre-Louis](https://github.com/guidezpl)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add another print trace to runInView
     <sub>[#148337](https://github.com/flutter/flutter/pull/148337) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148337) over 1 hour, 5 additions and 3 deletions in 1 file</sub>
@@ -513,7 +521,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-17 commits.
+18 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.
     <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub>
@@ -542,6 +550,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] rectangle packer actually packs.
     <sub>[#52781](https://github.com/flutter/engine/pull/52781) merged on May 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52781) over 1 hour, 72 additions and 87 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate third_party/gradle to flutter/third_party/gradle
+    <sub>[#52814](https://github.com/flutter/engine/pull/52814) merged on May 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52814) over 2 hours, 10 additions and 8 deletions in 9 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] migrated one test over from aiks to dl
     <sub>[#52786](https://github.com/flutter/engine/pull/52786) merged on May 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52786) over 17 hours, 71 additions and 26 deletions in 8 files</sub>
