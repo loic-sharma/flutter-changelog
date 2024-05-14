@@ -984,11 +984,15 @@
 
 ### May 11, 2024 to May 17, 2024
 
-4 commits.
+5 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera] Change default Android implementation from `camera_android` to `camera_android_camerax`<br />
     <sub>[#6629](https://github.com/flutter/packages/pull/6629) merged on May 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/6629) over 1 week, 101 additions and 51 deletions in 10 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Skip `withWeakReferenceTo` integration test<br />
+    <sub>[#6731](https://github.com/flutter/packages/pull/6731) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6731) over 17 minutes, 4 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Use the correct configuration to build the state passed to the `onExit`<br />
     <sub>[#6623](https://github.com/flutter/packages/pull/6623) merged on May 14, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6623) over 2 weeks, 164 additions and 7 deletions in 4 files</sub><br />
