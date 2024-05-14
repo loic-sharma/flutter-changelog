@@ -533,7 +533,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-19 commits.
+20 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.<br />
     <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub><br />
@@ -562,6 +562,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] rectangle packer actually packs.<br />
     <sub>[#52781](https://github.com/flutter/engine/pull/52781) merged on May 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52781) over 1 hour, 72 additions and 87 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Suggest using same Xcode version as bots<br />
+    <sub>[#52821](https://github.com/flutter/engine/pull/52821) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52821) over 37 minutes, 10 additions and 5 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Print reproxy stats when RBE shuts down<br />
     <sub>[#52818](https://github.com/flutter/engine/pull/52818) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52818) over 1 hour, 49 additions and 2 deletions in 2 files</sub><br />
