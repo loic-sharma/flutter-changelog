@@ -95,3 +95,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Move toggleable to widget layer<br />
     <sub>[#148272](https://github.com/flutter/flutter/pull/148272) opened on on May 14, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148272) 45 additions and 278 deletions in 9 files</sub><br />
 
+* **[FMorschel](https://github.com/FMorschel)** &mdash; Removing duplicate assert on `VisualDensity` constructor<br />
+    <sub>[#148281](https://github.com/flutter/flutter/pull/148281) opened on on May 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148281) 0 additions and 1 deletion in 1 file</sub><br />
+
