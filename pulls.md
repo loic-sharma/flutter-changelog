@@ -90,7 +90,7 @@
     <sub>[#148256](https://github.com/flutter/flutter/pull/148256) opened on on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148256) 27 additions and 4 deletions in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop running module_test_ios in devicelab and x64 Macs<br />
-    <sub>[#148264](https://github.com/flutter/flutter/pull/148264) opened on on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148264) 0 additions and 33 deletions in 1 file</sub><br />
+    <sub>[#148264](https://github.com/flutter/flutter/pull/148264) opened on on May 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148264) 0 additions and 33 deletions in 1 file</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Move toggleable to widget layer<br />
     <sub>[#148272](https://github.com/flutter/flutter/pull/148272) opened on on May 14, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148272) 45 additions and 278 deletions in 9 files</sub><br />
