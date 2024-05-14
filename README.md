@@ -545,7 +545,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-21 commits.
+22 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.<br />
     <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub><br />
@@ -558,6 +558,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `json_utils` with a modern `extension type`, add tests.<br />
     <sub>[#52769](https://github.com/flutter/engine/pull/52769) merged on May 14, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/52769) over 8 hours, 663 additions and 160 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix non-vd android platform view input event offsets<br />
+    <sub>[#52532](https://github.com/flutter/engine/pull/52532) merged on May 14, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/52532) over 1 week, 102 additions and 37 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Refactor Semantics in preparation for ARC migration<br />
     <sub>[#52729](https://github.com/flutter/engine/pull/52729) merged on May 14, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/engine/pull/52729) over 3 days, 216 additions and 198 deletions in 4 files</sub><br />
@@ -1032,7 +1036,11 @@
 
 ### May 11, 2024 to May 17, 2024
 
-7 commits.
+8 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] migrate main plugin class to swift in preperation to storekit 2<br />
+    <sub>[#6561](https://github.com/flutter/packages/pull/6561) merged on May 14, 2024 &mdash; **Large:** [131 comments](https://github.com/flutter/packages/pull/6561) over 3 weeks, 713 additions and 578 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [image_picker_android] Refactor getting of paths from intent to single helper<br />
     <sub>[#5009](https://github.com/flutter/packages/pull/5009) merged on May 14, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/5009) over 7 months, 95 additions and 58 deletions in 4 files</sub><br />
