@@ -948,11 +948,15 @@
 
 ### May 11, 2024 to May 17, 2024
 
-3 commits.
+4 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera] Change default Android implementation from `camera_android` to `camera_android_camerax`
     <sub>[#6629](https://github.com/flutter/packages/pull/6629) merged on May 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/6629) over 1 week, 101 additions and 51 deletions in 10 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Use the correct configuration to build the state passed to the `onExit`
+    <sub>[#6623](https://github.com/flutter/packages/pull/6623) merged on May 14, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6623) over 2 weeks, 164 additions and 7 deletions in 4 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Update country code Android example
     <sub>[#6722](https://github.com/flutter/packages/pull/6722) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6722) over 2 hours, 7 additions and 6 deletions in 4 files</sub>
