@@ -98,6 +98,6 @@
 * **[MajdSallora](https://github.com/MajdSallora)** &mdash; Add locale in DatePickerThemeData<br />
     <sub>[#148292](https://github.com/flutter/flutter/pull/148292) opened on on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148292) 21 additions and 1 deletion in 2 files</sub><br />
 
-* **[Łukasz Gawron](https://github.com/gawi151)** &mdash; Fix two dimensional keep alive child not always removed<br />
+* **[Łukasz Gawron](https://github.com/gawi151)** &mdash; Fix TwoDimensionalViewport's keep alive child not always removed (when no longer should be kept alive)<br />
     <sub>[#148298](https://github.com/flutter/flutter/pull/148298) opened on on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148298) 101 additions and 0 deletions in 3 files</sub><br />
 
