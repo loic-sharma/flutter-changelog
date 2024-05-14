@@ -47,12 +47,6 @@
 * **[holzgeist](https://github.com/holzgeist)** &mdash; Feat add default flavor<br />
     <sub>[#147968](https://github.com/flutter/flutter/pull/147968) opened on on May 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147968) 81 additions and 1 deletion in 4 files</sub><br />
 
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout (more).<br />
-    <sub>[#148095](https://github.com/flutter/flutter/pull/148095) opened on on May 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148095) 5 additions and 2 deletions in 2 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on LocalProcessManager<br />
-    <sub>[#148096](https://github.com/flutter/flutter/pull/148096) opened on on May 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148096) 20 additions and 1 deletion in 3 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold.0.dart and scaffold.2.dart<br />
     <sub>[#148166](https://github.com/flutter/flutter/pull/148166) opened on on May 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148166) 56 additions and 2 deletions in 4 files</sub><br />
 

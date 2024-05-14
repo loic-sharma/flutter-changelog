@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-16 commits.
+19 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub>
@@ -29,9 +29,21 @@
     <sub>[#148072](https://github.com/flutter/flutter/pull/148072) merged on May 14, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/148072) over 5 days, 14 additions and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Kaylee Lubick](https://github.com/kjlubick), [Andrew Shin](https://github.com/As90909w), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes semantics ordering when there are multiple TextFields with pref…
+    <sub>[#148267](https://github.com/flutter/flutter/pull/148267) merged on May 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148267) over 23 hours, 58 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `SnackBar`
+    <sub>[#147212](https://github.com/flutter/flutter/pull/147212) merged on May 14, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/147212) over 3 weeks, 58 additions and 26 deletions in 2 files</sub>
+    <sub>Reviewed by: </sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing InputDecorator.hintText tests
     <sub>[#148113](https://github.com/flutter/flutter/pull/148113) merged on May 14, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148113) over 4 days, 1530 additions and 494 deletions in 1 file</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in open upwards page transition
+    <sub>[#148046](https://github.com/flutter/flutter/pull/148046) merged on May 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148046) over 5 days, 64 additions and 20 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[yim](https://github.com/yiiim)** &mdash; Maintain the same layout constraints for item in the ReorderableList during dragging as before dragging.
     <sub>[#147863](https://github.com/flutter/flutter/pull/147863) merged on May 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147863) over 1 week, 65 additions and 5 deletions in 2 files</sub>
