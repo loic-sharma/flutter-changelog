@@ -101,3 +101,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test remaining transitions api examples<br />
     <sub>[#148302](https://github.com/flutter/flutter/pull/148302) opened on on May 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148302) 578 additions and 14 deletions in 15 files</sub><br />
 
+* **[crisboarna](https://github.com/crisboarna)** &mdash; feat(doctor): added filtering flag<br />
+    <sub>[#148350](https://github.com/flutter/flutter/pull/148350) opened on on May 14, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148350) 282 additions and 98 deletions in 7 files</sub><br />
+

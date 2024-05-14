@@ -984,7 +984,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-5 commits.
+6 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera] Change default Android implementation from `camera_android` to `camera_android_camerax`<br />
     <sub>[#6629](https://github.com/flutter/packages/pull/6629) merged on May 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/6629) over 1 week, 101 additions and 51 deletions in 10 files</sub><br />
@@ -1005,6 +1005,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [image_picker_ios] Make all headers public for SwiftPM to keep inline with CocoaPods<br />
     <sub>[#6707](https://github.com/flutter/packages/pull/6707) merged on May 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6707) over 3 days, 15 additions and 9 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 54e66469a933 to 5dcb86f68f23 (1402 revisions)<br />
+    <sub>[#6727](https://github.com/flutter/packages/pull/6727) merged on May 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6727) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### May 4, 2024 to May 10, 2024
 
