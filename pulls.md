@@ -92,9 +92,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop running module_test_ios in devicelab and x64 Macs<br />
     <sub>[#148264](https://github.com/flutter/flutter/pull/148264) opened on on May 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148264) 0 additions and 33 deletions in 1 file</sub><br />
 
-* **[FMorschel](https://github.com/FMorschel)** &mdash; Removing duplicate assert on `VisualDensity` constructor<br />
-    <sub>[#148281](https://github.com/flutter/flutter/pull/148281) opened on on May 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148281) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[MajdSallora](https://github.com/MajdSallora)** &mdash; Add locale in DatePickerThemeData<br />
     <sub>[#148292](https://github.com/flutter/flutter/pull/148292) opened on on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148292) 21 additions and 1 deletion in 2 files</sub><br />
 
