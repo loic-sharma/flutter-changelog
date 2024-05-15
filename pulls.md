@@ -78,7 +78,7 @@
     <sub>[#148245](https://github.com/flutter/flutter/pull/148245) opened on on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148245) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop running module_test_ios in devicelab and x64 Macs<br />
-    <sub>[#148264](https://github.com/flutter/flutter/pull/148264) opened on on May 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148264) 0 additions and 33 deletions in 1 file</sub><br />
+    <sub>[#148264](https://github.com/flutter/flutter/pull/148264) opened on on May 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148264) 0 additions and 33 deletions in 1 file</sub><br />
 
 * **[MajdSallora](https://github.com/MajdSallora)** &mdash; Add locale in DatePickerThemeData<br />
     <sub>[#148292](https://github.com/flutter/flutter/pull/148292) opened on on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148292) 27 additions and 2 deletions in 3 files</sub><br />
