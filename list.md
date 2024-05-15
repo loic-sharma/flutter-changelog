@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-22 commits.
+23 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub>
@@ -64,6 +64,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Try fix module test
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147934) over 6 days, 0 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `_PopupMenuRoute`
+    <sub>[#148373](https://github.com/flutter/flutter/pull/148373) merged on May 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148373) over 17 hours, 14 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `clipBehavior` to `DrawerThemeData`
     <sub>[#148061](https://github.com/flutter/flutter/pull/148061) merged on May 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148061) over 6 days, 42 additions and 6 deletions in 4 files</sub>
