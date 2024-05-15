@@ -557,7 +557,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-29 commits.
+30 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-add `MipFilter::kBase`, but keep `kNearest` as the default.
     <sub>[#52779](https://github.com/flutter/engine/pull/52779) merged on May 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/52779) over 1 day, 67 additions and 26 deletions in 9 files</sub>
@@ -567,6 +567,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.
     <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Short-circuit crawling all targets in `et {build|test|query}`
+    <sub>[#52832](https://github.com/flutter/engine/pull/52832) merged on May 15, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/52832) over 17 hours, 692 additions and 509 deletions in 16 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move libcxx to //flutter/third_party
     <sub>[#52773](https://github.com/flutter/engine/pull/52773) merged on May 14, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/52773) over 6 hours, 2164 additions and 2191 deletions in 12 files</sub>
