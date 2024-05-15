@@ -69,7 +69,7 @@
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside<br />
-    <sub>[#148206](https://github.com/flutter/flutter/pull/148206) opened on on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148206) 103 additions and 1 deletion in 5 files</sub><br />
+    <sub>[#148206](https://github.com/flutter/flutter/pull/148206) opened on on May 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148206) 103 additions and 1 deletion in 5 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test raw autocomplete api examples<br />
     <sub>[#148234](https://github.com/flutter/flutter/pull/148234) opened on on May 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148234) 266 additions and 4 deletions in 5 files</sub><br />
@@ -79,9 +79,6 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop running module_test_ios in devicelab and x64 Macs<br />
     <sub>[#148264](https://github.com/flutter/flutter/pull/148264) opened on on May 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148264) 0 additions and 33 deletions in 1 file</sub><br />
-
-* **[MajdSallora](https://github.com/MajdSallora)** &mdash; Add locale in DatePickerThemeData<br />
-    <sub>[#148292](https://github.com/flutter/flutter/pull/148292) opened on on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148292) 27 additions and 2 deletions in 3 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test remaining transitions api examples<br />
     <sub>[#148302](https://github.com/flutter/flutter/pull/148302) opened on on May 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148302) 578 additions and 14 deletions in 15 files</sub><br />
