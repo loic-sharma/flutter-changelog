@@ -92,3 +92,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `_PopupMenuRoute`<br />
     <sub>[#148373](https://github.com/flutter/flutter/pull/148373) opened on on May 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148373) 14 additions and 2 deletions in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` statement cleanup<br />
+    <sub>[#148382](https://github.com/flutter/flutter/pull/148382) opened on on May 15, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148382) 301 additions and 529 deletions in 39 files</sub><br />
+
