@@ -545,7 +545,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-23 commits.
+24 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.<br />
     <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub><br />
@@ -582,6 +582,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] rectangle packer actually packs.<br />
     <sub>[#52781](https://github.com/flutter/engine/pull/52781) merged on May 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52781) over 1 hour, 72 additions and 87 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll FreeType from af4c2d86 to bfc3453f<br />
+    <sub>[#52829](https://github.com/flutter/engine/pull/52829) merged on May 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52829) over 53 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Suggest using same Xcode version as bots<br />
     <sub>[#52821](https://github.com/flutter/engine/pull/52821) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52821) over 37 minutes, 10 additions and 5 deletions in 1 file</sub><br />
