@@ -90,5 +90,5 @@
     <sub>[#148408](https://github.com/flutter/flutter/pull/148408) opened on on May 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148408) 17 additions and 34 deletions in 1 file</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual roll camera dependency<br />
-    <sub>[#148426](https://github.com/flutter/flutter/pull/148426) opened on on May 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148426) 4 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#148426](https://github.com/flutter/flutter/pull/148426) opened on on May 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148426) 4 additions and 3 deletions in 1 file</sub><br />
 
