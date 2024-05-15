@@ -545,7 +545,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-24 commits.
+25 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Prepare a SkiaGPU-less iOS build.
     <sub>[#52748](https://github.com/flutter/engine/pull/52748) merged on May 13, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/52748) over 23 hours, 556 additions and 47 deletions in 76 files</sub>
@@ -582,6 +582,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] rectangle packer actually packs.
     <sub>[#52781](https://github.com/flutter/engine/pull/52781) merged on May 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52781) over 1 hour, 72 additions and 87 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make default glyph atlas size much bigger.
+    <sub>[#52787](https://github.com/flutter/engine/pull/52787) merged on May 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52787) over 1 day, 4 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll FreeType from af4c2d86 to bfc3453f
     <sub>[#52829](https://github.com/flutter/engine/pull/52829) merged on May 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52829) over 53 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -1044,11 +1048,15 @@
 
 ### May 11, 2024 to May 17, 2024
 
-8 commits.
+9 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] migrate main plugin class to swift in preperation to storekit 2
     <sub>[#6561](https://github.com/flutter/packages/pull/6561) merged on May 14, 2024 &mdash; **Large:** [131 comments](https://github.com/flutter/packages/pull/6561) over 3 weeks, 713 additions and 578 deletions in 26 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; [webview_flutter_wkwebview] Fixes JSON.stringify() cannot serialize cyclic structures
+    <sub>[#6274](https://github.com/flutter/packages/pull/6274) merged on May 15, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/6274) over 2 months, 152 additions and 38 deletions in 7 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [image_picker_android] Refactor getting of paths from intent to single helper
     <sub>[#5009](https://github.com/flutter/packages/pull/5009) merged on May 14, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/5009) over 7 months, 95 additions and 58 deletions in 4 files</sub>
