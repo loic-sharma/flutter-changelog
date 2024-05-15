@@ -77,9 +77,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#148245](https://github.com/flutter/flutter/pull/148245) opened on on May 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148245) 4 additions and 2 deletions in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop running module_test_ios in devicelab and x64 Macs<br />
-    <sub>[#148264](https://github.com/flutter/flutter/pull/148264) opened on on May 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148264) 0 additions and 33 deletions in 1 file</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test remaining transitions api examples<br />
     <sub>[#148302](https://github.com/flutter/flutter/pull/148302) opened on on May 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148302) 578 additions and 14 deletions in 15 files</sub><br />
 
