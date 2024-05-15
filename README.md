@@ -557,7 +557,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-28 commits.
+29 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-add `MipFilter::kBase`, but keep `kNearest` as the default.<br />
     <sub>[#52779](https://github.com/flutter/engine/pull/52779) merged on May 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/52779) over 1 day, 67 additions and 26 deletions in 9 files</sub><br />
@@ -599,6 +599,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] rectangle packer actually packs.<br />
     <sub>[#52781](https://github.com/flutter/engine/pull/52781) merged on May 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52781) over 1 hour, 72 additions and 87 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate TextInputSemanticsObject to ARC<br />
+    <sub>[#52785](https://github.com/flutter/engine/pull/52785) merged on May 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52785) over 1 day, 51 additions and 65 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot<br />
     <sub>[#52826](https://github.com/flutter/engine/pull/52826) merged on May 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52826) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
