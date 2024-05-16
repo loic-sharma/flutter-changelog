@@ -36,7 +36,7 @@
     <sub>[#147735](https://github.com/flutter/flutter/pull/147735) opened on on May 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147735) 118 additions and 1 deletion in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
-    <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147774) 275 additions and 83 deletions in 5 files</sub><br />
+    <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/147774) 275 additions and 77 deletions in 5 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.<br />
     <sub>[#147830](https://github.com/flutter/flutter/pull/147830) opened on on May 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147830) 245 additions and 44 deletions in 5 files</sub><br />
