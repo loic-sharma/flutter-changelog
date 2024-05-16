@@ -101,6 +101,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart<br />
     <sub>[#148453](https://github.com/flutter/flutter/pull/148453) opened on on May 16, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/148453) 125823 additions and 1 deletion in 3 files</sub><br />
 
-* **[flyboy](https://github.com/hello-coder-xu)** &mdash; fix dynamic setting slider text as null errro<br />
-    <sub>[#148457](https://github.com/flutter/flutter/pull/148457) opened on on May 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148457) 57 additions and 1 deletion in 2 files</sub><br />
-
