@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-26 commits.
+27 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub>
@@ -33,6 +33,11 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix abi key for local golden file testing
     <sub>[#148072](https://github.com/flutter/flutter/pull/148072) merged on May 14, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/148072) over 5 days, 14 additions and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Kaylee Lubick](https://github.com/kjlubick), [Andrew Shin](https://github.com/As90909w), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix TextField helper top padding on M3
+    <sub>[#146754](https://github.com/flutter/flutter/pull/146754) merged on May 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146754) over 1 month, 6 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop running module_test_ios in devicelab and x64 Macs
     <sub>[#148264](https://github.com/flutter/flutter/pull/148264) merged on May 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148264) over 1 day, 0 additions and 33 deletions in 1 file</sub>
