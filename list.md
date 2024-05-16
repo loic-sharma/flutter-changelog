@@ -570,7 +570,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-30 commits.
+32 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-add `MipFilter::kBase`, but keep `kNearest` as the default.
     <sub>[#52779](https://github.com/flutter/engine/pull/52779) merged on May 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/52779) over 1 day, 67 additions and 26 deletions in 9 files</sub>
@@ -592,6 +592,14 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `json_utils` with a modern `extension type`, add tests.
     <sub>[#52769](https://github.com/flutter/engine/pull/52769) merged on May 14, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/52769) over 8 hours, 663 additions and 160 deletions in 7 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Include `stdout` on a failed `gn desc` call, and test for it.
+    <sub>[#52863](https://github.com/flutter/engine/pull/52863) merged on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52863) over 1 hour, 123 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revamp the engine style guide, remove `always_specify_types`.
+    <sub>[#52859](https://github.com/flutter/engine/pull/52859) merged on May 16, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/52859) over 4 hours, 174 additions and 19 deletions in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [John McCutchan](https://github.com/johnmccutchan), [Chris Bracken](https://github.com/cbracken), [gaaclarke](https://github.com/gaaclarke), [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] immediately encode blit commands for Vulkan.
     <sub>[#52794](https://github.com/flutter/engine/pull/52794) merged on May 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/52794) over 20 hours, 352 additions and 635 deletions in 10 files</sub>
