@@ -98,3 +98,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for material_banner.0.dart and material_banner.1.dart<br />
     <sub>[#148452](https://github.com/flutter/flutter/pull/148452) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148452) 46 additions and 2 deletions in 3 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart<br />
+    <sub>[#148453](https://github.com/flutter/flutter/pull/148453) opened on on May 16, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/148453) 125825 additions and 1 deletion in 3 files</sub><br />
+
