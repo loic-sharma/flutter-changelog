@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-31 commits.
+32 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API<br />
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub><br />
@@ -38,6 +38,10 @@
     <sub>[#146754](https://github.com/flutter/flutter/pull/146754) merged on May 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/146754) over 1 month, 6 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] codesign native assets during embed<br />
+    <sub>[#148310](https://github.com/flutter/flutter/pull/148310) merged on May 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148310) over 2 days, 31 additions and 1 deletion in 3 files</sub><br />
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Stop running module_test_ios in devicelab and x64 Macs<br />
     <sub>[#148264](https://github.com/flutter/flutter/pull/148264) merged on May 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148264) over 1 day, 0 additions and 33 deletions in 1 file</sub><br />
