@@ -42,7 +42,7 @@
     <sub>[#147830](https://github.com/flutter/flutter/pull/147830) opened on on May 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147830) 245 additions and 44 deletions in 5 files</sub><br />
 
 * **[Jam M. Hernandez Quiceno](https://github.com/JamMarHer)** &mdash; Limit flutter service worker cache to flutter resources.<br />
-    <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; Feat add default flavor<br />
     <sub>[#147968](https://github.com/flutter/flutter/pull/147968) opened on on May 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147968) 81 additions and 1 deletion in 4 files</sub><br />
