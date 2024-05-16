@@ -95,3 +95,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Removed brand references from MenuAnchor.dart<br />
     <sub>[#148432](https://github.com/flutter/flutter/pull/148432) opened on on May 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148432) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for material_banner.0.dart and material_banner.1.dart<br />
+    <sub>[#148452](https://github.com/flutter/flutter/pull/148452) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148452) 46 additions and 2 deletions in 3 files</sub><br />
+
