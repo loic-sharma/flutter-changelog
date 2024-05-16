@@ -1143,7 +1143,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-10 commits.
+11 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] migrate main plugin class to swift in preperation to storekit 2
     <sub>[#6561](https://github.com/flutter/packages/pull/6561) merged on May 14, 2024 &mdash; **Large:** [131 comments](https://github.com/flutter/packages/pull/6561) over 3 weeks, 713 additions and 578 deletions in 26 files</sub>
@@ -1164,6 +1164,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera] Change default Android implementation from `camera_android` to `camera_android_camerax`
     <sub>[#6629](https://github.com/flutter/packages/pull/6629) merged on May 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/6629) over 1 week, 101 additions and 51 deletions in 10 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [webview_flutter] Skip "Video playback policy" drive tests
+    <sub>[#6747](https://github.com/flutter/packages/pull/6747) merged on May 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6747) over 2 hours, 3 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Skip `withWeakReferenceTo` integration test
     <sub>[#6731](https://github.com/flutter/packages/pull/6731) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6731) over 17 minutes, 4 additions and 1 deletion in 1 file</sub>
