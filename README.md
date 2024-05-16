@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-25 commits.
+26 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API<br />
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub><br />
@@ -69,6 +69,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Try fix module test<br />
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147934) over 6 days, 0 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[FMorschel](https://github.com/FMorschel)** &mdash; Removing duplicate assert on `VisualDensity` constructor<br />
+    <sub>[#148281](https://github.com/flutter/flutter/pull/148281) merged on May 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148281) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate](https://github.com/nate-thegrate)</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update _handlePushRouteInformation to Future<bool>  to indicate whether any of the observer has handled the route or not<br />
     <sub>[#147901](https://github.com/flutter/flutter/pull/147901) merged on May 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147901) over 1 week, 67 additions and 12 deletions in 2 files</sub><br />
