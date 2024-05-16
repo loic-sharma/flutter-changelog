@@ -105,5 +105,5 @@
     <sub>[#148470](https://github.com/flutter/flutter/pull/148470) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148470) 48 additions and 2 deletions in 2 files</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add PrivacyInfo.xcprivacy to plugin template<br />
-    <sub>[#148485](https://github.com/flutter/flutter/pull/148485) opened on on May 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148485) 70 additions and 10 deletions in 9 files</sub><br />
+    <sub>[#148485](https://github.com/flutter/flutter/pull/148485) opened on on May 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148485) 70 additions and 10 deletions in 9 files</sub><br />
 
