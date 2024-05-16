@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-33 commits.
+35 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub>
@@ -39,6 +39,10 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/9947f334-d98f-4f7e-9da7-ca6d5c0770ac) | ![image](https://github.com/flutter/flutter/assets/840911/081dec4b-eb9f-4eee-a7dc-2538e7110ff0)| ![image](https://github.com/flutter/flutter/assets/840911/c8c8f045-3b79-43a5-a1a3-cc6d5460644f)</details></sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add PrivacyInfo.xcprivacy to plugin template
+    <sub>[#148485](https://github.com/flutter/flutter/pull/148485) merged on May 16, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/148485) over 4 hours, 73 additions and 5 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] codesign native assets during embed
     <sub>[#148310](https://github.com/flutter/flutter/pull/148310) merged on May 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148310) over 2 days, 31 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
@@ -51,17 +55,21 @@
     <sub>[#148267](https://github.com/flutter/flutter/pull/148267) merged on May 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148267) over 23 hours, 58 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `DialogRoute` memory leak
-    <sub>[#147816](https://github.com/flutter/flutter/pull/147816) merged on May 16, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/147816) over 1 week, 33 additions and 8 deletions in 2 files</sub>
-    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Valentin Vignal](https://github.com/ValentinVignal), [Lau Ching Jun](https://github.com/chingjun)</sub>
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `SnackBar`
     <sub>[#147212](https://github.com/flutter/flutter/pull/147212) merged on May 14, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/147212) over 3 weeks, 58 additions and 26 deletions in 2 files</sub>
     <sub>Reviewed by: </sub>
 
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `DialogRoute` memory leak
+    <sub>[#147816](https://github.com/flutter/flutter/pull/147816) merged on May 16, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/147816) over 1 week, 33 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Valentin Vignal](https://github.com/ValentinVignal), [Lau Ching Jun](https://github.com/chingjun)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing InputDecorator.hintText tests
     <sub>[#148113](https://github.com/flutter/flutter/pull/148113) merged on May 14, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148113) over 4 days, 1530 additions and 494 deletions in 1 file</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Fix iOS reference in macOS Cocoapods error
+    <sub>[#148506](https://github.com/flutter/flutter/pull/148506) merged on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148506) over 1 hour, 89 additions and 19 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Enhanced enum features for `AnimationStatus`
     <sub>[#147801](https://github.com/flutter/flutter/pull/147801) merged on May 16, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147801) over 1 week, 175 additions and 3 deletions in 3 files</sub>
@@ -95,10 +103,6 @@
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147934) over 6 days, 0 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[FMorschel](https://github.com/FMorschel)** &mdash; Removing duplicate assert on `VisualDensity` constructor
-    <sub>[#148281](https://github.com/flutter/flutter/pull/148281) merged on May 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148281) over 2 days, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate](https://github.com/nate-thegrate)</sub>
-
 * **[hangyu](https://github.com/hangyujin)** &mdash; Update _handlePushRouteInformation to Future<bool>  to indicate whether any of the observer has handled the route or not
     <sub>[#147901](https://github.com/flutter/flutter/pull/147901) merged on May 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147901) over 1 week, 67 additions and 12 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
@@ -126,6 +130,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add more print traces in hot runner workflow
     <sub>[#148258](https://github.com/flutter/flutter/pull/148258) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148258) over 1 hour, 17 additions and 8 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[FMorschel](https://github.com/FMorschel)** &mdash; Removing duplicate assert on `VisualDensity` constructor
+    <sub>[#148281](https://github.com/flutter/flutter/pull/148281) merged on May 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148281) over 2 days, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate](https://github.com/nate-thegrate)</sub>
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test sliver fill remaining examples
     <sub>[#148041](https://github.com/flutter/flutter/pull/148041) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148041) over 4 days, 149 additions and 4 deletions in 5 files</sub>
