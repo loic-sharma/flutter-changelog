@@ -107,6 +107,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for image.error_builder.0.dart API example.<br />
     <sub>[#148497](https://github.com/flutter/flutter/pull/148497) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148497) 49 additions and 1 deletion in 2 files</sub><br />
 
-* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Allow users to specify CC/CXX environment variables during Linux build<br />
-    <sub>[#148518](https://github.com/flutter/flutter/pull/148518) opened on on May 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148518) 82 additions and 2 deletions in 1 file</sub><br />
-
