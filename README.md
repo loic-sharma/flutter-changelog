@@ -1147,7 +1147,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-14 commits.
+16 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] TreeView<br />
     <sub>[#6592](https://github.com/flutter/packages/pull/6592) merged on May 16, 2024 &mdash; **Extra large:** [123 comments](https://github.com/flutter/packages/pull/6592) over 3 weeks, 5812 additions and 185 deletions in 38 files</sub><br />
@@ -1176,6 +1176,14 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera] Change default Android implementation from `camera_android` to `camera_android_camerax`<br />
     <sub>[#6629](https://github.com/flutter/packages/pull/6629) merged on May 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/6629) over 1 week, 101 additions and 51 deletions in 10 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Hamdi Kahloun](https://github.com/hamdikahloun)** &mdash; [camera_android_camerax] update to latest stable camerax 1.3.3<br />
+    <sub>[#6737](https://github.com/flutter/packages/pull/6737) merged on May 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6737) over 1 day, 4 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [camera_avfoundation] Revert camera example PRODUCT_BUNDLE_IDENTIFIER<br />
+    <sub>[#6735](https://github.com/flutter/packages/pull/6735) merged on May 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6735) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [file_selector_ios, image_picker_ios] Remove Swift Package Support<br />
     <sub>[#6740](https://github.com/flutter/packages/pull/6740) merged on May 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6740) over 23 hours, 10 additions and 89 deletions in 8 files</sub><br />
