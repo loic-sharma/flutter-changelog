@@ -107,3 +107,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for image.error_builder.0.dart API example.<br />
     <sub>[#148497](https://github.com/flutter/flutter/pull/148497) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148497) 49 additions and 1 deletion in 2 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [iOS] specify minimum os version for native asset frameworks<br />
+    <sub>[#148504](https://github.com/flutter/flutter/pull/148504) opened on on May 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148504) 15 additions and 6 deletions in 2 files</sub><br />
+
