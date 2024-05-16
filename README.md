@@ -1155,11 +1155,15 @@
 
 ### May 11, 2024 to May 17, 2024
 
-16 commits.
+17 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] TreeView<br />
     <sub>[#6592](https://github.com/flutter/packages/pull/6592) merged on May 16, 2024 &mdash; **Extra large:** [123 comments](https://github.com/flutter/packages/pull/6592) over 3 weeks, 5812 additions and 185 deletions in 38 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add test for `onExit`<br />
+    <sub>[#6614](https://github.com/flutter/packages/pull/6614) merged on May 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6614) over 2 weeks, 206 additions and 5 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [pigeon][swift] Removes FlutterError in favor of PigeonError<br />
     <sub>[#6611](https://github.com/flutter/packages/pull/6611) merged on May 16, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/packages/pull/6611) over 3 weeks, 396 additions and 278 deletions in 16 files</sub><br />
