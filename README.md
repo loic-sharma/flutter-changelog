@@ -59,7 +59,7 @@
     <sub>[#148046](https://github.com/flutter/flutter/pull/148046) merged on May 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148046) over 5 days, 64 additions and 20 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
 
-* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; ThemeData minor spring cleaning<br />
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; `ThemeData` minor spring cleaning<br />
     <sub>[#148408](https://github.com/flutter/flutter/pull/148408) merged on May 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148408) over 18 hours, 17 additions and 34 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
