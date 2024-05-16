@@ -84,7 +84,7 @@
     <sub>[#148350](https://github.com/flutter/flutter/pull/148350) opened on on May 14, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148350) 272 additions and 100 deletions in 7 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` statement cleanup<br />
-    <sub>[#148382](https://github.com/flutter/flutter/pull/148382) opened on on May 15, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/148382) 301 additions and 529 deletions in 39 files</sub><br />
+    <sub>[#148382](https://github.com/flutter/flutter/pull/148382) opened on on May 15, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/148382) 301 additions and 529 deletions in 39 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual roll camera dependency<br />
     <sub>[#148426](https://github.com/flutter/flutter/pull/148426) opened on on May 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148426) 4 additions and 3 deletions in 1 file</sub><br />
