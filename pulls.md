@@ -86,9 +86,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` statement cleanup<br />
     <sub>[#148382](https://github.com/flutter/flutter/pull/148382) opened on on May 15, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148382) 301 additions and 529 deletions in 39 files</sub><br />
 
-* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; ThemeData minor spring cleaning<br />
-    <sub>[#148408](https://github.com/flutter/flutter/pull/148408) opened on on May 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148408) 17 additions and 34 deletions in 1 file</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual roll camera dependency<br />
     <sub>[#148426](https://github.com/flutter/flutter/pull/148426) opened on on May 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148426) 4 additions and 3 deletions in 1 file</sub><br />
 
