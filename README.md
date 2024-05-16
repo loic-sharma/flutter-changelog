@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-36 commits.
+37 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API<br />
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub><br />
@@ -55,21 +55,21 @@
     <sub>[#148267](https://github.com/flutter/flutter/pull/148267) merged on May 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148267) over 23 hours, 58 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing InputDecorator.hintText tests<br />
-    <sub>[#148113](https://github.com/flutter/flutter/pull/148113) merged on May 14, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148113) over 4 days, 1530 additions and 494 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `SnackBar`<br />
     <sub>[#147212](https://github.com/flutter/flutter/pull/147212) merged on May 14, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/147212) over 3 weeks, 58 additions and 26 deletions in 2 files</sub><br />
     <sub>Reviewed by: </sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Fix iOS reference in macOS Cocoapods error<br />
+    <sub>[#148506](https://github.com/flutter/flutter/pull/148506) merged on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148506) over 1 hour, 89 additions and 19 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `DialogRoute` memory leak<br />
     <sub>[#147816](https://github.com/flutter/flutter/pull/147816) merged on May 16, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/147816) over 1 week, 33 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Valentin Vignal](https://github.com/ValentinVignal), [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Fix iOS reference in macOS Cocoapods error<br />
-    <sub>[#148506](https://github.com/flutter/flutter/pull/148506) merged on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148506) over 1 hour, 89 additions and 19 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing InputDecorator.hintText tests<br />
+    <sub>[#148113](https://github.com/flutter/flutter/pull/148113) merged on May 14, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148113) over 4 days, 1530 additions and 494 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Enhanced enum features for `AnimationStatus`<br />
     <sub>[#147801](https://github.com/flutter/flutter/pull/147801) merged on May 16, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147801) over 1 week, 175 additions and 3 deletions in 3 files</sub><br />
@@ -78,6 +78,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in open upwards page transition<br />
     <sub>[#148046](https://github.com/flutter/flutter/pull/148046) merged on May 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148046) over 5 days, 64 additions and 20 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; const vs. non-const widget build benchmark<br />
+    <sub>[#148261](https://github.com/flutter/flutter/pull/148261) merged on May 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148261) over 3 days, 230 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Pierre-Louis](https://github.com/guidezpl)** &mdash; `ThemeData` minor spring cleaning<br />
     <sub>[#148408](https://github.com/flutter/flutter/pull/148408) merged on May 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148408) over 18 hours, 17 additions and 34 deletions in 1 file</sub><br />

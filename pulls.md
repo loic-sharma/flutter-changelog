@@ -18,7 +18,7 @@
     <sub>[#143416](https://github.com/flutter/flutter/pull/143416) opened on on February 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143416) 694 additions and 122 deletions in 12 files</sub><br />
 
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
-    <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
 * **[pearl null](https://github.com/asyncmeow)** &mdash; Fix Flutter project builds under Nix environments on MacOS<br />
     <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147144) 8 additions and 0 deletions in 2 files</sub><br />
