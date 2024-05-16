@@ -1143,7 +1143,11 @@
 
 ### May 11, 2024 to May 17, 2024
 
-11 commits.
+12 commits.
+
+* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [pigeon][swift] Removes FlutterError in favor of PigeonError<br />
+    <sub>[#6611](https://github.com/flutter/packages/pull/6611) merged on May 16, 2024 &mdash; **Large:** [55 comments](https://github.com/flutter/packages/pull/6611) over 3 weeks, 396 additions and 278 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] migrate main plugin class to swift in preperation to storekit 2<br />
     <sub>[#6561](https://github.com/flutter/packages/pull/6561) merged on May 14, 2024 &mdash; **Large:** [131 comments](https://github.com/flutter/packages/pull/6561) over 3 weeks, 713 additions and 578 deletions in 26 files</sub><br />
