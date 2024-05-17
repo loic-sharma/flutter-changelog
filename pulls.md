@@ -101,3 +101,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pass --no-version-check to tool app-jit snapshot training.<br />
     <sub>[#148547](https://github.com/flutter/flutter/pull/148547) opened on on May 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148547) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
+    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148560) 357 additions and 22 deletions in 12 files</sub><br />
+
