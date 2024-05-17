@@ -69,7 +69,7 @@
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside<br />
-    <sub>[#148206](https://github.com/flutter/flutter/pull/148206) opened on on May 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148206) 103 additions and 1 deletion in 5 files</sub><br />
+    <sub>[#148206](https://github.com/flutter/flutter/pull/148206) opened on on May 13, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/148206) 103 additions and 1 deletion in 5 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test raw autocomplete api examples<br />
     <sub>[#148234](https://github.com/flutter/flutter/pull/148234) opened on on May 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148234) 266 additions and 4 deletions in 5 files</sub><br />
