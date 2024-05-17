@@ -93,7 +93,7 @@
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148560) 357 additions and 22 deletions in 12 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Migrate the flutter/flutter wiki to docs/unsorted_wiki<br />
-    <sub>[#148562](https://github.com/flutter/flutter/pull/148562) opened on on May 17, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/148562) 34483 additions and 1 deletion in 174 files</sub><br />
+    <sub>[#148562](https://github.com/flutter/flutter/pull/148562) opened on on May 17, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/148562) 34483 additions and 1 deletion in 174 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148574) 122 additions and 0 deletions in 2 files</sub><br />
