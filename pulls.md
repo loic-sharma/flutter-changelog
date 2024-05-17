@@ -59,17 +59,11 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for fade_transition.0.dart API example.<br />
     <sub>[#148178](https://github.com/flutter/flutter/pull/148178) opened on on May 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148178) 124 additions and 8 deletions in 3 files</sub><br />
 
-* **[ufraaan](https://github.com/moroii69)** &mdash; refactor flutter driver command extensions<br />
-    <sub>[#148180](https://github.com/flutter/flutter/pull/148180) opened on on May 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148180) 18 additions and 65 deletions in 51 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for tab_controller.1.dart API example.<br />
     <sub>[#148189](https://github.com/flutter/flutter/pull/148189) opened on on May 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148189) 184 additions and 25 deletions in 3 files</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; PageController: added default [duration] and [curve] values to animateToPage, nextPage and previousPage methods<br />
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
-
-* **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside<br />
-    <sub>[#148206](https://github.com/flutter/flutter/pull/148206) opened on on May 13, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/148206) 254 additions and 1 deletion in 8 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test raw autocomplete api examples<br />
     <sub>[#148234](https://github.com/flutter/flutter/pull/148234) opened on on May 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148234) 266 additions and 4 deletions in 5 files</sub><br />
@@ -91,9 +85,6 @@
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; fix slider text null error<br />
     <sub>[#148462](https://github.com/flutter/flutter/pull/148462) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148462) 55 additions and 1 deletion in 2 files</sub><br />
-
-* **[flyboy](https://github.com/hello-coder-xu)** &mdash; sliverGridDelegate mainAxisExtent add assert<br />
-    <sub>[#148470](https://github.com/flutter/flutter/pull/148470) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148470) 48 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for image.error_builder.0.dart API example.<br />
     <sub>[#148497](https://github.com/flutter/flutter/pull/148497) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148497) 49 additions and 1 deletion in 2 files</sub><br />
