@@ -45,7 +45,7 @@
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; Feat add default flavor<br />
-    <sub>[#147968](https://github.com/flutter/flutter/pull/147968) opened on on May 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147968) 81 additions and 1 deletion in 4 files</sub><br />
+    <sub>[#147968](https://github.com/flutter/flutter/pull/147968) opened on on May 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147968) 81 additions and 1 deletion in 4 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold.0.dart and scaffold.2.dart<br />
     <sub>[#148166](https://github.com/flutter/flutter/pull/148166) opened on on May 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148166) 56 additions and 2 deletions in 4 files</sub><br />
@@ -81,7 +81,7 @@
     <sub>[#148302](https://github.com/flutter/flutter/pull/148302) opened on on May 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148302) 578 additions and 14 deletions in 15 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` statement cleanup<br />
-    <sub>[#148382](https://github.com/flutter/flutter/pull/148382) opened on on May 15, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/148382) 301 additions and 529 deletions in 39 files</sub><br />
+    <sub>[#148382](https://github.com/flutter/flutter/pull/148382) opened on on May 15, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/148382) 301 additions and 529 deletions in 39 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual roll camera dependency<br />
     <sub>[#148426](https://github.com/flutter/flutter/pull/148426) opened on on May 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148426) 4 additions and 3 deletions in 1 file</sub><br />
