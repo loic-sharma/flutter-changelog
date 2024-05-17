@@ -86,9 +86,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Removed brand references from MenuAnchor.dart<br />
     <sub>[#148432](https://github.com/flutter/flutter/pull/148432) opened on on May 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148432) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for material_banner.0.dart and material_banner.1.dart<br />
-    <sub>[#148452](https://github.com/flutter/flutter/pull/148452) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148452) 46 additions and 2 deletions in 3 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart<br />
     <sub>[#148453](https://github.com/flutter/flutter/pull/148453) opened on on May 16, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/148453) 125823 additions and 1 deletion in 3 files</sub><br />
 
@@ -100,7 +97,4 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for image.error_builder.0.dart API example.<br />
     <sub>[#148497](https://github.com/flutter/flutter/pull/148497) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148497) 49 additions and 1 deletion in 2 files</sub><br />
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Swap crash reporting with unified analytics<br />
-    <sub>[#148525](https://github.com/flutter/flutter/pull/148525) opened on on May 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148525) 27 additions and 23 deletions in 3 files</sub><br />
 
