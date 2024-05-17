@@ -102,7 +102,7 @@
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148560) 357 additions and 22 deletions in 12 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Migrate the flutter/flutter wiki to docs/unsorted<br />
-    <sub>[#148562](https://github.com/flutter/flutter/pull/148562) opened on on May 17, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/148562) 34500 additions and 0 deletions in 173 files</sub><br />
+    <sub>[#148562](https://github.com/flutter/flutter/pull/148562) opened on on May 17, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/148562) 34500 additions and 0 deletions in 173 files</sub><br />
 
 * **[Hany Mohamed](https://github.com/hany-achraf)** &mdash; Change snack bar default hitTestBehavior to deferToChild when snackBarTheme.insetPadding is not null<br />
     <sub>[#148568](https://github.com/flutter/flutter/pull/148568) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148568) 123 additions and 2 deletions in 2 files</sub><br />
