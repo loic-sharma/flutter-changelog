@@ -92,9 +92,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148574) 122 additions and 0 deletions in 2 files</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fixes incorrect read/write permissions on Flutter.framework and FlutterMacOS.framework<br />
-    <sub>[#148580](https://github.com/flutter/flutter/pull/148580) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148580) 33 additions and 0 deletions in 6 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Ecosystem team pages<br />
     <sub>[#148589](https://github.com/flutter/flutter/pull/148589) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148589) 25 additions and 14 deletions in 13 files</sub><br />
 
