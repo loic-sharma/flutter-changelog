@@ -102,5 +102,5 @@
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148560) 357 additions and 22 deletions in 12 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Migrate the flutter/flutter wiki to docs/unsorted<br />
-    <sub>[#148562](https://github.com/flutter/flutter/pull/148562) opened on on May 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148562) 34603 additions and 0 deletions in 175 files</sub><br />
+    <sub>[#148562](https://github.com/flutter/flutter/pull/148562) opened on on May 17, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/148562) 34603 additions and 0 deletions in 175 files</sub><br />
 
