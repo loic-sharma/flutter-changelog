@@ -463,7 +463,7 @@
     <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Tim Lehmann](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning<br />
-    <sub>[#145647](https://github.com/flutter/flutter/pull/145647) merged on May 1, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/145647) over 1 month, 134 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#145647](https://github.com/flutter/flutter/pull/145647) merged on May 1, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/145647) over 1 month, 134 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix `TextField` horizontal drag conflicts<br />
