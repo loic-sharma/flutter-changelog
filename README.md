@@ -1207,7 +1207,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-17 commits.
+18 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] TreeView<br />
     <sub>[#6592](https://github.com/flutter/packages/pull/6592) merged on May 16, 2024 &mdash; **Extra large:** [123 comments](https://github.com/flutter/packages/pull/6592) over 3 weeks, 5812 additions and 185 deletions in 38 files</sub><br />
@@ -1224,6 +1224,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] migrate main plugin class to swift in preperation to storekit 2<br />
     <sub>[#6561](https://github.com/flutter/packages/pull/6561) merged on May 14, 2024 &mdash; **Large:** [131 comments](https://github.com/flutter/packages/pull/6561) over 3 weeks, 713 additions and 578 deletions in 26 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes issue that path parameters are not set when using t…<br />
+    <sub>[#6698](https://github.com/flutter/packages/pull/6698) merged on May 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6698) over 1 week, 55 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; [webview_flutter_wkwebview] Fixes JSON.stringify() cannot serialize cyclic structures<br />
     <sub>[#6274](https://github.com/flutter/packages/pull/6274) merged on May 15, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/6274) over 2 months, 152 additions and 38 deletions in 7 files</sub><br />
