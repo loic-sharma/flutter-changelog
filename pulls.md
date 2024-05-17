@@ -77,9 +77,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual roll camera dependency<br />
     <sub>[#148426](https://github.com/flutter/flutter/pull/148426) opened on on May 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148426) 4 additions and 3 deletions in 1 file</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Removed brand references from MenuAnchor.dart<br />
-    <sub>[#148432](https://github.com/flutter/flutter/pull/148432) opened on on May 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148432) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart<br />
     <sub>[#148453](https://github.com/flutter/flutter/pull/148453) opened on on May 16, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/148453) 125823 additions and 1 deletion in 3 files</sub><br />
 
