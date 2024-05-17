@@ -98,3 +98,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for image.error_builder.0.dart API example.<br />
     <sub>[#148497](https://github.com/flutter/flutter/pull/148497) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148497) 49 additions and 1 deletion in 2 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pass --no-version-check to tool app-jit snapshot training.<br />
+    <sub>[#148547](https://github.com/flutter/flutter/pull/148547) opened on on May 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148547) 1 addition and 1 deletion in 1 file</sub><br />
+
