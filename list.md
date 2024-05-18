@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-45 commits.
+46 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub>
@@ -63,17 +63,17 @@
     <sub>[#148267](https://github.com/flutter/flutter/pull/148267) merged on May 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148267) over 23 hours, 58 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `SnackBar`
-    <sub>[#147212](https://github.com/flutter/flutter/pull/147212) merged on May 14, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/147212) over 3 weeks, 58 additions and 26 deletions in 2 files</sub>
-    <sub>Reviewed by: </sub>
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing InputDecorator.hintText tests
+    <sub>[#148113](https://github.com/flutter/flutter/pull/148113) merged on May 14, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148113) over 4 days, 1530 additions and 494 deletions in 1 file</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Swap crash reporting with unified analytics
     <sub>[#148525](https://github.com/flutter/flutter/pull/148525) merged on May 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148525) over 1 day, 27 additions and 23 deletions in 3 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing InputDecorator.hintText tests
-    <sub>[#148113](https://github.com/flutter/flutter/pull/148113) merged on May 14, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148113) over 4 days, 1530 additions and 494 deletions in 1 file</sub>
-    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `SnackBar`
+    <sub>[#147212](https://github.com/flutter/flutter/pull/147212) merged on May 14, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/147212) over 3 weeks, 58 additions and 26 deletions in 2 files</sub>
+    <sub>Reviewed by: </sub>
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `DialogRoute` memory leak
     <sub>[#147816](https://github.com/flutter/flutter/pull/147816) merged on May 16, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/147816) over 1 week, 33 additions and 8 deletions in 2 files</sub>
@@ -99,6 +99,10 @@
     <sub>[#148046](https://github.com/flutter/flutter/pull/148046) merged on May 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148046) over 5 days, 64 additions and 20 deletions in 2 files</sub>
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Fix template manifest test
+    <sub>[#148616](https://github.com/flutter/flutter/pull/148616) merged on May 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148616) over 5 hours, 2 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable shuffling in the flutter_tools create_test suite
     <sub>[#148619](https://github.com/flutter/flutter/pull/148619) merged on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148619) over 53 minutes, 6 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -107,13 +111,13 @@
     <sub>[#148552](https://github.com/flutter/flutter/pull/148552) merged on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148552) over 1 hour, 12 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; `ThemeData` minor spring cleaning
-    <sub>[#148408](https://github.com/flutter/flutter/pull/148408) merged on May 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148408) over 18 hours, 17 additions and 34 deletions in 1 file</sub>
-    <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub>
-
 * **[yim](https://github.com/yiiim)** &mdash; Maintain the same layout constraints for item in the ReorderableList during dragging as before dragging.
     <sub>[#147863](https://github.com/flutter/flutter/pull/147863) merged on May 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147863) over 1 week, 65 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Pierre-Louis](https://github.com/guidezpl)** &mdash; `ThemeData` minor spring cleaning
+    <sub>[#148408](https://github.com/flutter/flutter/pull/148408) merged on May 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148408) over 18 hours, 17 additions and 34 deletions in 1 file</sub>
+    <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; plugin_ffi template comment fix
     <sub>[#148378](https://github.com/flutter/flutter/pull/148378) merged on May 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148378) over 1 day, 2 additions and 2 deletions in 2 files</sub>
@@ -123,12 +127,12 @@
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147934) over 6 days, 0 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark platform_views_scroll_perf_ad_banners__timeline_summary not flaky
-    <sub>[#148263](https://github.com/flutter/flutter/pull/148263) merged on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148263) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland Native ios context menu (#143002) (#148238)
     <sub>[#148265](https://github.com/flutter/flutter/pull/148265) merged on May 15, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/148265) over 1 day, 1391 additions and 43 deletions in 13 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark platform_views_scroll_perf_ad_banners__timeline_summary not flaky
+    <sub>[#148263](https://github.com/flutter/flutter/pull/148263) merged on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148263) over 1 hour, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; test material text field example
