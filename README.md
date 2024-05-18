@@ -675,7 +675,7 @@
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fixes MatrixFilterContents rendering/coverage (#52880)"<br />
-    <sub>[#52918](https://github.com/flutter/engine/pull/52918) merged on May 18, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/52918) over 1 minute, 56 additions and 387 deletions in 13 files</sub><br />
+    <sub>[#52918](https://github.com/flutter/engine/pull/52918) merged on May 18, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/52918) over 1 minute, 56 additions and 387 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `json_utils` with a modern `extension type`, add tests.<br />
