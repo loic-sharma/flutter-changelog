@@ -102,5 +102,5 @@
     <sub>[#148603](https://github.com/flutter/flutter/pull/148603) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148603) 72 additions and 30 deletions in 2 files</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Update `FocusManager` platform check to include iOS<br />
-    <sub>[#148612](https://github.com/flutter/flutter/pull/148612) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148612) 24 additions and 7 deletions in 2 files</sub><br />
+    <sub>[#148612](https://github.com/flutter/flutter/pull/148612) opened on on May 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148612) 24 additions and 7 deletions in 2 files</sub><br />
 
