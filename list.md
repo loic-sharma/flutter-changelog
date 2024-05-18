@@ -643,7 +643,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-44 commits.
+45 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots
     <sub>[#52885](https://github.com/flutter/engine/pull/52885) merged on May 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52885) over 1 day, 103 additions and 10 deletions in 4 files</sub>
@@ -686,9 +686,9 @@
     <sub>[#52871](https://github.com/flutter/engine/pull/52871) merged on May 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52871) over 1 day, 150 additions and 22 deletions in 15 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Include `stdout` on a failed `gn desc` call, and test for it.
-    <sub>[#52863](https://github.com/flutter/engine/pull/52863) merged on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52863) over 1 hour, 123 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] immediately encode blit commands for Vulkan.
+    <sub>[#52794](https://github.com/flutter/engine/pull/52794) merged on May 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/52794) over 20 hours, 352 additions and 635 deletions in 10 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Refactor Semantics in preparation for ARC migration
     <sub>[#52729](https://github.com/flutter/engine/pull/52729) merged on May 14, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/engine/pull/52729) over 3 days, 216 additions and 198 deletions in 4 files</sub>
@@ -706,9 +706,9 @@
     <sub>[#52866](https://github.com/flutter/engine/pull/52866) merged on May 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52866) over 2 hours, 53 additions and 5 deletions in 4 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] immediately encode blit commands for Vulkan.
-    <sub>[#52794](https://github.com/flutter/engine/pull/52794) merged on May 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/52794) over 20 hours, 352 additions and 635 deletions in 10 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Include `stdout` on a failed `gn desc` call, and test for it.
+    <sub>[#52863](https://github.com/flutter/engine/pull/52863) merged on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52863) over 1 hour, 123 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Dustin Green](https://github.com/dustingreen)** &mdash; [fuchsia][sysmem2] route fuchsia.sysmem2.Allocator
     <sub>[#52708](https://github.com/flutter/engine/pull/52708) merged on May 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52708) over 3 days, 5 additions and 0 deletions in 5 files</sub>
@@ -721,6 +721,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] rectangle packer actually packs.
     <sub>[#52781](https://github.com/flutter/engine/pull/52781) merged on May 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/52781) over 1 hour, 72 additions and 87 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from 28e8e94f9e10 to 0b87dfedea5f
+    <sub>[#52914](https://github.com/flutter/engine/pull/52914) merged on May 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52914) over 14 hours, 4 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Issue an`ERROR` instead of an `INFO` for a non-working API.
     <sub>[#52892](https://github.com/flutter/engine/pull/52892) merged on May 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52892) over 14 hours, 8 additions and 7 deletions in 1 file</sub>
@@ -746,17 +750,17 @@
     <sub>[#52824](https://github.com/flutter/engine/pull/52824) merged on May 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52824) over 7 hours, 26 additions and 61 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make default glyph atlas size much bigger.
-    <sub>[#52787](https://github.com/flutter/engine/pull/52787) merged on May 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52787) over 1 day, 4 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Rolls in buildroot with stack protection flag
+    <sub>[#52774](https://github.com/flutter/engine/pull/52774) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52774) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; ios_external_view_embedder to ARC
     <sub>[#52782](https://github.com/flutter/engine/pull/52782) merged on May 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52782) over 51 minutes, 12 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove outdated comment.
-    <sub>[#52778](https://github.com/flutter/engine/pull/52778) merged on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52778) over 43 minutes, 0 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove -[NSNotificationCenter removeObserver:] in deallocs
+    <sub>[#52772](https://github.com/flutter/engine/pull/52772) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52772) over 1 hour, 36 additions and 38 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate FlutterDartProject and FlutterPluginAppLifeCycleDelegate to ARC
     <sub>[#52719](https://github.com/flutter/engine/pull/52719) merged on May 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52719) over 2 days, 19 additions and 37 deletions in 4 files</sub>
@@ -770,41 +774,37 @@
     <sub>[#52818](https://github.com/flutter/engine/pull/52818) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52818) over 1 hour, 49 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate third_party/gradle to flutter/third_party/gradle
-    <sub>[#52814](https://github.com/flutter/engine/pull/52814) merged on May 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52814) over 2 hours, 10 additions and 8 deletions in 9 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use render pass to clear glyph atlas texture to transparent black.
     <sub>[#52791](https://github.com/flutter/engine/pull/52791) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52791) over 4 hours, 66 additions and 15 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] migrated one test over from aiks to dl
-    <sub>[#52786](https://github.com/flutter/engine/pull/52786) merged on May 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52786) over 17 hours, 71 additions and 26 deletions in 8 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Migrate third_party/gradle to flutter/third_party/gradle
+    <sub>[#52814](https://github.com/flutter/engine/pull/52814) merged on May 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52814) over 2 hours, 10 additions and 8 deletions in 9 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Delete Settings::msaa_samples.
     <sub>[#52780](https://github.com/flutter/engine/pull/52780) merged on May 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52780) over 1 hour, 41 additions and 238 deletions in 29 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] migrated one test over from aiks to dl
+    <sub>[#52786](https://github.com/flutter/engine/pull/52786) merged on May 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52786) over 17 hours, 71 additions and 26 deletions in 8 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Create framebuffer blend vertices based on the snapshot's texture size instead of coverage
     <sub>[#52790](https://github.com/flutter/engine/pull/52790) merged on May 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52790) over 16 hours, 19 additions and 6 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Rolls in buildroot with stack protection flag
-    <sub>[#52774](https://github.com/flutter/engine/pull/52774) merged on May 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52774) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make default glyph atlas size much bigger.
+    <sub>[#52787](https://github.com/flutter/engine/pull/52787) merged on May 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52787) over 1 day, 4 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove outdated comment.
+    <sub>[#52778](https://github.com/flutter/engine/pull/52778) merged on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52778) over 43 minutes, 0 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll FreeType from af4c2d86 to bfc3453f
     <sub>[#52829](https://github.com/flutter/engine/pull/52829) merged on May 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52829) over 53 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove -[NSNotificationCenter removeObserver:] in deallocs
-    <sub>[#52772](https://github.com/flutter/engine/pull/52772) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52772) over 1 hour, 36 additions and 38 deletions in 6 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] immediately encode blit commands for Metal. (#52795)"
-    <sub>[#52816](https://github.com/flutter/engine/pull/52816) merged on May 14, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/52816) over 1 minute, 300 additions and 157 deletions in 7 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[macOS] Generate universal gen_snapshots (#52885)"
     <sub>[#52913](https://github.com/flutter/engine/pull/52913) merged on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52913) over 1 minute, 10 additions and 103 deletions in 4 files</sub>
@@ -817,6 +817,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Revamp the engine style guide, remove `always_specify_types`. (#52859)"
     <sub>[#52867](https://github.com/flutter/engine/pull/52867) merged on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52867) over 1 minute, 19 additions and 174 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] immediately encode blit commands for Metal. (#52795)"
+    <sub>[#52816](https://github.com/flutter/engine/pull/52816) merged on May 14, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/52816) over 1 minute, 300 additions and 157 deletions in 7 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: directly encode blit commands for Metal.
     <sub>[#52819](https://github.com/flutter/engine/pull/52819) merged on May 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/52819) over 2 hours, 206 additions and 348 deletions in 8 files</sub>
