@@ -87,7 +87,7 @@
     <sub>[#148497](https://github.com/flutter/flutter/pull/148497) opened on on May 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148497) 49 additions and 1 deletion in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
-    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148560) 357 additions and 22 deletions in 12 files</sub><br />
+    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148574) 122 additions and 0 deletions in 2 files</sub><br />
