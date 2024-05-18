@@ -98,3 +98,6 @@
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds `locale` to `DatePickerThemeData`.<br />
     <sub>[#148599](https://github.com/flutter/flutter/pull/148599) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148599) 173 additions and 4 deletions in 3 files</sub><br />
 
+* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds `displayFontFamily` and `bodyFontFamily` to TextTheme apply.<br />
+    <sub>[#148603](https://github.com/flutter/flutter/pull/148603) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148603) 72 additions and 30 deletions in 2 files</sub><br />
+
