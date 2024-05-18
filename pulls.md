@@ -104,3 +104,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Update `FocusManager` platform check to include iOS<br />
     <sub>[#148612](https://github.com/flutter/flutter/pull/148612) opened on on May 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148612) 24 additions and 7 deletions in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Fix template manifest test<br />
+    <sub>[#148616](https://github.com/flutter/flutter/pull/148616) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148616) 2 additions and 3 deletions in 1 file</sub><br />
+
