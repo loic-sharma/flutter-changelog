@@ -4,7 +4,7 @@
 
 ### May 11, 2024 to May 17, 2024
 
-43 commits.
+44 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API<br />
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub><br />
@@ -63,13 +63,13 @@
     <sub>[#148267](https://github.com/flutter/flutter/pull/148267) merged on May 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148267) over 23 hours, 58 additions and 6 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Swap crash reporting with unified analytics<br />
-    <sub>[#148525](https://github.com/flutter/flutter/pull/148525) merged on May 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148525) over 1 day, 27 additions and 23 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add missing InputDecorator.hintText tests<br />
     <sub>[#148113](https://github.com/flutter/flutter/pull/148113) merged on May 14, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148113) over 4 days, 1530 additions and 494 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Swap crash reporting with unified analytics<br />
+    <sub>[#148525](https://github.com/flutter/flutter/pull/148525) merged on May 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148525) over 1 day, 27 additions and 23 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in `SnackBar`<br />
     <sub>[#147212](https://github.com/flutter/flutter/pull/147212) merged on May 14, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/147212) over 3 weeks, 58 additions and 26 deletions in 2 files</sub><br />
@@ -91,6 +91,10 @@
     <sub>[#147801](https://github.com/flutter/flutter/pull/147801) merged on May 16, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147801) over 1 week, 175 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Move `Feedback` to widgets layer<br />
+    <sub>[#148523](https://github.com/flutter/flutter/pull/148523) merged on May 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148523) over 1 day, 37 additions and 43 deletions in 28 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix memory leaks in open upwards page transition<br />
     <sub>[#148046](https://github.com/flutter/flutter/pull/148046) merged on May 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148046) over 5 days, 64 additions and 20 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
@@ -107,25 +111,25 @@
     <sub>[#148378](https://github.com/flutter/flutter/pull/148378) merged on May 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148378) over 1 day, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Liam Appelbe](https://github.com/liamappelbe)</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland Native ios context menu (#143002) (#148238)<br />
-    <sub>[#148265](https://github.com/flutter/flutter/pull/148265) merged on May 15, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/148265) over 1 day, 1391 additions and 43 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+* **[yim](https://github.com/yiiim)** &mdash; Maintain the same layout constraints for item in the ReorderableList during dragging as before dragging.<br />
+    <sub>[#147863](https://github.com/flutter/flutter/pull/147863) merged on May 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147863) over 1 week, 65 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark platform_views_scroll_perf_ad_banners__timeline_summary not flaky<br />
     <sub>[#148263](https://github.com/flutter/flutter/pull/148263) merged on May 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148263) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland Native ios context menu (#143002) (#148238)<br />
+    <sub>[#148265](https://github.com/flutter/flutter/pull/148265) merged on May 15, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/148265) over 1 day, 1391 additions and 43 deletions in 13 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Try fix module test<br />
     <sub>[#147934](https://github.com/flutter/flutter/pull/147934) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147934) over 6 days, 0 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Maintain the same layout constraints for item in the ReorderableList during dragging as before dragging.<br />
-    <sub>[#147863](https://github.com/flutter/flutter/pull/147863) merged on May 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147863) over 1 week, 65 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; test sliver fill remaining examples<br />
-    <sub>[#148041](https://github.com/flutter/flutter/pull/148041) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148041) over 4 days, 149 additions and 4 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; test material text field example<br />
+    <sub>[#147864](https://github.com/flutter/flutter/pull/147864) merged on May 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147864) over 1 week, 73 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Move toggleable to widget layer<br />
     <sub>[#148272](https://github.com/flutter/flutter/pull/148272) merged on May 14, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/148272) over 20 hours, 89 additions and 282 deletions in 10 files</sub><br />
@@ -163,9 +167,9 @@
     <sub>[#148061](https://github.com/flutter/flutter/pull/148061) merged on May 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148061) over 6 days, 42 additions and 6 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; test material text field example<br />
-    <sub>[#147864](https://github.com/flutter/flutter/pull/147864) merged on May 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147864) over 1 week, 73 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; test sliver fill remaining examples<br />
+    <sub>[#148041](https://github.com/flutter/flutter/pull/148041) merged on May 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148041) over 4 days, 149 additions and 4 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland Native ios context menu (#143002)<br />
     <sub>[#148238](https://github.com/flutter/flutter/pull/148238) merged on May 13, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/148238) over 2 hours, 1322 additions and 43 deletions in 13 files</sub><br />
