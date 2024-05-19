@@ -104,3 +104,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Update `FocusManager` platform check to include iOS<br />
     <sub>[#148612](https://github.com/flutter/flutter/pull/148612) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148612) 24 additions and 7 deletions in 2 files</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Reland "`if` chains → `switch` expressions"<br />
+    <sub>[#148634](https://github.com/flutter/flutter/pull/148634) opened on on May 19, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148634) 194 additions and 297 deletions in 33 files</sub><br />
+
