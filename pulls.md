@@ -24,7 +24,7 @@
     <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147144) 8 additions and 0 deletions in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add test for focus example 2<br />
-    <sub>[#147624](https://github.com/flutter/flutter/pull/147624) opened on on May 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/147624) 42 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#147624](https://github.com/flutter/flutter/pull/147624) opened on on May 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/147624) 42 additions and 1 deletion in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add tests for material banner example<br />
     <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147733) 73 additions and 2 deletions in 3 files</sub><br />
@@ -63,7 +63,7 @@
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test raw autocomplete api examples<br />
-    <sub>[#148234](https://github.com/flutter/flutter/pull/148234) opened on on May 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148234) 266 additions and 4 deletions in 5 files</sub><br />
+    <sub>[#148234](https://github.com/flutter/flutter/pull/148234) opened on on May 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/148234) 275 additions and 4 deletions in 5 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#148245](https://github.com/flutter/flutter/pull/148245) opened on on May 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148245) 4 additions and 2 deletions in 1 file</sub><br />
