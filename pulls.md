@@ -48,10 +48,10 @@
     <sub>[#148166](https://github.com/flutter/flutter/pull/148166) opened on on May 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148166) 55 additions and 2 deletions in 4 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Adds tests to NestedScrollView examples<br />
-    <sub>[#148170](https://github.com/flutter/flutter/pull/148170) opened on on May 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148170) 91 additions and 3 deletions in 4 files</sub><br />
+    <sub>[#148170](https://github.com/flutter/flutter/pull/148170) opened on on May 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148170) 91 additions and 3 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix painting API examples tests directories structure.<br />
-    <sub>[#148177](https://github.com/flutter/flutter/pull/148177) opened on on May 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148177) 0 additions and 4 deletions in 5 files</sub><br />
+    <sub>[#148177](https://github.com/flutter/flutter/pull/148177) opened on on May 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148177) 0 additions and 4 deletions in 5 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for tab_controller.1.dart API example.<br />
     <sub>[#148189](https://github.com/flutter/flutter/pull/148189) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148189) 184 additions and 25 deletions in 3 files</sub><br />
