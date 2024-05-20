@@ -104,3 +104,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Reland "`if` chains → `switch` expressions"<br />
     <sub>[#148634](https://github.com/flutter/flutter/pull/148634) opened on on May 19, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148634) 194 additions and 297 deletions in 33 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for restorable_value.0.dart API example.<br />
+    <sub>[#148676](https://github.com/flutter/flutter/pull/148676) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148676) 68 additions and 12 deletions in 3 files</sub><br />
+
