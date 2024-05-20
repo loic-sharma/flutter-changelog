@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 18, 2024 to May 24, 2024
+
+1 commits.
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.
+    <sub>[#147637](https://github.com/flutter/flutter/pull/147637) merged on May 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147637) over 2 weeks, 135 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 ### May 11, 2024 to May 17, 2024
 
-46 commits.
+<details>
+<summary>46 commits...</summary>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors page API
     <sub>[#137792](https://github.com/flutter/flutter/pull/137792) merged on May 13, 2024 &mdash; **Medium:** [58 comments](https://github.com/flutter/flutter/pull/137792) over 6 months, 358 additions and 76 deletions in 8 files</sub>
@@ -194,6 +203,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "`if` chains → `switch` expressions"
     <sub>[#148556](https://github.com/flutter/flutter/pull/148556) merged on May 17, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/148556) over 56 minutes, 297 additions and 194 deletions in 33 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+</details>
 
 ### May 4, 2024 to May 10, 2024
 
