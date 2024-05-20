@@ -81,7 +81,7 @@
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148574) 122 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Ecosystem team pages<br />
-    <sub>[#148589](https://github.com/flutter/flutter/pull/148589) opened on on May 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148589) 25 additions and 14 deletions in 13 files</sub><br />
+    <sub>[#148589](https://github.com/flutter/flutter/pull/148589) opened on on May 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148589) 25 additions and 14 deletions in 13 files</sub><br />
 
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds `locale` to `DatePickerThemeData`.<br />
     <sub>[#148599](https://github.com/flutter/flutter/pull/148599) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148599) 173 additions and 4 deletions in 3 files</sub><br />
