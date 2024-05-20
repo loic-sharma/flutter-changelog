@@ -542,7 +542,11 @@
 
 ### May 18, 2024 to May 24, 2024
 
-1 commits.
+2 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] leave glyph atlas in transfer dst to improve vulkan throughput.<br />
+    <sub>[#52908](https://github.com/flutter/engine/pull/52908) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52908) over 2 days, 78 additions and 19 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 3c8718d827b5 to 54c384453207 (2 revisions)<br />
     <sub>[#52927](https://github.com/flutter/engine/pull/52927) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52927) over 43 minutes, 4 additions and 4 deletions in 3 files</sub><br />
