@@ -4,19 +4,48 @@
 
 ### May 18, 2024 to May 24, 2024
 
-6 commits.
+13 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement new `AnimationStatus` getters
+    <sub>[#148570](https://github.com/flutter/flutter/pull/148570) merged on May 20, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/148570) over 2 days, 221 additions and 384 deletions in 53 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoModalPopupRoute`
+    <sub>[#147823](https://github.com/flutter/flutter/pull/147823) merged on May 20, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147823) over 2 weeks, 37 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub>
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Reland "`if` chains → `switch` expressions"
+    <sub>[#148634](https://github.com/flutter/flutter/pull/148634) merged on May 20, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148634) over 1 day, 194 additions and 297 deletions in 33 files</sub>
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub>
+    <sub><details><summary>1 image...</summary>![late initialization error](https://github.com/flutter/flutter/assets/10457200/47dc423f-0dd0-4869-9a11-59cb7d1ea46e)</details></sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.
+    <sub>[#147830](https://github.com/flutter/flutter/pull/147830) merged on May 20, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147830) over 2 weeks, 241 additions and 44 deletions in 5 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for logical_key_set.0.dart API example.
+    <sub>[#147735](https://github.com/flutter/flutter/pull/147735) merged on May 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147735) over 2 weeks, 118 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) merged on May 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147637) over 2 weeks, 135 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Ecosystem team pages
+    <sub>[#148589](https://github.com/flutter/flutter/pull/148589) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148589) over 2 days, 25 additions and 14 deletions in 13 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove all tests from a02s. Replace with mokey in bringup
     <sub>[#148563](https://github.com/flutter/flutter/pull/148563) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148563) over 2 days, 12 additions and 43 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix painting API examples tests directories structure.
+    <sub>[#148177](https://github.com/flutter/flutter/pull/148177) merged on May 20, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/148177) over 1 week, 0 additions and 4 deletions in 5 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for image.error_builder.0.dart API example.
     <sub>[#148497](https://github.com/flutter/flutter/pull/148497) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148497) over 3 days, 49 additions and 1 deletion in 2 files</sub>

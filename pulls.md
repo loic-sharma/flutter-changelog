@@ -29,14 +29,8 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add tests for material banner example<br />
     <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147733) 73 additions and 2 deletions in 3 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for logical_key_set.0.dart API example.<br />
-    <sub>[#147735](https://github.com/flutter/flutter/pull/147735) opened on on May 2, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/147735) 118 additions and 1 deletion in 2 files</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
     <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/147774) 275 additions and 77 deletions in 5 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.<br />
-    <sub>[#147830](https://github.com/flutter/flutter/pull/147830) opened on on May 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147830) 241 additions and 44 deletions in 5 files</sub><br />
 
 * **[Jam M. Hernandez Quiceno](https://github.com/JamMarHer)** &mdash; Limit flutter service worker cache to flutter resources.<br />
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
@@ -49,9 +43,6 @@
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Adds tests to NestedScrollView examples<br />
     <sub>[#148170](https://github.com/flutter/flutter/pull/148170) opened on on May 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148170) 91 additions and 3 deletions in 4 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix painting API examples tests directories structure.<br />
-    <sub>[#148177](https://github.com/flutter/flutter/pull/148177) opened on on May 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/148177) 0 additions and 4 deletions in 5 files</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; PageController: added default [duration] and [curve] values to animateToPage, nextPage and previousPage methods<br />
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
@@ -80,17 +71,11 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148574) 122 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Ecosystem team pages<br />
-    <sub>[#148589](https://github.com/flutter/flutter/pull/148589) opened on on May 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148589) 25 additions and 14 deletions in 13 files</sub><br />
-
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds `locale` to `DatePickerThemeData`.<br />
     <sub>[#148599](https://github.com/flutter/flutter/pull/148599) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148599) 173 additions and 4 deletions in 3 files</sub><br />
 
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds `displayFontFamily` and `bodyFontFamily` to TextTheme apply.<br />
     <sub>[#148603](https://github.com/flutter/flutter/pull/148603) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148603) 72 additions and 30 deletions in 2 files</sub><br />
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Update `FocusManager` platform check to include iOS<br />
-    <sub>[#148612](https://github.com/flutter/flutter/pull/148612) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148612) 24 additions and 7 deletions in 2 files</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Fix DecoratedSliver sample code to reflect the description<br />
     <sub>[#148621](https://github.com/flutter/flutter/pull/148621) opened on on May 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148621) 133 additions and 9 deletions in 2 files</sub><br />
@@ -103,7 +88,4 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the no-shuffle tag on the flutter_tools create_test suite<br />
     <sub>[#148688](https://github.com/flutter/flutter/pull/148688) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148688) 0 additions and 6 deletions in 1 file</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Engine team pages<br />
-    <sub>[#148696](https://github.com/flutter/flutter/pull/148696) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148696) 63 additions and 57 deletions in 33 files</sub><br />
 
