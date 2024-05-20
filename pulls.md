@@ -78,7 +78,7 @@
     <sub>[#148603](https://github.com/flutter/flutter/pull/148603) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148603) 72 additions and 30 deletions in 2 files</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Fix DecoratedSliver sample code to reflect the description<br />
-    <sub>[#148621](https://github.com/flutter/flutter/pull/148621) opened on on May 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148621) 133 additions and 9 deletions in 2 files</sub><br />
+    <sub>[#148621](https://github.com/flutter/flutter/pull/148621) opened on on May 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148621) 131 additions and 9 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for restorable_value.0.dart API example.<br />
     <sub>[#148676](https://github.com/flutter/flutter/pull/148676) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148676) 68 additions and 12 deletions in 3 files</sub><br />
