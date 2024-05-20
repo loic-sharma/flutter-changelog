@@ -86,6 +86,3 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for actions.0.dart API example.<br />
     <sub>[#148678](https://github.com/flutter/flutter/pull/148678) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148678) 174 additions and 20 deletions in 3 files</sub><br />
 
-* **[Helin Shiah](https://github.com/helin24)** &mdash; Add frame number and widget location map service extension<br />
-    <sub>[#148702](https://github.com/flutter/flutter/pull/148702) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148702) 110 additions and 8 deletions in 3 files</sub><br />
-
