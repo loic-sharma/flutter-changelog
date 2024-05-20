@@ -566,7 +566,7 @@
 <summary>46 commits...</summary>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots
-    <sub>[#52885](https://github.com/flutter/engine/pull/52885) merged on May 17, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52885) over 1 day, 103 additions and 10 deletions in 4 files</sub>
+    <sub>[#52885](https://github.com/flutter/engine/pull/52885) merged on May 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/52885) over 1 day, 103 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-add `MipFilter::kBase`, but keep `kNearest` as the default.
@@ -583,7 +583,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes MatrixFilterContents rendering/coverage
-    <sub>[#52880](https://github.com/flutter/engine/pull/52880) merged on May 18, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/engine/pull/52880) over 1 day, 387 additions and 56 deletions in 13 files</sub>
+    <sub>[#52880](https://github.com/flutter/engine/pull/52880) merged on May 18, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/52880) over 1 day, 387 additions and 56 deletions in 13 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move libcxx to //flutter/third_party
