@@ -11,7 +11,7 @@
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for tab_controller.1.dart API example.<br />
-    <sub>[#148189](https://github.com/flutter/flutter/pull/148189) merged on May 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148189) over 1 week, 184 additions and 25 deletions in 3 files</sub><br />
+    <sub>[#148189](https://github.com/flutter/flutter/pull/148189) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148189) over 1 week, 184 additions and 25 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for fade_transition.0.dart API example.<br />
