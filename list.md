@@ -4,10 +4,14 @@
 
 ### May 18, 2024 to May 24, 2024
 
-1 commits.
+2 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) merged on May 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147637) over 2 weeks, 135 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for fade_transition.0.dart API example.
+    <sub>[#148178](https://github.com/flutter/flutter/pull/148178) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148178) over 1 week, 124 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 ### May 11, 2024 to May 17, 2024
