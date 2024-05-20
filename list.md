@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-19 commits.
+21 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub>
@@ -23,6 +23,10 @@
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub>
     <sub><details><summary>1 image...</summary>![late initialization error](https://github.com/flutter/flutter/assets/10457200/47dc423f-0dd0-4869-9a11-59cb7d1ea46e)</details></sub>
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea's selection should not be cleared on loss of window focus
+    <sub>[#148067](https://github.com/flutter/flutter/pull/148067) merged on May 20, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/148067) over 1 week, 96 additions and 3 deletions in 6 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.
     <sub>[#147830](https://github.com/flutter/flutter/pull/147830) merged on May 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147830) over 2 weeks, 241 additions and 44 deletions in 5 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
@@ -34,6 +38,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) merged on May 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147637) over 2 weeks, 135 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove add-to-app bitcode warning
+    <sub>[#148587](https://github.com/flutter/flutter/pull/148587) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148587) over 3 days, 1 addition and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Engine team pages
     <sub>[#148696](https://github.com/flutter/flutter/pull/148696) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148696) over 5 hours, 74 additions and 66 deletions in 34 files</sub>
