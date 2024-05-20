@@ -89,3 +89,6 @@
 * **[2-www](https://github.com/2-www)** &mdash; fix installation in container<br />
     <sub>[#148716](https://github.com/flutter/flutter/pull/148716) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148716) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Release team pages<br />
+    <sub>[#148723](https://github.com/flutter/flutter/pull/148723) opened on on May 20, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148723) 171 additions and 168 deletions in 19 files</sub><br />
+
