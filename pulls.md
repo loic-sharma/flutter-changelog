@@ -74,9 +74,6 @@
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; fix slider text null error<br />
     <sub>[#148462](https://github.com/flutter/flutter/pull/148462) opened on on May 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148462) 55 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for image.error_builder.0.dart API example.<br />
-    <sub>[#148497](https://github.com/flutter/flutter/pull/148497) opened on on May 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148497) 49 additions and 1 deletion in 2 files</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
 
