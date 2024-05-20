@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-13 commits.
+15 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub>
@@ -35,12 +35,20 @@
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) merged on May 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147637) over 2 weeks, 135 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the no-shuffle tag on the flutter_tools create_test suite
+    <sub>[#148688](https://github.com/flutter/flutter/pull/148688) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148688) over 2 hours, 0 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Ecosystem team pages
     <sub>[#148589](https://github.com/flutter/flutter/pull/148589) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148589) over 2 days, 25 additions and 14 deletions in 13 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove all tests from a02s. Replace with mokey in bringup
     <sub>[#148563](https://github.com/flutter/flutter/pull/148563) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148563) over 2 days, 12 additions and 43 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; log incoming vm service messages in `FlutterVMService::runInView`
+    <sub>[#148596](https://github.com/flutter/flutter/pull/148596) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148596) over 2 days, 16 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix painting API examples tests directories structure.
