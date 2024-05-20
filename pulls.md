@@ -20,9 +20,6 @@
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
-* **[pearl null](https://github.com/asyncmeow)** &mdash; Fix Flutter project builds under Nix environments on MacOS<br />
-    <sub>[#147144](https://github.com/flutter/flutter/pull/147144) opened on on April 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147144) 8 additions and 0 deletions in 2 files</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add test for focus example 2<br />
     <sub>[#147624](https://github.com/flutter/flutter/pull/147624) opened on on May 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147624) 42 additions and 1 deletion in 2 files</sub><br />
 
@@ -85,4 +82,10 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for actions.0.dart API example.<br />
     <sub>[#148678](https://github.com/flutter/flutter/pull/148678) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148678) 174 additions and 20 deletions in 3 files</sub><br />
+
+* **[2-www](https://github.com/2-www)** &mdash; fix installation in container<br />
+    <sub>[#148716](https://github.com/flutter/flutter/pull/148716) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148716) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fixes incorrect read/write permissions on Flutter.framework and FlutterMacOS.framework<br />
+    <sub>[#148717](https://github.com/flutter/flutter/pull/148717) opened on on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148717) 25 additions and 3 deletions in 6 files</sub><br />
 

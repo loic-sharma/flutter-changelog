@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-15 commits.
+16 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub>
@@ -46,6 +46,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove all tests from a02s. Replace with mokey in bringup
     <sub>[#148563](https://github.com/flutter/flutter/pull/148563) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148563) over 2 days, 12 additions and 43 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fixes incorrect read/write permissions on Flutter.framework and FlutterMacOS.framework
+    <sub>[#148580](https://github.com/flutter/flutter/pull/148580) merged on May 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148580) over 2 days, 25 additions and 3 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; log incoming vm service messages in `FlutterVMService::runInView`
     <sub>[#148596](https://github.com/flutter/flutter/pull/148596) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148596) over 2 days, 16 additions and 0 deletions in 1 file</sub>
