@@ -554,11 +554,15 @@
 
 ### May 18, 2024 to May 24, 2024
 
-4 commits.
+5 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework
     <sub>[#52930](https://github.com/flutter/engine/pull/52930) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52930) over 4 hours, 2 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] write glyphs to malloc buffer.
+    <sub>[#52937](https://github.com/flutter/engine/pull/52937) merged on May 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52937) over 48 minutes, 11 additions and 54 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] leave glyph atlas in transfer dst to improve vulkan throughput.
     <sub>[#52908](https://github.com/flutter/engine/pull/52908) merged on May 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52908) over 2 days, 78 additions and 19 deletions in 10 files</sub>
@@ -1022,7 +1026,17 @@
 
 ### May 18, 2024 to May 24, 2024
 
-1 commits.
+3 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [file_selector]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/file_selector/file_selector_android/android
+    <sub>[#6769](https://github.com/flutter/packages/pull/6769) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6769) over 13 hours, 4 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/in_app_purchase/in_app_purchase_android/android
+    <sub>[#6765](https://github.com/flutter/packages/pull/6765) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6765) over 13 hours, 4 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [url_launcher]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/url_launcher/url_launcher_android/android
     <sub>[#6762](https://github.com/flutter/packages/pull/6762) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6762) over 13 hours, 6 additions and 2 deletions in 3 files</sub>
