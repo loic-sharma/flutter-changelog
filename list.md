@@ -11,7 +11,7 @@
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for image.error_builder.0.dart API example.
-    <sub>[#148497](https://github.com/flutter/flutter/pull/148497) merged on May 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148497) over 3 days, 49 additions and 1 deletion in 2 files</sub>
+    <sub>[#148497](https://github.com/flutter/flutter/pull/148497) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148497) over 3 days, 49 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for tab_controller.1.dart API example.
