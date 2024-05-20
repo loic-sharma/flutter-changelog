@@ -517,7 +517,7 @@
 <summary>46 commits...</summary>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots
-    <sub>[#52885](https://github.com/flutter/engine/pull/52885) merged on May 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/52885) over 1 day, 103 additions and 10 deletions in 4 files</sub>
+    <sub>[#52885](https://github.com/flutter/engine/pull/52885) merged on May 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52885) over 1 day, 103 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-add `MipFilter::kBase`, but keep `kNearest` as the default.

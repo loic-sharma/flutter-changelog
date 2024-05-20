@@ -104,3 +104,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for actions.0.dart API example.<br />
     <sub>[#148678](https://github.com/flutter/flutter/pull/148678) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148678) 174 additions and 20 deletions in 3 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the no-shuffle tag on the flutter_tools create_test suite<br />
+    <sub>[#148688](https://github.com/flutter/flutter/pull/148688) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148688) 0 additions and 6 deletions in 1 file</sub><br />
+
