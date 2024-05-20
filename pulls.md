@@ -12,7 +12,7 @@
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
-    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/140284) 155 additions and 11 deletions in 4 files</sub><br />
+    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/140284) 155 additions and 11 deletions in 4 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add animation for menus<br />
     <sub>[#143416](https://github.com/flutter/flutter/pull/143416) opened on on February 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/143416) 694 additions and 122 deletions in 12 files</sub><br />
@@ -85,4 +85,7 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for actions.0.dart API example.<br />
     <sub>[#148678](https://github.com/flutter/flutter/pull/148678) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148678) 174 additions and 20 deletions in 3 files</sub><br />
+
+* **[Helin Shiah](https://github.com/helin24)** &mdash; Add frame number and widget location map service extension<br />
+    <sub>[#148702](https://github.com/flutter/flutter/pull/148702) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148702) 110 additions and 8 deletions in 3 files</sub><br />
 
