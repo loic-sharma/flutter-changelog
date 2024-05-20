@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-16 commits.
+19 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub>
@@ -34,6 +34,18 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) merged on May 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147637) over 2 weeks, 135 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Engine team pages
+    <sub>[#148696](https://github.com/flutter/flutter/pull/148696) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148696) over 5 hours, 74 additions and 66 deletions in 34 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual roll camera dependency
+    <sub>[#148426](https://github.com/flutter/flutter/pull/148426) merged on May 20, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/148426) over 5 days, 116 additions and 13 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Framework team pages
+    <sub>[#148721](https://github.com/flutter/flutter/pull/148721) merged on May 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148721) over 52 minutes, 14 additions and 10 deletions in 9 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the no-shuffle tag on the flutter_tools create_test suite
     <sub>[#148688](https://github.com/flutter/flutter/pull/148688) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148688) over 2 hours, 0 additions and 6 deletions in 1 file</sub>
