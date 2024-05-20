@@ -554,7 +554,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-3 commits.
+4 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework
     <sub>[#52930](https://github.com/flutter/engine/pull/52930) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52930) over 4 hours, 2 additions and 0 deletions in 1 file</sub>
@@ -562,6 +562,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] leave glyph atlas in transfer dst to improve vulkan throughput.
     <sub>[#52908](https://github.com/flutter/engine/pull/52908) merged on May 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52908) over 2 days, 78 additions and 19 deletions in 10 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix use-after-move in SwapchainVK.
+    <sub>[#52933](https://github.com/flutter/engine/pull/52933) merged on May 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52933) over 3 hours, 3 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 3c8718d827b5 to 54c384453207 (2 revisions)
@@ -1016,9 +1020,19 @@
 
 ## flutter/packages
 
+### May 18, 2024 to May 24, 2024
+
+1 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [url_launcher]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/url_launcher/url_launcher_android/android
+    <sub>[#6762](https://github.com/flutter/packages/pull/6762) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6762) over 13 hours, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
 ### May 11, 2024 to May 17, 2024
 
-18 commits.
+<details>
+<summary>18 commits...</summary>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [two_dimensional_scrollables] TreeView
     <sub>[#6592](https://github.com/flutter/packages/pull/6592) merged on May 16, 2024 &mdash; **Extra large:** [123 comments](https://github.com/flutter/packages/pull/6592) over 3 weeks, 5812 additions and 185 deletions in 38 files</sub>
@@ -1091,6 +1105,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 54e66469a933 to 5dcb86f68f23 (1402 revisions)
     <sub>[#6727](https://github.com/flutter/packages/pull/6727) merged on May 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6727) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### May 4, 2024 to May 10, 2024
 

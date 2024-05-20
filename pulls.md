@@ -69,7 +69,7 @@
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148574) 122 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove add-to-app bitcode warning<br />
-    <sub>[#148587](https://github.com/flutter/flutter/pull/148587) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148587) 1 addition and 10 deletions in 2 files</sub><br />
+    <sub>[#148587](https://github.com/flutter/flutter/pull/148587) opened on on May 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148587) 1 addition and 10 deletions in 2 files</sub><br />
 
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds `locale` to `DatePickerThemeData`.<br />
     <sub>[#148599](https://github.com/flutter/flutter/pull/148599) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148599) 173 additions and 4 deletions in 3 files</sub><br />
