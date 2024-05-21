@@ -659,8 +659,8 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove --trace-gn from ./flutter/tools/gn
-    <sub>[#52964](https://github.com/flutter/engine/pull/52964) merged on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52964) over 50 minutes, 1 addition and 11 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub>[#52964](https://github.com/flutter/engine/pull/52964) merged on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52964) over 50 minutes, 1 addition and 11 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove unused GN flags.
     <sub>[#52962](https://github.com/flutter/engine/pull/52962) merged on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52962) over 48 minutes, 14 additions and 85 deletions in 4 files</sub>
