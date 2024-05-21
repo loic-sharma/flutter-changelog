@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-27 commits.
+28 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events<br />
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` expressions: finale<br />
     <sub>[#148711](https://github.com/flutter/flutter/pull/148711) merged on May 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/148711) over 19 hours, 214 additions and 466 deletions in 22 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Adds Missing `onHover` & `onFocusChange` for `OutlinedButton.icon`<br />
+    <sub>[#144374](https://github.com/flutter/flutter/pull/144374) merged on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144374) over 2 months, 175 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [iOS] specify minimum os version for native asset frameworks<br />
     <sub>[#148504](https://github.com/flutter/flutter/pull/148504) merged on May 21, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/148504) over 4 days, 76 additions and 8 deletions in 3 files</sub><br />
