@@ -613,7 +613,7 @@
 7 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework<br />
-    <sub>[#52930](https://github.com/flutter/engine/pull/52930) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52930) over 4 hours, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#52930](https://github.com/flutter/engine/pull/52930) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52930) over 4 hours, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Refactor HtmlImageCodec to generalize to different renderers<br />
