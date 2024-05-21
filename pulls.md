@@ -83,6 +83,3 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix RenderFlex's baseline calculation with verticalDirection.up and Axis.vertical<br />
     <sub>[#148800](https://github.com/flutter/flutter/pull/148800) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148800) 40 additions and 4 deletions in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Try removing robolectric from `integration_test` tests<br />
-    <sub>[#148803](https://github.com/flutter/flutter/pull/148803) opened on on May 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/148803) 29 additions and 596 deletions in 6 files</sub><br />
-
