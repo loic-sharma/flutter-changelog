@@ -86,3 +86,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Improve `CupertinoCheckbox`'s fidelity and customizability<br />
     <sub>[#148804](https://github.com/flutter/flutter/pull/148804) opened on on May 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148804) 686 additions and 37 deletions in 5 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Make hover tests functional and cleanup mouse pointers in Material toggleables<br />
+    <sub>[#148808](https://github.com/flutter/flutter/pull/148808) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148808) 31 additions and 1 deletion in 3 files</sub><br />
+
