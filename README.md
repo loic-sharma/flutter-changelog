@@ -647,7 +647,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-13 commits.
+14 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland `Fixes MatrixFilterContents rendering/coverage #52880`<br />
     <sub>[#52939](https://github.com/flutter/engine/pull/52939) merged on May 21, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/52939) over 20 hours, 415 additions and 57 deletions in 15 files</sub><br />
@@ -665,6 +665,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Refactor HtmlImageCodec to generalize to different renderers<br />
     <sub>[#52905](https://github.com/flutter/engine/pull/52905) merged on May 20, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/52905) over 3 days, 644 additions and 586 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework bundle<br />
+    <sub>[#52961](https://github.com/flutter/engine/pull/52961) merged on May 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52961) over 4 hours, 27 additions and 22 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove check_licenses.py<br />
     <sub>[#52970](https://github.com/flutter/engine/pull/52970) merged on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52970) over 1 hour, 0 additions and 77 deletions in 2 files</sub><br />
