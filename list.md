@@ -1136,7 +1136,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-3 commits.
+4 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [file_selector]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/file_selector/file_selector_android/android
     <sub>[#6769](https://github.com/flutter/packages/pull/6769) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6769) over 13 hours, 4 additions and 3 deletions in 3 files</sub>
@@ -1152,6 +1152,10 @@
     <sub>[#6762](https://github.com/flutter/packages/pull/6762) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6762) over 13 hours, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Remove use of OCMock
+    <sub>[#6757](https://github.com/flutter/packages/pull/6757) merged on May 21, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/6757) over 3 days, 217 additions and 232 deletions in 6 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 ### May 11, 2024 to May 17, 2024
 
