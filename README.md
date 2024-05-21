@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-22 commits.
+23 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events<br />
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.<br />
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) merged on May 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147637) over 2 weeks, 135 additions and 3 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Skip flaky test in expression_evaluation_test.dart<br />
+    <sub>[#148737](https://github.com/flutter/flutter/pull/148737) merged on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148737) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove add-to-app bitcode warning<br />
     <sub>[#148587](https://github.com/flutter/flutter/pull/148587) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148587) over 3 days, 1 addition and 10 deletions in 2 files</sub><br />
