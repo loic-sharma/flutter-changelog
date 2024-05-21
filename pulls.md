@@ -24,7 +24,7 @@
     <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147733) 73 additions and 2 deletions in 3 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
-    <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/147774) 270 additions and 77 deletions in 5 files</sub><br />
+    <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/147774) 270 additions and 77 deletions in 5 files</sub><br />
 
 * **[Jam M. Hernandez Quiceno](https://github.com/JamMarHer)** &mdash; Limit flutter service worker cache to flutter resources.<br />
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
@@ -43,9 +43,6 @@
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test raw autocomplete api examples<br />
     <sub>[#148234](https://github.com/flutter/flutter/pull/148234) opened on on May 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148234) 275 additions and 4 deletions in 5 files</sub><br />
-
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#148245](https://github.com/flutter/flutter/pull/148245) opened on on May 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148245) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test remaining transitions api examples<br />
     <sub>[#148302](https://github.com/flutter/flutter/pull/148302) opened on on May 14, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/148302) 563 additions and 14 deletions in 15 files</sub><br />

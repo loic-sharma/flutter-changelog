@@ -4,11 +4,15 @@
 
 ### May 18, 2024 to May 24, 2024
 
-23 commits.
+25 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [iOS] specify minimum os version for native asset frameworks
+    <sub>[#148504](https://github.com/flutter/flutter/pull/148504) merged on May 21, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/148504) over 4 days, 76 additions and 8 deletions in 3 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement new `AnimationStatus` getters
     <sub>[#148570](https://github.com/flutter/flutter/pull/148570) merged on May 20, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/148570) over 2 days, 221 additions and 384 deletions in 53 files</sub>
@@ -70,6 +74,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove all tests from a02s. Replace with mokey in bringup
     <sub>[#148563](https://github.com/flutter/flutter/pull/148563) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148563) over 2 days, 12 additions and 43 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Removed brand references from MenuAnchor.dart
+    <sub>[#148760](https://github.com/flutter/flutter/pull/148760) merged on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148760) over 2 hours, 3 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout (more).
     <sub>[#148095](https://github.com/flutter/flutter/pull/148095) merged on May 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148095) over 1 week, 5 additions and 2 deletions in 2 files</sub>
