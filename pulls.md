@@ -74,9 +74,6 @@
 * **[2-www](https://github.com/2-www)** &mdash; fix installation in container<br />
     <sub>[#148716](https://github.com/flutter/flutter/pull/148716) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148716) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Release team pages<br />
-    <sub>[#148723](https://github.com/flutter/flutter/pull/148723) opened on on May 20, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/148723) 171 additions and 169 deletions in 19 files</sub><br />
-
 * **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
     <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
 
@@ -91,4 +88,7 @@
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; `CupertinoDialogRoute` leak fix<br />
     <sub>[#148774](https://github.com/flutter/flutter/pull/148774) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148774) 74 additions and 18 deletions in 2 files</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Tool team pages<br />
+    <sub>[#148779](https://github.com/flutter/flutter/pull/148779) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148779) 18 additions and 12 deletions in 8 files</sub><br />
 
