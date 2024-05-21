@@ -84,11 +84,5 @@
     <sub>[#148800](https://github.com/flutter/flutter/pull/148800) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148800) 40 additions and 4 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Try removing robolectric from `integration_test` tests<br />
-    <sub>[#148803](https://github.com/flutter/flutter/pull/148803) opened on on May 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148803) 29 additions and 596 deletions in 6 files</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Improve `CupertinoCheckbox`'s fidelity and customizability<br />
-    <sub>[#148804](https://github.com/flutter/flutter/pull/148804) opened on on May 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148804) 686 additions and 37 deletions in 5 files</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Make hover tests functional and cleanup mouse pointers in Material toggleables<br />
-    <sub>[#148808](https://github.com/flutter/flutter/pull/148808) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148808) 31 additions and 1 deletion in 3 files</sub><br />
+    <sub>[#148803](https://github.com/flutter/flutter/pull/148803) opened on on May 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/148803) 29 additions and 596 deletions in 6 files</sub><br />
 
