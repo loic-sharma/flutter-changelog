@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-34 commits.
+35 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events<br />
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub><br />
@@ -30,6 +30,10 @@
     <sub>[#148570](https://github.com/flutter/flutter/pull/148570) merged on May 20, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/148570) over 2 days, 221 additions and 384 deletions in 53 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add DropdownButton.menuWidth<br />
+    <sub>[#148125](https://github.com/flutter/flutter/pull/148125) merged on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148125) over 1 week, 67 additions and 18 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoModalPopupRoute`<br />
     <sub>[#147823](https://github.com/flutter/flutter/pull/147823) merged on May 20, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147823) over 2 weeks, 37 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
@@ -47,13 +51,13 @@
     <sub>[#147830](https://github.com/flutter/flutter/pull/147830) merged on May 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147830) over 2 weeks, 241 additions and 44 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea's selection should not be cleared on loss of window focus<br />
-    <sub>[#148067](https://github.com/flutter/flutter/pull/148067) merged on May 20, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/148067) over 1 week, 96 additions and 3 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add test for focus example 2<br />
     <sub>[#147624](https://github.com/flutter/flutter/pull/147624) merged on May 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147624) over 2 weeks, 42 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea's selection should not be cleared on loss of window focus<br />
+    <sub>[#148067](https://github.com/flutter/flutter/pull/148067) merged on May 20, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/148067) over 1 week, 96 additions and 3 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for logical_key_set.0.dart API example.<br />
     <sub>[#147735](https://github.com/flutter/flutter/pull/147735) merged on May 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/147735) over 2 weeks, 118 additions and 1 deletion in 2 files</sub><br />
@@ -91,13 +95,13 @@
     <sub>[#148688](https://github.com/flutter/flutter/pull/148688) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148688) over 2 hours, 0 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Ecosystem team pages<br />
-    <sub>[#148589](https://github.com/flutter/flutter/pull/148589) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148589) over 2 days, 25 additions and 14 deletions in 13 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove all tests from a02s. Replace with mokey in bringup<br />
     <sub>[#148563](https://github.com/flutter/flutter/pull/148563) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148563) over 2 days, 12 additions and 43 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Ecosystem team pages<br />
+    <sub>[#148589](https://github.com/flutter/flutter/pull/148589) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148589) over 2 days, 25 additions and 14 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on LocalProcessManager<br />
     <sub>[#148096](https://github.com/flutter/flutter/pull/148096) merged on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148096) over 1 week, 20 additions and 1 deletion in 3 files</sub><br />
@@ -116,7 +120,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fixes incorrect read/write permissions on Flutter.framework and FlutterMacOS.framework<br />
-    <sub>[#148580](https://github.com/flutter/flutter/pull/148580) merged on May 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148580) over 2 days, 25 additions and 3 deletions in 6 files</sub><br />
+    <sub>[#148580](https://github.com/flutter/flutter/pull/148580) merged on May 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148580) over 2 days, 25 additions and 3 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; log incoming vm service messages in `FlutterVMService::runInView`<br />
@@ -626,7 +630,12 @@
 
 ### May 18, 2024 to May 24, 2024
 
-8 commits.
+9 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland `Fixes MatrixFilterContents rendering/coverage #52880`<br />
+    <sub>[#52939](https://github.com/flutter/engine/pull/52939) merged on May 21, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/52939) over 20 hours, 415 additions and 57 deletions in 15 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+    <sub><details><summary>1 image...</summary>![widgets widgets magnifier styled](https://github.com/flutter/engine/assets/30870216/d4611586-90f7-4d3e-90d8-018dd678d028)</details></sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework<br />
     <sub>[#52930](https://github.com/flutter/engine/pull/52930) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52930) over 4 hours, 2 additions and 0 deletions in 1 file</sub><br />
