@@ -96,5 +96,5 @@
     <sub>[#148741](https://github.com/flutter/flutter/pull/148741) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148741) 17 additions and 19 deletions in 4 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Run native assets integration tests on iOS simulator<br />
-    <sub>[#148752](https://github.com/flutter/flutter/pull/148752) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148752) 48 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#148752](https://github.com/flutter/flutter/pull/148752) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148752) 62 additions and 2 deletions in 1 file</sub><br />
 
