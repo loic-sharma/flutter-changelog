@@ -574,11 +574,15 @@
 
 ### May 18, 2024 to May 24, 2024
 
-5 commits.
+6 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework<br />
     <sub>[#52930](https://github.com/flutter/engine/pull/52930) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52930) over 4 hours, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Refactor HtmlImageCodec to generalize to different renderers<br />
+    <sub>[#52905](https://github.com/flutter/engine/pull/52905) merged on May 20, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/52905) over 3 days, 644 additions and 586 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] write glyphs to malloc buffer.<br />
     <sub>[#52937](https://github.com/flutter/engine/pull/52937) merged on May 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52937) over 48 minutes, 11 additions and 54 deletions in 1 file</sub><br />
