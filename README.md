@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-21 commits.
+22 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events<br />
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub><br />
@@ -66,6 +66,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove all tests from a02s. Replace with mokey in bringup<br />
     <sub>[#148563](https://github.com/flutter/flutter/pull/148563) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148563) over 2 days, 12 additions and 43 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Make FileSystem dependency explicit througout (more).<br />
+    <sub>[#148095](https://github.com/flutter/flutter/pull/148095) merged on May 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148095) over 1 week, 5 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fixes incorrect read/write permissions on Flutter.framework and FlutterMacOS.framework<br />
     <sub>[#148580](https://github.com/flutter/flutter/pull/148580) merged on May 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148580) over 2 days, 25 additions and 3 deletions in 6 files</sub><br />
