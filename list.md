@@ -1136,7 +1136,11 @@
 
 ### May 18, 2024 to May 24, 2024
 
-4 commits.
+5 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [interactive_media_ads] Add SPM support
+    <sub>[#6756](https://github.com/flutter/packages/pull/6756) merged on May 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6756) over 4 days, 35 additions and 3 deletions in 6 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [file_selector]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/file_selector/file_selector_android/android
     <sub>[#6769](https://github.com/flutter/packages/pull/6769) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6769) over 13 hours, 4 additions and 3 deletions in 3 files</sub>
