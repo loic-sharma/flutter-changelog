@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-31 commits.
+32 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events<br />
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; fixes `CupertinoModalPopupRoute`<br />
     <sub>[#147823](https://github.com/flutter/flutter/pull/147823) merged on May 20, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147823) over 2 weeks, 37 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Infra team pages<br />
+    <sub>[#148718](https://github.com/flutter/flutter/pull/148718) merged on May 21, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/148718) over 20 hours, 66 additions and 57 deletions in 20 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Reland "`if` chains → `switch` expressions"<br />
     <sub>[#148634](https://github.com/flutter/flutter/pull/148634) merged on May 20, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148634) over 1 day, 194 additions and 297 deletions in 33 files</sub><br />
