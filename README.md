@@ -4,11 +4,15 @@
 
 ### May 18, 2024 to May 24, 2024
 
-25 commits.
+26 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events<br />
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` expressions: finale<br />
+    <sub>[#148711](https://github.com/flutter/flutter/pull/148711) merged on May 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/148711) over 19 hours, 214 additions and 466 deletions in 22 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [iOS] specify minimum os version for native asset frameworks<br />
     <sub>[#148504](https://github.com/flutter/flutter/pull/148504) merged on May 21, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/148504) over 4 days, 76 additions and 8 deletions in 3 files</sub><br />
@@ -84,7 +88,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fixes incorrect read/write permissions on Flutter.framework and FlutterMacOS.framework<br />
-    <sub>[#148580](https://github.com/flutter/flutter/pull/148580) merged on May 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148580) over 2 days, 25 additions and 3 deletions in 6 files</sub><br />
+    <sub>[#148580](https://github.com/flutter/flutter/pull/148580) merged on May 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148580) over 2 days, 25 additions and 3 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; log incoming vm service messages in `FlutterVMService::runInView`<br />
