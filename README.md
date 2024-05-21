@@ -574,7 +574,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-6 commits.
+7 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework<br />
     <sub>[#52930](https://github.com/flutter/engine/pull/52930) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52930) over 4 hours, 2 additions and 0 deletions in 1 file</sub><br />
@@ -595,6 +595,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix use-after-move in SwapchainVK.<br />
     <sub>[#52933](https://github.com/flutter/engine/pull/52933) merged on May 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52933) over 3 hours, 3 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Remove Entity capture/AiksInspector.<br />
+    <sub>[#52932](https://github.com/flutter/engine/pull/52932) merged on May 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/52932) over 7 hours, 33 additions and 1008 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 3c8718d827b5 to 54c384453207 (2 revisions)<br />
     <sub>[#52927](https://github.com/flutter/engine/pull/52927) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52927) over 43 minutes, 4 additions and 4 deletions in 3 files</sub><br />
