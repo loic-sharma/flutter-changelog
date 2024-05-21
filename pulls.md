@@ -98,3 +98,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [iOS] fix hot restart with native assets<br />
     <sub>[#148752](https://github.com/flutter/flutter/pull/148752) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148752) 75 additions and 7 deletions in 2 files</sub><br />
 
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Removed brand references from MenuAnchor.dart<br />
+    <sub>[#148760](https://github.com/flutter/flutter/pull/148760) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148760) 3 additions and 3 deletions in 1 file</sub><br />
+
