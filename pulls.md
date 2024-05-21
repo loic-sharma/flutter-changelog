@@ -92,3 +92,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [iOS] fix hot restart with native assets<br />
     <sub>[#148752](https://github.com/flutter/flutter/pull/148752) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148752) 75 additions and 7 deletions in 2 files</sub><br />
 
+* **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call<br />
+    <sub>[#148767](https://github.com/flutter/flutter/pull/148767) opened on on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148767) 7 additions and 1 deletion in 1 file</sub><br />
+
