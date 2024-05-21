@@ -89,3 +89,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Skip flaky test in expression_evaluation_test.dart<br />
     <sub>[#148737](https://github.com/flutter/flutter/pull/148737) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148737) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
+    <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
+
