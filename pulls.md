@@ -83,9 +83,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app<br />
     <sub>[#148741](https://github.com/flutter/flutter/pull/148741) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148741) 17 additions and 19 deletions in 4 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [iOS] fix hot restart with native assets<br />
-    <sub>[#148752](https://github.com/flutter/flutter/pull/148752) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148752) 75 additions and 7 deletions in 2 files</sub><br />
-
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call<br />
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) opened on on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148767) 7 additions and 1 deletion in 1 file</sub><br />
 
@@ -93,5 +90,5 @@
     <sub>[#148773](https://github.com/flutter/flutter/pull/148773) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148773) 21 additions and 4 deletions in 3 files</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; `CupertinoDialogRoute` leak fix<br />
-    <sub>[#148774](https://github.com/flutter/flutter/pull/148774) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148774) 74 additions and 18 deletions in 2 files</sub><br />
+    <sub>[#148774](https://github.com/flutter/flutter/pull/148774) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148774) 74 additions and 18 deletions in 2 files</sub><br />
 
