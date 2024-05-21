@@ -1140,7 +1140,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [interactive_media_ads] Add SPM support
     <sub>[#6756](https://github.com/flutter/packages/pull/6756) merged on May 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6756) over 4 days, 35 additions and 3 deletions in 6 files</sub>
@@ -1160,6 +1160,10 @@
     <sub>[#6762](https://github.com/flutter/packages/pull/6762) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6762) over 13 hours, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Hashir Shoaib](https://github.com/hashirshoaeb)** &mdash; [go_router] New feature improve debug full path
+    <sub>[#6714](https://github.com/flutter/packages/pull/6714) merged on May 21, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6714) over 1 week, 78 additions and 19 deletions in 7 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Remove use of OCMock
     <sub>[#6757](https://github.com/flutter/packages/pull/6757) merged on May 21, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/6757) over 3 days, 217 additions and 232 deletions in 6 files</sub>
