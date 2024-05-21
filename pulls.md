@@ -78,7 +78,7 @@
     <sub>[#148723](https://github.com/flutter/flutter/pull/148723) opened on on May 20, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/148723) 171 additions and 169 deletions in 19 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
-    <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app<br />
     <sub>[#148741](https://github.com/flutter/flutter/pull/148741) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148741) 17 additions and 19 deletions in 4 files</sub><br />
@@ -91,4 +91,7 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on HttpClient<br />
     <sub>[#148773](https://github.com/flutter/flutter/pull/148773) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148773) 21 additions and 4 deletions in 3 files</sub><br />
+
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; `CupertinoDialogRoute` leak fix<br />
+    <sub>[#148774](https://github.com/flutter/flutter/pull/148774) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148774) 74 additions and 18 deletions in 2 files</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-28 commits.
+29 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub>
@@ -82,6 +82,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove all tests from a02s. Replace with mokey in bringup
     <sub>[#148563](https://github.com/flutter/flutter/pull/148563) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148563) over 2 days, 12 additions and 43 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on LocalProcessManager
+    <sub>[#148096](https://github.com/flutter/flutter/pull/148096) merged on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148096) over 1 week, 20 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Adds tests to NestedScrollView examples
     <sub>[#148170](https://github.com/flutter/flutter/pull/148170) merged on May 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148170) over 1 week, 91 additions and 3 deletions in 4 files</sub>
