@@ -83,9 +83,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Release team pages<br />
     <sub>[#148723](https://github.com/flutter/flutter/pull/148723) opened on on May 20, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148723) 171 additions and 168 deletions in 19 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix the output of the CDN test.<br />
-    <sub>[#148730](https://github.com/flutter/flutter/pull/148730) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148730) 17 additions and 13 deletions in 1 file</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Skip flaky test in expression_evaluation_test.dart<br />
     <sub>[#148737](https://github.com/flutter/flutter/pull/148737) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148737) 1 addition and 1 deletion in 1 file</sub><br />
 
