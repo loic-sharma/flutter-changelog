@@ -86,9 +86,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on HttpClient<br />
     <sub>[#148773](https://github.com/flutter/flutter/pull/148773) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148773) 21 additions and 4 deletions in 3 files</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; `CupertinoDialogRoute` leak fix<br />
-    <sub>[#148774](https://github.com/flutter/flutter/pull/148774) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148774) 74 additions and 18 deletions in 2 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Tool team pages<br />
     <sub>[#148779](https://github.com/flutter/flutter/pull/148779) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148779) 18 additions and 12 deletions in 8 files</sub><br />
 
