@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-32 commits.
+34 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events<br />
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` expressions: finale<br />
     <sub>[#148711](https://github.com/flutter/flutter/pull/148711) merged on May 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/148711) over 19 hours, 214 additions and 466 deletions in 22 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a migrator to remove `FlutterMultiDexApplication.java`<br />
+    <sub>[#148515](https://github.com/flutter/flutter/pull/148515) merged on May 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148515) over 4 days, 88 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Adds Missing `onHover` & `onFocusChange` for `OutlinedButton.icon`<br />
     <sub>[#144374](https://github.com/flutter/flutter/pull/144374) merged on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/144374) over 2 months, 175 additions and 0 deletions in 2 files</sub><br />
@@ -39,12 +43,16 @@
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
     <sub><details><summary>1 image...</summary>![late initialization error](https://github.com/flutter/flutter/assets/10457200/47dc423f-0dd0-4869-9a11-59cb7d1ea46e)</details></sub>
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.<br />
+    <sub>[#147830](https://github.com/flutter/flutter/pull/147830) merged on May 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147830) over 2 weeks, 241 additions and 44 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea's selection should not be cleared on loss of window focus<br />
     <sub>[#148067](https://github.com/flutter/flutter/pull/148067) merged on May 20, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/148067) over 1 week, 96 additions and 3 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.<br />
-    <sub>[#147830](https://github.com/flutter/flutter/pull/147830) merged on May 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147830) over 2 weeks, 241 additions and 44 deletions in 5 files</sub><br />
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add test for focus example 2<br />
+    <sub>[#147624](https://github.com/flutter/flutter/pull/147624) merged on May 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147624) over 2 weeks, 42 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for logical_key_set.0.dart API example.<br />
@@ -91,10 +99,6 @@
     <sub>[#148563](https://github.com/flutter/flutter/pull/148563) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148563) over 2 days, 12 additions and 43 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix the output of the CDN test.<br />
-    <sub>[#148730](https://github.com/flutter/flutter/pull/148730) merged on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148730) over 16 hours, 31 additions and 28 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on LocalProcessManager<br />
     <sub>[#148096](https://github.com/flutter/flutter/pull/148096) merged on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148096) over 1 week, 20 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -134,6 +138,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for fade_transition.0.dart API example.<br />
     <sub>[#148178](https://github.com/flutter/flutter/pull/148178) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148178) over 1 week, 124 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix the output of the CDN test.<br />
+    <sub>[#148730](https://github.com/flutter/flutter/pull/148730) merged on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148730) over 16 hours, 31 additions and 28 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 ### May 11, 2024 to May 17, 2024
 
