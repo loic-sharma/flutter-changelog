@@ -80,9 +80,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Tool team pages<br />
     <sub>[#148779](https://github.com/flutter/flutter/pull/148779) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148779) 18 additions and 12 deletions in 8 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove an assert with false positives<br />
-    <sub>[#148795](https://github.com/flutter/flutter/pull/148795) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148795) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix RenderFlex's baseline calculation with verticalDirection.up and Axis.vertical<br />
     <sub>[#148800](https://github.com/flutter/flutter/pull/148800) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148800) 40 additions and 4 deletions in 2 files</sub><br />
 
