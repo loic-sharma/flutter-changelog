@@ -30,7 +30,7 @@
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; Feat add default flavor<br />
-    <sub>[#147968](https://github.com/flutter/flutter/pull/147968) opened on on May 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/147968) 82 additions and 2 deletions in 4 files</sub><br />
+    <sub>[#147968](https://github.com/flutter/flutter/pull/147968) opened on on May 8, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/147968) 82 additions and 2 deletions in 4 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold.0.dart and scaffold.2.dart<br />
     <sub>[#148166](https://github.com/flutter/flutter/pull/148166) opened on on May 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148166) 55 additions and 2 deletions in 4 files</sub><br />
