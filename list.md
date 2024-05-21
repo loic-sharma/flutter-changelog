@@ -639,7 +639,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-10 commits.
+11 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland `Fixes MatrixFilterContents rendering/coverage #52880`
     <sub>[#52939](https://github.com/flutter/engine/pull/52939) merged on May 21, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/52939) over 20 hours, 415 additions and 57 deletions in 15 files</sub>
@@ -657,6 +657,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Refactor HtmlImageCodec to generalize to different renderers
     <sub>[#52905](https://github.com/flutter/engine/pull/52905) merged on May 20, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/52905) over 3 days, 644 additions and 586 deletions in 14 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove --trace-gn from ./flutter/tools/gn
+    <sub>[#52964](https://github.com/flutter/engine/pull/52964) merged on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52964) over 50 minutes, 1 addition and 11 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove unused GN flags.
     <sub>[#52962](https://github.com/flutter/engine/pull/52962) merged on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52962) over 48 minutes, 14 additions and 85 deletions in 4 files</sub>

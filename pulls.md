@@ -69,7 +69,7 @@
     <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app<br />
-    <sub>[#148741](https://github.com/flutter/flutter/pull/148741) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148741) 17 additions and 19 deletions in 4 files</sub><br />
+    <sub>[#148741](https://github.com/flutter/flutter/pull/148741) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148741) 16 additions and 18 deletions in 5 files</sub><br />
 
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call<br />
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) opened on on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148767) 44 additions and 1 deletion in 2 files</sub><br />
@@ -79,7 +79,4 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Tool team pages<br />
     <sub>[#148779](https://github.com/flutter/flutter/pull/148779) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148779) 18 additions and 12 deletions in 8 files</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update tokens to 4.0.0<br />
-    <sub>[#148789](https://github.com/flutter/flutter/pull/148789) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148789) 99 additions and 121 deletions in 64 files</sub><br />
 
