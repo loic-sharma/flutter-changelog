@@ -14,9 +14,6 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/140284) 155 additions and 11 deletions in 4 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add animation for menus<br />
-    <sub>[#143416](https://github.com/flutter/flutter/pull/143416) opened on on February 14, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/143416) 694 additions and 122 deletions in 12 files</sub><br />
-
 * **[Shahriar Nasim Nafi](https://github.com/SNNafi)** &mdash; Handle cases when activity-alias is used in AndroidManifest.xml<br />
     <sub>[#146548](https://github.com/flutter/flutter/pull/146548) opened on on April 10, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/146548) 533 additions and 2 deletions in 2 files</sub><br />
 
@@ -84,5 +81,8 @@
     <sub>[#148716](https://github.com/flutter/flutter/pull/148716) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148716) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Release team pages<br />
-    <sub>[#148723](https://github.com/flutter/flutter/pull/148723) opened on on May 20, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148723) 171 additions and 168 deletions in 19 files</sub><br />
+    <sub>[#148723](https://github.com/flutter/flutter/pull/148723) opened on on May 20, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148723) 171 additions and 168 deletions in 19 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix the output of the CDN test.<br />
+    <sub>[#148730](https://github.com/flutter/flutter/pull/148730) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148730) 17 additions and 13 deletions in 1 file</sub><br />
 
