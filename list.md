@@ -4,7 +4,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-26 commits.
+27 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub>
@@ -78,6 +78,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove all tests from a02s. Replace with mokey in bringup
     <sub>[#148563](https://github.com/flutter/flutter/pull/148563) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148563) over 2 days, 12 additions and 43 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Adds tests to NestedScrollView examples
+    <sub>[#148170](https://github.com/flutter/flutter/pull/148170) merged on May 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148170) over 1 week, 91 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Removed brand references from MenuAnchor.dart
     <sub>[#148760](https://github.com/flutter/flutter/pull/148760) merged on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148760) over 2 hours, 3 additions and 3 deletions in 1 file</sub>

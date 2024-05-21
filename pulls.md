@@ -35,9 +35,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold.0.dart and scaffold.2.dart<br />
     <sub>[#148166](https://github.com/flutter/flutter/pull/148166) opened on on May 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148166) 55 additions and 2 deletions in 4 files</sub><br />
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Adds tests to NestedScrollView examples<br />
-    <sub>[#148170](https://github.com/flutter/flutter/pull/148170) opened on on May 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148170) 91 additions and 3 deletions in 4 files</sub><br />
-
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; PageController: added default [duration] and [curve] values to animateToPage, nextPage and previousPage methods<br />
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
@@ -78,7 +75,7 @@
     <sub>[#148716](https://github.com/flutter/flutter/pull/148716) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148716) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Release team pages<br />
-    <sub>[#148723](https://github.com/flutter/flutter/pull/148723) opened on on May 20, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148723) 171 additions and 168 deletions in 19 files</sub><br />
+    <sub>[#148723](https://github.com/flutter/flutter/pull/148723) opened on on May 20, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148723) 172 additions and 169 deletions in 19 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
     <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
@@ -91,4 +88,7 @@
 
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call<br />
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) opened on on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148767) 7 additions and 1 deletion in 1 file</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependencies on HttpClient<br />
+    <sub>[#148773](https://github.com/flutter/flutter/pull/148773) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148773) 21 additions and 4 deletions in 3 files</sub><br />
 
