@@ -145,7 +145,7 @@
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update tokens to 4.0.0<br />
-    <sub>[#148789](https://github.com/flutter/flutter/pull/148789) merged on May 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148789) over 20 hours, 99 additions and 122 deletions in 64 files</sub><br />
+    <sub>[#148789](https://github.com/flutter/flutter/pull/148789) merged on May 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148789) over 20 hours, 99 additions and 122 deletions in 64 files</sub><br />
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; `CupertinoDialogRoute` leak fix<br />
