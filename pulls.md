@@ -71,9 +71,6 @@
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call<br />
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) opened on on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148767) 44 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Tool team pages<br />
-    <sub>[#148779](https://github.com/flutter/flutter/pull/148779) opened on on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148779) 26 additions and 12 deletions in 8 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions<br />
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) opened on on May 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148786) 42 additions and 8 deletions in 2 files</sub><br />
 
