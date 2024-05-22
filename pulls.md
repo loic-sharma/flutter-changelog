@@ -47,9 +47,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148574) 122 additions and 0 deletions in 2 files</sub><br />
 
-* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds `locale` to `DatePickerThemeData`.<br />
-    <sub>[#148599](https://github.com/flutter/flutter/pull/148599) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148599) 173 additions and 4 deletions in 3 files</sub><br />
-
 * **[huycozy](https://github.com/huycozy)** &mdash; Fix DecoratedSliver sample code to reflect the description<br />
     <sub>[#148621](https://github.com/flutter/flutter/pull/148621) opened on on May 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/148621) 131 additions and 10 deletions in 3 files</sub><br />
 
@@ -82,4 +79,7 @@
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.22.1 changelog updates<br />
     <sub>[#148895](https://github.com/flutter/flutter/pull/148895) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148895) 7 additions and 1 deletion in 1 file</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow `RenderObject.getTransformTo` to take an arbitrary RenderObject in the same tree as `target`<br />
+    <sub>[#148897](https://github.com/flutter/flutter/pull/148897) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148897) 134 additions and 22 deletions in 2 files</sub><br />
 
