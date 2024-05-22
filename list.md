@@ -655,12 +655,17 @@
 
 ### May 18, 2024 to May 24, 2024
 
-15 commits.
+16 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
     <sub><details><summary>1 image...</summary><img width="959" alt="Screenshot 2024-05-21 at 2 01 19 PM" src="https://github.com/flutter/engine/assets/1255594/3f2db34d-c004-4b90-9fda-62a9cff817f9"></details></sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Round out subpass coverage.
+    <sub>[#52973](https://github.com/flutter/engine/pull/52973) merged on May 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52973) over 3 hours, 18 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>2 images...</summary><img width="964" alt="image" src="https://github.com/flutter/engine/assets/919017/0be88453-1014-443b-bc80-6df459adb075">![image](https://github.com/flutter/engine/assets/919017/ccd89a87-4643-4e4d-9e24-56f28f317e2f)</details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland `Fixes MatrixFilterContents rendering/coverage #52880`
     <sub>[#52939](https://github.com/flutter/engine/pull/52939) merged on May 21, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/52939) over 20 hours, 415 additions and 57 deletions in 15 files</sub>
