@@ -1194,7 +1194,11 @@
 
 ### May 18, 2024 to May 24, 2024
 
-8 commits.
+9 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Convert native unit tests to Swift
+    <sub>[#6779](https://github.com/flutter/packages/pull/6779) merged on May 22, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/6779) over 17 hours, 441 additions and 454 deletions in 7 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [interactive_media_ads]: Bump androidx.annotation:annotation from 1.5.0 to 1.8.0 in /packages/interactive_media_ads/android
     <sub>[#6771](https://github.com/flutter/packages/pull/6771) merged on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6771) over 1 day, 6 additions and 2 deletions in 3 files</sub>
