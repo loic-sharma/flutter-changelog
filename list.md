@@ -32,7 +32,7 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Add support for link hooks
-    <sub>[#148474](https://github.com/flutter/flutter/pull/148474) merged on May 22, 2024 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/148474) over 6 days, 1054 additions and 421 deletions in 26 files</sub>
+    <sub>[#148474](https://github.com/flutter/flutter/pull/148474) merged on May 22, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/148474) over 6 days, 1054 additions and 421 deletions in 26 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Implement new `AnimationStatus` getters
