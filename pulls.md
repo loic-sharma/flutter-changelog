@@ -89,3 +89,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Linux web_long_running_tests_2_5 to bringup<br />
     <sub>[#148854](https://github.com/flutter/flutter/pull/148854) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148854) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Rexios](https://github.com/Rexios80)** &mdash; Refactor `SearchAnchor` suggestions builder to not fill the screen<br />
+    <sub>[#148856](https://github.com/flutter/flutter/pull/148856) opened on on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148856) 145 additions and 61 deletions in 2 files</sub><br />
+
