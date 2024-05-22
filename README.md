@@ -1174,7 +1174,11 @@
 
 ### May 18, 2024 to May 24, 2024
 
-6 commits.
+7 commits.
+
+* **[Adam Vongrej](https://github.com/vongrad)** &mdash; [in_app_purchase_android] Introduced new ReplacementMode for Android's billing client<br />
+    <sub>[#6515](https://github.com/flutter/packages/pull/6515) merged on May 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6515) over 1 month, 269 additions and 23 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Maurice Parrish](https://github.com/bparrishMines), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [interactive_media_ads] Add SPM support<br />
     <sub>[#6756](https://github.com/flutter/packages/pull/6756) merged on May 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6756) over 4 days, 35 additions and 3 deletions in 6 files</sub><br />
