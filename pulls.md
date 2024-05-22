@@ -83,3 +83,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow `RenderObject.getTransformTo` to take an arbitrary RenderObject in the same tree as `target`<br />
     <sub>[#148897](https://github.com/flutter/flutter/pull/148897) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148897) 134 additions and 22 deletions in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for tween_animation_builder.0.dart API example.<br />
+    <sub>[#148902](https://github.com/flutter/flutter/pull/148902) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148902) 132 additions and 10 deletions in 3 files</sub><br />
+
