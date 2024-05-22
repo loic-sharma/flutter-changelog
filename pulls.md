@@ -83,3 +83,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Enhance ColorScheme.fromSeed with a new `variant` parameter<br />
     <sub>[#148916](https://github.com/flutter/flutter/pull/148916) opened on on May 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148916) 348 additions and 100 deletions in 4 files</sub><br />
 
+* **[zhibisora](https://github.com/zhibisora)** &mdash; Specify architecture when building for macOS<br />
+    <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148920) 2 additions and 1 deletion in 1 file</sub><br />
+
