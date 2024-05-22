@@ -80,9 +80,6 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.22.1 changelog updates<br />
     <sub>[#148895](https://github.com/flutter/flutter/pull/148895) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148895) 7 additions and 1 deletion in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow `RenderObject.getTransformTo` to take an arbitrary RenderObject in the same tree as `target`<br />
-    <sub>[#148897](https://github.com/flutter/flutter/pull/148897) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148897) 134 additions and 22 deletions in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for tween_animation_builder.0.dart API example.<br />
     <sub>[#148902](https://github.com/flutter/flutter/pull/148902) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148902) 132 additions and 10 deletions in 3 files</sub><br />
 
