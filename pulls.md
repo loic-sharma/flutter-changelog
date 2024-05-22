@@ -87,5 +87,5 @@
     <sub>[#148829](https://github.com/flutter/flutter/pull/148829) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148829) 80 additions and 1 deletion in 2 files</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; Refactor `SearchAnchor` suggestions builder to not fill the screen<br />
-    <sub>[#148856](https://github.com/flutter/flutter/pull/148856) opened on on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148856) 145 additions and 61 deletions in 2 files</sub><br />
+    <sub>[#148856](https://github.com/flutter/flutter/pull/148856) opened on on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148856) 185 additions and 66 deletions in 3 files</sub><br />
 
