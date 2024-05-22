@@ -699,7 +699,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-16 commits.
+17 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub>
@@ -755,6 +755,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] leave glyph atlas in transfer dst to improve vulkan throughput.
     <sub>[#52908](https://github.com/flutter/engine/pull/52908) merged on May 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/52908) over 2 days, 78 additions and 19 deletions in 10 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix another instance of platform view breakage on Android 14
+    <sub>[#52980](https://github.com/flutter/engine/pull/52980) merged on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52980) over 39 minutes, 7 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix use-after-move in SwapchainVK.
     <sub>[#52933](https://github.com/flutter/engine/pull/52933) merged on May 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52933) over 3 hours, 3 additions and 3 deletions in 3 files</sub>
