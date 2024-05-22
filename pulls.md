@@ -18,7 +18,7 @@
     <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147733) 64 additions and 0 deletions in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
-    <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/147774) 270 additions and 77 deletions in 5 files</sub><br />
+    <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/147774) 270 additions and 77 deletions in 5 files</sub><br />
 
 * **[Jam M. Hernandez Quiceno](https://github.com/JamMarHer)** &mdash; Limit flutter service worker cache to flutter resources.<br />
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
@@ -57,10 +57,10 @@
     <sub>[#148621](https://github.com/flutter/flutter/pull/148621) opened on on May 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/148621) 131 additions and 10 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for restorable_value.0.dart API example.<br />
-    <sub>[#148676](https://github.com/flutter/flutter/pull/148676) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148676) 68 additions and 12 deletions in 3 files</sub><br />
+    <sub>[#148676](https://github.com/flutter/flutter/pull/148676) opened on on May 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148676) 68 additions and 12 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for actions.0.dart API example.<br />
-    <sub>[#148678](https://github.com/flutter/flutter/pull/148678) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148678) 174 additions and 20 deletions in 3 files</sub><br />
+    <sub>[#148678](https://github.com/flutter/flutter/pull/148678) opened on on May 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148678) 174 additions and 20 deletions in 3 files</sub><br />
 
 * **[2-www](https://github.com/2-www)** &mdash; fix installation in container<br />
     <sub>[#148716](https://github.com/flutter/flutter/pull/148716) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148716) 2 additions and 2 deletions in 1 file</sub><br />
