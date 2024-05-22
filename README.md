@@ -727,7 +727,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-19 commits.
+20 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.<br />
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub><br />
@@ -803,6 +803,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Remove Entity capture/AiksInspector.<br />
     <sub>[#52932](https://github.com/flutter/engine/pull/52932) merged on May 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/52932) over 7 hours, 33 additions and 1008 deletions in 26 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from fca7dd796e81 to 7809d6e332ff (2 revisions)<br />
+    <sub>[#52986](https://github.com/flutter/engine/pull/52986) merged on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52986) over 3 hours, 4 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 3c8718d827b5 to 54c384453207 (2 revisions)<br />
     <sub>[#52927](https://github.com/flutter/engine/pull/52927) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52927) over 43 minutes, 4 additions and 4 deletions in 3 files</sub><br />
