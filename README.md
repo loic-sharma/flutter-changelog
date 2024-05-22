@@ -7,7 +7,7 @@
 57 commits.
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; add `default-flavor` field to flutter pubspec, which will be used as the flavor in `flutter build/run` if `--flavor` is not provided<br />
-    <sub>[#147968](https://github.com/flutter/flutter/pull/147968) merged on May 22, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/147968) over 1 week, 82 additions and 2 deletions in 4 files</sub><br />
+    <sub>[#147968](https://github.com/flutter/flutter/pull/147968) merged on May 22, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/147968) over 1 week, 82 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events<br />
