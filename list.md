@@ -1174,7 +1174,12 @@
 
 ### May 18, 2024 to May 24, 2024
 
-7 commits.
+8 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [interactive_media_ads]: Bump androidx.annotation:annotation from 1.5.0 to 1.8.0 in /packages/interactive_media_ads/android
+    <sub>[#6771](https://github.com/flutter/packages/pull/6771) merged on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6771) over 1 day, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.5.0&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Adam Vongrej](https://github.com/vongrad)** &mdash; [in_app_purchase_android] Introduced new ReplacementMode for Android's billing client
     <sub>[#6515](https://github.com/flutter/packages/pull/6515) merged on May 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6515) over 1 month, 269 additions and 23 deletions in 11 files</sub>
