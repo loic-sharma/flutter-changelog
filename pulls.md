@@ -60,7 +60,7 @@
     <sub>[#148676](https://github.com/flutter/flutter/pull/148676) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148676) 68 additions and 12 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for actions.0.dart API example.<br />
-    <sub>[#148678](https://github.com/flutter/flutter/pull/148678) opened on on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148678) 174 additions and 20 deletions in 3 files</sub><br />
+    <sub>[#148678](https://github.com/flutter/flutter/pull/148678) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148678) 174 additions and 20 deletions in 3 files</sub><br />
 
 * **[2-www](https://github.com/2-www)** &mdash; fix installation in container<br />
     <sub>[#148716](https://github.com/flutter/flutter/pull/148716) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148716) 2 additions and 2 deletions in 1 file</sub><br />
