@@ -74,9 +74,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out from leak tracking.<br />
     <sub>[#148818](https://github.com/flutter/flutter/pull/148818) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148818) 9 additions and 28 deletions in 4 files</sub><br />
 
-* **[flyboy](https://github.com/hello-coder-xu)** &mdash; fix: update _floatingActionButtonVisibility only if floatingActionButon is not null<br />
-    <sub>[#148829](https://github.com/flutter/flutter/pull/148829) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148829) 80 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for text_editing_controller.0.dart API example.<br />
     <sub>[#148872](https://github.com/flutter/flutter/pull/148872) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148872) 31 additions and 1 deletion in 2 files</sub><br />
 
