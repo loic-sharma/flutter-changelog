@@ -80,3 +80,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for editable_text.on_changed.0.dart API example.<br />
     <sub>[#148874](https://github.com/flutter/flutter/pull/148874) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148874) 56 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.22.1 changelog updates<br />
+    <sub>[#148895](https://github.com/flutter/flutter/pull/148895) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148895) 7 additions and 1 deletion in 1 file</sub><br />
+
