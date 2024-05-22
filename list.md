@@ -4,10 +4,10 @@
 
 ### May 18, 2024 to May 24, 2024
 
-44 commits.
+45 commits.
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; add `default-flavor` field to flutter pubspec, which will be used as the flavor in `flutter build/run` if `--flavor` is not provided
-    <sub>[#147968](https://github.com/flutter/flutter/pull/147968) merged on May 22, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/147968) over 1 week, 82 additions and 2 deletions in 4 files</sub>
+    <sub>[#147968](https://github.com/flutter/flutter/pull/147968) merged on May 22, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/147968) over 1 week, 82 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Factor out `RawView`, make `View` listen to engine generated view focus events
@@ -60,14 +60,6 @@
     <sub>[#148718](https://github.com/flutter/flutter/pull/148718) merged on May 21, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/148718) over 20 hours, 66 additions and 57 deletions in 20 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for logical_key_set.0.dart API example.
-    <sub>[#147735](https://github.com/flutter/flutter/pull/147735) merged on May 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/147735) over 2 weeks, 118 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
-
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea's selection should not be cleared on loss of window focus
-    <sub>[#148067](https://github.com/flutter/flutter/pull/148067) merged on May 20, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/148067) over 1 week, 96 additions and 3 deletions in 6 files</sub>
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for shared_app_data.#.dart API examples.
     <sub>[#147830](https://github.com/flutter/flutter/pull/147830) merged on May 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/147830) over 2 weeks, 241 additions and 44 deletions in 5 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
@@ -76,9 +68,21 @@
     <sub>[#147624](https://github.com/flutter/flutter/pull/147624) merged on May 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/147624) over 2 weeks, 42 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for logical_key_set.0.dart API example.
+    <sub>[#147735](https://github.com/flutter/flutter/pull/147735) merged on May 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/147735) over 2 weeks, 118 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; SelectionArea's selection should not be cleared on loss of window focus
+    <sub>[#148067](https://github.com/flutter/flutter/pull/148067) merged on May 20, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/148067) over 1 week, 96 additions and 3 deletions in 6 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for scaffold.of.#.dart API examples.
     <sub>[#147637](https://github.com/flutter/flutter/pull/147637) merged on May 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147637) over 2 weeks, 135 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `WidgetStateBorderSide.lerp`
+    <sub>[#148122](https://github.com/flutter/flutter/pull/148122) merged on May 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148122) over 1 week, 82 additions and 77 deletions in 5 files</sub>
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Pages under docs/postmortems/
     <sub>[#148798](https://github.com/flutter/flutter/pull/148798) merged on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148798) over 9 hours, 35 additions and 31 deletions in 11 files</sub>
@@ -116,6 +120,10 @@
     <sub>[#148563](https://github.com/flutter/flutter/pull/148563) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148563) over 2 days, 12 additions and 43 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the no-shuffle tag on the flutter_tools create_test suite
+    <sub>[#148688](https://github.com/flutter/flutter/pull/148688) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148688) over 2 hours, 0 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Ecosystem team pages
     <sub>[#148589](https://github.com/flutter/flutter/pull/148589) merged on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148589) over 2 days, 25 additions and 14 deletions in 13 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -123,10 +131,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Framework team pages
     <sub>[#148721](https://github.com/flutter/flutter/pull/148721) merged on May 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148721) over 52 minutes, 14 additions and 10 deletions in 9 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the no-shuffle tag on the flutter_tools create_test suite
-    <sub>[#148688](https://github.com/flutter/flutter/pull/148688) merged on May 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148688) over 2 hours, 0 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Fix two dimensional viewport unexpected null exception when no child is laid out
     <sub>[#148256](https://github.com/flutter/flutter/pull/148256) merged on May 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148256) over 1 week, 27 additions and 4 deletions in 3 files</sub>
