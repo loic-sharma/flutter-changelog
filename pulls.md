@@ -42,16 +42,13 @@
     <sub>[#148462](https://github.com/flutter/flutter/pull/148462) opened on on May 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148462) 67 additions and 2 deletions in 3 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
-    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
+    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148574) 122 additions and 0 deletions in 2 files</sub><br />
 
 * **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds `locale` to `DatePickerThemeData`.<br />
     <sub>[#148599](https://github.com/flutter/flutter/pull/148599) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148599) 173 additions and 4 deletions in 3 files</sub><br />
-
-* **[Chinmoy](https://github.com/chinmoy12c)** &mdash; Adds `displayFontFamily` and `bodyFontFamily` to TextTheme apply.<br />
-    <sub>[#148603](https://github.com/flutter/flutter/pull/148603) opened on on May 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148603) 72 additions and 30 deletions in 2 files</sub><br />
 
 * **[huycozy](https://github.com/huycozy)** &mdash; Fix DecoratedSliver sample code to reflect the description<br />
     <sub>[#148621](https://github.com/flutter/flutter/pull/148621) opened on on May 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/148621) 131 additions and 10 deletions in 3 files</sub><br />
@@ -79,9 +76,6 @@
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; fix: update _floatingActionButtonVisibility only if floatingActionButon is not null<br />
     <sub>[#148829](https://github.com/flutter/flutter/pull/148829) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148829) 80 additions and 1 deletion in 2 files</sub><br />
-
-* **[Rexios](https://github.com/Rexios80)** &mdash; Refactor `SearchAnchor` suggestions builder to not fill the screen<br />
-    <sub>[#148856](https://github.com/flutter/flutter/pull/148856) opened on on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148856) 185 additions and 66 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for text_editing_controller.0.dart API example.<br />
     <sub>[#148872](https://github.com/flutter/flutter/pull/148872) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148872) 31 additions and 1 deletion in 2 files</sub><br />
