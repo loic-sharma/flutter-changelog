@@ -33,7 +33,7 @@
     <sub>[#148234](https://github.com/flutter/flutter/pull/148234) opened on on May 13, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148234) 275 additions and 4 deletions in 5 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test remaining transitions api examples<br />
-    <sub>[#148302](https://github.com/flutter/flutter/pull/148302) opened on on May 14, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/148302) 563 additions and 14 deletions in 15 files</sub><br />
+    <sub>[#148302](https://github.com/flutter/flutter/pull/148302) opened on on May 14, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/148302) 562 additions and 14 deletions in 15 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart<br />
     <sub>[#148453](https://github.com/flutter/flutter/pull/148453) opened on on May 16, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148453) 125823 additions and 1 deletion in 3 files</sub><br />
