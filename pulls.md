@@ -83,6 +83,3 @@
 * **[Dawid Wenderski](https://github.com/dawidope)** &mdash; Fix incorrect behavior of ScrollViewKeyboardDismissBehavior.onDrag for ScrollViewers with Drawer<br />
     <sub>[#148948](https://github.com/flutter/flutter/pull/148948) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148948) 136 additions and 9 deletions in 6 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Revert "const vs. non-const widget build benchmark"<br />
-    <sub>[#148970](https://github.com/flutter/flutter/pull/148970) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148970) 0 additions and 230 deletions in 2 files</sub><br />
-
