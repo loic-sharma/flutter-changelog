@@ -84,7 +84,7 @@
     <sub>[#148916](https://github.com/flutter/flutter/pull/148916) opened on on May 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148916) 348 additions and 100 deletions in 4 files</sub><br />
 
 * **[zhibisora](https://github.com/zhibisora)** &mdash; Specify architecture when building for macOS<br />
-    <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148920) 139 additions and 24 deletions in 4 files</sub><br />
+    <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148920) 142 additions and 25 deletions in 4 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add feedback for long press on iOS <br />
     <sub>[#148922](https://github.com/flutter/flutter/pull/148922) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148922) 11 additions and 7 deletions in 2 files</sub><br />
