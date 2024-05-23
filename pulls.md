@@ -53,9 +53,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for restorable_value.0.dart API example.<br />
     <sub>[#148676](https://github.com/flutter/flutter/pull/148676) opened on on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148676) 69 additions and 13 deletions in 4 files</sub><br />
 
-* **[2-www](https://github.com/2-www)** &mdash; fix installation in container<br />
-    <sub>[#148716](https://github.com/flutter/flutter/pull/148716) opened on on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148716) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
     <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
 
