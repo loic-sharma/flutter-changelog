@@ -278,7 +278,7 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Revert "Update `FocusManager` platform check to include iOS"
-    <sub>[#148978](https://github.com/flutter/flutter/pull/148978) merged on May 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148978) over 13 minutes, 7 additions and 24 deletions in 2 files</sub>
+    <sub>[#148978](https://github.com/flutter/flutter/pull/148978) merged on May 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148978) over 13 minutes, 7 additions and 24 deletions in 2 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 ### May 11, 2024 to May 17, 2024
