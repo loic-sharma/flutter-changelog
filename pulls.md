@@ -14,17 +14,11 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/140284) 155 additions and 11 deletions in 4 files</sub><br />
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
-    <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/147774) 280 additions and 77 deletions in 5 files</sub><br />
-
 * **[Jam M. Hernandez Quiceno](https://github.com/JamMarHer)** &mdash; Limit flutter service worker cache to flutter resources.<br />
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; PageController: added default [duration] and [curve] values to animateToPage, nextPage and previousPage methods<br />
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test remaining transitions api examples<br />
-    <sub>[#148302](https://github.com/flutter/flutter/pull/148302) opened on on May 14, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/148302) 562 additions and 14 deletions in 15 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart<br />
     <sub>[#148453](https://github.com/flutter/flutter/pull/148453) opened on on May 16, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148453) 125823 additions and 1 deletion in 3 files</sub><br />
@@ -82,4 +76,7 @@
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependency on ABI.<br />
     <sub>[#148987](https://github.com/flutter/flutter/pull/148987) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148987) 40 additions and 6 deletions in 3 files</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Linux numpad shortcuts on web<br />
+    <sub>[#148988](https://github.com/flutter/flutter/pull/148988) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148988) 90 additions and 5 deletions in 2 files</sub><br />
 
