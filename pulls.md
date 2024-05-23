@@ -50,9 +50,6 @@
 * **[huycozy](https://github.com/huycozy)** &mdash; Fix DecoratedSliver sample code to reflect the description<br />
     <sub>[#148621](https://github.com/flutter/flutter/pull/148621) opened on on May 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/148621) 131 additions and 10 deletions in 3 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for restorable_value.0.dart API example.<br />
-    <sub>[#148676](https://github.com/flutter/flutter/pull/148676) opened on on May 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148676) 69 additions and 13 deletions in 4 files</sub><br />
-
 * **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
     <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
 
