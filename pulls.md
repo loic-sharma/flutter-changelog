@@ -45,7 +45,7 @@
     <sub>[#148818](https://github.com/flutter/flutter/pull/148818) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148818) 9 additions and 28 deletions in 4 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for text_editing_controller.0.dart API example.<br />
-    <sub>[#148872](https://github.com/flutter/flutter/pull/148872) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148872) 31 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#148872](https://github.com/flutter/flutter/pull/148872) opened on on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148872) 31 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for editable_text.on_changed.0.dart API example.<br />
     <sub>[#148874](https://github.com/flutter/flutter/pull/148874) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148874) 56 additions and 1 deletion in 2 files</sub><br />
