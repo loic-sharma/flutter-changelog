@@ -250,7 +250,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for restorable_value.0.dart API example.
-    <sub>[#148676](https://github.com/flutter/flutter/pull/148676) merged on May 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148676) over 2 days, 69 additions and 13 deletions in 4 files</sub>
+    <sub>[#148676](https://github.com/flutter/flutter/pull/148676) merged on May 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148676) over 2 days, 69 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix the output of the CDN test.
