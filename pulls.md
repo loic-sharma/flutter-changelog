@@ -89,3 +89,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add feedback for long press on iOS <br />
     <sub>[#148922](https://github.com/flutter/flutter/pull/148922) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148922) 11 additions and 7 deletions in 2 files</sub><br />
 
+* **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside<br />
+    <sub>[#148930](https://github.com/flutter/flutter/pull/148930) opened on on May 23, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/148930) 365 additions and 1 deletion in 9 files</sub><br />
+
