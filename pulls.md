@@ -41,9 +41,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions<br />
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) opened on on May 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148786) 42 additions and 8 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix RenderFlex's baseline calculation with verticalDirection.up and Axis.vertical<br />
-    <sub>[#148800](https://github.com/flutter/flutter/pull/148800) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148800) 40 additions and 4 deletions in 2 files</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out from leak tracking.<br />
     <sub>[#148818](https://github.com/flutter/flutter/pull/148818) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148818) 9 additions and 28 deletions in 4 files</sub><br />
 
