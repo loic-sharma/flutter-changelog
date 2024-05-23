@@ -23,14 +23,8 @@
 * **[Jam M. Hernandez Quiceno](https://github.com/JamMarHer)** &mdash; Limit flutter service worker cache to flutter resources.<br />
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold.0.dart and scaffold.2.dart<br />
-    <sub>[#148166](https://github.com/flutter/flutter/pull/148166) opened on on May 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148166) 55 additions and 2 deletions in 4 files</sub><br />
-
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; PageController: added default [duration] and [curve] values to animateToPage, nextPage and previousPage methods<br />
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test raw autocomplete api examples<br />
-    <sub>[#148234](https://github.com/flutter/flutter/pull/148234) opened on on May 13, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148234) 275 additions and 4 deletions in 5 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test remaining transitions api examples<br />
     <sub>[#148302](https://github.com/flutter/flutter/pull/148302) opened on on May 14, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/148302) 562 additions and 14 deletions in 15 files</sub><br />
@@ -46,9 +40,6 @@
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148574) 122 additions and 0 deletions in 2 files</sub><br />
-
-* **[huycozy](https://github.com/huycozy)** &mdash; Fix DecoratedSliver sample code to reflect the description<br />
-    <sub>[#148621](https://github.com/flutter/flutter/pull/148621) opened on on May 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/148621) 131 additions and 10 deletions in 3 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
     <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
