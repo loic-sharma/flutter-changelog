@@ -1270,7 +1270,11 @@
 
 ### May 18, 2024 to May 24, 2024
 
-11 commits.
+12 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert iOS to Swift and SPM<br />
+    <sub>[#6755](https://github.com/flutter/packages/pull/6755) merged on May 23, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/6755) over 5 days, 487 additions and 474 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.webkit:webkit from 1.7.0 to 1.10.0 in /packages/webview_flutter/webview_flutter_android/android<br />
     <sub>[#5996](https://github.com/flutter/packages/pull/5996) merged on May 23, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5996) over 3 months, 4 additions and 3 deletions in 3 files</sub><br />
