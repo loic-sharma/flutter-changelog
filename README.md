@@ -1270,7 +1270,12 @@
 
 ### May 18, 2024 to May 24, 2024
 
-10 commits.
+11 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.webkit:webkit from 1.7.0 to 1.10.0 in /packages/webview_flutter/webview_flutter_android/android<br />
+    <sub>[#5996](https://github.com/flutter/packages/pull/5996) merged on May 23, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5996) over 3 months, 4 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.webkit:webkit&package-manager=gradle&previous-version=1.7.0&new-version=1.10.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Convert native unit tests to Swift<br />
     <sub>[#6779](https://github.com/flutter/packages/pull/6779) merged on May 22, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/6779) over 17 hours, 441 additions and 454 deletions in 7 files</sub><br />
