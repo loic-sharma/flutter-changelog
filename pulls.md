@@ -15,7 +15,7 @@
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/140284) 155 additions and 11 deletions in 4 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add tests for material banner example<br />
-    <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/147733) 60 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/147733) 61 additions and 1 deletion in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
     <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/147774) 280 additions and 77 deletions in 5 files</sub><br />
