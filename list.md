@@ -118,7 +118,7 @@
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Update `FocusManager` platform check to include iOS
-    <sub>[#148612](https://github.com/flutter/flutter/pull/148612) merged on May 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148612) over 5 days, 24 additions and 7 deletions in 2 files</sub>
+    <sub>[#148612](https://github.com/flutter/flutter/pull/148612) merged on May 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148612) over 5 days, 24 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Framework team pages
@@ -772,7 +772,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-21 commits.
+22 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub>
@@ -808,6 +808,10 @@
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Refactor HtmlImageCodec to generalize to different renderers
     <sub>[#52905](https://github.com/flutter/engine/pull/52905) merged on May 20, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/52905) over 3 days, 644 additions and 586 deletions in 14 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Move pictures from deleted canvases to second-to-last canvas instead of last.
+    <sub>[#51397](https://github.com/flutter/engine/pull/51397) merged on May 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/51397) over 2 months, 109 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework bundle
