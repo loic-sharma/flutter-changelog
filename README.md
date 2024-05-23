@@ -298,6 +298,10 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>1 image...</summary><img width="229" alt="Screenshot 2024-05-15 at 3 15 44 PM" src="https://github.com/flutter/flutter/assets/12115586/e9f9467a-d675-4ae8-9c17-50857c77fb06"></details></sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; const vs. non-const widget build benchmark<br />
+    <sub>[#148261](https://github.com/flutter/flutter/pull/148261) merged on May 16, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/148261) over 3 days, 230 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix abi key for local golden file testing<br />
     <sub>[#148072](https://github.com/flutter/flutter/pull/148072) merged on May 14, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/148072) over 5 days, 14 additions and 11 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Kaylee Lubick](https://github.com/kjlubick), [Andrew Shin](https://github.com/As90909w), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -318,10 +322,6 @@
 * **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` statement cleanup<br />
     <sub>[#148382](https://github.com/flutter/flutter/pull/148382) merged on May 17, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/148382) over 1 day, 301 additions and 529 deletions in 39 files</sub><br />
     <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; const vs. non-const widget build benchmark<br />
-    <sub>[#148261](https://github.com/flutter/flutter/pull/148261) merged on May 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148261) over 3 days, 230 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] codesign native assets during embed<br />
     <sub>[#148310](https://github.com/flutter/flutter/pull/148310) merged on May 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148310) over 2 days, 31 additions and 1 deletion in 3 files</sub><br />
