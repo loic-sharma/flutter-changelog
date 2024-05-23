@@ -752,12 +752,17 @@
 
 ### May 18, 2024 to May 24, 2024
 
-20 commits.
+21 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
     <sub><details><summary>1 image...</summary><img width="959" alt="Screenshot 2024-05-21 at 2 01 19 PM" src="https://github.com/flutter/engine/assets/1255594/3f2db34d-c004-4b90-9fda-62a9cff817f9"></details></sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Fix stroke curves.
+    <sub>[#52978](https://github.com/flutter/engine/pull/52978) merged on May 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52978) over 1 day, 10 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+    <sub><details><summary>4 images...</summary><img width="640" alt="Screenshot 2024-05-21 at 11 18 51 PM" src="https://github.com/flutter/engine/assets/919017/22d9fee7-834f-4cb4-8ed4-578a7c17f7a2"><img width="121" alt="Screenshot 2024-05-21 at 11 19 35 PM" src="https://github.com/flutter/engine/assets/919017/419029b1-9a5f-4a30-bbb0-83dafc79f7df"><img width="640" alt="Screenshot 2024-05-21 at 11 17 25 PM" src="https://github.com/flutter/engine/assets/919017/629e30a5-d0c5-4b7a-a3e2-bf715aa4ba78"><img width="115" alt="Screenshot 2024-05-21 at 11 16 38 PM" src="https://github.com/flutter/engine/assets/919017/12e51892-6009-47d0-a4e5-1f1b017c99e8"></details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Pixel align subpass textures.
     <sub>[#52973](https://github.com/flutter/engine/pull/52973) merged on May 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52973) over 3 hours, 18 additions and 2 deletions in 1 file</sub>
