@@ -48,7 +48,7 @@
     <sub>[#148872](https://github.com/flutter/flutter/pull/148872) opened on on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148872) 31 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for editable_text.on_changed.0.dart API example.<br />
-    <sub>[#148874](https://github.com/flutter/flutter/pull/148874) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148874) 56 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#148874](https://github.com/flutter/flutter/pull/148874) opened on on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148874) 56 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for tween_animation_builder.0.dart API example.<br />
     <sub>[#148902](https://github.com/flutter/flutter/pull/148902) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148902) 132 additions and 10 deletions in 3 files</sub><br />
@@ -72,5 +72,5 @@
     <sub>[#148987](https://github.com/flutter/flutter/pull/148987) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148987) 40 additions and 6 deletions in 3 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
-    <sub>[#148989](https://github.com/flutter/flutter/pull/148989) opened on on May 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) 226 additions and 686 deletions in 90 files</sub><br />
+    <sub>[#148989](https://github.com/flutter/flutter/pull/148989) opened on on May 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) 271 additions and 770 deletions in 94 files</sub><br />
 
