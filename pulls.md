@@ -83,6 +83,3 @@
 * **[Dawid Wenderski](https://github.com/dawidope)** &mdash; Fix incorrect behavior of ScrollViewKeyboardDismissBehavior.onDrag for ScrollViewers with Drawer<br />
     <sub>[#148948](https://github.com/flutter/flutter/pull/148948) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148948) 136 additions and 9 deletions in 6 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Update `FocusManager` platform check to include iOS<br />
-    <sub>[#148976](https://github.com/flutter/flutter/pull/148976) opened on on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148976) 24 additions and 7 deletions in 2 files</sub><br />
-
