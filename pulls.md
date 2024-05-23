@@ -39,7 +39,7 @@
     <sub>[#148453](https://github.com/flutter/flutter/pull/148453) opened on on May 16, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148453) 125823 additions and 1 deletion in 3 files</sub><br />
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; fix slider text null error<br />
-    <sub>[#148462](https://github.com/flutter/flutter/pull/148462) opened on on May 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148462) 67 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#148462](https://github.com/flutter/flutter/pull/148462) opened on on May 16, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/148462) 48 additions and 2 deletions in 3 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
@@ -84,7 +84,7 @@
     <sub>[#148916](https://github.com/flutter/flutter/pull/148916) opened on on May 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148916) 348 additions and 100 deletions in 4 files</sub><br />
 
 * **[zhibisora](https://github.com/zhibisora)** &mdash; Specify architecture when building for macOS<br />
-    <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148920) 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148920) 139 additions and 24 deletions in 4 files</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add feedback for long press on iOS <br />
     <sub>[#148922](https://github.com/flutter/flutter/pull/148922) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148922) 11 additions and 7 deletions in 2 files</sub><br />
