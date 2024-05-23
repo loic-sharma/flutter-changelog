@@ -1270,7 +1270,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-9 commits.
+10 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Convert native unit tests to Swift
     <sub>[#6779](https://github.com/flutter/packages/pull/6779) merged on May 22, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/6779) over 17 hours, 441 additions and 454 deletions in 7 files</sub>
@@ -1307,6 +1307,10 @@
 * **[Hashir Shoaib](https://github.com/hashirshoaeb)** &mdash; [go_router] New feature improve debug full path
     <sub>[#6714](https://github.com/flutter/packages/pull/6714) merged on May 21, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6714) over 1 week, 78 additions and 19 deletions in 7 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [rfw] Adds support for `DecorationImage.filterQuality`.
+    <sub>[#6781](https://github.com/flutter/packages/pull/6781) merged on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6781) over 9 hours, 9 additions and 3 deletions in 4 files</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Remove use of OCMock
     <sub>[#6757](https://github.com/flutter/packages/pull/6757) merged on May 21, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/6757) over 3 days, 217 additions and 232 deletions in 6 files</sub>
