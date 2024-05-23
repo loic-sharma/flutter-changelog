@@ -15,7 +15,7 @@
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/140284) 155 additions and 11 deletions in 4 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add tests for material banner example<br />
-    <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147733) 64 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/147733) 60 additions and 1 deletion in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
     <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/147774) 280 additions and 77 deletions in 5 files</sub><br />
@@ -76,4 +76,7 @@
 
 * **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside<br />
     <sub>[#148930](https://github.com/flutter/flutter/pull/148930) opened on on May 23, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148930) 365 additions and 1 deletion in 9 files</sub><br />
+
+* **[flyboy](https://github.com/hello-coder-xu)** &mdash; content dimensions are not established get controller value error<br />
+    <sub>[#148938](https://github.com/flutter/flutter/pull/148938) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148938) 25 additions and 2 deletions in 2 files</sub><br />
 
