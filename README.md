@@ -245,7 +245,7 @@
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Revert "Fix the second TextFormField to trigger onTapOutside"<br />
-    <sub>[#148909](https://github.com/flutter/flutter/pull/148909) merged on May 22, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/148909) over 12 minutes, 1 addition and 365 deletions in 9 files</sub><br />
+    <sub>[#148909](https://github.com/flutter/flutter/pull/148909) merged on May 22, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/148909) over 12 minutes, 1 addition and 365 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows plugin_test to be flaky<br />
