@@ -792,7 +792,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-22 commits.
+23 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.<br />
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub><br />
@@ -837,6 +837,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework bundle<br />
     <sub>[#52961](https://github.com/flutter/engine/pull/52961) merged on May 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52961) over 4 hours, 27 additions and 22 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Cleanup propagation of codecvt warning suppression in FML.<br />
+    <sub>[#52966](https://github.com/flutter/engine/pull/52966) merged on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52966) over 2 days, 8 additions and 10 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove check_licenses.py<br />
     <sub>[#52970](https://github.com/flutter/engine/pull/52970) merged on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52970) over 1 hour, 0 additions and 77 deletions in 2 files</sub><br />
