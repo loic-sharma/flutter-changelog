@@ -1292,7 +1292,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-12 commits.
+13 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert iOS to Swift and SPM<br />
     <sub>[#6755](https://github.com/flutter/packages/pull/6755) merged on May 23, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/6755) over 5 days, 487 additions and 474 deletions in 24 files</sub><br />
@@ -1346,6 +1346,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Remove use of OCMock<br />
     <sub>[#6757](https://github.com/flutter/packages/pull/6757) merged on May 21, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/6757) over 3 days, 217 additions and 232 deletions in 6 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 5dcb86f68f23 to a14f74ff3a1c (3 revisions)<br />
+    <sub>[#6784](https://github.com/flutter/packages/pull/6784) merged on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6784) over 52 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### May 11, 2024 to May 17, 2024
 

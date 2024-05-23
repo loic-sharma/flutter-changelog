@@ -80,9 +80,6 @@
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; content dimensions are not established get controller value error<br />
     <sub>[#148938](https://github.com/flutter/flutter/pull/148938) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148938) 25 additions and 2 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator default hint text style on M3<br />
-    <sub>[#148944](https://github.com/flutter/flutter/pull/148944) opened on on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148944) 60 additions and 55 deletions in 4 files</sub><br />
-
 * **[Dawid Wenderski](https://github.com/dawidope)** &mdash; Fix incorrect behavior of ScrollViewKeyboardDismissBehavior.onDrag for ScrollViewers with Drawer<br />
     <sub>[#148948](https://github.com/flutter/flutter/pull/148948) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148948) 136 additions and 9 deletions in 6 files</sub><br />
 
