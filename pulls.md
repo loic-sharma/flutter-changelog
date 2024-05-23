@@ -14,11 +14,8 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
     <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/140284) 155 additions and 11 deletions in 4 files</sub><br />
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add tests for material banner example<br />
-    <sub>[#147733](https://github.com/flutter/flutter/pull/147733) opened on on May 2, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/147733) 61 additions and 1 deletion in 2 files</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test snack bar examples<br />
-    <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/147774) 280 additions and 77 deletions in 5 files</sub><br />
+    <sub>[#147774](https://github.com/flutter/flutter/pull/147774) opened on on May 3, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/147774) 280 additions and 77 deletions in 5 files</sub><br />
 
 * **[Jam M. Hernandez Quiceno](https://github.com/JamMarHer)** &mdash; Limit flutter service worker cache to flutter resources.<br />
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
@@ -82,4 +79,7 @@
 
 * **[Dawid Wenderski](https://github.com/dawidope)** &mdash; Fix incorrect behavior of ScrollViewKeyboardDismissBehavior.onDrag for ScrollViewers with Drawer<br />
     <sub>[#148948](https://github.com/flutter/flutter/pull/148948) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148948) 136 additions and 9 deletions in 6 files</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependency on ABI.<br />
+    <sub>[#148987](https://github.com/flutter/flutter/pull/148987) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148987) 40 additions and 6 deletions in 3 files</sub><br />
 
