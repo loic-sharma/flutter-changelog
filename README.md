@@ -813,7 +813,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-26 commits.
+27 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.<br />
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub><br />
@@ -842,6 +842,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework<br />
     <sub>[#52930](https://github.com/flutter/engine/pull/52930) merged on May 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52930) over 4 hours, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Rename Skia specific TUs.<br />
+    <sub>[#52855](https://github.com/flutter/engine/pull/52855) merged on May 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/52855) over 1 week, 72 additions and 68 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Refactor impeller.gni<br />
     <sub>[#52942](https://github.com/flutter/engine/pull/52942) merged on May 21, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/engine/pull/52942) over 19 hours, 1019 additions and 939 deletions in 14 files</sub><br />

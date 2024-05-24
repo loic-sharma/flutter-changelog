@@ -72,5 +72,5 @@
     <sub>[#149049](https://github.com/flutter/flutter/pull/149049) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149049) 27 additions and 10 deletions in 4 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Slider should respect bold text setting<br />
-    <sub>[#149053](https://github.com/flutter/flutter/pull/149053) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149053) 109 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#149053](https://github.com/flutter/flutter/pull/149053) opened on on May 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149053) 109 additions and 1 deletion in 2 files</sub><br />
 
