@@ -74,3 +74,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) opened on on May 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) 271 additions and 770 deletions in 94 files</sub><br />
 
+* **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; _ModalScopeStatus as InheritedModel<br />
+    <sub>[#149022](https://github.com/flutter/flutter/pull/149022) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149022) 111 additions and 11 deletions in 4 files</sub><br />
+
