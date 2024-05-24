@@ -227,7 +227,7 @@
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for editable_text.on_changed.0.dart API example.
-    <sub>[#148874](https://github.com/flutter/flutter/pull/148874) merged on May 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148874) over 2 days, 68 additions and 1 deletion in 2 files</sub>
+    <sub>[#148874](https://github.com/flutter/flutter/pull/148874) merged on May 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/148874) over 2 days, 68 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; log incoming vm service messages in `FlutterVMService::runInView`
