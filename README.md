@@ -805,7 +805,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-23 commits.
+24 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.<br />
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub><br />
@@ -882,6 +882,10 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix another instance of platform view breakage on Android 14<br />
     <sub>[#52980](https://github.com/flutter/engine/pull/52980) merged on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52980) over 39 minutes, 7 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow unsetting `TextStyle.height` <br />
+    <sub>[#52940](https://github.com/flutter/engine/pull/52940) merged on May 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52940) over 3 days, 161 additions and 55 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jason Simmons](https://github.com/jason-simmons), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Reduce rebuild times when invoking 'et run'<br />
     <sub>[#52883](https://github.com/flutter/engine/pull/52883) merged on May 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52883) over 5 days, 125 additions and 41 deletions in 4 files</sub><br />
@@ -1353,7 +1357,11 @@
 
 ### May 18, 2024 to May 24, 2024
 
-13 commits.
+14 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds onHttpError callback to NavigationDelegate to catch HTTP error status codes<br />
+    <sub>[#6378](https://github.com/flutter/packages/pull/6378) merged on May 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6378) over 2 months, 104 additions and 5 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert iOS to Swift and SPM<br />
     <sub>[#6755](https://github.com/flutter/packages/pull/6755) merged on May 23, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/6755) over 5 days, 487 additions and 474 deletions in 24 files</sub><br />
