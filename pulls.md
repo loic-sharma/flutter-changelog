@@ -56,18 +56,15 @@
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; content dimensions are not established get controller value error<br />
     <sub>[#148938](https://github.com/flutter/flutter/pull/148938) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148938) 25 additions and 2 deletions in 2 files</sub><br />
 
-* **[Dawid Wenderski](https://github.com/dawidope)** &mdash; Fix incorrect behavior of ScrollViewKeyboardDismissBehavior.onDrag for ScrollViewers with Drawer<br />
-    <sub>[#148948](https://github.com/flutter/flutter/pull/148948) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148948) 136 additions and 9 deletions in 6 files</sub><br />
-
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependency on ABI.<br />
     <sub>[#148987](https://github.com/flutter/flutter/pull/148987) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148987) 40 additions and 6 deletions in 3 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) opened on on May 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) 271 additions and 770 deletions in 94 files</sub><br />
 
-* **[Tim Lehmann](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning<br />
-    <sub>[#149040](https://github.com/flutter/flutter/pull/149040) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149040) 138 additions and 4 deletions in 2 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a sentinel value for `TextStyle.height`<br />
     <sub>[#149049](https://github.com/flutter/flutter/pull/149049) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149049) 27 additions and 10 deletions in 4 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix the RenderFlex.computeDryBaseline implementation to match computeDistanceToActualBaseline<br />
+    <sub>[#149062](https://github.com/flutter/flutter/pull/149062) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149062) 56 additions and 5 deletions in 2 files</sub><br />
 
