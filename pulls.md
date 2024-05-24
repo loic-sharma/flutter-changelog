@@ -74,3 +74,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) opened on on May 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) 271 additions and 770 deletions in 94 files</sub><br />
 
+* **[Tim Lehmann](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning<br />
+    <sub>[#149040](https://github.com/flutter/flutter/pull/149040) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149040) 138 additions and 4 deletions in 2 files</sub><br />
+
