@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Reland: Replace TextField.canRequestFocus with TextField.focusNode.canRequestFocus<br />
-    <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132273) 45 additions and 12 deletions in 4 files</sub><br />
+    <sub>[#132273](https://github.com/flutter/flutter/pull/132273) opened on on August 9, 2023 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/132273) 34 additions and 12 deletions in 4 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Support overriding native endorsed plugins<br />
     <sub>[#137040](https://github.com/flutter/flutter/pull/137040) opened on on October 22, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/137040) 929 additions and 655 deletions in 4 files</sub><br />
