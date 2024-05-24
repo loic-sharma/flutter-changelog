@@ -1357,7 +1357,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-16 commits.
+17 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds onHttpError callback to NavigationDelegate to catch HTTP error status codes<br />
     <sub>[#6378](https://github.com/flutter/packages/pull/6378) merged on May 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6378) over 2 months, 104 additions and 5 deletions in 12 files</sub><br />
@@ -1379,6 +1379,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Convert native unit tests to Swift<br />
     <sub>[#6779](https://github.com/flutter/packages/pull/6779) merged on May 22, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/6779) over 17 hours, 441 additions and 454 deletions in 7 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pointer_interceptor] Add Swift Package Manager support<br />
+    <sub>[#6790](https://github.com/flutter/packages/pull/6790) merged on May 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6790) over 23 minutes, 33 additions and 4 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [interactive_media_ads]: Bump androidx.annotation:annotation from 1.5.0 to 1.8.0 in /packages/interactive_media_ads/android<br />
     <sub>[#6771](https://github.com/flutter/packages/pull/6771) merged on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6771) over 1 day, 6 additions and 2 deletions in 3 files</sub><br />
