@@ -74,3 +74,6 @@
 * **[Tim Lehmann](https://github.com/timcreatedit)** &mdash; Draggable feedback positioning<br />
     <sub>[#149040](https://github.com/flutter/flutter/pull/149040) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149040) 138 additions and 4 deletions in 2 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a sentinel value for `TextStyle.height`<br />
+    <sub>[#149049](https://github.com/flutter/flutter/pull/149049) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149049) 27 additions and 10 deletions in 4 files</sub><br />
+
