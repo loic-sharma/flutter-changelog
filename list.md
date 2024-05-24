@@ -295,7 +295,7 @@
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for text_editing_controller.0.dart API example.
-    <sub>[#148872](https://github.com/flutter/flutter/pull/148872) merged on May 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148872) over 2 days, 67 additions and 1 deletion in 2 files</sub>
+    <sub>[#148872](https://github.com/flutter/flutter/pull/148872) merged on May 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148872) over 2 days, 67 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.22.1 changelog updates
@@ -813,7 +813,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-25 commits.
+26 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub>
@@ -858,6 +858,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update file permissions for FlutterMacOS.framework bundle
     <sub>[#52961](https://github.com/flutter/engine/pull/52961) merged on May 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52961) over 4 hours, 27 additions and 22 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix overlay reorganization for edge case with only 1 overlay
+    <sub>[#53006](https://github.com/flutter/engine/pull/53006) merged on May 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53006) over 19 hours, 65 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] sped up the linear gradient by moving calculations to the cpu
     <sub>[#53007](https://github.com/flutter/engine/pull/53007) merged on May 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53007) over 19 hours, 37 additions and 15 deletions in 5 files</sub>
