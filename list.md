@@ -1357,7 +1357,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-15 commits.
+16 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds onHttpError callback to NavigationDelegate to catch HTTP error status codes
     <sub>[#6378](https://github.com/flutter/packages/pull/6378) merged on May 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6378) over 2 months, 104 additions and 5 deletions in 12 files</sub>
@@ -1366,6 +1366,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert iOS to Swift and SPM
     <sub>[#6755](https://github.com/flutter/packages/pull/6755) merged on May 23, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/6755) over 5 days, 487 additions and 474 deletions in 24 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter_platform_interface] Add improvements to BitmapDescriptor API
+    <sub>[#6687](https://github.com/flutter/packages/pull/6687) merged on May 24, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/6687) over 2 weeks, 1050 additions and 5 deletions in 5 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.webkit:webkit from 1.7.0 to 1.10.0 in /packages/webview_flutter/webview_flutter_android/android
     <sub>[#5996](https://github.com/flutter/packages/pull/5996) merged on May 23, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/5996) over 3 months, 4 additions and 3 deletions in 3 files</sub>
