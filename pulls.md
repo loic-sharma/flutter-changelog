@@ -41,9 +41,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out from leak tracking.<br />
     <sub>[#148818](https://github.com/flutter/flutter/pull/148818) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148818) 9 additions and 28 deletions in 4 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add test for text_editing_controller.0.dart API example.<br />
-    <sub>[#148872](https://github.com/flutter/flutter/pull/148872) opened on on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148872) 67 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for tween_animation_builder.0.dart API example.<br />
     <sub>[#148902](https://github.com/flutter/flutter/pull/148902) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148902) 132 additions and 10 deletions in 3 files</sub><br />
 
