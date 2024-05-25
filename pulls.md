@@ -59,3 +59,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a sentinel value for `TextStyle.height`<br />
     <sub>[#149049](https://github.com/flutter/flutter/pull/149049) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149049) 27 additions and 10 deletions in 4 files</sub><br />
 
+* **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for abi version code<br />
+    <sub>[#149087](https://github.com/flutter/flutter/pull/149087) opened on on May 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149087) 1 addition and 1 deletion in 1 file</sub><br />
+
