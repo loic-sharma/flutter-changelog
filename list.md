@@ -829,7 +829,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-28 commits.
+29 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub>
@@ -918,6 +918,10 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix another instance of platform view breakage on Android 14
     <sub>[#52980](https://github.com/flutter/engine/pull/52980) merged on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52980) over 39 minutes, 7 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from aed02f471e34 to 17c351dd16f4 (1 revision) (#53037)"
+    <sub>[#53039](https://github.com/flutter/engine/pull/53039) merged on May 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53039) over 1 minute, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow unsetting `TextStyle.height` 
     <sub>[#52940](https://github.com/flutter/engine/pull/52940) merged on May 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/52940) over 3 days, 161 additions and 55 deletions in 11 files</sub>
