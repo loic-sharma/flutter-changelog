@@ -829,7 +829,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-29 commits.
+31 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.<br />
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub><br />
@@ -918,6 +918,14 @@
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Fix another instance of platform view breakage on Android 14<br />
     <sub>[#52980](https://github.com/flutter/engine/pull/52980) merged on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52980) over 39 minutes, 7 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from 641d61332238 to b759e9f83ff9 (1 revision) (#53032)"<br />
+    <sub>[#53041](https://github.com/flutter/engine/pull/53041) merged on May 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53041) over 54 seconds, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from b759e9f83ff9 to aed02f471e34 (1 revision) (#53036)"<br />
+    <sub>[#53040](https://github.com/flutter/engine/pull/53040) merged on May 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53040) over 1 minute, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from aed02f471e34 to 17c351dd16f4 (1 revision) (#53037)"<br />
     <sub>[#53039](https://github.com/flutter/engine/pull/53039) merged on May 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53039) over 1 minute, 2 additions and 2 deletions in 2 files</sub><br />
