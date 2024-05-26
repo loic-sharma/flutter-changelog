@@ -1236,7 +1236,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kihara, Takuya](https://github.com/tacck)** &mdash; [iOS] Fix App crash when use WebView with iOS VoiceOver<br />
-    <sub>[#52484](https://github.com/flutter/engine/pull/52484) merged on May 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/52484) over 1 week, 24 additions and 17 deletions in 4 files</sub><br />
+    <sub>[#52484](https://github.com/flutter/engine/pull/52484) merged on May 10, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/52484) over 1 week, 24 additions and 17 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Start a glossary.<br />
