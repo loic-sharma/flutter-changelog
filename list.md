@@ -155,7 +155,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Linux numpad shortcuts on web
-    <sub>[#148988](https://github.com/flutter/flutter/pull/148988) merged on May 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148988) over 2 days, 90 additions and 5 deletions in 2 files</sub>
+    <sub>[#148988](https://github.com/flutter/flutter/pull/148988) merged on May 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148988) over 2 days, 90 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Remaining pages under docs/about/
