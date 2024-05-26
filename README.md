@@ -1413,7 +1413,7 @@
 
 ### May 18, 2024 to May 24, 2024
 
-18 commits.
+19 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds onHttpError callback to NavigationDelegate to catch HTTP error status codes<br />
     <sub>[#6378](https://github.com/flutter/packages/pull/6378) merged on May 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6378) over 2 months, 104 additions and 5 deletions in 12 files</sub><br />
@@ -1479,6 +1479,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [rfw] Adds support for `DecorationImage.filterQuality`.<br />
     <sub>[#6781](https://github.com/flutter/packages/pull/6781) merged on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6781) over 9 hours, 9 additions and 3 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update Flutter wiki links<br />
+    <sub>[#6789](https://github.com/flutter/packages/pull/6789) merged on May 26, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/6789) over 1 day, 187 additions and 190 deletions in 150 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Ian Hickson](https://github.com/Hixie), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Start moving podspec check to ARM<br />
     <sub>[#6782](https://github.com/flutter/packages/pull/6782) merged on May 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6782) over 16 hours, 12 additions and 0 deletions in 1 file</sub><br />
