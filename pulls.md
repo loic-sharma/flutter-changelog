@@ -75,5 +75,5 @@
     <sub>[#149140](https://github.com/flutter/flutter/pull/149140) opened on on May 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149140) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; added the SimpleCascadingMenuApp example.<br />
-    <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149147) 189 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149147) 193 additions and 0 deletions in 2 files</sub><br />
 
