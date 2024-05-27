@@ -18,7 +18,7 @@
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart<br />
-    <sub>[#148453](https://github.com/flutter/flutter/pull/148453) opened on on May 16, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/148453) 125823 additions and 1 deletion in 3 files</sub><br />
+    <sub>[#148453](https://github.com/flutter/flutter/pull/148453) opened on on May 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148453) 29 additions and 1 deletion in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
