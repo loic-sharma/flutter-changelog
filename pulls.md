@@ -56,6 +56,9 @@
 * **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for abi version code<br />
     <sub>[#149087](https://github.com/flutter/flutter/pull/149087) opened on on May 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149087) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Vincent Velociter](https://github.com/veloce)** &mdash; Cupertino transparent navigation bars<br />
+    <sub>[#149102](https://github.com/flutter/flutter/pull/149102) opened on on May 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149102) 424 additions and 44 deletions in 5 files</sub><br />
+
 * **[ITdedenne](https://github.com/ITdedenne)** &mdash; erased the error<br />
     <sub>[#149105](https://github.com/flutter/flutter/pull/149105) opened on on May 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149105) 42 additions and 41 deletions in 4 files</sub><br />
 
