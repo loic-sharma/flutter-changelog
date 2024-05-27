@@ -68,3 +68,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_theme.0.dart<br />
     <sub>[#149120](https://github.com/flutter/flutter/pull/149120) opened on on May 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149120) 32 additions and 1 deletion in 2 files</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler<br />
+    <sub>[#149129](https://github.com/flutter/flutter/pull/149129) opened on on May 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) 0 additions and 5 deletions in 3 files</sub><br />
+
