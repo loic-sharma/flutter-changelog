@@ -35,9 +35,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions<br />
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) opened on on May 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148786) 42 additions and 8 deletions in 2 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out from leak tracking.<br />
-    <sub>[#148818](https://github.com/flutter/flutter/pull/148818) opened on on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148818) 9 additions and 28 deletions in 4 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for tween_animation_builder.0.dart API example.<br />
     <sub>[#148902](https://github.com/flutter/flutter/pull/148902) opened on on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148902) 132 additions and 10 deletions in 3 files</sub><br />
 
@@ -64,4 +61,7 @@
 
 * **[ITdedenne](https://github.com/ITdedenne)** &mdash; erased the error<br />
     <sub>[#149105](https://github.com/flutter/flutter/pull/149105) opened on on May 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149105) 42 additions and 41 deletions in 4 files</sub><br />
+
+* **[Adelzaennurarofat](https://github.com/Adelzaennurarofat)** &mdash; latihan kolaborasi<br />
+    <sub>[#149113](https://github.com/flutter/flutter/pull/149113) opened on on May 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149113) 0 additions and 0 deletions in 0 files</sub><br />
 
