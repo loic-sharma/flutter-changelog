@@ -71,3 +71,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler<br />
     <sub>[#149129](https://github.com/flutter/flutter/pull/149129) opened on on May 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) 0 additions and 5 deletions in 3 files</sub><br />
 
+* **[Andrew Shin](https://github.com/As90909w)** &mdash; Update flutter_console.bat<br />
+    <sub>[#149140](https://github.com/flutter/flutter/pull/149140) opened on on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149140) 2 additions and 1 deletion in 1 file</sub><br />
+
