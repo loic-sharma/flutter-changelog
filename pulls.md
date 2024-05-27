@@ -65,3 +65,6 @@
 * **[Adelzaennurarofat](https://github.com/Adelzaennurarofat)** &mdash; latihan kolaborasi<br />
     <sub>[#149113](https://github.com/flutter/flutter/pull/149113) opened on on May 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149113) 0 additions and 0 deletions in 0 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_theme.0.dart<br />
+    <sub>[#149120](https://github.com/flutter/flutter/pull/149120) opened on on May 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149120) 32 additions and 1 deletion in 2 files</sub><br />
+
