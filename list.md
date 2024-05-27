@@ -559,9 +559,18 @@
 
 ## flutter/engine
 
+### May 25, 2024 to May 31, 2024
+
+1 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Suppress SPIRV validation errors in latest Vulkan SDK.
+    <sub>[#53049](https://github.com/flutter/engine/pull/53049) merged on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53049) over 7 hours, 15 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 ### May 18, 2024 to May 24, 2024
 
-31 commits.
+<details>
+<summary>31 commits...</summary>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds Noto Serif Tibetan fallback font.
     <sub>[#52971](https://github.com/flutter/engine/pull/52971) merged on May 21, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/52971) over 1 hour, 1162 additions and 1086 deletions in 4 files</sub>
@@ -690,6 +699,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 3c8718d827b5 to 54c384453207 (2 revisions)
     <sub>[#52927](https://github.com/flutter/engine/pull/52927) merged on May 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/52927) over 43 minutes, 4 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### May 11, 2024 to May 17, 2024
 
