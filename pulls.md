@@ -33,7 +33,7 @@
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) opened on on May 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148786) 42 additions and 8 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for tween_animation_builder.0.dart API example.<br />
-    <sub>[#148902](https://github.com/flutter/flutter/pull/148902) opened on on May 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148902) 132 additions and 10 deletions in 3 files</sub><br />
+    <sub>[#148902](https://github.com/flutter/flutter/pull/148902) opened on on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148902) 189 additions and 10 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Enhance ColorScheme.fromSeed with a new `variant` parameter<br />
     <sub>[#148916](https://github.com/flutter/flutter/pull/148916) opened on on May 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148916) 352 additions and 100 deletions in 4 files</sub><br />
