@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### May 25, 2024 to May 31, 2024
+
+1 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart
+    <sub>[#148453](https://github.com/flutter/flutter/pull/148453) merged on May 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148453) over 1 week, 29 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 ### May 18, 2024 to May 24, 2024
 
-85 commits.
+<details>
+<summary>85 commits...</summary>
 
 * **[holzgeist](https://github.com/holzgeist)** &mdash; add `default-flavor` field to flutter pubspec, which will be used as the flavor in `flutter build/run` if `--flavor` is not provided
     <sub>[#147968](https://github.com/flutter/flutter/pull/147968) merged on May 22, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/147968) over 1 week, 82 additions and 2 deletions in 4 files</sub>
@@ -349,6 +358,8 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Revert "Update `FocusManager` platform check to include iOS"
     <sub>[#148978](https://github.com/flutter/flutter/pull/148978) merged on May 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148978) over 13 minutes, 7 additions and 24 deletions in 2 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+</details>
 
 ### May 11, 2024 to May 17, 2024
 
