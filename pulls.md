@@ -77,3 +77,6 @@
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; added the SimpleCascadingMenuApp example.<br />
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149147) 193 additions and 0 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for radio.toggleable.0.dart<br />
+    <sub>[#149153](https://github.com/flutter/flutter/pull/149153) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149153) 34 additions and 1 deletion in 2 files</sub><br />
+
