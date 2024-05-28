@@ -35,9 +35,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for tween_animation_builder.0.dart API example.<br />
     <sub>[#148902](https://github.com/flutter/flutter/pull/148902) opened on on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148902) 189 additions and 10 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Enhance ColorScheme.fromSeed with a new `variant` parameter<br />
-    <sub>[#148916](https://github.com/flutter/flutter/pull/148916) opened on on May 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148916) 352 additions and 100 deletions in 4 files</sub><br />
-
 * **[zhibisora](https://github.com/zhibisora)** &mdash; Specify architecture when building for macOS<br />
     <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148920) 106 additions and 1 deletion in 2 files</sub><br />
 

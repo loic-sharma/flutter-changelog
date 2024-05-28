@@ -4,7 +4,16 @@
 
 ### May 25, 2024 to May 31, 2024
 
-4 commits.
+6 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Mouse onEnter and onExit now support hovering stylus<br />
+    <sub>[#149006](https://github.com/flutter/flutter/pull/149006) merged on May 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149006) over 4 days, 165 additions and 57 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+    <sub><details><summary>1 image...</summary>![stylus_hover_mouse](https://github.com/flutter/flutter/assets/389558/dc5280fd-cdac-446d-beea-d55c3739c091)</details></sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove `TextEditingController` private member access<br />
+    <sub>[#149042](https://github.com/flutter/flutter/pull/149042) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149042) over 4 days, 54 additions and 7 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub><br />
