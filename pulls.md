@@ -47,9 +47,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependency on ABI.<br />
     <sub>[#148987](https://github.com/flutter/flutter/pull/148987) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148987) 40 additions and 6 deletions in 3 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
-    <sub>[#148989](https://github.com/flutter/flutter/pull/148989) opened on on May 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) 271 additions and 770 deletions in 94 files</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a sentinel value for `TextStyle.height`<br />
     <sub>[#149049](https://github.com/flutter/flutter/pull/149049) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149049) 27 additions and 10 deletions in 4 files</sub><br />
 
