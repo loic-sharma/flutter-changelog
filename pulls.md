@@ -77,3 +77,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for radio.toggleable.0.dart<br />
     <sub>[#149153](https://github.com/flutter/flutter/pull/149153) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149153) 34 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.<br />
+    <sub>[#149180](https://github.com/flutter/flutter/pull/149180) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149180) 112 additions and 5 deletions in 3 files</sub><br />
+
