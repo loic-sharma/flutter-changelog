@@ -609,7 +609,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade all[most] androidx dependencies to latest
-    <sub>[#53001](https://github.com/flutter/engine/pull/53001) merged on May 28, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/53001) over 4 days, 54 additions and 430 deletions in 10 files</sub>
+    <sub>[#53001](https://github.com/flutter/engine/pull/53001) merged on May 28, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/53001) over 4 days, 54 additions and 430 deletions in 10 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; FlutterFragment predictive back
