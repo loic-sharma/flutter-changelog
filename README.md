@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-3 commits.
+4 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler<br />
     <sub>[#149129](https://github.com/flutter/flutter/pull/149129) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) over 19 hours, 0 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Use kebabCase directly<br />
+    <sub>[#149150](https://github.com/flutter/flutter/pull/149150) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149150) over 13 hours, 12 additions and 7 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart<br />
     <sub>[#148453](https://github.com/flutter/flutter/pull/148453) merged on May 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148453) over 1 week, 29 additions and 1 deletion in 2 files</sub><br />
