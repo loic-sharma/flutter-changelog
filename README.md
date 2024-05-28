@@ -602,7 +602,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-6 commits.
+7 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -615,6 +615,10 @@
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Add Linux platform support for fetching refresh rate on startup.<br />
     <sub>[#52934](https://github.com/flutter/engine/pull/52934) merged on May 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/52934) over 1 week, 116 additions and 3 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] shrunk the buffer for the rrect_blur<br />
+    <sub>[#53068](https://github.com/flutter/engine/pull/53068) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53068) over 52 minutes, 29 additions and 15 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add an unoptimized Android debug config to local_engine.json.<br />
     <sub>[#53057](https://github.com/flutter/engine/pull/53057) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53057) over 2 hours, 27 additions and 0 deletions in 1 file</sub><br />
