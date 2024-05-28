@@ -141,7 +141,7 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Linux numpad shortcuts on web
-    <sub>[#148988](https://github.com/flutter/flutter/pull/148988) merged on May 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148988) over 2 days, 90 additions and 5 deletions in 2 files</sub>
+    <sub>[#148988](https://github.com/flutter/flutter/pull/148988) merged on May 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148988) over 2 days, 90 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Infra team pages
