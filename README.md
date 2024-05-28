@@ -21,7 +21,7 @@
     <sub><details><summary>1 image...</summary>![stylus_hover_mouse](https://github.com/flutter/flutter/assets/389558/dc5280fd-cdac-446d-beea-d55c3739c091)</details></sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove `TextEditingController` private member access<br />
-    <sub>[#149042](https://github.com/flutter/flutter/pull/149042) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149042) over 4 days, 54 additions and 7 deletions in 2 files</sub><br />
+    <sub>[#149042](https://github.com/flutter/flutter/pull/149042) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149042) over 4 days, 54 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
