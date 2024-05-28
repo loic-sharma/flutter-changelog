@@ -74,6 +74,3 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [CP-stable] Remove `TextEditingController` private member access (#149042)<br />
-    <sub>[#149208](https://github.com/flutter/flutter/pull/149208) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149208) 54 additions and 7 deletions in 2 files</sub><br />
-
