@@ -4,7 +4,11 @@
 
 ### May 25, 2024 to May 31, 2024
 
-1 commits.
+2 commits.
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler
+    <sub>[#149129](https://github.com/flutter/flutter/pull/149129) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) over 19 hours, 0 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart
     <sub>[#148453](https://github.com/flutter/flutter/pull/148453) merged on May 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148453) over 1 week, 29 additions and 1 deletion in 2 files</sub>
