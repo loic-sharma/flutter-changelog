@@ -978,7 +978,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-4 commits.
+5 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub>
@@ -987,6 +987,11 @@
 * **[Hari07](https://github.com/Hari-07)** &mdash; [google_maps_flutter] Implement polyline patterns in google maps ios
     <sub>[#5757](https://github.com/flutter/packages/pull/5757) merged on May 28, 2024 &mdash; **Small:** [108 comments](https://github.com/flutter/packages/pull/5757) over 5 months, 213 additions and 24 deletions in 14 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.22 to 2.0.0 in /packages/pigeon/platform_tests/test_plugin/android
+    <sub>[#6815](https://github.com/flutter/packages/pull/6815) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6815) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=1.9.22&new-version=2.0.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.webkit:webkit from 1.10.0 to 1.11.0 in /packages/webview_flutter/webview_flutter_android/android
     <sub>[#6805](https://github.com/flutter/packages/pull/6805) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6805) over 1 day, 6 additions and 2 deletions in 3 files</sub>
