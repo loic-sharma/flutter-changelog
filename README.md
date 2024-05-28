@@ -956,12 +956,16 @@
 
 ### May 25, 2024 to May 31, 2024
 
-1 commits.
+2 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.webkit:webkit from 1.10.0 to 1.11.0 in /packages/webview_flutter/webview_flutter_android/android<br />
     <sub>[#6805](https://github.com/flutter/packages/pull/6805) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6805) over 1 day, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.webkit:webkit&package-manager=gradle&previous-version=1.10.0&new-version=1.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; [go_router] docs: updated link in navigation.md to correct file path for push_with_shell_route.dart<br />
+    <sub>[#6670](https://github.com/flutter/packages/pull/6670) merged on May 28, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6670) over 3 weeks, 6 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 ### May 18, 2024 to May 24, 2024
 
