@@ -4,7 +4,16 @@
 
 ### May 25, 2024 to May 31, 2024
 
-6 commits.
+8 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix M2 InputDecorator suffix icon doesn't turn red on error<br />
+    <sub>[#149161](https://github.com/flutter/flutter/pull/149161) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149161) over 10 hours, 28 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jhonatan Ciriaco](https://github.com/JhonySpark), [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/20682772/118683356-b22bd200-b7d7-11eb-9072-eefc5721f09e.png)![image](https://user-images.githubusercontent.com/20682772/118683274-a17b5c00-b7d7-11eb-94b4-62cb430f43dd.png)</details></sub>
+
+* **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
+    <sub>[#143079](https://github.com/flutter/flutter/pull/143079) merged on May 28, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/143079) over 3 months, 484 additions and 36 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Mouse onEnter and onExit now support hovering stylus<br />
     <sub>[#149006](https://github.com/flutter/flutter/pull/149006) merged on May 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149006) over 4 days, 165 additions and 57 deletions in 4 files</sub><br />
@@ -965,7 +974,11 @@
 
 ### May 25, 2024 to May 31, 2024
 
-2 commits.
+3 commits.
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding<br />
+    <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.webkit:webkit from 1.10.0 to 1.11.0 in /packages/webview_flutter/webview_flutter_android/android<br />
     <sub>[#6805](https://github.com/flutter/packages/pull/6805) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6805) over 1 day, 6 additions and 2 deletions in 3 files</sub><br />
