@@ -74,3 +74,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.<br />
     <sub>[#149180](https://github.com/flutter/flutter/pull/149180) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149180) 112 additions and 5 deletions in 3 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Change `android_plugin_new_output_dir_test.dart` test description<br />
+    <sub>[#149198](https://github.com/flutter/flutter/pull/149198) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149198) 1 addition and 1 deletion in 1 file</sub><br />
+
