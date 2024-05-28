@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-10 commits.
+11 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix M2 InputDecorator suffix icon doesn't turn red on error<br />
     <sub>[#149161](https://github.com/flutter/flutter/pull/149161) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149161) over 10 hours, 28 additions and 2 deletions in 2 files</sub><br />
@@ -40,6 +40,10 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler<br />
     <sub>[#149129](https://github.com/flutter/flutter/pull/149129) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) over 19 hours, 0 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix the RenderFlex.computeDryBaseline implementation to match computeDistanceToActualBaseline<br />
+    <sub>[#149062](https://github.com/flutter/flutter/pull/149062) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149062) over 4 days, 58 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Use kebabCase directly<br />
     <sub>[#149150](https://github.com/flutter/flutter/pull/149150) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149150) over 13 hours, 12 additions and 7 deletions in 5 files</sub><br />
