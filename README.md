@@ -572,7 +572,11 @@
 
 ### May 25, 2024 to May 31, 2024
 
-1 commits.
+2 commits.
+
+* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Add Linux platform support for fetching refresh rate on startup.<br />
+    <sub>[#52934](https://github.com/flutter/engine/pull/52934) merged on May 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/52934) over 1 week, 116 additions and 3 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Suppress SPIRV validation errors in latest Vulkan SDK.<br />
     <sub>[#53049](https://github.com/flutter/engine/pull/53049) merged on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53049) over 7 hours, 15 additions and 0 deletions in 1 file</sub><br />
