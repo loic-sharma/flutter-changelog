@@ -4,7 +4,11 @@
 
 ### May 25, 2024 to May 31, 2024
 
-11 commits.
+12 commits.
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out for CurvedAnimation.<br />
+    <sub>[#147594](https://github.com/flutter/flutter/pull/147594) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147594) over 4 weeks, 46 additions and 224 deletions in 33 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix M2 InputDecorator suffix icon doesn't turn red on error<br />
     <sub>[#149161](https://github.com/flutter/flutter/pull/149161) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149161) over 10 hours, 28 additions and 2 deletions in 2 files</sub><br />
