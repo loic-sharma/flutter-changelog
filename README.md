@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-8 commits.
+10 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix M2 InputDecorator suffix icon doesn't turn red on error<br />
     <sub>[#149161](https://github.com/flutter/flutter/pull/149161) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149161) over 10 hours, 28 additions and 2 deletions in 2 files</sub><br />
@@ -14,6 +14,11 @@
 * **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) merged on May 28, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/143079) over 3 months, 484 additions and 36 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaky test.<br />
+    <sub>[#149199](https://github.com/flutter/flutter/pull/149199) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149199) over 4 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="268" alt="Screenshot 2024-05-28 at 11 50 33 AM" src="https://github.com/flutter/flutter/assets/12115586/c1a1bf5e-4df4-4819-b897-b09021d3a07a"></details></sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Mouse onEnter and onExit now support hovering stylus<br />
     <sub>[#149006](https://github.com/flutter/flutter/pull/149006) merged on May 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149006) over 4 days, 165 additions and 57 deletions in 4 files</sub><br />
@@ -27,6 +32,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Change `android_plugin_new_output_dir_test.dart` test description<br />
+    <sub>[#149198](https://github.com/flutter/flutter/pull/149198) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149198) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler<br />
     <sub>[#149129](https://github.com/flutter/flutter/pull/149129) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) over 19 hours, 0 additions and 5 deletions in 3 files</sub><br />
