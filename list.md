@@ -954,9 +954,19 @@
 
 ## flutter/packages
 
+### May 25, 2024 to May 31, 2024
+
+1 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.webkit:webkit from 1.10.0 to 1.11.0 in /packages/webview_flutter/webview_flutter_android/android
+    <sub>[#6805](https://github.com/flutter/packages/pull/6805) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6805) over 1 day, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.webkit:webkit&package-manager=gradle&previous-version=1.10.0&new-version=1.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
 ### May 18, 2024 to May 24, 2024
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Adds onHttpError callback to NavigationDelegate to catch HTTP error status codes
     <sub>[#6378](https://github.com/flutter/packages/pull/6378) merged on May 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6378) over 2 months, 104 additions and 5 deletions in 12 files</sub>
@@ -1038,6 +1048,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 5dcb86f68f23 to a14f74ff3a1c (3 revisions)
     <sub>[#6784](https://github.com/flutter/packages/pull/6784) merged on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6784) over 52 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### May 11, 2024 to May 17, 2024
 
