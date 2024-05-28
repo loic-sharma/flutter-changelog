@@ -80,3 +80,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for radio.toggleable.0.dart<br />
     <sub>[#149153](https://github.com/flutter/flutter/pull/149153) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149153) 34 additions and 1 deletion in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix M2 InputDecorator suffix icon doesn't turn red on error<br />
+    <sub>[#149161](https://github.com/flutter/flutter/pull/149161) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149161) 28 additions and 2 deletions in 2 files</sub><br />
+
