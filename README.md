@@ -602,7 +602,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-7 commits.
+8 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -611,6 +611,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade all[most] androidx dependencies to latest<br />
     <sub>[#53001](https://github.com/flutter/engine/pull/53001) merged on May 28, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/53001) over 4 days, 54 additions and 430 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; FlutterFragment predictive back<br />
+    <sub>[#52302](https://github.com/flutter/engine/pull/52302) merged on May 28, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/52302) over 1 month, 47 additions and 9 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Add Linux platform support for fetching refresh rate on startup.<br />
     <sub>[#52934](https://github.com/flutter/engine/pull/52934) merged on May 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/52934) over 1 week, 116 additions and 3 deletions in 9 files</sub><br />
