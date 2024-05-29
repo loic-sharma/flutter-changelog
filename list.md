@@ -690,7 +690,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-17 commits.
+18 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub>
@@ -723,6 +723,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix barriers prior to mip generation.
     <sub>[#53082](https://github.com/flutter/engine/pull/53082) merged on May 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/53082) over 16 hours, 12 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Update CONTRIBUTING.md links
+    <sub>[#53043](https://github.com/flutter/engine/pull/53043) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53043) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Switch to FilterQuality.medium for images
     <sub>[#52984](https://github.com/flutter/engine/pull/52984) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52984) over 1 week, 11 additions and 2 deletions in 3 files</sub>
