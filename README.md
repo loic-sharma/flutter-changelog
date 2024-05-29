@@ -673,7 +673,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-16 commits.
+17 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -686,6 +686,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; FlutterFragment predictive back<br />
     <sub>[#52302](https://github.com/flutter/engine/pull/52302) merged on May 28, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/52302) over 1 month, 47 additions and 9 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert changes to IO thread upload scheduling.<br />
+    <sub>[#53096](https://github.com/flutter/engine/pull/53096) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53096) over 59 minutes, 1 addition and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] relax conditions for SkRRect.isSimple conversion to impeller::RRect.<br />
     <sub>[#53083](https://github.com/flutter/engine/pull/53083) merged on May 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53083) over 12 hours, 32 additions and 1 deletion in 4 files</sub><br />
