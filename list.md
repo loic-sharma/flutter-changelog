@@ -669,7 +669,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-14 commits.
+15 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub>
@@ -694,6 +694,10 @@
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Add Linux platform support for fetching refresh rate on startup.
     <sub>[#52934](https://github.com/flutter/engine/pull/52934) merged on May 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/52934) over 1 week, 116 additions and 3 deletions in 9 files</sub>
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Switch to FilterQuality.medium for images
+    <sub>[#52984](https://github.com/flutter/engine/pull/52984) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52984) over 1 week, 11 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; DisplayList forward opacity incompatibility through deferred saves
     <sub>[#53078](https://github.com/flutter/engine/pull/53078) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53078) over 3 hours, 49 additions and 23 deletions in 3 files</sub>
