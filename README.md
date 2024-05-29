@@ -4,10 +4,10 @@
 
 ### May 25, 2024 to May 31, 2024
 
-29 commits.
+30 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevent LayoutBuilder from rebuilding more than once<br />
-    <sub>[#147856](https://github.com/flutter/flutter/pull/147856) merged on May 29, 2024 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/147856) over 3 weeks, 712 additions and 248 deletions in 8 files</sub><br />
+    <sub>[#147856](https://github.com/flutter/flutter/pull/147856) merged on May 29, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/147856) over 3 weeks, 712 additions and 248 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out for CurvedAnimation.<br />
@@ -59,6 +59,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Prevent LayoutBuilder from rebuilding more than once (#147856)"<br />
+    <sub>[#149279](https://github.com/flutter/flutter/pull/149279) merged on May 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149279) over 48 seconds, 248 additions and 712 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unskip expression evaluation test<br />
     <sub>[#149253](https://github.com/flutter/flutter/pull/149253) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149253) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
