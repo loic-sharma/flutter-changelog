@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-21 commits.
+22 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out for CurvedAnimation.<br />
     <sub>[#147594](https://github.com/flutter/flutter/pull/147594) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147594) over 4 weeks, 46 additions and 224 deletions in 33 files</sub><br />
@@ -77,6 +77,10 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler<br />
     <sub>[#149129](https://github.com/flutter/flutter/pull/149129) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) over 19 hours, 0 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for radio.toggleable.0.dart<br />
+    <sub>[#149153](https://github.com/flutter/flutter/pull/149153) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149153) over 1 day, 32 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Hany Mohamed](https://github.com/hany-achraf)** &mdash; Change snack bar default hitTestBehavior to deferToChild when SnackBarThemeData.insetPadding is not null<br />
     <sub>[#148568](https://github.com/flutter/flutter/pull/148568) merged on May 29, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148568) over 1 week, 63 additions and 2 deletions in 2 files</sub><br />
