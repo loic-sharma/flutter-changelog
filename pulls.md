@@ -18,7 +18,7 @@
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
-    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
+    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) opened on on May 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148574) 122 additions and 0 deletions in 2 files</sub><br />
@@ -48,16 +48,13 @@
     <sub>[#149102](https://github.com/flutter/flutter/pull/149102) opened on on May 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149102) 424 additions and 44 deletions in 5 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_theme.0.dart<br />
-    <sub>[#149120](https://github.com/flutter/flutter/pull/149120) opened on on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149120) 30 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#149120](https://github.com/flutter/flutter/pull/149120) opened on on May 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149120) 30 additions and 1 deletion in 2 files</sub><br />
 
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example<br />
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/149147) 208 additions and 0 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for radio.toggleable.0.dart<br />
-    <sub>[#149153](https://github.com/flutter/flutter/pull/149153) opened on on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149153) 32 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.<br />
-    <sub>[#149180](https://github.com/flutter/flutter/pull/149180) opened on on May 28, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149180) 101 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#149153](https://github.com/flutter/flutter/pull/149153) opened on on May 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149153) 32 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
