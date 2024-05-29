@@ -71,7 +71,7 @@
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub><br />
 
 * **[Hany Mohamed](https://github.com/hany-achraf)** &mdash; Change snack bar default hitTestBehavior to deferToChild when SnackBarThemeData.insetPadding is not null<br />
-    <sub>[#148568](https://github.com/flutter/flutter/pull/148568) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148568) over 1 week, 63 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#148568](https://github.com/flutter/flutter/pull/148568) merged on May 29, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148568) over 1 week, 63 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix the RenderFlex.computeDryBaseline implementation to match computeDistanceToActualBaseline<br />
