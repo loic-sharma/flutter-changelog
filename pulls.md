@@ -48,16 +48,16 @@
     <sub>[#149102](https://github.com/flutter/flutter/pull/149102) opened on on May 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149102) 424 additions and 44 deletions in 5 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_theme.0.dart<br />
-    <sub>[#149120](https://github.com/flutter/flutter/pull/149120) opened on on May 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149120) 32 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#149120](https://github.com/flutter/flutter/pull/149120) opened on on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149120) 30 additions and 1 deletion in 2 files</sub><br />
 
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; added the SimpleCascadingMenuApp example.<br />
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149147) 208 additions and 0 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for radio.toggleable.0.dart<br />
-    <sub>[#149153](https://github.com/flutter/flutter/pull/149153) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149153) 34 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#149153](https://github.com/flutter/flutter/pull/149153) opened on on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149153) 34 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.<br />
-    <sub>[#149180](https://github.com/flutter/flutter/pull/149180) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149180) 112 additions and 5 deletions in 3 files</sub><br />
+    <sub>[#149180](https://github.com/flutter/flutter/pull/149180) opened on on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149180) 112 additions and 5 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
