@@ -18,7 +18,7 @@
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[Suhwan Cha](https://github.com/SuhwanCha)** &mdash; fixes 96696: handle status bar tap event<br />
-    <sub>[#148390](https://github.com/flutter/flutter/pull/148390) opened on on May 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148390) 54 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#148390](https://github.com/flutter/flutter/pull/148390) opened on on May 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148390) 54 additions and 0 deletions in 3 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
