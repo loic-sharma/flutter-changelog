@@ -57,7 +57,7 @@
     <sub>[#149153](https://github.com/flutter/flutter/pull/149153) opened on on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149153) 32 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.<br />
-    <sub>[#149180](https://github.com/flutter/flutter/pull/149180) opened on on May 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/149180) 101 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#149180](https://github.com/flutter/flutter/pull/149180) opened on on May 28, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149180) 101 additions and 2 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
