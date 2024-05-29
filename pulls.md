@@ -17,9 +17,6 @@
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; PageController: added default [duration] and [curve] values to animateToPage, nextPage and previousPage methods<br />
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
-* **[Suhwan Cha](https://github.com/SuhwanCha)** &mdash; fixes 96696: handle status bar tap event<br />
-    <sub>[#148390](https://github.com/flutter/flutter/pull/148390) opened on on May 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148390) 54 additions and 0 deletions in 3 files</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
 
@@ -40,9 +37,6 @@
 
 * **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for abi version code<br />
     <sub>[#149087](https://github.com/flutter/flutter/pull/149087) opened on on May 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149087) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Vincent Velociter](https://github.com/veloce)** &mdash; Cupertino transparent navigation bars<br />
-    <sub>[#149102](https://github.com/flutter/flutter/pull/149102) opened on on May 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149102) 424 additions and 44 deletions in 5 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_theme.0.dart<br />
     <sub>[#149120](https://github.com/flutter/flutter/pull/149120) opened on on May 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149120) 30 additions and 1 deletion in 2 files</sub><br />

@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-20 commits.
+21 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out for CurvedAnimation.<br />
     <sub>[#147594](https://github.com/flutter/flutter/pull/147594) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147594) over 4 weeks, 46 additions and 224 deletions in 33 files</sub><br />
@@ -33,6 +33,10 @@
     <sub>[#149006](https://github.com/flutter/flutter/pull/149006) merged on May 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149006) over 4 days, 165 additions and 57 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
     <sub><details><summary>1 image...</summary>![stylus_hover_mouse](https://github.com/flutter/flutter/assets/389558/dc5280fd-cdac-446d-beea-d55c3739c091)</details></sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a sentinel value for `TextStyle.height`<br />
+    <sub>[#149049](https://github.com/flutter/flutter/pull/149049) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149049) over 5 days, 27 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove `TextEditingController` private member access<br />
     <sub>[#149042](https://github.com/flutter/flutter/pull/149042) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149042) over 4 days, 54 additions and 7 deletions in 2 files</sub><br />
