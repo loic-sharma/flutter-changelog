@@ -728,7 +728,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] shrunk the buffer for the rrect_blur
-    <sub>[#53068](https://github.com/flutter/engine/pull/53068) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53068) over 52 minutes, 29 additions and 15 deletions in 2 files</sub>
+    <sub>[#53068](https://github.com/flutter/engine/pull/53068) merged on May 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53068) over 52 minutes, 29 additions and 15 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add an unoptimized Android debug config to local_engine.json.
