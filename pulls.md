@@ -38,9 +38,6 @@
 * **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for abi version code<br />
     <sub>[#149087](https://github.com/flutter/flutter/pull/149087) opened on on May 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149087) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_theme.0.dart<br />
-    <sub>[#149120](https://github.com/flutter/flutter/pull/149120) opened on on May 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149120) 30 additions and 1 deletion in 2 files</sub><br />
-
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example<br />
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149147) 192 additions and 0 deletions in 3 files</sub><br />
 
