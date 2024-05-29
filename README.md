@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-18 commits.
+19 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out for CurvedAnimation.<br />
     <sub>[#147594](https://github.com/flutter/flutter/pull/147594) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147594) over 4 weeks, 46 additions and 224 deletions in 33 files</sub><br />
@@ -18,6 +18,11 @@
 * **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) merged on May 28, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/143079) over 3 months, 484 additions and 36 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leak in editable_text_test.dart.<br />
+    <sub>[#149223](https://github.com/flutter/flutter/pull/149223) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149223) over 14 hours, 3 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="145" alt="Screenshot 2024-05-28 at 6 25 22 PM" src="https://github.com/flutter/flutter/assets/12115586/5eb32012-b1c4-4188-8e9b-a6631483960c"></details></sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaky test.<br />
     <sub>[#149199](https://github.com/flutter/flutter/pull/149199) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149199) over 4 hours, 1 addition and 0 deletions in 1 file</sub><br />
