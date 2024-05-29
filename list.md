@@ -1089,7 +1089,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-12 commits.
+13 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub>
@@ -1102,6 +1102,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Migrate deprecated doc references
     <sub>[#6744](https://github.com/flutter/packages/pull/6744) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6744) over 1 week, 16 additions and 12 deletions in 3 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Undeprecate BitmapDescriptor methods
+    <sub>[#6832](https://github.com/flutter/packages/pull/6832) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6832) over 30 minutes, 7 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [dynamic_layouts] Remove the dynamic_layouts package
     <sub>[#6830](https://github.com/flutter/packages/pull/6830) merged on May 29, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/6830) over 1 hour, 0 additions and 7264 deletions in 142 files</sub>

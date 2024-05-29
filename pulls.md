@@ -47,6 +47,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for standard_fab_location.0.dart<br />
     <sub>[#149225](https://github.com/flutter/flutter/pull/149225) opened on on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149225) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unskip expression evaluation test<br />
-    <sub>[#149253](https://github.com/flutter/flutter/pull/149253) opened on on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149253) 1 addition and 1 deletion in 1 file</sub><br />
-
