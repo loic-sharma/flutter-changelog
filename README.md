@@ -1044,7 +1044,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-5 commits.
+7 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding<br />
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub><br />
@@ -1053,6 +1053,10 @@
 * **[Hari07](https://github.com/Hari-07)** &mdash; [google_maps_flutter] Implement polyline patterns in google maps ios<br />
     <sub>[#5757](https://github.com/flutter/packages/pull/5757) merged on May 28, 2024 &mdash; **Small:** [108 comments](https://github.com/flutter/packages/pull/5757) over 5 months, 213 additions and 24 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Migrate deprecated doc references<br />
+    <sub>[#6744](https://github.com/flutter/packages/pull/6744) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6744) over 1 week, 16 additions and 12 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.22 to 2.0.0 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#6815](https://github.com/flutter/packages/pull/6815) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6815) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1067,6 +1071,10 @@
 * **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; [go_router] docs: updated link in navigation.md to correct file path for push_with_shell_route.dart<br />
     <sub>[#6670](https://github.com/flutter/packages/pull/6670) merged on May 28, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6670) over 3 weeks, 6 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [flutter_adaptive_scaffold] Migrate MaterialStateProperty to WidgetStateProperty<br />
+    <sub>[#6743](https://github.com/flutter/packages/pull/6743) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6743) over 1 week, 14 additions and 13 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 ### May 18, 2024 to May 24, 2024
 

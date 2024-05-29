@@ -62,6 +62,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for standard_fab_location.0.dart<br />
     <sub>[#149225](https://github.com/flutter/flutter/pull/149225) opened on on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149225) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `ChipAnimationStyle` to override default chips animations durations<br />
-    <sub>[#149245](https://github.com/flutter/flutter/pull/149245) opened on on May 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149245) 832 additions and 4 deletions in 12 files</sub><br />
-
