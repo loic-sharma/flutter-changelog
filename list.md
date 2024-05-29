@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-26 commits.
+29 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevent LayoutBuilder from rebuilding more than once
     <sub>[#147856](https://github.com/flutter/flutter/pull/147856) merged on May 29, 2024 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/147856) over 3 weeks, 712 additions and 248 deletions in 8 files</sub>
@@ -27,6 +27,11 @@
 * **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) merged on May 28, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/143079) over 3 months, 484 additions and 36 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds benchmark for rrect_blur.
+    <sub>[#149261](https://github.com/flutter/flutter/pull/149261) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149261) over 4 hours, 192 additions and 0 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>1 image...</summary>![rrectblurbenchmark (2)](https://github.com/flutter/flutter/assets/30870216/ec849519-4619-4c2f-8bb3-8e0584c4566f)</details></sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leak in editable_text_test.dart.
     <sub>[#149223](https://github.com/flutter/flutter/pull/149223) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149223) over 14 hours, 3 additions and 1 deletion in 1 file</sub>
@@ -55,6 +60,10 @@
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unskip expression evaluation test
+    <sub>[#149253](https://github.com/flutter/flutter/pull/149253) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149253) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google)</sub>
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "sliverGridDelegate mainAxisExtent add assert (#148470)"
     <sub>[#149224](https://github.com/flutter/flutter/pull/149224) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149224) over 26 seconds, 2 additions and 53 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -74,6 +83,10 @@
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148767) over 1 week, 52 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; temporarily disable SemanticsAction tests to unblock engine change
+    <sub>[#149274](https://github.com/flutter/flutter/pull/149274) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149274) over 47 minutes, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove dynamic_layouts from issue template
     <sub>[#149252](https://github.com/flutter/flutter/pull/149252) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149252) over 59 minutes, 0 additions and 1 deletion in 1 file</sub>
