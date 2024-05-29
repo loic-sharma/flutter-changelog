@@ -36,7 +36,7 @@
     <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148920) 106 additions and 1 deletion in 2 files</sub><br />
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; content dimensions are not established get controller value error<br />
-    <sub>[#148938](https://github.com/flutter/flutter/pull/148938) opened on on May 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148938) 25 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#148938](https://github.com/flutter/flutter/pull/148938) opened on on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148938) 25 additions and 2 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a sentinel value for `TextStyle.height`<br />
     <sub>[#149049](https://github.com/flutter/flutter/pull/149049) opened on on May 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149049) 27 additions and 10 deletions in 4 files</sub><br />
