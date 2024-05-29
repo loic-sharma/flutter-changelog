@@ -631,7 +631,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-11 commits.
+12 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -652,6 +652,10 @@
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Add Linux platform support for fetching refresh rate on startup.<br />
     <sub>[#52934](https://github.com/flutter/engine/pull/52934) merged on May 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/52934) over 1 week, 116 additions and 3 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; DisplayList forward opacity incompatibility through deferred saves<br />
+    <sub>[#53078](https://github.com/flutter/engine/pull/53078) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53078) over 3 hours, 49 additions and 23 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove --ios-cpu flag. Only the arm64 variant is supported.<br />
     <sub>[#53044](https://github.com/flutter/engine/pull/53044) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53044) over 2 days, 1 addition and 11 deletions in 1 file</sub><br />
