@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-23 commits.
+24 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out for CurvedAnimation.<br />
     <sub>[#147594](https://github.com/flutter/flutter/pull/147594) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147594) over 4 weeks, 46 additions and 224 deletions in 33 files</sub><br />
@@ -14,6 +14,11 @@
     <sub>[#149161](https://github.com/flutter/flutter/pull/149161) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149161) over 10 hours, 28 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jhonatan Ciriaco](https://github.com/JhonySpark), [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/20682772/118683356-b22bd200-b7d7-11eb-9072-eefc5721f09e.png)![image](https://user-images.githubusercontent.com/20682772/118683274-a17b5c00-b7d7-11eb-94b4-62cb430f43dd.png)</details></sub>
+
+* **[Ellet](https://github.com/ellet0)** &mdash; Update progress_indicator.dart to indicate the adaptive option is for both macOS and iOS<br />
+    <sub>[#145246](https://github.com/flutter/flutter/pull/145246) merged on May 29, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/145246) over 2 months, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/73608287/51c21a43-ce64-4253-aff7-1854a7366eea)</details></sub>
 
 * **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) merged on May 28, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/143079) over 3 months, 484 additions and 36 deletions in 2 files</sub><br />
@@ -463,7 +468,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Native ios context menu<br />
-    <sub>[#143002](https://github.com/flutter/flutter/pull/143002) merged on May 13, 2024 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/143002) over 3 months, 1321 additions and 43 deletions in 13 files</sub><br />
+    <sub>[#143002](https://github.com/flutter/flutter/pull/143002) merged on May 13, 2024 &mdash; **Large:** [40 comments](https://github.com/flutter/flutter/pull/143002) over 3 months, 1321 additions and 43 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
     <sub><details><summary>1 image...</summary><img width="385" alt="Screenshot 2024-02-06 at 11 52 25 AM" src="https://github.com/flutter/flutter/assets/389558/d82e18ee-b8a3-4082-9225-cf47fa7f3674"></details></sub>
 
