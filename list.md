@@ -1089,7 +1089,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-14 commits.
+15 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub>
@@ -1144,6 +1144,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [flutter_adaptive_scaffold] Migrate MaterialStateProperty to WidgetStateProperty
     <sub>[#6743](https://github.com/flutter/packages/pull/6743) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6743) over 1 week, 14 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Amend package:web tweaks to allow package:web roll
+    <sub>[#6793](https://github.com/flutter/packages/pull/6793) merged on May 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6793) over 5 days, 22 additions and 11 deletions in 5 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Re-land] Bump legacy all_packages project AGP version to 7.0.0, Gradle version to 7.0.2
     <sub>[#6742](https://github.com/flutter/packages/pull/6742) merged on May 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6742) over 1 week, 22 additions and 6 deletions in 7 files</sub>
