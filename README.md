@@ -1071,7 +1071,7 @@
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [dynamic_layouts] Remove the dynamic_layouts package<br />
-    <sub>[#6830](https://github.com/flutter/packages/pull/6830) merged on May 29, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/6830) over 1 hour, 0 additions and 7264 deletions in 142 files</sub><br />
+    <sub>[#6830](https://github.com/flutter/packages/pull/6830) merged on May 29, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/6830) over 1 hour, 0 additions and 7264 deletions in 142 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add notes about Android permissions<br />
