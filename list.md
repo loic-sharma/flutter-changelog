@@ -4,7 +4,11 @@
 
 ### May 25, 2024 to May 31, 2024
 
-25 commits.
+26 commits.
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevent LayoutBuilder from rebuilding more than once
+    <sub>[#147856](https://github.com/flutter/flutter/pull/147856) merged on May 29, 2024 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/147856) over 3 weeks, 712 additions and 248 deletions in 8 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out for CurvedAnimation.
     <sub>[#147594](https://github.com/flutter/flutter/pull/147594) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147594) over 4 weeks, 46 additions and 224 deletions in 33 files</sub>
@@ -1104,7 +1108,7 @@
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `video_player/android` from `SurfaceTexture`->`SurfaceProducer`.
-    <sub>[#6456](https://github.com/flutter/packages/pull/6456) merged on May 29, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/6456) over 1 month, 136 additions and 38 deletions in 6 files</sub>
+    <sub>[#6456](https://github.com/flutter/packages/pull/6456) merged on May 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6456) over 1 month, 136 additions and 38 deletions in 6 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Undeprecate BitmapDescriptor methods
