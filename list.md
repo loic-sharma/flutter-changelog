@@ -54,7 +54,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change `android_plugin_new_output_dir_test.dart` test description
-    <sub>[#149198](https://github.com/flutter/flutter/pull/149198) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149198) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>[#149198](https://github.com/flutter/flutter/pull/149198) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149198) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler
