@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-19 commits.
+20 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out for CurvedAnimation.<br />
     <sub>[#147594](https://github.com/flutter/flutter/pull/147594) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147594) over 4 weeks, 46 additions and 224 deletions in 33 files</sub><br />
@@ -57,6 +57,10 @@
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call<br />
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148767) over 1 week, 52 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove dynamic_layouts from issue template<br />
+    <sub>[#149252](https://github.com/flutter/flutter/pull/149252) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149252) over 59 minutes, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add link to golden file test docs in the framework gardener guide<br />
     <sub>[#149207](https://github.com/flutter/flutter/pull/149207) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149207) over 4 hours, 7 additions and 1 deletion in 2 files</sub><br />
@@ -1052,7 +1056,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-9 commits.
+10 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding<br />
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub><br />
@@ -1065,6 +1069,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Migrate deprecated doc references<br />
     <sub>[#6744](https://github.com/flutter/packages/pull/6744) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6744) over 1 week, 16 additions and 12 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [dynamic_layouts] Remove the dynamic_layouts package<br />
+    <sub>[#6830](https://github.com/flutter/packages/pull/6830) merged on May 29, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/6830) over 1 hour, 0 additions and 7264 deletions in 142 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add notes about Android permissions<br />
     <sub>[#6741](https://github.com/flutter/packages/pull/6741) merged on May 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6741) over 1 week, 38 additions and 4 deletions in 7 files</sub><br />
