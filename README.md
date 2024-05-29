@@ -1052,7 +1052,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-8 commits.
+9 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding<br />
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub><br />
@@ -1065,6 +1065,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Migrate deprecated doc references<br />
     <sub>[#6744](https://github.com/flutter/packages/pull/6744) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6744) over 1 week, 16 additions and 12 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add notes about Android permissions<br />
+    <sub>[#6741](https://github.com/flutter/packages/pull/6741) merged on May 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6741) over 1 week, 38 additions and 4 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 1.9.22 to 2.0.0 in /packages/pigeon/platform_tests/test_plugin/android<br />
     <sub>[#6815](https://github.com/flutter/packages/pull/6815) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6815) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
