@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-15 commits.
+16 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out for CurvedAnimation.
     <sub>[#147594](https://github.com/flutter/flutter/pull/147594) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147594) over 4 weeks, 46 additions and 224 deletions in 33 files</sub>
@@ -37,8 +37,12 @@
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "sliverGridDelegate mainAxisExtent add assert (#148470)"
+    <sub>[#149224](https://github.com/flutter/flutter/pull/149224) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149224) over 26 seconds, 2 additions and 53 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; sliverGridDelegate mainAxisExtent add assert
-    <sub>[#148470](https://github.com/flutter/flutter/pull/148470) merged on May 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148470) over 1 week, 53 additions and 2 deletions in 2 files</sub>
+    <sub>[#148470](https://github.com/flutter/flutter/pull/148470) merged on May 29, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148470) over 1 week, 53 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change `android_plugin_new_output_dir_test.dart` test description
