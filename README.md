@@ -41,6 +41,10 @@
     <sub>[#148470](https://github.com/flutter/flutter/pull/148470) merged on May 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148470) over 1 week, 53 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Change `android_plugin_new_output_dir_test.dart` test description<br />
+    <sub>[#149198](https://github.com/flutter/flutter/pull/149198) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149198) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call<br />
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148767) over 1 week, 52 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
@@ -48,10 +52,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add link to golden file test docs in the framework gardener guide<br />
     <sub>[#149207](https://github.com/flutter/flutter/pull/149207) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149207) over 4 hours, 7 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Change `android_plugin_new_output_dir_test.dart` test description<br />
-    <sub>[#149198](https://github.com/flutter/flutter/pull/149198) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149198) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler<br />
     <sub>[#149129](https://github.com/flutter/flutter/pull/149129) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) over 19 hours, 0 additions and 5 deletions in 3 files</sub><br />
