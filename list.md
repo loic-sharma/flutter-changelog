@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-22 commits.
+23 commits.
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Remove opt out for CurvedAnimation.
     <sub>[#147594](https://github.com/flutter/flutter/pull/147594) merged on May 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/147594) over 4 weeks, 46 additions and 224 deletions in 33 files</sub>
@@ -54,6 +54,10 @@
     <sub>[#148470](https://github.com/flutter/flutter/pull/148470) merged on May 29, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148470) over 1 week, 53 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; _ModalScopeStatus as InheritedModel
+    <sub>[#149022](https://github.com/flutter/flutter/pull/149022) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149022) over 5 days, 111 additions and 11 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.
     <sub>[#149180](https://github.com/flutter/flutter/pull/149180) merged on May 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/149180) over 21 hours, 101 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
@@ -71,7 +75,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change `android_plugin_new_output_dir_test.dart` test description
-    <sub>[#149198](https://github.com/flutter/flutter/pull/149198) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149198) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>[#149198](https://github.com/flutter/flutter/pull/149198) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149198) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler
@@ -1064,7 +1068,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-10 commits.
+11 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub>
@@ -1095,6 +1099,10 @@
     <sub>[#6805](https://github.com/flutter/packages/pull/6805) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6805) over 1 day, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.webkit:webkit&package-manager=gradle&previous-version=1.10.0&new-version=1.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `camera/android` from `SurfaceTexture`->`SurfaceProducer`.
+    <sub>[#6461](https://github.com/flutter/packages/pull/6461) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6461) over 1 month, 47 additions and 79 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams), [John McCutchan](https://github.com/johnmccutchan), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Altynbek Aidarbekov](https://github.com/altynbek132)** &mdash; [go_router] docs: updated link in navigation.md to correct file path for push_with_shell_route.dart
     <sub>[#6670](https://github.com/flutter/packages/pull/6670) merged on May 28, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6670) over 3 weeks, 6 additions and 3 deletions in 3 files</sub>
