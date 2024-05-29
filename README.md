@@ -1068,7 +1068,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-11 commits.
+12 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding<br />
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub><br />
@@ -1099,6 +1099,10 @@
     <sub>[#6805](https://github.com/flutter/packages/pull/6805) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6805) over 1 day, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.webkit:webkit&package-manager=gradle&previous-version=1.10.0&new-version=1.11.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate CameraX from SurfaceTexture to SurfaceProducer.<br />
+    <sub>[#6462](https://github.com/flutter/packages/pull/6462) merged on May 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6462) over 1 month, 33 additions and 38 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `camera/android` from `SurfaceTexture`->`SurfaceProducer`.<br />
     <sub>[#6461](https://github.com/flutter/packages/pull/6461) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6461) over 1 month, 47 additions and 79 deletions in 6 files</sub><br />
