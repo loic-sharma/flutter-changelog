@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-39 commits.
+40 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Have Material widgets in a Cupertino App partially use Cupertino theme<br />
     <sub>[#139253](https://github.com/flutter/flutter/pull/139253) merged on May 30, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/139253) over 6 months, 70 additions and 14 deletions in 4 files</sub><br />
@@ -34,14 +34,14 @@
     <sub>Reviewed by: [Jhonatan Ciriaco](https://github.com/JhonySpark), [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/20682772/118683356-b22bd200-b7d7-11eb-9072-eefc5721f09e.png)![image](https://user-images.githubusercontent.com/20682772/118683274-a17b5c00-b7d7-11eb-94b4-62cb430f43dd.png)</details></sub>
 
+* **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
+    <sub>[#143079](https://github.com/flutter/flutter/pull/143079) merged on May 28, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/143079) over 3 months, 484 additions and 36 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
 * **[Ellet](https://github.com/ellet0)** &mdash; Update progress_indicator.dart to indicate the adaptive option is for both macOS and iOS<br />
     <sub>[#145246](https://github.com/flutter/flutter/pull/145246) merged on May 29, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/145246) over 2 months, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/73608287/51c21a43-ce64-4253-aff7-1854a7366eea)</details></sub>
-
-* **[Varun Kamani](https://github.com/varunkamanibosc)** &mdash; Add selectionOverlayBuilder in CupertinoDatePicker and CupertinoTimer…<br />
-    <sub>[#143079](https://github.com/flutter/flutter/pull/143079) merged on May 28, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/143079) over 3 months, 484 additions and 36 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaky test.<br />
     <sub>[#149199](https://github.com/flutter/flutter/pull/149199) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149199) over 4 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -62,6 +62,11 @@
     <sub>[#149006](https://github.com/flutter/flutter/pull/149006) merged on May 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149006) over 4 days, 165 additions and 57 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
     <sub><details><summary>1 image...</summary>![stylus_hover_mouse](https://github.com/flutter/flutter/assets/389558/dc5280fd-cdac-446d-beea-d55c3739c091)</details></sub>
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; [GAR] [a11y] Update text button page in a11y assessment app<br />
+    <sub>[#148905](https://github.com/flutter/flutter/pull/148905) merged on May 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148905) over 1 week, 19 additions and 8 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/108393416/16f5a996-b0f1-4f04-bd99-caa3cacd4182" width=50% height=50%><img src="https://github.com/flutter/flutter/assets/108393416/1de55cec-8a18-4c36-9dac-84ae7d151fd6" width=50% height=50%></details></sub>
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Fix `Slider` throws an error when `_labelPainter` text is null<br />
     <sub>[#148462](https://github.com/flutter/flutter/pull/148462) merged on May 30, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/148462) over 2 weeks, 44 additions and 2 deletions in 3 files</sub><br />
@@ -111,21 +116,17 @@
     <sub>[#149022](https://github.com/flutter/flutter/pull/149022) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149022) over 5 days, 111 additions and 11 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[MajdSallora](https://github.com/MajdSallora)** &mdash; Add locale in DatePickerThemeData<br />
-    <sub>[#148292](https://github.com/flutter/flutter/pull/148292) merged on May 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148292) over 2 weeks, 27 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.<br />
     <sub>[#149180](https://github.com/flutter/flutter/pull/149180) merged on May 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/149180) over 21 hours, 101 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[MajdSallora](https://github.com/MajdSallora)** &mdash; Add locale in DatePickerThemeData<br />
+    <sub>[#148292](https://github.com/flutter/flutter/pull/148292) merged on May 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148292) over 2 weeks, 27 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call<br />
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148767) over 1 week, 52 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add link to golden file test docs in the framework gardener guide<br />
-    <sub>[#149207](https://github.com/flutter/flutter/pull/149207) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149207) over 4 hours, 7 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change `android_plugin_new_output_dir_test.dart` test description<br />
     <sub>[#149198](https://github.com/flutter/flutter/pull/149198) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149198) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -142,6 +143,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove dynamic_layouts from issue template<br />
     <sub>[#149252](https://github.com/flutter/flutter/pull/149252) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149252) over 59 minutes, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add link to golden file test docs in the framework gardener guide<br />
+    <sub>[#149207](https://github.com/flutter/flutter/pull/149207) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149207) over 4 hours, 7 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler<br />
     <sub>[#149129](https://github.com/flutter/flutter/pull/149129) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) over 19 hours, 0 additions and 5 deletions in 3 files</sub><br />
