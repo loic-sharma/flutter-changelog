@@ -56,3 +56,6 @@
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.<br />
     <sub>[#149315](https://github.com/flutter/flutter/pull/149315) opened on on May 30, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149315) 381 additions and 39 deletions in 2 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Rewrite CupertinoActionSheet, and fix layout deviation<br />
+    <sub>[#149334](https://github.com/flutter/flutter/pull/149334) opened on on May 30, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149334) 421 additions and 204 deletions in 2 files</sub><br />
+
