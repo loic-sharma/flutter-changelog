@@ -733,7 +733,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-25 commits.
+26 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -810,6 +810,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Suppress SPIRV validation errors in latest Vulkan SDK.<br />
     <sub>[#53049](https://github.com/flutter/engine/pull/53049) merged on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53049) over 7 hours, 15 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; Fuchsia api level 18<br />
+    <sub>[#53115](https://github.com/flutter/engine/pull/53115) merged on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53115) over 3 hours, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] enable Impeller by default on Android. (#53099)"<br />
     <sub>[#53125](https://github.com/flutter/engine/pull/53125) merged on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53125) over 1 minute, 5 additions and 9 deletions in 4 files</sub><br />
