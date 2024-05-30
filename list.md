@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-31 commits.
+32 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevent LayoutBuilder from rebuilding more than once
     <sub>[#147856](https://github.com/flutter/flutter/pull/147856) merged on May 29, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/147856) over 3 weeks, 712 additions and 248 deletions in 8 files</sub>
@@ -91,6 +91,10 @@
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148767) over 1 week, 52 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; disable Impeller on external texture test.
+    <sub>[#149292](https://github.com/flutter/flutter/pull/149292) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149292) over 42 minutes, 3 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; temporarily disable SemanticsAction tests to unblock engine change
     <sub>[#149274](https://github.com/flutter/flutter/pull/149274) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149274) over 47 minutes, 2 additions and 2 deletions in 2 files</sub>
