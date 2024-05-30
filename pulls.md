@@ -56,3 +56,6 @@
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.<br />
     <sub>[#149315](https://github.com/flutter/flutter/pull/149315) opened on on May 30, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149315) 381 additions and 39 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Refactor how we handle errors around imgtestInit/tryjobInit<br />
+    <sub>[#149356](https://github.com/flutter/flutter/pull/149356) opened on on May 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/149356) 205 additions and 114 deletions in 2 files</sub><br />
+
