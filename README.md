@@ -11,7 +11,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Enable `explicitChildNodes` for the `AlertDialog` content<br />
-    <sub>[#149130](https://github.com/flutter/flutter/pull/149130) merged on May 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149130) over 2 days, 20 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#149130](https://github.com/flutter/flutter/pull/149130) merged on May 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149130) over 2 days, 20 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2024-05-27 at 14 59 57](https://github.com/flutter/flutter/assets/48603081/3b231a7a-db71-4dbf-bd4a-dd44a537cae8)![Screenshot 2024-05-27 at 14 56 04](https://github.com/flutter/flutter/assets/48603081/219c1de5-ad35-49b3-a80f-4f036184e22b)</details></sub>
 
