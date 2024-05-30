@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-34 commits.
+35 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevent LayoutBuilder from rebuilding more than once
     <sub>[#147856](https://github.com/flutter/flutter/pull/147856) merged on May 29, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/147856) over 3 weeks, 712 additions and 248 deletions in 8 files</sub>
@@ -69,6 +69,10 @@
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[John Angelo Cordero](https://github.com/angelocordero)** &mdash; allow changing textAlign of TextField in DropdownMenu
+    <sub>[#148074](https://github.com/flutter/flutter/pull/148074) merged on May 30, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/148074) over 2 weeks, 30 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Andrew Shin](https://github.com/As90909w), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update 3.22.1 release notes to include missing fix.
     <sub>[#148999](https://github.com/flutter/flutter/pull/148999) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148999) over 6 days, 3 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub>
@@ -93,13 +97,13 @@
     <sub>[#149022](https://github.com/flutter/flutter/pull/149022) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149022) over 5 days, 111 additions and 11 deletions in 4 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.
-    <sub>[#149180](https://github.com/flutter/flutter/pull/149180) merged on May 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/149180) over 21 hours, 101 additions and 2 deletions in 3 files</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
-
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148767) over 1 week, 52 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.
+    <sub>[#149180](https://github.com/flutter/flutter/pull/149180) merged on May 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/149180) over 21 hours, 101 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; disable Impeller on external texture test.
     <sub>[#149292](https://github.com/flutter/flutter/pull/149292) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149292) over 42 minutes, 3 additions and 2 deletions in 2 files</sub>
