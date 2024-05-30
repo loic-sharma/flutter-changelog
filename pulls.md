@@ -62,3 +62,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add frame number and widget location map service extension<br />
     <sub>[#149345](https://github.com/flutter/flutter/pull/149345) opened on on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149345) 123 additions and 9 deletions in 4 files</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow `find.byTooltip` to use a RegEx<br />
+    <sub>[#149348](https://github.com/flutter/flutter/pull/149348) opened on on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149348) 31 additions and 2 deletions in 2 files</sub><br />
+
