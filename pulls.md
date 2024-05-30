@@ -21,7 +21,7 @@
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
-    <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app<br />
     <sub>[#148741](https://github.com/flutter/flutter/pull/148741) opened on on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148741) 19 additions and 21 deletions in 6 files</sub><br />
@@ -56,12 +56,6 @@
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.<br />
     <sub>[#149315](https://github.com/flutter/flutter/pull/149315) opened on on May 30, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149315) 381 additions and 39 deletions in 2 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Rewrite CupertinoActionSheet, and fix layout deviation<br />
-    <sub>[#149334](https://github.com/flutter/flutter/pull/149334) opened on on May 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149334) 421 additions and 204 deletions in 2 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add frame number and widget location map service extension<br />
     <sub>[#149345](https://github.com/flutter/flutter/pull/149345) opened on on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149345) 123 additions and 9 deletions in 4 files</sub><br />
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow `find.byTooltip` to use a RegEx<br />
-    <sub>[#149348](https://github.com/flutter/flutter/pull/149348) opened on on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149348) 31 additions and 2 deletions in 2 files</sub><br />
 
