@@ -57,5 +57,8 @@
     <sub>[#149315](https://github.com/flutter/flutter/pull/149315) opened on on May 30, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149315) 381 additions and 39 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Rewrite CupertinoActionSheet, and fix layout deviation<br />
-    <sub>[#149334](https://github.com/flutter/flutter/pull/149334) opened on on May 30, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149334) 421 additions and 204 deletions in 2 files</sub><br />
+    <sub>[#149334](https://github.com/flutter/flutter/pull/149334) opened on on May 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149334) 421 additions and 204 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add frame number and widget location map service extension<br />
+    <sub>[#149345](https://github.com/flutter/flutter/pull/149345) opened on on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149345) 123 additions and 9 deletions in 4 files</sub><br />
 
