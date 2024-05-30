@@ -746,7 +746,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-28 commits.
+29 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -787,6 +787,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix barriers prior to mip generation.<br />
     <sub>[#53082](https://github.com/flutter/engine/pull/53082) merged on May 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/53082) over 16 hours, 12 additions and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] make sure buffers are 4 aligned for foreground color blending<br />
+    <sub>[#53077](https://github.com/flutter/engine/pull/53077) merged on May 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53077) over 1 day, 77 additions and 5 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; add SemanticsAction.focus<br />
     <sub>[#53094](https://github.com/flutter/engine/pull/53094) merged on May 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53094) over 22 hours, 69 additions and 6 deletions in 9 files</sub><br />
