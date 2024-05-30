@@ -50,6 +50,6 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Place `flutter_gpu` in the package cache.<br />
     <sub>[#149299](https://github.com/flutter/flutter/pull/149299) opened on on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149299) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[flyboy](https://github.com/hello-coder-xu)** &mdash; Reverts "sliverGridDelegate mainAxisExtent add assert (#148470)" <br />
+* **[flyboy](https://github.com/hello-coder-xu)** &mdash; Reland "sliverGridDelegate mainAxisExtent add assert (#148470)" <br />
     <sub>[#149308](https://github.com/flutter/flutter/pull/149308) opened on on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149308) 53 additions and 2 deletions in 2 files</sub><br />
 
