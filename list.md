@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-33 commits.
+34 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevent LayoutBuilder from rebuilding more than once
     <sub>[#147856](https://github.com/flutter/flutter/pull/147856) merged on May 29, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/147856) over 3 weeks, 712 additions and 248 deletions in 8 files</sub>
@@ -52,6 +52,10 @@
     <sub>[#149006](https://github.com/flutter/flutter/pull/149006) merged on May 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149006) over 4 days, 165 additions and 57 deletions in 4 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
     <sub><details><summary>1 image...</summary>![stylus_hover_mouse](https://github.com/flutter/flutter/assets/389558/dc5280fd-cdac-446d-beea-d55c3739c091)</details></sub>
+
+* **[flyboy](https://github.com/hello-coder-xu)** &mdash; Fix `Slider` throws an error when `_labelPainter` text is null
+    <sub>[#148462](https://github.com/flutter/flutter/pull/148462) merged on May 30, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/148462) over 2 weeks, 44 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a sentinel value for `TextStyle.height`
     <sub>[#149049](https://github.com/flutter/flutter/pull/149049) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149049) over 5 days, 27 additions and 10 deletions in 4 files</sub>
