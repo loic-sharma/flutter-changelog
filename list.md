@@ -4,7 +4,12 @@
 
 ### May 25, 2024 to May 31, 2024
 
-36 commits.
+39 commits.
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Have Material widgets in a Cupertino App partially use Cupertino theme
+    <sub>[#139253](https://github.com/flutter/flutter/pull/139253) merged on May 30, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/139253) over 6 months, 70 additions and 14 deletions in 4 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+    <sub><details><summary>3 images...</summary><img width="386" alt="Screenshot 2023-11-29 at 10 37 09 AM" src="https://github.com/flutter/flutter/assets/58190796/959ccfd9-3439-438e-ad36-20597334837a"><img width="390" alt="Screenshot 2024-05-09 at 10 16 22 AM" src="https://github.com/flutter/flutter/assets/58190796/79765d04-a7a3-4eb5-9477-11668ed138e5">![image](https://github.com/flutter/flutter/assets/58190796/95874076-e943-48fa-ba9d-1d7b0f5a2f38)</details></sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevent LayoutBuilder from rebuilding more than once
     <sub>[#147856](https://github.com/flutter/flutter/pull/147856) merged on May 29, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/147856) over 3 weeks, 712 additions and 248 deletions in 8 files</sub>
@@ -38,6 +43,11 @@
     <sub>[#143079](https://github.com/flutter/flutter/pull/143079) merged on May 28, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/143079) over 3 months, 484 additions and 36 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaky test.
+    <sub>[#149199](https://github.com/flutter/flutter/pull/149199) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149199) over 4 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub><details><summary>1 image...</summary><img width="268" alt="Screenshot 2024-05-28 at 11 50 33 AM" src="https://github.com/flutter/flutter/assets/12115586/c1a1bf5e-4df4-4819-b897-b09021d3a07a"></details></sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds benchmark for rrect_blur.
     <sub>[#149261](https://github.com/flutter/flutter/pull/149261) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149261) over 4 hours, 192 additions and 0 deletions in 9 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -47,11 +57,6 @@
     <sub>[#149223](https://github.com/flutter/flutter/pull/149223) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149223) over 14 hours, 3 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary><img width="145" alt="Screenshot 2024-05-28 at 6 25 22 PM" src="https://github.com/flutter/flutter/assets/12115586/5eb32012-b1c4-4188-8e9b-a6631483960c"></details></sub>
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaky test.
-    <sub>[#149199](https://github.com/flutter/flutter/pull/149199) merged on May 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149199) over 4 hours, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-    <sub><details><summary>1 image...</summary><img width="268" alt="Screenshot 2024-05-28 at 11 50 33 AM" src="https://github.com/flutter/flutter/assets/12115586/c1a1bf5e-4df4-4819-b897-b09021d3a07a"></details></sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Mouse onEnter and onExit now support hovering stylus
     <sub>[#149006](https://github.com/flutter/flutter/pull/149006) merged on May 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149006) over 4 days, 165 additions and 57 deletions in 4 files</sub>
@@ -98,9 +103,17 @@
     <sub>[#148470](https://github.com/flutter/flutter/pull/148470) merged on May 29, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148470) over 1 week, 53 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Refactor `Material` build method
+    <sub>[#147430](https://github.com/flutter/flutter/pull/147430) merged on May 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147430) over 1 month, 37 additions and 92 deletions in 1 file</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; _ModalScopeStatus as InheritedModel
     <sub>[#149022](https://github.com/flutter/flutter/pull/149022) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149022) over 5 days, 111 additions and 11 deletions in 4 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[MajdSallora](https://github.com/MajdSallora)** &mdash; Add locale in DatePickerThemeData
+    <sub>[#148292](https://github.com/flutter/flutter/pull/148292) merged on May 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148292) over 2 weeks, 27 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.
     <sub>[#149180](https://github.com/flutter/flutter/pull/149180) merged on May 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/149180) over 21 hours, 101 additions and 2 deletions in 3 files</sub>
@@ -109,14 +122,6 @@
 * **[Luis](https://github.com/luis901101)** &mdash; Fix `SearchAnchor` suggestions not refreshing after long API call
     <sub>[#148767](https://github.com/flutter/flutter/pull/148767) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148767) over 1 week, 52 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub>
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; temporarily disable SemanticsAction tests to unblock engine change
-    <sub>[#149274](https://github.com/flutter/flutter/pull/149274) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149274) over 47 minutes, 2 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove dynamic_layouts from issue template
-    <sub>[#149252](https://github.com/flutter/flutter/pull/149252) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149252) over 59 minutes, 0 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add link to golden file test docs in the framework gardener guide
     <sub>[#149207](https://github.com/flutter/flutter/pull/149207) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149207) over 4 hours, 7 additions and 1 deletion in 2 files</sub>
@@ -129,6 +134,14 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; disable Impeller on external texture test.
     <sub>[#149292](https://github.com/flutter/flutter/pull/149292) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149292) over 42 minutes, 3 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; temporarily disable SemanticsAction tests to unblock engine change
+    <sub>[#149274](https://github.com/flutter/flutter/pull/149274) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149274) over 47 minutes, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove dynamic_layouts from issue template
+    <sub>[#149252](https://github.com/flutter/flutter/pull/149252) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149252) over 59 minutes, 0 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Remove --dart-sdk flag to dart2wasm compiler
     <sub>[#149129](https://github.com/flutter/flutter/pull/149129) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) over 19 hours, 0 additions and 5 deletions in 3 files</sub>
