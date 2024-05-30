@@ -1147,7 +1147,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-15 commits.
+16 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding<br />
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub><br />
@@ -1172,6 +1172,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [dynamic_layouts] Remove the dynamic_layouts package<br />
     <sub>[#6830](https://github.com/flutter/packages/pull/6830) merged on May 29, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/6830) over 1 hour, 0 additions and 7264 deletions in 142 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Updates `PigeonInstanceMangerApi` to use the shared api channel code in Dart<br />
+    <sub>[#6831](https://github.com/flutter/packages/pull/6831) merged on May 30, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/6831) over 23 hours, 315 additions and 163 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add notes about Android permissions<br />
     <sub>[#6741](https://github.com/flutter/packages/pull/6741) merged on May 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6741) over 1 week, 38 additions and 4 deletions in 7 files</sub><br />
