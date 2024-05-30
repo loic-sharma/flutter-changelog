@@ -711,7 +711,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-21 commits.
+22 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -784,6 +784,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Suppress SPIRV validation errors in latest Vulkan SDK.<br />
     <sub>[#53049](https://github.com/flutter/engine/pull/53049) merged on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53049) over 7 hours, 15 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Upload `flutter_gpu.zip` upon successful completion of ci/android_debug.<br />
+    <sub>[#53107](https://github.com/flutter/engine/pull/53107) merged on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53107) over 9 hours, 54 additions and 6 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Replace several calls to GrGLMakeNativeInterface with more direct APIs<br />
     <sub>[#53064](https://github.com/flutter/engine/pull/53064) merged on May 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53064) over 1 day, 47 additions and 2 deletions in 3 files</sub><br />
