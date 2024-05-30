@@ -694,7 +694,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-18 commits.
+19 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub>
@@ -707,6 +707,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; FlutterFragment predictive back
     <sub>[#52302](https://github.com/flutter/engine/pull/52302) merged on May 28, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/52302) over 1 month, 47 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable Impeller by default on Android.
+    <sub>[#53099](https://github.com/flutter/engine/pull/53099) merged on May 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53099) over 3 hours, 9 additions and 5 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert changes to IO thread upload scheduling.
     <sub>[#53096](https://github.com/flutter/engine/pull/53096) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53096) over 59 minutes, 1 addition and 8 deletions in 1 file</sub>
