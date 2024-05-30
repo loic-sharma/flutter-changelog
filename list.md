@@ -750,7 +750,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Disable Impeller when the manifest explicitly disables it
-    <sub>[#53108](https://github.com/flutter/engine/pull/53108) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53108) over 8 hours, 3 additions and 1 deletion in 1 file</sub>
+    <sub>[#53108](https://github.com/flutter/engine/pull/53108) merged on May 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53108) over 8 hours, 3 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Update CONTRIBUTING.md links
