@@ -746,7 +746,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-29 commits.
+30 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -831,6 +831,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Suppress SPIRV validation errors in latest Vulkan SDK.<br />
     <sub>[#53049](https://github.com/flutter/engine/pull/53049) merged on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53049) over 7 hours, 15 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Replace several NSAssert with FML_CHECK/DCHECK to unblock the build<br />
+    <sub>[#53048](https://github.com/flutter/engine/pull/53048) merged on May 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/53048) over 4 days, 5 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from ef405fbe3917 to 2976c1694eed (6 revisions) (#53119)"<br />
     <sub>[#53128](https://github.com/flutter/engine/pull/53128) merged on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53128) over 1 minute, 15 additions and 15 deletions in 3 files</sub><br />
