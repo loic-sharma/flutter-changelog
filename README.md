@@ -153,7 +153,7 @@
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for tween_animation_builder.0.dart API example.<br />
-    <sub>[#148902](https://github.com/flutter/flutter/pull/148902) merged on May 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148902) over 1 week, 170 additions and 7 deletions in 3 files</sub><br />
+    <sub>[#148902](https://github.com/flutter/flutter/pull/148902) merged on May 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148902) over 1 week, 170 additions and 7 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove hidden dependency on ABI.<br />
