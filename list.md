@@ -65,6 +65,10 @@
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update 3.22.1 release notes to include missing fix.
+    <sub>[#148999](https://github.com/flutter/flutter/pull/148999) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148999) over 6 days, 3 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Prevent LayoutBuilder from rebuilding more than once (#147856)"
     <sub>[#149279](https://github.com/flutter/flutter/pull/149279) merged on May 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149279) over 48 seconds, 248 additions and 712 deletions in 8 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -84,10 +88,6 @@
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; _ModalScopeStatus as InheritedModel
     <sub>[#149022](https://github.com/flutter/flutter/pull/149022) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149022) over 5 days, 111 additions and 11 deletions in 4 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update 3.22.1 release notes to include missing fix.
-    <sub>[#148999](https://github.com/flutter/flutter/pull/148999) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148999) over 6 days, 3 additions and 2 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for animated_switcher.0.dart API example.
     <sub>[#149180](https://github.com/flutter/flutter/pull/149180) merged on May 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/149180) over 21 hours, 101 additions and 2 deletions in 3 files</sub>
