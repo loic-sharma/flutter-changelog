@@ -532,7 +532,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Native ios context menu<br />
-    <sub>[#143002](https://github.com/flutter/flutter/pull/143002) merged on May 13, 2024 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/143002) over 3 months, 1321 additions and 43 deletions in 13 files</sub><br />
+    <sub>[#143002](https://github.com/flutter/flutter/pull/143002) merged on May 13, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/143002) over 3 months, 1321 additions and 43 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
     <sub><details><summary>1 image...</summary><img width="385" alt="Screenshot 2024-02-06 at 11 52 25 AM" src="https://github.com/flutter/flutter/assets/389558/d82e18ee-b8a3-4082-9225-cf47fa7f3674"></details></sub>
 
@@ -733,7 +733,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-23 commits.
+25 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -748,7 +748,7 @@
     <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable Impeller by default on Android.<br />
-    <sub>[#53099](https://github.com/flutter/engine/pull/53099) merged on May 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53099) over 3 hours, 9 additions and 5 deletions in 4 files</sub><br />
+    <sub>[#53099](https://github.com/flutter/engine/pull/53099) merged on May 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53099) over 3 hours, 9 additions and 5 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert changes to IO thread upload scheduling.<br />
@@ -776,7 +776,7 @@
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Disable Impeller when the manifest explicitly disables it<br />
-    <sub>[#53108](https://github.com/flutter/engine/pull/53108) merged on May 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53108) over 8 hours, 3 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#53108](https://github.com/flutter/engine/pull/53108) merged on May 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53108) over 8 hours, 3 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Update CONTRIBUTING.md links<br />
@@ -810,6 +810,14 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Suppress SPIRV validation errors in latest Vulkan SDK.<br />
     <sub>[#53049](https://github.com/flutter/engine/pull/53049) merged on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53049) over 7 hours, 15 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] enable Impeller by default on Android. (#53099)"<br />
+    <sub>[#53125](https://github.com/flutter/engine/pull/53125) merged on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53125) over 1 minute, 5 additions and 9 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Disable Impeller when the manifest explicitly disables it (#53108)"<br />
+    <sub>[#53124](https://github.com/flutter/engine/pull/53124) merged on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53124) over 1 minute, 1 addition and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Upload `flutter_gpu.zip` upon successful completion of ci/android_debug.<br />
     <sub>[#53107](https://github.com/flutter/engine/pull/53107) merged on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53107) over 9 hours, 54 additions and 6 deletions in 4 files</sub><br />
