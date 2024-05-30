@@ -750,7 +750,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-30 commits.
+31 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub>
@@ -795,6 +795,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] make sure buffers are 4 aligned for foreground color blending
     <sub>[#53077](https://github.com/flutter/engine/pull/53077) merged on May 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53077) over 1 day, 77 additions and 5 deletions in 5 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [semantics] fix dartdoc grammar
+    <sub>[#53121](https://github.com/flutter/engine/pull/53121) merged on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53121) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; add SemanticsAction.focus
     <sub>[#53094](https://github.com/flutter/engine/pull/53094) merged on May 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53094) over 22 hours, 69 additions and 6 deletions in 9 files</sub>

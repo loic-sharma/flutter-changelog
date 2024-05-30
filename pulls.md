@@ -59,3 +59,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Refactor how we handle errors around imgtestInit/tryjobInit<br />
     <sub>[#149356](https://github.com/flutter/flutter/pull/149356) opened on on May 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/149356) 205 additions and 114 deletions in 2 files</sub><br />
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove some vestigial /*stash pop/ comments<br />
+    <sub>[#149361](https://github.com/flutter/flutter/pull/149361) opened on on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149361) 4 additions and 4 deletions in 1 file</sub><br />
+
