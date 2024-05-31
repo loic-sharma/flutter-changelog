@@ -35,7 +35,7 @@
     <sub><details><summary>2 images...</summary>![image](https://user-images.githubusercontent.com/20682772/118683356-b22bd200-b7d7-11eb-9072-eefc5721f09e.png)![image](https://user-images.githubusercontent.com/20682772/118683274-a17b5c00-b7d7-11eb-94b4-62cb430f43dd.png)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator default hint text style on M3
-    <sub>[#148944](https://github.com/flutter/flutter/pull/148944) merged on May 31, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148944) over 1 week, 60 additions and 55 deletions in 4 files</sub>
+    <sub>[#148944](https://github.com/flutter/flutter/pull/148944) merged on May 31, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148944) over 1 week, 60 additions and 55 deletions in 4 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Pierre-Louis](https://github.com/guidezpl)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/58d3d5c9-0984-497a-9d47-4724dcd7b2b3)</details></sub>
 
