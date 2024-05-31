@@ -225,14 +225,14 @@
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` expressions: finale
+    <sub>[#148711](https://github.com/flutter/flutter/pull/148711) merged on May 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/148711) over 19 hours, 214 additions and 466 deletions in 22 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Huy](https://github.com/huycozy)** &mdash; Fix DecoratedSliver sample code to reflect the description
     <sub>[#148621](https://github.com/flutter/flutter/pull/148621) merged on May 23, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/148621) over 4 days, 131 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-19 at 05 42 35](https://github.com/flutter/flutter/assets/104349824/6b4aec1f-32ab-496e-ab20-458c2051055d)</details></sub>
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` expressions: finale
-    <sub>[#148711](https://github.com/flutter/flutter/pull/148711) merged on May 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/148711) over 19 hours, 214 additions and 466 deletions in 22 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SnackBar` action text button overlay color
     <sub>[#148961](https://github.com/flutter/flutter/pull/148961) merged on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148961) over 6 hours, 38 additions and 8 deletions in 2 files</sub>
