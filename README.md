@@ -778,7 +778,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-32 commits.
+33 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -903,6 +903,10 @@
 * **[johnniwinther](https://github.com/johnniwinther)** &mdash; Remove use of --nnbd-agnostic<br />
     <sub>[#53055](https://github.com/flutter/engine/pull/53055) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53055) over 22 hours, 3 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from ef405fbe3917 to 2976c1694eed (6 revisions)<br />
+    <sub>[#53149](https://github.com/flutter/engine/pull/53149) merged on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53149) over 46 minutes, 15 additions and 15 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 641d61332238 to ef405fbe3917 (12 revisions)<br />
     <sub>[#53089](https://github.com/flutter/engine/pull/53089) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53089) over 46 minutes, 4 additions and 6 deletions in 3 files</sub><br />
