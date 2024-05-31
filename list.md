@@ -81,7 +81,7 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Manual pub roll w/ gradle lockfile regeneration
-    <sub>[#149342](https://github.com/flutter/flutter/pull/149342) merged on May 30, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/149342) over 3 hours, 529 additions and 612 deletions in 83 files</sub>
+    <sub>[#149342](https://github.com/flutter/flutter/pull/149342) merged on May 30, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/149342) over 3 hours, 529 additions and 612 deletions in 83 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove `TextEditingController` private member access
