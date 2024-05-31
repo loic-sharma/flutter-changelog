@@ -68,3 +68,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#149372](https://github.com/flutter/flutter/pull/149372) opened on on May 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149372) 11 additions and 10 deletions in 4 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer<br />
+    <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149383) 106 additions and 2 deletions in 3 files</sub><br />
+
