@@ -68,3 +68,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer<br />
     <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149383) 106 additions and 2 deletions in 3 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - prefixIcon/suffixIcon<br />
+    <sub>[#149437](https://github.com/flutter/flutter/pull/149437) opened on on May 31, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149437) 1114 additions and 140 deletions in 1 file</sub><br />
+

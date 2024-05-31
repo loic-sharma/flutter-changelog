@@ -181,7 +181,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for abi version code<br />
-    <sub>[#149087](https://github.com/flutter/flutter/pull/149087) merged on May 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149087) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#149087](https://github.com/flutter/flutter/pull/149087) merged on May 31, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/149087) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Hany Mohamed](https://github.com/hany-achraf)** &mdash; Change snack bar default hitTestBehavior to deferToChild when SnackBarThemeData.insetPadding is not null<br />
