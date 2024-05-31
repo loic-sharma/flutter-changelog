@@ -68,6 +68,10 @@
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/108393416/16f5a996-b0f1-4f04-bd99-caa3cacd4182" width=50% height=50%><img src="https://github.com/flutter/flutter/assets/108393416/1de55cec-8a18-4c36-9dac-84ae7d151fd6" width=50% height=50%></details></sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add feedback for long press on iOS <br />
+    <sub>[#148922](https://github.com/flutter/flutter/pull/148922) merged on May 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148922) over 1 week, 14 additions and 10 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jhonatan Ciriaco](https://github.com/JhonySpark), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Fix `Slider` throws an error when `_labelPainter` text is null<br />
     <sub>[#148462](https://github.com/flutter/flutter/pull/148462) merged on May 30, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/148462) over 2 weeks, 44 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -80,10 +84,6 @@
     <sub>[#149342](https://github.com/flutter/flutter/pull/149342) merged on May 30, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/149342) over 3 hours, 529 additions and 612 deletions in 83 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add feedback for long press on iOS <br />
-    <sub>[#148922](https://github.com/flutter/flutter/pull/148922) merged on May 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148922) over 1 week, 14 additions and 10 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jhonatan Ciriaco](https://github.com/JhonySpark), [Justin McCandless](https://github.com/justinmc)</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove `TextEditingController` private member access<br />
     <sub>[#149042](https://github.com/flutter/flutter/pull/149042) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149042) over 4 days, 54 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -91,14 +91,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [wiki migration] Leftover wiki pages and links<br />
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Add support for ExpansionPanel custom splash color<br />
-    <sub>[#147126](https://github.com/flutter/flutter/pull/147126) merged on May 31, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147126) over 1 month, 117 additions and 0 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Prevent LayoutBuilder from rebuilding more than once (#147856)"<br />
-    <sub>[#149279](https://github.com/flutter/flutter/pull/149279) merged on May 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149279) over 48 seconds, 248 additions and 712 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unskip expression evaluation test<br />
     <sub>[#149253](https://github.com/flutter/flutter/pull/149253) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149253) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -119,6 +111,14 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update 3.22.1 release notes to include missing fix.<br />
     <sub>[#148999](https://github.com/flutter/flutter/pull/148999) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148999) over 6 days, 3 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Add support for ExpansionPanel custom splash color<br />
+    <sub>[#147126](https://github.com/flutter/flutter/pull/147126) merged on May 31, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147126) over 1 month, 117 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Prevent LayoutBuilder from rebuilding more than once (#147856)"<br />
+    <sub>[#149279](https://github.com/flutter/flutter/pull/149279) merged on May 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149279) over 48 seconds, 248 additions and 712 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactor `Material` build method<br />
     <sub>[#147430](https://github.com/flutter/flutter/pull/147430) merged on May 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147430) over 1 month, 37 additions and 92 deletions in 1 file</sub><br />
@@ -225,7 +225,7 @@
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[huycozy](https://github.com/huycozy)** &mdash; Fix DecoratedSliver sample code to reflect the description<br />
+* **[Huy](https://github.com/huycozy)** &mdash; Fix DecoratedSliver sample code to reflect the description<br />
     <sub>[#148621](https://github.com/flutter/flutter/pull/148621) merged on May 23, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/148621) over 4 days, 131 additions and 10 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-19 at 05 42 35](https://github.com/flutter/flutter/assets/104349824/6b4aec1f-32ab-496e-ab20-458c2051055d)</details></sub>
