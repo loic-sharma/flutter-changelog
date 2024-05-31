@@ -65,3 +65,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove redundant usages of zones in skia_client.dart<br />
     <sub>[#149366](https://github.com/flutter/flutter/pull/149366) opened on on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149366) 34 additions and 39 deletions in 3 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#149372](https://github.com/flutter/flutter/pull/149372) opened on on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149372) 11 additions and 10 deletions in 4 files</sub><br />
+
