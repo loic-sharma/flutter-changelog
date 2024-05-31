@@ -1262,7 +1262,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-18 commits.
+19 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub>
@@ -1279,6 +1279,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Migrate deprecated doc references
     <sub>[#6744](https://github.com/flutter/packages/pull/6744) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6744) over 1 week, 16 additions and 12 deletions in 3 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [image_picker_ios] Re-adds Swift Package Manager compatibility
+    <sub>[#6833](https://github.com/flutter/packages/pull/6833) merged on May 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6833) over 1 day, 46 additions and 1 deletion in 8 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; [image_picker] Adds comment for the limit parameter
     <sub>[#6678](https://github.com/flutter/packages/pull/6678) merged on May 31, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6678) over 3 weeks, 21 additions and 2 deletions in 8 files</sub>
