@@ -1250,7 +1250,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-17 commits.
+18 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding<br />
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub><br />
@@ -1267,6 +1267,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Migrate deprecated doc references<br />
     <sub>[#6744](https://github.com/flutter/packages/pull/6744) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6744) over 1 week, 16 additions and 12 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; [image_picker] Adds comment for the limit parameter<br />
+    <sub>[#6678](https://github.com/flutter/packages/pull/6678) merged on May 31, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/6678) over 3 weeks, 21 additions and 2 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `video_player/android` from `SurfaceTexture`->`SurfaceProducer`.<br />
     <sub>[#6456](https://github.com/flutter/packages/pull/6456) merged on May 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6456) over 1 month, 136 additions and 38 deletions in 6 files</sub><br />
