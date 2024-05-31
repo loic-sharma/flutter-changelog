@@ -35,9 +35,6 @@
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; content dimensions are not established get controller value error<br />
     <sub>[#148938](https://github.com/flutter/flutter/pull/148938) opened on on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148938) 25 additions and 2 deletions in 2 files</sub><br />
 
-* **[Runar Heggset](https://github.com/runarheggset)** &mdash; Use correct type for abi version code<br />
-    <sub>[#149087](https://github.com/flutter/flutter/pull/149087) opened on on May 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149087) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example<br />
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/149147) 88 additions and 0 deletions in 2 files</sub><br />
 
