@@ -39,7 +39,7 @@
     <sub>[#149087](https://github.com/flutter/flutter/pull/149087) opened on on May 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149087) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example<br />
-    <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/149147) 191 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/149147) 191 additions and 0 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
