@@ -4,7 +4,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-47 commits.
+48 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Have Material widgets in a Cupertino App partially use Cupertino theme<br />
     <sub>[#139253](https://github.com/flutter/flutter/pull/139253) merged on May 30, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/139253) over 6 months, 70 additions and 14 deletions in 4 files</sub><br />
@@ -92,17 +92,9 @@
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[John Angelo Cordero](https://github.com/angelocordero)** &mdash; allow changing textAlign of TextField in DropdownMenu<br />
-    <sub>[#148074](https://github.com/flutter/flutter/pull/148074) merged on May 30, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/148074) over 2 weeks, 30 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Andrew Shin](https://github.com/As90909w), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update 3.22.1 release notes to include missing fix.<br />
-    <sub>[#148999](https://github.com/flutter/flutter/pull/148999) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148999) over 6 days, 3 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Prevent LayoutBuilder from rebuilding more than once (#147856)"<br />
-    <sub>[#149279](https://github.com/flutter/flutter/pull/149279) merged on May 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149279) over 48 seconds, 248 additions and 712 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+* **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Add support for ExpansionPanel custom splash color<br />
+    <sub>[#147126](https://github.com/flutter/flutter/pull/147126) merged on May 31, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147126) over 1 month, 117 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Unskip expression evaluation test<br />
     <sub>[#149253](https://github.com/flutter/flutter/pull/149253) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149253) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -115,6 +107,18 @@
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; sliverGridDelegate mainAxisExtent add assert<br />
     <sub>[#148470](https://github.com/flutter/flutter/pull/148470) merged on May 29, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/148470) over 1 week, 53 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[John Angelo Cordero](https://github.com/angelocordero)** &mdash; allow changing textAlign of TextField in DropdownMenu<br />
+    <sub>[#148074](https://github.com/flutter/flutter/pull/148074) merged on May 30, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/148074) over 2 weeks, 30 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Andrew Shin](https://github.com/As90909w), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update 3.22.1 release notes to include missing fix.<br />
+    <sub>[#148999](https://github.com/flutter/flutter/pull/148999) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148999) over 6 days, 3 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Prevent LayoutBuilder from rebuilding more than once (#147856)"<br />
+    <sub>[#149279](https://github.com/flutter/flutter/pull/149279) merged on May 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149279) over 48 seconds, 248 additions and 712 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Nate](https://github.com/nate-thegrate)** &mdash; Refactor `Material` build method<br />
     <sub>[#147430](https://github.com/flutter/flutter/pull/147430) merged on May 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147430) over 1 month, 37 additions and 92 deletions in 1 file</sub><br />
@@ -140,10 +144,6 @@
     <sub>[#149129](https://github.com/flutter/flutter/pull/149129) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149129) over 19 hours, 0 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; temporarily disable SemanticsAction tests to unblock engine change<br />
-    <sub>[#149274](https://github.com/flutter/flutter/pull/149274) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149274) over 47 minutes, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Change `android_plugin_new_output_dir_test.dart` test description<br />
     <sub>[#149198](https://github.com/flutter/flutter/pull/149198) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149198) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
@@ -156,6 +156,10 @@
     <sub>[#149323](https://github.com/flutter/flutter/pull/149323) merged on May 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149323) over 8 hours, 6 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed typo in devicelab test name<br />
+    <sub>[#149327](https://github.com/flutter/flutter/pull/149327) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149327) over 6 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add link to golden file test docs in the framework gardener guide<br />
     <sub>[#149207](https://github.com/flutter/flutter/pull/149207) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149207) over 4 hours, 7 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -164,9 +168,21 @@
     <sub>[#149292](https://github.com/flutter/flutter/pull/149292) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149292) over 42 minutes, 3 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed typo in devicelab test name<br />
-    <sub>[#149327](https://github.com/flutter/flutter/pull/149327) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149327) over 6 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Yegor](https://github.com/yjbanov)** &mdash; temporarily disable SemanticsAction tests to unblock engine change<br />
+    <sub>[#149274](https://github.com/flutter/flutter/pull/149274) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149274) over 47 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Hany Mohamed](https://github.com/hany-achraf)** &mdash; Change snack bar default hitTestBehavior to deferToChild when SnackBarThemeData.insetPadding is not null<br />
+    <sub>[#148568](https://github.com/flutter/flutter/pull/148568) merged on May 29, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148568) over 1 week, 63 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Adding a default case to unblock engine roll.<br />
+    <sub>[#149353](https://github.com/flutter/flutter/pull/149353) merged on May 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/149353) over 21 minutes, 8 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix the RenderFlex.computeDryBaseline implementation to match computeDistanceToActualBaseline<br />
+    <sub>[#149062](https://github.com/flutter/flutter/pull/149062) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149062) over 4 days, 58 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for tween_animation_builder.0.dart API example.<br />
     <sub>[#148902](https://github.com/flutter/flutter/pull/148902) merged on May 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148902) over 1 week, 170 additions and 7 deletions in 3 files</sub><br />
@@ -184,21 +200,9 @@
     <sub>[#149153](https://github.com/flutter/flutter/pull/149153) merged on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149153) over 1 day, 32 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
-* **[Hany Mohamed](https://github.com/hany-achraf)** &mdash; Change snack bar default hitTestBehavior to deferToChild when SnackBarThemeData.insetPadding is not null<br />
-    <sub>[#148568](https://github.com/flutter/flutter/pull/148568) merged on May 29, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148568) over 1 week, 63 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
-* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Adding a default case to unblock engine roll.<br />
-    <sub>[#149353](https://github.com/flutter/flutter/pull/149353) merged on May 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/149353) over 21 minutes, 8 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Use kebabCase directly<br />
     <sub>[#149150](https://github.com/flutter/flutter/pull/149150) merged on May 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149150) over 13 hours, 12 additions and 7 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix the RenderFlex.computeDryBaseline implementation to match computeDistanceToActualBaseline<br />
-    <sub>[#149062](https://github.com/flutter/flutter/pull/149062) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149062) over 4 days, 58 additions and 5 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart<br />
     <sub>[#148453](https://github.com/flutter/flutter/pull/148453) merged on May 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148453) over 1 week, 29 additions and 1 deletion in 2 files</sub><br />
