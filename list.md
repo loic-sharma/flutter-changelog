@@ -230,14 +230,14 @@
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-19 at 05 42 35](https://github.com/flutter/flutter/assets/104349824/6b4aec1f-32ab-496e-ab20-458c2051055d)</details></sub>
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` expressions: finale
+    <sub>[#148711](https://github.com/flutter/flutter/pull/148711) merged on May 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/148711) over 19 hours, 214 additions and 466 deletions in 22 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SnackBar` action text button overlay color
     <sub>[#148961](https://github.com/flutter/flutter/pull/148961) merged on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148961) over 6 hours, 38 additions and 8 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary><img src="https://github.com/flutter/flutter/assets/48603081/88b53c92-6184-4faf-88e1-ac70f78993b3"/><img src="https://github.com/flutter/flutter/assets/48603081/3e03c903-90c0-4da4-b49a-0070208d56d1"  /></details></sub>
-
-* **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` expressions: finale
-    <sub>[#148711](https://github.com/flutter/flutter/pull/148711) merged on May 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/148711) over 19 hours, 214 additions and 466 deletions in 22 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[wangyognqi](https://github.com/wyqlxf)** &mdash; Fix the second TextFormField to trigger onTapOutside
     <sub>[#148206](https://github.com/flutter/flutter/pull/148206) merged on May 22, 2024 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/148206) over 1 week, 365 additions and 1 deletion in 9 files</sub>
