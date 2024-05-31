@@ -1260,6 +1260,10 @@
     <sub>[#5757](https://github.com/flutter/packages/pull/5757) merged on May 28, 2024 &mdash; **Small:** [108 comments](https://github.com/flutter/packages/pull/5757) over 5 months, 213 additions and 24 deletions in 14 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Undeprecate BitmapDescriptor methods<br />
+    <sub>[#6832](https://github.com/flutter/packages/pull/6832) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6832) over 30 minutes, 7 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [rfw] Migrate deprecated doc references<br />
     <sub>[#6744](https://github.com/flutter/packages/pull/6744) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6744) over 1 week, 16 additions and 12 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
@@ -1267,10 +1271,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `video_player/android` from `SurfaceTexture`->`SurfaceProducer`.<br />
     <sub>[#6456](https://github.com/flutter/packages/pull/6456) merged on May 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6456) over 1 month, 136 additions and 38 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Undeprecate BitmapDescriptor methods<br />
-    <sub>[#6832](https://github.com/flutter/packages/pull/6832) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6832) over 30 minutes, 7 additions and 4 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [dynamic_layouts] Remove the dynamic_layouts package<br />
     <sub>[#6830](https://github.com/flutter/packages/pull/6830) merged on May 29, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/6830) over 1 hour, 0 additions and 7264 deletions in 142 files</sub><br />
