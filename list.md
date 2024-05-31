@@ -243,6 +243,10 @@
     <sub>[#148206](https://github.com/flutter/flutter/pull/148206) merged on May 22, 2024 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/148206) over 1 week, 365 additions and 1 deletion in 9 files</sub>
     <sub>Reviewed by: </sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a migrator to remove `FlutterMultiDexApplication.java`
+    <sub>[#148515](https://github.com/flutter/flutter/pull/148515) merged on May 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148515) over 4 days, 88 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Łukasz Gawron](https://github.com/gawi151)** &mdash; Fix TwoDimensionalViewport's keep alive child not always removed (when no longer should be kept alive)
     <sub>[#148298](https://github.com/flutter/flutter/pull/148298) merged on May 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/148298) over 1 week, 100 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -250,10 +254,6 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent test folder deletion on running `flutter create --empty` on an existing app project
     <sub>[#147160](https://github.com/flutter/flutter/pull/147160) merged on May 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/147160) over 1 month, 50 additions and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a migrator to remove `FlutterMultiDexApplication.java`
-    <sub>[#148515](https://github.com/flutter/flutter/pull/148515) merged on May 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148515) over 4 days, 88 additions and 0 deletions in 3 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.
     <sub>[#148788](https://github.com/flutter/flutter/pull/148788) merged on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148788) over 39 minutes, 2 additions and 0 deletions in 1 file</sub>
