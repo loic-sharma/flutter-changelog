@@ -65,3 +65,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer<br />
     <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149383) 106 additions and 2 deletions in 3 files</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Roll `Switch.adaptive` changes into `CupertinoSwitch`<br />
+    <sub>[#149465](https://github.com/flutter/flutter/pull/149465) opened on on June 1, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149465) 1733 additions and 435 deletions in 2 files</sub><br />
+
