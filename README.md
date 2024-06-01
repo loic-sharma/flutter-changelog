@@ -812,7 +812,7 @@
 
 ### May 25, 2024 to May 31, 2024
 
-39 commits.
+40 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -833,6 +833,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make strokes < 0.5 physical pixels visually thinner.<br />
     <sub>[#53154](https://github.com/flutter/engine/pull/53154) merged on May 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53154) over 2 hours, 69 additions and 22 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Revert support for multi-arch shader archives.<br />
+    <sub>[#53158](https://github.com/flutter/engine/pull/53158) merged on June 1, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/53158) over 2 hours, 19 additions and 372 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; DisplayList SaveLayer (and root layer) read-back flags<br />
     <sub>[#53104](https://github.com/flutter/engine/pull/53104) merged on May 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/53104) over 19 hours, 503 additions and 120 deletions in 12 files</sub><br />
@@ -862,13 +866,13 @@
     <sub>[#53118](https://github.com/flutter/engine/pull/53118) merged on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53118) over 1 day, 27 additions and 33 deletions in 6 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Remove assorted bad logs.<br />
-    <sub>[#53139](https://github.com/flutter/engine/pull/53139) merged on May 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53139) over 50 minutes, 4 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix barriers prior to mip generation.<br />
     <sub>[#53082](https://github.com/flutter/engine/pull/53082) merged on May 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/53082) over 16 hours, 12 additions and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Remove assorted bad logs.<br />
+    <sub>[#53139](https://github.com/flutter/engine/pull/53139) merged on May 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53139) over 50 minutes, 4 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove SK_RESOLVE_FILTERS_BEFORE_RESTORE flag<br />
     <sub>[#49563](https://github.com/flutter/engine/pull/49563) merged on May 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/49563) over 4 months, 16 additions and 8 deletions in 2 files</sub><br />
@@ -906,6 +910,14 @@
     <sub>[#52984](https://github.com/flutter/engine/pull/52984) merged on May 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52984) over 1 week, 11 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] shrunk the buffer for the rrect_blur<br />
+    <sub>[#53068](https://github.com/flutter/engine/pull/53068) merged on May 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53068) over 52 minutes, 29 additions and 15 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Suppress SPIRV validation errors in latest Vulkan SDK.<br />
+    <sub>[#53049](https://github.com/flutter/engine/pull/53049) merged on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53049) over 7 hours, 15 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; DisplayList forward opacity incompatibility through deferred saves<br />
     <sub>[#53078](https://github.com/flutter/engine/pull/53078) merged on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53078) over 3 hours, 49 additions and 23 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -913,10 +925,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove --ios-cpu flag. Only the arm64 variant is supported.<br />
     <sub>[#53044](https://github.com/flutter/engine/pull/53044) merged on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53044) over 2 days, 1 addition and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Suppress SPIRV validation errors in latest Vulkan SDK.<br />
-    <sub>[#53049](https://github.com/flutter/engine/pull/53049) merged on May 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53049) over 7 hours, 15 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make strokes slightly lighter.<br />
     <sub>[#53067](https://github.com/flutter/engine/pull/53067) merged on May 28, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53067) over 3 hours, 28 additions and 2 deletions in 3 files</sub><br />
@@ -926,14 +934,6 @@
     <sub>[#53057](https://github.com/flutter/engine/pull/53057) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53057) over 2 hours, 27 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] shrunk the buffer for the rrect_blur<br />
-    <sub>[#53068](https://github.com/flutter/engine/pull/53068) merged on May 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53068) over 52 minutes, 29 additions and 15 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Upload `flutter_gpu.zip` upon successful completion of ci/android_debug.<br />
-    <sub>[#53107](https://github.com/flutter/engine/pull/53107) merged on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53107) over 9 hours, 54 additions and 6 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Replace several calls to GrGLMakeNativeInterface with more direct APIs<br />
     <sub>[#53064](https://github.com/flutter/engine/pull/53064) merged on May 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53064) over 1 day, 47 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
@@ -942,13 +942,13 @@
     <sub>[#53048](https://github.com/flutter/engine/pull/53048) merged on May 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/53048) over 4 days, 5 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[johnniwinther](https://github.com/johnniwinther)** &mdash; Remove use of --nnbd-agnostic<br />
-    <sub>[#53055](https://github.com/flutter/engine/pull/53055) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53055) over 22 hours, 3 additions and 3 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Dart SDK from ef405fbe3917 to 2976c1694eed (6 revisions) (#53119)"<br />
     <sub>[#53128](https://github.com/flutter/engine/pull/53128) merged on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53128) over 1 minute, 15 additions and 15 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[johnniwinther](https://github.com/johnniwinther)** &mdash; Remove use of --nnbd-agnostic<br />
+    <sub>[#53055](https://github.com/flutter/engine/pull/53055) merged on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53055) over 22 hours, 3 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonny Wang](https://github.com/jrwang)** &mdash; Fuchsia api level 18<br />
     <sub>[#53115](https://github.com/flutter/engine/pull/53115) merged on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53115) over 3 hours, 2 additions and 2 deletions in 2 files</sub><br />
@@ -961,6 +961,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Disable Impeller when the manifest explicitly disables it (#53108)"<br />
     <sub>[#53124](https://github.com/flutter/engine/pull/53124) merged on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53124) over 1 minute, 1 addition and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Upload `flutter_gpu.zip` upon successful completion of ci/android_debug.<br />
+    <sub>[#53107](https://github.com/flutter/engine/pull/53107) merged on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53107) over 9 hours, 54 additions and 6 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from ef405fbe3917 to 2976c1694eed (6 revisions)<br />
     <sub>[#53149](https://github.com/flutter/engine/pull/53149) merged on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53149) over 46 minutes, 15 additions and 15 deletions in 3 files</sub><br />
