@@ -24,7 +24,7 @@
     <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app<br />
-    <sub>[#148741](https://github.com/flutter/flutter/pull/148741) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148741) 27 additions and 19 deletions in 5 files</sub><br />
+    <sub>[#148741](https://github.com/flutter/flutter/pull/148741) opened on on May 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148741) 31 additions and 19 deletions in 6 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions<br />
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) opened on on May 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148786) 42 additions and 8 deletions in 2 files</sub><br />
