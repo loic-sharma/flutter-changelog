@@ -74,3 +74,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix overflow of the overscroll section when the user scrolls far<br />
     <sub>[#149542](https://github.com/flutter/flutter/pull/149542) opened on on June 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149542) 52 additions and 2 deletions in 2 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup triage reports from docs/<br />
+    <sub>[#149545](https://github.com/flutter/flutter/pull/149545) opened on on June 1, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149545) 1 addition and 10228 deletions in 6 files</sub><br />
+
