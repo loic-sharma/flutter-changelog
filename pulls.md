@@ -68,9 +68,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Roll `Switch.adaptive` changes into `CupertinoSwitch`<br />
     <sub>[#149465](https://github.com/flutter/flutter/pull/149465) opened on on June 1, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/149465) 1733 additions and 435 deletions in 2 files</sub><br />
 
-* **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; fixes #issue136763, changed a command to generate gradle error message according to platform<br />
-    <sub>[#149487](https://github.com/flutter/flutter/pull/149487) opened on on June 1, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149487) 2439 additions and 417 deletions in 8 files</sub><br />
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix overflow of the overscroll section when the user scrolls far<br />
     <sub>[#149542](https://github.com/flutter/flutter/pull/149542) opened on on June 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149542) 52 additions and 2 deletions in 2 files</sub><br />
 
