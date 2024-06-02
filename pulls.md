@@ -83,3 +83,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for dropdown_menu.1.dart<br />
     <sub>[#149547](https://github.com/flutter/flutter/pull/149547) opened on on June 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149547) 56 additions and 1 deletion in 2 files</sub><br />
 
+* **[Gaya](https://github.com/LimaneGaya)** &mdash; Web fix odd alignment of SelectionArea Text when it's a child of a Column<br />
+    <sub>[#149552](https://github.com/flutter/flutter/pull/149552) opened on on June 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149552) 1 addition and 0 deletions in 1 file</sub><br />
+
