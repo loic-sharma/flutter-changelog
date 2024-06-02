@@ -77,3 +77,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup triage reports from docs/<br />
     <sub>[#149545](https://github.com/flutter/flutter/pull/149545) opened on on June 1, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149545) 1 addition and 10228 deletions in 6 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove irrelevant test shards on docs/ changes<br />
+    <sub>[#149546](https://github.com/flutter/flutter/pull/149546) opened on on June 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149546) 409 additions and 0 deletions in 1 file</sub><br />
+
