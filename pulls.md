@@ -72,7 +72,7 @@
     <sub>[#149542](https://github.com/flutter/flutter/pull/149542) opened on on June 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149542) 52 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove irrelevant test shards on docs/ changes<br />
-    <sub>[#149546](https://github.com/flutter/flutter/pull/149546) opened on on June 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149546) 409 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#149546](https://github.com/flutter/flutter/pull/149546) opened on on June 2, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/149546) 409 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for dropdown_menu.1.dart<br />
     <sub>[#149547](https://github.com/flutter/flutter/pull/149547) opened on on June 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149547) 56 additions and 1 deletion in 2 files</sub><br />
