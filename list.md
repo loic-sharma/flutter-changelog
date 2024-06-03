@@ -688,7 +688,12 @@
 
 ### June 1, 2024 to June 7, 2024
 
-6 commits.
+7 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math
+    <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+    <sub><details><summary>2 images...</summary><img width="626" alt="Screenshot 2024-05-30 at 1 29 11 PM" src="https://github.com/flutter/engine/assets/30870216/2777d55f-928f-4029-92d3-203e8ca669a0"><img width="622" alt="Screenshot 2024-05-31 at 11 07 58 AM" src="https://github.com/flutter/engine/assets/30870216/155a592c-90f0-486b-8131-2f66328a871a"></details></sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add Ethiopic font fallback.
     <sub>[#53180](https://github.com/flutter/engine/pull/53180) merged on June 3, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/53180) over 2 hours, 1677 additions and 1588 deletions in 4 files</sub>
@@ -1043,12 +1048,16 @@
 
 ### June 1, 2024 to June 7, 2024
 
-2 commits.
+3 commits.
 
 * **[Alex Usmanov](https://github.com/Alex-Usmanov)** &mdash; [url_launcher] Add support for setting show title on Chrome Custom Tabs
     <sub>[#6097](https://github.com/flutter/packages/pull/6097) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6097) over 3 months, 161 additions and 7 deletions in 12 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot_20231018-095928](https://github.com/flutter/packages/assets/40719830/2f32d83f-066b-4048-a439-04e2d63befde)</details></sub>
+
+* **[Robin Combrink](https://github.com/RobinCombrink)** &mdash; [pigeon] Kotlin/Java method overloading for the `setUp` method
+    <sub>[#6843](https://github.com/flutter/packages/pull/6843) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6843) over 3 days, 12 additions and 2 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Revert "Roll Flutter from c85fa6abf4ff to 7eebe2992aba (#6836)"
     <sub>[#6860](https://github.com/flutter/packages/pull/6860) merged on June 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6860) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
