@@ -20,9 +20,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
-    <sub>[#148739](https://github.com/flutter/flutter/pull/148739) opened on on May 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148739) 61 additions and 2 deletions in 2 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions<br />
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) opened on on May 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148786) 42 additions and 8 deletions in 2 files</sub><br />
 
@@ -88,7 +85,4 @@
 
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; fixes #issue136763, changed a command to generate gradle error message according to platform<br />
     <sub>[#149608](https://github.com/flutter/flutter/pull/149608) opened on on June 3, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149608) 2416 additions and 394 deletions in 6 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Identify and re-throw our dependency checking errors in `flutter.groovy`<br />
-    <sub>[#149609](https://github.com/flutter/flutter/pull/149609) opened on on June 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149609) 18 additions and 2 deletions in 1 file</sub><br />
 
