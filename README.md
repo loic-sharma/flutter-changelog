@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-4 commits.
+5 commits.
 
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example<br />
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) merged on June 3, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/149147) over 6 days, 124 additions and 0 deletions in 3 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup triage reports from docs/<br />
     <sub>[#149545](https://github.com/flutter/flutter/pull/149545) merged on June 3, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149545) over 1 day, 1 addition and 10228 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app<br />
+    <sub>[#148741](https://github.com/flutter/flutter/pull/148741) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148741) over 1 week, 33 additions and 19 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey<br />
     <sub>[#149567](https://github.com/flutter/flutter/pull/149567) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149567) over 11 hours, 137 additions and 108 deletions in 1 file</sub><br />
@@ -94,7 +98,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![rrectblurbenchmark (2)](https://github.com/flutter/flutter/assets/30870216/ec849519-4619-4c2f-8bb3-8e0584c4566f)</details></sub>
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Rewrite CupertinoActionSheet, and fix layout deviation<br />
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Rewrite CupertinoActionSheet<br />
     <sub>[#149334](https://github.com/flutter/flutter/pull/149334) merged on May 31, 2024 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/149334) over 1 day, 429 additions and 200 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
