@@ -83,3 +83,6 @@
 * **[Gaya](https://github.com/LimaneGaya)** &mdash; Web fix odd alignment of SelectionArea Text when it's a child of a Column<br />
     <sub>[#149552](https://github.com/flutter/flutter/pull/149552) opened on on June 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149552) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey<br />
+    <sub>[#149567](https://github.com/flutter/flutter/pull/149567) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149567) 137 additions and 108 deletions in 1 file</sub><br />
+
