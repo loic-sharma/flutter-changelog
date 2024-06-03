@@ -39,7 +39,7 @@
     <sub>[#149225](https://github.com/flutter/flutter/pull/149225) opened on on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149225) 20 additions and 1 deletion in 2 files</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Place `flutter_gpu` in the package cache.<br />
-    <sub>[#149299](https://github.com/flutter/flutter/pull/149299) opened on on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149299) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#149299](https://github.com/flutter/flutter/pull/149299) opened on on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149299) 30 additions and 1 deletion in 2 files</sub><br />
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Reland "sliverGridDelegate mainAxisExtent add assert (#148470)" <br />
     <sub>[#149308](https://github.com/flutter/flutter/pull/149308) opened on on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149308) 53 additions and 2 deletions in 2 files</sub><br />
@@ -60,10 +60,10 @@
     <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149383) 106 additions and 2 deletions in 3 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Add sliding tap gesture<br />
-    <sub>[#149471](https://github.com/flutter/flutter/pull/149471) opened on on June 1, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149471) 472 additions and 22 deletions in 3 files</sub><br />
+    <sub>[#149471](https://github.com/flutter/flutter/pull/149471) opened on on June 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149471) 510 additions and 24 deletions in 3 files</sub><br />
 
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; fixes #issue136763, changed a command to generate gradle error message according to platform<br />
-    <sub>[#149487](https://github.com/flutter/flutter/pull/149487) opened on on June 1, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149487) 2439 additions and 417 deletions in 8 files</sub><br />
+    <sub>[#149487](https://github.com/flutter/flutter/pull/149487) opened on on June 1, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149487) 2426 additions and 404 deletions in 8 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove irrelevant test shards on docs/ changes<br />
     <sub>[#149546](https://github.com/flutter/flutter/pull/149546) opened on on June 2, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/149546) 409 additions and 0 deletions in 1 file</sub><br />

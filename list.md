@@ -4,7 +4,12 @@
 
 ### June 1, 2024 to June 7, 2024
 
-6 commits.
+7 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator.prefixIcon color when disabled
+    <sub>[#149595](https://github.com/flutter/flutter/pull/149595) merged on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149595) over 4 hours, 9 additions and 8 deletions in 4 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/298d9aaf-fcda-479a-a8dd-0ee84db98242)</details></sub>
 
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) merged on June 3, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/149147) over 6 days, 124 additions and 0 deletions in 3 files</sub>
