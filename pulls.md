@@ -35,9 +35,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for standard_fab_location.0.dart<br />
     <sub>[#149225](https://github.com/flutter/flutter/pull/149225) opened on on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149225) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Place `flutter_gpu` in the package cache.<br />
-    <sub>[#149299](https://github.com/flutter/flutter/pull/149299) opened on on May 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149299) 40 additions and 1 deletion in 2 files</sub><br />
-
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Reland "sliverGridDelegate mainAxisExtent add assert (#148470)" <br />
     <sub>[#149308](https://github.com/flutter/flutter/pull/149308) opened on on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149308) 53 additions and 2 deletions in 2 files</sub><br />
 
