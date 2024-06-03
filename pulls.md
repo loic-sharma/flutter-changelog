@@ -15,7 +15,7 @@
     <sub>[#147940](https://github.com/flutter/flutter/pull/147940) opened on on May 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/147940) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; PageController: added default [duration] and [curve] values to animateToPage, nextPage and previousPage methods<br />
-    <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/148560) 360 additions and 25 deletions in 13 files</sub><br />
@@ -76,4 +76,7 @@
 
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; fixes #issue136763, changed a command to generate gradle error message according to platform<br />
     <sub>[#149608](https://github.com/flutter/flutter/pull/149608) opened on on June 3, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149608) 2416 additions and 394 deletions in 6 files</sub><br />
+
+* **[Adam Skelton](https://github.com/Zabadam)** &mdash; Include transform in static Gradient lerp methods<br />
+    <sub>[#149624](https://github.com/flutter/flutter/pull/149624) opened on on June 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149624) 81 additions and 0 deletions in 2 files</sub><br />
 

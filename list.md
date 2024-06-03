@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-10 commits.
+11 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator.prefixIcon color when disabled
     <sub>[#149595](https://github.com/flutter/flutter/pull/149595) merged on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149595) over 4 hours, 9 additions and 8 deletions in 4 files</sub>
@@ -38,6 +38,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey
     <sub>[#149567](https://github.com/flutter/flutter/pull/149567) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149567) over 11 hours, 137 additions and 108 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#149617](https://github.com/flutter/flutter/pull/149617) merged on June 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149617) over 1 hour, 212 additions and 211 deletions in 63 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix overflow of the overscroll section when the user scrolls far
     <sub>[#149542](https://github.com/flutter/flutter/pull/149542) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149542) over 1 day, 52 additions and 2 deletions in 2 files</sub>
@@ -676,7 +680,11 @@
 
 ### June 1, 2024 to June 7, 2024
 
-3 commits.
+4 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] allow applying opacity peephole to single glyph.
+    <sub>[#53160](https://github.com/flutter/engine/pull/53160) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53160) over 3 days, 41 additions and 1 deletion in 5 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Widen CPU affinity set.
     <sub>[#53136](https://github.com/flutter/engine/pull/53136) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53136) over 3 days, 13 additions and 2 deletions in 4 files</sub>
