@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Support overriding native endorsed plugins<br />
-    <sub>[#137040](https://github.com/flutter/flutter/pull/137040) opened on on October 22, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/137040) 929 additions and 655 deletions in 4 files</sub><br />
+    <sub>[#137040](https://github.com/flutter/flutter/pull/137040) opened on on October 22, 2023 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/137040) 929 additions and 655 deletions in 4 files</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
@@ -72,7 +72,7 @@
     <sub>[#149542](https://github.com/flutter/flutter/pull/149542) opened on on June 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149542) 52 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove irrelevant test shards on docs/ changes<br />
-    <sub>[#149546](https://github.com/flutter/flutter/pull/149546) opened on on June 2, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/149546) 409 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#149546](https://github.com/flutter/flutter/pull/149546) opened on on June 2, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/149546) 409 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for dropdown_menu.1.dart<br />
     <sub>[#149547](https://github.com/flutter/flutter/pull/149547) opened on on June 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149547) 56 additions and 1 deletion in 2 files</sub><br />
