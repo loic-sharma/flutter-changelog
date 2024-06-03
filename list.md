@@ -688,7 +688,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-4 commits.
+5 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] allow applying opacity peephole to single glyph.
     <sub>[#53160](https://github.com/flutter/engine/pull/53160) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53160) over 3 days, 41 additions and 1 deletion in 5 files</sub>
@@ -701,6 +701,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix NPE caused by implicit sk_sp to fml::Status conversion.
     <sub>[#53177](https://github.com/flutter/engine/pull/53177) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53177) over 59 minutes, 25 additions and 21 deletions in 3 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix rendering corruption by Flutter and GDK sharing the same OpenGL context
+    <sub>[#53103](https://github.com/flutter/engine/pull/53103) merged on June 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/53103) over 4 days, 15 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Migrate off deprecated GrVkBackendContext fields
     <sub>[#53122](https://github.com/flutter/engine/pull/53122) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53122) over 4 days, 76 additions and 81 deletions in 13 files</sub>
