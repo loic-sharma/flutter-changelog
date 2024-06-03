@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Support overriding native endorsed plugins<br />
-    <sub>[#137040](https://github.com/flutter/flutter/pull/137040) opened on on October 22, 2023 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/137040) 929 additions and 655 deletions in 4 files</sub><br />
+    <sub>[#137040](https://github.com/flutter/flutter/pull/137040) opened on on October 22, 2023 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/137040) 929 additions and 655 deletions in 4 files</sub><br />
 
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
@@ -36,7 +36,7 @@
     <sub>[#148938](https://github.com/flutter/flutter/pull/148938) opened on on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148938) 25 additions and 2 deletions in 2 files</sub><br />
 
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example<br />
-    <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/149147) 124 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/149147) 124 additions and 0 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
