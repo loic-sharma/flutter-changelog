@@ -1043,7 +1043,12 @@
 
 ### June 1, 2024 to June 7, 2024
 
-1 commits.
+2 commits.
+
+* **[Alex Usmanov](https://github.com/Alex-Usmanov)** &mdash; [url_launcher] Add support for setting show title on Chrome Custom Tabs<br />
+    <sub>[#6097](https://github.com/flutter/packages/pull/6097) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6097) over 3 months, 161 additions and 7 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub><br />
+    <sub><details><summary>1 image...</summary>![Screenshot_20231018-095928](https://github.com/flutter/packages/assets/40719830/2f32d83f-066b-4048-a439-04e2d63befde)</details></sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Revert "Roll Flutter from c85fa6abf4ff to 7eebe2992aba (#6836)"<br />
     <sub>[#6860](https://github.com/flutter/packages/pull/6860) merged on June 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6860) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
