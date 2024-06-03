@@ -688,7 +688,11 @@
 
 ### June 1, 2024 to June 7, 2024
 
-5 commits.
+6 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add Ethiopic font fallback.
+    <sub>[#53180](https://github.com/flutter/engine/pull/53180) merged on June 3, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/53180) over 2 hours, 1677 additions and 1588 deletions in 4 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] allow applying opacity peephole to single glyph.
     <sub>[#53160](https://github.com/flutter/engine/pull/53160) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53160) over 3 days, 41 additions and 1 deletion in 5 files</sub>
