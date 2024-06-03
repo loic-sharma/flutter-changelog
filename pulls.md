@@ -86,9 +86,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey<br />
     <sub>[#149567](https://github.com/flutter/flutter/pull/149567) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149567) 137 additions and 108 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix inputDecorator hint color on M3<br />
-    <sub>[#149571](https://github.com/flutter/flutter/pull/149571) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149571) 43 additions and 28 deletions in 4 files</sub><br />
-
 * **[chenguang shao](https://github.com/shaochenguang)** &mdash; Fix SliverAppBar Stretch Not Triggering in NestedScrollView<br />
     <sub>[#149572](https://github.com/flutter/flutter/pull/149572) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149572) 4 additions and 1 deletion in 1 file</sub><br />
 
