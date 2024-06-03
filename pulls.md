@@ -84,7 +84,7 @@
     <sub>[#149552](https://github.com/flutter/flutter/pull/149552) opened on on June 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149552) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey<br />
-    <sub>[#149567](https://github.com/flutter/flutter/pull/149567) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149567) 137 additions and 108 deletions in 1 file</sub><br />
+    <sub>[#149567](https://github.com/flutter/flutter/pull/149567) opened on on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149567) 137 additions and 108 deletions in 1 file</sub><br />
 
 * **[chenguang shao](https://github.com/shaochenguang)** &mdash; Fix SliverAppBar Stretch Not Triggering in NestedScrollView<br />
     <sub>[#149572](https://github.com/flutter/flutter/pull/149572) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149572) 4 additions and 1 deletion in 1 file</sub><br />
