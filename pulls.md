@@ -86,3 +86,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] - Enable `explicitChildNodes` for the `AlertDialog` content<br />
     <sub>[#149597](https://github.com/flutter/flutter/pull/149597) opened on on June 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149597) 20 additions and 4 deletions in 2 files</sub><br />
 
+* **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; fixes #issue136763, changed a command to generate gradle error message according to platform<br />
+    <sub>[#149608](https://github.com/flutter/flutter/pull/149608) opened on on June 3, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149608) 2416 additions and 394 deletions in 6 files</sub><br />
+
