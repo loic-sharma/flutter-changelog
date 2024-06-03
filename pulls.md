@@ -35,9 +35,6 @@
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; content dimensions are not established get controller value error<br />
     <sub>[#148938](https://github.com/flutter/flutter/pull/148938) opened on on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148938) 25 additions and 2 deletions in 2 files</sub><br />
 
-* **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example<br />
-    <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/149147) 124 additions and 0 deletions in 3 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
 
