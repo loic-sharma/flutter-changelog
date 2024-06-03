@@ -672,7 +672,11 @@
 
 ### June 1, 2024 to June 7, 2024
 
-1 commits.
+2 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix NPE caused by implicit sk_sp to fml::Status conversion.
+    <sub>[#53177](https://github.com/flutter/engine/pull/53177) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53177) over 59 minutes, 25 additions and 21 deletions in 3 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Migrate off deprecated GrVkBackendContext fields
     <sub>[#53122](https://github.com/flutter/engine/pull/53122) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53122) over 4 days, 76 additions and 81 deletions in 13 files</sub>
