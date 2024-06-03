@@ -62,9 +62,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Add sliding tap gesture<br />
     <sub>[#149471](https://github.com/flutter/flutter/pull/149471) opened on on June 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149471) 510 additions and 24 deletions in 3 files</sub><br />
 
-* **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; fixes #issue136763, changed a command to generate gradle error message according to platform<br />
-    <sub>[#149487](https://github.com/flutter/flutter/pull/149487) opened on on June 1, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149487) 2426 additions and 404 deletions in 8 files</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove irrelevant test shards on docs/ changes<br />
     <sub>[#149546](https://github.com/flutter/flutter/pull/149546) opened on on June 2, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/149546) 409 additions and 0 deletions in 1 file</sub><br />
 
