@@ -36,7 +36,7 @@
     <sub>[#148938](https://github.com/flutter/flutter/pull/148938) opened on on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148938) 25 additions and 2 deletions in 2 files</sub><br />
 
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example<br />
-    <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/149147) 124 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#149147](https://github.com/flutter/flutter/pull/149147) opened on on May 27, 2024 &mdash; **Small:** [39 comments](https://github.com/flutter/flutter/pull/149147) 124 additions and 0 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
@@ -79,12 +79,6 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for dropdown_menu.1.dart<br />
     <sub>[#149547](https://github.com/flutter/flutter/pull/149547) opened on on June 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149547) 56 additions and 1 deletion in 2 files</sub><br />
-
-* **[Gaya](https://github.com/LimaneGaya)** &mdash; Web fix odd alignment of SelectionArea Text when it's a child of a Column<br />
-    <sub>[#149552](https://github.com/flutter/flutter/pull/149552) opened on on June 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149552) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey<br />
-    <sub>[#149567](https://github.com/flutter/flutter/pull/149567) opened on on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149567) 137 additions and 108 deletions in 1 file</sub><br />
 
 * **[chenguang shao](https://github.com/shaochenguang)** &mdash; Fix SliverAppBar Stretch Not Triggering in NestedScrollView<br />
     <sub>[#149572](https://github.com/flutter/flutter/pull/149572) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149572) 4 additions and 1 deletion in 1 file</sub><br />
