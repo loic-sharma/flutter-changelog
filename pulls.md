@@ -59,6 +59,9 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer<br />
     <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149383) 106 additions and 2 deletions in 3 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Add sliding tap gesture<br />
+    <sub>[#149471](https://github.com/flutter/flutter/pull/149471) opened on on June 1, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149471) 472 additions and 22 deletions in 3 files</sub><br />
+
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; fixes #issue136763, changed a command to generate gradle error message according to platform<br />
     <sub>[#149487](https://github.com/flutter/flutter/pull/149487) opened on on June 1, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149487) 2439 additions and 417 deletions in 8 files</sub><br />
 
@@ -81,7 +84,7 @@
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149587) 15 additions and 0 deletions in 3 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners<br />
-    <sub>[#149594](https://github.com/flutter/flutter/pull/149594) opened on on June 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/149594) 253 additions and 111 deletions in 5 files</sub><br />
+    <sub>[#149594](https://github.com/flutter/flutter/pull/149594) opened on on June 3, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/149594) 253 additions and 111 deletions in 5 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] - Enable `explicitChildNodes` for the `AlertDialog` content<br />
     <sub>[#149597](https://github.com/flutter/flutter/pull/149597) opened on on June 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149597) 20 additions and 4 deletions in 2 files</sub><br />

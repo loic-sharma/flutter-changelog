@@ -657,9 +657,18 @@
 
 ## flutter/engine
 
+### June 1, 2024 to June 7, 2024
+
+1 commits.
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Migrate off deprecated GrVkBackendContext fields<br />
+    <sub>[#53122](https://github.com/flutter/engine/pull/53122) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53122) over 4 days, 76 additions and 81 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
 ### May 25, 2024 to May 31, 2024
 
-40 commits.
+<details>
+<summary>40 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use scaled font to determine bounds, match Skia position rounding behavior, add subpixel X/Y/All/None positioning.<br />
     <sub>[#53042](https://github.com/flutter/engine/pull/53042) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/engine/pull/53042) over 2 days, 512 additions and 378 deletions in 26 files</sub><br />
@@ -820,6 +829,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 641d61332238 to ef405fbe3917 (12 revisions)<br />
     <sub>[#53089](https://github.com/flutter/engine/pull/53089) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53089) over 46 minutes, 4 additions and 6 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### May 18, 2024 to May 24, 2024
 
