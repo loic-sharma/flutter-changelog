@@ -983,7 +983,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; [dynamic_layouts] Remove the dynamic_layouts package
-    <sub>[#6830](https://github.com/flutter/packages/pull/6830) merged on May 29, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/6830) over 1 hour, 0 additions and 7264 deletions in 142 files</sub>
+    <sub>[#6830](https://github.com/flutter/packages/pull/6830) merged on May 29, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/6830) over 1 hour, 0 additions and 7264 deletions in 142 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Updates `PigeonInstanceMangerApi` to use the shared api channel code in Dart
