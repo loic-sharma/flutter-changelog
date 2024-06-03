@@ -1009,9 +1009,18 @@
 
 ## flutter/packages
 
+### June 1, 2024 to June 7, 2024
+
+1 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; Revert "Roll Flutter from c85fa6abf4ff to 7eebe2992aba (#6836)"<br />
+    <sub>[#6860](https://github.com/flutter/packages/pull/6860) merged on June 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6860) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
 ### May 25, 2024 to May 31, 2024
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove references to v1 embedding<br />
     <sub>[#6494](https://github.com/flutter/packages/pull/6494) merged on May 28, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/6494) over 1 month, 140 additions and 435 deletions in 61 files</sub><br />
@@ -1090,6 +1099,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Migrate CameraX from SurfaceTexture to SurfaceProducer."<br />
     <sub>[#6838](https://github.com/flutter/packages/pull/6838) merged on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6838) over 1 hour, 42 additions and 29 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+</details>
 
 ### May 18, 2024 to May 24, 2024
 
