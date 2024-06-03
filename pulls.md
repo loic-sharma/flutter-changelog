@@ -95,3 +95,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix buildDir deprecation in the flutter.groovy <br />
     <sub>[#149580](https://github.com/flutter/flutter/pull/149580) opened on on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149580) 49 additions and 49 deletions in 1 file</sub><br />
 
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove _MenuAnchorState from parent when disposed.<br />
+    <sub>[#149586](https://github.com/flutter/flutter/pull/149586) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149586) 4 additions and 1 deletion in 1 file</sub><br />
+
