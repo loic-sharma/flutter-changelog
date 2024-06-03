@@ -89,6 +89,9 @@
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149587) 15 additions and 0 deletions in 3 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners<br />
+    <sub>[#149594](https://github.com/flutter/flutter/pull/149594) opened on on June 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149594) 253 additions and 111 deletions in 5 files</sub><br />
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator.prefixIcon color when disabled<br />
     <sub>[#149595](https://github.com/flutter/flutter/pull/149595) opened on on June 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149595) 9 additions and 8 deletions in 4 files</sub><br />
 

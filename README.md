@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 1, 2024 to June 7, 2024
+
+1 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup triage reports from docs/<br />
+    <sub>[#149545](https://github.com/flutter/flutter/pull/149545) merged on June 3, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149545) over 1 day, 1 addition and 10228 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### May 25, 2024 to May 31, 2024
 
-58 commits.
+<details>
+<summary>58 commits...</summary>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Have Material widgets in a Cupertino App partially use Cupertino theme<br />
     <sub>[#139253](https://github.com/flutter/flutter/pull/139253) merged on May 30, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/139253) over 6 months, 70 additions and 14 deletions in 4 files</sub><br />
@@ -249,6 +258,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for future_builder.0.dart<br />
     <sub>[#148453](https://github.com/flutter/flutter/pull/148453) merged on May 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148453) over 1 week, 29 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+</details>
 
 ### May 18, 2024 to May 24, 2024
 
