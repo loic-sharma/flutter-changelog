@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-17 commits.
+18 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable sandboxing for macOS apps and tests in CI<br />
     <sub>[#149618](https://github.com/flutter/flutter/pull/149618) merged on June 4, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/149618) over 1 day, 405 additions and 3 deletions in 12 files</sub><br />
@@ -48,6 +48,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app<br />
     <sub>[#148741](https://github.com/flutter/flutter/pull/148741) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148741) over 1 week, 33 additions and 19 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Identify and re-throw our dependency checking errors in `flutter.groovy`<br />
+    <sub>[#149609](https://github.com/flutter/flutter/pull/149609) merged on June 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149609) over 1 day, 35 additions and 7 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
     <sub>[#148739](https://github.com/flutter/flutter/pull/148739) merged on June 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148739) over 1 week, 61 additions and 2 deletions in 2 files</sub><br />

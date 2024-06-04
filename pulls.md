@@ -23,26 +23,14 @@
 * **[zhibisora](https://github.com/zhibisora)** &mdash; Specify architecture when building for macOS<br />
     <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148920) 106 additions and 1 deletion in 2 files</sub><br />
 
-* **[flyboy](https://github.com/hello-coder-xu)** &mdash; content dimensions are not established get controller value error<br />
-    <sub>[#148938](https://github.com/flutter/flutter/pull/148938) opened on on May 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/148938) 25 additions and 2 deletions in 2 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for standard_fab_location.0.dart<br />
     <sub>[#149225](https://github.com/flutter/flutter/pull/149225) opened on on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149225) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[flyboy](https://github.com/hello-coder-xu)** &mdash; Reland "sliverGridDelegate mainAxisExtent add assert (#148470)" <br />
-    <sub>[#149308](https://github.com/flutter/flutter/pull/149308) opened on on May 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149308) 53 additions and 2 deletions in 2 files</sub><br />
-
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.<br />
     <sub>[#149315](https://github.com/flutter/flutter/pull/149315) opened on on May 30, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149315) 381 additions and 39 deletions in 2 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Refactor how we handle errors around imgtestInit/tryjobInit<br />
-    <sub>[#149356](https://github.com/flutter/flutter/pull/149356) opened on on May 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/149356) 205 additions and 114 deletions in 2 files</sub><br />
-
-* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove redundant usages of zones in skia_client.dart<br />
-    <sub>[#149366](https://github.com/flutter/flutter/pull/149366) opened on on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149366) 34 additions and 39 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer<br />
     <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149383) 106 additions and 2 deletions in 3 files</sub><br />
