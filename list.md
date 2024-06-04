@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-16 commits.
+17 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable sandboxing for macOS apps and tests in CI
     <sub>[#149618](https://github.com/flutter/flutter/pull/149618) merged on June 4, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/149618) over 1 day, 405 additions and 3 deletions in 12 files</sub>
@@ -15,6 +15,10 @@
     <sub>[#149595](https://github.com/flutter/flutter/pull/149595) merged on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149595) over 4 hours, 9 additions and 8 deletions in 4 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/298d9aaf-fcda-479a-a8dd-0ee84db98242)</details></sub>
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Scrollbar thumb drag gestures now produce one start and one end scroll notification
+    <sub>[#146654](https://github.com/flutter/flutter/pull/146654) merged on June 4, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/146654) over 1 month, 898 additions and 98 deletions in 9 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) merged on June 3, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/149147) over 6 days, 124 additions and 0 deletions in 3 files</sub>
