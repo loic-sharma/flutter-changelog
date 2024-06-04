@@ -66,7 +66,7 @@
     <sub>[#149597](https://github.com/flutter/flutter/pull/149597) opened on on June 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149597) 20 additions and 4 deletions in 2 files</sub><br />
 
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; fixes #issue136763, changed a command to generate gradle error message according to platform<br />
-    <sub>[#149608](https://github.com/flutter/flutter/pull/149608) opened on on June 3, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149608) 2416 additions and 394 deletions in 6 files</sub><br />
+    <sub>[#149608](https://github.com/flutter/flutter/pull/149608) opened on on June 3, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149608) 2424 additions and 400 deletions in 8 files</sub><br />
 
 * **[Adam Skelton](https://github.com/Zabadam)** &mdash; Include transform in static Gradient lerp methods<br />
     <sub>[#149624](https://github.com/flutter/flutter/pull/149624) opened on on June 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149624) 81 additions and 0 deletions in 2 files</sub><br />
@@ -79,4 +79,7 @@
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
     <sub>[#149641](https://github.com/flutter/flutter/pull/149641) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149641) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add mouse cursor property to CupertinoRadio<br />
+    <sub>[#149681](https://github.com/flutter/flutter/pull/149681) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149681) 76 additions and 0 deletions in 3 files</sub><br />
 
