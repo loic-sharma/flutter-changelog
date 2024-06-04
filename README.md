@@ -4,7 +4,11 @@
 
 ### June 1, 2024 to June 7, 2024
 
-19 commits.
+20 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; TreeSliver & associated classes<br />
+    <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Navaron Bracke](https://github.com/navaronbracke), [Matheus Baumgarten](https://github.com/baumths), [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable sandboxing for macOS apps and tests in CI<br />
     <sub>[#149618](https://github.com/flutter/flutter/pull/149618) merged on June 4, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/149618) over 1 day, 405 additions and 3 deletions in 12 files</sub><br />
@@ -1110,7 +1114,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-7 commits.
+8 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements - platform impls<br />
     <sub>[#6826](https://github.com/flutter/packages/pull/6826) merged on June 4, 2024 &mdash; **Extra large:** [49 comments](https://github.com/flutter/packages/pull/6826) over 6 days, 2664 additions and 240 deletions in 45 files</sub><br />
@@ -1127,6 +1131,10 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Clean Xcode project before analyzing and testing<br />
     <sub>[#6842](https://github.com/flutter/packages/pull/6842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6842) over 3 days, 18 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Manual roll Flutter to c246ecd (84 revisions) + fixes<br />
+    <sub>[#6863](https://github.com/flutter/packages/pull/6863) merged on June 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6863) over 20 hours, 9 additions and 5 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Correcting the typo of Flutter in projects<br />
