@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-13 commits.
+14 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator.prefixIcon color when disabled
     <sub>[#149595](https://github.com/flutter/flutter/pull/149595) merged on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149595) over 4 hours, 9 additions and 8 deletions in 4 files</sub>
@@ -14,6 +14,11 @@
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) merged on June 3, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/149147) over 6 days, 124 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix the scrolling layout deviation of `CupertinoActionSheet`
+    <sub>[#149439](https://github.com/flutter/flutter/pull/149439) merged on June 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149439) over 3 days, 11 additions and 33 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+    <sub><details><summary>3 images...</summary><img width="1006" alt="image" src="https://github.com/flutter/flutter/assets/1596656/27ca5df7-1140-4bfd-9a5f-3b5972632c92"><img width="1025" alt="image" src="https://github.com/flutter/flutter/assets/1596656/f2be6a5c-1713-4ffe-9705-27a668e5133d"><img width="1024" alt="image" src="https://github.com/flutter/flutter/assets/1596656/5b90d9f4-11ed-4c04-bdea-0b81b1d2bd3d"></details></sub>
 
 * **[Dacian Florea](https://github.com/dacianf)** &mdash; Added filter callback on dropdown menu
     <sub>[#143939](https://github.com/flutter/flutter/pull/143939) merged on June 3, 2024 &mdash; **Small:** [70 comments](https://github.com/flutter/flutter/pull/143939) over 3 months, 109 additions and 2 deletions in 2 files</sub>
