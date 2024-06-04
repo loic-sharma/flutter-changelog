@@ -53,9 +53,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for dropdown_menu.1.dart<br />
     <sub>[#149547](https://github.com/flutter/flutter/pull/149547) opened on on June 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149547) 56 additions and 1 deletion in 2 files</sub><br />
 
-* **[chenguang shao](https://github.com/shaochenguang)** &mdash; Fix SliverAppBar Stretch Not Triggering in NestedScrollView<br />
-    <sub>[#149572](https://github.com/flutter/flutter/pull/149572) opened on on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149572) 15 additions and 2 deletions in 1 file</sub><br />
-
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove _MenuAnchorState from parent when disposed.<br />
     <sub>[#149586](https://github.com/flutter/flutter/pull/149586) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149586) 4 additions and 1 deletion in 1 file</sub><br />
 
