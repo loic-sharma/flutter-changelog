@@ -65,3 +65,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix buildDir deprecation in the flutter.groovy<br />
     <sub>[#149687](https://github.com/flutter/flutter/pull/149687) opened on on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149687) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove abi key from local golden file testing<br />
+    <sub>[#149696](https://github.com/flutter/flutter/pull/149696) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149696) 8 additions and 4 deletions in 2 files</sub><br />
+
