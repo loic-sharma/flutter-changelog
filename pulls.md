@@ -77,3 +77,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
     <sub>[#149641](https://github.com/flutter/flutter/pull/149641) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149641) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix buildDir deprecation in the flutter.groovy<br />
+    <sub>[#149687](https://github.com/flutter/flutter/pull/149687) opened on on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149687) 3 additions and 3 deletions in 1 file</sub><br />
+

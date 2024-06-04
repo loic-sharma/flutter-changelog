@@ -693,7 +693,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-13 commits.
+14 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -719,6 +719,10 @@
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; [web] update version-lock file location<br />
     <sub>[#52842](https://github.com/flutter/engine/pull/52842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52842) over 2 weeks, 8 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] tighten fast gradient condition.<br />
+    <sub>[#53195](https://github.com/flutter/engine/pull/53195) merged on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53195) over 4 hours, 69 additions and 3 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] allow applying opacity peephole to single glyph.<br />
     <sub>[#53160](https://github.com/flutter/engine/pull/53160) merged on June 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53160) over 3 days, 41 additions and 1 deletion in 5 files</sub><br />
@@ -1077,7 +1081,11 @@
 
 ### June 1, 2024 to June 7, 2024
 
-5 commits.
+6 commits.
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements - platform impls<br />
+    <sub>[#6826](https://github.com/flutter/packages/pull/6826) merged on June 4, 2024 &mdash; **Extra large:** [49 comments](https://github.com/flutter/packages/pull/6826) over 6 days, 2664 additions and 240 deletions in 45 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Alex Usmanov](https://github.com/Alex-Usmanov)** &mdash; [url_launcher] Add support for setting show title on Chrome Custom Tabs<br />
     <sub>[#6097](https://github.com/flutter/packages/pull/6097) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6097) over 3 months, 161 additions and 7 deletions in 12 files</sub><br />
