@@ -1061,12 +1061,16 @@
 
 ### June 1, 2024 to June 7, 2024
 
-3 commits.
+4 commits.
 
 * **[Alex Usmanov](https://github.com/Alex-Usmanov)** &mdash; [url_launcher] Add support for setting show title on Chrome Custom Tabs<br />
     <sub>[#6097](https://github.com/flutter/packages/pull/6097) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6097) over 3 months, 161 additions and 7 deletions in 12 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot_20231018-095928](https://github.com/flutter/packages/assets/40719830/2f32d83f-066b-4048-a439-04e2d63befde)</details></sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Clean Xcode project before analyzing and testing<br />
+    <sub>[#6842](https://github.com/flutter/packages/pull/6842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6842) over 3 days, 18 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Robin Combrink](https://github.com/RobinCombrink)** &mdash; [pigeon] Kotlin/Java method overloading for the `setUp` method<br />
     <sub>[#6843](https://github.com/flutter/packages/pull/6843) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6843) over 3 days, 12 additions and 2 deletions in 6 files</sub><br />
