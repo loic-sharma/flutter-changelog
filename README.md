@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-18 commits.
+19 commits.
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable sandboxing for macOS apps and tests in CI<br />
     <sub>[#149618](https://github.com/flutter/flutter/pull/149618) merged on June 4, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/149618) over 1 day, 405 additions and 3 deletions in 12 files</sub><br />
@@ -60,6 +60,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey<br />
     <sub>[#149567](https://github.com/flutter/flutter/pull/149567) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149567) over 11 hours, 137 additions and 108 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Prepares semantics_update_test for upcoming heading level changes<br />
+    <sub>[#149671](https://github.com/flutter/flutter/pull/149671) merged on June 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149671) over 5 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow `find.byTooltip` to use a RegEx<br />
     <sub>[#149348](https://github.com/flutter/flutter/pull/149348) merged on June 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149348) over 5 days, 109 additions and 3 deletions in 2 files</sub><br />
