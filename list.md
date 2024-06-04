@@ -4,7 +4,12 @@
 
 ### June 1, 2024 to June 7, 2024
 
-14 commits.
+16 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable sandboxing for macOS apps and tests in CI
+    <sub>[#149618](https://github.com/flutter/flutter/pull/149618) merged on June 4, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/149618) over 1 day, 405 additions and 3 deletions in 12 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub><details><summary>1 image...</summary>![Screenshot 2024-05-30 at 2 41 33 PM](https://github.com/flutter/flutter/assets/682784/1bc32620-5edb-420a-866c-5cc529b2ac55)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator.prefixIcon color when disabled
     <sub>[#149595](https://github.com/flutter/flutter/pull/149595) merged on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149595) over 4 hours, 9 additions and 8 deletions in 4 files</sub>
@@ -47,6 +52,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey
     <sub>[#149567](https://github.com/flutter/flutter/pull/149567) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149567) over 11 hours, 137 additions and 108 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow `find.byTooltip` to use a RegEx
+    <sub>[#149348](https://github.com/flutter/flutter/pull/149348) merged on June 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149348) over 5 days, 109 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Switch to triage-* labels for platform package triage
     <sub>[#149614](https://github.com/flutter/flutter/pull/149614) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149614) over 2 hours, 4 additions and 3 deletions in 1 file</sub>
