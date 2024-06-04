@@ -77,6 +77,3 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
     <sub>[#149641](https://github.com/flutter/flutter/pull/149641) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149641) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add mouse cursor property to CupertinoRadio<br />
-    <sub>[#149681](https://github.com/flutter/flutter/pull/149681) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149681) 76 additions and 0 deletions in 3 files</sub><br />
-
