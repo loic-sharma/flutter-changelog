@@ -83,3 +83,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove temporary LayoutBuilder migration flag<br />
     <sub>[#149637](https://github.com/flutter/flutter/pull/149637) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149637) 1 addition and 16 deletions in 4 files</sub><br />
 
+* **[Łukasz Gawron](https://github.com/gawi151)** &mdash; [CP] Fix TwoDimensionalViewport's keep alive child not always removed (when no longer should be kept alive)<br />
+    <sub>[#149639](https://github.com/flutter/flutter/pull/149639) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149639) 100 additions and 0 deletions in 3 files</sub><br />
+
