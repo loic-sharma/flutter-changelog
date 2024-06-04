@@ -83,3 +83,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
     <sub>[#149641](https://github.com/flutter/flutter/pull/149641) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149641) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix signature for TokenTemplate.updateFile<br />
+    <sub>[#149673](https://github.com/flutter/flutter/pull/149673) opened on on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149673) 1 addition and 1 deletion in 1 file</sub><br />
+
