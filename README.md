@@ -178,7 +178,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; sliverGridDelegate mainAxisExtent add assert<br />
-    <sub>[#148470](https://github.com/flutter/flutter/pull/148470) merged on May 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/148470) over 1 week, 53 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#148470](https://github.com/flutter/flutter/pull/148470) merged on May 29, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148470) over 1 week, 53 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update 3.22.1 release notes to include missing fix.<br />
@@ -693,7 +693,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-9 commits.
+10 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -719,6 +719,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix NPE caused by implicit sk_sp to fml::Status conversion.<br />
     <sub>[#53177](https://github.com/flutter/engine/pull/53177) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53177) over 59 minutes, 25 additions and 21 deletions in 3 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Fix FlutterView cursor hit testing<br />
+    <sub>[#53171](https://github.com/flutter/engine/pull/53171) merged on June 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53171) over 1 day, 4 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[display_list] allow applying opacity peephole to single glyph. (#53160)"<br />
     <sub>[#53189](https://github.com/flutter/engine/pull/53189) merged on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53189) over 1 minute, 1 addition and 41 deletions in 5 files</sub><br />
