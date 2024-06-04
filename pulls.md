@@ -80,3 +80,6 @@
 * **[Adam Skelton](https://github.com/Zabadam)** &mdash; Include transform in static Gradient lerp methods<br />
     <sub>[#149624](https://github.com/flutter/flutter/pull/149624) opened on on June 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149624) 81 additions and 0 deletions in 2 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#149630](https://github.com/flutter/flutter/pull/149630) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149630) 4 additions and 4 deletions in 2 files</sub><br />
+
