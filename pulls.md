@@ -74,9 +74,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#149630](https://github.com/flutter/flutter/pull/149630) opened on on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149630) 4 additions and 4 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove temporary LayoutBuilder migration flag<br />
-    <sub>[#149637](https://github.com/flutter/flutter/pull/149637) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149637) 58 additions and 17 deletions in 4 files</sub><br />
-
 * **[Łukasz Gawron](https://github.com/gawi151)** &mdash; [CP] Fix TwoDimensionalViewport's keep alive child not always removed (when no longer should be kept alive)<br />
     <sub>[#149639](https://github.com/flutter/flutter/pull/149639) opened on on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149639) 100 additions and 0 deletions in 3 files</sub><br />
 
