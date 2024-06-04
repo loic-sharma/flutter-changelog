@@ -718,7 +718,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-17 commits.
+18 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -748,6 +748,10 @@
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; [web] update version-lock file location<br />
     <sub>[#52842](https://github.com/flutter/engine/pull/52842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52842) over 2 weeks, 8 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Intel iOS Simulators must block on GPU completion.<br />
+    <sub>[#53073](https://github.com/flutter/engine/pull/53073) merged on June 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53073) over 1 week, 16 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Clarify rendering backend fallback behavior on Android.<br />
     <sub>[#53202](https://github.com/flutter/engine/pull/53202) merged on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53202) over 55 minutes, 6 additions and 3 deletions in 1 file</sub><br />
@@ -1138,7 +1142,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Manual roll Flutter to c246ecd (84 revisions) + fixes<br />
-    <sub>[#6863](https://github.com/flutter/packages/pull/6863) merged on June 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6863) over 20 hours, 9 additions and 5 deletions in 6 files</sub><br />
+    <sub>[#6863](https://github.com/flutter/packages/pull/6863) merged on June 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6863) over 20 hours, 9 additions and 5 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Correcting the typo of Flutter in projects<br />
