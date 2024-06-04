@@ -1077,12 +1077,16 @@
 
 ### June 1, 2024 to June 7, 2024
 
-4 commits.
+5 commits.
 
 * **[Alex Usmanov](https://github.com/Alex-Usmanov)** &mdash; [url_launcher] Add support for setting show title on Chrome Custom Tabs
     <sub>[#6097](https://github.com/flutter/packages/pull/6097) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6097) over 3 months, 161 additions and 7 deletions in 12 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot_20231018-095928](https://github.com/flutter/packages/assets/40719830/2f32d83f-066b-4048-a439-04e2d63befde)</details></sub>
+
+* **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Avoid cumbersome formatter workaround
+    <sub>[#6573](https://github.com/flutter/packages/pull/6573) merged on June 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6573) over 1 month, 4 additions and 15 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Clean Xcode project before analyzing and testing
     <sub>[#6842](https://github.com/flutter/packages/pull/6842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6842) over 3 days, 18 additions and 5 deletions in 4 files</sub>
