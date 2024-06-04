@@ -75,14 +75,11 @@
     <sub>[#149630](https://github.com/flutter/flutter/pull/149630) opened on on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149630) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove temporary LayoutBuilder migration flag<br />
-    <sub>[#149637](https://github.com/flutter/flutter/pull/149637) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149637) 1 addition and 16 deletions in 4 files</sub><br />
+    <sub>[#149637](https://github.com/flutter/flutter/pull/149637) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149637) 58 additions and 17 deletions in 4 files</sub><br />
 
 * **[Łukasz Gawron](https://github.com/gawi151)** &mdash; [CP] Fix TwoDimensionalViewport's keep alive child not always removed (when no longer should be kept alive)<br />
     <sub>[#149639](https://github.com/flutter/flutter/pull/149639) opened on on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149639) 100 additions and 0 deletions in 3 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
     <sub>[#149641](https://github.com/flutter/flutter/pull/149641) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149641) 2 additions and 2 deletions in 2 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix signature for TokenTemplate.updateFile<br />
-    <sub>[#149673](https://github.com/flutter/flutter/pull/149673) opened on on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149673) 1 addition and 1 deletion in 1 file</sub><br />
 
