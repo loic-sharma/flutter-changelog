@@ -80,3 +80,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#149630](https://github.com/flutter/flutter/pull/149630) opened on on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149630) 4 additions and 4 deletions in 2 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove temporary LayoutBuilder migration flag<br />
+    <sub>[#149637](https://github.com/flutter/flutter/pull/149637) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149637) 1 addition and 16 deletions in 4 files</sub><br />
+
