@@ -693,7 +693,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-14 commits.
+15 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -719,6 +719,10 @@
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; [web] update version-lock file location<br />
     <sub>[#52842](https://github.com/flutter/engine/pull/52842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52842) over 2 weeks, 8 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] wire up bdf and blend detection in experimental canvas.<br />
+    <sub>[#53151](https://github.com/flutter/engine/pull/53151) merged on June 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53151) over 4 days, 33 additions and 14 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] tighten fast gradient condition.<br />
     <sub>[#53195](https://github.com/flutter/engine/pull/53195) merged on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53195) over 4 hours, 69 additions and 3 deletions in 4 files</sub><br />
@@ -1081,7 +1085,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-6 commits.
+7 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements - platform impls<br />
     <sub>[#6826](https://github.com/flutter/packages/pull/6826) merged on June 4, 2024 &mdash; **Extra large:** [49 comments](https://github.com/flutter/packages/pull/6826) over 6 days, 2664 additions and 240 deletions in 45 files</sub><br />
@@ -1099,6 +1103,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Clean Xcode project before analyzing and testing<br />
     <sub>[#6842](https://github.com/flutter/packages/pull/6842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6842) over 3 days, 18 additions and 5 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Correcting the typo of Flutter in projects<br />
+    <sub>[#6850](https://github.com/flutter/packages/pull/6850) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6850) over 1 day, 5 additions and 5 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Robin Combrink](https://github.com/RobinCombrink)** &mdash; [pigeon] Kotlin/Java method overloading for the `setUp` method<br />
     <sub>[#6843](https://github.com/flutter/packages/pull/6843) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6843) over 3 days, 12 additions and 2 deletions in 6 files</sub><br />
