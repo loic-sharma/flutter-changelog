@@ -74,3 +74,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Fix framework name deduplication<br />
+    <sub>[#149761](https://github.com/flutter/flutter/pull/149761) opened on on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149761) 26 additions and 5 deletions in 2 files</sub><br />
+
