@@ -16,7 +16,7 @@
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-30 at 2 41 33 PM](https://github.com/flutter/flutter/assets/682784/1bc32620-5edb-420a-866c-5cc529b2ac55)</details></sub>
 
 * **[Peter Trost](https://github.com/Peetee06)** &mdash; Feature: Add AnimatedList with separators<br />
-    <sub>[#144899](https://github.com/flutter/flutter/pull/144899) merged on June 5, 2024 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/144899) over 2 months, 1038 additions and 25 deletions in 5 files</sub><br />
+    <sub>[#144899](https://github.com/flutter/flutter/pull/144899) merged on June 5, 2024 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/144899) over 2 months, 1038 additions and 25 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Nate](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator.prefixIcon color when disabled<br />
