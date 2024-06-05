@@ -762,7 +762,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-23 commits.
+24 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -804,6 +804,10 @@
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; [web] update version-lock file location<br />
     <sub>[#52842](https://github.com/flutter/engine/pull/52842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52842) over 2 weeks, 8 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update testing/skia_gold_client/README.md<br />
+    <sub>[#53233](https://github.com/flutter/engine/pull/53233) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53233) over 35 minutes, 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] enable always_specify_types for web_ui<br />
     <sub>[#53226](https://github.com/flutter/engine/pull/53226) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53226) over 48 minutes, 1 addition and 0 deletions in 1 file</sub><br />
