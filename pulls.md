@@ -80,3 +80,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Adds letterSpacing modifier to whole app<br />
+    <sub>[#149735](https://github.com/flutter/flutter/pull/149735) opened on on June 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149735) 321 additions and 2 deletions in 8 files</sub><br />
+
