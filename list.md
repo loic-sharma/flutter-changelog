@@ -722,7 +722,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-19 commits.
+20 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub>
@@ -742,12 +742,16 @@
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] Use CAShapeLayer as the mask to avoid software rendering 
-    <sub>[#53072](https://github.com/flutter/engine/pull/53072) merged on June 5, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/53072) over 1 week, 150 additions and 38 deletions in 13 files</sub>
+    <sub>[#53072](https://github.com/flutter/engine/pull/53072) merged on June 5, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53072) over 1 week, 150 additions and 38 deletions in 13 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Separate layer-specific data in DisplayListBuilder::SaveInfo
     <sub>[#53186](https://github.com/flutter/engine/pull/53186) merged on June 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53186) over 16 hours, 541 additions and 225 deletions in 11 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[ios][platform_view] Use CAShapeLayer as the mask to avoid software rendering  (#53072)"
+    <sub>[#53220](https://github.com/flutter/engine/pull/53220) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53220) over 1 minute, 38 additions and 150 deletions in 13 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; java fail on format missing
     <sub>[#53176](https://github.com/flutter/engine/pull/53176) merged on June 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53176) over 23 hours, 14 additions and 4 deletions in 2 files</sub>
