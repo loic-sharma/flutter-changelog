@@ -1130,7 +1130,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-8 commits.
+9 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements - platform impls<br />
     <sub>[#6826](https://github.com/flutter/packages/pull/6826) merged on June 4, 2024 &mdash; **Extra large:** [49 comments](https://github.com/flutter/packages/pull/6826) over 6 days, 2664 additions and 240 deletions in 45 files</sub><br />
@@ -1140,6 +1140,10 @@
     <sub>[#6097](https://github.com/flutter/packages/pull/6097) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6097) over 3 months, 161 additions and 7 deletions in 12 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot_20231018-095928](https://github.com/flutter/packages/assets/40719830/2f32d83f-066b-4048-a439-04e2d63befde)</details></sub>
+
+* **[Nemanja Mladenović](https://github.com/uberchilly)** &mdash; [rfw] Material slider widget<br />
+    <sub>[#6610](https://github.com/flutter/packages/pull/6610) merged on June 5, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/6610) over 1 month, 136 additions and 1 deletion in 4 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Avoid cumbersome formatter workaround<br />
     <sub>[#6573](https://github.com/flutter/packages/pull/6573) merged on June 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6573) over 1 month, 4 additions and 15 deletions in 1 file</sub><br />
