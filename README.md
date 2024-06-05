@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-20 commits.
+21 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; TreeSliver & associated classes<br />
     <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub><br />
@@ -40,6 +40,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup triage reports from docs/<br />
     <sub>[#149545](https://github.com/flutter/flutter/pull/149545) merged on June 3, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149545) over 1 day, 1 addition and 10228 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Request focus if `SemanticsAction.focus` is sent to a focusable widget<br />
+    <sub>[#142942](https://github.com/flutter/flutter/pull/142942) merged on June 5, 2024 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/142942) over 4 months, 281 additions and 70 deletions in 58 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes multi line textfield hint text gets ellipsized<br />
     <sub>[#148423](https://github.com/flutter/flutter/pull/148423) merged on June 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148423) over 2 weeks, 43 additions and 1 deletion in 2 files</sub><br />
@@ -835,7 +839,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] relax conditions for SkRRect.isSimple conversion to impeller::RRect.<br />
-    <sub>[#53083](https://github.com/flutter/engine/pull/53083) merged on May 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53083) over 12 hours, 32 additions and 1 deletion in 4 files</sub><br />
+    <sub>[#53083](https://github.com/flutter/engine/pull/53083) merged on May 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53083) over 12 hours, 32 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Manual revert of #53001<br />
@@ -976,7 +980,7 @@
     <sub><details><summary>4 images...</summary><img width="640" alt="Screenshot 2024-05-21 at 11 18 51 PM" src="https://github.com/flutter/engine/assets/919017/22d9fee7-834f-4cb4-8ed4-578a7c17f7a2"><img width="121" alt="Screenshot 2024-05-21 at 11 19 35 PM" src="https://github.com/flutter/engine/assets/919017/419029b1-9a5f-4a30-bbb0-83dafc79f7df"><img width="640" alt="Screenshot 2024-05-21 at 11 17 25 PM" src="https://github.com/flutter/engine/assets/919017/629e30a5-d0c5-4b7a-a3e2-bf715aa4ba78"><img width="115" alt="Screenshot 2024-05-21 at 11 16 38 PM" src="https://github.com/flutter/engine/assets/919017/12e51892-6009-47d0-a4e5-1f1b017c99e8"></details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Pixel align subpass textures.<br />
-    <sub>[#52973](https://github.com/flutter/engine/pull/52973) merged on May 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/52973) over 3 hours, 18 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#52973](https://github.com/flutter/engine/pull/52973) merged on May 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52973) over 3 hours, 18 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>2 images...</summary><img width="964" alt="image" src="https://github.com/flutter/engine/assets/919017/0be88453-1014-443b-bc80-6df459adb075">![image](https://github.com/flutter/engine/assets/919017/ccd89a87-4643-4e4d-9e24-56f28f317e2f)</details></sub>
 
@@ -1142,7 +1146,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Manual roll Flutter to c246ecd (84 revisions) + fixes<br />
-    <sub>[#6863](https://github.com/flutter/packages/pull/6863) merged on June 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6863) over 20 hours, 9 additions and 5 deletions in 6 files</sub><br />
+    <sub>[#6863](https://github.com/flutter/packages/pull/6863) merged on June 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6863) over 20 hours, 9 additions and 5 deletions in 6 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Correcting the typo of Flutter in projects<br />

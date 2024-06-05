@@ -68,3 +68,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove abi key from local golden file testing<br />
     <sub>[#149696](https://github.com/flutter/flutter/pull/149696) opened on on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149696) 8 additions and 4 deletions in 2 files</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `contrastLevel` parameter to `ColorScheme.fromSeed`<br />
+    <sub>[#149705](https://github.com/flutter/flutter/pull/149705) opened on on June 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149705) 261 additions and 84 deletions in 4 files</sub><br />
+
