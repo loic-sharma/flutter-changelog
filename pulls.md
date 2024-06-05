@@ -62,9 +62,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix buildDir deprecation in the flutter.groovy<br />
     <sub>[#149687](https://github.com/flutter/flutter/pull/149687) opened on on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149687) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove abi key from local golden file testing<br />
-    <sub>[#149696](https://github.com/flutter/flutter/pull/149696) opened on on June 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149696) 8 additions and 4 deletions in 2 files</sub><br />
-
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Reland "sliverGridDelegate mainAxisExtent add assert (#148470)" <br />
     <sub>[#149720](https://github.com/flutter/flutter/pull/149720) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149720) 60 additions and 3 deletions in 2 files</sub><br />
 
@@ -72,5 +69,5 @@
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 
 * **[Ricardo Boss](https://github.com/ricardoboss)** &mdash; Copy any previous `IconThemeData` instead of overwriting it in CupertinoButton<br />
-    <sub>[#149777](https://github.com/flutter/flutter/pull/149777) opened on on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149777) 36 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#149777](https://github.com/flutter/flutter/pull/149777) opened on on June 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149777) 36 additions and 1 deletion in 2 files</sub><br />
 
