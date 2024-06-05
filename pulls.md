@@ -71,3 +71,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 
+* **[Ricardo Boss](https://github.com/ricardoboss)** &mdash; Copy any previous `IconThemeData` instead of overwriting it in CupertinoButton<br />
+    <sub>[#149777](https://github.com/flutter/flutter/pull/149777) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149777) 36 additions and 1 deletion in 2 files</sub><br />
+

@@ -110,7 +110,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Request focus if `SemanticsAction.focus` is sent to a focusable widget (#142942)"
-    <sub>[#149741](https://github.com/flutter/flutter/pull/149741) merged on June 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149741) over 42 seconds, 70 additions and 281 deletions in 58 files</sub>
+    <sub>[#149741](https://github.com/flutter/flutter/pull/149741) merged on June 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/149741) over 42 seconds, 70 additions and 281 deletions in 58 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Prepares semantics_update_test for upcoming heading level changes
