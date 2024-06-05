@@ -794,7 +794,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix rendering corruption by Flutter and GDK sharing the same OpenGL context<br />
-    <sub>[#53103](https://github.com/flutter/engine/pull/53103) merged on June 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/53103) over 4 days, 15 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#53103](https://github.com/flutter/engine/pull/53103) merged on June 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53103) over 4 days, 15 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Migrate off deprecated GrVkBackendContext fields<br />
