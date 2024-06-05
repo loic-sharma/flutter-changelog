@@ -778,8 +778,8 @@
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #52859: Revamp the engine style guide, remove `always_specify_types`<br />
-    <sub>[#53223](https://github.com/flutter/engine/pull/53223) merged on June 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/53223) over 51 minutes, 173 additions and 19 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John McCutchan](https://github.com/johnmccutchan), [Jackson Gardner](https://github.com/eyebrowsoffire), [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+    <sub>[#53223](https://github.com/flutter/engine/pull/53223) merged on June 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53223) over 51 minutes, 173 additions and 19 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John McCutchan](https://github.com/johnmccutchan), [Chris Bracken](https://github.com/cbracken), [Jackson Gardner](https://github.com/eyebrowsoffire), [John McDole](https://github.com/jtmcdole), and [1 other](https://github.com/flutter/engine/pull/53223)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Intel iOS Simulators must block on GPU completion.<br />
     <sub>[#53073](https://github.com/flutter/engine/pull/53073) merged on June 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53073) over 1 week, 16 additions and 1 deletion in 1 file</sub><br />
