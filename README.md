@@ -774,7 +774,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-28 commits.
+30 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -792,6 +792,10 @@
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Add support for setting the heading level for web semantics (#97894)<br />
     <sub>[#41435](https://github.com/flutter/engine/pull/41435) merged on June 4, 2024 &mdash; **Small:** [78 comments](https://github.com/flutter/engine/pull/41435) over 13 months, 139 additions and 5 deletions in 14 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds allowPlatformDefault for wheel signals.<br />
+    <sub>[#51566](https://github.com/flutter/engine/pull/51566) merged on June 5, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/engine/pull/51566) over 2 months, 154 additions and 16 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Michael Goderbauer](https://github.com/goderbauer), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] Use CAShapeLayer as the mask to avoid software rendering <br />
     <sub>[#53072](https://github.com/flutter/engine/pull/53072) merged on June 5, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53072) over 1 week, 150 additions and 38 deletions in 13 files</sub><br />
@@ -832,6 +836,10 @@
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; [web] update version-lock file location<br />
     <sub>[#52842](https://github.com/flutter/engine/pull/52842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52842) over 2 weeks, 8 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove the DBC interpreter flag.<br />
+    <sub>[#53204](https://github.com/flutter/engine/pull/53204) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53204) over 1 day, 0 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update testing/skia_gold_client/README.md<br />
     <sub>[#53233](https://github.com/flutter/engine/pull/53233) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53233) over 35 minutes, 2 additions and 1 deletion in 1 file</sub><br />
