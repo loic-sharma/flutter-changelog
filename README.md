@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-23 commits.
+24 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; TreeSliver & associated classes<br />
     <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub><br />
@@ -14,6 +14,10 @@
     <sub>[#149618](https://github.com/flutter/flutter/pull/149618) merged on June 4, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/149618) over 1 day, 405 additions and 3 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-30 at 2 41 33 PM](https://github.com/flutter/flutter/assets/682784/1bc32620-5edb-420a-866c-5cc529b2ac55)</details></sub>
+
+* **[Peter Trost](https://github.com/Peetee06)** &mdash; Feature: Add AnimatedList with separators<br />
+    <sub>[#144899](https://github.com/flutter/flutter/pull/144899) merged on June 5, 2024 &mdash; **Large:** [50 comments](https://github.com/flutter/flutter/pull/144899) over 2 months, 1038 additions and 25 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Nate](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator.prefixIcon color when disabled<br />
     <sub>[#149595](https://github.com/flutter/flutter/pull/149595) merged on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149595) over 4 hours, 9 additions and 8 deletions in 4 files</sub><br />
