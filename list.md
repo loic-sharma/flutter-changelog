@@ -766,7 +766,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-26 commits.
+27 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub>
@@ -792,6 +792,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] correctly map DL non-mipmap sample mode to non-mipmap sample mode.
     <sub>[#53161](https://github.com/flutter/engine/pull/53161) merged on June 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53161) over 4 days, 2 additions and 8 deletions in 2 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] remove legacy DisplayListMatrixClipTracker
+    <sub>[#53232](https://github.com/flutter/engine/pull/53232) merged on June 5, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/53232) over 2 hours, 81 additions and 855 deletions in 8 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added test for bgra10xr png encoding
     <sub>[#53182](https://github.com/flutter/engine/pull/53182) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53182) over 1 day, 22 additions and 0 deletions in 1 file</sub>
