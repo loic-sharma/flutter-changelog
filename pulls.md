@@ -27,13 +27,13 @@
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for standard_fab_location.0.dart<br />
-    <sub>[#149225](https://github.com/flutter/flutter/pull/149225) opened on on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149225) 20 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#149225](https://github.com/flutter/flutter/pull/149225) opened on on May 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149225) 20 additions and 1 deletion in 2 files</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.<br />
     <sub>[#149315](https://github.com/flutter/flutter/pull/149315) opened on on May 30, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149315) 381 additions and 39 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer<br />
-    <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149383) 106 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/149383) 106 additions and 2 deletions in 3 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove irrelevant test shards on docs/ changes<br />
     <sub>[#149546](https://github.com/flutter/flutter/pull/149546) opened on on June 2, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/149546) 409 additions and 0 deletions in 1 file</sub><br />
@@ -76,4 +76,7 @@
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Reland "sliverGridDelegate mainAxisExtent add assert (#148470)" <br />
     <sub>[#149720](https://github.com/flutter/flutter/pull/149720) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149720) 60 additions and 3 deletions in 2 files</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
+    <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 

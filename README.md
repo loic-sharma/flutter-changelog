@@ -1130,7 +1130,12 @@
 
 ### June 1, 2024 to June 7, 2024
 
-9 commits.
+10 commits.
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements<br />
+    <sub>[#4055](https://github.com/flutter/packages/pull/4055) merged on June 5, 2024 &mdash; **Large:** [137 comments](https://github.com/flutter/packages/pull/4055) over 12 months, 509 additions and 66 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
+    <sub><details><summary>3 images...</summary><img width="350" alt="Android Screenshot" src="https://github.com/flutter/packages/assets/5219613/a5b9d57b-5f6e-4c17-8f60-f397b2cf21f4"><img width="350" alt="iOS Screenshot" src="https://github.com/flutter/packages/assets/5219613/5edf9fc8-91c7-4927-a158-e71ab3081b96"><img width="350" alt="Web Screenshot" src="https://github.com/flutter/packages/assets/5219613/74fb2ea0-deff-4bc7-94b3-fa4aa5d6bfd5"></details></sub>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements - platform impls<br />
     <sub>[#6826](https://github.com/flutter/packages/pull/6826) merged on June 4, 2024 &mdash; **Extra large:** [49 comments](https://github.com/flutter/packages/pull/6826) over 6 days, 2664 additions and 240 deletions in 45 files</sub><br />
