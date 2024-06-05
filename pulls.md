@@ -83,3 +83,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds letterSpacing modifier to whole app<br />
     <sub>[#149735](https://github.com/flutter/flutter/pull/149735) opened on on June 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149735) 321 additions and 2 deletions in 8 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu can be focused and updated when disabled<br />
+    <sub>[#149737](https://github.com/flutter/flutter/pull/149737) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149737) 27 additions and 10 deletions in 2 files</sub><br />
+
