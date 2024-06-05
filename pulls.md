@@ -50,9 +50,6 @@
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149587) 15 additions and 0 deletions in 3 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners<br />
-    <sub>[#149594](https://github.com/flutter/flutter/pull/149594) opened on on June 3, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/149594) 253 additions and 111 deletions in 5 files</sub><br />
-
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; fixes #issue136763, changed a command to generate gradle error message according to platform<br />
     <sub>[#149608](https://github.com/flutter/flutter/pull/149608) opened on on June 3, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149608) 2424 additions and 400 deletions in 8 files</sub><br />
 
@@ -73,7 +70,4 @@
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes Router transaction to respect operation order<br />
-    <sub>[#149763](https://github.com/flutter/flutter/pull/149763) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149763) 162 additions and 54 deletions in 2 files</sub><br />
 

@@ -1166,7 +1166,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-11 commits.
+12 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements
     <sub>[#4055](https://github.com/flutter/packages/pull/4055) merged on June 5, 2024 &mdash; **Large:** [137 comments](https://github.com/flutter/packages/pull/4055) over 12 months, 509 additions and 66 deletions in 11 files</sub>
@@ -1181,6 +1181,11 @@
     <sub>[#6097](https://github.com/flutter/packages/pull/6097) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6097) over 3 months, 161 additions and 7 deletions in 12 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot_20231018-095928](https://github.com/flutter/packages/assets/40719830/2f32d83f-066b-4048-a439-04e2d63befde)</details></sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [google_sign_in_web] Update button_tester to use web_only library.
+    <sub>[#6868](https://github.com/flutter/packages/pull/6868) merged on June 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6868) over 17 hours, 165 additions and 133 deletions in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+    <sub><details><summary>1 image...</summary><img width="821" alt="Screenshot 2024-06-04 at 7 39 13 PM" src="https://github.com/flutter/packages/assets/1255594/284ba951-1d46-4ffb-9136-102344337286"></details></sub>
 
 * **[Nemanja Mladenović](https://github.com/uberchilly)** &mdash; [rfw] Material slider widget
     <sub>[#6610](https://github.com/flutter/packages/pull/6610) merged on June 5, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/6610) over 1 month, 136 additions and 1 deletion in 4 files</sub>
