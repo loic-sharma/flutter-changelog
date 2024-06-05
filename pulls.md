@@ -65,9 +65,6 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove abi key from local golden file testing<br />
     <sub>[#149696](https://github.com/flutter/flutter/pull/149696) opened on on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149696) 8 additions and 4 deletions in 2 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `contrastLevel` parameter to `ColorScheme.fromSeed`<br />
-    <sub>[#149705](https://github.com/flutter/flutter/pull/149705) opened on on June 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149705) 261 additions and 84 deletions in 4 files</sub><br />
-
 * **[Ger Teck](https://github.com/gerteck)** &mdash; Add `Radio.adaptive` to RadioMenuButton, `Checkbox.adaptive` to CheckboxMenuButton<br />
     <sub>[#149714](https://github.com/flutter/flutter/pull/149714) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149714) 166 additions and 14 deletions in 2 files</sub><br />
 
@@ -78,7 +75,7 @@
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds letterSpacing modifier to whole app<br />
-    <sub>[#149735](https://github.com/flutter/flutter/pull/149735) opened on on June 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149735) 321 additions and 2 deletions in 8 files</sub><br />
+    <sub>[#149735](https://github.com/flutter/flutter/pull/149735) opened on on June 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149735) 307 additions and 2 deletions in 8 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu can be focused and updated when disabled<br />
     <sub>[#149737](https://github.com/flutter/flutter/pull/149737) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149737) 27 additions and 10 deletions in 2 files</sub><br />
