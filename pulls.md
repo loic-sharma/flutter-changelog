@@ -77,3 +77,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu can be focused and updated when disabled<br />
     <sub>[#149737](https://github.com/flutter/flutter/pull/149737) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149737) 27 additions and 10 deletions in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [flutter_tools] Remove some temporary print traces in hot runner workflow<br />
+    <sub>[#149756](https://github.com/flutter/flutter/pull/149756) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149756) 9 additions and 25 deletions in 5 files</sub><br />
+
