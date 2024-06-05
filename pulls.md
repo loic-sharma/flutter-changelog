@@ -48,7 +48,7 @@
     <sub>[#149586](https://github.com/flutter/flutter/pull/149586) opened on on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149586) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
-    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149587) 15 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149587) 15 additions and 0 deletions in 3 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners<br />
     <sub>[#149594](https://github.com/flutter/flutter/pull/149594) opened on on June 3, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/149594) 253 additions and 111 deletions in 5 files</sub><br />
