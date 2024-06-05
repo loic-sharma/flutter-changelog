@@ -80,3 +80,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu can be focused and updated when disabled<br />
     <sub>[#149737](https://github.com/flutter/flutter/pull/149737) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149737) 27 additions and 10 deletions in 2 files</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Request focus if `SemanticsAction.focus` is sent to a focusable widget (#142942)"<br />
+    <sub>[#149741](https://github.com/flutter/flutter/pull/149741) opened on on June 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149741) 70 additions and 281 deletions in 58 files</sub><br />
+

@@ -42,7 +42,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Request focus if `SemanticsAction.focus` is sent to a focusable widget<br />
-    <sub>[#142942](https://github.com/flutter/flutter/pull/142942) merged on June 5, 2024 &mdash; **Medium:** [27 comments](https://github.com/flutter/flutter/pull/142942) over 4 months, 281 additions and 70 deletions in 58 files</sub><br />
+    <sub>[#142942](https://github.com/flutter/flutter/pull/142942) merged on June 5, 2024 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/142942) over 4 months, 281 additions and 70 deletions in 58 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes multi line textfield hint text gets ellipsized<br />
