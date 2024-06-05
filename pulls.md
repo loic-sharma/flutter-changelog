@@ -80,3 +80,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu can be focused and updated when disabled<br />
     <sub>[#149737](https://github.com/flutter/flutter/pull/149737) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149737) 27 additions and 10 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unused code from an older test artifact.<br />
+    <sub>[#149746](https://github.com/flutter/flutter/pull/149746) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149746) 0 additions and 0 deletions in 3 files</sub><br />
+
