@@ -71,3 +71,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `contrastLevel` parameter to `ColorScheme.fromSeed`<br />
     <sub>[#149705](https://github.com/flutter/flutter/pull/149705) opened on on June 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149705) 261 additions and 84 deletions in 4 files</sub><br />
 
+* **[Ger Teck](https://github.com/gerteck)** &mdash; Add `Radio.adaptive` to RadioMenuButton, `Checkbox.adaptive` to CheckboxMenuButton<br />
+    <sub>[#149714](https://github.com/flutter/flutter/pull/149714) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149714) 166 additions and 14 deletions in 2 files</sub><br />
+
