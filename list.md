@@ -1150,7 +1150,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-10 commits.
+11 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements
     <sub>[#4055](https://github.com/flutter/packages/pull/4055) merged on June 5, 2024 &mdash; **Large:** [137 comments](https://github.com/flutter/packages/pull/4055) over 12 months, 509 additions and 66 deletions in 11 files</sub>
@@ -1180,6 +1180,10 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Manual roll Flutter to c246ecd (84 revisions) + fixes
     <sub>[#6863](https://github.com/flutter/packages/pull/6863) merged on June 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6863) over 20 hours, 9 additions and 5 deletions in 6 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; [path_provider] Skip verifying sample file on macOS
+    <sub>[#6874](https://github.com/flutter/packages/pull/6874) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6874) over 27 minutes, 18 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Igor Molchanov](https://github.com/meg4cyberc4t)** &mdash; Correcting the typo of Flutter in projects
