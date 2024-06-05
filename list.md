@@ -738,7 +738,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-22 commits.
+23 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub>
@@ -780,6 +780,10 @@
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; [web] update version-lock file location
     <sub>[#52842](https://github.com/flutter/engine/pull/52842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52842) over 2 weeks, 8 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] enable always_specify_types for web_ui
+    <sub>[#53226](https://github.com/flutter/engine/pull/53226) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53226) over 48 minutes, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #52859: Revamp the engine style guide, remove `always_specify_types`
     <sub>[#53223](https://github.com/flutter/engine/pull/53223) merged on June 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53223) over 51 minutes, 173 additions and 19 deletions in 3 files</sub>

@@ -65,15 +65,9 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove abi key from local golden file testing<br />
     <sub>[#149696](https://github.com/flutter/flutter/pull/149696) opened on on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149696) 8 additions and 4 deletions in 2 files</sub><br />
 
-* **[Ger Teck](https://github.com/gerteck)** &mdash; Add `Radio.adaptive` to RadioMenuButton, `Checkbox.adaptive` to CheckboxMenuButton<br />
-    <sub>[#149714](https://github.com/flutter/flutter/pull/149714) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149714) 166 additions and 14 deletions in 2 files</sub><br />
-
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Reland "sliverGridDelegate mainAxisExtent add assert (#148470)" <br />
     <sub>[#149720](https://github.com/flutter/flutter/pull/149720) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149720) 60 additions and 3 deletions in 2 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu can be focused and updated when disabled<br />
-    <sub>[#149737](https://github.com/flutter/flutter/pull/149737) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149737) 27 additions and 10 deletions in 2 files</sub><br />
 
