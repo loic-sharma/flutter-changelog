@@ -730,7 +730,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-20 commits.
+21 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -752,6 +752,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] Use CAShapeLayer as the mask to avoid software rendering <br />
     <sub>[#53072](https://github.com/flutter/engine/pull/53072) merged on June 5, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53072) over 1 week, 150 additions and 38 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Manual roll of icu<br />
+    <sub>[#53199](https://github.com/flutter/engine/pull/53199) merged on June 5, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/53199) over 19 hours, 12027 additions and 12121 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Separate layer-specific data in DisplayListBuilder::SaveInfo<br />
     <sub>[#53186](https://github.com/flutter/engine/pull/53186) merged on June 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53186) over 16 hours, 541 additions and 225 deletions in 11 files</sub><br />
