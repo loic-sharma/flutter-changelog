@@ -4,10 +4,10 @@
 
 ### June 1, 2024 to June 7, 2024
 
-24 commits.
+25 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; TreeSliver & associated classes<br />
-    <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [41 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub><br />
+    <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Navaron Bracke](https://github.com/navaronbracke), [Matheus Baumgarten](https://github.com/baumths), [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable sandboxing for macOS apps and tests in CI<br />
@@ -27,6 +27,10 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Scrollbar thumb drag gestures now produce one start and one end scroll notification<br />
     <sub>[#146654](https://github.com/flutter/flutter/pull/146654) merged on June 4, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/146654) over 1 month, 898 additions and 98 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "TreeSliver & associated classes (#147171)"<br />
+    <sub>[#149754](https://github.com/flutter/flutter/pull/149754) merged on June 5, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149754) over 24 seconds, 0 additions and 3326 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Aditya Dwivedi](https://github.com/kaljitism)** &mdash; Add a simplified SimpleCascadingMenuApp example<br />
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) merged on June 3, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/149147) over 6 days, 124 additions and 0 deletions in 3 files</sub><br />
