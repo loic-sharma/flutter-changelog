@@ -844,6 +844,10 @@
     <sub>[#51566](https://github.com/flutter/engine/pull/51566) merged on June 5, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/engine/pull/51566) over 2 months, 154 additions and 16 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Michael Goderbauer](https://github.com/goderbauer), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
+* **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Manual roll of icu<br />
+    <sub>[#53199](https://github.com/flutter/engine/pull/53199) merged on June 5, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/engine/pull/53199) over 19 hours, 12027 additions and 12121 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] Use CAShapeLayer as the mask to avoid software rendering <br />
     <sub>[#53072](https://github.com/flutter/engine/pull/53072) merged on June 5, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53072) over 1 week, 150 additions and 38 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -856,17 +860,13 @@
     <sub>[#53229](https://github.com/flutter/engine/pull/53229) merged on June 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53229) over 5 hours, 89 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added test for bgra10xr png encoding<br />
-    <sub>[#53182](https://github.com/flutter/engine/pull/53182) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53182) over 1 day, 22 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Manual roll of icu<br />
-    <sub>[#53199](https://github.com/flutter/engine/pull/53199) merged on June 5, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/engine/pull/53199) over 19 hours, 12027 additions and 12121 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] remove legacy DisplayListMatrixClipTracker<br />
     <sub>[#53232](https://github.com/flutter/engine/pull/53232) merged on June 5, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/53232) over 2 hours, 81 additions and 855 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added test for bgra10xr png encoding<br />
+    <sub>[#53182](https://github.com/flutter/engine/pull/53182) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53182) over 1 day, 22 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Separate layer-specific data in DisplayListBuilder::SaveInfo<br />
     <sub>[#53186](https://github.com/flutter/engine/pull/53186) merged on June 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53186) over 16 hours, 541 additions and 225 deletions in 11 files</sub><br />
