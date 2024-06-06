@@ -83,9 +83,3 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.22.2 release notes<br />
     <sub>[#149818](https://github.com/flutter/flutter/pull/149818) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149818) 15 additions and 0 deletions in 1 file</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Clear its _focusedChildren when unfocus is actively called on FocusScopeNode.<br />
-    <sub>[#149819](https://github.com/flutter/flutter/pull/149819) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149819) 31 additions and 6 deletions in 2 files</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
-    <sub>[#149822](https://github.com/flutter/flutter/pull/149822) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149822) 4 additions and 1 deletion in 1 file</sub><br />
-
