@@ -719,7 +719,7 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Allow `RenderObject.getTransformTo` to take an arbitrary RenderObject in the same tree<br />
-    <sub>[#148897](https://github.com/flutter/flutter/pull/148897) merged on May 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148897) over 4 hours, 135 additions and 22 deletions in 2 files</sub><br />
+    <sub>[#148897](https://github.com/flutter/flutter/pull/148897) merged on May 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148897) over 4 hours, 135 additions and 22 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.22.1 changelog updates<br />
@@ -1255,7 +1255,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-12 commits.
+13 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements<br />
     <sub>[#4055](https://github.com/flutter/packages/pull/4055) merged on June 5, 2024 &mdash; **Large:** [137 comments](https://github.com/flutter/packages/pull/4055) over 12 months, 509 additions and 66 deletions in 11 files</sub><br />
@@ -1275,6 +1275,11 @@
     <sub>[#6868](https://github.com/flutter/packages/pull/6868) merged on June 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6868) over 17 hours, 165 additions and 133 deletions in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
     <sub><details><summary>1 image...</summary><img width="821" alt="Screenshot 2024-06-04 at 7 39 13 PM" src="https://github.com/flutter/packages/assets/1255594/284ba951-1d46-4ffb-9136-102344337286"></details></sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable sandboxing for macOS tests in CI<br />
+    <sub>[#6866](https://github.com/flutter/packages/pull/6866) merged on June 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6866) over 1 day, 100 additions and 5 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub><details><summary>1 image...</summary>![Screenshot 2024-05-30 at 2 41 33 PM](https://github.com/flutter/flutter/assets/682784/1bc32620-5edb-420a-866c-5cc529b2ac55)</details></sub>
 
 * **[Nemanja Mladenović](https://github.com/uberchilly)** &mdash; [rfw] Material slider widget<br />
     <sub>[#6610](https://github.com/flutter/packages/pull/6610) merged on June 5, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/6610) over 1 month, 136 additions and 1 deletion in 4 files</sub><br />
