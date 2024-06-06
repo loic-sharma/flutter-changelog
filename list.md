@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-39 commits.
+40 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; TreeSliver & associated classes
     <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub>
@@ -19,6 +19,11 @@
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-30 at 2 41 33 PM](https://github.com/flutter/flutter/assets/682784/1bc32620-5edb-420a-866c-5cc529b2ac55)</details></sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator.prefixIcon color when disabled
+    <sub>[#149595](https://github.com/flutter/flutter/pull/149595) merged on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149595) over 4 hours, 9 additions and 8 deletions in 4 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/298d9aaf-fcda-479a-a8dd-0ee84db98242)</details></sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator suffixIcon color when in error and hovered
     <sub>[#149643](https://github.com/flutter/flutter/pull/149643) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149643) over 1 day, 8 additions and 8 deletions in 4 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
@@ -27,11 +32,6 @@
 * **[Peter Trost](https://github.com/Peetee06)** &mdash; Feature: Add AnimatedList with separators
     <sub>[#144899](https://github.com/flutter/flutter/pull/144899) merged on June 5, 2024 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/144899) over 2 months, 1038 additions and 25 deletions in 5 files</sub>
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Nate](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator.prefixIcon color when disabled
-    <sub>[#149595](https://github.com/flutter/flutter/pull/149595) merged on June 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149595) over 4 hours, 9 additions and 8 deletions in 4 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/298d9aaf-fcda-479a-a8dd-0ee84db98242)</details></sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Scrollbar thumb drag gestures now produce one start and one end scroll notification
     <sub>[#146654](https://github.com/flutter/flutter/pull/146654) merged on June 4, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/146654) over 1 month, 898 additions and 98 deletions in 9 files</sub>
@@ -58,25 +58,25 @@
     <sub>[#149545](https://github.com/flutter/flutter/pull/149545) merged on June 3, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149545) over 1 day, 1 addition and 10228 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes multi line textfield hint text gets ellipsized
-    <sub>[#148423](https://github.com/flutter/flutter/pull/148423) merged on June 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148423) over 2 weeks, 43 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Request focus if `SemanticsAction.focus` is sent to a focusable widget
     <sub>[#142942](https://github.com/flutter/flutter/pull/142942) merged on June 5, 2024 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/142942) over 4 months, 281 additions and 70 deletions in 58 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes multi line textfield hint text gets ellipsized
+    <sub>[#148423](https://github.com/flutter/flutter/pull/148423) merged on June 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148423) over 2 weeks, 43 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Place `flutter_gpu` in the package cache.
     <sub>[#149299](https://github.com/flutter/flutter/pull/149299) merged on June 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/149299) over 4 days, 39 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app
-    <sub>[#148741](https://github.com/flutter/flutter/pull/148741) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148741) over 1 week, 33 additions and 19 deletions in 6 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes Router transaction to respect operation order
     <sub>[#149763](https://github.com/flutter/flutter/pull/149763) merged on June 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149763) over 3 hours, 81 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app
+    <sub>[#148741](https://github.com/flutter/flutter/pull/148741) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148741) over 1 week, 33 additions and 19 deletions in 6 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Unpin archive package from tool, update to version without security advisories
     <sub>[#149430](https://github.com/flutter/flutter/pull/149430) merged on June 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149430) over 6 days, 14 additions and 15 deletions in 8 files</sub>
@@ -85,6 +85,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove abi key from local golden file testing
     <sub>[#149696](https://github.com/flutter/flutter/pull/149696) merged on June 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149696) over 1 day, 8 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.
+    <sub>[#149822](https://github.com/flutter/flutter/pull/149822) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149822) over 3 hours, 4 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Send q once
     <sub>[#149767](https://github.com/flutter/flutter/pull/149767) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149767) over 2 hours, 7 additions and 1 deletion in 1 file</sub>
@@ -114,10 +118,6 @@
     <sub>[#149567](https://github.com/flutter/flutter/pull/149567) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149567) over 11 hours, 137 additions and 108 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Request focus if `SemanticsAction.focus` is sent to a focusable widget (#142942)"
-    <sub>[#149741](https://github.com/flutter/flutter/pull/149741) merged on June 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/149741) over 42 seconds, 70 additions and 281 deletions in 58 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Prepares semantics_update_test for upcoming heading level changes
     <sub>[#149671](https://github.com/flutter/flutter/pull/149671) merged on June 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149671) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Justin McCandless](https://github.com/justinmc)</sub>
@@ -146,17 +146,21 @@
     <sub>[#149821](https://github.com/flutter/flutter/pull/149821) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149821) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [flutter_tools] Remove additional listener on VM service that simply logged incoming messages
-    <sub>[#149756](https://github.com/flutter/flutter/pull/149756) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149756) over 3 hours, 0 additions and 14 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `contrastLevel` parameter to `ColorScheme.fromSeed`
     <sub>[#149705](https://github.com/flutter/flutter/pull/149705) merged on June 5, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/149705) over 21 hours, 264 additions and 87 deletions in 4 files</sub>
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [flutter_tools] Remove additional listener on VM service that simply logged incoming messages
+    <sub>[#149756](https://github.com/flutter/flutter/pull/149756) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149756) over 3 hours, 0 additions and 14 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove temporary LayoutBuilder migration flag, defer `markNeedsLayout`
     <sub>[#149637](https://github.com/flutter/flutter/pull/149637) merged on June 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149637) over 1 day, 58 additions and 17 deletions in 4 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Request focus if `SemanticsAction.focus` is sent to a focusable widget (#142942)"
+    <sub>[#149741](https://github.com/flutter/flutter/pull/149741) merged on June 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/149741) over 42 seconds, 70 additions and 281 deletions in 58 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Prevent LayoutBuilder from rebuilding more than once (#147856)"
     <sub>[#149303](https://github.com/flutter/flutter/pull/149303) merged on June 3, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149303) over 4 days, 714 additions and 248 deletions in 8 files</sub>
