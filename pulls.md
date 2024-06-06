@@ -71,3 +71,6 @@
 * **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Added support for elevation in refresh indicator.<br />
     <sub>[#149796](https://github.com/flutter/flutter/pull/149796) opened on on June 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149796) 8 additions and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Do not merge] Test InputDecorator golden changes<br />
+    <sub>[#149797](https://github.com/flutter/flutter/pull/149797) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149797) 1 addition and 1 deletion in 1 file</sub><br />
+
