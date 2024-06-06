@@ -56,9 +56,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix buildDir deprecation in the flutter.groovy<br />
     <sub>[#149687](https://github.com/flutter/flutter/pull/149687) opened on on June 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/149687) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Takahiro Torii](https://github.com/ttorii20)** &mdash; Update hasTrailingSpaces<br />
-    <sub>[#149698](https://github.com/flutter/flutter/pull/149698) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149698) 27 additions and 0 deletions in 2 files</sub><br />
-
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 
@@ -67,4 +64,7 @@
 
 * **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Added support for elevation in refresh indicator.<br />
     <sub>[#149796](https://github.com/flutter/flutter/pull/149796) opened on on June 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149796) 8 additions and 0 deletions in 1 file</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on macOS 13 or 14<br />
+    <sub>[#149854](https://github.com/flutter/flutter/pull/149854) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149854) 12 additions and 12 deletions in 1 file</sub><br />
 
