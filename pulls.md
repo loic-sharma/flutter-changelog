@@ -80,3 +80,6 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Proposal] Relocate and Rename Changelog to CHANGELOG.md in Flutter/Flutter Repository<br />
     <sub>[#149815](https://github.com/flutter/flutter/pull/149815) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149815) 0 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.22.2 release notes<br />
+    <sub>[#149818](https://github.com/flutter/flutter/pull/149818) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149818) 10 additions and 0 deletions in 1 file</sub><br />
+
