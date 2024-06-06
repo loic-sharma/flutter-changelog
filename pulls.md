@@ -54,7 +54,7 @@
     <sub>[#149641](https://github.com/flutter/flutter/pull/149641) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149641) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix buildDir deprecation in the flutter.groovy<br />
-    <sub>[#149687](https://github.com/flutter/flutter/pull/149687) opened on on June 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149687) 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#149687](https://github.com/flutter/flutter/pull/149687) opened on on June 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/149687) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Takahiro Torii](https://github.com/ttorii20)** &mdash; Update hasTrailingSpaces<br />
     <sub>[#149698](https://github.com/flutter/flutter/pull/149698) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149698) 27 additions and 0 deletions in 2 files</sub><br />
@@ -76,4 +76,7 @@
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.22.2 release notes<br />
     <sub>[#149818](https://github.com/flutter/flutter/pull/149818) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149818) 15 additions and 0 deletions in 1 file</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Reland TreeSliver <br />
+    <sub>[#149839](https://github.com/flutter/flutter/pull/149839) opened on on June 6, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149839) 3326 additions and 0 deletions in 11 files</sub><br />
 
