@@ -861,7 +861,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Manual roll of icu
-    <sub>[#53199](https://github.com/flutter/engine/pull/53199) merged on June 5, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/engine/pull/53199) over 19 hours, 12027 additions and 12121 deletions in 5 files</sub>
+    <sub>[#53199](https://github.com/flutter/engine/pull/53199) merged on June 5, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/engine/pull/53199) over 19 hours, 12027 additions and 12121 deletions in 5 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] remove legacy DisplayListMatrixClipTracker
@@ -1293,7 +1293,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-16 commits.
+17 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements
     <sub>[#4055](https://github.com/flutter/packages/pull/4055) merged on June 5, 2024 &mdash; **Large:** [137 comments](https://github.com/flutter/packages/pull/4055) over 12 months, 509 additions and 66 deletions in 11 files</sub>
@@ -1326,6 +1326,10 @@
 * **[Nemanja Mladenović](https://github.com/uberchilly)** &mdash; [rfw] Material slider widget
     <sub>[#6610](https://github.com/flutter/packages/pull/6610) merged on June 5, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/6610) over 1 month, 136 additions and 1 deletion in 4 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Ian Hickson](https://github.com/Hixie)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on macOS 13 or 14
+    <sub>[#6877](https://github.com/flutter/packages/pull/6877) merged on June 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6877) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Avoid cumbersome formatter workaround
     <sub>[#6573](https://github.com/flutter/packages/pull/6573) merged on June 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/6573) over 1 month, 4 additions and 15 deletions in 1 file</sub>
