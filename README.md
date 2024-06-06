@@ -783,7 +783,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-34 commits.
+35 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -826,21 +826,25 @@
     <sub>[#53229](https://github.com/flutter/engine/pull/53229) merged on June 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53229) over 5 hours, 89 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added test for bgra10xr png encoding<br />
-    <sub>[#53182](https://github.com/flutter/engine/pull/53182) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53182) over 1 day, 22 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Manual roll of icu<br />
+    <sub>[#53199](https://github.com/flutter/engine/pull/53199) merged on June 5, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/53199) over 19 hours, 12027 additions and 12121 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] remove legacy DisplayListMatrixClipTracker<br />
     <sub>[#53232](https://github.com/flutter/engine/pull/53232) merged on June 5, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/53232) over 2 hours, 81 additions and 855 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Manual roll of icu<br />
-    <sub>[#53199](https://github.com/flutter/engine/pull/53199) merged on June 5, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/53199) over 19 hours, 12027 additions and 12121 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added test for bgra10xr png encoding<br />
+    <sub>[#53182](https://github.com/flutter/engine/pull/53182) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53182) over 1 day, 22 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Separate layer-specific data in DisplayListBuilder::SaveInfo<br />
     <sub>[#53186](https://github.com/flutter/engine/pull/53186) merged on June 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53186) over 16 hours, 541 additions and 225 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Make pointer events ignore invalid views<br />
+    <sub>[#51925](https://github.com/flutter/engine/pull/51925) merged on June 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/51925) over 2 months, 146 additions and 23 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[ios][platform_view] Use CAShapeLayer as the mask to avoid software rendering  (#53072)"<br />
     <sub>[#53220](https://github.com/flutter/engine/pull/53220) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53220) over 1 minute, 38 additions and 150 deletions in 13 files</sub><br />
@@ -866,13 +870,13 @@
     <sub>[#53204](https://github.com/flutter/engine/pull/53204) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53204) over 1 day, 0 additions and 8 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update testing/skia_gold_client/README.md<br />
-    <sub>[#53233](https://github.com/flutter/engine/pull/53233) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53233) over 35 minutes, 2 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix NPE caused by implicit sk_sp to fml::Status conversion.<br />
     <sub>[#53177](https://github.com/flutter/engine/pull/53177) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53177) over 59 minutes, 25 additions and 21 deletions in 3 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update testing/skia_gold_client/README.md<br />
+    <sub>[#53233](https://github.com/flutter/engine/pull/53233) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53233) over 35 minutes, 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #52859: Revamp the engine style guide, remove `always_specify_types`<br />
     <sub>[#53223](https://github.com/flutter/engine/pull/53223) merged on June 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53223) over 51 minutes, 173 additions and 19 deletions in 3 files</sub><br />
@@ -906,10 +910,6 @@
     <sub>[#53226](https://github.com/flutter/engine/pull/53226) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53226) over 48 minutes, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Fix FlutterView cursor hit testing<br />
-    <sub>[#53171](https://github.com/flutter/engine/pull/53171) merged on June 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53171) over 1 day, 4 additions and 3 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub><br />
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[display_list] allow applying opacity peephole to single glyph. (#53160)"<br />
     <sub>[#53189](https://github.com/flutter/engine/pull/53189) merged on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53189) over 1 minute, 1 addition and 41 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
@@ -917,6 +917,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix rendering corruption by Flutter and GDK sharing the same OpenGL context<br />
     <sub>[#53103](https://github.com/flutter/engine/pull/53103) merged on June 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53103) over 4 days, 15 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Fix FlutterView cursor hit testing<br />
+    <sub>[#53171](https://github.com/flutter/engine/pull/53171) merged on June 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53171) over 1 day, 4 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Migrate off deprecated GrVkBackendContext fields<br />
     <sub>[#53122](https://github.com/flutter/engine/pull/53122) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53122) over 4 days, 76 additions and 81 deletions in 13 files</sub><br />
