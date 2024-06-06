@@ -69,5 +69,5 @@
     <sub>[#149860](https://github.com/flutter/flutter/pull/149860) opened on on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149860) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add first draft of Swift Package Manager docs<br />
-    <sub>[#149862](https://github.com/flutter/flutter/pull/149862) opened on on June 6, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/149862) 642 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#149862](https://github.com/flutter/flutter/pull/149862) opened on on June 6, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/149862) 645 additions and 0 deletions in 1 file</sub><br />
 
