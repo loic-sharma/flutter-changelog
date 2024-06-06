@@ -778,7 +778,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-31 commits.
+32 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -796,6 +796,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Add Ethiopic font fallback.<br />
     <sub>[#53180](https://github.com/flutter/engine/pull/53180) merged on June 3, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/53180) over 2 hours, 1677 additions and 1588 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Use Skia software renderer to draw stroked text. (#53198)"<br />
+    <sub>[#53237](https://github.com/flutter/engine/pull/53237) merged on June 6, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/53237) over 33 seconds, 114 additions and 324 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Add support for setting the heading level for web semantics (#97894)<br />
     <sub>[#41435](https://github.com/flutter/engine/pull/41435) merged on June 4, 2024 &mdash; **Small:** [78 comments](https://github.com/flutter/engine/pull/41435) over 13 months, 139 additions and 5 deletions in 14 files</sub><br />
