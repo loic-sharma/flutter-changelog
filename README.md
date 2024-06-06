@@ -786,7 +786,7 @@
     <sub><details><summary>2 images...</summary><img width="626" alt="Screenshot 2024-05-30 at 1 29 11 PM" src="https://github.com/flutter/engine/assets/30870216/2777d55f-928f-4029-92d3-203e8ca669a0"><img width="622" alt="Screenshot 2024-05-31 at 11 07 58 AM" src="https://github.com/flutter/engine/assets/30870216/155a592c-90f0-486b-8131-2f66328a871a"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Skia software renderer to draw stroked text.<br />
-    <sub>[#53198](https://github.com/flutter/engine/pull/53198) merged on June 5, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/53198) over 1 day, 324 additions and 114 deletions in 23 files</sub><br />
+    <sub>[#53198](https://github.com/flutter/engine/pull/53198) merged on June 5, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/53198) over 1 day, 324 additions and 114 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use varying interpolation to compute some linear gradients.<br />
