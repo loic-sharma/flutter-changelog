@@ -234,6 +234,10 @@
     <sub>[#148922](https://github.com/flutter/flutter/pull/148922) merged on May 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148922) over 1 week, 14 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Jhonatan Ciriaco](https://github.com/JhonySpark), [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[flyboy](https://github.com/hello-coder-xu)** &mdash; sliverGridDelegate mainAxisExtent add assert
+    <sub>[#148470](https://github.com/flutter/flutter/pull/148470) merged on May 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/148470) over 1 week, 53 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Fix `Slider` throws an error when `_labelPainter` text is null
     <sub>[#148462](https://github.com/flutter/flutter/pull/148462) merged on May 30, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/148462) over 2 weeks, 44 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -254,6 +258,10 @@
     <sub>[#148989](https://github.com/flutter/flutter/pull/148989) merged on May 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/148989) over 4 days, 271 additions and 770 deletions in 94 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - prefixIcon/suffixIcon
+    <sub>[#149437](https://github.com/flutter/flutter/pull/149437) merged on May 31, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/149437) over 1 hour, 1114 additions and 140 deletions in 1 file</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[John Angelo Cordero](https://github.com/angelocordero)** &mdash; allow changing textAlign of TextField in DropdownMenu
     <sub>[#148074](https://github.com/flutter/flutter/pull/148074) merged on May 30, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/148074) over 2 weeks, 30 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Andrew Shin](https://github.com/As90909w), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -261,10 +269,6 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "sliverGridDelegate mainAxisExtent add assert (#148470)"
     <sub>[#149224](https://github.com/flutter/flutter/pull/149224) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149224) over 26 seconds, 2 additions and 53 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[flyboy](https://github.com/hello-coder-xu)** &mdash; sliverGridDelegate mainAxisExtent add assert
-    <sub>[#148470](https://github.com/flutter/flutter/pull/148470) merged on May 29, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148470) over 1 week, 53 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Update 3.22.1 release notes to include missing fix.
     <sub>[#148999](https://github.com/flutter/flutter/pull/148999) merged on May 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148999) over 6 days, 3 additions and 2 deletions in 1 file</sub>
@@ -274,17 +278,13 @@
     <sub>[#149253](https://github.com/flutter/flutter/pull/149253) merged on May 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149253) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google)</sub>
 
-* **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Add support for ExpansionPanel custom splash color
-    <sub>[#147126](https://github.com/flutter/flutter/pull/147126) merged on May 31, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147126) over 1 month, 117 additions and 0 deletions in 3 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Prevent LayoutBuilder from rebuilding more than once (#147856)"
     <sub>[#149279](https://github.com/flutter/flutter/pull/149279) merged on May 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149279) over 48 seconds, 248 additions and 712 deletions in 8 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; InputDecorator M3 tests migration - prefixIcon/suffixIcon
-    <sub>[#149437](https://github.com/flutter/flutter/pull/149437) merged on May 31, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/149437) over 1 hour, 1114 additions and 140 deletions in 1 file</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+* **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Add support for ExpansionPanel custom splash color
+    <sub>[#147126](https://github.com/flutter/flutter/pull/147126) merged on May 31, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/147126) over 1 month, 117 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Dawid Wenderski](https://github.com/dawidope)** &mdash; Fix incorrect behavior of ScrollViewKeyboardDismissBehavior.onDrag for ScrollViewers with Drawer
     <sub>[#148948](https://github.com/flutter/flutter/pull/148948) merged on May 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148948) over 1 week, 136 additions and 9 deletions in 6 files</sub>
@@ -778,12 +778,16 @@
 
 ### June 1, 2024 to June 7, 2024
 
-30 commits.
+31 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
     <sub><details><summary>2 images...</summary><img width="626" alt="Screenshot 2024-05-30 at 1 29 11 PM" src="https://github.com/flutter/engine/assets/30870216/2777d55f-928f-4029-92d3-203e8ca669a0"><img width="622" alt="Screenshot 2024-05-31 at 11 07 58 AM" src="https://github.com/flutter/engine/assets/30870216/155a592c-90f0-486b-8131-2f66328a871a"></details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Skia software renderer to draw stroked text.
+    <sub>[#53198](https://github.com/flutter/engine/pull/53198) merged on June 5, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/53198) over 1 day, 324 additions and 114 deletions in 23 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use varying interpolation to compute some linear gradients.
     <sub>[#53166](https://github.com/flutter/engine/pull/53166) merged on June 4, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/53166) over 1 day, 711 additions and 0 deletions in 11 files</sub>
