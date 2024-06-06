@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-37 commits.
+38 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; TreeSliver & associated classes<br />
     <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub><br />
@@ -70,13 +70,13 @@
     <sub>[#149299](https://github.com/flutter/flutter/pull/149299) merged on June 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/149299) over 4 days, 39 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes Router transaction to respect operation order<br />
-    <sub>[#149763](https://github.com/flutter/flutter/pull/149763) merged on June 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149763) over 3 hours, 81 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app<br />
     <sub>[#148741](https://github.com/flutter/flutter/pull/148741) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148741) over 1 week, 33 additions and 19 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes Router transaction to respect operation order<br />
+    <sub>[#149763](https://github.com/flutter/flutter/pull/149763) merged on June 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149763) over 3 hours, 81 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove abi key from local golden file testing<br />
     <sub>[#149696](https://github.com/flutter/flutter/pull/149696) merged on June 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149696) over 1 day, 8 additions and 4 deletions in 2 files</sub><br />
@@ -138,9 +138,9 @@
     <sub>[#149542](https://github.com/flutter/flutter/pull/149542) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149542) over 1 day, 52 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Fix some links in the "Handling breaking change" section<br />
-    <sub>[#149821](https://github.com/flutter/flutter/pull/149821) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149821) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#149630](https://github.com/flutter/flutter/pull/149630) merged on June 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149630) over 2 days, 4 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `contrastLevel` parameter to `ColorScheme.fromSeed`<br />
     <sub>[#149705](https://github.com/flutter/flutter/pull/149705) merged on June 5, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/149705) over 21 hours, 264 additions and 87 deletions in 4 files</sub><br />
@@ -149,6 +149,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [flutter_tools] Remove additional listener on VM service that simply logged incoming messages<br />
     <sub>[#149756](https://github.com/flutter/flutter/pull/149756) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149756) over 3 hours, 0 additions and 14 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Fix some links in the "Handling breaking change" section<br />
+    <sub>[#149821](https://github.com/flutter/flutter/pull/149821) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149821) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "Prevent LayoutBuilder from rebuilding more than once (#147856)"<br />
     <sub>[#149303](https://github.com/flutter/flutter/pull/149303) merged on June 3, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149303) over 4 days, 714 additions and 248 deletions in 8 files</sub><br />
