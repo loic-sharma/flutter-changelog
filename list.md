@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-36 commits.
+37 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; TreeSliver & associated classes
     <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub>
@@ -98,6 +98,10 @@
     <sub>[#149694](https://github.com/flutter/flutter/pull/149694) merged on June 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149694) over 16 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Identify and re-throw our dependency checking errors in `flutter.groovy`
+    <sub>[#149609](https://github.com/flutter/flutter/pull/149609) merged on June 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149609) over 1 day, 35 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`
     <sub>[#148739](https://github.com/flutter/flutter/pull/148739) merged on June 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148739) over 1 week, 61 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
@@ -105,10 +109,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey
     <sub>[#149567](https://github.com/flutter/flutter/pull/149567) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149567) over 11 hours, 137 additions and 108 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Identify and re-throw our dependency checking errors in `flutter.groovy`
-    <sub>[#149609](https://github.com/flutter/flutter/pull/149609) merged on June 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149609) over 1 day, 35 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Remove temporary LayoutBuilder migration flag, defer `markNeedsLayout`
     <sub>[#149637](https://github.com/flutter/flutter/pull/149637) merged on June 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149637) over 1 day, 58 additions and 17 deletions in 4 files</sub>
@@ -137,6 +137,10 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix overflow of the overscroll section when the user scrolls far
     <sub>[#149542](https://github.com/flutter/flutter/pull/149542) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149542) over 1 day, 52 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Fix some links in the "Handling breaking change" section
+    <sub>[#149821](https://github.com/flutter/flutter/pull/149821) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149821) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `contrastLevel` parameter to `ColorScheme.fromSeed`
     <sub>[#149705](https://github.com/flutter/flutter/pull/149705) merged on June 5, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/149705) over 21 hours, 264 additions and 87 deletions in 4 files</sub>
