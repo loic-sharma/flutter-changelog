@@ -71,3 +71,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add first draft of Swift Package Manager docs<br />
     <sub>[#149862](https://github.com/flutter/flutter/pull/149862) opened on on June 6, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/149862) 645 additions and 0 deletions in 1 file</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#149864](https://github.com/flutter/flutter/pull/149864) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149864) 2 additions and 3 deletions in 1 file</sub><br />
+
