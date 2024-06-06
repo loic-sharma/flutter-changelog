@@ -1259,7 +1259,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-13 commits.
+14 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements
     <sub>[#4055](https://github.com/flutter/packages/pull/4055) merged on June 5, 2024 &mdash; **Large:** [137 comments](https://github.com/flutter/packages/pull/4055) over 12 months, 509 additions and 66 deletions in 11 files</sub>
@@ -1312,6 +1312,10 @@
 * **[Robin Combrink](https://github.com/RobinCombrink)** &mdash; [pigeon] Kotlin/Java method overloading for the `setUp` method
     <sub>[#6843](https://github.com/flutter/packages/pull/6843) merged on June 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6843) over 3 days, 12 additions and 2 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from a14f74ff3a1c to 761747bfc538 (6 revisions)
+    <sub>[#6878](https://github.com/flutter/packages/pull/6878) merged on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6878) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Revert "Roll Flutter from c85fa6abf4ff to 7eebe2992aba (#6836)"
     <sub>[#6860](https://github.com/flutter/packages/pull/6860) merged on June 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6860) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
