@@ -77,3 +77,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Do not merge] Test InputDecorator golden changes<br />
     <sub>[#149797](https://github.com/flutter/flutter/pull/149797) opened on on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149797) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Proposal] Relocate and Rename Changelog to CHANGELOG.md in Flutter/Flutter Repository<br />
+    <sub>[#149815](https://github.com/flutter/flutter/pull/149815) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149815) 0 additions and 0 deletions in 1 file</sub><br />
+
