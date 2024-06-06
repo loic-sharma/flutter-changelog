@@ -32,9 +32,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for standard_fab_location.0.dart<br />
     <sub>[#149225](https://github.com/flutter/flutter/pull/149225) opened on on May 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149225) 20 additions and 1 deletion in 2 files</sub><br />
 
-* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.<br />
-    <sub>[#149315](https://github.com/flutter/flutter/pull/149315) opened on on May 30, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/149315) 381 additions and 39 deletions in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer<br />
     <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/149383) 110 additions and 2 deletions in 3 files</sub><br />
 
@@ -70,4 +67,7 @@
 
 * **[Ricardo Boss](https://github.com/ricardoboss)** &mdash; Copy any previous `IconThemeData` instead of overwriting it in CupertinoButton<br />
     <sub>[#149777](https://github.com/flutter/flutter/pull/149777) opened on on June 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149777) 36 additions and 1 deletion in 2 files</sub><br />
+
+* **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Added support for elevation in refresh indicator.<br />
+    <sub>[#149796](https://github.com/flutter/flutter/pull/149796) opened on on June 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149796) 8 additions and 0 deletions in 1 file</sub><br />
 
