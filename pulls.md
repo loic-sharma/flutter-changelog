@@ -65,6 +65,3 @@
 * **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Added support for elevation in refresh indicator.<br />
     <sub>[#149796](https://github.com/flutter/flutter/pull/149796) opened on on June 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149796) 8 additions and 0 deletions in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on macOS 13 or 14<br />
-    <sub>[#149854](https://github.com/flutter/flutter/pull/149854) opened on on June 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149854) 12 additions and 12 deletions in 1 file</sub><br />
-
