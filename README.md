@@ -20,7 +20,7 @@
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-30 at 2 41 33 PM](https://github.com/flutter/flutter/assets/682784/1bc32620-5edb-420a-866c-5cc529b2ac55)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `ChipAnimationStyle` to override default chips animations durations<br />
-    <sub>[#149245](https://github.com/flutter/flutter/pull/149245) merged on June 6, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/149245) over 1 week, 832 additions and 4 deletions in 12 files</sub><br />
+    <sub>[#149245](https://github.com/flutter/flutter/pull/149245) merged on June 6, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/149245) over 1 week, 832 additions and 4 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-28 at 17 40 00](https://github.com/flutter/flutter/assets/48603081/b9117ed2-5afa-4d65-93ae-aa866772ffa1)</details></sub>
 
@@ -861,7 +861,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Manual roll of icu<br />
-    <sub>[#53199](https://github.com/flutter/engine/pull/53199) merged on June 5, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/53199) over 19 hours, 12027 additions and 12121 deletions in 5 files</sub><br />
+    <sub>[#53199](https://github.com/flutter/engine/pull/53199) merged on June 5, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/engine/pull/53199) over 19 hours, 12027 additions and 12121 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] remove legacy DisplayListMatrixClipTracker<br />
