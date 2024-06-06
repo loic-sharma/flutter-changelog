@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-43 commits.
+44 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; TreeSliver & associated classes
     <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub>
@@ -14,13 +14,17 @@
     <sub>[#148094](https://github.com/flutter/flutter/pull/148094) merged on June 5, 2024 &mdash; **Large:** [75 comments](https://github.com/flutter/flutter/pull/148094) over 3 weeks, 1308 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[victorgalo](https://github.com/victorgalo)** &mdash; Add support for setting the heading level for web semantics (#97894)
+    <sub>[#125771](https://github.com/flutter/flutter/pull/125771) merged on June 6, 2024 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/125771) over 13 months, 73 additions and 5 deletions in 5 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable sandboxing for macOS apps and tests in CI
     <sub>[#149618](https://github.com/flutter/flutter/pull/149618) merged on June 4, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/149618) over 1 day, 405 additions and 3 deletions in 12 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-30 at 2 41 33 PM](https://github.com/flutter/flutter/assets/682784/1bc32620-5edb-420a-866c-5cc529b2ac55)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `ChipAnimationStyle` to override default chips animations durations
-    <sub>[#149245](https://github.com/flutter/flutter/pull/149245) merged on June 6, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/149245) over 1 week, 832 additions and 4 deletions in 12 files</sub>
+    <sub>[#149245](https://github.com/flutter/flutter/pull/149245) merged on June 6, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/149245) over 1 week, 832 additions and 4 deletions in 12 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-28 at 17 40 00](https://github.com/flutter/flutter/assets/48603081/b9117ed2-5afa-4d65-93ae-aa866772ffa1)</details></sub>
 
@@ -55,14 +59,14 @@
     <sub>[#149147](https://github.com/flutter/flutter/pull/149147) merged on June 3, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/149147) over 6 days, 124 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Dacian Florea](https://github.com/dacianf)** &mdash; Added filter callback on dropdown menu
-    <sub>[#143939](https://github.com/flutter/flutter/pull/143939) merged on June 3, 2024 &mdash; **Small:** [70 comments](https://github.com/flutter/flutter/pull/143939) over 3 months, 109 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix the scrolling layout deviation of `CupertinoActionSheet`
     <sub>[#149439](https://github.com/flutter/flutter/pull/149439) merged on June 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149439) over 3 days, 11 additions and 33 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
     <sub><details><summary>3 images...</summary><img width="1006" alt="image" src="https://github.com/flutter/flutter/assets/1596656/27ca5df7-1140-4bfd-9a5f-3b5972632c92"><img width="1025" alt="image" src="https://github.com/flutter/flutter/assets/1596656/f2be6a5c-1713-4ffe-9705-27a668e5133d"><img width="1024" alt="image" src="https://github.com/flutter/flutter/assets/1596656/5b90d9f4-11ed-4c04-bdea-0b81b1d2bd3d"></details></sub>
+
+* **[Dacian Florea](https://github.com/dacianf)** &mdash; Added filter callback on dropdown menu
+    <sub>[#143939](https://github.com/flutter/flutter/pull/143939) merged on June 3, 2024 &mdash; **Small:** [70 comments](https://github.com/flutter/flutter/pull/143939) over 3 months, 109 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup triage reports from docs/
     <sub>[#149545](https://github.com/flutter/flutter/pull/149545) merged on June 3, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149545) over 1 day, 1 addition and 10228 deletions in 6 files</sub>
@@ -116,6 +120,10 @@
     <sub>[#149673](https://github.com/flutter/flutter/pull/149673) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149673) over 1 day, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Identify and re-throw our dependency checking errors in `flutter.groovy`
+    <sub>[#149609](https://github.com/flutter/flutter/pull/149609) merged on June 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149609) over 1 day, 35 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; make output of flutter run web tests verbose
     <sub>[#149694](https://github.com/flutter/flutter/pull/149694) merged on June 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149694) over 16 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -127,10 +135,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey
     <sub>[#149567](https://github.com/flutter/flutter/pull/149567) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149567) over 11 hours, 137 additions and 108 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Identify and re-throw our dependency checking errors in `flutter.groovy`
-    <sub>[#149609](https://github.com/flutter/flutter/pull/149609) merged on June 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149609) over 1 day, 35 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Switch to triage-* labels for platform package triage
     <sub>[#149614](https://github.com/flutter/flutter/pull/149614) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149614) over 2 hours, 4 additions and 3 deletions in 1 file</sub>
