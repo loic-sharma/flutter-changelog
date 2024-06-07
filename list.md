@@ -23,14 +23,14 @@
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-30 at 2 41 33 PM](https://github.com/flutter/flutter/assets/682784/1bc32620-5edb-420a-866c-5cc529b2ac55)</details></sub>
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver
+    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) merged on June 7, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/143196) over 3 months, 506 additions and 1 deletion in 6 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `ChipAnimationStyle` to override default chips animations durations
     <sub>[#149245](https://github.com/flutter/flutter/pull/149245) merged on June 6, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/149245) over 1 week, 832 additions and 4 deletions in 12 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-28 at 17 40 00](https://github.com/flutter/flutter/assets/48603081/b9117ed2-5afa-4d65-93ae-aa866772ffa1)</details></sub>
-
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver
-    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) merged on June 7, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/143196) over 3 months, 506 additions and 1 deletion in 6 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Introduce `ChipAnimationStyle` to override default chips animations durations (#149245)"
     <sub>[#149847](https://github.com/flutter/flutter/pull/149847) merged on June 6, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149847) over 54 seconds, 4 additions and 832 deletions in 12 files</sub>
