@@ -975,7 +975,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] clean up dynamic calls, remove always_specify_types<br />
-    <sub>[#53228](https://github.com/flutter/engine/pull/53228) merged on June 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53228) over 8 hours, 33 additions and 29 deletions in 11 files</sub><br />
+    <sub>[#53228](https://github.com/flutter/engine/pull/53228) merged on June 6, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53228) over 8 hours, 33 additions and 29 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove the DBC interpreter flag.<br />
