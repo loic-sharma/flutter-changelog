@@ -4,7 +4,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-64 commits.
+65 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; TreeSliver & associated classes<br />
     <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub><br />
@@ -102,25 +102,25 @@
     <sub>[#149471](https://github.com/flutter/flutter/pull/149471) merged on June 6, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/149471) over 5 days, 724 additions and 24 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; Refactor `widget_inspector_test.dart`<br />
-    <sub>[#149850](https://github.com/flutter/flutter/pull/149850) merged on June 7, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149850) over 17 hours, 1202 additions and 1619 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Helin Shiah](https://github.com/helin24)</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Prepare images for tests individually to enable clean up of cache.<br />
     <sub>[#149693](https://github.com/flutter/flutter/pull/149693) merged on June 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149693) over 2 days, 20 additions and 12 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Refactor `widget_inspector_test.dart`<br />
+    <sub>[#149850](https://github.com/flutter/flutter/pull/149850) merged on June 7, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149850) over 17 hours, 1202 additions and 1619 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Helin Shiah](https://github.com/helin24)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Place `flutter_gpu` in the package cache.<br />
     <sub>[#149299](https://github.com/flutter/flutter/pull/149299) merged on June 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/149299) over 4 days, 39 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on macOS 13 or 14<br />
-    <sub>[#149827](https://github.com/flutter/flutter/pull/149827) merged on June 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149827) over 6 hours, 12 additions and 12 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes Router transaction to respect operation order<br />
     <sub>[#149763](https://github.com/flutter/flutter/pull/149763) merged on June 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149763) over 3 hours, 81 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on macOS 13 or 14<br />
+    <sub>[#149827](https://github.com/flutter/flutter/pull/149827) merged on June 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149827) over 6 hours, 12 additions and 12 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; update generated localized message files in the stocks test app<br />
     <sub>[#148741](https://github.com/flutter/flutter/pull/148741) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148741) over 1 week, 33 additions and 19 deletions in 6 files</sub><br />
@@ -142,6 +142,10 @@
     <sub>[#149818](https://github.com/flutter/flutter/pull/149818) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149818) over 5 hours, 15 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove zanderso from TESTOWNERS<br />
+    <sub>[#149935](https://github.com/flutter/flutter/pull/149935) merged on June 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149935) over 2 hours, 110 additions and 110 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Fix test case in "getRootWidgetSummaryTree" test<br />
     <sub>[#149923](https://github.com/flutter/flutter/pull/149923) merged on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149923) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
@@ -158,17 +162,17 @@
     <sub>[#149858](https://github.com/flutter/flutter/pull/149858) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149858) over 33 minutes, 20 additions and 51 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
-    <sub>[#149823](https://github.com/flutter/flutter/pull/149823) merged on June 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/149823) over 6 hours, 4 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[Yegor](https://github.com/yjbanov)** &mdash; Send q once<br />
+    <sub>[#149767](https://github.com/flutter/flutter/pull/149767) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149767) over 2 hours, 7 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unused code from an older test artifact.<br />
     <sub>[#149746](https://github.com/flutter/flutter/pull/149746) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149746) over 4 hours, 0 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; Send q once<br />
-    <sub>[#149767](https://github.com/flutter/flutter/pull/149767) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149767) over 2 hours, 7 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix signature for TokenTemplate.updateFile<br />
+    <sub>[#149673](https://github.com/flutter/flutter/pull/149673) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149673) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
     <sub>[#149822](https://github.com/flutter/flutter/pull/149822) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149822) over 3 hours, 4 additions and 1 deletion in 1 file</sub><br />
@@ -178,17 +182,17 @@
     <sub>[#149694](https://github.com/flutter/flutter/pull/149694) merged on June 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149694) over 16 hours, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix signature for TokenTemplate.updateFile<br />
-    <sub>[#149673](https://github.com/flutter/flutter/pull/149673) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149673) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey<br />
+    <sub>[#149567](https://github.com/flutter/flutter/pull/149567) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149567) over 11 hours, 137 additions and 108 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
+    <sub>[#149823](https://github.com/flutter/flutter/pull/149823) merged on June 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/149823) over 6 hours, 4 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Support failures-only and silent reporters in `flutter test`<br />
     <sub>[#148739](https://github.com/flutter/flutter/pull/148739) merged on June 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148739) over 1 week, 61 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move some benchmarks from MotoG4 to Mokey<br />
-    <sub>[#149567](https://github.com/flutter/flutter/pull/149567) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149567) over 11 hours, 137 additions and 108 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add `contrastLevel` parameter to `ColorScheme.fromSeed`<br />
     <sub>[#149705](https://github.com/flutter/flutter/pull/149705) merged on June 5, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/149705) over 21 hours, 264 additions and 87 deletions in 4 files</sub><br />
@@ -899,7 +903,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-42 commits.
+43 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -959,12 +963,12 @@
     <sub>[#53182](https://github.com/flutter/engine/pull/53182) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53182) over 1 day, 22 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Separate layer-specific data in DisplayListBuilder::SaveInfo<br />
-    <sub>[#53186](https://github.com/flutter/engine/pull/53186) merged on June 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53186) over 16 hours, 541 additions and 225 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] remove legacy DisplayListMatrixClipTracker<br />
     <sub>[#53232](https://github.com/flutter/engine/pull/53232) merged on June 5, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/53232) over 2 hours, 81 additions and 855 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Separate layer-specific data in DisplayListBuilder::SaveInfo<br />
+    <sub>[#53186](https://github.com/flutter/engine/pull/53186) merged on June 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53186) over 16 hours, 541 additions and 225 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on macOS 13 or 14<br />
@@ -991,17 +995,21 @@
     <sub>[#52842](https://github.com/flutter/engine/pull/52842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52842) over 2 weeks, 8 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] add test for inefficient overlay allocation<br />
+    <sub>[#53284](https://github.com/flutter/engine/pull/53284) merged on June 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53284) over 48 minutes, 72 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Expand fast gradient to all shapes.<br />
     <sub>[#53254](https://github.com/flutter/engine/pull/53254) merged on June 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53254) over 2 hours, 100 additions and 59 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] clean up dynamic calls, remove always_specify_types<br />
-    <sub>[#53228](https://github.com/flutter/engine/pull/53228) merged on June 6, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53228) over 8 hours, 33 additions and 29 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] tighten fast gradient condition.<br />
+    <sub>[#53195](https://github.com/flutter/engine/pull/53195) merged on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53195) over 4 hours, 69 additions and 3 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] enable always_specify_types for web_ui<br />
-    <sub>[#53226](https://github.com/flutter/engine/pull/53226) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53226) over 48 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] allow applying opacity peephole to single glyph.<br />
+    <sub>[#53160](https://github.com/flutter/engine/pull/53160) merged on June 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53160) over 3 days, 41 additions and 1 deletion in 5 files</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Widen CPU affinity set.<br />
     <sub>[#53136](https://github.com/flutter/engine/pull/53136) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53136) over 3 days, 13 additions and 2 deletions in 4 files</sub><br />
@@ -1027,17 +1035,17 @@
     <sub>[#53233](https://github.com/flutter/engine/pull/53233) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53233) over 35 minutes, 2 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] tighten fast gradient condition.<br />
-    <sub>[#53195](https://github.com/flutter/engine/pull/53195) merged on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53195) over 4 hours, 69 additions and 3 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] enable always_specify_types for web_ui<br />
+    <sub>[#53226](https://github.com/flutter/engine/pull/53226) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53226) over 48 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] clean up dynamic calls, remove always_specify_types<br />
+    <sub>[#53228](https://github.com/flutter/engine/pull/53228) merged on June 6, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53228) over 8 hours, 33 additions and 29 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Intel iOS Simulators must block on GPU completion.<br />
     <sub>[#53073](https://github.com/flutter/engine/pull/53073) merged on June 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53073) over 1 week, 16 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] allow applying opacity peephole to single glyph.<br />
-    <sub>[#53160](https://github.com/flutter/engine/pull/53160) merged on June 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53160) over 3 days, 41 additions and 1 deletion in 5 files</sub><br />
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] wire up bdf and blend detection in experimental canvas.<br />
     <sub>[#53151](https://github.com/flutter/engine/pull/53151) merged on June 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53151) over 4 days, 33 additions and 14 deletions in 6 files</sub><br />
