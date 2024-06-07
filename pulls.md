@@ -39,7 +39,7 @@
     <sub>[#149586](https://github.com/flutter/flutter/pull/149586) opened on on June 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/149586) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
-    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149587) 15 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149587) 15 additions and 0 deletions in 3 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
     <sub>[#149641](https://github.com/flutter/flutter/pull/149641) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149641) 2 additions and 2 deletions in 2 files</sub><br />
@@ -60,7 +60,7 @@
     <sub>[#149860](https://github.com/flutter/flutter/pull/149860) opened on on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149860) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add first draft of Swift Package Manager docs<br />
-    <sub>[#149862](https://github.com/flutter/flutter/pull/149862) opened on on June 6, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/149862) 645 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#149862](https://github.com/flutter/flutter/pull/149862) opened on on June 6, 2024 &mdash; **Large:** [28 comments](https://github.com/flutter/flutter/pull/149862) 645 additions and 0 deletions in 1 file</sub><br />
 
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; closes #issue136763, changed a command to generate gradle error message according to platform<br />
     <sub>[#149877](https://github.com/flutter/flutter/pull/149877) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149877) 60 additions and 9 deletions in 2 files</sub><br />
@@ -68,9 +68,6 @@
 * **[Brian Wo](https://github.com/brainwo)** &mdash; [CP] Point kotlin message in `gradle_errors.dart` towards new place<br />
     <sub>[#149881](https://github.com/flutter/flutter/pull/149881) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149881) 21 additions and 9 deletions in 2 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift consistently passing tests on mokey to prod<br />
-    <sub>[#149902](https://github.com/flutter/flutter/pull/149902) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149902) 2 additions and 35 deletions in 1 file</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#149908](https://github.com/flutter/flutter/pull/149908) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149908) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#149908](https://github.com/flutter/flutter/pull/149908) opened on on June 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149908) 2 additions and 2 deletions in 1 file</sub><br />
 
