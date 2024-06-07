@@ -59,9 +59,6 @@
 * **[Michael Rittmeister](https://github.com/DRSchlaubi)** &mdash; Add support for type-safe plugin apply<br />
     <sub>[#149860](https://github.com/flutter/flutter/pull/149860) opened on on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149860) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add first draft of Swift Package Manager docs<br />
-    <sub>[#149862](https://github.com/flutter/flutter/pull/149862) opened on on June 6, 2024 &mdash; **Large:** [61 comments](https://github.com/flutter/flutter/pull/149862) 697 additions and 0 deletions in 1 file</sub><br />
-
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; closes #issue136763, changed a command to generate gradle error message according to platform<br />
     <sub>[#149877](https://github.com/flutter/flutter/pull/149877) opened on on June 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149877) 60 additions and 9 deletions in 2 files</sub><br />
 
