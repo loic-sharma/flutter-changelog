@@ -68,9 +68,6 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; RawScrollbar: don't listen for drag gestures when scrolling is not possible<br />
     <sub>[#149925](https://github.com/flutter/flutter/pull/149925) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149925) 53 additions and 1 deletion in 2 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove zanderso from TESTOWNERS<br />
-    <sub>[#149935](https://github.com/flutter/flutter/pull/149935) opened on on June 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149935) 110 additions and 110 deletions in 1 file</sub><br />
-
 * **[Greg Price](https://github.com/gnprice)** &mdash; Cut no-longer-accurate microtask reference in finalizeTree doc<br />
     <sub>[#149941](https://github.com/flutter/flutter/pull/149941) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149941) 0 additions and 3 deletions in 1 file</sub><br />
 
