@@ -63,7 +63,7 @@
     <sub>[#149862](https://github.com/flutter/flutter/pull/149862) opened on on June 6, 2024 &mdash; **Large:** [61 comments](https://github.com/flutter/flutter/pull/149862) 697 additions and 0 deletions in 1 file</sub><br />
 
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; closes #issue136763, changed a command to generate gradle error message according to platform<br />
-    <sub>[#149877](https://github.com/flutter/flutter/pull/149877) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149877) 60 additions and 9 deletions in 2 files</sub><br />
+    <sub>[#149877](https://github.com/flutter/flutter/pull/149877) opened on on June 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149877) 60 additions and 9 deletions in 2 files</sub><br />
 
 * **[Brian Wo](https://github.com/brainwo)** &mdash; [CP] Point kotlin message in `gradle_errors.dart` towards new place<br />
     <sub>[#149881](https://github.com/flutter/flutter/pull/149881) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149881) 21 additions and 9 deletions in 2 files</sub><br />
