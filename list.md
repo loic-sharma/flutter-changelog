@@ -957,6 +957,10 @@
     <sub>[#53176](https://github.com/flutter/engine/pull/53176) merged on June 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53176) over 23 hours, 14 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #52859: Revamp the engine style guide, remove `always_specify_types`
+    <sub>[#53223](https://github.com/flutter/engine/pull/53223) merged on June 5, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/53223) over 51 minutes, 173 additions and 19 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John McCutchan](https://github.com/johnmccutchan), [Chris Bracken](https://github.com/cbracken), [Ian Hickson](https://github.com/Hixie), [Jackson Gardner](https://github.com/eyebrowsoffire), and [2 others](https://github.com/flutter/engine/pull/53223)</sub>
+
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; [web] update version-lock file location
     <sub>[#52842](https://github.com/flutter/engine/pull/52842) merged on June 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/52842) over 2 weeks, 8 additions and 8 deletions in 3 files</sub>
     <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
@@ -969,13 +973,9 @@
     <sub>[#53228](https://github.com/flutter/engine/pull/53228) merged on June 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53228) over 8 hours, 33 additions and 29 deletions in 11 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland Use Skia software renderer to draw stroked text.
-    <sub>[#53238](https://github.com/flutter/engine/pull/53238) merged on June 6, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/53238) over 49 minutes, 325 additions and 116 deletions in 23 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update testing/skia_gold_client/README.md
-    <sub>[#53233](https://github.com/flutter/engine/pull/53233) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53233) over 35 minutes, 2 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove the DBC interpreter flag.
+    <sub>[#53204](https://github.com/flutter/engine/pull/53204) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53204) over 1 day, 0 additions and 8 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Widen CPU affinity set.
     <sub>[#53136](https://github.com/flutter/engine/pull/53136) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53136) over 3 days, 13 additions and 2 deletions in 4 files</sub>
@@ -997,17 +997,17 @@
     <sub>[#53195](https://github.com/flutter/engine/pull/53195) merged on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53195) over 4 hours, 69 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove the DBC interpreter flag.
-    <sub>[#53204](https://github.com/flutter/engine/pull/53204) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53204) over 1 day, 0 additions and 8 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland Use Skia software renderer to draw stroked text.
+    <sub>[#53238](https://github.com/flutter/engine/pull/53238) merged on June 6, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/53238) over 49 minutes, 325 additions and 116 deletions in 23 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update testing/skia_gold_client/README.md
+    <sub>[#53233](https://github.com/flutter/engine/pull/53233) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53233) over 35 minutes, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] enable always_specify_types for web_ui
     <sub>[#53226](https://github.com/flutter/engine/pull/53226) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53226) over 48 minutes, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #52859: Revamp the engine style guide, remove `always_specify_types`
-    <sub>[#53223](https://github.com/flutter/engine/pull/53223) merged on June 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53223) over 51 minutes, 173 additions and 19 deletions in 3 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John McCutchan](https://github.com/johnmccutchan), [Chris Bracken](https://github.com/cbracken), [Jackson Gardner](https://github.com/eyebrowsoffire), [John McDole](https://github.com/jtmcdole), and [1 other](https://github.com/flutter/engine/pull/53223)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] allow applying opacity peephole to single glyph.
     <sub>[#53160](https://github.com/flutter/engine/pull/53160) merged on June 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53160) over 3 days, 41 additions and 1 deletion in 5 files</sub>
