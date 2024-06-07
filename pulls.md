@@ -71,3 +71,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift consistently passing tests on mokey to prod<br />
     <sub>[#149902](https://github.com/flutter/flutter/pull/149902) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149902) 2 additions and 35 deletions in 1 file</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#149908](https://github.com/flutter/flutter/pull/149908) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149908) 2 additions and 2 deletions in 1 file</sub><br />
+
