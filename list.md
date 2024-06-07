@@ -523,7 +523,7 @@
     <sub>Reviewed by: </sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a migrator to remove `FlutterMultiDexApplication.java`
-    <sub>[#148515](https://github.com/flutter/flutter/pull/148515) merged on May 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148515) over 4 days, 88 additions and 0 deletions in 3 files</sub>
+    <sub>[#148515](https://github.com/flutter/flutter/pull/148515) merged on May 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/148515) over 4 days, 88 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Łukasz Gawron](https://github.com/gawi151)** &mdash; Fix TwoDimensionalViewport's keep alive child not always removed (when no longer should be kept alive)
