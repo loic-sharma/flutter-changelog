@@ -41,9 +41,6 @@
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149587) 15 additions and 0 deletions in 3 files</sub><br />
 
-* **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; fixes #issue136763, changed a command to generate gradle error message according to platform<br />
-    <sub>[#149608](https://github.com/flutter/flutter/pull/149608) opened on on June 3, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149608) 2424 additions and 400 deletions in 8 files</sub><br />
-
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
     <sub>[#149641](https://github.com/flutter/flutter/pull/149641) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149641) 2 additions and 2 deletions in 2 files</sub><br />
 
