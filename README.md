@@ -1358,7 +1358,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-19 commits.
+20 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements<br />
     <sub>[#4055](https://github.com/flutter/packages/pull/4055) merged on June 5, 2024 &mdash; **Large:** [137 comments](https://github.com/flutter/packages/pull/4055) over 12 months, 509 additions and 66 deletions in 11 files</sub><br />
@@ -1368,6 +1368,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] Moves all codec logic to singular custom codec<br />
     <sub>[#6600](https://github.com/flutter/packages/pull/6600) merged on June 6, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/packages/pull/6600) over 1 month, 4712 additions and 4841 deletions in 90 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[emakar](https://github.com/emakar)** &mdash; [video_player_android] Migrate ExoPlayer to ExoPlayer-Media3 1.3.1<br />
+    <sub>[#6535](https://github.com/flutter/packages/pull/6535) merged on June 7, 2024 &mdash; **Small:** [72 comments](https://github.com/flutter/packages/pull/6535) over 1 month, 107 additions and 116 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ian Baker](https://github.com/icbaker), [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements - platform impls<br />
     <sub>[#6826](https://github.com/flutter/packages/pull/6826) merged on June 4, 2024 &mdash; **Extra large:** [49 comments](https://github.com/flutter/packages/pull/6826) over 6 days, 2664 additions and 240 deletions in 45 files</sub><br />
