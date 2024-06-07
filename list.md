@@ -958,7 +958,7 @@
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #52859: Revamp the engine style guide, remove `always_specify_types`
-    <sub>[#53223](https://github.com/flutter/engine/pull/53223) merged on June 5, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/53223) over 51 minutes, 173 additions and 19 deletions in 3 files</sub>
+    <sub>[#53223](https://github.com/flutter/engine/pull/53223) merged on June 5, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/53223) over 51 minutes, 173 additions and 19 deletions in 3 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John McCutchan](https://github.com/johnmccutchan), [Chris Bracken](https://github.com/cbracken), [Ian Hickson](https://github.com/Hixie), [Jackson Gardner](https://github.com/eyebrowsoffire), and [2 others](https://github.com/flutter/engine/pull/53223)</sub>
 
 * **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; [web] update version-lock file location
