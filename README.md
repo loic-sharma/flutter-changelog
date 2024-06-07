@@ -28,14 +28,14 @@
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-28 at 17 40 00](https://github.com/flutter/flutter/assets/48603081/b9117ed2-5afa-4d65-93ae-aa866772ffa1)</details></sub>
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
+    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) merged on June 7, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/143196) over 3 months, 506 additions and 1 deletion in 6 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Introduce `ChipAnimationStyle` to override default chips animations durations (#149245)"<br />
     <sub>[#149847](https://github.com/flutter/flutter/pull/149847) merged on June 6, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149847) over 54 seconds, 4 additions and 832 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-28 at 17 40 00](https://github.com/flutter/flutter/assets/48603081/b9117ed2-5afa-4d65-93ae-aa866772ffa1)</details></sub>
-
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
-    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) merged on June 7, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/143196) over 3 months, 506 additions and 1 deletion in 6 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SegmentedButton` clipping when drawing segments<br />
     <sub>[#149739](https://github.com/flutter/flutter/pull/149739) merged on June 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149739) over 2 days, 76 additions and 5 deletions in 2 files</sub><br />
