@@ -869,7 +869,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-39 commits.
+40 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -965,13 +965,9 @@
     <sub>[#53238](https://github.com/flutter/engine/pull/53238) merged on June 6, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/53238) over 49 minutes, 325 additions and 116 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] allow applying opacity peephole to single glyph.<br />
-    <sub>[#53160](https://github.com/flutter/engine/pull/53160) merged on June 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53160) over 3 days, 41 additions and 1 deletion in 5 files</sub><br />
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix NPE caused by implicit sk_sp to fml::Status conversion.<br />
-    <sub>[#53177](https://github.com/flutter/engine/pull/53177) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53177) over 59 minutes, 25 additions and 21 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update testing/skia_gold_client/README.md<br />
+    <sub>[#53233](https://github.com/flutter/engine/pull/53233) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53233) over 35 minutes, 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Widen CPU affinity set.<br />
     <sub>[#53136](https://github.com/flutter/engine/pull/53136) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53136) over 3 days, 13 additions and 2 deletions in 4 files</sub><br />
@@ -997,10 +993,6 @@
     <sub>[#53204](https://github.com/flutter/engine/pull/53204) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53204) over 1 day, 0 additions and 8 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update testing/skia_gold_client/README.md<br />
-    <sub>[#53233](https://github.com/flutter/engine/pull/53233) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53233) over 35 minutes, 2 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] enable always_specify_types for web_ui<br />
     <sub>[#53226](https://github.com/flutter/engine/pull/53226) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53226) over 48 minutes, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -1009,13 +1001,21 @@
     <sub>[#53223](https://github.com/flutter/engine/pull/53223) merged on June 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53223) over 51 minutes, 173 additions and 19 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John McCutchan](https://github.com/johnmccutchan), [Chris Bracken](https://github.com/cbracken), [Jackson Gardner](https://github.com/eyebrowsoffire), [John McDole](https://github.com/jtmcdole), and [1 other](https://github.com/flutter/engine/pull/53223)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[display_list] allow applying opacity peephole to single glyph. (#53160)"<br />
-    <sub>[#53189](https://github.com/flutter/engine/pull/53189) merged on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53189) over 1 minute, 1 addition and 41 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] allow applying opacity peephole to single glyph.<br />
+    <sub>[#53160](https://github.com/flutter/engine/pull/53160) merged on June 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53160) over 3 days, 41 additions and 1 deletion in 5 files</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix NPE caused by implicit sk_sp to fml::Status conversion.<br />
+    <sub>[#53177](https://github.com/flutter/engine/pull/53177) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53177) over 59 minutes, 25 additions and 21 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[bufffun](https://github.com/bufffun)** &mdash; [macOS] Fix FlutterView cursor hit testing<br />
     <sub>[#53171](https://github.com/flutter/engine/pull/53171) merged on June 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53171) over 1 day, 4 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[display_list] allow applying opacity peephole to single glyph. (#53160)"<br />
+    <sub>[#53189](https://github.com/flutter/engine/pull/53189) merged on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53189) over 1 minute, 1 addition and 41 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix rendering corruption by Flutter and GDK sharing the same OpenGL context<br />
     <sub>[#53103](https://github.com/flutter/engine/pull/53103) merged on June 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53103) over 4 days, 15 additions and 3 deletions in 1 file</sub><br />
@@ -1028,6 +1028,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Reland "[ios][platform_view] Use CAShapeLayer as the mask to avoid software rendering #53072"<br />
     <sub>[#53256](https://github.com/flutter/engine/pull/53256) merged on June 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53256) over 5 hours, 149 additions and 38 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Widen CPU affinity set."<br />
+    <sub>[#53274](https://github.com/flutter/engine/pull/53274) merged on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53274) over 49 minutes, 2 additions and 13 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 ### May 25, 2024 to May 31, 2024
 
