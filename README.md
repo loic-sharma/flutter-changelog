@@ -924,7 +924,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Add support for setting the heading level for web semantics (#97894)<br />
-    <sub>[#41435](https://github.com/flutter/engine/pull/41435) merged on June 4, 2024 &mdash; **Small:** [78 comments](https://github.com/flutter/engine/pull/41435) over 13 months, 139 additions and 5 deletions in 14 files</sub><br />
+    <sub>[#41435](https://github.com/flutter/engine/pull/41435) merged on June 4, 2024 &mdash; **Small:** [79 comments](https://github.com/flutter/engine/pull/41435) over 13 months, 139 additions and 5 deletions in 14 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Adds allowPlatformDefault for wheel signals.<br />
