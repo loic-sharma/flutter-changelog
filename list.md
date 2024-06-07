@@ -1375,7 +1375,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-20 commits.
+21 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Custom marker size improvements
     <sub>[#4055](https://github.com/flutter/packages/pull/4055) merged on June 5, 2024 &mdash; **Large:** [137 comments](https://github.com/flutter/packages/pull/4055) over 12 months, 509 additions and 66 deletions in 11 files</sub>
@@ -1432,6 +1432,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Manual roll Flutter to c246ecd (84 revisions) + fixes
     <sub>[#6863](https://github.com/flutter/packages/pull/6863) merged on June 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6863) over 20 hours, 9 additions and 5 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Fix handling of null class args in C++
+    <sub>[#6881](https://github.com/flutter/packages/pull/6881) merged on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6881) over 23 hours, 143 additions and 110 deletions in 7 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Disable sandboxing directly for macOS tests
     <sub>[#6880](https://github.com/flutter/packages/pull/6880) merged on June 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6880) over 1 hour, 60 additions and 30 deletions in 30 files</sub>
