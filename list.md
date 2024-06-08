@@ -907,7 +907,7 @@
 
 ### June 1, 2024 to June 7, 2024
 
-43 commits.
+44 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub>
@@ -926,6 +926,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use varying interpolation to compute some linear gradients.
     <sub>[#53166](https://github.com/flutter/engine/pull/53166) merged on June 4, 2024 &mdash; **Large:** [21 comments](https://github.com/flutter/engine/pull/53166) over 1 day, 711 additions and 0 deletions in 11 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] switches gaussian blur to a "source space" calculation
+    <sub>[#53261](https://github.com/flutter/engine/pull/53261) merged on June 8, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53261) over 1 day, 78 additions and 32 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Skia software renderer to draw stroked text.
     <sub>[#53198](https://github.com/flutter/engine/pull/53198) merged on June 5, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/53198) over 1 day, 324 additions and 114 deletions in 23 files</sub>
@@ -963,10 +967,6 @@
     <sub>[#53229](https://github.com/flutter/engine/pull/53229) merged on June 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53229) over 5 hours, 89 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added test for bgra10xr png encoding
-    <sub>[#53182](https://github.com/flutter/engine/pull/53182) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53182) over 1 day, 22 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] remove legacy DisplayListMatrixClipTracker
     <sub>[#53232](https://github.com/flutter/engine/pull/53232) merged on June 5, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/53232) over 2 hours, 81 additions and 855 deletions in 8 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -974,6 +974,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Separate layer-specific data in DisplayListBuilder::SaveInfo
     <sub>[#53186](https://github.com/flutter/engine/pull/53186) merged on June 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53186) over 16 hours, 541 additions and 225 deletions in 11 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added test for bgra10xr png encoding
+    <sub>[#53182](https://github.com/flutter/engine/pull/53182) merged on June 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53182) over 1 day, 22 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run tests on macOS 13 or 14
     <sub>[#53252](https://github.com/flutter/engine/pull/53252) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53252) over 1 hour, 64 additions and 67 deletions in 11 files</sub>
@@ -1007,9 +1011,9 @@
     <sub>[#53254](https://github.com/flutter/engine/pull/53254) merged on June 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53254) over 2 hours, 100 additions and 59 deletions in 2 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] tighten fast gradient condition.
-    <sub>[#53195](https://github.com/flutter/engine/pull/53195) merged on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53195) over 4 hours, 69 additions and 3 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] enable always_specify_types for web_ui
+    <sub>[#53226](https://github.com/flutter/engine/pull/53226) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53226) over 48 minutes, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] allow applying opacity peephole to single glyph.
     <sub>[#53160](https://github.com/flutter/engine/pull/53160) merged on June 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53160) over 3 days, 41 additions and 1 deletion in 5 files</sub>
@@ -1019,16 +1023,12 @@
     <sub>[#53136](https://github.com/flutter/engine/pull/53136) merged on June 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53136) over 3 days, 13 additions and 2 deletions in 4 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix NPE caused by implicit sk_sp to fml::Status conversion.
-    <sub>[#53177](https://github.com/flutter/engine/pull/53177) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53177) over 59 minutes, 25 additions and 21 deletions in 3 files</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] wire up bdf and blend detection in experimental canvas.
+    <sub>[#53151](https://github.com/flutter/engine/pull/53151) merged on June 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53151) over 4 days, 33 additions and 14 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Clarify rendering backend fallback behavior on Android.
-    <sub>[#53202](https://github.com/flutter/engine/pull/53202) merged on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53202) over 55 minutes, 6 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland Use Skia software renderer to draw stroked text.
-    <sub>[#53238](https://github.com/flutter/engine/pull/53238) merged on June 6, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/53238) over 49 minutes, 325 additions and 116 deletions in 23 files</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] tighten fast gradient condition.
+    <sub>[#53195](https://github.com/flutter/engine/pull/53195) merged on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53195) over 4 hours, 69 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove the DBC interpreter flag.
@@ -1039,9 +1039,9 @@
     <sub>[#53233](https://github.com/flutter/engine/pull/53233) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53233) over 35 minutes, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] enable always_specify_types for web_ui
-    <sub>[#53226](https://github.com/flutter/engine/pull/53226) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53226) over 48 minutes, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland Use Skia software renderer to draw stroked text.
+    <sub>[#53238](https://github.com/flutter/engine/pull/53238) merged on June 6, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/53238) over 49 minutes, 325 additions and 116 deletions in 23 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] clean up dynamic calls, remove always_specify_types
     <sub>[#53228](https://github.com/flutter/engine/pull/53228) merged on June 6, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53228) over 8 hours, 33 additions and 29 deletions in 11 files</sub>
@@ -1051,9 +1051,13 @@
     <sub>[#53073](https://github.com/flutter/engine/pull/53073) merged on June 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53073) over 1 week, 16 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] wire up bdf and blend detection in experimental canvas.
-    <sub>[#53151](https://github.com/flutter/engine/pull/53151) merged on June 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53151) over 4 days, 33 additions and 14 deletions in 6 files</sub>
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Clarify rendering backend fallback behavior on Android.
+    <sub>[#53202](https://github.com/flutter/engine/pull/53202) merged on June 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53202) over 55 minutes, 6 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix NPE caused by implicit sk_sp to fml::Status conversion.
+    <sub>[#53177](https://github.com/flutter/engine/pull/53177) merged on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53177) over 59 minutes, 25 additions and 21 deletions in 3 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix rendering corruption by Flutter and GDK sharing the same OpenGL context
     <sub>[#53103](https://github.com/flutter/engine/pull/53103) merged on June 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53103) over 4 days, 15 additions and 3 deletions in 1 file</sub>
