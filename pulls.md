@@ -74,3 +74,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Cut no-longer-accurate microtask reference in finalizeTree doc<br />
     <sub>[#149941](https://github.com/flutter/flutter/pull/149941) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149941) 0 additions and 3 deletions in 1 file</sub><br />
 
+* **[Nate](https://github.com/nate-thegrate)** &mdash; Add `BlankMaterial` widget<br />
+    <sub>[#149963](https://github.com/flutter/flutter/pull/149963) opened on on June 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149963) 121 additions and 18 deletions in 4 files</sub><br />
+
