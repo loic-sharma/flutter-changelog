@@ -14,6 +14,10 @@
     <sub>[#148094](https://github.com/flutter/flutter/pull/148094) merged on June 5, 2024 &mdash; **Large:** [75 comments](https://github.com/flutter/flutter/pull/148094) over 3 weeks, 1308 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver
+    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) merged on June 7, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/143196) over 3 months, 506 additions and 1 deletion in 6 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[victorgalo](https://github.com/victorgalo)** &mdash; Add support for setting the heading level for web semantics (#97894)
     <sub>[#125771](https://github.com/flutter/flutter/pull/125771) merged on June 6, 2024 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/125771) over 13 months, 73 additions and 5 deletions in 5 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
@@ -22,10 +26,6 @@
     <sub>[#149618](https://github.com/flutter/flutter/pull/149618) merged on June 4, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/149618) over 1 day, 405 additions and 3 deletions in 12 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-30 at 2 41 33 PM](https://github.com/flutter/flutter/assets/682784/1bc32620-5edb-420a-866c-5cc529b2ac55)</details></sub>
-
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver
-    <sub>[#143196](https://github.com/flutter/flutter/pull/143196) merged on June 7, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/143196) over 3 months, 506 additions and 1 deletion in 6 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `ChipAnimationStyle` to override default chips animations durations
     <sub>[#149245](https://github.com/flutter/flutter/pull/149245) merged on June 6, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/149245) over 1 week, 832 additions and 4 deletions in 12 files</sub>
