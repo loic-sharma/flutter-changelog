@@ -77,3 +77,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `BlankMaterial` widget<br />
     <sub>[#149963](https://github.com/flutter/flutter/pull/149963) opened on on June 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149963) 121 additions and 18 deletions in 4 files</sub><br />
 
+* **[Danny Lau](https://github.com/kkdlau)** &mdash; #134899 Write rendered files if there are changes<br />
+    <sub>[#149969](https://github.com/flutter/flutter/pull/149969) opened on on June 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149969) 11 additions and 0 deletions in 1 file</sub><br />
+
