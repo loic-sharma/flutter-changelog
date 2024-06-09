@@ -49,7 +49,7 @@
 
 * **[Peter Trost](https://github.com/Peetee06)** &mdash; Feature: Add AnimatedList with separators
     <sub>[#144899](https://github.com/flutter/flutter/pull/144899) merged on June 5, 2024 &mdash; **Large:** [51 comments](https://github.com/flutter/flutter/pull/144899) over 2 months, 1038 additions and 25 deletions in 5 files</sub>
-    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Nate](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Nate Wilson](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fix `SegmentedButton` clipping when drawing segments (#149739)"
     <sub>[#149927](https://github.com/flutter/flutter/pull/149927) merged on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149927) over 25 seconds, 5 additions and 76 deletions in 2 files</sub>
@@ -426,9 +426,9 @@
 
 * **[Dawid Wenderski](https://github.com/dawidope)** &mdash; Fix incorrect behavior of ScrollViewKeyboardDismissBehavior.onDrag for ScrollViewers with Drawer
     <sub>[#148948](https://github.com/flutter/flutter/pull/148948) merged on May 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148948) over 1 week, 136 additions and 9 deletions in 6 files</sub>
-    <sub>Reviewed by: [Nate](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Refactor `Material` build method
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `Material` build method
     <sub>[#147430](https://github.com/flutter/flutter/pull/147430) merged on May 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/147430) over 1 month, 37 additions and 92 deletions in 1 file</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
@@ -551,7 +551,7 @@
     <sub>[#143259](https://github.com/flutter/flutter/pull/143259) merged on May 20, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/flutter/pull/143259) over 3 months, 588 additions and 175 deletions in 17 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; `switch` expressions: finale
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `switch` expressions: finale
     <sub>[#148711](https://github.com/flutter/flutter/pull/148711) merged on May 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/148711) over 19 hours, 214 additions and 466 deletions in 22 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
@@ -610,7 +610,7 @@
     <sub>[#148302](https://github.com/flutter/flutter/pull/148302) merged on May 23, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/148302) over 1 week, 562 additions and 14 deletions in 15 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Implement new `AnimationStatus` getters
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implement new `AnimationStatus` getters
     <sub>[#148570](https://github.com/flutter/flutter/pull/148570) merged on May 20, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/148570) over 2 days, 221 additions and 384 deletions in 53 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
@@ -650,7 +650,7 @@
     <sub>[#148699](https://github.com/flutter/flutter/pull/148699) merged on May 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148699) over 1 day, 14 additions and 13 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Reland "`if` chains → `switch` expressions"
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Reland "`if` chains → `switch` expressions"
     <sub>[#148634](https://github.com/flutter/flutter/pull/148634) merged on May 20, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/148634) over 1 day, 194 additions and 297 deletions in 33 files</sub>
     <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub>
     <sub><details><summary>1 image...</summary>![late initialization error](https://github.com/flutter/flutter/assets/10457200/47dc423f-0dd0-4869-9a11-59cb7d1ea46e)</details></sub>
@@ -683,7 +683,7 @@
     <sub>[#147735](https://github.com/flutter/flutter/pull/147735) merged on May 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/147735) over 2 weeks, 118 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Update `FocusManager` platform check to include iOS
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `FocusManager` platform check to include iOS
     <sub>[#148612](https://github.com/flutter/flutter/pull/148612) merged on May 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148612) over 5 days, 24 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
@@ -879,7 +879,7 @@
     <sub>[#148835](https://github.com/flutter/flutter/pull/148835) merged on May 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/148835) over 5 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Reland "Update `FocusManager` platform check to include iOS"
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Reland "Update `FocusManager` platform check to include iOS"
     <sub>[#148984](https://github.com/flutter/flutter/pull/148984) merged on May 23, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/148984) over 4 hours, 47 additions and 48 deletions in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
@@ -902,7 +902,7 @@
     <sub>[#148523](https://github.com/flutter/flutter/pull/148523) merged on May 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148523) over 1 day, 37 additions and 43 deletions in 28 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Fix template manifest test
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix template manifest test
     <sub>[#148616](https://github.com/flutter/flutter/pull/148616) merged on May 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/148616) over 5 hours, 2 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 

@@ -17,7 +17,7 @@
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; PageController: added default [duration] and [curve] values to animateToPage, nextPage and previousPage methods<br />
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; `Theme.merge()`<br />
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `Theme.merge()`<br />
     <sub>[#148449](https://github.com/flutter/flutter/pull/148449) opened on on May 16, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/148449) 1946 additions and 256 deletions in 4 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
@@ -74,6 +74,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Cut no-longer-accurate microtask reference in finalizeTree doc<br />
     <sub>[#149941](https://github.com/flutter/flutter/pull/149941) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149941) 0 additions and 3 deletions in 1 file</sub><br />
 
-* **[Nate](https://github.com/nate-thegrate)** &mdash; Add `BlankMaterial` widget<br />
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `BlankMaterial` widget<br />
     <sub>[#149963](https://github.com/flutter/flutter/pull/149963) opened on on June 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149963) 121 additions and 18 deletions in 4 files</sub><br />
 
