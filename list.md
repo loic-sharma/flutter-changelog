@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-9 commits.
+10 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.
     <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub>
@@ -33,6 +33,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform from issue template
     <sub>[#149995](https://github.com/flutter/flutter/pull/149995) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149995) over 2 hours, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily run Mac_arm64 framework_tests_misc on only Mac-13
+    <sub>[#150009](https://github.com/flutter/flutter/pull/150009) merged on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150009) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes TextField hinttext in a11y_assessment
     <sub>[#150007](https://github.com/flutter/flutter/pull/150007) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150007) over 2 hours, 46 additions and 2 deletions in 4 files</sub>
@@ -596,7 +600,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-2 commits.
+3 commits.
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use dart.library.html to distinguish dart2wasm from dart2js/ddc in conditional imports
     <sub>[#53307](https://github.com/flutter/engine/pull/53307) merged on June 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53307) over 1 hour, 5 additions and 9 deletions in 5 files</sub>
@@ -605,6 +609,10 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use new dart:js_interop way to externalize/internalize objects
     <sub>[#53304](https://github.com/flutter/engine/pull/53304) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53304) over 1 hour, 13 additions and 59 deletions in 9 files</sub>
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily run Mac mac_host_engine on only Mac-13 
+    <sub>[#53313](https://github.com/flutter/engine/pull/53313) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53313) over 2 hours, 7 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 ### June 1, 2024 to June 7, 2024
 
