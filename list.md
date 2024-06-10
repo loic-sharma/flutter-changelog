@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-12 commits.
+14 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.
     <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub>
@@ -14,9 +14,17 @@
     <sub>[#149773](https://github.com/flutter/flutter/pull/149773) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149773) over 4 days, 111 additions and 62 deletions in 9 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes a bug where NavigatorState.pop does not consider any possible s…
+    <sub>[#150014](https://github.com/flutter/flutter/pull/150014) merged on June 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150014) over 3 hours, 62 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Retain the toString method for subclasses of Key in profile/release mode
     <sub>[#149926](https://github.com/flutter/flutter/pull/149926) merged on June 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149926) over 2 days, 9 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Unpin `camera_android` and remove its only usage
+    <sub>[#150017](https://github.com/flutter/flutter/pull/150017) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150017) over 2 hours, 0 additions and 158 deletions in 2 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Takahiro Torii](https://github.com/ttorii20)** &mdash; Update hasTrailingSpaces
     <sub>[#149698](https://github.com/flutter/flutter/pull/149698) merged on June 10, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149698) over 5 days, 15 additions and 2 deletions in 2 files</sub>

@@ -74,3 +74,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for icon_button.3.dart<br />
     <sub>[#149988](https://github.com/flutter/flutter/pull/149988) opened on on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149988) 50 additions and 1 deletion in 2 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix divider thickness<br />
+    <sub>[#150024](https://github.com/flutter/flutter/pull/150024) opened on on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150024) 14 additions and 7 deletions in 2 files</sub><br />
+
