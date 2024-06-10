@@ -80,6 +80,3 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix divider thickness<br />
     <sub>[#150024](https://github.com/flutter/flutter/pull/150024) opened on on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150024) 14 additions and 7 deletions in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactored HeroController logic to handle complex cases<br />
-    <sub>[#150027](https://github.com/flutter/flutter/pull/150027) opened on on June 10, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/150027) 285 additions and 36 deletions in 4 files</sub><br />
-
