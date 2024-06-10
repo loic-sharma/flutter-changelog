@@ -63,7 +63,7 @@
     <sub>[#149881](https://github.com/flutter/flutter/pull/149881) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149881) 21 additions and 9 deletions in 2 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#149908](https://github.com/flutter/flutter/pull/149908) opened on on June 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149908) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#149908](https://github.com/flutter/flutter/pull/149908) opened on on June 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149908) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `BlankMaterial` widget<br />
     <sub>[#149963](https://github.com/flutter/flutter/pull/149963) opened on on June 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149963) 121 additions and 18 deletions in 4 files</sub><br />
