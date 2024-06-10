@@ -620,7 +620,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-4 commits.
+5 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Map mouse pointer type on Linux
     <sub>[#52418](https://github.com/flutter/engine/pull/52418) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52418) over 1 month, 61 additions and 18 deletions in 8 files</sub>
@@ -633,6 +633,10 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use new dart:js_interop way to externalize/internalize objects
     <sub>[#53304](https://github.com/flutter/engine/pull/53304) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53304) over 1 hour, 13 additions and 59 deletions in 9 files</sub>
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily run Linux linux_web_engine Mac tests on Mac-13 only
+    <sub>[#53318](https://github.com/flutter/engine/pull/53318) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53318) over 1 hour, 7 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily run Mac mac_host_engine on only Mac-13 
     <sub>[#53313](https://github.com/flutter/engine/pull/53313) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53313) over 2 hours, 7 additions and 7 deletions in 2 files</sub>
