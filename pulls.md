@@ -86,3 +86,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix copy-paste-o in MethodChannel.invokeListMethod doc<br />
     <sub>[#149976](https://github.com/flutter/flutter/pull/149976) opened on on June 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149976) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for icon_button.3.dart<br />
+    <sub>[#149988](https://github.com/flutter/flutter/pull/149988) opened on on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149988) 50 additions and 1 deletion in 2 files</sub><br />
+
