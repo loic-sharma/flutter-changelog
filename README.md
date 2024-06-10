@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-4 commits.
+5 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Change `--web-renderer` default from `auto` to `canvaskit`<br />
     <sub>[#149773](https://github.com/flutter/flutter/pull/149773) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149773) over 4 days, 111 additions and 62 deletions in 9 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Retain the toString method for subclasses of Key in profile/release mode<br />
     <sub>[#149926](https://github.com/flutter/flutter/pull/149926) merged on June 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149926) over 2 days, 9 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Takahiro Torii](https://github.com/ttorii20)** &mdash; Update hasTrailingSpaces<br />
+    <sub>[#149698](https://github.com/flutter/flutter/pull/149698) merged on June 10, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149698) over 5 days, 15 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform from issue template<br />
     <sub>[#149995](https://github.com/flutter/flutter/pull/149995) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149995) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
