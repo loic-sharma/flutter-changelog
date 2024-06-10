@@ -4,7 +4,11 @@
 
 ### June 8, 2024 to June 14, 2024
 
-1 commits.
+2 commits.
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform from issue template<br />
+    <sub>[#149995](https://github.com/flutter/flutter/pull/149995) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149995) over 2 hours, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "[CupertinoActionSheet] Match colors to native (#149568)"<br />
     <sub>[#149998](https://github.com/flutter/flutter/pull/149998) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149998) over 34 minutes, 21 additions and 128 deletions in 2 files</sub><br />
