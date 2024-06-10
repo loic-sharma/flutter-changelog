@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-14 commits.
+15 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.
     <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub>
@@ -29,6 +29,10 @@
 * **[Takahiro Torii](https://github.com/ttorii20)** &mdash; Update hasTrailingSpaces
     <sub>[#149698](https://github.com/flutter/flutter/pull/149698) merged on June 10, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149698) over 5 days, 15 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Greg Price](https://github.com/gnprice)** &mdash; Fix copy-paste-o in MethodChannel.invokeListMethod doc
+    <sub>[#149976](https://github.com/flutter/flutter/pull/149976) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149976) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use const bool.fromEnvironment("dart.tool.dart2wasm") to detect dart2wasm
     <sub>[#149996](https://github.com/flutter/flutter/pull/149996) merged on June 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149996) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
