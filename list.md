@@ -4,7 +4,11 @@
 
 ### June 8, 2024 to June 14, 2024
 
-3 commits.
+4 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Change `--web-renderer` default from `auto` to `canvaskit`
+    <sub>[#149773](https://github.com/flutter/flutter/pull/149773) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149773) over 4 days, 111 additions and 62 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Retain the toString method for subclasses of Key in profile/release mode
     <sub>[#149926](https://github.com/flutter/flutter/pull/149926) merged on June 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149926) over 2 days, 9 additions and 0 deletions in 2 files</sub>
