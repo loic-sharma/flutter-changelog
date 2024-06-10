@@ -551,9 +551,18 @@
 
 ## flutter/engine
 
+### June 8, 2024 to June 14, 2024
+
+1 commits.
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use new dart:js_interop way to externalize/internalize objects<br />
+    <sub>[#53304](https://github.com/flutter/engine/pull/53304) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53304) over 1 hour, 13 additions and 59 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub><br />
+
 ### June 1, 2024 to June 7, 2024
 
-45 commits.
+<details>
+<summary>45 commits...</summary>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] match rrect_blur math to the gaussian math<br />
     <sub>[#53130](https://github.com/flutter/engine/pull/53130) merged on June 3, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/53130) over 4 days, 107 additions and 6 deletions in 5 files</sub><br />
@@ -736,6 +745,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Revert "Widen CPU affinity set."<br />
     <sub>[#53274](https://github.com/flutter/engine/pull/53274) merged on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53274) over 49 minutes, 2 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+</details>
 
 ### May 25, 2024 to May 31, 2024
 
