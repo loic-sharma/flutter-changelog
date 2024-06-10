@@ -93,5 +93,5 @@
     <sub>[#149995](https://github.com/flutter/flutter/pull/149995) opened on on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149995) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use const bool.fromEnvironment("dart.tool.dart2wasm") to detect dart2wasm<br />
-    <sub>[#149996](https://github.com/flutter/flutter/pull/149996) opened on on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149996) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#149996](https://github.com/flutter/flutter/pull/149996) opened on on June 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149996) 1 addition and 1 deletion in 1 file</sub><br />
 
