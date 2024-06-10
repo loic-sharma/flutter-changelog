@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-11 commits.
+12 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.<br />
     <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub><br />
@@ -42,8 +42,12 @@
     <sub>[#150007](https://github.com/flutter/flutter/pull/150007) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150007) over 2 hours, 46 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland: [CupertinoActionSheet] Match colors to native (#149568) (#150015)"<br />
+    <sub>[#150021](https://github.com/flutter/flutter/pull/150021) merged on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150021) over 52 seconds, 21 additions and 128 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland: [CupertinoActionSheet] Match colors to native (#149568)<br />
-    <sub>[#150015](https://github.com/flutter/flutter/pull/150015) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150015) over 51 minutes, 128 additions and 21 deletions in 2 files</sub><br />
+    <sub>[#150015](https://github.com/flutter/flutter/pull/150015) merged on June 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150015) over 51 minutes, 128 additions and 21 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "[CupertinoActionSheet] Match colors to native (#149568)"<br />
@@ -997,7 +1001,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-3 commits.
+4 commits.
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform source<br />
     <sub>[#6898](https://github.com/flutter/packages/pull/6898) merged on June 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/6898) over 4 hours, 2 additions and 5038 deletions in 125 files</sub><br />
@@ -1006,6 +1010,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Change CODEOWNERS for metrics_center<br />
     <sub>[#6892](https://github.com/flutter/packages/pull/6892) merged on June 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6892) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Try to address test flake<br />
+    <sub>[#6899](https://github.com/flutter/packages/pull/6899) merged on June 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6899) over 4 hours, 14 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Allow `platform` references<br />
     <sub>[#6903](https://github.com/flutter/packages/pull/6903) merged on June 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6903) over 32 minutes, 1 addition and 0 deletions in 1 file</sub><br />
