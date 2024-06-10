@@ -89,3 +89,9 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for icon_button.3.dart<br />
     <sub>[#149988](https://github.com/flutter/flutter/pull/149988) opened on on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149988) 50 additions and 1 deletion in 2 files</sub><br />
 
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform from issue template<br />
+    <sub>[#149995](https://github.com/flutter/flutter/pull/149995) opened on on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149995) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use const bool.fromEnvironment("dart.tool.dart2wasm") to detect dart2wasm<br />
+    <sub>[#149996](https://github.com/flutter/flutter/pull/149996) opened on on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149996) 1 addition and 1 deletion in 1 file</sub><br />
+

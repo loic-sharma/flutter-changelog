@@ -553,7 +553,11 @@
 
 ### June 8, 2024 to June 14, 2024
 
-1 commits.
+2 commits.
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use dart.library.html to distinguish dart2wasm from dart2js/ddc in conditional imports
+    <sub>[#53307](https://github.com/flutter/engine/pull/53307) merged on June 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53307) over 1 hour, 5 additions and 9 deletions in 5 files</sub>
+    <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use new dart:js_interop way to externalize/internalize objects
     <sub>[#53304](https://github.com/flutter/engine/pull/53304) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53304) over 1 hour, 13 additions and 59 deletions in 9 files</sub>
