@@ -33,7 +33,7 @@
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer<br />
-    <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/149383) 110 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#149383](https://github.com/flutter/flutter/pull/149383) opened on on May 31, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/149383) 110 additions and 2 deletions in 3 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove irrelevant test shards on docs/ changes<br />
     <sub>[#149546](https://github.com/flutter/flutter/pull/149546) opened on on June 2, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/149546) 409 additions and 0 deletions in 1 file</sub><br />
