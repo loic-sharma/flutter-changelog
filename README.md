@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 8, 2024 to June 14, 2024
+
+1 commits.
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Revert "[CupertinoActionSheet] Match colors to native (#149568)"<br />
+    <sub>[#149998](https://github.com/flutter/flutter/pull/149998) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149998) over 34 minutes, 21 additions and 128 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 ### June 1, 2024 to June 7, 2024
 
-68 commits.
+<details>
+<summary>68 commits...</summary>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; TreeSliver & associated classes<br />
     <sub>[#147171](https://github.com/flutter/flutter/pull/147171) merged on June 4, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/147171) over 1 month, 3326 additions and 0 deletions in 11 files</sub><br />
@@ -286,6 +295,8 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; Revert "make output of flutter run web tests verbose (#149694)"<br />
     <sub>[#149766](https://github.com/flutter/flutter/pull/149766) merged on June 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149766) over 3 minutes, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+</details>
 
 ### May 25, 2024 to May 31, 2024
 
