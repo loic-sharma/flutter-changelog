@@ -997,7 +997,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-2 commits.
+3 commits.
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform source
     <sub>[#6898](https://github.com/flutter/packages/pull/6898) merged on June 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/6898) over 4 hours, 2 additions and 5038 deletions in 125 files</sub>
@@ -1006,6 +1006,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Change CODEOWNERS for metrics_center
     <sub>[#6892](https://github.com/flutter/packages/pull/6892) merged on June 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6892) over 2 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Allow `platform` references
+    <sub>[#6903](https://github.com/flutter/packages/pull/6903) merged on June 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6903) over 32 minutes, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 ### June 1, 2024 to June 7, 2024
 
