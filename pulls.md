@@ -59,26 +59,17 @@
 * **[Michael Rittmeister](https://github.com/DRSchlaubi)** &mdash; Add support for type-safe plugin apply<br />
     <sub>[#149860](https://github.com/flutter/flutter/pull/149860) opened on on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149860) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; closes #issue136763, changed a command to generate gradle error message according to platform<br />
-    <sub>[#149877](https://github.com/flutter/flutter/pull/149877) opened on on June 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149877) 60 additions and 9 deletions in 2 files</sub><br />
-
 * **[Brian Wo](https://github.com/brainwo)** &mdash; [CP] Point kotlin message in `gradle_errors.dart` towards new place<br />
     <sub>[#149881](https://github.com/flutter/flutter/pull/149881) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149881) 21 additions and 9 deletions in 2 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#149908](https://github.com/flutter/flutter/pull/149908) opened on on June 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149908) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Cut no-longer-accurate microtask reference in finalizeTree doc<br />
-    <sub>[#149941](https://github.com/flutter/flutter/pull/149941) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149941) 0 additions and 3 deletions in 1 file</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `BlankMaterial` widget<br />
     <sub>[#149963](https://github.com/flutter/flutter/pull/149963) opened on on June 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149963) 121 additions and 18 deletions in 4 files</sub><br />
 
 * **[Danny Lau](https://github.com/kkdlau)** &mdash; #134899 Write rendered files if there are changes<br />
     <sub>[#149969](https://github.com/flutter/flutter/pull/149969) opened on on June 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149969) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[Greg Price](https://github.com/gnprice)** &mdash; Fix copy-paste-o in MethodChannel.invokeListMethod doc<br />
-    <sub>[#149976](https://github.com/flutter/flutter/pull/149976) opened on on June 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149976) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for icon_button.3.dart<br />
     <sub>[#149988](https://github.com/flutter/flutter/pull/149988) opened on on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149988) 50 additions and 1 deletion in 2 files</sub><br />
