@@ -27,7 +27,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer
-    <sub>[#149383](https://github.com/flutter/flutter/pull/149383) merged on June 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/149383) over 1 week, 110 additions and 2 deletions in 3 files</sub>
+    <sub>[#149383](https://github.com/flutter/flutter/pull/149383) merged on June 11, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/149383) over 1 week, 110 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Takahiro Torii](https://github.com/ttorii20)** &mdash; Update hasTrailingSpaces
@@ -640,7 +640,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-6 commits.
+7 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Map mouse pointer type on Linux
     <sub>[#52418](https://github.com/flutter/engine/pull/52418) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52418) over 1 month, 61 additions and 18 deletions in 8 files</sub>
@@ -661,6 +661,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily run Mac mac_host_engine on only Mac-13 
     <sub>[#53313](https://github.com/flutter/engine/pull/53313) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53313) over 2 hours, 7 additions and 7 deletions in 2 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 66ed61abe85e to 282b3347dc3e (4 revisions)
+    <sub>[#53332](https://github.com/flutter/engine/pull/53332) merged on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53332) over 1 hour, 4 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 235dc289e4bf to 66ed61abe85e (5 revisions)
     <sub>[#53319](https://github.com/flutter/engine/pull/53319) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53319) over 2 hours, 10 additions and 10 deletions in 3 files</sub>
