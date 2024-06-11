@@ -689,6 +689,10 @@
     <sub>[#53198](https://github.com/flutter/engine/pull/53198) merged on June 5, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/53198) over 1 day, 324 additions and 114 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fixes a few issues in flutter_js<br />
+    <sub>[#53231](https://github.com/flutter/engine/pull/53231) merged on June 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/53231) over 2 days, 112 additions and 49 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Use Skia software renderer to draw stroked text. (#53198)"<br />
     <sub>[#53237](https://github.com/flutter/engine/pull/53237) merged on June 6, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/53237) over 33 seconds, 114 additions and 324 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
@@ -704,10 +708,6 @@
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Manual roll of icu<br />
     <sub>[#53199](https://github.com/flutter/engine/pull/53199) merged on June 5, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/53199) over 19 hours, 12027 additions and 12121 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fixes a few issues in flutter_js<br />
-    <sub>[#53231](https://github.com/flutter/engine/pull/53231) merged on June 7, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/53231) over 2 days, 112 additions and 49 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] Use CAShapeLayer as the mask to avoid software rendering <br />
     <sub>[#53072](https://github.com/flutter/engine/pull/53072) merged on June 5, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53072) over 1 week, 150 additions and 38 deletions in 13 files</sub><br />
