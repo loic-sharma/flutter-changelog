@@ -647,7 +647,7 @@
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch from .didGain/LoseAccessibilityFocus to .focus
-    <sub>[#53134](https://github.com/flutter/engine/pull/53134) merged on June 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/53134) over 1 week, 105 additions and 66 deletions in 6 files</sub>
+    <sub>[#53134](https://github.com/flutter/engine/pull/53134) merged on June 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53134) over 1 week, 105 additions and 66 deletions in 6 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Map mouse pointer type on Linux
