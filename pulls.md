@@ -80,9 +80,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland "Add tests for scaffold drawer and end drawer" (#150045)<br />
     <sub>[#150047](https://github.com/flutter/flutter/pull/150047) opened on on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150047) 110 additions and 2 deletions in 3 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove double MaterialApp wrap from api samples<br />
-    <sub>[#150055](https://github.com/flutter/flutter/pull/150055) opened on on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150055) 32 additions and 134 deletions in 28 files</sub><br />
-
 * **[İbrahim Talha DEMİR](https://github.com/IbrahimTalha0)** &mdash; Update flexible_space_bar.dart<br />
     <sub>[#150056](https://github.com/flutter/flutter/pull/150056) opened on on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150056) 1 addition and 1 deletion in 1 file</sub><br />
 
