@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-16 commits.
+17 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.
     <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub>
@@ -29,6 +29,10 @@
 * **[Takahiro Torii](https://github.com/ttorii20)** &mdash; Update hasTrailingSpaces
     <sub>[#149698](https://github.com/flutter/flutter/pull/149698) merged on June 10, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149698) over 5 days, 15 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual Pub Roll
+    <sub>[#150025](https://github.com/flutter/flutter/pull/150025) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150025) over 1 hour, 39 additions and 37 deletions in 3 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Per-platform desktop triage instructions
     <sub>[#150019](https://github.com/flutter/flutter/pull/150019) merged on June 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150019) over 2 hours, 27 additions and 11 deletions in 1 file</sub>
