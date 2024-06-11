@@ -83,6 +83,3 @@
 * **[Limane Gaya](https://github.com/LimaneGaya)** &mdash; made SelectionArea alignment consistent between web and other platform<br />
     <sub>[#150037](https://github.com/flutter/flutter/pull/150037) opened on on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150037) 17 additions and 0 deletions in 2 files</sub><br />
 
-* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Add tests for scaffold drawer and end drawer"<br />
-    <sub>[#150045](https://github.com/flutter/flutter/pull/150045) opened on on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150045) 2 additions and 110 deletions in 3 files</sub><br />
-

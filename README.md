@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-19 commits.
+20 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.<br />
     <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub><br />
@@ -27,7 +27,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer<br />
-    <sub>[#149383](https://github.com/flutter/flutter/pull/149383) merged on June 11, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/149383) over 1 week, 110 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#149383](https://github.com/flutter/flutter/pull/149383) merged on June 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/149383) over 1 week, 110 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Takahiro Torii](https://github.com/ttorii20)** &mdash; Update hasTrailingSpaces<br />
@@ -69,6 +69,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes TextField hinttext in a11y_assessment<br />
     <sub>[#150007](https://github.com/flutter/flutter/pull/150007) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150007) over 2 hours, 46 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Add tests for scaffold drawer and end drawer"<br />
+    <sub>[#150045](https://github.com/flutter/flutter/pull/150045) merged on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150045) over 13 minutes, 2 additions and 110 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland: [CupertinoActionSheet] Match colors to native (#149568) (#150015)"<br />
     <sub>[#150021](https://github.com/flutter/flutter/pull/150021) merged on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150021) over 52 seconds, 21 additions and 128 deletions in 2 files</sub><br />
