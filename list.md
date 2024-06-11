@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-18 commits.
+19 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.
     <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub>
@@ -25,6 +25,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unpin `camera_android` and remove its only usage
     <sub>[#150017](https://github.com/flutter/flutter/pull/150017) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150017) over 2 hours, 0 additions and 158 deletions in 2 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer
+    <sub>[#149383](https://github.com/flutter/flutter/pull/149383) merged on June 11, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/149383) over 1 week, 110 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Takahiro Torii](https://github.com/ttorii20)** &mdash; Update hasTrailingSpaces
     <sub>[#149698](https://github.com/flutter/flutter/pull/149698) merged on June 10, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149698) over 5 days, 15 additions and 2 deletions in 2 files</sub>
