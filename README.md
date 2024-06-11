@@ -640,7 +640,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-11 commits.
+12 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] null check texture registry in OnPlatformViewMarkTextureFrameAvailable.<br />
     <sub>[#53334](https://github.com/flutter/engine/pull/53334) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53334) over 58 minutes, 3 additions and 0 deletions in 1 file</sub><br />
@@ -653,6 +653,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Map mouse pointer type on Linux<br />
     <sub>[#52418](https://github.com/flutter/engine/pull/52418) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52418) over 1 month, 61 additions and 18 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix character getter API usage in stripLeftSlashes/stripRightSlashes<br />
+    <sub>[#53299](https://github.com/flutter/engine/pull/53299) merged on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53299) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove varying interpolation for solid colors.<br />
     <sub>[#53281](https://github.com/flutter/engine/pull/53281) merged on June 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53281) over 3 days, 87 additions and 174 deletions in 8 files</sub><br />
