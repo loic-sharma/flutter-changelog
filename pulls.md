@@ -47,9 +47,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Create `CarouselView` widget - Part 2<br />
-    <sub>[#149775](https://github.com/flutter/flutter/pull/149775) opened on on June 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/149775) 1341 additions and 58 deletions in 4 files</sub><br />
-
 * **[Ricardo Boss](https://github.com/ricardoboss)** &mdash; Copy any previous `IconThemeData` instead of overwriting it in CupertinoButton<br />
     <sub>[#149777](https://github.com/flutter/flutter/pull/149777) opened on on June 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149777) 36 additions and 1 deletion in 2 files</sub><br />
 
@@ -61,9 +58,6 @@
 
 * **[Brian Wo](https://github.com/brainwo)** &mdash; [CP] Point kotlin message in `gradle_errors.dart` towards new place<br />
     <sub>[#149881](https://github.com/flutter/flutter/pull/149881) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149881) 21 additions and 9 deletions in 2 files</sub><br />
-
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#149908](https://github.com/flutter/flutter/pull/149908) opened on on June 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149908) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `BlankMaterial` widget<br />
     <sub>[#149963](https://github.com/flutter/flutter/pull/149963) opened on on June 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149963) 121 additions and 18 deletions in 4 files</sub><br />
