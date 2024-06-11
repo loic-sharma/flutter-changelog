@@ -154,6 +154,11 @@
     <sub>[#146654](https://github.com/flutter/flutter/pull/146654) merged on June 4, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/146654) over 1 month, 898 additions and 98 deletions in 9 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Match colors to native
+    <sub>[#149568](https://github.com/flutter/flutter/pull/149568) merged on June 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/149568) over 5 days, 128 additions and 21 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+    <sub><details><summary>3 images...</summary><img width="1295" alt="image" src="https://github.com/flutter/flutter/assets/1596656/3703a4a8-a856-42b1-9395-a6e14b1881ca"><img width="1268" alt="image" src="https://github.com/flutter/flutter/assets/1596656/1eb9964e-41f1-414a-99ae-0a2e7da8d3fd"><img width="1091" alt="image" src="https://github.com/flutter/flutter/assets/1596656/0fb76291-c3cc-4bb5-aefa-03ac6ac9bf1f"></details></sub>
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "TreeSliver & associated classes (#147171)"
     <sub>[#149754](https://github.com/flutter/flutter/pull/149754) merged on June 5, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/149754) over 24 seconds, 0 additions and 3326 deletions in 11 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -170,11 +175,6 @@
     <sub>[#149439](https://github.com/flutter/flutter/pull/149439) merged on June 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149439) over 3 days, 11 additions and 33 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
     <sub><details><summary>3 images...</summary><img width="1006" alt="image" src="https://github.com/flutter/flutter/assets/1596656/27ca5df7-1140-4bfd-9a5f-3b5972632c92"><img width="1025" alt="image" src="https://github.com/flutter/flutter/assets/1596656/f2be6a5c-1713-4ffe-9705-27a668e5133d"><img width="1024" alt="image" src="https://github.com/flutter/flutter/assets/1596656/5b90d9f4-11ed-4c04-bdea-0b81b1d2bd3d"></details></sub>
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Match colors to native
-    <sub>[#149568](https://github.com/flutter/flutter/pull/149568) merged on June 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149568) over 5 days, 128 additions and 21 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-    <sub><details><summary>3 images...</summary><img width="1295" alt="image" src="https://github.com/flutter/flutter/assets/1596656/3703a4a8-a856-42b1-9395-a6e14b1881ca"><img width="1268" alt="image" src="https://github.com/flutter/flutter/assets/1596656/1eb9964e-41f1-414a-99ae-0a2e7da8d3fd"><img width="1091" alt="image" src="https://github.com/flutter/flutter/assets/1596656/0fb76291-c3cc-4bb5-aefa-03ac6ac9bf1f"></details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Cleanup triage reports from docs/
     <sub>[#149545](https://github.com/flutter/flutter/pull/149545) merged on June 3, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/149545) over 1 day, 1 addition and 10228 deletions in 6 files</sub>
