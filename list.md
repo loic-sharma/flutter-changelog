@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-17 commits.
+18 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.
     <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub>
@@ -53,6 +53,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform from issue template
     <sub>[#149995](https://github.com/flutter/flutter/pull/149995) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149995) over 2 hours, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add high-contrast theme
+    <sub>[#149779](https://github.com/flutter/flutter/pull/149779) merged on June 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149779) over 5 days, 77 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily run Mac_arm64 framework_tests_misc on only Mac-13
     <sub>[#150009](https://github.com/flutter/flutter/pull/150009) merged on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150009) over 2 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -1029,7 +1033,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-4 commits.
+5 commits.
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform source
     <sub>[#6898](https://github.com/flutter/packages/pull/6898) merged on June 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/6898) over 4 hours, 2 additions and 5038 deletions in 125 files</sub>
@@ -1038,6 +1042,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Change CODEOWNERS for metrics_center
     <sub>[#6892](https://github.com/flutter/packages/pull/6892) merged on June 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6892) over 2 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Andrew Wilson](https://github.com/apwilson)** &mdash; Ensure each code block specified in the markdown uses its own ScrollController.
+    <sub>[#6904](https://github.com/flutter/packages/pull/6904) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6904) over 25 minutes, 36 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Try to address test flake
     <sub>[#6899](https://github.com/flutter/packages/pull/6899) merged on June 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6899) over 4 hours, 14 additions and 5 deletions in 4 files</sub>
