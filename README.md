@@ -155,7 +155,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Match colors to native<br />
-    <sub>[#149568](https://github.com/flutter/flutter/pull/149568) merged on June 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/149568) over 5 days, 128 additions and 21 deletions in 2 files</sub><br />
+    <sub>[#149568](https://github.com/flutter/flutter/pull/149568) merged on June 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149568) over 5 days, 128 additions and 21 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
     <sub><details><summary>3 images...</summary><img width="1295" alt="image" src="https://github.com/flutter/flutter/assets/1596656/3703a4a8-a856-42b1-9395-a6e14b1881ca"><img width="1268" alt="image" src="https://github.com/flutter/flutter/assets/1596656/1eb9964e-41f1-414a-99ae-0a2e7da8d3fd"><img width="1091" alt="image" src="https://github.com/flutter/flutter/assets/1596656/0fb76291-c3cc-4bb5-aefa-03ac6ac9bf1f"></details></sub>
 
@@ -765,6 +765,10 @@
     <sub>[#53176](https://github.com/flutter/engine/pull/53176) merged on June 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53176) over 23 hours, 14 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] clean up dynamic calls, remove always_specify_types<br />
+    <sub>[#53228](https://github.com/flutter/engine/pull/53228) merged on June 6, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53228) over 8 hours, 33 additions and 29 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #52859: Revamp the engine style guide, remove `always_specify_types`<br />
     <sub>[#53223](https://github.com/flutter/engine/pull/53223) merged on June 5, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/53223) over 51 minutes, 173 additions and 19 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [John McCutchan](https://github.com/johnmccutchan), [Chris Bracken](https://github.com/cbracken), [Ian Hickson](https://github.com/Hixie), [Jackson Gardner](https://github.com/eyebrowsoffire), and [2 others](https://github.com/flutter/engine/pull/53223)</sub><br />
@@ -780,10 +784,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Expand fast gradient to all shapes.<br />
     <sub>[#53254](https://github.com/flutter/engine/pull/53254) merged on June 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53254) over 2 hours, 100 additions and 59 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] clean up dynamic calls, remove always_specify_types<br />
-    <sub>[#53228](https://github.com/flutter/engine/pull/53228) merged on June 6, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53228) over 8 hours, 33 additions and 29 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove the DBC interpreter flag.<br />
     <sub>[#53204](https://github.com/flutter/engine/pull/53204) merged on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53204) over 1 day, 0 additions and 8 deletions in 1 file</sub><br />
