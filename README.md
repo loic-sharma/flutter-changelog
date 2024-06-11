@@ -1065,11 +1065,15 @@
 
 ### June 8, 2024 to June 14, 2024
 
-5 commits.
+6 commits.
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform source<br />
     <sub>[#6898](https://github.com/flutter/packages/pull/6898) merged on June 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/6898) over 4 hours, 2 additions and 5038 deletions in 125 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Provide better CI feedback for combo PRs<br />
+    <sub>[#6865](https://github.com/flutter/packages/pull/6865) merged on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6865) over 1 week, 109 additions and 1 deletion in 4 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Change CODEOWNERS for metrics_center<br />
     <sub>[#6892](https://github.com/flutter/packages/pull/6892) merged on June 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6892) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
