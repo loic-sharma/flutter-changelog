@@ -632,7 +632,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-5 commits.
+6 commits.
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Map mouse pointer type on Linux<br />
     <sub>[#52418](https://github.com/flutter/engine/pull/52418) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52418) over 1 month, 61 additions and 18 deletions in 8 files</sub><br />
@@ -653,6 +653,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily run Mac mac_host_engine on only Mac-13 <br />
     <sub>[#53313](https://github.com/flutter/engine/pull/53313) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53313) over 2 hours, 7 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 235dc289e4bf to 66ed61abe85e (5 revisions)<br />
+    <sub>[#53319](https://github.com/flutter/engine/pull/53319) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53319) over 2 hours, 10 additions and 10 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### June 1, 2024 to June 7, 2024
 
