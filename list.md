@@ -640,7 +640,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-12 commits.
+13 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] null check texture registry in OnPlatformViewMarkTextureFrameAvailable.
     <sub>[#53334](https://github.com/flutter/engine/pull/53334) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53334) over 58 minutes, 3 additions and 0 deletions in 1 file</sub>
@@ -653,6 +653,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Map mouse pointer type on Linux
     <sub>[#52418](https://github.com/flutter/engine/pull/52418) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52418) over 1 month, 61 additions and 18 deletions in 8 files</sub>
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move some tests from aiks to display list.
+    <sub>[#53336](https://github.com/flutter/engine/pull/53336) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53336) over 2 hours, 126 additions and 91 deletions in 5 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix character getter API usage in stripLeftSlashes/stripRightSlashes
     <sub>[#53299](https://github.com/flutter/engine/pull/53299) merged on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53299) over 1 day, 2 additions and 2 deletions in 1 file</sub>
