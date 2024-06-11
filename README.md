@@ -155,7 +155,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Match colors to native<br />
-    <sub>[#149568](https://github.com/flutter/flutter/pull/149568) merged on June 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149568) over 5 days, 128 additions and 21 deletions in 2 files</sub><br />
+    <sub>[#149568](https://github.com/flutter/flutter/pull/149568) merged on June 8, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/149568) over 5 days, 128 additions and 21 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
     <sub><details><summary>3 images...</summary><img width="1295" alt="image" src="https://github.com/flutter/flutter/assets/1596656/3703a4a8-a856-42b1-9395-a6e14b1881ca"><img width="1268" alt="image" src="https://github.com/flutter/flutter/assets/1596656/1eb9964e-41f1-414a-99ae-0a2e7da8d3fd"><img width="1091" alt="image" src="https://github.com/flutter/flutter/assets/1596656/0fb76291-c3cc-4bb5-aefa-03ac6ac9bf1f"></details></sub>
 
@@ -640,7 +640,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-9 commits.
+10 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] null check texture registry in OnPlatformViewMarkTextureFrameAvailable.<br />
     <sub>[#53334](https://github.com/flutter/engine/pull/53334) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53334) over 58 minutes, 3 additions and 0 deletions in 1 file</sub><br />
@@ -661,6 +661,10 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use new dart:js_interop way to externalize/internalize objects<br />
     <sub>[#53304](https://github.com/flutter/engine/pull/53304) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53304) over 1 hour, 13 additions and 59 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Generate DescriptorSetLayouts for pipelines & export symbols on Android.<br />
+    <sub>[#53184](https://github.com/flutter/engine/pull/53184) merged on June 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53184) over 1 week, 62 additions and 23 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily run Linux linux_web_engine Mac tests on Mac-13 only<br />
     <sub>[#53318](https://github.com/flutter/engine/pull/53318) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53318) over 1 hour, 7 additions and 7 deletions in 2 files</sub><br />
