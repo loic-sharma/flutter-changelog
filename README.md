@@ -640,7 +640,11 @@
 
 ### June 8, 2024 to June 14, 2024
 
-15 commits.
+16 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] makes bgra10xr test more comprehensive<br />
+    <sub>[#53320](https://github.com/flutter/engine/pull/53320) merged on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53320) over 23 hours, 87 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] null check texture registry in OnPlatformViewMarkTextureFrameAvailable.<br />
     <sub>[#53334](https://github.com/flutter/engine/pull/53334) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53334) over 58 minutes, 3 additions and 0 deletions in 1 file</sub><br />
