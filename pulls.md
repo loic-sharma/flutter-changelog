@@ -81,5 +81,5 @@
     <sub>[#150034](https://github.com/flutter/flutter/pull/150034) opened on on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150034) 36 additions and 1 deletion in 2 files</sub><br />
 
 * **[Limane Gaya](https://github.com/LimaneGaya)** &mdash; made SelectionArea alignment consistent between web and other platform<br />
-    <sub>[#150037](https://github.com/flutter/flutter/pull/150037) opened on on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150037) 17 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#150037](https://github.com/flutter/flutter/pull/150037) opened on on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150037) 17 additions and 0 deletions in 2 files</sub><br />
 
