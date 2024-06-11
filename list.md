@@ -640,7 +640,11 @@
 
 ### June 8, 2024 to June 14, 2024
 
-7 commits.
+8 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] null check texture registry in OnPlatformViewMarkTextureFrameAvailable.
+    <sub>[#53334](https://github.com/flutter/engine/pull/53334) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53334) over 58 minutes, 3 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Map mouse pointer type on Linux
     <sub>[#52418](https://github.com/flutter/engine/pull/52418) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52418) over 1 month, 61 additions and 18 deletions in 8 files</sub>
