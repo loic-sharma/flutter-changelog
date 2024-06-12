@@ -640,7 +640,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-16 commits.
+17 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] makes bgra10xr test more comprehensive<br />
     <sub>[#53320](https://github.com/flutter/engine/pull/53320) merged on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53320) over 23 hours, 87 additions and 3 deletions in 2 files</sub><br />
@@ -657,6 +657,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Map mouse pointer type on Linux<br />
     <sub>[#52418](https://github.com/flutter/engine/pull/52418) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52418) over 1 month, 61 additions and 18 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disabling the color write mask seems to improve performance on iOS compared to just the blend options.<br />
+    <sub>[#53322](https://github.com/flutter/engine/pull/53322) merged on June 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53322) over 1 day, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add missing position to exp canvas text.<br />
     <sub>[#53339](https://github.com/flutter/engine/pull/53339) merged on June 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53339) over 3 hours, 1 addition and 0 deletions in 1 file</sub><br />
