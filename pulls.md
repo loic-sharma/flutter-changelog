@@ -71,8 +71,8 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix divider thickness<br />
     <sub>[#150024](https://github.com/flutter/flutter/pull/150024) opened on on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150024) 14 additions and 7 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; tAdd tests for navigator.0.dart<br />
-    <sub>[#150034](https://github.com/flutter/flutter/pull/150034) opened on on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150034) 36 additions and 1 deletion in 2 files</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for navigator.0.dart<br />
+    <sub>[#150034](https://github.com/flutter/flutter/pull/150034) opened on on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150034) 35 additions and 1 deletion in 2 files</sub><br />
 
 * **[Limane Gaya](https://github.com/LimaneGaya)** &mdash; made SelectionArea alignment consistent between web and other platform<br />
     <sub>[#150037](https://github.com/flutter/flutter/pull/150037) opened on on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150037) 17 additions and 0 deletions in 2 files</sub><br />
