@@ -65,3 +65,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Suppress Flutter update check if `--machine` is present at all.<br />
     <sub>[#150138](https://github.com/flutter/flutter/pull/150138) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150138) 86 additions and 9 deletions in 2 files</sub><br />
 
+* **[Henrique Nascimento](https://github.com/HenriqueNas)** &mdash; Add `ComputedNotifier` streaming class<br />
+    <sub>[#150143](https://github.com/flutter/flutter/pull/150143) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150143) 208 additions and 5 deletions in 3 files</sub><br />
+
