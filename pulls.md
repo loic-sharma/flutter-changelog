@@ -17,9 +17,6 @@
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; PageController: added default [duration] and [curve] values to animateToPage, nextPage and previousPage methods<br />
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `Theme.merge()`<br />
-    <sub>[#148449](https://github.com/flutter/flutter/pull/148449) opened on on May 16, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/148449) 1946 additions and 256 deletions in 4 files</sub><br />
-
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/148560) 361 additions and 26 deletions in 14 files</sub><br />
 
@@ -47,26 +44,17 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 
-* **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Added support for elevation in refresh indicator.<br />
-    <sub>[#149796](https://github.com/flutter/flutter/pull/149796) opened on on June 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149796) 8 additions and 0 deletions in 1 file</sub><br />
-
 * **[Michael Rittmeister](https://github.com/DRSchlaubi)** &mdash; Add support for type-safe plugin apply<br />
     <sub>[#149860](https://github.com/flutter/flutter/pull/149860) opened on on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149860) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Brian Wo](https://github.com/brainwo)** &mdash; [CP] Point kotlin message in `gradle_errors.dart` towards new place<br />
     <sub>[#149881](https://github.com/flutter/flutter/pull/149881) opened on on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149881) 21 additions and 9 deletions in 2 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `BlankMaterial` widget<br />
-    <sub>[#149963](https://github.com/flutter/flutter/pull/149963) opened on on June 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149963) 121 additions and 18 deletions in 4 files</sub><br />
-
 * **[Danny Lau](https://github.com/kkdlau)** &mdash; #134899 Write rendered files if there are changes<br />
     <sub>[#149969](https://github.com/flutter/flutter/pull/149969) opened on on June 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149969) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for icon_button.3.dart<br />
     <sub>[#149988](https://github.com/flutter/flutter/pull/149988) opened on on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149988) 50 additions and 1 deletion in 2 files</sub><br />
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix divider thickness<br />
-    <sub>[#150024](https://github.com/flutter/flutter/pull/150024) opened on on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150024) 14 additions and 7 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for navigator.0.dart<br />
     <sub>[#150034](https://github.com/flutter/flutter/pull/150034) opened on on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150034) 35 additions and 1 deletion in 2 files</sub><br />
