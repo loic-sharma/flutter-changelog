@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-28 commits.
+29 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add new `WidgetInspector` service extension: `getRootWidgetTree`<br />
     <sub>[#150010](https://github.com/flutter/flutter/pull/150010) merged on June 12, 2024 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/150010) over 1 day, 376 additions and 55 deletions in 4 files</sub><br />
@@ -73,6 +73,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add high-contrast theme<br />
     <sub>[#149779](https://github.com/flutter/flutter/pull/149779) merged on June 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149779) over 5 days, 77 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update to Chrome for Testing 125, since we haven't updated in a bit.<br />
+    <sub>[#149933](https://github.com/flutter/flutter/pull/149933) merged on June 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149933) over 4 days, 89 additions and 89 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add a doc for the flutter/packages gardener<br />
     <sub>[#149682](https://github.com/flutter/flutter/pull/149682) merged on June 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149682) over 1 week, 143 additions and 0 deletions in 1 file</sub><br />
