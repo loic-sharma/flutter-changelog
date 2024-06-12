@@ -77,9 +77,6 @@
 * **[FMorschel](https://github.com/FMorschel)** &mdash; Update WidgetStatesController docs<br />
     <sub>[#150081](https://github.com/flutter/flutter/pull/150081) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150081) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] instead of crashing, exit to tool if we are unable to write to openssl<br />
-    <sub>[#150120](https://github.com/flutter/flutter/pull/150120) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150120) 89 additions and 1 deletion in 4 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update packages desktop PR triage link lables<br />
     <sub>[#150124](https://github.com/flutter/flutter/pull/150124) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150124) 3 additions and 3 deletions in 1 file</sub><br />
 
