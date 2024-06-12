@@ -4,15 +4,15 @@
 
 ### June 8, 2024 to June 14, 2024
 
-36 commits.
-
-* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.<br />
-    <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+37 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add new `WidgetInspector` service extension: `getRootWidgetTree`<br />
     <sub>[#150010](https://github.com/flutter/flutter/pull/150010) merged on June 12, 2024 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/150010) over 1 day, 376 additions and 55 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.<br />
+    <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; closes #issue136763, changed a command to generate gradle error message according to platform<br />
     <sub>[#149877](https://github.com/flutter/flutter/pull/149877) merged on June 12, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/149877) over 4 days, 51 additions and 3 deletions in 2 files</sub><br />
@@ -55,10 +55,6 @@
     <sub>[#150055](https://github.com/flutter/flutter/pull/150055) merged on June 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150055) over 11 hours, 30 additions and 136 deletions in 27 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update packages desktop PR triage link lables<br />
-    <sub>[#150124](https://github.com/flutter/flutter/pull/150124) merged on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150124) over 38 minutes, 3 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual Pub Roll<br />
     <sub>[#150025](https://github.com/flutter/flutter/pull/150025) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150025) over 1 hour, 39 additions and 37 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
@@ -79,6 +75,10 @@
     <sub>[#149941](https://github.com/flutter/flutter/pull/149941) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149941) over 2 days, 0 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update packages desktop PR triage link lables<br />
+    <sub>[#150124](https://github.com/flutter/flutter/pull/150124) merged on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150124) over 38 minutes, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix markdown hyperlinks in the style guide<br />
     <sub>[#150071](https://github.com/flutter/flutter/pull/150071) merged on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150071) over 20 hours, 82 additions and 88 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -91,6 +91,11 @@
     <sub>[#149779](https://github.com/flutter/flutter/pull/149779) merged on June 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149779) over 5 days, 77 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland 2: [CupertinoActionSheet] Match colors to native<br />
+    <sub>[#150129](https://github.com/flutter/flutter/pull/150129) merged on June 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150129) over 3 hours, 153 additions and 22 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="1091" alt="image" src="https://github.com/flutter/flutter/assets/1596656/f4acda2b-1857-449c-8c1b-1f48afeb9095"><img width="1286" alt="image" src="https://github.com/flutter/flutter/assets/1596656/580eef1f-a7f9-45d9-a7c8-fab0ca9606e3"></details></sub>
+
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Improve build time when using SwiftPM<br />
     <sub>[#150052](https://github.com/flutter/flutter/pull/150052) merged on June 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150052) over 1 day, 276 additions and 16 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
@@ -99,13 +104,9 @@
     <sub>[#150081](https://github.com/flutter/flutter/pull/150081) merged on June 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150081) over 16 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add a doc for the flutter/packages gardener<br />
-    <sub>[#149682](https://github.com/flutter/flutter/pull/149682) merged on June 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149682) over 1 week, 143 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
-
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#150070](https://github.com/flutter/flutter/pull/150070) merged on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150070) over 7 hours, 45 additions and 45 deletions in 22 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu can be focused and updated when disabled<br />
+    <sub>[#149737](https://github.com/flutter/flutter/pull/149737) merged on June 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149737) over 6 days, 27 additions and 10 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix `ColorScheme` example and tests<br />
     <sub>[#150018](https://github.com/flutter/flutter/pull/150018) merged on June 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150018) over 1 day, 65 additions and 37 deletions in 2 files</sub><br />
@@ -123,9 +124,13 @@
     <sub>[#149933](https://github.com/flutter/flutter/pull/149933) merged on June 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149933) over 4 days, 89 additions and 89 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu can be focused and updated when disabled<br />
-    <sub>[#149737](https://github.com/flutter/flutter/pull/149737) merged on June 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149737) over 6 days, 27 additions and 10 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add a doc for the flutter/packages gardener<br />
+    <sub>[#149682](https://github.com/flutter/flutter/pull/149682) merged on June 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149682) over 1 week, 143 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#150070](https://github.com/flutter/flutter/pull/150070) merged on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150070) over 7 hours, 45 additions and 45 deletions in 22 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Reland: Request focus if accessibility focus is given to a Focus widget (#142942)<br />
     <sub>[#149840](https://github.com/flutter/flutter/pull/149840) merged on June 12, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/149840) over 6 days, 329 additions and 81 deletions in 59 files</sub><br />
