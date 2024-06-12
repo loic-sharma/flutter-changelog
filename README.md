@@ -4,11 +4,19 @@
 
 ### June 8, 2024 to June 14, 2024
 
-20 commits.
+23 commits.
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add new `WidgetInspector` service extension: `getRootWidgetTree`<br />
+    <sub>[#150010](https://github.com/flutter/flutter/pull/150010) merged on June 12, 2024 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/150010) over 1 day, 376 additions and 55 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Notify engine of handled PointerScrollEvents.<br />
     <sub>[#145500](https://github.com/flutter/flutter/pull/145500) merged on June 10, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/145500) over 2 months, 130 additions and 4 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; closes #issue136763, changed a command to generate gradle error message according to platform<br />
+    <sub>[#149877](https://github.com/flutter/flutter/pull/149877) merged on June 12, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/149877) over 4 days, 51 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Change `--web-renderer` default from `auto` to `canvaskit`<br />
     <sub>[#149773](https://github.com/flutter/flutter/pull/149773) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149773) over 4 days, 111 additions and 62 deletions in 9 files</sub><br />
@@ -61,6 +69,10 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add high-contrast theme<br />
     <sub>[#149779](https://github.com/flutter/flutter/pull/149779) merged on June 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149779) over 5 days, 77 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix `ColorScheme` example and tests<br />
+    <sub>[#150018](https://github.com/flutter/flutter/pull/150018) merged on June 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150018) over 1 day, 65 additions and 37 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily run Mac_arm64 framework_tests_misc on only Mac-13<br />
     <sub>[#150009](https://github.com/flutter/flutter/pull/150009) merged on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150009) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
