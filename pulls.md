@@ -71,12 +71,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for navigator.0.dart<br />
     <sub>[#150034](https://github.com/flutter/flutter/pull/150034) opened on on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150034) 35 additions and 1 deletion in 2 files</sub><br />
 
-* **[Limane Gaya](https://github.com/LimaneGaya)** &mdash; made SelectionArea alignment consistent between web and other platform<br />
-    <sub>[#150037](https://github.com/flutter/flutter/pull/150037) opened on on June 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150037) 17 additions and 0 deletions in 2 files</sub><br />
-
-* **[İbrahim Talha DEMİR](https://github.com/IbrahimTalha0)** &mdash; Update flexible_space_bar.dart<br />
-    <sub>[#150056](https://github.com/flutter/flutter/pull/150056) opened on on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150056) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Joseph Riddle](https://github.com/joeriddles)** &mdash; Add `--web-desired-capabilities-from-file` to define custom desired capabilities for WebDriver<br />
     <sub>[#150079](https://github.com/flutter/flutter/pull/150079) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150079) 110 additions and 9 deletions in 5 files</sub><br />
 
@@ -85,4 +79,7 @@
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] instead of crashing, exit to tool if we are unable to write to openssl<br />
     <sub>[#150120](https://github.com/flutter/flutter/pull/150120) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150120) 89 additions and 1 deletion in 4 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update packages desktop PR triage link lables<br />
+    <sub>[#150124](https://github.com/flutter/flutter/pull/150124) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150124) 3 additions and 3 deletions in 1 file</sub><br />
 
