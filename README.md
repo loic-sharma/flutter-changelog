@@ -795,8 +795,8 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] switches gaussian blur to a "source space" calculation<br />
-    <sub>[#53261](https://github.com/flutter/engine/pull/53261) merged on June 8, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53261) over 1 day, 78 additions and 32 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+    <sub>[#53261](https://github.com/flutter/engine/pull/53261) merged on June 8, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/53261) over 1 day, 78 additions and 32 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use Skia software renderer to draw stroked text.<br />
     <sub>[#53198](https://github.com/flutter/engine/pull/53198) merged on June 5, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/53198) over 1 day, 324 additions and 114 deletions in 23 files</sub><br />
