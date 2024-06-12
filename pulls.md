@@ -78,7 +78,7 @@
     <sub>[#150037](https://github.com/flutter/flutter/pull/150037) opened on on June 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150037) 17 additions and 0 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland "Add tests for scaffold drawer and end drawer" (#150045)<br />
-    <sub>[#150047](https://github.com/flutter/flutter/pull/150047) opened on on June 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150047) 110 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#150047](https://github.com/flutter/flutter/pull/150047) opened on on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150047) 110 additions and 2 deletions in 3 files</sub><br />
 
 * **[İbrahim Talha DEMİR](https://github.com/IbrahimTalha0)** &mdash; Update flexible_space_bar.dart<br />
     <sub>[#150056](https://github.com/flutter/flutter/pull/150056) opened on on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150056) 1 addition and 1 deletion in 1 file</sub><br />
