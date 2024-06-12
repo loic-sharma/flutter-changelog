@@ -84,7 +84,7 @@
     <sub>[#150056](https://github.com/flutter/flutter/pull/150056) opened on on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150056) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Joseph Riddle](https://github.com/joeriddles)** &mdash; Add `--web-desired-capabilities-from-file` to define custom desired capabilities for WebDriver<br />
-    <sub>[#150079](https://github.com/flutter/flutter/pull/150079) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150079) 110 additions and 9 deletions in 5 files</sub><br />
+    <sub>[#150079](https://github.com/flutter/flutter/pull/150079) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150079) 110 additions and 9 deletions in 5 files</sub><br />
 
 * **[FMorschel](https://github.com/FMorschel)** &mdash; Update WidgetStatesController docs<br />
     <sub>[#150081](https://github.com/flutter/flutter/pull/150081) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150081) 2 additions and 2 deletions in 1 file</sub><br />
