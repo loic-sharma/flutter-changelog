@@ -137,7 +137,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Reland 2: [CupertinoActionSheet] Match colors to native"<br />
-    <sub>[#150142](https://github.com/flutter/flutter/pull/150142) merged on June 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150142) over 25 minutes, 22 additions and 153 deletions in 2 files</sub><br />
+    <sub>[#150142](https://github.com/flutter/flutter/pull/150142) merged on June 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150142) over 25 minutes, 22 additions and 153 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland "Add tests for scaffold drawer and end drawer" (#150045)<br />
