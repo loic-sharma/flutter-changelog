@@ -66,5 +66,8 @@
     <sub>[#150081](https://github.com/flutter/flutter/pull/150081) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150081) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update packages desktop PR triage link lables<br />
-    <sub>[#150124](https://github.com/flutter/flutter/pull/150124) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150124) 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#150124](https://github.com/flutter/flutter/pull/150124) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150124) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[Jakub Bogacki](https://github.com/kubatatami)** &mdash; Add TapOutsideConfiguration widget<br />
+    <sub>[#150125](https://github.com/flutter/flutter/pull/150125) opened on on June 12, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/150125) 295 additions and 26 deletions in 4 files</sub><br />
 

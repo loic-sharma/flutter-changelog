@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-29 commits.
+30 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add new `WidgetInspector` service extension: `getRootWidgetTree`
     <sub>[#150010](https://github.com/flutter/flutter/pull/150010) merged on June 12, 2024 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/150010) over 1 day, 376 additions and 55 deletions in 4 files</sub>
@@ -33,6 +33,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Unpin `camera_android` and remove its only usage
     <sub>[#150017](https://github.com/flutter/flutter/pull/150017) merged on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150017) over 2 hours, 0 additions and 158 deletions in 2 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add mouse cursor property to `CupertinoRadio`
+    <sub>[#149681](https://github.com/flutter/flutter/pull/149681) merged on June 12, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/149681) over 1 week, 160 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold drawer and end drawer
     <sub>[#149383](https://github.com/flutter/flutter/pull/149383) merged on June 11, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/149383) over 1 week, 110 additions and 2 deletions in 3 files</sub>
