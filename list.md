@@ -312,7 +312,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove zanderso from TESTOWNERS
     <sub>[#149935](https://github.com/flutter/flutter/pull/149935) merged on June 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149935) over 2 hours, 110 additions and 110 deletions in 1 file</sub>
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Fix test case in "getRootWidgetSummaryTree" test
     <sub>[#149923](https://github.com/flutter/flutter/pull/149923) merged on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149923) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
