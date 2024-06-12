@@ -4,7 +4,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-30 commits.
+31 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add new `WidgetInspector` service extension: `getRootWidgetTree`
     <sub>[#150010](https://github.com/flutter/flutter/pull/150010) merged on June 12, 2024 &mdash; **Medium:** [28 comments](https://github.com/flutter/flutter/pull/150010) over 1 day, 376 additions and 55 deletions in 4 files</sub>
@@ -45,6 +45,10 @@
 * **[Takahiro Torii](https://github.com/ttorii20)** &mdash; Update hasTrailingSpaces
     <sub>[#149698](https://github.com/flutter/flutter/pull/149698) merged on June 10, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149698) over 5 days, 15 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update packages desktop PR triage link lables
+    <sub>[#150124](https://github.com/flutter/flutter/pull/150124) merged on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150124) over 38 minutes, 3 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove double MaterialApp wrap from api samples
     <sub>[#150055](https://github.com/flutter/flutter/pull/150055) merged on June 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150055) over 11 hours, 30 additions and 136 deletions in 27 files</sub>
