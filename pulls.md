@@ -89,3 +89,6 @@
 * **[FMorschel](https://github.com/FMorschel)** &mdash; Update WidgetStatesController docs<br />
     <sub>[#150081](https://github.com/flutter/flutter/pull/150081) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150081) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Replace InputDecorator M3 golden test<br />
+    <sub>[#150111](https://github.com/flutter/flutter/pull/150111) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150111) 64 additions and 21 deletions in 1 file</sub><br />
+
