@@ -1244,7 +1244,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-10 commits.
+11 commits.
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform source
     <sub>[#6898](https://github.com/flutter/packages/pull/6898) merged on June 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/6898) over 4 hours, 2 additions and 5038 deletions in 125 files</sub>
@@ -1257,6 +1257,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `VideoPlayer` to be less exposed to `EventChannel` & related
     <sub>[#6908](https://github.com/flutter/packages/pull/6908) merged on June 13, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/packages/pull/6908) over 1 day, 256 additions and 132 deletions in 5 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `Player.Listener` impl, remove `@VisibleForTesting isInitialized`.
+    <sub>[#6922](https://github.com/flutter/packages/pull/6922) merged on June 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6922) over 2 hours, 167 additions and 129 deletions in 4 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove CODEOWNER for google_sign_in_ios and image_picker_ios
     <sub>[#6891](https://github.com/flutter/packages/pull/6891) merged on June 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6891) over 4 days, 2 additions and 2 deletions in 1 file</sub>
