@@ -282,7 +282,7 @@
     <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/840911/1d8d7bb6-608f-4783-aff5-2123392c4dc1)</details></sub>
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Scrollbar thumb drag gestures now produce one start and one end scroll notification<br />
-    <sub>[#146654](https://github.com/flutter/flutter/pull/146654) merged on June 4, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/146654) over 1 month, 898 additions and 98 deletions in 9 files</sub><br />
+    <sub>[#146654](https://github.com/flutter/flutter/pull/146654) merged on June 4, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/146654) over 1 month, 898 additions and 98 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Match colors to native<br />
