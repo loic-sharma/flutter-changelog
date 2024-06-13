@@ -71,9 +71,6 @@
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
     <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/150167) 151 additions and 561 deletions in 1 file</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Handle filesystem exceptions from deleting stale build files<br />
-    <sub>[#150175](https://github.com/flutter/flutter/pull/150175) opened on on June 13, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/150175) 585 additions and 101 deletions in 2 files</sub><br />
-
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
     <sub>[#150180](https://github.com/flutter/flutter/pull/150180) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150180) 2 additions and 2 deletions in 2 files</sub><br />
 
