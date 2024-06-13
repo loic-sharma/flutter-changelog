@@ -84,5 +84,5 @@
     <sub>[#150185](https://github.com/flutter/flutter/pull/150185) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150185) 6 additions and 7 deletions in 2 files</sub><br />
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Fix link hook typo<br />
-    <sub>[#150194](https://github.com/flutter/flutter/pull/150194) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150194) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#150194](https://github.com/flutter/flutter/pull/150194) opened on on June 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150194) 1 addition and 1 deletion in 1 file</sub><br />
 
