@@ -714,7 +714,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-20 commits.
+21 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move Gradient tests to display list.
     <sub>[#53345](https://github.com/flutter/engine/pull/53345) merged on June 13, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/engine/pull/53345) over 1 day, 886 additions and 813 deletions in 11 files</sub>
@@ -731,6 +731,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] null check texture registry in OnPlatformViewMarkTextureFrameAvailable.
     <sub>[#53334](https://github.com/flutter/engine/pull/53334) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53334) over 58 minutes, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Change element to wait for in AppExtensionTests testAppExtensionLaunching
+    <sub>[#53358](https://github.com/flutter/engine/pull/53358) merged on June 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53358) over 21 hours, 9 additions and 7 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give mac_host_engine tests a longer timeout and allow to run on Mac-14
     <sub>[#53355](https://github.com/flutter/engine/pull/53355) merged on June 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53355) over 8 hours, 19 additions and 13 deletions in 2 files</sub>
