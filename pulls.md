@@ -75,7 +75,7 @@
     <sub>[#150174](https://github.com/flutter/flutter/pull/150174) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150174) 100 additions and 101 deletions in 72 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
-    <sub>[#150180](https://github.com/flutter/flutter/pull/150180) opened on on June 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150180) 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#150180](https://github.com/flutter/flutter/pull/150180) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150180) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for about_list_tile.0.dart<br />
     <sub>[#150181](https://github.com/flutter/flutter/pull/150181) opened on on June 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150181) 67 additions and 1 deletion in 2 files</sub><br />
