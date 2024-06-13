@@ -714,7 +714,11 @@
 
 ### June 8, 2024 to June 14, 2024
 
-17 commits.
+18 commits.
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; 'Starter Project': port planet fragment shader to impeller tests<br />
+    <sub>[#53362](https://github.com/flutter/engine/pull/53362) merged on June 13, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/53362) over 2 hours, 572 additions and 0 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] makes bgra10xr test more comprehensive<br />
     <sub>[#53320](https://github.com/flutter/engine/pull/53320) merged on June 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53320) over 23 hours, 87 additions and 3 deletions in 2 files</sub><br />
