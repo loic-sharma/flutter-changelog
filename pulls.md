@@ -54,7 +54,7 @@
     <sub>[#149969](https://github.com/flutter/flutter/pull/149969) opened on on June 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149969) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for icon_button.3.dart<br />
-    <sub>[#149988](https://github.com/flutter/flutter/pull/149988) opened on on June 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149988) 49 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#149988](https://github.com/flutter/flutter/pull/149988) opened on on June 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149988) 49 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for navigator.0.dart<br />
     <sub>[#150034](https://github.com/flutter/flutter/pull/150034) opened on on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150034) 35 additions and 1 deletion in 2 files</sub><br />
