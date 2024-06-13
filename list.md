@@ -714,7 +714,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-18 commits.
+19 commits.
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; 'Starter Project': port planet fragment shader to impeller tests
     <sub>[#53362](https://github.com/flutter/engine/pull/53362) merged on June 13, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/53362) over 2 hours, 572 additions and 0 deletions in 4 files</sub>
@@ -727,6 +727,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] null check texture registry in OnPlatformViewMarkTextureFrameAvailable.
     <sub>[#53334](https://github.com/flutter/engine/pull/53334) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53334) over 58 minutes, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Give mac_host_engine tests a longer timeout and allow to run on Mac-14
+    <sub>[#53355](https://github.com/flutter/engine/pull/53355) merged on June 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53355) over 8 hours, 19 additions and 13 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch from .didGain/LoseAccessibilityFocus to .focus
     <sub>[#53134](https://github.com/flutter/engine/pull/53134) merged on June 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53134) over 1 week, 105 additions and 66 deletions in 6 files</sub>
