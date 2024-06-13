@@ -714,7 +714,11 @@
 
 ### June 8, 2024 to June 14, 2024
 
-19 commits.
+20 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move Gradient tests to display list.
+    <sub>[#53345](https://github.com/flutter/engine/pull/53345) merged on June 13, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/engine/pull/53345) over 1 day, 886 additions and 813 deletions in 11 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; 'Starter Project': port planet fragment shader to impeller tests
     <sub>[#53362](https://github.com/flutter/engine/pull/53362) merged on June 13, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/53362) over 2 hours, 572 additions and 0 deletions in 4 files</sub>
