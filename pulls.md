@@ -63,7 +63,7 @@
     <sub>[#150079](https://github.com/flutter/flutter/pull/150079) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150079) 110 additions and 9 deletions in 5 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Suppress Flutter update check if `--machine` is present at all.<br />
-    <sub>[#150138](https://github.com/flutter/flutter/pull/150138) opened on on June 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150138) 89 additions and 9 deletions in 2 files</sub><br />
+    <sub>[#150138](https://github.com/flutter/flutter/pull/150138) opened on on June 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150138) 89 additions and 9 deletions in 2 files</sub><br />
 
 * **[Henrique Nascimento](https://github.com/HenriqueNas)** &mdash; Add `ComputedNotifier` streaming class<br />
     <sub>[#150143](https://github.com/flutter/flutter/pull/150143) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150143) 208 additions and 5 deletions in 3 files</sub><br />
@@ -71,14 +71,14 @@
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
     <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/150167) 151 additions and 561 deletions in 1 file</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Handle filesystem exceptions from deleting stale build files<br />
+    <sub>[#150175](https://github.com/flutter/flutter/pull/150175) opened on on June 13, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/150175) 585 additions and 101 deletions in 2 files</sub><br />
+
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
     <sub>[#150180](https://github.com/flutter/flutter/pull/150180) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150180) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for about_list_tile.0.dart<br />
     <sub>[#150181](https://github.com/flutter/flutter/pull/150181) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150181) 67 additions and 1 deletion in 2 files</sub><br />
-
-* **[Moritz](https://github.com/mosuem)** &mdash; Fix link hook typo<br />
-    <sub>[#150194](https://github.com/flutter/flutter/pull/150194) opened on on June 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150194) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update android_device.dart to have clearLogs not print to standard error<br />
     <sub>[#150197](https://github.com/flutter/flutter/pull/150197) opened on on June 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150197) 18 additions and 1 deletion in 2 files</sub><br />
