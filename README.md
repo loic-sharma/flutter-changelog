@@ -771,7 +771,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-22 commits.
+23 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move Gradient tests to display list.<br />
     <sub>[#53345](https://github.com/flutter/engine/pull/53345) merged on June 13, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/engine/pull/53345) over 1 day, 886 additions and 813 deletions in 11 files</sub><br />
@@ -808,6 +808,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Map mouse pointer type on Linux<br />
     <sub>[#52418](https://github.com/flutter/engine/pull/52418) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52418) over 1 month, 61 additions and 18 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a `FlutterEngineRule` (JUnit `TestRule`) and use it in `FlutterRendererTest`<br />
+    <sub>[#53361](https://github.com/flutter/engine/pull/53361) merged on June 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/53361) over 1 day, 185 additions and 87 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disabling the color write mask seems to improve performance on iOS compared to just the blend options.<br />
     <sub>[#53322](https://github.com/flutter/engine/pull/53322) merged on June 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53322) over 1 day, 2 additions and 0 deletions in 1 file</sub><br />
