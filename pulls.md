@@ -68,6 +68,3 @@
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Remove duplicate testOutputsDirectory definition from integration_test package<br />
     <sub>[#150224](https://github.com/flutter/flutter/pull/150224) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150224) 1 addition and 7 deletions in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Upload test logs during smoke testing<br />
-    <sub>[#150233](https://github.com/flutter/flutter/pull/150233) opened on on June 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150233) 3 additions and 0 deletions in 1 file</sub><br />
-
