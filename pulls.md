@@ -57,7 +57,7 @@
     <sub>[#150143](https://github.com/flutter/flutter/pull/150143) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150143) 208 additions and 5 deletions in 3 files</sub><br />
 
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
-    <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/150167) 151 additions and 561 deletions in 1 file</sub><br />
+    <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/150167) 151 additions and 561 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for about_list_tile.0.dart<br />
     <sub>[#150181](https://github.com/flutter/flutter/pull/150181) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150181) 67 additions and 1 deletion in 2 files</sub><br />
