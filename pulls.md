@@ -68,3 +68,6 @@
 * **[Henrique Nascimento](https://github.com/HenriqueNas)** &mdash; Add `ComputedNotifier` streaming class<br />
     <sub>[#150143](https://github.com/flutter/flutter/pull/150143) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150143) 208 additions and 5 deletions in 3 files</sub><br />
 
+* **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
+    <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/150167) 166 additions and 578 deletions in 1 file</sub><br />
+
