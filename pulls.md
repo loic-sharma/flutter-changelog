@@ -54,7 +54,7 @@
     <sub>[#149969](https://github.com/flutter/flutter/pull/149969) opened on on June 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149969) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for icon_button.3.dart<br />
-    <sub>[#149988](https://github.com/flutter/flutter/pull/149988) opened on on June 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149988) 50 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#149988](https://github.com/flutter/flutter/pull/149988) opened on on June 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/149988) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for navigator.0.dart<br />
     <sub>[#150034](https://github.com/flutter/flutter/pull/150034) opened on on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150034) 35 additions and 1 deletion in 2 files</sub><br />
@@ -70,4 +70,7 @@
 
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
     <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/150167) 166 additions and 578 deletions in 1 file</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update framework and flutter fix flutter.dev/docs links<br />
+    <sub>[#150174](https://github.com/flutter/flutter/pull/150174) opened on on June 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150174) 100 additions and 101 deletions in 72 files</sub><br />
 
