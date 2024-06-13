@@ -78,5 +78,8 @@
     <sub>[#150180](https://github.com/flutter/flutter/pull/150180) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150180) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for about_list_tile.0.dart<br />
-    <sub>[#150181](https://github.com/flutter/flutter/pull/150181) opened on on June 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150181) 67 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#150181](https://github.com/flutter/flutter/pull/150181) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150181) 67 additions and 1 deletion in 2 files</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to `Iterable.cast` instance method<br />
+    <sub>[#150185](https://github.com/flutter/flutter/pull/150185) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150185) 6 additions and 7 deletions in 2 files</sub><br />
 
