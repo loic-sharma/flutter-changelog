@@ -462,14 +462,14 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
     <sub><details><summary>3 images...</summary><img width="386" alt="Screenshot 2023-11-29 at 10 37 09 AM" src="https://github.com/flutter/flutter/assets/58190796/959ccfd9-3439-438e-ad36-20597334837a"><img width="390" alt="Screenshot 2024-05-09 at 10 16 22 AM" src="https://github.com/flutter/flutter/assets/58190796/79765d04-a7a3-4eb5-9477-11668ed138e5">![image](https://github.com/flutter/flutter/assets/58190796/95874076-e943-48fa-ba9d-1d7b0f5a2f38)</details></sub>
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevent LayoutBuilder from rebuilding more than once<br />
-    <sub>[#147856](https://github.com/flutter/flutter/pull/147856) merged on May 29, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/147856) over 3 weeks, 712 additions and 248 deletions in 8 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Enable `explicitChildNodes` for the `AlertDialog` content<br />
     <sub>[#149130](https://github.com/flutter/flutter/pull/149130) merged on May 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149130) over 2 days, 20 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2024-05-27 at 14 59 57](https://github.com/flutter/flutter/assets/48603081/3b231a7a-db71-4dbf-bd4a-dd44a537cae8)![Screenshot 2024-05-27 at 14 56 04](https://github.com/flutter/flutter/assets/48603081/219c1de5-ad35-49b3-a80f-4f036184e22b)</details></sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Prevent LayoutBuilder from rebuilding more than once<br />
+    <sub>[#147856](https://github.com/flutter/flutter/pull/147856) merged on May 29, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/147856) over 3 weeks, 712 additions and 248 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Enable `explicitChildNodes` for the `AlertDialog` content (#149130)"<br />
     <sub>[#149333](https://github.com/flutter/flutter/pull/149333) merged on May 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149333) over 45 seconds, 4 additions and 20 deletions in 2 files</sub><br />
