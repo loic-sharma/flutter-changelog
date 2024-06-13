@@ -69,10 +69,7 @@
     <sub>[#150143](https://github.com/flutter/flutter/pull/150143) opened on on June 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150143) 208 additions and 5 deletions in 3 files</sub><br />
 
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
-    <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/150167) 151 additions and 561 deletions in 1 file</sub><br />
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update framework and flutter fix flutter.dev/docs links<br />
-    <sub>[#150174](https://github.com/flutter/flutter/pull/150174) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150174) 100 additions and 101 deletions in 72 files</sub><br />
+    <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/150167) 151 additions and 561 deletions in 1 file</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
     <sub>[#150180](https://github.com/flutter/flutter/pull/150180) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150180) 2 additions and 2 deletions in 2 files</sub><br />
