@@ -21,7 +21,7 @@
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) opened on on May 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148786) 37 additions and 9 deletions in 2 files</sub><br />
 
 * **[zhibisora](https://github.com/zhibisora)** &mdash; Specify architecture when building for macOS<br />
-    <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148920) 106 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148920) 106 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
@@ -34,9 +34,6 @@
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149587) 15 additions and 0 deletions in 3 files</sub><br />
-
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use --(no-)strip-wams instead of --(no-)-name-section in `dart compile wasm`<br />
-    <sub>[#149641](https://github.com/flutter/flutter/pull/149641) opened on on June 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149641) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
