@@ -210,8 +210,8 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Identify and re-throw our dependency checking errors in flutter.groovy"
-    <sub>[#150128](https://github.com/flutter/flutter/pull/150128) merged on June 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150128) over 1 day, 32 additions and 9 deletions in 2 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+    <sub>[#150128](https://github.com/flutter/flutter/pull/150128) merged on June 13, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150128) over 1 day, 32 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Revert "Reland 2: [CupertinoActionSheet] Match colors to native"
     <sub>[#150142](https://github.com/flutter/flutter/pull/150142) merged on June 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150142) over 25 minutes, 22 additions and 153 deletions in 2 files</sub>
