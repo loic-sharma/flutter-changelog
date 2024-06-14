@@ -60,8 +60,8 @@
     <sub>[#150224](https://github.com/flutter/flutter/pull/150224) opened on on June 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150224) 2 additions and 14 deletions in 2 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Improve the behavior of scrollbar drag-scrolls triggered by the trackpad<br />
-    <sub>[#150275](https://github.com/flutter/flutter/pull/150275) opened on on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150275) 40 additions and 6 deletions in 1 file</sub><br />
+    <sub>[#150275](https://github.com/flutter/flutter/pull/150275) opened on on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150275) 43 additions and 9 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `dismissible.dart` code cleanup<br />
-    <sub>[#150276](https://github.com/flutter/flutter/pull/150276) opened on on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150276) 30 additions and 32 deletions in 1 file</sub><br />
+    <sub>[#150276](https://github.com/flutter/flutter/pull/150276) opened on on June 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150276) 30 additions and 32 deletions in 1 file</sub><br />
 
