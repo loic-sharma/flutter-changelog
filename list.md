@@ -803,7 +803,12 @@
 
 ### June 8, 2024 to June 14, 2024
 
-28 commits.
+29 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved blur to unrotated local space, started respecting `respect_ctm` flag
+    <sub>[#53377](https://github.com/flutter/engine/pull/53377) merged on June 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53377) over 1 day, 221 additions and 48 deletions in 11 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>2 images...</summary><img width="966" alt="Screenshot 2024-06-13 at 3 32 29 PM" src="https://github.com/flutter/engine/assets/30870216/097ef2d3-26a6-45fc-b1a5-e0b699d31dfd"><img width="962" alt="Screenshot 2024-06-13 at 3 32 36 PM" src="https://github.com/flutter/engine/assets/30870216/3b6c03fd-bf88-47eb-a0eb-c362dcaecd63"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move Gradient tests to display list.
     <sub>[#53345](https://github.com/flutter/engine/pull/53345) merged on June 13, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/engine/pull/53345) over 1 day, 886 additions and 813 deletions in 11 files</sub>
