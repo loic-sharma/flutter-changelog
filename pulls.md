@@ -65,3 +65,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix inputDecorator hint color on M3<br />
     <sub>[#150278](https://github.com/flutter/flutter/pull/150278) opened on on June 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150278) 43 additions and 28 deletions in 4 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] un-hide the --dds flag<br />
+    <sub>[#150280](https://github.com/flutter/flutter/pull/150280) opened on on June 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150280) 0 additions and 1 deletion in 1 file</sub><br />
+
