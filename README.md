@@ -803,7 +803,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-25 commits.
+26 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move Gradient tests to display list.<br />
     <sub>[#53345](https://github.com/flutter/engine/pull/53345) merged on June 13, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/engine/pull/53345) over 1 day, 886 additions and 813 deletions in 11 files</sub><br />
@@ -892,6 +892,10 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Temporarily run Mac mac_host_engine on only Mac-13 <br />
     <sub>[#53313](https://github.com/flutter/engine/pull/53313) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53313) over 2 hours, 7 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from cabe65966815 to e90b0a53e058 (1 revision)<br />
+    <sub>[#53404](https://github.com/flutter/engine/pull/53404) merged on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53404) over 49 minutes, 4 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 115a9a2b26cd to cabe65966815 (1 revision)<br />
     <sub>[#53390](https://github.com/flutter/engine/pull/53390) merged on June 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53390) over 40 minutes, 12 additions and 12 deletions in 2 files</sub><br />
