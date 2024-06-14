@@ -783,7 +783,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-23 commits.
+24 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move Gradient tests to display list.<br />
     <sub>[#53345](https://github.com/flutter/engine/pull/53345) merged on June 13, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/engine/pull/53345) over 1 day, 886 additions and 813 deletions in 11 files</sub><br />
@@ -820,6 +820,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Map mouse pointer type on Linux<br />
     <sub>[#52418](https://github.com/flutter/engine/pull/52418) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/52418) over 1 month, 61 additions and 18 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] restore accidentally deleted Cap/Join benchmarks<br />
+    <sub>[#53385](https://github.com/flutter/engine/pull/53385) merged on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53385) over 1 hour, 20 additions and 19 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a `FlutterEngineRule` (JUnit `TestRule`) and use it in `FlutterRendererTest`<br />
     <sub>[#53361](https://github.com/flutter/engine/pull/53361) merged on June 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/53361) over 1 day, 185 additions and 87 deletions in 3 files</sub><br />
