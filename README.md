@@ -803,7 +803,7 @@
 
 ### June 8, 2024 to June 14, 2024
 
-26 commits.
+27 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move Gradient tests to display list.<br />
     <sub>[#53345](https://github.com/flutter/engine/pull/53345) merged on June 13, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/engine/pull/53345) over 1 day, 886 additions and 813 deletions in 11 files</sub><br />
@@ -880,6 +880,10 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Use new dart:js_interop way to externalize/internalize objects<br />
     <sub>[#53304](https://github.com/flutter/engine/pull/53304) merged on June 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53304) over 1 hour, 13 additions and 59 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Hack to prevent Safari from being backgrounded during unit tests.<br />
+    <sub>[#53402](https://github.com/flutter/engine/pull/53402) merged on June 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53402) over 1 hour, 23 additions and 7 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Generate DescriptorSetLayouts for pipelines & export symbols on Android.<br />
     <sub>[#53184](https://github.com/flutter/engine/pull/53184) merged on June 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53184) over 1 week, 62 additions and 23 deletions in 6 files</sub><br />
