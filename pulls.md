@@ -65,3 +65,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] un-hide the --dds flag<br />
     <sub>[#150280](https://github.com/flutter/flutter/pull/150280) opened on on June 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150280) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix typo in `SliverLayoutDimensions.hashCode` where not all properties are used in the hash code.<br />
+    <sub>[#150306](https://github.com/flutter/flutter/pull/150306) opened on on June 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150306) 12 additions and 1 deletion in 2 files</sub><br />
+
