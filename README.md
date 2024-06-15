@@ -40,7 +40,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Fix flaky complex_layout_scroll_perf__memory test<br />
-    <sub>[#150287](https://github.com/flutter/flutter/pull/150287) merged on June 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150287) over 1 hour, 35 additions and 10 deletions in 3 files</sub><br />
+    <sub>[#150287](https://github.com/flutter/flutter/pull/150287) merged on June 15, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150287) over 1 hour, 35 additions and 10 deletions in 3 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Suppress Flutter update check if `--machine` is present at all.<br />
