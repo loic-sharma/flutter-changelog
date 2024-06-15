@@ -68,3 +68,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix typo in `SliverLayoutDimensions.hashCode` where not all properties are used in the hash code.<br />
     <sub>[#150306](https://github.com/flutter/flutter/pull/150306) opened on on June 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150306) 20 additions and 1 deletion in 2 files</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Enhances intuitiveness of RawMagnifier's example<br />
+    <sub>[#150308](https://github.com/flutter/flutter/pull/150308) opened on on June 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150308) 31 additions and 20 deletions in 2 files</sub><br />
+
