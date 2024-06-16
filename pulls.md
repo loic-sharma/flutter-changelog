@@ -71,3 +71,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Enhances intuitiveness of RawMagnifier's example<br />
     <sub>[#150308](https://github.com/flutter/flutter/pull/150308) opened on on June 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150308) 31 additions and 20 deletions in 2 files</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Rename doc file to use standard hyphens<br />
+    <sub>[#150314](https://github.com/flutter/flutter/pull/150314) opened on on June 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150314) 0 additions and 0 deletions in 1 file</sub><br />
+
