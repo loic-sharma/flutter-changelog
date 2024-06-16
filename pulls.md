@@ -74,6 +74,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Rename doc file to use standard hyphens<br />
     <sub>[#150314](https://github.com/flutter/flutter/pull/150314) opened on on June 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150314) 0 additions and 0 deletions in 1 file</sub><br />
 
-* **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose text style foreground to icon<br />
+* **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150315) 7 additions and 0 deletions in 1 file</sub><br />
 
