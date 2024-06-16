@@ -77,3 +77,6 @@
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150315) 7 additions and 0 deletions in 1 file</sub><br />
 
+* **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; closes #150048  Autocomplete don't hide options when keyboardDismissBehavior:  ScrollViewKeyboardDismissBehavior.onDrag on desktop <br />
+    <sub>[#150317](https://github.com/flutter/flutter/pull/150317) opened on on June 16, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/150317) 272 additions and 129 deletions in 2 files</sub><br />
+
