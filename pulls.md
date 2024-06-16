@@ -72,7 +72,7 @@
     <sub>[#150308](https://github.com/flutter/flutter/pull/150308) opened on on June 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150308) 31 additions and 20 deletions in 2 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Rename doc file to use standard hyphens<br />
-    <sub>[#150314](https://github.com/flutter/flutter/pull/150314) opened on on June 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150314) 0 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#150314](https://github.com/flutter/flutter/pull/150314) opened on on June 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150314) 1 addition and 1 deletion in 2 files</sub><br />
 
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150315) 7 additions and 0 deletions in 1 file</sub><br />
