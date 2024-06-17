@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-12 commits.
+13 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update API docs footer<br />
     <sub>[#150347](https://github.com/flutter/flutter/pull/150347) merged on June 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150347) over 6 hours, 8 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Alexander Thomas](https://github.com/athomas)</sub><br />
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix typo in `SliverLayoutDimensions.hashCode` where not all properties are used in the hash code.<br />
+    <sub>[#150306](https://github.com/flutter/flutter/pull/150306) merged on June 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150306) over 2 days, 20 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Update matchesGoldenFile documentation reference to goldenFileComparator<br />
     <sub>[#150343](https://github.com/flutter/flutter/pull/150343) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150343) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
