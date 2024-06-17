@@ -566,9 +566,18 @@
 
 ## flutter/engine
 
+### June 15, 2024 to June 21, 2024
+
+1 commits.
+
+* **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc
+    <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Emircan Uysaler](https://github.com/uysalere)</sub>
+
 ### June 8, 2024 to June 14, 2024
 
-31 commits.
+<details>
+<summary>31 commits...</summary>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] moved blur to unrotated local space, started respecting `respect_ctm` flag
     <sub>[#53377](https://github.com/flutter/engine/pull/53377) merged on June 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53377) over 1 day, 221 additions and 48 deletions in 11 files</sub>
@@ -694,6 +703,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 235dc289e4bf to 66ed61abe85e (5 revisions)
     <sub>[#53319](https://github.com/flutter/engine/pull/53319) merged on June 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53319) over 2 hours, 10 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### June 1, 2024 to June 7, 2024
 
