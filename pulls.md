@@ -89,3 +89,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `Isolate.packageConfigSync! to locate the packageconfig of flutter tools<br />
     <sub>[#150340](https://github.com/flutter/flutter/pull/150340) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150340) 8 additions and 18 deletions in 3 files</sub><br />
 
+* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Update matchesGoldenFile documentation reference to goldenFileComparator<br />
+    <sub>[#150343](https://github.com/flutter/flutter/pull/150343) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150343) 1 addition and 1 deletion in 1 file</sub><br />
+
