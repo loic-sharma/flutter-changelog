@@ -293,6 +293,10 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Screenshot 2024-05-28 at 17 40 00](https://github.com/flutter/flutter/assets/48603081/b9117ed2-5afa-4d65-93ae-aa866772ffa1)</details></sub>
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; SliverResizingHeader<br />
+    <sub>[#143325](https://github.com/flutter/flutter/pull/143325) merged on June 6, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/143325) over 3 months, 756 additions and 0 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SegmentedButton` clipping when drawing segments<br />
     <sub>[#149739](https://github.com/flutter/flutter/pull/149739) merged on June 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149739) over 2 days, 76 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
@@ -311,10 +315,6 @@
     <sub>[#149927](https://github.com/flutter/flutter/pull/149927) merged on June 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149927) over 25 seconds, 5 additions and 76 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>2 images...</summary>![before](https://github.com/flutter/flutter/assets/48603081/b402fc51-d575-4208-8a71-f798ef2b2bf5)![after](https://github.com/flutter/flutter/assets/48603081/77a5cac2-ecef-4381-a043-dbb5c91407ec)</details></sub>
-
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; SliverResizingHeader<br />
-    <sub>[#143325](https://github.com/flutter/flutter/pull/143325) merged on June 6, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/143325) over 3 months, 756 additions and 0 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InputDecorator suffixIcon color when in error and hovered<br />
     <sub>[#149643](https://github.com/flutter/flutter/pull/149643) merged on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149643) over 1 day, 8 additions and 8 deletions in 4 files</sub><br />
