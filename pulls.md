@@ -98,3 +98,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop looking for .packages when analyzing<br />
     <sub>[#150349](https://github.com/flutter/flutter/pull/150349) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150349) 0 additions and 30 deletions in 1 file</sub><br />
 
+* **[Huy](https://github.com/huycozy)** &mdash; Add an example for CupertinoPopupSurface<br />
+    <sub>[#150357](https://github.com/flutter/flutter/pull/150357) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150357) 183 additions and 0 deletions in 3 files</sub><br />
+
