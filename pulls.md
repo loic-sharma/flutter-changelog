@@ -98,3 +98,6 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update API docs footer<br />
     <sub>[#150347](https://github.com/flutter/flutter/pull/150347) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150347) 8 additions and 0 deletions in 2 files</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop looking for .packages when analyzing<br />
+    <sub>[#150349](https://github.com/flutter/flutter/pull/150349) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150349) 0 additions and 30 deletions in 1 file</sub><br />
+
