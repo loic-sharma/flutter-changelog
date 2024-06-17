@@ -878,9 +878,29 @@
 
 ## flutter/packages
 
+### June 15, 2024 to June 21, 2024
+
+3 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [path_provider]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/path_provider/path_provider_android/android<br />
+    <sub>[#6773](https://github.com/flutter/packages/pull/6773) merged on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6773) over 4 weeks, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/camera/camera_android/android<br />
+    <sub>[#6766](https://github.com/flutter/packages/pull/6766) merged on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6766) over 4 weeks, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.core:core from 1.10.1 to 1.13.1 in /packages/local_auth/local_auth_android/android<br />
+    <sub>[#6664](https://github.com/flutter/packages/pull/6664) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6664) over 1 month, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.core:core&package-manager=gradle&previous-version=1.10.1&new-version=1.13.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
 ### June 8, 2024 to June 14, 2024
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Remove package:platform source<br />
     <sub>[#6898](https://github.com/flutter/packages/pull/6898) merged on June 10, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/6898) over 4 hours, 2 additions and 5038 deletions in 125 files</sub><br />
@@ -925,6 +945,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Allow `platform` references<br />
     <sub>[#6903](https://github.com/flutter/packages/pull/6903) merged on June 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6903) over 32 minutes, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+</details>
 
 ### June 1, 2024 to June 7, 2024
 
