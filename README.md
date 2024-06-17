@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-7 commits.
+8 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `ScaffoldBackgroundColor` should default to `ColorScheme.surface`<br />
     <sub>[#149772](https://github.com/flutter/flutter/pull/149772) merged on June 17, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/149772) over 1 week, 75 additions and 30 deletions in 4 files</sub><br />
@@ -17,6 +17,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Fix flaky complex_layout_scroll_perf__memory  & flutter_gallery__memory_nav<br />
     <sub>[#150368](https://github.com/flutter/flutter/pull/150368) merged on June 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150368) over 40 minutes, 47 additions and 11 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add semantics: button to bottom navigation bar items and dropdown menu items<br />
+    <sub>[#149375](https://github.com/flutter/flutter/pull/149375) merged on June 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149375) over 2 weeks, 40 additions and 12 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Reland TreeSliver <br />
     <sub>[#149839](https://github.com/flutter/flutter/pull/149839) merged on June 17, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/149839) over 1 week, 3332 additions and 0 deletions in 11 files</sub><br />
