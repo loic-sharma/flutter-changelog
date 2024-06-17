@@ -33,7 +33,7 @@
     <sub>[#149586](https://github.com/flutter/flutter/pull/149586) opened on on June 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/149586) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
-    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149587) 15 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149587) 35 additions and 69 deletions in 3 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
@@ -91,4 +91,7 @@
 
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Update matchesGoldenFile documentation reference to goldenFileComparator<br />
     <sub>[#150343](https://github.com/flutter/flutter/pull/150343) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150343) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_notifier.0.dart<br />
+    <sub>[#150344](https://github.com/flutter/flutter/pull/150344) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150344) 53 additions and 1 deletion in 2 files</sub><br />
 
