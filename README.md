@@ -608,15 +608,23 @@
 
 ### June 15, 2024 to June 21, 2024
 
-4 commits.
+6 commits.
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc<br />
     <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Emircan Uysaler](https://github.com/uysalere)</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Create DrawDashedLine for paragraph code<br />
+    <sub>[#53411](https://github.com/flutter/engine/pull/53411) merged on June 17, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/53411) over 2 days, 408 additions and 118 deletions in 30 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move draw vertices to dl unittests.<br />
     <sub>[#53400](https://github.com/flutter/engine/pull/53400) merged on June 17, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/53400) over 3 days, 384 additions and 315 deletions in 6 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update Android CPU profiling instructions.<br />
+    <sub>[#53437](https://github.com/flutter/engine/pull/53437) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53437) over 39 minutes, 43 additions and 20 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Link CPU profiling docs from the main README.<br />
     <sub>[#53435](https://github.com/flutter/engine/pull/53435) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53435) over 38 minutes, 2 additions and 0 deletions in 1 file</sub><br />
