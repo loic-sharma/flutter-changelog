@@ -86,3 +86,6 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Fix line-wrapping in `flutter create` error message.<br />
     <sub>[#150325](https://github.com/flutter/flutter/pull/150325) opened on on June 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150325) 18 additions and 13 deletions in 2 files</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `Isolate.packageConfigSync! to locate the packageconfig of flutter tools<br />
+    <sub>[#150340](https://github.com/flutter/flutter/pull/150340) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150340) 8 additions and 18 deletions in 3 files</sub><br />
+
