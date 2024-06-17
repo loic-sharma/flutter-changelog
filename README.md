@@ -568,11 +568,15 @@
 
 ### June 15, 2024 to June 21, 2024
 
-1 commits.
+2 commits.
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc<br />
-    <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub><br />
+    <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Emircan Uysaler](https://github.com/uysalere)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move drawAtlas golden tests to display list.<br />
+    <sub>[#53398](https://github.com/flutter/engine/pull/53398) merged on June 17, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/engine/pull/53398) over 3 days, 193 additions and 292 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 ### June 8, 2024 to June 14, 2024
 
