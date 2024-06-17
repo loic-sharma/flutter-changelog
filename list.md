@@ -7,7 +7,7 @@
 12 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test
-    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub>
+    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub>
     <sub>Reviewed by: [Haeven Dickerson ](https://github.com/Haeven), [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `ScaffoldBackgroundColor` should default to `ColorScheme.surface`
@@ -604,11 +604,15 @@
 
 ### June 15, 2024 to June 21, 2024
 
-3 commits.
+4 commits.
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc
     <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Emircan Uysaler](https://github.com/uysalere)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move draw vertices to dl unittests.
+    <sub>[#53400](https://github.com/flutter/engine/pull/53400) merged on June 17, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/53400) over 3 days, 384 additions and 315 deletions in 6 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Link CPU profiling docs from the main README.
     <sub>[#53435](https://github.com/flutter/engine/pull/53435) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53435) over 38 minutes, 2 additions and 0 deletions in 1 file</sub>
