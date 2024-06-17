@@ -98,3 +98,6 @@
 * **[Huy](https://github.com/huycozy)** &mdash; Add an example for CupertinoPopupSurface<br />
     <sub>[#150357](https://github.com/flutter/flutter/pull/150357) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150357) 183 additions and 0 deletions in 3 files</sub><br />
 
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix doc comment references to 'this'<br />
+    <sub>[#150379](https://github.com/flutter/flutter/pull/150379) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150379) 9 additions and 9 deletions in 2 files</sub><br />
+
