@@ -54,7 +54,7 @@
     <sub>[#150197](https://github.com/flutter/flutter/pull/150197) opened on on June 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150197) 18 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Remove duplicate testOutputsDirectory definition from integration_test package<br />
-    <sub>[#150224](https://github.com/flutter/flutter/pull/150224) opened on on June 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150224) 2 additions and 14 deletions in 2 files</sub><br />
+    <sub>[#150224](https://github.com/flutter/flutter/pull/150224) opened on on June 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150224) 2 additions and 14 deletions in 2 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Improve the behavior of scrollbar drag-scrolls triggered by the trackpad<br />
     <sub>[#150275](https://github.com/flutter/flutter/pull/150275) opened on on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150275) 66 additions and 17 deletions in 2 files</sub><br />
