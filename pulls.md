@@ -26,9 +26,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Remove irrelevant test shards on docs/ changes<br />
-    <sub>[#149546](https://github.com/flutter/flutter/pull/149546) opened on on June 2, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/149546) 409 additions and 0 deletions in 1 file</sub><br />
-
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove _MenuAnchorState from parent when disposed.<br />
     <sub>[#149586](https://github.com/flutter/flutter/pull/149586) opened on on June 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/149586) 48 additions and 1 deletion in 2 files</sub><br />
 
