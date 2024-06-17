@@ -80,7 +80,7 @@
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; closes #150048  Autocomplete don't hide options when keyboardDismissBehavior:  ScrollViewKeyboardDismissBehavior.onDrag on desktop <br />
     <sub>[#150317](https://github.com/flutter/flutter/pull/150317) opened on on June 16, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/150317) 272 additions and 129 deletions in 2 files</sub><br />
 
-* **[Donghyun Kim](https://github.com/temeddix)** &mdash; Support loading HTTP headers from env variable for `flutter run`<br />
+* **[Donghyun Kim](https://github.com/temeddix)** &mdash; Support setting HTTP headers from env variable for `flutter run`<br />
     <sub>[#150320](https://github.com/flutter/flutter/pull/150320) opened on on June 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150320) 41 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Fix line-wrapping in `flutter create` error message.<br />
