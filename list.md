@@ -4,7 +4,11 @@
 
 ### June 15, 2024 to June 21, 2024
 
-5 commits.
+7 commits.
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `ScaffoldBackgroundColor` should default to `ColorScheme.surface`
+    <sub>[#149772](https://github.com/flutter/flutter/pull/149772) merged on June 17, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/149772) over 1 week, 75 additions and 30 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update old wiki links
     <sub>[#149544](https://github.com/flutter/flutter/pull/149544) merged on June 17, 2024 &mdash; **Small:** [66 comments](https://github.com/flutter/flutter/pull/149544) over 2 weeks, 96 additions and 98 deletions in 45 files</sub>
@@ -21,6 +25,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update API docs footer
     <sub>[#150347](https://github.com/flutter/flutter/pull/150347) merged on June 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150347) over 6 hours, 8 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Alexander Thomas](https://github.com/athomas)</sub>
+
+* **[flyboy](https://github.com/hello-coder-xu)** &mdash; Reland "sliverGridDelegate mainAxisExtent add assert (#148470)" 
+    <sub>[#149720](https://github.com/flutter/flutter/pull/149720) merged on June 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149720) over 1 week, 61 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland: [CupertinoActionSheet] Add sliding tap gesture
     <sub>[#150219](https://github.com/flutter/flutter/pull/150219) merged on June 17, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/150219) over 4 days, 725 additions and 24 deletions in 2 files</sub>
