@@ -30,7 +30,7 @@
     <sub>[#149586](https://github.com/flutter/flutter/pull/149586) opened on on June 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/149586) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
-    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/149587) 35 additions and 69 deletions in 3 files</sub><br />
+    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) opened on on June 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149587) 35 additions and 69 deletions in 3 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
@@ -97,10 +97,4 @@
 
 * **[Huy](https://github.com/huycozy)** &mdash; Add an example for CupertinoPopupSurface<br />
     <sub>[#150357](https://github.com/flutter/flutter/pull/150357) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150357) 183 additions and 0 deletions in 3 files</sub><br />
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix doc comment references to 'this'<br />
-    <sub>[#150379](https://github.com/flutter/flutter/pull/150379) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150379) 9 additions and 9 deletions in 2 files</sub><br />
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland 3: [CupertinoActionSheet] Match colors to native<br />
-    <sub>[#150386](https://github.com/flutter/flutter/pull/150386) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150386) 153 additions and 22 deletions in 2 files</sub><br />
 
