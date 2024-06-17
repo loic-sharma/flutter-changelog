@@ -101,3 +101,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix doc comment references to 'this'<br />
     <sub>[#150379](https://github.com/flutter/flutter/pull/150379) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150379) 9 additions and 9 deletions in 2 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland 3: [CupertinoActionSheet] Match colors to native<br />
+    <sub>[#150386](https://github.com/flutter/flutter/pull/150386) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150386) 153 additions and 22 deletions in 2 files</sub><br />
+
