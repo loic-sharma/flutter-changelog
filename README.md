@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-2 commits.
+3 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update old wiki links<br />
     <sub>[#149544](https://github.com/flutter/flutter/pull/149544) merged on June 17, 2024 &mdash; **Small:** [66 comments](https://github.com/flutter/flutter/pull/149544) over 2 weeks, 96 additions and 98 deletions in 45 files</sub><br />
@@ -13,6 +13,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Fix flaky complex_layout_scroll_perf__memory  & flutter_gallery__memory_nav<br />
     <sub>[#150368](https://github.com/flutter/flutter/pull/150368) merged on June 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150368) over 40 minutes, 47 additions and 11 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update API docs footer<br />
+    <sub>[#150347](https://github.com/flutter/flutter/pull/150347) merged on June 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150347) over 6 hours, 8 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Alexander Thomas](https://github.com/athomas)</sub><br />
 
 ### June 8, 2024 to June 14, 2024
 
