@@ -59,14 +59,8 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] un-hide the --dds flag<br />
     <sub>[#150280](https://github.com/flutter/flutter/pull/150280) opened on on June 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150280) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Fix typo in `SliverLayoutDimensions.hashCode` where not all properties are used in the hash code.<br />
-    <sub>[#150306](https://github.com/flutter/flutter/pull/150306) opened on on June 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150306) 20 additions and 1 deletion in 2 files</sub><br />
-
 * **[Huy](https://github.com/huycozy)** &mdash; Enhances intuitiveness of RawMagnifier's example<br />
     <sub>[#150308](https://github.com/flutter/flutter/pull/150308) opened on on June 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150308) 31 additions and 20 deletions in 2 files</sub><br />
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Rename doc file to use standard hyphens<br />
-    <sub>[#150314](https://github.com/flutter/flutter/pull/150314) opened on on June 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150314) 1 addition and 1 deletion in 2 files</sub><br />
 
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150315) 7 additions and 0 deletions in 1 file</sub><br />
@@ -82,9 +76,6 @@
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `Isolate.packageConfigSync! to locate the packageconfig of flutter tools<br />
     <sub>[#150340](https://github.com/flutter/flutter/pull/150340) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150340) 8 additions and 18 deletions in 3 files</sub><br />
-
-* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Update matchesGoldenFile documentation reference to goldenFileComparator<br />
-    <sub>[#150343](https://github.com/flutter/flutter/pull/150343) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150343) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_notifier.0.dart<br />
     <sub>[#150344](https://github.com/flutter/flutter/pull/150344) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150344) 53 additions and 1 deletion in 2 files</sub><br />
