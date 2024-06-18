@@ -1019,7 +1019,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-8 commits.
+9 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [quick_actions]: Bump com.android.tools.build:gradle from 7.2.1 to 8.4.1 in /packages/quick_actions/quick_actions_android/android<br />
     <sub>[#6799](https://github.com/flutter/packages/pull/6799) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6799) over 3 weeks, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1058,6 +1058,10 @@
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; [flutter_markdown] fixes null check operator used on null value if onSelectionChanged is…<br />
     <sub>[#6883](https://github.com/flutter/packages/pull/6883) merged on June 18, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6883) over 1 week, 128 additions and 79 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [pigeon] Fully-qualify types in Equatable extension test<br />
+    <sub>[#6946](https://github.com/flutter/packages/pull/6946) merged on June 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6946) over 3 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### June 8, 2024 to June 14, 2024
 
