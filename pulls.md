@@ -23,9 +23,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove _MenuAnchorState from parent when disposed.<br />
-    <sub>[#149586](https://github.com/flutter/flutter/pull/149586) opened on on June 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/149586) 50 additions and 1 deletion in 2 files</sub><br />
-
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 
