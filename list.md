@@ -612,7 +612,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-7 commits.
+8 commits.
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc
     <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub>
@@ -625,6 +625,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move draw vertices to dl unittests.
     <sub>[#53400](https://github.com/flutter/engine/pull/53400) merged on June 17, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/53400) over 3 days, 384 additions and 315 deletions in 6 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Setup `NativeAssetsApi` during isolate group creation
+    <sub>[#53329](https://github.com/flutter/engine/pull/53329) merged on June 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53329) over 6 days, 25 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update iOS CPU profiling instructions.
     <sub>[#53440](https://github.com/flutter/engine/pull/53440) merged on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53440) over 2 hours, 48 additions and 12 deletions in 1 file</sub>
