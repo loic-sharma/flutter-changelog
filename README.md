@@ -67,7 +67,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland 3: [CupertinoActionSheet] Match colors to native<br />
-    <sub>[#150386](https://github.com/flutter/flutter/pull/150386) merged on June 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150386) over 1 hour, 153 additions and 22 deletions in 2 files</sub><br />
+    <sub>[#150386](https://github.com/flutter/flutter/pull/150386) merged on June 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150386) over 1 hour, 153 additions and 22 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 ### June 8, 2024 to June 14, 2024
