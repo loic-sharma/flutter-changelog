@@ -688,7 +688,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Upgrade all[most] androidx dependencies to latest"<br />
-    <sub>[#53462](https://github.com/flutter/engine/pull/53462) merged on June 18, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53462) over 1 hour, 64 additions and 439 deletions in 10 files</sub><br />
+    <sub>[#53462](https://github.com/flutter/engine/pull/53462) merged on June 18, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/53462) over 1 hour, 64 additions and 439 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 ### June 8, 2024 to June 14, 2024

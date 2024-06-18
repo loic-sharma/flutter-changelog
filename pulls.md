@@ -41,14 +41,11 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update android_device.dart to have clearLogs not print to standard error<br />
     <sub>[#150197](https://github.com/flutter/flutter/pull/150197) opened on on June 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150197) 18 additions and 1 deletion in 2 files</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; Improve the behavior of scrollbar drag-scrolls triggered by the trackpad<br />
-    <sub>[#150275](https://github.com/flutter/flutter/pull/150275) opened on on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150275) 162 additions and 32 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] un-hide the --dds flag<br />
     <sub>[#150280](https://github.com/flutter/flutter/pull/150280) opened on on June 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150280) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
-    <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150315) 7 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150315) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Donghyun Kim](https://github.com/temeddix)** &mdash; Support setting HTTP headers from env variable for `flutter run`<br />
     <sub>[#150320](https://github.com/flutter/flutter/pull/150320) opened on on June 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150320) 41 additions and 4 deletions in 2 files</sub><br />
