@@ -4,11 +4,15 @@
 
 ### June 15, 2024 to June 21, 2024
 
-21 commits.
+22 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub>
     <sub>Reviewed by: [Haeven Dickerson ](https://github.com/Haeven), [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make flutter tool enforce >= kotlin 1.7.0, Gradle 7.0.2, and AGP 7.0.0, and Fix test failures blocking androidx upgrade
+    <sub>[#149204](https://github.com/flutter/flutter/pull/149204) merged on June 18, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/149204) over 3 weeks, 41 additions and 100 deletions in 6 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Hasan M. Hallak](https://github.com/hasanmhallak)** &mdash; add forceErrorText to FormField & TextFormField.
     <sub>[#132903](https://github.com/flutter/flutter/pull/132903) merged on June 18, 2024 &mdash; **Large:** [124 comments](https://github.com/flutter/flutter/pull/132903) over 10 months, 520 additions and 13 deletions in 6 files</sub>
