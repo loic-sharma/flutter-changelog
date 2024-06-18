@@ -17,9 +17,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/148560) 361 additions and 26 deletions in 14 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions<br />
-    <sub>[#148786](https://github.com/flutter/flutter/pull/148786) opened on on May 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148786) 18 additions and 9 deletions in 2 files</sub><br />
-
 * **[zhibisora](https://github.com/zhibisora)** &mdash; Specify architecture when building for macOS<br />
     <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148920) 106 additions and 1 deletion in 2 files</sub><br />
 
@@ -88,4 +85,7 @@
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `FittedBox` not throw when child has zero size.<br />
     <sub>[#150430](https://github.com/flutter/flutter/pull/150430) opened on on June 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150430) 49 additions and 12 deletions in 2 files</sub><br />
+
+* **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Load images in CanvasKit with Cookies<br />
+    <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150441) 51 additions and 6 deletions in 4 files</sub><br />
 
