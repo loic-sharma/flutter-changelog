@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-17 commits.
+18 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub><br />
@@ -13,6 +13,11 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `ScaffoldBackgroundColor` should default to `ColorScheme.surface`<br />
     <sub>[#149772](https://github.com/flutter/flutter/pull/149772) merged on June 17, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/149772) over 1 week, 75 additions and 30 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix transparent `dividerColor` breaks `TabBar.tabAlignment`<br />
+    <sub>[#150350](https://github.com/flutter/flutter/pull/150350) merged on June 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150350) over 23 hours, 54 additions and 28 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-06-17 at 15 44 33](https://github.com/flutter/flutter/assets/48603081/a60e88c7-fd99-4444-b7e5-1bceacc22f4c)![Screenshot 2024-06-17 at 15 44 55](https://github.com/flutter/flutter/assets/48603081/aa003d65-107f-4618-be29-095ab2660374)</details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update old wiki links<br />
     <sub>[#149544](https://github.com/flutter/flutter/pull/149544) merged on June 17, 2024 &mdash; **Small:** [66 comments](https://github.com/flutter/flutter/pull/149544) over 2 weeks, 96 additions and 98 deletions in 45 files</sub><br />
