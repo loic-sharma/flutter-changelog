@@ -69,7 +69,7 @@
     <sub>[#150317](https://github.com/flutter/flutter/pull/150317) opened on on June 16, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/150317) 272 additions and 129 deletions in 2 files</sub><br />
 
 * **[Donghyun Kim](https://github.com/temeddix)** &mdash; Support setting HTTP headers from env variable for `flutter run`<br />
-    <sub>[#150320](https://github.com/flutter/flutter/pull/150320) opened on on June 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150320) 41 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#150320](https://github.com/flutter/flutter/pull/150320) opened on on June 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150320) 41 additions and 4 deletions in 2 files</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Fix line-wrapping in `flutter create` error message.<br />
     <sub>[#150325](https://github.com/flutter/flutter/pull/150325) opened on on June 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150325) 18 additions and 13 deletions in 2 files</sub><br />
