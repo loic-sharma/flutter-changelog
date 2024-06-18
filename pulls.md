@@ -45,7 +45,7 @@
     <sub>[#150224](https://github.com/flutter/flutter/pull/150224) opened on on June 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150224) 2 additions and 14 deletions in 2 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Improve the behavior of scrollbar drag-scrolls triggered by the trackpad<br />
-    <sub>[#150275](https://github.com/flutter/flutter/pull/150275) opened on on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150275) 82 additions and 32 deletions in 2 files</sub><br />
+    <sub>[#150275](https://github.com/flutter/flutter/pull/150275) opened on on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150275) 162 additions and 32 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] un-hide the --dds flag<br />
     <sub>[#150280](https://github.com/flutter/flutter/pull/150280) opened on on June 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150280) 0 additions and 1 deletion in 1 file</sub><br />
@@ -72,7 +72,7 @@
     <sub>[#150357](https://github.com/flutter/flutter/pull/150357) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150357) 183 additions and 0 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
-    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150394) 159 additions and 50 deletions in 1 file</sub><br />
+    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150394) 161 additions and 48 deletions in 1 file</sub><br />
 
 * **[Snoppy](https://github.com/xiaoxianBoy)** &mdash; chore: fix typos and link broken<br />
     <sub>[#150402](https://github.com/flutter/flutter/pull/150402) opened on on June 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150402) 4 additions and 4 deletions in 4 files</sub><br />
