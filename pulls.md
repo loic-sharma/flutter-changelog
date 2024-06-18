@@ -89,3 +89,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150394) 41 additions and 6 deletions in 1 file</sub><br />
 
+* **[Snoppy](https://github.com/xiaoxianBoy)** &mdash; chore: fix typos and link broken<br />
+    <sub>[#150402](https://github.com/flutter/flutter/pull/150402) opened on on June 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150402) 4 additions and 4 deletions in 4 files</sub><br />
+
