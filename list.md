@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-14 commits.
+15 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub>
@@ -33,6 +33,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add semantics: button to bottom navigation bar items and dropdown menu items
     <sub>[#149375](https://github.com/flutter/flutter/pull/149375) merged on June 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149375) over 2 weeks, 40 additions and 12 deletions in 4 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Extend the Windows web_tool_tests_1_2 shard timeout to 45 minutes
+    <sub>[#150393](https://github.com/flutter/flutter/pull/150393) merged on June 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150393) over 8 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Reland TreeSliver 
     <sub>[#149839](https://github.com/flutter/flutter/pull/149839) merged on June 17, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/149839) over 1 week, 3332 additions and 0 deletions in 11 files</sub>
