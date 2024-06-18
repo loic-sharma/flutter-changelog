@@ -86,3 +86,6 @@
 * **[Snoppy](https://github.com/xiaoxianBoy)** &mdash; chore: fix typos and link broken<br />
     <sub>[#150402](https://github.com/flutter/flutter/pull/150402) opened on on June 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150402) 4 additions and 4 deletions in 4 files</sub><br />
 
+* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; docs: add example of goldenFileComparator usage in widget tests<br />
+    <sub>[#150422](https://github.com/flutter/flutter/pull/150422) opened on on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150422) 24 additions and 2 deletions in 1 file</sub><br />
+
