@@ -620,11 +620,15 @@
 
 ### June 15, 2024 to June 21, 2024
 
-8 commits.
+9 commits.
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc
     <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Emircan Uysaler](https://github.com/uysalere)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] delete obsolete PathEffect sources
+    <sub>[#53441](https://github.com/flutter/engine/pull/53441) merged on June 18, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/53441) over 7 hours, 18 additions and 435 deletions in 35 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Create DrawDashedLine for paragraph code
     <sub>[#53411](https://github.com/flutter/engine/pull/53411) merged on June 17, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/53411) over 2 days, 408 additions and 118 deletions in 30 files</sub>
