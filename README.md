@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-13 commits.
+14 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub><br />
@@ -21,6 +21,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Fix flaky complex_layout_scroll_perf__memory  & flutter_gallery__memory_nav<br />
     <sub>[#150368](https://github.com/flutter/flutter/pull/150368) merged on June 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150368) over 40 minutes, 47 additions and 11 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Rename doc file to use standard hyphens<br />
+    <sub>[#150314](https://github.com/flutter/flutter/pull/150314) merged on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150314) over 1 day, 1 addition and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix doc comment references to 'this'<br />
     <sub>[#150379](https://github.com/flutter/flutter/pull/150379) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/150379) over 2 hours, 9 additions and 11 deletions in 2 files</sub><br />
