@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-15 commits.
+16 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub><br />
@@ -62,8 +62,12 @@
     <sub>[#150219](https://github.com/flutter/flutter/pull/150219) merged on June 17, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/150219) over 4 days, 725 additions and 24 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland 3: [CupertinoActionSheet] Match colors to native (#150386)"<br />
+    <sub>[#150413](https://github.com/flutter/flutter/pull/150413) merged on June 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150413) over 31 seconds, 22 additions and 153 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland 3: [CupertinoActionSheet] Match colors to native<br />
-    <sub>[#150386](https://github.com/flutter/flutter/pull/150386) merged on June 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150386) over 1 hour, 153 additions and 22 deletions in 2 files</sub><br />
+    <sub>[#150386](https://github.com/flutter/flutter/pull/150386) merged on June 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150386) over 1 hour, 153 additions and 22 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 ### June 8, 2024 to June 14, 2024
