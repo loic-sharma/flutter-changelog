@@ -87,5 +87,5 @@
     <sub>[#150422](https://github.com/flutter/flutter/pull/150422) opened on on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150422) 24 additions and 2 deletions in 1 file</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `FittedBox` not throw when child has zero size.<br />
-    <sub>[#150430](https://github.com/flutter/flutter/pull/150430) opened on on June 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150430) 48 additions and 12 deletions in 2 files</sub><br />
+    <sub>[#150430](https://github.com/flutter/flutter/pull/150430) opened on on June 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150430) 49 additions and 12 deletions in 2 files</sub><br />
 
