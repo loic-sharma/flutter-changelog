@@ -15,7 +15,7 @@
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
-    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/148560) 361 additions and 26 deletions in 14 files</sub><br />
+    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/148560) 361 additions and 26 deletions in 14 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions<br />
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) opened on on May 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148786) 18 additions and 9 deletions in 2 files</sub><br />
@@ -34,9 +34,6 @@
 
 * **[Michael Rittmeister](https://github.com/DRSchlaubi)** &mdash; Add support for type-safe plugin apply<br />
     <sub>[#149860](https://github.com/flutter/flutter/pull/149860) opened on on June 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149860) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for icon_button.3.dart<br />
-    <sub>[#149988](https://github.com/flutter/flutter/pull/149988) opened on on June 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149988) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Joseph Riddle](https://github.com/joeriddles)** &mdash; Add `--web-desired-capabilities-from-file` to define custom desired capabilities for WebDriver<br />
     <sub>[#150079](https://github.com/flutter/flutter/pull/150079) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150079) 110 additions and 9 deletions in 5 files</sub><br />
