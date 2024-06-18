@@ -54,7 +54,7 @@
     <sub>[#150224](https://github.com/flutter/flutter/pull/150224) opened on on June 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150224) 2 additions and 14 deletions in 2 files</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Improve the behavior of scrollbar drag-scrolls triggered by the trackpad<br />
-    <sub>[#150275](https://github.com/flutter/flutter/pull/150275) opened on on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150275) 69 additions and 25 deletions in 2 files</sub><br />
+    <sub>[#150275](https://github.com/flutter/flutter/pull/150275) opened on on June 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150275) 70 additions and 27 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] un-hide the --dds flag<br />
     <sub>[#150280](https://github.com/flutter/flutter/pull/150280) opened on on June 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150280) 0 additions and 1 deletion in 1 file</sub><br />
