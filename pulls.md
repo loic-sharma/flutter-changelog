@@ -56,9 +56,6 @@
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150315) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; closes #150048  Autocomplete don't hide options when keyboardDismissBehavior:  ScrollViewKeyboardDismissBehavior.onDrag on desktop <br />
-    <sub>[#150317](https://github.com/flutter/flutter/pull/150317) opened on on June 16, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/150317) 272 additions and 129 deletions in 2 files</sub><br />
-
 * **[Donghyun Kim](https://github.com/temeddix)** &mdash; Support setting HTTP headers from env variable for `flutter run`<br />
     <sub>[#150320](https://github.com/flutter/flutter/pull/150320) opened on on June 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150320) 41 additions and 4 deletions in 2 files</sub><br />
 
@@ -73,15 +70,6 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150394) 161 additions and 48 deletions in 1 file</sub><br />
-
-* **[Snoppy](https://github.com/xiaoxianBoy)** &mdash; chore: fix typos and link broken<br />
-    <sub>[#150402](https://github.com/flutter/flutter/pull/150402) opened on on June 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150402) 4 additions and 4 deletions in 4 files</sub><br />
-
-* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Add example of goldenFileComparator usage in widget tests<br />
-    <sub>[#150422](https://github.com/flutter/flutter/pull/150422) opened on on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150422) 24 additions and 2 deletions in 1 file</sub><br />
-
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `FittedBox` not throw when child has zero size.<br />
-    <sub>[#150430](https://github.com/flutter/flutter/pull/150430) opened on on June 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150430) 49 additions and 12 deletions in 2 files</sub><br />
 
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Load images in CanvasKit with Cookies<br />
     <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150441) 51 additions and 6 deletions in 4 files</sub><br />
