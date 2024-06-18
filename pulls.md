@@ -86,6 +86,3 @@
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Load images in CanvasKit with Cookies<br />
     <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150441) 51 additions and 6 deletions in 4 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated unicode character separator to one that is more widely available<br />
-    <sub>[#150454](https://github.com/flutter/flutter/pull/150454) opened on on June 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150454) 2 additions and 2 deletions in 1 file</sub><br />
-
