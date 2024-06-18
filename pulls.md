@@ -89,3 +89,6 @@
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Load images in CanvasKit with Cookies<br />
     <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150441) 51 additions and 6 deletions in 4 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland 4: [CupertinoActionSheet] Match colors to native<br />
+    <sub>[#150442](https://github.com/flutter/flutter/pull/150442) opened on on June 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150442) 157 additions and 22 deletions in 2 files</sub><br />
+
