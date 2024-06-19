@@ -65,6 +65,3 @@
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Load images in CanvasKit with Cookies<br />
     <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150441) 51 additions and 6 deletions in 4 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Remove `UniqueWidget`, with no deprecation period<br />
-    <sub>[#150466](https://github.com/flutter/flutter/pull/150466) opened on on June 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150466) 0 additions and 72 deletions in 3 files</sub><br />
-
