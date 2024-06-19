@@ -2,9 +2,6 @@
 
 ## flutter/flutter
 
-* **[August](https://github.com/Gustl22)** &mdash; feat: Support overriding native endorsed plugins<br />
-    <sub>[#137040](https://github.com/flutter/flutter/pull/137040) opened on on October 22, 2023 &mdash; **Extra large:** [30 comments](https://github.com/flutter/flutter/pull/137040) 1124 additions and 642 deletions in 4 files</sub><br />
-
 * **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] fix service worker caching for custom base href<br />
     <sub>[#137202](https://github.com/flutter/flutter/pull/137202) opened on on October 25, 2023 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/137202) 157 additions and 22 deletions in 3 files</sub><br />
 
