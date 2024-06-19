@@ -653,7 +653,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-10 commits.
+11 commits.
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc
     <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub>
@@ -692,8 +692,12 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Upgrade all[most] androidx dependencies to latest"
-    <sub>[#53462](https://github.com/flutter/engine/pull/53462) merged on June 18, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/53462) over 1 hour, 64 additions and 439 deletions in 10 files</sub>
+    <sub>[#53462](https://github.com/flutter/engine/pull/53462) merged on June 18, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/53462) over 1 hour, 64 additions and 439 deletions in 10 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland "Upgrade all[most] androidx dependencies to latest" (#53462)"
+    <sub>[#53468](https://github.com/flutter/engine/pull/53468) merged on June 19, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/53468) over 1 minute, 439 additions and 64 deletions in 10 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### June 8, 2024 to June 14, 2024
 

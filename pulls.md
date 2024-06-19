@@ -65,3 +65,6 @@
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Load images in CanvasKit with Cookies<br />
     <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150441) 51 additions and 6 deletions in 4 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Let the lockfile script generate lockfiles for kotlin gradle files as well<br />
+    <sub>[#150471](https://github.com/flutter/flutter/pull/150471) opened on on June 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150471) 14 additions and 6 deletions in 1 file</sub><br />
+
