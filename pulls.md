@@ -68,6 +68,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
     <sub>[#150481](https://github.com/flutter/flutter/pull/150481) opened on on June 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150481) 59 additions and 1 deletion in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make popup menu hardcoded padding configurable<br />
-    <sub>[#150506](https://github.com/flutter/flutter/pull/150506) opened on on June 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150506) 143 additions and 9 deletions in 5 files</sub><br />
-
