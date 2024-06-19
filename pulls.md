@@ -36,7 +36,7 @@
     <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/150167) 156 additions and 569 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for about_list_tile.0.dart<br />
-    <sub>[#150181](https://github.com/flutter/flutter/pull/150181) opened on on June 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150181) 67 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#150181](https://github.com/flutter/flutter/pull/150181) opened on on June 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150181) 67 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update android_device.dart to have clearLogs not print to standard error<br />
     <sub>[#150197](https://github.com/flutter/flutter/pull/150197) opened on on June 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150197) 18 additions and 1 deletion in 2 files</sub><br />
