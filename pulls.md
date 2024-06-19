@@ -68,3 +68,6 @@
 * **[Suhwan Cha](https://github.com/SuhwanCha)** &mdash; Add onStatusBarTapped event callback on Scaffold<br />
     <sub>[#150480](https://github.com/flutter/flutter/pull/150480) opened on on June 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150480) 54 additions and 0 deletions in 3 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
+    <sub>[#150481](https://github.com/flutter/flutter/pull/150481) opened on on June 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150481) 59 additions and 1 deletion in 2 files</sub><br />
+
