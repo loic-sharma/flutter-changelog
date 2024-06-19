@@ -657,7 +657,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-11 commits.
+12 commits.
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc<br />
     <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub><br />
@@ -674,6 +674,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move draw vertices to dl unittests.<br />
     <sub>[#53400](https://github.com/flutter/engine/pull/53400) merged on June 17, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/53400) over 3 days, 384 additions and 315 deletions in 6 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Compute correct-ish binding order for Vulkan.<br />
+    <sub>[#53463](https://github.com/flutter/engine/pull/53463) merged on June 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53463) over 1 day, 107 additions and 5 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Setup `NativeAssetsApi` during isolate group creation<br />
     <sub>[#53329](https://github.com/flutter/engine/pull/53329) merged on June 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53329) over 6 days, 25 additions and 0 deletions in 2 files</sub><br />
