@@ -1043,7 +1043,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-9 commits.
+10 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [quick_actions]: Bump com.android.tools.build:gradle from 7.2.1 to 8.4.1 in /packages/quick_actions/quick_actions_android/android
     <sub>[#6799](https://github.com/flutter/packages/pull/6799) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6799) over 3 weeks, 6 additions and 2 deletions in 3 files</sub>
@@ -1086,6 +1086,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [pigeon] Fully-qualify types in Equatable extension test
     <sub>[#6946](https://github.com/flutter/packages/pull/6946) merged on June 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/6946) over 3 hours, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] deprecate old BitmapDescriptor methods
+    <sub>[#6905](https://github.com/flutter/packages/pull/6905) merged on June 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6905) over 1 week, 8 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### June 8, 2024 to June 14, 2024
 
