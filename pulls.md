@@ -57,7 +57,7 @@
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150394) 161 additions and 48 deletions in 1 file</sub><br />
 
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Load images in CanvasKit with Cookies<br />
-    <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150441) 51 additions and 6 deletions in 4 files</sub><br />
+    <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150441) 55 additions and 6 deletions in 4 files</sub><br />
 
 * **[Suhwan Cha](https://github.com/SuhwanCha)** &mdash; Add onStatusBarTapped event callback on Scaffold<br />
     <sub>[#150480](https://github.com/flutter/flutter/pull/150480) opened on on June 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150480) 54 additions and 0 deletions in 3 files</sub><br />
