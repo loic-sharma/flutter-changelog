@@ -77,3 +77,6 @@
 * **[chenguang shao](https://github.com/shaochenguang)** &mdash; Preventing Scroll Freeze by Checking Scroll State in updateCanDrag<br />
     <sub>[#150545](https://github.com/flutter/flutter/pull/150545) opened on on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150545) 103 additions and 1 deletion in 2 files</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
+    <sub>[#150559](https://github.com/flutter/flutter/pull/150559) opened on on June 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/150559) 704 additions and 225 deletions in 54 files</sub><br />
+
