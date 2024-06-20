@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-34 commits.
+35 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub><br />
@@ -26,14 +26,14 @@
     <sub>[#149772](https://github.com/flutter/flutter/pull/149772) merged on June 17, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/149772) over 1 week, 75 additions and 30 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update old wiki links<br />
+    <sub>[#149544](https://github.com/flutter/flutter/pull/149544) merged on June 17, 2024 &mdash; **Small:** [66 comments](https://github.com/flutter/flutter/pull/149544) over 2 weeks, 96 additions and 98 deletions in 45 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix transparent `dividerColor` breaks `TabBar.tabAlignment`<br />
     <sub>[#150350](https://github.com/flutter/flutter/pull/150350) merged on June 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150350) over 23 hours, 54 additions and 28 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2024-06-17 at 15 44 33](https://github.com/flutter/flutter/assets/48603081/a60e88c7-fd99-4444-b7e5-1bceacc22f4c)![Screenshot 2024-06-17 at 15 44 55](https://github.com/flutter/flutter/assets/48603081/aa003d65-107f-4618-be29-095ab2660374)</details></sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update old wiki links<br />
-    <sub>[#149544](https://github.com/flutter/flutter/pull/149544) merged on June 17, 2024 &mdash; **Small:** [66 comments](https://github.com/flutter/flutter/pull/149544) over 2 weeks, 96 additions and 98 deletions in 45 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) merged on June 20, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/148560) over 1 month, 375 additions and 29 deletions in 16 files</sub><br />
@@ -71,6 +71,10 @@
     <sub>[#149375](https://github.com/flutter/flutter/pull/149375) merged on June 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149375) over 2 weeks, 40 additions and 12 deletions in 4 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter.dev links from misc packages to more permanent destinations<br />
+    <sub>[#150532](https://github.com/flutter/flutter/pull/150532) merged on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150532) over 20 hours, 25 additions and 25 deletions in 22 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Let the lockfile script generate lockfiles for kotlin gradle files as well<br />
     <sub>[#150471](https://github.com/flutter/flutter/pull/150471) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150471) over 1 day, 14 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
@@ -94,10 +98,6 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update API docs footer<br />
     <sub>[#150347](https://github.com/flutter/flutter/pull/150347) merged on June 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150347) over 6 hours, 8 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Alexander Thomas](https://github.com/athomas)</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_notifier.0.dart<br />
-    <sub>[#150344](https://github.com/flutter/flutter/pull/150344) merged on June 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150344) over 3 days, 60 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for about_list_tile.0.dart<br />
     <sub>[#150181](https://github.com/flutter/flutter/pull/150181) merged on June 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150181) over 5 days, 67 additions and 1 deletion in 2 files</sub><br />
@@ -123,13 +123,17 @@
     <sub>[#150382](https://github.com/flutter/flutter/pull/150382) merged on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150382) over 3 days, 63 additions and 65 deletions in 63 files</sub><br />
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland: [CupertinoActionSheet] Add sliding tap gesture<br />
-    <sub>[#150219](https://github.com/flutter/flutter/pull/150219) merged on June 17, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/150219) over 4 days, 725 additions and 24 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_notifier.0.dart<br />
+    <sub>[#150344](https://github.com/flutter/flutter/pull/150344) merged on June 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150344) over 3 days, 60 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Reland "sliverGridDelegate mainAxisExtent add assert (#148470)" <br />
     <sub>[#149720](https://github.com/flutter/flutter/pull/149720) merged on June 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149720) over 1 week, 61 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland: [CupertinoActionSheet] Add sliding tap gesture<br />
+    <sub>[#150219](https://github.com/flutter/flutter/pull/150219) merged on June 17, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/150219) over 4 days, 725 additions and 24 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Revert "[a11y] Add semantics: button to bottom navigation bar items and dropdown menu items"<br />
     <sub>[#150445](https://github.com/flutter/flutter/pull/150445) merged on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150445) over 5 hours, 12 additions and 40 deletions in 4 files</sub><br />
