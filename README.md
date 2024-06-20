@@ -375,7 +375,7 @@
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Navaron Bracke](https://github.com/navaronbracke), [Matheus Baumgarten](https://github.com/baumths), [Qun Cheng](https://github.com/QuncCccccc), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Create CarouselView widget - Part 1<br />
-    <sub>[#148094](https://github.com/flutter/flutter/pull/148094) merged on June 5, 2024 &mdash; **Large:** [75 comments](https://github.com/flutter/flutter/pull/148094) over 3 weeks, 1308 additions and 0 deletions in 5 files</sub><br />
+    <sub>[#148094](https://github.com/flutter/flutter/pull/148094) merged on June 5, 2024 &mdash; **Large:** [76 comments](https://github.com/flutter/flutter/pull/148094) over 3 weeks, 1308 additions and 0 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver<br />
