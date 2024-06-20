@@ -30,7 +30,7 @@
     <sub>[#150079](https://github.com/flutter/flutter/pull/150079) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150079) 110 additions and 9 deletions in 5 files</sub><br />
 
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
-    <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/150167) 15 additions and 15 deletions in 1 file</sub><br />
+    <sub>[#150167](https://github.com/flutter/flutter/pull/150167) opened on on June 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/150167) 15 additions and 15 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update android_device.dart to have clearLogs not print to standard error<br />
     <sub>[#150197](https://github.com/flutter/flutter/pull/150197) opened on on June 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150197) 18 additions and 1 deletion in 2 files</sub><br />
@@ -67,4 +67,7 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter.dev links from framework to more permanent destinations<br />
     <sub>[#150531](https://github.com/flutter/flutter/pull/150531) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150531) 68 additions and 69 deletions in 44 files</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter.dev links from misc packages to more permanent destinations<br />
+    <sub>[#150532](https://github.com/flutter/flutter/pull/150532) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150532) 25 additions and 25 deletions in 22 files</sub><br />
 
