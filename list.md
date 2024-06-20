@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-31 commits.
+32 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub>
@@ -13,6 +13,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make flutter tool enforce >= kotlin 1.7.0, Gradle 7.0.2, and AGP 7.0.0, and Fix test failures blocking androidx upgrade
     <sub>[#149204](https://github.com/flutter/flutter/pull/149204) merged on June 18, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/149204) over 3 weeks, 41 additions and 100 deletions in 6 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make popup menu hardcoded padding configurable
+    <sub>[#150506](https://github.com/flutter/flutter/pull/150506) merged on June 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150506) over 1 day, 143 additions and 9 deletions in 5 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Hasan M. Hallak](https://github.com/hasanmhallak)** &mdash; add forceErrorText to FormField & TextFormField.
     <sub>[#132903](https://github.com/flutter/flutter/pull/132903) merged on June 18, 2024 &mdash; **Large:** [124 comments](https://github.com/flutter/flutter/pull/132903) over 10 months, 520 additions and 13 deletions in 6 files</sub>
@@ -681,7 +685,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-13 commits.
+14 commits.
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Fix focus management for text fields
     <sub>[#51009](https://github.com/flutter/engine/pull/51009) merged on June 20, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/51009) over 3 months, 251 additions and 254 deletions in 6 files</sub>
@@ -690,6 +694,10 @@
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc
     <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Emircan Uysaler](https://github.com/uysalere)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Web] Fix extra new line when inputAction is not newline for a multil…
+    <sub>[#53453](https://github.com/flutter/engine/pull/53453) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53453) over 2 days, 41 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] delete obsolete PathEffect sources
     <sub>[#53441](https://github.com/flutter/engine/pull/53441) merged on June 18, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/53441) over 7 hours, 18 additions and 435 deletions in 35 files</sub>
