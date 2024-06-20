@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-29 commits.
+30 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub>
@@ -42,6 +42,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Fix flaky complex_layout_scroll_perf__memory  & flutter_gallery__memory_nav
     <sub>[#150368](https://github.com/flutter/flutter/pull/150368) merged on June 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150368) over 40 minutes, 47 additions and 11 deletions in 5 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove _MenuAnchorState from parent when disposed.
+    <sub>[#149586](https://github.com/flutter/flutter/pull/149586) merged on June 20, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/149586) over 2 weeks, 49 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) merged on June 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148786) over 3 weeks, 18 additions and 9 deletions in 2 files</sub>
