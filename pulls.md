@@ -12,7 +12,7 @@
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
-    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/148560) 375 additions and 28 deletions in 16 files</sub><br />
+    <sub>[#148560](https://github.com/flutter/flutter/pull/148560) opened on on May 17, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/148560) 375 additions and 28 deletions in 16 files</sub><br />
 
 * **[zhibisora](https://github.com/zhibisora)** &mdash; Specify architecture when building for macOS<br />
     <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148920) 106 additions and 1 deletion in 2 files</sub><br />
@@ -48,7 +48,7 @@
     <sub>[#150325](https://github.com/flutter/flutter/pull/150325) opened on on June 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150325) 18 additions and 13 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_notifier.0.dart<br />
-    <sub>[#150344](https://github.com/flutter/flutter/pull/150344) opened on on June 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150344) 60 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#150344](https://github.com/flutter/flutter/pull/150344) opened on on June 17, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150344) 60 additions and 1 deletion in 2 files</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Add an example for CupertinoPopupSurface<br />
     <sub>[#150357](https://github.com/flutter/flutter/pull/150357) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150357) 183 additions and 0 deletions in 3 files</sub><br />
