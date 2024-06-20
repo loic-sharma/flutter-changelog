@@ -74,3 +74,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Update semantics in bottom_navigation_bar.dart<br />
     <sub>[#150576](https://github.com/flutter/flutter/pull/150576) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150576) 16 additions and 1 deletion in 2 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Update semantics in dropdown.dart<br />
+    <sub>[#150578](https://github.com/flutter/flutter/pull/150578) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150578) 24 additions and 11 deletions in 2 files</sub><br />
+

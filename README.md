@@ -1079,7 +1079,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-11 commits.
+12 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [quick_actions]: Bump com.android.tools.build:gradle from 7.2.1 to 8.4.1 in /packages/quick_actions/quick_actions_android/android<br />
     <sub>[#6799](https://github.com/flutter/packages/pull/6799) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6799) over 3 weeks, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1100,6 +1100,10 @@
     <sub>[#6664](https://github.com/flutter/packages/pull/6664) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6664) over 1 month, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.core:core&package-manager=gradle&previous-version=1.10.1&new-version=1.13.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Move Android inspector to Pigeon<br />
+    <sub>[#6958](https://github.com/flutter/packages/pull/6958) merged on June 20, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/6958) over 2 hours, 1994 additions and 225 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jerin](https://github.com/Jerinji2016)** &mdash; [google_sign_in_web] README.md typo<br />
     <sub>[#6642](https://github.com/flutter/packages/pull/6642) merged on June 17, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/6642) over 1 month, 6 additions and 2 deletions in 3 files</sub><br />
