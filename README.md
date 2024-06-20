@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-32 commits.
+33 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub><br />
@@ -70,6 +70,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Add semantics: button to bottom navigation bar items and dropdown menu items<br />
     <sub>[#149375](https://github.com/flutter/flutter/pull/149375) merged on June 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149375) over 2 weeks, 40 additions and 12 deletions in 4 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Let the lockfile script generate lockfiles for kotlin gradle files as well<br />
+    <sub>[#150471](https://github.com/flutter/flutter/pull/150471) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150471) over 1 day, 14 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean leaky tests.<br />
     <sub>[#150335](https://github.com/flutter/flutter/pull/150335) merged on June 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150335) over 3 days, 9 additions and 23 deletions in 4 files</sub><br />
