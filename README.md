@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-27 commits.
+28 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub><br />
@@ -34,6 +34,10 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples<br />
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) merged on June 20, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/148560) over 1 month, 375 additions and 29 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [CLI tool] in `flutter test`, consider `--flavor` when validating the cached asset bundle<br />
+    <sub>[#150461](https://github.com/flutter/flutter/pull/150461) merged on June 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150461) over 1 day, 81 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Fix flaky complex_layout_scroll_perf__memory  & flutter_gallery__memory_nav<br />
     <sub>[#150368](https://github.com/flutter/flutter/pull/150368) merged on June 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150368) over 40 minutes, 47 additions and 11 deletions in 5 files</sub><br />
@@ -665,7 +669,11 @@
 
 ### June 15, 2024 to June 21, 2024
 
-12 commits.
+13 commits.
+
+* **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Fix focus management for text fields<br />
+    <sub>[#51009](https://github.com/flutter/engine/pull/51009) merged on June 20, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/51009) over 3 months, 251 additions and 254 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman), [Srujan Gaddam](https://github.com/srujzs), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc<br />
     <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub><br />
