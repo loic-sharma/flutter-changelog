@@ -697,7 +697,11 @@
 
 ### June 15, 2024 to June 21, 2024
 
-15 commits.
+17 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add 'flt-semantics-identifier' attribute to semantics nodes
+    <sub>[#53278](https://github.com/flutter/engine/pull/53278) merged on June 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53278) over 1 week, 97 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Pavel Mazhnik](https://github.com/p-mazhnik), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Fix focus management for text fields
     <sub>[#51009](https://github.com/flutter/engine/pull/51009) merged on June 20, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/51009) over 3 months, 251 additions and 254 deletions in 6 files</sub>
@@ -722,6 +726,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move draw vertices to dl unittests.
     <sub>[#53400](https://github.com/flutter/engine/pull/53400) merged on June 17, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/53400) over 3 days, 384 additions and 315 deletions in 6 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't add `href="#"` to semantics links
+    <sub>[#53395](https://github.com/flutter/engine/pull/53395) merged on June 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53395) over 6 days, 3 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Compute correct-ish binding order for Vulkan.
     <sub>[#53463](https://github.com/flutter/engine/pull/53463) merged on June 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53463) over 1 day, 107 additions and 5 deletions in 6 files</sub>
