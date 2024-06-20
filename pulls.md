@@ -74,9 +74,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Add benchmarks for tracking relayout boundaries<br />
     <sub>[#150539](https://github.com/flutter/flutter/pull/150539) opened on on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150539) 112 additions and 1 deletion in 2 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix a number of broken doc comment references<br />
-    <sub>[#150540](https://github.com/flutter/flutter/pull/150540) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150540) 37 additions and 31 deletions in 16 files</sub><br />
-
 * **[chenguang shao](https://github.com/shaochenguang)** &mdash; Preventing Scroll Freeze by Checking Scroll State in updateCanDrag<br />
     <sub>[#150545](https://github.com/flutter/flutter/pull/150545) opened on on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150545) 103 additions and 1 deletion in 2 files</sub><br />
 
