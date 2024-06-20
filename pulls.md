@@ -77,3 +77,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
     <sub>[#150559](https://github.com/flutter/flutter/pull/150559) opened on on June 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/150559) 704 additions and 225 deletions in 54 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; The `PopupMenuButton` should not steal focus from the TextField when it appears.<br />
+    <sub>[#150568](https://github.com/flutter/flutter/pull/150568) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150568) 43 additions and 3 deletions in 4 files</sub><br />
+
