@@ -24,7 +24,7 @@
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) opened on on June 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149734) 88 additions and 0 deletions in 3 files</sub><br />
 
 * **[Michael Rittmeister](https://github.com/DRSchlaubi)** &mdash; Add support for type-safe plugin apply<br />
-    <sub>[#149860](https://github.com/flutter/flutter/pull/149860) opened on on June 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149860) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#149860](https://github.com/flutter/flutter/pull/149860) opened on on June 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149860) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Joseph Riddle](https://github.com/joeriddles)** &mdash; Add `--web-desired-capabilities-from-file` to define custom desired capabilities for WebDriver<br />
     <sub>[#150079](https://github.com/flutter/flutter/pull/150079) opened on on June 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150079) 110 additions and 9 deletions in 5 files</sub><br />
