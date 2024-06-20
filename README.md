@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-30 commits.
+31 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub><br />
@@ -46,6 +46,10 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove _MenuAnchorState from parent when disposed.<br />
     <sub>[#149586](https://github.com/flutter/flutter/pull/149586) merged on June 20, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/149586) over 2 weeks, 49 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] un-hide the --dds flag<br />
+    <sub>[#150280](https://github.com/flutter/flutter/pull/150280) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150280) over 5 days, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions<br />
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) merged on June 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148786) over 3 weeks, 18 additions and 9 deletions in 2 files</sub><br />
