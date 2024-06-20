@@ -71,3 +71,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; The `PopupMenuButton` should not steal focus from the TextField when it appears.<br />
     <sub>[#150568](https://github.com/flutter/flutter/pull/150568) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150568) 43 additions and 3 deletions in 4 files</sub><br />
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Update semantics in bottom_navigation_bar.dart<br />
+    <sub>[#150576](https://github.com/flutter/flutter/pull/150576) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150576) 16 additions and 1 deletion in 2 files</sub><br />
+
