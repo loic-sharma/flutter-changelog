@@ -71,3 +71,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter.dev links from misc packages to more permanent destinations<br />
     <sub>[#150532](https://github.com/flutter/flutter/pull/150532) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150532) 25 additions and 25 deletions in 22 files</sub><br />
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Add benchmarks for tracking relayout boundaries<br />
+    <sub>[#150539](https://github.com/flutter/flutter/pull/150539) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150539) 112 additions and 1 deletion in 2 files</sub><br />
+
