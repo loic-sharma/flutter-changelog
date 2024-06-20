@@ -71,3 +71,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Update semantics in dropdown.dart<br />
     <sub>[#150578](https://github.com/flutter/flutter/pull/150578) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150578) 24 additions and 11 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove discontinued `device_info` and `connectivity` plugins from `flutter_gallery`<br />
+    <sub>[#150585](https://github.com/flutter/flutter/pull/150585) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150585) 14 additions and 116 deletions in 3 files</sub><br />
+
