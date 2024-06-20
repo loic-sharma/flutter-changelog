@@ -1051,7 +1051,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-10 commits.
+11 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [quick_actions]: Bump com.android.tools.build:gradle from 7.2.1 to 8.4.1 in /packages/quick_actions/quick_actions_android/android<br />
     <sub>[#6799](https://github.com/flutter/packages/pull/6799) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6799) over 3 weeks, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1086,6 +1086,10 @@
     <sub>[#6846](https://github.com/flutter/packages/pull/6846) merged on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6846) over 2 weeks, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.google.guava:guava&package-manager=gradle&previous-version=32.0.1-android&new-version=33.2.1-android)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] More v1 embedding deletion that was missed in https://github.com/flutter/packages/pull/6494<br />
+    <sub>[#6923](https://github.com/flutter/packages/pull/6923) merged on June 20, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/6923) over 6 days, 58 additions and 191 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jimmy Forrester-Fellowes](https://github.com/jimmyff)** &mdash; [flutter_markdown] fixes null check operator used on null value if onSelectionChanged is…<br />
     <sub>[#6883](https://github.com/flutter/packages/pull/6883) merged on June 18, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/6883) over 1 week, 128 additions and 79 deletions in 4 files</sub><br />
