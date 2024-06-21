@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-39 commits.
+40 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub><br />
@@ -107,9 +107,14 @@
     <sub>[#150347](https://github.com/flutter/flutter/pull/150347) merged on June 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150347) over 6 hours, 8 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Alexander Thomas](https://github.com/athomas)</sub><br />
 
-* **[Moritz](https://github.com/mosuem)** &mdash; Fix link hook typo<br />
-    <sub>[#150194](https://github.com/flutter/flutter/pull/150194) merged on June 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150194) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland 4: [CupertinoActionSheet] Match colors to native<br />
+    <sub>[#150442](https://github.com/flutter/flutter/pull/150442) merged on June 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150442) over 3 days, 157 additions and 22 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="949" alt="image" src="https://github.com/flutter/flutter/assets/1596656/78f26f72-b69f-41ee-9134-2e2a9e8e1bdd"></details></sub>
+
+* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Remove duplicate testOutputsDirectory definition from integration_test package<br />
+    <sub>[#150224](https://github.com/flutter/flutter/pull/150224) merged on June 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150224) over 5 days, 2 additions and 14 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for icon_button.3.dart<br />
     <sub>[#149988](https://github.com/flutter/flutter/pull/149988) merged on June 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149988) over 1 week, 50 additions and 1 deletion in 2 files</sub><br />
@@ -119,9 +124,9 @@
     <sub>[#150306](https://github.com/flutter/flutter/pull/150306) merged on June 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150306) over 2 days, 20 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Update matchesGoldenFile documentation reference to goldenFileComparator<br />
-    <sub>[#150343](https://github.com/flutter/flutter/pull/150343) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150343) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Moritz](https://github.com/mosuem)** &mdash; Fix link hook typo<br />
+    <sub>[#150194](https://github.com/flutter/flutter/pull/150194) merged on June 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150194) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop looking for .packages when analyzing<br />
     <sub>[#150349](https://github.com/flutter/flutter/pull/150349) merged on June 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150349) over 3 days, 0 additions and 30 deletions in 1 file</sub><br />
@@ -131,17 +136,17 @@
     <sub>[#150344](https://github.com/flutter/flutter/pull/150344) merged on June 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150344) over 3 days, 60 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for about_list_tile.0.dart<br />
-    <sub>[#150181](https://github.com/flutter/flutter/pull/150181) merged on June 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150181) over 5 days, 67 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update Material token to the latest 4.1.0<br />
     <sub>[#150382](https://github.com/flutter/flutter/pull/150382) merged on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150382) over 3 days, 63 additions and 65 deletions in 63 files</sub><br />
     <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub><br />
 
-* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Remove duplicate testOutputsDirectory definition from integration_test package<br />
-    <sub>[#150224](https://github.com/flutter/flutter/pull/150224) merged on June 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150224) over 5 days, 2 additions and 14 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for about_list_tile.0.dart<br />
+    <sub>[#150181](https://github.com/flutter/flutter/pull/150181) merged on June 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150181) over 5 days, 67 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Update matchesGoldenFile documentation reference to goldenFileComparator<br />
+    <sub>[#150343](https://github.com/flutter/flutter/pull/150343) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150343) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland: [CupertinoActionSheet] Add sliding tap gesture<br />
     <sub>[#150219](https://github.com/flutter/flutter/pull/150219) merged on June 17, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/150219) over 4 days, 725 additions and 24 deletions in 2 files</sub><br />
