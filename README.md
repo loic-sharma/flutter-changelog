@@ -39,6 +39,10 @@
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) merged on June 20, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/148560) over 1 month, 375 additions and 29 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove _MenuAnchorState from parent when disposed.<br />
+    <sub>[#149586](https://github.com/flutter/flutter/pull/149586) merged on June 20, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/149586) over 2 weeks, 49 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [CLI tool] in `flutter test`, consider `--flavor` when validating the cached asset bundle<br />
     <sub>[#150461](https://github.com/flutter/flutter/pull/150461) merged on June 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150461) over 1 day, 81 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -46,10 +50,6 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Fix flaky complex_layout_scroll_perf__memory  & flutter_gallery__memory_nav<br />
     <sub>[#150368](https://github.com/flutter/flutter/pull/150368) merged on June 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150368) over 40 minutes, 47 additions and 11 deletions in 5 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove _MenuAnchorState from parent when disposed.<br />
-    <sub>[#149586](https://github.com/flutter/flutter/pull/149586) merged on June 20, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/149586) over 2 weeks, 49 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] un-hide the --dds flag<br />
     <sub>[#150280](https://github.com/flutter/flutter/pull/150280) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150280) over 5 days, 0 additions and 1 deletion in 1 file</sub><br />
