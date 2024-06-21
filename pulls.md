@@ -71,3 +71,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart<br />
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) opened on on June 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150606) 49 additions and 1 deletion in 2 files</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Remove dubious comment<br />
+    <sub>[#150608](https://github.com/flutter/flutter/pull/150608) opened on on June 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150608) 0 additions and 1 deletion in 1 file</sub><br />
+
