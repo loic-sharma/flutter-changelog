@@ -718,7 +718,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-19 commits.
+20 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add 'flt-semantics-identifier' attribute to semantics nodes
     <sub>[#53278](https://github.com/flutter/engine/pull/53278) merged on June 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53278) over 1 week, 97 additions and 0 deletions in 2 files</sub>
@@ -755,6 +755,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't add `href="#"` to semantics links
     <sub>[#53395](https://github.com/flutter/engine/pull/53395) merged on June 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53395) over 6 days, 3 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run safari-dart2js-html tests on macOS 13
+    <sub>[#53497](https://github.com/flutter/engine/pull/53497) merged on June 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53497) over 21 hours, 7 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Compute correct-ish binding order for Vulkan.
     <sub>[#53463](https://github.com/flutter/engine/pull/53463) merged on June 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53463) over 1 day, 107 additions and 5 deletions in 6 files</sub>
