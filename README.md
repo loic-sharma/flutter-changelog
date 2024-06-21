@@ -729,7 +729,7 @@
     <sub>Reviewed by: [Pavel Mazhnik](https://github.com/p-mazhnik), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[jezell](https://github.com/jezell)** &mdash; Add createImageFromTextureSource method to ui_web<br />
-    <sub>[#53483](https://github.com/flutter/engine/pull/53483) merged on June 21, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/engine/pull/53483) over 1 day, 97 additions and 0 deletions in 7 files</sub><br />
+    <sub>[#53483](https://github.com/flutter/engine/pull/53483) merged on June 21, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/engine/pull/53483) over 1 day, 97 additions and 0 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Web] Fix extra new line when inputAction is not newline for a multil…<br />
