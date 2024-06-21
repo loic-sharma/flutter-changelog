@@ -48,7 +48,7 @@
     <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150441) 56 additions and 6 deletions in 4 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
-    <sub>[#150481](https://github.com/flutter/flutter/pull/150481) opened on on June 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150481) 59 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#150481](https://github.com/flutter/flutter/pull/150481) opened on on June 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150481) 58 additions and 1 deletion in 2 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter.dev links from framework to more permanent destinations<br />
     <sub>[#150531](https://github.com/flutter/flutter/pull/150531) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150531) 68 additions and 69 deletions in 44 files</sub><br />
