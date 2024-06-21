@@ -51,7 +51,7 @@
     <sub>[#150481](https://github.com/flutter/flutter/pull/150481) opened on on June 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150481) 58 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs<br />
-    <sub>[#150517](https://github.com/flutter/flutter/pull/150517) opened on on June 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150517) 162 additions and 5 deletions in 3 files</sub><br />
+    <sub>[#150517](https://github.com/flutter/flutter/pull/150517) opened on on June 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150517) 162 additions and 5 deletions in 3 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter.dev links from framework to more permanent destinations<br />
     <sub>[#150531](https://github.com/flutter/flutter/pull/150531) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150531) 68 additions and 69 deletions in 44 files</sub><br />
