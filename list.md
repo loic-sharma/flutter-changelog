@@ -701,14 +701,14 @@
 
 ### June 15, 2024 to June 21, 2024
 
-17 commits.
+18 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add 'flt-semantics-identifier' attribute to semantics nodes
     <sub>[#53278](https://github.com/flutter/engine/pull/53278) merged on June 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53278) over 1 week, 97 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Pavel Mazhnik](https://github.com/p-mazhnik), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Fix focus management for text fields
-    <sub>[#51009](https://github.com/flutter/engine/pull/51009) merged on June 20, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/51009) over 3 months, 251 additions and 254 deletions in 6 files</sub>
+    <sub>[#51009](https://github.com/flutter/engine/pull/51009) merged on June 20, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/engine/pull/51009) over 3 months, 251 additions and 254 deletions in 6 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman), [Srujan Gaddam](https://github.com/srujzs), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc
@@ -758,6 +758,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Move drawAtlas golden tests to display list.
     <sub>[#53398](https://github.com/flutter/engine/pull/53398) merged on June 17, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/engine/pull/53398) over 3 days, 193 additions and 292 deletions in 6 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Fix focus management for text fields (#51009)"
+    <sub>[#53502](https://github.com/flutter/engine/pull/53502) merged on June 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/53502) over 1 minute, 254 additions and 251 deletions in 6 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; Update StandardMessageCodec.readValue to be @Nullable
     <sub>[#53473](https://github.com/flutter/engine/pull/53473) merged on June 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53473) over 1 day, 1 addition and 1 deletion in 1 file</sub>
