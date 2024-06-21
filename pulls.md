@@ -60,7 +60,7 @@
     <sub>[#150545](https://github.com/flutter/flutter/pull/150545) opened on on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150545) 103 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
-    <sub>[#150559](https://github.com/flutter/flutter/pull/150559) opened on on June 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/150559) 704 additions and 225 deletions in 54 files</sub><br />
+    <sub>[#150559](https://github.com/flutter/flutter/pull/150559) opened on on June 20, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/150559) 704 additions and 225 deletions in 54 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Update semantics in dropdown.dart<br />
     <sub>[#150578](https://github.com/flutter/flutter/pull/150578) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150578) 24 additions and 11 deletions in 2 files</sub><br />
