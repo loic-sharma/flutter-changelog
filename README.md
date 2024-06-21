@@ -4,7 +4,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-37 commits.
+38 commits.
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test<br />
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub><br />
@@ -39,6 +39,10 @@
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) merged on June 20, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/148560) over 1 month, 375 additions and 29 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[Limane Gaya](https://github.com/LimaneGaya)** &mdash; made SelectionArea alignment consistent between web and other platform<br />
+    <sub>[#150037](https://github.com/flutter/flutter/pull/150037) merged on June 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150037) over 1 week, 21 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove _MenuAnchorState from parent when disposed.<br />
     <sub>[#149586](https://github.com/flutter/flutter/pull/149586) merged on June 20, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/149586) over 2 weeks, 49 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -55,13 +59,13 @@
     <sub>[#150280](https://github.com/flutter/flutter/pull/150280) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150280) over 5 days, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Rename doc file to use standard hyphens<br />
-    <sub>[#150314](https://github.com/flutter/flutter/pull/150314) merged on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150314) over 1 day, 1 addition and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions<br />
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) merged on June 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148786) over 3 weeks, 18 additions and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Rename doc file to use standard hyphens<br />
+    <sub>[#150314](https://github.com/flutter/flutter/pull/150314) merged on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150314) over 1 day, 1 addition and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix doc comment references to 'this'<br />
     <sub>[#150379](https://github.com/flutter/flutter/pull/150379) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/150379) over 2 hours, 9 additions and 11 deletions in 2 files</sub><br />
@@ -103,10 +107,6 @@
     <sub>[#150194](https://github.com/flutter/flutter/pull/150194) merged on June 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150194) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Update matchesGoldenFile documentation reference to goldenFileComparator<br />
-    <sub>[#150343](https://github.com/flutter/flutter/pull/150343) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150343) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Remove duplicate testOutputsDirectory definition from integration_test package<br />
     <sub>[#150224](https://github.com/flutter/flutter/pull/150224) merged on June 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150224) over 5 days, 2 additions and 14 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
@@ -119,9 +119,9 @@
     <sub>[#150306](https://github.com/flutter/flutter/pull/150306) merged on June 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150306) over 2 days, 20 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop looking for .packages when analyzing<br />
-    <sub>[#150349](https://github.com/flutter/flutter/pull/150349) merged on June 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150349) over 3 days, 0 additions and 30 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Update matchesGoldenFile documentation reference to goldenFileComparator<br />
+    <sub>[#150343](https://github.com/flutter/flutter/pull/150343) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150343) over 11 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update Material token to the latest 4.1.0<br />
     <sub>[#150382](https://github.com/flutter/flutter/pull/150382) merged on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150382) over 3 days, 63 additions and 65 deletions in 63 files</sub><br />
@@ -134,6 +134,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for about_list_tile.0.dart<br />
     <sub>[#150181](https://github.com/flutter/flutter/pull/150181) merged on June 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150181) over 5 days, 67 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop looking for .packages when analyzing<br />
+    <sub>[#150349](https://github.com/flutter/flutter/pull/150349) merged on June 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150349) over 3 days, 0 additions and 30 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland: [CupertinoActionSheet] Add sliding tap gesture<br />
     <sub>[#150219](https://github.com/flutter/flutter/pull/150219) merged on June 17, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/150219) over 4 days, 725 additions and 24 deletions in 2 files</sub><br />
