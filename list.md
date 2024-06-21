@@ -1156,8 +1156,8 @@
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [quick_actions] Update to Pigeon 20
-    <sub>[#6961](https://github.com/flutter/packages/pull/6961) merged on June 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6961) over 3 hours, 158 additions and 82 deletions in 6 files</sub>
-    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub>[#6961](https://github.com/flutter/packages/pull/6961) merged on June 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6961) over 3 hours, 158 additions and 82 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] deprecate old BitmapDescriptor methods
     <sub>[#6905](https://github.com/flutter/packages/pull/6905) merged on June 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6905) over 1 week, 8 additions and 1 deletion in 3 files</sub>
