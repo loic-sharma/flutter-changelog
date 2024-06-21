@@ -711,6 +711,10 @@
     <sub>[#53278](https://github.com/flutter/engine/pull/53278) merged on June 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53278) over 1 week, 97 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Pavel Mazhnik](https://github.com/p-mazhnik), [Yegor](https://github.com/yjbanov)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Web] Fix extra new line when inputAction is not newline for a multil…
+    <sub>[#53453](https://github.com/flutter/engine/pull/53453) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53453) over 2 days, 41 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Fix focus management for text fields
     <sub>[#51009](https://github.com/flutter/engine/pull/51009) merged on June 20, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/engine/pull/51009) over 3 months, 251 additions and 254 deletions in 6 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman), [Srujan Gaddam](https://github.com/srujzs), [Mouad Debbar](https://github.com/mdebbar)</sub>
@@ -718,10 +722,6 @@
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [flatland] Handle fence overflow in flatland_connection.cc
     <sub>[#53366](https://github.com/flutter/engine/pull/53366) merged on June 17, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/engine/pull/53366) over 4 days, 394 additions and 30 deletions in 5 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Emircan Uysaler](https://github.com/uysalere)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Web] Fix extra new line when inputAction is not newline for a multil…
-    <sub>[#53453](https://github.com/flutter/engine/pull/53453) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53453) over 2 days, 41 additions and 8 deletions in 2 files</sub>
-    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] delete obsolete PathEffect sources
     <sub>[#53441](https://github.com/flutter/engine/pull/53441) merged on June 18, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/53441) over 7 hours, 18 additions and 435 deletions in 35 files</sub>
@@ -1115,7 +1115,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-13 commits.
+14 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [quick_actions]: Bump com.android.tools.build:gradle from 7.2.1 to 8.4.1 in /packages/quick_actions/quick_actions_android/android
     <sub>[#6799](https://github.com/flutter/packages/pull/6799) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6799) over 3 weeks, 6 additions and 2 deletions in 3 files</sub>
@@ -1174,6 +1174,10 @@
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] deprecate old BitmapDescriptor methods
     <sub>[#6905](https://github.com/flutter/packages/pull/6905) merged on June 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6905) over 1 week, 8 additions and 1 deletion in 3 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; Revert "Migrate `camera/android` from `SurfaceTexture`->`SurfaceProducer`."
+    <sub>[#6964](https://github.com/flutter/packages/pull/6964) merged on June 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6964) over 15 hours, 82 additions and 42 deletions in 6 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 ### June 8, 2024 to June 14, 2024
 
