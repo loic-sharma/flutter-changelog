@@ -65,3 +65,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Update semantics in dropdown.dart<br />
     <sub>[#150578](https://github.com/flutter/flutter/pull/150578) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150578) 24 additions and 11 deletions in 2 files</sub><br />
 
+* **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fix link in RenderObjectWidget doc comment<br />
+    <sub>[#150600](https://github.com/flutter/flutter/pull/150600) opened on on June 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150600) 1 addition and 1 deletion in 1 file</sub><br />
+
