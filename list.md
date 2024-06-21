@@ -713,11 +713,15 @@
 
 ### June 15, 2024 to June 21, 2024
 
-18 commits.
+19 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add 'flt-semantics-identifier' attribute to semantics nodes
     <sub>[#53278](https://github.com/flutter/engine/pull/53278) merged on June 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53278) over 1 week, 97 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Pavel Mazhnik](https://github.com/p-mazhnik), [Yegor](https://github.com/yjbanov)</sub>
+
+* **[jezell](https://github.com/jezell)** &mdash; Add createImageFromTextureSource method to ui_web
+    <sub>[#53483](https://github.com/flutter/engine/pull/53483) merged on June 21, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/engine/pull/53483) over 1 day, 97 additions and 0 deletions in 7 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Web] Fix extra new line when inputAction is not newline for a multil…
     <sub>[#53453](https://github.com/flutter/engine/pull/53453) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53453) over 2 days, 41 additions and 8 deletions in 2 files</sub>
