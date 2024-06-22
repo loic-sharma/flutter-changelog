@@ -4,16 +4,16 @@
 
 ### June 15, 2024 to June 21, 2024
 
-43 commits.
-
-* **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test
-    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub>
-    <sub>Reviewed by: [Haeven Dickerson ](https://github.com/Haeven), [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+44 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix the layout (part 1)
     <sub>[#149636](https://github.com/flutter/flutter/pull/149636) merged on June 22, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/149636) over 2 weeks, 303 additions and 126 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
     <sub><details><summary>5 images...</summary><img width="455" alt="image" src="https://github.com/flutter/flutter/assets/1596656/f8be35bd-0da5-4908-92f7-7a1f4e999229"><img width="405" alt="image" src="https://github.com/flutter/flutter/assets/1596656/54a37c2f-cd99-4e3b-86f0-045b1dfdbbb8"><img width="385" alt="image" src="https://github.com/flutter/flutter/assets/1596656/546ab529-0b62-4e3d-9019-ef900d3552e5"><img width="1142" alt="image" src="https://github.com/flutter/flutter/assets/1596656/e06b6dac-dbcd-48f7-9dee-83700ae680e0"><img width="999" alt="image" src="https://github.com/flutter/flutter/assets/1596656/698cf530-51fc-4906-90a5-7a3ab626f489"></details></sub>
+
+* **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test
+    <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub>
+    <sub>Reviewed by: [Haeven Dickerson ](https://github.com/Haeven), [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make flutter tool enforce >= kotlin 1.7.0, Gradle 7.0.2, and AGP 7.0.0, and Fix test failures blocking androidx upgrade
     <sub>[#149204](https://github.com/flutter/flutter/pull/149204) merged on June 18, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/149204) over 3 weeks, 41 additions and 100 deletions in 6 files</sub>
@@ -68,13 +68,17 @@
     <sub>[#150280](https://github.com/flutter/flutter/pull/150280) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150280) over 5 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Rename doc file to use standard hyphens
-    <sub>[#150314](https://github.com/flutter/flutter/pull/150314) merged on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150314) over 1 day, 1 addition and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Fix: Memory leak in UndoHistory widget because it never de-registered itself as global UndoManager client (Resolves #148291)
+    <sub>[#150661](https://github.com/flutter/flutter/pull/150661) merged on June 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150661) over 1 hour, 122 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) merged on June 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148786) over 3 weeks, 18 additions and 9 deletions in 2 files</sub>
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Rename doc file to use standard hyphens
+    <sub>[#150314](https://github.com/flutter/flutter/pull/150314) merged on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150314) over 1 day, 1 addition and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix doc comment references to 'this'
     <sub>[#150379](https://github.com/flutter/flutter/pull/150379) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/150379) over 2 hours, 9 additions and 11 deletions in 2 files</sub>
@@ -120,10 +124,6 @@
     <sub>[#150343](https://github.com/flutter/flutter/pull/150343) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150343) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update Material token to the latest 4.1.0
-    <sub>[#150382](https://github.com/flutter/flutter/pull/150382) merged on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150382) over 3 days, 63 additions and 65 deletions in 63 files</sub>
-    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for icon_button.3.dart
     <sub>[#149988](https://github.com/flutter/flutter/pull/149988) merged on June 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149988) over 1 week, 50 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
@@ -132,22 +132,22 @@
     <sub>[#150306](https://github.com/flutter/flutter/pull/150306) merged on June 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150306) over 2 days, 20 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland 4: [CupertinoActionSheet] Match colors to native
-    <sub>[#150442](https://github.com/flutter/flutter/pull/150442) merged on June 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150442) over 3 days, 157 additions and 22 deletions in 2 files</sub>
+* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Update semantics in bottom_navigation_bar.dart
+    <sub>[#150576](https://github.com/flutter/flutter/pull/150576) merged on June 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150576) over 1 day, 16 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-    <sub><details><summary>1 image...</summary><img width="949" alt="image" src="https://github.com/flutter/flutter/assets/1596656/78f26f72-b69f-41ee-9134-2e2a9e8e1bdd"></details></sub>
-
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop looking for .packages when analyzing
-    <sub>[#150349](https://github.com/flutter/flutter/pull/150349) merged on June 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150349) over 3 days, 0 additions and 30 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Fix link hook typo
     <sub>[#150194](https://github.com/flutter/flutter/pull/150194) merged on June 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150194) over 1 week, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; [a11y] Update semantics in bottom_navigation_bar.dart
-    <sub>[#150576](https://github.com/flutter/flutter/pull/150576) merged on June 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150576) over 1 day, 16 additions and 1 deletion in 2 files</sub>
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland 4: [CupertinoActionSheet] Match colors to native
+    <sub>[#150442](https://github.com/flutter/flutter/pull/150442) merged on June 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150442) over 3 days, 157 additions and 22 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+    <sub><details><summary>1 image...</summary><img width="949" alt="image" src="https://github.com/flutter/flutter/assets/1596656/78f26f72-b69f-41ee-9134-2e2a9e8e1bdd"></details></sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update Material token to the latest 4.1.0
+    <sub>[#150382](https://github.com/flutter/flutter/pull/150382) merged on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150382) over 3 days, 63 additions and 65 deletions in 63 files</sub>
+    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for inherited_notifier.0.dart
     <sub>[#150344](https://github.com/flutter/flutter/pull/150344) merged on June 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150344) over 3 days, 60 additions and 1 deletion in 2 files</sub>
@@ -161,6 +161,10 @@
     <sub>[#150224](https://github.com/flutter/flutter/pull/150224) merged on June 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150224) over 5 days, 2 additions and 14 deletions in 2 files</sub>
     <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop looking for .packages when analyzing
+    <sub>[#150349](https://github.com/flutter/flutter/pull/150349) merged on June 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150349) over 3 days, 0 additions and 30 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland: [CupertinoActionSheet] Add sliding tap gesture
     <sub>[#150219](https://github.com/flutter/flutter/pull/150219) merged on June 17, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/150219) over 4 days, 725 additions and 24 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
@@ -169,17 +173,17 @@
     <sub>[#149720](https://github.com/flutter/flutter/pull/149720) merged on June 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149720) over 1 week, 61 additions and 3 deletions in 2 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Revert "[a11y] Add semantics: button to bottom navigation bar items and dropdown menu items"
-    <sub>[#150445](https://github.com/flutter/flutter/pull/150445) merged on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150445) over 5 hours, 12 additions and 40 deletions in 4 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland 3: [CupertinoActionSheet] Match colors to native (#150386)"
+    <sub>[#150413](https://github.com/flutter/flutter/pull/150413) merged on June 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150413) over 31 seconds, 22 additions and 153 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Reland 3: [CupertinoActionSheet] Match colors to native
     <sub>[#150386](https://github.com/flutter/flutter/pull/150386) merged on June 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150386) over 1 hour, 153 additions and 22 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland 3: [CupertinoActionSheet] Match colors to native (#150386)"
-    <sub>[#150413](https://github.com/flutter/flutter/pull/150413) merged on June 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150413) over 31 seconds, 22 additions and 153 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[hangyu](https://github.com/hangyujin)** &mdash; Revert "[a11y] Add semantics: button to bottom navigation bar items and dropdown menu items"
+    <sub>[#150445](https://github.com/flutter/flutter/pull/150445) merged on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150445) over 5 hours, 12 additions and 40 deletions in 4 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 ### June 8, 2024 to June 14, 2024
 
