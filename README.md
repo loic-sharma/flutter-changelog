@@ -1148,7 +1148,11 @@
 
 ### June 15, 2024 to June 21, 2024
 
-16 commits.
+17 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Remove OCMock<br />
+    <sub>[#6862](https://github.com/flutter/packages/pull/6862) merged on June 22, 2024 &mdash; **Extra large:** [119 comments](https://github.com/flutter/packages/pull/6862) over 2 weeks, 1617 additions and 617 deletions in 32 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [quick_actions]: Bump com.android.tools.build:gradle from 7.2.1 to 8.4.1 in /packages/quick_actions/quick_actions_android/android<br />
     <sub>[#6799](https://github.com/flutter/packages/pull/6799) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6799) over 3 weeks, 6 additions and 2 deletions in 3 files</sub><br />
