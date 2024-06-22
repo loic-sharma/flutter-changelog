@@ -1148,7 +1148,7 @@
 
 ### June 15, 2024 to June 21, 2024
 
-15 commits.
+16 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [quick_actions]: Bump com.android.tools.build:gradle from 7.2.1 to 8.4.1 in /packages/quick_actions/quick_actions_android/android<br />
     <sub>[#6799](https://github.com/flutter/packages/pull/6799) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6799) over 3 weeks, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1169,6 +1169,10 @@
     <sub>[#6664](https://github.com/flutter/packages/pull/6664) merged on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6664) over 1 month, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.core:core&package-manager=gradle&previous-version=1.10.1&new-version=1.13.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Add iOS SDK 9.x support<br />
+    <sub>[#6902](https://github.com/flutter/packages/pull/6902) merged on June 22, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/6902) over 1 week, 1628 additions and 2 deletions in 51 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Partial Android host API Pigeon conversion<br />
     <sub>[#6967](https://github.com/flutter/packages/pull/6967) merged on June 21, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/6967) over 21 minutes, 1613 additions and 301 deletions in 12 files</sub><br />
