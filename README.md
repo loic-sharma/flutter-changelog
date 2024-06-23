@@ -27,13 +27,13 @@
     <sub>[#132903](https://github.com/flutter/flutter/pull/132903) merged on June 18, 2024 &mdash; **Large:** [124 comments](https://github.com/flutter/flutter/pull/132903) over 10 months, 520 additions and 13 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `ScaffoldBackgroundColor` should default to `ColorScheme.surface`<br />
-    <sub>[#149772](https://github.com/flutter/flutter/pull/149772) merged on June 17, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/149772) over 1 week, 75 additions and 30 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
-
 * **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Fix: Memory leak in UndoHistory widget because it never de-registered itself as global UndoManager client (Resolves #148291)<br />
     <sub>[#150661](https://github.com/flutter/flutter/pull/150661) merged on June 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150661) over 1 hour, 122 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `ScaffoldBackgroundColor` should default to `ColorScheme.surface`<br />
+    <sub>[#149772](https://github.com/flutter/flutter/pull/149772) merged on June 17, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/149772) over 1 week, 75 additions and 30 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update old wiki links<br />
     <sub>[#149544](https://github.com/flutter/flutter/pull/149544) merged on June 17, 2024 &mdash; **Small:** [66 comments](https://github.com/flutter/flutter/pull/149544) over 2 weeks, 96 additions and 98 deletions in 45 files</sub><br />
