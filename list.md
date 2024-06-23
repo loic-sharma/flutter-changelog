@@ -15,6 +15,10 @@
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub>
     <sub>Reviewed by: [Haeven Dickerson ](https://github.com/Haeven), [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
+* **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Fix: Memory leak in UndoHistory widget because it never de-registered itself as global UndoManager client (Resolves #148291)
+    <sub>[#150661](https://github.com/flutter/flutter/pull/150661) merged on June 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150661) over 1 hour, 122 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make flutter tool enforce >= kotlin 1.7.0, Gradle 7.0.2, and AGP 7.0.0, and Fix test failures blocking androidx upgrade
     <sub>[#149204](https://github.com/flutter/flutter/pull/149204) merged on June 18, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/149204) over 3 weeks, 41 additions and 100 deletions in 6 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -26,10 +30,6 @@
 * **[Hasan M. Hallak](https://github.com/hasanmhallak)** &mdash; add forceErrorText to FormField & TextFormField.
     <sub>[#132903](https://github.com/flutter/flutter/pull/132903) merged on June 18, 2024 &mdash; **Large:** [124 comments](https://github.com/flutter/flutter/pull/132903) over 10 months, 520 additions and 13 deletions in 6 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
-
-* **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Fix: Memory leak in UndoHistory widget because it never de-registered itself as global UndoManager client (Resolves #148291)
-    <sub>[#150661](https://github.com/flutter/flutter/pull/150661) merged on June 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150661) over 1 hour, 122 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `ScaffoldBackgroundColor` should default to `ColorScheme.surface`
     <sub>[#149772](https://github.com/flutter/flutter/pull/149772) merged on June 17, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/149772) over 1 week, 75 additions and 30 deletions in 4 files</sub>
