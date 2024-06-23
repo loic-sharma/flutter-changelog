@@ -60,6 +60,10 @@
     <sub>[#150461](https://github.com/flutter/flutter/pull/150461) merged on June 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150461) over 1 day, 81 additions and 5 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Fix: Memory leak in UndoHistory widget because it never de-registered itself as global UndoManager client (Resolves #148291)
+    <sub>[#150661](https://github.com/flutter/flutter/pull/150661) merged on June 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150661) over 1 hour, 122 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Fix flaky complex_layout_scroll_perf__memory  & flutter_gallery__memory_nav
     <sub>[#150368](https://github.com/flutter/flutter/pull/150368) merged on June 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150368) over 40 minutes, 47 additions and 11 deletions in 5 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
@@ -67,10 +71,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] un-hide the --dds flag
     <sub>[#150280](https://github.com/flutter/flutter/pull/150280) merged on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150280) over 5 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
-* **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Fix: Memory leak in UndoHistory widget because it never de-registered itself as global UndoManager client (Resolves #148291)
-    <sub>[#150661](https://github.com/flutter/flutter/pull/150661) merged on June 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150661) over 1 hour, 122 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add test for engine artifact framework permissions
     <sub>[#148786](https://github.com/flutter/flutter/pull/148786) merged on June 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/148786) over 3 weeks, 18 additions and 9 deletions in 2 files</sub>
