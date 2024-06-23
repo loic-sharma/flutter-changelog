@@ -83,3 +83,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][CLI tool] in `flutter test`, consider `--flavor` when validating the cached asset bundle<br />
     <sub>[#150617](https://github.com/flutter/flutter/pull/150617) opened on on June 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150617) 81 additions and 5 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; testAdd tests for stepper.controls_builder.0.dart<br />
+    <sub>[#150669](https://github.com/flutter/flutter/pull/150669) opened on on June 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150669) 21 additions and 1 deletion in 2 files</sub><br />
+
