@@ -31,6 +31,10 @@
     <sub>[#149772](https://github.com/flutter/flutter/pull/149772) merged on June 17, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/149772) over 1 week, 75 additions and 30 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Fix: Memory leak in UndoHistory widget because it never de-registered itself as global UndoManager client (Resolves #148291)
+    <sub>[#150661](https://github.com/flutter/flutter/pull/150661) merged on June 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150661) over 1 hour, 122 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update old wiki links
     <sub>[#149544](https://github.com/flutter/flutter/pull/149544) merged on June 17, 2024 &mdash; **Small:** [66 comments](https://github.com/flutter/flutter/pull/149544) over 2 weeks, 96 additions and 98 deletions in 45 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -47,10 +51,6 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Test InputDecoration API examples
     <sub>[#148560](https://github.com/flutter/flutter/pull/148560) merged on June 20, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/148560) over 1 month, 375 additions and 29 deletions in 16 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
-
-* **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Fix: Memory leak in UndoHistory widget because it never de-registered itself as global UndoManager client (Resolves #148291)
-    <sub>[#150661](https://github.com/flutter/flutter/pull/150661) merged on June 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150661) over 1 hour, 122 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [CLI tool] in `flutter test`, consider `--flavor` when validating the cached asset bundle
     <sub>[#150461](https://github.com/flutter/flutter/pull/150461) merged on June 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150461) over 1 day, 81 additions and 5 deletions in 2 files</sub>
