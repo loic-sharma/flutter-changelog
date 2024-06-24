@@ -89,3 +89,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include more details in structured errors sent to a DAP client<br />
     <sub>[#150698](https://github.com/flutter/flutter/pull/150698) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150698) 61 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual engine roll to be7db94196fe<br />
+    <sub>[#150714](https://github.com/flutter/flutter/pull/150714) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150714) 48 additions and 2 deletions in 47 files</sub><br />
+
