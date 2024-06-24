@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-9 commits.
+10 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test<br />
     <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub><br />
@@ -29,6 +29,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update issue link in analysis_options.yaml<br />
     <sub>[#150395](https://github.com/flutter/flutter/pull/150395) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150395) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#150712](https://github.com/flutter/flutter/pull/150712) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150712) over 3 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update android_device.dart to have clearLogs not print to standard error<br />
     <sub>[#150197](https://github.com/flutter/flutter/pull/150197) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150197) over 1 week, 18 additions and 1 deletion in 2 files</sub><br />
@@ -506,7 +510,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-6 commits.
+7 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots<br />
     <sub>[#53524](https://github.com/flutter/engine/pull/53524) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53524) over 16 hours, 103 additions and 10 deletions in 4 files</sub><br />
@@ -531,6 +535,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update uses of GrVkBackendContext and other deprecated type names<br />
     <sub>[#53491](https://github.com/flutter/engine/pull/53491) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53491) over 3 days, 23 additions and 19 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Reland "Fix focus management for text fields (#51009)"<br />
+    <sub>[#53537](https://github.com/flutter/engine/pull/53537) merged on June 24, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/53537) over 2 hours, 250 additions and 253 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Juanjo Tugores](https://github.com/tugorez)</sub><br />
 
 ### June 15, 2024 to June 21, 2024
 
