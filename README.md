@@ -478,7 +478,11 @@
 
 ### June 22, 2024 to June 28, 2024
 
-1 commits.
+2 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.Callback` lifecycle hooks<br />
+    <sub>[#53280](https://github.com/flutter/engine/pull/53280) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53280) over 2 weeks, 143 additions and 26 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update uses of GrVkBackendContext and other deprecated type names<br />
     <sub>[#53491](https://github.com/flutter/engine/pull/53491) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53491) over 3 days, 23 additions and 19 deletions in 12 files</sub><br />
