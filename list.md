@@ -4,7 +4,11 @@
 
 ### June 22, 2024 to June 28, 2024
 
-3 commits.
+4 commits.
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix a number of broken doc comment references
+    <sub>[#150540](https://github.com/flutter/flutter/pull/150540) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150540) over 4 days, 37 additions and 31 deletions in 16 files</sub>
+    <sub>Reviewed by: [Pierre-Louis](https://github.com/guidezpl)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test
     <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub>
