@@ -86,3 +86,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual engine roll to be7db94196fe<br />
     <sub>[#150714](https://github.com/flutter/flutter/pull/150714) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150714) 52 additions and 9 deletions in 48 files</sub><br />
 
+* **[Francisco Nicola](https://github.com/m3c-fnicola)** &mdash; [CP] Fix Linux numpad shortcuts on web<br />
+    <sub>[#150723](https://github.com/flutter/flutter/pull/150723) opened on on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150723) 90 additions and 5 deletions in 2 files</sub><br />
+
