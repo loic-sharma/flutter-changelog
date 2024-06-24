@@ -506,7 +506,11 @@
 
 ### June 22, 2024 to June 28, 2024
 
-5 commits.
+6 commits.
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots<br />
+    <sub>[#53524](https://github.com/flutter/engine/pull/53524) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53524) over 16 hours, 103 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-re-land "Upgrade all[most] androidx dependencies to latest"<br />
     <sub>[#53532](https://github.com/flutter/engine/pull/53532) merged on June 24, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/53532) over 5 hours, 58 additions and 433 deletions in 10 files</sub><br />
