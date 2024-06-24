@@ -92,3 +92,6 @@
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; Fixed Scroll bars incorrectly rendering with view padding <br />
     <sub>[#150685](https://github.com/flutter/flutter/pull/150685) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150685) 127 additions and 7 deletions in 6 files</sub><br />
 
+* **[flyboy](https://github.com/hello-coder-xu)** &mdash; add list tile contorl affinity to list tile theme<br />
+    <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150695) 202 additions and 43 deletions in 9 files</sub><br />
+
