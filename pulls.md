@@ -36,7 +36,7 @@
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150315) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Add an example for CupertinoPopupSurface<br />
-    <sub>[#150357](https://github.com/flutter/flutter/pull/150357) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150357) 183 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#150357](https://github.com/flutter/flutter/pull/150357) opened on on June 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150357) 183 additions and 0 deletions in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150394) 161 additions and 48 deletions in 1 file</sub><br />
