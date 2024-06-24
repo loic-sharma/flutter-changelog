@@ -98,3 +98,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include more details in structured errors sent to a DAP client<br />
     <sub>[#150698](https://github.com/flutter/flutter/pull/150698) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150698) 61 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test<br />
+    <sub>[#150707](https://github.com/flutter/flutter/pull/150707) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150707) 64 additions and 0 deletions in 1 file</sub><br />
+
