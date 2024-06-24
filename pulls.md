@@ -44,9 +44,6 @@
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Load images in CanvasKit with Cookies<br />
     <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150441) 56 additions and 6 deletions in 4 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
-    <sub>[#150481](https://github.com/flutter/flutter/pull/150481) opened on on June 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150481) 58 additions and 1 deletion in 2 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs<br />
     <sub>[#150517](https://github.com/flutter/flutter/pull/150517) opened on on June 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) 162 additions and 5 deletions in 3 files</sub><br />
 

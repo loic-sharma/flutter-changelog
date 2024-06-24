@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 22, 2024 to June 28, 2024
+
+1 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
+    <sub>[#150481](https://github.com/flutter/flutter/pull/150481) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150481) over 4 days, 58 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
 ### June 15, 2024 to June 21, 2024
 
-44 commits.
+<details>
+<summary>44 commits...</summary>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix the layout (part 1)<br />
     <sub>[#149636](https://github.com/flutter/flutter/pull/149636) merged on June 22, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/149636) over 2 weeks, 303 additions and 126 deletions in 2 files</sub><br />
@@ -184,6 +193,8 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Revert "[a11y] Add semantics: button to bottom navigation bar items and dropdown menu items"<br />
     <sub>[#150445](https://github.com/flutter/flutter/pull/150445) merged on June 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150445) over 5 hours, 12 additions and 40 deletions in 4 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+</details>
 
 ### June 8, 2024 to June 14, 2024
 
