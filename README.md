@@ -472,9 +472,18 @@
 
 ## flutter/engine
 
+### June 22, 2024 to June 28, 2024
+
+1 commits.
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update uses of GrVkBackendContext and other deprecated type names<br />
+    <sub>[#53491](https://github.com/flutter/engine/pull/53491) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53491) over 3 days, 23 additions and 19 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 ### June 15, 2024 to June 21, 2024
 
-21 commits.
+<details>
+<summary>21 commits...</summary>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Add 'flt-semantics-identifier' attribute to semantics nodes<br />
     <sub>[#53278](https://github.com/flutter/engine/pull/53278) merged on June 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53278) over 1 week, 97 additions and 0 deletions in 2 files</sub><br />
@@ -559,6 +568,8 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reland "Upgrade all[most] androidx dependencies to latest" (#53462)"<br />
     <sub>[#53468](https://github.com/flutter/engine/pull/53468) merged on June 19, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/53468) over 1 minute, 439 additions and 64 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### June 8, 2024 to June 14, 2024
 
