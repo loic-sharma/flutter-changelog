@@ -32,9 +32,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150394) 161 additions and 48 deletions in 1 file</sub><br />
 
-* **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Load images in CanvasKit with Cookies<br />
-    <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150441) 56 additions and 6 deletions in 4 files</sub><br />
-
 * **[Greg Price](https://github.com/gnprice)** &mdash; Add benchmarks for tracking relayout boundaries<br />
     <sub>[#150539](https://github.com/flutter/flutter/pull/150539) opened on on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150539) 112 additions and 1 deletion in 2 files</sub><br />
 
