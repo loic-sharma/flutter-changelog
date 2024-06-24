@@ -740,9 +740,18 @@
 
 ## flutter/packages
 
+### June 22, 2024 to June 28, 2024
+
+1 commits.
+
+* **[Jim Cook](https://github.com/oravecz-jpmc)** &mdash; [flutter_adaptive_scaffold] Allows for the animation duration to be adjusted using SlotLayout.from()<br />
+    <sub>[#6510](https://github.com/flutter/packages/pull/6510) merged on June 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6510) over 2 months, 53 additions and 16 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
 ### June 15, 2024 to June 21, 2024
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Remove OCMock<br />
     <sub>[#6862](https://github.com/flutter/packages/pull/6862) merged on June 22, 2024 &mdash; **Extra large:** [119 comments](https://github.com/flutter/packages/pull/6862) over 2 weeks, 1617 additions and 617 deletions in 32 files</sub><br />
@@ -817,6 +826,8 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; Revert "Migrate `camera/android` from `SurfaceTexture`->`SurfaceProducer`."<br />
     <sub>[#6964](https://github.com/flutter/packages/pull/6964) merged on June 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6964) over 15 hours, 82 additions and 42 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+</details>
 
 ### June 8, 2024 to June 14, 2024
 
