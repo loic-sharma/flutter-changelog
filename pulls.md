@@ -86,3 +86,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for segmented_button.0.dart<br />
     <sub>[#150676](https://github.com/flutter/flutter/pull/150676) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150676) 111 additions and 1 deletion in 2 files</sub><br />
 
+* **[.](https://github.com/foxmind1)** &mdash; fix a typo<br />
+    <sub>[#150682](https://github.com/flutter/flutter/pull/150682) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150682) 1 addition and 1 deletion in 1 file</sub><br />
+
