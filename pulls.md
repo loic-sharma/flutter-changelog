@@ -95,3 +95,6 @@
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; add list tile contorl affinity to list tile theme<br />
     <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150695) 202 additions and 43 deletions in 9 files</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add tests for form_text_field.1.dart (#150481)"<br />
+    <sub>[#150696](https://github.com/flutter/flutter/pull/150696) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150696) 1 addition and 58 deletions in 2 files</sub><br />
+
