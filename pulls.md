@@ -35,9 +35,6 @@
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150315) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[Donghyun Kim](https://github.com/temeddix)** &mdash; Support setting HTTP headers from env variable for `flutter run`<br />
-    <sub>[#150320](https://github.com/flutter/flutter/pull/150320) opened on on June 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150320) 41 additions and 4 deletions in 2 files</sub><br />
-
 * **[Huy](https://github.com/huycozy)** &mdash; Add an example for CupertinoPopupSurface<br />
     <sub>[#150357](https://github.com/flutter/flutter/pull/150357) opened on on June 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150357) 183 additions and 0 deletions in 3 files</sub><br />
 
