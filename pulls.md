@@ -89,3 +89,6 @@
 * **[.](https://github.com/foxmind1)** &mdash; fix a typo<br />
     <sub>[#150682](https://github.com/flutter/flutter/pull/150682) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150682) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; Fixed Scroll bars incorrectly rendering with view padding <br />
+    <sub>[#150685](https://github.com/flutter/flutter/pull/150685) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150685) 127 additions and 7 deletions in 6 files</sub><br />
+
