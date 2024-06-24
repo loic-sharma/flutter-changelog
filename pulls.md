@@ -35,9 +35,6 @@
 * **[Dennis Kugelmann](https://github.com/IchordeDionysos)** &mdash; Load images in CanvasKit with Cookies<br />
     <sub>[#150441](https://github.com/flutter/flutter/pull/150441) opened on on June 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150441) 56 additions and 6 deletions in 4 files</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter.dev links from framework to more permanent destinations<br />
-    <sub>[#150531](https://github.com/flutter/flutter/pull/150531) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150531) 68 additions and 69 deletions in 44 files</sub><br />
-
 * **[Greg Price](https://github.com/gnprice)** &mdash; Add benchmarks for tracking relayout boundaries<br />
     <sub>[#150539](https://github.com/flutter/flutter/pull/150539) opened on on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150539) 112 additions and 1 deletion in 2 files</sub><br />
 
@@ -51,7 +48,7 @@
     <sub>[#150578](https://github.com/flutter/flutter/pull/150578) opened on on June 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150578) 24 additions and 11 deletions in 2 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to more reliable flutter.dev link destinations in the tool<br />
-    <sub>[#150587](https://github.com/flutter/flutter/pull/150587) opened on on June 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150587) 137 additions and 140 deletions in 70 files</sub><br />
+    <sub>[#150587](https://github.com/flutter/flutter/pull/150587) opened on on June 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150587) 137 additions and 140 deletions in 70 files</sub><br />
 
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fix link in RenderObjectWidget doc comment<br />
     <sub>[#150600](https://github.com/flutter/flutter/pull/150600) opened on on June 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150600) 1 addition and 1 deletion in 1 file</sub><br />
