@@ -83,3 +83,6 @@
 * **[Francisco Nicola](https://github.com/m3c-fnicola)** &mdash; [CP] Fix Linux numpad shortcuts on web<br />
     <sub>[#150723](https://github.com/flutter/flutter/pull/150723) opened on on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150723) 90 additions and 5 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] make flutter create use --offline in SPM integration tests<br />
+    <sub>[#150737](https://github.com/flutter/flutter/pull/150737) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150737) 1 addition and 0 deletions in 1 file</sub><br />
+
