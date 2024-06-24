@@ -4,7 +4,11 @@
 
 ### June 22, 2024 to June 28, 2024
 
-2 commits.
+3 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test<br />
+    <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add tests for form_text_field.1.dart (#150481)"<br />
     <sub>[#150696](https://github.com/flutter/flutter/pull/150696) merged on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150696) over 1 minute, 1 addition and 58 deletions in 2 files</sub><br />
@@ -478,11 +482,19 @@
 
 ### June 22, 2024 to June 28, 2024
 
-2 commits.
+4 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added a fallback that will make sure the blur fragment shader doesn't overflow<br />
+    <sub>[#53466](https://github.com/flutter/engine/pull/53466) merged on June 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53466) over 5 days, 50 additions and 15 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.Callback` lifecycle hooks<br />
     <sub>[#53280](https://github.com/flutter/engine/pull/53280) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53280) over 2 weeks, 143 additions and 26 deletions in 12 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Update Fuchsia API level to 19<br />
+    <sub>[#53494](https://github.com/flutter/engine/pull/53494) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53494) over 3 days, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [zijiehe@](https://github.com/zijiehe-google-com)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update uses of GrVkBackendContext and other deprecated type names<br />
     <sub>[#53491](https://github.com/flutter/engine/pull/53491) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53491) over 3 days, 23 additions and 19 deletions in 12 files</sub><br />

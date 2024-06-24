@@ -11,9 +11,6 @@
 * **[Kristijan Žic](https://github.com/KristijanZic)** &mdash; PageController: added default [duration] and [curve] values to animateToPage, nextPage and previousPage methods<br />
     <sub>[#148197](https://github.com/flutter/flutter/pull/148197) opened on on May 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/148197) 14 additions and 4 deletions in 1 file</sub><br />
 
-* **[zhibisora](https://github.com/zhibisora)** &mdash; Specify architecture when building for macOS<br />
-    <sub>[#148920](https://github.com/flutter/flutter/pull/148920) opened on on May 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/148920) 106 additions and 1 deletion in 2 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/149201) 55 additions and 0 deletions in 1 file</sub><br />
 
@@ -94,7 +91,4 @@
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include more details in structured errors sent to a DAP client<br />
     <sub>[#150698](https://github.com/flutter/flutter/pull/150698) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150698) 61 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test<br />
-    <sub>[#150707](https://github.com/flutter/flutter/pull/150707) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150707) 64 additions and 0 deletions in 1 file</sub><br />
 
