@@ -15,18 +15,18 @@
 <details>
 <summary>44 commits...</summary>
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix the layout (part 1)
-    <sub>[#149636](https://github.com/flutter/flutter/pull/149636) merged on June 22, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/149636) over 2 weeks, 303 additions and 126 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-    <sub><details><summary>5 images...</summary><img width="455" alt="image" src="https://github.com/flutter/flutter/assets/1596656/f8be35bd-0da5-4908-92f7-7a1f4e999229"><img width="405" alt="image" src="https://github.com/flutter/flutter/assets/1596656/54a37c2f-cd99-4e3b-86f0-045b1dfdbbb8"><img width="385" alt="image" src="https://github.com/flutter/flutter/assets/1596656/546ab529-0b62-4e3d-9019-ef900d3552e5"><img width="1142" alt="image" src="https://github.com/flutter/flutter/assets/1596656/e06b6dac-dbcd-48f7-9dee-83700ae680e0"><img width="999" alt="image" src="https://github.com/flutter/flutter/assets/1596656/698cf530-51fc-4906-90a5-7a3ab626f489"></details></sub>
+* **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Fix: Memory leak in UndoHistory widget because it never de-registered itself as global UndoManager client (Resolves #148291)
+    <sub>[#150661](https://github.com/flutter/flutter/pull/150661) merged on June 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150661) over 1 hour, 122 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Lexycon](https://github.com/Lexycon)** &mdash; Add 'fail-fast' argument to flutter test
     <sub>[#149587](https://github.com/flutter/flutter/pull/149587) merged on June 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/149587) over 2 weeks, 35 additions and 69 deletions in 3 files</sub>
     <sub>Reviewed by: [Haeven Dickerson ](https://github.com/Haeven), [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
-* **[Matt Carroll](https://github.com/matthew-carroll)** &mdash; Fix: Memory leak in UndoHistory widget because it never de-registered itself as global UndoManager client (Resolves #148291)
-    <sub>[#150661](https://github.com/flutter/flutter/pull/150661) merged on June 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150661) over 1 hour, 122 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix the layout (part 1)
+    <sub>[#149636](https://github.com/flutter/flutter/pull/149636) merged on June 22, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/149636) over 2 weeks, 303 additions and 126 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+    <sub><details><summary>5 images...</summary><img width="455" alt="image" src="https://github.com/flutter/flutter/assets/1596656/f8be35bd-0da5-4908-92f7-7a1f4e999229"><img width="405" alt="image" src="https://github.com/flutter/flutter/assets/1596656/54a37c2f-cd99-4e3b-86f0-045b1dfdbbb8"><img width="385" alt="image" src="https://github.com/flutter/flutter/assets/1596656/546ab529-0b62-4e3d-9019-ef900d3552e5"><img width="1142" alt="image" src="https://github.com/flutter/flutter/assets/1596656/e06b6dac-dbcd-48f7-9dee-83700ae680e0"><img width="999" alt="image" src="https://github.com/flutter/flutter/assets/1596656/698cf530-51fc-4906-90a5-7a3ab626f489"></details></sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make flutter tool enforce >= kotlin 1.7.0, Gradle 7.0.2, and AGP 7.0.0, and Fix test failures blocking androidx upgrade
     <sub>[#149204](https://github.com/flutter/flutter/pull/149204) merged on June 18, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/149204) over 3 weeks, 41 additions and 100 deletions in 6 files</sub>
