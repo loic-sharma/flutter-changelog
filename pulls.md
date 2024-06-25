@@ -80,3 +80,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix:: elevation and scrollUnderElevation depends on scrolling drawers on issue #120083<br />
     <sub>[#150793](https://github.com/flutter/flutter/pull/150793) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150793) 231 additions and 0 deletions in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adding `@docImport`s to the `animation` library<br />
+    <sub>[#150798](https://github.com/flutter/flutter/pull/150798) opened on on June 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150798) 16 additions and 0 deletions in 6 files</sub><br />
+
