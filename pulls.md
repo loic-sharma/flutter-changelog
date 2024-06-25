@@ -41,9 +41,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to more reliable flutter.dev link destinations in the tool<br />
     <sub>[#150587](https://github.com/flutter/flutter/pull/150587) opened on on June 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150587) 137 additions and 140 deletions in 70 files</sub><br />
 
-* **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fix link in RenderObjectWidget doc comment<br />
-    <sub>[#150600](https://github.com/flutter/flutter/pull/150600) opened on on June 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150600) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart<br />
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) opened on on June 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150606) 49 additions and 1 deletion in 2 files</sub><br />
 
