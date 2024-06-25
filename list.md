@@ -514,7 +514,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-7 commits.
+8 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots
     <sub>[#53524](https://github.com/flutter/engine/pull/53524) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53524) over 16 hours, 103 additions and 10 deletions in 4 files</sub>
@@ -531,6 +531,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.Callback` lifecycle hooks
     <sub>[#53280](https://github.com/flutter/engine/pull/53280) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53280) over 2 weeks, 143 additions and 26 deletions in 12 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Bump impeller-cmake-example
+    <sub>[#53538](https://github.com/flutter/engine/pull/53538) merged on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53538) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Update Fuchsia API level to 19
     <sub>[#53494](https://github.com/flutter/engine/pull/53494) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53494) over 3 days, 2 additions and 2 deletions in 2 files</sub>
