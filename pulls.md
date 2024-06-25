@@ -83,3 +83,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove `bringup: true` from web test shard.<br />
     <sub>[#150785](https://github.com/flutter/flutter/pull/150785) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150785) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
+    <sub>[#150787](https://github.com/flutter/flutter/pull/150787) opened on on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150787) 39 additions and 13 deletions in 2 files</sub><br />
+

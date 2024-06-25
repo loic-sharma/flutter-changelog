@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-17 commits.
+18 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test<br />
     <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub><br />
@@ -17,6 +17,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Manual engine roll to 6884e83<br />
     <sub>[#150733](https://github.com/flutter/flutter/pull/150733) merged on June 25, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/150733) over 2 hours, 1814 additions and 1297 deletions in 49 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
+    <sub>[#150741](https://github.com/flutter/flutter/pull/150741) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150741) over 16 hours, 39 additions and 13 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Manual engine roll to 6884e83 (#150733)"<br />
     <sub>[#150746](https://github.com/flutter/flutter/pull/150746) merged on June 25, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/150746) over 2 minutes, 1297 additions and 1814 deletions in 49 files</sub><br />
