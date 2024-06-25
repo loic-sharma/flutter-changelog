@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-20 commits.
+21 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test
     <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub>
@@ -13,6 +13,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix a number of broken doc comment references
     <sub>[#150540](https://github.com/flutter/flutter/pull/150540) merged on June 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150540) over 4 days, 37 additions and 31 deletions in 16 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Pierre-Louis](https://github.com/guidezpl)</sub>
+
+* **[Greg Price](https://github.com/gnprice)** &mdash; Document RenderObject._relayoutBoundary and its invariant; small refactors
+    <sub>[#150527](https://github.com/flutter/flutter/pull/150527) merged on June 25, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/150527) over 5 days, 55 additions and 23 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Manual engine roll to 6884e83
     <sub>[#150733](https://github.com/flutter/flutter/pull/150733) merged on June 25, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/150733) over 2 hours, 1814 additions and 1297 deletions in 49 files</sub>
