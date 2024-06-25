@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-18 commits.
+20 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test
     <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub>
@@ -53,6 +53,14 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update issue link in analysis_options.yaml
     <sub>[#150395](https://github.com/flutter/flutter/pull/150395) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150395) over 6 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[.](https://github.com/foxmind1)** &mdash; fix a typo
+    <sub>[#150682](https://github.com/flutter/flutter/pull/150682) merged on June 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150682) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fix link in RenderObjectWidget doc comment
+    <sub>[#150600](https://github.com/flutter/flutter/pull/150600) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150600) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Remove dubious comment
     <sub>[#150608](https://github.com/flutter/flutter/pull/150608) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150608) over 3 days, 0 additions and 1 deletion in 1 file</sub>
