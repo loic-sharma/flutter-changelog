@@ -89,3 +89,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add tests for form_text_field.1.dart (#150481) (#150696)<br />
     <sub>[#150750](https://github.com/flutter/flutter/pull/150750) opened on on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150750) 58 additions and 1 deletion in 2 files</sub><br />
 
+* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
+    <sub>[#150764](https://github.com/flutter/flutter/pull/150764) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150764) 152 additions and 5 deletions in 2 files</sub><br />
+
