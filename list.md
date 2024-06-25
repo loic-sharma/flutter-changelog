@@ -549,7 +549,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Implement `AppLifecycleState.detached` as documented
-    <sub>[#53506](https://github.com/flutter/engine/pull/53506) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53506) over 3 days, 84 additions and 12 deletions in 3 files</sub>
+    <sub>[#53506](https://github.com/flutter/engine/pull/53506) merged on June 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53506) over 3 days, 84 additions and 12 deletions in 3 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Re-re-land "Upgrade all[most] androidx dependencies to latest" (#53532)"
