@@ -906,13 +906,13 @@
     <sub>[#6963](https://github.com/flutter/packages/pull/6963) merged on June 25, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/6963) over 4 days, 114 additions and 148 deletions in 104 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Ian Hickson](https://github.com/Hixie), [Jenn Magder](https://github.com/jmagman), and [4 others](https://github.com/flutter/packages/pull/6963)</sub>
 
-* **[Jim Cook](https://github.com/oravecz-jpmc)** &mdash; [flutter_adaptive_scaffold] Allows for the animation duration to be adjusted using SlotLayout.from()
-    <sub>[#6510](https://github.com/flutter/packages/pull/6510) merged on June 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6510) over 2 months, 53 additions and 16 deletions in 4 files</sub>
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Update testing and docs
     <sub>[#6984](https://github.com/flutter/packages/pull/6984) merged on June 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6984) over 6 hours, 8 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Jim Cook](https://github.com/oravecz-jpmc)** &mdash; [flutter_adaptive_scaffold] Allows for the animation duration to be adjusted using SlotLayout.from()
+    <sub>[#6510](https://github.com/flutter/packages/pull/6510) merged on June 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6510) over 2 months, 53 additions and 16 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [interactive_media_ads] Fix README badge image URL
     <sub>[#6979](https://github.com/flutter/packages/pull/6979) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6979) over 40 minutes, 6 additions and 2 deletions in 3 files</sub>
