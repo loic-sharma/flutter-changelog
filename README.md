@@ -862,7 +862,7 @@
     <sub><details><summary>1 image...</summary><img width="565" alt="image" src="https://github.com/flutter/packages/assets/36191829/357c4d75-cc04-4848-ad88-757c9df25ad4"></details></sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds initial Android implementation<br />
-    <sub>[#6733](https://github.com/flutter/packages/pull/6733) merged on June 25, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6733) over 1 month, 16725 additions and 71 deletions in 78 files</sub><br />
+    <sub>[#6733](https://github.com/flutter/packages/pull/6733) merged on June 25, 2024 &mdash; **Extra large:** [33 comments](https://github.com/flutter/packages/pull/6733) over 1 month, 16725 additions and 71 deletions in 78 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [various] Update flutter.dev links to more reliable destinations<br />
