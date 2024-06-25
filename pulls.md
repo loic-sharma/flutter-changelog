@@ -59,9 +59,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for segmented_button.0.dart<br />
     <sub>[#150676](https://github.com/flutter/flutter/pull/150676) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150676) 111 additions and 1 deletion in 2 files</sub><br />
 
-* **[.](https://github.com/foxmind1)** &mdash; fix a typo<br />
-    <sub>[#150682](https://github.com/flutter/flutter/pull/150682) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150682) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; Fixed Scroll bars incorrectly rendering with view padding <br />
     <sub>[#150685](https://github.com/flutter/flutter/pull/150685) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150685) 130 additions and 11 deletions in 7 files</sub><br />
 
@@ -82,9 +79,6 @@
 
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; set onChangedField function to only update options with new results<br />
     <sub>[#150776](https://github.com/flutter/flutter/pull/150776) opened on on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150776) 10 additions and 0 deletions in 1 file</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove `bringup: true` from web test shard.<br />
-    <sub>[#150785](https://github.com/flutter/flutter/pull/150785) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150785) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
     <sub>[#150787](https://github.com/flutter/flutter/pull/150787) opened on on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150787) 39 additions and 13 deletions in 2 files</sub><br />
