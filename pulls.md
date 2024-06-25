@@ -69,7 +69,7 @@
     <sub>[#150685](https://github.com/flutter/flutter/pull/150685) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150685) 130 additions and 11 deletions in 7 files</sub><br />
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; add list tile contorl affinity to list tile theme<br />
-    <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/150695) 202 additions and 43 deletions in 9 files</sub><br />
+    <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/150695) 211 additions and 40 deletions in 9 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include more details in structured errors sent to a DAP client<br />
     <sub>[#150698](https://github.com/flutter/flutter/pull/150698) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150698) 61 additions and 1 deletion in 2 files</sub><br />
