@@ -80,3 +80,6 @@
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; set onChangedField function to only update options with new results<br />
     <sub>[#150776](https://github.com/flutter/flutter/pull/150776) opened on on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150776) 10 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove `bringup: true` from web test shard.<br />
+    <sub>[#150785](https://github.com/flutter/flutter/pull/150785) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150785) 0 additions and 1 deletion in 1 file</sub><br />
+
