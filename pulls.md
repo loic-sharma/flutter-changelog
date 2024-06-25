@@ -53,9 +53,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; testAdd tests for stepper.controls_builder.0.dart<br />
     <sub>[#150669](https://github.com/flutter/flutter/pull/150669) opened on on June 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150669) 21 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add withOpacity to gradient<br />
-    <sub>[#150670](https://github.com/flutter/flutter/pull/150670) opened on on June 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150670) 117 additions and 0 deletions in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for segmented_button.0.dart<br />
     <sub>[#150676](https://github.com/flutter/flutter/pull/150676) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150676) 111 additions and 1 deletion in 2 files</sub><br />
 
