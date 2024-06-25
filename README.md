@@ -4,7 +4,12 @@
 
 ### June 22, 2024 to June 28, 2024
 
-24 commits.
+25 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix collapsed InputDecorator minimum height<br />
+    <sub>[#150770](https://github.com/flutter/flutter/pull/150770) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150770) over 9 hours, 123 additions and 31 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/840911/0c854510-9d10-40a7-9a7e-8aa109f418e2)![image](https://github.com/flutter/flutter/assets/840911/fcc67270-fd19-46ed-a2c2-55406f953e97)</details></sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test<br />
     <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub><br />
