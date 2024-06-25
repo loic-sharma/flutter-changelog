@@ -550,7 +550,11 @@
 
 ### June 22, 2024 to June 28, 2024
 
-12 commits.
+13 commits.
+
+* **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
+    <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots<br />
     <sub>[#53524](https://github.com/flutter/engine/pull/53524) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53524) over 16 hours, 103 additions and 10 deletions in 4 files</sub><br />
@@ -842,7 +846,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-4 commits.
+5 commits.
 
 * **[MrJack](https://github.com/biagiopietro)** &mdash; [multicast_dns] Optimized Socket Binding: Always bind to 0.0.0.0 for simplicity and efficiency - #79772<br />
     <sub>[#6700](https://github.com/flutter/packages/pull/6700) merged on June 24, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/6700) over 1 month, 131 additions and 31 deletions in 5 files</sub><br />
@@ -852,6 +856,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds initial Android implementation<br />
     <sub>[#6733](https://github.com/flutter/packages/pull/6733) merged on June 25, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6733) over 1 month, 16725 additions and 71 deletions in 78 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [various] Update flutter.dev links to more reliable destinations<br />
+    <sub>[#6963](https://github.com/flutter/packages/pull/6963) merged on June 25, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/6963) over 4 days, 114 additions and 148 deletions in 104 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Ian Hickson](https://github.com/Hixie), [Jenn Magder](https://github.com/jmagman), and [4 others](https://github.com/flutter/packages/pull/6963)</sub><br />
 
 * **[Jim Cook](https://github.com/oravecz-jpmc)** &mdash; [flutter_adaptive_scaffold] Allows for the animation duration to be adjusted using SlotLayout.from()<br />
     <sub>[#6510](https://github.com/flutter/packages/pull/6510) merged on June 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6510) over 2 months, 53 additions and 16 deletions in 4 files</sub><br />
