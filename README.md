@@ -879,7 +879,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-6 commits.
+7 commits.
 
 * **[MrJack](https://github.com/biagiopietro)** &mdash; [multicast_dns] Optimized Socket Binding: Always bind to 0.0.0.0 for simplicity and efficiency - #79772<br />
     <sub>[#6700](https://github.com/flutter/packages/pull/6700) merged on June 24, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/6700) over 1 month, 131 additions and 31 deletions in 5 files</sub><br />
@@ -889,6 +889,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds initial Android implementation<br />
     <sub>[#6733](https://github.com/flutter/packages/pull/6733) merged on June 25, 2024 &mdash; **Extra large:** [33 comments](https://github.com/flutter/packages/pull/6733) over 1 month, 16725 additions and 71 deletions in 78 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Final refactor of `video_player_android` before `SurfaceProducer#setCallback`.<br />
+    <sub>[#6982](https://github.com/flutter/packages/pull/6982) merged on June 25, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/6982) over 17 hours, 859 additions and 404 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [various] Update flutter.dev links to more reliable destinations<br />
     <sub>[#6963](https://github.com/flutter/packages/pull/6963) merged on June 25, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/6963) over 4 days, 114 additions and 148 deletions in 104 files</sub><br />
