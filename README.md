@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-16 commits.
+17 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test<br />
     <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub><br />
@@ -68,6 +68,10 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
     <sub>[#150481](https://github.com/flutter/flutter/pull/150481) merged on June 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150481) over 4 days, 58 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add tests for form_text_field.1.dart (#150481) (#150696)<br />
+    <sub>[#150750](https://github.com/flutter/flutter/pull/150750) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150750) over 9 hours, 58 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 ### June 15, 2024 to June 21, 2024
