@@ -542,7 +542,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-11 commits.
+12 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots<br />
     <sub>[#53524](https://github.com/flutter/engine/pull/53524) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53524) over 16 hours, 103 additions and 10 deletions in 4 files</sub><br />
@@ -567,6 +567,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.Callback` lifecycle hooks<br />
     <sub>[#53280](https://github.com/flutter/engine/pull/53280) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53280) over 2 weeks, 143 additions and 26 deletions in 12 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Switch to recording DrawVertices objects by reference<br />
+    <sub>[#53548](https://github.com/flutter/engine/pull/53548) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53548) over 16 hours, 143 additions and 119 deletions in 37 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] Cleanup blur<br />
     <sub>[#53543](https://github.com/flutter/engine/pull/53543) merged on June 25, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/53543) over 16 hours, 208 additions and 128 deletions in 2 files</sub><br />
