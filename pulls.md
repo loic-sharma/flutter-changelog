@@ -77,3 +77,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
     <sub>[#150787](https://github.com/flutter/flutter/pull/150787) opened on on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150787) 39 additions and 13 deletions in 2 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; fix:: elevation and scrollUnderElevation depends on scrolling drawers on issue #120083<br />
+    <sub>[#150793](https://github.com/flutter/flutter/pull/150793) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150793) 231 additions and 0 deletions in 2 files</sub><br />
+
