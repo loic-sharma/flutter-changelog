@@ -52,8 +52,8 @@
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Read `AndroidManifest.xml` and emit `manifest-impeller-(enabled|disabled)` analytics
-    <sub>[#150791](https://github.com/flutter/flutter/pull/150791) merged on June 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150791) over 4 hours, 166 additions and 24 deletions in 5 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+    <sub>[#150791](https://github.com/flutter/flutter/pull/150791) merged on June 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150791) over 4 hours, 166 additions and 24 deletions in 5 files</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [flutter_tools] Shut down Chromium cleanly using a command sent through the debug protocol
     <sub>[#150645](https://github.com/flutter/flutter/pull/150645) merged on June 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150645) over 3 days, 129 additions and 39 deletions in 2 files</sub>
