@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-12 commits.
+13 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test
     <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub>
@@ -15,8 +15,12 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Pierre-Louis](https://github.com/guidezpl)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Manual engine roll to 6884e83
-    <sub>[#150733](https://github.com/flutter/flutter/pull/150733) merged on June 25, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/150733) over 2 hours, 1814 additions and 1297 deletions in 49 files</sub>
+    <sub>[#150733](https://github.com/flutter/flutter/pull/150733) merged on June 25, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/150733) over 2 hours, 1814 additions and 1297 deletions in 49 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Manual engine roll to 6884e83 (#150733)"
+    <sub>[#150746](https://github.com/flutter/flutter/pull/150746) merged on June 25, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/150746) over 2 minutes, 1297 additions and 1814 deletions in 49 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs
     <sub>[#150517](https://github.com/flutter/flutter/pull/150517) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) over 4 days, 162 additions and 5 deletions in 3 files</sub>
@@ -518,15 +522,19 @@
 
 ### June 22, 2024 to June 28, 2024
 
-8 commits.
+9 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots
     <sub>[#53524](https://github.com/flutter/engine/pull/53524) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53524) over 16 hours, 103 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-re-land "Upgrade all[most] androidx dependencies to latest"
-    <sub>[#53532](https://github.com/flutter/engine/pull/53532) merged on June 24, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/53532) over 5 hours, 58 additions and 433 deletions in 10 files</sub>
+    <sub>[#53532](https://github.com/flutter/engine/pull/53532) merged on June 24, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/53532) over 5 hours, 58 additions and 433 deletions in 10 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Re-re-land "Upgrade all[most] androidx dependencies to latest" (#53532)"
+    <sub>[#53546](https://github.com/flutter/engine/pull/53546) merged on June 25, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/53546) over 1 minute, 433 additions and 58 deletions in 10 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added a fallback that will make sure the blur fragment shader doesn't overflow
     <sub>[#53466](https://github.com/flutter/engine/pull/53466) merged on June 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53466) over 5 days, 50 additions and 15 deletions in 3 files</sub>
