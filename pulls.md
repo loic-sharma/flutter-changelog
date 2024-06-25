@@ -23,9 +23,6 @@
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150315) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[Huy](https://github.com/huycozy)** &mdash; Add an example for CupertinoPopupSurface<br />
-    <sub>[#150357](https://github.com/flutter/flutter/pull/150357) opened on on June 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150357) 183 additions and 0 deletions in 3 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150394) 161 additions and 48 deletions in 1 file</sub><br />
 
@@ -88,4 +85,7 @@
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
     <sub>[#150764](https://github.com/flutter/flutter/pull/150764) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150764) 152 additions and 5 deletions in 2 files</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix collapsed InputDecorator minimum height<br />
+    <sub>[#150770](https://github.com/flutter/flutter/pull/150770) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150770) 117 additions and 25 deletions in 2 files</sub><br />
 

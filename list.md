@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-15 commits.
+16 commits.
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test
     <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub>
@@ -29,6 +29,10 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/149734) over 2 weeks, 88 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Huy](https://github.com/huycozy)** &mdash; Add an example for CupertinoPopupSurface
+    <sub>[#150357](https://github.com/flutter/flutter/pull/150357) merged on June 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150357) over 1 week, 183 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Linkify 'see also' sections
     <sub>[#150734](https://github.com/flutter/flutter/pull/150734) merged on June 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150734) over 1 hour, 30 additions and 29 deletions in 6 files</sub>
