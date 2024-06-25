@@ -538,7 +538,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-9 commits.
+10 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots
     <sub>[#53524](https://github.com/flutter/engine/pull/53524) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53524) over 16 hours, 103 additions and 10 deletions in 4 files</sub>
@@ -547,6 +547,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-re-land "Upgrade all[most] androidx dependencies to latest"
     <sub>[#53532](https://github.com/flutter/engine/pull/53532) merged on June 24, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/53532) over 5 hours, 58 additions and 433 deletions in 10 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Implement `AppLifecycleState.detached` as documented
+    <sub>[#53506](https://github.com/flutter/engine/pull/53506) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53506) over 3 days, 84 additions and 12 deletions in 3 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Re-re-land "Upgrade all[most] androidx dependencies to latest" (#53532)"
     <sub>[#53546](https://github.com/flutter/engine/pull/53546) merged on June 25, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/53546) over 1 minute, 433 additions and 58 deletions in 10 files</sub>
