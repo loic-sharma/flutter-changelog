@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-38 commits.
+39 commits.
 
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
     <sub>[#150167](https://github.com/flutter/flutter/pull/150167) merged on June 26, 2024 &mdash; **Small:** [56 comments](https://github.com/flutter/flutter/pull/150167) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
@@ -55,6 +55,10 @@
     <sub>[#150517](https://github.com/flutter/flutter/pull/150517) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) over 4 days, 162 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adding `@docImport`s to the `animation` library<br />
+    <sub>[#150798](https://github.com/flutter/flutter/pull/150798) merged on June 26, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150798) over 1 day, 15 additions and 0 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.<br />
     <sub>[#150817](https://github.com/flutter/flutter/pull/150817) merged on June 26, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150817) over 4 hours, 9 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Matt Carroll](https://github.com/matthew-carroll), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -66,6 +70,10 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/149734) over 2 weeks, 88 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove CODEOWNERS trailing whitespace<br />
+    <sub>[#150882](https://github.com/flutter/flutter/pull/150882) merged on June 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150882) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remind folks we are moving.<br />
     <sub>[#150872](https://github.com/flutter/flutter/pull/150872) merged on June 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150872) over 1 hour, 4 additions and 0 deletions in 1 file</sub><br />
@@ -98,10 +106,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update issue link in analysis_options.yaml<br />
     <sub>[#150395](https://github.com/flutter/flutter/pull/150395) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150395) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove CODEOWNERS trailing whitespace<br />
-    <sub>[#150882](https://github.com/flutter/flutter/pull/150882) merged on June 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150882) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
     <sub>[#150481](https://github.com/flutter/flutter/pull/150481) merged on June 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150481) over 4 days, 58 additions and 1 deletion in 2 files</sub><br />
@@ -143,21 +147,21 @@
     <sub>[#150810](https://github.com/flutter/flutter/pull/150810) merged on June 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150810) over 48 minutes, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove reference to `MaterialApp` and `showCupertinoModalPopup` from `CupertinoAlertDialog`<br />
-    <sub>[#150725](https://github.com/flutter/flutter/pull/150725) merged on June 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150725) over 1 day, 138 additions and 97 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add tests for form_text_field.1.dart (#150481)"<br />
     <sub>[#150696](https://github.com/flutter/flutter/pull/150696) merged on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150696) over 1 minute, 1 addition and 58 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add tests for form_text_field.1.dart (#150481) (#150696)<br />
-    <sub>[#150750](https://github.com/flutter/flutter/pull/150750) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150750) over 9 hours, 58 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove reference to `MaterialApp` and `showCupertinoModalPopup` from `CupertinoAlertDialog`<br />
+    <sub>[#150725](https://github.com/flutter/flutter/pull/150725) merged on June 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150725) over 1 day, 138 additions and 97 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix inputDecorator hint color on M3<br />
     <sub>[#150278](https://github.com/flutter/flutter/pull/150278) merged on June 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150278) over 1 week, 43 additions and 28 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add tests for form_text_field.1.dart (#150481) (#150696)<br />
+    <sub>[#150750](https://github.com/flutter/flutter/pull/150750) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150750) over 9 hours, 58 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 ### June 15, 2024 to June 21, 2024
 
