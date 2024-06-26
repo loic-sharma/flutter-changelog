@@ -47,9 +47,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for segmented_button.0.dart<br />
     <sub>[#150676](https://github.com/flutter/flutter/pull/150676) opened on on June 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150676) 110 additions and 1 deletion in 2 files</sub><br />
 
-* **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; Fixed Scroll bars incorrectly rendering with view padding <br />
-    <sub>[#150685](https://github.com/flutter/flutter/pull/150685) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150685) 130 additions and 11 deletions in 7 files</sub><br />
-
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; add list tile contorl affinity to list tile theme<br />
     <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150695) 211 additions and 40 deletions in 9 files</sub><br />
 
@@ -67,7 +64,4 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
     <sub>[#150787](https://github.com/flutter/flutter/pull/150787) opened on on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150787) 39 additions and 13 deletions in 2 files</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; fix:: elevation and scrollUnderElevation depends on scrolling drawers on issue #120083<br />
-    <sub>[#150793](https://github.com/flutter/flutter/pull/150793) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150793) 231 additions and 0 deletions in 2 files</sub><br />
 
