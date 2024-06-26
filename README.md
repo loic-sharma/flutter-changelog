@@ -4,16 +4,16 @@
 
 ### June 22, 2024 to June 28, 2024
 
-39 commits.
-
-* **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
-    <sub>[#150167](https://github.com/flutter/flutter/pull/150167) merged on June 26, 2024 &mdash; **Small:** [56 comments](https://github.com/flutter/flutter/pull/150167) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Nate Wilson](https://github.com/nate-thegrate), [Greg Price](https://github.com/gnprice), [Michael Goderbauer](https://github.com/goderbauer), [John McDole](https://github.com/jtmcdole)</sub><br />
+40 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix collapsed InputDecorator minimum height<br />
     <sub>[#150770](https://github.com/flutter/flutter/pull/150770) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150770) over 9 hours, 123 additions and 31 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/840911/0c854510-9d10-40a7-9a7e-8aa109f418e2)![image](https://github.com/flutter/flutter/assets/840911/fcc67270-fd19-46ed-a2c2-55406f953e97)</details></sub>
+
+* **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
+    <sub>[#150167](https://github.com/flutter/flutter/pull/150167) merged on June 26, 2024 &mdash; **Small:** [56 comments](https://github.com/flutter/flutter/pull/150167) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Nate Wilson](https://github.com/nate-thegrate), [Greg Price](https://github.com/gnprice), [Michael Goderbauer](https://github.com/goderbauer), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix flaky sliver tree test<br />
     <sub>[#150707](https://github.com/flutter/flutter/pull/150707) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150707) over 31 minutes, 64 additions and 0 deletions in 1 file</sub><br />
@@ -39,6 +39,10 @@
     <sub>[#150733](https://github.com/flutter/flutter/pull/150733) merged on June 25, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/150733) over 2 hours, 1814 additions and 1297 deletions in 49 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs<br />
+    <sub>[#150517](https://github.com/flutter/flutter/pull/150517) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) over 4 days, 162 additions and 5 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Remove `dual_screen` from `new_gallery` integration test (#150808)"<br />
     <sub>[#150871](https://github.com/flutter/flutter/pull/150871) merged on June 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/150871) over 44 seconds, 442 additions and 24 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
@@ -50,10 +54,6 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Manual engine roll to 6884e83 (#150733)"<br />
     <sub>[#150746](https://github.com/flutter/flutter/pull/150746) merged on June 25, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/150746) over 2 minutes, 1297 additions and 1814 deletions in 49 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs<br />
-    <sub>[#150517](https://github.com/flutter/flutter/pull/150517) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) over 4 days, 162 additions and 5 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adding `@docImport`s to the `animation` library<br />
     <sub>[#150798](https://github.com/flutter/flutter/pull/150798) merged on June 26, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150798) over 1 day, 15 additions and 0 deletions in 6 files</sub><br />
@@ -69,6 +69,10 @@
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools/dap] Handle app.stop errors when launching/attaching<br />
     <sub>[#149734](https://github.com/flutter/flutter/pull/149734) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/149734) over 2 weeks, 88 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to more reliable flutter.dev link destinations in the tool<br />
+    <sub>[#150587](https://github.com/flutter/flutter/pull/150587) merged on June 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150587) over 6 days, 137 additions and 140 deletions in 70 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove CODEOWNERS trailing whitespace<br />
@@ -107,10 +111,6 @@
     <sub>[#150395](https://github.com/flutter/flutter/pull/150395) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150395) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
-    <sub>[#150481](https://github.com/flutter/flutter/pull/150481) merged on June 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150481) over 4 days, 58 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#150739](https://github.com/flutter/flutter/pull/150739) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150739) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
@@ -131,13 +131,13 @@
     <sub>[#150712](https://github.com/flutter/flutter/pull/150712) merged on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150712) over 3 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update android_device.dart to have clearLogs not print to standard error<br />
-    <sub>[#150197](https://github.com/flutter/flutter/pull/150197) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150197) over 1 week, 18 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove `bringup: true` from web test shard.<br />
     <sub>[#150785](https://github.com/flutter/flutter/pull/150785) merged on June 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150785) over 1 day, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update android_device.dart to have clearLogs not print to standard error<br />
+    <sub>[#150197](https://github.com/flutter/flutter/pull/150197) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150197) over 1 week, 18 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `Isolate.packageConfigSync! to locate the packageconfig of flutter tools<br />
     <sub>[#150340](https://github.com/flutter/flutter/pull/150340) merged on June 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150340) over 1 week, 8 additions and 18 deletions in 3 files</sub><br />
@@ -147,13 +147,17 @@
     <sub>[#150810](https://github.com/flutter/flutter/pull/150810) merged on June 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150810) over 48 minutes, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove reference to `MaterialApp` and `showCupertinoModalPopup` from `CupertinoAlertDialog`<br />
+    <sub>[#150725](https://github.com/flutter/flutter/pull/150725) merged on June 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150725) over 1 day, 138 additions and 97 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Add tests for form_text_field.1.dart (#150481)"<br />
     <sub>[#150696](https://github.com/flutter/flutter/pull/150696) merged on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150696) over 1 minute, 1 addition and 58 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Remove reference to `MaterialApp` and `showCupertinoModalPopup` from `CupertinoAlertDialog`<br />
-    <sub>[#150725](https://github.com/flutter/flutter/pull/150725) merged on June 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150725) over 1 day, 138 additions and 97 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Hans Muller](https://github.com/HansMuller)</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
+    <sub>[#150481](https://github.com/flutter/flutter/pull/150481) merged on June 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150481) over 4 days, 58 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix inputDecorator hint color on M3<br />
     <sub>[#150278](https://github.com/flutter/flutter/pull/150278) merged on June 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150278) over 1 week, 43 additions and 28 deletions in 4 files</sub><br />
