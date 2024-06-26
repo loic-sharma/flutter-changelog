@@ -611,7 +611,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-19 commits.
+21 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub>
@@ -620,6 +620,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fixes for getting pixels from an image.
     <sub>[#53561](https://github.com/flutter/engine/pull/53561) merged on June 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53561) over 2 hours, 133 additions and 69 deletions in 6 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Copy `flutter/flutter/docs/engine` to `flutter/engine/docs` as-is (no changes)
+    <sub>[#53595](https://github.com/flutter/engine/pull/53595) merged on June 26, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/53595) over 44 minutes, 2763 additions and 0 deletions in 28 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `Log.w` with `Log.d`, and tidy the file up a bit.
     <sub>[#53586](https://github.com/flutter/engine/pull/53586) merged on June 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53586) over 1 hour, 44 additions and 61 deletions in 1 file</sub>
@@ -648,6 +652,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.Callback` lifecycle hooks
     <sub>[#53280](https://github.com/flutter/engine/pull/53280) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53280) over 2 weeks, 143 additions and 26 deletions in 12 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove otherwise unused third_party/web_dependencies.
+    <sub>[#53588](https://github.com/flutter/engine/pull/53588) merged on June 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53588) over 2 hours, 1 addition and 12 deletions in 3 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move impeller-cmake-example to flutter/third_party.
     <sub>[#53589](https://github.com/flutter/engine/pull/53589) merged on June 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53589) over 51 minutes, 3 additions and 3 deletions in 2 files</sub>
