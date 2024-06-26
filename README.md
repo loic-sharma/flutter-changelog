@@ -24,7 +24,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Pierre-Louis](https://github.com/guidezpl)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `dual_screen` from `new_gallery` integration test<br />
-    <sub>[#150808](https://github.com/flutter/flutter/pull/150808) merged on June 26, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/150808) over 20 hours, 26 additions and 444 deletions in 10 files</sub><br />
+    <sub>[#150808](https://github.com/flutter/flutter/pull/150808) merged on June 26, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/150808) over 20 hours, 26 additions and 444 deletions in 10 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [John McDole](https://github.com/jtmcdole), [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add more warm up frame docs<br />
