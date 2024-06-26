@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-33 commits.
+34 commits.
 
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
     <sub>[#150167](https://github.com/flutter/flutter/pull/150167) merged on June 26, 2024 &mdash; **Small:** [56 comments](https://github.com/flutter/flutter/pull/150167) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
@@ -22,6 +22,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix a number of broken doc comment references<br />
     <sub>[#150540](https://github.com/flutter/flutter/pull/150540) merged on June 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150540) over 4 days, 37 additions and 31 deletions in 16 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Pierre-Louis](https://github.com/guidezpl)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `dual_screen` from `new_gallery` integration test<br />
+    <sub>[#150808](https://github.com/flutter/flutter/pull/150808) merged on June 26, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/150808) over 20 hours, 26 additions and 444 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [John McDole](https://github.com/jtmcdole), [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add more warm up frame docs<br />
     <sub>[#150464](https://github.com/flutter/flutter/pull/150464) merged on June 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150464) over 6 days, 25 additions and 1 deletion in 1 file</sub><br />
@@ -87,9 +91,9 @@
     <sub>[#150395](https://github.com/flutter/flutter/pull/150395) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150395) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `Isolate.packageConfigSync! to locate the packageconfig of flutter tools<br />
-    <sub>[#150340](https://github.com/flutter/flutter/pull/150340) merged on June 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150340) over 1 week, 8 additions and 18 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
+    <sub>[#150481](https://github.com/flutter/flutter/pull/150481) merged on June 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150481) over 4 days, 58 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#150810](https://github.com/flutter/flutter/pull/150810) merged on June 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150810) over 48 minutes, 2 additions and 2 deletions in 1 file</sub><br />
@@ -127,17 +131,17 @@
     <sub>[#150696](https://github.com/flutter/flutter/pull/150696) merged on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150696) over 1 minute, 1 addition and 58 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for form_text_field.1.dart<br />
-    <sub>[#150481](https://github.com/flutter/flutter/pull/150481) merged on June 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150481) over 4 days, 58 additions and 1 deletion in 2 files</sub><br />
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Use `Isolate.packageConfigSync! to locate the packageconfig of flutter tools<br />
+    <sub>[#150340](https://github.com/flutter/flutter/pull/150340) merged on June 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150340) over 1 week, 8 additions and 18 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add tests for form_text_field.1.dart (#150481) (#150696)<br />
+    <sub>[#150750](https://github.com/flutter/flutter/pull/150750) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150750) over 9 hours, 58 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix inputDecorator hint color on M3<br />
     <sub>[#150278](https://github.com/flutter/flutter/pull/150278) merged on June 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150278) over 1 week, 43 additions and 28 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add tests for form_text_field.1.dart (#150481) (#150696)<br />
-    <sub>[#150750](https://github.com/flutter/flutter/pull/150750) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150750) over 9 hours, 58 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 ### June 15, 2024 to June 21, 2024
 
