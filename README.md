@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-34 commits.
+35 commits.
 
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
     <sub>[#150167](https://github.com/flutter/flutter/pull/150167) merged on June 26, 2024 &mdash; **Small:** [56 comments](https://github.com/flutter/flutter/pull/150167) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
@@ -24,7 +24,7 @@
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Pierre-Louis](https://github.com/guidezpl)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `dual_screen` from `new_gallery` integration test<br />
-    <sub>[#150808](https://github.com/flutter/flutter/pull/150808) merged on June 26, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/150808) over 20 hours, 26 additions and 444 deletions in 10 files</sub><br />
+    <sub>[#150808](https://github.com/flutter/flutter/pull/150808) merged on June 26, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/150808) over 20 hours, 26 additions and 444 deletions in 10 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [John McDole](https://github.com/jtmcdole), [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add more warm up frame docs<br />
@@ -39,6 +39,10 @@
     <sub>[#150733](https://github.com/flutter/flutter/pull/150733) merged on June 25, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/150733) over 2 hours, 1814 additions and 1297 deletions in 49 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs<br />
+    <sub>[#150517](https://github.com/flutter/flutter/pull/150517) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) over 4 days, 162 additions and 5 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
     <sub>[#150741](https://github.com/flutter/flutter/pull/150741) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150741) over 16 hours, 39 additions and 13 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
@@ -47,9 +51,9 @@
     <sub>[#150746](https://github.com/flutter/flutter/pull/150746) merged on June 25, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/150746) over 2 minutes, 1297 additions and 1814 deletions in 49 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs<br />
-    <sub>[#150517](https://github.com/flutter/flutter/pull/150517) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) over 4 days, 162 additions and 5 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Gray Mackall](https://github.com/gmackall)</sub><br />
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Remove `dual_screen` from `new_gallery` integration test (#150808)"<br />
+    <sub>[#150871](https://github.com/flutter/flutter/pull/150871) merged on June 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/150871) over 44 seconds, 442 additions and 24 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.<br />
     <sub>[#150817](https://github.com/flutter/flutter/pull/150817) merged on June 26, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150817) over 4 hours, 9 additions and 0 deletions in 2 files</sub><br />
