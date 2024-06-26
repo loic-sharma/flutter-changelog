@@ -27,7 +27,7 @@
     <sub>[#150440](https://github.com/flutter/flutter/pull/150440) opened on on June 18, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150440) 58 additions and 0 deletions in 5 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
-    <sub>[#150559](https://github.com/flutter/flutter/pull/150559) opened on on June 20, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/150559) 712 additions and 224 deletions in 53 files</sub><br />
+    <sub>[#150559](https://github.com/flutter/flutter/pull/150559) opened on on June 20, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/150559) 711 additions and 223 deletions in 52 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to more reliable flutter.dev link destinations in the tool<br />
     <sub>[#150587](https://github.com/flutter/flutter/pull/150587) opened on on June 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150587) 137 additions and 140 deletions in 70 files</sub><br />
@@ -70,7 +70,4 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix:: elevation and scrollUnderElevation depends on scrolling drawers on issue #120083<br />
     <sub>[#150793](https://github.com/flutter/flutter/pull/150793) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150793) 231 additions and 0 deletions in 2 files</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix InputDecorator hint default text style on M3<br />
-    <sub>[#150835](https://github.com/flutter/flutter/pull/150835) opened on on June 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150835) 13 additions and 25 deletions in 2 files</sub><br />
 
