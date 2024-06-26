@@ -33,7 +33,7 @@
     <sub>[#150587](https://github.com/flutter/flutter/pull/150587) opened on on June 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150587) 137 additions and 140 deletions in 70 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart<br />
-    <sub>[#150606](https://github.com/flutter/flutter/pull/150606) opened on on June 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150606) 49 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#150606](https://github.com/flutter/flutter/pull/150606) opened on on June 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150606) 49 additions and 1 deletion in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix project name fallback<br />
     <sub>[#150614](https://github.com/flutter/flutter/pull/150614) opened on on June 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150614) 55 additions and 4 deletions in 2 files</sub><br />
