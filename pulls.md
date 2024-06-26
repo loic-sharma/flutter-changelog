@@ -36,7 +36,7 @@
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) opened on on June 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150606) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix project name fallback<br />
-    <sub>[#150614](https://github.com/flutter/flutter/pull/150614) opened on on June 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150614) 55 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#150614](https://github.com/flutter/flutter/pull/150614) opened on on June 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150614) 55 additions and 4 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][CLI tool] in `flutter test`, consider `--flavor` when validating the cached asset bundle<br />
     <sub>[#150617](https://github.com/flutter/flutter/pull/150617) opened on on June 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150617) 81 additions and 5 deletions in 2 files</sub><br />
@@ -47,8 +47,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for segmented_button.0.dart<br />
     <sub>[#150676](https://github.com/flutter/flutter/pull/150676) opened on on June 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150676) 110 additions and 1 deletion in 2 files</sub><br />
 
-* **[flyboy](https://github.com/hello-coder-xu)** &mdash; add list tile contorl affinity to list tile theme<br />
-    <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150695) 211 additions and 40 deletions in 9 files</sub><br />
+* **[flyboy](https://github.com/hello-coder-xu)** &mdash; Add `ListTileControlAffinity `to `ListTileTheme`<br />
+    <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/150695) 211 additions and 40 deletions in 9 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include more details in structured errors sent to a DAP client<br />
     <sub>[#150698](https://github.com/flutter/flutter/pull/150698) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150698) 61 additions and 1 deletion in 2 files</sub><br />

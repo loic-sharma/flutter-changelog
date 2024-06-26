@@ -607,7 +607,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-18 commits.
+19 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub>
@@ -616,6 +616,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fixes for getting pixels from an image.
     <sub>[#53561](https://github.com/flutter/engine/pull/53561) merged on June 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53561) over 2 hours, 133 additions and 69 deletions in 6 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `Log.w` with `Log.d`, and tidy the file up a bit.
+    <sub>[#53586](https://github.com/flutter/engine/pull/53586) merged on June 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53586) over 1 hour, 44 additions and 61 deletions in 1 file</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots
     <sub>[#53524](https://github.com/flutter/engine/pull/53524) merged on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53524) over 16 hours, 103 additions and 10 deletions in 4 files</sub>
