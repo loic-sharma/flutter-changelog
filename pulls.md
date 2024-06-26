@@ -71,3 +71,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix:: elevation and scrollUnderElevation depends on scrolling drawers on issue #120083<br />
     <sub>[#150793](https://github.com/flutter/flutter/pull/150793) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150793) 231 additions and 0 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix InputDecorator hint default text style on M3<br />
+    <sub>[#150835](https://github.com/flutter/flutter/pull/150835) opened on on June 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150835) 13 additions and 25 deletions in 2 files</sub><br />
+
