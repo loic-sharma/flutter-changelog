@@ -4,7 +4,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-30 commits.
+31 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix collapsed InputDecorator minimum height
     <sub>[#150770](https://github.com/flutter/flutter/pull/150770) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150770) over 9 hours, 123 additions and 31 deletions in 2 files</sub>
@@ -42,6 +42,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs
     <sub>[#150517](https://github.com/flutter/flutter/pull/150517) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) over 4 days, 162 additions and 5 deletions in 3 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.
+    <sub>[#150817](https://github.com/flutter/flutter/pull/150817) merged on June 26, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150817) over 4 hours, 9 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Matt Carroll](https://github.com/matthew-carroll), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add `focusNode`, `focusColor`, `onFocusChange`, `autofocus` to `CupertinoButton`
     <sub>[#150721](https://github.com/flutter/flutter/pull/150721) merged on June 25, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/150721) over 23 hours, 221 additions and 38 deletions in 2 files</sub>
