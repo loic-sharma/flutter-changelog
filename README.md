@@ -599,7 +599,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-15 commits.
+16 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
@@ -644,6 +644,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] Cleanup blur<br />
     <sub>[#53543](https://github.com/flutter/engine/pull/53543) merged on June 25, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/53543) over 16 hours, 208 additions and 128 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Ignore lints that will be triggered by ExternalDartReference changes<br />
+    <sub>[#53572](https://github.com/flutter/engine/pull/53572) merged on June 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53572) over 18 hours, 2 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Bump impeller-cmake-example<br />
     <sub>[#53538](https://github.com/flutter/engine/pull/53538) merged on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53538) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
