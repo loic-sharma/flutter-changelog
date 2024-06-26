@@ -603,7 +603,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-17 commits.
+18 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub>
@@ -636,6 +636,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.Callback` lifecycle hooks
     <sub>[#53280](https://github.com/flutter/engine/pull/53280) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53280) over 2 weeks, 143 additions and 26 deletions in 12 files</sub>
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move impeller-cmake-example to flutter/third_party.
+    <sub>[#53589](https://github.com/flutter/engine/pull/53589) merged on June 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53589) over 51 minutes, 3 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll the archive package to version 3.6.1
     <sub>[#53582](https://github.com/flutter/engine/pull/53582) merged on June 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53582) over 53 minutes, 1 addition and 1 deletion in 1 file</sub>
