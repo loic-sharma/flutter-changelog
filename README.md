@@ -587,7 +587,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-14 commits.
+15 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
@@ -620,6 +620,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.Callback` lifecycle hooks<br />
     <sub>[#53280](https://github.com/flutter/engine/pull/53280) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53280) over 2 weeks, 143 additions and 26 deletions in 12 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove FlutterUndoManagerPlugin handlers from undo manager on dealloc<br />
+    <sub>[#53553](https://github.com/flutter/engine/pull/53553) merged on June 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53553) over 17 hours, 45 additions and 5 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Switch to recording DrawVertices objects by reference<br />
     <sub>[#53548](https://github.com/flutter/engine/pull/53548) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53548) over 16 hours, 143 additions and 119 deletions in 37 files</sub><br />
