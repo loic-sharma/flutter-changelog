@@ -619,7 +619,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-21 commits.
+22 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
@@ -652,6 +652,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Re-re-land "Upgrade all[most] androidx dependencies to latest" (#53532)"<br />
     <sub>[#53546](https://github.com/flutter/engine/pull/53546) merged on June 25, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/53546) over 1 minute, 433 additions and 58 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] blur - cropped the downsample pass for backdrop filters<br />
+    <sub>[#53562](https://github.com/flutter/engine/pull/53562) merged on June 26, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53562) over 1 day, 131 additions and 54 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added a fallback that will make sure the blur fragment shader doesn't overflow<br />
     <sub>[#53466](https://github.com/flutter/engine/pull/53466) merged on June 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53466) over 5 days, 50 additions and 15 deletions in 3 files</sub><br />

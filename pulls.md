@@ -62,6 +62,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
     <sub>[#150787](https://github.com/flutter/flutter/pull/150787) opened on on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150787) 39 additions and 13 deletions in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Remove dual_screen from new_gallery integration test"<br />
-    <sub>[#150873](https://github.com/flutter/flutter/pull/150873) opened on on June 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/150873) 55 additions and 433 deletions in 9 files</sub><br />
-
