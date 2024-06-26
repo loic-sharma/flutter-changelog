@@ -72,5 +72,5 @@
     <sub>[#150793](https://github.com/flutter/flutter/pull/150793) opened on on June 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150793) 231 additions and 0 deletions in 2 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.<br />
-    <sub>[#150817](https://github.com/flutter/flutter/pull/150817) opened on on June 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150817) 9 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#150817](https://github.com/flutter/flutter/pull/150817) opened on on June 26, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150817) 9 additions and 0 deletions in 2 files</sub><br />
 
