@@ -74,6 +74,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix InputDecorator hint default text style on M3<br />
     <sub>[#150835](https://github.com/flutter/flutter/pull/150835) opened on on June 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150835) 13 additions and 25 deletions in 2 files</sub><br />
 
-* **[abdalmonem](https://github.com/abdalmonem)** &mdash; Add 'direction' allow to 'SegmentedButton' vertically<br />
-    <sub>[#150845](https://github.com/flutter/flutter/pull/150845) opened on on June 26, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/150845) 562 additions and 233 deletions in 2 files</sub><br />
-
