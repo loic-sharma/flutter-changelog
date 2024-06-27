@@ -667,7 +667,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-25 commits.
+26 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
@@ -744,6 +744,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] Cleanup blur<br />
     <sub>[#53543](https://github.com/flutter/engine/pull/53543) merged on June 25, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/53543) over 16 hours, 208 additions and 128 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[John O'Neil](https://github.com/johnoneil)** &mdash; Fix #150515 Provide required headers for build with Clang-16 and GCC …<br />
+    <sub>[#53479](https://github.com/flutter/engine/pull/53479) merged on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53479) over 1 week, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Håkon Bertheussen](https://github.com/hakonber)** &mdash; Fix AccessibilityFeatures.disableAnimations flag on Android 12+<br />
     <sub>[#53428](https://github.com/flutter/engine/pull/53428) merged on June 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53428) over 1 week, 80 additions and 5 deletions in 2 files</sub><br />
