@@ -690,7 +690,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] blur - cropped the downsample pass for backdrop filters
-    <sub>[#53562](https://github.com/flutter/engine/pull/53562) merged on June 26, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53562) over 1 day, 131 additions and 54 deletions in 1 file</sub>
+    <sub>[#53562](https://github.com/flutter/engine/pull/53562) merged on June 26, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/53562) over 1 day, 131 additions and 54 deletions in 1 file</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added a fallback that will make sure the blur fragment shader doesn't overflow
