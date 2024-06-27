@@ -987,7 +987,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-8 commits.
+10 commits.
 
 * **[MrJack](https://github.com/biagiopietro)** &mdash; [multicast_dns] Optimized Socket Binding: Always bind to 0.0.0.0 for simplicity and efficiency - #79772
     <sub>[#6700](https://github.com/flutter/packages/pull/6700) merged on June 24, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/6700) over 1 month, 131 additions and 31 deletions in 5 files</sub>
@@ -1017,6 +1017,14 @@
 * **[Jim Cook](https://github.com/oravecz-jpmc)** &mdash; [flutter_adaptive_scaffold] Allows for the animation duration to be adjusted using SlotLayout.from()
     <sub>[#6510](https://github.com/flutter/packages/pull/6510) merged on June 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6510) over 2 months, 53 additions and 16 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Fix vm test requirement
+    <sub>[#6995](https://github.com/flutter/packages/pull/6995) merged on June 27, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6995) over 17 hours, 192 additions and 41 deletions in 3 files</sub>
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Update `web_benchmarks` package to properly support wasm.
+    <sub>[#6970](https://github.com/flutter/packages/pull/6970) merged on June 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6970) over 5 days, 27 additions and 31 deletions in 8 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [interactive_media_ads] Fix README badge image URL
     <sub>[#6979](https://github.com/flutter/packages/pull/6979) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6979) over 40 minutes, 6 additions and 2 deletions in 3 files</sub>
