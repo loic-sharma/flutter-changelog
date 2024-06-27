@@ -666,7 +666,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] blur - cropped the downsample pass for backdrop filters<br />
-    <sub>[#53562](https://github.com/flutter/engine/pull/53562) merged on June 26, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53562) over 1 day, 131 additions and 54 deletions in 1 file</sub><br />
+    <sub>[#53562](https://github.com/flutter/engine/pull/53562) merged on June 26, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/53562) over 1 day, 131 additions and 54 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Copy `flutter/flutter/docs/engine` to `flutter/engine/docs` as-is (no changes)<br />
