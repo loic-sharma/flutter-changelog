@@ -690,7 +690,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] blur - cropped the downsample pass for backdrop filters<br />
-    <sub>[#53562](https://github.com/flutter/engine/pull/53562) merged on June 26, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/53562) over 1 day, 131 additions and 54 deletions in 1 file</sub><br />
+    <sub>[#53562](https://github.com/flutter/engine/pull/53562) merged on June 26, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/53562) over 1 day, 131 additions and 54 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] added a fallback that will make sure the blur fragment shader doesn't overflow<br />
@@ -991,7 +991,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-10 commits.
+11 commits.
 
 * **[MrJack](https://github.com/biagiopietro)** &mdash; [multicast_dns] Optimized Socket Binding: Always bind to 0.0.0.0 for simplicity and efficiency - #79772<br />
     <sub>[#6700](https://github.com/flutter/packages/pull/6700) merged on June 24, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/6700) over 1 month, 131 additions and 31 deletions in 5 files</sub><br />
@@ -1005,6 +1005,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Final refactor of `video_player_android` before `SurfaceProducer#setCallback`.<br />
     <sub>[#6982](https://github.com/flutter/packages/pull/6982) merged on June 25, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/6982) over 17 hours, 859 additions and 404 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Updates `README` with a usage section and fix some interface docs<br />
+    <sub>[#6988](https://github.com/flutter/packages/pull/6988) merged on June 27, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/6988) over 1 day, 324 additions and 27 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Implement equals for Java data classes<br />
     <sub>[#6992](https://github.com/flutter/packages/pull/6992) merged on June 27, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/6992) over 7 hours, 311 additions and 7 deletions in 7 files</sub><br />
