@@ -45,7 +45,7 @@
     <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/150695) 215 additions and 40 deletions in 9 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include more details in structured errors sent to a DAP client<br />
-    <sub>[#150698](https://github.com/flutter/flutter/pull/150698) opened on on June 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150698) 61 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#150698](https://github.com/flutter/flutter/pull/150698) opened on on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150698) 61 additions and 1 deletion in 2 files</sub><br />
 
 * **[Francisco Nicola](https://github.com/m3c-fnicola)** &mdash; [CP] Fix Linux numpad shortcuts on web<br />
     <sub>[#150723](https://github.com/flutter/flutter/pull/150723) opened on on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150723) 90 additions and 5 deletions in 2 files</sub><br />
