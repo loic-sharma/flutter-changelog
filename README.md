@@ -1007,7 +1007,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-11 commits.
+12 commits.
 
 * **[MrJack](https://github.com/biagiopietro)** &mdash; [multicast_dns] Optimized Socket Binding: Always bind to 0.0.0.0 for simplicity and efficiency - #79772<br />
     <sub>[#6700](https://github.com/flutter/packages/pull/6700) merged on June 24, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/6700) over 1 month, 131 additions and 31 deletions in 5 files</sub><br />
@@ -1016,6 +1016,10 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds initial Android implementation<br />
     <sub>[#6733](https://github.com/flutter/packages/pull/6733) merged on June 25, 2024 &mdash; **Extra large:** [33 comments](https://github.com/flutter/packages/pull/6733) over 1 month, 16725 additions and 71 deletions in 78 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Add Wasm compilation to all_packages web app.<br />
+    <sub>[#6981](https://github.com/flutter/packages/pull/6981) merged on June 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6981) over 2 days, 35 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Final refactor of `video_player_android` before `SurfaceProducer#setCallback`.<br />
