@@ -71,8 +71,11 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing a few switch statements<br />
     <sub>[#150946](https://github.com/flutter/flutter/pull/150946) opened on on June 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150946) 107 additions and 175 deletions in 11 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Manual engine roll to ddd4814<br />
+    <sub>[#150952](https://github.com/flutter/flutter/pull/150952) opened on on June 27, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/150952) 1814 additions and 1297 deletions in 49 files</sub><br />
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; local lint copy gradle task config<br />
-    <sub>[#150957](https://github.com/flutter/flutter/pull/150957) opened on on June 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150957) 5 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#150957](https://github.com/flutter/flutter/pull/150957) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150957) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Michael Rittmeister](https://github.com/DRSchlaubi)** &mdash; Add support for type-safe plugin apply<br />
     <sub>[#150958](https://github.com/flutter/flutter/pull/150958) opened on on June 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150958) 25 additions and 1 deletion in 2 files</sub><br />

@@ -671,7 +671,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-26 commits.
+27 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
@@ -720,6 +720,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.Callback` lifecycle hooks<br />
     <sub>[#53280](https://github.com/flutter/engine/pull/53280) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53280) over 2 weeks, 143 additions and 26 deletions in 12 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Update DEPS to pull in 8c2d66fa4e6298894425f5bdd0591bc5b1154c53.<br />
+    <sub>[#53614](https://github.com/flutter/engine/pull/53614) merged on June 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53614) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Return a null image from ImageExternalTextureGL::CreateEGLImage if an EGL display is not available<br />
     <sub>[#53594](https://github.com/flutter/engine/pull/53594) merged on June 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53594) over 2 hours, 5 additions and 1 deletion in 1 file</sub><br />
