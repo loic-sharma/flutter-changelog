@@ -71,3 +71,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove unused early key event listener<br />
     <sub>[#150915](https://github.com/flutter/flutter/pull/150915) opened on on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150915) 0 additions and 11 deletions in 1 file</sub><br />
 
+* **[Nguyễn Văn Quân](https://github.com/QunNguyen)** &mdash; Add function onHover DataRow in DataTable<br />
+    <sub>[#150918](https://github.com/flutter/flutter/pull/150918) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150918) 12 additions and 0 deletions in 1 file</sub><br />
+
