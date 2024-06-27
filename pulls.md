@@ -30,7 +30,7 @@
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) opened on on June 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150606) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix project name fallback<br />
-    <sub>[#150614](https://github.com/flutter/flutter/pull/150614) opened on on June 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150614) 55 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#150614](https://github.com/flutter/flutter/pull/150614) opened on on June 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150614) 55 additions and 4 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][CLI tool] in `flutter test`, consider `--flavor` when validating the cached asset bundle<br />
     <sub>[#150617](https://github.com/flutter/flutter/pull/150617) opened on on June 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150617) 81 additions and 5 deletions in 2 files</sub><br />
