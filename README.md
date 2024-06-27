@@ -667,7 +667,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-24 commits.
+25 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
@@ -676,6 +676,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fixes for getting pixels from an image.<br />
     <sub>[#53561](https://github.com/flutter/engine/pull/53561) merged on June 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53561) over 2 hours, 133 additions and 69 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-re-re-land "Upgrade all[most] androidx dependencies to latest"<br />
+    <sub>[#53592](https://github.com/flutter/engine/pull/53592) merged on June 27, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/53592) over 1 day, 58 additions and 433 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] blur - cropped the downsample pass for backdrop filters<br />
     <sub>[#53562](https://github.com/flutter/engine/pull/53562) merged on June 26, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/53562) over 1 day, 131 additions and 54 deletions in 1 file</sub><br />
