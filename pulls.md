@@ -45,7 +45,7 @@
     <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/150695) 215 additions and 40 deletions in 9 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include more details in structured errors sent to a DAP client<br />
-    <sub>[#150698](https://github.com/flutter/flutter/pull/150698) opened on on June 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150698) 61 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#150698](https://github.com/flutter/flutter/pull/150698) opened on on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150698) 61 additions and 1 deletion in 2 files</sub><br />
 
 * **[Francisco Nicola](https://github.com/m3c-fnicola)** &mdash; [CP] Fix Linux numpad shortcuts on web<br />
     <sub>[#150723](https://github.com/flutter/flutter/pull/150723) opened on on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150723) 90 additions and 5 deletions in 2 files</sub><br />
@@ -61,6 +61,9 @@
 
 * **[Jefferey Neuffer](https://github.com/j7126)** &mdash; expose keyboardType in DropdownMenu #150894<br />
     <sub>[#150896](https://github.com/flutter/flutter/pull/150896) opened on on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150896) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[abdalmonem](https://github.com/abdalmonem)** &mdash; Add 'direction' allow to 'SegmentedButton' vertically<br />
+    <sub>[#150903](https://github.com/flutter/flutter/pull/150903) opened on on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150903) 117 additions and 13 deletions in 2 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; MenuAnchor hover traversal fixes<br />
     <sub>[#150914](https://github.com/flutter/flutter/pull/150914) opened on on June 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150914) 166 additions and 23 deletions in 2 files</sub><br />
