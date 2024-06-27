@@ -63,7 +63,7 @@
     <sub>[#150896](https://github.com/flutter/flutter/pull/150896) opened on on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150896) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; MenuAnchor hover traversal fixes<br />
-    <sub>[#150914](https://github.com/flutter/flutter/pull/150914) opened on on June 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150914) 166 additions and 24 deletions in 2 files</sub><br />
+    <sub>[#150914](https://github.com/flutter/flutter/pull/150914) opened on on June 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150914) 166 additions and 23 deletions in 2 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove unused early key event listener<br />
     <sub>[#150915](https://github.com/flutter/flutter/pull/150915) opened on on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150915) 1 addition and 11 deletions in 1 file</sub><br />
