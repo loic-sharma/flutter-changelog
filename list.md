@@ -696,7 +696,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-30 commits.
+31 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub>
@@ -809,6 +809,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update uses of GrVkBackendContext and other deprecated type names
     <sub>[#53491](https://github.com/flutter/engine/pull/53491) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53491) over 3 days, 23 additions and 19 deletions in 12 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Reland [DisplayList] Add support for clipOval to leverage Impeller optimization
+    <sub>[#53642](https://github.com/flutter/engine/pull/53642) merged on June 28, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/53642) over 1 hour, 761 additions and 73 deletions in 23 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "[DisplayList] Add support for clipOval to leverage Impeller optimization"
     <sub>[#53629](https://github.com/flutter/engine/pull/53629) merged on June 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/53629) over 2 hours, 73 additions and 675 deletions in 23 files</sub>
