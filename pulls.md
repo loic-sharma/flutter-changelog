@@ -74,3 +74,6 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Read AndroidManifest.xml and emit manifest-aar-impeller-(enabled|disabled) analytics<br />
     <sub>[#150970](https://github.com/flutter/flutter/pull/150970) opened on on June 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150970) 139 additions and 0 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for curve2_d.0.dart<br />
+    <sub>[#150984](https://github.com/flutter/flutter/pull/150984) opened on on June 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150984) 40 additions and 1 deletion in 2 files</sub><br />
+
