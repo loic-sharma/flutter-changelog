@@ -679,7 +679,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-27 commits.
+28 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub>
@@ -688,6 +688,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fixes for getting pixels from an image.
     <sub>[#53561](https://github.com/flutter/engine/pull/53561) merged on June 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53561) over 2 hours, 133 additions and 69 deletions in 6 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Add support for clipOval to leverage Impeller optimization
+    <sub>[#53622](https://github.com/flutter/engine/pull/53622) merged on June 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53622) over 3 hours, 675 additions and 73 deletions in 23 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-re-re-land "Upgrade all[most] androidx dependencies to latest"
     <sub>[#53592](https://github.com/flutter/engine/pull/53592) merged on June 27, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/53592) over 1 day, 58 additions and 433 deletions in 10 files</sub>
