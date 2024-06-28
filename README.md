@@ -4,11 +4,16 @@
 
 ### June 22, 2024 to June 28, 2024
 
-52 commits.
+53 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fixes `flutter build ipa` failure: Command line name "app-store" is deprecated. Use "app-store-connect" <br />
     <sub>[#150407](https://github.com/flutter/flutter/pull/150407) merged on June 27, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/150407) over 1 week, 203 additions and 7 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Include more details in structured errors sent to a DAP client<br />
+    <sub>[#150698](https://github.com/flutter/flutter/pull/150698) merged on June 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150698) over 3 days, 61 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+    <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/1078012/46ccd2ef-b165-46b4-a8ab-4473f82a904c)![image](https://github.com/flutter/flutter/assets/1078012/232f866e-cf6f-4016-9d1d-49323204da04)</details></sub>
 
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo<br />
     <sub>[#150167](https://github.com/flutter/flutter/pull/150167) merged on June 26, 2024 &mdash; **Small:** [56 comments](https://github.com/flutter/flutter/pull/150167) over 1 week, 7 additions and 7 deletions in 1 file</sub><br />
@@ -59,32 +64,32 @@
     <sub>[#150527](https://github.com/flutter/flutter/pull/150527) merged on June 25, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/150527) over 5 days, 55 additions and 23 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs<br />
+    <sub>[#150517](https://github.com/flutter/flutter/pull/150517) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) over 4 days, 162 additions and 5 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Manual engine roll to 6884e83 (#150733)"<br />
     <sub>[#150746](https://github.com/flutter/flutter/pull/150746) merged on June 25, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/150746) over 2 minutes, 1297 additions and 1814 deletions in 49 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; local lint copy gradle task config<br />
-    <sub>[#150957](https://github.com/flutter/flutter/pull/150957) merged on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150957) over 40 minutes, 5 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[Ricardo Boss](https://github.com/ricardoboss)** &mdash; Copy any previous `IconThemeData` instead of overwriting it in CupertinoButton<br />
     <sub>[#149777](https://github.com/flutter/flutter/pull/149777) merged on June 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149777) over 3 weeks, 34 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; local lint copy gradle task config<br />
+    <sub>[#150957](https://github.com/flutter/flutter/pull/150957) merged on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150957) over 40 minutes, 5 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
+    <sub>[#150741](https://github.com/flutter/flutter/pull/150741) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150741) over 16 hours, 39 additions and 13 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Remove `dual_screen` from `new_gallery` integration test (#150808)"<br />
     <sub>[#150871](https://github.com/flutter/flutter/pull/150871) merged on June 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/150871) over 44 seconds, 442 additions and 24 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs<br />
-    <sub>[#150517](https://github.com/flutter/flutter/pull/150517) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) over 4 days, 162 additions and 5 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] make the `systemTempDirectory` getter on `ErrorHandlingFileSystem` wrap the underlying filesystem's temp directory in a`ErrorHandlingDirectory`<br />
     <sub>[#150876](https://github.com/flutter/flutter/pull/150876) merged on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150876) over 23 hours, 42 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
-    <sub>[#150741](https://github.com/flutter/flutter/pull/150741) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150741) over 16 hours, 39 additions and 13 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adding `@docImport`s to the `animation` library<br />
@@ -115,41 +120,41 @@
     <sub>[#150587](https://github.com/flutter/flutter/pull/150587) merged on June 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150587) over 6 days, 137 additions and 140 deletions in 70 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove CODEOWNERS trailing whitespace<br />
-    <sub>[#150882](https://github.com/flutter/flutter/pull/150882) merged on June 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150882) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [flutter_tools] Shut down Chromium cleanly using a command sent through the debug protocol<br />
     <sub>[#150645](https://github.com/flutter/flutter/pull/150645) merged on June 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150645) over 3 days, 129 additions and 39 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Read `AndroidManifest.xml` and emit `manifest-impeller-(enabled|disabled)` analytics<br />
-    <sub>[#150791](https://github.com/flutter/flutter/pull/150791) merged on June 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150791) over 4 hours, 166 additions and 24 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Linkify 'see also' sections<br />
-    <sub>[#150734](https://github.com/flutter/flutter/pull/150734) merged on June 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150734) over 1 hour, 30 additions and 29 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter.dev links from framework to more permanent destinations<br />
-    <sub>[#150531](https://github.com/flutter/flutter/pull/150531) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150531) over 4 days, 68 additions and 69 deletions in 44 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual engine roll to be7db94196fe<br />
-    <sub>[#150714](https://github.com/flutter/flutter/pull/150714) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150714) over 1 hour, 52 additions and 9 deletions in 48 files</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove CODEOWNERS trailing whitespace<br />
+    <sub>[#150882](https://github.com/flutter/flutter/pull/150882) merged on June 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150882) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remind folks we are moving.<br />
     <sub>[#150872](https://github.com/flutter/flutter/pull/150872) merged on June 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/150872) over 1 hour, 4 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Read `AndroidManifest.xml` and emit `manifest-impeller-(enabled|disabled)` analytics<br />
+    <sub>[#150791](https://github.com/flutter/flutter/pull/150791) merged on June 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150791) over 4 hours, 166 additions and 24 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual engine roll to be7db94196fe<br />
+    <sub>[#150714](https://github.com/flutter/flutter/pull/150714) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150714) over 1 hour, 52 additions and 9 deletions in 48 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Huy](https://github.com/huycozy)** &mdash; Add an example for CupertinoPopupSurface<br />
     <sub>[#150357](https://github.com/flutter/flutter/pull/150357) merged on June 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150357) over 1 week, 183 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Linkify 'see also' sections<br />
+    <sub>[#150734](https://github.com/flutter/flutter/pull/150734) merged on June 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150734) over 1 hour, 30 additions and 29 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update issue link in analysis_options.yaml<br />
     <sub>[#150395](https://github.com/flutter/flutter/pull/150395) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150395) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update flutter.dev links from framework to more permanent destinations<br />
+    <sub>[#150531](https://github.com/flutter/flutter/pull/150531) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150531) over 4 days, 68 additions and 69 deletions in 44 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#150739](https://github.com/flutter/flutter/pull/150739) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150739) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
