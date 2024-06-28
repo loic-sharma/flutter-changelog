@@ -1056,7 +1056,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-13 commits.
+14 commits.
 
 * **[MrJack](https://github.com/biagiopietro)** &mdash; [multicast_dns] Optimized Socket Binding: Always bind to 0.0.0.0 for simplicity and efficiency - #79772<br />
     <sub>[#6700](https://github.com/flutter/packages/pull/6700) merged on June 24, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/6700) over 1 month, 131 additions and 31 deletions in 5 files</sub><br />
@@ -1099,6 +1099,10 @@
 * **[Jim Cook](https://github.com/oravecz-jpmc)** &mdash; [flutter_adaptive_scaffold] Allows for the animation duration to be adjusted using SlotLayout.from()<br />
     <sub>[#6510](https://github.com/flutter/packages/pull/6510) merged on June 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6510) over 2 months, 53 additions and 16 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Fix Obj-C type handling<br />
+    <sub>[#7010](https://github.com/flutter/packages/pull/7010) merged on June 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7010) over 50 minutes, 154 additions and 123 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Fix vm test requirement<br />
     <sub>[#6995](https://github.com/flutter/packages/pull/6995) merged on June 27, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/6995) over 17 hours, 192 additions and 41 deletions in 3 files</sub><br />
