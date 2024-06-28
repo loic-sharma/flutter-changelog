@@ -74,3 +74,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make the `systemTempDirectory` getter on `ErrorHandlingFileSystem` wrap the underlying filesystem's temp directory in a`ErrorHandlingDirectory`<br />
     <sub>[#150960](https://github.com/flutter/flutter/pull/150960) opened on on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150960) 42 additions and 0 deletions in 2 files</sub><br />
 
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Read AndroidManifest.xml and emit manifest-aar-impeller-(enabled|disabled) analytics<br />
+    <sub>[#150970](https://github.com/flutter/flutter/pull/150970) opened on on June 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150970) 139 additions and 0 deletions in 2 files</sub><br />
+
