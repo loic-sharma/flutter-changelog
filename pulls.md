@@ -68,12 +68,12 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make the `systemTempDirectory` getter on `ErrorHandlingFileSystem` wrap the underlying filesystem's temp directory in a`ErrorHandlingDirectory`<br />
     <sub>[#150960](https://github.com/flutter/flutter/pull/150960) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150960) 42 additions and 0 deletions in 2 files</sub><br />
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Read AndroidManifest.xml and emit manifest-aar-impeller-(enabled|disabled) analytics<br />
-    <sub>[#150970](https://github.com/flutter/flutter/pull/150970) opened on on June 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150970) 139 additions and 0 deletions in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for curve2_d.0.dart<br />
     <sub>[#150984](https://github.com/flutter/flutter/pull/150984) opened on on June 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150984) 40 additions and 11 deletions in 3 files</sub><br />
 
 * **[Aaron Housh](https://github.com/Dispersia)** &mdash; Fix invalid URL suggestion for gradle incompatability<br />
     <sub>[#150999](https://github.com/flutter/flutter/pull/150999) opened on on June 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150999) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] when writing to openssl as a part of macOS/iOS code-signing, flush the stdin stream before closing it<br />
+    <sub>[#151014](https://github.com/flutter/flutter/pull/151014) opened on on June 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151014) 166 additions and 7 deletions in 5 files</sub><br />
 
