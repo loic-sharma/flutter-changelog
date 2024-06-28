@@ -684,7 +684,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-28 commits.
+29 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
@@ -793,6 +793,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update uses of GrVkBackendContext and other deprecated type names<br />
     <sub>[#53491](https://github.com/flutter/engine/pull/53491) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53491) over 3 days, 23 additions and 19 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Revert "[DisplayList] Add support for clipOval to leverage Impeller optimization"<br />
+    <sub>[#53629](https://github.com/flutter/engine/pull/53629) merged on June 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/53629) over 2 hours, 73 additions and 675 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Reland "Fix focus management for text fields (#51009)"<br />
     <sub>[#53537](https://github.com/flutter/engine/pull/53537) merged on June 24, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/53537) over 2 hours, 250 additions and 253 deletions in 6 files</sub><br />
