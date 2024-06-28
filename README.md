@@ -696,7 +696,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-29 commits.
+30 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
@@ -749,6 +749,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.Callback` lifecycle hooks<br />
     <sub>[#53280](https://github.com/flutter/engine/pull/53280) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53280) over 2 weeks, 143 additions and 26 deletions in 12 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] experimental canvas bdf support.<br />
+    <sub>[#53597](https://github.com/flutter/engine/pull/53597) merged on June 28, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/53597) over 1 day, 273 additions and 65 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Update DEPS to pull in 8c2d66fa4e6298894425f5bdd0591bc5b1154c53.<br />
     <sub>[#53614](https://github.com/flutter/engine/pull/53614) merged on June 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53614) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
