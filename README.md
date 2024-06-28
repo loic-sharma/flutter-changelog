@@ -696,11 +696,15 @@
 
 ### June 22, 2024 to June 28, 2024
 
-31 commits.
+32 commits.
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch from .didGain/LoseAccessibilityFocus to .focus<br />
+    <sub>[#53360](https://github.com/flutter/engine/pull/53360) merged on June 28, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53360) over 2 weeks, 257 additions and 898 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fixes for getting pixels from an image.<br />
     <sub>[#53561](https://github.com/flutter/engine/pull/53561) merged on June 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53561) over 2 hours, 133 additions and 69 deletions in 6 files</sub><br />
