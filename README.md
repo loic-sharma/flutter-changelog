@@ -97,7 +97,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Use caret syntax with flutter create command<br />
-    <sub>[#150920](https://github.com/flutter/flutter/pull/150920) merged on June 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150920) over 1 day, 22 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#150920](https://github.com/flutter/flutter/pull/150920) merged on June 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150920) over 1 day, 22 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Remove `dual_screen` from `new_gallery` integration test (#150808)"<br />
