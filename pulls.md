@@ -77,3 +77,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Flicker when reorderable list doesn't change its position<br />
     <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151026) 6 additions and 2 deletions in 1 file</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#151028](https://github.com/flutter/flutter/pull/151028) opened on on June 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151028) 2 additions and 2 deletions in 1 file</sub><br />
+
