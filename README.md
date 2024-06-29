@@ -771,7 +771,7 @@
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Fixes drag scrolling in embedded mode.<br />
-    <sub>[#53647](https://github.com/flutter/engine/pull/53647) merged on June 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53647) over 1 hour, 97 additions and 10 deletions in 3 files</sub><br />
+    <sub>[#53647](https://github.com/flutter/engine/pull/53647) merged on June 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53647) over 1 hour, 97 additions and 10 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] experimental canvas bdf support.<br />
