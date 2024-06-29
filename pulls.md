@@ -45,7 +45,7 @@
     <sub>[#150737](https://github.com/flutter/flutter/pull/150737) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150737) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
-    <sub>[#150764](https://github.com/flutter/flutter/pull/150764) opened on on June 25, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/150764) 159 additions and 7 deletions in 2 files</sub><br />
+    <sub>[#150764](https://github.com/flutter/flutter/pull/150764) opened on on June 25, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/150764) 159 additions and 7 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
     <sub>[#150787](https://github.com/flutter/flutter/pull/150787) opened on on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150787) 39 additions and 13 deletions in 2 files</sub><br />
@@ -76,7 +76,4 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] when writing to openssl as a part of macOS/iOS code-signing, flush the stdin stream before closing it<br />
     <sub>[#151014](https://github.com/flutter/flutter/pull/151014) opened on on June 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151014) 166 additions and 7 deletions in 5 files</sub><br />
-
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#151022](https://github.com/flutter/flutter/pull/151022) opened on on June 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151022) 2 additions and 2 deletions in 1 file</sub><br />
 
