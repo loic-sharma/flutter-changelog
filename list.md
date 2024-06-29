@@ -1088,7 +1088,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-15 commits.
+16 commits.
 
 * **[MrJack](https://github.com/biagiopietro)** &mdash; [multicast_dns] Optimized Socket Binding: Always bind to 0.0.0.0 for simplicity and efficiency - #79772
     <sub>[#6700](https://github.com/flutter/packages/pull/6700) merged on June 24, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/6700) over 1 month, 131 additions and 31 deletions in 5 files</sub>
@@ -1135,6 +1135,10 @@
 * **[Jim Cook](https://github.com/oravecz-jpmc)** &mdash; [flutter_adaptive_scaffold] Allows for the animation duration to be adjusted using SlotLayout.from()
     <sub>[#6510](https://github.com/flutter/packages/pull/6510) merged on June 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/6510) over 2 months, 53 additions and 16 deletions in 4 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [video_player] Bumps web implementation dependency.
+    <sub>[#7015](https://github.com/flutter/packages/pull/7015) merged on June 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7015) over 6 hours, 8 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Fix Obj-C type handling
     <sub>[#7010](https://github.com/flutter/packages/pull/7010) merged on June 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7010) over 50 minutes, 154 additions and 123 deletions in 11 files</sub>
