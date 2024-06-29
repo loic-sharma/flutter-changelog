@@ -1072,7 +1072,7 @@
 
 ### June 22, 2024 to June 28, 2024
 
-14 commits.
+15 commits.
 
 * **[MrJack](https://github.com/biagiopietro)** &mdash; [multicast_dns] Optimized Socket Binding: Always bind to 0.0.0.0 for simplicity and efficiency - #79772<br />
     <sub>[#6700](https://github.com/flutter/packages/pull/6700) merged on June 24, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/6700) over 1 month, 131 additions and 31 deletions in 5 files</sub><br />
@@ -1095,6 +1095,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Final refactor of `video_player_android` before `SurfaceProducer#setCallback`.<br />
     <sub>[#6982](https://github.com/flutter/packages/pull/6982) merged on June 25, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/packages/pull/6982) over 17 hours, 859 additions and 404 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Phong_NguyenGia](https://github.com/phong010198)** &mdash; [flutter_markdown] Add horizontal scroll for markdown table<br />
+    <sub>[#6983](https://github.com/flutter/packages/pull/6983) merged on June 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6983) over 3 days, 104 additions and 7 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Updates `README` with a usage section and fix some interface docs<br />
     <sub>[#6988](https://github.com/flutter/packages/pull/6988) merged on June 27, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/packages/pull/6988) over 1 day, 324 additions and 27 deletions in 9 files</sub><br />
