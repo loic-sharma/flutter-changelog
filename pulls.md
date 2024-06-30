@@ -80,3 +80,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#151028](https://github.com/flutter/flutter/pull/151028) opened on on June 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151028) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for color_filtered.0.dart example.<br />
+    <sub>[#151064](https://github.com/flutter/flutter/pull/151064) opened on on June 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151064) 67 additions and 1 deletion in 2 files</sub><br />
+
