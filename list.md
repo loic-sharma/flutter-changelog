@@ -747,7 +747,12 @@
 
 ### June 29, 2024 to July 5, 2024
 
-5 commits.
+6 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump androidx.test.espresso:espresso-core from 3.5.1 to 3.6.1 in /packages/in_app_purchase/in_app_purchase_android/android
+    <sub>[#7032](https://github.com/flutter/packages/pull/7032) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7032) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.test.espresso:espresso-core&package-manager=gradle&previous-version=3.5.1&new-version=3.6.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Semi-convert remaining Android host API calls to Pigeon
     <sub>[#6980](https://github.com/flutter/packages/pull/6980) merged on July 1, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/6980) over 6 days, 2429 additions and 477 deletions in 23 files</sub>
