@@ -41,9 +41,6 @@
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
     <sub>[#150764](https://github.com/flutter/flutter/pull/150764) opened on on June 25, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/150764) 140 additions and 7 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make `ErrorHandlingFileSystem.deleteIfExists` catch error code 3 (`ERROR_PATH_NOT_FOUND` on Windows)<br />
-    <sub>[#150787](https://github.com/flutter/flutter/pull/150787) opened on on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150787) 39 additions and 13 deletions in 2 files</sub><br />
-
 * **[Jefferey Neuffer](https://github.com/j7126)** &mdash; expose keyboardType in DropdownMenu #150894<br />
     <sub>[#150896](https://github.com/flutter/flutter/pull/150896) opened on on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150896) 5 additions and 0 deletions in 1 file</sub><br />
 
