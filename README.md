@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### June 29, 2024 to July 5, 2024
+
+1 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix teardown of a FocusScopeNode in material/app_test<br />
+    <sub>[#151115](https://github.com/flutter/flutter/pull/151115) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151115) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 ### June 22, 2024 to June 28, 2024
 
-61 commits.
+<details>
+<summary>61 commits...</summary>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fixes `flutter build ipa` failure: Command line name "app-store" is deprecated. Use "app-store-connect" <br />
     <sub>[#150407](https://github.com/flutter/flutter/pull/150407) merged on June 27, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/150407) over 1 week, 203 additions and 7 deletions in 2 files</sub><br />
@@ -251,6 +260,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add tests for form_text_field.1.dart (#150481) (#150696)<br />
     <sub>[#150750](https://github.com/flutter/flutter/pull/150750) merged on June 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150750) over 9 hours, 58 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+</details>
 
 ### June 15, 2024 to June 21, 2024
 
