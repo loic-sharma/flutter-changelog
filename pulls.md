@@ -83,3 +83,9 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for gestures<br />
     <sub>[#151123](https://github.com/flutter/flutter/pull/151123) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151123) 85 additions and 0 deletions in 20 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for physics<br />
+    <sub>[#151125](https://github.com/flutter/flutter/pull/151125) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151125) 6 additions and 0 deletions in 2 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for scheduler<br />
+    <sub>[#151126](https://github.com/flutter/flutter/pull/151126) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151126) 21 additions and 0 deletions in 4 files</sub><br />
+

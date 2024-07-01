@@ -4,7 +4,11 @@
 
 ### June 29, 2024 to July 5, 2024
 
-5 commits.
+6 commits.
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Read AndroidManifest.xml and emit manifest-aar-impeller-(enabled|disabled) analytics
+    <sub>[#150970](https://github.com/flutter/flutter/pull/150970) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150970) over 3 days, 139 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; More docimports for animation library
     <sub>[#151011](https://github.com/flutter/flutter/pull/151011) merged on July 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151011) over 2 days, 2 additions and 0 deletions in 1 file</sub>
