@@ -54,7 +54,7 @@
     <sub>[#150918](https://github.com/flutter/flutter/pull/150918) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150918) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing a few switch statements<br />
-    <sub>[#150946](https://github.com/flutter/flutter/pull/150946) opened on on June 27, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150946) 107 additions and 175 deletions in 11 files</sub><br />
+    <sub>[#150946](https://github.com/flutter/flutter/pull/150946) opened on on June 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/150946) 107 additions and 175 deletions in 11 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make the `systemTempDirectory` getter on `ErrorHandlingFileSystem` wrap the underlying filesystem's temp directory in a`ErrorHandlingDirectory`<br />
     <sub>[#150960](https://github.com/flutter/flutter/pull/150960) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150960) 42 additions and 0 deletions in 2 files</sub><br />
@@ -97,7 +97,4 @@
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Support legacy buttons<br />
     <sub>[#151136](https://github.com/flutter/flutter/pull/151136) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151136) 90 additions and 8 deletions in 2 files</sub><br />
-
-* **[Hosam Hasan Ramadan](https://github.com/HosamHasanRamadan)** &mdash; fix cupertino date picker column width calculation<br />
-    <sub>[#151140](https://github.com/flutter/flutter/pull/151140) opened on on July 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151140) 33 additions and 26 deletions in 1 file</sub><br />
 
