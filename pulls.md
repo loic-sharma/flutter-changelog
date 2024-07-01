@@ -86,3 +86,6 @@
 * **[carlos ](https://github.com/scoorpion1008)** &mdash; Create dart.yml<br />
     <sub>[#151066](https://github.com/flutter/flutter/pull/151066) opened on on June 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151066) 42 additions and 0 deletions in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
+    <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
+
