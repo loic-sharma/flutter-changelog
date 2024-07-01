@@ -101,3 +101,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for painting<br />
     <sub>[#151143](https://github.com/flutter/flutter/pull/151143) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151143) 184 additions and 6 deletions in 40 files</sub><br />
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; SliverFloatingHeader<br />
+    <sub>[#151145](https://github.com/flutter/flutter/pull/151145) opened on on July 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/151145) 526 additions and 0 deletions in 3 files</sub><br />
+

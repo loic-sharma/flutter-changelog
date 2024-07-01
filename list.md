@@ -492,7 +492,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-3 commits.
+4 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Output .js files as ES6 modules.
     <sub>[#52023](https://github.com/flutter/engine/pull/52023) merged on July 1, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52023) over 2 months, 53 additions and 110 deletions in 6 files</sub>
@@ -505,6 +505,10 @@
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Ignores the dir `flutter/third_party/icu/patches`
     <sub>[#53667](https://github.com/flutter/engine/pull/53667) merged on July 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53667) over 48 minutes, 3 additions and 16 deletions in 4 files</sub>
     <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Output .js files as ES6 modules. (#52023)"
+    <sub>[#53674](https://github.com/flutter/engine/pull/53674) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53674) over 1 minute, 110 additions and 53 deletions in 6 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### June 22, 2024 to June 28, 2024
 
