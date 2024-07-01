@@ -98,3 +98,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Support legacy buttons<br />
     <sub>[#151136](https://github.com/flutter/flutter/pull/151136) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151136) 90 additions and 8 deletions in 2 files</sub><br />
 
+* **[Hosam Hasan Ramadan](https://github.com/HosamHasanRamadan)** &mdash; fix cupertino date picker column width calculation<br />
+    <sub>[#151140](https://github.com/flutter/flutter/pull/151140) opened on on July 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151140) 33 additions and 26 deletions in 1 file</sub><br />
+
