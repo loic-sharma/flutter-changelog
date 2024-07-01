@@ -4,7 +4,11 @@
 
 ### June 29, 2024 to July 5, 2024
 
-4 commits.
+5 commits.
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; More docimports for animation library<br />
+    <sub>[#151011](https://github.com/flutter/flutter/pull/151011) merged on July 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151011) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump dartdoc to 8.0.10<br />
     <sub>[#151107](https://github.com/flutter/flutter/pull/151107) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151107) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
