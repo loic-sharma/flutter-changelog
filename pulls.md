@@ -98,3 +98,6 @@
 * **[Hosam Hasan Ramadan](https://github.com/HosamHasanRamadan)** &mdash; fix cupertino date picker column width calculation<br />
     <sub>[#151142](https://github.com/flutter/flutter/pull/151142) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151142) 33 additions and 26 deletions in 1 file</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for painting<br />
+    <sub>[#151143](https://github.com/flutter/flutter/pull/151143) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151143) 184 additions and 6 deletions in 40 files</sub><br />
+
