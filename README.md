@@ -4,10 +4,14 @@
 
 ### June 29, 2024 to July 5, 2024
 
-8 commits.
+9 commits.
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing a few switch statements<br />
+    <sub>[#150946](https://github.com/flutter/flutter/pull/150946) merged on July 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/150946) over 4 days, 107 additions and 175 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests<br />
-    <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub><br />
+    <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Read AndroidManifest.xml and emit manifest-aar-impeller-(enabled|disabled) analytics<br />

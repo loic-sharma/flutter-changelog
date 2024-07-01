@@ -53,9 +53,6 @@
 * **[Nguyễn Văn Quân](https://github.com/QunNguyen)** &mdash; Add function onHover DataRow in DataTable<br />
     <sub>[#150918](https://github.com/flutter/flutter/pull/150918) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150918) 12 additions and 0 deletions in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing a few switch statements<br />
-    <sub>[#150946](https://github.com/flutter/flutter/pull/150946) opened on on June 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/150946) 107 additions and 175 deletions in 11 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make the `systemTempDirectory` getter on `ErrorHandlingFileSystem` wrap the underlying filesystem's temp directory in a`ErrorHandlingDirectory`<br />
     <sub>[#150960](https://github.com/flutter/flutter/pull/150960) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150960) 42 additions and 0 deletions in 2 files</sub><br />
 
