@@ -701,7 +701,22 @@
 
 ### June 29, 2024 to July 5, 2024
 
-1 commits.
+4 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.test.espresso:espresso-core from 3.5.1 to 3.6.1 in /packages/local_auth/local_auth_android/android<br />
+    <sub>[#7022](https://github.com/flutter/packages/pull/7022) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7022) over 8 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.test.espresso:espresso-core&package-manager=gradle&previous-version=3.5.1&new-version=3.6.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [video_player]: Bump com.android.tools.build:gradle from 7.2.1 to 8.5.0 in /packages/video_player/video_player_android/android<br />
+    <sub>[#6931](https://github.com/flutter/packages/pull/6931) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6931) over 2 weeks, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.2.1&new-version=8.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.android.tools.build:gradle from 7.3.0 to 8.5.0 in /packages/camera/camera_android/android<br />
+    <sub>[#6928](https://github.com/flutter/packages/pull/6928) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6928) over 2 weeks, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.0&new-version=8.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [ci] Adds @matanlurey to some Android CODEOWNERS until Impeller is enabled.<br />
     <sub>[#7014](https://github.com/flutter/packages/pull/7014) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7014) over 2 days, 4 additions and 3 deletions in 1 file</sub><br />
