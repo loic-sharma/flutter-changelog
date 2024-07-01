@@ -80,3 +80,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for gestures<br />
+    <sub>[#151123](https://github.com/flutter/flutter/pull/151123) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151123) 85 additions and 0 deletions in 20 files</sub><br />
+

@@ -484,11 +484,15 @@
 
 ### June 29, 2024 to July 5, 2024
 
-1 commits.
+2 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] track the sizes of all outstanding MTLTexture allocations and report per frame in MB, matching Vulkan implementation.
     <sub>[#53618](https://github.com/flutter/engine/pull/53618) merged on July 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/53618) over 3 days, 211 additions and 7 deletions in 12 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Ignores the dir `flutter/third_party/icu/patches`
+    <sub>[#53667](https://github.com/flutter/engine/pull/53667) merged on July 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53667) over 48 minutes, 3 additions and 16 deletions in 4 files</sub>
+    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 ### June 22, 2024 to June 28, 2024
 
