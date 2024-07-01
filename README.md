@@ -4,11 +4,19 @@
 
 ### June 29, 2024 to July 5, 2024
 
-1 commits.
+3 commits.
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix teardown of a FocusScopeNode in material/app_test<br />
     <sub>[#151115](https://github.com/flutter/flutter/pull/151115) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151115) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix missing `[` in docs<br />
+    <sub>[#151091](https://github.com/flutter/flutter/pull/151091) merged on July 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151091) over 8 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#151028](https://github.com/flutter/flutter/pull/151028) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151028) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### June 22, 2024 to June 28, 2024
 
@@ -466,9 +474,18 @@
 
 ## flutter/engine
 
+### June 29, 2024 to July 5, 2024
+
+1 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] track the sizes of all outstanding MTLTexture allocations and report per frame in MB, matching Vulkan implementation.<br />
+    <sub>[#53618](https://github.com/flutter/engine/pull/53618) merged on July 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/53618) over 3 days, 211 additions and 7 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 ### June 22, 2024 to June 28, 2024
 
-33 commits.
+<details>
+<summary>33 commits...</summary>
 
 * **[Jason Parrott](https://github.com/Moncader)** &mdash; fix: web canvaskit fragment shaders were not using updated uniform values<br />
     <sub>[#53246](https://github.com/flutter/engine/pull/53246) merged on June 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/53246) over 2 weeks, 42 additions and 10 deletions in 5 files</sub><br />
@@ -602,6 +619,8 @@
     <sub>[#53537](https://github.com/flutter/engine/pull/53537) merged on June 24, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/53537) over 2 hours, 250 additions and 253 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Juanjo Tugores](https://github.com/tugorez)</sub><br />
 
+</details>
+
 ### June 15, 2024 to June 21, 2024
 
 <details>
@@ -712,7 +731,11 @@
 
 ### June 29, 2024 to July 5, 2024
 
-4 commits.
+5 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Semi-convert remaining Android host API calls to Pigeon<br />
+    <sub>[#6980](https://github.com/flutter/packages/pull/6980) merged on July 1, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/6980) over 6 days, 2429 additions and 477 deletions in 23 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump androidx.test.espresso:espresso-core from 3.5.1 to 3.6.1 in /packages/local_auth/local_auth_android/android<br />
     <sub>[#7022](https://github.com/flutter/packages/pull/7022) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7022) over 8 hours, 6 additions and 2 deletions in 3 files</sub><br />
