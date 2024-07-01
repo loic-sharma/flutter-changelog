@@ -488,7 +488,11 @@
 
 ### June 29, 2024 to July 5, 2024
 
-2 commits.
+3 commits.
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Output .js files as ES6 modules.<br />
+    <sub>[#52023](https://github.com/flutter/engine/pull/52023) merged on July 1, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/52023) over 2 months, 53 additions and 110 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] track the sizes of all outstanding MTLTexture allocations and report per frame in MB, matching Vulkan implementation.<br />
     <sub>[#53618](https://github.com/flutter/engine/pull/53618) merged on July 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/53618) over 3 days, 211 additions and 7 deletions in 12 files</sub><br />
