@@ -89,3 +89,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for scheduler<br />
     <sub>[#151126](https://github.com/flutter/flutter/pull/151126) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151126) 21 additions and 0 deletions in 4 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#151129](https://github.com/flutter/flutter/pull/151129) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151129) 2 additions and 2 deletions in 1 file</sub><br />
+
