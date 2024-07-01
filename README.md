@@ -4,10 +4,10 @@
 
 ### June 29, 2024 to July 5, 2024
 
-7 commits.
+8 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests<br />
-    <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub><br />
+    <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Read AndroidManifest.xml and emit manifest-aar-impeller-(enabled|disabled) analytics<br />
@@ -25,6 +25,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix teardown of a FocusScopeNode in material/app_test<br />
     <sub>[#151115](https://github.com/flutter/flutter/pull/151115) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151115) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests (#150969)"<br />
+    <sub>[#151147](https://github.com/flutter/flutter/pull/151147) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151147) over 1 minute, 36 additions and 170 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix missing `[` in docs<br />
     <sub>[#151091](https://github.com/flutter/flutter/pull/151091) merged on July 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151091) over 8 hours, 1 addition and 1 deletion in 1 file</sub><br />
