@@ -21,7 +21,7 @@
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150394) 161 additions and 48 deletions in 1 file</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
-    <sub>[#150559](https://github.com/flutter/flutter/pull/150559) opened on on June 20, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/150559) 713 additions and 223 deletions in 52 files</sub><br />
+    <sub>[#150559](https://github.com/flutter/flutter/pull/150559) opened on on June 20, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/150559) 713 additions and 223 deletions in 52 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart<br />
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) opened on on June 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150606) 50 additions and 1 deletion in 2 files</sub><br />
@@ -36,7 +36,7 @@
     <sub>[#150669](https://github.com/flutter/flutter/pull/150669) opened on on June 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150669) 21 additions and 1 deletion in 2 files</sub><br />
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Add `ListTileControlAffinity` to `ListTileTheme`<br />
-    <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/150695) 216 additions and 41 deletions in 9 files</sub><br />
+    <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [35 comments](https://github.com/flutter/flutter/pull/150695) 216 additions and 41 deletions in 9 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] make flutter create use --offline in SPM integration tests<br />
     <sub>[#150737](https://github.com/flutter/flutter/pull/150737) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150737) 1 addition and 0 deletions in 1 file</sub><br />
