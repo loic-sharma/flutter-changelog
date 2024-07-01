@@ -699,9 +699,18 @@
 
 ## flutter/packages
 
+### June 29, 2024 to July 5, 2024
+
+1 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [ci] Adds @matanlurey to some Android CODEOWNERS until Impeller is enabled.
+    <sub>[#7014](https://github.com/flutter/packages/pull/7014) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7014) over 2 days, 4 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Camille Simon](https://github.com/camsim99)</sub>
+
 ### June 22, 2024 to June 28, 2024
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[MrJack](https://github.com/biagiopietro)** &mdash; [multicast_dns] Optimized Socket Binding: Always bind to 0.0.0.0 for simplicity and efficiency - #79772
     <sub>[#6700](https://github.com/flutter/packages/pull/6700) merged on June 24, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/packages/pull/6700) over 1 month, 131 additions and 31 deletions in 5 files</sub>
@@ -768,6 +777,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [interactive_media_ads] Fix README badge image URL
     <sub>[#6979](https://github.com/flutter/packages/pull/6979) merged on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6979) over 40 minutes, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+</details>
 
 ### June 15, 2024 to June 21, 2024
 
