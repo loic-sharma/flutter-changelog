@@ -95,3 +95,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for services<br />
     <sub>[#151134](https://github.com/flutter/flutter/pull/151134) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151134) 120 additions and 3 deletions in 27 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Support legacy buttons<br />
+    <sub>[#151136](https://github.com/flutter/flutter/pull/151136) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151136) 90 additions and 8 deletions in 2 files</sub><br />
+
