@@ -83,3 +83,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix teardown of a FocusScopeNode in material/app_test<br />
+    <sub>[#151115](https://github.com/flutter/flutter/pull/151115) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151115) 1 addition and 1 deletion in 1 file</sub><br />
+
