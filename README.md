@@ -524,7 +524,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-7 commits.
+8 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.<br />
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub><br />
@@ -549,6 +549,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Output .js files as ES6 modules. (#52023)"<br />
     <sub>[#53674](https://github.com/flutter/engine/pull/53674) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53674) over 1 minute, 110 additions and 53 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "[web] switch from .didGain/LoseAccessibilityFocus to .focus"<br />
+    <sub>[#53679](https://github.com/flutter/engine/pull/53679) merged on July 2, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53679) over 10 hours, 898 additions and 257 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll ICU from 98f2494518c2 to 43953f57b037 (1 revision)<br />
     <sub>[#53675](https://github.com/flutter/engine/pull/53675) merged on July 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53675) over 48 minutes, 1 addition and 1 deletion in 1 file</sub><br />
