@@ -524,7 +524,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-6 commits.
+7 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.<br />
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub><br />
@@ -541,6 +541,10 @@
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Ignores the dir `flutter/third_party/icu/patches`<br />
     <sub>[#53667](https://github.com/flutter/engine/pull/53667) merged on July 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53667) over 48 minutes, 3 additions and 16 deletions in 4 files</sub><br />
     <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use more GNI file lists<br />
+    <sub>[#53685](https://github.com/flutter/engine/pull/53685) merged on July 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53685) over 1 hour, 24 additions and 46 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Output .js files as ES6 modules. (#52023)"<br />
     <sub>[#53674](https://github.com/flutter/engine/pull/53674) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53674) over 1 minute, 110 additions and 53 deletions in 6 files</sub><br />
