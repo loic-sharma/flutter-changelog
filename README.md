@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-26 commits.
+27 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
     <sub>[#150559](https://github.com/flutter/flutter/pull/150559) merged on July 2, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/150559) over 1 week, 713 additions and 223 deletions in 52 files</sub><br />
@@ -89,6 +89,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix teardown of a FocusScopeNode in material/app_test<br />
     <sub>[#151115](https://github.com/flutter/flutter/pull/151115) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151115) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#151129](https://github.com/flutter/flutter/pull/151129) merged on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151129) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix typo<br />
     <sub>[#151192](https://github.com/flutter/flutter/pull/151192) merged on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151192) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />

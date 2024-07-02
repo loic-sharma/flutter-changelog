@@ -71,9 +71,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#151129](https://github.com/flutter/flutter/pull/151129) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151129) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Hosam Hasan Ramadan](https://github.com/HosamHasanRamadan)** &mdash; fix cupertino date picker column width calculation<br />
     <sub>[#151142](https://github.com/flutter/flutter/pull/151142) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151142) 33 additions and 26 deletions in 1 file</sub><br />
 
@@ -82,4 +79,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Use `ErrorHandlingFileSystem.deleteIfExists` when deleting .plugin_symlinks<br />
     <sub>[#151184](https://github.com/flutter/flutter/pull/151184) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151184) 75 additions and 6 deletions in 4 files</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix padding and font size of buttons<br />
+    <sub>[#151199](https://github.com/flutter/flutter/pull/151199) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151199) 51 additions and 5 deletions in 1 file</sub><br />
 
