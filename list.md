@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-22 commits.
+24 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath
     <sub>[#150559](https://github.com/flutter/flutter/pull/150559) merged on July 2, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/150559) over 1 week, 713 additions and 223 deletions in 52 files</sub>
@@ -14,9 +14,17 @@
     <sub>[#150946](https://github.com/flutter/flutter/pull/150946) merged on July 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/150946) over 4 days, 107 additions and 175 deletions in 11 files</sub>
     <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; ScrollEndNotification example: auto-scroll based on RenderSliver constraints and geometry
+    <sub>[#143538](https://github.com/flutter/flutter/pull/143538) merged on July 2, 2024 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/143538) over 4 months, 252 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `dismissible.dart` code cleanup
     <sub>[#150276](https://github.com/flutter/flutter/pull/150276) merged on July 2, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/150276) over 2 weeks, 34 additions and 33 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Price](https://github.com/gnprice)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Use `ErrorHandlingFileSystem.deleteIfExists` when deleting .plugin_symlinks
+    <sub>[#151073](https://github.com/flutter/flutter/pull/151073) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151073) over 1 day, 75 additions and 6 deletions in 4 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: `CupertinoActionSheet` should take up max height when actions section is short
     <sub>[#150708](https://github.com/flutter/flutter/pull/150708) merged on July 2, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/150708) over 1 week, 234 additions and 77 deletions in 2 files</sub>
