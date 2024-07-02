@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-9 commits.
+10 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing a few switch statements
     <sub>[#150946](https://github.com/flutter/flutter/pull/150946) merged on July 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/150946) over 4 days, 107 additions and 175 deletions in 11 files</sub>
@@ -29,6 +29,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix teardown of a FocusScopeNode in material/app_test
     <sub>[#151115](https://github.com/flutter/flutter/pull/151115) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151115) over 37 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] remove some temporary printTrace calls
+    <sub>[#151074](https://github.com/flutter/flutter/pull/151074) merged on July 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151074) over 1 day, 19 additions and 23 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests (#150969)"
     <sub>[#151147](https://github.com/flutter/flutter/pull/151147) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151147) over 1 minute, 36 additions and 170 deletions in 11 files</sub>
