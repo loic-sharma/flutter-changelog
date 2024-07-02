@@ -95,3 +95,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for cupertino<br />
     <sub>[#151149](https://github.com/flutter/flutter/pull/151149) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151149) 173 additions and 11 deletions in 34 files</sub><br />
 
+* **[Jonathan Lau](https://github.com/lauweijie)** &mdash; Fix scheduler event loop being stuck due to task with Priority.idle<br />
+    <sub>[#151168](https://github.com/flutter/flutter/pull/151168) opened on on July 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151168) 7 additions and 7 deletions in 2 files</sub><br />
+
