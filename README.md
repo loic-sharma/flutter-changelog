@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-12 commits.
+13 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
     <sub>[#150559](https://github.com/flutter/flutter/pull/150559) merged on July 2, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/150559) over 1 week, 713 additions and 223 deletions in 52 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: `CupertinoActionSheet` should take up max height when actions section is short<br />
     <sub>[#150708](https://github.com/flutter/flutter/pull/150708) merged on July 2, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/150708) over 1 week, 234 additions and 77 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_driver] add allocator mtl to memory event allowlist.<br />
+    <sub>[#151153](https://github.com/flutter/flutter/pull/151153) merged on July 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151153) over 11 hours, 22 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests<br />
     <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub><br />

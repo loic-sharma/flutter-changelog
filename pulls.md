@@ -99,5 +99,5 @@
     <sub>[#151168](https://github.com/flutter/flutter/pull/151168) opened on on July 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151168) 7 additions and 7 deletions in 2 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Update the mapping for the Dart SDK internal URI<br />
-    <sub>[#151170](https://github.com/flutter/flutter/pull/151170) opened on on July 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151170) 81 additions and 5 deletions in 4 files</sub><br />
+    <sub>[#151170](https://github.com/flutter/flutter/pull/151170) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151170) 81 additions and 5 deletions in 4 files</sub><br />
 
