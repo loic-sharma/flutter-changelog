@@ -504,7 +504,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-4 commits.
+5 commits.
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Output .js files as ES6 modules.<br />
     <sub>[#52023](https://github.com/flutter/engine/pull/52023) merged on July 1, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52023) over 2 months, 53 additions and 110 deletions in 6 files</sub><br />
@@ -520,6 +520,10 @@
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Output .js files as ES6 modules. (#52023)"<br />
     <sub>[#53674](https://github.com/flutter/engine/pull/53674) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53674) over 1 minute, 110 additions and 53 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll ICU from 98f2494518c2 to 43953f57b037 (1 revision)<br />
+    <sub>[#53675](https://github.com/flutter/engine/pull/53675) merged on July 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53675) over 48 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### June 22, 2024 to June 28, 2024
