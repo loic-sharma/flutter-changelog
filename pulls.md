@@ -60,7 +60,7 @@
     <sub>[#151014](https://github.com/flutter/flutter/pull/151014) opened on on June 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151014) 166 additions and 7 deletions in 5 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Flicker when reorderable list doesn't change its position<br />
-    <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151026) 6 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151026) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for color_filtered.0.dart example.<br />
     <sub>[#151064](https://github.com/flutter/flutter/pull/151064) opened on on June 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151064) 53 additions and 1 deletion in 2 files</sub><br />
