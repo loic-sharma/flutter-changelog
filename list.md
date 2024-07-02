@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-24 commits.
+25 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath
     <sub>[#150559](https://github.com/flutter/flutter/pull/150559) merged on July 2, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/150559) over 1 week, 713 additions and 223 deletions in 52 files</sub>
@@ -21,6 +21,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `dismissible.dart` code cleanup
     <sub>[#150276](https://github.com/flutter/flutter/pull/150276) merged on July 2, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/150276) over 2 weeks, 34 additions and 33 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Greg Price](https://github.com/gnprice)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Fix `stdin.flush` calls on processes started by `FakeProcessManager`
+    <sub>[#151183](https://github.com/flutter/flutter/pull/151183) merged on July 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151183) over 2 hours, 14 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Use `ErrorHandlingFileSystem.deleteIfExists` when deleting .plugin_symlinks
     <sub>[#151073](https://github.com/flutter/flutter/pull/151073) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151073) over 1 day, 75 additions and 6 deletions in 4 files</sub>
