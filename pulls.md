@@ -63,7 +63,7 @@
     <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151026) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for color_filtered.0.dart example.<br />
-    <sub>[#151064](https://github.com/flutter/flutter/pull/151064) opened on on June 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151064) 53 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151064](https://github.com/flutter/flutter/pull/151064) opened on on June 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151064) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[carlos ](https://github.com/scoorpion1008)** &mdash; Create dart.yml<br />
     <sub>[#151066](https://github.com/flutter/flutter/pull/151066) opened on on June 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151066) 42 additions and 0 deletions in 1 file</sub><br />
