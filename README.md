@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-21 commits.
+22 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
     <sub>[#150559](https://github.com/flutter/flutter/pull/150559) merged on July 2, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/150559) over 1 week, 713 additions and 223 deletions in 52 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: `CupertinoActionSheet` should take up max height when actions section is short<br />
     <sub>[#150708](https://github.com/flutter/flutter/pull/150708) merged on July 2, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/150708) over 1 week, 234 additions and 77 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for painting<br />
+    <sub>[#151143](https://github.com/flutter/flutter/pull/151143) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151143) over 18 hours, 184 additions and 6 deletions in 40 files</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for scheduler<br />
     <sub>[#151126](https://github.com/flutter/flutter/pull/151126) merged on July 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151126) over 22 hours, 21 additions and 0 deletions in 4 files</sub><br />
