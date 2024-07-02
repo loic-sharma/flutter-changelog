@@ -587,7 +587,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed units for memory measurement<br />
-    <sub>[#53687](https://github.com/flutter/engine/pull/53687) merged on July 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53687) over 2 hours, 4 additions and 3 deletions in 3 files</sub><br />
+    <sub>[#53687](https://github.com/flutter/engine/pull/53687) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53687) over 2 hours, 4 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Ignores the dir `flutter/third_party/icu/patches`<br />
