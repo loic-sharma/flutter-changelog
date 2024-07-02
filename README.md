@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-30 commits.
+31 commits.
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; Interactable ScrollView content when settling a scroll activity<br />
     <sub>[#145848](https://github.com/flutter/flutter/pull/145848) merged on July 2, 2024 &mdash; **Large:** [86 comments](https://github.com/flutter/flutter/pull/145848) over 3 months, 545 additions and 5 deletions in 5 files</sub><br />
@@ -33,6 +33,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Use `ErrorHandlingFileSystem.deleteIfExists` when deleting .plugin_symlinks<br />
     <sub>[#151073](https://github.com/flutter/flutter/pull/151073) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151073) over 1 day, 75 additions and 6 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix result propagation in RenderSliverEdgeInsetsPadding.hitTestChildren<br />
+    <sub>[#149825](https://github.com/flutter/flutter/pull/149825) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/149825) over 3 weeks, 2 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: `CupertinoActionSheet` should take up max height when actions section is short<br />
     <sub>[#150708](https://github.com/flutter/flutter/pull/150708) merged on July 2, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/150708) over 1 week, 234 additions and 77 deletions in 2 files</sub><br />
