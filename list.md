@@ -4,7 +4,11 @@
 
 ### June 29, 2024 to July 5, 2024
 
-11 commits.
+12 commits.
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath
+    <sub>[#150559](https://github.com/flutter/flutter/pull/150559) merged on July 2, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/150559) over 1 week, 713 additions and 223 deletions in 52 files</sub>
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing a few switch statements
     <sub>[#150946](https://github.com/flutter/flutter/pull/150946) merged on July 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/150946) over 4 days, 107 additions and 175 deletions in 11 files</sub>
