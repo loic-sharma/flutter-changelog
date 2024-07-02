@@ -564,7 +564,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-11 commits.
+12 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub>
@@ -581,6 +581,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [deep link][ios] Update openURL method to reflect the result from framework 
     <sub>[#52643](https://github.com/flutter/engine/pull/52643) merged on July 2, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/52643) over 1 month, 84 additions and 45 deletions in 4 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] fix typo in setup for fast elliptical rrect blurs
+    <sub>[#53673](https://github.com/flutter/engine/pull/53673) merged on July 2, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53673) over 21 hours, 30 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed units for memory measurement
     <sub>[#53687](https://github.com/flutter/engine/pull/53687) merged on July 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53687) over 2 hours, 4 additions and 3 deletions in 3 files</sub>
