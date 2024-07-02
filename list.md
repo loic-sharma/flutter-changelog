@@ -518,13 +518,13 @@
 
 6 commits.
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Output .js files as ES6 modules.
-    <sub>[#52023](https://github.com/flutter/engine/pull/52023) merged on July 1, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52023) over 2 months, 53 additions and 110 deletions in 6 files</sub>
-    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub>
     <sub>Reviewed by: [Lukas Klingsbo](https://github.com/spydon), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Output .js files as ES6 modules.
+    <sub>[#52023](https://github.com/flutter/engine/pull/52023) merged on July 1, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52023) over 2 months, 53 additions and 110 deletions in 6 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] track the sizes of all outstanding MTLTexture allocations and report per frame in MB, matching Vulkan implementation.
     <sub>[#53618](https://github.com/flutter/engine/pull/53618) merged on July 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/53618) over 3 days, 211 additions and 7 deletions in 12 files</sub>
