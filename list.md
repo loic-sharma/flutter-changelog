@@ -544,7 +544,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch from .didGain/LoseAccessibilityFocus to .focus
-    <sub>[#53360](https://github.com/flutter/engine/pull/53360) merged on June 28, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53360) over 2 weeks, 257 additions and 898 deletions in 9 files</sub>
+    <sub>[#53360](https://github.com/flutter/engine/pull/53360) merged on June 28, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/53360) over 2 weeks, 257 additions and 898 deletions in 9 files</sub>
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fixes for getting pixels from an image.
