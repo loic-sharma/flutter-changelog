@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-29 commits.
+30 commits.
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; Interactable ScrollView content when settling a scroll activity<br />
     <sub>[#145848](https://github.com/flutter/flutter/pull/145848) merged on July 2, 2024 &mdash; **Large:** [86 comments](https://github.com/flutter/flutter/pull/145848) over 3 months, 545 additions and 5 deletions in 5 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: `CupertinoActionSheet` should take up max height when actions section is short<br />
     <sub>[#150708](https://github.com/flutter/flutter/pull/150708) merged on July 2, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/150708) over 1 week, 234 additions and 77 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docImports for flutter_test<br />
+    <sub>[#151189](https://github.com/flutter/flutter/pull/151189) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151189) over 3 hours, 123 additions and 6 deletions in 27 files</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for painting<br />
     <sub>[#151143](https://github.com/flutter/flutter/pull/151143) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151143) over 18 hours, 184 additions and 6 deletions in 40 files</sub><br />
