@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-25 commits.
+26 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
     <sub>[#150559](https://github.com/flutter/flutter/pull/150559) merged on July 2, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/150559) over 1 week, 713 additions and 223 deletions in 52 files</sub><br />
@@ -88,6 +88,10 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix teardown of a FocusScopeNode in material/app_test<br />
     <sub>[#151115](https://github.com/flutter/flutter/pull/151115) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151115) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix typo<br />
+    <sub>[#151192](https://github.com/flutter/flutter/pull/151192) merged on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151192) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] remove some temporary printTrace calls<br />
