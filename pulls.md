@@ -21,13 +21,10 @@
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/150394) 270 additions and 56 deletions in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
-    <sub>[#150559](https://github.com/flutter/flutter/pull/150559) opened on on June 20, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/150559) 713 additions and 223 deletions in 52 files</sub><br />
+    <sub>[#150559](https://github.com/flutter/flutter/pull/150559) opened on on June 20, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/150559) 713 additions and 223 deletions in 52 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart<br />
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) opened on on June 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150606) 50 additions and 1 deletion in 2 files</sub><br />
-
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix project name fallback<br />
-    <sub>[#150614](https://github.com/flutter/flutter/pull/150614) opened on on June 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150614) 55 additions and 4 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; testAdd tests for stepper.controls_builder.0.dart<br />
     <sub>[#150669](https://github.com/flutter/flutter/pull/150669) opened on on June 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150669) 21 additions and 1 deletion in 2 files</sub><br />
@@ -73,9 +70,6 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for gestures<br />
-    <sub>[#151123](https://github.com/flutter/flutter/pull/151123) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151123) 85 additions and 0 deletions in 20 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for physics<br />
     <sub>[#151125](https://github.com/flutter/flutter/pull/151125) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151125) 6 additions and 0 deletions in 2 files</sub><br />
