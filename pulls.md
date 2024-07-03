@@ -77,3 +77,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Adds a call to the `PlatformDispatcher` whenever the focus changes<br />
     <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151268) 85 additions and 1 deletion in 3 files</sub><br />
 
+* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Added {@tool dartpad}<br />
+    <sub>[#151272](https://github.com/flutter/flutter/pull/151272) opened on on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151272) 1 addition and 1 deletion in 1 file</sub><br />
+
