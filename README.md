@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-32 commits.
+34 commits.
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; Interactable ScrollView content when settling a scroll activity<br />
     <sub>[#145848](https://github.com/flutter/flutter/pull/145848) merged on July 2, 2024 &mdash; **Large:** [86 comments](https://github.com/flutter/flutter/pull/145848) over 3 months, 545 additions and 5 deletions in 5 files</sub><br />
@@ -46,6 +46,14 @@
     <sub>[#150708](https://github.com/flutter/flutter/pull/150708) merged on July 2, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/150708) over 1 week, 234 additions and 77 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Handle a SocketException thrown when sending the browser close command to Chrome<br />
+    <sub>[#151197](https://github.com/flutter/flutter/pull/151197) merged on July 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151197) over 15 hours, 33 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Force regeneration of platform-specific manifests before running performance tests<br />
+    <sub>[#151003](https://github.com/flutter/flutter/pull/151003) merged on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151003) over 4 days, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docImports for flutter_test<br />
     <sub>[#151189](https://github.com/flutter/flutter/pull/151189) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151189) over 3 hours, 123 additions and 6 deletions in 27 files</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
@@ -82,9 +90,9 @@
     <sub>[#151132](https://github.com/flutter/flutter/pull/151132) merged on July 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151132) over 20 hours, 24 additions and 3 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_driver] add allocator mtl to memory event allowlist.<br />
-    <sub>[#151153](https://github.com/flutter/flutter/pull/151153) merged on July 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151153) over 11 hours, 22 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix teardown of a FocusScopeNode in material/app_test<br />
+    <sub>[#151115](https://github.com/flutter/flutter/pull/151115) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151115) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests<br />
     <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub><br />
@@ -98,17 +106,13 @@
     <sub>[#151011](https://github.com/flutter/flutter/pull/151011) merged on July 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151011) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_driver] add allocator mtl to memory event allowlist.<br />
+    <sub>[#151153](https://github.com/flutter/flutter/pull/151153) merged on July 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151153) over 11 hours, 22 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump dartdoc to 8.0.10<br />
     <sub>[#151107](https://github.com/flutter/flutter/pull/151107) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151107) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix teardown of a FocusScopeNode in material/app_test<br />
-    <sub>[#151115](https://github.com/flutter/flutter/pull/151115) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151115) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Update the mapping for the Dart SDK internal URI<br />
-    <sub>[#151170](https://github.com/flutter/flutter/pull/151170) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151170) over 7 hours, 75 additions and 5 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#151129](https://github.com/flutter/flutter/pull/151129) merged on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151129) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
@@ -133,6 +137,10 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#151028](https://github.com/flutter/flutter/pull/151028) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151028) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Update the mapping for the Dart SDK internal URI<br />
+    <sub>[#151170](https://github.com/flutter/flutter/pull/151170) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151170) over 7 hours, 75 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 ### June 22, 2024 to June 28, 2024
 
