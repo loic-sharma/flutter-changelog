@@ -95,7 +95,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests<br />
-    <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub><br />
+    <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Read AndroidManifest.xml and emit manifest-aar-impeller-(enabled|disabled) analytics<br />
@@ -628,7 +628,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-17 commits.
+18 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.<br />
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub><br />
@@ -649,6 +649,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [deep link][ios] Update openURL method to reflect the result from framework <br />
     <sub>[#52643](https://github.com/flutter/engine/pull/52643) merged on July 2, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/52643) over 1 month, 84 additions and 45 deletions in 4 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Document how to debug/profile OpenGL ES on macOS.<br />
+    <sub>[#53671](https://github.com/flutter/engine/pull/53671) merged on July 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53671) over 1 day, 110 additions and 0 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Kingtous](https://github.com/Kingtous)** &mdash; fix: mask disappeared when having nested mask filter on Flutter web HTML<br />
     <sub>[#45166](https://github.com/flutter/engine/pull/45166) merged on July 3, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/45166) over 10 months, 47 additions and 13 deletions in 2 files</sub><br />
