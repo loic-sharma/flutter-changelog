@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-31 commits.
+32 commits.
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; Interactable ScrollView content when settling a scroll activity<br />
     <sub>[#145848](https://github.com/flutter/flutter/pull/145848) merged on July 2, 2024 &mdash; **Large:** [86 comments](https://github.com/flutter/flutter/pull/145848) over 3 months, 545 additions and 5 deletions in 5 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath<br />
     <sub>[#150559](https://github.com/flutter/flutter/pull/150559) merged on July 2, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/150559) over 1 week, 713 additions and 223 deletions in 52 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Jonathan Lau](https://github.com/lauweijie)** &mdash; Fix scheduler event loop being stuck due to task with Priority.idle<br />
+    <sub>[#151168](https://github.com/flutter/flutter/pull/151168) merged on July 2, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151168) over 9 hours, 11 additions and 14 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing a few switch statements<br />
     <sub>[#150946](https://github.com/flutter/flutter/pull/150946) merged on July 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/150946) over 4 days, 107 additions and 175 deletions in 11 files</sub><br />
