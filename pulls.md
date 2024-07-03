@@ -51,7 +51,7 @@
     <sub>[#150960](https://github.com/flutter/flutter/pull/150960) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150960) 42 additions and 0 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for curve2_d.0.dart<br />
-    <sub>[#150984](https://github.com/flutter/flutter/pull/150984) opened on on June 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150984) 40 additions and 11 deletions in 3 files</sub><br />
+    <sub>[#150984](https://github.com/flutter/flutter/pull/150984) opened on on June 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150984) 40 additions and 11 deletions in 3 files</sub><br />
 
 * **[Aaron Housh](https://github.com/Dispersia)** &mdash; Fix invalid URL suggestion for gradle incompatability<br />
     <sub>[#150999](https://github.com/flutter/flutter/pull/150999) opened on on June 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150999) 2 additions and 2 deletions in 2 files</sub><br />
@@ -63,7 +63,7 @@
     <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151026) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for color_filtered.0.dart example.<br />
-    <sub>[#151064](https://github.com/flutter/flutter/pull/151064) opened on on June 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151064) 53 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151064](https://github.com/flutter/flutter/pull/151064) opened on on June 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151064) 53 additions and 1 deletion in 2 files</sub><br />
 
 * **[carlos ](https://github.com/scoorpion1008)** &mdash; Create dart.yml<br />
     <sub>[#151066](https://github.com/flutter/flutter/pull/151066) opened on on June 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151066) 42 additions and 0 deletions in 1 file</sub><br />
