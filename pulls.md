@@ -83,6 +83,3 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#151203](https://github.com/flutter/flutter/pull/151203) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151203) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Hans Muller](https://github.com/HansMuller)** &mdash; PinnedHeaderSliver example based on the iOS Settings AppBar<br />
-    <sub>[#151205](https://github.com/flutter/flutter/pull/151205) opened on on July 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151205) 245 additions and 0 deletions in 2 files</sub><br />
-
