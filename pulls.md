@@ -65,9 +65,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for color_filtered.0.dart example.<br />
     <sub>[#151064](https://github.com/flutter/flutter/pull/151064) opened on on June 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151064) 53 additions and 1 deletion in 2 files</sub><br />
 
-* **[carlos ](https://github.com/scoorpion1008)** &mdash; Create dart.yml<br />
-    <sub>[#151066](https://github.com/flutter/flutter/pull/151066) opened on on June 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151066) 42 additions and 0 deletions in 1 file</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
 
@@ -94,7 +91,4 @@
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add `TimeOfDay` comparison methods<br />
     <sub>[#151233](https://github.com/flutter/flutter/pull/151233) opened on on July 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151233) 55 additions and 1 deletion in 2 files</sub><br />
-
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Fix link in tree hygene doc<br />
-    <sub>[#151235](https://github.com/flutter/flutter/pull/151235) opened on on July 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151235) 1 addition and 1 deletion in 1 file</sub><br />
 
