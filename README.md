@@ -628,7 +628,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-15 commits.
+17 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.<br />
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub><br />
@@ -642,9 +642,17 @@
     <sub>[#53618](https://github.com/flutter/engine/pull/53618) merged on July 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/53618) over 3 days, 211 additions and 7 deletions in 12 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Kingtous](https://github.com/Kingtous)** &mdash; [Flutter Web(HTML)] fix: shader mask is painted incorrectly on shared offscreen canvas<br />
+    <sub>[#44998](https://github.com/flutter/engine/pull/44998) merged on July 3, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/44998) over 10 months, 58 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
 * **[hangyu](https://github.com/hangyujin)** &mdash; [deep link][ios] Update openURL method to reflect the result from framework <br />
     <sub>[#52643](https://github.com/flutter/engine/pull/52643) merged on July 2, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/52643) over 1 month, 84 additions and 45 deletions in 4 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Kingtous](https://github.com/Kingtous)** &mdash; fix: mask disappeared when having nested mask filter on Flutter web HTML<br />
+    <sub>[#45166](https://github.com/flutter/engine/pull/45166) merged on July 3, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/45166) over 10 months, 47 additions and 13 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] fix typo in setup for fast elliptical rrect blurs<br />
     <sub>[#53673](https://github.com/flutter/engine/pull/53673) merged on July 2, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53673) over 21 hours, 30 additions and 1 deletion in 3 files</sub><br />
@@ -667,7 +675,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Reland [DisplayList] Add support for clipOval to leverage Impeller optimization"<br />
-    <sub>[#53705](https://github.com/flutter/engine/pull/53705) merged on July 3, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/53705) over 1 hour, 73 additions and 761 deletions in 23 files</sub><br />
+    <sub>[#53705](https://github.com/flutter/engine/pull/53705) merged on July 3, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/53705) over 1 hour, 73 additions and 761 deletions in 23 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "[web] switch from .didGain/LoseAccessibilityFocus to .focus"<br />
