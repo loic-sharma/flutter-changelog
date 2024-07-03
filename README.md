@@ -628,7 +628,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-18 commits.
+19 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.<br />
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub><br />
@@ -657,6 +657,10 @@
 * **[Kingtous](https://github.com/Kingtous)** &mdash; fix: mask disappeared when having nested mask filter on Flutter web HTML<br />
     <sub>[#45166](https://github.com/flutter/engine/pull/45166) merged on July 3, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/45166) over 10 months, 47 additions and 13 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `//third_party/android_embedding_dependencies` to `//flutter/third_party`.<br />
+    <sub>[#53587](https://github.com/flutter/engine/pull/53587) merged on July 3, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/53587) over 1 week, 39 additions and 36 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] fix typo in setup for fast elliptical rrect blurs<br />
     <sub>[#53673](https://github.com/flutter/engine/pull/53673) merged on July 2, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53673) over 21 hours, 30 additions and 1 deletion in 3 files</sub><br />
