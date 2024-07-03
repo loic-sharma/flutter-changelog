@@ -71,8 +71,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Added new way to calculate column width to CupertinoDatePicker<br />
-    <sub>[#151128](https://github.com/flutter/flutter/pull/151128) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151128) 48 additions and 4 deletions in 1 file</sub><br />
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes column text width calculation in CupertinoDatePicker on CupertinoDatePickerMode.monthYear mode<br />
+    <sub>[#151128](https://github.com/flutter/flutter/pull/151128) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151128) 48 additions and 4 deletions in 1 file</sub><br />
 
 * **[Hosam Hasan Ramadan](https://github.com/HosamHasanRamadan)** &mdash; fix cupertino date picker column width calculation<br />
     <sub>[#151142](https://github.com/flutter/flutter/pull/151142) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151142) 33 additions and 26 deletions in 1 file</sub><br />
