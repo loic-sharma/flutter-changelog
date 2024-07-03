@@ -78,5 +78,5 @@
     <sub>[#151267](https://github.com/flutter/flutter/pull/151267) opened on on July 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151267) 63 additions and 26 deletions in 24 files</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Adds a call to the `PlatformDispatcher` whenever the focus changes<br />
-    <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151268) 85 additions and 1 deletion in 3 files</sub><br />
+    <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151268) 85 additions and 1 deletion in 3 files</sub><br />
 
