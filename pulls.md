@@ -78,5 +78,5 @@
     <sub>[#151272](https://github.com/flutter/flutter/pull/151272) opened on on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151272) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; de-duplicate code in analyze.dart<br />
-    <sub>[#151279](https://github.com/flutter/flutter/pull/151279) opened on on July 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151279) 10 additions and 38 deletions in 2 files</sub><br />
+    <sub>[#151279](https://github.com/flutter/flutter/pull/151279) opened on on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151279) 10 additions and 38 deletions in 2 files</sub><br />
 
