@@ -4,7 +4,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-49 commits.
+50 commits.
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix project name fallback<br />
     <sub>[#150614](https://github.com/flutter/flutter/pull/150614) merged on July 3, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150614) over 1 week, 61 additions and 4 deletions in 2 files</sub><br />
@@ -54,13 +54,17 @@
     <sub>[#151073](https://github.com/flutter/flutter/pull/151073) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151073) over 1 day, 75 additions and 6 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add a message about spam/brigading<br />
+    <sub>[#150583](https://github.com/flutter/flutter/pull/150583) merged on July 3, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150583) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix result propagation in RenderSliverEdgeInsetsPadding.hitTestChildren<br />
     <sub>[#149825](https://github.com/flutter/flutter/pull/149825) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/149825) over 3 weeks, 2 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add a message about spam/brigading<br />
-    <sub>[#150583](https://github.com/flutter/flutter/pull/150583) merged on July 3, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150583) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: `CupertinoActionSheet` should take up max height when actions section is short<br />
+    <sub>[#150708](https://github.com/flutter/flutter/pull/150708) merged on July 2, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/150708) over 1 week, 234 additions and 77 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Add example of goldenFileComparator usage in widget tests<br />
     <sub>[#150422](https://github.com/flutter/flutter/pull/150422) merged on July 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150422) over 2 weeks, 61 additions and 2 deletions in 1 file</sub><br />
@@ -69,10 +73,6 @@
 * **[Snoppy](https://github.com/xiaoxianBoy)** &mdash; chore: fix typos and link broken<br />
     <sub>[#150402](https://github.com/flutter/flutter/pull/150402) merged on July 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150402) over 2 weeks, 4 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup), [Ben Konyi](https://github.com/bkonyi), [Michael Goderbauer](https://github.com/goderbauer), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: `CupertinoActionSheet` should take up max height when actions section is short<br />
-    <sub>[#150708](https://github.com/flutter/flutter/pull/150708) merged on July 2, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/150708) over 1 week, 234 additions and 77 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Prepares semantics_update_test for upcoming link URL change<br />
     <sub>[#151261](https://github.com/flutter/flutter/pull/151261) merged on July 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151261) over 33 minutes, 1 addition and 0 deletions in 1 file</sub><br />
@@ -102,6 +102,10 @@
     <sub>[#151189](https://github.com/flutter/flutter/pull/151189) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151189) over 3 hours, 123 additions and 6 deletions in 27 files</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for cupertino<br />
+    <sub>[#151149](https://github.com/flutter/flutter/pull/151149) merged on July 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151149) over 17 hours, 173 additions and 11 deletions in 34 files</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for gestures<br />
     <sub>[#151123](https://github.com/flutter/flutter/pull/151123) merged on July 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151123) over 22 hours, 85 additions and 0 deletions in 20 files</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
@@ -110,29 +114,25 @@
     <sub>[#151119](https://github.com/flutter/flutter/pull/151119) merged on July 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151119) over 22 hours, 61 additions and 7 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for cupertino<br />
-    <sub>[#151149](https://github.com/flutter/flutter/pull/151149) merged on July 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151149) over 17 hours, 173 additions and 11 deletions in 34 files</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_driver] add allocator mtl to memory event allowlist.<br />
+    <sub>[#151153](https://github.com/flutter/flutter/pull/151153) merged on July 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151153) over 11 hours, 22 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for painting<br />
-    <sub>[#151143](https://github.com/flutter/flutter/pull/151143) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151143) over 18 hours, 184 additions and 6 deletions in 40 files</sub><br />
-    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Read AndroidManifest.xml and emit manifest-aar-impeller-(enabled|disabled) analytics<br />
-    <sub>[#150970](https://github.com/flutter/flutter/pull/150970) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150970) over 3 days, 139 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump dartdoc to 8.0.10<br />
-    <sub>[#151107](https://github.com/flutter/flutter/pull/151107) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151107) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests<br />
+    <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; More docimports for animation library<br />
     <sub>[#151011](https://github.com/flutter/flutter/pull/151011) merged on July 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151011) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_driver] add allocator mtl to memory event allowlist.<br />
-    <sub>[#151153](https://github.com/flutter/flutter/pull/151153) merged on July 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151153) over 11 hours, 22 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump dartdoc to 8.0.10<br />
+    <sub>[#151107](https://github.com/flutter/flutter/pull/151107) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151107) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for painting<br />
+    <sub>[#151143](https://github.com/flutter/flutter/pull/151143) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151143) over 18 hours, 184 additions and 6 deletions in 40 files</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix teardown of a FocusScopeNode in material/app_test<br />
     <sub>[#151115](https://github.com/flutter/flutter/pull/151115) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151115) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -142,21 +142,25 @@
     <sub>[#151125](https://github.com/flutter/flutter/pull/151125) merged on July 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151125) over 22 hours, 6 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests<br />
-    <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for semantics<br />
+    <sub>[#151132](https://github.com/flutter/flutter/pull/151132) merged on July 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151132) over 20 hours, 24 additions and 3 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Read AndroidManifest.xml and emit manifest-aar-impeller-(enabled|disabled) analytics<br />
+    <sub>[#150970](https://github.com/flutter/flutter/pull/150970) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150970) over 3 days, 139 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for services<br />
     <sub>[#151134](https://github.com/flutter/flutter/pull/151134) merged on July 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151134) over 20 hours, 120 additions and 3 deletions in 27 files</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for semantics<br />
-    <sub>[#151132](https://github.com/flutter/flutter/pull/151132) merged on July 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151132) over 20 hours, 24 additions and 3 deletions in 6 files</sub><br />
-    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for scheduler<br />
     <sub>[#151126](https://github.com/flutter/flutter/pull/151126) merged on July 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151126) over 22 hours, 21 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Update the mapping for the Dart SDK internal URI<br />
+    <sub>[#151170](https://github.com/flutter/flutter/pull/151170) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151170) over 7 hours, 75 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#151129](https://github.com/flutter/flutter/pull/151129) merged on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151129) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
@@ -174,6 +178,10 @@
     <sub>[#151147](https://github.com/flutter/flutter/pull/151147) merged on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151147) over 1 minute, 36 additions and 170 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#151203](https://github.com/flutter/flutter/pull/151203) merged on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151203) over 22 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Aaron Housh](https://github.com/Dispersia)** &mdash; Fix invalid URL suggestion for gradle incompatability<br />
     <sub>[#150999](https://github.com/flutter/flutter/pull/150999) merged on July 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150999) over 5 days, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Parker Lougheed](https://github.com/parlough)</sub><br />
@@ -186,10 +194,6 @@
     <sub>[#150670](https://github.com/flutter/flutter/pull/150670) merged on July 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150670) over 1 week, 117 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Fix link in tree hygene doc<br />
-    <sub>[#151235](https://github.com/flutter/flutter/pull/151235) merged on July 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151235) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Fix missing `[` in docs<br />
     <sub>[#151091](https://github.com/flutter/flutter/pull/151091) merged on July 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151091) over 8 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
@@ -198,9 +202,9 @@
     <sub>[#151028](https://github.com/flutter/flutter/pull/151028) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151028) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Update the mapping for the Dart SDK internal URI<br />
-    <sub>[#151170](https://github.com/flutter/flutter/pull/151170) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151170) over 7 hours, 75 additions and 5 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Fix link in tree hygene doc<br />
+    <sub>[#151235](https://github.com/flutter/flutter/pull/151235) merged on July 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151235) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 ### June 22, 2024 to June 28, 2024
 

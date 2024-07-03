@@ -62,9 +62,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix padding and font size of buttons<br />
     <sub>[#151199](https://github.com/flutter/flutter/pull/151199) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151199) 51 additions and 5 deletions in 1 file</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#151203](https://github.com/flutter/flutter/pull/151203) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151203) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[ndelanou](https://github.com/ndelanou)** &mdash; add a `allowFlinging` param to the `Dismissible` widget<br />
     <sub>[#151224](https://github.com/flutter/flutter/pull/151224) opened on on July 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151224) 27 additions and 1 deletion in 2 files</sub><br />
 
