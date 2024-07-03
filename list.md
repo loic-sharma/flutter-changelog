@@ -655,7 +655,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "Reland [DisplayList] Add support for clipOval to leverage Impeller optimization"
-    <sub>[#53705](https://github.com/flutter/engine/pull/53705) merged on July 3, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/53705) over 1 hour, 73 additions and 761 deletions in 23 files</sub>
+    <sub>[#53705](https://github.com/flutter/engine/pull/53705) merged on July 3, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53705) over 1 hour, 73 additions and 761 deletions in 23 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "[web] switch from .didGain/LoseAccessibilityFocus to .focus"
