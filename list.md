@@ -95,7 +95,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests
-    <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub>
+    <sub>[#150969](https://github.com/flutter/flutter/pull/150969) merged on July 1, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/150969) over 3 days, 170 additions and 36 deletions in 11 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Read AndroidManifest.xml and emit manifest-aar-impeller-(enabled|disabled) analytics
@@ -628,7 +628,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-19 commits.
+20 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub>
@@ -637,6 +637,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Output .js files as ES6 modules.
     <sub>[#52023](https://github.com/flutter/engine/pull/52023) merged on July 1, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/52023) over 2 months, 53 additions and 110 deletions in 6 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert `run_ios_tests.sh` to `run_ios_tests.dart`.
+    <sub>[#53645](https://github.com/flutter/engine/pull/53645) merged on July 3, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/53645) over 4 days, 422 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] track the sizes of all outstanding MTLTexture allocations and report per frame in MB, matching Vulkan implementation.
     <sub>[#53618](https://github.com/flutter/engine/pull/53618) merged on July 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/53618) over 3 days, 211 additions and 7 deletions in 12 files</sub>
