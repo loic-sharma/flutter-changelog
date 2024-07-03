@@ -71,6 +71,9 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Added new way to calculate column width to CupertinoDatePicker<br />
+    <sub>[#151128](https://github.com/flutter/flutter/pull/151128) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151128) 48 additions and 4 deletions in 1 file</sub><br />
+
 * **[Hosam Hasan Ramadan](https://github.com/HosamHasanRamadan)** &mdash; fix cupertino date picker column width calculation<br />
     <sub>[#151142](https://github.com/flutter/flutter/pull/151142) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151142) 33 additions and 26 deletions in 1 file</sub><br />
 
@@ -88,6 +91,9 @@
 
 * **[John Stef](https://github.com/johnstef99)** &mdash; Add borderRadius property to PopupMenuButton<br />
     <sub>[#151228](https://github.com/flutter/flutter/pull/151228) opened on on July 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151228) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add `TimeOfDay` comparison methods<br />
+    <sub>[#151233](https://github.com/flutter/flutter/pull/151233) opened on on July 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151233) 55 additions and 1 deletion in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Fix link in tree hygene doc<br />
     <sub>[#151235](https://github.com/flutter/flutter/pull/151235) opened on on July 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151235) 1 addition and 1 deletion in 1 file</sub><br />
