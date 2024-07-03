@@ -44,9 +44,6 @@
 * **[Nguyễn Văn Quân](https://github.com/QunNguyen)** &mdash; Add function onHover DataRow in DataTable<br />
     <sub>[#150918](https://github.com/flutter/flutter/pull/150918) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150918) 12 additions and 0 deletions in 1 file</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] MenuAnchor focus refactoring for RawMenuAnchor<br />
-    <sub>[#150950](https://github.com/flutter/flutter/pull/150950) opened on on June 27, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/150950) 637 additions and 244 deletions in 3 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make the `systemTempDirectory` getter on `ErrorHandlingFileSystem` wrap the underlying filesystem's temp directory in a`ErrorHandlingDirectory`<br />
     <sub>[#150960](https://github.com/flutter/flutter/pull/150960) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150960) 42 additions and 0 deletions in 2 files</sub><br />
 
