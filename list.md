@@ -959,7 +959,11 @@
 
 ### June 29, 2024 to July 5, 2024
 
-6 commits.
+7 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Fix Circle update regression
+    <sub>[#7056](https://github.com/flutter/packages/pull/7056) merged on July 3, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/7056) over 44 minutes, 444 additions and 106 deletions in 12 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump androidx.test.espresso:espresso-core from 3.5.1 to 3.6.1 in /packages/in_app_purchase/in_app_purchase_android/android
     <sub>[#7032](https://github.com/flutter/packages/pull/7032) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7032) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
