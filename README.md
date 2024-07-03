@@ -660,7 +660,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-22 commits.
+23 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.<br />
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub><br />
@@ -717,6 +717,10 @@
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Ignores the dir `flutter/third_party/icu/patches`<br />
     <sub>[#53667](https://github.com/flutter/engine/pull/53667) merged on July 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53667) over 48 minutes, 3 additions and 16 deletions in 4 files</sub><br />
     <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add Semantics Property `linkUrl`<br />
+    <sub>[#53507](https://github.com/flutter/engine/pull/53507) merged on July 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/53507) over 1 week, 93 additions and 10 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; [skia] Use more GNI file lists<br />
     <sub>[#53685](https://github.com/flutter/engine/pull/53685) merged on July 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53685) over 1 hour, 24 additions and 46 deletions in 1 file</sub><br />
