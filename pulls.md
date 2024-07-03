@@ -33,7 +33,7 @@
     <sub>[#150737](https://github.com/flutter/flutter/pull/150737) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150737) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
-    <sub>[#150764](https://github.com/flutter/flutter/pull/150764) opened on on June 25, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/150764) 140 additions and 7 deletions in 2 files</sub><br />
+    <sub>[#150764](https://github.com/flutter/flutter/pull/150764) opened on on June 25, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/150764) 140 additions and 7 deletions in 2 files</sub><br />
 
 * **[Jefferey Neuffer](https://github.com/j7126)** &mdash; expose keyboardType in DropdownMenu #150894<br />
     <sub>[#150896](https://github.com/flutter/flutter/pull/150896) opened on on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150896) 5 additions and 0 deletions in 1 file</sub><br />
@@ -69,7 +69,7 @@
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes column text width calculation in CupertinoDatePicker on CupertinoDatePickerMode.monthYear mode<br />
-    <sub>[#151128](https://github.com/flutter/flutter/pull/151128) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151128) 48 additions and 4 deletions in 1 file</sub><br />
+    <sub>[#151128](https://github.com/flutter/flutter/pull/151128) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151128) 41 additions and 4 deletions in 1 file</sub><br />
 
 * **[Hosam Hasan Ramadan](https://github.com/HosamHasanRamadan)** &mdash; fix cupertino date picker column width calculation<br />
     <sub>[#151142](https://github.com/flutter/flutter/pull/151142) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151142) 33 additions and 26 deletions in 1 file</sub><br />
