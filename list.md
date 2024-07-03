@@ -772,7 +772,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland [DisplayList] Add support for clipOval to leverage Impeller optimization
-    <sub>[#53642](https://github.com/flutter/engine/pull/53642) merged on June 28, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/53642) over 1 hour, 761 additions and 73 deletions in 23 files</sub>
+    <sub>[#53642](https://github.com/flutter/engine/pull/53642) merged on June 28, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/53642) over 1 hour, 761 additions and 73 deletions in 23 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "[DisplayList] Add support for clipOval to leverage Impeller optimization"

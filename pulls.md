@@ -33,7 +33,7 @@
     <sub>[#150737](https://github.com/flutter/flutter/pull/150737) opened on on June 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/150737) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
-    <sub>[#150764](https://github.com/flutter/flutter/pull/150764) opened on on June 25, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/150764) 140 additions and 7 deletions in 2 files</sub><br />
+    <sub>[#150764](https://github.com/flutter/flutter/pull/150764) opened on on June 25, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/150764) 140 additions and 7 deletions in 2 files</sub><br />
 
 * **[Jefferey Neuffer](https://github.com/j7126)** &mdash; expose keyboardType in DropdownMenu #150894<br />
     <sub>[#150896](https://github.com/flutter/flutter/pull/150896) opened on on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150896) 5 additions and 0 deletions in 1 file</sub><br />
