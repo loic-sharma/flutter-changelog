@@ -664,7 +664,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-24 commits.
+25 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub>
@@ -689,6 +689,10 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; [deep link][ios] Update openURL method to reflect the result from framework 
     <sub>[#52643](https://github.com/flutter/engine/pull/52643) merged on July 2, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/engine/pull/52643) over 1 month, 84 additions and 45 deletions in 4 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Re-enable fast blur path for elliptical rrects
+    <sub>[#53704](https://github.com/flutter/engine/pull/53704) merged on July 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/53704) over 1 day, 108 additions and 11 deletions in 4 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] ignore pointer events on plain text spans
     <sub>[#53694](https://github.com/flutter/engine/pull/53694) merged on July 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53694) over 1 day, 32 additions and 1 deletion in 2 files</sub>
