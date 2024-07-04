@@ -664,7 +664,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-26 commits.
+27 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.<br />
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub><br />
@@ -715,7 +715,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Kingtous](https://github.com/Kingtous)** &mdash; fix: mask disappeared when having nested mask filter on Flutter web HTML<br />
-    <sub>[#45166](https://github.com/flutter/engine/pull/45166) merged on July 3, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/45166) over 10 months, 47 additions and 13 deletions in 2 files</sub><br />
+    <sub>[#45166](https://github.com/flutter/engine/pull/45166) merged on July 3, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/45166) over 10 months, 47 additions and 13 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `//third_party/android_embedding_dependencies` to `//flutter/third_party`.<br />
@@ -733,6 +733,10 @@
 * **[Filip Filmar](https://github.com/filmil)** &mdash; [icu] Ignores the dir `flutter/third_party/icu/patches`<br />
     <sub>[#53667](https://github.com/flutter/engine/pull/53667) merged on July 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53667) over 48 minutes, 3 additions and 16 deletions in 4 files</sub><br />
     <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "fix: mask disappeared when having nested mask filter on Flutter web HTML (#45166)"<br />
+    <sub>[#53725](https://github.com/flutter/engine/pull/53725) merged on July 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53725) over 1 minute, 13 additions and 47 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add Semantics Property `linkUrl`<br />
     <sub>[#53507](https://github.com/flutter/engine/pull/53507) merged on July 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/53507) over 1 week, 93 additions and 10 deletions in 11 files</sub><br />
