@@ -664,7 +664,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-25 commits.
+26 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub>
@@ -693,6 +693,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Re-enable fast blur path for elliptical rrects
     <sub>[#53704](https://github.com/flutter/engine/pull/53704) merged on July 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/53704) over 1 day, 108 additions and 11 deletions in 4 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] mark the end of a frame boundary for system compositor interop.
+    <sub>[#53722](https://github.com/flutter/engine/pull/53722) merged on July 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53722) over 3 hours, 53 additions and 10 deletions in 6 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] ignore pointer events on plain text spans
     <sub>[#53694](https://github.com/flutter/engine/pull/53694) merged on July 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53694) over 1 day, 32 additions and 1 deletion in 2 files</sub>
