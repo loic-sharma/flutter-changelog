@@ -80,6 +80,3 @@
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix: Submenu anchor misaligned with child panel in web (Resolved #151081)<br />
     <sub>[#151294](https://github.com/flutter/flutter/pull/151294) opened on on July 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151294) 6 additions and 7 deletions in 1 file</sub><br />
 
-* **[Juned Raza](https://github.com/junedr375)** &mdash; [UPDATE]| Documentation Fix on foundation/constant.dart<br />
-    <sub>[#151302](https://github.com/flutter/flutter/pull/151302) opened on on July 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151302) 2 additions and 2 deletions in 1 file</sub><br />
-
