@@ -71,7 +71,7 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Adds a call to the `PlatformDispatcher` whenever the focus changes<br />
     <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151268) 85 additions and 1 deletion in 3 files</sub><br />
 
-* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Added {@tool dartpad}<br />
+* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Replaced {@tool snippet} with {@tool dartpad} in CupertinoTabController<br />
     <sub>[#151272](https://github.com/flutter/flutter/pull/151272) opened on on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151272) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; de-duplicate code in analyze.dart<br />
@@ -79,4 +79,7 @@
 
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix: Submenu anchor misaligned with child panel in web (Resolved #151081)<br />
     <sub>[#151294](https://github.com/flutter/flutter/pull/151294) opened on on July 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151294) 6 additions and 7 deletions in 1 file</sub><br />
+
+* **[cedvdb](https://github.com/cedvdb)** &mdash; Add cedric vanden bosch to authors<br />
+    <sub>[#151313](https://github.com/flutter/flutter/pull/151313) opened on on July 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151313) 1 addition and 0 deletions in 1 file</sub><br />
 
