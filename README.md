@@ -664,7 +664,7 @@
 
 ### June 29, 2024 to July 5, 2024
 
-27 commits.
+28 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Restore creation of engine before Linux widget is realized.<br />
     <sub>[#53604](https://github.com/flutter/engine/pull/53604) merged on July 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53604) over 5 days, 139 additions and 81 deletions in 14 files</sub><br />
@@ -725,6 +725,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] fix typo in setup for fast elliptical rrect blurs<br />
     <sub>[#53673](https://github.com/flutter/engine/pull/53673) merged on July 2, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/53673) over 21 hours, 30 additions and 1 deletion in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] use semantic tags for headings (h1, h2, etc), and fix missing secondary roles<br />
+    <sub>[#53703](https://github.com/flutter/engine/pull/53703) merged on July 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53703) over 2 days, 57 additions and 21 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] fixed units for memory measurement<br />
     <sub>[#53687](https://github.com/flutter/engine/pull/53687) merged on July 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53687) over 2 hours, 4 additions and 3 deletions in 3 files</sub><br />
