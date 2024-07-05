@@ -50,9 +50,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Flicker when reorderable list doesn't change its position<br />
     <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151026) 6 additions and 2 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for color_filtered.0.dart example.<br />
-    <sub>[#151064](https://github.com/flutter/flutter/pull/151064) opened on on June 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151064) 53 additions and 1 deletion in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
 
@@ -73,9 +70,6 @@
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Replaced {@tool snippet} with {@tool dartpad} in CupertinoTabController<br />
     <sub>[#151272](https://github.com/flutter/flutter/pull/151272) opened on on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151272) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; de-duplicate code in analyze.dart<br />
-    <sub>[#151279](https://github.com/flutter/flutter/pull/151279) opened on on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151279) 10 additions and 38 deletions in 2 files</sub><br />
 
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix: Submenu anchor misaligned with child panel in web (Resolved #151081)<br />
     <sub>[#151294](https://github.com/flutter/flutter/pull/151294) opened on on July 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151294) 6 additions and 7 deletions in 1 file</sub><br />
