@@ -77,3 +77,6 @@
 * **[cedvdb](https://github.com/cedvdb)** &mdash; Add cedric vanden bosch to authors<br />
     <sub>[#151313](https://github.com/flutter/flutter/pull/151313) opened on on July 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151313) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `DataTable` documentation<br />
+    <sub>[#151356](https://github.com/flutter/flutter/pull/151356) opened on on July 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151356) 27 additions and 18 deletions in 2 files</sub><br />
+
