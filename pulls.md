@@ -83,3 +83,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `DataTable` documentation<br />
     <sub>[#151356](https://github.com/flutter/flutter/pull/151356) opened on on July 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151356) 27 additions and 18 deletions in 2 files</sub><br />
 
+* **[n7484443](https://github.com/n7484443)** &mdash; chore: fix typo korean, cutButtonLabel<br />
+    <sub>[#151364](https://github.com/flutter/flutter/pull/151364) opened on on July 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151364) 2 additions and 2 deletions in 2 files</sub><br />
+
