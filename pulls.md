@@ -92,3 +92,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Style: Rename CupertinoSwitch activeColor and trackColor to activeTrackColor and InactiveTrackColor<br />
     <sub>[#151367](https://github.com/flutter/flutter/pull/151367) opened on on July 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151367) 10 additions and 10 deletions in 3 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code<br />
+    <sub>[#151374](https://github.com/flutter/flutter/pull/151374) opened on on July 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151374) 80 additions and 80 deletions in 22 files</sub><br />
+
