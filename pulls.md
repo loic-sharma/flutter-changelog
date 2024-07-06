@@ -66,7 +66,7 @@
     <sub>[#151228](https://github.com/flutter/flutter/pull/151228) opened on on July 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/151228) 50 additions and 0 deletions in 2 files</sub><br />
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add `TimeOfDay` comparison methods<br />
-    <sub>[#151233](https://github.com/flutter/flutter/pull/151233) opened on on July 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151233) 55 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151233](https://github.com/flutter/flutter/pull/151233) opened on on July 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151233) 55 additions and 1 deletion in 2 files</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Adds a call to the `PlatformDispatcher` whenever the focus changes<br />
     <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151268) 85 additions and 1 deletion in 3 files</sub><br />
