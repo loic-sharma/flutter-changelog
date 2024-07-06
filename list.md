@@ -1035,11 +1035,15 @@
 
 ### June 29, 2024 to July 5, 2024
 
-10 commits.
+11 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add fix for camera preview rotation on landscape-oriented devices and set up fix for Impeller support
     <sub>[#7044](https://github.com/flutter/packages/pull/7044) merged on July 5, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/7044) over 3 days, 817 additions and 34 deletions in 25 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; [rfw] Update goldens.
+    <sub>[#6941](https://github.com/flutter/packages/pull/6941) merged on July 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6941) over 2 weeks, 2 additions and 6 deletions in 13 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Moves Java->Dart calls to Pigeon
     <sub>[#7040](https://github.com/flutter/packages/pull/7040) merged on July 6, 2024 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/7040) over 5 days, 1894 additions and 518 deletions in 21 files</sub>
