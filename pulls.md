@@ -20,6 +20,9 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/150394) 264 additions and 56 deletions in 2 files</sub><br />
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoAlertDialog] Rewrite<br />
+    <sub>[#150410](https://github.com/flutter/flutter/pull/150410) opened on on June 18, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/150410) 466 additions and 1248 deletions in 2 files</sub><br />
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart<br />
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) opened on on June 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) 50 additions and 1 deletion in 2 files</sub><br />
 
