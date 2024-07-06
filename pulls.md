@@ -89,3 +89,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Vertical offset between submenu item and menu item button<br />
     <sub>[#151365](https://github.com/flutter/flutter/pull/151365) opened on on July 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151365) 14 additions and 14 deletions in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Style: Rename CupertinoSwitch activeColor and trackColor to activeTrackColor and InactiveTrackColor<br />
+    <sub>[#151367](https://github.com/flutter/flutter/pull/151367) opened on on July 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151367) 10 additions and 10 deletions in 3 files</sub><br />
+
