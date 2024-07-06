@@ -179,7 +179,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add tests for color_filtered.0.dart example.<br />
-    <sub>[#151064](https://github.com/flutter/flutter/pull/151064) merged on July 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151064) over 5 days, 53 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151064](https://github.com/flutter/flutter/pull/151064) merged on July 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151064) over 5 days, 53 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests (#150969)"<br />
