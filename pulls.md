@@ -98,3 +98,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `MaterialState` → `WidgetState` in documentation<br />
     <sub>[#151376](https://github.com/flutter/flutter/pull/151376) opened on on July 6, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/151376) 508 additions and 510 deletions in 55 files</sub><br />
 
+* **[arbaker2](https://github.com/arbaker2)** &mdash; Add support for inverting CircularNotchedRectangle to be drawn on the…<br />
+    <sub>[#151385](https://github.com/flutter/flutter/pull/151385) opened on on July 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151385) 61 additions and 16 deletions in 2 files</sub><br />
+
