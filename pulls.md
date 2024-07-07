@@ -75,7 +75,7 @@
     <sub>[#151272](https://github.com/flutter/flutter/pull/151272) opened on on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151272) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix: Submenu anchor misaligned with child panel in web (Resolved #151081)<br />
-    <sub>[#151294](https://github.com/flutter/flutter/pull/151294) opened on on July 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151294) 12 additions and 12 deletions in 3 files</sub><br />
+    <sub>[#151294](https://github.com/flutter/flutter/pull/151294) opened on on July 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151294) 12 additions and 12 deletions in 3 files</sub><br />
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; Add cedric vanden bosch to authors<br />
     <sub>[#151313](https://github.com/flutter/flutter/pull/151313) opened on on July 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151313) 1 addition and 0 deletions in 1 file</sub><br />
