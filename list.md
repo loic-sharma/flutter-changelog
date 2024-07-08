@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-12 commits.
+13 commits.
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `FittedBox` not throw when child has zero size.
     <sub>[#150430](https://github.com/flutter/flutter/pull/150430) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150430) over 2 weeks, 49 additions and 20 deletions in 4 files</sub>
@@ -34,6 +34,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code
     <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] make `testUsingContext` provide a `Stdio` (with `hasTerminal` unset) override by default
+    <sub>[#151357](https://github.com/flutter/flutter/pull/151357) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151357) over 3 days, 7 additions and 19 deletions in 3 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]A typical news app benchmark with bottom ad banner
     <sub>[#150991](https://github.com/flutter/flutter/pull/150991) merged on July 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150991) over 1 week, 189 additions and 0 deletions in 7 files</sub>
