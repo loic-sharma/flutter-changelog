@@ -51,7 +51,7 @@
     <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151026) 37 additions and 2 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
-    <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151089](https://github.com/flutter/flutter/pull/151089) opened on on July 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151089) 69 additions and 1 deletion in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Use `ErrorHandlingFileSystem.deleteIfExists` when deleting .plugin_symlinks<br />
     <sub>[#151184](https://github.com/flutter/flutter/pull/151184) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151184) 75 additions and 6 deletions in 4 files</sub><br />
@@ -70,9 +70,6 @@
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Replaced {@tool snippet} with {@tool dartpad} in CupertinoTabController<br />
     <sub>[#151272](https://github.com/flutter/flutter/pull/151272) opened on on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151272) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix: Submenu anchor misaligned with child panel in web (Resolved #151081)<br />
-    <sub>[#151294](https://github.com/flutter/flutter/pull/151294) opened on on July 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151294) 12 additions and 12 deletions in 3 files</sub><br />
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; Add cedric vanden bosch to authors<br />
     <sub>[#151313](https://github.com/flutter/flutter/pull/151313) opened on on July 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151313) 1 addition and 0 deletions in 1 file</sub><br />
