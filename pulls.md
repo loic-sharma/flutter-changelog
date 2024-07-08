@@ -18,7 +18,7 @@
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150315) 20 additions and 1 deletion in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
-    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/150394) 264 additions and 56 deletions in 2 files</sub><br />
+    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/150394) 294 additions and 65 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoAlertDialog] Rewrite<br />
     <sub>[#150410](https://github.com/flutter/flutter/pull/150410) opened on on June 18, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/150410) 466 additions and 1248 deletions in 2 files</sub><br />
@@ -84,5 +84,5 @@
     <sub>[#151423](https://github.com/flutter/flutter/pull/151423) opened on on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151423) 93 additions and 1 deletion in 2 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Improve CupertinoPopupSurface appearance<br />
-    <sub>[#151430](https://github.com/flutter/flutter/pull/151430) opened on on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151430) 29 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#151430](https://github.com/flutter/flutter/pull/151430) opened on on July 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151430) 29 additions and 2 deletions in 1 file</sub><br />
 
