@@ -759,7 +759,17 @@
 
 ### July 6, 2024 to July 12, 2024
 
-2 commits.
+4 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.android.tools.build:gradle from 7.3.0 to 8.5.0 in /packages/camera/camera_android_camerax/android<br />
+    <sub>[#7072](https://github.com/flutter/packages/pull/7072) merged on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7072) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.0&new-version=8.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [local_auth]: Bump com.android.tools.build:gradle from 7.3.1 to 8.5.0 in /packages/local_auth/local_auth_android/android<br />
+    <sub>[#7069](https://github.com/flutter/packages/pull/7069) merged on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7069) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [sign_in]: Bump com.android.tools.build:gradle from 7.2.1 to 8.5.0 in /packages/google_sign_in/google_sign_in_android/android<br />
     <sub>[#7070](https://github.com/flutter/packages/pull/7070) merged on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7070) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
