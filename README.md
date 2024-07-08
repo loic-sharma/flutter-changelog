@@ -543,7 +543,11 @@
 
 ### July 6, 2024 to July 12, 2024
 
-4 commits.
+5 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Exploit dynamic state in OpenGL for fewer program links.<br />
+    <sub>[#53764](https://github.com/flutter/engine/pull/53764) merged on July 8, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/53764) over 3 hours, 424 additions and 61 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement clear color opt for experimental canvas.<br />
     <sub>[#53749](https://github.com/flutter/engine/pull/53749) merged on July 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53749) over 22 hours, 34 additions and 5 deletions in 4 files</sub><br />
