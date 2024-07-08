@@ -98,3 +98,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for menu_anchor.2.dart<br />
     <sub>[#151399](https://github.com/flutter/flutter/pull/151399) opened on on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151399) 29 additions and 1 deletion in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material `Dialog` default background color<br />
+    <sub>[#151400](https://github.com/flutter/flutter/pull/151400) opened on on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151400) 4 additions and 3 deletions in 2 files</sub><br />
+
