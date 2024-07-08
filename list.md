@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-7 commits.
+9 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] - Enable `explicitChildNodes` for the `AlertDialog` content
     <sub>[#149597](https://github.com/flutter/flutter/pull/149597) merged on July 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149597) over 1 month, 20 additions and 4 deletions in 2 files</sub>
@@ -22,6 +22,14 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code
     <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]A typical news app benchmark with bottom ad banner
+    <sub>[#150991](https://github.com/flutter/flutter/pull/150991) merged on July 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150991) over 1 week, 189 additions and 0 deletions in 7 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Re-enable `SemanticsAction.focus` matchers
+    <sub>[#150990](https://github.com/flutter/flutter/pull/150990) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150990) over 1 week, 122 additions and 82 deletions in 16 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; Add cedric vanden bosch to authors
     <sub>[#151313](https://github.com/flutter/flutter/pull/151313) merged on July 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151313) over 4 days, 1 addition and 0 deletions in 1 file</sub>
