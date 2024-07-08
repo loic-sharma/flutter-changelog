@@ -543,7 +543,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-5 commits.
+6 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Exploit dynamic state in OpenGL for fewer program links.
     <sub>[#53764](https://github.com/flutter/engine/pull/53764) merged on July 8, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/53764) over 3 hours, 424 additions and 61 deletions in 13 files</sub>
@@ -556,6 +556,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add experimental canvas support to screenshotter.
     <sub>[#53751](https://github.com/flutter/engine/pull/53751) merged on July 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53751) over 21 hours, 89 additions and 6 deletions in 6 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Dustin Green](https://github.com/dustingreen)** &mdash; [fuchsia][sysmem2] move to sysmem2 protocols
+    <sub>[#53138](https://github.com/flutter/engine/pull/53138) merged on July 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53138) over 1 month, 110 additions and 99 deletions in 12 files</sub>
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect padding/translation in drawVertices with texture coordinates.
     <sub>[#53746](https://github.com/flutter/engine/pull/53746) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53746) over 1 day, 124 additions and 7 deletions in 7 files</sub>
