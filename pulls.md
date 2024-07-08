@@ -83,3 +83,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for menu_anchor.2.dart<br />
     <sub>[#151399](https://github.com/flutter/flutter/pull/151399) opened on on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151399) 29 additions and 1 deletion in 2 files</sub><br />
 
+* **[İbrahim Talha DEMİR](https://github.com/IbrahimTalha0)** &mdash; FIX flexible_space_bar.dart<br />
+    <sub>[#151423](https://github.com/flutter/flutter/pull/151423) opened on on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151423) 93 additions and 1 deletion in 2 files</sub><br />
+
