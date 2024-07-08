@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### July 6, 2024 to July 12, 2024
+
+1 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart
+    <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 ### June 29, 2024 to July 5, 2024
 
-52 commits.
+<details>
+<summary>52 commits...</summary>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Fix project name fallback
     <sub>[#150614](https://github.com/flutter/flutter/pull/150614) merged on July 3, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150614) over 1 week, 61 additions and 4 deletions in 2 files</sub>
@@ -213,6 +222,8 @@
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Fix link in tree hygene doc
     <sub>[#151235](https://github.com/flutter/flutter/pull/151235) merged on July 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151235) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
+</details>
 
 ### June 22, 2024 to June 28, 2024
 
