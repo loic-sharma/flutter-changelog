@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-10 commits.
+11 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] - Enable `explicitChildNodes` for the `AlertDialog` content<br />
     <sub>[#149597](https://github.com/flutter/flutter/pull/149597) merged on July 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149597) over 1 month, 20 additions and 4 deletions in 2 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart<br />
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `DataTable` documentation<br />
+    <sub>[#151356](https://github.com/flutter/flutter/pull/151356) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151356) over 3 days, 28 additions and 18 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code<br />
     <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub><br />
