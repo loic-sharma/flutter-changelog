@@ -21,7 +21,7 @@
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/150394) 264 additions and 56 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoAlertDialog] Rewrite<br />
-    <sub>[#150410](https://github.com/flutter/flutter/pull/150410) opened on on June 18, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/150410) 466 additions and 1248 deletions in 2 files</sub><br />
+    <sub>[#150410](https://github.com/flutter/flutter/pull/150410) opened on on June 18, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/150410) 466 additions and 1248 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; testAdd tests for stepper.controls_builder.0.dart<br />
     <sub>[#150669](https://github.com/flutter/flutter/pull/150669) opened on on June 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150669) 21 additions and 1 deletion in 2 files</sub><br />
