@@ -791,7 +791,11 @@
 
 ### July 6, 2024 to July 12, 2024
 
-4 commits.
+5 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Move iOS inspector to Pigeon
+    <sub>[#6937](https://github.com/flutter/packages/pull/6937) merged on July 8, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/6937) over 3 weeks, 1102 additions and 103 deletions in 13 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump com.android.tools.build:gradle from 7.3.0 to 8.5.0 in /packages/camera/camera_android_camerax/android
     <sub>[#7072](https://github.com/flutter/packages/pull/7072) merged on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7072) over 7 hours, 6 additions and 2 deletions in 3 files</sub>
