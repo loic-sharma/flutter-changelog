@@ -4,12 +4,16 @@
 
 ### July 6, 2024 to July 12, 2024
 
-6 commits.
+7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] - Enable `explicitChildNodes` for the `AlertDialog` content
     <sub>[#149597](https://github.com/flutter/flutter/pull/149597) merged on July 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149597) over 1 month, 20 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>2 images...</summary>![Screenshot 2024-05-27 at 14 59 57](https://github.com/flutter/flutter/assets/48603081/3b231a7a-db71-4dbf-bd4a-dd44a537cae8)![Screenshot 2024-05-27 at 14 56 04](https://github.com/flutter/flutter/assets/48603081/219c1de5-ad35-49b3-a80f-4f036184e22b)</details></sub>
+
+* **[Hans Muller](https://github.com/HansMuller)** &mdash; Added SliverFloatingHeader.snapMode
+    <sub>[#151289](https://github.com/flutter/flutter/pull/151289) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151289) over 4 days, 129 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub>

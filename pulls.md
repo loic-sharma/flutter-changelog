@@ -83,3 +83,6 @@
 * **[İbrahim Talha DEMİR](https://github.com/IbrahimTalha0)** &mdash; FIX flexible_space_bar.dart<br />
     <sub>[#151423](https://github.com/flutter/flutter/pull/151423) opened on on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151423) 93 additions and 1 deletion in 2 files</sub><br />
 
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Improve CupertinoPopupSurface appearance<br />
+    <sub>[#151430](https://github.com/flutter/flutter/pull/151430) opened on on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151430) 29 additions and 2 deletions in 1 file</sub><br />
+
