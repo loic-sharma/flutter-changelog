@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-4 commits.
+5 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] - Enable `explicitChildNodes` for the `AlertDialog` content<br />
     <sub>[#149597](https://github.com/flutter/flutter/pull/149597) merged on July 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149597) over 1 month, 20 additions and 4 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart<br />
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[cedvdb](https://github.com/cedvdb)** &mdash; Add cedric vanden bosch to authors<br />
+    <sub>[#151313](https://github.com/flutter/flutter/pull/151313) merged on July 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151313) over 4 days, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update doc-import to primary configured import, _goldens_io.dart<br />
     <sub>[#151390](https://github.com/flutter/flutter/pull/151390) merged on July 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151390) over 15 hours, 1 addition and 1 deletion in 1 file</sub><br />
