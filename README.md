@@ -757,9 +757,24 @@
 
 ## flutter/packages
 
+### July 6, 2024 to July 12, 2024
+
+2 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [sign_in]: Bump com.android.tools.build:gradle from 7.2.1 to 8.5.0 in /packages/google_sign_in/google_sign_in_android/android<br />
+    <sub>[#7070](https://github.com/flutter/packages/pull/7070) merged on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7070) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.2.1&new-version=8.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [path_provider]: Bump com.android.tools.build:gradle from 7.3.1 to 8.5.0 in /packages/path_provider/path_provider_android/android<br />
+    <sub>[#7068](https://github.com/flutter/packages/pull/7068) merged on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7068) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
 ### June 29, 2024 to July 5, 2024
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Add fix for camera preview rotation on landscape-oriented devices and set up fix for Impeller support<br />
     <sub>[#7044](https://github.com/flutter/packages/pull/7044) merged on July 5, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/7044) over 3 days, 817 additions and 34 deletions in 25 files</sub><br />
@@ -809,6 +824,8 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [ci] Adds @matanlurey to some Android CODEOWNERS until Impeller is enabled.<br />
     <sub>[#7014](https://github.com/flutter/packages/pull/7014) merged on July 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7014) over 2 days, 4 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+</details>
 
 ### June 22, 2024 to June 28, 2024
 
