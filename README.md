@@ -579,7 +579,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; [deep link][ios] Update openURL method to reflect the result from framework <br />
-    <sub>[#52643](https://github.com/flutter/engine/pull/52643) merged on July 2, 2024 &mdash; **Small:** [61 comments](https://github.com/flutter/engine/pull/52643) over 1 month, 84 additions and 45 deletions in 4 files</sub><br />
+    <sub>[#52643](https://github.com/flutter/engine/pull/52643) merged on July 2, 2024 &mdash; **Small:** [62 comments](https://github.com/flutter/engine/pull/52643) over 1 month, 84 additions and 45 deletions in 4 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Re-enable fast blur path for elliptical rrects<br />
