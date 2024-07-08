@@ -583,8 +583,8 @@
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Embedder] Document incorrectly named field in FlutterOpenGLFramebuffer.
-    <sub>[#53720](https://github.com/flutter/engine/pull/53720) merged on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53720) over 35 minutes, 8 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+    <sub>[#53720](https://github.com/flutter/engine/pull/53720) merged on July 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53720) over 35 minutes, 8 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make storage sizes typed.
     <sub>[#53700](https://github.com/flutter/engine/pull/53700) merged on July 3, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/53700) over 21 hours, 372 additions and 32 deletions in 14 files</sub>
