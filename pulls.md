@@ -86,9 +86,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code<br />
     <sub>[#151374](https://github.com/flutter/flutter/pull/151374) opened on on July 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151374) 80 additions and 80 deletions in 22 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `MaterialState` → `WidgetState` in documentation<br />
-    <sub>[#151376](https://github.com/flutter/flutter/pull/151376) opened on on July 6, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/151376) 508 additions and 510 deletions in 55 files</sub><br />
-
 * **[arbaker2](https://github.com/arbaker2)** &mdash; Add support for inverting CircularNotchedRectangle to optionally be drawn on the bottom of a path<br />
     <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151386) 61 additions and 16 deletions in 2 files</sub><br />
 
