@@ -101,3 +101,6 @@
 * **[arbaker2](https://github.com/arbaker2)** &mdash; Add support for inverting CircularNotchedRectangle to be drawn on the bottom of a path<br />
     <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151386) 61 additions and 16 deletions in 2 files</sub><br />
 
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Update doc-import to primary configured import, _goldens_io.dart<br />
+    <sub>[#151390](https://github.com/flutter/flutter/pull/151390) opened on on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151390) 1 addition and 1 deletion in 1 file</sub><br />
+
