@@ -4,7 +4,11 @@
 
 ### July 6, 2024 to July 12, 2024
 
-11 commits.
+12 commits.
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `FittedBox` not throw when child has zero size.
+    <sub>[#150430](https://github.com/flutter/flutter/pull/150430) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150430) over 2 weeks, 49 additions and 20 deletions in 4 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] - Enable `explicitChildNodes` for the `AlertDialog` content
     <sub>[#149597](https://github.com/flutter/flutter/pull/149597) merged on July 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149597) over 1 month, 20 additions and 4 deletions in 2 files</sub>
