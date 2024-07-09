@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-17 commits.
+18 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 `Dialog` default background color
     <sub>[#151400](https://github.com/flutter/flutter/pull/151400) merged on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151400) over 1 day, 8 additions and 4 deletions in 2 files</sub>
@@ -39,6 +39,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Link engine docs on AS setup in flutter/flutter docs on engine contributor setup
+    <sub>[#151481](https://github.com/flutter/flutter/pull/151481) merged on July 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151481) over 1 hour, 7 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Roll dart-lang/native packages
     <sub>[#151403](https://github.com/flutter/flutter/pull/151403) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151403) over 19 hours, 36 additions and 12 deletions in 9 files</sub>
@@ -564,7 +568,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-12 commits.
+13 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub>
@@ -602,6 +606,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect padding/translation in drawVertices with texture coordinates.
     <sub>[#53746](https://github.com/flutter/engine/pull/53746) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53746) over 1 day, 124 additions and 7 deletions in 7 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Avoid using a private GTest macro to skip tests.
+    <sub>[#53782](https://github.com/flutter/engine/pull/53782) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53782) over 38 minutes, 28 additions and 26 deletions in 10 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Disable OpenGL dithering by default.
     <sub>[#53768](https://github.com/flutter/engine/pull/53768) merged on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53768) over 19 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -877,7 +885,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-10 commits.
+11 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Convert Windows to Pigeon
     <sub>[#6925](https://github.com/flutter/packages/pull/6925) merged on July 9, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/6925) over 3 weeks, 2788 additions and 1464 deletions in 24 files</sub>
@@ -894,6 +902,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Move iOS inspector to Pigeon
     <sub>[#6937](https://github.com/flutter/packages/pull/6937) merged on July 8, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/6937) over 3 weeks, 1102 additions and 103 deletions in 13 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Convert Obj-C->Dart calls to Pigeon
+    <sub>[#7086](https://github.com/flutter/packages/pull/7086) merged on July 9, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/7086) over 1 hour, 1682 additions and 418 deletions in 24 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Semi-convert remaining iOS host API calls to Pigeon
     <sub>[#7079](https://github.com/flutter/packages/pull/7079) merged on July 9, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/7079) over 22 hours, 3610 additions and 515 deletions in 24 files</sub>
