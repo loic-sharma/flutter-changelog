@@ -559,7 +559,12 @@
 
 ### July 6, 2024 to July 12, 2024
 
-9 commits.
+11 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.
+    <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>1 image...</summary><img width="1050" alt="Screenshot 2024-07-08 at 3 21 30 PM" src="https://github.com/flutter/engine/assets/44085/b7468a2d-c385-457c-adf4-2ddb2cbae4a2"></details></sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Exploit dynamic state in OpenGL for fewer program links.
     <sub>[#53764](https://github.com/flutter/engine/pull/53764) merged on July 8, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/53764) over 3 hours, 424 additions and 61 deletions in 13 files</sub>
@@ -572,6 +577,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement clear color opt for experimental canvas.
     <sub>[#53749](https://github.com/flutter/engine/pull/53749) merged on July 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53749) over 22 hours, 34 additions and 5 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] support combined UI/Platform thread for iOS/Android.
+    <sub>[#53656](https://github.com/flutter/engine/pull/53656) merged on July 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/53656) over 1 week, 169 additions and 66 deletions in 12 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matej Knopp](https://github.com/knopp)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add experimental canvas support to screenshotter.
     <sub>[#53751](https://github.com/flutter/engine/pull/53751) merged on July 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53751) over 21 hours, 89 additions and 6 deletions in 6 files</sub>
@@ -859,7 +868,11 @@
 
 ### July 6, 2024 to July 12, 2024
 
-8 commits.
+9 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Convert Windows to Pigeon
+    <sub>[#6925](https://github.com/flutter/packages/pull/6925) merged on July 9, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/6925) over 3 weeks, 2788 additions and 1464 deletions in 24 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Remove `win32`
     <sub>[#7073](https://github.com/flutter/packages/pull/7073) merged on July 9, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7073) over 19 hours, 314 additions and 67 deletions in 8 files</sub>
