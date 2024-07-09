@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-19 commits.
+20 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 `Dialog` default background color<br />
     <sub>[#151400](https://github.com/flutter/flutter/pull/151400) merged on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151400) over 1 day, 8 additions and 4 deletions in 2 files</sub><br />
@@ -39,6 +39,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `MaterialState` → `WidgetState` in documentation<br />
     <sub>[#151376](https://github.com/flutter/flutter/pull/151376) merged on July 8, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/151376) over 2 days, 508 additions and 510 deletions in 55 files</sub><br />
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; testAdd tests for stepper.controls_builder.0.dart<br />
+    <sub>[#150669](https://github.com/flutter/flutter/pull/150669) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150669) over 2 weeks, 21 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart<br />
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub><br />
@@ -572,7 +576,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-14 commits.
+15 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.<br />
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub><br />
@@ -614,6 +618,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect padding/translation in drawVertices with texture coordinates.<br />
     <sub>[#53746](https://github.com/flutter/engine/pull/53746) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53746) over 1 day, 124 additions and 7 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Validation logs indicate where in code the validation error happened.<br />
+    <sub>[#53784](https://github.com/flutter/engine/pull/53784) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53784) over 1 hour, 18 additions and 17 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Avoid using a private GTest macro to skip tests.<br />
     <sub>[#53782](https://github.com/flutter/engine/pull/53782) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53782) over 38 minutes, 28 additions and 26 deletions in 10 files</sub><br />
