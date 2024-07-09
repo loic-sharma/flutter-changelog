@@ -579,7 +579,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] support combined UI/Platform thread for iOS/Android.<br />
-    <sub>[#53656](https://github.com/flutter/engine/pull/53656) merged on July 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/53656) over 1 week, 169 additions and 66 deletions in 12 files</sub><br />
+    <sub>[#53656](https://github.com/flutter/engine/pull/53656) merged on July 9, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/53656) over 1 week, 169 additions and 66 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matej Knopp](https://github.com/knopp)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add experimental canvas support to screenshotter.<br />
@@ -868,7 +868,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-9 commits.
+10 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Convert Windows to Pigeon<br />
     <sub>[#6925](https://github.com/flutter/packages/pull/6925) merged on July 9, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/6925) over 3 weeks, 2788 additions and 1464 deletions in 24 files</sub><br />
@@ -877,6 +877,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Remove `win32`<br />
     <sub>[#7073](https://github.com/flutter/packages/pull/7073) merged on July 9, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7073) over 19 hours, 314 additions and 67 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] fix sample times not being numeric after pause/resume.<br />
+    <sub>[#6897](https://github.com/flutter/packages/pull/6897) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6897) over 1 month, 77 additions and 1 deletion in 4 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Move iOS inspector to Pigeon<br />
     <sub>[#6937](https://github.com/flutter/packages/pull/6937) merged on July 8, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/6937) over 3 weeks, 1102 additions and 103 deletions in 13 files</sub><br />
