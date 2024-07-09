@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-15 commits.
+16 commits.
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `FittedBox` not throw when child has zero size.<br />
     <sub>[#150430](https://github.com/flutter/flutter/pull/150430) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150430) over 2 weeks, 49 additions and 20 deletions in 4 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added SliverFloatingHeader.snapMode<br />
     <sub>[#151289](https://github.com/flutter/flutter/pull/151289) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151289) over 4 days, 129 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Remove some usages of deprecated usage package<br />
+    <sub>[#151359](https://github.com/flutter/flutter/pull/151359) merged on July 9, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/151359) over 3 days, 183 additions and 381 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Write the package config location to the test bootstrap.<br />
     <sub>[#150440](https://github.com/flutter/flutter/pull/150440) merged on July 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150440) over 2 weeks, 63 additions and 0 deletions in 5 files</sub><br />
