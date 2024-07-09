@@ -4,7 +4,12 @@
 
 ### July 6, 2024 to July 12, 2024
 
-16 commits.
+17 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 `Dialog` default background color<br />
+    <sub>[#151400](https://github.com/flutter/flutter/pull/151400) merged on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151400) over 1 day, 8 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="674" alt="Screenshot 2024-07-08 at 14 26 39" src="https://github.com/flutter/flutter/assets/48603081/a95160f5-947e-4a6e-a3a5-82c94980c744"><img width="674" alt="Screenshot 2024-07-08 at 14 26 28" src="https://github.com/flutter/flutter/assets/48603081/fa912519-2a79-4fd5-a695-6e18542f0005"></details></sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `FittedBox` not throw when child has zero size.<br />
     <sub>[#150430](https://github.com/flutter/flutter/pull/150430) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150430) over 2 weeks, 49 additions and 20 deletions in 4 files</sub><br />
@@ -559,7 +564,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-11 commits.
+12 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.<br />
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub><br />
@@ -569,6 +574,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Exploit dynamic state in OpenGL for fewer program links.<br />
     <sub>[#53764](https://github.com/flutter/engine/pull/53764) merged on July 8, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/53764) over 3 hours, 424 additions and 61 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use downsample shader for blur instead of mip levels.<br />
+    <sub>[#53760](https://github.com/flutter/engine/pull/53760) merged on July 9, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/53760) over 1 day, 343 additions and 263 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement experimental canvas in snapshot controller.<br />
     <sub>[#53750](https://github.com/flutter/engine/pull/53750) merged on July 9, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/53750) over 1 day, 86 additions and 37 deletions in 5 files</sub><br />
