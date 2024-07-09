@@ -588,7 +588,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-15 commits.
+18 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.<br />
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub><br />
@@ -631,6 +631,14 @@
     <sub>[#53746](https://github.com/flutter/engine/pull/53746) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53746) over 1 day, 124 additions and 7 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Validation errors in tests cause GTest failures.<br />
+    <sub>[#53786](https://github.com/flutter/engine/pull/53786) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53786) over 1 hour, 44 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update docs that specify how to select the Impeller backend.<br />
+    <sub>[#53788](https://github.com/flutter/engine/pull/53788) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53788) over 51 minutes, 20 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Validation logs indicate where in code the validation error happened.<br />
     <sub>[#53784](https://github.com/flutter/engine/pull/53784) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53784) over 1 hour, 18 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -645,6 +653,10 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add a host_debug_unopt local engine config for Windows.<br />
     <sub>[#53734](https://github.com/flutter/engine/pull/53734) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53734) over 4 days, 26 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; dart:ui - drop deprecated hash functions<br />
+    <sub>[#53787](https://github.com/flutter/engine/pull/53787) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53787) over 1 hour, 1 addition and 173 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert 4 Dart rolls (726cb2467 -> ffc8bb004) to recover engine roll<br />
