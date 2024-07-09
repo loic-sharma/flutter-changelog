@@ -839,7 +839,11 @@
 
 ### July 6, 2024 to July 12, 2024
 
-5 commits.
+6 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Remove `win32`<br />
+    <sub>[#7073](https://github.com/flutter/packages/pull/7073) merged on July 9, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7073) over 19 hours, 314 additions and 67 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Move iOS inspector to Pigeon<br />
     <sub>[#6937](https://github.com/flutter/packages/pull/6937) merged on July 8, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/6937) over 3 weeks, 1102 additions and 103 deletions in 13 files</sub><br />
