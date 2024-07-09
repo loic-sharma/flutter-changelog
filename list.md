@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-13 commits.
+14 commits.
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `FittedBox` not throw when child has zero size.
     <sub>[#150430](https://github.com/flutter/flutter/pull/150430) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150430) over 2 weeks, 49 additions and 20 deletions in 4 files</sub>
@@ -26,6 +26,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Roll dart-lang/native packages
+    <sub>[#151403](https://github.com/flutter/flutter/pull/151403) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151403) over 19 hours, 36 additions and 12 deletions in 9 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `DataTable` documentation
     <sub>[#151356](https://github.com/flutter/flutter/pull/151356) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151356) over 3 days, 28 additions and 18 deletions in 2 files</sub>
@@ -73,7 +77,7 @@
     <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Vincent Velociter](https://github.com/veloce)** &mdash; Cupertino transparent navigation bars
-    <sub>[#149102](https://github.com/flutter/flutter/pull/149102) merged on July 3, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/flutter/pull/149102) over 1 month, 542 additions and 62 deletions in 6 files</sub>
+    <sub>[#149102](https://github.com/flutter/flutter/pull/149102) merged on July 3, 2024 &mdash; **Large:** [66 comments](https://github.com/flutter/flutter/pull/149102) over 1 month, 542 additions and 62 deletions in 6 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Refactor BuildInfo to always require packageConfigPath
