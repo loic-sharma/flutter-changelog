@@ -86,3 +86,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Improve CupertinoPopupSurface appearance<br />
     <sub>[#151430](https://github.com/flutter/flutter/pull/151430) opened on on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151430) 29 additions and 2 deletions in 1 file</sub><br />
 
+* **[Eric Seidel](https://github.com/eseidel)** &mdash; Add more docs to DragTraget.builder<br />
+    <sub>[#151447](https://github.com/flutter/flutter/pull/151447) opened on on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151447) 23 additions and 7 deletions in 1 file</sub><br />
+
