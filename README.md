@@ -855,7 +855,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-7 commits.
+8 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Remove `win32`<br />
     <sub>[#7073](https://github.com/flutter/packages/pull/7073) merged on July 9, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7073) over 19 hours, 314 additions and 67 deletions in 8 files</sub><br />
@@ -888,6 +888,10 @@
     <sub>[#7068](https://github.com/flutter/packages/pull/7068) merged on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7068) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Deprecate `maxDuration` in platform interface<br />
+    <sub>[#7078](https://github.com/flutter/packages/pull/7078) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7078) over 1 day, 16 additions and 37 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 ### June 29, 2024 to July 5, 2024
 
