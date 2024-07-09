@@ -568,7 +568,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-13 commits.
+14 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.<br />
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub><br />
@@ -598,6 +598,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add experimental canvas support to screenshotter.<br />
     <sub>[#53751](https://github.com/flutter/engine/pull/53751) merged on July 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53751) over 21 hours, 89 additions and 6 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; web_ui: drop internal hash code library<br />
+    <sub>[#53783](https://github.com/flutter/engine/pull/53783) merged on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53783) over 1 hour, 0 additions and 253 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Dustin Green](https://github.com/dustingreen)** &mdash; [fuchsia][sysmem2] move to sysmem2 protocols<br />
     <sub>[#53138](https://github.com/flutter/engine/pull/53138) merged on July 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53138) over 1 month, 110 additions and 99 deletions in 12 files</sub><br />
