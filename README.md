@@ -555,7 +555,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-7 commits.
+8 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Exploit dynamic state in OpenGL for fewer program links.<br />
     <sub>[#53764](https://github.com/flutter/engine/pull/53764) merged on July 8, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/53764) over 3 hours, 424 additions and 61 deletions in 13 files</sub><br />
@@ -576,6 +576,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect padding/translation in drawVertices with texture coordinates.<br />
     <sub>[#53746](https://github.com/flutter/engine/pull/53746) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53746) over 1 day, 124 additions and 7 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Disable OpenGL dithering by default.<br />
+    <sub>[#53768](https://github.com/flutter/engine/pull/53768) merged on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53768) over 19 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add a host_debug_unopt local engine config for Windows.<br />
     <sub>[#53734](https://github.com/flutter/engine/pull/53734) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53734) over 4 days, 26 additions and 0 deletions in 1 file</sub><br />
