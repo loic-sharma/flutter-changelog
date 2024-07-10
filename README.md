@@ -588,7 +588,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-19 commits.
+20 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.<br />
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub><br />
@@ -666,6 +666,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert 4 Dart rolls (726cb2467 -> ffc8bb004) to recover engine roll<br />
     <sub>[#53778](https://github.com/flutter/engine/pull/53778) merged on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53778) over 17 minutes, 25 additions and 31 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from ffc8bb004a64 to dba0dfbd06eb (23 revisions)<br />
+    <sub>[#53791](https://github.com/flutter/engine/pull/53791) merged on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53791) over 50 minutes, 31 additions and 25 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### June 29, 2024 to July 5, 2024
 
