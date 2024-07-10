@@ -77,9 +77,6 @@
 * **[İbrahim Talha DEMİR](https://github.com/IbrahimTalha0)** &mdash; FIX flexible_space_bar.dart<br />
     <sub>[#151423](https://github.com/flutter/flutter/pull/151423) opened on on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151423) 93 additions and 1 deletion in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests"<br />
-    <sub>[#151433](https://github.com/flutter/flutter/pull/151433) opened on on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151433) 183 additions and 35 deletions in 12 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scrollbar.1.dart<br />
     <sub>[#151463](https://github.com/flutter/flutter/pull/151463) opened on on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151463) 21 additions and 1 deletion in 2 files</sub><br />
 
