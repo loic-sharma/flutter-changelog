@@ -961,7 +961,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-15 commits.
+16 commits.
 
 * **[Thomas Aunvik](https://github.com/ThomasAunvik)** &mdash; [webview_flutter_web] Migrate to package:web.
     <sub>[#6792](https://github.com/flutter/packages/pull/6792) merged on July 10, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6792) over 1 month, 249 additions and 3102 deletions in 11 files</sub>
@@ -986,6 +986,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Move iOS inspector to Pigeon
     <sub>[#6937](https://github.com/flutter/packages/pull/6937) merged on July 8, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/6937) over 3 weeks, 1102 additions and 103 deletions in 13 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [webview_flutter_wkwebview] Adds Swift Package Manager compatibility
+    <sub>[#7091](https://github.com/flutter/packages/pull/7091) merged on July 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7091) over 19 hours, 166 additions and 101 deletions in 59 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Convert Obj-C->Dart calls to Pigeon
     <sub>[#7086](https://github.com/flutter/packages/pull/7086) merged on July 9, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/7086) over 1 hour, 1682 additions and 418 deletions in 24 files</sub>
