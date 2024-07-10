@@ -11,9 +11,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149201) 929 additions and 0 deletions in 1 file</sub><br />
 
-* **[Joseph Riddle](https://github.com/joeriddles)** &mdash; Add `--web-desired-capabilities-from-file` to define custom desired capabilities for WebDriver<br />
-    <sub>[#150079](https://github.com/flutter/flutter/pull/150079) opened on on June 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150079) 110 additions and 9 deletions in 5 files</sub><br />
-
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150315) 20 additions and 1 deletion in 2 files</sub><br />
 
