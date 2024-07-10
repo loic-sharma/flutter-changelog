@@ -4,12 +4,17 @@
 
 ### July 6, 2024 to July 12, 2024
 
-26 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 `Dialog` default background color
     <sub>[#151400](https://github.com/flutter/flutter/pull/151400) merged on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151400) over 1 day, 8 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary><img width="674" alt="Screenshot 2024-07-08 at 14 26 39" src="https://github.com/flutter/flutter/assets/48603081/a95160f5-947e-4a6e-a3a5-82c94980c744"><img width="674" alt="Screenshot 2024-07-08 at 14 26 28" src="https://github.com/flutter/flutter/assets/48603081/fa912519-2a79-4fd5-a695-6e18542f0005"></details></sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix padding and font size of buttons
+    <sub>[#151199](https://github.com/flutter/flutter/pull/151199) merged on July 10, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/151199) over 1 week, 160 additions and 27 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Greg Price](https://github.com/gnprice), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+    <sub><details><summary>3 images...</summary><img width="1019" alt="image" src="https://github.com/flutter/flutter/assets/1596656/65c2f222-1d6d-4485-b5f7-7d0a0c0ad56a"><img width="1141" alt="image" src="https://github.com/flutter/flutter/assets/1596656/bc44e930-4cc8-4af4-944b-3056bb47de69"><img width="1075" alt="image" src="https://github.com/flutter/flutter/assets/1596656/84659081-d518-494d-8b9c-a83fe23b8ffd"></details></sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `FittedBox` not throw when child has zero size.
     <sub>[#150430](https://github.com/flutter/flutter/pull/150430) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150430) over 2 weeks, 49 additions and 20 deletions in 4 files</sub>
@@ -600,7 +605,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-24 commits.
+25 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub>
@@ -618,6 +623,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement experimental canvas in snapshot controller.
     <sub>[#53750](https://github.com/flutter/engine/pull/53750) merged on July 9, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/53750) over 1 day, 86 additions and 37 deletions in 5 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [macOS] Multiview compositor
+    <sub>[#52253](https://github.com/flutter/engine/pull/52253) merged on July 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/52253) over 2 months, 96 additions and 17 deletions in 5 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement clear color opt for experimental canvas.
     <sub>[#53749](https://github.com/flutter/engine/pull/53749) merged on July 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53749) over 22 hours, 34 additions and 5 deletions in 4 files</sub>
