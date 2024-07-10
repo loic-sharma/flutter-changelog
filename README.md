@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-27 commits.
+29 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 `Dialog` default background color<br />
     <sub>[#151400](https://github.com/flutter/flutter/pull/151400) merged on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151400) over 1 day, 8 additions and 4 deletions in 2 files</sub><br />
@@ -61,6 +61,10 @@
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; doc imports for enum values<br />
+    <sub>[#151548](https://github.com/flutter/flutter/pull/151548) merged on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151548) over 4 hours, 43 additions and 10 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add docImports for flutter_test references<br />
     <sub>[#151175](https://github.com/flutter/flutter/pull/151175) merged on July 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151175) over 1 week, 3 additions and 0 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
@@ -116,6 +120,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151089) over 1 week, 56 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests"... but no longer upgrade module AGP version<br />
+    <sub>[#151433](https://github.com/flutter/flutter/pull/151433) merged on July 10, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/151433) over 2 days, 168 additions and 33 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 ### June 29, 2024 to July 5, 2024
 
