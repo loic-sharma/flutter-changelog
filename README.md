@@ -627,6 +627,10 @@
     <sub>[#53751](https://github.com/flutter/engine/pull/53751) merged on July 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53751) over 21 hours, 89 additions and 6 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; dart:ui - drop deprecated hash functions<br />
+    <sub>[#53787](https://github.com/flutter/engine/pull/53787) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53787) over 1 hour, 1 addition and 173 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; web_ui: drop internal hash code library<br />
     <sub>[#53783](https://github.com/flutter/engine/pull/53783) merged on July 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53783) over 1 hour, 0 additions and 253 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
@@ -674,10 +678,6 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "web_ui: drop internal hash code library (#53783)"<br />
     <sub>[#53793](https://github.com/flutter/engine/pull/53793) merged on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53793) over 1 minute, 253 additions and 0 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; dart:ui - drop deprecated hash functions<br />
-    <sub>[#53787](https://github.com/flutter/engine/pull/53787) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53787) over 1 hour, 1 addition and 173 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert 4 Dart rolls (726cb2467 -> ffc8bb004) to recover engine roll<br />
     <sub>[#53778](https://github.com/flutter/engine/pull/53778) merged on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53778) over 17 minutes, 25 additions and 31 deletions in 3 files</sub><br />
