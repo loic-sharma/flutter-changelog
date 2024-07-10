@@ -949,7 +949,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-12 commits.
+13 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Convert Windows to Pigeon
     <sub>[#6925](https://github.com/flutter/packages/pull/6925) merged on July 9, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/6925) over 3 weeks, 2788 additions and 1464 deletions in 24 files</sub>
@@ -994,6 +994,10 @@
     <sub>[#7068](https://github.com/flutter/packages/pull/7068) merged on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7068) over 7 hours, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update espresso dependencies
+    <sub>[#7048](https://github.com/flutter/packages/pull/7048) merged on July 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7048) over 1 week, 37 additions and 42 deletions in 10 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Fix iOS torch mode regression
     <sub>[#7085](https://github.com/flutter/packages/pull/7085) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7085) over 2 hours, 77 additions and 13 deletions in 7 files</sub>
