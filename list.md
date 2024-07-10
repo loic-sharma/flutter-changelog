@@ -588,7 +588,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-18 commits.
+19 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub>
@@ -610,6 +610,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement clear color opt for experimental canvas.
     <sub>[#53749](https://github.com/flutter/engine/pull/53749) merged on July 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53749) over 22 hours, 34 additions and 5 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Impeller really wants premultiplied alpha
+    <sub>[#53770](https://github.com/flutter/engine/pull/53770) merged on July 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53770) over 1 day, 57 additions and 0 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] support combined UI/Platform thread for iOS/Android.
     <sub>[#53656](https://github.com/flutter/engine/pull/53656) merged on July 9, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/53656) over 1 week, 169 additions and 66 deletions in 12 files</sub>
