@@ -588,7 +588,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-20 commits.
+22 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub>
@@ -658,6 +658,14 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add a host_debug_unopt local engine config for Windows.
     <sub>[#53734](https://github.com/flutter/engine/pull/53734) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53734) over 4 days, 26 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "dart:ui - drop deprecated hash functions (#53787)"
+    <sub>[#53794](https://github.com/flutter/engine/pull/53794) merged on July 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53794) over 1 minute, 173 additions and 1 deletion in 5 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "web_ui: drop internal hash code library (#53783)"
+    <sub>[#53793](https://github.com/flutter/engine/pull/53793) merged on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53793) over 1 minute, 253 additions and 0 deletions in 4 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; dart:ui - drop deprecated hash functions
     <sub>[#53787](https://github.com/flutter/engine/pull/53787) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53787) over 1 hour, 1 addition and 173 deletions in 5 files</sub>
