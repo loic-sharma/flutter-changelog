@@ -624,7 +624,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; web_ui: drop internal hash code library<br />
-    <sub>[#53783](https://github.com/flutter/engine/pull/53783) merged on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53783) over 1 hour, 0 additions and 253 deletions in 4 files</sub><br />
+    <sub>[#53783](https://github.com/flutter/engine/pull/53783) merged on July 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53783) over 1 hour, 0 additions and 253 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Dustin Green](https://github.com/dustingreen)** &mdash; [fuchsia][sysmem2] move to sysmem2 protocols<br />
@@ -660,7 +660,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; dart:ui - drop deprecated hash functions<br />
-    <sub>[#53787](https://github.com/flutter/engine/pull/53787) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53787) over 1 hour, 1 addition and 173 deletions in 5 files</sub><br />
+    <sub>[#53787](https://github.com/flutter/engine/pull/53787) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53787) over 1 hour, 1 addition and 173 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert 4 Dart rolls (726cb2467 -> ffc8bb004) to recover engine roll<br />
