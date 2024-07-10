@@ -953,7 +953,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-13 commits.
+14 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Convert Windows to Pigeon
     <sub>[#6925](https://github.com/flutter/packages/pull/6925) merged on July 9, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/6925) over 3 weeks, 2788 additions and 1464 deletions in 24 files</sub>
@@ -962,6 +962,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Remove `win32`
     <sub>[#7073](https://github.com/flutter/packages/pull/7073) merged on July 9, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7073) over 19 hours, 314 additions and 67 deletions in 8 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Clean up `maxDuration` code
+    <sub>[#7039](https://github.com/flutter/packages/pull/7039) merged on July 10, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/7039) over 1 week, 103 additions and 666 deletions in 41 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] fix sample times not being numeric after pause/resume.
     <sub>[#6897](https://github.com/flutter/packages/pull/6897) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6897) over 1 month, 77 additions and 1 deletion in 4 files</sub>
