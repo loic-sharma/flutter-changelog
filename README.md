@@ -970,7 +970,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-17 commits.
+18 commits.
 
 * **[Thomas Aunvik](https://github.com/ThomasAunvik)** &mdash; [webview_flutter_web] Migrate to package:web.<br />
     <sub>[#6792](https://github.com/flutter/packages/pull/6792) merged on July 10, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6792) over 1 month, 249 additions and 3102 deletions in 11 files</sub><br />
@@ -991,6 +991,11 @@
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] fix sample times not being numeric after pause/resume.<br />
     <sub>[#6897](https://github.com/flutter/packages/pull/6897) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6897) over 1 month, 77 additions and 1 deletion in 4 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.core:core from 1.10.1 to 1.13.1 in /packages/image_picker/image_picker_android/android<br />
+    <sub>[#6648](https://github.com/flutter/packages/pull/6648) merged on July 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6648) over 2 months, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.core:core&package-manager=gradle&previous-version=1.10.1&new-version=1.13.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Move iOS inspector to Pigeon<br />
     <sub>[#6937](https://github.com/flutter/packages/pull/6937) merged on July 8, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/6937) over 3 weeks, 1102 additions and 103 deletions in 13 files</sub><br />

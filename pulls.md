@@ -48,7 +48,7 @@
     <sub>[#151184](https://github.com/flutter/flutter/pull/151184) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151184) 75 additions and 6 deletions in 4 files</sub><br />
 
 * **[ndelanou](https://github.com/ndelanou)** &mdash; add a `allowFlinging` param to the `Dismissible` widget<br />
-    <sub>[#151224](https://github.com/flutter/flutter/pull/151224) opened on on July 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151224) 27 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151224](https://github.com/flutter/flutter/pull/151224) opened on on July 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151224) 27 additions and 1 deletion in 2 files</sub><br />
 
 * **[John Stef](https://github.com/johnstef99)** &mdash; Add borderRadius property to PopupMenuButton<br />
     <sub>[#151228](https://github.com/flutter/flutter/pull/151228) opened on on July 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/151228) 50 additions and 0 deletions in 2 files</sub><br />
