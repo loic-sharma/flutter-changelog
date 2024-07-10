@@ -364,7 +364,7 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Fix a number of broken doc comment references<br />
     <sub>[#150540](https://github.com/flutter/flutter/pull/150540) merged on June 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/150540) over 4 days, 37 additions and 31 deletions in 16 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Pierre-Louis](https://github.com/guidezpl)</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Pierre](https://github.com/guidezpl)</sub><br />
 
 * **[FernTheDev](https://github.com/Fernthedev)** &mdash;  feat: Add autofocus for `MenuItemButton`<br />
     <sub>[#139396](https://github.com/flutter/flutter/pull/139396) merged on June 27, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/139396) over 6 months, 44 additions and 0 deletions in 2 files</sub><br />
