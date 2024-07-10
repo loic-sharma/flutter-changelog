@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-24 commits.
+25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 `Dialog` default background color<br />
     <sub>[#151400](https://github.com/flutter/flutter/pull/151400) merged on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151400) over 1 day, 8 additions and 4 deletions in 2 files</sub><br />
@@ -27,6 +27,10 @@
 * **[Hans Muller](https://github.com/HansMuller)** &mdash; Added SliverFloatingHeader.snapMode<br />
     <sub>[#151289](https://github.com/flutter/flutter/pull/151289) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151289) over 4 days, 129 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Mention not @-mentioning people in commit messages in tree hygiene<br />
+    <sub>[#151487](https://github.com/flutter/flutter/pull/151487) merged on July 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151487) over 18 hours, 3 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Michael Goderbauer](https://github.com/goderbauer), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Remove some usages of deprecated usage package<br />
     <sub>[#151359](https://github.com/flutter/flutter/pull/151359) merged on July 9, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/151359) over 3 days, 183 additions and 381 deletions in 26 files</sub><br />
