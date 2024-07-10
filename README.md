@@ -592,7 +592,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-22 commits.
+23 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.<br />
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub><br />
@@ -638,6 +638,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect padding/translation in drawVertices with texture coordinates.<br />
     <sub>[#53746](https://github.com/flutter/engine/pull/53746) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53746) over 1 day, 124 additions and 7 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix markdown formatting for blocks with tips.<br />
+    <sub>[#53789](https://github.com/flutter/engine/pull/53789) merged on July 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53789) over 6 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Validation errors in tests cause GTest failures.<br />
     <sub>[#53786](https://github.com/flutter/engine/pull/53786) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53786) over 1 hour, 44 additions and 4 deletions in 3 files</sub><br />
