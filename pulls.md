@@ -81,7 +81,7 @@
     <sub>[#151433](https://github.com/flutter/flutter/pull/151433) opened on on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151433) 183 additions and 35 deletions in 12 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scrollbar.1.dart<br />
-    <sub>[#151463](https://github.com/flutter/flutter/pull/151463) opened on on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151463) 21 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151463](https://github.com/flutter/flutter/pull/151463) opened on on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151463) 21 additions and 1 deletion in 2 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; test engine pr 53689<br />
     <sub>[#151491](https://github.com/flutter/flutter/pull/151491) opened on on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151491) 2 additions and 1 deletion in 2 files</sub><br />
