@@ -596,7 +596,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-23 commits.
+24 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub>
@@ -690,6 +690,10 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from ffc8bb004a64 to dba0dfbd06eb (23 revisions)
     <sub>[#53791](https://github.com/flutter/engine/pull/53791) merged on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53791) over 50 minutes, 31 additions and 25 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland (x2) "Output .js files as ES6 modules. (flutter#52023)"
+    <sub>[#53718](https://github.com/flutter/engine/pull/53718) merged on July 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53718) over 6 days, 97 additions and 146 deletions in 12 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 ### June 29, 2024 to July 5, 2024
 
@@ -824,7 +828,7 @@
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Generate universal gen_snapshots
-    <sub>[#53524](https://github.com/flutter/engine/pull/53524) merged on June 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53524) over 16 hours, 103 additions and 10 deletions in 4 files</sub>
+    <sub>[#53524](https://github.com/flutter/engine/pull/53524) merged on June 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53524) over 16 hours, 103 additions and 10 deletions in 4 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fixes for getting pixels from an image.
