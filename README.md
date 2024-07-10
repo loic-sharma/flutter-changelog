@@ -961,7 +961,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-16 commits.
+17 commits.
 
 * **[Thomas Aunvik](https://github.com/ThomasAunvik)** &mdash; [webview_flutter_web] Migrate to package:web.<br />
     <sub>[#6792](https://github.com/flutter/packages/pull/6792) merged on July 10, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6792) over 1 month, 249 additions and 3102 deletions in 11 files</sub><br />
@@ -986,6 +986,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Move iOS inspector to Pigeon<br />
     <sub>[#6937](https://github.com/flutter/packages/pull/6937) merged on July 8, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/6937) over 3 weeks, 1102 additions and 103 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [camera_avfoundation] Adds Swift Package Manager compatibility<br />
+    <sub>[#7080](https://github.com/flutter/packages/pull/7080) merged on July 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7080) over 1 day, 133 additions and 33 deletions in 49 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [webview_flutter_wkwebview] Adds Swift Package Manager compatibility<br />
     <sub>[#7091](https://github.com/flutter/packages/pull/7091) merged on July 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7091) over 19 hours, 166 additions and 101 deletions in 59 files</sub><br />
