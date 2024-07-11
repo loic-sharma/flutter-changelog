@@ -84,7 +84,7 @@
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move all Linux Moto G4 tests to mokey in staging
-    <sub>[#151608](https://github.com/flutter/flutter/pull/151608) merged on July 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151608) over 2 hours, 128 additions and 129 deletions in 1 file</sub>
+    <sub>[#151608](https://github.com/flutter/flutter/pull/151608) merged on July 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151608) over 2 hours, 128 additions and 129 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for API samples
@@ -1052,7 +1052,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-19 commits.
+20 commits.
 
 * **[Thomas Aunvik](https://github.com/ThomasAunvik)** &mdash; [webview_flutter_web] Migrate to package:web.
     <sub>[#6792](https://github.com/flutter/packages/pull/6792) merged on July 10, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6792) over 1 month, 249 additions and 3102 deletions in 11 files</sub>
@@ -1073,6 +1073,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Clean up `maxDuration` code
     <sub>[#7039](https://github.com/flutter/packages/pull/7039) merged on July 10, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/7039) over 1 week, 103 additions and 666 deletions in 41 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Makes GoRouterState lookup more robust.
+    <sub>[#6920](https://github.com/flutter/packages/pull/6920) merged on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6920) over 4 weeks, 75 additions and 21 deletions in 4 files</sub>
+    <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] fix sample times not being numeric after pause/resume.
     <sub>[#6897](https://github.com/flutter/packages/pull/6897) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/6897) over 1 month, 77 additions and 1 deletion in 4 files</sub>
