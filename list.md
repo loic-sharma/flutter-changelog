@@ -655,7 +655,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-28 commits.
+29 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub>
@@ -665,6 +665,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Exploit dynamic state in OpenGL for fewer program links.
     <sub>[#53764](https://github.com/flutter/engine/pull/53764) merged on July 8, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/53764) over 3 hours, 424 additions and 61 deletions in 13 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable fixed-rate compression support in Vulkan.
+    <sub>[#53292](https://github.com/flutter/engine/pull/53292) merged on July 11, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/53292) over 1 month, 187 additions and 12 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use downsample shader for blur instead of mip levels.
     <sub>[#53760](https://github.com/flutter/engine/pull/53760) merged on July 9, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/53760) over 1 day, 343 additions and 263 deletions in 10 files</sub>
