@@ -666,6 +666,10 @@
     <sub>[#52253](https://github.com/flutter/engine/pull/52253) merged on July 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/52253) over 2 months, 96 additions and 17 deletions in 5 files</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; dart:ui - drop deprecated hash functions
+    <sub>[#53787](https://github.com/flutter/engine/pull/53787) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53787) over 1 hour, 1 addition and 173 deletions in 5 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement clear color opt for experimental canvas.
     <sub>[#53749](https://github.com/flutter/engine/pull/53749) merged on July 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53749) over 22 hours, 34 additions and 5 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -685,10 +689,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add experimental canvas support to screenshotter.
     <sub>[#53751](https://github.com/flutter/engine/pull/53751) merged on July 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53751) over 21 hours, 89 additions and 6 deletions in 6 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; dart:ui - drop deprecated hash functions
-    <sub>[#53787](https://github.com/flutter/engine/pull/53787) merged on July 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53787) over 1 hour, 1 addition and 173 deletions in 5 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; web_ui: drop internal hash code library
     <sub>[#53783](https://github.com/flutter/engine/pull/53783) merged on July 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53783) over 1 hour, 0 additions and 253 deletions in 4 files</sub>
