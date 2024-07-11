@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-41 commits.
+42 commits.
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Support overriding native endorsed plugins
     <sub>[#137040](https://github.com/flutter/flutter/pull/137040) merged on July 11, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/137040) over 8 months, 1129 additions and 643 deletions in 4 files</sub>
@@ -55,21 +55,21 @@
     <sub>[#151359](https://github.com/flutter/flutter/pull/151359) merged on July 9, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/151359) over 3 days, 183 additions and 381 deletions in 26 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `MaterialState` → `WidgetState` in documentation
-    <sub>[#151376](https://github.com/flutter/flutter/pull/151376) merged on July 8, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/151376) over 2 days, 508 additions and 510 deletions in 55 files</sub>
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Write the package config location to the test bootstrap.
     <sub>[#150440](https://github.com/flutter/flutter/pull/150440) merged on July 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150440) over 2 weeks, 63 additions and 0 deletions in 5 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Replaced {@tool snippet} with {@tool dartpad} in CupertinoTabController
-    <sub>[#151272](https://github.com/flutter/flutter/pull/151272) merged on July 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151272) over 1 week, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `MaterialState` → `WidgetState` in documentation
+    <sub>[#151376](https://github.com/flutter/flutter/pull/151376) merged on July 8, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/151376) over 2 days, 508 additions and 510 deletions in 55 files</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Re-enable debug canvaskit e2e tests.
     <sub>[#151565](https://github.com/flutter/flutter/pull/151565) merged on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151565) over 22 hours, 0 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Replaced {@tool snippet} with {@tool dartpad} in CupertinoTabController
+    <sub>[#151272](https://github.com/flutter/flutter/pull/151272) merged on July 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151272) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update doc of `SemanticsProperties.identifier`
     <sub>[#149915](https://github.com/flutter/flutter/pull/149915) merged on July 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149915) over 1 month, 3 additions and 0 deletions in 1 file</sub>
@@ -82,6 +82,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add link to design document archive
+    <sub>[#151489](https://github.com/flutter/flutter/pull/151489) merged on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151489) over 2 days, 8 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move all Linux Moto G4 tests to mokey in staging
     <sub>[#151608](https://github.com/flutter/flutter/pull/151608) merged on July 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151608) over 2 hours, 128 additions and 129 deletions in 1 file</sub>
@@ -103,29 +107,29 @@
     <sub>[#151548](https://github.com/flutter/flutter/pull/151548) merged on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151548) over 4 hours, 43 additions and 10 deletions in 12 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add docImports for flutter_test references
-    <sub>[#151175](https://github.com/flutter/flutter/pull/151175) merged on July 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151175) over 1 week, 3 additions and 0 deletions in 3 files</sub>
-    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub>
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `DataTable` documentation
     <sub>[#151356](https://github.com/flutter/flutter/pull/151356) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151356) over 3 days, 28 additions and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code
-    <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; fix heading level absorption, diagnostics; add tests and an a11y use-case
-    <sub>[#151421](https://github.com/flutter/flutter/pull/151421) merged on July 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151421) over 1 day, 218 additions and 11 deletions in 7 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add docImports for flutter_test references
+    <sub>[#151175](https://github.com/flutter/flutter/pull/151175) merged on July 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151175) over 1 week, 3 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Link engine docs on AS setup in flutter/flutter docs on engine contributor setup
     <sub>[#151481](https://github.com/flutter/flutter/pull/151481) merged on July 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151481) over 1 hour, 7 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code
+    <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Roll dart-lang/native packages
     <sub>[#151403](https://github.com/flutter/flutter/pull/151403) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151403) over 19 hours, 36 additions and 12 deletions in 9 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; fix heading level absorption, diagnostics; add tests and an a11y use-case
+    <sub>[#151421](https://github.com/flutter/flutter/pull/151421) merged on July 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151421) over 1 day, 218 additions and 11 deletions in 7 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.
     <sub>[#151131](https://github.com/flutter/flutter/pull/151131) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151131) over 1 week, 1 addition and 0 deletions in 1 file</sub>
