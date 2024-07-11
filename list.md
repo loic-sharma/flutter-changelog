@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-36 commits.
+38 commits.
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Support overriding native endorsed plugins
     <sub>[#137040](https://github.com/flutter/flutter/pull/137040) merged on July 11, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/137040) over 8 months, 1129 additions and 643 deletions in 4 files</sub>
@@ -63,6 +63,10 @@
     <sub>[#151376](https://github.com/flutter/flutter/pull/151376) merged on July 8, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/151376) over 2 days, 508 additions and 510 deletions in 55 files</sub>
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Re-enable debug canvaskit e2e tests.
+    <sub>[#151565](https://github.com/flutter/flutter/pull/151565) merged on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151565) over 22 hours, 0 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Replaced {@tool snippet} with {@tool dartpad} in CupertinoTabController
     <sub>[#151272](https://github.com/flutter/flutter/pull/151272) merged on July 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151272) over 1 week, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -78,6 +82,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for flutter_goldens, flutter_localizations, flutter_web_plugins, fuchsia_remote_debug_protocol, integration_test
+    <sub>[#151271](https://github.com/flutter/flutter/pull/151271) merged on July 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151271) over 1 week, 46 additions and 15 deletions in 12 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for flutter_driver
     <sub>[#151267](https://github.com/flutter/flutter/pull/151267) merged on July 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151267) over 1 week, 63 additions and 26 deletions in 24 files</sub>
@@ -95,6 +103,10 @@
     <sub>[#151421](https://github.com/flutter/flutter/pull/151421) merged on July 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151421) over 1 day, 218 additions and 11 deletions in 7 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code
+    <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.
     <sub>[#151131](https://github.com/flutter/flutter/pull/151131) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151131) over 1 week, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -103,17 +115,13 @@
     <sub>[#151481](https://github.com/flutter/flutter/pull/151481) merged on July 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151481) over 1 hour, 7 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Roll dart-lang/native packages
-    <sub>[#151403](https://github.com/flutter/flutter/pull/151403) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151403) over 19 hours, 36 additions and 12 deletions in 9 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `DataTable` documentation
     <sub>[#151356](https://github.com/flutter/flutter/pull/151356) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151356) over 3 days, 28 additions and 18 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code
-    <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [deps] Roll dart-lang/native packages
+    <sub>[#151403](https://github.com/flutter/flutter/pull/151403) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151403) over 19 hours, 36 additions and 12 deletions in 9 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#151492](https://github.com/flutter/flutter/pull/151492) merged on July 9, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/151492) over 1 hour, 213 additions and 217 deletions in 64 files</sub>
