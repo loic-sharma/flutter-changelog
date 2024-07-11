@@ -667,7 +667,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-31 commits.
+33 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub>
@@ -737,6 +737,14 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect padding/translation in drawVertices with texture coordinates.
     <sub>[#53746](https://github.com/flutter/engine/pull/53746) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53746) over 1 day, 124 additions and 7 deletions in 7 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update Life-of-a-Flutter-Frame.md
+    <sub>[#53829](https://github.com/flutter/engine/pull/53829) merged on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53829) over 56 minutes, 25 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update Setting-up-the-Engine-development-environment.md
+    <sub>[#53828](https://github.com/flutter/engine/pull/53828) merged on July 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53828) over 53 minutes, 7 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add instructions for source debugging with Xcode when using RBE.
     <sub>[#53822](https://github.com/flutter/engine/pull/53822) merged on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53822) over 38 minutes, 8 additions and 0 deletions in 1 file</sub>
