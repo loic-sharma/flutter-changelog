@@ -4,7 +4,11 @@
 
 ### July 6, 2024 to July 12, 2024
 
-33 commits.
+34 commits.
+
+* **[August](https://github.com/Gustl22)** &mdash; feat: Support overriding native endorsed plugins
+    <sub>[#137040](https://github.com/flutter/flutter/pull/137040) merged on July 11, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/137040) over 8 months, 1129 additions and 643 deletions in 4 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 `Dialog` default background color
     <sub>[#151400](https://github.com/flutter/flutter/pull/151400) merged on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151400) over 1 day, 8 additions and 4 deletions in 2 files</sub>
@@ -46,13 +50,13 @@
     <sub>[#151359](https://github.com/flutter/flutter/pull/151359) merged on July 9, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/151359) over 3 days, 183 additions and 381 deletions in 26 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Write the package config location to the test bootstrap.
-    <sub>[#150440](https://github.com/flutter/flutter/pull/150440) merged on July 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150440) over 2 weeks, 63 additions and 0 deletions in 5 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `MaterialState` → `WidgetState` in documentation
     <sub>[#151376](https://github.com/flutter/flutter/pull/151376) merged on July 8, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/151376) over 2 days, 508 additions and 510 deletions in 55 files</sub>
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Write the package config location to the test bootstrap.
+    <sub>[#150440](https://github.com/flutter/flutter/pull/150440) merged on July 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150440) over 2 weeks, 63 additions and 0 deletions in 5 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update doc of `SemanticsProperties.identifier`
     <sub>[#149915](https://github.com/flutter/flutter/pull/149915) merged on July 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149915) over 1 month, 3 additions and 0 deletions in 1 file</sub>
@@ -94,17 +98,13 @@
     <sub>[#151403](https://github.com/flutter/flutter/pull/151403) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151403) over 19 hours, 36 additions and 12 deletions in 9 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `DataTable` documentation
-    <sub>[#151356](https://github.com/flutter/flutter/pull/151356) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151356) over 3 days, 28 additions and 18 deletions in 2 files</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code
     <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Jefferey Neuffer](https://github.com/j7126)** &mdash; expose keyboardType in DropdownMenu #150894
-    <sub>[#150896](https://github.com/flutter/flutter/pull/150896) merged on July 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150896) over 2 weeks, 42 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `DataTable` documentation
+    <sub>[#151356](https://github.com/flutter/flutter/pull/151356) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151356) over 3 days, 28 additions and 18 deletions in 2 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add `TimeOfDay` comparison methods
     <sub>[#151233](https://github.com/flutter/flutter/pull/151233) merged on July 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151233) over 1 week, 64 additions and 1 deletion in 2 files</sub>
@@ -137,6 +137,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151089) over 1 week, 56 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Jefferey Neuffer](https://github.com/j7126)** &mdash; expose keyboardType in DropdownMenu #150894
+    <sub>[#150896](https://github.com/flutter/flutter/pull/150896) merged on July 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150896) over 2 weeks, 42 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests"... but no longer upgrade module AGP version
     <sub>[#151433](https://github.com/flutter/flutter/pull/151433) merged on July 10, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/151433) over 2 days, 168 additions and 33 deletions in 11 files</sub>
