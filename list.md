@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-30 commits.
+31 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 `Dialog` default background color
     <sub>[#151400](https://github.com/flutter/flutter/pull/151400) merged on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151400) over 1 day, 8 additions and 4 deletions in 2 files</sub>
@@ -97,6 +97,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code
     <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add `TimeOfDay` comparison methods
+    <sub>[#151233](https://github.com/flutter/flutter/pull/151233) merged on July 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151233) over 1 week, 64 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#151492](https://github.com/flutter/flutter/pull/151492) merged on July 9, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/151492) over 1 hour, 213 additions and 217 deletions in 64 files</sub>
