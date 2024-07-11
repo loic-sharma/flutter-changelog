@@ -376,6 +376,10 @@
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
     <sub><details><summary>2 images...</summary>![image](https://github.com/flutter/flutter/assets/1078012/46ccd2ef-b165-46b4-a8ab-4473f82a904c)![image](https://github.com/flutter/flutter/assets/1078012/232f866e-cf6f-4016-9d1d-49323204da04)</details></sub>
 
+* **[Ricardo Boss](https://github.com/ricardoboss)** &mdash; Copy any previous `IconThemeData` instead of overwriting it in CupertinoButton
+    <sub>[#149777](https://github.com/flutter/flutter/pull/149777) merged on June 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149777) over 3 weeks, 34 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Samuel Wrenn](https://github.com/swrenn)** &mdash; Fixes for Style Guide for Flutter Repo
     <sub>[#150167](https://github.com/flutter/flutter/pull/150167) merged on June 26, 2024 &mdash; **Small:** [56 comments](https://github.com/flutter/flutter/pull/150167) over 1 week, 7 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Nate Wilson](https://github.com/nate-thegrate), [Greg Price](https://github.com/gnprice), [Michael Goderbauer](https://github.com/goderbauer), [John McDole](https://github.com/jtmcdole)</sub>
@@ -400,9 +404,9 @@
     <sub>[#150733](https://github.com/flutter/flutter/pull/150733) merged on June 25, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/150733) over 2 hours, 1814 additions and 1297 deletions in 49 files</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Document RenderObject._relayoutBoundary and its invariant; small refactors
-    <sub>[#150527](https://github.com/flutter/flutter/pull/150527) merged on June 25, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/150527) over 5 days, 55 additions and 23 deletions in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `dual_screen` from `new_gallery` integration test
+    <sub>[#150808](https://github.com/flutter/flutter/pull/150808) merged on June 26, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/150808) over 20 hours, 26 additions and 444 deletions in 10 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [John McDole](https://github.com/jtmcdole), [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add more warm up frame docs
     <sub>[#150464](https://github.com/flutter/flutter/pull/150464) merged on June 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150464) over 6 days, 25 additions and 1 deletion in 1 file</sub>
@@ -416,17 +420,13 @@
     <sub>[#150648](https://github.com/flutter/flutter/pull/150648) merged on June 27, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/150648) over 5 days, 395 additions and 0 deletions in 4 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove `dual_screen` from `new_gallery` integration test
-    <sub>[#150808](https://github.com/flutter/flutter/pull/150808) merged on June 26, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/150808) over 20 hours, 26 additions and 444 deletions in 10 files</sub>
-    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [John McDole](https://github.com/jtmcdole), [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Greg Price](https://github.com/gnprice)** &mdash; Document RenderObject._relayoutBoundary and its invariant; small refactors
+    <sub>[#150527](https://github.com/flutter/flutter/pull/150527) merged on June 25, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/150527) over 5 days, 55 additions and 23 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
-* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Use caret syntax with flutter create command
-    <sub>[#150920](https://github.com/flutter/flutter/pull/150920) merged on June 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150920) over 1 day, 22 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] make the `systemTempDirectory` getter on `ErrorHandlingFileSystem` wrap the underlying filesystem's temp directory in a`ErrorHandlingDirectory`
-    <sub>[#150876](https://github.com/flutter/flutter/pull/150876) merged on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150876) over 23 hours, 42 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; local lint copy gradle task config
+    <sub>[#150957](https://github.com/flutter/flutter/pull/150957) merged on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150957) over 40 minutes, 5 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Remove `dual_screen` from `new_gallery` integration test (#150808)"
     <sub>[#150871](https://github.com/flutter/flutter/pull/150871) merged on June 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/150871) over 44 seconds, 442 additions and 24 deletions in 9 files</sub>
@@ -440,21 +440,21 @@
     <sub>[#150741](https://github.com/flutter/flutter/pull/150741) merged on June 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150741) over 16 hours, 39 additions and 13 deletions in 2 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Michael Rittmeister](https://github.com/DRSchlaubi)** &mdash; Add support for type-safe plugin apply
-    <sub>[#150958](https://github.com/flutter/flutter/pull/150958) merged on June 28, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150958) over 20 hours, 25 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Use caret syntax with flutter create command
+    <sub>[#150920](https://github.com/flutter/flutter/pull/150920) merged on June 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150920) over 1 day, 22 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; allow adb to set canfail then use canFail=true for clearing logs
     <sub>[#150517](https://github.com/flutter/flutter/pull/150517) merged on June 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150517) over 4 days, 162 additions and 5 deletions in 3 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; local lint copy gradle task config
-    <sub>[#150957](https://github.com/flutter/flutter/pull/150957) merged on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150957) over 40 minutes, 5 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] make the `systemTempDirectory` getter on `ErrorHandlingFileSystem` wrap the underlying filesystem's temp directory in a`ErrorHandlingDirectory`
+    <sub>[#150876](https://github.com/flutter/flutter/pull/150876) merged on June 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150876) over 23 hours, 42 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Ricardo Boss](https://github.com/ricardoboss)** &mdash; Copy any previous `IconThemeData` instead of overwriting it in CupertinoButton
-    <sub>[#149777](https://github.com/flutter/flutter/pull/149777) merged on June 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/149777) over 3 weeks, 34 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+* **[Michael Rittmeister](https://github.com/DRSchlaubi)** &mdash; Add support for type-safe plugin apply
+    <sub>[#150958](https://github.com/flutter/flutter/pull/150958) merged on June 28, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150958) over 20 hours, 25 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adding `@docImport`s to the `animation` library
     <sub>[#150798](https://github.com/flutter/flutter/pull/150798) merged on June 26, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150798) over 1 day, 15 additions and 0 deletions in 6 files</sub>

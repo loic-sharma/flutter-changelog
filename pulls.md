@@ -29,9 +29,6 @@
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
     <sub>[#150764](https://github.com/flutter/flutter/pull/150764) opened on on June 25, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/150764) 140 additions and 7 deletions in 2 files</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove unused early key event listener<br />
-    <sub>[#150915](https://github.com/flutter/flutter/pull/150915) opened on on June 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150915) 0 additions and 11 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] make the `systemTempDirectory` getter on `ErrorHandlingFileSystem` wrap the underlying filesystem's temp directory in a`ErrorHandlingDirectory`<br />
     <sub>[#150960](https://github.com/flutter/flutter/pull/150960) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150960) 42 additions and 0 deletions in 2 files</sub><br />
 
@@ -73,9 +70,6 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for menu_anchor.2.dart<br />
     <sub>[#151399](https://github.com/flutter/flutter/pull/151399) opened on on July 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151399) 28 additions and 1 deletion in 2 files</sub><br />
-
-* **[İbrahim Talha DEMİR](https://github.com/IbrahimTalha0)** &mdash; FIX flexible_space_bar.dart<br />
-    <sub>[#151423](https://github.com/flutter/flutter/pull/151423) opened on on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151423) 93 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scrollbar.1.dart<br />
     <sub>[#151463](https://github.com/flutter/flutter/pull/151463) opened on on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151463) 21 additions and 1 deletion in 2 files</sub><br />
