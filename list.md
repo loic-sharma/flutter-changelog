@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-31 commits.
+33 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 `Dialog` default background color
     <sub>[#151400](https://github.com/flutter/flutter/pull/151400) merged on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151400) over 1 day, 8 additions and 4 deletions in 2 files</sub>
@@ -66,6 +66,10 @@
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for flutter_driver
+    <sub>[#151267](https://github.com/flutter/flutter/pull/151267) merged on July 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151267) over 1 week, 63 additions and 26 deletions in 24 files</sub>
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; doc imports for enum values
     <sub>[#151548](https://github.com/flutter/flutter/pull/151548) merged on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151548) over 4 hours, 43 additions and 10 deletions in 12 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
@@ -97,6 +101,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code
     <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Jefferey Neuffer](https://github.com/j7126)** &mdash; expose keyboardType in DropdownMenu #150894
+    <sub>[#150896](https://github.com/flutter/flutter/pull/150896) merged on July 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150896) over 2 weeks, 42 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add `TimeOfDay` comparison methods
     <sub>[#151233](https://github.com/flutter/flutter/pull/151233) merged on July 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151233) over 1 week, 64 additions and 1 deletion in 2 files</sub>
@@ -622,7 +630,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-26 commits.
+27 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub>
@@ -648,6 +656,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement clear color opt for experimental canvas.
     <sub>[#53749](https://github.com/flutter/engine/pull/53749) merged on July 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53749) over 22 hours, 34 additions and 5 deletions in 4 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move more aiks tests to DL. 
+    <sub>[#53792](https://github.com/flutter/engine/pull/53792) merged on July 11, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/53792) over 1 day, 476 additions and 351 deletions in 5 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Impeller really wants premultiplied alpha
     <sub>[#53770](https://github.com/flutter/engine/pull/53770) merged on July 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53770) over 1 day, 57 additions and 0 deletions in 4 files</sub>
