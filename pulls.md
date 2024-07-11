@@ -47,23 +47,8 @@
 * **[ndelanou](https://github.com/ndelanou)** &mdash; add a `allowFlinging` param to the `Dismissible` widget<br />
     <sub>[#151224](https://github.com/flutter/flutter/pull/151224) opened on on July 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151224) 27 additions and 1 deletion in 2 files</sub><br />
 
-* **[John Stef](https://github.com/johnstef99)** &mdash; Add borderRadius property to PopupMenuButton<br />
-    <sub>[#151228](https://github.com/flutter/flutter/pull/151228) opened on on July 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/151228) 50 additions and 0 deletions in 2 files</sub><br />
-
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Adds a call to the `PlatformDispatcher` whenever the focus changes<br />
     <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151268) 119 additions and 45 deletions in 4 files</sub><br />
-
-* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Replaced {@tool snippet} with {@tool dartpad} in CupertinoTabController<br />
-    <sub>[#151272](https://github.com/flutter/flutter/pull/151272) opened on on July 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151272) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[n7484443](https://github.com/n7484443)** &mdash; chore: fix typo korean, cutButtonLabel<br />
-    <sub>[#151364](https://github.com/flutter/flutter/pull/151364) opened on on July 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151364) 4 additions and 4 deletions in 4 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Vertical offset between submenu item and menu item button<br />
-    <sub>[#151365](https://github.com/flutter/flutter/pull/151365) opened on on July 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151365) 14 additions and 14 deletions in 2 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Style: Rename CupertinoSwitch activeColor and trackColor to activeTrackColor and InactiveTrackColor<br />
-    <sub>[#151367](https://github.com/flutter/flutter/pull/151367) opened on on July 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151367) 10 additions and 10 deletions in 3 files</sub><br />
 
 * **[arbaker2](https://github.com/arbaker2)** &mdash; Add support for inverting CircularNotchedRectangle to optionally be drawn on the bottom of a path<br />
     <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151386) 61 additions and 16 deletions in 2 files</sub><br />
