@@ -655,7 +655,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-29 commits.
+31 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.<br />
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub><br />
@@ -678,6 +678,10 @@
     <sub>[#53750](https://github.com/flutter/engine/pull/53750) merged on July 9, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/53750) over 1 day, 86 additions and 37 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Pavel Mazhnik](https://github.com/p-mazhnik)** &mdash; [web] retrieve hostElement for an implicit view<br />
+    <sub>[#53296](https://github.com/flutter/engine/pull/53296) merged on July 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/53296) over 1 month, 39 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub><br />
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [macOS] Multiview compositor<br />
     <sub>[#52253](https://github.com/flutter/engine/pull/52253) merged on July 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/52253) over 2 months, 96 additions and 17 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -689,6 +693,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement clear color opt for experimental canvas.<br />
     <sub>[#53749](https://github.com/flutter/engine/pull/53749) merged on July 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53749) over 22 hours, 34 additions and 5 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [dart:ui] remove expensive index assertion in Vertices.<br />
+    <sub>[#53558](https://github.com/flutter/engine/pull/53558) merged on July 11, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/53558) over 2 weeks, 66 additions and 19 deletions in 4 files</sub><br />
+    <sub>Reviewed by: </sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move more aiks tests to DL. <br />
     <sub>[#53792](https://github.com/flutter/engine/pull/53792) merged on July 11, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/53792) over 1 day, 476 additions and 351 deletions in 5 files</sub><br />
