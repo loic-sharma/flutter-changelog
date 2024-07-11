@@ -12,7 +12,7 @@
     <sub>[#150315](https://github.com/flutter/flutter/pull/150315) opened on on June 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/150315) 20 additions and 1 deletion in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
-    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/150394) 325 additions and 68 deletions in 4 files</sub><br />
+    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/150394) 338 additions and 70 deletions in 4 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoAlertDialog] Rewrite<br />
     <sub>[#150410](https://github.com/flutter/flutter/pull/150410) opened on on June 18, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/150410) 473 additions and 1251 deletions in 2 files</sub><br />
