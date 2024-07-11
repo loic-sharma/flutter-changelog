@@ -18,7 +18,7 @@
     <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/150394) 322 additions and 67 deletions in 2 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoAlertDialog] Rewrite<br />
-    <sub>[#150410](https://github.com/flutter/flutter/pull/150410) opened on on June 18, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/150410) 473 additions and 1251 deletions in 2 files</sub><br />
+    <sub>[#150410](https://github.com/flutter/flutter/pull/150410) opened on on June 18, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/150410) 473 additions and 1251 deletions in 2 files</sub><br />
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Add `ListTileControlAffinity` to `ListTileTheme`<br />
     <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/150695) 216 additions and 41 deletions in 9 files</sub><br />
