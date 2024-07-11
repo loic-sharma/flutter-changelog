@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-29 commits.
+30 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Material 3 `Dialog` default background color<br />
     <sub>[#151400](https://github.com/flutter/flutter/pull/151400) merged on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151400) over 1 day, 8 additions and 4 deletions in 2 files</sub><br />
@@ -19,6 +19,11 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `FittedBox` not throw when child has zero size.<br />
     <sub>[#150430](https://github.com/flutter/flutter/pull/150430) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150430) over 2 weeks, 49 additions and 20 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Use correct locale for `CupertinoDatePicker` weekday<br />
+    <sub>[#151494](https://github.com/flutter/flutter/pull/151494) merged on July 11, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/151494) over 1 day, 258 additions and 126 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="379" alt="Screenshot 2024-07-09 at 5 08 43 PM" src="https://github.com/flutter/flutter/assets/77553258/d6899c6b-bd0a-4484-a6a8-3ef1512aeae1"><img width="379" alt="Screenshot 2024-07-09 at 5 08 11 PM" src="https://github.com/flutter/flutter/assets/77553258/f320c634-80d1-4f3b-adfd-ed85a9dfc3f6"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] - Enable `explicitChildNodes` for the `AlertDialog` content<br />
     <sub>[#149597](https://github.com/flutter/flutter/pull/149597) merged on July 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149597) over 1 month, 20 additions and 4 deletions in 2 files</sub><br />

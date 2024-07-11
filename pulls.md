@@ -69,7 +69,7 @@
     <sub>[#151367](https://github.com/flutter/flutter/pull/151367) opened on on July 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151367) 10 additions and 10 deletions in 3 files</sub><br />
 
 * **[arbaker2](https://github.com/arbaker2)** &mdash; Add support for inverting CircularNotchedRectangle to optionally be drawn on the bottom of a path<br />
-    <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151386) 61 additions and 16 deletions in 2 files</sub><br />
+    <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151386) 61 additions and 16 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for menu_anchor.2.dart<br />
     <sub>[#151399](https://github.com/flutter/flutter/pull/151399) opened on on July 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151399) 28 additions and 1 deletion in 2 files</sub><br />
