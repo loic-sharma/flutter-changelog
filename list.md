@@ -1032,7 +1032,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-18 commits.
+19 commits.
 
 * **[Thomas Aunvik](https://github.com/ThomasAunvik)** &mdash; [webview_flutter_web] Migrate to package:web.
     <sub>[#6792](https://github.com/flutter/packages/pull/6792) merged on July 10, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6792) over 1 month, 249 additions and 3102 deletions in 11 files</sub>
@@ -1041,6 +1041,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Convert Windows to Pigeon
     <sub>[#6925](https://github.com/flutter/packages/pull/6925) merged on July 9, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/6925) over 3 weeks, 2788 additions and 1464 deletions in 24 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [ci][web] Run tests in canvaskit mode.
+    <sub>[#6879](https://github.com/flutter/packages/pull/6879) merged on July 11, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/6879) over 1 month, 146 additions and 36 deletions in 17 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Remove `win32`
     <sub>[#7073](https://github.com/flutter/packages/pull/7073) merged on July 9, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7073) over 19 hours, 314 additions and 67 deletions in 8 files</sub>
