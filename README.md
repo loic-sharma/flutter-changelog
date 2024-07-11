@@ -4,7 +4,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-34 commits.
+36 commits.
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Support overriding native endorsed plugins<br />
     <sub>[#137040](https://github.com/flutter/flutter/pull/137040) merged on July 11, 2024 &mdash; **Extra large:** [40 comments](https://github.com/flutter/flutter/pull/137040) over 8 months, 1129 additions and 643 deletions in 4 files</sub><br />
@@ -15,6 +15,11 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
     <sub><details><summary>2 images...</summary><img width="674" alt="Screenshot 2024-07-08 at 14 26 39" src="https://github.com/flutter/flutter/assets/48603081/a95160f5-947e-4a6e-a3a5-82c94980c744"><img width="674" alt="Screenshot 2024-07-08 at 14 26 28" src="https://github.com/flutter/flutter/assets/48603081/fa912519-2a79-4fd5-a695-6e18542f0005"></details></sub>
 
+* **[Bui Anh Viet](https://github.com/Vi-debug)** &mdash; Fix: Submenu anchor misaligned with child panel in web (Resolved #151081)<br />
+    <sub>[#151294](https://github.com/flutter/flutter/pull/151294) merged on July 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151294) over 1 week, 12 additions and 12 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Greg Spencer](https://github.com/gspencergoog), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+    <sub><details><summary>2 images...</summary>![Screenshot 2024-07-03 at 10 28 51](https://github.com/flutter/flutter/assets/57765714/cd634ce5-8699-49ee-806f-435cbbca81a4)![Screenshot 2024-07-03 at 10 28 21](https://github.com/flutter/flutter/assets/57765714/81119996-b3e5-4e45-b44b-11fff8521998)</details></sub>
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Fix padding and font size of buttons<br />
     <sub>[#151199](https://github.com/flutter/flutter/pull/151199) merged on July 10, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/151199) over 1 week, 160 additions and 27 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Greg Price](https://github.com/gnprice), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
@@ -24,15 +29,15 @@
     <sub>[#150430](https://github.com/flutter/flutter/pull/150430) merged on July 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/150430) over 2 weeks, 49 additions and 20 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Use correct locale for `CupertinoDatePicker` weekday<br />
-    <sub>[#151494](https://github.com/flutter/flutter/pull/151494) merged on July 11, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/151494) over 1 day, 258 additions and 126 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-    <sub><details><summary>2 images...</summary><img width="379" alt="Screenshot 2024-07-09 at 5 08 43 PM" src="https://github.com/flutter/flutter/assets/77553258/d6899c6b-bd0a-4484-a6a8-3ef1512aeae1"><img width="379" alt="Screenshot 2024-07-09 at 5 08 11 PM" src="https://github.com/flutter/flutter/assets/77553258/f320c634-80d1-4f3b-adfd-ed85a9dfc3f6"></details></sub>
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] - Enable `explicitChildNodes` for the `AlertDialog` content<br />
     <sub>[#149597](https://github.com/flutter/flutter/pull/149597) merged on July 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149597) over 1 month, 20 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>2 images...</summary>![Screenshot 2024-05-27 at 14 59 57](https://github.com/flutter/flutter/assets/48603081/3b231a7a-db71-4dbf-bd4a-dd44a537cae8)![Screenshot 2024-05-27 at 14 56 04](https://github.com/flutter/flutter/assets/48603081/219c1de5-ad35-49b3-a80f-4f036184e22b)</details></sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Use correct locale for `CupertinoDatePicker` weekday<br />
+    <sub>[#151494](https://github.com/flutter/flutter/pull/151494) merged on July 11, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/151494) over 1 day, 258 additions and 126 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="379" alt="Screenshot 2024-07-09 at 5 08 43 PM" src="https://github.com/flutter/flutter/assets/77553258/d6899c6b-bd0a-4484-a6a8-3ef1512aeae1"><img width="379" alt="Screenshot 2024-07-09 at 5 08 11 PM" src="https://github.com/flutter/flutter/assets/77553258/f320c634-80d1-4f3b-adfd-ed85a9dfc3f6"></details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add Semantics Property `linkUrl`<br />
     <sub>[#150639](https://github.com/flutter/flutter/pull/150639) merged on July 9, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/150639) over 2 weeks, 64 additions and 4 deletions in 5 files</sub><br />
@@ -50,13 +55,17 @@
     <sub>[#151359](https://github.com/flutter/flutter/pull/151359) merged on July 9, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/151359) over 3 days, 183 additions and 381 deletions in 26 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Write the package config location to the test bootstrap.<br />
+    <sub>[#150440](https://github.com/flutter/flutter/pull/150440) merged on July 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150440) over 2 weeks, 63 additions and 0 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `MaterialState` → `WidgetState` in documentation<br />
     <sub>[#151376](https://github.com/flutter/flutter/pull/151376) merged on July 8, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/151376) over 2 days, 508 additions and 510 deletions in 55 files</sub><br />
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
-* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Write the package config location to the test bootstrap.<br />
-    <sub>[#150440](https://github.com/flutter/flutter/pull/150440) merged on July 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/150440) over 2 weeks, 63 additions and 0 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Replaced {@tool snippet} with {@tool dartpad} in CupertinoTabController<br />
+    <sub>[#151272](https://github.com/flutter/flutter/pull/151272) merged on July 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151272) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update doc of `SemanticsProperties.identifier`<br />
     <sub>[#149915](https://github.com/flutter/flutter/pull/149915) merged on July 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149915) over 1 month, 3 additions and 0 deletions in 1 file</sub><br />
@@ -98,17 +107,13 @@
     <sub>[#151403](https://github.com/flutter/flutter/pull/151403) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151403) over 19 hours, 36 additions and 12 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code<br />
-    <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub><br />
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Update `DataTable` documentation<br />
     <sub>[#151356](https://github.com/flutter/flutter/pull/151356) merged on July 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151356) over 3 days, 28 additions and 18 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add `TimeOfDay` comparison methods<br />
-    <sub>[#151233](https://github.com/flutter/flutter/pull/151233) merged on July 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151233) over 1 week, 64 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out deprecated names in example code<br />
+    <sub>[#151374](https://github.com/flutter/flutter/pull/151374) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151374) over 2 days, 80 additions and 80 deletions in 22 files</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#151492](https://github.com/flutter/flutter/pull/151492) merged on July 9, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/151492) over 1 hour, 213 additions and 217 deletions in 64 files</sub><br />
@@ -134,13 +139,17 @@
     <sub>[#151390](https://github.com/flutter/flutter/pull/151390) merged on July 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151390) over 15 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Jefferey Neuffer](https://github.com/j7126)** &mdash; expose keyboardType in DropdownMenu #150894<br />
+    <sub>[#150896](https://github.com/flutter/flutter/pull/150896) merged on July 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150896) over 2 weeks, 42 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for material_state_border_side.0_test.dart<br />
     <sub>[#151089](https://github.com/flutter/flutter/pull/151089) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151089) over 1 week, 56 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
-* **[Jefferey Neuffer](https://github.com/j7126)** &mdash; expose keyboardType in DropdownMenu #150894<br />
-    <sub>[#150896](https://github.com/flutter/flutter/pull/150896) merged on July 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150896) over 2 weeks, 42 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+* **[derdilla](https://github.com/NobodyForNothing)** &mdash; Add `TimeOfDay` comparison methods<br />
+    <sub>[#151233](https://github.com/flutter/flutter/pull/151233) merged on July 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151233) over 1 week, 64 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests"... but no longer upgrade module AGP version<br />
     <sub>[#151433](https://github.com/flutter/flutter/pull/151433) merged on July 10, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/151433) over 2 days, 168 additions and 33 deletions in 11 files</sub><br />
