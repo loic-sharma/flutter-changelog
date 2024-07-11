@@ -86,9 +86,6 @@
 * **[Rohit Chouhan](https://github.com/rohit-chouhan)** &mdash; Fix JSON Parsing and Error Handling in TestFileReporterResults<br />
     <sub>[#151512](https://github.com/flutter/flutter/pull/151512) opened on on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151512) 21 additions and 11 deletions in 1 file</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Re-enable debug canvaskit e2e tests.<br />
-    <sub>[#151565](https://github.com/flutter/flutter/pull/151565) opened on on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151565) 0 additions and 5 deletions in 1 file</sub><br />
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dartdoc to 8.0.11 to fix focusing search field<br />
     <sub>[#151576](https://github.com/flutter/flutter/pull/151576) opened on on July 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151576) 1 addition and 1 deletion in 1 file</sub><br />
 
