@@ -112,7 +112,7 @@
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move all Linux Moto G4 tests to mokey in staging
-    <sub>[#151608](https://github.com/flutter/flutter/pull/151608) merged on July 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151608) over 2 hours, 128 additions and 129 deletions in 1 file</sub>
+    <sub>[#151608](https://github.com/flutter/flutter/pull/151608) merged on July 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151608) over 2 hours, 128 additions and 129 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; docimports for API samples
