@@ -80,3 +80,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Emit source maps for wasm in `flutter build web --wasm`<br />
     <sub>[#151643](https://github.com/flutter/flutter/pull/151643) opened on on July 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151643) 74 additions and 60 deletions in 4 files</sub><br />
 
+* **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Pass shape Parameter from ExpansionTile to ListTile for Respectful Hover Shape<br />
+    <sub>[#151647](https://github.com/flutter/flutter/pull/151647) opened on on July 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151647) 1 addition and 0 deletions in 1 file</sub><br />
+
