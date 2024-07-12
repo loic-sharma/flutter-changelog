@@ -1079,7 +1079,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove FlutterUndoManagerPlugin handlers from undo manager on dealloc<br />
-    <sub>[#53553](https://github.com/flutter/engine/pull/53553) merged on June 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53553) over 17 hours, 45 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#53553](https://github.com/flutter/engine/pull/53553) merged on June 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53553) over 17 hours, 45 additions and 5 deletions in 2 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Switch to recording DrawVertices objects by reference<br />
