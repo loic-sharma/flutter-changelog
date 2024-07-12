@@ -51,7 +51,7 @@
     <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151386) 61 additions and 16 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for menu_anchor.2.dart<br />
-    <sub>[#151399](https://github.com/flutter/flutter/pull/151399) opened on on July 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151399) 28 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151399](https://github.com/flutter/flutter/pull/151399) opened on on July 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151399) 28 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scrollbar.1.dart<br />
     <sub>[#151463](https://github.com/flutter/flutter/pull/151463) opened on on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151463) 21 additions and 1 deletion in 2 files</sub><br />
