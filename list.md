@@ -723,7 +723,7 @@
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Dart SDK from fb546f313557 to 797d3df745d1 (8 revisions)
-    <sub>[#53832](https://github.com/flutter/engine/pull/53832) merged on July 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/53832) over 1 hour, 448 additions and 398 deletions in 13 files</sub>
+    <sub>[#53832](https://github.com/flutter/engine/pull/53832) merged on July 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/53832) over 1 hour, 448 additions and 398 deletions in 13 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [dart:ui] remove expensive index assertion in Vertices.
