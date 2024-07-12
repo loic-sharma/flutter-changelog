@@ -86,6 +86,3 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_releases] Flutter stable 3.22.3 Framework Cherrypicks<br />
     <sub>[#151687](https://github.com/flutter/flutter/pull/151687) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151687) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Updates mark needs semantics update logic for overlay portal<br />
-    <sub>[#151688](https://github.com/flutter/flutter/pull/151688) opened on on July 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151688) 80 additions and 6 deletions in 3 files</sub><br />
-
