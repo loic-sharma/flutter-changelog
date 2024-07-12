@@ -78,5 +78,5 @@
     <sub>[#151618](https://github.com/flutter/flutter/pull/151618) opened on on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151618) 96 additions and 3 deletions in 6 files</sub><br />
 
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Make DragGestureRecognizer abstract methods public (Resolves #151446)<br />
-    <sub>[#151627](https://github.com/flutter/flutter/pull/151627) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151627) 83 additions and 53 deletions in 1 file</sub><br />
+    <sub>[#151627](https://github.com/flutter/flutter/pull/151627) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151627) 82 additions and 52 deletions in 1 file</sub><br />
 
