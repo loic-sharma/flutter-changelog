@@ -62,9 +62,6 @@
 * **[Rohit Chouhan](https://github.com/rohit-chouhan)** &mdash; Fix JSON Parsing and Error Handling in TestFileReporterResults<br />
     <sub>[#151512](https://github.com/flutter/flutter/pull/151512) opened on on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151512) 21 additions and 11 deletions in 1 file</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Stop running link hooks in JIT mode<br />
-    <sub>[#151534](https://github.com/flutter/flutter/pull/151534) opened on on July 10, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/151534) 636 additions and 631 deletions in 14 files</sub><br />
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dartdoc to 8.0.11 to fix focusing search field<br />
     <sub>[#151576](https://github.com/flutter/flutter/pull/151576) opened on on July 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151576) 1 addition and 1 deletion in 1 file</sub><br />
 
