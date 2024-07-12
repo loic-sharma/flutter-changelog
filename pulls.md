@@ -80,3 +80,6 @@
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Pass shape Parameter from ExpansionTile to ListTile for Respectful Hover Shape<br />
     <sub>[#151647](https://github.com/flutter/flutter/pull/151647) opened on on July 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151647) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update obsolete comment in InputDecorator test<br />
+    <sub>[#151651](https://github.com/flutter/flutter/pull/151651) opened on on July 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151651) 1 addition and 1 deletion in 1 file</sub><br />
+
