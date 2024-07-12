@@ -74,7 +74,7 @@
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Make DragGestureRecognizer abstract methods public (Resolves #151446)<br />
     <sub>[#151627](https://github.com/flutter/flutter/pull/151627) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151627) 82 additions and 52 deletions in 1 file</sub><br />
 
-* **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Pass shape Parameter from ExpansionTile to ListTile for Respectful Hover Shape<br />
+* **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Pass shape parameter from ExpansionTile to ListTile for respectful hover shape<br />
     <sub>[#151647](https://github.com/flutter/flutter/pull/151647) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151647) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#53571<br />
@@ -84,5 +84,5 @@
     <sub>[#151684](https://github.com/flutter/flutter/pull/151684) opened on on July 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151684) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_releases] Flutter stable 3.22.3 Framework Cherrypicks<br />
-    <sub>[#151687](https://github.com/flutter/flutter/pull/151687) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151687) 0 additions and 0 deletions in 0 files</sub><br />
+    <sub>[#151687](https://github.com/flutter/flutter/pull/151687) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151687) 12 additions and 0 deletions in 1 file</sub><br />
 
