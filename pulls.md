@@ -50,9 +50,6 @@
 * **[arbaker2](https://github.com/arbaker2)** &mdash; Add support for inverting CircularNotchedRectangle to optionally be drawn on the bottom of a path<br />
     <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151386) 61 additions and 16 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for menu_anchor.2.dart<br />
-    <sub>[#151399](https://github.com/flutter/flutter/pull/151399) opened on on July 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151399) 28 additions and 1 deletion in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scrollbar.1.dart<br />
     <sub>[#151463](https://github.com/flutter/flutter/pull/151463) opened on on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151463) 49 additions and 1 deletion in 3 files</sub><br />
 
