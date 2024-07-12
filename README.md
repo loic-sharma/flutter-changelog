@@ -1076,7 +1076,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-20 commits.
+21 commits.
 
 * **[Thomas Aunvik](https://github.com/ThomasAunvik)** &mdash; [webview_flutter_web] Migrate to package:web.<br />
     <sub>[#6792](https://github.com/flutter/packages/pull/6792) merged on July 10, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6792) over 1 month, 249 additions and 3102 deletions in 11 files</sub><br />
@@ -1150,6 +1150,10 @@
     <sub>[#7068](https://github.com/flutter/packages/pull/7068) merged on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7068) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]Fix compile error when conforming UIApplication to Launcher due to MainActor annotation<br />
+    <sub>[#7100](https://github.com/flutter/packages/pull/7100) merged on July 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7100) over 18 hours, 24 additions and 4 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update espresso dependencies<br />
     <sub>[#7048](https://github.com/flutter/packages/pull/7048) merged on July 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7048) over 1 week, 37 additions and 42 deletions in 10 files</sub><br />
