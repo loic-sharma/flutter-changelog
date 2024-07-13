@@ -56,9 +56,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; test engine pr 53689<br />
     <sub>[#151491](https://github.com/flutter/flutter/pull/151491) opened on on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151491) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[Rohit Chouhan](https://github.com/rohit-chouhan)** &mdash; Fix JSON Parsing and Error Handling in TestFileReporterResults<br />
-    <sub>[#151512](https://github.com/flutter/flutter/pull/151512) opened on on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151512) 21 additions and 11 deletions in 1 file</sub><br />
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dartdoc to 8.0.11 to fix focusing search field<br />
     <sub>[#151576](https://github.com/flutter/flutter/pull/151576) opened on on July 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151576) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -72,7 +69,7 @@
     <sub>[#151618](https://github.com/flutter/flutter/pull/151618) opened on on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151618) 96 additions and 3 deletions in 6 files</sub><br />
 
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Make DragGestureRecognizer abstract methods public (Resolves #151446)<br />
-    <sub>[#151627](https://github.com/flutter/flutter/pull/151627) opened on on July 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151627) 82 additions and 52 deletions in 1 file</sub><br />
+    <sub>[#151627](https://github.com/flutter/flutter/pull/151627) opened on on July 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151627) 78 additions and 56 deletions in 1 file</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Pass shape parameter from ExpansionTile to ListTile for respectful hover shape<br />
     <sub>[#151647](https://github.com/flutter/flutter/pull/151647) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151647) 32 additions and 0 deletions in 2 files</sub><br />
