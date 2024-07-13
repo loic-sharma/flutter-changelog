@@ -66,7 +66,7 @@
     <sub>[#151591](https://github.com/flutter/flutter/pull/151591) opened on on July 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151591) 45 additions and 1 deletion in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]SelectionArea's selection should not be cleared on loss of window focus<br />
-    <sub>[#151618](https://github.com/flutter/flutter/pull/151618) opened on on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151618) 96 additions and 3 deletions in 6 files</sub><br />
+    <sub>[#151618](https://github.com/flutter/flutter/pull/151618) opened on on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151618) 96 additions and 3 deletions in 6 files</sub><br />
 
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Make DragGestureRecognizer abstract methods public (Resolves #151446)<br />
     <sub>[#151627](https://github.com/flutter/flutter/pull/151627) opened on on July 12, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151627) 143 additions and 56 deletions in 2 files</sub><br />
