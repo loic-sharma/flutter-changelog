@@ -1136,7 +1136,7 @@
 
 ### July 6, 2024 to July 12, 2024
 
-23 commits.
+24 commits.
 
 * **[Thomas Aunvik](https://github.com/ThomasAunvik)** &mdash; [webview_flutter_web] Migrate to package:web.<br />
     <sub>[#6792](https://github.com/flutter/packages/pull/6792) merged on July 10, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6792) over 1 month, 249 additions and 3102 deletions in 11 files</sub><br />
@@ -1214,6 +1214,10 @@
     <sub>[#7068](https://github.com/flutter/packages/pull/7068) merged on July 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7068) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.5.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; Manual roll Flutter to 58068d8ea4ec (42 revisions)<br />
+    <sub>[#7099](https://github.com/flutter/packages/pull/7099) merged on July 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7099) over 2 days, 5 additions and 49 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Split build_all_packages by JDK version.<br />
     <sub>[#7106](https://github.com/flutter/packages/pull/7106) merged on July 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7106) over 12 hours, 81 additions and 0 deletions in 4 files</sub><br />
