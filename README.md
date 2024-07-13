@@ -1231,13 +1231,13 @@
     <sub>[#7099](https://github.com/flutter/packages/pull/7099) merged on July 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7099) over 2 days, 5 additions and 49 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
-* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Split build_all_packages by JDK version.<br />
-    <sub>[#7106](https://github.com/flutter/packages/pull/7106) merged on July 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7106) over 12 hours, 81 additions and 0 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]Fix compile error when conforming UIApplication to Launcher due to MainActor annotation<br />
     <sub>[#7100](https://github.com/flutter/packages/pull/7100) merged on July 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7100) over 18 hours, 24 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Split build_all_packages by JDK version.<br />
+    <sub>[#7106](https://github.com/flutter/packages/pull/7106) merged on July 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7106) over 12 hours, 81 additions and 0 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update espresso dependencies<br />
     <sub>[#7048](https://github.com/flutter/packages/pull/7048) merged on July 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7048) over 1 week, 37 additions and 42 deletions in 10 files</sub><br />
