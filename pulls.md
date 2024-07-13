@@ -86,3 +86,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_releases] Flutter stable 3.22.3 Framework Cherrypicks<br />
     <sub>[#151687](https://github.com/flutter/flutter/pull/151687) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151687) 12 additions and 0 deletions in 1 file</sub><br />
 
+* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Feat: Added wait duration in the ink well widget to wait before starting the hover animation (Resolves #149812 )<br />
+    <sub>[#151699](https://github.com/flutter/flutter/pull/151699) opened on on July 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151699) 89 additions and 1 deletion in 2 files</sub><br />
+
