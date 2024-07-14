@@ -48,7 +48,7 @@
     <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151268) 119 additions and 45 deletions in 4 files</sub><br />
 
 * **[arbaker2](https://github.com/arbaker2)** &mdash; Add support for inverting CircularNotchedRectangle to optionally be drawn on the bottom of a path<br />
-    <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151386) 63 additions and 16 deletions in 2 files</sub><br />
+    <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151386) 62 additions and 16 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scrollbar.1.dart<br />
     <sub>[#151463](https://github.com/flutter/flutter/pull/151463) opened on on July 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151463) 49 additions and 1 deletion in 3 files</sub><br />
