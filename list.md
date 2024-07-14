@@ -731,7 +731,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Relax the event assumptions for keydown events.
-    <sub>[#53830](https://github.com/flutter/engine/pull/53830) merged on July 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53830) over 17 hours, 4 additions and 2 deletions in 1 file</sub>
+    <sub>[#53830](https://github.com/flutter/engine/pull/53830) merged on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53830) over 17 hours, 4 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement experimental canvas in snapshot controller.
