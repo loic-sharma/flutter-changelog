@@ -89,3 +89,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for expansion_panel_list.expansion_panel_list_radio.0_test.dart<br />
     <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151730) 41 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jason Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
+    <sub>[#151731](https://github.com/flutter/flutter/pull/151731) opened on on July 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151731) 8 additions and 0 deletions in 1 file</sub><br />
+
