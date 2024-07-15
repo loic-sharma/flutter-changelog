@@ -77,9 +77,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#53571<br />
     <sub>[#151682](https://github.com/flutter/flutter/pull/151682) opened on on July 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151682) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[Tyler Holland](https://github.com/TytaniumDev)** &mdash; Allow dropdown_menu to accept any EdgeInsetsGeometry<br />
-    <sub>[#151684](https://github.com/flutter/flutter/pull/151684) opened on on July 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151684) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_releases] Flutter stable 3.22.3 Framework Cherrypicks<br />
     <sub>[#151687](https://github.com/flutter/flutter/pull/151687) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151687) 12 additions and 0 deletions in 1 file</sub><br />
 

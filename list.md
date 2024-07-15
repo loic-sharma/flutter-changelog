@@ -4,12 +4,16 @@
 
 ### July 13, 2024 to July 19, 2024
 
-1 commits.
+2 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners
     <sub>[#149594](https://github.com/flutter/flutter/pull/149594) merged on July 15, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/149594) over 1 month, 275 additions and 116 deletions in 5 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>6 images...</summary>![Group 8](https://github.com/flutter/flutter/assets/48603081/9aa138ae-9525-4af4-8fc7-3cea0692a6d7)![Group 9](https://github.com/flutter/flutter/assets/48603081/e97940ae-a1c8-4b8b-9971-1cf417d32e40)![Group 10](https://github.com/flutter/flutter/assets/48603081/ed20a6bb-d5c9-486b-a020-2c9ca7de55da)![Group 4](https://github.com/flutter/flutter/assets/48603081/37a2e820-402d-4964-a206-717ccf1c5c02)![Group 3](https://github.com/flutter/flutter/assets/48603081/5d36d523-5fb7-466f-9d53-b6928963fcab)![Group 7](https://github.com/flutter/flutter/assets/48603081/8f3b4c48-f04d-4681-a62f-a7ea5a3e19fa)</details></sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; tool/build/web: move source-maps CLI flag to "general" web section
+    <sub>[#151722](https://github.com/flutter/flutter/pull/151722) merged on July 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151722) over 1 day, 6 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
 
 ### July 6, 2024 to July 12, 2024
 
