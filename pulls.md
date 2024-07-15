@@ -90,5 +90,5 @@
     <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151730) 41 additions and 1 deletion in 2 files</sub><br />
 
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
-    <sub>[#151731](https://github.com/flutter/flutter/pull/151731) opened on on July 14, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/151731) 26 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#151731](https://github.com/flutter/flutter/pull/151731) opened on on July 14, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/151731) 26 additions and 0 deletions in 3 files</sub><br />
 
