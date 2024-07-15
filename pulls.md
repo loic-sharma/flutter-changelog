@@ -44,14 +44,11 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Use `ErrorHandlingFileSystem.deleteIfExists` when deleting .plugin_symlinks<br />
     <sub>[#151184](https://github.com/flutter/flutter/pull/151184) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151184) 75 additions and 6 deletions in 4 files</sub><br />
 
-* **[ndelanou](https://github.com/ndelanou)** &mdash; add a `allowFlinging` param to the `Dismissible` widget<br />
-    <sub>[#151224](https://github.com/flutter/flutter/pull/151224) opened on on July 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151224) 27 additions and 1 deletion in 2 files</sub><br />
-
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Adds a call to the `PlatformDispatcher` whenever the focus changes<br />
     <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151268) 119 additions and 45 deletions in 4 files</sub><br />
 
 * **[arbaker2](https://github.com/arbaker2)** &mdash; Add support for inverting CircularNotchedRectangle to optionally be drawn on the bottom of a path<br />
-    <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/151386) 62 additions and 16 deletions in 2 files</sub><br />
+    <sub>[#151386](https://github.com/flutter/flutter/pull/151386) opened on on July 7, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/151386) 62 additions and 16 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scrollbar.1.dart<br />
     <sub>[#151463](https://github.com/flutter/flutter/pull/151463) opened on on July 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/151463) 47 additions and 1 deletion in 3 files</sub><br />
@@ -91,4 +88,7 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: DRY up arg helpers, use new typed arg functions<br />
     <sub>[#151784](https://github.com/flutter/flutter/pull/151784) opened on on July 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151784) 3 additions and 12 deletions in 1 file</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add `mouseCursor` property to `CupertinoCheckbox`<br />
+    <sub>[#151788](https://github.com/flutter/flutter/pull/151788) opened on on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151788) 124 additions and 1 deletion in 3 files</sub><br />
 
