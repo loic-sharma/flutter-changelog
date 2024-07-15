@@ -96,5 +96,5 @@
     <sub>[#151771](https://github.com/flutter/flutter/pull/151771) opened on on July 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/151771) 221 additions and 151 deletions in 5 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: DRY up arg helpers, use new typed arg functions<br />
-    <sub>[#151784](https://github.com/flutter/flutter/pull/151784) opened on on July 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151784) 3 additions and 12 deletions in 1 file</sub><br />
+    <sub>[#151784](https://github.com/flutter/flutter/pull/151784) opened on on July 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151784) 3 additions and 12 deletions in 1 file</sub><br />
 
