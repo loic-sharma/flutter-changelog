@@ -69,7 +69,7 @@
     <sub>[#151618](https://github.com/flutter/flutter/pull/151618) opened on on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151618) 96 additions and 3 deletions in 6 files</sub><br />
 
 * **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Make DragGestureRecognizer abstract methods public (Resolves #151446)<br />
-    <sub>[#151627](https://github.com/flutter/flutter/pull/151627) opened on on July 12, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/151627) 143 additions and 56 deletions in 2 files</sub><br />
+    <sub>[#151627](https://github.com/flutter/flutter/pull/151627) opened on on July 12, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/151627) 143 additions and 56 deletions in 2 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Pass shape parameter from ExpansionTile to ListTile for respectful hover shape<br />
     <sub>[#151647](https://github.com/flutter/flutter/pull/151647) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151647) 32 additions and 0 deletions in 2 files</sub><br />
@@ -91,4 +91,10 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add fillColor property for cupertinoCheckbox<br />
     <sub>[#151761](https://github.com/flutter/flutter/pull/151761) opened on on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151761) 155 additions and 5 deletions in 2 files</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; migration & enhancement for `Axis` / `AxisDirection`<br />
+    <sub>[#151771](https://github.com/flutter/flutter/pull/151771) opened on on July 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/151771) 221 additions and 151 deletions in 5 files</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry plugin_test_ios in presubmit<br />
+    <sub>[#151773](https://github.com/flutter/flutter/pull/151773) opened on on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151773) 2 additions and 0 deletions in 1 file</sub><br />
 
