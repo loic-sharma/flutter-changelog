@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-6 commits.
+7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners<br />
     <sub>[#149594](https://github.com/flutter/flutter/pull/149594) merged on July 15, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/149594) over 1 month, 275 additions and 116 deletions in 5 files</sub><br />
@@ -18,6 +18,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Launch DDS from Dart SDK and prepare to serve DevTools from DDS (#146593)"<br />
     <sub>[#151781](https://github.com/flutter/flutter/pull/151781) merged on July 15, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/151781) over 37 seconds, 747 additions and 920 deletions in 57 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry plugin_test_ios in presubmit<br />
+    <sub>[#151773](https://github.com/flutter/flutter/pull/151773) merged on July 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151773) over 2 hours, 3 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move tests on Linux/Mokey and a few others from staging to prod<br />
     <sub>[#151760](https://github.com/flutter/flutter/pull/151760) merged on July 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151760) over 2 hours, 0 additions and 38 deletions in 1 file</sub><br />
