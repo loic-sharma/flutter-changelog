@@ -678,7 +678,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland (x2) "Output .js files as ES6 modules. (flutter#52023)"<br />
-    <sub>[#53718](https://github.com/flutter/engine/pull/53718) merged on July 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53718) over 6 days, 97 additions and 146 deletions in 12 files</sub><br />
+    <sub>[#53718](https://github.com/flutter/engine/pull/53718) merged on July 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/53718) over 6 days, 97 additions and 146 deletions in 12 files</sub><br />
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 </details>
