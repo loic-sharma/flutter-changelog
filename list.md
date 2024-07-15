@@ -483,9 +483,18 @@
 
 ## flutter/engine
 
+### July 13, 2024 to July 19, 2024
+
+1 commits.
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)
+    <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
 ### July 6, 2024 to July 12, 2024
 
-43 commits.
+<details>
+<summary>43 commits...</summary>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable framebuffer fetch tests disabled on OpenGL ES.
     <sub>[#53766](https://github.com/flutter/engine/pull/53766) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53766) over 21 hours, 36 additions and 17 deletions in 6 files</sub>
@@ -659,6 +668,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland (x2) "Output .js files as ES6 modules. (flutter#52023)"
     <sub>[#53718](https://github.com/flutter/engine/pull/53718) merged on July 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53718) over 6 days, 97 additions and 146 deletions in 12 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+</details>
 
 ### June 29, 2024 to July 5, 2024
 
