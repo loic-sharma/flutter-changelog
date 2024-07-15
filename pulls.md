@@ -71,9 +71,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]SelectionArea's selection should not be cleared on loss of window focus<br />
     <sub>[#151618](https://github.com/flutter/flutter/pull/151618) opened on on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151618) 96 additions and 3 deletions in 6 files</sub><br />
 
-* **[Angelo Silvestre](https://github.com/angelosilvestre)** &mdash; Make DragGestureRecognizer abstract methods public (Resolves #151446)<br />
-    <sub>[#151627](https://github.com/flutter/flutter/pull/151627) opened on on July 12, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/151627) 143 additions and 56 deletions in 2 files</sub><br />
-
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Pass shape parameter from ExpansionTile to ListTile for respectful hover shape<br />
     <sub>[#151647](https://github.com/flutter/flutter/pull/151647) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151647) 32 additions and 0 deletions in 2 files</sub><br />
 
@@ -91,9 +88,6 @@
 
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) opened on on July 14, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/151731) 29 additions and 0 deletions in 3 files</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; migration & enhancement for `Axis` / `AxisDirection`<br />
-    <sub>[#151771](https://github.com/flutter/flutter/pull/151771) opened on on July 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/151771) 221 additions and 151 deletions in 5 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: DRY up arg helpers, use new typed arg functions<br />
     <sub>[#151784](https://github.com/flutter/flutter/pull/151784) opened on on July 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151784) 3 additions and 12 deletions in 1 file</sub><br />
