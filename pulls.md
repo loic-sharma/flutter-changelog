@@ -92,3 +92,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move tests on Linux/Mokey and a few others from staging to prod<br />
     <sub>[#151760](https://github.com/flutter/flutter/pull/151760) opened on on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151760) 0 additions and 38 deletions in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add fillColor property for cupertinoCheckbox<br />
+    <sub>[#151761](https://github.com/flutter/flutter/pull/151761) opened on on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151761) 155 additions and 5 deletions in 2 files</sub><br />
+
