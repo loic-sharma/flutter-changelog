@@ -89,9 +89,6 @@
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) opened on on July 14, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/151731) 29 additions and 0 deletions in 3 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move tests on Linux/Mokey and a few others from staging to prod<br />
-    <sub>[#151760](https://github.com/flutter/flutter/pull/151760) opened on on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151760) 0 additions and 38 deletions in 1 file</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add fillColor property for cupertinoCheckbox<br />
     <sub>[#151761](https://github.com/flutter/flutter/pull/151761) opened on on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151761) 155 additions and 5 deletions in 2 files</sub><br />
 
