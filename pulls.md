@@ -89,9 +89,6 @@
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) opened on on July 14, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/151731) 29 additions and 0 deletions in 3 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add fillColor property for cupertinoCheckbox<br />
-    <sub>[#151761](https://github.com/flutter/flutter/pull/151761) opened on on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151761) 155 additions and 5 deletions in 2 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; migration & enhancement for `Axis` / `AxisDirection`<br />
     <sub>[#151771](https://github.com/flutter/flutter/pull/151771) opened on on July 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/151771) 221 additions and 151 deletions in 5 files</sub><br />
 
