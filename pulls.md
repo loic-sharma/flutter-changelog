@@ -95,6 +95,3 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; migration & enhancement for `Axis` / `AxisDirection`<br />
     <sub>[#151771](https://github.com/flutter/flutter/pull/151771) opened on on July 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/151771) 221 additions and 151 deletions in 5 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add example for `CupertinoCheckbox`<br />
-    <sub>[#151779](https://github.com/flutter/flutter/pull/151779) opened on on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151779) 100 additions and 0 deletions in 3 files</sub><br />
-
