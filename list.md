@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-7 commits.
+8 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners
     <sub>[#149594](https://github.com/flutter/flutter/pull/149594) merged on July 15, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/149594) over 1 month, 275 additions and 116 deletions in 5 files</sub>
@@ -14,6 +14,11 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Launch DDS from Dart SDK and prepare to serve DevTools from DDS
     <sub>[#146593](https://github.com/flutter/flutter/pull/146593) merged on July 15, 2024 &mdash; **Extra large:** [41 comments](https://github.com/flutter/flutter/pull/146593) over 3 months, 920 additions and 747 deletions in 57 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[arbaker2](https://github.com/arbaker2)** &mdash; Add support for inverting CircularNotchedRectangle to optionally be drawn on the bottom of a path
+    <sub>[#151386](https://github.com/flutter/flutter/pull/151386) merged on July 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/151386) over 1 week, 62 additions and 16 deletions in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+    <sub><details><summary>1 image...</summary>![Simulator Screenshot - iPhone 15 - 2024-07-07 at 11 46 12](https://github.com/flutter/flutter/assets/71237742/57c1370d-19dd-4f65-aa85-f15723a4843b)</details></sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Launch DDS from Dart SDK and prepare to serve DevTools from DDS (#146593)"
     <sub>[#151781](https://github.com/flutter/flutter/pull/151781) merged on July 15, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/151781) over 37 seconds, 747 additions and 920 deletions in 57 files</sub>
