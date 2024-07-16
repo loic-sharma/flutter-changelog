@@ -7,7 +7,7 @@
 15 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`
-    <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
+    <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
     <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary><img width="476" alt="Screenshot 2024-07-11 at 13 25 05" src="https://github.com/flutter/flutter/assets/48603081/f9f3f6c6-443d-4bd5-81d4-5e314554b032"><img width="476" alt="Screenshot 2024-07-11 at 13 24 40" src="https://github.com/flutter/flutter/assets/48603081/aea0717b-e852-4b8d-b703-c8c4999d4863"></details></sub>
 
@@ -539,7 +539,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-6 commits.
+7 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)
     <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub>
@@ -552,6 +552,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Move images to flutter/assets-for-api-docs
     <sub>[#53917](https://github.com/flutter/engine/pull/53917) merged on July 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53917) over 1 hour, 48 additions and 47 deletions in 63 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate archive_gen_snapshot target
+    <sub>[#53948](https://github.com/flutter/engine/pull/53948) merged on July 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53948) over 42 minutes, 5 additions and 21 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete gen_snapshot_armv7 support
     <sub>[#53947](https://github.com/flutter/engine/pull/53947) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53947) over 37 minutes, 0 additions and 10 deletions in 2 files</sub>
