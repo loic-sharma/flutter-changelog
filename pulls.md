@@ -89,3 +89,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Fix typo in data driven fixes test folder section<br />
     <sub>[#151836](https://github.com/flutter/flutter/pull/151836) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151836) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Fix typo in clipboard.dart<br />
+    <sub>[#151844](https://github.com/flutter/flutter/pull/151844) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151844) 1 addition and 1 deletion in 1 file</sub><br />
+
