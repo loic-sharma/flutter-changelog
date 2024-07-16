@@ -89,3 +89,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `CupertinoSlidingSegmentedControl` type parameter non-null<br />
     <sub>[#151803](https://github.com/flutter/flutter/pull/151803) opened on on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151803) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[天下我最笨](https://github.com/xiongzhaowei)** &mdash; fix a bug for futurebuilder, example:<br />
+    <sub>[#151804](https://github.com/flutter/flutter/pull/151804) opened on on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151804) 21 additions and 3 deletions in 1 file</sub><br />
+
