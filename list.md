@@ -142,6 +142,10 @@
     <sub>[#151565](https://github.com/flutter/flutter/pull/151565) merged on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151565) over 22 hours, 0 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Emit source maps for wasm in `flutter build web --wasm`
+    <sub>[#151643](https://github.com/flutter/flutter/pull/151643) merged on July 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151643) over 22 hours, 74 additions and 60 deletions in 4 files</sub>
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update doc of `SemanticsProperties.identifier`
     <sub>[#149915](https://github.com/flutter/flutter/pull/149915) merged on July 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/149915) over 1 month, 3 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Yegor](https://github.com/yjbanov), [chunhtai](https://github.com/chunhtai)</sub>
@@ -153,10 +157,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for action_listener.0.dart
     <sub>[#150606](https://github.com/flutter/flutter/pull/150606) merged on July 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/150606) over 2 weeks, 50 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
-
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Emit source maps for wasm in `flutter build web --wasm`
-    <sub>[#151643](https://github.com/flutter/flutter/pull/151643) merged on July 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151643) over 22 hours, 74 additions and 60 deletions in 4 files</sub>
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Roll deps
     <sub>[#151662](https://github.com/flutter/flutter/pull/151662) merged on July 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151662) over 14 hours, 10 additions and 10 deletions in 4 files</sub>
