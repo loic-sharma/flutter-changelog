@@ -553,13 +553,13 @@
     <sub>[#53917](https://github.com/flutter/engine/pull/53917) merged on July 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53917) over 1 hour, 48 additions and 47 deletions in 63 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate archive_gen_snapshot target<br />
-    <sub>[#53948](https://github.com/flutter/engine/pull/53948) merged on July 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53948) over 42 minutes, 5 additions and 21 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete gen_snapshot_armv7 support<br />
     <sub>[#53947](https://github.com/flutter/engine/pull/53947) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53947) over 37 minutes, 0 additions and 10 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate archive_gen_snapshot target<br />
+    <sub>[#53948](https://github.com/flutter/engine/pull/53948) merged on July 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53948) over 42 minutes, 5 additions and 21 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; More logs for Android unsatisfiedLinkError<br />
     <sub>[#53920](https://github.com/flutter/engine/pull/53920) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53920) over 21 hours, 25 additions and 2 deletions in 2 files</sub><br />
@@ -886,7 +886,7 @@
 1 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.<br />
-    <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub><br />
+    <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 ### July 6, 2024 to July 12, 2024
