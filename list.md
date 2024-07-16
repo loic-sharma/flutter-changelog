@@ -7,7 +7,7 @@
 15 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`
-    <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
+    <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
     <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary><img width="476" alt="Screenshot 2024-07-11 at 13 25 05" src="https://github.com/flutter/flutter/assets/48603081/f9f3f6c6-443d-4bd5-81d4-5e314554b032"><img width="476" alt="Screenshot 2024-07-11 at 13 24 40" src="https://github.com/flutter/flutter/assets/48603081/aea0717b-e852-4b8d-b703-c8c4999d4863"></details></sub>
 
