@@ -7,7 +7,7 @@
 15 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`
-    <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
+    <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
     <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary><img width="476" alt="Screenshot 2024-07-11 at 13 25 05" src="https://github.com/flutter/flutter/assets/48603081/f9f3f6c6-443d-4bd5-81d4-5e314554b032"><img width="476" alt="Screenshot 2024-07-11 at 13 24 40" src="https://github.com/flutter/flutter/assets/48603081/aea0717b-e852-4b8d-b703-c8c4999d4863"></details></sub>
 
@@ -539,11 +539,15 @@
 
 ### July 13, 2024 to July 19, 2024
 
-4 commits.
+5 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)
     <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix unexpected scrolling in semantics
+    <sub>[#53922](https://github.com/flutter/engine/pull/53922) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53922) over 20 hours, 59 additions and 43 deletions in 13 files</sub>
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Move images to flutter/assets-for-api-docs
     <sub>[#53917](https://github.com/flutter/engine/pull/53917) merged on July 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53917) over 1 hour, 48 additions and 47 deletions in 63 files</sub>
