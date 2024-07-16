@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-11 commits.
+12 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners
     <sub>[#149594](https://github.com/flutter/flutter/pull/149594) merged on July 15, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/149594) over 1 month, 275 additions and 116 deletions in 5 files</sub>
@@ -43,6 +43,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove bringup from platform_views_scroll_perf_bottom_ad_banner__timeline_summary
     <sub>[#151617](https://github.com/flutter/flutter/pull/151617) merged on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151617) over 3 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add example for `CupertinoCheckbox`
+    <sub>[#151779](https://github.com/flutter/flutter/pull/151779) merged on July 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151779) over 22 hours, 102 additions and 0 deletions in 3 files</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#151816](https://github.com/flutter/flutter/pull/151816) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151816) over 1 hour, 133 additions and 133 deletions in 64 files</sub>
@@ -853,7 +857,7 @@
 1 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.
-    <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub>
+    <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### July 6, 2024 to July 12, 2024
