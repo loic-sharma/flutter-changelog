@@ -548,7 +548,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-8 commits.
+9 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)<br />
     <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub><br />
@@ -581,6 +581,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use depth transform in framebuffer blend entities.<br />
     <sub>[#53951](https://github.com/flutter/engine/pull/53951) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53951) over 1 hour, 32 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from b44d99ea2bf4 to 7368b1d084b0 (12 revisions)<br />
+    <sub>[#53949](https://github.com/flutter/engine/pull/53949) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53949) over 2 hours, 16 additions and 16 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### July 6, 2024 to July 12, 2024
 
