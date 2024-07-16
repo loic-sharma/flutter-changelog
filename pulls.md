@@ -92,6 +92,3 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Fix typo in clipboard.dart<br />
     <sub>[#151844](https://github.com/flutter/flutter/pull/151844) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151844) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove conditionality in templates that was for AGP <= 4.2 support<br />
-    <sub>[#151845](https://github.com/flutter/flutter/pull/151845) opened on on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151845) 3 additions and 28 deletions in 4 files</sub><br />
-
