@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-12 commits.
+13 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners
     <sub>[#149594](https://github.com/flutter/flutter/pull/149594) merged on July 15, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/149594) over 1 month, 275 additions and 116 deletions in 5 files</sub>
@@ -43,6 +43,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove bringup from platform_views_scroll_perf_bottom_ad_banner__timeline_summary
     <sub>[#151617](https://github.com/flutter/flutter/pull/151617) merged on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151617) over 3 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add `semanticLabel` to `CupertinoCheckbox`
+    <sub>[#151789](https://github.com/flutter/flutter/pull/151789) merged on July 16, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151789) over 20 hours, 66 additions and 4 deletions in 6 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add example for `CupertinoCheckbox`
     <sub>[#151779](https://github.com/flutter/flutter/pull/151779) merged on July 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151779) over 22 hours, 102 additions and 0 deletions in 3 files</sub>
