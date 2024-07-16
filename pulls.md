@@ -86,3 +86,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Update doc for scale behaviour of floating label<br />
     <sub>[#151835](https://github.com/flutter/flutter/pull/151835) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151835) 4 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Fix typo in data driven fixes test folder section<br />
+    <sub>[#151836](https://github.com/flutter/flutter/pull/151836) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151836) 1 addition and 1 deletion in 1 file</sub><br />
+
