@@ -530,7 +530,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-3 commits.
+4 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)<br />
     <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub><br />
@@ -539,6 +539,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Move images to flutter/assets-for-api-docs<br />
     <sub>[#53917](https://github.com/flutter/engine/pull/53917) merged on July 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53917) over 1 hour, 48 additions and 47 deletions in 63 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; More logs for Android unsatisfiedLinkError<br />
+    <sub>[#53920](https://github.com/flutter/engine/pull/53920) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53920) over 21 hours, 25 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Align `tools/android_sdk/packages.txt` with what is uploaded to CIPD<br />
     <sub>[#53921](https://github.com/flutter/engine/pull/53921) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53921) over 46 minutes, 1 addition and 1 deletion in 1 file</sub><br />
