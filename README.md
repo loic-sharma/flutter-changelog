@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-10 commits.
+11 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners<br />
     <sub>[#149594](https://github.com/flutter/flutter/pull/149594) merged on July 15, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/149594) over 1 month, 275 additions and 116 deletions in 5 files</sub><br />
@@ -19,6 +19,10 @@
     <sub>[#151386](https://github.com/flutter/flutter/pull/151386) merged on July 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/151386) over 1 week, 62 additions and 16 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
     <sub><details><summary>1 image...</summary>![Simulator Screenshot - iPhone 15 - 2024-07-07 at 11 46 12](https://github.com/flutter/flutter/assets/71237742/57c1370d-19dd-4f65-aa85-f15723a4843b)</details></sub>
+
+* **[Seth Ladd](https://github.com/sethladd)** &mdash; Update Design-Documents.md<br />
+    <sub>[#151472](https://github.com/flutter/flutter/pull/151472) merged on July 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151472) over 6 days, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Launch DDS from Dart SDK and prepare to serve DevTools from DDS (#146593)"<br />
     <sub>[#151781](https://github.com/flutter/flutter/pull/151781) merged on July 15, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/151781) over 37 seconds, 747 additions and 920 deletions in 57 files</sub><br />
