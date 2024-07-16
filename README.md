@@ -622,6 +622,10 @@
     <sub>[#53783](https://github.com/flutter/engine/pull/53783) merged on July 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53783) over 1 hour, 0 additions and 253 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix platform view placement.<br />
+    <sub>[#53845](https://github.com/flutter/engine/pull/53845) merged on July 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53845) over 2 hours, 81 additions and 58 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
 * **[Dustin Green](https://github.com/dustingreen)** &mdash; [fuchsia][sysmem2] move to sysmem2 protocols<br />
     <sub>[#53138](https://github.com/flutter/engine/pull/53138) merged on July 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53138) over 1 month, 110 additions and 99 deletions in 12 files</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
@@ -642,28 +646,12 @@
     <sub>[#53828](https://github.com/flutter/engine/pull/53828) merged on July 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53828) over 53 minutes, 7 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add instructions for source debugging with Xcode when using RBE.<br />
-    <sub>[#53822](https://github.com/flutter/engine/pull/53822) merged on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53822) over 38 minutes, 8 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add a host_debug_unopt local engine config for Windows.<br />
     <sub>[#53734](https://github.com/flutter/engine/pull/53734) merged on July 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53734) over 4 days, 26 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update docs that specify how to select the Impeller backend.<br />
     <sub>[#53788](https://github.com/flutter/engine/pull/53788) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53788) over 51 minutes, 20 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Avoid using a private GTest macro to skip tests.<br />
-    <sub>[#53782](https://github.com/flutter/engine/pull/53782) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53782) over 38 minutes, 28 additions and 26 deletions in 10 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Disable OpenGL dithering by default.<br />
-    <sub>[#53768](https://github.com/flutter/engine/pull/53768) merged on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53768) over 19 hours, 1 addition and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix markdown formatting for blocks with tips.<br />
-    <sub>[#53789](https://github.com/flutter/engine/pull/53789) merged on July 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53789) over 6 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Validation errors in tests cause GTest failures.<br />
@@ -674,29 +662,41 @@
     <sub>[#53784](https://github.com/flutter/engine/pull/53784) merged on July 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53784) over 1 hour, 18 additions and 17 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "dart:ui - drop deprecated hash functions (#53787)"<br />
-    <sub>[#53794](https://github.com/flutter/engine/pull/53794) merged on July 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53794) over 1 minute, 173 additions and 1 deletion in 5 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Disable OpenGL dithering by default.<br />
+    <sub>[#53768](https://github.com/flutter/engine/pull/53768) merged on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53768) over 19 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "web_ui: drop internal hash code library (#53783)"<br />
-    <sub>[#53793](https://github.com/flutter/engine/pull/53793) merged on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53793) over 1 minute, 253 additions and 0 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Avoid using a private GTest macro to skip tests.<br />
+    <sub>[#53782](https://github.com/flutter/engine/pull/53782) merged on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53782) over 38 minutes, 28 additions and 26 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Add instructions for source debugging with Xcode when using RBE.<br />
+    <sub>[#53822](https://github.com/flutter/engine/pull/53822) merged on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53822) over 38 minutes, 8 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Fix markdown formatting for blocks with tips.<br />
+    <sub>[#53789](https://github.com/flutter/engine/pull/53789) merged on July 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53789) over 6 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Drop self-references to hash functions from doc comments<br />
     <sub>[#53844](https://github.com/flutter/engine/pull/53844) merged on July 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53844) over 9 hours, 12 additions and 23 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix platform view placement.<br />
-    <sub>[#53845](https://github.com/flutter/engine/pull/53845) merged on July 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53845) over 2 hours, 81 additions and 58 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Remove casts for toDartObject<br />
     <sub>[#53621](https://github.com/flutter/engine/pull/53621) merged on July 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53621) over 1 week, 5 additions and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "dart:ui - drop deprecated hash functions (#53787)"<br />
+    <sub>[#53794](https://github.com/flutter/engine/pull/53794) merged on July 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53794) over 1 minute, 173 additions and 1 deletion in 5 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert 4 Dart rolls (726cb2467 -> ffc8bb004) to recover engine roll<br />
     <sub>[#53778](https://github.com/flutter/engine/pull/53778) merged on July 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53778) over 17 minutes, 25 additions and 31 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "web_ui: drop internal hash code library (#53783)"<br />
+    <sub>[#53793](https://github.com/flutter/engine/pull/53793) merged on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53793) over 1 minute, 253 additions and 0 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from ffc8bb004a64 to dba0dfbd06eb (23 revisions)<br />
     <sub>[#53791](https://github.com/flutter/engine/pull/53791) merged on July 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53791) over 50 minutes, 31 additions and 25 deletions in 3 files</sub><br />
