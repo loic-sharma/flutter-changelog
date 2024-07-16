@@ -83,6 +83,3 @@
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Remove redundant assignment of geometry<br />
     <sub>[#151821](https://github.com/flutter/flutter/pull/151821) opened on on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151821) 2 additions and 14 deletions in 2 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; When overall timeout is 60 minutes, increase test timeout from the default<br />
-    <sub>[#151824](https://github.com/flutter/flutter/pull/151824) opened on on July 16, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/151824) 411 additions and 22 deletions in 1 file</sub><br />
-
