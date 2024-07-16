@@ -95,6 +95,3 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove conditionality in templates that was for AGP <= 4.2 support<br />
     <sub>[#151845](https://github.com/flutter/flutter/pull/151845) opened on on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151845) 3 additions and 28 deletions in 4 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: Selectable's under the active selection should not be cleared on right-click<br />
-    <sub>[#151851](https://github.com/flutter/flutter/pull/151851) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151851) 77 additions and 1 deletion in 2 files</sub><br />
-
