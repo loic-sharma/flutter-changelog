@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-15 commits.
+17 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`<br />
     <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub><br />
@@ -24,6 +24,15 @@
     <sub>[#151386](https://github.com/flutter/flutter/pull/151386) merged on July 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/151386) over 1 week, 62 additions and 16 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
     <sub><details><summary>1 image...</summary>![Simulator Screenshot - iPhone 15 - 2024-07-07 at 11 46 12](https://github.com/flutter/flutter/assets/71237742/57c1370d-19dd-4f65-aa85-f15723a4843b)</details></sub>
+
+* **[n7484443](https://github.com/n7484443)** &mdash; chore: fix typo korean, cutButtonLabel<br />
+    <sub>[#151364](https://github.com/flutter/flutter/pull/151364) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151364) over 1 week, 24 additions and 4 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/flutter/flutter/assets/7384324/34845c96-4e7a-4f95-a44c-19f9917f4a6c)</details></sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove conditionality in templates that was for AGP <= 4.2 support<br />
+    <sub>[#151845](https://github.com/flutter/flutter/pull/151845) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151845) over 3 hours, 3 additions and 28 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Seth Ladd](https://github.com/sethladd)** &mdash; Update Design-Documents.md<br />
     <sub>[#151472](https://github.com/flutter/flutter/pull/151472) merged on July 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151472) over 6 days, 3 additions and 3 deletions in 1 file</sub><br />
