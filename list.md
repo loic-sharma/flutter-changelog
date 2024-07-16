@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-8 commits.
+9 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners
     <sub>[#149594](https://github.com/flutter/flutter/pull/149594) merged on July 15, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/149594) over 1 month, 275 additions and 116 deletions in 5 files</sub>
@@ -23,6 +23,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Launch DDS from Dart SDK and prepare to serve DevTools from DDS (#146593)"
     <sub>[#151781](https://github.com/flutter/flutter/pull/151781) merged on July 15, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/151781) over 37 seconds, 747 additions and 920 deletions in 57 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for curve2_d.0.dart
+    <sub>[#150984](https://github.com/flutter/flutter/pull/150984) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150984) over 2 weeks, 40 additions and 11 deletions in 3 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry plugin_test_ios in presubmit
     <sub>[#151773](https://github.com/flutter/flutter/pull/151773) merged on July 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151773) over 2 hours, 3 additions and 0 deletions in 1 file</sub>
