@@ -892,11 +892,15 @@
 
 ### July 13, 2024 to July 19, 2024
 
-1 commits.
+2 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.<br />
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] convert productRequestHandlerTests to swift<br />
+    <sub>[#7049](https://github.com/flutter/packages/pull/7049) merged on July 16, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/7049) over 2 weeks, 153 additions and 151 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 ### July 6, 2024 to July 12, 2024
 
