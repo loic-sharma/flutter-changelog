@@ -4,7 +4,12 @@
 
 ### July 13, 2024 to July 19, 2024
 
-13 commits.
+15 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`
+    <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
+    <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+    <sub><details><summary>2 images...</summary><img width="476" alt="Screenshot 2024-07-11 at 13 25 05" src="https://github.com/flutter/flutter/assets/48603081/f9f3f6c6-443d-4bd5-81d4-5e314554b032"><img width="476" alt="Screenshot 2024-07-11 at 13 24 40" src="https://github.com/flutter/flutter/assets/48603081/aea0717b-e852-4b8d-b703-c8c4999d4863"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb doesn't align with divisions, thumb padding, and rounded corners
     <sub>[#149594](https://github.com/flutter/flutter/pull/149594) merged on July 15, 2024 &mdash; **Medium:** [33 comments](https://github.com/flutter/flutter/pull/149594) over 1 month, 275 additions and 116 deletions in 5 files</sub>
@@ -27,6 +32,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Launch DDS from Dart SDK and prepare to serve DevTools from DDS (#146593)"
     <sub>[#151781](https://github.com/flutter/flutter/pull/151781) merged on July 15, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/151781) over 37 seconds, 747 additions and 920 deletions in 57 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[John Stef](https://github.com/johnstef99)** &mdash; Add borderRadius property to PopupMenuButton
+    <sub>[#151228](https://github.com/flutter/flutter/pull/151228) merged on July 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/151228) over 1 week, 50 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for curve2_d.0.dart
     <sub>[#150984](https://github.com/flutter/flutter/pull/150984) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150984) over 2 weeks, 40 additions and 11 deletions in 3 files</sub>
