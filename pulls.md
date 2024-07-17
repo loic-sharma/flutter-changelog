@@ -80,6 +80,3 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update TESTOWNERS<br />
     <sub>[#151907](https://github.com/flutter/flutter/pull/151907) opened on on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151907) 11 additions and 11 deletions in 1 file</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] use the new backlog Github project in triage links<br />
-    <sub>[#151920](https://github.com/flutter/flutter/pull/151920) opened on on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151920) 2 additions and 2 deletions in 1 file</sub><br />
-
