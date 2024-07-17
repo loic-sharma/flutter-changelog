@@ -968,11 +968,21 @@
 
 ### July 13, 2024 to July 19, 2024
 
-3 commits.
+5 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump com.android.tools.build:gradle from 7.2.1 to 8.5.1 in /packages/image_picker/image_picker_android/android
+    <sub>[#7121](https://github.com/flutter/packages/pull/7121) merged on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7121) over 2 days, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.2.1&new-version=8.5.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [url_launcher]: Bump com.android.tools.build:gradle from 7.3.0 to 8.5.1 in /packages/url_launcher/url_launcher_android/android
+    <sub>[#7128](https://github.com/flutter/packages/pull/7128) merged on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7128) over 2 days, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.0&new-version=8.5.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] do not append sample buffer when readyForMoreMediaData is NO to avoid crash
     <sub>[#6901](https://github.com/flutter/packages/pull/6901) merged on July 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6901) over 1 month, 72 additions and 13 deletions in 4 files</sub>
