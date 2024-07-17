@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-19 commits.
+20 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`<br />
     <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub><br />
@@ -45,6 +45,10 @@
 * **[John Stef](https://github.com/johnstef99)** &mdash; Add borderRadius property to PopupMenuButton<br />
     <sub>[#151228](https://github.com/flutter/flutter/pull/151228) merged on July 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/151228) over 1 week, 50 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Support legacy buttons<br />
+    <sub>[#151136](https://github.com/flutter/flutter/pull/151136) merged on July 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151136) over 2 weeks, 97 additions and 8 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for curve2_d.0.dart<br />
     <sub>[#150984](https://github.com/flutter/flutter/pull/150984) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150984) over 2 weeks, 40 additions and 11 deletions in 3 files</sub><br />
