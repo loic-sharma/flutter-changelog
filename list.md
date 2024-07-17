@@ -980,11 +980,15 @@
 
 ### July 13, 2024 to July 19, 2024
 
-7 commits.
+8 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Migrate InAppPurchasePluginTests.m to. Swift
+    <sub>[#7105](https://github.com/flutter/packages/pull/7105) merged on July 17, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7105) over 5 days, 894 additions and 1023 deletions in 12 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump com.android.tools.build:gradle from 7.3.1 to 8.5.1 in /packages/in_app_purchase/in_app_purchase_android/android
     <sub>[#7120](https://github.com/flutter/packages/pull/7120) merged on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7120) over 2 days, 6 additions and 2 deletions in 3 files</sub>
