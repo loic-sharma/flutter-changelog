@@ -12,7 +12,7 @@
     <sub>[#150410](https://github.com/flutter/flutter/pull/150410) opened on on June 18, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/150410) 473 additions and 1251 deletions in 2 files</sub><br />
 
 * **[flyboy](https://github.com/hello-coder-xu)** &mdash; Add `ListTileControlAffinity` to `ListTileTheme`<br />
-    <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/150695) 216 additions and 41 deletions in 9 files</sub><br />
+    <sub>[#150695](https://github.com/flutter/flutter/pull/150695) opened on on June 24, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/150695) 216 additions and 41 deletions in 9 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] make flutter create use --offline in SPM integration tests<br />
     <sub>[#150737](https://github.com/flutter/flutter/pull/150737) opened on on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150737) 1 addition and 0 deletions in 1 file</sub><br />
