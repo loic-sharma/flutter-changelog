@@ -68,9 +68,6 @@
 * **[天下我最笨](https://github.com/xiongzhaowei)** &mdash; fix a bug for futurebuilder, example:<br />
     <sub>[#151804](https://github.com/flutter/flutter/pull/151804) opened on on July 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151804) 43 additions and 3 deletions in 2 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Constrain `CupertinoContextMenu` animation to safe area <br />
-    <sub>[#151860](https://github.com/flutter/flutter/pull/151860) opened on on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151860) 112 additions and 6 deletions in 2 files</sub><br />
-
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Fix the type of `RenderTable.get rowDecorations`.<br />
     <sub>[#151886](https://github.com/flutter/flutter/pull/151886) opened on on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151886) 1 addition and 1 deletion in 1 file</sub><br />
 
