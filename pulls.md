@@ -77,9 +77,6 @@
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Remove redundant assignment of geometry<br />
     <sub>[#151821](https://github.com/flutter/flutter/pull/151821) opened on on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151821) 2 additions and 14 deletions in 2 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Update doc for scale behaviour of floating label<br />
-    <sub>[#151835](https://github.com/flutter/flutter/pull/151835) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151835) 4 additions and 0 deletions in 1 file</sub><br />
-
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Constrain `CupertinoContextMenu` animation to safe area <br />
     <sub>[#151860](https://github.com/flutter/flutter/pull/151860) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151860) 112 additions and 6 deletions in 2 files</sub><br />
 
