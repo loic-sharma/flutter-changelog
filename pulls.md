@@ -71,9 +71,6 @@
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) opened on on July 14, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/151731) 29 additions and 0 deletions in 3 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: DRY up arg helpers, use new typed arg functions<br />
-    <sub>[#151784](https://github.com/flutter/flutter/pull/151784) opened on on July 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151784) 3 additions and 12 deletions in 1 file</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `CupertinoSlidingSegmentedControl` type parameter non-null<br />
     <sub>[#151803](https://github.com/flutter/flutter/pull/151803) opened on on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151803) 4 additions and 4 deletions in 1 file</sub><br />
 
