@@ -34,6 +34,10 @@
     <sub>[#151845](https://github.com/flutter/flutter/pull/151845) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151845) over 3 hours, 3 additions and 28 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
+* **[John Stef](https://github.com/johnstef99)** &mdash; Add borderRadius property to PopupMenuButton<br />
+    <sub>[#151228](https://github.com/flutter/flutter/pull/151228) merged on July 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/151228) over 1 week, 50 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[Seth Ladd](https://github.com/sethladd)** &mdash; Update Design-Documents.md<br />
     <sub>[#151472](https://github.com/flutter/flutter/pull/151472) merged on July 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151472) over 6 days, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -41,10 +45,6 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Launch DDS from Dart SDK and prepare to serve DevTools from DDS (#146593)"<br />
     <sub>[#151781](https://github.com/flutter/flutter/pull/151781) merged on July 15, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/151781) over 37 seconds, 747 additions and 920 deletions in 57 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[John Stef](https://github.com/johnstef99)** &mdash; Add borderRadius property to PopupMenuButton<br />
-    <sub>[#151228](https://github.com/flutter/flutter/pull/151228) merged on July 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/151228) over 1 week, 50 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Support legacy buttons<br />
     <sub>[#151136](https://github.com/flutter/flutter/pull/151136) merged on July 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151136) over 2 weeks, 97 additions and 8 deletions in 2 files</sub><br />
