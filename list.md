@@ -940,11 +940,15 @@
 
 ### July 13, 2024 to July 19, 2024
 
-2 commits.
+3 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] do not append sample buffer when readyForMoreMediaData is NO to avoid crash
+    <sub>[#6901](https://github.com/flutter/packages/pull/6901) merged on July 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6901) over 1 month, 72 additions and 13 deletions in 4 files</sub>
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] convert productRequestHandlerTests to swift
     <sub>[#7049](https://github.com/flutter/packages/pull/7049) merged on July 16, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/7049) over 2 weeks, 153 additions and 151 deletions in 9 files</sub>
