@@ -71,3 +71,6 @@
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Fix the type of `RenderTable.get rowDecorations`.<br />
     <sub>[#151886](https://github.com/flutter/flutter/pull/151886) opened on on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151886) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#151904](https://github.com/flutter/flutter/pull/151904) opened on on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151904) 2 additions and 2 deletions in 1 file</sub><br />
+
