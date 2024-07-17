@@ -992,11 +992,15 @@
 
 ### July 13, 2024 to July 19, 2024
 
-8 commits.
+9 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; Modernize all `index.html` files to support WASM
+    <sub>[#7114](https://github.com/flutter/packages/pull/7114) merged on July 17, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7114) over 5 days, 22 additions and 345 deletions in 21 files</sub>
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [David Iglesias](https://github.com/ditman), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Migrate InAppPurchasePluginTests.m to. Swift
     <sub>[#7105](https://github.com/flutter/packages/pull/7105) merged on July 17, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7105) over 5 days, 894 additions and 1023 deletions in 12 files</sub>
