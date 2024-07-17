@@ -92,3 +92,6 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Fix typo in clipboard.dart<br />
     <sub>[#151844](https://github.com/flutter/flutter/pull/151844) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151844) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Constrain `CupertinoContextMenu` animation to safe area <br />
+    <sub>[#151860](https://github.com/flutter/flutter/pull/151860) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151860) 112 additions and 6 deletions in 2 files</sub><br />
+
