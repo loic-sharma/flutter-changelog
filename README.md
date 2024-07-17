@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-21 commits.
+22 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`<br />
     <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub><br />
@@ -65,6 +65,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove bringup from platform_views_scroll_perf_bottom_ad_banner__timeline_summary<br />
     <sub>[#151617](https://github.com/flutter/flutter/pull/151617) merged on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151617) over 3 days, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove unnecessary parens in test<br />
+    <sub>[#151846](https://github.com/flutter/flutter/pull/151846) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151846) over 14 hours, 4 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#151864](https://github.com/flutter/flutter/pull/151864) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151864) over 10 hours, 2 additions and 2 deletions in 1 file</sub><br />
