@@ -548,7 +548,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-9 commits.
+10 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)<br />
     <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub><br />
@@ -565,6 +565,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete gen_snapshot_armv7 support<br />
     <sub>[#53947](https://github.com/flutter/engine/pull/53947) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53947) over 37 minutes, 0 additions and 10 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Set touch-action:none in embedded views.<br />
+    <sub>[#53945](https://github.com/flutter/engine/pull/53945) merged on July 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53945) over 6 hours, 9 additions and 18 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate archive_gen_snapshot target<br />
     <sub>[#53948](https://github.com/flutter/engine/pull/53948) merged on July 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53948) over 42 minutes, 5 additions and 21 deletions in 2 files</sub><br />
@@ -903,7 +907,7 @@
 2 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.<br />
-    <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub><br />
+    <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] convert productRequestHandlerTests to swift<br />
