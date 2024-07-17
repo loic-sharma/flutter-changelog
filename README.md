@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-18 commits.
+19 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`<br />
     <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub><br />
@@ -61,6 +61,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove bringup from platform_views_scroll_perf_bottom_ad_banner__timeline_summary<br />
     <sub>[#151617](https://github.com/flutter/flutter/pull/151617) merged on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151617) over 3 days, 0 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Add haptic feedback<br />
+    <sub>[#151420](https://github.com/flutter/flutter/pull/151420) merged on July 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151420) over 1 week, 76 additions and 8 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; flutter_tool: DRY up arg helpers, use new typed arg functions<br />
     <sub>[#151784](https://github.com/flutter/flutter/pull/151784) merged on July 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151784) over 1 day, 3 additions and 12 deletions in 1 file</sub><br />
