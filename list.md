@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-32 commits.
+33 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Create `CarouselView` widget - Part 2
     <sub>[#149775](https://github.com/flutter/flutter/pull/149775) merged on July 17, 2024 &mdash; **Extra large:** [91 comments](https://github.com/flutter/flutter/pull/149775) over 1 month, 1761 additions and 118 deletions in 4 files</sub>
@@ -137,6 +137,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; tool/build/web: move source-maps CLI flag to "general" web section
     <sub>[#151722](https://github.com/flutter/flutter/pull/151722) merged on July 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151722) over 1 day, 6 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix InputDecorator hint default text style on M3
+    <sub>[#150835](https://github.com/flutter/flutter/pull/150835) merged on July 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150835) over 3 weeks, 13 additions and 25 deletions in 2 files</sub>
+    <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 ### July 6, 2024 to July 12, 2024
 
@@ -608,7 +612,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-12 commits.
+13 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)
     <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub>
@@ -625,6 +629,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete gen_snapshot_armv7 support
     <sub>[#53947](https://github.com/flutter/engine/pull/53947) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53947) over 37 minutes, 0 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Add doc comments to build/archives/BUILD.gn
+    <sub>[#53973](https://github.com/flutter/engine/pull/53973) merged on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53973) over 1 hour, 7 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Archive universal gen_snapshot binaries
     <sub>[#53962](https://github.com/flutter/engine/pull/53962) merged on July 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53962) over 2 hours, 7 additions and 6 deletions in 1 file</sub>
@@ -972,7 +980,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-6 commits.
+7 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub>
@@ -996,6 +1004,10 @@
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] do not append sample buffer when readyForMoreMediaData is NO to avoid crash
     <sub>[#6901](https://github.com/flutter/packages/pull/6901) merged on July 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6901) over 1 month, 72 additions and 13 deletions in 4 files</sub>
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Drive tests with html renderer if CHANNEL is stable.
+    <sub>[#7146](https://github.com/flutter/packages/pull/7146) merged on July 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7146) over 20 hours, 62 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] convert productRequestHandlerTests to swift
     <sub>[#7049](https://github.com/flutter/packages/pull/7049) merged on July 16, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/7049) over 2 weeks, 153 additions and 151 deletions in 9 files</sub>
