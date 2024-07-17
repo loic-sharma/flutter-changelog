@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-22 commits.
+23 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`
     <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
@@ -19,6 +19,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Launch DDS from Dart SDK and prepare to serve DevTools from DDS
     <sub>[#146593](https://github.com/flutter/flutter/pull/146593) merged on July 15, 2024 &mdash; **Extra large:** [41 comments](https://github.com/flutter/flutter/pull/146593) over 3 months, 920 additions and 747 deletions in 57 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[flyboy](https://github.com/hello-coder-xu)** &mdash; Add `ListTileControlAffinity` to `ListTileTheme`
+    <sub>[#150695](https://github.com/flutter/flutter/pull/150695) merged on July 17, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/150695) over 3 weeks, 216 additions and 41 deletions in 9 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[arbaker2](https://github.com/arbaker2)** &mdash; Add support for inverting CircularNotchedRectangle to optionally be drawn on the bottom of a path
     <sub>[#151386](https://github.com/flutter/flutter/pull/151386) merged on July 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/151386) over 1 week, 62 additions and 16 deletions in 2 files</sub>
