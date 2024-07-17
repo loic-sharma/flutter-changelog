@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-31 commits.
+32 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Create `CarouselView` widget - Part 2
     <sub>[#149775](https://github.com/flutter/flutter/pull/149775) merged on July 17, 2024 &mdash; **Extra large:** [91 comments](https://github.com/flutter/flutter/pull/149775) over 1 month, 1761 additions and 118 deletions in 4 files</sub>
@@ -57,6 +57,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Launch DDS from Dart SDK and prepare to serve DevTools from DDS (#146593)"
     <sub>[#151781](https://github.com/flutter/flutter/pull/151781) merged on July 15, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/151781) over 37 seconds, 747 additions and 920 deletions in 57 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Constrain `CupertinoContextMenu` animation to safe area 
+    <sub>[#151860](https://github.com/flutter/flutter/pull/151860) merged on July 17, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/151860) over 22 hours, 117 additions and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Remove redundant assignment of geometry
     <sub>[#151821](https://github.com/flutter/flutter/pull/151821) merged on July 17, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151821) over 1 day, 1 addition and 11 deletions in 2 files</sub>
