@@ -968,11 +968,16 @@
 
 ### July 13, 2024 to July 19, 2024
 
-5 commits.
+6 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump com.android.tools.build:gradle from 7.3.1 to 8.5.1 in /packages/in_app_purchase/in_app_purchase_android/android
+    <sub>[#7120](https://github.com/flutter/packages/pull/7120) merged on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7120) over 2 days, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.tools.build:gradle&package-manager=gradle&previous-version=7.3.1&new-version=8.5.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump com.android.tools.build:gradle from 7.2.1 to 8.5.1 in /packages/image_picker/image_picker_android/android
     <sub>[#7121](https://github.com/flutter/packages/pull/7121) merged on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7121) over 2 days, 6 additions and 2 deletions in 3 files</sub>
