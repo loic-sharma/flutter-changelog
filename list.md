@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-25 commits.
+29 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`
     <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
@@ -28,6 +28,10 @@
     <sub>[#151386](https://github.com/flutter/flutter/pull/151386) merged on July 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/151386) over 1 week, 62 additions and 16 deletions in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub>
     <sub><details><summary>1 image...</summary>![Simulator Screenshot - iPhone 15 - 2024-07-07 at 11 46 12](https://github.com/flutter/flutter/assets/71237742/57c1370d-19dd-4f65-aa85-f15723a4843b)</details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete `docs/engine` directory
+    <sub>[#151616](https://github.com/flutter/flutter/pull/151616) merged on July 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/151616) over 5 days, 0 additions and 2793 deletions in 28 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[n7484443](https://github.com/n7484443)** &mdash; chore: fix typo korean, cutButtonLabel
     <sub>[#151364](https://github.com/flutter/flutter/pull/151364) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151364) over 1 week, 24 additions and 4 deletions in 6 files</sub>
@@ -62,6 +66,10 @@
     <sub>[#150984](https://github.com/flutter/flutter/pull/150984) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150984) over 2 weeks, 40 additions and 11 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Stop running flaky mac tests in presubmit
+    <sub>[#151870](https://github.com/flutter/flutter/pull/151870) merged on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151870) over 16 hours, 8 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update CONTRIBUTING.md
     <sub>[#151614](https://github.com/flutter/flutter/pull/151614) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151614) over 5 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -77,6 +85,14 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove bringup from platform_views_scroll_perf_bottom_ad_banner__timeline_summary
     <sub>[#151617](https://github.com/flutter/flutter/pull/151617) merged on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151617) over 3 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(Flutter Web App): fixes html lang typo
+    <sub>[#151866](https://github.com/flutter/flutter/pull/151866) merged on July 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151866) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `CupertinoSlidingSegmentedControl` type parameter non-null
+    <sub>[#151803](https://github.com/flutter/flutter/pull/151803) merged on July 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151803) over 1 day, 4 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove unnecessary parens in test
     <sub>[#151846](https://github.com/flutter/flutter/pull/151846) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151846) over 14 hours, 4 additions and 4 deletions in 1 file</sub>
