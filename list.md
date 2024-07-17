@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-29 commits.
+30 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`
     <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
@@ -67,8 +67,8 @@
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Stop running flaky mac tests in presubmit
-    <sub>[#151870](https://github.com/flutter/flutter/pull/151870) merged on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151870) over 16 hours, 8 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+    <sub>[#151870](https://github.com/flutter/flutter/pull/151870) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151870) over 16 hours, 8 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update CONTRIBUTING.md
     <sub>[#151614](https://github.com/flutter/flutter/pull/151614) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151614) over 5 days, 1 addition and 1 deletion in 1 file</sub>
@@ -85,6 +85,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove bringup from platform_views_scroll_perf_bottom_ad_banner__timeline_summary
     <sub>[#151617](https://github.com/flutter/flutter/pull/151617) merged on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151617) over 3 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Fix typo in data driven fixes test folder section
+    <sub>[#151836](https://github.com/flutter/flutter/pull/151836) merged on July 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151836) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(Flutter Web App): fixes html lang typo
     <sub>[#151866](https://github.com/flutter/flutter/pull/151866) merged on July 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151866) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
