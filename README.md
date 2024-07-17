@@ -67,7 +67,7 @@
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Stop running flaky mac tests in presubmit<br />
-    <sub>[#151870](https://github.com/flutter/flutter/pull/151870) merged on July 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151870) over 16 hours, 8 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#151870](https://github.com/flutter/flutter/pull/151870) merged on July 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151870) over 16 hours, 8 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update CONTRIBUTING.md<br />
