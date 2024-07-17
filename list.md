@@ -580,7 +580,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-10 commits.
+11 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)
     <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub>
@@ -596,6 +596,10 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete gen_snapshot_armv7 support
     <sub>[#53947](https://github.com/flutter/engine/pull/53947) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53947) over 37 minutes, 0 additions and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Clean up create_macos_gen_snapshots.py options
+    <sub>[#53954](https://github.com/flutter/engine/pull/53954) merged on July 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53954) over 16 hours, 31 additions and 37 deletions in 3 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Set touch-action:none in embedded views.
