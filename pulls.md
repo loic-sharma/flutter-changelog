@@ -74,9 +74,6 @@
 * **[天下我最笨](https://github.com/xiongzhaowei)** &mdash; fix a bug for futurebuilder, example:<br />
     <sub>[#151804](https://github.com/flutter/flutter/pull/151804) opened on on July 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151804) 43 additions and 3 deletions in 2 files</sub><br />
 
-* **[hgraceb](https://github.com/hgraceb)** &mdash; Remove redundant assignment of geometry<br />
-    <sub>[#151821](https://github.com/flutter/flutter/pull/151821) opened on on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151821) 2 additions and 14 deletions in 2 files</sub><br />
-
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Constrain `CupertinoContextMenu` animation to safe area <br />
     <sub>[#151860](https://github.com/flutter/flutter/pull/151860) opened on on July 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151860) 112 additions and 6 deletions in 2 files</sub><br />
 

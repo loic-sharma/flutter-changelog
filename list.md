@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-20 commits.
+21 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`
     <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
@@ -65,6 +65,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove bringup from platform_views_scroll_perf_bottom_ad_banner__timeline_summary
     <sub>[#151617](https://github.com/flutter/flutter/pull/151617) merged on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151617) over 3 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#151864](https://github.com/flutter/flutter/pull/151864) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151864) over 10 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Add haptic feedback
     <sub>[#151420](https://github.com/flutter/flutter/pull/151420) merged on July 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151420) over 1 week, 76 additions and 8 deletions in 2 files</sub>
