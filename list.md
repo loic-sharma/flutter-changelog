@@ -620,11 +620,15 @@
 
 ### July 13, 2024 to July 19, 2024
 
-13 commits.
+14 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)
     <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Convert basic AIKS golden tests to use DisplayList
+    <sub>[#53969](https://github.com/flutter/engine/pull/53969) merged on July 17, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/engine/pull/53969) over 4 hours, 1728 additions and 749 deletions in 30 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix unexpected scrolling in semantics
     <sub>[#53922](https://github.com/flutter/engine/pull/53922) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53922) over 20 hours, 59 additions and 43 deletions in 13 files</sub>
