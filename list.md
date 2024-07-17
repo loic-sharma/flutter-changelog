@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-23 commits.
+24 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `Switch.padding`
     <sub>[#149884](https://github.com/flutter/flutter/pull/149884) merged on July 16, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/149884) over 1 month, 140 additions and 18 deletions in 5 files</sub>
@@ -57,6 +57,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for curve2_d.0.dart
     <sub>[#150984](https://github.com/flutter/flutter/pull/150984) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150984) over 2 weeks, 40 additions and 11 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update CONTRIBUTING.md
+    <sub>[#151614](https://github.com/flutter/flutter/pull/151614) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151614) over 5 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry plugin_test_ios in presubmit
     <sub>[#151773](https://github.com/flutter/flutter/pull/151773) merged on July 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151773) over 2 hours, 3 additions and 0 deletions in 1 file</sub>
