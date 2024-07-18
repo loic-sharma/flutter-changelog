@@ -83,3 +83,6 @@
 * **[n7484443](https://github.com/n7484443)** &mdash; chore: fix test name & add description of tests<br />
     <sub>[#151959](https://github.com/flutter/flutter/pull/151959) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151959) 3 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Dropdown menu trying to access highlight element which doesn't exist when search and filters both are enabled<br />
+    <sub>[#151969](https://github.com/flutter/flutter/pull/151969) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151969) 25 additions and 1 deletion in 2 files</sub><br />
+
