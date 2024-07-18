@@ -655,7 +655,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Set touch-action:none in embedded views.
-    <sub>[#53945](https://github.com/flutter/engine/pull/53945) merged on July 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53945) over 6 hours, 9 additions and 18 deletions in 4 files</sub>
+    <sub>[#53945](https://github.com/flutter/engine/pull/53945) merged on July 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/53945) over 6 hours, 9 additions and 18 deletions in 4 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Eliminate archive_gen_snapshot target
