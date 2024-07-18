@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-42 commits.
+43 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Create `CarouselView` widget - Part 2
     <sub>[#149775](https://github.com/flutter/flutter/pull/149775) merged on July 17, 2024 &mdash; **Extra large:** [91 comments](https://github.com/flutter/flutter/pull/149775) over 1 month, 1761 additions and 118 deletions in 4 files</sub>
@@ -66,14 +66,6 @@
     <sub>[#151472](https://github.com/flutter/flutter/pull/151472) merged on July 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151472) over 6 days, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Constrain `CupertinoContextMenu` animation to safe area 
-    <sub>[#151860](https://github.com/flutter/flutter/pull/151860) merged on July 17, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/151860) over 22 hours, 117 additions and 10 deletions in 2 files</sub>
-    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Support legacy buttons
-    <sub>[#151136](https://github.com/flutter/flutter/pull/151136) merged on July 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151136) over 2 weeks, 97 additions and 8 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for curve2_d.0.dart
     <sub>[#150984](https://github.com/flutter/flutter/pull/150984) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150984) over 2 weeks, 40 additions and 11 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
@@ -81,6 +73,14 @@
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Remove redundant assignment of geometry
     <sub>[#151821](https://github.com/flutter/flutter/pull/151821) merged on July 17, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151821) over 1 day, 1 addition and 11 deletions in 2 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Constrain `CupertinoContextMenu` animation to safe area 
+    <sub>[#151860](https://github.com/flutter/flutter/pull/151860) merged on July 17, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/151860) over 22 hours, 117 additions and 10 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Support legacy buttons
+    <sub>[#151136](https://github.com/flutter/flutter/pull/151136) merged on July 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151136) over 2 weeks, 97 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Fix AppBar doc to keep diagram next to its description
     <sub>[#151937](https://github.com/flutter/flutter/pull/151937) merged on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151937) over 11 hours, 7 additions and 7 deletions in 1 file</sub>
@@ -118,6 +118,10 @@
     <sub>[#151617](https://github.com/flutter/flutter/pull/151617) merged on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151617) over 3 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#151975](https://github.com/flutter/flutter/pull/151975) merged on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151975) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; tool/build/web: move source-maps CLI flag to "general" web section
     <sub>[#151722](https://github.com/flutter/flutter/pull/151722) merged on July 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151722) over 1 day, 6 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
@@ -135,7 +139,7 @@
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
-    <sub>[#151816](https://github.com/flutter/flutter/pull/151816) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151816) over 1 hour, 133 additions and 133 deletions in 64 files</sub>
+    <sub>[#151946](https://github.com/flutter/flutter/pull/151946) merged on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151946) over 52 minutes, 8 additions and 8 deletions in 4 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
@@ -150,21 +154,21 @@
     <sub>[#151866](https://github.com/flutter/flutter/pull/151866) merged on July 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151866) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#151816](https://github.com/flutter/flutter/pull/151816) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151816) over 1 hour, 133 additions and 133 deletions in 64 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `CupertinoSlidingSegmentedControl` type parameter non-null
     <sub>[#151803](https://github.com/flutter/flutter/pull/151803) merged on July 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151803) over 1 day, 4 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
-    <sub>[#151946](https://github.com/flutter/flutter/pull/151946) merged on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151946) over 52 minutes, 8 additions and 8 deletions in 4 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Adds 3.22.3 changelog
+    <sub>[#151974](https://github.com/flutter/flutter/pull/151974) merged on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151974) over 48 minutes, 16 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove unnecessary parens in test
     <sub>[#151846](https://github.com/flutter/flutter/pull/151846) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151846) over 14 hours, 4 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Adds 3.22.3 changelog
-    <sub>[#151974](https://github.com/flutter/flutter/pull/151974) merged on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151974) over 48 minutes, 16 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#151864](https://github.com/flutter/flutter/pull/151864) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151864) over 10 hours, 2 additions and 2 deletions in 1 file</sub>
