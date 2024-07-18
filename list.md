@@ -1028,11 +1028,21 @@
 
 ### July 13, 2024 to July 19, 2024
 
-12 commits.
+14 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.activity:activity from 1.7.2 to 1.8.2 in /packages/image_picker/image_picker_android/android
+    <sub>[#5704](https://github.com/flutter/packages/pull/5704) merged on July 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/5704) over 7 months, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.activity:activity&package-manager=gradle&previous-version=1.7.2&new-version=1.8.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [url_launcher]: Bump androidx.core:core from 1.10.1 to 1.13.1 in /packages/url_launcher/url_launcher_android/android
+    <sub>[#6668](https://github.com/flutter/packages/pull/6668) merged on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/6668) over 2 months, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.core:core&package-manager=gradle&previous-version=1.10.1&new-version=1.13.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Platform interface for new shared preferences async
     <sub>[#6962](https://github.com/flutter/packages/pull/6962) merged on July 18, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/6962) over 3 weeks, 340 additions and 11 deletions in 7 files</sub>
