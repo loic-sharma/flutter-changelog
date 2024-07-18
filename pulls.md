@@ -62,9 +62,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for expansion_panel_list.expansion_panel_list_radio.0_test.dart<br />
     <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151730) 41 additions and 1 deletion in 2 files</sub><br />
 
-* **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
-    <sub>[#151731](https://github.com/flutter/flutter/pull/151731) opened on on July 14, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/151731) 29 additions and 0 deletions in 3 files</sub><br />
-
 * **[天下我最笨](https://github.com/xiongzhaowei)** &mdash; fix a bug for futurebuilder, example:<br />
     <sub>[#151804](https://github.com/flutter/flutter/pull/151804) opened on on July 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151804) 43 additions and 3 deletions in 2 files</sub><br />
 
@@ -76,12 +73,6 @@
 
 * **[Daniel Gomez](https://github.com/danielgomezrico)** &mdash; Allow `BorderRadius.circular` to be a `const` factory<br />
     <sub>[#151956](https://github.com/flutter/flutter/pull/151956) opened on on July 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151956) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[n7484443](https://github.com/n7484443)** &mdash; chore: fix test name & add description of tests<br />
-    <sub>[#151959](https://github.com/flutter/flutter/pull/151959) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151959) 3 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Dropdown menu trying to access highlight element which doesn't exist when search and filters both are enabled<br />
-    <sub>[#151969](https://github.com/flutter/flutter/pull/151969) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151969) 25 additions and 1 deletion in 2 files</sub><br />
 
 * **[DBowen33](https://github.com/DBowen33)** &mdash; refactor(Flutter Web App): added Semantics wrapper over slider to add…<br />
     <sub>[#151985](https://github.com/flutter/flutter/pull/151985) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151985) 13 additions and 10 deletions in 1 file</sub><br />
