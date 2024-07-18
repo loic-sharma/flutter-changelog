@@ -86,3 +86,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Dropdown menu trying to access highlight element which doesn't exist when search and filters both are enabled<br />
     <sub>[#151969](https://github.com/flutter/flutter/pull/151969) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151969) 25 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Adds 3.22.3 changelog<br />
+    <sub>[#151974](https://github.com/flutter/flutter/pull/151974) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151974) 16 additions and 0 deletions in 1 file</sub><br />
+
