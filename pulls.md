@@ -71,9 +71,6 @@
 * **[天下我最笨](https://github.com/xiongzhaowei)** &mdash; fix a bug for futurebuilder, example:<br />
     <sub>[#151804](https://github.com/flutter/flutter/pull/151804) opened on on July 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151804) 43 additions and 3 deletions in 2 files</sub><br />
 
-* **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Fix the type of `RenderTable.get rowDecorations`.<br />
-    <sub>[#151886](https://github.com/flutter/flutter/pull/151886) opened on on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151886) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#151904](https://github.com/flutter/flutter/pull/151904) opened on on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151904) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -82,7 +79,4 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Pattern matching for `ParsedProject` constructors<br />
     <sub>[#151922](https://github.com/flutter/flutter/pull/151922) opened on on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151922) 51 additions and 98 deletions in 1 file</sub><br />
-
-* **[croro613](https://github.com/croro613)** &mdash; Fix WidgetStateTextStyle's doc<br />
-    <sub>[#151935](https://github.com/flutter/flutter/pull/151935) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151935) 3 additions and 5 deletions in 1 file</sub><br />
 
