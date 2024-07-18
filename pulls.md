@@ -71,9 +71,6 @@
 * **[天下我最笨](https://github.com/xiongzhaowei)** &mdash; fix a bug for futurebuilder, example:<br />
     <sub>[#151804](https://github.com/flutter/flutter/pull/151804) opened on on July 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151804) 43 additions and 3 deletions in 2 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#151904](https://github.com/flutter/flutter/pull/151904) opened on on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151904) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update TESTOWNERS<br />
     <sub>[#151907](https://github.com/flutter/flutter/pull/151907) opened on on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151907) 11 additions and 11 deletions in 1 file</sub><br />
 

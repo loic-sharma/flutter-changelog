@@ -4,7 +4,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-35 commits.
+36 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Create `CarouselView` widget - Part 2
     <sub>[#149775](https://github.com/flutter/flutter/pull/149775) merged on July 17, 2024 &mdash; **Extra large:** [91 comments](https://github.com/flutter/flutter/pull/149775) over 1 month, 1761 additions and 118 deletions in 4 files</sub>
@@ -102,9 +102,9 @@
     <sub>[#151617](https://github.com/flutter/flutter/pull/151617) merged on July 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151617) over 3 days, 0 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
-* **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(Flutter Web App): fixes html lang typo
-    <sub>[#151866](https://github.com/flutter/flutter/pull/151866) merged on July 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151866) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; tool/build/web: move source-maps CLI flag to "general" web section
+    <sub>[#151722](https://github.com/flutter/flutter/pull/151722) merged on July 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151722) over 1 day, 6 additions and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `CupertinoSlidingSegmentedControl` type parameter non-null
     <sub>[#151803](https://github.com/flutter/flutter/pull/151803) merged on July 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151803) over 1 day, 4 additions and 4 deletions in 1 file</sub>
@@ -138,13 +138,17 @@
     <sub>[#151816](https://github.com/flutter/flutter/pull/151816) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151816) over 1 hour, 133 additions and 133 deletions in 64 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; tool/build/web: move source-maps CLI flag to "general" web section
-    <sub>[#151722](https://github.com/flutter/flutter/pull/151722) merged on July 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151722) over 1 day, 6 additions and 6 deletions in 1 file</sub>
-    <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#151904](https://github.com/flutter/flutter/pull/151904) merged on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151904) over 16 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Fix typo in data driven fixes test folder section
     <sub>[#151836](https://github.com/flutter/flutter/pull/151836) merged on July 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151836) over 1 day, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(Flutter Web App): fixes html lang typo
+    <sub>[#151866](https://github.com/flutter/flutter/pull/151866) merged on July 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151866) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix InputDecorator hint default text style on M3
     <sub>[#150835](https://github.com/flutter/flutter/pull/150835) merged on July 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150835) over 3 weeks, 13 additions and 25 deletions in 2 files</sub>
