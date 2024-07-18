@@ -78,5 +78,5 @@
     <sub>[#151922](https://github.com/flutter/flutter/pull/151922) opened on on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151922) 51 additions and 98 deletions in 1 file</sub><br />
 
 * **[Daniel Gomez](https://github.com/danielgomezrico)** &mdash; Allow `BorderRadius.circular` to be a `const` factory<br />
-    <sub>[#151956](https://github.com/flutter/flutter/pull/151956) opened on on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151956) 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>[#151956](https://github.com/flutter/flutter/pull/151956) opened on on July 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151956) 1 addition and 1 deletion in 1 file</sub><br />
 
