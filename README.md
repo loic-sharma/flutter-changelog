@@ -652,7 +652,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-18 commits.
+19 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a "pub workspace" to the root of the engine repository<br />
     <sub>[#53539](https://github.com/flutter/engine/pull/53539) merged on July 18, 2024 &mdash; **Medium:** [43 comments](https://github.com/flutter/engine/pull/53539) over 3 weeks, 248 additions and 59 deletions in 12 files</sub><br />
@@ -681,6 +681,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete gen_snapshot_armv7 support<br />
     <sub>[#53947](https://github.com/flutter/engine/pull/53947) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53947) over 37 minutes, 0 additions and 10 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Call restartInput selectively on clear<br />
+    <sub>[#53662](https://github.com/flutter/engine/pull/53662) merged on July 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53662) over 2 weeks, 120 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 327906297b49980748ea1956019829e7c434a03e<br />
     <sub>[#53994](https://github.com/flutter/engine/pull/53994) merged on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53994) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
