@@ -87,8 +87,8 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update CONTRIBUTING.md
-    <sub>[#151614](https://github.com/flutter/flutter/pull/151614) merged on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151614) over 5 days, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>[#151614](https://github.com/flutter/flutter/pull/151614) merged on July 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151614) over 5 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry plugin_test_ios in presubmit
     <sub>[#151773](https://github.com/flutter/flutter/pull/151773) merged on July 15, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151773) over 2 hours, 3 additions and 0 deletions in 1 file</sub>
