@@ -1028,7 +1028,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-10 commits.
+11 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub>
@@ -1067,6 +1067,10 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Drive tests with html renderer if CHANNEL is stable.
     <sub>[#7146](https://github.com/flutter/packages/pull/7146) merged on July 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7146) over 20 hours, 62 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [file_selector_android] Use Espresso 4.0
+    <sub>[#7159](https://github.com/flutter/packages/pull/7159) merged on July 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7159) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] convert productRequestHandlerTests to swift
