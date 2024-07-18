@@ -86,9 +86,3 @@
 * **[croro613](https://github.com/croro613)** &mdash; Fix WidgetStateTextStyle's doc<br />
     <sub>[#151935](https://github.com/flutter/flutter/pull/151935) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151935) 3 additions and 5 deletions in 1 file</sub><br />
 
-* **[Greg Price](https://github.com/gnprice)** &mdash; Fix AppBar doc to keep diagram next to its description<br />
-    <sub>[#151937](https://github.com/flutter/flutter/pull/151937) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151937) 7 additions and 7 deletions in 1 file</sub><br />
-
-* **[Greg Price](https://github.com/gnprice)** &mdash; Small fixes to Image docs: NNBD, and add a cross-reference<br />
-    <sub>[#151938](https://github.com/flutter/flutter/pull/151938) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151938) 5 additions and 6 deletions in 1 file</sub><br />
-
