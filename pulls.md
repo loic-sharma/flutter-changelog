@@ -9,7 +9,7 @@
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149201) 929 additions and 0 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
-    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/150394) 3144 additions and 73 deletions in 7 files</sub><br />
+    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/150394) 3935 additions and 166 deletions in 12 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoAlertDialog] Rewrite<br />
     <sub>[#150410](https://github.com/flutter/flutter/pull/150410) opened on on June 18, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/150410) 473 additions and 1251 deletions in 2 files</sub><br />
@@ -85,4 +85,10 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Dropdown menu trying to access highlight element which doesn't exist when search and filters both are enabled<br />
     <sub>[#151969](https://github.com/flutter/flutter/pull/151969) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151969) 25 additions and 1 deletion in 2 files</sub><br />
+
+* **[DBowen33](https://github.com/DBowen33)** &mdash; refactor(Flutter Web App): added Semantics wrapper over slider to add…<br />
+    <sub>[#151985](https://github.com/flutter/flutter/pull/151985) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151985) 13 additions and 10 deletions in 1 file</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#151992](https://github.com/flutter/flutter/pull/151992) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151992) 4 additions and 4 deletions in 2 files</sub><br />
 
