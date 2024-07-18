@@ -53,9 +53,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]SelectionArea's selection should not be cleared on loss of window focus<br />
     <sub>[#151618](https://github.com/flutter/flutter/pull/151618) opened on on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151618) 96 additions and 3 deletions in 6 files</sub><br />
 
-* **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Pass shape parameter from ExpansionTile to ListTile for respectful hover shape<br />
-    <sub>[#151647](https://github.com/flutter/flutter/pull/151647) opened on on July 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151647) 32 additions and 0 deletions in 2 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#53571<br />
     <sub>[#151682](https://github.com/flutter/flutter/pull/151682) opened on on July 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151682) 2 additions and 1 deletion in 2 files</sub><br />
 
