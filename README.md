@@ -1016,7 +1016,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-9 commits.
+10 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.<br />
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub><br />
@@ -1048,6 +1048,10 @@
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] do not append sample buffer when readyForMoreMediaData is NO to avoid crash<br />
     <sub>[#6901](https://github.com/flutter/packages/pull/6901) merged on July 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/6901) over 1 month, 72 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [flutter_plugin_tools] Allow disabling Swift Package Manager when building examples<br />
+    <sub>[#7145](https://github.com/flutter/packages/pull/7145) merged on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7145) over 1 day, 207 additions and 16 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Drive tests with html renderer if CHANNEL is stable.<br />
     <sub>[#7146](https://github.com/flutter/packages/pull/7146) merged on July 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7146) over 20 hours, 62 additions and 1 deletion in 2 files</sub><br />
