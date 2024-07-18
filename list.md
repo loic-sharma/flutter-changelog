@@ -640,7 +640,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-16 commits.
+17 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a "pub workspace" to the root of the engine repository
     <sub>[#53539](https://github.com/flutter/engine/pull/53539) merged on July 18, 2024 &mdash; **Medium:** [43 comments](https://github.com/flutter/engine/pull/53539) over 3 weeks, 248 additions and 59 deletions in 12 files</sub>
@@ -669,6 +669,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete gen_snapshot_armv7 support
     <sub>[#53947](https://github.com/flutter/engine/pull/53947) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53947) over 37 minutes, 0 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix race in image_filter_test.dart
+    <sub>[#53996](https://github.com/flutter/engine/pull/53996) merged on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53996) over 56 minutes, 2 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add doc comments to build/archives/BUILD.gn
     <sub>[#53973](https://github.com/flutter/engine/pull/53973) merged on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53973) over 1 hour, 7 additions and 1 deletion in 1 file</sub>
