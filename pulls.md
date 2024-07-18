@@ -80,3 +80,6 @@
 * **[Daniel Gomez](https://github.com/danielgomezrico)** &mdash; Allow `BorderRadius.circular` to be a `const` factory<br />
     <sub>[#151956](https://github.com/flutter/flutter/pull/151956) opened on on July 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151956) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[n7484443](https://github.com/n7484443)** &mdash; chore: fix test name & add description of tests<br />
+    <sub>[#151959](https://github.com/flutter/flutter/pull/151959) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151959) 3 additions and 1 deletion in 2 files</sub><br />
+
