@@ -80,6 +80,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update TESTOWNERS<br />
     <sub>[#151907](https://github.com/flutter/flutter/pull/151907) opened on on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151907) 11 additions and 11 deletions in 1 file</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Pattern matching for `ParsedProject` constructors<br />
+    <sub>[#151922](https://github.com/flutter/flutter/pull/151922) opened on on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151922) 51 additions and 98 deletions in 1 file</sub><br />
+
 * **[croro613](https://github.com/croro613)** &mdash; Fix WidgetStateTextStyle's doc<br />
     <sub>[#151935](https://github.com/flutter/flutter/pull/151935) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151935) 3 additions and 5 deletions in 1 file</sub><br />
 
