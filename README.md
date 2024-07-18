@@ -1028,10 +1028,14 @@
 
 ### July 13, 2024 to July 19, 2024
 
-11 commits.
+12 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.<br />
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Platform interface for new shared preferences async<br />
+    <sub>[#6962](https://github.com/flutter/packages/pull/6962) merged on July 18, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/6962) over 3 weeks, 340 additions and 11 deletions in 7 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; Modernize all `index.html` files to support WASM<br />
