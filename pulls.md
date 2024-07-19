@@ -27,7 +27,7 @@
     <sub>[#151014](https://github.com/flutter/flutter/pull/151014) opened on on June 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151014) 166 additions and 7 deletions in 5 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Flicker when reorderable list doesn't change its position<br />
-    <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151026) 47 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151026) 39 additions and 2 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Use `ErrorHandlingFileSystem.deleteIfExists` when deleting .plugin_symlinks<br />
     <sub>[#151184](https://github.com/flutter/flutter/pull/151184) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151184) 75 additions and 6 deletions in 4 files</sub><br />
