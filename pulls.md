@@ -59,9 +59,6 @@
 * **[天下我最笨](https://github.com/xiongzhaowei)** &mdash; fix a bug for futurebuilder, example:<br />
     <sub>[#151804](https://github.com/flutter/flutter/pull/151804) opened on on July 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151804) 43 additions and 3 deletions in 2 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Pattern matching for `ParsedProject` constructors<br />
-    <sub>[#151922](https://github.com/flutter/flutter/pull/151922) opened on on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151922) 51 additions and 98 deletions in 1 file</sub><br />
-
 * **[Daniel Gomez](https://github.com/danielgomezrico)** &mdash; Allow `BorderRadius.circular` to be a `const` factory<br />
     <sub>[#151956](https://github.com/flutter/flutter/pull/151956) opened on on July 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151956) 1 addition and 1 deletion in 1 file</sub><br />
 
