@@ -672,7 +672,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-22 commits.
+23 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a "pub workspace" to the root of the engine repository<br />
     <sub>[#53539](https://github.com/flutter/engine/pull/53539) merged on July 18, 2024 &mdash; **Medium:** [43 comments](https://github.com/flutter/engine/pull/53539) over 3 weeks, 248 additions and 59 deletions in 12 files</sub><br />
@@ -701,6 +701,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Move images to flutter/assets-for-api-docs<br />
     <sub>[#53917](https://github.com/flutter/engine/pull/53917) merged on July 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53917) over 1 hour, 48 additions and 47 deletions in 63 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Drop deprecated hash_code functions<br />
+    <sub>[#54000](https://github.com/flutter/engine/pull/54000) merged on July 19, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/54000) over 49 minutes, 0 additions and 413 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Renamed plugin classes to handler<br />
     <sub>[#53736](https://github.com/flutter/engine/pull/53736) merged on July 19, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53736) over 1 week, 724 additions and 719 deletions in 35 files</sub><br />
