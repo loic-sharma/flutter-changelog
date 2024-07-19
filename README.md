@@ -692,7 +692,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-29 commits.
+31 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a "pub workspace" to the root of the engine repository<br />
     <sub>[#53539](https://github.com/flutter/engine/pull/53539) merged on July 18, 2024 &mdash; **Medium:** [43 comments](https://github.com/flutter/engine/pull/53539) over 3 weeks, 248 additions and 59 deletions in 12 files</sub><br />
@@ -713,6 +713,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)<br />
     <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Plumb -j to ninja<br />
+    <sub>[#54005](https://github.com/flutter/engine/pull/54005) merged on July 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54005) over 3 hours, 243 additions and 26 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Gracefully fail when `gn desc` returns no targets.<br />
     <sub>[#53999](https://github.com/flutter/engine/pull/53999) merged on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53999) over 1 hour, 61 additions and 1 deletion in 5 files</sub><br />
@@ -757,6 +761,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Call restartInput selectively on clear<br />
     <sub>[#53662](https://github.com/flutter/engine/pull/53662) merged on July 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53662) over 2 weeks, 120 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Move !is_android to build_engine_artifacts declaration<br />
+    <sub>[#54006](https://github.com/flutter/engine/pull/54006) merged on July 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54006) over 1 hour, 30 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Upgrade third_party/pyyaml to 03c67afd452cdff45b41bfe65e19a2fb5b80a0e8<br />
     <sub>[#54001](https://github.com/flutter/engine/pull/54001) merged on July 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54001) over 1 hour, 3 additions and 3 deletions in 3 files</sub><br />
