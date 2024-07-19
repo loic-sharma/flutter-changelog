@@ -672,7 +672,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-25 commits.
+26 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a "pub workspace" to the root of the engine repository
     <sub>[#53539](https://github.com/flutter/engine/pull/53539) merged on July 18, 2024 &mdash; **Medium:** [43 comments](https://github.com/flutter/engine/pull/53539) over 3 weeks, 248 additions and 59 deletions in 12 files</sub>
@@ -702,8 +702,12 @@
     <sub>[#53917](https://github.com/flutter/engine/pull/53917) merged on July 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53917) over 1 hour, 48 additions and 47 deletions in 63 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Drop deprecated hash_code functions (#54000)"
+    <sub>[#54002](https://github.com/flutter/engine/pull/54002) merged on July 19, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/54002) over 1 minute, 413 additions and 0 deletions in 8 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Drop deprecated hash_code functions
-    <sub>[#54000](https://github.com/flutter/engine/pull/54000) merged on July 19, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/54000) over 49 minutes, 0 additions and 413 deletions in 8 files</sub>
+    <sub>[#54000](https://github.com/flutter/engine/pull/54000) merged on July 19, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/54000) over 49 minutes, 0 additions and 413 deletions in 8 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Renamed plugin classes to handler
