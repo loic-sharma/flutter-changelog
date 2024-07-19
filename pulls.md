@@ -68,6 +68,3 @@
 * **[Kaan İnel](https://github.com/kaaninel)** &mdash; Removed ClipRect from AnimatedCrossFade<br />
     <sub>[#152027](https://github.com/flutter/flutter/pull/152027) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152027) 6 additions and 8 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Update CONTRIBUTING.md<br />
-    <sub>[#152050](https://github.com/flutter/flutter/pull/152050) opened on on July 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152050) 1 addition and 1 deletion in 1 file</sub><br />
-
