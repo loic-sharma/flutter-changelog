@@ -74,3 +74,6 @@
 * **[Yoshihito Ikeda](https://github.com/yqritc)** &mdash; [CP] Fix TextPainter's caret position calculation for text containing full-width<br />
     <sub>[#152021](https://github.com/flutter/flutter/pull/152021) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152021) 15 additions and 2 deletions in 2 files</sub><br />
 
+* **[Kaan İnel](https://github.com/kaaninel)** &mdash; Removed ClipRect from AnimatedCrossFade<br />
+    <sub>[#152027](https://github.com/flutter/flutter/pull/152027) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152027) 6 additions and 8 deletions in 1 file</sub><br />
+
