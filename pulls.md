@@ -9,7 +9,7 @@
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149201) 929 additions and 0 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
-    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/150394) 3935 additions and 166 deletions in 12 files</sub><br />
+    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/150394) 1494 additions and 179 deletions in 11 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] make flutter create use --offline in SPM integration tests<br />
     <sub>[#150737](https://github.com/flutter/flutter/pull/150737) opened on on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150737) 1 addition and 0 deletions in 1 file</sub><br />
