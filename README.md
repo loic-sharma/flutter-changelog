@@ -67,7 +67,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Make `CupertinoRadio`'s `mouseCursor` a `WidgetStateProperty`<br />
-    <sub>[#151910](https://github.com/flutter/flutter/pull/151910) merged on July 19, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/151910) over 2 days, 93 additions and 41 deletions in 4 files</sub><br />
+    <sub>[#151910](https://github.com/flutter/flutter/pull/151910) merged on July 19, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/151910) over 2 days, 93 additions and 41 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[croro613](https://github.com/croro613)** &mdash; Fix WidgetStateTextStyle's doc<br />
