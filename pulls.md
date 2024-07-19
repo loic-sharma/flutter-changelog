@@ -68,3 +68,6 @@
 * **[Kaan İnel](https://github.com/kaaninel)** &mdash; Removed ClipRect from AnimatedCrossFade<br />
     <sub>[#152027](https://github.com/flutter/flutter/pull/152027) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152027) 6 additions and 8 deletions in 1 file</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; [CP] Make `CupertinoRadio`'s `mouseCursor` a `WidgetStateProperty` (#151910)<br />
+    <sub>[#152051](https://github.com/flutter/flutter/pull/152051) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152051) 212 additions and 0 deletions in 4 files</sub><br />
+
