@@ -692,7 +692,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-28 commits.
+29 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a "pub workspace" to the root of the engine repository<br />
     <sub>[#53539](https://github.com/flutter/engine/pull/53539) merged on July 18, 2024 &mdash; **Medium:** [43 comments](https://github.com/flutter/engine/pull/53539) over 3 weeks, 248 additions and 59 deletions in 12 files</sub><br />
@@ -705,6 +705,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use glBlitFramebuffer when rendering<br />
     <sub>[#53080](https://github.com/flutter/engine/pull/53080) merged on July 18, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/engine/pull/53080) over 1 month, 380 additions and 105 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable AHB swapchain.<br />
+    <sub>[#53978](https://github.com/flutter/engine/pull/53978) merged on July 19, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/53978) over 1 day, 38 additions and 83 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] switch to SemanticsAction.focus (attempt 3)<br />
     <sub>[#53689](https://github.com/flutter/engine/pull/53689) merged on July 15, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53689) over 1 week, 351 additions and 926 deletions in 9 files</sub><br />
