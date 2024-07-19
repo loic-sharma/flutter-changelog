@@ -35,9 +35,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Adds a call to the `PlatformDispatcher` whenever the focus changes<br />
     <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151268) 119 additions and 45 deletions in 4 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scrollbar.1.dart<br />
-    <sub>[#151463](https://github.com/flutter/flutter/pull/151463) opened on on July 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/151463) 47 additions and 1 deletion in 3 files</sub><br />
-
 * **[Yegor](https://github.com/yjbanov)** &mdash; test engine pr 53689<br />
     <sub>[#151491](https://github.com/flutter/flutter/pull/151491) opened on on July 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151491) 2 additions and 1 deletion in 2 files</sub><br />
 
@@ -48,7 +45,7 @@
     <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151585) 74 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for focus_traversal_group.0.dart<br />
-    <sub>[#151591](https://github.com/flutter/flutter/pull/151591) opened on on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151591) 45 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151591](https://github.com/flutter/flutter/pull/151591) opened on on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151591) 45 additions and 1 deletion in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]SelectionArea's selection should not be cleared on loss of window focus<br />
     <sub>[#151618](https://github.com/flutter/flutter/pull/151618) opened on on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151618) 96 additions and 3 deletions in 6 files</sub><br />
@@ -60,7 +57,7 @@
     <sub>[#151699](https://github.com/flutter/flutter/pull/151699) opened on on July 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151699) 89 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for expansion_panel_list.expansion_panel_list_radio.0_test.dart<br />
-    <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151730) 41 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151730) 41 additions and 1 deletion in 2 files</sub><br />
 
 * **[天下我最笨](https://github.com/xiongzhaowei)** &mdash; fix a bug for futurebuilder, example:<br />
     <sub>[#151804](https://github.com/flutter/flutter/pull/151804) opened on on July 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151804) 43 additions and 3 deletions in 2 files</sub><br />
