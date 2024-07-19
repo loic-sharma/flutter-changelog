@@ -719,7 +719,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Drop deprecated hash_code functions (#54000)"<br />
-    <sub>[#54002](https://github.com/flutter/engine/pull/54002) merged on July 19, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/54002) over 1 minute, 413 additions and 0 deletions in 8 files</sub><br />
+    <sub>[#54002](https://github.com/flutter/engine/pull/54002) merged on July 19, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/54002) over 1 minute, 413 additions and 0 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Drop deprecated hash_code functions<br />
