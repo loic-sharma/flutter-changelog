@@ -672,7 +672,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-23 commits.
+24 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a "pub workspace" to the root of the engine repository
     <sub>[#53539](https://github.com/flutter/engine/pull/53539) merged on July 18, 2024 &mdash; **Medium:** [43 comments](https://github.com/flutter/engine/pull/53539) over 3 weeks, 248 additions and 59 deletions in 12 files</sub>
@@ -757,6 +757,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Align `tools/android_sdk/packages.txt` with what is uploaded to CIPD
     <sub>[#53921](https://github.com/flutter/engine/pull/53921) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53921) over 46 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't leak binary messenger in tests
+    <sub>[#53985](https://github.com/flutter/engine/pull/53985) merged on July 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53985) over 19 hours, 35 additions and 35 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use depth transform in framebuffer blend entities.
     <sub>[#53951](https://github.com/flutter/engine/pull/53951) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53951) over 1 hour, 32 additions and 2 deletions in 3 files</sub>
