@@ -68,6 +68,3 @@
 * **[Kaan İnel](https://github.com/kaaninel)** &mdash; Removed ClipRect from AnimatedCrossFade<br />
     <sub>[#152027](https://github.com/flutter/flutter/pull/152027) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152027) 6 additions and 8 deletions in 1 file</sub><br />
 
-* **[John Ryan](https://github.com/johnpryan)** &mdash; Use more CORS headers for `flutter run` server<br />
-    <sub>[#152048](https://github.com/flutter/flutter/pull/152048) opened on on July 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152048) 3 additions and 1 deletion in 1 file</sub><br />
-
