@@ -80,3 +80,6 @@
 * **[Yoshihito Ikeda](https://github.com/yqritc)** &mdash; [CP] Fix TextPainter's caret position calculation for text containing full-width<br />
     <sub>[#152021](https://github.com/flutter/flutter/pull/152021) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152021) 15 additions and 2 deletions in 2 files</sub><br />
 
+* **[weasdown](https://github.com/weasdown)** &mdash; Fix missing close bracket in NestedScrollView class docs<br />
+    <sub>[#152022](https://github.com/flutter/flutter/pull/152022) opened on on July 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152022) 1 addition and 1 deletion in 1 file</sub><br />
+
