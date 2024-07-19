@@ -77,3 +77,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#151992](https://github.com/flutter/flutter/pull/151992) opened on on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151992) 4 additions and 4 deletions in 2 files</sub><br />
 
+* **[Yoshihito Ikeda](https://github.com/yqritc)** &mdash; [CP] Fix TextPainter's caret position calculation for text containing full-width<br />
+    <sub>[#152021](https://github.com/flutter/flutter/pull/152021) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152021) 15 additions and 2 deletions in 2 files</sub><br />
+
