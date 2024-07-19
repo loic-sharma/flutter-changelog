@@ -65,9 +65,6 @@
 * **[天下我最笨](https://github.com/xiongzhaowei)** &mdash; fix a bug for futurebuilder, example:<br />
     <sub>[#151804](https://github.com/flutter/flutter/pull/151804) opened on on July 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151804) 43 additions and 3 deletions in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update TESTOWNERS<br />
-    <sub>[#151907](https://github.com/flutter/flutter/pull/151907) opened on on July 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151907) 11 additions and 11 deletions in 1 file</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Pattern matching for `ParsedProject` constructors<br />
     <sub>[#151922](https://github.com/flutter/flutter/pull/151922) opened on on July 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151922) 51 additions and 98 deletions in 1 file</sub><br />
 
