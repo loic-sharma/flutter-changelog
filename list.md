@@ -704,7 +704,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-33 commits.
+34 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a "pub workspace" to the root of the engine repository
     <sub>[#53539](https://github.com/flutter/engine/pull/53539) merged on July 18, 2024 &mdash; **Medium:** [43 comments](https://github.com/flutter/engine/pull/53539) over 3 weeks, 248 additions and 59 deletions in 12 files</sub>
@@ -746,17 +746,13 @@
     <sub>[#53917](https://github.com/flutter/engine/pull/53917) merged on July 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53917) over 1 hour, 48 additions and 47 deletions in 63 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reverts "Drop deprecated hash_code functions (#54000)" (#54002)"
-    <sub>[#54004](https://github.com/flutter/engine/pull/54004) merged on July 19, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/54004) over 35 seconds, 0 additions and 413 deletions in 8 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Drop deprecated hash_code functions (#54000)"
-    <sub>[#54002](https://github.com/flutter/engine/pull/54002) merged on July 19, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/54002) over 1 minute, 413 additions and 0 deletions in 8 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Drop deprecated hash_code functions
     <sub>[#54000](https://github.com/flutter/engine/pull/54000) merged on July 19, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/54000) over 49 minutes, 0 additions and 413 deletions in 8 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Reverts "Drop deprecated hash_code functions (#54000)" (#54002)"
+    <sub>[#54004](https://github.com/flutter/engine/pull/54004) merged on July 19, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/54004) over 35 seconds, 0 additions and 413 deletions in 8 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Renamed plugin classes to handler
     <sub>[#53736](https://github.com/flutter/engine/pull/53736) merged on July 19, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/53736) over 1 week, 724 additions and 719 deletions in 35 files</sub>
@@ -766,6 +762,10 @@
     <sub>[#53967](https://github.com/flutter/engine/pull/53967) merged on July 18, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/53967) over 1 day, 66 additions and 29 deletions in 4 files</sub>
     <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Drop deprecated hash_code functions (#54000)"
+    <sub>[#54002](https://github.com/flutter/engine/pull/54002) merged on July 19, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/54002) over 1 minute, 413 additions and 0 deletions in 8 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete gen_snapshot_armv7 support
     <sub>[#53947](https://github.com/flutter/engine/pull/53947) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53947) over 37 minutes, 0 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -773,6 +773,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Call restartInput selectively on clear
     <sub>[#53662](https://github.com/flutter/engine/pull/53662) merged on July 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53662) over 2 weeks, 120 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] detect max cull rect on bounds.
+    <sub>[#54013](https://github.com/flutter/engine/pull/54013) merged on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54013) over 1 hour, 14 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] try disabling backpressure in AHB swapchain.
     <sub>[#54012](https://github.com/flutter/engine/pull/54012) merged on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54012) over 2 hours, 0 additions and 3 deletions in 1 file</sub>
@@ -789,10 +793,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Upgrade third_party/pyyaml to 03c67afd452cdff45b41bfe65e19a2fb5b80a0e8
     <sub>[#54001](https://github.com/flutter/engine/pull/54001) merged on July 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54001) over 1 hour, 3 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 327906297b49980748ea1956019829e7c434a03e
-    <sub>[#53994](https://github.com/flutter/engine/pull/53994) merged on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53994) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix race in image_filter_test.dart
     <sub>[#53996](https://github.com/flutter/engine/pull/53996) merged on July 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53996) over 56 minutes, 2 additions and 3 deletions in 1 file</sub>
@@ -826,13 +826,17 @@
     <sub>[#53921](https://github.com/flutter/engine/pull/53921) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53921) over 46 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't leak binary messenger in tests
-    <sub>[#53985](https://github.com/flutter/engine/pull/53985) merged on July 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53985) over 19 hours, 35 additions and 35 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to 327906297b49980748ea1956019829e7c434a03e
+    <sub>[#53994](https://github.com/flutter/engine/pull/53994) merged on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53994) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Use depth transform in framebuffer blend entities.
     <sub>[#53951](https://github.com/flutter/engine/pull/53951) merged on July 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53951) over 1 hour, 32 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't leak binary messenger in tests
+    <sub>[#53985](https://github.com/flutter/engine/pull/53985) merged on July 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53985) over 19 hours, 35 additions and 35 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from b44d99ea2bf4 to 7368b1d084b0 (12 revisions)
     <sub>[#53949](https://github.com/flutter/engine/pull/53949) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53949) over 2 hours, 16 additions and 16 deletions in 3 files</sub>
