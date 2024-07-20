@@ -80,3 +80,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Gap between prefix and suffix icon and input field in input deco…<br />
     <sub>[#152069](https://github.com/flutter/flutter/pull/152069) opened on on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152069) 49 additions and 65 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file <br />
+    <sub>[#152073](https://github.com/flutter/flutter/pull/152073) opened on on July 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152073) 3 additions and 3 deletions in 1 file</sub><br />
+
