@@ -704,7 +704,7 @@
 
 ### July 13, 2024 to July 19, 2024
 
-32 commits.
+33 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a "pub workspace" to the root of the engine repository
     <sub>[#53539](https://github.com/flutter/engine/pull/53539) merged on July 18, 2024 &mdash; **Medium:** [43 comments](https://github.com/flutter/engine/pull/53539) over 3 weeks, 248 additions and 59 deletions in 12 files</sub>
@@ -773,6 +773,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Call restartInput selectively on clear
     <sub>[#53662](https://github.com/flutter/engine/pull/53662) merged on July 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53662) over 2 weeks, 120 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] try disabling backpressure in AHB swapchain.
+    <sub>[#54012](https://github.com/flutter/engine/pull/54012) merged on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54012) over 2 hours, 0 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Eliminate --clang-dir flag
     <sub>[#54008](https://github.com/flutter/engine/pull/54008) merged on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54008) over 1 hour, 3 additions and 4 deletions in 1 file</sub>
