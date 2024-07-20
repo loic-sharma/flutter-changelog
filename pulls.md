@@ -71,3 +71,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; [CP] Make `CupertinoRadio`'s `mouseCursor` a `WidgetStateProperty` (#151910)<br />
     <sub>[#152051](https://github.com/flutter/flutter/pull/152051) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152051) 212 additions and 0 deletions in 4 files</sub><br />
 
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Sort doc-imports according to the directives_ordering rule<br />
+    <sub>[#152058](https://github.com/flutter/flutter/pull/152058) opened on on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152058) 3 additions and 3 deletions in 3 files</sub><br />
+
