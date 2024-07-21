@@ -92,3 +92,6 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix when filteredEntries isEmpty, thrown rangeError exception(#152079)<br />
     <sub>[#152080](https://github.com/flutter/flutter/pull/152080) opened on on July 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152080) 29 additions and 0 deletions in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add drag handle size to be configurable based on given size<br />
+    <sub>[#152085](https://github.com/flutter/flutter/pull/152085) opened on on July 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152085) 51 additions and 2 deletions in 2 files</sub><br />
+
