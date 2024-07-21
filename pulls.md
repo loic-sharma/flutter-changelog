@@ -86,6 +86,6 @@
 * **[Pavlo Kochylo](https://github.com/SyncroIT)** &mdash; Added new constructor RefreshIndicator.noSpinner()<br />
     <sub>[#152075](https://github.com/flutter/flutter/pull/152075) opened on on July 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152075) 394 additions and 132 deletions in 4 files</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; initial commit<br />
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/shortcuts] Add includeSemantics property to the Shortcuts widget.<br />
     <sub>[#152077](https://github.com/flutter/flutter/pull/152077) opened on on July 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152077) 52 additions and 0 deletions in 2 files</sub><br />
 
