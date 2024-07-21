@@ -89,3 +89,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/shortcuts] Add includeSemantics property to the Shortcuts widget.<br />
     <sub>[#152077](https://github.com/flutter/flutter/pull/152077) opened on on July 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152077) 52 additions and 0 deletions in 2 files</sub><br />
 
+* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; fix when filteredEntries isEmpty, thrown rangeError exception(#152079)<br />
+    <sub>[#152080](https://github.com/flutter/flutter/pull/152080) opened on on July 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152080) 29 additions and 0 deletions in 2 files</sub><br />
+
