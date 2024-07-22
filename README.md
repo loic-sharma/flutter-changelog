@@ -4,7 +4,11 @@
 
 ### July 20, 2024 to July 26, 2024
 
-1 commits.
+2 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Will pop scope on home route<br />
+    <sub>[#152057](https://github.com/flutter/flutter/pull/152057) merged on July 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152057) over 2 days, 81 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.<br />
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub><br />
@@ -477,7 +481,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-2 commits.
+3 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable ahb swapchain on emulators.<br />
     <sub>[#54019](https://github.com/flutter/engine/pull/54019) merged on July 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54019) over 41 minutes, 1 addition and 4 deletions in 1 file</sub><br />
@@ -486,6 +490,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] enable ahb swapchain on emulators. (#54019)"<br />
     <sub>[#54022](https://github.com/flutter/engine/pull/54022) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54022) over 1 minute, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove implicit calls to glGetError in opt modes.<br />
+    <sub>[#54016](https://github.com/flutter/engine/pull/54016) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54016) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 ### July 13, 2024 to July 19, 2024
 
