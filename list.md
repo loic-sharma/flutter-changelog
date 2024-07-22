@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### July 20, 2024 to July 26, 2024
+
+1 commits.
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.
+    <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 ### July 13, 2024 to July 19, 2024
 
-56 commits.
+<details>
+<summary>56 commits...</summary>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Create `CarouselView` widget - Part 2
     <sub>[#149775](https://github.com/flutter/flutter/pull/149775) merged on July 17, 2024 &mdash; **Extra large:** [91 comments](https://github.com/flutter/flutter/pull/149775) over 1 month, 1761 additions and 118 deletions in 4 files</sub>
@@ -233,6 +242,8 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland fix InputDecorator hint default text style on M3
     <sub>[#150835](https://github.com/flutter/flutter/pull/150835) merged on July 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150835) over 3 weeks, 13 additions and 25 deletions in 2 files</sub>
     <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+</details>
 
 ### July 6, 2024 to July 12, 2024
 
