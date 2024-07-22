@@ -54,6 +54,10 @@
     <sub>[#151616](https://github.com/flutter/flutter/pull/151616) merged on July 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/151616) over 5 days, 0 additions and 2793 deletions in 28 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[John Stef](https://github.com/johnstef99)** &mdash; Add borderRadius property to PopupMenuButton
+    <sub>[#151228](https://github.com/flutter/flutter/pull/151228) merged on July 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/151228) over 1 week, 50 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[n7484443](https://github.com/n7484443)** &mdash; chore: fix typo korean, cutButtonLabel
     <sub>[#151364](https://github.com/flutter/flutter/pull/151364) merged on July 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151364) over 1 week, 24 additions and 4 deletions in 6 files</sub>
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
@@ -62,10 +66,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix SelectionArea scrolling conflicts
     <sub>[#151138](https://github.com/flutter/flutter/pull/151138) merged on July 18, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/151138) over 2 weeks, 189 additions and 21 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[John Stef](https://github.com/johnstef99)** &mdash; Add borderRadius property to PopupMenuButton
-    <sub>[#151228](https://github.com/flutter/flutter/pull/151228) merged on July 16, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/151228) over 1 week, 50 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove conditionality in templates that was for AGP <= 4.2 support
     <sub>[#151845](https://github.com/flutter/flutter/pull/151845) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151845) over 3 hours, 3 additions and 28 deletions in 4 files</sub>
