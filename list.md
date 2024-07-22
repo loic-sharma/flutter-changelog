@@ -469,7 +469,7 @@
 1 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable ahb swapchain on emulators.
-    <sub>[#54019](https://github.com/flutter/engine/pull/54019) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54019) over 41 minutes, 1 addition and 4 deletions in 1 file</sub>
+    <sub>[#54019](https://github.com/flutter/engine/pull/54019) merged on July 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54019) over 41 minutes, 1 addition and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 ### July 13, 2024 to July 19, 2024
