@@ -710,7 +710,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix platform view placement.<br />
-    <sub>[#53845](https://github.com/flutter/engine/pull/53845) merged on July 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/53845) over 2 hours, 81 additions and 58 deletions in 5 files</sub><br />
+    <sub>[#53845](https://github.com/flutter/engine/pull/53845) merged on July 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53845) over 2 hours, 81 additions and 58 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Dustin Green](https://github.com/dustingreen)** &mdash; [fuchsia][sysmem2] move to sysmem2 protocols<br />
