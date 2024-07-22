@@ -464,9 +464,18 @@
 
 ## flutter/engine
 
+### July 20, 2024 to July 26, 2024
+
+1 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable ahb swapchain on emulators.
+    <sub>[#54019](https://github.com/flutter/engine/pull/54019) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54019) over 41 minutes, 1 addition and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 ### July 13, 2024 to July 19, 2024
 
-34 commits.
+<details>
+<summary>34 commits...</summary>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a "pub workspace" to the root of the engine repository
     <sub>[#53539](https://github.com/flutter/engine/pull/53539) merged on July 18, 2024 &mdash; **Medium:** [43 comments](https://github.com/flutter/engine/pull/53539) over 3 weeks, 248 additions and 59 deletions in 12 files</sub>
@@ -603,6 +612,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from b44d99ea2bf4 to 7368b1d084b0 (12 revisions)
     <sub>[#53949](https://github.com/flutter/engine/pull/53949) merged on July 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53949) over 2 hours, 16 additions and 16 deletions in 3 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### July 6, 2024 to July 12, 2024
 
