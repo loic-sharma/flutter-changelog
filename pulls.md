@@ -39,7 +39,7 @@
     <sub>[#151576](https://github.com/flutter/flutter/pull/151576) opened on on July 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151576) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
-    <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151585) 38 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151585) 38 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for focus_traversal_group.0.dart<br />
     <sub>[#151591](https://github.com/flutter/flutter/pull/151591) opened on on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151591) 45 additions and 1 deletion in 2 files</sub><br />
@@ -67,9 +67,6 @@
 
 * **[Kaan İnel](https://github.com/kaaninel)** &mdash; Removed ClipRect from AnimatedCrossFade<br />
     <sub>[#152027](https://github.com/flutter/flutter/pull/152027) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152027) 6 additions and 8 deletions in 1 file</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; [CP] Make `CupertinoRadio`'s `mouseCursor` a `WidgetStateProperty` (#151910)<br />
-    <sub>[#152051](https://github.com/flutter/flutter/pull/152051) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152051) 212 additions and 0 deletions in 4 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Sort doc-imports according to the directives_ordering rule<br />
     <sub>[#152058](https://github.com/flutter/flutter/pull/152058) opened on on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152058) 3 additions and 3 deletions in 3 files</sub><br />
