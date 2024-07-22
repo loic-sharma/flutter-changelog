@@ -81,7 +81,7 @@
     <sub>[#152069](https://github.com/flutter/flutter/pull/152069) opened on on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152069) 49 additions and 65 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file <br />
-    <sub>[#152073](https://github.com/flutter/flutter/pull/152073) opened on on July 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152073) 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#152073](https://github.com/flutter/flutter/pull/152073) opened on on July 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152073) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Pavlo Kochylo](https://github.com/SyncroIT)** &mdash; Added new constructor RefreshIndicator.noSpinner()<br />
     <sub>[#152075](https://github.com/flutter/flutter/pull/152075) opened on on July 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152075) 394 additions and 132 deletions in 4 files</sub><br />
