@@ -589,7 +589,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] try disabling backpressure in AHB swapchain.<br />
-    <sub>[#54012](https://github.com/flutter/engine/pull/54012) merged on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54012) over 2 hours, 0 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#54012](https://github.com/flutter/engine/pull/54012) merged on July 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54012) over 2 hours, 0 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Eliminate --clang-dir flag<br />
