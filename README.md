@@ -786,9 +786,18 @@
 
 ## flutter/packages
 
+### July 20, 2024 to July 26, 2024
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Windows packages to Pigeon 21<br />
+    <sub>[#7180](https://github.com/flutter/packages/pull/7180) merged on July 22, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/7180) over 2 days, 499 additions and 293 deletions in 27 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 ### July 13, 2024 to July 19, 2024
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.<br />
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub><br />
@@ -870,6 +879,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 761747bfc538 to b0850beeb25f (6 revisions)<br />
     <sub>[#7167](https://github.com/flutter/packages/pull/7167) merged on July 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7167) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### July 6, 2024 to July 12, 2024
 
