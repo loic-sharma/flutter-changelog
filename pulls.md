@@ -71,9 +71,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Sort doc-imports according to the directives_ordering rule<br />
     <sub>[#152058](https://github.com/flutter/flutter/pull/152058) opened on on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152058) 3 additions and 3 deletions in 3 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; material `docImport`s<br />
-    <sub>[#152060](https://github.com/flutter/flutter/pull/152060) opened on on July 20, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/152060) 631 additions and 1 deletion in 114 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Gap between prefix and suffix icon and input field in input deco…<br />
     <sub>[#152069](https://github.com/flutter/flutter/pull/152069) opened on on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152069) 49 additions and 65 deletions in 2 files</sub><br />
 
