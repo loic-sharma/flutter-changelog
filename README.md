@@ -830,7 +830,12 @@
 
 ### July 20, 2024 to July 26, 2024
 
-2 commits.
+3 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.activity:activity from 1.8.2 to 1.9.0 in /packages/image_picker/image_picker_android/android<br />
+    <sub>[#7188](https://github.com/flutter/packages/pull/7188) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7188) over 10 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.activity:activity&package-manager=gradle&previous-version=1.8.2&new-version=1.9.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [file_selector]: Bump com.android.tools.build:gradle from 7.3.0 to 8.5.1 in /packages/file_selector/file_selector_android/android<br />
     <sub>[#7190](https://github.com/flutter/packages/pull/7190) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7190) over 10 hours, 4 additions and 3 deletions in 3 files</sub><br />
