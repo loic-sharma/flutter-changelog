@@ -520,7 +520,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.<br />
-    <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [39 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub><br />
+    <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [40 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make FlWindowStateMonitor<br />
