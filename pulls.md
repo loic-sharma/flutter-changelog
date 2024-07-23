@@ -77,3 +77,6 @@
 * **[DBowen33](https://github.com/DBowen33)** &mdash; added Semantics wrapper over text field password<br />
     <sub>[#152193](https://github.com/flutter/flutter/pull/152193) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152193) 24 additions and 12 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow-list `sh` as a code-snippet type.<br />
+    <sub>[#152196](https://github.com/flutter/flutter/pull/152196) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152196) 2 additions and 1 deletion in 1 file</sub><br />
+
