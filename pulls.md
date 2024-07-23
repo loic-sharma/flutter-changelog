@@ -86,3 +86,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for range_slider.0.dart<br />
     <sub>[#152152](https://github.com/flutter/flutter/pull/152152) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152152) 76 additions and 1 deletion in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Cleanup InputDecoration.collapsed constructor<br />
+    <sub>[#152165](https://github.com/flutter/flutter/pull/152165) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152165) 75 additions and 6 deletions in 2 files</sub><br />
+
