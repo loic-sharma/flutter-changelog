@@ -86,3 +86,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Cleanup InputDecoration.collapsed constructor<br />
     <sub>[#152165](https://github.com/flutter/flutter/pull/152165) opened on on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152165) 75 additions and 6 deletions in 2 files</sub><br />
 
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update fake_codec.dart to use Future.value instead of SynchronousFuture<br />
+    <sub>[#152182](https://github.com/flutter/flutter/pull/152182) opened on on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152182) 2 additions and 2 deletions in 1 file</sub><br />
+
