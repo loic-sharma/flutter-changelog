@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-6 commits.
+7 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub>
@@ -17,6 +17,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Will pop scope on home route
     <sub>[#152057](https://github.com/flutter/flutter/pull/152057) merged on July 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152057) over 2 days, 81 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Release] Update release note location
+    <sub>[#151931](https://github.com/flutter/flutter/pull/151931) merged on July 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151931) over 5 days, 4 additions and 4 deletions in 4 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; material `docImport`s
     <sub>[#152060](https://github.com/flutter/flutter/pull/152060) merged on July 22, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/152060) over 2 days, 631 additions and 1 deletion in 114 files</sub>
