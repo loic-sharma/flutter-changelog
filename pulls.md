@@ -84,5 +84,5 @@
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; More material `docImport`s<br />
-    <sub>[#152144](https://github.com/flutter/flutter/pull/152144) opened on on July 23, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/152144) 311 additions and 40 deletions in 52 files</sub><br />
+    <sub>[#152144](https://github.com/flutter/flutter/pull/152144) opened on on July 23, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/152144) 315 additions and 40 deletions in 53 files</sub><br />
 
