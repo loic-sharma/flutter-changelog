@@ -18,7 +18,7 @@
     <sub>[#150960](https://github.com/flutter/flutter/pull/150960) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150960) 42 additions and 0 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] when writing to openssl as a part of macOS/iOS code-signing, flush the stdin stream before closing it<br />
-    <sub>[#151014](https://github.com/flutter/flutter/pull/151014) opened on on June 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151014) 166 additions and 7 deletions in 5 files</sub><br />
+    <sub>[#151014](https://github.com/flutter/flutter/pull/151014) opened on on June 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151014) 166 additions and 7 deletions in 5 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Flicker when reorderable list doesn't change its position<br />
     <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151026) 39 additions and 2 deletions in 2 files</sub><br />
@@ -78,7 +78,7 @@
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `widgets` docImport<br />
-    <sub>[#152146](https://github.com/flutter/flutter/pull/152146) opened on on July 23, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/152146) 814 additions and 8 deletions in 136 files</sub><br />
+    <sub>[#152146](https://github.com/flutter/flutter/pull/152146) opened on on July 23, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/152146) 811 additions and 4 deletions in 136 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for range_slider.0.dart<br />
     <sub>[#152152](https://github.com/flutter/flutter/pull/152152) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152152) 76 additions and 1 deletion in 2 files</sub><br />
