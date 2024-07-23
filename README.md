@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-12 commits.
+14 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants<br />
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub><br />
@@ -37,6 +37,14 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [native_assets] Fix macOS host build failure when there are no frameworks to sign.<br />
     <sub>[#150742](https://github.com/flutter/flutter/pull/150742) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150742) over 4 weeks, 76 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Notify me of changes to `flutter_driver`.<br />
+    <sub>[#152188](https://github.com/flutter/flutter/pull/152188) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152188) over 56 minutes, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; Update Flutter-Web-Triage.md<br />
+    <sub>[#152191](https://github.com/flutter/flutter/pull/152191) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152191) over 1 minute, 2 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.<br />
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub><br />
