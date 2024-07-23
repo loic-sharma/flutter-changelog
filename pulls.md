@@ -56,9 +56,6 @@
 * **[Daniel Gomez](https://github.com/danielgomezrico)** &mdash; Allow `BorderRadius.circular` to be a `const` factory<br />
     <sub>[#151956](https://github.com/flutter/flutter/pull/151956) opened on on July 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151956) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[DBowen33](https://github.com/DBowen33)** &mdash; refactor(Flutter Web App): added Semantics wrapper over slider to add…<br />
-    <sub>[#151985](https://github.com/flutter/flutter/pull/151985) opened on on July 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151985) 19 additions and 10 deletions in 2 files</sub><br />
-
 * **[Kaan İnel](https://github.com/kaaninel)** &mdash; Removed ClipRect from AnimatedCrossFade<br />
     <sub>[#152027](https://github.com/flutter/flutter/pull/152027) opened on on July 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152027) 6 additions and 8 deletions in 1 file</sub><br />
 
