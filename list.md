@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-8 commits.
+9 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub>
@@ -25,6 +25,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; material `docImport`s
     <sub>[#152060](https://github.com/flutter/flutter/pull/152060) merged on July 22, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/152060) over 2 days, 631 additions and 1 deletion in 114 files</sub>
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [native_assets] Fix macOS host build failure when there are no frameworks to sign.
+    <sub>[#150742](https://github.com/flutter/flutter/pull/150742) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150742) over 4 weeks, 76 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub>
