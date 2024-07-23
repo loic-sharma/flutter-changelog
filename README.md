@@ -541,7 +541,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-16 commits.
+17 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.<br />
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub><br />
@@ -570,6 +570,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] enable ahb swapchain on emulators. (#54019)"<br />
     <sub>[#54022](https://github.com/flutter/engine/pull/54022) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54022) over 1 minute, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Mark EmbeddedViewCount const<br />
+    <sub>[#54062](https://github.com/flutter/engine/pull/54062) merged on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54062) over 40 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Cleanly revert requiring backpressure for AHB swapchains.<br />
     <sub>[#54027](https://github.com/flutter/engine/pull/54027) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54027) over 1 hour, 2 additions and 8 deletions in 3 files</sub><br />
