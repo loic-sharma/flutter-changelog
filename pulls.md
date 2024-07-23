@@ -68,9 +68,6 @@
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update fake_codec.dart to use Future.value instead of SynchronousFuture<br />
     <sub>[#152182](https://github.com/flutter/flutter/pull/152182) opened on on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152182) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Flutter beta 3.24.0-0.1.pre<br />
-    <sub>[#152184](https://github.com/flutter/flutter/pull/152184) opened on on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152184) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[DBowen33](https://github.com/DBowen33)** &mdash; added functionality to where SR will communicate button pressed<br />
     <sub>[#152185](https://github.com/flutter/flutter/pull/152185) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152185) 17 additions and 3 deletions in 2 files</sub><br />
 
