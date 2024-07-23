@@ -36,7 +36,7 @@
     <sub>[#151576](https://github.com/flutter/flutter/pull/151576) opened on on July 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151576) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
-    <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151585) 44 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151585) 44 additions and 1 deletion in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]SelectionArea's selection should not be cleared on loss of window focus<br />
     <sub>[#151618](https://github.com/flutter/flutter/pull/151618) opened on on July 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151618) 96 additions and 3 deletions in 6 files</sub><br />
