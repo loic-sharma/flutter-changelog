@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-9 commits.
+10 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub>
@@ -33,6 +33,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/shortcuts] Add includeSemantics property to the Shortcuts widget.
+    <sub>[#152077](https://github.com/flutter/flutter/pull/152077) merged on July 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152077) over 2 days, 53 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for focus_traversal_group.0.dart
     <sub>[#151591](https://github.com/flutter/flutter/pull/151591) merged on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151591) over 1 week, 45 additions and 1 deletion in 2 files</sub>
@@ -532,7 +536,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure fp rounding errors don't cause us to lose a row of pixels when computing text positions.
-    <sub>[#54015](https://github.com/flutter/engine/pull/54015) merged on July 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54015) over 1 day, 3 additions and 2 deletions in 1 file</sub>
+    <sub>[#54015](https://github.com/flutter/engine/pull/54015) merged on July 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54015) over 1 day, 3 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Prepend third_party/pyyaml to python sys.path
