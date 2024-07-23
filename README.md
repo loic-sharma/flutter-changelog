@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-10 commits.
+12 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants<br />
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub><br />
@@ -18,6 +18,10 @@
     <sub>[#152057](https://github.com/flutter/flutter/pull/152057) merged on July 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152057) over 2 days, 81 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; More material `docImport`s<br />
+    <sub>[#152144](https://github.com/flutter/flutter/pull/152144) merged on July 23, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/152144) over 19 hours, 315 additions and 40 deletions in 53 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Sam Rawlins](https://github.com/srawlins)</sub><br />
+
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Release] Update release note location<br />
     <sub>[#151931](https://github.com/flutter/flutter/pull/151931) merged on July 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151931) over 5 days, 4 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -25,6 +29,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; material `docImport`s<br />
     <sub>[#152060](https://github.com/flutter/flutter/pull/152060) merged on July 22, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/152060) over 2 days, 631 additions and 1 deletion in 114 files</sub><br />
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Guard more `write`/`writeln` calls on `Process.stdin`<br />
+    <sub>[#151146](https://github.com/flutter/flutter/pull/151146) merged on July 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151146) over 3 weeks, 74 additions and 26 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [native_assets] Fix macOS host build failure when there are no frameworks to sign.<br />
     <sub>[#150742](https://github.com/flutter/flutter/pull/150742) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150742) over 4 weeks, 76 additions and 0 deletions in 2 files</sub><br />
