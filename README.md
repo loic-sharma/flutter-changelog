@@ -509,7 +509,11 @@
 
 ### July 20, 2024 to July 26, 2024
 
-8 commits.
+9 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make FlWindowStateMonitor<br />
+    <sub>[#54011](https://github.com/flutter/engine/pull/54011) merged on July 23, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/54011) over 3 days, 476 additions and 121 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable ahb swapchain on emulators.<br />
     <sub>[#54019](https://github.com/flutter/engine/pull/54019) merged on July 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54019) over 41 minutes, 1 addition and 4 deletions in 1 file</sub><br />
