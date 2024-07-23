@@ -92,3 +92,6 @@
 * **[DBowen33](https://github.com/DBowen33)** &mdash; added functionality to where SR will communicate button pressed<br />
     <sub>[#152185](https://github.com/flutter/flutter/pull/152185) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152185) 17 additions and 3 deletions in 2 files</sub><br />
 
+* **[DBowen33](https://github.com/DBowen33)** &mdash; added Semantics wrapper over text field password<br />
+    <sub>[#152193](https://github.com/flutter/flutter/pull/152193) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152193) 24 additions and 12 deletions in 2 files</sub><br />
+
