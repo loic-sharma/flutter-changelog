@@ -54,7 +54,7 @@
     <sub>[#152085](https://github.com/flutter/flutter/pull/152085) opened on on July 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152085) 51 additions and 2 deletions in 2 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#152127](https://github.com/flutter/flutter/pull/152127) opened on on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152127) 4 additions and 4 deletions in 2 files</sub><br />
+    <sub>[#152127](https://github.com/flutter/flutter/pull/152127) opened on on July 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152127) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; fix: A referenced default package must be a plugin package<br />
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
