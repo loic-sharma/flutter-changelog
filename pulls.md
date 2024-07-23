@@ -18,7 +18,7 @@
     <sub>[#150960](https://github.com/flutter/flutter/pull/150960) opened on on June 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/150960) 42 additions and 0 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] when writing to openssl as a part of macOS/iOS code-signing, flush the stdin stream before closing it<br />
-    <sub>[#151014](https://github.com/flutter/flutter/pull/151014) opened on on June 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151014) 166 additions and 7 deletions in 5 files</sub><br />
+    <sub>[#151014](https://github.com/flutter/flutter/pull/151014) opened on on June 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151014) 166 additions and 7 deletions in 5 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Flicker when reorderable list doesn't change its position<br />
     <sub>[#151026](https://github.com/flutter/flutter/pull/151026) opened on on June 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151026) 39 additions and 2 deletions in 2 files</sub><br />
