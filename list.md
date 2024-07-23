@@ -4,11 +4,15 @@
 
 ### July 20, 2024 to July 26, 2024
 
-5 commits.
+6 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Use Xcode build setting PRODUCT_NAME to find app and archive paths
+    <sub>[#140242](https://github.com/flutter/flutter/pull/140242) merged on July 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140242) over 7 months, 66 additions and 43 deletions in 9 files</sub>
+    <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Will pop scope on home route
     <sub>[#152057](https://github.com/flutter/flutter/pull/152057) merged on July 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152057) over 2 days, 81 additions and 2 deletions in 3 files</sub>

@@ -2,9 +2,6 @@
 
 ## flutter/flutter
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Use Xcode build setting PRODUCT_NAME to find app and archive paths<br />
-    <sub>[#140242](https://github.com/flutter/flutter/pull/140242) opened on on December 15, 2023 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140242) 66 additions and 43 deletions in 9 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149201) 929 additions and 0 deletions in 1 file</sub><br />
 
@@ -85,4 +82,7 @@
 
 * **[August](https://github.com/Gustl22)** &mdash; fix: A referenced default package must be a plugin package<br />
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; More material `docImport`s<br />
+    <sub>[#152144](https://github.com/flutter/flutter/pull/152144) opened on on July 23, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/152144) 311 additions and 40 deletions in 52 files</sub><br />
 
