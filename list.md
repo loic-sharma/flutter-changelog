@@ -513,7 +513,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-13 commits.
+14 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_engine_add/remove_view
     <sub>[#54018](https://github.com/flutter/engine/pull/54018) merged on July 23, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/54018) over 21 hours, 401 additions and 20 deletions in 3 files</sub>
@@ -550,6 +550,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove implicit calls to glGetError in opt modes.
     <sub>[#54016](https://github.com/flutter/engine/pull/54016) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54016) over 20 hours, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Temporarily disable use of glBlitFramebuffer on NVIDIA
+    <sub>[#54040](https://github.com/flutter/engine/pull/54040) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54040) over 9 hours, 55 additions and 2 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Set the view ID for FlView
     <sub>[#54043](https://github.com/flutter/engine/pull/54043) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54043) over 5 hours, 58 additions and 31 deletions in 4 files</sub>
