@@ -78,7 +78,7 @@
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `widgets` docImport<br />
-    <sub>[#152146](https://github.com/flutter/flutter/pull/152146) opened on on July 23, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/152146) 884 additions and 8 deletions in 136 files</sub><br />
+    <sub>[#152146](https://github.com/flutter/flutter/pull/152146) opened on on July 23, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/152146) 814 additions and 8 deletions in 136 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for range_slider.0.dart<br />
     <sub>[#152152](https://github.com/flutter/flutter/pull/152152) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152152) 76 additions and 1 deletion in 2 files</sub><br />
