@@ -513,7 +513,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-15 commits.
+16 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.<br />
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub><br />
@@ -530,6 +530,10 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] track unbounded state on save layers and DisplayLists<br />
     <sub>[#54032](https://github.com/flutter/engine/pull/54032) merged on July 23, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54032) over 16 hours, 601 additions and 60 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add emulated advanced blend support for exp canvas.<br />
+    <sub>[#54020](https://github.com/flutter/engine/pull/54020) merged on July 23, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/54020) over 1 day, 132 additions and 71 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable ahb swapchain on emulators.<br />
     <sub>[#54019](https://github.com/flutter/engine/pull/54019) merged on July 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54019) over 41 minutes, 1 addition and 4 deletions in 1 file</sub><br />
