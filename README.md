@@ -509,7 +509,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-10 commits.
+11 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_engine_add/remove_view<br />
     <sub>[#54018](https://github.com/flutter/engine/pull/54018) merged on July 23, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/54018) over 21 hours, 401 additions and 20 deletions in 3 files</sub><br />
@@ -542,6 +542,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove implicit calls to glGetError in opt modes.<br />
     <sub>[#54016](https://github.com/flutter/engine/pull/54016) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54016) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Skia from 939e1dac9815 to f9a9c31b433b (3 revisions)<br />
+    <sub>[#54037](https://github.com/flutter/engine/pull/54037) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54037) over 11 hours, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 503192257a47 to b937619129a4 (13 revisions)<br />
     <sub>[#54028](https://github.com/flutter/engine/pull/54028) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54028) over 43 minutes, 10 additions and 10 deletions in 3 files</sub><br />
