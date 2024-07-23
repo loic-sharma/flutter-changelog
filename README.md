@@ -4,11 +4,15 @@
 
 ### July 20, 2024 to July 26, 2024
 
-15 commits.
+16 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants<br />
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Eric Seidel](https://github.com/eseidel)** &mdash; Add more docs to DragTraget.builder<br />
+    <sub>[#151447](https://github.com/flutter/flutter/pull/151447) merged on July 23, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/151447) over 2 weeks, 18 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Aliasgar Vohra](https://github.com/aliasgar4558), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use Xcode build setting PRODUCT_NAME to find app and archive paths<br />
     <sub>[#140242](https://github.com/flutter/flutter/pull/140242) merged on July 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140242) over 7 months, 66 additions and 43 deletions in 9 files</sub><br />
