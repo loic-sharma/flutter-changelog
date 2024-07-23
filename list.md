@@ -765,7 +765,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use downsample shader for blur instead of mip levels.
-    <sub>[#53760](https://github.com/flutter/engine/pull/53760) merged on July 9, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/53760) over 1 day, 343 additions and 263 deletions in 10 files</sub>
+    <sub>[#53760](https://github.com/flutter/engine/pull/53760) merged on July 9, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/53760) over 1 day, 343 additions and 263 deletions in 10 files</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Prepare engine for deprecation of async_minitest.dart
