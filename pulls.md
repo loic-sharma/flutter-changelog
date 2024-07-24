@@ -5,9 +5,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149201) 929 additions and 0 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
-    <sub>[#150394](https://github.com/flutter/flutter/pull/150394) opened on on June 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/150394) 1515 additions and 188 deletions in 14 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] make flutter create use --offline in SPM integration tests<br />
     <sub>[#150737](https://github.com/flutter/flutter/pull/150737) opened on on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150737) 1 addition and 0 deletions in 1 file</sub><br />
 
@@ -38,14 +35,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for expansion_panel_list.expansion_panel_list_radio.0_test.dart<br />
     <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151730) 44 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Gap between prefix and suffix icon and input field in input deco…<br />
-    <sub>[#152069](https://github.com/flutter/flutter/pull/152069) opened on on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152069) 49 additions and 65 deletions in 2 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file <br />
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) opened on on July 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152073) 3 additions and 3 deletions in 1 file</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add drag handle size to be configurable based on given size<br />
-    <sub>[#152085](https://github.com/flutter/flutter/pull/152085) opened on on July 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152085) 51 additions and 2 deletions in 2 files</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#152127](https://github.com/flutter/flutter/pull/152127) opened on on July 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152127) 4 additions and 4 deletions in 2 files</sub><br />
