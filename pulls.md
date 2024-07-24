@@ -39,7 +39,7 @@
     <sub>[#151699](https://github.com/flutter/flutter/pull/151699) opened on on July 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151699) 89 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for expansion_panel_list.expansion_panel_list_radio.0_test.dart<br />
-    <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151730) 44 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151730) 44 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Gap between prefix and suffix icon and input field in input deco…<br />
     <sub>[#152069](https://github.com/flutter/flutter/pull/152069) opened on on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152069) 49 additions and 65 deletions in 2 files</sub><br />
@@ -60,7 +60,7 @@
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for range_slider.0.dart<br />
-    <sub>[#152152](https://github.com/flutter/flutter/pull/152152) opened on on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152152) 76 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#152152](https://github.com/flutter/flutter/pull/152152) opened on on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152152) 76 additions and 1 deletion in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Cleanup InputDecoration.collapsed constructor<br />
     <sub>[#152165](https://github.com/flutter/flutter/pull/152165) opened on on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152165) 75 additions and 6 deletions in 2 files</sub><br />
