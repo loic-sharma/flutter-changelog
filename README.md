@@ -549,7 +549,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-19 commits.
+20 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.<br />
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub><br />
@@ -606,6 +606,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove implicit calls to glGetError in opt modes.<br />
     <sub>[#54016](https://github.com/flutter/engine/pull/54016) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54016) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSArray.length to return int<br />
+    <sub>[#54051](https://github.com/flutter/engine/pull/54051) merged on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54051) over 7 hours, 4 additions and 6 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Temporarily disable use of glBlitFramebuffer on NVIDIA<br />
     <sub>[#54040](https://github.com/flutter/engine/pull/54040) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54040) over 9 hours, 55 additions and 2 deletions in 4 files</sub><br />

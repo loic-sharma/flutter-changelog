@@ -21,7 +21,7 @@
     <sub>[#151184](https://github.com/flutter/flutter/pull/151184) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151184) 75 additions and 6 deletions in 4 files</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Adds a call to the `PlatformDispatcher` whenever the focus changes<br />
-    <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151268) 119 additions and 45 deletions in 4 files</sub><br />
+    <sub>[#151268](https://github.com/flutter/flutter/pull/151268) opened on on July 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/151268) 125 additions and 46 deletions in 4 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dartdoc to 8.0.11 to fix focusing search field<br />
     <sub>[#151576](https://github.com/flutter/flutter/pull/151576) opened on on July 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151576) 1 addition and 1 deletion in 1 file</sub><br />
