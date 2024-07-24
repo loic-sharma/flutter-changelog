@@ -4,7 +4,12 @@
 
 ### July 20, 2024 to July 26, 2024
 
-25 commits.
+27 commits.
+
+* **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
+    <sub>[#151731](https://github.com/flutter/flutter/pull/151731) merged on July 24, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/151731) over 1 week, 29 additions and 0 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="372" alt="Screenshot 2024-07-14 at 8 03 14 PM" src="https://github.com/user-attachments/assets/4a45b843-7fa4-44fd-843c-c7209c6f57ae"><img width="364" alt="Screenshot 2024-07-14 at 8 03 27 PM" src="https://github.com/user-attachments/assets/12e8b857-aefb-4aaf-a310-4a002abcbc2f"></details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Scaffolding for `NativeDriver` and `AndroidNativeDriver` for taking screenshots using `adb`.<br />
     <sub>[#152194](https://github.com/flutter/flutter/pull/152194) merged on July 24, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/152194) over 22 hours, 332 additions and 0 deletions in 9 files</sub><br />
@@ -69,6 +74,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.<br />
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[DBowen33](https://github.com/DBowen33)** &mdash; added Semantics label to TextField with InputDecoration to let user k…<br />
+    <sub>[#151996](https://github.com/flutter/flutter/pull/151996) merged on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151996) over 6 days, 30 additions and 16 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Use more CORS headers for `flutter run` server (#152048)"<br />
     <sub>[#152248](https://github.com/flutter/flutter/pull/152248) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152248) over 1 minute, 1 addition and 3 deletions in 1 file</sub><br />
