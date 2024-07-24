@@ -44,9 +44,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file <br />
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) opened on on July 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152073) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Pavlo Kochylo](https://github.com/SyncroIT)** &mdash; Added new constructor RefreshIndicator.noSpinner()<br />
-    <sub>[#152075](https://github.com/flutter/flutter/pull/152075) opened on on July 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152075) 394 additions and 132 deletions in 4 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add drag handle size to be configurable based on given size<br />
     <sub>[#152085](https://github.com/flutter/flutter/pull/152085) opened on on July 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152085) 51 additions and 2 deletions in 2 files</sub><br />
 
