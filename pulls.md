@@ -83,6 +83,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix cursor position when Unicode Zs category is entered in TextField<br />
     <sub>[#152215](https://github.com/flutter/flutter/pull/152215) opened on on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152215) 80 additions and 10 deletions in 2 files</sub><br />
 
-* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; refactor: use recommended plugin DSL when creating a new flutter plugin<br />
+* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Use recommended plugin DSL when creating a new flutter plugin<br />
     <sub>[#152229](https://github.com/flutter/flutter/pull/152229) opened on on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152229) 8 additions and 14 deletions in 2 files</sub><br />
 
