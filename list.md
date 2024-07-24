@@ -4,7 +4,11 @@
 
 ### July 20, 2024 to July 26, 2024
 
-24 commits.
+25 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Scaffolding for `NativeDriver` and `AndroidNativeDriver` for taking screenshots using `adb`.
+    <sub>[#152194](https://github.com/flutter/flutter/pull/152194) merged on July 24, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/152194) over 22 hours, 332 additions and 0 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino), [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub>

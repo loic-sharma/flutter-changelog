@@ -56,3 +56,6 @@
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Use recommended plugin DSL when creating a new flutter plugin<br />
     <sub>[#152229](https://github.com/flutter/flutter/pull/152229) opened on on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152229) 8 additions and 14 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Set dart defines properly while in debug mode.<br />
+    <sub>[#152262](https://github.com/flutter/flutter/pull/152262) opened on on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152262) 2 additions and 2 deletions in 1 file</sub><br />
+
