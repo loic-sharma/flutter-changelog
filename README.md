@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-19 commits.
+20 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants<br />
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub><br />
@@ -41,6 +41,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [native_assets] Fix macOS host build failure when there are no frameworks to sign.<br />
     <sub>[#150742](https://github.com/flutter/flutter/pull/150742) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150742) over 4 weeks, 76 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Enable Swift Package Manager by default on master channel<br />
+    <sub>[#152049](https://github.com/flutter/flutter/pull/152049) merged on July 24, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/152049) over 4 days, 216 additions and 86 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow-list `sh` as a code-snippet type.<br />
     <sub>[#152196](https://github.com/flutter/flutter/pull/152196) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152196) over 1 hour, 2 additions and 1 deletion in 1 file</sub><br />
