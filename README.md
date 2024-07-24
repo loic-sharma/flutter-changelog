@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-27 commits.
+30 commits.
 
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) merged on July 24, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/151731) over 1 week, 29 additions and 0 deletions in 3 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Will pop scope on home route<br />
     <sub>[#152057](https://github.com/flutter/flutter/pull/152057) merged on July 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152057) over 2 days, 81 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: A selectable's selection under the active selection should not be cleared on right-click<br />
+    <sub>[#151851](https://github.com/flutter/flutter/pull/151851) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151851) over 1 week, 77 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `widgets` docImport<br />
     <sub>[#152146](https://github.com/flutter/flutter/pull/152146) merged on July 24, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/152146) over 1 day, 808 additions and 0 deletions in 136 files</sub><br />
@@ -114,6 +118,14 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Sort doc-imports according to the directives_ordering rule<br />
     <sub>[#152058](https://github.com/flutter/flutter/pull/152058) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152058) over 2 days, 3 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac channels_integration_test to be flaky<br />
+    <sub>[#151882](https://github.com/flutter/flutter/pull/151882) merged on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151882) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Revert "Make `CupertinoRadio`'s `mouseCursor` a `WidgetStateProperty`"<br />
+    <sub>[#152254](https://github.com/flutter/flutter/pull/152254) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152254) over 3 hours, 41 additions and 93 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 ### July 13, 2024 to July 19, 2024
 
