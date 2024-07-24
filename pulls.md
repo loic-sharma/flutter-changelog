@@ -77,3 +77,6 @@
 * **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(flutter/a11y assessments): h1 missing a11y from each page on the web app<br />
     <sub>[#152198](https://github.com/flutter/flutter/pull/152198) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152198) 162 additions and 13 deletions in 26 files</sub><br />
 
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Modify stepping integration test to accommodate new DDC async semantics.<br />
+    <sub>[#152204](https://github.com/flutter/flutter/pull/152204) opened on on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152204) 5 additions and 5 deletions in 1 file</sub><br />
+
