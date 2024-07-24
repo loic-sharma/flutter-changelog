@@ -582,7 +582,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-31 commits.
+32 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub>
@@ -627,6 +627,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] enable ahb swapchain on emulators. (#54019)"
     <sub>[#54022](https://github.com/flutter/engine/pull/54022) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54022) over 1 minute, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Build universal gen_snapshots for iOS
+    <sub>[#54009](https://github.com/flutter/engine/pull/54009) merged on July 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54009) over 4 days, 23 additions and 23 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move testing/litetest to pub workspaces.
     <sub>[#54082](https://github.com/flutter/engine/pull/54082) merged on July 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54082) over 3 hours, 13 additions and 24 deletions in 4 files</sub>
