@@ -66,7 +66,7 @@
     <sub>[#152165](https://github.com/flutter/flutter/pull/152165) opened on on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152165) 75 additions and 6 deletions in 2 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update fake_codec.dart to use Future.value instead of SynchronousFuture<br />
-    <sub>[#152182](https://github.com/flutter/flutter/pull/152182) opened on on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152182) 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>[#152182](https://github.com/flutter/flutter/pull/152182) opened on on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152182) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[DBowen33](https://github.com/DBowen33)** &mdash; added functionality to where SR will communicate button pressed<br />
     <sub>[#152185](https://github.com/flutter/flutter/pull/152185) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152185) 17 additions and 3 deletions in 2 files</sub><br />
