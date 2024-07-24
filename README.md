@@ -164,7 +164,7 @@
     <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Make `CupertinoRadio`'s `mouseCursor` a `WidgetStateProperty`<br />
-    <sub>[#151910](https://github.com/flutter/flutter/pull/151910) merged on July 19, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/151910) over 2 days, 93 additions and 41 deletions in 4 files</sub><br />
+    <sub>[#151910](https://github.com/flutter/flutter/pull/151910) merged on July 19, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/151910) over 2 days, 93 additions and 41 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[croro613](https://github.com/croro613)** &mdash; Fix WidgetStateTextStyle's doc<br />
@@ -565,7 +565,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-28 commits.
+29 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.<br />
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub><br />
@@ -610,6 +610,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] enable ahb swapchain on emulators. (#54019)"<br />
     <sub>[#54022](https://github.com/flutter/engine/pull/54022) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54022) over 1 minute, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Suggest a few common vscode extensions.<br />
+    <sub>[#53974](https://github.com/flutter/engine/pull/53974) merged on July 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53974) over 6 days, 20 additions and 2 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Fix assertions on DisplayList verbose comparison tests<br />
     <sub>[#54065](https://github.com/flutter/engine/pull/54065) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54065) over 50 minutes, 46 additions and 24 deletions in 2 files</sub><br />
