@@ -549,7 +549,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-20 commits.
+23 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub>
@@ -606,6 +606,18 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove implicit calls to glGetError in opt modes.
     <sub>[#54016](https://github.com/flutter/engine/pull/54016) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54016) over 20 hours, 2 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Rename FlBackingStoreProvider to FlFramebuffer
+    <sub>[#54047](https://github.com/flutter/engine/pull/54047) merged on July 24, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/54047) over 15 hours, 175 additions and 182 deletions in 8 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unnecessary double cast
+    <sub>[#54044](https://github.com/flutter/engine/pull/54044) merged on July 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54044) over 16 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix variable name
+    <sub>[#54045](https://github.com/flutter/engine/pull/54045) merged on July 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54045) over 16 hours, 3 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSArray.length to return int
     <sub>[#54051](https://github.com/flutter/engine/pull/54051) merged on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54051) over 7 hours, 4 additions and 6 deletions in 2 files</sub>
