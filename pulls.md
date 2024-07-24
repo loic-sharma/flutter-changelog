@@ -62,9 +62,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for range_slider.0.dart<br />
     <sub>[#152152](https://github.com/flutter/flutter/pull/152152) opened on on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152152) 76 additions and 1 deletion in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Cleanup InputDecoration.collapsed constructor<br />
-    <sub>[#152165](https://github.com/flutter/flutter/pull/152165) opened on on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152165) 75 additions and 6 deletions in 2 files</sub><br />
-
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update fake_codec.dart to use Future.value instead of SynchronousFuture<br />
     <sub>[#152182](https://github.com/flutter/flutter/pull/152182) opened on on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152182) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -85,4 +82,7 @@
 
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Use recommended plugin DSL when creating a new flutter plugin<br />
     <sub>[#152229](https://github.com/flutter/flutter/pull/152229) opened on on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152229) 8 additions and 14 deletions in 2 files</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Shortcut label for CharacterActivator does not include modifiers<br />
+    <sub>[#152233](https://github.com/flutter/flutter/pull/152233) opened on on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152233) 71 additions and 2 deletions in 2 files</sub><br />
 
