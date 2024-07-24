@@ -39,7 +39,7 @@
     <sub>[#151699](https://github.com/flutter/flutter/pull/151699) opened on on July 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151699) 89 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for expansion_panel_list.expansion_panel_list_radio.0_test.dart<br />
-    <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151730) 44 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151730) 44 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Gap between prefix and suffix icon and input field in input deco…<br />
     <sub>[#152069](https://github.com/flutter/flutter/pull/152069) opened on on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152069) 49 additions and 65 deletions in 2 files</sub><br />
@@ -70,9 +70,6 @@
 
 * **[DBowen33](https://github.com/DBowen33)** &mdash; added Semantics wrapper over text field password<br />
     <sub>[#152193](https://github.com/flutter/flutter/pull/152193) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152193) 24 additions and 12 deletions in 2 files</sub><br />
-
-* **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(flutter/a11y assessments): h1 missing a11y from each page on the web app<br />
-    <sub>[#152198](https://github.com/flutter/flutter/pull/152198) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152198) 162 additions and 13 deletions in 26 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Modify stepping integration test to accommodate new DDC async semantics.<br />
     <sub>[#152204](https://github.com/flutter/flutter/pull/152204) opened on on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152204) 5 additions and 5 deletions in 1 file</sub><br />
