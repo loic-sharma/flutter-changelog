@@ -594,7 +594,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-32 commits.
+34 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.<br />
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub><br />
@@ -620,6 +620,14 @@
     <sub>[#54061](https://github.com/flutter/engine/pull/54061) merged on July 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54061) over 18 hours, 71 additions and 59 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] Switch to FlutterMetalLayer by default.<br />
+    <sub>[#54086](https://github.com/flutter/engine/pull/54086) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54086) over 3 hours, 120 additions and 8 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matej Knopp](https://github.com/knopp)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable ahb swapchain on emulators.<br />
+    <sub>[#54019](https://github.com/flutter/engine/pull/54019) merged on July 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54019) over 41 minutes, 1 addition and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Flush layer pool after platform view dispose<br />
     <sub>[#54056](https://github.com/flutter/engine/pull/54056) merged on July 23, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/54056) over 4 hours, 45 additions and 7 deletions in 3 files</sub><br />
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -627,10 +635,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add emulated advanced blend support for exp canvas.<br />
     <sub>[#54020](https://github.com/flutter/engine/pull/54020) merged on July 23, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/54020) over 1 day, 132 additions and 71 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable ahb swapchain on emulators.<br />
-    <sub>[#54019](https://github.com/flutter/engine/pull/54019) merged on July 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54019) over 41 minutes, 1 addition and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Upgrade Engine Android SDK to 35<br />
     <sub>[#53574](https://github.com/flutter/engine/pull/53574) merged on July 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53574) over 4 weeks, 28 additions and 20 deletions in 14 files</sub><br />
@@ -640,9 +644,9 @@
     <sub>[#54022](https://github.com/flutter/engine/pull/54022) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54022) over 1 minute, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Build universal gen_snapshots for iOS<br />
-    <sub>[#54009](https://github.com/flutter/engine/pull/54009) merged on July 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54009) over 4 days, 23 additions and 23 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Better RBE defaults<br />
+    <sub>[#54059](https://github.com/flutter/engine/pull/54059) merged on July 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54059) over 1 day, 273 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move testing/litetest to pub workspaces.<br />
     <sub>[#54082](https://github.com/flutter/engine/pull/54082) merged on July 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54082) over 3 hours, 13 additions and 24 deletions in 4 files</sub><br />
@@ -680,9 +684,9 @@
     <sub>[#54016](https://github.com/flutter/engine/pull/54016) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54016) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix embedder comments about struct_size<br />
-    <sub>[#54077](https://github.com/flutter/engine/pull/54077) merged on July 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54077) over 6 hours, 4 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Build universal gen_snapshots for iOS<br />
+    <sub>[#54009](https://github.com/flutter/engine/pull/54009) merged on July 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54009) over 4 days, 23 additions and 23 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't rely on the renderer accessing the engine through the view.<br />
     <sub>[#54049](https://github.com/flutter/engine/pull/54049) merged on July 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54049) over 22 hours, 33 additions and 6 deletions in 3 files</sub><br />
@@ -711,6 +715,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Set the view ID for FlView<br />
     <sub>[#54043](https://github.com/flutter/engine/pull/54043) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54043) over 5 hours, 58 additions and 31 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix embedder comments about struct_size<br />
+    <sub>[#54077](https://github.com/flutter/engine/pull/54077) merged on July 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54077) over 6 hours, 4 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Skia from 939e1dac9815 to f9a9c31b433b (3 revisions)<br />
     <sub>[#54037](https://github.com/flutter/engine/pull/54037) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54037) over 11 hours, 2 additions and 2 deletions in 2 files</sub><br />
