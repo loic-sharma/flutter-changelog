@@ -68,9 +68,6 @@
 * **[DBowen33](https://github.com/DBowen33)** &mdash; added functionality to where SR will communicate button pressed<br />
     <sub>[#152185](https://github.com/flutter/flutter/pull/152185) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152185) 17 additions and 3 deletions in 2 files</sub><br />
 
-* **[DBowen33](https://github.com/DBowen33)** &mdash; added Semantics wrapper over text field password<br />
-    <sub>[#152193](https://github.com/flutter/flutter/pull/152193) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152193) 24 additions and 12 deletions in 2 files</sub><br />
-
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Modify stepping integration test to accommodate new DDC async semantics.<br />
     <sub>[#152204](https://github.com/flutter/flutter/pull/152204) opened on on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152204) 5 additions and 5 deletions in 1 file</sub><br />
 
