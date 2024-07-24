@@ -80,3 +80,6 @@
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Modify stepping integration test to accommodate new DDC async semantics.<br />
     <sub>[#152204](https://github.com/flutter/flutter/pull/152204) opened on on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152204) 5 additions and 5 deletions in 1 file</sub><br />
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix cursor position when Unicode Zs category is entered in TextField<br />
+    <sub>[#152215](https://github.com/flutter/flutter/pull/152215) opened on on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152215) 80 additions and 10 deletions in 2 files</sub><br />
+
