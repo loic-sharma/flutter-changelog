@@ -60,7 +60,7 @@
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for range_slider.0.dart<br />
-    <sub>[#152152](https://github.com/flutter/flutter/pull/152152) opened on on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152152) 76 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#152152](https://github.com/flutter/flutter/pull/152152) opened on on July 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152152) 76 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update fake_codec.dart to use Future.value instead of SynchronousFuture<br />
     <sub>[#152182](https://github.com/flutter/flutter/pull/152182) opened on on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152182) 2 additions and 2 deletions in 1 file</sub><br />
