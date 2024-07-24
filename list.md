@@ -573,7 +573,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-30 commits.
+31 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub>
@@ -618,6 +618,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] enable ahb swapchain on emulators. (#54019)"
     <sub>[#54022](https://github.com/flutter/engine/pull/54022) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54022) over 1 minute, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move testing/litetest to pub workspaces.
+    <sub>[#54082](https://github.com/flutter/engine/pull/54082) merged on July 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54082) over 3 hours, 13 additions and 24 deletions in 4 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use new DisplayList SaveLayer unbounded flag
     <sub>[#54085](https://github.com/flutter/engine/pull/54085) merged on July 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54085) over 47 minutes, 1 addition and 6 deletions in 1 file</sub>
