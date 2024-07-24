@@ -624,7 +624,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Change JSArray.length to return int
-    <sub>[#54051](https://github.com/flutter/engine/pull/54051) merged on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54051) over 7 hours, 4 additions and 6 deletions in 2 files</sub>
+    <sub>[#54051](https://github.com/flutter/engine/pull/54051) merged on July 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54051) over 7 hours, 4 additions and 6 deletions in 2 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Temporarily disable use of glBlitFramebuffer on NVIDIA

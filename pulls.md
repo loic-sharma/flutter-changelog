@@ -39,7 +39,7 @@
     <sub>[#151699](https://github.com/flutter/flutter/pull/151699) opened on on July 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151699) 89 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for expansion_panel_list.expansion_panel_list_radio.0_test.dart<br />
-    <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151730) 44 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151730) 44 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Gap between prefix and suffix icon and input field in input deco…<br />
     <sub>[#152069](https://github.com/flutter/flutter/pull/152069) opened on on July 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152069) 49 additions and 65 deletions in 2 files</sub><br />
