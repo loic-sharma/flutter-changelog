@@ -565,7 +565,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-26 commits.
+27 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub>
@@ -574,6 +574,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add fl_engine_add/remove_view
     <sub>[#54018](https://github.com/flutter/engine/pull/54018) merged on July 23, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/54018) over 21 hours, 401 additions and 20 deletions in 3 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; share platform view slicing logic across iOS and Android.
+    <sub>[#54010](https://github.com/flutter/engine/pull/54010) merged on July 24, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/54010) over 4 days, 329 additions and 178 deletions in 10 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make FlWindowStateMonitor
     <sub>[#54011](https://github.com/flutter/engine/pull/54011) merged on July 23, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/54011) over 3 days, 476 additions and 121 deletions in 11 files</sub>
