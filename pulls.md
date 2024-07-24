@@ -51,5 +51,5 @@
     <sub>[#152229](https://github.com/flutter/flutter/pull/152229) opened on on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152229) 8 additions and 14 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Set dart defines properly while in debug mode.<br />
-    <sub>[#152262](https://github.com/flutter/flutter/pull/152262) opened on on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152262) 52 additions and 6 deletions in 3 files</sub><br />
+    <sub>[#152262](https://github.com/flutter/flutter/pull/152262) opened on on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152262) 60 additions and 9 deletions in 3 files</sub><br />
 
