@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-21 commits.
+22 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub>
@@ -61,6 +61,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Use more CORS headers for `flutter run` server
+    <sub>[#152048](https://github.com/flutter/flutter/pull/152048) merged on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152048) over 4 days, 3 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Enable Swift Package Manager by default on master channel (#152049)"
     <sub>[#152243](https://github.com/flutter/flutter/pull/152243) merged on July 24, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152243) over 49 seconds, 86 additions and 216 deletions in 9 files</sub>
@@ -557,7 +561,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-24 commits.
+25 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub>
@@ -586,6 +590,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable ahb swapchain on emulators.
     <sub>[#54019](https://github.com/flutter/engine/pull/54019) merged on July 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54019) over 41 minutes, 1 addition and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Upgrade Engine Android SDK to 35
+    <sub>[#53574](https://github.com/flutter/engine/pull/53574) merged on July 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53574) over 4 weeks, 28 additions and 20 deletions in 14 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] enable ahb swapchain on emulators. (#54019)"
     <sub>[#54022](https://github.com/flutter/engine/pull/54022) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54022) over 1 minute, 4 additions and 1 deletion in 1 file</sub>
