@@ -74,9 +74,6 @@
 * **[DBowen33](https://github.com/DBowen33)** &mdash; added Semantics wrapper over text field password<br />
     <sub>[#152193](https://github.com/flutter/flutter/pull/152193) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152193) 24 additions and 12 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow-list `sh` as a code-snippet type.<br />
-    <sub>[#152196](https://github.com/flutter/flutter/pull/152196) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152196) 2 additions and 1 deletion in 1 file</sub><br />
-
 * **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(flutter/a11y assessments): h1 missing a11y from each page on the web app<br />
     <sub>[#152198](https://github.com/flutter/flutter/pull/152198) opened on on July 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152198) 162 additions and 13 deletions in 26 files</sub><br />
 
