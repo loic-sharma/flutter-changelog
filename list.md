@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-23 commits.
+24 commits.
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix asset transformation in the presence of resolution-aware asset variants
     <sub>[#151932](https://github.com/flutter/flutter/pull/151932) merged on July 22, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151932) over 4 days, 136 additions and 48 deletions in 7 files</sub>
@@ -21,6 +21,10 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Will pop scope on home route
     <sub>[#152057](https://github.com/flutter/flutter/pull/152057) merged on July 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152057) over 2 days, 81 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `widgets` docImport
+    <sub>[#152146](https://github.com/flutter/flutter/pull/152146) merged on July 24, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/152146) over 1 day, 808 additions and 0 deletions in 136 files</sub>
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; More material `docImport`s
     <sub>[#152144](https://github.com/flutter/flutter/pull/152144) merged on July 23, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/152144) over 19 hours, 315 additions and 40 deletions in 53 files</sub>
@@ -565,7 +569,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-29 commits.
+30 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub>
@@ -610,6 +614,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] enable ahb swapchain on emulators. (#54019)"
     <sub>[#54022](https://github.com/flutter/engine/pull/54022) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54022) over 1 minute, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use new DisplayList SaveLayer unbounded flag
+    <sub>[#54085](https://github.com/flutter/engine/pull/54085) merged on July 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54085) over 47 minutes, 1 addition and 6 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Suggest a few common vscode extensions.
     <sub>[#53974](https://github.com/flutter/engine/pull/53974) merged on July 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53974) over 6 days, 20 additions and 2 deletions in 4 files</sub>
@@ -1010,7 +1018,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-5 commits.
+6 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] convert paymentQueueTests to swift
     <sub>[#7204](https://github.com/flutter/packages/pull/7204) merged on July 24, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7204) over 2 hours, 506 additions and 525 deletions in 8 files</sub>
@@ -1029,6 +1037,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Windows packages to Pigeon 21
     <sub>[#7180](https://github.com/flutter/packages/pull/7180) merged on July 22, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/7180) over 2 days, 499 additions and 293 deletions in 27 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Allow package:web 1.0.0
+    <sub>[#7203](https://github.com/flutter/packages/pull/7203) merged on July 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7203) over 22 hours, 12 additions and 7 deletions in 3 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 761747bfc538 to b0850beeb25f (6 revisions)
     <sub>[#7175](https://github.com/flutter/packages/pull/7175) merged on July 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7175) over 4 days, 1 addition and 1 deletion in 1 file</sub>
