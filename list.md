@@ -600,7 +600,7 @@
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Flush layer pool after platform view dispose
-    <sub>[#54056](https://github.com/flutter/engine/pull/54056) merged on July 23, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/54056) over 4 hours, 45 additions and 7 deletions in 3 files</sub>
+    <sub>[#54056](https://github.com/flutter/engine/pull/54056) merged on July 23, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/54056) over 4 hours, 45 additions and 7 deletions in 3 files</sub>
     <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add emulated advanced blend support for exp canvas.
