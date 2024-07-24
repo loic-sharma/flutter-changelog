@@ -4,12 +4,16 @@
 
 ### July 20, 2024 to July 26, 2024
 
-30 commits.
+31 commits.
 
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) merged on July 24, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/151731) over 1 week, 29 additions and 0 deletions in 3 files</sub>
     <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary><img width="372" alt="Screenshot 2024-07-14 at 8 03 14 PM" src="https://github.com/user-attachments/assets/4a45b843-7fa4-44fd-843c-c7209c6f57ae"><img width="364" alt="Screenshot 2024-07-14 at 8 03 27 PM" src="https://github.com/user-attachments/assets/12e8b857-aefb-4aaf-a310-4a002abcbc2f"></details></sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoAlertDialog] Rewrite
+    <sub>[#150410](https://github.com/flutter/flutter/pull/150410) merged on July 24, 2024 &mdash; **Extra large:** [43 comments](https://github.com/flutter/flutter/pull/150410) over 1 month, 634 additions and 1436 deletions in 2 files</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Scaffolding for `NativeDriver` and `AndroidNativeDriver` for taking screenshots using `adb`.
     <sub>[#152194](https://github.com/flutter/flutter/pull/152194) merged on July 24, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/152194) over 22 hours, 332 additions and 0 deletions in 9 files</sub>
