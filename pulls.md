@@ -50,3 +50,6 @@
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Use recommended plugin DSL when creating a new flutter plugin<br />
     <sub>[#152229](https://github.com/flutter/flutter/pull/152229) opened on on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152229) 8 additions and 14 deletions in 2 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing null-aware logic<br />
+    <sub>[#152294](https://github.com/flutter/flutter/pull/152294) opened on on July 25, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152294) 224 additions and 438 deletions in 88 files</sub><br />
+
