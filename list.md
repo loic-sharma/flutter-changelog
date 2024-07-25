@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-37 commits.
+39 commits.
 
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) merged on July 24, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/151731) over 1 week, 29 additions and 0 deletions in 3 files</sub>
@@ -63,10 +63,6 @@
     <sub>[#150742](https://github.com/flutter/flutter/pull/150742) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150742) over 4 weeks, 76 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Enable Swift Package Manager by default on master channel
-    <sub>[#152049](https://github.com/flutter/flutter/pull/152049) merged on July 24, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/152049) over 4 days, 216 additions and 86 deletions in 9 files</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow-list `sh` as a code-snippet type.
     <sub>[#152196](https://github.com/flutter/flutter/pull/152196) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152196) over 1 hour, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
@@ -79,9 +75,21 @@
     <sub>[#152191](https://github.com/flutter/flutter/pull/152191) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152191) over 1 minute, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Cleanup InputDecoration.collapsed constructor
+    <sub>[#152165](https://github.com/flutter/flutter/pull/152165) merged on July 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152165) over 2 days, 75 additions and 6 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Enable Swift Package Manager by default on master channel
+    <sub>[#152049](https://github.com/flutter/flutter/pull/152049) merged on July 24, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/152049) over 4 days, 216 additions and 86 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for expansion_panel_list.expansion_panel_list_radio.0_test.dart
+    <sub>[#151730](https://github.com/flutter/flutter/pull/151730) merged on July 25, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/151730) over 1 week, 44 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a more typical / concrete example to IntrinsicHeight / IntrinsicWidth
     <sub>[#152246](https://github.com/flutter/flutter/pull/152246) merged on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152246) over 23 hours, 6 additions and 2 deletions in 1 file</sub>
@@ -101,14 +109,6 @@
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from eb8fac2b1703 to e1259b86ba02 (2 revisions) (#152285)"
     <sub>[#152289](https://github.com/flutter/flutter/pull/152289) merged on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152289) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Sort doc-imports according to the directives_ordering rule
-    <sub>[#152058](https://github.com/flutter/flutter/pull/152058) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152058) over 2 days, 3 additions and 3 deletions in 3 files</sub>
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Enable Swift Package Manager by default on master channel (#152049)"
-    <sub>[#152243](https://github.com/flutter/flutter/pull/152243) merged on July 24, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152243) over 49 seconds, 86 additions and 216 deletions in 9 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Updates mark needs semantics update logic for overlay portal
@@ -146,6 +146,14 @@
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Use more CORS headers for `flutter run` server
     <sub>[#152048](https://github.com/flutter/flutter/pull/152048) merged on July 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152048) over 4 days, 3 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Sort doc-imports according to the directives_ordering rule
+    <sub>[#152058](https://github.com/flutter/flutter/pull/152058) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152058) over 2 days, 3 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Enable Swift Package Manager by default on master channel (#152049)"
+    <sub>[#152243](https://github.com/flutter/flutter/pull/152243) merged on July 24, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152243) over 49 seconds, 86 additions and 216 deletions in 9 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac channels_integration_test to be flaky
     <sub>[#151882](https://github.com/flutter/flutter/pull/151882) merged on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151882) over 1 week, 1 addition and 0 deletions in 1 file</sub>

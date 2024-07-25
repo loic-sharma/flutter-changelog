@@ -32,9 +32,6 @@
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Added waitDuration in the InkWell widget to wait before starting the hover animation (Resolves #149812 )<br />
     <sub>[#151699](https://github.com/flutter/flutter/pull/151699) opened on on July 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151699) 89 additions and 1 deletion in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for expansion_panel_list.expansion_panel_list_radio.0_test.dart<br />
-    <sub>[#151730](https://github.com/flutter/flutter/pull/151730) opened on on July 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/151730) 44 additions and 1 deletion in 2 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file <br />
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) opened on on July 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152073) 3 additions and 3 deletions in 1 file</sub><br />
 
@@ -52,4 +49,7 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing null-aware logic<br />
     <sub>[#152294](https://github.com/flutter/flutter/pull/152294) opened on on July 25, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152294) 224 additions and 438 deletions in 88 files</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `docImport`s for the widgets library<br />
+    <sub>[#152339](https://github.com/flutter/flutter/pull/152339) opened on on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152339) 15 additions and 11 deletions in 7 files</sub><br />
 
