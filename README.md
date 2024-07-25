@@ -622,7 +622,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-41 commits.
+44 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.<br />
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub><br />
@@ -684,9 +684,13 @@
     <sub>[#54080](https://github.com/flutter/engine/pull/54080) merged on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54080) over 15 hours, 74 additions and 71 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix retain cycle in FlutterMetalLayer<br />
-    <sub>[#54119](https://github.com/flutter/engine/pull/54119) merged on July 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54119) over 44 minutes, 49 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] enable FlutterMetalLayer.<br />
+    <sub>[#54121](https://github.com/flutter/engine/pull/54121) merged on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54121) over 47 minutes, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Better RBE defaults<br />
+    <sub>[#54059](https://github.com/flutter/engine/pull/54059) merged on July 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54059) over 1 day, 273 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move testing/litetest to pub workspaces.<br />
     <sub>[#54082](https://github.com/flutter/engine/pull/54082) merged on July 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54082) over 3 hours, 13 additions and 24 deletions in 4 files</sub><br />
@@ -708,6 +712,10 @@
     <sub>[#54062](https://github.com/flutter/engine/pull/54062) merged on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54062) over 40 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Roll buildroot to e92499322525306bd637eb79d1e6dd507d5f3062<br />
+    <sub>[#54113](https://github.com/flutter/engine/pull/54113) merged on July 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54113) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Cleanly revert requiring backpressure for AHB swapchains.<br />
     <sub>[#54027](https://github.com/flutter/engine/pull/54027) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54027) over 1 hour, 2 additions and 8 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -724,17 +732,13 @@
     <sub>[#54016](https://github.com/flutter/engine/pull/54016) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54016) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix retain cycle in FlutterMetalLayer<br />
+    <sub>[#54119](https://github.com/flutter/engine/pull/54119) merged on July 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54119) over 44 minutes, 49 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Disable FlutterMetalLayer by default.<br />
     <sub>[#54095](https://github.com/flutter/engine/pull/54095) merged on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54095) over 39 minutes, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Better RBE defaults<br />
-    <sub>[#54059](https://github.com/flutter/engine/pull/54059) merged on July 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54059) over 1 day, 273 additions and 10 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unnecessary double cast<br />
-    <sub>[#54044](https://github.com/flutter/engine/pull/54044) merged on July 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54044) over 16 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix variable name<br />
     <sub>[#54045](https://github.com/flutter/engine/pull/54045) merged on July 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54045) over 16 hours, 3 additions and 2 deletions in 1 file</sub><br />
@@ -747,6 +751,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Temporarily disable use of glBlitFramebuffer on NVIDIA<br />
     <sub>[#54040](https://github.com/flutter/engine/pull/54040) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54040) over 9 hours, 55 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Initial pass to cleanup dom.dart to use newer JS interop styles<br />
+    <sub>[#54093](https://github.com/flutter/engine/pull/54093) merged on July 25, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/54093) over 19 hours, 169 additions and 226 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused virtual methods<br />
     <sub>[#54074](https://github.com/flutter/engine/pull/54074) merged on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54074) over 1 day, 0 additions and 23 deletions in 1 file</sub><br />
@@ -768,12 +776,16 @@
     <sub>[#54049](https://github.com/flutter/engine/pull/54049) merged on July 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54049) over 22 hours, 33 additions and 6 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Set the view ID for FlView<br />
-    <sub>[#54043](https://github.com/flutter/engine/pull/54043) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54043) over 5 hours, 58 additions and 31 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Rename FlBackingStoreProvider to FlFramebuffer<br />
     <sub>[#54047](https://github.com/flutter/engine/pull/54047) merged on July 24, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/54047) over 15 hours, 175 additions and 182 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unnecessary double cast<br />
+    <sub>[#54044](https://github.com/flutter/engine/pull/54044) merged on July 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54044) over 16 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Set the view ID for FlView<br />
+    <sub>[#54043](https://github.com/flutter/engine/pull/54043) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54043) over 5 hours, 58 additions and 31 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 0f61238a27b0 to 503192257a47 (2 revisions)<br />
@@ -1115,7 +1127,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-9 commits.
+10 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux support to Pigeon<br />
     <sub>[#5100](https://github.com/flutter/packages/pull/5100) merged on July 25, 2024 &mdash; **Extra large:** [140 comments](https://github.com/flutter/packages/pull/5100) over 9 months, 33996 additions and 39 deletions in 50 files</sub><br />
@@ -1146,6 +1158,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Allow package:web 1.0.0<br />
     <sub>[#7203](https://github.com/flutter/packages/pull/7203) merged on July 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7203) over 22 hours, 12 additions and 7 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add a package-level pre-publish hook<br />
+    <sub>[#7156](https://github.com/flutter/packages/pull/7156) merged on July 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7156) over 1 week, 244 additions and 7 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; [flutter_migrate] Remove one set of parens that wrap a single String literal<br />
     <sub>[#7216](https://github.com/flutter/packages/pull/7216) merged on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7216) over 33 minutes, 1 addition and 1 deletion in 1 file</sub><br />
