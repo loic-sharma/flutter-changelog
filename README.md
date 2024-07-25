@@ -616,6 +616,10 @@
     <sub>[#54011](https://github.com/flutter/engine/pull/54011) merged on July 23, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/engine/pull/54011) over 3 days, 476 additions and 121 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Build universal gen_snapshots for iOS<br />
+    <sub>[#54009](https://github.com/flutter/engine/pull/54009) merged on July 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54009) over 4 days, 23 additions and 23 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] track unbounded state on save layers and DisplayLists<br />
     <sub>[#54032](https://github.com/flutter/engine/pull/54032) merged on July 23, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54032) over 16 hours, 601 additions and 60 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -640,13 +644,13 @@
     <sub>[#54020](https://github.com/flutter/engine/pull/54020) merged on July 23, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/54020) over 1 day, 132 additions and 71 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Upgrade Engine Android SDK to 35<br />
-    <sub>[#53574](https://github.com/flutter/engine/pull/53574) merged on July 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53574) over 4 weeks, 28 additions and 20 deletions in 14 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] enable ahb swapchain on emulators. (#54019)"<br />
     <sub>[#54022](https://github.com/flutter/engine/pull/54022) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54022) over 1 minute, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Upgrade Engine Android SDK to 35<br />
+    <sub>[#53574](https://github.com/flutter/engine/pull/53574) merged on July 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/53574) over 4 weeks, 28 additions and 20 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; [et] Better RBE defaults<br />
     <sub>[#54059](https://github.com/flutter/engine/pull/54059) merged on July 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54059) over 1 day, 273 additions and 10 deletions in 4 files</sub><br />
@@ -687,10 +691,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove implicit calls to glGetError in opt modes.<br />
     <sub>[#54016](https://github.com/flutter/engine/pull/54016) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54016) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Build universal gen_snapshots for iOS<br />
-    <sub>[#54009](https://github.com/flutter/engine/pull/54009) merged on July 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54009) over 4 days, 23 additions and 23 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't rely on the renderer accessing the engine through the view.<br />
     <sub>[#54049](https://github.com/flutter/engine/pull/54049) merged on July 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54049) over 22 hours, 33 additions and 6 deletions in 3 files</sub><br />
