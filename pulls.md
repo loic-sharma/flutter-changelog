@@ -50,6 +50,3 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing null-aware logic<br />
     <sub>[#152294](https://github.com/flutter/flutter/pull/152294) opened on on July 25, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152294) 224 additions and 438 deletions in 88 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `docImport`s for the widgets library<br />
-    <sub>[#152339](https://github.com/flutter/flutter/pull/152339) opened on on July 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152339) 15 additions and 11 deletions in 7 files</sub><br />
-
