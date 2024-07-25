@@ -1095,7 +1095,11 @@
 
 ### July 20, 2024 to July 26, 2024
 
-6 commits.
+7 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux support to Pigeon<br />
+    <sub>[#5100](https://github.com/flutter/packages/pull/5100) merged on July 25, 2024 &mdash; **Extra large:** [140 comments](https://github.com/flutter/packages/pull/5100) over 9 months, 33996 additions and 39 deletions in 50 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] convert paymentQueueTests to swift<br />
     <sub>[#7204](https://github.com/flutter/packages/pull/7204) merged on July 24, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7204) over 2 hours, 506 additions and 525 deletions in 8 files</sub><br />
