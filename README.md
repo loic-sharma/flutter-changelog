@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-33 commits.
+34 commits.
 
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) merged on July 24, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/151731) over 1 week, 29 additions and 0 deletions in 3 files</sub><br />
@@ -35,9 +35,9 @@
     <sub>[#152057](https://github.com/flutter/flutter/pull/152057) merged on July 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152057) over 2 days, 81 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: A selectable's selection under the active selection should not be cleared on right-click<br />
-    <sub>[#151851](https://github.com/flutter/flutter/pull/151851) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151851) over 1 week, 77 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; material `docImport`s<br />
+    <sub>[#152060](https://github.com/flutter/flutter/pull/152060) merged on July 22, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/152060) over 2 days, 631 additions and 1 deletion in 114 files</sub><br />
+    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `widgets` docImport<br />
     <sub>[#152146](https://github.com/flutter/flutter/pull/152146) merged on July 24, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/152146) over 1 day, 808 additions and 0 deletions in 136 files</sub><br />
@@ -51,9 +51,9 @@
     <sub>[#151931](https://github.com/flutter/flutter/pull/151931) merged on July 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151931) over 5 days, 4 additions and 4 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; material `docImport`s<br />
-    <sub>[#152060](https://github.com/flutter/flutter/pull/152060) merged on July 22, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/152060) over 2 days, 631 additions and 1 deletion in 114 files</sub><br />
-    <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub><br />
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: A selectable's selection under the active selection should not be cleared on right-click<br />
+    <sub>[#151851](https://github.com/flutter/flutter/pull/151851) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151851) over 1 week, 77 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Guard more `write`/`writeln` calls on `Process.stdin`<br />
     <sub>[#151146](https://github.com/flutter/flutter/pull/151146) merged on July 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151146) over 3 weeks, 74 additions and 26 deletions in 6 files</sub><br />
@@ -83,6 +83,10 @@
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Modify stepping integration test to accommodate new DDC async semantics.<br />
+    <sub>[#152204](https://github.com/flutter/flutter/pull/152204) merged on July 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152204) over 22 hours, 5 additions and 5 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from eb8fac2b1703 to e1259b86ba02 (2 revisions) (#152285)"<br />
     <sub>[#152289](https://github.com/flutter/flutter/pull/152289) merged on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152289) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
@@ -90,10 +94,6 @@
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update fake_codec.dart to use Future.value instead of SynchronousFuture<br />
     <sub>[#152182](https://github.com/flutter/flutter/pull/152182) merged on July 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152182) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
-
-* **[DBowen33](https://github.com/DBowen33)** &mdash; added Semantics label to TextField with InputDecoration to let user k…<br />
-    <sub>[#151996](https://github.com/flutter/flutter/pull/151996) merged on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151996) over 6 days, 30 additions and 16 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Use more CORS headers for `flutter run` server (#152048)"<br />
     <sub>[#152248](https://github.com/flutter/flutter/pull/152248) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152248) over 1 minute, 1 addition and 3 deletions in 1 file</sub><br />
@@ -130,6 +130,10 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Sort doc-imports according to the directives_ordering rule<br />
     <sub>[#152058](https://github.com/flutter/flutter/pull/152058) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152058) over 2 days, 3 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[DBowen33](https://github.com/DBowen33)** &mdash; added Semantics label to TextField with InputDecoration to let user k…<br />
+    <sub>[#151996](https://github.com/flutter/flutter/pull/151996) merged on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151996) over 6 days, 30 additions and 16 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac channels_integration_test to be flaky<br />
     <sub>[#151882](https://github.com/flutter/flutter/pull/151882) merged on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151882) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
