@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-36 commits.
+37 commits.
 
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) merged on July 24, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/151731) over 1 week, 29 additions and 0 deletions in 3 files</sub>
@@ -39,6 +39,10 @@
     <sub>[#152060](https://github.com/flutter/flutter/pull/152060) merged on July 22, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/152060) over 2 days, 631 additions and 1 deletion in 114 files</sub>
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub>
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: A selectable's selection under the active selection should not be cleared on right-click
+    <sub>[#151851](https://github.com/flutter/flutter/pull/151851) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151851) over 1 week, 77 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `widgets` docImport
     <sub>[#152146](https://github.com/flutter/flutter/pull/152146) merged on July 24, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/152146) over 1 day, 808 additions and 0 deletions in 136 files</sub>
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub>
@@ -51,17 +55,13 @@
     <sub>[#151931](https://github.com/flutter/flutter/pull/151931) merged on July 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151931) over 5 days, 4 additions and 4 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: A selectable's selection under the active selection should not be cleared on right-click
-    <sub>[#151851](https://github.com/flutter/flutter/pull/151851) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151851) over 1 week, 77 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Guard more `write`/`writeln` calls on `Process.stdin`
+    <sub>[#151146](https://github.com/flutter/flutter/pull/151146) merged on July 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151146) over 3 weeks, 74 additions and 26 deletions in 6 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [native_assets] Fix macOS host build failure when there are no frameworks to sign.
     <sub>[#150742](https://github.com/flutter/flutter/pull/150742) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150742) over 4 weeks, 76 additions and 0 deletions in 2 files</sub>
     <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Guard more `write`/`writeln` calls on `Process.stdin`
-    <sub>[#151146](https://github.com/flutter/flutter/pull/151146) merged on July 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151146) over 3 weeks, 74 additions and 26 deletions in 6 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Enable Swift Package Manager by default on master channel
     <sub>[#152049](https://github.com/flutter/flutter/pull/152049) merged on July 24, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/152049) over 4 days, 216 additions and 86 deletions in 9 files</sub>
@@ -83,6 +83,10 @@
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a more typical / concrete example to IntrinsicHeight / IntrinsicWidth
+    <sub>[#152246](https://github.com/flutter/flutter/pull/152246) merged on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152246) over 23 hours, 6 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[DBowen33](https://github.com/DBowen33)** &mdash; Flutter Web App: adds a11y semantic attributes to slider
     <sub>[#151985](https://github.com/flutter/flutter/pull/151985) merged on July 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151985) over 6 days, 19 additions and 10 deletions in 2 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
@@ -102,10 +106,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Sort doc-imports according to the directives_ordering rule
     <sub>[#152058](https://github.com/flutter/flutter/pull/152058) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152058) over 2 days, 3 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
-
-* **[John Ryan](https://github.com/johnpryan)** &mdash; Use more CORS headers for `flutter run` server
-    <sub>[#152048](https://github.com/flutter/flutter/pull/152048) merged on July 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152048) over 4 days, 3 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Enable Swift Package Manager by default on master channel (#152049)"
     <sub>[#152243](https://github.com/flutter/flutter/pull/152243) merged on July 24, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152243) over 49 seconds, 86 additions and 216 deletions in 9 files</sub>
@@ -142,6 +142,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Use more CORS headers for `flutter run` server (#152048)"
     <sub>[#152248](https://github.com/flutter/flutter/pull/152248) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152248) over 1 minute, 1 addition and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Use more CORS headers for `flutter run` server
+    <sub>[#152048](https://github.com/flutter/flutter/pull/152048) merged on July 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152048) over 4 days, 3 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac channels_integration_test to be flaky
     <sub>[#151882](https://github.com/flutter/flutter/pull/151882) merged on July 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151882) over 1 week, 1 addition and 0 deletions in 1 file</sub>
