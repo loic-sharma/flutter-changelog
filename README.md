@@ -1147,7 +1147,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-10 commits.
+11 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux support to Pigeon<br />
     <sub>[#5100](https://github.com/flutter/packages/pull/5100) merged on July 25, 2024 &mdash; **Extra large:** [140 comments](https://github.com/flutter/packages/pull/5100) over 9 months, 33996 additions and 39 deletions in 50 files</sub><br />
@@ -1178,6 +1178,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Allow package:web 1.0.0<br />
     <sub>[#7203](https://github.com/flutter/packages/pull/7203) merged on July 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7203) over 22 hours, 12 additions and 7 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; [tool] Adds `--wasm` flag to the `drive-examples` command<br />
+    <sub>[#7162](https://github.com/flutter/packages/pull/7162) merged on July 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7162) over 1 week, 89 additions and 6 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add a package-level pre-publish hook<br />
     <sub>[#7156](https://github.com/flutter/packages/pull/7156) merged on July 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7156) over 1 week, 244 additions and 7 deletions in 6 files</sub><br />

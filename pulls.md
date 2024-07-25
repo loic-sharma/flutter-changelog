@@ -50,3 +50,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#53571<br />
     <sub>[#152345](https://github.com/flutter/flutter/pull/152345) opened on on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152345) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add a "test failure troubleshooting" wiki page<br />
+    <sub>[#152348](https://github.com/flutter/flutter/pull/152348) opened on on July 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152348) 113 additions and 0 deletions in 8 files</sub><br />
+
