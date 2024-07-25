@@ -47,3 +47,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing null-aware logic<br />
     <sub>[#152294](https://github.com/flutter/flutter/pull/152294) opened on on July 25, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152294) 224 additions and 438 deletions in 88 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#53571<br />
+    <sub>[#152345](https://github.com/flutter/flutter/pull/152345) opened on on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152345) 2 additions and 1 deletion in 2 files</sub><br />
+
