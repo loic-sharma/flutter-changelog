@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-32 commits.
+33 commits.
 
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) merged on July 24, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/151731) over 1 week, 29 additions and 0 deletions in 3 files</sub>
@@ -82,6 +82,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Roll Flutter Engine from eb8fac2b1703 to e1259b86ba02 (2 revisions) (#152285)"
+    <sub>[#152289](https://github.com/flutter/flutter/pull/152289) merged on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152289) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update fake_codec.dart to use Future.value instead of SynchronousFuture
     <sub>[#152182](https://github.com/flutter/flutter/pull/152182) merged on July 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152182) over 1 day, 2 additions and 2 deletions in 1 file</sub>
