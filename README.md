@@ -4,7 +4,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-31 commits.
+32 commits.
 
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) merged on July 24, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/151731) over 1 week, 29 additions and 0 deletions in 3 files</sub><br />
@@ -82,6 +82,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leaky test.<br />
     <sub>[#152094](https://github.com/flutter/flutter/pull/152094) merged on July 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152094) over 15 hours, 18 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update fake_codec.dart to use Future.value instead of SynchronousFuture<br />
+    <sub>[#152182](https://github.com/flutter/flutter/pull/152182) merged on July 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152182) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[DBowen33](https://github.com/DBowen33)** &mdash; added Semantics label to TextField with InputDecoration to let user k…<br />
     <sub>[#151996](https://github.com/flutter/flutter/pull/151996) merged on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151996) over 6 days, 30 additions and 16 deletions in 2 files</sub><br />
@@ -598,7 +602,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-34 commits.
+35 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Implement OpenGL to Vulkan texture trampolining.<br />
     <sub>[#53966](https://github.com/flutter/engine/pull/53966) merged on July 23, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/engine/pull/53966) over 5 days, 1106 additions and 67 deletions in 19 files</sub><br />
@@ -656,14 +660,6 @@
     <sub>[#54059](https://github.com/flutter/engine/pull/54059) merged on July 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54059) over 1 day, 273 additions and 10 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move testing/litetest to pub workspaces.<br />
-    <sub>[#54082](https://github.com/flutter/engine/pull/54082) merged on July 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54082) over 3 hours, 13 additions and 24 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use new DisplayList SaveLayer unbounded flag<br />
-    <sub>[#54085](https://github.com/flutter/engine/pull/54085) merged on July 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54085) over 47 minutes, 1 addition and 6 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Suggest a few common vscode extensions.<br />
     <sub>[#53974](https://github.com/flutter/engine/pull/53974) merged on July 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/53974) over 6 days, 20 additions and 2 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -690,6 +686,14 @@
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove implicit calls to glGetError in opt modes.<br />
     <sub>[#54016](https://github.com/flutter/engine/pull/54016) merged on July 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54016) over 20 hours, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move testing/litetest to pub workspaces.<br />
+    <sub>[#54082](https://github.com/flutter/engine/pull/54082) merged on July 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54082) over 3 hours, 13 additions and 24 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use new DisplayList SaveLayer unbounded flag<br />
+    <sub>[#54085](https://github.com/flutter/engine/pull/54085) merged on July 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54085) over 47 minutes, 1 addition and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't rely on the renderer accessing the engine through the view.<br />
@@ -720,9 +724,17 @@
     <sub>[#54043](https://github.com/flutter/engine/pull/54043) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54043) over 5 hours, 58 additions and 31 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Remove incorrect line<br />
+    <sub>[#54021](https://github.com/flutter/engine/pull/54021) merged on July 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54021) over 2 days, 92 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix embedder comments about struct_size<br />
     <sub>[#54077](https://github.com/flutter/engine/pull/54077) merged on July 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54077) over 6 hours, 4 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 0f61238a27b0 to 503192257a47 (2 revisions)<br />
+    <sub>[#54026](https://github.com/flutter/engine/pull/54026) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54026) over 51 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Skia from 939e1dac9815 to f9a9c31b433b (3 revisions)<br />
     <sub>[#54037](https://github.com/flutter/engine/pull/54037) merged on July 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54037) over 11 hours, 2 additions and 2 deletions in 2 files</sub><br />
@@ -730,10 +742,6 @@
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 503192257a47 to b937619129a4 (13 revisions)<br />
     <sub>[#54028](https://github.com/flutter/engine/pull/54028) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54028) over 43 minutes, 10 additions and 10 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
-* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 0f61238a27b0 to 503192257a47 (2 revisions)<br />
-    <sub>[#54026](https://github.com/flutter/engine/pull/54026) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54026) over 51 minutes, 2 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### July 13, 2024 to July 19, 2024
