@@ -26,9 +26,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]SelectionArea's selection should not be cleared on loss of window focus<br />
     <sub>[#151618](https://github.com/flutter/flutter/pull/151618) opened on on July 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151618) 96 additions and 3 deletions in 6 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#53571<br />
-    <sub>[#151682](https://github.com/flutter/flutter/pull/151682) opened on on July 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151682) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Added waitDuration in the InkWell widget to wait before starting the hover animation (Resolves #149812 )<br />
     <sub>[#151699](https://github.com/flutter/flutter/pull/151699) opened on on July 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151699) 89 additions and 1 deletion in 2 files</sub><br />
 
