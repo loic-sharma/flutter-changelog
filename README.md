@@ -1095,7 +1095,7 @@
 
 ### July 20, 2024 to July 26, 2024
 
-7 commits.
+8 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux support to Pigeon<br />
     <sub>[#5100](https://github.com/flutter/packages/pull/5100) merged on July 25, 2024 &mdash; **Extra large:** [140 comments](https://github.com/flutter/packages/pull/5100) over 9 months, 33996 additions and 39 deletions in 50 files</sub><br />
@@ -1122,6 +1122,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Allow package:web 1.0.0<br />
     <sub>[#7203](https://github.com/flutter/packages/pull/7203) merged on July 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7203) over 22 hours, 12 additions and 7 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; Modernize the rest of the `index.html` files to support WASM compilation<br />
+    <sub>[#7192](https://github.com/flutter/packages/pull/7192) merged on July 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7192) over 2 days, 15 additions and 178 deletions in 13 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 761747bfc538 to b0850beeb25f (6 revisions)<br />
     <sub>[#7175](https://github.com/flutter/packages/pull/7175) merged on July 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7175) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
