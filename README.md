@@ -949,6 +949,10 @@
     <sub>[#53760](https://github.com/flutter/engine/pull/53760) merged on July 9, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/53760) over 1 day, 343 additions and 263 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] support combined UI/Platform thread for iOS/Android.<br />
+    <sub>[#53656](https://github.com/flutter/engine/pull/53656) merged on July 9, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/53656) over 1 week, 169 additions and 66 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matej Knopp](https://github.com/knopp)</sub><br />
+
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Prepare engine for deprecation of async_minitest.dart<br />
     <sub>[#53560](https://github.com/flutter/engine/pull/53560) merged on July 12, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/53560) over 2 weeks, 364 additions and 4 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -973,21 +977,17 @@
     <sub>[#53799](https://github.com/flutter/engine/pull/53799) merged on July 12, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/53799) over 2 days, 479 additions and 464 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure full transform is applied to text contents<br />
-    <sub>[#53819](https://github.com/flutter/engine/pull/53819) merged on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53819) over 4 hours, 21 additions and 5 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Impeller really wants premultiplied alpha<br />
-    <sub>[#53770](https://github.com/flutter/engine/pull/53770) merged on July 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53770) over 1 day, 57 additions and 0 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move more aiks tests to DL. <br />
     <sub>[#53792](https://github.com/flutter/engine/pull/53792) merged on July 11, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/53792) over 1 day, 476 additions and 351 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] support combined UI/Platform thread for iOS/Android.<br />
-    <sub>[#53656](https://github.com/flutter/engine/pull/53656) merged on July 9, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/53656) over 1 week, 169 additions and 66 deletions in 12 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matej Knopp](https://github.com/knopp)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [dart:ui] remove expensive index assertion in Vertices.<br />
+    <sub>[#53558](https://github.com/flutter/engine/pull/53558) merged on July 11, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/53558) over 2 weeks, 66 additions and 19 deletions in 4 files</sub><br />
+    <sub>Reviewed by: </sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Impeller really wants premultiplied alpha<br />
+    <sub>[#53770](https://github.com/flutter/engine/pull/53770) merged on July 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/53770) over 1 day, 57 additions and 0 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Refactor and document Android rendering related TUs.<br />
     <sub>[#53802](https://github.com/flutter/engine/pull/53802) merged on July 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/53802) over 1 day, 638 additions and 430 deletions in 25 files</sub><br />
@@ -997,13 +997,13 @@
     <sub>[#53590](https://github.com/flutter/engine/pull/53590) merged on July 12, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/53590) over 2 weeks, 23 additions and 28 deletions in 10 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Ensure full transform is applied to text contents<br />
+    <sub>[#53819](https://github.com/flutter/engine/pull/53819) merged on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53819) over 4 hours, 21 additions and 5 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Dart SDK from fb546f313557 to 797d3df745d1 (8 revisions)<br />
     <sub>[#53832](https://github.com/flutter/engine/pull/53832) merged on July 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/53832) over 1 hour, 448 additions and 398 deletions in 13 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [dart:ui] remove expensive index assertion in Vertices.<br />
-    <sub>[#53558](https://github.com/flutter/engine/pull/53558) merged on July 11, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/53558) over 2 weeks, 66 additions and 19 deletions in 4 files</sub><br />
-    <sub>Reviewed by: </sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add experimental canvas support to screenshotter.<br />
     <sub>[#53751](https://github.com/flutter/engine/pull/53751) merged on July 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/53751) over 21 hours, 89 additions and 6 deletions in 6 files</sub><br />
