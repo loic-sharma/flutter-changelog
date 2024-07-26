@@ -40,6 +40,10 @@
     <sub>[#140242](https://github.com/flutter/flutter/pull/140242) merged on July 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140242) over 7 months, 66 additions and 43 deletions in 9 files</sub><br />
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add drag handle size to be configurable based on given size<br />
+    <sub>[#152085](https://github.com/flutter/flutter/pull/152085) merged on July 26, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/152085) over 5 days, 78 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Will pop scope on home route<br />
     <sub>[#152057](https://github.com/flutter/flutter/pull/152057) merged on July 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152057) over 2 days, 81 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -55,10 +59,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; More material `docImport`s<br />
     <sub>[#152144](https://github.com/flutter/flutter/pull/152144) merged on July 23, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/152144) over 19 hours, 315 additions and 40 deletions in 53 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Sam Rawlins](https://github.com/srawlins)</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add drag handle size to be configurable based on given size<br />
-    <sub>[#152085](https://github.com/flutter/flutter/pull/152085) merged on July 26, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/152085) over 5 days, 78 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Adds a call to the `PlatformDispatcher` whenever the focus changes<br />
     <sub>[#151268](https://github.com/flutter/flutter/pull/151268) merged on July 26, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/151268) over 3 weeks, 205 additions and 6 deletions in 5 files</sub><br />
