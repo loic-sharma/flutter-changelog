@@ -35,9 +35,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; fix: A referenced default package must be a plugin package<br />
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for range_slider.0.dart<br />
-    <sub>[#152152](https://github.com/flutter/flutter/pull/152152) opened on on July 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152152) 76 additions and 1 deletion in 2 files</sub><br />
-
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Use recommended plugin DSL when creating a new flutter plugin<br />
     <sub>[#152229](https://github.com/flutter/flutter/pull/152229) opened on on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152229) 8 additions and 14 deletions in 2 files</sub><br />
 
