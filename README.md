@@ -1193,7 +1193,7 @@
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [tool] Adds `--wasm` flag to the `drive-examples` command<br />
-    <sub>[#7162](https://github.com/flutter/packages/pull/7162) merged on July 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7162) over 1 week, 89 additions and 6 deletions in 3 files</sub><br />
+    <sub>[#7162](https://github.com/flutter/packages/pull/7162) merged on July 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7162) over 1 week, 89 additions and 6 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add a package-level pre-publish hook<br />
