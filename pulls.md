@@ -53,3 +53,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for search_anchor.0.dart<br />
     <sub>[#152371](https://github.com/flutter/flutter/pull/152371) opened on on July 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152371) 55 additions and 1 deletion in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix local testing, gradle XML errors, and enable on CI.<br />
+    <sub>[#152383](https://github.com/flutter/flutter/pull/152383) opened on on July 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152383) 31 additions and 8 deletions in 7 files</sub><br />
+
