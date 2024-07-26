@@ -7,8 +7,8 @@
 50 commits.
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix cursor position when Unicode Zs category is entered in TextField<br />
-    <sub>[#152215](https://github.com/flutter/flutter/pull/152215) merged on July 26, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/152215) over 2 days, 78 additions and 17 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+    <sub>[#152215](https://github.com/flutter/flutter/pull/152215) merged on July 26, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/152215) over 2 days, 78 additions and 17 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Byeongjin Kang](https://github.com/jasonkang14)** &mdash; feat: Add alignmentOffset to DropdownMenu<br />
     <sub>[#151731](https://github.com/flutter/flutter/pull/151731) merged on July 24, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/151731) over 1 week, 29 additions and 0 deletions in 3 files</sub><br />
