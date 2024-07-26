@@ -1206,13 +1206,13 @@
     <sub>[#7192](https://github.com/flutter/packages/pull/7192) merged on July 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7192) over 2 days, 15 additions and 178 deletions in 13 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
 
-* **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Allow package:web 1.0.0<br />
-    <sub>[#7203](https://github.com/flutter/packages/pull/7203) merged on July 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7203) over 22 hours, 12 additions and 7 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
 * **[Rexios](https://github.com/Rexios80)** &mdash; [tool] Adds `--wasm` flag to the `drive-examples` command<br />
     <sub>[#7162](https://github.com/flutter/packages/pull/7162) merged on July 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7162) over 1 week, 89 additions and 6 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [gis_web] Allow package:web 1.0.0<br />
+    <sub>[#7203](https://github.com/flutter/packages/pull/7203) merged on July 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7203) over 22 hours, 12 additions and 7 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Add a package-level pre-publish hook<br />
     <sub>[#7156](https://github.com/flutter/packages/pull/7156) merged on July 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7156) over 1 week, 244 additions and 7 deletions in 6 files</sub><br />
@@ -1231,6 +1231,10 @@
 <details>
 <summary>19 commits...</summary>
 
+* **[Rexios](https://github.com/Rexios80)** &mdash; Modernize all `index.html` files to support WASM<br />
+    <sub>[#7114](https://github.com/flutter/packages/pull/7114) merged on July 17, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7114) over 5 days, 22 additions and 345 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [David Iglesias](https://github.com/ditman), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[David Iglesias](https://github.com/ditman)** &mdash; [webview_flutter_web] Migrate integration tests to package:web.<br />
     <sub>[#7115](https://github.com/flutter/packages/pull/7115) merged on July 15, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/packages/pull/7115) over 2 days, 161 additions and 160 deletions in 8 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
@@ -1248,10 +1252,6 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Platform interface for new shared preferences async<br />
     <sub>[#6962](https://github.com/flutter/packages/pull/6962) merged on July 18, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/6962) over 3 weeks, 340 additions and 11 deletions in 7 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
-* **[Rexios](https://github.com/Rexios80)** &mdash; Modernize all `index.html` files to support WASM<br />
-    <sub>[#7114](https://github.com/flutter/packages/pull/7114) merged on July 17, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/packages/pull/7114) over 5 days, 22 additions and 345 deletions in 21 files</sub><br />
-    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [David Iglesias](https://github.com/ditman), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Migrate InAppPurchasePluginTests.m to. Swift<br />
     <sub>[#7105](https://github.com/flutter/packages/pull/7105) merged on July 17, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7105) over 5 days, 894 additions and 1023 deletions in 12 files</sub><br />
