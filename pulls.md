@@ -48,7 +48,7 @@
     <sub>[#152348](https://github.com/flutter/flutter/pull/152348) opened on on July 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152348) 113 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for deletable_chip_attributes.on_deleted.0.dart<br />
-    <sub>[#152361](https://github.com/flutter/flutter/pull/152361) opened on on July 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152361) 65 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#152361](https://github.com/flutter/flutter/pull/152361) opened on on July 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152361) 65 additions and 1 deletion in 2 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Delay `DropdownMenu` filtering until text input<br />
     <sub>[#152368](https://github.com/flutter/flutter/pull/152368) opened on on July 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152368) 53 additions and 2 deletions in 2 files</sub><br />
