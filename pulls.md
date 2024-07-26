@@ -54,7 +54,7 @@
     <sub>[#152371](https://github.com/flutter/flutter/pull/152371) opened on on July 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152371) 55 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Change flutter_build_with_compilation_error_test to check stdout or stderr<br />
-    <sub>[#152404](https://github.com/flutter/flutter/pull/152404) opened on on July 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152404) 9 additions and 7 deletions in 1 file</sub><br />
+    <sub>[#152404](https://github.com/flutter/flutter/pull/152404) opened on on July 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152404) 9 additions and 7 deletions in 1 file</sub><br />
 
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
     <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 7 deletions in 1 file</sub><br />
