@@ -59,3 +59,6 @@
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of PointerSignalResolverExampleApp visibility<br />
     <sub>[#152416](https://github.com/flutter/flutter/pull/152416) opened on on July 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152416) 54 additions and 0 deletions in 1 file</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP-stable] Fix SelectionArea scrolling conflicts (#151138)<br />
+    <sub>[#152421](https://github.com/flutter/flutter/pull/152421) opened on on July 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152421) 189 additions and 21 deletions in 2 files</sub><br />
+
