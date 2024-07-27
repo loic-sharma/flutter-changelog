@@ -56,3 +56,6 @@
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
     <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
 
+* **[miechoo](https://github.com/miechoo)** &mdash; Test of PointerSignalResolverExampleApp visibility<br />
+    <sub>[#152416](https://github.com/flutter/flutter/pull/152416) opened on on July 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152416) 54 additions and 0 deletions in 1 file</sub><br />
+
