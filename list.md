@@ -1269,8 +1269,8 @@
 13 commits.
 
 * **[jlundOverlay](https://github.com/jlundOverlay)** &mdash; [camera_windows] Support image streams on Windows platform
-    <sub>[#7067](https://github.com/flutter/packages/pull/7067) merged on July 26, 2024 &mdash; **Large:** [46 comments](https://github.com/flutter/packages/pull/7067) over 2 weeks, 609 additions and 2 deletions in 15 files</sub>
-    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+    <sub>[#7067](https://github.com/flutter/packages/pull/7067) merged on July 26, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/packages/pull/7067) over 2 weeks, 609 additions and 2 deletions in 15 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add Linux support to Pigeon
     <sub>[#5100](https://github.com/flutter/packages/pull/5100) merged on July 25, 2024 &mdash; **Extra large:** [140 comments](https://github.com/flutter/packages/pull/5100) over 9 months, 33996 additions and 39 deletions in 50 files</sub>
