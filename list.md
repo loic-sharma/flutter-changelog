@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### July 27, 2024 to August 2, 2024
+
+1 commits.
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; mark Mac tool_integration_tests_* as non-bringup
+    <sub>[#152412](https://github.com/flutter/flutter/pull/152412) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152412) over 2 days, 0 additions and 5 deletions in 1 file</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 ### July 20, 2024 to July 26, 2024
 
-60 commits.
+<details>
+<summary>60 commits...</summary>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Fix cursor position when Unicode Zs category is entered in TextField
     <sub>[#152215](https://github.com/flutter/flutter/pull/152215) merged on July 26, 2024 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/152215) over 2 days, 78 additions and 17 deletions in 2 files</sub>
@@ -247,6 +256,8 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Revert "Make `CupertinoRadio`'s `mouseCursor` a `WidgetStateProperty`"
     <sub>[#152254](https://github.com/flutter/flutter/pull/152254) merged on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152254) over 3 hours, 41 additions and 93 deletions in 4 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+</details>
 
 ### July 13, 2024 to July 19, 2024
 
