@@ -4,11 +4,15 @@
 
 ### July 27, 2024 to August 2, 2024
 
-7 commits.
+8 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove raster stats CLI option.<br />
     <sub>[#152501](https://github.com/flutter/flutter/pull/152501) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152501) over 1 hour, 0 additions and 162 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Stop CupertinoScrollbar's track from paging the scroll view on tap<br />
+    <sub>[#152197](https://github.com/flutter/flutter/pull/152197) merged on July 29, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/152197) over 5 days, 73 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some mac Android tests to Mokey devices in staging<br />
     <sub>[#152499](https://github.com/flutter/flutter/pull/152499) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152499) over 2 hours, 47 additions and 18 deletions in 1 file</sub><br />
@@ -537,7 +541,11 @@
 
 ### July 27, 2024 to August 2, 2024
 
-7 commits.
+8 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete rasterizer class.<br />
+    <sub>[#54196](https://github.com/flutter/engine/pull/54196) merged on July 29, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/54196) over 1 hour, 152 additions and 342 deletions in 16 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] leak a single overlay layer.<br />
     <sub>[#54189](https://github.com/flutter/engine/pull/54189) merged on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54189) over 1 hour, 11 additions and 3 deletions in 2 files</sub><br />
