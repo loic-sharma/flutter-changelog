@@ -66,7 +66,7 @@
     <sub>[#152467](https://github.com/flutter/flutter/pull/152467) opened on on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152467) 32 additions and 5 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for selection_area.0.dart<br />
-    <sub>[#152480](https://github.com/flutter/flutter/pull/152480) opened on on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152480) 89 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#152480](https://github.com/flutter/flutter/pull/152480) opened on on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152480) 89 additions and 1 deletion in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate invalid InputDecoration.collapsed parameters<br />
     <sub>[#152486](https://github.com/flutter/flutter/pull/152486) opened on on July 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152486) 319 additions and 242 deletions in 7 files</sub><br />
