@@ -500,9 +500,18 @@
 
 ## flutter/engine
 
+### July 27, 2024 to August 2, 2024
+
+1 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable on-by-default on Android.
+    <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 ### July 20, 2024 to July 26, 2024
 
-58 commits.
+<details>
+<summary>58 commits...</summary>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Implement draw order optimization.
     <sub>[#54067](https://github.com/flutter/engine/pull/54067) merged on July 26, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/54067) over 1 day, 495 additions and 35 deletions in 11 files</sub>
@@ -737,6 +746,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 0f61238a27b0 to 503192257a47 (2 revisions)
     <sub>[#54026](https://github.com/flutter/engine/pull/54026) merged on July 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54026) over 51 minutes, 2 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### July 13, 2024 to July 19, 2024
 
