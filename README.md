@@ -4,7 +4,11 @@
 
 ### July 27, 2024 to August 2, 2024
 
-5 commits.
+6 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some mac Android tests to Mokey devices in staging<br />
+    <sub>[#152499](https://github.com/flutter/flutter/pull/152499) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152499) over 2 hours, 47 additions and 18 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] enable impeller in external texture test.<br />
     <sub>[#152502](https://github.com/flutter/flutter/pull/152502) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152502) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -950,7 +954,11 @@
 
 ### July 27, 2024 to August 2, 2024
 
-8 commits.
+9 commits.
+
+* **[André Sousa](https://github.com/beroso)** &mdash; [video_player_android] Add RTSP support<br />
+    <sub>[#7081](https://github.com/flutter/packages/pull/7081) merged on July 29, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7081) over 2 weeks, 171 additions and 19 deletions in 10 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/image_picker/image_picker_android/android<br />
     <sub>[#6763](https://github.com/flutter/packages/pull/6763) merged on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6763) over 2 months, 6 additions and 2 deletions in 3 files</sub><br />
