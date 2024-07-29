@@ -69,7 +69,7 @@
     <sub>[#152467](https://github.com/flutter/flutter/pull/152467) opened on on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152467) 32 additions and 5 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Use decoration hint text as the default value for dropdown button hints<br />
-    <sub>[#152474](https://github.com/flutter/flutter/pull/152474) opened on on July 29, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152474) 184 additions and 131 deletions in 2 files</sub><br />
+    <sub>[#152474](https://github.com/flutter/flutter/pull/152474) opened on on July 29, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152474) 199 additions and 131 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for selection_area.0.dart<br />
     <sub>[#152480](https://github.com/flutter/flutter/pull/152480) opened on on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152480) 89 additions and 1 deletion in 2 files</sub><br />
