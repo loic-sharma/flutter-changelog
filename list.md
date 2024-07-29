@@ -924,9 +924,19 @@
 
 ## flutter/packages
 
+### July 27, 2024 to August 2, 2024
+
+1 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [url_launcher]: Bump androidx.annotation:annotation from 1.8.0 to 1.8.1 in /packages/url_launcher/url_launcher_android/android
+    <sub>[#7243](https://github.com/flutter/packages/pull/7243) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7243) over 5 hours, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.0&new-version=1.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
 ### July 20, 2024 to July 26, 2024
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[jlundOverlay](https://github.com/jlundOverlay)** &mdash; [camera_windows] Support image streams on Windows platform
     <sub>[#7067](https://github.com/flutter/packages/pull/7067) merged on July 26, 2024 &mdash; **Large:** [48 comments](https://github.com/flutter/packages/pull/7067) over 2 weeks, 609 additions and 2 deletions in 15 files</sub>
@@ -981,6 +991,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 761747bfc538 to b0850beeb25f (6 revisions)
     <sub>[#7175](https://github.com/flutter/packages/pull/7175) merged on July 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7175) over 4 days, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### July 13, 2024 to July 19, 2024
 
