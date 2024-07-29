@@ -595,7 +595,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Sam Lakerveld](https://github.com/darkwater)** &mdash; Set GLArea.has-alpha = true<br />
-    <sub>[#54053](https://github.com/flutter/engine/pull/54053) merged on July 26, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54053) over 2 days, 2 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#54053](https://github.com/flutter/engine/pull/54053) merged on July 26, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54053) over 2 days, 2 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Build universal gen_snapshots for iOS<br />
