@@ -4,7 +4,11 @@
 
 ### July 27, 2024 to August 2, 2024
 
-3 commits.
+4 commits.
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize Card theme
+    <sub>[#151914](https://github.com/flutter/flutter/pull/151914) merged on July 29, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/151914) over 1 week, 271 additions and 51 deletions in 4 files</sub>
+    <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update New-Android-version.md
     <sub>[#152395](https://github.com/flutter/flutter/pull/152395) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152395) over 2 days, 4 additions and 1 deletion in 1 file</sub>
