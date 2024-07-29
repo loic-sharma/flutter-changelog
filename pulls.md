@@ -72,5 +72,5 @@
     <sub>[#152486](https://github.com/flutter/flutter/pull/152486) opened on on July 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152486) 319 additions and 242 deletions in 7 files</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Add Dimil Kalathiya to authors<br />
-    <sub>[#152491](https://github.com/flutter/flutter/pull/152491) opened on on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152491) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#152491](https://github.com/flutter/flutter/pull/152491) opened on on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152491) 1 addition and 0 deletions in 1 file</sub><br />
 

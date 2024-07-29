@@ -537,7 +537,11 @@
 
 ### July 27, 2024 to August 2, 2024
 
-5 commits.
+6 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] leak a single overlay layer.
+    <sub>[#54189](https://github.com/flutter/engine/pull/54189) merged on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54189) over 1 hour, 11 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] remove raster stats feature.
     <sub>[#54187](https://github.com/flutter/engine/pull/54187) merged on July 29, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54187) over 1 hour, 20 additions and 525 deletions in 20 files</sub>
