@@ -537,7 +537,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-6 commits.
+7 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] leak a single overlay layer.<br />
     <sub>[#54189](https://github.com/flutter/engine/pull/54189) merged on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54189) over 1 hour, 11 additions and 3 deletions in 2 files</sub><br />
@@ -558,6 +558,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Fix scaledImageSize handling of a target width with no target height<br />
     <sub>[#54122](https://github.com/flutter/engine/pull/54122) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54122) over 3 days, 9 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Rafal Wachol](https://github.com/charafau)** &mdash; [wiki] Fix link to engine dev setup<br />
+    <sub>[#54173](https://github.com/flutter/engine/pull/54173) merged on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54173) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Set GLArea.has-alpha = true (#54053)"<br />
     <sub>[#54190](https://github.com/flutter/engine/pull/54190) merged on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54190) over 45 minutes, 1 addition and 2 deletions in 2 files</sub><br />
