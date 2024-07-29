@@ -4,7 +4,11 @@
 
 ### July 27, 2024 to August 2, 2024
 
-4 commits.
+5 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] enable impeller in external texture test.<br />
+    <sub>[#152502](https://github.com/flutter/flutter/pull/152502) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152502) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize Card theme<br />
     <sub>[#151914](https://github.com/flutter/flutter/pull/151914) merged on July 29, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/151914) over 1 week, 271 additions and 51 deletions in 4 files</sub><br />
@@ -525,7 +529,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-3 commits.
+4 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable on-by-default on Android.<br />
     <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub><br />
@@ -538,6 +542,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Fix scaledImageSize handling of a target width with no target height<br />
     <sub>[#54122](https://github.com/flutter/engine/pull/54122) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54122) over 3 days, 9 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Set GLArea.has-alpha = true (#54053)"<br />
+    <sub>[#54190](https://github.com/flutter/engine/pull/54190) merged on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54190) over 45 minutes, 1 addition and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
 
 ### July 20, 2024 to July 26, 2024
 

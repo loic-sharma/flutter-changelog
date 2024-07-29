@@ -74,9 +74,6 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Add Dimil Kalathiya to authors<br />
     <sub>[#152491](https://github.com/flutter/flutter/pull/152491) opened on on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152491) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some mac Android tests to Mokey devices in staging<br />
-    <sub>[#152499](https://github.com/flutter/flutter/pull/152499) opened on on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152499) 47 additions and 18 deletions in 1 file</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove raster stats CLI option.<br />
     <sub>[#152501](https://github.com/flutter/flutter/pull/152501) opened on on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152501) 0 additions and 162 deletions in 8 files</sub><br />
 
