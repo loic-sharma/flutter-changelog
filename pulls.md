@@ -74,6 +74,3 @@
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Add Dimil Kalathiya to authors<br />
     <sub>[#152491](https://github.com/flutter/flutter/pull/152491) opened on on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152491) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove raster stats CLI option.<br />
-    <sub>[#152501](https://github.com/flutter/flutter/pull/152501) opened on on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152501) 0 additions and 162 deletions in 8 files</sub><br />
-
