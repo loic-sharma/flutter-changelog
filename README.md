@@ -926,12 +926,22 @@
 
 ### July 27, 2024 to August 2, 2024
 
-3 commits.
+5 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/image_picker/image_picker_android/android<br />
     <sub>[#6763](https://github.com/flutter/packages/pull/6763) merged on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6763) over 2 months, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.activity:activity from 1.9.0 to 1.9.1 in /packages/image_picker/image_picker_android/android<br />
+    <sub>[#7245](https://github.com/flutter/packages/pull/7245) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7245) over 6 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.activity:activity&package-manager=gradle&previous-version=1.9.0&new-version=1.9.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump androidx.annotation:annotation from 1.8.0 to 1.8.1 in /packages/in_app_purchase/in_app_purchase_android/android<br />
+    <sub>[#7239](https://github.com/flutter/packages/pull/7239) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7239) over 6 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.0&new-version=1.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [file_selector]: Bump androidx.annotation:annotation from 1.8.0 to 1.8.1 in /packages/file_selector/file_selector_android/android<br />
     <sub>[#7240](https://github.com/flutter/packages/pull/7240) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7240) over 6 hours, 6 additions and 2 deletions in 3 files</sub><br />
