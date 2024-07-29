@@ -521,11 +521,15 @@
 
 ### July 27, 2024 to August 2, 2024
 
-1 commits.
+2 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable on-by-default on Android.<br />
     <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Fix scaledImageSize handling of a target width with no target height<br />
+    <sub>[#54122](https://github.com/flutter/engine/pull/54122) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54122) over 3 days, 9 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 ### July 20, 2024 to July 26, 2024
 
