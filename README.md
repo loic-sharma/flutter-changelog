@@ -938,12 +938,17 @@
 
 ### July 27, 2024 to August 2, 2024
 
-6 commits.
+8 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.0 in /packages/image_picker/image_picker_android/android<br />
     <sub>[#6763](https://github.com/flutter/packages/pull/6763) merged on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6763) over 2 months, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump androidx.annotation:annotation from 1.8.0 to 1.8.1 in /packages/camera/camera_android/android<br />
+    <sub>[#7236](https://github.com/flutter/packages/pull/7236) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7236) over 8 hours, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.0&new-version=1.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [path_provider]: Bump androidx.annotation:annotation from 1.8.0 to 1.8.1 in /packages/path_provider/path_provider_android/android<br />
     <sub>[#7244](https://github.com/flutter/packages/pull/7244) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7244) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
@@ -969,6 +974,10 @@
     <sub>[#7243](https://github.com/flutter/packages/pull/7243) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7243) over 5 hours, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.0&new-version=1.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [video_player]: Bump exoplayer_version from 1.3.1 to 1.4.0 in /packages/video_player/video_player_android/android<br />
+    <sub>[#7241](https://github.com/flutter/packages/pull/7241) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7241) over 8 hours, 7 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### July 20, 2024 to July 26, 2024
 
