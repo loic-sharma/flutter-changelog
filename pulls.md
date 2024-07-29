@@ -74,3 +74,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate invalid InputDecoration.collapsed parameters<br />
     <sub>[#152486](https://github.com/flutter/flutter/pull/152486) opened on on July 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152486) 319 additions and 242 deletions in 7 files</sub><br />
 
+* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Add dimil kalathiya in authers<br />
+    <sub>[#152491](https://github.com/flutter/flutter/pull/152491) opened on on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152491) 1 addition and 0 deletions in 1 file</sub><br />
+
