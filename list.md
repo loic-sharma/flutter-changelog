@@ -4,7 +4,11 @@
 
 ### July 27, 2024 to August 2, 2024
 
-1 commits.
+2 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for deletable_chip_attributes.on_deleted.0.dart
+    <sub>[#152361](https://github.com/flutter/flutter/pull/152361) merged on July 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152361) over 2 days, 64 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; mark Mac tool_integration_tests_* as non-bringup
     <sub>[#152412](https://github.com/flutter/flutter/pull/152412) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152412) over 2 days, 0 additions and 5 deletions in 1 file</sub>
