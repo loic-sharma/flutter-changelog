@@ -80,3 +80,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold messenger examples<br />
     <sub>[#152536](https://github.com/flutter/flutter/pull/152536) opened on on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152536) 75 additions and 3 deletions in 4 files</sub><br />
 
+* **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix typo in CHANGELOG.md<br />
+    <sub>[#152543](https://github.com/flutter/flutter/pull/152543) opened on on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152543) 1 addition and 1 deletion in 1 file</sub><br />
+
