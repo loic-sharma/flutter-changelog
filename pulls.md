@@ -71,6 +71,12 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate invalid InputDecoration.collapsed parameters<br />
     <sub>[#152486](https://github.com/flutter/flutter/pull/152486) opened on on July 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152486) 325 additions and 244 deletions in 7 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update integration test AVD dependency to use Android 35 emulators<br />
+    <sub>[#152498](https://github.com/flutter/flutter/pull/152498) opened on on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152498) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to support new Android version<br />
+    <sub>[#152503](https://github.com/flutter/flutter/pull/152503) opened on on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152503) 71 additions and 47 deletions in 1 file</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates<br />
     <sub>[#152525](https://github.com/flutter/flutter/pull/152525) opened on on July 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152525) 28 additions and 96 deletions in 1 file</sub><br />
 
