@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-10 commits.
+11 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove raster stats CLI option.<br />
     <sub>[#152501](https://github.com/flutter/flutter/pull/152501) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152501) over 1 hour, 0 additions and 162 deletions in 8 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Stop CupertinoScrollbar's track from paging the scroll view on tap<br />
     <sub>[#152197](https://github.com/flutter/flutter/pull/152197) merged on July 29, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/152197) over 5 days, 73 additions and 4 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.<br />
+    <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] remove Skia specific and unused devicelab metrics.<br />
     <sub>[#152523](https://github.com/flutter/flutter/pull/152523) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152523) over 38 minutes, 0 additions and 19 deletions in 1 file</sub><br />
