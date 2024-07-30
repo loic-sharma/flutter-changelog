@@ -4,7 +4,12 @@
 
 ### July 27, 2024 to August 2, 2024
 
-13 commits.
+14 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix default avatar icon theme size for Material 2
+    <sub>[#152307](https://github.com/flutter/flutter/pull/152307) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152307) over 5 days, 16 additions and 89 deletions in 4 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+    <sub><details><summary>2 images...</summary><img width="490" alt="Screenshot 2024-07-25 at 16 24 08" src="https://github.com/user-attachments/assets/45408aa2-b3ab-4ff9-ae72-53a91c87c76a"><img width="490" alt="Screenshot 2024-07-25 at 16 23 56" src="https://github.com/user-attachments/assets/07ba367d-9ca3-46cc-8122-d1155dd2f32b"></details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Shortcut label for CharacterActivator does not include modifiers
     <sub>[#152233](https://github.com/flutter/flutter/pull/152233) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152233) over 5 days, 71 additions and 2 deletions in 2 files</sub>
@@ -562,7 +567,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-9 commits.
+10 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete rasterizer class.
     <sub>[#54196](https://github.com/flutter/engine/pull/54196) merged on July 29, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/54196) over 1 hour, 152 additions and 342 deletions in 16 files</sub>
@@ -595,6 +600,10 @@
 * **[Rafal Wachol](https://github.com/charafau)** &mdash; [wiki] Fix link to engine dev setup
     <sub>[#54173](https://github.com/flutter/engine/pull/54173) merged on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54173) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: [Impeller] Use downsample shader for blur instead of mip levels.
+    <sub>[#54149](https://github.com/flutter/engine/pull/54149) merged on July 30, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/54149) over 3 days, 346 additions and 263 deletions in 10 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Set GLArea.has-alpha = true (#54053)"
     <sub>[#54190](https://github.com/flutter/engine/pull/54190) merged on July 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54190) over 45 minutes, 1 addition and 2 deletions in 2 files</sub>
