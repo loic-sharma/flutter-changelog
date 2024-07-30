@@ -44,9 +44,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing null-aware logic in `/packages/flutter/`<br />
     <sub>[#152294](https://github.com/flutter/flutter/pull/152294) opened on on July 25, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/152294) 168 additions and 310 deletions in 53 files</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Automatically handle back gesture in nested Navigators<br />
-    <sub>[#152330](https://github.com/flutter/flutter/pull/152330) opened on on July 25, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/152330) 216 additions and 194 deletions in 4 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#53571<br />
     <sub>[#152345](https://github.com/flutter/flutter/pull/152345) opened on on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152345) 2 additions and 1 deletion in 2 files</sub><br />
 
