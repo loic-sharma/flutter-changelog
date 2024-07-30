@@ -83,3 +83,6 @@
 * **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix typo in CHANGELOG.md<br />
     <sub>[#152543](https://github.com/flutter/flutter/pull/152543) opened on on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152543) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Implement switch in build info<br />
+    <sub>[#152548](https://github.com/flutter/flutter/pull/152548) opened on on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152548) 28 additions and 52 deletions in 1 file</sub><br />
+
