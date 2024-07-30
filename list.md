@@ -602,7 +602,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Do not disable partial repaint based on thread merging state
-    <sub>[#54219](https://github.com/flutter/engine/pull/54219) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54219) over 3 hours, 59 additions and 26 deletions in 9 files</sub>
+    <sub>[#54219](https://github.com/flutter/engine/pull/54219) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54219) over 3 hours, 59 additions and 26 deletions in 9 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] makes the gaussian down sample scalar fixed by adjusting the downsample padding
