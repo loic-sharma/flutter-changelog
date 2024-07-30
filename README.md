@@ -1015,8 +1015,8 @@
 11 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Platform implementations of async api<br />
-    <sub>[#6965](https://github.com/flutter/packages/pull/6965) merged on July 30, 2024 &mdash; **Extra large:** [31 comments](https://github.com/flutter/packages/pull/6965) over 1 month, 6838 additions and 1225 deletions in 64 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+    <sub>[#6965](https://github.com/flutter/packages/pull/6965) merged on July 30, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6965) over 1 month, 6838 additions and 1225 deletions in 64 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[André Sousa](https://github.com/beroso)** &mdash; [video_player_android] Add RTSP support<br />
     <sub>[#7081](https://github.com/flutter/packages/pull/7081) merged on July 29, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7081) over 2 weeks, 171 additions and 19 deletions in 10 files</sub><br />
