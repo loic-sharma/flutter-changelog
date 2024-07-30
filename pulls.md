@@ -63,7 +63,7 @@
     <sub>[#152444](https://github.com/flutter/flutter/pull/152444) opened on on July 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152444) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[姚春锋](https://github.com/chunfengyao)** &mdash; override the version number that is read from pubspec.lock file for all native plugins when generating the local Maven repository.<br />
-    <sub>[#152467](https://github.com/flutter/flutter/pull/152467) opened on on July 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152467) 32 additions and 5 deletions in 1 file</sub><br />
+    <sub>[#152467](https://github.com/flutter/flutter/pull/152467) opened on on July 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152467) 115 additions and 5 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate invalid InputDecoration.collapsed parameters<br />
     <sub>[#152486](https://github.com/flutter/flutter/pull/152486) opened on on July 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152486) 319 additions and 242 deletions in 7 files</sub><br />
