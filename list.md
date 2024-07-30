@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-17 commits.
+18 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix default avatar icon theme size for Material 2
     <sub>[#152307](https://github.com/flutter/flutter/pull/152307) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152307) over 5 days, 16 additions and 89 deletions in 4 files</sub>
@@ -27,6 +27,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.
     <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Set COEP:credentialless on flutter run/drive.
+    <sub>[#152413](https://github.com/flutter/flutter/pull/152413) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152413) over 3 days, 5 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift macOS/Android tests from Pixel 7 to mokey in staging
     <sub>[#152571](https://github.com/flutter/flutter/pull/152571) merged on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152571) over 1 hour, 28 additions and 14 deletions in 1 file</sub>
