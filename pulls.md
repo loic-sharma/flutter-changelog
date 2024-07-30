@@ -80,6 +80,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold messenger examples<br />
     <sub>[#152536](https://github.com/flutter/flutter/pull/152536) opened on on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152536) 75 additions and 3 deletions in 4 files</sub><br />
 
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [flutter_releases] Flutter beta 3.24.0-0.2.pre Framework Cherrypicks<br />
-    <sub>[#152540](https://github.com/flutter/flutter/pull/152540) opened on on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152540) 1 addition and 1 deletion in 1 file</sub><br />
-
