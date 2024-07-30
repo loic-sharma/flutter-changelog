@@ -575,7 +575,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-13 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] Split encode and submit into two different surface frame callbacks.<br />
     <sub>[#54200](https://github.com/flutter/engine/pull/54200) merged on July 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54200) over 20 hours, 335 additions and 195 deletions in 18 files</sub><br />
@@ -602,7 +602,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Do not disable partial repaint based on thread merging state<br />
-    <sub>[#54219](https://github.com/flutter/engine/pull/54219) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54219) over 3 hours, 59 additions and 26 deletions in 9 files</sub><br />
+    <sub>[#54219](https://github.com/flutter/engine/pull/54219) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54219) over 3 hours, 59 additions and 26 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] makes the gaussian down sample scalar fixed by adjusting the downsample padding<br />
@@ -616,6 +616,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Fix scaledImageSize handling of a target width with no target height<br />
     <sub>[#54122](https://github.com/flutter/engine/pull/54122) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54122) over 3 days, 9 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Do not disable partial repaint based on thread merging state (#54219)"<br />
+    <sub>[#54230](https://github.com/flutter/engine/pull/54230) merged on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54230) over 34 seconds, 26 additions and 59 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Rafal Wachol](https://github.com/charafau)** &mdash; [wiki] Fix link to engine dev setup<br />
     <sub>[#54173](https://github.com/flutter/engine/pull/54173) merged on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54173) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
