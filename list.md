@@ -575,7 +575,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-12 commits.
+13 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] Split encode and submit into two different surface frame callbacks.
     <sub>[#54200](https://github.com/flutter/engine/pull/54200) merged on July 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54200) over 20 hours, 335 additions and 195 deletions in 18 files</sub>
@@ -596,6 +596,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable on-by-default on Android.
     <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete unused create_ios_framework.py
+    <sub>[#54227](https://github.com/flutter/engine/pull/54227) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54227) over 1 hour, 0 additions and 116 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Do not disable partial repaint based on thread merging state
     <sub>[#54219](https://github.com/flutter/engine/pull/54219) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54219) over 3 hours, 59 additions and 26 deletions in 9 files</sub>
