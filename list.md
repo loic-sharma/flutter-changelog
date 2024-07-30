@@ -571,7 +571,11 @@
 
 ### July 27, 2024 to August 2, 2024
 
-11 commits.
+12 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] Split encode and submit into two different surface frame callbacks.
+    <sub>[#54200](https://github.com/flutter/engine/pull/54200) merged on July 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54200) over 20 hours, 335 additions and 195 deletions in 18 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete rasterizer class.
     <sub>[#54196](https://github.com/flutter/engine/pull/54196) merged on July 29, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/54196) over 1 hour, 152 additions and 342 deletions in 16 files</sub>
