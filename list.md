@@ -602,7 +602,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: [Impeller] Use downsample shader for blur instead of mip levels.
-    <sub>[#54149](https://github.com/flutter/engine/pull/54149) merged on July 30, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/54149) over 3 days, 346 additions and 263 deletions in 10 files</sub>
+    <sub>[#54149](https://github.com/flutter/engine/pull/54149) merged on July 30, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/54149) over 3 days, 346 additions and 263 deletions in 10 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Set GLArea.has-alpha = true (#54053)"
