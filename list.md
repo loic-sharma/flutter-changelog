@@ -1024,11 +1024,20 @@
 
 ### July 27, 2024 to August 2, 2024
 
-12 commits.
+14 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface
+    <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [270 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Platform implementations of async api
     <sub>[#6965](https://github.com/flutter/packages/pull/6965) merged on July 30, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/6965) over 1 month, 6838 additions and 1225 deletions in 64 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [url_launcher]: Bump androidx.browser:browser from 1.5.0 to 1.8.0 in /packages/url_launcher/url_launcher_android/android
+    <sub>[#6811](https://github.com/flutter/packages/pull/6811) merged on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6811) over 2 months, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.browser:browser&package-manager=gradle&previous-version=1.5.0&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump com.android.billingclient:billing from 6.1.0 to 6.2.0 in /packages/in_app_purchase/in_app_purchase_android/android
     <sub>[#6413](https://github.com/flutter/packages/pull/6413) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6413) over 4 months, 6 additions and 2 deletions in 3 files</sub>
