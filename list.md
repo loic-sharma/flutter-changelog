@@ -567,7 +567,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-10 commits.
+11 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete rasterizer class.
     <sub>[#54196](https://github.com/flutter/engine/pull/54196) merged on July 29, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/54196) over 1 hour, 152 additions and 342 deletions in 16 files</sub>
@@ -584,6 +584,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable on-by-default on Android.
     <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Do not disable partial repaint based on thread merging state
+    <sub>[#54219](https://github.com/flutter/engine/pull/54219) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54219) over 3 hours, 59 additions and 26 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] makes the gaussian down sample scalar fixed by adjusting the downsample padding
     <sub>[#54150](https://github.com/flutter/engine/pull/54150) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54150) over 3 days, 20 additions and 3 deletions in 1 file</sub>
