@@ -68,9 +68,6 @@
 * **[姚春锋](https://github.com/chunfengyao)** &mdash; override the version number that is read from pubspec.lock file for all native plugins when generating the local Maven repository.<br />
     <sub>[#152467](https://github.com/flutter/flutter/pull/152467) opened on on July 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/152467) 115 additions and 5 deletions in 2 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to support new Android version<br />
-    <sub>[#152503](https://github.com/flutter/flutter/pull/152503) opened on on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152503) 71 additions and 47 deletions in 1 file</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates<br />
     <sub>[#152525](https://github.com/flutter/flutter/pull/152525) opened on on July 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152525) 28 additions and 96 deletions in 1 file</sub><br />
 
