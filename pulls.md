@@ -65,15 +65,9 @@
 * **[姚春锋](https://github.com/chunfengyao)** &mdash; override the version number that is read from pubspec.lock file for all native plugins when generating the local Maven repository.<br />
     <sub>[#152467](https://github.com/flutter/flutter/pull/152467) opened on on July 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152467) 32 additions and 5 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for selection_area.0.dart<br />
-    <sub>[#152480](https://github.com/flutter/flutter/pull/152480) opened on on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152480) 89 additions and 1 deletion in 2 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate invalid InputDecoration.collapsed parameters<br />
     <sub>[#152486](https://github.com/flutter/flutter/pull/152486) opened on on July 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152486) 319 additions and 242 deletions in 7 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates<br />
     <sub>[#152525](https://github.com/flutter/flutter/pull/152525) opened on on July 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152525) 28 additions and 96 deletions in 1 file</sub><br />
-
-* **[Rexios](https://github.com/Rexios80)** &mdash; [wiki] Remove text saying wiki edits do not get code reviewed<br />
-    <sub>[#152530](https://github.com/flutter/flutter/pull/152530) opened on on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152530) 1 addition and 3 deletions in 1 file</sub><br />
 
