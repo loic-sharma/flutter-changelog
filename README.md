@@ -1024,11 +1024,16 @@
 
 ### July 27, 2024 to August 2, 2024
 
-11 commits.
+12 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Platform implementations of async api<br />
     <sub>[#6965](https://github.com/flutter/packages/pull/6965) merged on July 30, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/6965) over 1 month, 6838 additions and 1225 deletions in 64 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump com.android.billingclient:billing from 6.1.0 to 6.2.0 in /packages/in_app_purchase/in_app_purchase_android/android<br />
+    <sub>[#6413](https://github.com/flutter/packages/pull/6413) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/6413) over 4 months, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=com.android.billingclient:billing&package-manager=gradle&previous-version=6.1.0&new-version=6.2.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[André Sousa](https://github.com/beroso)** &mdash; [video_player_android] Add RTSP support<br />
     <sub>[#7081](https://github.com/flutter/packages/pull/7081) merged on July 29, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7081) over 2 weeks, 171 additions and 19 deletions in 10 files</sub><br />
