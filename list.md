@@ -4,7 +4,12 @@
 
 ### July 27, 2024 to August 2, 2024
 
-12 commits.
+13 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Shortcut label for CharacterActivator does not include modifiers
+    <sub>[#152233](https://github.com/flutter/flutter/pull/152233) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152233) over 5 days, 71 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+    <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/1cb8defe-2600-45ef-878d-fbdde5aaf2ad)![image](https://github.com/user-attachments/assets/cd3b1c79-2f23-40fd-b0b9-934fa182fff3)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove raster stats CLI option.
     <sub>[#152501](https://github.com/flutter/flutter/pull/152501) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152501) over 1 hour, 0 additions and 162 deletions in 8 files</sub>
