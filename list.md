@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-16 commits.
+17 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix default avatar icon theme size for Material 2
     <sub>[#152307](https://github.com/flutter/flutter/pull/152307) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152307) over 5 days, 16 additions and 89 deletions in 4 files</sub>
@@ -67,6 +67,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; mark Mac tool_integration_tests_* as non-bringup
     <sub>[#152412](https://github.com/flutter/flutter/pull/152412) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152412) over 2 days, 0 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac platform_channel_sample_test_macos to be flaky
+    <sub>[#151884](https://github.com/flutter/flutter/pull/151884) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151884) over 1 week, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Reland #151599 (Add button semantics in list tile ) with a flag to control behavior. 
     <sub>[#152526](https://github.com/flutter/flutter/pull/152526) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152526) over 20 hours, 72 additions and 0 deletions in 11 files</sub>
