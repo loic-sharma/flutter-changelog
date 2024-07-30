@@ -68,9 +68,6 @@
 * **[姚春锋](https://github.com/chunfengyao)** &mdash; override the version number that is read from pubspec.lock file for all native plugins when generating the local Maven repository.<br />
     <sub>[#152467](https://github.com/flutter/flutter/pull/152467) opened on on July 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/152467) 115 additions and 5 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing<br />
-    <sub>[#152472](https://github.com/flutter/flutter/pull/152472) opened on on July 29, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/152472) 438 additions and 18 deletions in 4 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate invalid InputDecoration.collapsed parameters<br />
     <sub>[#152486](https://github.com/flutter/flutter/pull/152486) opened on on July 29, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152486) 325 additions and 244 deletions in 7 files</sub><br />
 
@@ -87,5 +84,5 @@
     <sub>[#152543](https://github.com/flutter/flutter/pull/152543) opened on on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152543) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Implement switch in build info<br />
-    <sub>[#152548](https://github.com/flutter/flutter/pull/152548) opened on on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152548) 28 additions and 52 deletions in 1 file</sub><br />
+    <sub>[#152548](https://github.com/flutter/flutter/pull/152548) opened on on July 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152548) 28 additions and 52 deletions in 1 file</sub><br />
 
