@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-27 commits.
+28 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
     <sub>[#150764](https://github.com/flutter/flutter/pull/150764) merged on July 31, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/150764) over 1 month, 137 additions and 7 deletions in 2 files</sub><br />
@@ -44,6 +44,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; increase sharding on Windows tool_integration_tests<br />
     <sub>[#152582](https://github.com/flutter/flutter/pull/152582) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152582) over 8 hours, 42 additions and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove redundant usages of zones in skia_client.dart<br />
+    <sub>[#149366](https://github.com/flutter/flutter/pull/149366) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149366) over 2 months, 34 additions and 39 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.<br />
     <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub><br />
