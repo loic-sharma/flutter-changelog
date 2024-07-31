@@ -787,7 +787,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] track unbounded state on save layers and DisplayLists
-    <sub>[#54032](https://github.com/flutter/engine/pull/54032) merged on July 23, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54032) over 16 hours, 601 additions and 60 deletions in 7 files</sub>
+    <sub>[#54032](https://github.com/flutter/engine/pull/54032) merged on July 23, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/54032) over 16 hours, 601 additions and 60 deletions in 7 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrates the bulk of flutter/engine to pub workspaces.
