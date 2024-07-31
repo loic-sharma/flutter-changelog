@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-18 commits.
+19 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix default avatar icon theme size for Material 2<br />
     <sub>[#152307](https://github.com/flutter/flutter/pull/152307) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152307) over 5 days, 16 additions and 89 deletions in 4 files</sub><br />
@@ -27,6 +27,10 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.<br />
     <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clarify and cleanup the test-exemption wording in tree-hygiene.<br />
+    <sub>[#152402](https://github.com/flutter/flutter/pull/152402) merged on July 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152402) over 4 days, 41 additions and 12 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Set COEP:credentialless on flutter run/drive.<br />
     <sub>[#152413](https://github.com/flutter/flutter/pull/152413) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152413) over 3 days, 5 additions and 5 deletions in 3 files</sub><br />
@@ -583,7 +587,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-15 commits.
+17 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use linear sampling to sample from AHB textures in Vulkan.<br />
     <sub>[#54233](https://github.com/flutter/engine/pull/54233) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54233) over 35 minutes, 10 additions and 19 deletions in 2 files</sub><br />
@@ -609,6 +613,14 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable on-by-default on Android.<br />
     <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Delete obsolete ML guided optimisation doc<br />
+    <sub>[#54237](https://github.com/flutter/engine/pull/54237) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54237) over 1 hour, 0 additions and 233 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; enumify ImageType and ImageFileSignature<br />
+    <sub>[#54131](https://github.com/flutter/engine/pull/54131) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54131) over 4 days, 69 additions and 122 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete unused create_ios_framework.py<br />
     <sub>[#54227](https://github.com/flutter/engine/pull/54227) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54227) over 1 hour, 0 additions and 116 deletions in 2 files</sub><br />
