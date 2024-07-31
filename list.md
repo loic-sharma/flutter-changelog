@@ -696,6 +696,10 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/7372c128-ca71-44a6-8e6c-b0043025f751)</details></sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove pre-existing diagnostics with no behavioral changes.
+    <sub>[#54264](https://github.com/flutter/engine/pull/54264) merged on July 31, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/54264) over 2 hours, 227 additions and 163 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Dispose a temporary image that may be created by instantiateImageCodecWithSize
     <sub>[#54096](https://github.com/flutter/engine/pull/54096) merged on July 31, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54096) over 6 days, 30 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
@@ -703,10 +707,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update flutter_shell_native_unittests for compatibility with Android API 35 emulators
     <sub>[#54235](https://github.com/flutter/engine/pull/54235) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54235) over 1 hour, 45 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove pre-existing diagnostics with no behavioral changes.
-    <sub>[#54264](https://github.com/flutter/engine/pull/54264) merged on July 31, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/54264) over 2 hours, 227 additions and 163 deletions in 1 file</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup dart analyze diagnostics in ignored directories.
     <sub>[#54262](https://github.com/flutter/engine/pull/54262) merged on July 31, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/54262) over 2 hours, 152 additions and 224 deletions in 6 files</sub>
