@@ -608,12 +608,16 @@
 
 ### July 27, 2024 to August 2, 2024
 
-20 commits.
+21 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use linear sampling to sample from AHB textures in Vulkan.<br />
     <sub>[#54233](https://github.com/flutter/engine/pull/54233) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54233) over 35 minutes, 10 additions and 19 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![flutter_04](https://github.com/user-attachments/assets/ccae62a0-4b46-4776-b8ee-f7314722aa68)</details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate the remaining real pub packages to pub workspaces.<br />
+    <sub>[#54232](https://github.com/flutter/engine/pull/54232) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54232) over 19 hours, 20 additions and 35 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] Split encode and submit into two different surface frame callbacks.<br />
     <sub>[#54200](https://github.com/flutter/engine/pull/54200) merged on July 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54200) over 20 hours, 335 additions and 195 deletions in 18 files</sub><br />
