@@ -75,5 +75,5 @@
     <sub>[#152543](https://github.com/flutter/flutter/pull/152543) opened on on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152543) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Satyam Srivastav ](https://github.com/D-extremity)** &mdash; Fixed [DropdownMenu] providing a focusNode, the text cursor is lost after disabling the widget and enabling it again, fixes #152478<br />
-    <sub>[#152621](https://github.com/flutter/flutter/pull/152621) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152621) 68 additions and 19 deletions in 2 files</sub><br />
+    <sub>[#152621](https://github.com/flutter/flutter/pull/152621) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152621) 69 additions and 20 deletions in 2 files</sub><br />
 
