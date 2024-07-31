@@ -14,9 +14,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Use `ErrorHandlingFileSystem.deleteIfExists` when deleting .plugin_symlinks<br />
     <sub>[#151184](https://github.com/flutter/flutter/pull/151184) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151184) 75 additions and 6 deletions in 4 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up tests that verify we can build a fresh counter app across our Gradle/AGP/Kotlin support range<br />
-    <sub>[#151568](https://github.com/flutter/flutter/pull/151568) opened on on July 10, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/151568) 340 additions and 99 deletions in 7 files</sub><br />
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dartdoc to 8.0.11 to fix focusing search field<br />
     <sub>[#151576](https://github.com/flutter/flutter/pull/151576) opened on on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151576) 1 addition and 1 deletion in 1 file</sub><br />
 
