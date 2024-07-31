@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-25 commits.
+27 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
     <sub>[#150764](https://github.com/flutter/flutter/pull/150764) merged on July 31, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/150764) over 1 month, 137 additions and 7 deletions in 2 files</sub><br />
@@ -24,6 +24,10 @@
     <sub>[#152233](https://github.com/flutter/flutter/pull/152233) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152233) over 5 days, 71 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/1cb8defe-2600-45ef-878d-fbdde5aaf2ad)![image](https://github.com/user-attachments/assets/cd3b1c79-2f23-40fd-b0b9-934fa182fff3)</details></sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up tests that verify we can build a fresh counter app across our Gradle/AGP/Kotlin support range<br />
+    <sub>[#151568](https://github.com/flutter/flutter/pull/151568) merged on July 31, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/151568) over 2 weeks, 382 additions and 99 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove raster stats CLI option.<br />
     <sub>[#152501](https://github.com/flutter/flutter/pull/152501) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152501) over 1 hour, 0 additions and 162 deletions in 8 files</sub><br />
@@ -72,6 +76,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] enable impeller in external texture test.<br />
     <sub>[#152502](https://github.com/flutter/flutter/pull/152502) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152502) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove bringup from Windows tool_integration_tests_*<br />
+    <sub>[#152599](https://github.com/flutter/flutter/pull/152599) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152599) over 12 hours, 0 additions and 7 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold messenger examples<br />
     <sub>[#152536](https://github.com/flutter/flutter/pull/152536) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152536) over 1 day, 75 additions and 3 deletions in 4 files</sub><br />
