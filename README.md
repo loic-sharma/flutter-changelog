@@ -4,7 +4,12 @@
 
 ### July 27, 2024 to August 2, 2024
 
-21 commits.
+22 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Use decoration hint text as the default value for dropdown button hints<br />
+    <sub>[#152474](https://github.com/flutter/flutter/pull/152474) merged on July 31, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/152474) over 2 days, 199 additions and 131 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/a08ff75c-edd4-4e16-9cfa-98ddb349d860) | ![image](https://github.com/user-attachments/assets/55f08bee-8f88-4125-8fae-68e2be724955)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix default avatar icon theme size for Material 2<br />
     <sub>[#152307](https://github.com/flutter/flutter/pull/152307) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152307) over 5 days, 16 additions and 89 deletions in 4 files</sub><br />
