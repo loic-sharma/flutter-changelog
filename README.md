@@ -1094,11 +1094,15 @@
 
 ### July 27, 2024 to August 2, 2024
 
-18 commits.
+19 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface<br />
     <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [270 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter_web] Migrate to `google_maps: 8.0.0`<br />
+    <sub>[#7077](https://github.com/flutter/packages/pull/7077) merged on July 31, 2024 &mdash; **Large:** [53 comments](https://github.com/flutter/packages/pull/7077) over 3 weeks, 389 additions and 308 deletions in 26 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds initial iOS implementation<br />
     <sub>[#7063](https://github.com/flutter/packages/pull/7063) merged on July 31, 2024 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/7063) over 3 weeks, 10301 additions and 164 deletions in 69 files</sub><br />
