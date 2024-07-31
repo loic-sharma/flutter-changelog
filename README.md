@@ -4,7 +4,11 @@
 
 ### July 27, 2024 to August 2, 2024
 
-24 commits.
+25 commits.
+
+* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
+    <sub>[#150764](https://github.com/flutter/flutter/pull/150764) merged on July 31, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/150764) over 1 month, 137 additions and 7 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Use decoration hint text as the default value for dropdown button hints<br />
     <sub>[#152474](https://github.com/flutter/flutter/pull/152474) merged on July 31, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/152474) over 2 days, 199 additions and 131 deletions in 2 files</sub><br />
