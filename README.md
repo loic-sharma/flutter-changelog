@@ -587,7 +587,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-18 commits.
+19 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use linear sampling to sample from AHB textures in Vulkan.<br />
     <sub>[#54233](https://github.com/flutter/engine/pull/54233) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54233) over 35 minutes, 10 additions and 19 deletions in 2 files</sub><br />
@@ -617,6 +617,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update flutter_shell_native_unittests for compatibility with Android API 35 emulators<br />
     <sub>[#54235](https://github.com/flutter/engine/pull/54235) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54235) over 1 hour, 45 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS][macOS] Eliminate use of bitcode_strip<br />
+    <sub>[#54240](https://github.com/flutter/engine/pull/54240) merged on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54240) over 46 minutes, 3 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Delete obsolete ML guided optimisation doc<br />
     <sub>[#54237](https://github.com/flutter/engine/pull/54237) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54237) over 1 hour, 0 additions and 233 deletions in 1 file</sub><br />
@@ -1065,7 +1069,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-14 commits.
+16 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface<br />
     <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [270 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub><br />
@@ -1074,6 +1078,11 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Platform implementations of async api<br />
     <sub>[#6965](https://github.com/flutter/packages/pull/6965) merged on July 30, 2024 &mdash; **Extra large:** [37 comments](https://github.com/flutter/packages/pull/6965) over 1 month, 6838 additions and 1225 deletions in 64 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [webview]: Bump androidx.annotation:annotation from 1.7.1 to 1.8.1 in /packages/webview_flutter/webview_flutter_android/android<br />
+    <sub>[#6770](https://github.com/flutter/packages/pull/6770) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/6770) over 2 months, 6 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [url_launcher]: Bump androidx.browser:browser from 1.5.0 to 1.8.0 in /packages/url_launcher/url_launcher_android/android<br />
     <sub>[#6811](https://github.com/flutter/packages/pull/6811) merged on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/6811) over 2 months, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1093,6 +1102,11 @@
     <sub>[#6763](https://github.com/flutter/packages/pull/6763) merged on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6763) over 2 months, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [interactive_media_ads]: Bump androidx.annotation:annotation from 1.8.0 to 1.8.1 in /packages/interactive_media_ads/android<br />
+    <sub>[#7238](https://github.com/flutter/packages/pull/7238) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7238) over 1 day, 7 additions and 3 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.0&new-version=1.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump androidx.annotation:annotation from 1.8.0 to 1.8.1 in /packages/camera/camera_android/android<br />
     <sub>[#7236](https://github.com/flutter/packages/pull/7236) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7236) over 8 hours, 6 additions and 2 deletions in 3 files</sub><br />
