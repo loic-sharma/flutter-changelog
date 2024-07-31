@@ -38,9 +38,6 @@
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; Use recommended plugin DSL when creating a new flutter plugin<br />
     <sub>[#152229](https://github.com/flutter/flutter/pull/152229) opened on on July 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152229) 8 additions and 14 deletions in 2 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implementing null-aware logic in `/packages/flutter/`<br />
-    <sub>[#152294](https://github.com/flutter/flutter/pull/152294) opened on on July 25, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/152294) 168 additions and 310 deletions in 53 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#53571<br />
     <sub>[#152345](https://github.com/flutter/flutter/pull/152345) opened on on July 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152345) 2 additions and 1 deletion in 2 files</sub><br />
 
@@ -49,9 +46,6 @@
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Guard process writes to frontend server in `ResidentCompiler`<br />
     <sub>[#152358](https://github.com/flutter/flutter/pull/152358) opened on on July 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152358) 116 additions and 71 deletions in 14 files</sub><br />
-
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Delay `DropdownMenu` filtering until text input<br />
-    <sub>[#152368](https://github.com/flutter/flutter/pull/152368) opened on on July 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152368) 53 additions and 2 deletions in 2 files</sub><br />
 
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
     <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
@@ -63,7 +57,7 @@
     <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152431) 244 additions and 0 deletions in 1 file</sub><br />
 
 * **[Gazal](https://github.com/gazal-k)** &mdash; fix: add parameter to maintainState of SearchDelegate<br />
-    <sub>[#152444](https://github.com/flutter/flutter/pull/152444) opened on on July 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152444) 61 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#152444](https://github.com/flutter/flutter/pull/152444) opened on on July 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152444) 61 additions and 3 deletions in 2 files</sub><br />
 
 * **[姚春锋](https://github.com/chunfengyao)** &mdash; override the version number that is read from pubspec.lock file for all native plugins when generating the local Maven repository.<br />
     <sub>[#152467](https://github.com/flutter/flutter/pull/152467) opened on on July 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/152467) 123 additions and 5 deletions in 2 files</sub><br />
