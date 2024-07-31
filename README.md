@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-28 commits.
+31 commits.
 
 * **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.<br />
     <sub>[#150764](https://github.com/flutter/flutter/pull/150764) merged on July 31, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/150764) over 1 month, 137 additions and 7 deletions in 2 files</sub><br />
@@ -15,6 +15,11 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/a08ff75c-edd4-4e16-9cfa-98ddb349d860) | ![image](https://github.com/user-attachments/assets/55f08bee-8f88-4125-8fae-68e2be724955)</details></sub>
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to clip `Stepper` step content<br />
+    <sub>[#152370](https://github.com/flutter/flutter/pull/152370) merged on July 31, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152370) over 5 days, 103 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+    <sub><details><summary>2 images...</summary>![Group 1](https://github.com/user-attachments/assets/1814ad90-8d43-4e03-9f68-7da47e08c718)![Group 2](https://github.com/user-attachments/assets/652ff597-7e9a-4d35-abc2-80d60cee03f4)</details></sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix default avatar icon theme size for Material 2<br />
     <sub>[#152307](https://github.com/flutter/flutter/pull/152307) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152307) over 5 days, 16 additions and 89 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
@@ -24,6 +29,11 @@
     <sub>[#152233](https://github.com/flutter/flutter/pull/152233) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152233) over 5 days, 71 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
     <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/1cb8defe-2600-45ef-878d-fbdde5aaf2ad)![image](https://github.com/user-attachments/assets/cd3b1c79-2f23-40fd-b0b9-934fa182fff3)</details></sub>
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Calendar font factor<br />
+    <sub>[#152341](https://github.com/flutter/flutter/pull/152341) merged on July 31, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/152341) over 5 days, 194 additions and 76 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+    <sub><details><summary>11 images...</summary><img width="375" alt="Old-SE-Portrait-DayPicker" src="https://github.com/user-attachments/assets/4dd1735f-f4c7-4a0a-b8d3-e5ea84d2ba3c"><img width="376" alt="Screenshot 2024-07-25 at 1 25 41 PM" src="https://github.com/user-attachments/assets/a53d7d68-87ef-4b29-9479-36ef22bd6cc9"><img width="375" alt="Old-SE-Portrait-YearPicker" src="https://github.com/user-attachments/assets/37c2965d-1ec0-429b-aa4d-37396f90cb74"><img width="377" alt="Screenshot 2024-07-25 at 1 26 38 PM" src="https://github.com/user-attachments/assets/2a00d90f-d523-4ff5-a1d7-e1bfafb245d3"><img width="665" alt="Old-SE-Landscape-DayPicker" src="https://github.com/user-attachments/assets/1cc4cd26-d56a-4f35-88b1-1c13fa460c2f"><img width="665" alt="Screenshot 2024-07-25 at 1 25 52 PM" src="https://github.com/user-attachments/assets/729ac66c-d6b9-4a2a-8303-b5c9face0f62"><img width="664" alt="Old-SE-Landscape-YearPicker" src="https://github.com/user-attachments/assets/f00a9ab8-1925-4c33-bfcc-31020b2858b8"><img width="666" alt="Screenshot 2024-07-25 at 1 26 47 PM" src="https://github.com/user-attachments/assets/d6116c20-4862-4e07-8ab4-fb8ecb71bfa5"><img width="374" alt="Screenshot 2024-07-25 at 1 24 52 PM" src="https://github.com/user-attachments/assets/83305c11-97d5-4986-bf51-fe0be71f653e"><img width="372" alt="Screenshot 2024-07-25 at 1 43 39 PM" src="https://github.com/user-attachments/assets/2440cf6f-160f-4689-978e-d0a3df2db102"><img width="666" alt="Screenshot 2024-07-25 at 1 43 48 PM" src="https://github.com/user-attachments/assets/e8d8dbf3-c7d8-4668-9245-7b5036165e75"></details></sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Set up tests that verify we can build a fresh counter app across our Gradle/AGP/Kotlin support range<br />
     <sub>[#151568](https://github.com/flutter/flutter/pull/151568) merged on July 31, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/151568) over 2 weeks, 382 additions and 99 deletions in 7 files</sub><br />
@@ -44,6 +54,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; increase sharding on Windows tool_integration_tests<br />
     <sub>[#152582](https://github.com/flutter/flutter/pull/152582) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152582) over 8 hours, 42 additions and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
+    <sub>[#148574](https://github.com/flutter/flutter/pull/148574) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148574) over 2 months, 122 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove redundant usages of zones in skia_client.dart<br />
     <sub>[#149366](https://github.com/flutter/flutter/pull/149366) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149366) over 2 months, 34 additions and 39 deletions in 3 files</sub><br />
@@ -624,7 +638,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-25 commits.
+26 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use linear sampling to sample from AHB textures in Vulkan.<br />
     <sub>[#54233](https://github.com/flutter/engine/pull/54233) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54233) over 35 minutes, 10 additions and 19 deletions in 2 files</sub><br />
@@ -655,8 +669,13 @@
     <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Reland: Implement draw order optimization. (#54215)"<br />
+    <sub>[#54261](https://github.com/flutter/engine/pull/54261) merged on July 31, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/54261) over 1 minute, 88 additions and 629 deletions in 15 files</sub><br />
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/7372c128-ca71-44a6-8e6c-b0043025f751)</details></sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Implement draw order optimization.<br />
-    <sub>[#54215](https://github.com/flutter/engine/pull/54215) merged on July 31, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/54215) over 1 day, 629 additions and 88 deletions in 15 files</sub><br />
+    <sub>[#54215](https://github.com/flutter/engine/pull/54215) merged on July 31, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/54215) over 1 day, 629 additions and 88 deletions in 15 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/7372c128-ca71-44a6-8e6c-b0043025f751)</details></sub>
 
