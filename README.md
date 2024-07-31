@@ -604,7 +604,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-19 commits.
+20 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use linear sampling to sample from AHB textures in Vulkan.<br />
     <sub>[#54233](https://github.com/flutter/engine/pull/54233) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54233) over 35 minutes, 10 additions and 19 deletions in 2 files</sub><br />
@@ -636,7 +636,7 @@
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS][macOS] Eliminate use of bitcode_strip<br />
-    <sub>[#54240](https://github.com/flutter/engine/pull/54240) merged on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54240) over 46 minutes, 3 additions and 2 deletions in 2 files</sub><br />
+    <sub>[#54240](https://github.com/flutter/engine/pull/54240) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54240) over 46 minutes, 3 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Delete obsolete ML guided optimisation doc<br />
@@ -666,6 +666,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Fix scaledImageSize handling of a target width with no target height<br />
     <sub>[#54122](https://github.com/flutter/engine/pull/54122) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54122) over 3 days, 9 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[iOS][macOS] Eliminate use of bitcode_strip (#54240)"<br />
+    <sub>[#54250](https://github.com/flutter/engine/pull/54250) merged on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54250) over 1 minute, 2 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Do not disable partial repaint based on thread merging state (#54219)"<br />
     <sub>[#54230](https://github.com/flutter/engine/pull/54230) merged on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54230) over 34 seconds, 26 additions and 59 deletions in 9 files</sub><br />
