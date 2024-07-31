@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-19 commits.
+20 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix default avatar icon theme size for Material 2
     <sub>[#152307](https://github.com/flutter/flutter/pull/152307) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152307) over 5 days, 16 additions and 89 deletions in 4 files</sub>
@@ -23,6 +23,10 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Stop CupertinoScrollbar's track from paging the scroll view on tap
     <sub>[#152197](https://github.com/flutter/flutter/pull/152197) merged on July 29, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/152197) over 5 days, 73 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; increase sharding on Windows tool_integration_tests
+    <sub>[#152582](https://github.com/flutter/flutter/pull/152582) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152582) over 8 hours, 42 additions and 11 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.
     <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub>
