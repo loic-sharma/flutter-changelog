@@ -60,7 +60,7 @@
     <sub>[#152444](https://github.com/flutter/flutter/pull/152444) opened on on July 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152444) 61 additions and 3 deletions in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Partially remove Groovy dynamic dispatch from portion of FGP that handles setting application name<br />
-    <sub>[#152509](https://github.com/flutter/flutter/pull/152509) opened on on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152509) 39 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#152509](https://github.com/flutter/flutter/pull/152509) opened on on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152509) 39 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates<br />
     <sub>[#152525](https://github.com/flutter/flutter/pull/152525) opened on on July 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152525) 28 additions and 96 deletions in 1 file</sub><br />
