@@ -612,7 +612,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-24 commits.
+25 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use linear sampling to sample from AHB textures in Vulkan.<br />
     <sub>[#54233](https://github.com/flutter/engine/pull/54233) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54233) over 35 minutes, 10 additions and 19 deletions in 2 files</sub><br />
@@ -651,6 +651,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update flutter_shell_native_unittests for compatibility with Android API 35 emulators<br />
     <sub>[#54235](https://github.com/flutter/engine/pull/54235) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54235) over 1 hour, 45 additions and 6 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS][macOS] Eliminate use of bitcode_strip<br />
+    <sub>[#54254](https://github.com/flutter/engine/pull/54254) merged on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54254) over 1 hour, 3 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup the shell test, removing unused code<br />
     <sub>[#54238](https://github.com/flutter/engine/pull/54238) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54238) over 17 hours, 78 additions and 100 deletions in 1 file</sub><br />
