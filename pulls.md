@@ -66,7 +66,7 @@
     <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152431) 244 additions and 0 deletions in 1 file</sub><br />
 
 * **[Gazal](https://github.com/gazal-k)** &mdash; fix: add parameter to maintainState of SearchDelegate<br />
-    <sub>[#152444](https://github.com/flutter/flutter/pull/152444) opened on on July 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152444) 6 additions and 3 deletions in 1 file</sub><br />
+    <sub>[#152444](https://github.com/flutter/flutter/pull/152444) opened on on July 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152444) 58 additions and 3 deletions in 2 files</sub><br />
 
 * **[姚春锋](https://github.com/chunfengyao)** &mdash; override the version number that is read from pubspec.lock file for all native plugins when generating the local Maven repository.<br />
     <sub>[#152467](https://github.com/flutter/flutter/pull/152467) opened on on July 29, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/152467) 123 additions and 5 deletions in 2 files</sub><br />
