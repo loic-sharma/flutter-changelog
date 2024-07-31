@@ -53,9 +53,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Delay `DropdownMenu` filtering until text input<br />
     <sub>[#152368](https://github.com/flutter/flutter/pull/152368) opened on on July 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152368) 53 additions and 2 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for search_anchor.0.dart<br />
-    <sub>[#152371](https://github.com/flutter/flutter/pull/152371) opened on on July 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152371) 55 additions and 1 deletion in 2 files</sub><br />
-
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
     <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
 

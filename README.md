@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-22 commits.
+23 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Use decoration hint text as the default value for dropdown button hints<br />
     <sub>[#152474](https://github.com/flutter/flutter/pull/152474) merged on July 31, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/152474) over 2 days, 199 additions and 131 deletions in 2 files</sub><br />
@@ -68,6 +68,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] enable impeller in external texture test.<br />
     <sub>[#152502](https://github.com/flutter/flutter/pull/152502) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152502) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for search_anchor.0.dart<br />
+    <sub>[#152371](https://github.com/flutter/flutter/pull/152371) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152371) over 4 days, 55 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Tirth](https://github.com/piedcipher)</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Add Dimil Kalathiya to authors<br />
     <sub>[#152491](https://github.com/flutter/flutter/pull/152491) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152491) over 8 hours, 1 addition and 0 deletions in 1 file</sub><br />
