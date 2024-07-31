@@ -608,7 +608,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-21 commits.
+22 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use linear sampling to sample from AHB textures in Vulkan.<br />
     <sub>[#54233](https://github.com/flutter/engine/pull/54233) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54233) over 35 minutes, 10 additions and 19 deletions in 2 files</sub><br />
@@ -638,6 +638,11 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable on-by-default on Android.<br />
     <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Implement draw order optimization.<br />
+    <sub>[#54215](https://github.com/flutter/engine/pull/54215) merged on July 31, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/54215) over 1 day, 629 additions and 88 deletions in 15 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+    <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/7372c128-ca71-44a6-8e6c-b0043025f751)</details></sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update flutter_shell_native_unittests for compatibility with Android API 35 emulators<br />
     <sub>[#54235](https://github.com/flutter/engine/pull/54235) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54235) over 1 hour, 45 additions and 6 deletions in 1 file</sub><br />
