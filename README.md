@@ -1094,7 +1094,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-17 commits.
+18 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface<br />
     <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [270 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub><br />
@@ -1166,6 +1166,10 @@
     <sub>[#7243](https://github.com/flutter/packages/pull/7243) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7243) over 5 hours, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.0&new-version=1.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Run pre_publish.dart before publish --dry-run<br />
+    <sub>[#7258](https://github.com/flutter/packages/pull/7258) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7258) over 19 hours, 73 additions and 8 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [path_provider] fix 151823: update minimum required path_provider_android to 2.2.0<br />
     <sub>[#7181](https://github.com/flutter/packages/pull/7181) merged on July 30, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7181) over 1 week, 7 additions and 4 deletions in 3 files</sub><br />
