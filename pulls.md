@@ -83,3 +83,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] hide the --web-renderer option in the tool<br />
     <sub>[#152683](https://github.com/flutter/flutter/pull/152683) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152683) 11 additions and 0 deletions in 1 file</sub><br />
 
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore both unused_element and unused_element_parameter<br />
+    <sub>[#152689](https://github.com/flutter/flutter/pull/152689) opened on on August 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152689) 3 additions and 1 deletion in 1 file</sub><br />
+
