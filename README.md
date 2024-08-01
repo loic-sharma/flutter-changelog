@@ -1220,10 +1220,10 @@
 
 ### July 27, 2024 to August 2, 2024
 
-23 commits.
+24 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface<br />
-    <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [271 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub><br />
+    <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [272 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[alexrabin-sentracam](https://github.com/alexrabin-sentracam)** &mdash; [local_auth_darwin] macOS Support <br />
@@ -1321,6 +1321,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [path_provider] fix 151823: update minimum required path_provider_android to 2.2.0<br />
     <sub>[#7181](https://github.com/flutter/packages/pull/7181) merged on July 30, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7181) over 1 week, 7 additions and 4 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Clean up C++ formatting<br />
+    <sub>[#7272](https://github.com/flutter/packages/pull/7272) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7272) over 3 hours, 10 additions and 10 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [video_player]: Bump exoplayer_version from 1.3.1 to 1.4.0 in /packages/video_player/video_player_android/android<br />
     <sub>[#7241](https://github.com/flutter/packages/pull/7241) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7241) over 8 hours, 7 additions and 3 deletions in 3 files</sub><br />
