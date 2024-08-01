@@ -80,3 +80,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore both unused_element and unused_element_parameter<br />
     <sub>[#152689](https://github.com/flutter/flutter/pull/152689) opened on on August 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152689) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Quick docs grammar fixes<br />
+    <sub>[#152700](https://github.com/flutter/flutter/pull/152700) opened on on August 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152700) 2 additions and 2 deletions in 2 files</sub><br />
+
