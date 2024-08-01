@@ -77,9 +77,6 @@
 * **[DBowen33](https://github.com/DBowen33)** &mdash; refactor material banner and fix focus issue<br />
     <sub>[#152646](https://github.com/flutter/flutter/pull/152646) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152646) 28 additions and 31 deletions in 2 files</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Add more widgets to a11y assessment app<br />
-    <sub>[#152662](https://github.com/flutter/flutter/pull/152662) opened on on August 1, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152662) 480 additions and 0 deletions in 13 files</sub><br />
-
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] hide the --web-renderer option in the tool<br />
     <sub>[#152683](https://github.com/flutter/flutter/pull/152683) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152683) 11 additions and 0 deletions in 1 file</sub><br />
 
