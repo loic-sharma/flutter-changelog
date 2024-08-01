@@ -860,7 +860,7 @@
     <sub>[#54088](https://github.com/flutter/engine/pull/54088) merged on July 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54088) over 1 day, 16 additions and 22 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Sam Lakerveld](https://github.com/darkwater)** &mdash; Set GLArea.has-alpha = true
+* **[darkwater](https://github.com/darkwater)** &mdash; Set GLArea.has-alpha = true
     <sub>[#54053](https://github.com/flutter/engine/pull/54053) merged on July 26, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54053) over 2 days, 2 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Chris Bracken](https://github.com/cbracken)</sub>
 
