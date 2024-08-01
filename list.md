@@ -4,31 +4,31 @@
 
 ### July 27, 2024 to August 2, 2024
 
-46 commits.
-
-* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.
-    <sub>[#150764](https://github.com/flutter/flutter/pull/150764) merged on July 31, 2024 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/150764) over 1 month, 137 additions and 7 deletions in 2 files</sub>
-    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [chunhtai](https://github.com/chunhtai)</sub>
+47 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Improve `CupertinoCheckbox` fidelity
     <sub>[#151441](https://github.com/flutter/flutter/pull/151441) merged on July 31, 2024 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/151441) over 3 weeks, 465 additions and 53 deletions in 2 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
     <sub><details><summary>15 images...</summary><img width="63" alt="native checkbox" src="https://github.com/flutter/flutter/assets/77553258/d57d4c78-2e67-49fb-9491-a5acee3782a7"><img width="66" alt="Screenshot 2024-06-27 at 10 23 18 AM" src="https://github.com/flutter/flutter/assets/77553258/31c913ff-d36f-4eb5-b737-3a9117bd7eff"><img width="66" alt="Screenshot 2024-06-27 at 10 39 22 AM" src="https://github.com/flutter/flutter/assets/77553258/ace8ef29-efae-4049-8f78-13fd39851947"><img width="22" alt="native light" src="https://github.com/user-attachments/assets/fc52d5e1-7ab0-4a5d-b0fa-5b5bee3ed39d"><img width="22" alt="flutter before light" src="https://github.com/user-attachments/assets/16e033a1-d2dd-4fb2-a5a5-f730c5f7cdc7"><img width="22" alt="flutter after light" src="https://github.com/user-attachments/assets/8c0cff99-930e-4f5e-8540-e64294c1b4fa"><img width="22" alt="native dark mode" src="https://github.com/user-attachments/assets/333280a0-85db-4464-9663-03ef7eafc270"><img width="22" alt="flutter before dark mode" src="https://github.com/user-attachments/assets/a46e01ec-0d0b-4bb7-8d08-4b2723424a12"><img width="22" alt="flutter dark mode" src="https://github.com/user-attachments/assets/a70ae4ad-f1ad-4441-a416-350cbdc32679"><img width="121" alt="native disabled checkbox" src="https://github.com/user-attachments/assets/ed050d14-efec-49dd-82b6-1e7ed7fa99f9"><img width="136" alt="flutter b4 disabled checkbox" src="https://github.com/user-attachments/assets/564918cf-f936-448d-b975-7bf9248bbf35"><img width="156" alt="flutter disabled checkbox" src="https://github.com/user-attachments/assets/82f672a7-12e8-469c-99af-9f94c959df8f"><img width="110" alt="disabled dark checkbox native" src="https://github.com/user-attachments/assets/02a43b3f-5619-4b05-9066-2fd43a58c956"><img width="136" alt="disabled dark checkbox flutter b4" src="https://github.com/user-attachments/assets/3a3db322-2002-4808-adc0-b10a7ab42381"><img width="140" alt="disabled dark checkbox flutter" src="https://github.com/user-attachments/assets/cb91955a-8302-4dc7-8050-221fa2a7045f"></details></sub>
 
+* **[Aliasgar Vohra](https://github.com/aliasgar4558)** &mdash; ✨ : Animation controller now has ability to repeat animation 'n' no. of times.
+    <sub>[#150764](https://github.com/flutter/flutter/pull/150764) merged on July 31, 2024 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/150764) over 1 month, 137 additions and 7 deletions in 2 files</sub>
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Use decoration hint text as the default value for dropdown button hints
     <sub>[#152474](https://github.com/flutter/flutter/pull/152474) merged on July 31, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/152474) over 2 days, 199 additions and 131 deletions in 2 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/a08ff75c-edd4-4e16-9cfa-98ddb349d860) | ![image](https://github.com/user-attachments/assets/55f08bee-8f88-4125-8fae-68e2be724955)</details></sub>
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to clip `Stepper` step content
-    <sub>[#152370](https://github.com/flutter/flutter/pull/152370) merged on July 31, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152370) over 5 days, 103 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
-    <sub><details><summary>2 images...</summary>![Group 1](https://github.com/user-attachments/assets/1814ad90-8d43-4e03-9f68-7da47e08c718)![Group 2](https://github.com/user-attachments/assets/652ff597-7e9a-4d35-abc2-80d60cee03f4)</details></sub>
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix default avatar icon theme size for Material 2
     <sub>[#152307](https://github.com/flutter/flutter/pull/152307) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152307) over 5 days, 16 additions and 89 deletions in 4 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
     <sub><details><summary>2 images...</summary><img width="490" alt="Screenshot 2024-07-25 at 16 24 08" src="https://github.com/user-attachments/assets/45408aa2-b3ab-4ff9-ae72-53a91c87c76a"><img width="490" alt="Screenshot 2024-07-25 at 16 23 56" src="https://github.com/user-attachments/assets/07ba367d-9ca3-46cc-8122-d1155dd2f32b"></details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to clip `Stepper` step content
+    <sub>[#152370](https://github.com/flutter/flutter/pull/152370) merged on July 31, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152370) over 5 days, 103 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+    <sub><details><summary>2 images...</summary>![Group 1](https://github.com/user-attachments/assets/1814ad90-8d43-4e03-9f68-7da47e08c718)![Group 2](https://github.com/user-attachments/assets/652ff597-7e9a-4d35-abc2-80d60cee03f4)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Shortcut label for CharacterActivator does not include modifiers
     <sub>[#152233](https://github.com/flutter/flutter/pull/152233) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152233) over 5 days, 71 additions and 2 deletions in 2 files</sub>
@@ -68,17 +68,13 @@
     <sub>[#152383](https://github.com/flutter/flutter/pull/152383) merged on August 1, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/152383) over 5 days, 159 additions and 61 deletions in 11 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms
-    <sub>[#148574](https://github.com/flutter/flutter/pull/148574) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148574) over 2 months, 122 additions and 0 deletions in 2 files</sub>
-    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.
+    <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove unused early key event listener
     <sub>[#150915](https://github.com/flutter/flutter/pull/150915) merged on July 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150915) over 1 month, 0 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Nate Wilson](https://github.com/nate-thegrate)</sub>
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.
-    <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix formatting issues in `search_anchor.0_test.dart`
     <sub>[#152669](https://github.com/flutter/flutter/pull/152669) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152669) over 36 minutes, 3 additions and 3 deletions in 1 file</sub>
@@ -87,6 +83,14 @@
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Remove redundant usages of zones in skia_client.dart
     <sub>[#149366](https://github.com/flutter/flutter/pull/149366) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149366) over 2 months, 34 additions and 39 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms
+    <sub>[#148574](https://github.com/flutter/flutter/pull/148574) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148574) over 2 months, 122 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Quick docs grammar fixes
+    <sub>[#152700](https://github.com/flutter/flutter/pull/152700) merged on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152700) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Disable DDS and Dart profiling for Android driver tests.
     <sub>[#152696](https://github.com/flutter/flutter/pull/152696) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152696) over 1 hour, 5 additions and 0 deletions in 1 file</sub>
@@ -120,21 +124,17 @@
     <sub>[#152502](https://github.com/flutter/flutter/pull/152502) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152502) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove one set of parens that wrap a single String literal
-    <sub>[#152031](https://github.com/flutter/flutter/pull/152031) merged on August 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152031) over 1 week, 1 addition and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub>
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize Card theme
+    <sub>[#151914](https://github.com/flutter/flutter/pull/151914) merged on July 29, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/151914) over 1 week, 271 additions and 51 deletions in 4 files</sub>
+    <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update New-Android-version.md
-    <sub>[#152395](https://github.com/flutter/flutter/pull/152395) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152395) over 2 days, 4 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for deletable_chip_attributes.on_deleted.0.dart
+    <sub>[#152361](https://github.com/flutter/flutter/pull/152361) merged on July 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152361) over 2 days, 64 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; mark Mac tool_integration_tests_* as non-bringup
     <sub>[#152412](https://github.com/flutter/flutter/pull/152412) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152412) over 2 days, 0 additions and 5 deletions in 1 file</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for search_anchor.0.dart
-    <sub>[#152371](https://github.com/flutter/flutter/pull/152371) merged on July 31, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152371) over 4 days, 55 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet & AlertDialog] Improve documentation and type for `scrollController` parameters
     <sub>[#152647](https://github.com/flutter/flutter/pull/152647) merged on August 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152647) over 18 hours, 13 additions and 21 deletions in 1 file</sub>
@@ -176,17 +176,21 @@
     <sub>[#152599](https://github.com/flutter/flutter/pull/152599) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152599) over 12 hours, 0 additions and 7 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize Card theme
-    <sub>[#151914](https://github.com/flutter/flutter/pull/151914) merged on July 29, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/151914) over 1 week, 271 additions and 51 deletions in 4 files</sub>
-    <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub>
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove one set of parens that wrap a single String literal
+    <sub>[#152031](https://github.com/flutter/flutter/pull/152031) merged on August 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152031) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold messenger examples
     <sub>[#152536](https://github.com/flutter/flutter/pull/152536) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152536) over 1 day, 75 additions and 3 deletions in 4 files</sub>
     <sub>Reviewed by: [Tirth](https://github.com/piedcipher)</sub>
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for deletable_chip_attributes.on_deleted.0.dart
-    <sub>[#152361](https://github.com/flutter/flutter/pull/152361) merged on July 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152361) over 2 days, 64 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update New-Android-version.md
+    <sub>[#152395](https://github.com/flutter/flutter/pull/152395) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152395) over 2 days, 4 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for search_anchor.0.dart
+    <sub>[#152371](https://github.com/flutter/flutter/pull/152371) merged on July 31, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152371) over 4 days, 55 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac platform_channel_sample_test_macos to be flaky
     <sub>[#151884](https://github.com/flutter/flutter/pull/151884) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151884) over 1 week, 1 addition and 0 deletions in 1 file</sub>
