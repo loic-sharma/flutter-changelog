@@ -78,8 +78,11 @@
     <sub>[#152646](https://github.com/flutter/flutter/pull/152646) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152646) 28 additions and 31 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for search anchor examples<br />
-    <sub>[#152659](https://github.com/flutter/flutter/pull/152659) opened on on August 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152659) 77 additions and 2 deletions in 3 files</sub><br />
+    <sub>[#152659](https://github.com/flutter/flutter/pull/152659) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152659) 77 additions and 2 deletions in 3 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add more widgets to a11y assessment app<br />
     <sub>[#152662](https://github.com/flutter/flutter/pull/152662) opened on on August 1, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152662) 480 additions and 0 deletions in 13 files</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix formatting issues in `search_anchor.0_test.dart`<br />
+    <sub>[#152669](https://github.com/flutter/flutter/pull/152669) opened on on August 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152669) 3 additions and 3 deletions in 1 file</sub><br />
 
