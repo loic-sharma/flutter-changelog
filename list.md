@@ -1268,7 +1268,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-25 commits.
+26 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface
     <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [272 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub>
@@ -1282,6 +1282,10 @@
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter_web] Migrate to `google_maps: 8.0.0`
     <sub>[#7077](https://github.com/flutter/packages/pull/7077) merged on July 31, 2024 &mdash; **Large:** [54 comments](https://github.com/flutter/packages/pull/7077) over 3 weeks, 389 additions and 308 deletions in 26 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Documentation for StatefulShellRoute
+    <sub>[#6308](https://github.com/flutter/packages/pull/6308) merged on August 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/6308) over 4 months, 122 additions and 4 deletions in 5 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds initial iOS implementation
     <sub>[#7063](https://github.com/flutter/packages/pull/7063) merged on July 31, 2024 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/7063) over 3 weeks, 10301 additions and 164 deletions in 69 files</sub>
