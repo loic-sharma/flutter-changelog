@@ -65,9 +65,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates<br />
     <sub>[#152525](https://github.com/flutter/flutter/pull/152525) opened on on July 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152525) 28 additions and 96 deletions in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Use `.fromMap()` constructors in example code<br />
-    <sub>[#152535](https://github.com/flutter/flutter/pull/152535) opened on on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152535) 67 additions and 102 deletions in 8 files</sub><br />
-
 * **[DBowen33](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog<br />
     <sub>[#152637](https://github.com/flutter/flutter/pull/152637) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152637) 16 additions and 0 deletions in 2 files</sub><br />
 
