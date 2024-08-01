@@ -667,7 +667,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-29 commits.
+30 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use linear sampling to sample from AHB textures in Vulkan.<br />
     <sub>[#54233](https://github.com/flutter/engine/pull/54233) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54233) over 35 minutes, 10 additions and 19 deletions in 2 files</sub><br />
@@ -707,6 +707,10 @@
     <sub>[#54215](https://github.com/flutter/engine/pull/54215) merged on July 31, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/54215) over 1 day, 629 additions and 88 deletions in 15 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/7372c128-ca71-44a6-8e6c-b0043025f751)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move more aiks tests to DL.<br />
+    <sub>[#54260](https://github.com/flutter/engine/pull/54260) merged on August 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/54260) over 5 hours, 89 additions and 63 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove pre-existing diagnostics with no behavioral changes.<br />
     <sub>[#54264](https://github.com/flutter/engine/pull/54264) merged on July 31, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/54264) over 2 hours, 227 additions and 163 deletions in 1 file</sub><br />
@@ -1191,7 +1195,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-20 commits.
+21 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface<br />
     <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [270 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub><br />
@@ -1232,6 +1236,10 @@
     <sub>[#6763](https://github.com/flutter/packages/pull/6763) merged on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6763) over 2 months, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.7.1&new-version=1.8.0)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] version_check_command now checks markdown of first CHANGELOG line.<br />
+    <sub>[#7266](https://github.com/flutter/packages/pull/7266) merged on August 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7266) over 5 hours, 54 additions and 7 deletions in 8 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] convert TranslatorTests to swift<br />
     <sub>[#7232](https://github.com/flutter/packages/pull/7232) merged on July 31, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/7232) over 2 days, 573 additions and 538 deletions in 12 files</sub><br />
