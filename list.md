@@ -667,7 +667,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-30 commits.
+31 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use linear sampling to sample from AHB textures in Vulkan.
     <sub>[#54233](https://github.com/flutter/engine/pull/54233) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54233) over 35 minutes, 10 additions and 19 deletions in 2 files</sub>
@@ -697,6 +697,11 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable on-by-default on Android.
     <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland 2: Implement draw order optimization.
+    <sub>[#54268](https://github.com/flutter/engine/pull/54268) merged on August 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54268) over 2 hours, 635 additions and 88 deletions in 15 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/7372c128-ca71-44a6-8e6c-b0043025f751)</details></sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] Reland: Implement draw order optimization. (#54215)"
     <sub>[#54261](https://github.com/flutter/engine/pull/54261) merged on July 31, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/54261) over 1 minute, 88 additions and 629 deletions in 15 files</sub>
@@ -1202,7 +1207,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter_web] Migrate to `google_maps: 8.0.0`
-    <sub>[#7077](https://github.com/flutter/packages/pull/7077) merged on July 31, 2024 &mdash; **Large:** [53 comments](https://github.com/flutter/packages/pull/7077) over 3 weeks, 389 additions and 308 deletions in 26 files</sub>
+    <sub>[#7077](https://github.com/flutter/packages/pull/7077) merged on July 31, 2024 &mdash; **Large:** [54 comments](https://github.com/flutter/packages/pull/7077) over 3 weeks, 389 additions and 308 deletions in 26 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds initial iOS implementation

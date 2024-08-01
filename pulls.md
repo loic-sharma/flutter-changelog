@@ -77,3 +77,6 @@
 * **[DBowen33](https://github.com/DBowen33)** &mdash; refactor material banner and fix focus issue<br />
     <sub>[#152646](https://github.com/flutter/flutter/pull/152646) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152646) 28 additions and 31 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for search anchor examples<br />
+    <sub>[#152659](https://github.com/flutter/flutter/pull/152659) opened on on August 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152659) 77 additions and 2 deletions in 3 files</sub><br />
+
