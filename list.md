@@ -1300,7 +1300,7 @@
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Update package:web to ">=0.5.1 <2.0.0"
-    <sub>[#7202](https://github.com/flutter/packages/pull/7202) merged on August 1, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/packages/pull/7202) over 1 week, 102 additions and 51 deletions in 36 files</sub>
+    <sub>[#7202](https://github.com/flutter/packages/pull/7202) merged on August 1, 2024 &mdash; **Small:** [43 comments](https://github.com/flutter/packages/pull/7202) over 1 week, 102 additions and 51 deletions in 36 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan), [Rexios](https://github.com/Rexios80), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds initial iOS implementation
