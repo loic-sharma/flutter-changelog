@@ -695,7 +695,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-33 commits.
+34 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Use linear sampling to sample from AHB textures in Vulkan.
     <sub>[#54233](https://github.com/flutter/engine/pull/54233) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54233) over 35 minutes, 10 additions and 19 deletions in 2 files</sub>
@@ -709,6 +709,10 @@
 * **[K. P. Krasiński-Sroka](https://github.com/kpsroka)** &mdash; Properly calculate alwaysUse24HourFormat on MacOS
     <sub>[#53795](https://github.com/flutter/engine/pull/53795) merged on August 1, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/53795) over 3 weeks, 119 additions and 20 deletions in 11 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matej Knopp](https://github.com/knopp), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable on-by-default on Android.
+    <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] migrate more AIKS test to DL.
     <sub>[#54267](https://github.com/flutter/engine/pull/54267) merged on August 1, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/54267) over 19 hours, 307 additions and 228 deletions in 2 files</sub>
@@ -730,10 +734,6 @@
     <sub>[#54187](https://github.com/flutter/engine/pull/54187) merged on July 29, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54187) over 1 hour, 20 additions and 525 deletions in 20 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Enable on-by-default on Android.
-    <sub>[#54156](https://github.com/flutter/engine/pull/54156) merged on July 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54156) over 2 days, 22 additions and 13 deletions in 7 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland 2: Implement draw order optimization.
     <sub>[#54268](https://github.com/flutter/engine/pull/54268) merged on August 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54268) over 2 hours, 635 additions and 88 deletions in 15 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -753,10 +753,6 @@
     <sub>[#54260](https://github.com/flutter/engine/pull/54260) merged on August 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/54260) over 5 hours, 89 additions and 63 deletions in 4 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove pre-existing diagnostics with no behavioral changes.
-    <sub>[#54264](https://github.com/flutter/engine/pull/54264) merged on July 31, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/54264) over 2 hours, 227 additions and 163 deletions in 1 file</sub>
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gaaclarke](https://github.com/gaaclarke)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Dispose a temporary image that may be created by instantiateImageCodecWithSize
     <sub>[#54096](https://github.com/flutter/engine/pull/54096) merged on July 31, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54096) over 6 days, 30 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
@@ -764,6 +760,14 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update flutter_shell_native_unittests for compatibility with Android API 35 emulators
     <sub>[#54235](https://github.com/flutter/engine/pull/54235) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54235) over 1 hour, 45 additions and 6 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove pre-existing diagnostics with no behavioral changes.
+    <sub>[#54264](https://github.com/flutter/engine/pull/54264) merged on July 31, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/54264) over 2 hours, 227 additions and 163 deletions in 1 file</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Revert "Reset IME state on clear text input client"
+    <sub>[#54277](https://github.com/flutter/engine/pull/54277) merged on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54277) over 8 hours, 0 additions and 155 deletions in 2 files</sub>
+    <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup dart analyze diagnostics in ignored directories.
     <sub>[#54262](https://github.com/flutter/engine/pull/54262) merged on July 31, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/54262) over 2 hours, 152 additions and 224 deletions in 6 files</sub>
@@ -784,10 +788,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS][macOS] Eliminate use of bitcode_strip
     <sub>[#54240](https://github.com/flutter/engine/pull/54240) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54240) over 46 minutes, 3 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Delete obsolete ML guided optimisation doc
-    <sub>[#54237](https://github.com/flutter/engine/pull/54237) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54237) over 1 hour, 0 additions and 233 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; enumify ImageType and ImageFileSignature
     <sub>[#54131](https://github.com/flutter/engine/pull/54131) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54131) over 4 days, 69 additions and 122 deletions in 2 files</sub>
@@ -813,9 +813,9 @@
     <sub>[#54122](https://github.com/flutter/engine/pull/54122) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54122) over 3 days, 9 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[iOS][macOS] Eliminate use of bitcode_strip (#54240)"
-    <sub>[#54250](https://github.com/flutter/engine/pull/54250) merged on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54250) over 1 minute, 2 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Delete obsolete ML guided optimisation doc
+    <sub>[#54237](https://github.com/flutter/engine/pull/54237) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54237) over 1 hour, 0 additions and 233 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Do not disable partial repaint based on thread merging state (#54219)"
     <sub>[#54230](https://github.com/flutter/engine/pull/54230) merged on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54230) over 34 seconds, 26 additions and 59 deletions in 9 files</sub>
@@ -824,6 +824,10 @@
 * **[Rafal Wachol](https://github.com/charafau)** &mdash; [wiki] Fix link to engine dev setup
     <sub>[#54173](https://github.com/flutter/engine/pull/54173) merged on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54173) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[iOS][macOS] Eliminate use of bitcode_strip (#54240)"
+    <sub>[#54250](https://github.com/flutter/engine/pull/54250) merged on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54250) over 1 minute, 2 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: [Impeller] Use downsample shader for blur instead of mip levels.
     <sub>[#54149](https://github.com/flutter/engine/pull/54149) merged on July 30, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/engine/pull/54149) over 3 days, 346 additions and 263 deletions in 10 files</sub>
