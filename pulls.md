@@ -53,9 +53,6 @@
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of PointerSignalResolverExampleApp visibility<br />
     <sub>[#152416](https://github.com/flutter/flutter/pull/152416) opened on on July 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152416) 184 additions and 1 deletion in 2 files</sub><br />
 
-* **[miechoo](https://github.com/miechoo)** &mdash; Test of CustomScrollViewExampleApp<br />
-    <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152431) 216 additions and 1 deletion in 2 files</sub><br />
-
 * **[Gazal](https://github.com/gazal-k)** &mdash; fix: add parameter to maintainState of SearchDelegate<br />
     <sub>[#152444](https://github.com/flutter/flutter/pull/152444) opened on on July 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152444) 61 additions and 3 deletions in 2 files</sub><br />
 
@@ -67,9 +64,6 @@
 
 * **[DBowen33](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog<br />
     <sub>[#152637](https://github.com/flutter/flutter/pull/152637) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152637) 16 additions and 0 deletions in 2 files</sub><br />
-
-* **[DBowen33](https://github.com/DBowen33)** &mdash; refactor material banner and fix focus issue<br />
-    <sub>[#152646](https://github.com/flutter/flutter/pull/152646) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152646) 28 additions and 31 deletions in 2 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] hide the --web-renderer option in the tool<br />
     <sub>[#152683](https://github.com/flutter/flutter/pull/152683) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152683) 49 additions and 0 deletions in 2 files</sub><br />
