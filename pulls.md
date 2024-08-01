@@ -68,9 +68,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Use `.fromMap()` constructors in example code<br />
     <sub>[#152535](https://github.com/flutter/flutter/pull/152535) opened on on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152535) 67 additions and 102 deletions in 8 files</sub><br />
 
-* **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix typo in CHANGELOG.md<br />
-    <sub>[#152543](https://github.com/flutter/flutter/pull/152543) opened on on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152543) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[DBowen33](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog<br />
     <sub>[#152637](https://github.com/flutter/flutter/pull/152637) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152637) 16 additions and 0 deletions in 2 files</sub><br />
 
@@ -78,7 +75,7 @@
     <sub>[#152646](https://github.com/flutter/flutter/pull/152646) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152646) 28 additions and 31 deletions in 2 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] hide the --web-renderer option in the tool<br />
-    <sub>[#152683](https://github.com/flutter/flutter/pull/152683) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152683) 11 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#152683](https://github.com/flutter/flutter/pull/152683) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152683) 49 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore both unused_element and unused_element_parameter<br />
     <sub>[#152689](https://github.com/flutter/flutter/pull/152689) opened on on August 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152689) 3 additions and 1 deletion in 1 file</sub><br />

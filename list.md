@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-41 commits.
+42 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Improve `CupertinoCheckbox` fidelity
     <sub>[#151441](https://github.com/flutter/flutter/pull/151441) merged on July 31, 2024 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/151441) over 3 weeks, 465 additions and 53 deletions in 2 files</sub>
@@ -56,17 +56,21 @@
     <sub>[#152197](https://github.com/flutter/flutter/pull/152197) merged on July 29, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/152197) over 5 days, 73 additions and 4 deletions in 3 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate invalid InputDecoration.collapsed parameters
-    <sub>[#152486](https://github.com/flutter/flutter/pull/152486) merged on July 31, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/152486) over 1 day, 325 additions and 244 deletions in 7 files</sub>
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; increase sharding on Windows tool_integration_tests
     <sub>[#152582](https://github.com/flutter/flutter/pull/152582) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152582) over 8 hours, 42 additions and 11 deletions in 1 file</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Deprecate invalid InputDecoration.collapsed parameters
+    <sub>[#152486](https://github.com/flutter/flutter/pull/152486) merged on July 31, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/152486) over 1 day, 325 additions and 244 deletions in 7 files</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix local testing, gradle XML errors, and enable on CI.
     <sub>[#152383](https://github.com/flutter/flutter/pull/152383) merged on August 1, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/152383) over 5 days, 159 additions and 61 deletions in 11 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix formatting issues in `search_anchor.0_test.dart`
+    <sub>[#152669](https://github.com/flutter/flutter/pull/152669) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152669) over 36 minutes, 3 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148574) over 2 months, 122 additions and 0 deletions in 2 files</sub>
@@ -79,10 +83,6 @@
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.
     <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix formatting issues in `search_anchor.0_test.dart`
-    <sub>[#152669](https://github.com/flutter/flutter/pull/152669) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152669) over 36 minutes, 3 additions and 3 deletions in 1 file</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tirth](https://github.com/piedcipher)</sub>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove unused early key event listener
     <sub>[#150915](https://github.com/flutter/flutter/pull/150915) merged on July 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150915) over 1 month, 0 additions and 11 deletions in 1 file</sub>
@@ -104,10 +104,6 @@
     <sub>[#152530](https://github.com/flutter/flutter/pull/152530) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152530) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
     <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some mac Android tests to Mokey devices in staging
-    <sub>[#152499](https://github.com/flutter/flutter/pull/152499) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152499) over 2 hours, 47 additions and 18 deletions in 1 file</sub>
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] remove Skia specific and unused devicelab metrics.
     <sub>[#152523](https://github.com/flutter/flutter/pull/152523) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152523) over 38 minutes, 0 additions and 19 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -115,6 +111,14 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] enable impeller in external texture test.
     <sub>[#152502](https://github.com/flutter/flutter/pull/152502) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152502) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift some mac Android tests to Mokey devices in staging
+    <sub>[#152499](https://github.com/flutter/flutter/pull/152499) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152499) over 2 hours, 47 additions and 18 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for deletable_chip_attributes.on_deleted.0.dart
+    <sub>[#152361](https://github.com/flutter/flutter/pull/152361) merged on July 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152361) over 2 days, 64 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; mark Mac tool_integration_tests_* as non-bringup
     <sub>[#152412](https://github.com/flutter/flutter/pull/152412) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152412) over 2 days, 0 additions and 5 deletions in 1 file</sub>
@@ -136,6 +140,10 @@
     <sub>[#152491](https://github.com/flutter/flutter/pull/152491) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152491) over 8 hours, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
+* **[Kamil Kras](https://github.com/xVemu)** &mdash; Fix typo in CHANGELOG.md
+    <sub>[#152543](https://github.com/flutter/flutter/pull/152543) merged on August 1, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152543) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tirth](https://github.com/piedcipher)</sub>
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for search anchor examples
     <sub>[#152659](https://github.com/flutter/flutter/pull/152659) merged on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152659) over 6 hours, 77 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
@@ -148,10 +156,6 @@
     <sub>[#152639](https://github.com/flutter/flutter/pull/152639) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152639) over 2 hours, 21 additions and 10 deletions in 3 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to support new Android version
-    <sub>[#152503](https://github.com/flutter/flutter/pull/152503) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152503) over 2 days, 71 additions and 47 deletions in 1 file</sub>
-    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize Card theme
     <sub>[#151914](https://github.com/flutter/flutter/pull/151914) merged on July 29, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/151914) over 1 week, 271 additions and 51 deletions in 4 files</sub>
     <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub>
@@ -160,9 +164,9 @@
     <sub>[#152395](https://github.com/flutter/flutter/pull/152395) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152395) over 2 days, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for deletable_chip_attributes.on_deleted.0.dart
-    <sub>[#152361](https://github.com/flutter/flutter/pull/152361) merged on July 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152361) over 2 days, 64 additions and 1 deletion in 2 files</sub>
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to support new Android version
+    <sub>[#152503](https://github.com/flutter/flutter/pull/152503) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152503) over 2 days, 71 additions and 47 deletions in 1 file</sub>
+    <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update integration test AVD dependency to use Android 35 emulators
     <sub>[#152498](https://github.com/flutter/flutter/pull/152498) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152498) over 2 days, 6 additions and 3 deletions in 1 file</sub>
