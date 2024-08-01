@@ -80,6 +80,3 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add more widgets to a11y assessment app<br />
     <sub>[#152662](https://github.com/flutter/flutter/pull/152662) opened on on August 1, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152662) 480 additions and 0 deletions in 13 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix formatting issues in `search_anchor.0_test.dart`<br />
-    <sub>[#152669](https://github.com/flutter/flutter/pull/152669) opened on on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152669) 3 additions and 3 deletions in 1 file</sub><br />
-
