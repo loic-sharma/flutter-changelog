@@ -129,7 +129,7 @@
     <sub>Reviewed by: [Tirth](https://github.com/piedcipher)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for search_anchor.0.dart<br />
-    <sub>[#152371](https://github.com/flutter/flutter/pull/152371) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152371) over 4 days, 55 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#152371](https://github.com/flutter/flutter/pull/152371) merged on July 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152371) over 4 days, 55 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Tirth](https://github.com/piedcipher)</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Add Dimil Kalathiya to authors<br />
