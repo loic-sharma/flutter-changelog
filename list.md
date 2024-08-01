@@ -1208,11 +1208,16 @@
 
 ### July 27, 2024 to August 2, 2024
 
-21 commits.
+22 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface
     <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [271 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[alexrabin-sentracam](https://github.com/alexrabin-sentracam)** &mdash; [local_auth_darwin] macOS Support 
+    <sub>[#6267](https://github.com/flutter/packages/pull/6267) merged on August 1, 2024 &mdash; **Extra large:** [119 comments](https://github.com/flutter/packages/pull/6267) over 4 months, 2279 additions and 70 deletions in 45 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [LouiseHsu](https://github.com/LouiseHsu)</sub>
+    <sub><details><summary>5 images...</summary><img width="912" alt="Screenshot 2024-03-05 at 4 01 58 PM" src="https://github.com/flutter/packages/assets/160153899/3a16eed5-d8b1-42a2-b6ab-ca82ade101ce">![Screenshot 2024-03-05 at 8 30 35 AM](https://github.com/flutter/packages/assets/160153899/89bcfa78-b998-401e-869c-28b9d82a9229)![Screenshot 2024-03-05 at 8 30 56 AM](https://github.com/flutter/packages/assets/160153899/69f0e215-1a7c-45eb-99a6-264458b0e771)![Screenshot 2024-03-05 at 8 31 12 AM](https://github.com/flutter/packages/assets/160153899/1196b4e9-c010-4e96-994b-7467d1561ad1)![Screenshot 2024-03-05 at 8 31 32 AM](https://github.com/flutter/packages/assets/160153899/acd0d550-3be2-46cf-957c-fbbe445abfa4)</details></sub>
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter_web] Migrate to `google_maps: 8.0.0`
     <sub>[#7077](https://github.com/flutter/packages/pull/7077) merged on July 31, 2024 &mdash; **Large:** [54 comments](https://github.com/flutter/packages/pull/7077) over 3 weeks, 389 additions and 308 deletions in 26 files</sub>
