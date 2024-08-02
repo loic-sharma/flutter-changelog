@@ -14,9 +14,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Use `ErrorHandlingFileSystem.deleteIfExists` when deleting .plugin_symlinks<br />
     <sub>[#151184](https://github.com/flutter/flutter/pull/151184) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151184) 75 additions and 6 deletions in 4 files</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dartdoc to 8.0.12 to fix focusing search field<br />
-    <sub>[#151576](https://github.com/flutter/flutter/pull/151576) opened on on July 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151576) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
     <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151585) 44 additions and 1 deletion in 2 files</sub><br />
 
