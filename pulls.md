@@ -84,5 +84,5 @@
     <sub>[#152744](https://github.com/flutter/flutter/pull/152744) opened on on August 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152744) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[Anurag Roy](https://github.com/royarg02)** &mdash; [SliderTheme] Fix markdown links for api doc images<br />
-    <sub>[#152748](https://github.com/flutter/flutter/pull/152748) opened on on August 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152748) 12 additions and 24 deletions in 1 file</sub><br />
+    <sub>[#152748](https://github.com/flutter/flutter/pull/152748) opened on on August 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152748) 12 additions and 24 deletions in 1 file</sub><br />
 
