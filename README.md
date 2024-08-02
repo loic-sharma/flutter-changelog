@@ -76,21 +76,21 @@
     <sub>[#152383](https://github.com/flutter/flutter/pull/152383) merged on August 1, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/152383) over 5 days, 159 additions and 61 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix formatting issues in `search_anchor.0_test.dart`<br />
-    <sub>[#152669](https://github.com/flutter/flutter/pull/152669) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152669) over 36 minutes, 3 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tirth](https://github.com/piedcipher)</sub><br />
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Quick docs grammar fixes<br />
+    <sub>[#152700](https://github.com/flutter/flutter/pull/152700) merged on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152700) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet & AlertDialog] Improve documentation and type for `scrollController` parameters<br />
     <sub>[#152647](https://github.com/flutter/flutter/pull/152647) merged on August 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152647) over 18 hours, 13 additions and 21 deletions in 1 file</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix formatting issues in `search_anchor.0_test.dart`<br />
+    <sub>[#152669](https://github.com/flutter/flutter/pull/152669) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152669) over 36 minutes, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tirth](https://github.com/piedcipher)</sub><br />
+
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove unused early key event listener<br />
     <sub>[#150915](https://github.com/flutter/flutter/pull/150915) merged on July 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150915) over 1 month, 0 additions and 11 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.<br />
-    <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub><br />
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148574) over 2 months, 122 additions and 0 deletions in 2 files</sub><br />
@@ -100,6 +100,10 @@
     <sub>[#149366](https://github.com/flutter/flutter/pull/149366) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149366) over 2 months, 34 additions and 39 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.<br />
+    <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Use `.fromMap()` constructors in example code<br />
     <sub>[#152535](https://github.com/flutter/flutter/pull/152535) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152535) over 2 days, 67 additions and 102 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -107,10 +111,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Explain that predictive back doesn't work with WillPopScope<br />
     <sub>[#152116](https://github.com/flutter/flutter/pull/152116) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152116) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Quick docs grammar fixes<br />
-    <sub>[#152700](https://github.com/flutter/flutter/pull/152700) merged on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152700) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Disable DDS and Dart profiling for Android driver tests.<br />
     <sub>[#152696](https://github.com/flutter/flutter/pull/152696) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152696) over 1 hour, 5 additions and 0 deletions in 1 file</sub><br />

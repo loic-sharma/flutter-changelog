@@ -80,3 +80,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold messenger state<br />
     <sub>[#152735](https://github.com/flutter/flutter/pull/152735) opened on on August 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152735) 46 additions and 2 deletions in 3 files</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; Quick Grammar Fixes <br />
+    <sub>[#152744](https://github.com/flutter/flutter/pull/152744) opened on on August 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152744) 3 additions and 3 deletions in 3 files</sub><br />
+
