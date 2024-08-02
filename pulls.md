@@ -77,3 +77,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#54291<br />
     <sub>[#152708](https://github.com/flutter/flutter/pull/152708) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152708) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold_state.show_bottom_sheet.0.dart<br />
+    <sub>[#152731](https://github.com/flutter/flutter/pull/152731) opened on on August 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152731) 26 additions and 1 deletion in 2 files</sub><br />
+
