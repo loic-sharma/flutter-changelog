@@ -252,6 +252,10 @@
     <sub>[#152731](https://github.com/flutter/flutter/pull/152731) merged on August 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152731) over 8 hours, 26 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tirth](https://github.com/piedcipher)</sub>
 
+* **[hangyu](https://github.com/hangyujin)** &mdash; Reland #151599 (Add button semantics in list tile ) with a flag to control behavior. 
+    <sub>[#152526](https://github.com/flutter/flutter/pull/152526) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152526) over 20 hours, 72 additions and 0 deletions in 11 files</sub>
+    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
+
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac platform_channel_sample_test_macos to be flaky
     <sub>[#151884](https://github.com/flutter/flutter/pull/151884) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151884) over 1 week, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
@@ -259,10 +263,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Reland: Shift Linux_build_test tests from MotoG4 to mokey
     <sub>[#152756](https://github.com/flutter/flutter/pull/152756) merged on August 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152756) over 4 hours, 8 additions and 12 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[hangyu](https://github.com/hangyujin)** &mdash; Reland #151599 (Add button semantics in list tile ) with a flag to control behavior. 
-    <sub>[#152526](https://github.com/flutter/flutter/pull/152526) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152526) over 20 hours, 72 additions and 0 deletions in 11 files</sub>
-    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub>
 
 ### July 20, 2024 to July 26, 2024
 
