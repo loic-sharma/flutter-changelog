@@ -80,3 +80,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold_state.show_bottom_sheet.0.dart<br />
     <sub>[#152731](https://github.com/flutter/flutter/pull/152731) opened on on August 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152731) 26 additions and 1 deletion in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for scaffold messenger state<br />
+    <sub>[#152735](https://github.com/flutter/flutter/pull/152735) opened on on August 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152735) 46 additions and 2 deletions in 3 files</sub><br />
+
