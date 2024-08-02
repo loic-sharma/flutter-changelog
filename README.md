@@ -1280,7 +1280,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-28 commits.
+29 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface<br />
     <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [272 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub><br />
@@ -1389,6 +1389,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [path_provider] fix 151823: update minimum required path_provider_android to 2.2.0<br />
     <sub>[#7181](https://github.com/flutter/packages/pull/7181) merged on July 30, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7181) over 1 week, 7 additions and 4 deletions in 3 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; [tool] Add note about clang version used in CI to tool readme<br />
+    <sub>[#7273](https://github.com/flutter/packages/pull/7273) merged on August 2, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7273) over 22 hours, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Re-enable google_maps_flutter_web integration tests.<br />
     <sub>[#7269](https://github.com/flutter/packages/pull/7269) merged on August 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7269) over 21 hours, 1 addition and 9 deletions in 2 files</sub><br />
