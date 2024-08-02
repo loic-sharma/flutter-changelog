@@ -50,9 +50,6 @@
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
     <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
 
-* **[miechoo](https://github.com/miechoo)** &mdash; Test of PointerSignalResolverExampleApp visibility<br />
-    <sub>[#152416](https://github.com/flutter/flutter/pull/152416) opened on on July 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152416) 184 additions and 1 deletion in 2 files</sub><br />
-
 * **[Gazal](https://github.com/gazal-k)** &mdash; fix: add parameter to maintainState of SearchDelegate<br />
     <sub>[#152444](https://github.com/flutter/flutter/pull/152444) opened on on July 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152444) 61 additions and 3 deletions in 2 files</sub><br />
 
