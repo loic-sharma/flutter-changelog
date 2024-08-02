@@ -823,7 +823,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland 2: Implement draw order optimization.
-    <sub>[#54268](https://github.com/flutter/engine/pull/54268) merged on August 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54268) over 2 hours, 635 additions and 88 deletions in 15 files</sub>
+    <sub>[#54268](https://github.com/flutter/engine/pull/54268) merged on August 1, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54268) over 2 hours, 635 additions and 88 deletions in 15 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
     <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/7372c128-ca71-44a6-8e6c-b0043025f751)</details></sub>
 
