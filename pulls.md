@@ -72,7 +72,7 @@
     <sub>[#152689](https://github.com/flutter/flutter/pull/152689) opened on on August 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152689) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implement `on` clauses<br />
-    <sub>[#152706](https://github.com/flutter/flutter/pull/152706) opened on on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152706) 24 additions and 40 deletions in 4 files</sub><br />
+    <sub>[#152706](https://github.com/flutter/flutter/pull/152706) opened on on August 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152706) 22 additions and 36 deletions in 4 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#54291<br />
     <sub>[#152708](https://github.com/flutter/flutter/pull/152708) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152708) 2 additions and 1 deletion in 2 files</sub><br />
@@ -84,5 +84,5 @@
     <sub>[#152744](https://github.com/flutter/flutter/pull/152744) opened on on August 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152744) 3 additions and 3 deletions in 3 files</sub><br />
 
 * **[Anurag Roy](https://github.com/royarg02)** &mdash; [SliderTheme] Fix markdown links for api doc images<br />
-    <sub>[#152748](https://github.com/flutter/flutter/pull/152748) opened on on August 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152748) 12 additions and 24 deletions in 1 file</sub><br />
+    <sub>[#152748](https://github.com/flutter/flutter/pull/152748) opened on on August 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152748) 12 additions and 24 deletions in 1 file</sub><br />
 
