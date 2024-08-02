@@ -71,6 +71,9 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Ignore both unused_element and unused_element_parameter<br />
     <sub>[#152689](https://github.com/flutter/flutter/pull/152689) opened on on August 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152689) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implement `on` clauses<br />
+    <sub>[#152706](https://github.com/flutter/flutter/pull/152706) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152706) 24 additions and 40 deletions in 4 files</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try flutter/engine#54291<br />
     <sub>[#152708](https://github.com/flutter/flutter/pull/152708) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152708) 2 additions and 1 deletion in 2 files</sub><br />
 
