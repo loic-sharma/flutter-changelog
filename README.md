@@ -1300,7 +1300,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-29 commits.
+30 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface<br />
     <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [272 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub><br />
@@ -1322,6 +1322,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Update package:web to ">=0.5.1 <2.0.0"<br />
     <sub>[#7202](https://github.com/flutter/packages/pull/7202) merged on August 1, 2024 &mdash; **Small:** [43 comments](https://github.com/flutter/packages/pull/7202) over 1 week, 102 additions and 51 deletions in 36 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [stuartmorgan](https://github.com/stuartmorgan), [Rexios](https://github.com/Rexios80), [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] fix stopVideoRecording waiting indefinitely and video lag at start<br />
+    <sub>[#7065](https://github.com/flutter/packages/pull/7065) merged on August 2, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/7065) over 3 weeks, 119 additions and 17 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds initial iOS implementation<br />
     <sub>[#7063](https://github.com/flutter/packages/pull/7063) merged on July 31, 2024 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/7063) over 3 weeks, 10301 additions and 164 deletions in 69 files</sub><br />
@@ -1402,6 +1406,10 @@
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.0&new-version=1.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Re-enable google_maps_flutter_web integration tests.<br />
+    <sub>[#7269](https://github.com/flutter/packages/pull/7269) merged on August 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7269) over 21 hours, 1 addition and 9 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Run pre_publish.dart before publish --dry-run<br />
     <sub>[#7258](https://github.com/flutter/packages/pull/7258) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7258) over 19 hours, 73 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
@@ -1412,10 +1420,6 @@
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [tool] Add note about clang version used in CI to tool readme<br />
     <sub>[#7273](https://github.com/flutter/packages/pull/7273) merged on August 2, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7273) over 22 hours, 2 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
-* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Re-enable google_maps_flutter_web integration tests.<br />
-    <sub>[#7269](https://github.com/flutter/packages/pull/7269) merged on August 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7269) over 21 hours, 1 addition and 9 deletions in 2 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Switch Android examples to TLHC<br />
