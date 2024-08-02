@@ -4,7 +4,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-51 commits.
+52 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Improve `CupertinoCheckbox` fidelity<br />
     <sub>[#151441](https://github.com/flutter/flutter/pull/151441) merged on July 31, 2024 &mdash; **Large:** [39 comments](https://github.com/flutter/flutter/pull/151441) over 3 weeks, 465 additions and 53 deletions in 2 files</sub><br />
@@ -84,14 +84,6 @@
     <sub>[#152647](https://github.com/flutter/flutter/pull/152647) merged on August 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152647) over 18 hours, 13 additions and 21 deletions in 1 file</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix formatting issues in `search_anchor.0_test.dart`<br />
-    <sub>[#152669](https://github.com/flutter/flutter/pull/152669) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152669) over 36 minutes, 3 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tirth](https://github.com/piedcipher)</sub><br />
-
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove unused early key event listener<br />
-    <sub>[#150915](https://github.com/flutter/flutter/pull/150915) merged on July 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150915) over 1 month, 0 additions and 11 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Shift + click gesture support for SelectionArea on desktop platforms<br />
     <sub>[#148574](https://github.com/flutter/flutter/pull/148574) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/148574) over 2 months, 122 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -100,9 +92,17 @@
     <sub>[#149366](https://github.com/flutter/flutter/pull/149366) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149366) over 2 months, 34 additions and 39 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Fix formatting issues in `search_anchor.0_test.dart`<br />
+    <sub>[#152669](https://github.com/flutter/flutter/pull/152669) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152669) over 36 minutes, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tirth](https://github.com/piedcipher)</sub><br />
+
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add `find.backButton` finder and `StandardComponentType` enum to find components in tests.<br />
     <sub>[#149349](https://github.com/flutter/flutter/pull/149349) merged on July 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/149349) over 2 months, 170 additions and 28 deletions in 14 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] Remove unused early key event listener<br />
+    <sub>[#150915](https://github.com/flutter/flutter/pull/150915) merged on July 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150915) over 1 month, 0 additions and 11 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Use `.fromMap()` constructors in example code<br />
     <sub>[#152535](https://github.com/flutter/flutter/pull/152535) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152535) over 2 days, 67 additions and 102 deletions in 8 files</sub><br />
@@ -116,13 +116,17 @@
     <sub>[#152696](https://github.com/flutter/flutter/pull/152696) merged on August 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152696) over 1 hour, 5 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clarify and cleanup the test-exemption wording in tree-hygiene.<br />
+    <sub>[#152402](https://github.com/flutter/flutter/pull/152402) merged on July 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152402) over 4 days, 41 additions and 12 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Set COEP:credentialless on flutter run/drive.<br />
     <sub>[#152413](https://github.com/flutter/flutter/pull/152413) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152413) over 3 days, 5 additions and 5 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Clarify and cleanup the test-exemption wording in tree-hygiene.<br />
-    <sub>[#152402](https://github.com/flutter/flutter/pull/152402) merged on July 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152402) over 4 days, 41 additions and 12 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift macOS/Android tests from Pixel 7 to mokey in staging<br />
+    <sub>[#152571](https://github.com/flutter/flutter/pull/152571) merged on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152571) over 1 hour, 28 additions and 14 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [wiki] Remove text saying wiki edits do not get code reviewed<br />
     <sub>[#152530](https://github.com/flutter/flutter/pull/152530) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152530) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
@@ -134,10 +138,6 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] enable impeller in external texture test.<br />
     <sub>[#152502](https://github.com/flutter/flutter/pull/152502) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152502) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift macOS/Android tests from Pixel 7 to mokey in staging<br />
-    <sub>[#152571](https://github.com/flutter/flutter/pull/152571) merged on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152571) over 1 hour, 28 additions and 14 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] remove Skia specific and unused devicelab metrics.<br />
@@ -152,13 +152,17 @@
     <sub>[#152543](https://github.com/flutter/flutter/pull/152543) merged on August 1, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152543) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tirth](https://github.com/piedcipher)</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove one set of parens that wrap a single String literal<br />
-    <sub>[#152031](https://github.com/flutter/flutter/pull/152031) merged on August 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152031) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix bad pattern matching in DDS exception parsing<br />
+    <sub>[#152685](https://github.com/flutter/flutter/pull/152685) merged on August 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152685) over 2 hours, 64 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for search anchor examples<br />
     <sub>[#152659](https://github.com/flutter/flutter/pull/152659) merged on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152659) over 6 hours, 77 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove one set of parens that wrap a single String literal<br />
+    <sub>[#152031](https://github.com/flutter/flutter/pull/152031) merged on August 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152031) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoActionSheet] Make `_ActionSheetButtonBackground` stateless<br />
     <sub>[#152283](https://github.com/flutter/flutter/pull/152283) merged on July 31, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/152283) over 6 days, 98 additions and 83 deletions in 2 files</sub><br />
@@ -200,13 +204,13 @@
     <sub>[#152395](https://github.com/flutter/flutter/pull/152395) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152395) over 2 days, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for scaffold_state.show_bottom_sheet.0.dart<br />
+    <sub>[#152731](https://github.com/flutter/flutter/pull/152731) merged on August 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152731) over 8 hours, 26 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tirth](https://github.com/piedcipher)</sub><br />
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for deletable_chip_attributes.on_deleted.0.dart<br />
     <sub>[#152361](https://github.com/flutter/flutter/pull/152361) merged on July 29, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152361) over 2 days, 64 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix bad pattern matching in DDS exception parsing<br />
-    <sub>[#152685](https://github.com/flutter/flutter/pull/152685) merged on August 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152685) over 2 hours, 64 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac platform_channel_sample_test_macos to be flaky<br />
     <sub>[#151884](https://github.com/flutter/flutter/pull/151884) merged on July 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151884) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
