@@ -65,3 +65,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implement `on` clauses<br />
     <sub>[#152706](https://github.com/flutter/flutter/pull/152706) opened on on August 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152706) 22 additions and 36 deletions in 4 files</sub><br />
 
+* **[Elvis Okereke](https://github.com/ElvisOkereke)** &mdash; added missing properties to PaginatedDataTable; headerBackgroundColor, footerBackgroundColor, and footerStyle<br />
+    <sub>[#152812](https://github.com/flutter/flutter/pull/152812) opened on on August 3, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152812) 511 additions and 289 deletions in 2 files</sub><br />
+
