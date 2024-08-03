@@ -788,7 +788,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-43 commits.
+44 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] Supported rendering platform views without merging the raster thread.<br />
     <sub>[#53826](https://github.com/flutter/engine/pull/53826) merged on August 1, 2024 &mdash; **Extra large:** [130 comments](https://github.com/flutter/engine/pull/53826) over 2 weeks, 1018 additions and 809 deletions in 19 files</sub><br />
@@ -843,13 +843,13 @@
     <sub>[#54200](https://github.com/flutter/engine/pull/54200) merged on July 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54200) over 20 hours, 335 additions and 195 deletions in 18 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland 2: Implement draw order optimization.<br />
-    <sub>[#54268](https://github.com/flutter/engine/pull/54268) merged on August 1, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54268) over 2 hours, 635 additions and 88 deletions in 15 files</sub><br />
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Implement draw order optimization.<br />
+    <sub>[#54215](https://github.com/flutter/engine/pull/54215) merged on July 31, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/54215) over 1 day, 629 additions and 88 deletions in 15 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/7372c128-ca71-44a6-8e6c-b0043025f751)</details></sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland: Implement draw order optimization.<br />
-    <sub>[#54215](https://github.com/flutter/engine/pull/54215) merged on July 31, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/engine/pull/54215) over 1 day, 629 additions and 88 deletions in 15 files</sub><br />
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Reland 2: Implement draw order optimization.<br />
+    <sub>[#54268](https://github.com/flutter/engine/pull/54268) merged on August 1, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54268) over 2 hours, 635 additions and 88 deletions in 15 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
     <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/7372c128-ca71-44a6-8e6c-b0043025f751)</details></sub>
 
@@ -862,6 +862,10 @@
     <sub>[#54260](https://github.com/flutter/engine/pull/54260) merged on August 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/54260) over 5 hours, 89 additions and 63 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update flutter_shell_native_unittests for compatibility with Android API 35 emulators<br />
+    <sub>[#54235](https://github.com/flutter/engine/pull/54235) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54235) over 1 hour, 45 additions and 6 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove pre-existing diagnostics with no behavioral changes.<br />
     <sub>[#54264](https://github.com/flutter/engine/pull/54264) merged on July 31, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/54264) over 2 hours, 227 additions and 163 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -870,13 +874,13 @@
     <sub>[#54096](https://github.com/flutter/engine/pull/54096) merged on July 31, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54096) over 6 days, 30 additions and 4 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update flutter_shell_native_unittests for compatibility with Android API 35 emulators<br />
-    <sub>[#54235](https://github.com/flutter/engine/pull/54235) merged on July 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54235) over 1 hour, 45 additions and 6 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Revert "Reset IME state on clear text input client"<br />
     <sub>[#54277](https://github.com/flutter/engine/pull/54277) merged on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54277) over 8 hours, 0 additions and 155 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Don't use intel clang on arm64 macs<br />
+    <sub>[#54291](https://github.com/flutter/engine/pull/54291) merged on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54291) over 2 days, 2 additions and 27 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] benchmark DisplayList dispatch method<br />
     <sub>[#54324](https://github.com/flutter/engine/pull/54324) merged on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54324) over 22 hours, 107 additions and 1 deletion in 2 files</sub><br />
@@ -890,25 +894,25 @@
     <sub>[#54327](https://github.com/flutter/engine/pull/54327) merged on August 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54327) over 1 hour, 161 additions and 47 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `InetAddress.getLoopback()` versus a string.<br />
-    <sub>[#54289](https://github.com/flutter/engine/pull/54289) merged on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54289) over 42 minutes, 2 additions and 2 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Do not disable partial repaint based on thread merging state<br />
     <sub>[#54219](https://github.com/flutter/engine/pull/54219) merged on July 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54219) over 3 hours, 59 additions and 26 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS][macOS] Eliminate use of bitcode_strip<br />
-    <sub>[#54240](https://github.com/flutter/engine/pull/54240) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54240) over 46 minutes, 3 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `InetAddress.getLoopback()` versus a string.<br />
+    <sub>[#54289](https://github.com/flutter/engine/pull/54289) merged on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54289) over 42 minutes, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup the shell test, removing unused code<br />
+    <sub>[#54238](https://github.com/flutter/engine/pull/54238) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54238) over 17 hours, 78 additions and 100 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Remove obsolete dependency from few more targets.<br />
     <sub>[#54181](https://github.com/flutter/engine/pull/54181) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54181) over 1 hour, 0 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Fix scaledImageSize handling of a target width with no target height<br />
-    <sub>[#54122](https://github.com/flutter/engine/pull/54122) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54122) over 3 days, 9 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete unused create_ios_framework.py<br />
+    <sub>[#54227](https://github.com/flutter/engine/pull/54227) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54227) over 1 hour, 0 additions and 116 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup dart analyze diagnostics in ignored directories.<br />
     <sub>[#54262](https://github.com/flutter/engine/pull/54262) merged on July 31, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/54262) over 2 hours, 152 additions and 224 deletions in 6 files</sub><br />
@@ -918,17 +922,17 @@
     <sub>[#54254](https://github.com/flutter/engine/pull/54254) merged on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54254) over 1 hour, 3 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] makes the gaussian down sample scalar fixed by adjusting the downsample padding<br />
+    <sub>[#54150](https://github.com/flutter/engine/pull/54150) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54150) over 3 days, 20 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] rename dialog to route to match the framework<br />
     <sub>[#54228](https://github.com/flutter/engine/pull/54228) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54228) over 21 hours, 97 additions and 78 deletions in 6 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Cleanup the shell test, removing unused code<br />
-    <sub>[#54238](https://github.com/flutter/engine/pull/54238) merged on July 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54238) over 17 hours, 78 additions and 100 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] makes the gaussian down sample scalar fixed by adjusting the downsample padding<br />
-    <sub>[#54150](https://github.com/flutter/engine/pull/54150) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54150) over 3 days, 20 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS][macOS] Eliminate use of bitcode_strip<br />
+    <sub>[#54240](https://github.com/flutter/engine/pull/54240) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54240) over 46 minutes, 3 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Delete obsolete ML guided optimisation doc<br />
     <sub>[#54237](https://github.com/flutter/engine/pull/54237) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54237) over 1 hour, 0 additions and 233 deletions in 1 file</sub><br />
@@ -938,20 +942,20 @@
     <sub>[#54131](https://github.com/flutter/engine/pull/54131) merged on July 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54131) over 4 days, 69 additions and 122 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Delete unused create_ios_framework.py<br />
-    <sub>[#54227](https://github.com/flutter/engine/pull/54227) merged on July 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54227) over 1 hour, 0 additions and 116 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Fix scaledImageSize handling of a target width with no target height<br />
+    <sub>[#54122](https://github.com/flutter/engine/pull/54122) merged on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54122) over 3 days, 9 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Rafal Wachol](https://github.com/charafau)** &mdash; [wiki] Fix link to engine dev setup<br />
     <sub>[#54173](https://github.com/flutter/engine/pull/54173) merged on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54173) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[iOS][macOS] Eliminate use of bitcode_strip (#54240)"<br />
-    <sub>[#54250](https://github.com/flutter/engine/pull/54250) merged on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54250) over 1 minute, 2 additions and 3 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
-
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Do not disable partial repaint based on thread merging state (#54219)"<br />
     <sub>[#54230](https://github.com/flutter/engine/pull/54230) merged on July 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54230) over 34 seconds, 26 additions and 59 deletions in 9 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[iOS][macOS] Eliminate use of bitcode_strip (#54240)"<br />
+    <sub>[#54250](https://github.com/flutter/engine/pull/54250) merged on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54250) over 1 minute, 2 additions and 3 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: [Impeller] Use downsample shader for blur instead of mip levels.<br />
