@@ -443,7 +443,7 @@
     <sub>[#151591](https://github.com/flutter/flutter/pull/151591) merged on July 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151591) over 1 week, 45 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
-* **[DBowen33](https://github.com/DBowen33)** &mdash; added Semantics label to TextField with InputDecoration to let user k…<br />
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; added Semantics label to TextField with InputDecoration to let user k…<br />
     <sub>[#151996](https://github.com/flutter/flutter/pull/151996) merged on July 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/151996) over 6 days, 30 additions and 16 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
@@ -451,7 +451,7 @@
     <sub>[#152243](https://github.com/flutter/flutter/pull/152243) merged on July 24, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152243) over 49 seconds, 86 additions and 216 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
-* **[DBowen33](https://github.com/DBowen33)** &mdash; Flutter Web App: adds a11y semantic attributes to slider<br />
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; Flutter Web App: adds a11y semantic attributes to slider<br />
     <sub>[#151985](https://github.com/flutter/flutter/pull/151985) merged on July 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151985) over 6 days, 19 additions and 10 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
