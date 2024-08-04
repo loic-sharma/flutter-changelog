@@ -80,6 +80,3 @@
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; Enable client entitlement in macOS template<br />
     <sub>[#152822](https://github.com/flutter/flutter/pull/152822) opened on on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152822) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[James Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)<br />
-    <sub>[#152845](https://github.com/flutter/flutter/pull/152845) opened on on August 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152845) 235 additions and 43 deletions in 3 files</sub><br />
-
