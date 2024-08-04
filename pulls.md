@@ -80,3 +80,6 @@
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; Enable client entitlement in macOS template<br />
     <sub>[#152822](https://github.com/flutter/flutter/pull/152822) opened on on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152822) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Shashwat Pathak](https://github.com/shashwatpathak98)** &mdash; Fix `flutter create` warning regarding Java compatibility<br />
+    <sub>[#152836](https://github.com/flutter/flutter/pull/152836) opened on on August 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152836) 11 additions and 13 deletions in 1 file</sub><br />
+
