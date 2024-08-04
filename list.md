@@ -336,6 +336,10 @@
     <sub>[#151447](https://github.com/flutter/flutter/pull/151447) merged on July 23, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/151447) over 2 weeks, 18 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Aliasgar Vohra](https://github.com/aliasgar4558), [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add drag handle size to be configurable based on given size
+    <sub>[#152085](https://github.com/flutter/flutter/pull/152085) merged on July 26, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/152085) over 5 days, 78 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use Xcode build setting PRODUCT_NAME to find app and archive paths
     <sub>[#140242](https://github.com/flutter/flutter/pull/140242) merged on July 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/140242) over 7 months, 66 additions and 43 deletions in 9 files</sub>
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
@@ -343,10 +347,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add button semantics in list tile
     <sub>[#151599](https://github.com/flutter/flutter/pull/151599) merged on July 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/151599) over 2 weeks, 11 additions and 0 deletions in 7 files</sub>
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add drag handle size to be configurable based on given size
-    <sub>[#152085](https://github.com/flutter/flutter/pull/152085) merged on July 26, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/152085) over 5 days, 78 additions and 2 deletions in 2 files</sub>
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Will pop scope on home route
     <sub>[#152057](https://github.com/flutter/flutter/pull/152057) merged on July 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152057) over 2 days, 81 additions and 2 deletions in 3 files</sub>
