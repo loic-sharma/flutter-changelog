@@ -2,6 +2,9 @@
 
 ## flutter/flutter
 
+* **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
+    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/140284) 156 additions and 13 deletions in 5 files</sub><br />
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149201) 929 additions and 0 deletions in 1 file</sub><br />
 
