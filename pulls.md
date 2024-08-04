@@ -72,7 +72,7 @@
     <sub>[#152812](https://github.com/flutter/flutter/pull/152812) opened on on August 3, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152812) 511 additions and 289 deletions in 2 files</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Add ability to disable CupertinoSegmentedControl<br />
-    <sub>[#152813](https://github.com/flutter/flutter/pull/152813) opened on on August 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152813) 377 additions and 8 deletions in 3 files</sub><br />
+    <sub>[#152813](https://github.com/flutter/flutter/pull/152813) opened on on August 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152813) 473 additions and 8 deletions in 4 files</sub><br />
 
 * **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; Add scrim color parameter to _ZoomEnterTransitionPainter<br />
     <sub>[#152815](https://github.com/flutter/flutter/pull/152815) opened on on August 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152815) 23 additions and 2 deletions in 1 file</sub><br />
