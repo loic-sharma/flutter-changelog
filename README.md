@@ -1373,7 +1373,7 @@
 
 ### July 27, 2024 to August 2, 2024
 
-31 commits.
+32 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface<br />
     <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [272 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub><br />
@@ -1494,6 +1494,10 @@
 * **[Rexios](https://github.com/Rexios80)** &mdash; [tool] Add note about clang version used in CI to tool readme<br />
     <sub>[#7273](https://github.com/flutter/packages/pull/7273) merged on August 2, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7273) over 22 hours, 2 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] dealloc camera on dispose<br />
+    <sub>[#7211](https://github.com/flutter/packages/pull/7211) merged on August 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7211) over 1 week, 44 additions and 1 deletion in 4 files</sub><br />
+    <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Roll to 9d5ede0f5, disabling impeller for google_maps_flutter_android<br />
     <sub>[#7294](https://github.com/flutter/packages/pull/7294) merged on August 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7294) over 2 hours, 6 additions and 2 deletions in 2 files</sub><br />
