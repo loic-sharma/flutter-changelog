@@ -78,5 +78,5 @@
     <sub>[#152849](https://github.com/flutter/flutter/pull/152849) opened on on August 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152849) 41 additions and 4 deletions in 3 files</sub><br />
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add guard statement for `TabBarView` for the error that caused by `initialRoute`<br />
-    <sub>[#152861](https://github.com/flutter/flutter/pull/152861) opened on on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152861) 5 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#152861](https://github.com/flutter/flutter/pull/152861) opened on on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152861) 6 additions and 0 deletions in 1 file</sub><br />
 
