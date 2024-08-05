@@ -68,6 +68,3 @@
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add guard statement for `TabBarView` for the error that caused by `initialRoute`<br />
     <sub>[#152861](https://github.com/flutter/flutter/pull/152861) opened on on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152861) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pass --no-dds to some integration tests driven by flutter drive<br />
-    <sub>[#152898](https://github.com/flutter/flutter/pull/152898) opened on on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152898) 5 additions and 4 deletions in 2 files</sub><br />
-
