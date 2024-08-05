@@ -1027,12 +1027,16 @@
 
 ### August 3, 2024 to August 9, 2024
 
-1 commits.
+2 commits.
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.annotation:annotation from 1.8.0 to 1.8.1 in /packages/image_picker/image_picker_android/android
     <sub>[#7302](https://github.com/flutter/packages/pull/7302) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7302) over 7 hours, 6 additions and 2 deletions in 3 files</sub>
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.0&new-version=1.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pointer_interceptor] Add performance warning on using pointer interceptor on iOS
+    <sub>[#7288](https://github.com/flutter/packages/pull/7288) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7288) over 3 days, 5 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 ### July 27, 2024 to August 2, 2024
 
