@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-12 commits.
+13 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub>
@@ -48,6 +48,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Linux_android_emu tests bringup: true
     <sub>[#152867](https://github.com/flutter/flutter/pull/152867) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152867) over 49 minutes, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; added functionality to where SR will communicate button clicked
+    <sub>[#152185](https://github.com/flutter/flutter/pull/152185) merged on August 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152185) over 1 week, 41 additions and 20 deletions in 2 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix CarouselView rebuild
     <sub>[#152791](https://github.com/flutter/flutter/pull/152791) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152791) over 2 days, 45 additions and 1 deletion in 2 files</sub>
@@ -1057,7 +1061,11 @@
 
 ### August 3, 2024 to August 9, 2024
 
-3 commits.
+4 commits.
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [go_router] redirect example signature fix
+    <sub>[#7278](https://github.com/flutter/packages/pull/7278) merged on August 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7278) over 4 days, 9 additions and 5 deletions in 3 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter_platform_interface] Platform interface changes to support heatmaps
     <sub>[#7312](https://github.com/flutter/packages/pull/7312) merged on August 5, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/7312) over 4 hours, 1036 additions and 7 deletions in 12 files</sub>
