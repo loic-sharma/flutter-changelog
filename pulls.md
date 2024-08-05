@@ -74,3 +74,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump dartdoc to 8.0.13<br />
     <sub>[#152896](https://github.com/flutter/flutter/pull/152896) opened on on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152896) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pass --no-dds to some integration tests driven by flutter drive<br />
+    <sub>[#152898](https://github.com/flutter/flutter/pull/152898) opened on on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152898) 5 additions and 4 deletions in 2 files</sub><br />
+
