@@ -4,11 +4,15 @@
 
 ### August 3, 2024 to August 9, 2024
 
-1 commits.
+2 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file <br />
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152073) over 2 weeks, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Linux_android_emu tests bringup: true<br />
+    <sub>[#152867](https://github.com/flutter/flutter/pull/152867) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152867) over 49 minutes, 4 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 ### July 27, 2024 to August 2, 2024
 
