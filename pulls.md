@@ -80,3 +80,6 @@
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add guard statement for `TabBarView` for the error that caused by `initialRoute`<br />
     <sub>[#152861](https://github.com/flutter/flutter/pull/152861) opened on on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152861) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Tirth](https://github.com/piedcipher)** &mdash; [Docs] DeviceOrientation Enum Correction<br />
+    <sub>[#152876](https://github.com/flutter/flutter/pull/152876) opened on on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152876) 2 additions and 2 deletions in 1 file</sub><br />
+
