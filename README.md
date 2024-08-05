@@ -4,12 +4,16 @@
 
 ### August 3, 2024 to August 9, 2024
 
-4 commits.
+5 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing<br />
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
     <sub><details><summary>2 images...</summary><img width="1072" alt="Screenshot 2024-07-30 at 15 40 59" src="https://github.com/user-attachments/assets/14f21091-9e46-4a58-8552-1379f4ba9216"><img width="1072" alt="Screenshot 2024-07-30 at 15 39 42" src="https://github.com/user-attachments/assets/717e9f5e-a491-4853-ba74-e72ec7493363"></details></sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [Docs] DeviceOrientation Enum Correction<br />
+    <sub>[#152876](https://github.com/flutter/flutter/pull/152876) merged on August 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152876) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file <br />
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152073) over 2 weeks, 3 additions and 3 deletions in 1 file</sub><br />
