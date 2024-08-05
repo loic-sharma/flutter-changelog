@@ -80,3 +80,6 @@
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; Enable client entitlement in macOS template<br />
     <sub>[#152822](https://github.com/flutter/flutter/pull/152822) opened on on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152822) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for ordered_traversal_group.0.dart<br />
+    <sub>[#152849](https://github.com/flutter/flutter/pull/152849) opened on on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152849) 42 additions and 4 deletions in 3 files</sub><br />
+
