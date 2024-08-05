@@ -585,6 +585,10 @@
     <sub>[#54232](https://github.com/flutter/engine/pull/54232) merged on July 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54232) over 19 hours, 20 additions and 35 deletions in 6 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] leak a single overlay layer.
+    <sub>[#54189](https://github.com/flutter/engine/pull/54189) merged on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54189) over 1 hour, 11 additions and 3 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
 * **[K. P. Krasiński-Sroka](https://github.com/kpsroka)** &mdash; Properly calculate alwaysUse24HourFormat on MacOS
     <sub>[#53795](https://github.com/flutter/engine/pull/53795) merged on August 1, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/53795) over 3 weeks, 119 additions and 20 deletions in 11 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matej Knopp](https://github.com/knopp), [Chris Bracken](https://github.com/cbracken)</sub>
@@ -596,10 +600,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] remove raster stats feature.
     <sub>[#54187](https://github.com/flutter/engine/pull/54187) merged on July 29, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54187) over 1 hour, 20 additions and 525 deletions in 20 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] leak a single overlay layer.
-    <sub>[#54189](https://github.com/flutter/engine/pull/54189) merged on July 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54189) over 1 hour, 11 additions and 3 deletions in 2 files</sub>
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete rasterizer class.
     <sub>[#54196](https://github.com/flutter/engine/pull/54196) merged on July 29, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/54196) over 1 hour, 152 additions and 342 deletions in 16 files</sub>
@@ -653,8 +653,8 @@
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Don't use intel clang on arm64 macs
-    <sub>[#54291](https://github.com/flutter/engine/pull/54291) merged on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54291) over 2 days, 2 additions and 27 deletions in 4 files</sub>
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+    <sub>[#54291](https://github.com/flutter/engine/pull/54291) merged on August 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54291) over 2 days, 2 additions and 27 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] benchmark DisplayList dispatch method
     <sub>[#54324](https://github.com/flutter/engine/pull/54324) merged on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54324) over 22 hours, 107 additions and 1 deletion in 2 files</sub>
