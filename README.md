@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 3, 2024 to August 9, 2024
+
+1 commits.
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file <br />
+    <sub>[#152073](https://github.com/flutter/flutter/pull/152073) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152073) over 2 weeks, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+
 ### July 27, 2024 to August 2, 2024
 
-68 commits.
+<details>
+<summary>68 commits...</summary>
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Write more on Animation and related docs<br />
     <sub>[#150727](https://github.com/flutter/flutter/pull/150727) merged on August 2, 2024 &mdash; **Small:** [35 comments](https://github.com/flutter/flutter/pull/150727) over 1 month, 144 additions and 67 deletions in 4 files</sub><br />
@@ -284,6 +293,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Reland: Shift Linux_build_test tests from MotoG4 to mokey<br />
     <sub>[#152756](https://github.com/flutter/flutter/pull/152756) merged on August 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152756) over 4 hours, 8 additions and 12 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+</details>
 
 ### July 20, 2024 to July 26, 2024
 
