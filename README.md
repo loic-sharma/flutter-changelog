@@ -566,7 +566,11 @@
 
 ### August 3, 2024 to August 9, 2024
 
-1 commits.
+2 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Gradle version in the engine<br />
+    <sub>[#53964](https://github.com/flutter/engine/pull/53964) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53964) over 2 weeks, 31 additions and 17 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Add SK_USE_LEGACY_BLUR_RASTER staging flag<br />
     <sub>[#54314](https://github.com/flutter/engine/pull/54314) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54314) over 2 days, 1 addition and 0 deletions in 1 file</sub><br />
