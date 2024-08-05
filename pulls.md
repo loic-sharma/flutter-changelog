@@ -41,9 +41,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add a "test failure troubleshooting" wiki page<br />
     <sub>[#152348](https://github.com/flutter/flutter/pull/152348) opened on on July 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152348) 113 additions and 0 deletions in 1 file</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Guard process writes to frontend server in `ResidentCompiler`<br />
-    <sub>[#152358](https://github.com/flutter/flutter/pull/152358) opened on on July 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152358) 116 additions and 71 deletions in 14 files</sub><br />
-
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
     <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
 
