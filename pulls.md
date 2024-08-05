@@ -26,9 +26,6 @@
 * **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Added waitDuration in the InkWell widget to wait before starting the hover animation (Resolves #149812 )<br />
     <sub>[#151699](https://github.com/flutter/flutter/pull/151699) opened on on July 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151699) 89 additions and 1 deletion in 2 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#152127](https://github.com/flutter/flutter/pull/152127) opened on on July 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152127) 4 additions and 4 deletions in 2 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; fix: A referenced default package must be a plugin package<br />
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
 
