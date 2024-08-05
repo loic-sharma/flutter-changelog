@@ -71,3 +71,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Migrate .gitignore files<br />
     <sub>[#152894](https://github.com/flutter/flutter/pull/152894) opened on on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152894) 6 additions and 0 deletions in 3 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump dartdoc to 8.0.13<br />
+    <sub>[#152896](https://github.com/flutter/flutter/pull/152896) opened on on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152896) 1 addition and 1 deletion in 1 file</sub><br />
+
