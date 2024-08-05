@@ -68,6 +68,6 @@
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add guard statement for `TabBarView` for the error that caused by `initialRoute`<br />
     <sub>[#152861](https://github.com/flutter/flutter/pull/152861) opened on on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152861) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider does not show changed label value for keyboard users fix<br />
-    <sub>[#152886](https://github.com/flutter/flutter/pull/152886) opened on on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152886) 107 additions and 0 deletions in 2 files</sub><br />
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing<br />
+    <sub>[#152890](https://github.com/flutter/flutter/pull/152890) opened on on August 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152890) 618 additions and 18 deletions in 5 files</sub><br />
 
