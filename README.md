@@ -536,9 +536,18 @@
 
 ## flutter/engine
 
+### August 3, 2024 to August 9, 2024
+
+1 commits.
+
+* **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Add SK_USE_LEGACY_BLUR_RASTER staging flag<br />
+    <sub>[#54314](https://github.com/flutter/engine/pull/54314) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54314) over 2 days, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 ### July 27, 2024 to August 2, 2024
 
-44 commits.
+<details>
+<summary>44 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] Supported rendering platform views without merging the raster thread.<br />
     <sub>[#53826](https://github.com/flutter/engine/pull/53826) merged on August 1, 2024 &mdash; **Extra large:** [130 comments](https://github.com/flutter/engine/pull/53826) over 2 weeks, 1018 additions and 809 deletions in 19 files</sub><br />
@@ -719,6 +728,8 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "Set GLArea.has-alpha = true (#54053)"<br />
     <sub>[#54190](https://github.com/flutter/engine/pull/54190) merged on July 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54190) over 45 minutes, 1 addition and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+</details>
 
 ### July 20, 2024 to July 26, 2024
 
