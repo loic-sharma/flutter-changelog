@@ -1040,7 +1040,11 @@
 
 ### August 3, 2024 to August 9, 2024
 
-2 commits.
+3 commits.
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter_platform_interface] Platform interface changes to support heatmaps<br />
+    <sub>[#7312](https://github.com/flutter/packages/pull/7312) merged on August 5, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/7312) over 4 hours, 1036 additions and 7 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.annotation:annotation from 1.8.0 to 1.8.1 in /packages/image_picker/image_picker_android/android<br />
     <sub>[#7302](https://github.com/flutter/packages/pull/7302) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7302) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
