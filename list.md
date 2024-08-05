@@ -1004,9 +1004,19 @@
 
 ## flutter/packages
 
+### August 3, 2024 to August 9, 2024
+
+1 commits.
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [image_picker]: Bump androidx.annotation:annotation from 1.8.0 to 1.8.1 in /packages/image_picker/image_picker_android/android
+    <sub>[#7302](https://github.com/flutter/packages/pull/7302) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7302) over 7 hours, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.0&new-version=1.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
 ### July 27, 2024 to August 2, 2024
 
-32 commits.
+<details>
+<summary>32 commits...</summary>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] full api redesign with DataStore and cache-less interface
     <sub>[#5210](https://github.com/flutter/packages/pull/5210) merged on July 30, 2024 &mdash; **Extra large:** [272 comments](https://github.com/flutter/packages/pull/5210) over 9 months, 2432 additions and 461 deletions in 15 files</sub>
@@ -1147,6 +1157,8 @@
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [video_player]: Bump exoplayer_version from 1.3.1 to 1.4.0 in /packages/video_player/video_player_android/android
     <sub>[#7241](https://github.com/flutter/packages/pull/7241) merged on July 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7241) over 8 hours, 7 additions and 3 deletions in 3 files</sub>
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### July 20, 2024 to July 26, 2024
 
