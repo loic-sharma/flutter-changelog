@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-18 commits.
+19 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing<br />
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub><br />
@@ -64,6 +64,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Linux_android_emu tests bringup: true<br />
     <sub>[#152867](https://github.com/flutter/flutter/pull/152867) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152867) over 49 minutes, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider does not show changed label value for keyboard users fix<br />
+    <sub>[#152886](https://github.com/flutter/flutter/pull/152886) merged on August 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152886) over 21 hours, 113 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for ordered_traversal_group.0.dart<br />
     <sub>[#152849](https://github.com/flutter/flutter/pull/152849) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152849) over 23 hours, 41 additions and 4 deletions in 3 files</sub><br />
@@ -1089,7 +1093,11 @@
 
 ### August 3, 2024 to August 9, 2024
 
-10 commits.
+11 commits.
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter] Add heatmap support<br />
+    <sub>[#3257](https://github.com/flutter/packages/pull/3257) merged on August 6, 2024 &mdash; **Large:** [210 comments](https://github.com/flutter/packages/pull/3257) over 17 months, 761 additions and 9 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Alex Muramoto](https://github.com/amuramoto), [Leigha Jarett](https://github.com/leighajarett), [Max Berktold - OpenSphere](https://github.com/OpenSphereSoftware), [stuartmorgan](https://github.com/stuartmorgan), and [2 others](https://github.com/flutter/packages/pull/3257)</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [camera_web] Migrate to `package:web`<br />
     <sub>[#7012](https://github.com/flutter/packages/pull/7012) merged on August 6, 2024 &mdash; **Extra large:** [77 comments](https://github.com/flutter/packages/pull/7012) over 1 month, 1507 additions and 1243 deletions in 24 files</sub><br />
