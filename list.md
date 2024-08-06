@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-23 commits.
+25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub>
@@ -52,6 +52,14 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file 
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152073) over 2 weeks, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [API Examples] `scroll_direction.0_test.dart` & `growth_direction.0_test.dart`
+    <sub>[#152941](https://github.com/flutter/flutter/pull/152941) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152941) over 3 hours, 0 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] opt gallery benchmarks and platform view test into merged thread mode.
+    <sub>[#152940](https://github.com/flutter/flutter/pull/152940) merged on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152940) over 3 hours, 23 additions and 8 deletions in 2 files</sub>
+    <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pass --no-dds to some integration tests driven by flutter drive
     <sub>[#152898](https://github.com/flutter/flutter/pull/152898) merged on August 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152898) over 6 hours, 4 additions and 2 deletions in 3 files</sub>
