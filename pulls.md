@@ -65,9 +65,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add app bar and tab bar to a11y assessment app<br />
     <sub>[#152904](https://github.com/flutter/flutter/pull/152904) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152904) 222 additions and 0 deletions in 5 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix Linux_android_emu tests late initialization errors<br />
-    <sub>[#152932](https://github.com/flutter/flutter/pull/152932) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152932) 43 additions and 41 deletions in 6 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] opt gallery benchmarks and platform view test into merged thread mode.<br />
     <sub>[#152940](https://github.com/flutter/flutter/pull/152940) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152940) 23 additions and 8 deletions in 2 files</sub><br />
 
