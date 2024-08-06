@@ -11,14 +11,14 @@
     <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
     <sub><details><summary>2 images...</summary><img width="1072" alt="Screenshot 2024-07-30 at 15 40 59" src="https://github.com/user-attachments/assets/14f21091-9e46-4a58-8552-1379f4ba9216"><img width="1072" alt="Screenshot 2024-07-30 at 15 39 42" src="https://github.com/user-attachments/assets/717e9f5e-a491-4853-ba74-e72ec7493363"></details></sub>
 
-* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing (#152472)"
-    <sub>[#152885](https://github.com/flutter/flutter/pull/152885) merged on August 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152885) over 1 minute, 18 additions and 617 deletions in 4 files</sub>
-    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-    <sub><details><summary>2 images...</summary><img width="1072" alt="Screenshot 2024-07-30 at 15 40 59" src="https://github.com/user-attachments/assets/14f21091-9e46-4a58-8552-1379f4ba9216"><img width="1072" alt="Screenshot 2024-07-30 at 15 39 42" src="https://github.com/user-attachments/assets/717e9f5e-a491-4853-ba74-e72ec7493363"></details></sub>
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing
     <sub>[#152890](https://github.com/flutter/flutter/pull/152890) merged on August 5, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/152890) over 2 hours, 618 additions and 18 deletions in 5 files</sub>
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+    <sub><details><summary>2 images...</summary><img width="1072" alt="Screenshot 2024-07-30 at 15 40 59" src="https://github.com/user-attachments/assets/14f21091-9e46-4a58-8552-1379f4ba9216"><img width="1072" alt="Screenshot 2024-07-30 at 15 39 42" src="https://github.com/user-attachments/assets/717e9f5e-a491-4853-ba74-e72ec7493363"></details></sub>
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing (#152472)"
+    <sub>[#152885](https://github.com/flutter/flutter/pull/152885) merged on August 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152885) over 1 minute, 18 additions and 617 deletions in 4 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
     <sub><details><summary>2 images...</summary><img width="1072" alt="Screenshot 2024-07-30 at 15 40 59" src="https://github.com/user-attachments/assets/14f21091-9e46-4a58-8552-1379f4ba9216"><img width="1072" alt="Screenshot 2024-07-30 at 15 39 42" src="https://github.com/user-attachments/assets/717e9f5e-a491-4853-ba74-e72ec7493363"></details></sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Docs] DeviceOrientation Enum Correction
@@ -616,11 +616,15 @@
 
 ### August 3, 2024 to August 9, 2024
 
-2 commits.
+3 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Gradle version in the engine
     <sub>[#53964](https://github.com/flutter/engine/pull/53964) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53964) over 2 weeks, 31 additions and 17 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update pubspec.yaml for package:flutter_gpu
+    <sub>[#54345](https://github.com/flutter/engine/pull/54345) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54345) over 19 hours, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Add SK_USE_LEGACY_BLUR_RASTER staging flag
     <sub>[#54314](https://github.com/flutter/engine/pull/54314) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54314) over 2 days, 1 addition and 0 deletions in 1 file</sub>
