@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-17 commits.
+18 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub>
@@ -28,6 +28,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manual dependency bump
     <sub>[#152881](https://github.com/flutter/flutter/pull/152881) merged on August 6, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/152881) over 7 hours, 434 additions and 416 deletions in 79 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add Nate Wilson to authors
+    <sub>[#152907](https://github.com/flutter/flutter/pull/152907) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152907) over 13 hours, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; more docImports
     <sub>[#151951](https://github.com/flutter/flutter/pull/151951) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151951) over 2 weeks, 39 additions and 16 deletions in 17 files</sub>
@@ -616,7 +620,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-3 commits.
+4 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Gradle version in the engine
     <sub>[#53964](https://github.com/flutter/engine/pull/53964) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53964) over 2 weeks, 31 additions and 17 deletions in 1 file</sub>
@@ -625,6 +629,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update pubspec.yaml for package:flutter_gpu
     <sub>[#54345](https://github.com/flutter/engine/pull/54345) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54345) over 19 hours, 2 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Update Flutter-GPU.md
+    <sub>[#54366](https://github.com/flutter/engine/pull/54366) merged on August 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54366) over 39 minutes, 34 additions and 40 deletions in 1 file</sub>
+    <sub>Reviewed by: [Michael Thomsen](https://github.com/mit-mit)</sub>
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Add SK_USE_LEGACY_BLUR_RASTER staging flag
     <sub>[#54314](https://github.com/flutter/engine/pull/54314) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54314) over 2 days, 1 addition and 0 deletions in 1 file</sub>
