@@ -65,3 +65,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add app bar and tab bar to a11y assessment app<br />
     <sub>[#152904](https://github.com/flutter/flutter/pull/152904) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152904) 222 additions and 0 deletions in 5 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add Nate Wilson to authors<br />
+    <sub>[#152907](https://github.com/flutter/flutter/pull/152907) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152907) 1 addition and 0 deletions in 1 file</sub><br />
+
