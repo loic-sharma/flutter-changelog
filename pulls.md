@@ -71,3 +71,9 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] opt gallery benchmarks and platform view test into merged thread mode.<br />
     <sub>[#152940](https://github.com/flutter/flutter/pull/152940) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152940) 23 additions and 8 deletions in 2 files</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#152945](https://github.com/flutter/flutter/pull/152945) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152945) 3 additions and 3 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Clean up MenuAnchor<br />
+    <sub>[#152946](https://github.com/flutter/flutter/pull/152946) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152946) 41 additions and 58 deletions in 2 files</sub><br />
+

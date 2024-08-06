@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-20 commits.
+21 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing<br />
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub><br />
@@ -20,6 +20,10 @@
     <sub>[#152885](https://github.com/flutter/flutter/pull/152885) merged on August 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152885) over 1 minute, 18 additions and 617 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>2 images...</summary><img width="1072" alt="Screenshot 2024-07-30 at 15 40 59" src="https://github.com/user-attachments/assets/14f21091-9e46-4a58-8552-1379f4ba9216"><img width="1072" alt="Screenshot 2024-07-30 at 15 39 42" src="https://github.com/user-attachments/assets/717e9f5e-a491-4853-ba74-e72ec7493363"></details></sub>
+
+* **[Gazal](https://github.com/gazal-k)** &mdash; fix: add parameter to maintainState of SearchDelegate<br />
+    <sub>[#152444](https://github.com/flutter/flutter/pull/152444) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152444) over 1 week, 71 additions and 3 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add fillColor property for cupertinoCheckbox<br />
     <sub>[#151761](https://github.com/flutter/flutter/pull/151761) merged on August 6, 2024 &mdash; **Small:** [64 comments](https://github.com/flutter/flutter/pull/151761) over 3 weeks, 177 additions and 2 deletions in 2 files</sub><br />
