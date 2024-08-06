@@ -656,7 +656,11 @@
 
 ### August 3, 2024 to August 9, 2024
 
-5 commits.
+7 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] clean ups to platform view controller
+    <sub>[#54335](https://github.com/flutter/engine/pull/54335) merged on August 6, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/54335) over 3 days, 1039 additions and 937 deletions in 24 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Gradle version in the engine
     <sub>[#53964](https://github.com/flutter/engine/pull/53964) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53964) over 2 weeks, 31 additions and 17 deletions in 1 file</sub>
@@ -665,6 +669,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure precision matches for buggy vulkan drivers.
+    <sub>[#54372](https://github.com/flutter/engine/pull/54372) merged on August 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54372) over 1 hour, 4 additions and 4 deletions in 2 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update pubspec.yaml for package:flutter_gpu
     <sub>[#54345](https://github.com/flutter/engine/pull/54345) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54345) over 19 hours, 2 additions and 1 deletion in 1 file</sub>
