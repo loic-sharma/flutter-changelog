@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-16 commits.
+17 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub>
@@ -36,6 +36,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file 
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152073) over 2 weeks, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pass --no-dds to some integration tests driven by flutter drive
+    <sub>[#152898](https://github.com/flutter/flutter/pull/152898) merged on August 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152898) over 6 hours, 4 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implement `on` clauses
     <sub>[#152706](https://github.com/flutter/flutter/pull/152706) merged on August 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152706) over 4 days, 22 additions and 36 deletions in 4 files</sub>
