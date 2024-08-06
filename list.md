@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-14 commits.
+15 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub>
@@ -52,6 +52,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Linux_android_emu tests bringup: true
     <sub>[#152867](https://github.com/flutter/flutter/pull/152867) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152867) over 49 minutes, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for ordered_traversal_group.0.dart
+    <sub>[#152849](https://github.com/flutter/flutter/pull/152849) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152849) over 23 hours, 41 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Leoporno](https://github.com/Leoporno), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; added functionality to where SR will communicate button clicked
     <sub>[#152185](https://github.com/flutter/flutter/pull/152185) merged on August 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152185) over 1 week, 41 additions and 20 deletions in 2 files</sub>
