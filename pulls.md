@@ -68,3 +68,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add Nate Wilson to authors<br />
     <sub>[#152907](https://github.com/flutter/flutter/pull/152907) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152907) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Show the `ValueIndicator` when the user typing the keyboard <br />
+    <sub>[#152923](https://github.com/flutter/flutter/pull/152923) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152923) 158 additions and 18 deletions in 2 files</sub><br />
+
