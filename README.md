@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-21 commits.
+23 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing<br />
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub><br />
@@ -28,6 +28,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add fillColor property for cupertinoCheckbox<br />
     <sub>[#151761](https://github.com/flutter/flutter/pull/151761) merged on August 6, 2024 &mdash; **Small:** [64 comments](https://github.com/flutter/flutter/pull/151761) over 3 weeks, 177 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [material/menu_anchor.dart] MenuAnchor focus refactoring for RawMenuAnchor<br />
+    <sub>[#150950](https://github.com/flutter/flutter/pull/150950) merged on August 6, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/150950) over 1 month, 635 additions and 244 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Docs] DeviceOrientation Enum Correction<br />
     <sub>[#152876](https://github.com/flutter/flutter/pull/152876) merged on August 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152876) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
@@ -72,6 +76,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Linux_android_emu tests bringup: true<br />
     <sub>[#152867](https://github.com/flutter/flutter/pull/152867) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152867) over 49 minutes, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#152945](https://github.com/flutter/flutter/pull/152945) merged on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152945) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider does not show changed label value for keyboard users fix<br />
     <sub>[#152886](https://github.com/flutter/flutter/pull/152886) merged on August 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/152886) over 21 hours, 113 additions and 0 deletions in 2 files</sub><br />
