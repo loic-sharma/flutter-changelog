@@ -1081,7 +1081,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-7 commits.
+8 commits.
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [camera_web] Migrate to `package:web`<br />
     <sub>[#7012](https://github.com/flutter/packages/pull/7012) merged on August 6, 2024 &mdash; **Extra large:** [77 comments](https://github.com/flutter/packages/pull/7012) over 1 month, 1507 additions and 1243 deletions in 24 files</sub><br />
@@ -1089,6 +1089,10 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router_builder] Fixes readme typos and uses code excerpts.<br />
     <sub>[#7280](https://github.com/flutter/packages/pull/7280) merged on August 6, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/7280) over 4 days, 738 additions and 64 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter_ios] iOS changes to support heatmaps<br />
+    <sub>[#7314](https://github.com/flutter/packages/pull/7314) merged on August 6, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/7314) over 19 hours, 1044 additions and 97 deletions in 26 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter_android] Android changes to support heatmaps<br />
