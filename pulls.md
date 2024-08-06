@@ -39,7 +39,7 @@
     <sub>[#152348](https://github.com/flutter/flutter/pull/152348) opened on on July 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152348) 113 additions and 0 deletions in 1 file</sub><br />
 
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
-    <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
+    <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of CustomScrollViewExampleApp<br />
     <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/152431) 145 additions and 1 deletion in 2 files</sub><br />
