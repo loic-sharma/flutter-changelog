@@ -68,6 +68,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Clean up MenuAnchor<br />
     <sub>[#152946](https://github.com/flutter/flutter/pull/152946) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152946) 41 additions and 58 deletions in 2 files</sub><br />
 
-* **[Rexios](https://github.com/Rexios80)** &mdash; [tool] Update `.gitignore` templates to include `.flutter-plugins` files<br />
-    <sub>[#152950](https://github.com/flutter/flutter/pull/152950) opened on on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152950) 61 additions and 19 deletions in 4 files</sub><br />
-

@@ -1113,7 +1113,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-12 commits.
+13 commits.
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter] Add heatmap support
     <sub>[#3257](https://github.com/flutter/packages/pull/3257) merged on August 6, 2024 &mdash; **Large:** [211 comments](https://github.com/flutter/packages/pull/3257) over 17 months, 761 additions and 9 deletions in 12 files</sub>
@@ -1122,6 +1122,10 @@
 * **[Rexios](https://github.com/Rexios80)** &mdash; [camera_web] Migrate to `package:web`
     <sub>[#7012](https://github.com/flutter/packages/pull/7012) merged on August 6, 2024 &mdash; **Extra large:** [77 comments](https://github.com/flutter/packages/pull/7012) over 1 month, 1507 additions and 1243 deletions in 24 files</sub>
     <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Kevin Moore](https://github.com/kevmoo)</sub>
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - iOS implementation
+    <sub>[#6186](https://github.com/flutter/packages/pull/6186) merged on August 6, 2024 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/6186) over 5 months, 1585 additions and 96 deletions in 32 files</sub>
+    <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Endorse macOS
     <sub>[#7274](https://github.com/flutter/packages/pull/7274) merged on August 6, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7274) over 5 days, 1362 additions and 5 deletions in 30 files</sub>
