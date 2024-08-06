@@ -68,6 +68,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Clean up MenuAnchor<br />
     <sub>[#152946](https://github.com/flutter/flutter/pull/152946) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152946) 41 additions and 58 deletions in 2 files</sub><br />
 
-* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
-    <sub>[#152956](https://github.com/flutter/flutter/pull/152956) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152956) 4 additions and 4 deletions in 2 files</sub><br />
-
