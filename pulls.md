@@ -65,12 +65,9 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Add app bar and tab bar to a11y assessment app<br />
     <sub>[#152904](https://github.com/flutter/flutter/pull/152904) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152904) 222 additions and 0 deletions in 5 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] opt gallery benchmarks and platform view test into merged thread mode.<br />
-    <sub>[#152940](https://github.com/flutter/flutter/pull/152940) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152940) 23 additions and 8 deletions in 2 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Clean up MenuAnchor<br />
     <sub>[#152946](https://github.com/flutter/flutter/pull/152946) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152946) 41 additions and 58 deletions in 2 files</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [tool] Update `.gitignore` templates to include `.flutter-plugins` files<br />
-    <sub>[#152950](https://github.com/flutter/flutter/pull/152950) opened on on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152950) 6 additions and 0 deletions in 3 files</sub><br />
+    <sub>[#152950](https://github.com/flutter/flutter/pull/152950) opened on on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152950) 61 additions and 19 deletions in 4 files</sub><br />
 
