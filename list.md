@@ -1150,7 +1150,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-13 commits.
+14 commits.
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter] Add heatmap support
     <sub>[#3257](https://github.com/flutter/packages/pull/3257) merged on August 6, 2024 &mdash; **Large:** [211 comments](https://github.com/flutter/packages/pull/3257) over 17 months, 761 additions and 9 deletions in 12 files</sub>
@@ -1175,6 +1175,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router_builder] Fixes readme typos and uses code excerpts.
     <sub>[#7280](https://github.com/flutter/packages/pull/7280) merged on August 6, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/7280) over 4 days, 738 additions and 64 deletions in 6 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [image_picker_ios] Update image picker UI test query for iOS 18
+    <sub>[#7325](https://github.com/flutter/packages/pull/7325) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7325) over 1 hour, 10 additions and 3 deletions in 3 files</sub>
+    <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter_web] Web changes to support heatmaps
     <sub>[#7315](https://github.com/flutter/packages/pull/7315) merged on August 6, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/7315) over 22 hours, 585 additions and 5 deletions in 17 files</sub>
