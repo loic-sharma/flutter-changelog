@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-27 commits.
+29 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing<br />
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub><br />
@@ -53,6 +53,10 @@
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152073) over 2 weeks, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix Linux_android_emu tests late initialization errors<br />
+    <sub>[#152932](https://github.com/flutter/flutter/pull/152932) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152932) over 6 hours, 39 additions and 37 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Tirth](https://github.com/piedcipher)** &mdash; [API Examples] `scroll_direction.0_test.dart` & `growth_direction.0_test.dart`<br />
     <sub>[#152941](https://github.com/flutter/flutter/pull/152941) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152941) over 3 hours, 0 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
@@ -84,6 +88,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Linux_android_emu tests bringup: true<br />
     <sub>[#152867](https://github.com/flutter/flutter/pull/152867) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152867) over 49 minutes, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Guard process writes to frontend server in `ResidentCompiler`<br />
+    <sub>[#152358](https://github.com/flutter/flutter/pull/152358) merged on August 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152358) over 1 week, 121 additions and 71 deletions in 14 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#152956](https://github.com/flutter/flutter/pull/152956) merged on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152956) over 50 minutes, 4 additions and 4 deletions in 2 files</sub><br />
@@ -656,7 +664,12 @@
 
 ### August 3, 2024 to August 9, 2024
 
-7 commits.
+8 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Reorder pipeline construction in content context.<br />
+    <sub>[#54373](https://github.com/flutter/engine/pull/54373) merged on August 6, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54373) over 1 hour, 25 additions and 19 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+    <sub><details><summary>1 image...</summary><img width="2137" alt="Screenshot 2024-08-06 at 1 20 26 PM" src="https://github.com/user-attachments/assets/aed671c1-b7f7-4c9f-8553-485f8c0dd35e"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] clean ups to platform view controller<br />
     <sub>[#54335](https://github.com/flutter/engine/pull/54335) merged on August 6, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/54335) over 3 days, 1039 additions and 937 deletions in 24 files</sub><br />
