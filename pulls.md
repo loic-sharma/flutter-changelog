@@ -72,5 +72,5 @@
     <sub>[#152923](https://github.com/flutter/flutter/pull/152923) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152923) 158 additions and 18 deletions in 2 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix Linux_android_emu tests late initialization errors<br />
-    <sub>[#152932](https://github.com/flutter/flutter/pull/152932) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152932) 42 additions and 40 deletions in 6 files</sub><br />
+    <sub>[#152932](https://github.com/flutter/flutter/pull/152932) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152932) 43 additions and 41 deletions in 6 files</sub><br />
 
