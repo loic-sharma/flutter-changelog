@@ -69,5 +69,5 @@
     <sub>[#152932](https://github.com/flutter/flutter/pull/152932) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152932) 43 additions and 41 deletions in 6 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] opt gallery benchmarks and platform view test into merged thread mode.<br />
-    <sub>[#152940](https://github.com/flutter/flutter/pull/152940) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152940) 22 additions and 8 deletions in 2 files</sub><br />
+    <sub>[#152940](https://github.com/flutter/flutter/pull/152940) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152940) 23 additions and 8 deletions in 2 files</sub><br />
 
