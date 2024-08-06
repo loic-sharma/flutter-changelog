@@ -1101,7 +1101,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-11 commits.
+12 commits.
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter] Add heatmap support<br />
     <sub>[#3257](https://github.com/flutter/packages/pull/3257) merged on August 6, 2024 &mdash; **Large:** [211 comments](https://github.com/flutter/packages/pull/3257) over 17 months, 761 additions and 9 deletions in 12 files</sub><br />
@@ -1114,6 +1114,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Endorse macOS<br />
     <sub>[#7274](https://github.com/flutter/packages/pull/7274) merged on August 6, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7274) over 5 days, 1362 additions and 5 deletions in 30 files</sub><br />
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Frank](https://github.com/Frank3K)** &mdash; [url_launcher] launchUrl always returns true for valid schemes on the web.<br />
+    <sub>[#7229](https://github.com/flutter/packages/pull/7229) merged on August 6, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7229) over 1 week, 35 additions and 7 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router_builder] Fixes readme typos and uses code excerpts.<br />
     <sub>[#7280](https://github.com/flutter/packages/pull/7280) merged on August 6, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/7280) over 4 days, 738 additions and 64 deletions in 6 files</sub><br />
