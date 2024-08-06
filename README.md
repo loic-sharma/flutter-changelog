@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-15 commits.
+16 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing<br />
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub><br />
@@ -24,6 +24,10 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Docs] DeviceOrientation Enum Correction<br />
     <sub>[#152876](https://github.com/flutter/flutter/pull/152876) merged on August 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152876) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Manual dependency bump<br />
+    <sub>[#152881](https://github.com/flutter/flutter/pull/152881) merged on August 6, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/152881) over 7 hours, 434 additions and 416 deletions in 79 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; more docImports<br />
     <sub>[#151951](https://github.com/flutter/flutter/pull/151951) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151951) over 2 weeks, 39 additions and 16 deletions in 17 files</sub><br />
