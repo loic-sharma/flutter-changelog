@@ -1077,7 +1077,11 @@
 
 ### August 3, 2024 to August 9, 2024
 
-5 commits.
+6 commits.
+
+* **[Rexios](https://github.com/Rexios80)** &mdash; [camera_web] Migrate to `package:web`<br />
+    <sub>[#7012](https://github.com/flutter/packages/pull/7012) merged on August 6, 2024 &mdash; **Extra large:** [77 comments](https://github.com/flutter/packages/pull/7012) over 1 month, 1507 additions and 1243 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router_builder] Fixes readme typos and uses code excerpts.<br />
     <sub>[#7280](https://github.com/flutter/packages/pull/7280) merged on August 6, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/7280) over 4 days, 738 additions and 64 deletions in 6 files</sub><br />
