@@ -668,7 +668,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-9 commits.
+10 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Reorder pipeline construction in content context.
     <sub>[#54373](https://github.com/flutter/engine/pull/54373) merged on August 6, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54373) over 1 hour, 25 additions and 19 deletions in 2 files</sub>
@@ -690,6 +690,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Roll buildroot to 6ef931b950d5b9477dba0e278b7006ae327e12f7
+    <sub>[#54384](https://github.com/flutter/engine/pull/54384) merged on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54384) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure precision matches for buggy vulkan drivers.
     <sub>[#54372](https://github.com/flutter/engine/pull/54372) merged on August 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54372) over 1 hour, 4 additions and 4 deletions in 2 files</sub>
