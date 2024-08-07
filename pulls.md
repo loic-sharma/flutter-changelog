@@ -50,9 +50,6 @@
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; Enable client entitlement in macOS template<br />
     <sub>[#152822](https://github.com/flutter/flutter/pull/152822) opened on on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152822) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove destinations length hard limit in NavigationRail widget<br />
-    <sub>[#152972](https://github.com/flutter/flutter/pull/152972) opened on on August 6, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152972) 399 additions and 3 deletions in 2 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add xcresulttool --legacy flag for deprecated usage<br />
     <sub>[#152988](https://github.com/flutter/flutter/pull/152988) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152988) 28 additions and 3 deletions in 2 files</sub><br />
 
