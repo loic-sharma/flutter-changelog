@@ -68,3 +68,6 @@
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider shows visual label of value on focus<br />
     <sub>[#152960](https://github.com/flutter/flutter/pull/152960) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152960) 59 additions and 2 deletions in 2 files</sub><br />
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove destinations length hard limit in NavigationRail widget<br />
+    <sub>[#152972](https://github.com/flutter/flutter/pull/152972) opened on on August 6, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152972) 399 additions and 3 deletions in 2 files</sub><br />
+
