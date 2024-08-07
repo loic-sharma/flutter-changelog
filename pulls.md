@@ -53,3 +53,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add xcresulttool --legacy flag for deprecated usage<br />
     <sub>[#152988](https://github.com/flutter/flutter/pull/152988) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152988) 28 additions and 3 deletions in 2 files</sub><br />
 
+* **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
+    <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
+
