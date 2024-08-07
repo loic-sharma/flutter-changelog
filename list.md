@@ -94,8 +94,8 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Guard process writes to frontend server in `ResidentCompiler`
-    <sub>[#152358](https://github.com/flutter/flutter/pull/152358) merged on August 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/152358) over 1 week, 121 additions and 71 deletions in 14 files</sub>
-    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+    <sub>[#152358](https://github.com/flutter/flutter/pull/152358) merged on August 6, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/152358) over 1 week, 121 additions and 71 deletions in 14 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#152956](https://github.com/flutter/flutter/pull/152956) merged on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152956) over 50 minutes, 4 additions and 4 deletions in 2 files</sub>
