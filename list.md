@@ -1162,7 +1162,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-15 commits.
+16 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Marker clustering support
     <sub>[#4319](https://github.com/flutter/packages/pull/4319) merged on August 7, 2024 &mdash; **Large:** [145 comments](https://github.com/flutter/packages/pull/4319) over 13 months, 642 additions and 2 deletions in 11 files</sub>
@@ -1188,6 +1188,11 @@
 * **[Frank](https://github.com/Frank3K)** &mdash; [url_launcher] launchUrl always returns true for valid schemes on the web.
     <sub>[#7229](https://github.com/flutter/packages/pull/7229) merged on August 6, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7229) over 1 week, 35 additions and 7 deletions in 5 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.7 to 1.13.12 in /packages/pigeon/platform_tests/test_plugin/android
+    <sub>[#7189](https://github.com/flutter/packages/pull/7189) merged on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7189) over 2 weeks, 5 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=io.mockk:mockk&package-manager=gradle&previous-version=1.13.7&new-version=1.13.12)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router_builder] Fixes readme typos and uses code excerpts.
     <sub>[#7280](https://github.com/flutter/packages/pull/7280) merged on August 6, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/7280) over 4 days, 738 additions and 64 deletions in 6 files</sub>
