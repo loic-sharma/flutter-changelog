@@ -63,5 +63,5 @@
     <sub>[#152972](https://github.com/flutter/flutter/pull/152972) opened on on August 6, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152972) 399 additions and 3 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Deprecate inactiveColor from cupertino checkbox<br />
-    <sub>[#152981](https://github.com/flutter/flutter/pull/152981) opened on on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152981) 8 additions and 0 deletions in 1 file</sub><br />
+    <sub>[#152981](https://github.com/flutter/flutter/pull/152981) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152981) 8 additions and 0 deletions in 1 file</sub><br />
 
