@@ -1162,7 +1162,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-16 commits.
+17 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Marker clustering support<br />
     <sub>[#4319](https://github.com/flutter/packages/pull/4319) merged on August 7, 2024 &mdash; **Large:** [145 comments](https://github.com/flutter/packages/pull/4319) over 13 months, 642 additions and 2 deletions in 11 files</sub><br />
@@ -1226,6 +1226,10 @@
     <sub>[#7302](https://github.com/flutter/packages/pull/7302) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7302) over 7 hours, 6 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.0&new-version=1.8.1)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from b0850beeb25f to 80c2e84975bb (1397 revisions)<br />
+    <sub>[#7322](https://github.com/flutter/packages/pull/7322) merged on August 7, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7322) over 20 hours, 5 additions and 9 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pointer_interceptor] Add performance warning on using pointer interceptor on iOS<br />
     <sub>[#7288](https://github.com/flutter/packages/pull/7288) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7288) over 3 days, 5 additions and 2 deletions in 3 files</sub><br />
