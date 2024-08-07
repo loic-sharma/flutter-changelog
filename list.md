@@ -680,7 +680,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-11 commits.
+13 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Reorder pipeline construction in content context.
     <sub>[#54373](https://github.com/flutter/engine/pull/54373) merged on August 6, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54373) over 1 hour, 25 additions and 19 deletions in 2 files</sub>
@@ -690,6 +690,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] clean ups to platform view controller
     <sub>[#54335](https://github.com/flutter/engine/pull/54335) merged on August 6, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/54335) over 3 days, 1039 additions and 937 deletions in 24 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] bulk update fresh glyph atlas.
+    <sub>[#54379](https://github.com/flutter/engine/pull/54379) merged on August 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54379) over 16 hours, 77 additions and 28 deletions in 1 file</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Statically check stage interfaces for precision mismatches.
     <sub>[#54375](https://github.com/flutter/engine/pull/54375) merged on August 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54375) over 2 hours, 48 additions and 38 deletions in 9 files</sub>
@@ -702,6 +706,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] made Vector3 naming match Vector2 naming.
+    <sub>[#54396](https://github.com/flutter/engine/pull/54396) merged on August 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54396) over 37 minutes, 11 additions and 10 deletions in 4 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Roll buildroot to 6ef931b950d5b9477dba0e278b7006ae327e12f7
     <sub>[#54384](https://github.com/flutter/engine/pull/54384) merged on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54384) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -1178,7 +1186,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-17 commits.
+18 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Marker clustering support
     <sub>[#4319](https://github.com/flutter/packages/pull/4319) merged on August 7, 2024 &mdash; **Large:** [145 comments](https://github.com/flutter/packages/pull/4319) over 13 months, 642 additions and 2 deletions in 11 files</sub>
@@ -1204,6 +1212,10 @@
 * **[Frank](https://github.com/Frank3K)** &mdash; [url_launcher] launchUrl always returns true for valid schemes on the web.
     <sub>[#7229](https://github.com/flutter/packages/pull/7229) merged on August 6, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7229) over 1 week, 35 additions and 7 deletions in 5 files</sub>
     <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [David Iglesias](https://github.com/ditman)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Update repository for the release of Flutter 3.24
+    <sub>[#7331](https://github.com/flutter/packages/pull/7331) merged on August 7, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/7331) over 3 hours, 561 additions and 344 deletions in 255 files</sub>
+    <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Yegor](https://github.com/yjbanov), [Greg Spencer](https://github.com/gspencergoog), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump io.mockk:mockk from 1.13.7 to 1.13.12 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#7189](https://github.com/flutter/packages/pull/7189) merged on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7189) over 2 weeks, 5 additions and 2 deletions in 2 files</sub>

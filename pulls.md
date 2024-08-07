@@ -65,3 +65,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Deprecate inactiveColor from cupertino checkbox<br />
     <sub>[#152981](https://github.com/flutter/flutter/pull/152981) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152981) 8 additions and 0 deletions in 1 file</sub><br />
 
+* **[James Kerber](https://github.com/kerberjg)** &mdash; Set default Cupertino `primaryContrastingColor` to white<br />
+    <sub>[#153039](https://github.com/flutter/flutter/pull/153039) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153039) 15 additions and 11 deletions in 4 files</sub><br />
+
