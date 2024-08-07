@@ -47,9 +47,6 @@
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog<br />
     <sub>[#152637](https://github.com/flutter/flutter/pull/152637) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152637) 16 additions and 0 deletions in 2 files</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] hide the --web-renderer option in the tool<br />
-    <sub>[#152683](https://github.com/flutter/flutter/pull/152683) opened on on August 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152683) 49 additions and 0 deletions in 2 files</sub><br />
-
 * **[Elvis Okereke](https://github.com/ElvisOkereke)** &mdash; added missing properties to PaginatedDataTable; headerBackgroundColor, footerBackgroundColor, and footerStyle<br />
     <sub>[#152812](https://github.com/flutter/flutter/pull/152812) opened on on August 3, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152812) 509 additions and 312 deletions in 3 files</sub><br />
 
