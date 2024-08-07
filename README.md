@@ -34,7 +34,7 @@
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] hide the --web-renderer option in the tool<br />
-    <sub>[#152683](https://github.com/flutter/flutter/pull/152683) merged on August 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152683) over 6 days, 77 additions and 4 deletions in 3 files</sub><br />
+    <sub>[#152683](https://github.com/flutter/flutter/pull/152683) merged on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152683) over 6 days, 77 additions and 4 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; MenuAnchor hover traversal fixes<br />
