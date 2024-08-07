@@ -50,9 +50,6 @@
 * **[Elvis Okereke](https://github.com/ElvisOkereke)** &mdash; added missing properties to PaginatedDataTable; headerBackgroundColor, footerBackgroundColor, and footerStyle<br />
     <sub>[#152812](https://github.com/flutter/flutter/pull/152812) opened on on August 3, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152812) 509 additions and 312 deletions in 3 files</sub><br />
 
-* **[Igor Hnízdo](https://github.com/Michal-MK)** &mdash; Add scrim color parameter to _ZoomEnterTransitionPainter<br />
-    <sub>[#152815](https://github.com/flutter/flutter/pull/152815) opened on on August 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152815) 23 additions and 2 deletions in 1 file</sub><br />
-
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; Enable client entitlement in macOS template<br />
     <sub>[#152822](https://github.com/flutter/flutter/pull/152822) opened on on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152822) 2 additions and 0 deletions in 1 file</sub><br />
 
