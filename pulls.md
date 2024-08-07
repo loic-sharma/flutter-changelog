@@ -53,3 +53,6 @@
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
     <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
 
+* **[Gabriel Terwesten](https://github.com/blaugold)** &mdash; Rewrite install names for relocated native asset libraries<br />
+    <sub>[#153054](https://github.com/flutter/flutter/pull/153054) opened on on August 7, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153054) 444 additions and 73 deletions in 5 files</sub><br />
+
