@@ -63,7 +63,7 @@
     <sub>[#152904](https://github.com/flutter/flutter/pull/152904) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152904) 222 additions and 0 deletions in 5 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Clean up MenuAnchor<br />
-    <sub>[#152946](https://github.com/flutter/flutter/pull/152946) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152946) 41 additions and 58 deletions in 2 files</sub><br />
+    <sub>[#152946](https://github.com/flutter/flutter/pull/152946) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152946) 101 additions and 118 deletions in 2 files</sub><br />
 
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider shows visual label of value on focus<br />
     <sub>[#152960](https://github.com/flutter/flutter/pull/152960) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152960) 59 additions and 2 deletions in 2 files</sub><br />
