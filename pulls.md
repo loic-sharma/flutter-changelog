@@ -53,3 +53,6 @@
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
     <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
 
+* **[Elijah Luckey](https://github.com/Luckey-Elijah)** &mdash; `OverlayPortalController` implements `Listenable`<br />
+    <sub>[#153056](https://github.com/flutter/flutter/pull/153056) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153056) 101 additions and 1 deletion in 2 files</sub><br />
+
