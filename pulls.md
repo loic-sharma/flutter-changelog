@@ -59,9 +59,6 @@
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; Enable client entitlement in macOS template<br />
     <sub>[#152822](https://github.com/flutter/flutter/pull/152822) opened on on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152822) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Add app bar and tab bar to a11y assessment app<br />
-    <sub>[#152904](https://github.com/flutter/flutter/pull/152904) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152904) 222 additions and 0 deletions in 5 files</sub><br />
-
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider shows visual label of value on focus<br />
     <sub>[#152960](https://github.com/flutter/flutter/pull/152960) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152960) 59 additions and 2 deletions in 2 files</sub><br />
 
