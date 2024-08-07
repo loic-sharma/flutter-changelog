@@ -47,21 +47,12 @@
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog<br />
     <sub>[#152637](https://github.com/flutter/flutter/pull/152637) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152637) 16 additions and 0 deletions in 2 files</sub><br />
 
-* **[Elvis Okereke](https://github.com/ElvisOkereke)** &mdash; added missing properties to PaginatedDataTable; headerBackgroundColor, footerBackgroundColor, and footerStyle<br />
-    <sub>[#152812](https://github.com/flutter/flutter/pull/152812) opened on on August 3, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/152812) 509 additions and 312 deletions in 3 files</sub><br />
-
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; Enable client entitlement in macOS template<br />
     <sub>[#152822](https://github.com/flutter/flutter/pull/152822) opened on on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152822) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider shows visual label of value on focus<br />
-    <sub>[#152960](https://github.com/flutter/flutter/pull/152960) opened on on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152960) 59 additions and 2 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove destinations length hard limit in NavigationRail widget<br />
     <sub>[#152972](https://github.com/flutter/flutter/pull/152972) opened on on August 6, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152972) 399 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add xcresulttool --legacy flag for deprecated usage<br />
     <sub>[#152988](https://github.com/flutter/flutter/pull/152988) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152988) 28 additions and 3 deletions in 2 files</sub><br />
-
-* **[James Kerber](https://github.com/kerberjg)** &mdash; Set default Cupertino `primaryContrastingColor` to white<br />
-    <sub>[#153039](https://github.com/flutter/flutter/pull/153039) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153039) 15 additions and 11 deletions in 4 files</sub><br />
 
