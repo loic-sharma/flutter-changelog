@@ -62,6 +62,9 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove destinations length hard limit in NavigationRail widget<br />
     <sub>[#152972](https://github.com/flutter/flutter/pull/152972) opened on on August 6, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/152972) 399 additions and 3 deletions in 2 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add xcresulttool --legacy flag for deprecated usage<br />
+    <sub>[#152988](https://github.com/flutter/flutter/pull/152988) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152988) 28 additions and 3 deletions in 2 files</sub><br />
+
 * **[James Kerber](https://github.com/kerberjg)** &mdash; Set default Cupertino `primaryContrastingColor` to white<br />
     <sub>[#153039](https://github.com/flutter/flutter/pull/153039) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153039) 15 additions and 11 deletions in 4 files</sub><br />
 
