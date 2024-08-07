@@ -680,8 +680,8 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Statically check stage interfaces for precision mismatches.
-    <sub>[#54375](https://github.com/flutter/engine/pull/54375) merged on August 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54375) over 2 hours, 48 additions and 38 deletions in 9 files</sub>
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+    <sub>[#54375](https://github.com/flutter/engine/pull/54375) merged on August 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54375) over 2 hours, 48 additions and 38 deletions in 9 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Gradle version in the engine
     <sub>[#53964](https://github.com/flutter/engine/pull/53964) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53964) over 2 weeks, 31 additions and 17 deletions in 1 file</sub>
