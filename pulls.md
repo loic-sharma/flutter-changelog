@@ -74,6 +74,3 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Deprecate inactiveColor from cupertino checkbox<br />
     <sub>[#152981](https://github.com/flutter/flutter/pull/152981) opened on on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152981) 8 additions and 0 deletions in 1 file</sub><br />
 
-* **[Michael](https://github.com/Buchimi)** &mdash; Package ffi multi language support<br />
-    <sub>[#152987](https://github.com/flutter/flutter/pull/152987) opened on on August 7, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/152987) 1305 additions and 19 deletions in 49 files</sub><br />
-
