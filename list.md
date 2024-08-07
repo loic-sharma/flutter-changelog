@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-30 commits.
+31 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub>
@@ -53,6 +53,14 @@
     <sub>[#151951](https://github.com/flutter/flutter/pull/151951) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/151951) over 2 weeks, 39 additions and 16 deletions in 17 files</sub>
     <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins)</sub>
 
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[tool] Guard process writes to frontend server in `ResidentCompiler` (#152358)"
+    <sub>[#153028](https://github.com/flutter/flutter/pull/153028) merged on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153028) over 1 minute, 71 additions and 121 deletions in 14 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Guard process writes to frontend server in `ResidentCompiler`
+    <sub>[#152358](https://github.com/flutter/flutter/pull/152358) merged on August 6, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152358) over 1 week, 121 additions and 71 deletions in 14 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file 
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152073) over 2 weeks, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
@@ -92,10 +100,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Linux_android_emu tests bringup: true
     <sub>[#152867](https://github.com/flutter/flutter/pull/152867) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152867) over 49 minutes, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [tool] Guard process writes to frontend server in `ResidentCompiler`
-    <sub>[#152358](https://github.com/flutter/flutter/pull/152358) merged on August 6, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/152358) over 1 week, 121 additions and 71 deletions in 14 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#152956](https://github.com/flutter/flutter/pull/152956) merged on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152956) over 50 minutes, 4 additions and 4 deletions in 2 files</sub>
@@ -668,7 +672,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-10 commits.
+11 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Reorder pipeline construction in content context.
     <sub>[#54373](https://github.com/flutter/engine/pull/54373) merged on August 6, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54373) over 1 hour, 25 additions and 19 deletions in 2 files</sub>
@@ -710,6 +714,10 @@
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Add SK_USE_LEGACY_BLUR_RASTER staging flag
     <sub>[#54314](https://github.com/flutter/engine/pull/54314) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54314) over 2 days, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Reland: Partial repaint platform views
+    <sub>[#54231](https://github.com/flutter/engine/pull/54231) merged on August 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54231) over 1 week, 81 additions and 26 deletions in 9 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 ### July 27, 2024 to August 2, 2024
 
