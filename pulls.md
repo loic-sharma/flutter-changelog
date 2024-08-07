@@ -68,6 +68,3 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Deprecate inactiveColor from cupertino checkbox<br />
     <sub>[#152981](https://github.com/flutter/flutter/pull/152981) opened on on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152981) 8 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update design languages triage link to exclude drafts<br />
-    <sub>[#153027](https://github.com/flutter/flutter/pull/153027) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153027) 1 addition and 1 deletion in 1 file</sub><br />
-

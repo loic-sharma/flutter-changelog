@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-31 commits.
+33 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub>
@@ -65,6 +65,10 @@
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152073) over 2 weeks, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update design languages triage link to exclude drafts
+    <sub>[#153027](https://github.com/flutter/flutter/pull/153027) merged on August 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153027) over 44 minutes, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix Linux_android_emu tests late initialization errors
     <sub>[#152932](https://github.com/flutter/flutter/pull/152932) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152932) over 6 hours, 39 additions and 37 deletions in 5 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -100,6 +104,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Linux_android_emu tests bringup: true
     <sub>[#152867](https://github.com/flutter/flutter/pull/152867) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152867) over 49 minutes, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix PageController throws when changing page before viewPortDimensions are set
+    <sub>[#153017](https://github.com/flutter/flutter/pull/153017) merged on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153017) over 4 hours, 68 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
     <sub>[#152956](https://github.com/flutter/flutter/pull/152956) merged on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152956) over 50 minutes, 4 additions and 4 deletions in 2 files</sub>
