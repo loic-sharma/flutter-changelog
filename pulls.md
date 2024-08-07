@@ -74,6 +74,3 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Deprecate inactiveColor from cupertino checkbox<br />
     <sub>[#152981](https://github.com/flutter/flutter/pull/152981) opened on on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152981) 8 additions and 0 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix PageController throws when changing page before viewPortDimensions are set<br />
-    <sub>[#153017](https://github.com/flutter/flutter/pull/153017) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153017) 68 additions and 0 deletions in 2 files</sub><br />
-
