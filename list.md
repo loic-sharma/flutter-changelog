@@ -717,7 +717,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-14 commits.
+16 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Reorder pipeline construction in content context.
     <sub>[#54373](https://github.com/flutter/engine/pull/54373) merged on August 6, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54373) over 1 hour, 25 additions and 19 deletions in 2 files</sub>
@@ -747,6 +747,14 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] workaround for HC bug.
+    <sub>[#54408](https://github.com/flutter/engine/pull/54408) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54408) over 3 hours, 14 additions and 20 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Directly include the Skia header that defines GrVkImageInfo
+    <sub>[#54417](https://github.com/flutter/engine/pull/54417) merged on August 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54417) over 1 hour, 2 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] made Vector3 naming match Vector2 naming.
     <sub>[#54396](https://github.com/flutter/engine/pull/54396) merged on August 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54396) over 37 minutes, 11 additions and 10 deletions in 4 files</sub>
