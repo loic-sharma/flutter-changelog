@@ -1267,7 +1267,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-22 commits.
+23 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Marker clustering support
     <sub>[#4319](https://github.com/flutter/packages/pull/4319) merged on August 7, 2024 &mdash; **Large:** [152 comments](https://github.com/flutter/packages/pull/4319) over 13 months, 642 additions and 2 deletions in 11 files</sub>
@@ -1339,6 +1339,10 @@
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter_platform_interface] Platform interface changes to support heatmaps
     <sub>[#7312](https://github.com/flutter/packages/pull/7312) merged on August 5, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/packages/pull/7312) over 4 hours, 1036 additions and 7 deletions in 12 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Map NavigationsRails destinations and use group and labelType
+    <sub>[#7310](https://github.com/flutter/packages/pull/7310) merged on August 8, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/7310) over 3 days, 157 additions and 50 deletions in 4 files</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Convert Linux to Pigeon
     <sub>[#7215](https://github.com/flutter/packages/pull/7215) merged on August 7, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/7215) over 1 week, 706 additions and 150 deletions in 13 files</sub>

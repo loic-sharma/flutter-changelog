@@ -53,6 +53,3 @@
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
     <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153103) 79 additions and 1 deletion in 2 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Android tests with macOS host from staging to prod<br />
-    <sub>[#153113](https://github.com/flutter/flutter/pull/153113) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153113) 0 additions and 13 deletions in 1 file</sub><br />
-
