@@ -769,7 +769,7 @@
     <sub><details><summary>1 image...</summary><img width="2137" alt="Screenshot 2024-08-06 at 1 20 26 PM" src="https://github.com/user-attachments/assets/aed671c1-b7f7-4c9f-8553-485f8c0dd35e"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move aiks text tests to DL.
-    <sub>[#54293](https://github.com/flutter/engine/pull/54293) merged on August 8, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/54293) over 6 days, 953 additions and 825 deletions in 8 files</sub>
+    <sub>[#54293](https://github.com/flutter/engine/pull/54293) merged on August 8, 2024 &mdash; **Extra large:** [15 comments](https://github.com/flutter/engine/pull/54293) over 6 days, 953 additions and 825 deletions in 8 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] clean ups to platform view controller
