@@ -737,7 +737,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-17 commits.
+18 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Reorder pipeline construction in content context.<br />
     <sub>[#54373](https://github.com/flutter/engine/pull/54373) merged on August 6, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54373) over 1 hour, 25 additions and 19 deletions in 2 files</sub><br />
@@ -755,6 +755,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Statically check stage interfaces for precision mismatches.<br />
     <sub>[#54375](https://github.com/flutter/engine/pull/54375) merged on August 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54375) over 2 hours, 48 additions and 38 deletions in 9 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Fix FlutterMetalLayer testDealloc flakiness on iOS 18<br />
+    <sub>[#54403](https://github.com/flutter/engine/pull/54403) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54403) over 22 hours, 4 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make stage compatibility checker work with stages that have no inputs or outputs.<br />
     <sub>[#54406](https://github.com/flutter/engine/pull/54406) merged on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54406) over 55 minutes, 26 additions and 25 deletions in 2 files</sub><br />
