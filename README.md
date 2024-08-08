@@ -749,8 +749,8 @@
     <sub><details><summary>1 image...</summary><img width="2137" alt="Screenshot 2024-08-06 at 1 20 26 PM" src="https://github.com/user-attachments/assets/aed671c1-b7f7-4c9f-8553-485f8c0dd35e"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] clean ups to platform view controller<br />
-    <sub>[#54335](https://github.com/flutter/engine/pull/54335) merged on August 6, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/54335) over 3 days, 1039 additions and 937 deletions in 24 files</sub><br />
-    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+    <sub>[#54335](https://github.com/flutter/engine/pull/54335) merged on August 6, 2024 &mdash; **Extra large:** [26 comments](https://github.com/flutter/engine/pull/54335) over 3 days, 1039 additions and 937 deletions in 24 files</sub><br />
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] bulk update fresh glyph atlas.<br />
     <sub>[#54379](https://github.com/flutter/engine/pull/54379) merged on August 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54379) over 16 hours, 77 additions and 28 deletions in 1 file</sub><br />
@@ -777,7 +777,7 @@
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Bundle dSYM packages in Flutter.xcframework<br />
-    <sub>[#54414](https://github.com/flutter/engine/pull/54414) merged on August 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54414) over 18 hours, 32 additions and 15 deletions in 2 files</sub><br />
+    <sub>[#54414](https://github.com/flutter/engine/pull/54414) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54414) over 18 hours, 32 additions and 15 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] workaround for HC bug.<br />
