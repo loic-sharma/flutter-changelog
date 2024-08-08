@@ -30,7 +30,7 @@
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[James Kerber](https://github.com/kerberjg)** &mdash; Set default Cupertino `primaryContrastingColor` to white<br />
-    <sub>[#153039](https://github.com/flutter/flutter/pull/153039) merged on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153039) over 5 hours, 15 additions and 11 deletions in 4 files</sub><br />
+    <sub>[#153039](https://github.com/flutter/flutter/pull/153039) merged on August 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153039) over 5 hours, 15 additions and 11 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
     <sub><details><summary>2 images...</summary><img width="594" alt="image" src="https://github.com/user-attachments/assets/63e88abb-6933-446f-a7ba-55109d0f353c"><img width="594" alt="image" src="https://github.com/user-attachments/assets/2a48f22b-a886-46dd-aada-6d157cb4ac06"></details></sub>
 
@@ -1239,7 +1239,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-20 commits.
+21 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Marker clustering support<br />
     <sub>[#4319](https://github.com/flutter/packages/pull/4319) merged on August 7, 2024 &mdash; **Large:** [145 comments](https://github.com/flutter/packages/pull/4319) over 13 months, 642 additions and 2 deletions in 11 files</sub><br />
@@ -1257,6 +1257,11 @@
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Add marker clustering support - iOS implementation<br />
     <sub>[#6186](https://github.com/flutter/packages/pull/6186) merged on August 6, 2024 &mdash; **Extra large:** [109 comments](https://github.com/flutter/packages/pull/6186) over 5 months, 1585 additions and 96 deletions in 32 files</sub><br />
     <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Hamlet Jiang Su](https://github.com/hjiangsu)** &mdash; [flutter_markdown] Fix table column alignment<br />
+    <sub>[#7327](https://github.com/flutter/packages/pull/7327) merged on August 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7327) over 1 day, 31 additions and 3 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="375" alt="image" src="https://github.com/user-attachments/assets/e10c0f2b-1c6b-439c-b352-ae6447605f35"><img width="379" alt="image" src="https://github.com/user-attachments/assets/75ca4c7a-6454-4892-86c5-fec121061a58"></details></sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Endorse macOS<br />
     <sub>[#7274](https://github.com/flutter/packages/pull/7274) merged on August 6, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7274) over 5 days, 1362 additions and 5 deletions in 30 files</sub><br />
