@@ -753,7 +753,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-23 commits.
+24 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store<br />
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub><br />
@@ -795,6 +795,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes<br />
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Detect animated WebP images<br />
+    <sub>[#54418](https://github.com/flutter/engine/pull/54418) merged on August 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54418) over 22 hours, 168 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] perform final blit and gpu end frame tracing earlier.<br />
     <sub>[#54452](https://github.com/flutter/engine/pull/54452) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54452) over 57 minutes, 39 additions and 6 deletions in 3 files</sub><br />
