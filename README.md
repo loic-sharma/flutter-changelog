@@ -1242,7 +1242,7 @@
 21 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Marker clustering support<br />
-    <sub>[#4319](https://github.com/flutter/packages/pull/4319) merged on August 7, 2024 &mdash; **Large:** [149 comments](https://github.com/flutter/packages/pull/4319) over 13 months, 642 additions and 2 deletions in 11 files</sub><br />
+    <sub>[#4319](https://github.com/flutter/packages/pull/4319) merged on August 7, 2024 &mdash; **Large:** [151 comments](https://github.com/flutter/packages/pull/4319) over 13 months, 642 additions and 2 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Ville Välimaa](https://github.com/illuminati1911), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
     <sub><details><summary>3 images...</summary>![image](https://github.com/flutter/packages/assets/5219613/09b84a8e-f05b-4c71-8808-4043a25201f6)![image](https://github.com/flutter/packages/assets/5219613/0859cf12-2e8c-4106-b7a7-cd4922a7dd1e)![image](https://github.com/flutter/packages/assets/5219613/9269d22a-1908-4c2c-a1ab-70addb06d0f2)</details></sub>
 
