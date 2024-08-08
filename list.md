@@ -753,7 +753,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-22 commits.
+23 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub>
@@ -763,6 +763,10 @@
     <sub>[#54373](https://github.com/flutter/engine/pull/54373) merged on August 6, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54373) over 1 hour, 25 additions and 19 deletions in 2 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub>
     <sub><details><summary>1 image...</summary><img width="2137" alt="Screenshot 2024-08-06 at 1 20 26 PM" src="https://github.com/user-attachments/assets/aed671c1-b7f7-4c9f-8553-485f8c0dd35e"></details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move aiks text tests to DL.
+    <sub>[#54293](https://github.com/flutter/engine/pull/54293) merged on August 8, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/54293) over 6 days, 953 additions and 825 deletions in 8 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] clean ups to platform view controller
     <sub>[#54335](https://github.com/flutter/engine/pull/54335) merged on August 6, 2024 &mdash; **Extra large:** [26 comments](https://github.com/flutter/engine/pull/54335) over 3 days, 1039 additions and 937 deletions in 24 files</sub>
