@@ -56,3 +56,6 @@
 * **[Elijah Luckey](https://github.com/Luckey-Elijah)** &mdash; `OverlayPortalController` implements `Listenable`<br />
     <sub>[#153056](https://github.com/flutter/flutter/pull/153056) opened on on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153056) 101 additions and 1 deletion in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Expose affixes icon constraints in InputDecorationTheme<br />
+    <sub>[#153089](https://github.com/flutter/flutter/pull/153089) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153089) 105 additions and 16 deletions in 2 files</sub><br />
+
