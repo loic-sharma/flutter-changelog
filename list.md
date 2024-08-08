@@ -765,7 +765,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix FlutterMetalLayer testDealloc flakiness on iOS 18
-    <sub>[#54403](https://github.com/flutter/engine/pull/54403) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54403) over 22 hours, 4 additions and 1 deletion in 1 file</sub>
+    <sub>[#54403](https://github.com/flutter/engine/pull/54403) merged on August 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54403) over 22 hours, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make stage compatibility checker work with stages that have no inputs or outputs.
