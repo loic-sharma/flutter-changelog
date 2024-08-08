@@ -2,9 +2,6 @@
 
 ## flutter/flutter
 
-* **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Prevent full rebuilds when rerunning `flutter test`.<br />
-    <sub>[#140284](https://github.com/flutter/flutter/pull/140284) opened on on December 17, 2023 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/140284) 156 additions and 13 deletions in 5 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression<br />
     <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/149201) 929 additions and 0 deletions in 1 file</sub><br />
 
@@ -55,4 +52,7 @@
 
 * **[Moon Jonghwan](https://github.com/enihsgnir)** &mdash; Fix unhandled exception in `Image` widget while `TickerMode` is changing<br />
     <sub>[#153097](https://github.com/flutter/flutter/pull/153097) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153097) 54 additions and 2 deletions in 2 files</sub><br />
+
+* **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
+    <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153103) 75 additions and 1 deletion in 2 files</sub><br />
 
