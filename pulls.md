@@ -56,3 +56,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Change flutter_build_with_compilation_error_test to check stdout or stderr<br />
     <sub>[#153116](https://github.com/flutter/flutter/pull/153116) opened on on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153116) 9 additions and 7 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add xcresulttool --legacy flag for deprecated usage<br />
+    <sub>[#153117](https://github.com/flutter/flutter/pull/153117) opened on on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153117) 28 additions and 3 deletions in 2 files</sub><br />
+

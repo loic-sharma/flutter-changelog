@@ -741,7 +741,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-18 commits.
+19 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Reorder pipeline construction in content context.<br />
     <sub>[#54373](https://github.com/flutter/engine/pull/54373) merged on August 6, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54373) over 1 hour, 25 additions and 19 deletions in 2 files</sub><br />
@@ -775,6 +775,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes<br />
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix include of GrVkImageInfo header for the Fuchsia build<br />
+    <sub>[#54449](https://github.com/flutter/engine/pull/54449) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54449) over 44 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Bundle dSYM packages in Flutter.xcframework<br />
     <sub>[#54414](https://github.com/flutter/engine/pull/54414) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54414) over 18 hours, 32 additions and 15 deletions in 2 files</sub><br />
