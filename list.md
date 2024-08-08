@@ -1299,7 +1299,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-23 commits.
+24 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Marker clustering support
     <sub>[#4319](https://github.com/flutter/packages/pull/4319) merged on August 7, 2024 &mdash; **Large:** [152 comments](https://github.com/flutter/packages/pull/4319) over 13 months, 642 additions and 2 deletions in 11 files</sub>
@@ -1388,6 +1388,10 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from b0850beeb25f to 80c2e84975bb (1397 revisions)
     <sub>[#7322](https://github.com/flutter/packages/pull/7322) merged on August 7, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7322) over 20 hours, 5 additions and 9 deletions in 4 files</sub>
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [google_maps] remove Impeller opt out.
+    <sub>[#7346](https://github.com/flutter/packages/pull/7346) merged on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7346) over 46 minutes, 0 additions and 4 deletions in 1 file</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fix names of unit tests
     <sub>[#7336](https://github.com/flutter/packages/pull/7336) merged on August 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7336) over 7 hours, 84 additions and 6 deletions in 6 files</sub>
