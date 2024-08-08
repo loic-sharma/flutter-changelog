@@ -745,7 +745,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-20 commits.
+21 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store<br />
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub><br />
@@ -769,7 +769,7 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix FlutterMetalLayer testDealloc flakiness on iOS 18<br />
-    <sub>[#54403](https://github.com/flutter/engine/pull/54403) merged on August 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54403) over 22 hours, 4 additions and 1 deletion in 1 file</sub><br />
+    <sub>[#54403](https://github.com/flutter/engine/pull/54403) merged on August 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54403) over 22 hours, 4 additions and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make stage compatibility checker work with stages that have no inputs or outputs.<br />
@@ -783,6 +783,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes<br />
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] perform final blit and gpu end frame tracing earlier.<br />
+    <sub>[#54452](https://github.com/flutter/engine/pull/54452) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54452) over 57 minutes, 39 additions and 6 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix include of GrVkImageInfo header for the Fuchsia build<br />
     <sub>[#54449](https://github.com/flutter/engine/pull/54449) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54449) over 44 minutes, 1 addition and 0 deletions in 1 file</sub><br />
