@@ -8,12 +8,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] make flutter create use --offline in SPM integration tests<br />
     <sub>[#150737](https://github.com/flutter/flutter/pull/150737) opened on on June 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/150737) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][tool] when writing to openssl as a part of macOS/iOS code-signing, flush the stdin stream before closing it<br />
-    <sub>[#151014](https://github.com/flutter/flutter/pull/151014) opened on on June 28, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/151014) 166 additions and 7 deletions in 5 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Use `ErrorHandlingFileSystem.deleteIfExists` when deleting .plugin_symlinks<br />
-    <sub>[#151184](https://github.com/flutter/flutter/pull/151184) opened on on July 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/151184) 75 additions and 6 deletions in 4 files</sub><br />
-
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
     <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151585) 44 additions and 1 deletion in 2 files</sub><br />
 
@@ -40,9 +34,6 @@
 
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog<br />
     <sub>[#152637](https://github.com/flutter/flutter/pull/152637) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152637) 16 additions and 0 deletions in 2 files</sub><br />
-
-* **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; Enable client entitlement in macOS template<br />
-    <sub>[#152822](https://github.com/flutter/flutter/pull/152822) opened on on August 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152822) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
     <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
