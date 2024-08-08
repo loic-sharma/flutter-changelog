@@ -741,7 +741,11 @@
 
 ### August 3, 2024 to August 9, 2024
 
-19 commits.
+20 commits.
+
+* **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store<br />
+    <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Reorder pipeline construction in content context.<br />
     <sub>[#54373](https://github.com/flutter/engine/pull/54373) merged on August 6, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54373) over 1 hour, 25 additions and 19 deletions in 2 files</sub><br />
