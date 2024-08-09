@@ -56,15 +56,9 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Change the documentation location of `@_debugOnly` in `framework.dart` to be more visible to IDE.<br />
     <sub>[#153134](https://github.com/flutter/flutter/pull/153134) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153134) 10 additions and 10 deletions in 1 file</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Speculatively try newer avd_cipd_version<br />
-    <sub>[#153161](https://github.com/flutter/flutter/pull/153161) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153161) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Heath Dunlop](https://github.com/dunatron)** &mdash; allow child onTap to work<br />
     <sub>[#153162](https://github.com/flutter/flutter/pull/153162) opened on on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153162) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Also run Linux_android_emu tests on API level 34 image<br />
     <sub>[#153175](https://github.com/flutter/flutter/pull/153175) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153175) 63 additions and 0 deletions in 1 file</sub><br />
-
-* **[Joe Kawai](https://github.com/kawaijoe)** &mdash; Add `TextHeightBehavior` argument for `DefaultTextStyle.merge`<br />
-    <sub>[#153178](https://github.com/flutter/flutter/pull/153178) opened on on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153178) 2 additions and 0 deletions in 1 file</sub><br />
 
