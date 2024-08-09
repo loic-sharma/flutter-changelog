@@ -816,6 +816,10 @@
     <sub>[#53964](https://github.com/flutter/engine/pull/53964) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53964) over 2 weeks, 31 additions and 17 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Detect animated WebP images<br />
+    <sub>[#54418](https://github.com/flutter/engine/pull/54418) merged on August 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/54418) over 22 hours, 168 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes<br />
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -823,10 +827,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Rename Flutter.dSYM to Flutter.framework.dSYM<br />
     <sub>[#54458](https://github.com/flutter/engine/pull/54458) merged on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54458) over 51 minutes, 19 additions and 4 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Detect animated WebP images<br />
-    <sub>[#54418](https://github.com/flutter/engine/pull/54418) merged on August 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54418) over 22 hours, 168 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] perform final blit and gpu end frame tracing earlier.<br />
     <sub>[#54452](https://github.com/flutter/engine/pull/54452) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54452) over 57 minutes, 39 additions and 6 deletions in 3 files</sub><br />
