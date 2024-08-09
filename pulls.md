@@ -57,5 +57,5 @@
     <sub>[#153134](https://github.com/flutter/flutter/pull/153134) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153134) 10 additions and 10 deletions in 1 file</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make ios_deploy_test.dart more robust<br />
-    <sub>[#153147](https://github.com/flutter/flutter/pull/153147) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153147) 10 additions and 12 deletions in 1 file</sub><br />
+    <sub>[#153147](https://github.com/flutter/flutter/pull/153147) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153147) 10 additions and 12 deletions in 1 file</sub><br />
 
