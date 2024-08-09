@@ -62,9 +62,6 @@
 * **[Heath Dunlop](https://github.com/dunatron)** &mdash; allow child onTap to work<br />
     <sub>[#153162](https://github.com/flutter/flutter/pull/153162) opened on on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153162) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Fix tests expectations regarding new lines.<br />
-    <sub>[#153174](https://github.com/flutter/flutter/pull/153174) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153174) 3 additions and 2 deletions in 2 files</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Also run Linux_android_emu tests on API level 34 image<br />
     <sub>[#153175](https://github.com/flutter/flutter/pull/153175) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153175) 63 additions and 0 deletions in 1 file</sub><br />
 

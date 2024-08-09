@@ -773,7 +773,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-27 commits.
+28 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store<br />
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub><br />
@@ -794,6 +794,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] bulk update fresh glyph atlas.<br />
     <sub>[#54379](https://github.com/flutter/engine/pull/54379) merged on August 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54379) over 16 hours, 77 additions and 28 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove scene3d support.<br />
+    <sub>[#54453](https://github.com/flutter/engine/pull/54453) merged on August 9, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/54453) over 21 hours, 5 additions and 6685 deletions in 97 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Statically check stage interfaces for precision mismatches.<br />
