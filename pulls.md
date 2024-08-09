@@ -65,3 +65,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Also run Linux_android_emu tests on API level 34 image<br />
     <sub>[#153175](https://github.com/flutter/flutter/pull/153175) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153175) 63 additions and 0 deletions in 1 file</sub><br />
 
+* **[Joe Kawai](https://github.com/kawaijoe)** &mdash; Add `TextHeightBehavior` argument for `DefaultTextStyle.merge`<br />
+    <sub>[#153178](https://github.com/flutter/flutter/pull/153178) opened on on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153178) 2 additions and 0 deletions in 1 file</sub><br />
+
