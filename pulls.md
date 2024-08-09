@@ -62,3 +62,6 @@
 * **[Heath Dunlop](https://github.com/dunatron)** &mdash; allow child onTap to work<br />
     <sub>[#153162](https://github.com/flutter/flutter/pull/153162) opened on on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153162) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Fix tests expectations regarding new lines.<br />
+    <sub>[#153174](https://github.com/flutter/flutter/pull/153174) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153174) 4 additions and 3 deletions in 3 files</sub><br />
+
