@@ -809,8 +809,8 @@
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Eric Seidel](https://github.com/eseidel)** &mdash;  Update pre-commit formatter to use java from repo rather than path.<br />
-    <sub>[#54450](https://github.com/flutter/engine/pull/54450) merged on August 9, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/54450) over 21 hours, 36 additions and 12 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+    <sub>[#54450](https://github.com/flutter/engine/pull/54450) merged on August 9, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/54450) over 21 hours, 36 additions and 12 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Gradle version in the engine<br />
     <sub>[#53964](https://github.com/flutter/engine/pull/53964) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53964) over 2 weeks, 31 additions and 17 deletions in 1 file</sub><br />
