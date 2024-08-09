@@ -781,7 +781,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-29 commits.
+30 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub>
@@ -843,6 +843,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Remove fml::size.
+    <sub>[#54476](https://github.com/flutter/engine/pull/54476) merged on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54476) over 57 minutes, 23 additions and 53 deletions in 11 files</sub>
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Rename Flutter.dSYM to Flutter.framework.dSYM
     <sub>[#54458](https://github.com/flutter/engine/pull/54458) merged on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54458) over 51 minutes, 19 additions and 4 deletions in 1 file</sub>

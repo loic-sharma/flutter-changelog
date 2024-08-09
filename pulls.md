@@ -62,3 +62,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Also run Linux_android_emu tests on API level 34 image<br />
     <sub>[#153175](https://github.com/flutter/flutter/pull/153175) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153175) 63 additions and 0 deletions in 1 file</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry tasks when adb reports that a device has gone offline unexpectedly<br />
+    <sub>[#153190](https://github.com/flutter/flutter/pull/153190) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153190) 44 additions and 6 deletions in 2 files</sub><br />
+
