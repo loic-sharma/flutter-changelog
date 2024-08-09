@@ -765,7 +765,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-24 commits.
+25 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store<br />
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub><br />
@@ -807,6 +807,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes<br />
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Rename Flutter.dSYM to Flutter.framework.dSYM<br />
+    <sub>[#54458](https://github.com/flutter/engine/pull/54458) merged on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54458) over 51 minutes, 19 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Detect animated WebP images<br />
     <sub>[#54418](https://github.com/flutter/engine/pull/54418) merged on August 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54418) over 22 hours, 168 additions and 4 deletions in 2 files</sub><br />
