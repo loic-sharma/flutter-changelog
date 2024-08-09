@@ -825,7 +825,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Detect animated WebP images
-    <sub>[#54418](https://github.com/flutter/engine/pull/54418) merged on August 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/54418) over 22 hours, 168 additions and 4 deletions in 2 files</sub>
+    <sub>[#54418](https://github.com/flutter/engine/pull/54418) merged on August 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54418) over 22 hours, 168 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Update platform node when AXNodeData role changes
