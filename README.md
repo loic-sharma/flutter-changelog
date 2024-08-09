@@ -4,7 +4,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-55 commits.
+56 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing<br />
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub><br />
@@ -106,6 +106,10 @@
     <sub>[#152073](https://github.com/flutter/flutter/pull/152073) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152073) over 2 weeks, 3 additions and 3 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift tests on moto g4 on Windows hosts to mokey in staging<br />
+    <sub>[#153167](https://github.com/flutter/flutter/pull/153167) merged on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153167) over 1 hour, 38 additions and 21 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make ios_deploy_test.dart more robust<br />
     <sub>[#153147](https://github.com/flutter/flutter/pull/153147) merged on August 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153147) over 3 hours, 10 additions and 12 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub><br />
@@ -134,49 +138,49 @@
     <sub>[#152642](https://github.com/flutter/flutter/pull/152642) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152642) over 1 week, 33 additions and 33 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Doc imports again<br />
-    <sub>[#152958](https://github.com/flutter/flutter/pull/152958) merged on August 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152958) over 22 hours, 32 additions and 6 deletions in 20 files</sub><br />
-    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pass --no-dds to some integration tests driven by flutter drive<br />
     <sub>[#152898](https://github.com/flutter/flutter/pull/152898) merged on August 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152898) over 6 hours, 4 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implement `on` clauses<br />
-    <sub>[#152706](https://github.com/flutter/flutter/pull/152706) merged on August 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152706) over 4 days, 22 additions and 36 deletions in 4 files</sub><br />
-    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump dartdoc to 8.0.13<br />
-    <sub>[#152896](https://github.com/flutter/flutter/pull/152896) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152896) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Linux_build_test tests from staging to prod<br />
-    <sub>[#152877](https://github.com/flutter/flutter/pull/152877) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152877) over 40 minutes, 0 additions and 3 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Linux_android_emu tests bringup: true<br />
-    <sub>[#152867](https://github.com/flutter/flutter/pull/152867) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152867) over 49 minutes, 4 additions and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update design languages triage link to exclude drafts<br />
     <sub>[#153027](https://github.com/flutter/flutter/pull/153027) merged on August 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153027) over 44 minutes, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add migration to git ignore SwiftPM build directories<br />
-    <sub>[#152766](https://github.com/flutter/flutter/pull/152766) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152766) over 2 days, 206 additions and 0 deletions in 7 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump dartdoc to 8.0.13<br />
+    <sub>[#152896](https://github.com/flutter/flutter/pull/152896) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152896) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix Linux_android_emu tests late initialization errors<br />
-    <sub>[#152932](https://github.com/flutter/flutter/pull/152932) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152932) over 6 hours, 39 additions and 37 deletions in 5 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Tirth](https://github.com/piedcipher)** &mdash; [API Examples] `scroll_direction.0_test.dart` & `growth_direction.0_test.dart`<br />
+    <sub>[#152941](https://github.com/flutter/flutter/pull/152941) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152941) over 3 hours, 0 additions and 2 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Linux_build_test tests from staging to prod<br />
+    <sub>[#152877](https://github.com/flutter/flutter/pull/152877) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152877) over 40 minutes, 0 additions and 3 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Doc imports again<br />
+    <sub>[#152958](https://github.com/flutter/flutter/pull/152958) merged on August 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152958) over 22 hours, 32 additions and 6 deletions in 20 files</sub><br />
+    <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implement `on` clauses<br />
+    <sub>[#152706](https://github.com/flutter/flutter/pull/152706) merged on August 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152706) over 4 days, 22 additions and 36 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] opt gallery benchmarks and platform view test into merged thread mode.<br />
     <sub>[#152940](https://github.com/flutter/flutter/pull/152940) merged on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152940) over 3 hours, 23 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; [API Examples] `scroll_direction.0_test.dart` & `growth_direction.0_test.dart`<br />
-    <sub>[#152941](https://github.com/flutter/flutter/pull/152941) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152941) over 3 hours, 0 additions and 2 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix Linux_android_emu tests late initialization errors<br />
+    <sub>[#152932](https://github.com/flutter/flutter/pull/152932) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152932) over 6 hours, 39 additions and 37 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add migration to git ignore SwiftPM build directories<br />
+    <sub>[#152766](https://github.com/flutter/flutter/pull/152766) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152766) over 2 days, 206 additions and 0 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Mark Linux_android_emu tests bringup: true<br />
+    <sub>[#152867](https://github.com/flutter/flutter/pull/152867) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152867) over 49 minutes, 4 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Clean up MenuAnchor<br />
     <sub>[#152946](https://github.com/flutter/flutter/pull/152946) merged on August 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152946) over 1 day, 119 additions and 137 deletions in 2 files</sub><br />
