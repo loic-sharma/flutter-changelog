@@ -107,7 +107,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make ios_deploy_test.dart more robust
-    <sub>[#153147](https://github.com/flutter/flutter/pull/153147) merged on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153147) over 3 hours, 10 additions and 12 deletions in 1 file</sub>
+    <sub>[#153147](https://github.com/flutter/flutter/pull/153147) merged on August 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153147) over 3 hours, 10 additions and 12 deletions in 1 file</sub>
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Re-enable dds for flutter drive tests that use DevTools
@@ -769,7 +769,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-25 commits.
+27 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub>
@@ -796,6 +796,10 @@
     <sub>[#54375](https://github.com/flutter/engine/pull/54375) merged on August 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54375) over 2 hours, 48 additions and 38 deletions in 9 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove swiftshader from the license script excludes list
+    <sub>[#54412](https://github.com/flutter/engine/pull/54412) merged on August 9, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54412) over 1 day, 834 additions and 5 deletions in 5 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix FlutterMetalLayer testDealloc flakiness on iOS 18
     <sub>[#54403](https://github.com/flutter/engine/pull/54403) merged on August 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54403) over 22 hours, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
@@ -803,6 +807,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make stage compatibility checker work with stages that have no inputs or outputs.
     <sub>[#54406](https://github.com/flutter/engine/pull/54406) merged on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54406) over 55 minutes, 26 additions and 25 deletions in 2 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Eric Seidel](https://github.com/eseidel)** &mdash;  Update pre-commit formatter to use java from repo rather than path.
+    <sub>[#54450](https://github.com/flutter/engine/pull/54450) merged on August 9, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/54450) over 21 hours, 36 additions and 12 deletions in 4 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Gradle version in the engine
     <sub>[#53964](https://github.com/flutter/engine/pull/53964) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/53964) over 2 weeks, 31 additions and 17 deletions in 1 file</sub>
