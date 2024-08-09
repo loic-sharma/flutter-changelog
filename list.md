@@ -1315,7 +1315,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-24 commits.
+25 commits.
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Marker clustering support
     <sub>[#4319](https://github.com/flutter/packages/pull/4319) merged on August 7, 2024 &mdash; **Large:** [152 comments](https://github.com/flutter/packages/pull/4319) over 13 months, 642 additions and 2 deletions in 11 files</sub>
@@ -1342,6 +1342,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Endorse macOS
     <sub>[#7274](https://github.com/flutter/packages/pull/7274) merged on August 6, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7274) over 5 days, 1362 additions and 5 deletions in 30 files</sub>
     <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for all `AdEventType`s and ad data
+    <sub>[#7287](https://github.com/flutter/packages/pull/7287) merged on August 9, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/7287) over 1 week, 1472 additions and 908 deletions in 25 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Converts map configuration and platform view creation params to Pigeon
     <sub>[#7207](https://github.com/flutter/packages/pull/7207) merged on August 8, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/packages/pull/7207) over 2 weeks, 3697 additions and 1252 deletions in 62 files</sub>
