@@ -60,5 +60,5 @@
     <sub>[#153161](https://github.com/flutter/flutter/pull/153161) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153161) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Heath Dunlop](https://github.com/dunatron)** &mdash; allow child onTap to work<br />
-    <sub>[#153162](https://github.com/flutter/flutter/pull/153162) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153162) 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>[#153162](https://github.com/flutter/flutter/pull/153162) opened on on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153162) 1 addition and 0 deletions in 1 file</sub><br />
 
