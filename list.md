@@ -111,7 +111,7 @@
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make ios_deploy_test.dart more robust
-    <sub>[#153147](https://github.com/flutter/flutter/pull/153147) merged on August 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153147) over 3 hours, 10 additions and 12 deletions in 1 file</sub>
+    <sub>[#153147](https://github.com/flutter/flutter/pull/153147) merged on August 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153147) over 3 hours, 10 additions and 12 deletions in 1 file</sub>
     <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Re-enable dds for flutter drive tests that use DevTools
