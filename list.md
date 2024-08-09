@@ -25,6 +25,11 @@
     <sub>[#150568](https://github.com/flutter/flutter/pull/150568) merged on August 8, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/150568) over 1 month, 80 additions and 4 deletions in 9 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[James Kerber](https://github.com/kerberjg)** &mdash; Set default Cupertino `primaryContrastingColor` to white
+    <sub>[#153039](https://github.com/flutter/flutter/pull/153039) merged on August 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153039) over 5 hours, 15 additions and 11 deletions in 4 files</sub>
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+    <sub><details><summary>2 images...</summary><img width="594" alt="image" src="https://github.com/user-attachments/assets/63e88abb-6933-446f-a7ba-55109d0f353c"><img width="594" alt="image" src="https://github.com/user-attachments/assets/2a48f22b-a886-46dd-aada-6d157cb4ac06"></details></sub>
+
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Style: Rename CupertinoSwitch activeColor and trackColor to activeTrackColor and InactiveTrackColor
     <sub>[#151367](https://github.com/flutter/flutter/pull/151367) merged on August 7, 2024 &mdash; **Small:** [52 comments](https://github.com/flutter/flutter/pull/151367) over 1 month, 175 additions and 11 deletions in 6 files</sub>
     <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
@@ -36,11 +41,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add fillColor property for cupertinoCheckbox
     <sub>[#151761](https://github.com/flutter/flutter/pull/151761) merged on August 6, 2024 &mdash; **Small:** [64 comments](https://github.com/flutter/flutter/pull/151761) over 3 weeks, 177 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[James Kerber](https://github.com/kerberjg)** &mdash; Set default Cupertino `primaryContrastingColor` to white
-    <sub>[#153039](https://github.com/flutter/flutter/pull/153039) merged on August 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153039) over 5 hours, 15 additions and 11 deletions in 4 files</sub>
-    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-    <sub><details><summary>2 images...</summary><img width="594" alt="image" src="https://github.com/user-attachments/assets/63e88abb-6933-446f-a7ba-55109d0f353c"><img width="594" alt="image" src="https://github.com/user-attachments/assets/2a48f22b-a886-46dd-aada-6d157cb4ac06"></details></sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] hide the --web-renderer option in the tool
     <sub>[#152683](https://github.com/flutter/flutter/pull/152683) merged on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/152683) over 6 days, 77 additions and 4 deletions in 3 files</sub>
