@@ -1442,7 +1442,7 @@
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [google_maps] remove Impeller opt out.
-    <sub>[#7346](https://github.com/flutter/packages/pull/7346) merged on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7346) over 46 minutes, 0 additions and 4 deletions in 1 file</sub>
+    <sub>[#7346](https://github.com/flutter/packages/pull/7346) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7346) over 46 minutes, 0 additions and 4 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fix names of unit tests
