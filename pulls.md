@@ -68,3 +68,6 @@
 * **[hangyu](https://github.com/hangyujin)** &mdash; Change flag internalAddSemanticForOnTap default value to true<br />
     <sub>[#153193](https://github.com/flutter/flutter/pull/153193) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153193) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; In native_assets_test, ignore a failure to delete a temp directory<br />
+    <sub>[#153223](https://github.com/flutter/flutter/pull/153223) opened on on August 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153223) 5 additions and 1 deletion in 1 file</sub><br />
+
