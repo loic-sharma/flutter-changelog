@@ -793,7 +793,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-31 commits.
+32 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub>
@@ -915,6 +915,10 @@
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Add SK_USE_LEGACY_BLUR_RASTER staging flag
     <sub>[#54314](https://github.com/flutter/engine/pull/54314) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54314) over 2 days, 1 addition and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Roll Dart SDK from 35bc5c866149 to cb89f7cad79c (1 revision) (#54474)"
+    <sub>[#54487](https://github.com/flutter/engine/pull/54487) merged on August 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54487) over 46 minutes, 4 additions and 4 deletions in 3 files</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland: Partial repaint platform views
     <sub>[#54231](https://github.com/flutter/engine/pull/54231) merged on August 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54231) over 1 week, 81 additions and 26 deletions in 9 files</sub>
