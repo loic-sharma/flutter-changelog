@@ -60,7 +60,7 @@
     <sub>[#153162](https://github.com/flutter/flutter/pull/153162) opened on on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153162) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry tasks when adb reports that a device has gone offline unexpectedly<br />
-    <sub>[#153190](https://github.com/flutter/flutter/pull/153190) opened on on August 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153190) 101 additions and 6 deletions in 4 files</sub><br />
+    <sub>[#153190](https://github.com/flutter/flutter/pull/153190) opened on on August 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153190) 101 additions and 6 deletions in 4 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Change flag internalAddSemanticForOnTap default value to true<br />
     <sub>[#153193](https://github.com/flutter/flutter/pull/153193) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153193) 1 addition and 1 deletion in 1 file</sub><br />
