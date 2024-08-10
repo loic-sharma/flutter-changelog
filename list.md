@@ -171,7 +171,7 @@
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Linux_build_test tests from staging to prod
-    <sub>[#152877](https://github.com/flutter/flutter/pull/152877) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152877) over 40 minutes, 0 additions and 3 deletions in 1 file</sub>
+    <sub>[#152877](https://github.com/flutter/flutter/pull/152877) merged on August 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152877) over 40 minutes, 0 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add migration to git ignore SwiftPM build directories
@@ -387,7 +387,7 @@
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix device_os requested in linux_build_test tests
-    <sub>[#152808](https://github.com/flutter/flutter/pull/152808) merged on August 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152808) over 3 hours, 3 additions and 3 deletions in 1 file</sub>
+    <sub>[#152808](https://github.com/flutter/flutter/pull/152808) merged on August 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152808) over 3 hours, 3 additions and 3 deletions in 1 file</sub>
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Fix misunderstanding of properties vs. drone_dimensions in Linux_build_tests
