@@ -53,7 +53,7 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update TextTheme with the M3 Typography tokens<br />
     <sub>[#153131](https://github.com/flutter/flutter/pull/153131) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153131) 23 additions and 1 deletion in 1 file</sub><br />
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Change the documentation location of `@_debugOnly` in `framework.dart` to be more visible to IDE.<br />
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Move `@_debugOnly` documentation in `framework.dart` to be more visible to IDE.<br />
     <sub>[#153134](https://github.com/flutter/flutter/pull/153134) opened on on August 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153134) 10 additions and 10 deletions in 1 file</sub><br />
 
 * **[Heath Dunlop](https://github.com/dunatron)** &mdash; allow child onTap to work<br />
