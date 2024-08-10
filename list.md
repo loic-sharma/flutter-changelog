@@ -805,7 +805,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-34 commits.
+35 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub>
@@ -872,6 +872,10 @@
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Rename create_{full_,}ios_framework.py
+    <sub>[#54493](https://github.com/flutter/engine/pull/54493) merged on August 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54493) over 57 minutes, 18 additions and 14 deletions in 6 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Do not archive/upload Flutter.dSYM to cloud
     <sub>[#54492](https://github.com/flutter/engine/pull/54492) merged on August 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54492) over 53 minutes, 0 additions and 30 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -892,13 +896,9 @@
     <sub>[#54452](https://github.com/flutter/engine/pull/54452) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54452) over 57 minutes, 39 additions and 6 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update pubspec.yaml for package:flutter_gpu
-    <sub>[#54345](https://github.com/flutter/engine/pull/54345) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54345) over 19 hours, 2 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Bundle dSYM packages in Flutter.xcframework
-    <sub>[#54414](https://github.com/flutter/engine/pull/54414) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54414) over 18 hours, 32 additions and 15 deletions in 2 files</sub>
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix include of GrVkImageInfo header for the Fuchsia build
+    <sub>[#54449](https://github.com/flutter/engine/pull/54449) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54449) over 44 minutes, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] workaround for HC bug.
     <sub>[#54408](https://github.com/flutter/engine/pull/54408) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54408) over 3 hours, 14 additions and 20 deletions in 2 files</sub>
@@ -920,17 +920,21 @@
     <sub>[#54372](https://github.com/flutter/engine/pull/54372) merged on August 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54372) over 1 hour, 4 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix include of GrVkImageInfo header for the Fuchsia build
-    <sub>[#54449](https://github.com/flutter/engine/pull/54449) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54449) over 44 minutes, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update pubspec.yaml for package:flutter_gpu
+    <sub>[#54345](https://github.com/flutter/engine/pull/54345) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54345) over 19 hours, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a precision to the fragment shader
-    <sub>[#54109](https://github.com/flutter/engine/pull/54109) merged on August 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54109) over 2 weeks, 4 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Harlen Batagelo](https://github.com/hbatagelo), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Bundle dSYM packages in Flutter.xcframework
+    <sub>[#54414](https://github.com/flutter/engine/pull/54414) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54414) over 18 hours, 32 additions and 15 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Update Flutter-GPU.md
     <sub>[#54366](https://github.com/flutter/engine/pull/54366) merged on August 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54366) over 39 minutes, 34 additions and 40 deletions in 1 file</sub>
     <sub>Reviewed by: [Michael Thomsen](https://github.com/mit-mit)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a precision to the fragment shader
+    <sub>[#54109](https://github.com/flutter/engine/pull/54109) merged on August 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54109) over 2 weeks, 4 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Harlen Batagelo](https://github.com/hbatagelo), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Add SK_USE_LEGACY_BLUR_RASTER staging flag
     <sub>[#54314](https://github.com/flutter/engine/pull/54314) merged on August 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54314) over 2 days, 1 addition and 0 deletions in 1 file</sub>
