@@ -805,7 +805,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-33 commits.
+34 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub>
@@ -840,6 +840,10 @@
     <sub>[#54375](https://github.com/flutter/engine/pull/54375) merged on August 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54375) over 2 hours, 48 additions and 38 deletions in 9 files</sub>
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make stage compatibility checker work with stages that have no inputs or outputs.
+    <sub>[#54406](https://github.com/flutter/engine/pull/54406) merged on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54406) over 55 minutes, 26 additions and 25 deletions in 2 files</sub>
+    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove swiftshader from the license script excludes list
     <sub>[#54412](https://github.com/flutter/engine/pull/54412) merged on August 9, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54412) over 1 day, 834 additions and 5 deletions in 5 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -848,9 +852,9 @@
     <sub>[#54403](https://github.com/flutter/engine/pull/54403) merged on August 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54403) over 22 hours, 4 additions and 1 deletion in 1 file</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Make stage compatibility checker work with stages that have no inputs or outputs.
-    <sub>[#54406](https://github.com/flutter/engine/pull/54406) merged on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54406) over 55 minutes, 26 additions and 25 deletions in 2 files</sub>
-    <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] migrate blend tests to DL.
+    <sub>[#54457](https://github.com/flutter/engine/pull/54457) merged on August 10, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/54457) over 1 day, 918 additions and 728 deletions in 11 files</sub>
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Eric Seidel](https://github.com/eseidel)** &mdash;  Update pre-commit formatter to use java from repo rather than path.
     <sub>[#54450](https://github.com/flutter/engine/pull/54450) merged on August 9, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/54450) over 21 hours, 36 additions and 12 deletions in 4 files</sub>
@@ -888,9 +892,9 @@
     <sub>[#54452](https://github.com/flutter/engine/pull/54452) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54452) over 57 minutes, 39 additions and 6 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix include of GrVkImageInfo header for the Fuchsia build
-    <sub>[#54449](https://github.com/flutter/engine/pull/54449) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54449) over 44 minutes, 1 addition and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update pubspec.yaml for package:flutter_gpu
+    <sub>[#54345](https://github.com/flutter/engine/pull/54345) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54345) over 19 hours, 2 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Bundle dSYM packages in Flutter.xcframework
     <sub>[#54414](https://github.com/flutter/engine/pull/54414) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54414) over 18 hours, 32 additions and 15 deletions in 2 files</sub>
@@ -916,9 +920,9 @@
     <sub>[#54372](https://github.com/flutter/engine/pull/54372) merged on August 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54372) over 1 hour, 4 additions and 4 deletions in 2 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update pubspec.yaml for package:flutter_gpu
-    <sub>[#54345](https://github.com/flutter/engine/pull/54345) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54345) over 19 hours, 2 additions and 1 deletion in 1 file</sub>
-    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix include of GrVkImageInfo header for the Fuchsia build
+    <sub>[#54449](https://github.com/flutter/engine/pull/54449) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54449) over 44 minutes, 1 addition and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add a precision to the fragment shader
     <sub>[#54109](https://github.com/flutter/engine/pull/54109) merged on August 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54109) over 2 weeks, 4 additions and 0 deletions in 1 file</sub>
