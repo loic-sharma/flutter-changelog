@@ -805,7 +805,7 @@
 
 ### August 3, 2024 to August 9, 2024
 
-36 commits.
+37 commits.
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store<br />
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub><br />
@@ -872,6 +872,10 @@
     <sub>[#54364](https://github.com/flutter/engine/pull/54364) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54364) over 5 hours, 121 additions and 4 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete unused aiks PictureRecorder.<br />
+    <sub>[#54495](https://github.com/flutter/engine/pull/54495) merged on August 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54495) over 1 day, 0 additions and 58 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,docs: Update iOS symbolication docs<br />
     <sub>[#54494](https://github.com/flutter/engine/pull/54494) merged on August 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54494) over 42 minutes, 22 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -892,9 +896,9 @@
     <sub>[#54476](https://github.com/flutter/engine/pull/54476) merged on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54476) over 57 minutes, 23 additions and 53 deletions in 11 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Rename Flutter.dSYM to Flutter.framework.dSYM<br />
-    <sub>[#54458](https://github.com/flutter/engine/pull/54458) merged on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54458) over 51 minutes, 19 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure precision matches for buggy vulkan drivers.<br />
+    <sub>[#54372](https://github.com/flutter/engine/pull/54372) merged on August 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54372) over 1 hour, 4 additions and 4 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update pubspec.yaml for package:flutter_gpu<br />
     <sub>[#54345](https://github.com/flutter/engine/pull/54345) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54345) over 19 hours, 2 additions and 1 deletion in 1 file</sub><br />
@@ -920,9 +924,9 @@
     <sub>[#54384](https://github.com/flutter/engine/pull/54384) merged on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54384) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure precision matches for buggy vulkan drivers.<br />
-    <sub>[#54372](https://github.com/flutter/engine/pull/54372) merged on August 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54372) over 1 hour, 4 additions and 4 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Rename Flutter.dSYM to Flutter.framework.dSYM<br />
+    <sub>[#54458](https://github.com/flutter/engine/pull/54458) merged on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54458) over 51 minutes, 19 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] perform final blit and gpu end frame tracing earlier.<br />
     <sub>[#54452](https://github.com/flutter/engine/pull/54452) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54452) over 57 minutes, 39 additions and 6 deletions in 3 files</sub><br />
