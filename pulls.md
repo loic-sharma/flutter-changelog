@@ -74,3 +74,6 @@
 * **[zhengzeqin](https://github.com/zeqinjie)** &mdash; Fix broken text field with set hint and min and max lines(#153183)<br />
     <sub>[#153235](https://github.com/flutter/flutter/pull/153235) opened on on August 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153235) 35 additions and 1 deletion in 4 files</sub><br />
 
+* **[Todd Volkert](https://github.com/tvolkert)** &mdash; Add new assert and verbosity to existing assert<br />
+    <sub>[#153248](https://github.com/flutter/flutter/pull/153248) opened on on August 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153248) 17 additions and 2 deletions in 2 files</sub><br />
+
