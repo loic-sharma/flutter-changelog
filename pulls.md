@@ -80,3 +80,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [CP Stable] Emit source maps for wasm in `flutter build web --wasm` (#151643)<br />
     <sub>[#153310](https://github.com/flutter/flutter/pull/153310) opened on on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153310) 74 additions and 60 deletions in 4 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][iOS] Copy Flutter.framework.dSYM into app archive<br />
+    <sub>[#153322](https://github.com/flutter/flutter/pull/153322) opened on on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153322) 159 additions and 12 deletions in 3 files</sub><br />
+
