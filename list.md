@@ -7,7 +7,7 @@
 5 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)
-    <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [48 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub>
+    <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub>
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
     <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/0985eb19-c091-41f5-bd98-0de196b7e403)![image](https://github.com/user-attachments/assets/d671d7b4-bb2f-4b38-9464-ee1b04927304)</details></sub>
 
@@ -599,7 +599,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-3 commits.
+4 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve texture format logic
     <sub>[#54329](https://github.com/flutter/engine/pull/54329) merged on August 12, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/54329) over 1 week, 50 additions and 23 deletions in 3 files</sub>
@@ -608,6 +608,10 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Fix crash in attributedSubstringForProposedRange with out of bounds range
     <sub>[#54469](https://github.com/flutter/engine/pull/54469) merged on August 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54469) over 3 days, 53 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Clean up create_ios_framework.py
+    <sub>[#54500](https://github.com/flutter/engine/pull/54500) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54500) over 16 hours, 137 additions and 101 deletions in 3 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[Impeller] remove scene3d support."
     <sub>[#54502](https://github.com/flutter/engine/pull/54502) merged on August 12, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/54502) over 10 hours, 6685 additions and 5 deletions in 97 files</sub>
@@ -628,7 +632,7 @@
     <sub><details><summary>1 image...</summary><img width="2137" alt="Screenshot 2024-08-06 at 1 20 26 PM" src="https://github.com/user-attachments/assets/aed671c1-b7f7-4c9f-8553-485f8c0dd35e"></details></sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add FAQ entries.
-    <sub>[#54456](https://github.com/flutter/engine/pull/54456) merged on August 9, 2024 &mdash; **Small:** [115 comments](https://github.com/flutter/engine/pull/54456) over 21 hours, 136 additions and 0 deletions in 1 file</sub>
+    <sub>[#54456](https://github.com/flutter/engine/pull/54456) merged on August 9, 2024 &mdash; **Small:** [116 comments](https://github.com/flutter/engine/pull/54456) over 21 hours, 136 additions and 0 deletions in 1 file</sub>
     <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams), [Michael Thomsen](https://github.com/mit-mit)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move aiks text tests to DL.
