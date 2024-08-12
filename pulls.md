@@ -75,5 +75,5 @@
     <sub>[#153294](https://github.com/flutter/flutter/pull/153294) opened on on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153294) 33 additions and 2 deletions in 2 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Cherry-pick: Emit source maps for wasm in `flutter build web --wasm` (#151643)<br />
-    <sub>[#153307](https://github.com/flutter/flutter/pull/153307) opened on on August 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/153307) 290 additions and 86 deletions in 12 files</sub><br />
+    <sub>[#153307](https://github.com/flutter/flutter/pull/153307) opened on on August 12, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/153307) 290 additions and 86 deletions in 12 files</sub><br />
 

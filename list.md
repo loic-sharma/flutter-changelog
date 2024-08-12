@@ -4,7 +4,12 @@
 
 ### August 10, 2024 to August 16, 2024
 
-3 commits.
+4 commits.
+
+* **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)
+    <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [48 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub>
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
+    <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/0985eb19-c091-41f5-bd98-0de196b7e403)![image](https://github.com/user-attachments/assets/d671d7b4-bb2f-4b38-9464-ee1b04927304)</details></sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Deprecate inactiveColor from cupertino checkbox
     <sub>[#152981](https://github.com/flutter/flutter/pull/152981) merged on August 12, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/152981) over 5 days, 107 additions and 6 deletions in 4 files</sub>
