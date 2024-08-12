@@ -599,7 +599,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove scene3d support.<br />
-    <sub>[#54453](https://github.com/flutter/engine/pull/54453) merged on August 9, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/54453) over 21 hours, 5 additions and 6685 deletions in 97 files</sub><br />
+    <sub>[#54453](https://github.com/flutter/engine/pull/54453) merged on August 9, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/54453) over 21 hours, 5 additions and 6685 deletions in 97 files</sub><br />
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Statically check stage interfaces for precision mismatches.<br />
