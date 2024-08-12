@@ -569,9 +569,18 @@
 
 ## flutter/engine
 
+### August 10, 2024 to August 16, 2024
+
+1 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[Impeller] remove scene3d support."<br />
+    <sub>[#54502](https://github.com/flutter/engine/pull/54502) merged on August 12, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/54502) over 10 hours, 6685 additions and 5 deletions in 97 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 ### August 3, 2024 to August 9, 2024
 
-37 commits.
+<details>
+<summary>37 commits...</summary>
 
 * **[Hannes Winkler](https://github.com/ardera)** &mdash; Add EGL Surface backing store<br />
     <sub>[#43683](https://github.com/flutter/engine/pull/43683) merged on August 8, 2024 &mdash; **Large:** [56 comments](https://github.com/flutter/engine/pull/43683) over 13 months, 936 additions and 155 deletions in 19 files</sub><br />
@@ -721,6 +730,8 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland: Partial repaint platform views<br />
     <sub>[#54231](https://github.com/flutter/engine/pull/54231) merged on August 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54231) over 1 week, 81 additions and 26 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+</details>
 
 ### July 27, 2024 to August 2, 2024
 
