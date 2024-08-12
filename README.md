@@ -930,9 +930,22 @@
 
 ## flutter/packages
 
+### August 10, 2024 to August 16, 2024
+
+2 commits.
+
+* **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Add expanded and extra large breakpoints<br />
+    <sub>[#7300](https://github.com/flutter/packages/pull/7300) merged on August 12, 2024 &mdash; **Extra large:** [51 comments](https://github.com/flutter/packages/pull/7300) over 1 week, 1299 additions and 217 deletions in 17 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Fernando Trigoso](https://github.com/fertrig)** &mdash; [shared_preferences] Fixes get-all when suite name is used<br />
+    <sub>[#7335](https://github.com/flutter/packages/pull/7335) merged on August 12, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/7335) over 4 days, 97 additions and 2 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 ### August 3, 2024 to August 9, 2024
 
-26 commits.
+<details>
+<summary>26 commits...</summary>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Marker clustering support<br />
     <sub>[#4319](https://github.com/flutter/packages/pull/4319) merged on August 7, 2024 &mdash; **Large:** [152 comments](https://github.com/flutter/packages/pull/4319) over 13 months, 642 additions and 2 deletions in 11 files</sub><br />
@@ -1041,6 +1054,8 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [pointer_interceptor] Add performance warning on using pointer interceptor on iOS<br />
     <sub>[#7288](https://github.com/flutter/packages/pull/7288) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7288) over 3 days, 5 additions and 2 deletions in 3 files</sub><br />
     <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+</details>
 
 ### July 27, 2024 to August 2, 2024
 
