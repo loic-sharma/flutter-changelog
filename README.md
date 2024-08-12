@@ -578,7 +578,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Fix crash in attributedSubstringForProposedRange with out of bounds range<br />
-    <sub>[#54469](https://github.com/flutter/engine/pull/54469) merged on August 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54469) over 3 days, 53 additions and 1 deletion in 2 files</sub><br />
+    <sub>[#54469](https://github.com/flutter/engine/pull/54469) merged on August 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54469) over 3 days, 53 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[Impeller] remove scene3d support."<br />
