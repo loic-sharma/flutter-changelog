@@ -2,9 +2,22 @@
 
 ## flutter/flutter
 
+### August 10, 2024 to August 16, 2024
+
+2 commits.
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Deprecate inactiveColor from cupertino checkbox<br />
+    <sub>[#152981](https://github.com/flutter/flutter/pull/152981) merged on August 12, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/152981) over 5 days, 107 additions and 6 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade module template AGP version<br />
+    <sub>[#151675](https://github.com/flutter/flutter/pull/151675) merged on August 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151675) over 1 month, 17 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### August 3, 2024 to August 9, 2024
 
-64 commits.
+<details>
+<summary>64 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `double` `Flex.spacing` parameter for `Row`/`Column` spacing<br />
     <sub>[#152472](https://github.com/flutter/flutter/pull/152472) merged on August 5, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/flutter/pull/152472) over 1 week, 617 additions and 18 deletions in 4 files</sub><br />
@@ -265,6 +278,8 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac integration_ui_test_test_macos to be flaky<br />
     <sub>[#152213](https://github.com/flutter/flutter/pull/152213) merged on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152213) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+</details>
 
 ### July 27, 2024 to August 2, 2024
 
