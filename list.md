@@ -606,7 +606,7 @@
 6 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve texture format logic
-    <sub>[#54329](https://github.com/flutter/engine/pull/54329) merged on August 12, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/54329) over 1 week, 50 additions and 23 deletions in 3 files</sub>
+    <sub>[#54329](https://github.com/flutter/engine/pull/54329) merged on August 12, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/54329) over 1 week, 50 additions and 23 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Fix crash in attributedSubstringForProposedRange with out of bounds range
