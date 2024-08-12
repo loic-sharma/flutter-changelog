@@ -74,3 +74,6 @@
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; added enabled to search anchor<br />
     <sub>[#153256](https://github.com/flutter/flutter/pull/153256) opened on on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153256) 72 additions and 4 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Handle a SocketException thrown when sending the browser close command to Chrome<br />
+    <sub>[#153294](https://github.com/flutter/flutter/pull/153294) opened on on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153294) 33 additions and 2 deletions in 2 files</sub><br />
+
