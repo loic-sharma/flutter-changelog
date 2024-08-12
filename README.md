@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-4 commits.
+5 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)<br />
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [48 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade module template AGP version<br />
     <sub>[#151675](https://github.com/flutter/flutter/pull/151675) merged on August 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151675) over 1 month, 17 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable DevTools when running the hot restart integration test in flutter_tools<br />
+    <sub>[#153247](https://github.com/flutter/flutter/pull/153247) merged on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153247) over 1 day, 3 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#153297](https://github.com/flutter/flutter/pull/153297) merged on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153297) over 1 hour, 12 additions and 12 deletions in 6 files</sub><br />
