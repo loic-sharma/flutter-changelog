@@ -74,6 +74,9 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Handle a SocketException thrown when sending the browser close command to Chrome<br />
     <sub>[#153294](https://github.com/flutter/flutter/pull/153294) opened on on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153294) 33 additions and 2 deletions in 2 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Remove publishing race<br />
+    <sub>[#153304](https://github.com/flutter/flutter/pull/153304) opened on on August 12, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153304) 534 additions and 765 deletions in 6 files</sub><br />
+
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [CP Stable] Emit source maps for wasm in `flutter build web --wasm` (#151643)<br />
     <sub>[#153310](https://github.com/flutter/flutter/pull/153310) opened on on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153310) 74 additions and 60 deletions in 4 files</sub><br />
 
