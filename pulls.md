@@ -44,9 +44,6 @@
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
     <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153103) 79 additions and 1 deletion in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add xcresulttool --legacy flag for deprecated usage<br />
-    <sub>[#153117](https://github.com/flutter/flutter/pull/153117) opened on on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153117) 28 additions and 3 deletions in 2 files</sub><br />
-
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update TextTheme with the M3 Typography tokens<br />
     <sub>[#153131](https://github.com/flutter/flutter/pull/153131) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153131) 23 additions and 1 deletion in 1 file</sub><br />
 
