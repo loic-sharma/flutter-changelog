@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-2 commits.
+3 commits.
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Deprecate inactiveColor from cupertino checkbox<br />
     <sub>[#152981](https://github.com/flutter/flutter/pull/152981) merged on August 12, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/152981) over 5 days, 107 additions and 6 deletions in 4 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade module template AGP version<br />
     <sub>[#151675](https://github.com/flutter/flutter/pull/151675) merged on August 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151675) over 1 month, 17 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#153297](https://github.com/flutter/flutter/pull/153297) merged on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153297) over 1 hour, 12 additions and 12 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### August 3, 2024 to August 9, 2024
 
