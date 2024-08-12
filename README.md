@@ -25,7 +25,7 @@
     <sub>[#150568](https://github.com/flutter/flutter/pull/150568) merged on August 8, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/150568) over 1 month, 80 additions and 4 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[James Kerber](https://github.com/kerberjg)** &mdash; Set default Cupertino `primaryContrastingColor` to white<br />
+* **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Set default Cupertino `primaryContrastingColor` to white<br />
     <sub>[#153039](https://github.com/flutter/flutter/pull/153039) merged on August 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153039) over 5 hours, 15 additions and 11 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
     <sub><details><summary>2 images...</summary><img width="594" alt="image" src="https://github.com/user-attachments/assets/63e88abb-6933-446f-a7ba-55109d0f353c"><img width="594" alt="image" src="https://github.com/user-attachments/assets/2a48f22b-a886-46dd-aada-6d157cb4ac06"></details></sub>
