@@ -583,8 +583,8 @@
     <sub><details><summary>1 image...</summary><img width="2137" alt="Screenshot 2024-08-06 at 1 20 26 PM" src="https://github.com/user-attachments/assets/aed671c1-b7f7-4c9f-8553-485f8c0dd35e"></details></sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add FAQ entries.
-    <sub>[#54456](https://github.com/flutter/engine/pull/54456) merged on August 9, 2024 &mdash; **Small:** [109 comments](https://github.com/flutter/engine/pull/54456) over 21 hours, 136 additions and 0 deletions in 1 file</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams), [Michael Thomsen](https://github.com/mit-mit), [Seth Ladd](https://github.com/sethladd)</sub>
+    <sub>[#54456](https://github.com/flutter/engine/pull/54456) merged on August 9, 2024 &mdash; **Small:** [112 comments](https://github.com/flutter/engine/pull/54456) over 21 hours, 136 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams), [Michael Thomsen](https://github.com/mit-mit)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move aiks text tests to DL.
     <sub>[#54293](https://github.com/flutter/engine/pull/54293) merged on August 8, 2024 &mdash; **Extra large:** [15 comments](https://github.com/flutter/engine/pull/54293) over 6 days, 953 additions and 825 deletions in 8 files</sub>
