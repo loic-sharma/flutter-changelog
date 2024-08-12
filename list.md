@@ -932,11 +932,25 @@
 
 ### August 10, 2024 to August 16, 2024
 
-3 commits.
+6 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes restriction on number of custom types per file
+    <sub>[#6840](https://github.com/flutter/packages/pull/6840) merged on August 12, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6840) over 2 months, 11158 additions and 5486 deletions in 69 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Add expanded and extra large breakpoints
     <sub>[#7300](https://github.com/flutter/packages/pull/7300) merged on August 12, 2024 &mdash; **Extra large:** [51 comments](https://github.com/flutter/packages/pull/7300) over 1 week, 1299 additions and 217 deletions in 17 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [camera]: Bump androidx.annotation:annotation from 1.8.1 to 1.8.2 in /packages/camera/camera_android/android
+    <sub>[#7371](https://github.com/flutter/packages/pull/7371) merged on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7371) over 7 hours, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.1&new-version=1.8.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [path_provider]: Bump androidx.annotation:annotation from 1.8.1 to 1.8.2 in /packages/path_provider/path_provider_android/android
+    <sub>[#7376](https://github.com/flutter/packages/pull/7376) merged on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7376) over 7 hours, 6 additions and 2 deletions in 3 files</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=androidx.annotation:annotation&package-manager=gradle&previous-version=1.8.1&new-version=1.8.2)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 2.0.0 to 2.0.10 in /packages/pigeon/platform_tests/test_plugin/android
     <sub>[#7370](https://github.com/flutter/packages/pull/7370) merged on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7370) over 7 hours, 1 addition and 1 deletion in 1 file</sub>
