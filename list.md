@@ -932,11 +932,16 @@
 
 ### August 10, 2024 to August 16, 2024
 
-2 commits.
+3 commits.
 
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Add expanded and extra large breakpoints
     <sub>[#7300](https://github.com/flutter/packages/pull/7300) merged on August 12, 2024 &mdash; **Extra large:** [51 comments](https://github.com/flutter/packages/pull/7300) over 1 week, 1299 additions and 217 deletions in 17 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[dependabot](https://github.com/apps/dependabot)** &mdash; [pigeon]: Bump org.jetbrains.kotlin:kotlin-gradle-plugin from 2.0.0 to 2.0.10 in /packages/pigeon/platform_tests/test_plugin/android
+    <sub>[#7370](https://github.com/flutter/packages/pull/7370) merged on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7370) over 7 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+    <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=2.0.0&new-version=2.0.10)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
 
 * **[Fernando Trigoso](https://github.com/fertrig)** &mdash; [shared_preferences] Fixes get-all when suite name is used
     <sub>[#7335](https://github.com/flutter/packages/pull/7335) merged on August 12, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/7335) over 4 days, 97 additions and 2 deletions in 5 files</sub>
