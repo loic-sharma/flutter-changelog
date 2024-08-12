@@ -1031,7 +1031,7 @@
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] fix cast error and mutable list error with `getStringList`<br />
-    <sub>[#7355](https://github.com/flutter/packages/pull/7355) merged on August 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7355) over 1 hour, 123 additions and 22 deletions in 20 files</sub><br />
+    <sub>[#7355](https://github.com/flutter/packages/pull/7355) merged on August 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7355) over 1 hour, 123 additions and 22 deletions in 20 files</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fix names of unit tests<br />
