@@ -89,3 +89,6 @@
 * **[Haijun](https://github.com/HaijunWei)** &mdash; Fix image: Clearing rendered images at an inappropriate time.<br />
     <sub>[#153331](https://github.com/flutter/flutter/pull/153331) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153331) 56 additions and 5 deletions in 2 files</sub><br />
 
+* **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; replaced url_stratagy export for non web<br />
+    <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153355) 217 additions and 6 deletions in 8 files</sub><br />
+
