@@ -623,7 +623,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-9 commits.
+12 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix drawPoints scaling factors.<br />
     <sub>[#54368](https://github.com/flutter/engine/pull/54368) merged on August 13, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/engine/pull/54368) over 1 week, 84 additions and 14 deletions in 6 files</sub><br />
@@ -641,6 +641,14 @@
     <sub>[#54186](https://github.com/flutter/engine/pull/54186) merged on August 12, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/54186) over 2 weeks, 313 additions and 22 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add animation detection for GIFs<br />
+    <sub>[#54483](https://github.com/flutter/engine/pull/54483) merged on August 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54483) over 3 days, 267 additions and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: </sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Preserve background frame damage<br />
+    <sub>[#54540](https://github.com/flutter/engine/pull/54540) merged on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54540) over 4 hours, 86 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move API level 34 scenario app tests back to prod<br />
     <sub>[#54539](https://github.com/flutter/engine/pull/54539) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54539) over 47 minutes, 0 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -652,6 +660,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Clean up create_ios_framework.py<br />
     <sub>[#54500](https://github.com/flutter/engine/pull/54500) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54500) over 16 hours, 137 additions and 101 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Use BundledTestRunner from test-scripts<br />
+    <sub>[#54404](https://github.com/flutter/engine/pull/54404) merged on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54404) over 6 days, 16 additions and 53 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[Impeller] remove scene3d support."<br />
     <sub>[#54502](https://github.com/flutter/engine/pull/54502) merged on August 12, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/54502) over 10 hours, 6685 additions and 5 deletions in 97 files</sub><br />
