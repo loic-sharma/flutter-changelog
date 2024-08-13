@@ -646,7 +646,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Clean up create_ios_framework.py<br />
-    <sub>[#54543](https://github.com/flutter/engine/pull/54543) merged on August 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54543) over 1 hour, 70 additions and 111 deletions in 2 files</sub><br />
+    <sub>[#54543](https://github.com/flutter/engine/pull/54543) merged on August 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54543) over 1 hour, 70 additions and 111 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add animation detection for GIFs<br />
