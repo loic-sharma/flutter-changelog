@@ -1055,7 +1055,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-11 commits.
+12 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes restriction on number of custom types per file<br />
     <sub>[#6840](https://github.com/flutter/packages/pull/6840) merged on August 12, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6840) over 2 months, 11158 additions and 5486 deletions in 69 files</sub><br />
@@ -1103,6 +1103,10 @@
     <sub>[#7370](https://github.com/flutter/packages/pull/7370) merged on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7370) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
     <sub><details><summary>1 image...</summary>![Dependabot compatibility score](https://dependabot-badges.githubapp.com/badges/compatibility_score?dependency-name=org.jetbrains.kotlin:kotlin-gradle-plugin&package-manager=gradle&previous-version=2.0.0&new-version=2.0.10)](https://docs.github.com/en/github/managing-security-vulnerabilities/about-dependabot-security-updates#about-compatibility-scores)</details></sub>
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix breakages introduced by `SplashFactory`<br />
+    <sub>[#6952](https://github.com/flutter/packages/pull/6952) merged on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6952) over 1 month, 12 additions and 12 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Fernando Trigoso](https://github.com/fertrig)** &mdash; [shared_preferences] Fixes get-all when suite name is used<br />
     <sub>[#7335](https://github.com/flutter/packages/pull/7335) merged on August 12, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/7335) over 4 days, 97 additions and 2 deletions in 5 files</sub><br />
