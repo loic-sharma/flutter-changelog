@@ -84,7 +84,7 @@
     <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153355) 217 additions and 6 deletions in 8 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.<br />
-    <sub>[#153365](https://github.com/flutter/flutter/pull/153365) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153365) 198 additions and 3 deletions in 5 files</sub><br />
+    <sub>[#153365](https://github.com/flutter/flutter/pull/153365) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153365) 198 additions and 3 deletions in 5 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update cherry pick issue template's PR field<br />
     <sub>[#153381](https://github.com/flutter/flutter/pull/153381) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153381) 1 addition and 1 deletion in 1 file</sub><br />
