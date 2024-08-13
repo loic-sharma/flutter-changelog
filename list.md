@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-9 commits.
+10 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub>
@@ -22,6 +22,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade module template AGP version
     <sub>[#151675](https://github.com/flutter/flutter/pull/151675) merged on August 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151675) over 1 month, 17 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry Linux_android_emu tests in presubmit like they are in postsubmit
+    <sub>[#153369](https://github.com/flutter/flutter/pull/153369) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153369) over 1 hour, 4 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift API level 34 emulator tests to prod
     <sub>[#153366](https://github.com/flutter/flutter/pull/153366) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153366) over 52 minutes, 0 additions and 4 deletions in 1 file</sub>
