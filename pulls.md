@@ -92,3 +92,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update README.md<br />
     <sub>[#153384](https://github.com/flutter/flutter/pull/153384) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153384) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
+    <sub>[#153388](https://github.com/flutter/flutter/pull/153388) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153388) 4 additions and 4 deletions in 2 files</sub><br />
+
