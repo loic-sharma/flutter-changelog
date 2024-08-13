@@ -788,7 +788,7 @@
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Reland: Partial repaint platform views<br />
-    <sub>[#54231](https://github.com/flutter/engine/pull/54231) merged on August 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54231) over 1 week, 81 additions and 26 deletions in 9 files</sub><br />
+    <sub>[#54231](https://github.com/flutter/engine/pull/54231) merged on August 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54231) over 1 week, 81 additions and 26 deletions in 9 files</sub><br />
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 </details>
