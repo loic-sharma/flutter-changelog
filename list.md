@@ -623,7 +623,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-12 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix drawPoints scaling factors.
     <sub>[#54368](https://github.com/flutter/engine/pull/54368) merged on August 13, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/engine/pull/54368) over 1 week, 84 additions and 14 deletions in 6 files</sub>
@@ -640,6 +640,14 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update integration test AVD dependency to use Android 35 emulators
     <sub>[#54186](https://github.com/flutter/engine/pull/54186) merged on August 12, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/54186) over 2 weeks, 313 additions and 22 deletions in 5 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update dartdoc for gpu.dart
+    <sub>[#54529](https://github.com/flutter/engine/pull/54529) merged on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54529) over 14 hours, 12 additions and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Clean up create_ios_framework.py
+    <sub>[#54543](https://github.com/flutter/engine/pull/54543) merged on August 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54543) over 1 hour, 70 additions and 111 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add animation detection for GIFs
     <sub>[#54483](https://github.com/flutter/engine/pull/54483) merged on August 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54483) over 3 days, 267 additions and 11 deletions in 2 files</sub>
