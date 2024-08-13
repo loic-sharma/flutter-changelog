@@ -87,5 +87,5 @@
     <sub>[#153322](https://github.com/flutter/flutter/pull/153322) opened on on August 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153322) 159 additions and 12 deletions in 3 files</sub><br />
 
 * **[Haijun](https://github.com/HaijunWei)** &mdash; Fix image: Clearing rendered images at an inappropriate time.<br />
-    <sub>[#153329](https://github.com/flutter/flutter/pull/153329) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153329) 56 additions and 5 deletions in 2 files</sub><br />
+    <sub>[#153331](https://github.com/flutter/flutter/pull/153331) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153331) 56 additions and 5 deletions in 2 files</sub><br />
 
