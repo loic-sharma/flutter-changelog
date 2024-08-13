@@ -98,3 +98,6 @@
 * **[voloder](https://github.com/voloder)** &mdash; Material: Improve InputBorder animation<br />
     <sub>[#153398](https://github.com/flutter/flutter/pull/153398) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153398) 11 additions and 12 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move some tool TESTOWNERS entries to andrew<br />
+    <sub>[#153400](https://github.com/flutter/flutter/pull/153400) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153400) 3 additions and 3 deletions in 1 file</sub><br />
+
