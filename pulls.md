@@ -93,5 +93,5 @@
     <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153355) 217 additions and 6 deletions in 8 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.<br />
-    <sub>[#153365](https://github.com/flutter/flutter/pull/153365) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153365) 206 additions and 10 deletions in 6 files</sub><br />
+    <sub>[#153365](https://github.com/flutter/flutter/pull/153365) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153365) 201 additions and 5 deletions in 6 files</sub><br />
 
