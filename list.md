@@ -611,7 +611,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-6 commits.
+7 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve texture format logic
     <sub>[#54329](https://github.com/flutter/engine/pull/54329) merged on August 12, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/54329) over 1 week, 50 additions and 23 deletions in 3 files</sub>
@@ -636,6 +636,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[Impeller] remove scene3d support."
     <sub>[#54502](https://github.com/flutter/engine/pull/54502) merged on August 12, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/54502) over 10 hours, 6685 additions and 5 deletions in 97 files</sub>
     <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Reland: Partial repaint platform views"
+    <sub>[#54537](https://github.com/flutter/engine/pull/54537) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54537) over 49 minutes, 26 additions and 81 deletions in 9 files</sub>
+    <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub>
 
 ### August 3, 2024 to August 9, 2024
 
