@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-10 commits.
+11 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub>
@@ -34,6 +34,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable DevTools when running the hot restart integration test in flutter_tools
     <sub>[#153247](https://github.com/flutter/flutter/pull/153247) merged on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153247) over 1 day, 3 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#153380](https://github.com/flutter/flutter/pull/153380) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153380) over 1 hour, 90 additions and 90 deletions in 45 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add fake dependency on flutter_gpu for the docs
     <sub>[#153325](https://github.com/flutter/flutter/pull/153325) merged on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153325) over 2 hours, 180 additions and 9 deletions in 2 files</sub>
@@ -1023,11 +1027,15 @@
 
 ### August 10, 2024 to August 16, 2024
 
-10 commits.
+11 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes restriction on number of custom types per file
     <sub>[#6840](https://github.com/flutter/packages/pull/6840) merged on August 12, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6840) over 2 months, 11158 additions and 5486 deletions in 69 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert Circle and Marker to Pigeon
+    <sub>[#7326](https://github.com/flutter/packages/pull/7326) merged on August 13, 2024 &mdash; **Extra large:** [46 comments](https://github.com/flutter/packages/pull/7326) over 6 days, 1574 additions and 493 deletions in 14 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Add expanded and extra large breakpoints
     <sub>[#7300](https://github.com/flutter/packages/pull/7300) merged on August 12, 2024 &mdash; **Extra large:** [51 comments](https://github.com/flutter/packages/pull/7300) over 1 week, 1299 additions and 217 deletions in 17 files</sub>

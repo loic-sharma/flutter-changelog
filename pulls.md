@@ -27,7 +27,7 @@
     <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/152431) 64 additions and 1 deletion in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update template/test `compileSdk`, `targetSdk`, `ndk` versions<br />
-    <sub>[#152487](https://github.com/flutter/flutter/pull/152487) opened on on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152487) 6 additions and 6 deletions in 2 files</sub><br />
+    <sub>[#152487](https://github.com/flutter/flutter/pull/152487) opened on on July 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/152487) 12 additions and 8 deletions in 4 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates<br />
     <sub>[#152525](https://github.com/flutter/flutter/pull/152525) opened on on July 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152525) 28 additions and 96 deletions in 1 file</sub><br />
@@ -84,7 +84,7 @@
     <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153355) 217 additions and 6 deletions in 8 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.<br />
-    <sub>[#153365](https://github.com/flutter/flutter/pull/153365) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153365) 201 additions and 5 deletions in 6 files</sub><br />
+    <sub>[#153365](https://github.com/flutter/flutter/pull/153365) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153365) 199 additions and 3 deletions in 6 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update cherry pick issue template's PR field<br />
     <sub>[#153381](https://github.com/flutter/flutter/pull/153381) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153381) 1 addition and 1 deletion in 1 file</sub><br />
