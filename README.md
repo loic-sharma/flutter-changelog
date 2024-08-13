@@ -611,7 +611,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-7 commits.
+8 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve texture format logic<br />
     <sub>[#54329](https://github.com/flutter/engine/pull/54329) merged on August 12, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/54329) over 1 week, 50 additions and 23 deletions in 3 files</sub><br />
@@ -624,6 +624,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update integration test AVD dependency to use Android 35 emulators<br />
     <sub>[#54186](https://github.com/flutter/engine/pull/54186) merged on August 12, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/54186) over 2 weeks, 313 additions and 22 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move API level 34 scenario app tests back to prod<br />
+    <sub>[#54539](https://github.com/flutter/engine/pull/54539) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54539) over 47 minutes, 0 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] keep threads merged when using Skia renderer on iOS<br />
     <sub>[#54514](https://github.com/flutter/engine/pull/54514) merged on August 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54514) over 1 hour, 44 additions and 33 deletions in 3 files</sub><br />
