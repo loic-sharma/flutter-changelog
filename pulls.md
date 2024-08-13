@@ -27,7 +27,7 @@
     <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/152431) 64 additions and 1 deletion in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update template/test `compileSdk`, `targetSdk`, `ndk` versions<br />
-    <sub>[#152487](https://github.com/flutter/flutter/pull/152487) opened on on July 29, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/152487) 230 additions and 212 deletions in 20 files</sub><br />
+    <sub>[#152487](https://github.com/flutter/flutter/pull/152487) opened on on July 29, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/152487) 239 additions and 222 deletions in 24 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates<br />
     <sub>[#152525](https://github.com/flutter/flutter/pull/152525) opened on on July 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152525) 28 additions and 96 deletions in 1 file</sub><br />
@@ -36,7 +36,7 @@
     <sub>[#152637](https://github.com/flutter/flutter/pull/152637) opened on on July 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152637) 16 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
-    <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
+    <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
 
 * **[Moon Jonghwan](https://github.com/enihsgnir)** &mdash; Fix unhandled exception in `Image` widget while `TickerMode` is changing<br />
     <sub>[#153097](https://github.com/flutter/flutter/pull/153097) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153097) 54 additions and 2 deletions in 2 files</sub><br />
@@ -96,5 +96,5 @@
     <sub>[#153388](https://github.com/flutter/flutter/pull/153388) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153388) 4 additions and 4 deletions in 2 files</sub><br />
 
 * **[voloder](https://github.com/voloder)** &mdash; Material: Improve InputBorder animation<br />
-    <sub>[#153398](https://github.com/flutter/flutter/pull/153398) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153398) 12 additions and 13 deletions in 1 file</sub><br />
+    <sub>[#153398](https://github.com/flutter/flutter/pull/153398) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153398) 11 additions and 12 deletions in 1 file</sub><br />
 
