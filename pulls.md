@@ -95,3 +95,6 @@
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#153388](https://github.com/flutter/flutter/pull/153388) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153388) 4 additions and 4 deletions in 2 files</sub><br />
 
+* **[voloder](https://github.com/voloder)** &mdash; Material: Improve InputBorder animation<br />
+    <sub>[#153398](https://github.com/flutter/flutter/pull/153398) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153398) 12 additions and 13 deletions in 1 file</sub><br />
+
