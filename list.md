@@ -56,7 +56,7 @@
     <sub><details><summary>2 images...</summary><img width="1072" alt="Screenshot 2024-07-30 at 15 40 59" src="https://github.com/user-attachments/assets/14f21091-9e46-4a58-8552-1379f4ba9216"><img width="1072" alt="Screenshot 2024-07-30 at 15 39 42" src="https://github.com/user-attachments/assets/717e9f5e-a491-4853-ba74-e72ec7493363"></details></sub>
 
 * **[yim](https://github.com/yiiim)** &mdash; The `PopupMenuButton` should not steal focus from the TextField when it appears.
-    <sub>[#150568](https://github.com/flutter/flutter/pull/150568) merged on August 8, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/150568) over 1 month, 80 additions and 4 deletions in 9 files</sub>
+    <sub>[#150568](https://github.com/flutter/flutter/pull/150568) merged on August 8, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/150568) over 1 month, 80 additions and 4 deletions in 9 files</sub>
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Set default Cupertino `primaryContrastingColor` to white
