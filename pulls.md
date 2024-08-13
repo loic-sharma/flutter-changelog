@@ -77,9 +77,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Remove publishing race<br />
     <sub>[#153304](https://github.com/flutter/flutter/pull/153304) opened on on August 12, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153304) 534 additions and 765 deletions in 6 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][iOS] Copy Flutter.framework.dSYM into app archive<br />
-    <sub>[#153322](https://github.com/flutter/flutter/pull/153322) opened on on August 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153322) 159 additions and 12 deletions in 3 files</sub><br />
-
 * **[Haijun](https://github.com/HaijunWei)** &mdash; Fix image: Clearing rendered images at an inappropriate time.<br />
     <sub>[#153331](https://github.com/flutter/flutter/pull/153331) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153331) 56 additions and 5 deletions in 2 files</sub><br />
 
@@ -88,4 +85,7 @@
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.<br />
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153365) 201 additions and 5 deletions in 6 files</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update cherry pick issue template's PR field<br />
+    <sub>[#153381](https://github.com/flutter/flutter/pull/153381) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153381) 1 addition and 1 deletion in 1 file</sub><br />
 
