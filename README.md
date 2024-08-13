@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-11 commits.
+12 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)<br />
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Deprecate inactiveColor from cupertino checkbox<br />
     <sub>[#152981](https://github.com/flutter/flutter/pull/152981) merged on August 12, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/152981) over 5 days, 107 additions and 6 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(flutter/a11y assessments): h1 missing a11y from each page on the web app<br />
+    <sub>[#152198](https://github.com/flutter/flutter/pull/152198) merged on August 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/152198) over 2 weeks, 132 additions and 20 deletions in 35 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added FlutterEngineGroups to engine architecture doc<br />
     <sub>[#153100](https://github.com/flutter/flutter/pull/153100) merged on August 12, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/153100) over 4 days, 237 additions and 56 deletions in 1 file</sub><br />
