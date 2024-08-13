@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-7 commits.
+8 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub>
@@ -26,6 +26,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable DevTools when running the hot restart integration test in flutter_tools
     <sub>[#153247](https://github.com/flutter/flutter/pull/153247) merged on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153247) over 1 day, 3 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Add fake dependency on flutter_gpu for the docs
+    <sub>[#153325](https://github.com/flutter/flutter/pull/153325) merged on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153325) over 2 hours, 180 additions and 9 deletions in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Make CupertinoButton interactive by keyboard shortcuts
     <sub>[#153126](https://github.com/flutter/flutter/pull/153126) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153126) over 4 days, 49 additions and 0 deletions in 2 files</sub>
