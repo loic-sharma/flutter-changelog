@@ -80,9 +80,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Lint sync<br />
     <sub>[#153453](https://github.com/flutter/flutter/pull/153453) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153453) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; TEST ROLL: DO NOT SUBMIT<br />
-    <sub>[#153456](https://github.com/flutter/flutter/pull/153456) opened on on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153456) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] Fix formatting with multiple locale<br />
     <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153459) 178 additions and 15 deletions in 3 files</sub><br />
 
