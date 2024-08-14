@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-20 commits.
+22 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub>
@@ -38,6 +38,14 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Android version in the engine
     <sub>[#151601](https://github.com/flutter/flutter/pull/151601) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151601) over 1 month, 46 additions and 24 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Lint sync
+    <sub>[#153453](https://github.com/flutter/flutter/pull/153453) merged on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153453) over 3 hours, 6 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; manual pub roll w/ gradle updates
+    <sub>[#153403](https://github.com/flutter/flutter/pull/153403) merged on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153403) over 21 hours, 8 additions and 8 deletions in 4 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move some tool TESTOWNERS entries to andrew
     <sub>[#153400](https://github.com/flutter/flutter/pull/153400) merged on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153400) over 21 hours, 3 additions and 3 deletions in 1 file</sub>
