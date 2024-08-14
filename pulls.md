@@ -11,9 +11,6 @@
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
     <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151585) 44 additions and 1 deletion in 2 files</sub><br />
 
-* **[Momshad Dinury](https://github.com/momshaddinury)** &mdash; Added waitDuration in the InkWell widget to wait before starting the hover animation (Resolves #149812 )<br />
-    <sub>[#151699](https://github.com/flutter/flutter/pull/151699) opened on on July 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/151699) 89 additions and 1 deletion in 2 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; fix: A referenced default package must be a plugin package<br />
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
 
@@ -46,9 +43,6 @@
 
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
     <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153103) 79 additions and 1 deletion in 2 files</sub><br />
-
-* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update TextTheme with the M3 Typography tokens<br />
-    <sub>[#153131](https://github.com/flutter/flutter/pull/153131) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153131) 23 additions and 1 deletion in 1 file</sub><br />
 
 * **[Joe Kawai](https://github.com/kawaijoe)** &mdash; Add `TextHeightBehavior` argument for `DefaultTextStyle.merge`<br />
     <sub>[#153178](https://github.com/flutter/flutter/pull/153178) opened on on August 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153178) 52 additions and 0 deletions in 2 files</sub><br />
@@ -87,7 +81,7 @@
     <sub>[#153400](https://github.com/flutter/flutter/pull/153400) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153400) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes TreeSliver collapsing not working<br />
-    <sub>[#153438](https://github.com/flutter/flutter/pull/153438) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153438) 206 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#153438](https://github.com/flutter/flutter/pull/153438) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153438) 209 additions and 3 deletions in 2 files</sub><br />
 
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] `isCustomDateFormat` accepts an actual boolean<br />
     <sub>[#153439](https://github.com/flutter/flutter/pull/153439) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153439) 25 additions and 0 deletions in 2 files</sub><br />

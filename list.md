@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-15 commits.
+16 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub>
@@ -14,6 +14,10 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Deprecate inactiveColor from cupertino checkbox
     <sub>[#152981](https://github.com/flutter/flutter/pull/152981) merged on August 12, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/152981) over 5 days, 107 additions and 6 deletions in 4 files</sub>
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Delay `DropdownMenu` filtering until text input
+    <sub>[#152368](https://github.com/flutter/flutter/pull/152368) merged on August 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152368) over 2 weeks, 52 additions and 2 deletions in 2 files</sub>
+    <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(flutter/a11y assessments): h1 missing a11y from each page on the web app
     <sub>[#152198](https://github.com/flutter/flutter/pull/152198) merged on August 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/152198) over 2 weeks, 132 additions and 20 deletions in 35 files</sub>
