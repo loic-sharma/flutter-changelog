@@ -95,6 +95,3 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move some tool TESTOWNERS entries to andrew<br />
     <sub>[#153400](https://github.com/flutter/flutter/pull/153400) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153400) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Pass `--no-source-maps` instead of `--extra-compiler-option=--no-source-maps` to `dart compile wasm`<br />
-    <sub>[#153417](https://github.com/flutter/flutter/pull/153417) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153417) 2 additions and 2 deletions in 2 files</sub><br />
-
