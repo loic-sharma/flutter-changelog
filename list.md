@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-14 commits.
+15 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub>
@@ -26,6 +26,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade module template AGP version
     <sub>[#151675](https://github.com/flutter/flutter/pull/151675) merged on August 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151675) over 1 month, 17 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update cherry pick issue template's PR field
+    <sub>[#153381](https://github.com/flutter/flutter/pull/153381) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153381) over 23 hours, 1 addition and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Pass `--no-source-maps` instead of `--extra-compiler-option=--no-source-maps` to `dart compile wasm`
     <sub>[#153417](https://github.com/flutter/flutter/pull/153417) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153417) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
