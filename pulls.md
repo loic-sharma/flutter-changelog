@@ -83,9 +83,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update cherry pick issue template's PR field<br />
     <sub>[#153381](https://github.com/flutter/flutter/pull/153381) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153381) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Update README.md<br />
-    <sub>[#153384](https://github.com/flutter/flutter/pull/153384) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153384) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#153388](https://github.com/flutter/flutter/pull/153388) opened on on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153388) 4 additions and 4 deletions in 2 files</sub><br />
 
