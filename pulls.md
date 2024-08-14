@@ -11,6 +11,9 @@
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
     <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151585) 44 additions and 1 deletion in 2 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Android version in the engine<br />
+    <sub>[#151601](https://github.com/flutter/flutter/pull/151601) opened on on July 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151601) 46 additions and 24 deletions in 1 file</sub><br />
+
 * **[August](https://github.com/Gustl22)** &mdash; fix: A referenced default package must be a plugin package<br />
     <sub>[#152134](https://github.com/flutter/flutter/pull/152134) opened on on July 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152134) 2 additions and 2 deletions in 2 files</sub><br />
 
@@ -24,7 +27,7 @@
     <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/152431) 64 additions and 1 deletion in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update template/test `compileSdk`, `targetSdk`, `ndk` versions<br />
-    <sub>[#152487](https://github.com/flutter/flutter/pull/152487) opened on on July 29, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/152487) 250 additions and 232 deletions in 29 files</sub><br />
+    <sub>[#152487](https://github.com/flutter/flutter/pull/152487) opened on on July 29, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/152487) 286 additions and 235 deletions in 33 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates<br />
     <sub>[#152525](https://github.com/flutter/flutter/pull/152525) opened on on July 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152525) 28 additions and 96 deletions in 1 file</sub><br />
