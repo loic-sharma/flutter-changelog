@@ -627,7 +627,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-15 commits.
+16 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix drawPoints scaling factors.
     <sub>[#54368](https://github.com/flutter/engine/pull/54368) merged on August 13, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/engine/pull/54368) over 1 week, 84 additions and 14 deletions in 6 files</sub>
@@ -647,6 +647,10 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update integration test AVD dependency to use Android 35 emulators
     <sub>[#54186](https://github.com/flutter/engine/pull/54186) merged on August 12, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/54186) over 2 weeks, 313 additions and 22 deletions in 5 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: refactor create_macos_framework.py
+    <sub>[#54546](https://github.com/flutter/engine/pull/54546) merged on August 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54546) over 1 hour, 87 additions and 72 deletions in 2 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update dartdoc for gpu.dart
