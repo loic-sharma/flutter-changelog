@@ -50,14 +50,11 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update TextTheme with the M3 Typography tokens<br />
     <sub>[#153131](https://github.com/flutter/flutter/pull/153131) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153131) 23 additions and 1 deletion in 1 file</sub><br />
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Move `@_debugOnly` documentation in `framework.dart` to be more visible to IDE.<br />
-    <sub>[#153134](https://github.com/flutter/flutter/pull/153134) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153134) 10 additions and 10 deletions in 1 file</sub><br />
-
 * **[Heath Dunlop](https://github.com/dunatron)** &mdash; allow child onTap to work<br />
     <sub>[#153162](https://github.com/flutter/flutter/pull/153162) opened on on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153162) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Joe Kawai](https://github.com/kawaijoe)** &mdash; Add `TextHeightBehavior` argument for `DefaultTextStyle.merge`<br />
-    <sub>[#153178](https://github.com/flutter/flutter/pull/153178) opened on on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153178) 52 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#153178](https://github.com/flutter/flutter/pull/153178) opened on on August 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153178) 52 additions and 0 deletions in 2 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry tasks when adb reports that a device has gone offline unexpectedly<br />
     <sub>[#153190](https://github.com/flutter/flutter/pull/153190) opened on on August 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153190) 109 additions and 10 deletions in 4 files</sub><br />
