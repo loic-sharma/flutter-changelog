@@ -631,7 +631,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-16 commits.
+18 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix drawPoints scaling factors.<br />
     <sub>[#54368](https://github.com/flutter/engine/pull/54368) merged on August 13, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/engine/pull/54368) over 1 week, 84 additions and 14 deletions in 6 files</sub><br />
@@ -654,7 +654,7 @@
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: refactor create_macos_framework.py<br />
-    <sub>[#54546](https://github.com/flutter/engine/pull/54546) merged on August 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54546) over 1 hour, 87 additions and 72 deletions in 2 files</sub><br />
+    <sub>[#54546](https://github.com/flutter/engine/pull/54546) merged on August 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54546) over 1 hour, 87 additions and 72 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update dartdoc for gpu.dart<br />
@@ -662,7 +662,7 @@
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Clean up create_ios_framework.py<br />
-    <sub>[#54543](https://github.com/flutter/engine/pull/54543) merged on August 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54543) over 1 hour, 70 additions and 111 deletions in 2 files</sub><br />
+    <sub>[#54543](https://github.com/flutter/engine/pull/54543) merged on August 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54543) over 1 hour, 70 additions and 111 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add animation detection for GIFs<br />
@@ -684,6 +684,14 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Clean up create_ios_framework.py<br />
     <sub>[#54500](https://github.com/flutter/engine/pull/54500) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54500) over 16 hours, 137 additions and 101 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "macOS: Clean up create_ios_framework.py (#54543)"<br />
+    <sub>[#54550](https://github.com/flutter/engine/pull/54550) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54550) over 58 seconds, 111 additions and 70 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "macOS: refactor create_macos_framework.py (#54546)"<br />
+    <sub>[#54549](https://github.com/flutter/engine/pull/54549) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54549) over 58 seconds, 72 additions and 87 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Use BundledTestRunner from test-scripts<br />
     <sub>[#54404](https://github.com/flutter/engine/pull/54404) merged on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54404) over 6 days, 16 additions and 53 deletions in 1 file</sub><br />
