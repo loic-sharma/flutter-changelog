@@ -95,3 +95,6 @@
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] `isCustomDateFormat` accepts an actual boolean<br />
     <sub>[#153439](https://github.com/flutter/flutter/pull/153439) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153439) 25 additions and 0 deletions in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Lint sync<br />
+    <sub>[#153453](https://github.com/flutter/flutter/pull/153453) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153453) 6 additions and 0 deletions in 1 file</sub><br />
+
