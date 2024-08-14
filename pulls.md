@@ -59,9 +59,6 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; [WIP DO NOT REVIEW] Add new assert and verbosity to existing assert<br />
     <sub>[#153248](https://github.com/flutter/flutter/pull/153248) opened on on August 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153248) 17 additions and 2 deletions in 2 files</sub><br />
 
-* **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; added enabled to search anchor<br />
-    <sub>[#153256](https://github.com/flutter/flutter/pull/153256) opened on on August 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153256) 72 additions and 4 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Remove publishing race<br />
     <sub>[#153304](https://github.com/flutter/flutter/pull/153304) opened on on August 12, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153304) 534 additions and 765 deletions in 6 files</sub><br />
 
@@ -73,9 +70,6 @@
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#153388](https://github.com/flutter/flutter/pull/153388) opened on on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153388) 4 additions and 4 deletions in 2 files</sub><br />
-
-* **[voloder](https://github.com/voloder)** &mdash; Material: Improve InputBorder animation<br />
-    <sub>[#153398](https://github.com/flutter/flutter/pull/153398) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153398) 11 additions and 12 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move some tool TESTOWNERS entries to andrew<br />
     <sub>[#153400](https://github.com/flutter/flutter/pull/153400) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153400) 3 additions and 3 deletions in 1 file</sub><br />

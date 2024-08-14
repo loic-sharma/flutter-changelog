@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-16 commits.
+18 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)<br />
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub><br />
@@ -19,6 +19,10 @@
     <sub>[#152368](https://github.com/flutter/flutter/pull/152368) merged on August 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152368) over 2 weeks, 52 additions and 2 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider shows visual label of value on focus<br />
+    <sub>[#152960](https://github.com/flutter/flutter/pull/152960) merged on August 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152960) over 1 week, 53 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
 * **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(flutter/a11y assessments): h1 missing a11y from each page on the web app<br />
     <sub>[#152198](https://github.com/flutter/flutter/pull/152198) merged on August 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/152198) over 2 weeks, 132 additions and 20 deletions in 35 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
@@ -30,6 +34,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade module template AGP version<br />
     <sub>[#151675](https://github.com/flutter/flutter/pull/151675) merged on August 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/151675) over 1 month, 17 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `Row` and `Column` widgets specific `spacing` tests<br />
+    <sub>[#153353](https://github.com/flutter/flutter/pull/153353) merged on August 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153353) over 1 day, 106 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update cherry pick issue template's PR field<br />
     <sub>[#153381](https://github.com/flutter/flutter/pull/153381) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153381) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
