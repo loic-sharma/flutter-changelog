@@ -95,3 +95,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; move some tool TESTOWNERS entries to andrew<br />
     <sub>[#153400](https://github.com/flutter/flutter/pull/153400) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153400) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix TreeSliver collapsing not working<br />
+    <sub>[#153438](https://github.com/flutter/flutter/pull/153438) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153438) 206 additions and 3 deletions in 2 files</sub><br />
+
