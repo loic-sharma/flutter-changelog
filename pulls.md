@@ -27,7 +27,7 @@
     <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/152431) 64 additions and 1 deletion in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update template/test `compileSdk`, `targetSdk`, `ndk` versions<br />
-    <sub>[#152487](https://github.com/flutter/flutter/pull/152487) opened on on July 29, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/152487) 239 additions and 222 deletions in 24 files</sub><br />
+    <sub>[#152487](https://github.com/flutter/flutter/pull/152487) opened on on July 29, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/152487) 248 additions and 230 deletions in 28 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates<br />
     <sub>[#152525](https://github.com/flutter/flutter/pull/152525) opened on on July 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152525) 28 additions and 96 deletions in 1 file</sub><br />
@@ -49,9 +49,6 @@
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update TextTheme with the M3 Typography tokens<br />
     <sub>[#153131](https://github.com/flutter/flutter/pull/153131) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153131) 23 additions and 1 deletion in 1 file</sub><br />
-
-* **[Heath Dunlop](https://github.com/dunatron)** &mdash; allow child onTap to work<br />
-    <sub>[#153162](https://github.com/flutter/flutter/pull/153162) opened on on August 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153162) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Joe Kawai](https://github.com/kawaijoe)** &mdash; Add `TextHeightBehavior` argument for `DefaultTextStyle.merge`<br />
     <sub>[#153178](https://github.com/flutter/flutter/pull/153178) opened on on August 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153178) 52 additions and 0 deletions in 2 files</sub><br />
@@ -97,4 +94,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Lint sync<br />
     <sub>[#153453](https://github.com/flutter/flutter/pull/153453) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153453) 6 additions and 0 deletions in 1 file</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; TEST ROLL: DO NOT SUBMIT<br />
+    <sub>[#153456](https://github.com/flutter/flutter/pull/153456) opened on on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153456) 2 additions and 1 deletion in 2 files</sub><br />
 
