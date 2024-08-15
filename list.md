@@ -656,7 +656,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-26 commits.
+27 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.
     <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub>
@@ -689,6 +689,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] convert aiks blur tests to new canvas.
     <sub>[#54565](https://github.com/flutter/engine/pull/54565) merged on August 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/54565) over 13 hours, 985 additions and 902 deletions in 6 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add support for superellipse.
+    <sub>[#54562](https://github.com/flutter/engine/pull/54562) merged on August 15, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/54562) over 1 day, 212 additions and 0 deletions in 6 files</sub>
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Improve how overlays are optimized
     <sub>[#54547](https://github.com/flutter/engine/pull/54547) merged on August 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54547) over 1 day, 210 additions and 24 deletions in 2 files</sub>
