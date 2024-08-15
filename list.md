@@ -1144,7 +1144,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-12 commits.
+13 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes restriction on number of custom types per file
     <sub>[#6840](https://github.com/flutter/packages/pull/6840) merged on August 12, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6840) over 2 months, 11158 additions and 5486 deletions in 69 files</sub>
@@ -1157,6 +1157,10 @@
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Add expanded and extra large breakpoints
     <sub>[#7300](https://github.com/flutter/packages/pull/7300) merged on August 12, 2024 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/7300) over 1 week, 1299 additions and 217 deletions in 17 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [gourgouris](https://github.com/gourgouris), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] remove testing section from README
+    <sub>[#7410](https://github.com/flutter/packages/pull/7410) merged on August 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7410) over 1 day, 3 additions and 14 deletions in 3 files</sub>
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[dependabot](https://github.com/apps/dependabot)** &mdash; [in_app_pur]: Bump androidx.annotation:annotation from 1.8.1 to 1.8.2 in /packages/in_app_purchase/in_app_purchase_android/android
     <sub>[#7379](https://github.com/flutter/packages/pull/7379) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7379) over 1 day, 6 additions and 2 deletions in 3 files</sub>
