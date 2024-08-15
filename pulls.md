@@ -60,7 +60,7 @@
     <sub>[#153331](https://github.com/flutter/flutter/pull/153331) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153331) 56 additions and 5 deletions in 2 files</sub><br />
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; replaced url_stratagy export for non web<br />
-    <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153355) 221 additions and 7 deletions in 9 files</sub><br />
+    <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153355) 238 additions and 7 deletions in 9 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes TreeSliver collapsing not working<br />
     <sub>[#153438](https://github.com/flutter/flutter/pull/153438) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153438) 209 additions and 3 deletions in 2 files</sub><br />
