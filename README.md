@@ -707,7 +707,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Refactor create_macos_framework.py<br />
-    <sub>[#54557](https://github.com/flutter/engine/pull/54557) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54557) over 2 hours, 87 additions and 72 deletions in 2 files</sub><br />
+    <sub>[#54557](https://github.com/flutter/engine/pull/54557) merged on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54557) over 2 hours, 87 additions and 72 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Clean up create_macos_framework.py (#54543)<br />
