@@ -676,7 +676,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-23 commits.
+24 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix drawPoints scaling factors.<br />
     <sub>[#54368](https://github.com/flutter/engine/pull/54368) merged on August 13, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/engine/pull/54368) over 1 week, 84 additions and 14 deletions in 6 files</sub><br />
@@ -691,7 +691,7 @@
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] migrate blur tests to display list.<br />
-    <sub>[#54519](https://github.com/flutter/engine/pull/54519) merged on August 15, 2024 &mdash; **Extra large:** [13 comments](https://github.com/flutter/engine/pull/54519) over 2 days, 985 additions and 902 deletions in 6 files</sub><br />
+    <sub>[#54519](https://github.com/flutter/engine/pull/54519) merged on August 15, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/54519) over 2 days, 985 additions and 902 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Fix crash in attributedSubstringForProposedRange with out of bounds range<br />
@@ -701,6 +701,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update integration test AVD dependency to use Android 35 emulators<br />
     <sub>[#54186](https://github.com/flutter/engine/pull/54186) merged on August 12, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/54186) over 2 weeks, 313 additions and 22 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] migrate blur tests to display list. (#54519)"<br />
+    <sub>[#54564](https://github.com/flutter/engine/pull/54564) merged on August 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/54564) over 33 seconds, 902 additions and 985 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Refactor create_macos_framework.py<br />
     <sub>[#54557](https://github.com/flutter/engine/pull/54557) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54557) over 2 hours, 87 additions and 72 deletions in 2 files</sub><br />
