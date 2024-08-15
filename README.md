@@ -685,7 +685,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-27 commits.
+28 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.<br />
     <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub><br />
@@ -722,6 +722,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] migrate blur tests to display list. (#54519)"<br />
     <sub>[#54564](https://github.com/flutter/engine/pull/54564) merged on August 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/54564) over 33 seconds, 902 additions and 985 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Update RBE troubleshooting<br />
+    <sub>[#54568](https://github.com/flutter/engine/pull/54568) merged on August 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54568) over 1 hour, 14 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Refactor create_macos_framework.py<br />
     <sub>[#54557](https://github.com/flutter/engine/pull/54557) merged on August 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54557) over 2 hours, 87 additions and 72 deletions in 2 files</sub><br />
