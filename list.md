@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-27 commits.
+28 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub>
@@ -28,6 +28,10 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Delay `DropdownMenu` filtering until text input
     <sub>[#152368](https://github.com/flutter/flutter/pull/152368) merged on August 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152368) over 2 weeks, 52 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Joe Kawai](https://github.com/kawaijoe)** &mdash; Add `TextHeightBehavior` argument for `DefaultTextStyle.merge`
+    <sub>[#153178](https://github.com/flutter/flutter/pull/153178) merged on August 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153178) over 6 days, 52 additions and 0 deletions in 2 files</sub>
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider shows visual label of value on focus
     <sub>[#152960](https://github.com/flutter/flutter/pull/152960) merged on August 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152960) over 1 week, 53 additions and 2 deletions in 2 files</sub>
@@ -1123,7 +1127,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-7 commits.
+8 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes restriction on number of custom types per file
     <sub>[#6840](https://github.com/flutter/packages/pull/6840) merged on August 12, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6840) over 2 months, 11158 additions and 5486 deletions in 69 files</sub>
@@ -1152,6 +1156,10 @@
 * **[Fernando Trigoso](https://github.com/fertrig)** &mdash; [shared_preferences] Fixes get-all when suite name is used
     <sub>[#7335](https://github.com/flutter/packages/pull/7335) merged on August 12, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/7335) over 4 days, 97 additions and 2 deletions in 5 files</sub>
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll `avd_cipd_verison` to latest to use the `crashreport` tool.
+    <sub>[#7422](https://github.com/flutter/packages/pull/7422) merged on August 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7422) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
+    <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 ### August 3, 2024 to August 9, 2024
 
