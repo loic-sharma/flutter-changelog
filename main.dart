@@ -85,9 +85,11 @@ final _mdImageRegex = RegExp(r'\!\[.*\]\(.+\)');
 final _revertRegex = RegExp(r'^Revert "(.+)"$');
 final _relandRegex = RegExp(r'^Reland "(.+)"$');
 const _bots = {
+  'auto-submit',
   'dependabot',
   'engine-flutter-autoroll',
   'fluttergithubbot',
+  'flutter-pub-roller-bot',
   'skia-flutter-autoroll'
 };
 int _score(Commit commit) {
@@ -139,13 +141,18 @@ int _score(Commit commit) {
 bool _ignore(Commit commit) {
   final pr = commit.pullRequest;
 
-  if (pr.authorLogin == 'dependabot') {
-    if (pr.title.startsWith('Bump ')) return true;
+  if (pr.authorLogin == 'auto-submit') {
+    if (pr.title.startsWith('Reverts "')) return true;
   }
 
-  if (pr.authorLogin == 'fluttergithubbot') {
-    if (pr.title.startsWith('Roll pub packages')) return true;
-    if (pr.title.startsWith('Marks') && pr.title.endsWith('to be unflaky')) return true;
+  if (pr.authorLogin == 'dependabot') {
+    if (pr.title.startsWith('Bump ')) return true;
+
+    // The flutter/packages repo has dependabot commits like:
+    // [package_name]: Bump dependency from 1.2.3 to 4.5.6 in /path/to/package 
+    if (commit.pullRequest.url.path.contains('flutter/packages')) {
+      if (pr.title.contains(']: Bump ')) return true;
+    }
   }
 
   if (pr.authorLogin == 'engine-flutter-autoroll') {
@@ -157,6 +164,15 @@ bool _ignore(Commit commit) {
     if (pr.title.startsWith('Roll Flutter from')) return true;
     if (pr.title.startsWith('Roll Packages from')) return true;
     if (pr.title.startsWith('Roll Plugins from')) return true;
+  }
+
+  if (pr.authorLogin == 'fluttergithubbot') {
+    if (pr.title.startsWith('Roll pub packages')) return true;
+    if (pr.title.startsWith('Marks') && pr.title.endsWith('to be unflaky')) return true;
+  }
+
+  if (pr.authorLogin == 'flutter-pub-roller-bot') {
+    if (pr.title == 'Roll pub packages') return true;
   }
 
   if (pr.authorLogin == 'skia-flutter-autoroll') {
