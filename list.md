@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-26 commits.
+27 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub>
@@ -96,6 +96,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable DevTools when running the hot restart integration test in flutter_tools
     <sub>[#153247](https://github.com/flutter/flutter/pull/153247) merged on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153247) over 1 day, 3 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update TextTheme with the M3 Typography tokens
+    <sub>[#153131](https://github.com/flutter/flutter/pull/153131) merged on August 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153131) over 1 week, 23 additions and 1 deletion in 1 file</sub>
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Improve asserts on Element.mount
     <sub>[#153477](https://github.com/flutter/flutter/pull/153477) merged on August 15, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153477) over 21 hours, 16 additions and 4 deletions in 1 file</sub>
