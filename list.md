@@ -676,7 +676,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-22 commits.
+23 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix drawPoints scaling factors.
     <sub>[#54368](https://github.com/flutter/engine/pull/54368) merged on August 13, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/engine/pull/54368) over 1 week, 84 additions and 14 deletions in 6 files</sub>
@@ -689,6 +689,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve texture format logic
     <sub>[#54329](https://github.com/flutter/engine/pull/54329) merged on August 12, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/54329) over 1 week, 50 additions and 23 deletions in 3 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] migrate blur tests to display list.
+    <sub>[#54519](https://github.com/flutter/engine/pull/54519) merged on August 15, 2024 &mdash; **Extra large:** [13 comments](https://github.com/flutter/engine/pull/54519) over 2 days, 985 additions and 902 deletions in 6 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; macOS: Fix crash in attributedSubstringForProposedRange with out of bounds range
     <sub>[#54469](https://github.com/flutter/engine/pull/54469) merged on August 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54469) over 3 days, 53 additions and 1 deletion in 2 files</sub>
