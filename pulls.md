@@ -62,6 +62,9 @@
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; replaced url_stratagy export for non web<br />
     <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153355) 238 additions and 7 deletions in 9 files</sub><br />
 
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Stop `DropdownMenu` internal scrolling from moving parent `Scrollable`<br />
+    <sub>[#153360](https://github.com/flutter/flutter/pull/153360) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153360) 31 additions and 1 deletion in 2 files</sub><br />
+
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes TreeSliver collapsing not working<br />
     <sub>[#153438](https://github.com/flutter/flutter/pull/153438) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153438) 209 additions and 3 deletions in 2 files</sub><br />
 
