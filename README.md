@@ -4,7 +4,12 @@
 
 ### August 10, 2024 to August 16, 2024
 
-25 commits.
+26 commits.
+
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.<br />
+    <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+    <sub><details><summary>2 images...</summary><img width="666" alt="image" src="https://user-images.githubusercontent.com/351125/182002867-03d55bbb-163d-48b9-ba3c-ed32dbef2680.png">![Frame 6](https://github.com/user-attachments/assets/95324ebc-8db5-4365-817f-bc62304b9044)</details></sub>
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)<br />
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub><br />
@@ -680,7 +685,11 @@
 
 ### August 10, 2024 to August 16, 2024
 
-26 commits.
+27 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.<br />
+    <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix drawPoints scaling factors.<br />
     <sub>[#54368](https://github.com/flutter/engine/pull/54368) merged on August 13, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/engine/pull/54368) over 1 week, 84 additions and 14 deletions in 6 files</sub><br />
