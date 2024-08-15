@@ -697,7 +697,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-30 commits.
+31 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.<br />
     <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub><br />
@@ -734,6 +734,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] migrate blur tests to display list. (#54519)"<br />
     <sub>[#54564](https://github.com/flutter/engine/pull/54564) merged on August 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/54564) over 33 seconds, 902 additions and 985 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Improve how overlays are optimized<br />
+    <sub>[#54547](https://github.com/flutter/engine/pull/54547) merged on August 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54547) over 1 day, 210 additions and 24 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert experimental canvas.<br />
     <sub>[#54570](https://github.com/flutter/engine/pull/54570) merged on August 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54570) over 39 minutes, 1 addition and 1 deletion in 1 file</sub><br />
