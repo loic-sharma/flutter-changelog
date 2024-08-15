@@ -1155,7 +1155,7 @@
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Add expanded and extra large breakpoints
-    <sub>[#7300](https://github.com/flutter/packages/pull/7300) merged on August 12, 2024 &mdash; **Extra large:** [52 comments](https://github.com/flutter/packages/pull/7300) over 1 week, 1299 additions and 217 deletions in 17 files</sub>
+    <sub>[#7300](https://github.com/flutter/packages/pull/7300) merged on August 12, 2024 &mdash; **Extra large:** [53 comments](https://github.com/flutter/packages/pull/7300) over 1 week, 1299 additions and 217 deletions in 17 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [gourgouris](https://github.com/gourgouris), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] remove testing section from README
