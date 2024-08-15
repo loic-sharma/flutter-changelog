@@ -39,7 +39,7 @@
     <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153103) 79 additions and 1 deletion in 2 files</sub><br />
 
 * **[Joe Kawai](https://github.com/kawaijoe)** &mdash; Add `TextHeightBehavior` argument for `DefaultTextStyle.merge`<br />
-    <sub>[#153178](https://github.com/flutter/flutter/pull/153178) opened on on August 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153178) 52 additions and 0 deletions in 2 files</sub><br />
+    <sub>[#153178](https://github.com/flutter/flutter/pull/153178) opened on on August 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153178) 52 additions and 0 deletions in 2 files</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry tasks when adb reports that a device has gone offline unexpectedly<br />
     <sub>[#153190](https://github.com/flutter/flutter/pull/153190) opened on on August 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153190) 109 additions and 10 deletions in 4 files</sub><br />
