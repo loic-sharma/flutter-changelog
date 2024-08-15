@@ -20,9 +20,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update template/test `compileSdk`, `targetSdk`, `ndk` versions<br />
     <sub>[#152487](https://github.com/flutter/flutter/pull/152487) opened on on July 29, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/152487) 295 additions and 235 deletions in 33 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates<br />
-    <sub>[#152525](https://github.com/flutter/flutter/pull/152525) opened on on July 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152525) 28 additions and 96 deletions in 1 file</sub><br />
-
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
     <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
 
