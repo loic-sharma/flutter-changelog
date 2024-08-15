@@ -1169,7 +1169,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-13 commits.
+14 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes restriction on number of custom types per file
     <sub>[#6840](https://github.com/flutter/packages/pull/6840) merged on August 12, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6840) over 2 months, 11158 additions and 5486 deletions in 69 files</sub>
@@ -1182,6 +1182,10 @@
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Add expanded and extra large breakpoints
     <sub>[#7300](https://github.com/flutter/packages/pull/7300) merged on August 12, 2024 &mdash; **Extra large:** [53 comments](https://github.com/flutter/packages/pull/7300) over 1 week, 1299 additions and 217 deletions in 17 files</sub>
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [gourgouris](https://github.com/gourgouris), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Add breakpoint extension to get the current active breakpoint
+    <sub>[#7347](https://github.com/flutter/packages/pull/7347) merged on August 15, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/packages/pull/7347) over 1 week, 281 additions and 14 deletions in 6 files</sub>
+    <sub>Reviewed by: [Diego Tori](https://github.com/diegotori), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] remove testing section from README
     <sub>[#7410](https://github.com/flutter/packages/pull/7410) merged on August 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7410) over 1 day, 3 additions and 14 deletions in 3 files</sub>
