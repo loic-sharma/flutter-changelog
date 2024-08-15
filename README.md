@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-27 commits.
+29 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.<br />
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub><br />
@@ -48,6 +48,14 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Android version in the engine<br />
     <sub>[#151601](https://github.com/flutter/flutter/pull/151601) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151601) over 1 month, 46 additions and 24 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Design-Documents.md incorrect link<br />
+    <sub>[#153509](https://github.com/flutter/flutter/pull/153509) merged on August 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153509) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll `avd_cipd_verison` to latest to use the `crashreport` tool.<br />
+    <sub>[#153520](https://github.com/flutter/flutter/pull/153520) merged on August 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153520) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Enable invalid_runtime_check_with_js_interop_types, use_truncating_division<br />
     <sub>[#153464](https://github.com/flutter/flutter/pull/153464) merged on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153464) over 56 minutes, 2 additions and 2 deletions in 1 file</sub><br />
