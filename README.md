@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-26 commits.
+27 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.<br />
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub><br />
@@ -88,6 +88,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable DevTools when running the hot restart integration test in flutter_tools<br />
     <sub>[#153247](https://github.com/flutter/flutter/pull/153247) merged on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153247) over 1 day, 3 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Improve asserts on Element.mount<br />
+    <sub>[#153477](https://github.com/flutter/flutter/pull/153477) merged on August 15, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153477) over 21 hours, 16 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages<br />
     <sub>[#153479](https://github.com/flutter/flutter/pull/153479) merged on August 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153479) over 16 hours, 90 additions and 90 deletions in 45 files</sub><br />
@@ -685,7 +689,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-29 commits.
+30 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.<br />
     <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub><br />
@@ -722,6 +726,10 @@
 * **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "[Impeller] migrate blur tests to display list. (#54519)"<br />
     <sub>[#54564](https://github.com/flutter/engine/pull/54564) merged on August 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/54564) over 33 seconds, 902 additions and 985 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] revert experimental canvas.<br />
+    <sub>[#54570](https://github.com/flutter/engine/pull/54570) merged on August 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54570) over 39 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Update RBE troubleshooting<br />
     <sub>[#54568](https://github.com/flutter/engine/pull/54568) merged on August 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54568) over 1 hour, 14 additions and 0 deletions in 1 file</sub><br />
