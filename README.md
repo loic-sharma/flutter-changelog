@@ -676,7 +676,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-24 commits.
+25 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix drawPoints scaling factors.<br />
     <sub>[#54368](https://github.com/flutter/engine/pull/54368) merged on August 13, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/engine/pull/54368) over 1 week, 84 additions and 14 deletions in 6 files</sub><br />
@@ -707,7 +707,7 @@
     <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Refactor create_macos_framework.py<br />
-    <sub>[#54557](https://github.com/flutter/engine/pull/54557) merged on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54557) over 2 hours, 87 additions and 72 deletions in 2 files</sub><br />
+    <sub>[#54557](https://github.com/flutter/engine/pull/54557) merged on August 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54557) over 2 hours, 87 additions and 72 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Clean up create_macos_framework.py (#54543)<br />
@@ -745,6 +745,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Clean up create_ios_framework.py<br />
     <sub>[#54500](https://github.com/flutter/engine/pull/54500) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54500) over 16 hours, 137 additions and 101 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[auto-submit](https://github.com/apps/auto-submit)** &mdash; Reverts "macOS: Refactor create_macos_framework.py (#54557)"<br />
+    <sub>[#54566](https://github.com/flutter/engine/pull/54566) merged on August 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54566) over 1 minute, 72 additions and 87 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonny Wang](https://github.com/jrwang)** &mdash; [fuchsia] Use Fuchsia API 22<br />
     <sub>[#54554](https://github.com/flutter/engine/pull/54554) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54554) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
