@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-24 commits.
+25 commits.
 
 * **[Jamie Kerber](https://github.com/kerberjg)** &mdash; Implemented CupertinoButton new styles/sizes (fixes #92525)
     <sub>[#152845](https://github.com/flutter/flutter/pull/152845) merged on August 12, 2024 &mdash; **Medium:** [49 comments](https://github.com/flutter/flutter/pull/152845) over 1 week, 314 additions and 62 deletions in 8 files</sub>
@@ -83,6 +83,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable DevTools when running the hot restart integration test in flutter_tools
     <sub>[#153247](https://github.com/flutter/flutter/pull/153247) merged on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153247) over 1 day, 3 additions and 1 deletion in 2 files</sub>
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[flutter-pub-roller-bot](https://github.com/flutter-pub-roller-bot)** &mdash; Roll pub packages
+    <sub>[#153479](https://github.com/flutter/flutter/pull/153479) merged on August 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153479) over 16 hours, 90 additions and 90 deletions in 45 files</sub>
+    <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Move `@_debugOnly` documentation in `framework.dart` to be more visible to IDE.
     <sub>[#153134](https://github.com/flutter/flutter/pull/153134) merged on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153134) over 5 days, 10 additions and 10 deletions in 1 file</sub>
