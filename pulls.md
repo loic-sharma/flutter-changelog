@@ -77,3 +77,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for sliver grid delegate with fixed cross axis count examples<br />
     <sub>[#153500](https://github.com/flutter/flutter/pull/153500) opened on on August 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153500) 45 additions and 3 deletions in 4 files</sub><br />
 
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds missing IMA plugin to issue template<br />
+    <sub>[#153510](https://github.com/flutter/flutter/pull/153510) opened on on August 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153510) 1 addition and 0 deletions in 1 file</sub><br />
+
