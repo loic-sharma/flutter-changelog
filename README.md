@@ -329,41 +329,41 @@
     <sub>[#152940](https://github.com/flutter/flutter/pull/152940) merged on August 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/152940) over 3 hours, 23 additions and 8 deletions in 2 files</sub><br />
     <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider does not show changed label value for keyboard users fix<br />
-    <sub>[#152886](https://github.com/flutter/flutter/pull/152886) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152886) over 21 hours, 113 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Clean up MenuAnchor<br />
-    <sub>[#152946](https://github.com/flutter/flutter/pull/152946) merged on August 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152946) over 1 day, 119 additions and 137 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix CarouselView rebuild<br />
-    <sub>[#152791](https://github.com/flutter/flutter/pull/152791) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152791) over 2 days, 45 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix PageController throws when changing page before viewPortDimensions are set<br />
-    <sub>[#153017](https://github.com/flutter/flutter/pull/153017) merged on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153017) over 4 hours, 68 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix `flutter build ipa --export-method` not accepting `enterprise` flag<br />
+    <sub>[#153047](https://github.com/flutter/flutter/pull/153047) merged on August 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153047) over 21 hours, 74 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Expose affixes icon constraints in InputDecorationTheme<br />
     <sub>[#153089](https://github.com/flutter/flutter/pull/153089) merged on August 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153089) over 1 day, 116 additions and 22 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for ordered_traversal_group.0.dart<br />
-    <sub>[#152849](https://github.com/flutter/flutter/pull/152849) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152849) over 23 hours, 41 additions and 4 deletions in 3 files</sub><br />
-    <sub>Reviewed by: [Leoporno](https://github.com/Leoporno), [Bruno Leroux](https://github.com/bleroux)</sub><br />
-
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Move Cupertino focus constants to cupertino/constants.dart<br />
     <sub>[#153115](https://github.com/flutter/flutter/pull/153115) merged on August 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153115) over 23 hours, 43 additions and 42 deletions in 8 files</sub><br />
     <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Clean up MenuAnchor<br />
+    <sub>[#152946](https://github.com/flutter/flutter/pull/152946) merged on August 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152946) over 1 day, 119 additions and 137 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix PageController throws when changing page before viewPortDimensions are set<br />
+    <sub>[#153017](https://github.com/flutter/flutter/pull/153017) merged on August 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153017) over 4 hours, 68 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider does not show changed label value for keyboard users fix<br />
+    <sub>[#152886](https://github.com/flutter/flutter/pull/152886) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152886) over 21 hours, 113 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for ordered_traversal_group.0.dart<br />
+    <sub>[#152849](https://github.com/flutter/flutter/pull/152849) merged on August 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152849) over 23 hours, 41 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Leoporno](https://github.com/Leoporno), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; added functionality to where SR will communicate button clicked<br />
     <sub>[#152185](https://github.com/flutter/flutter/pull/152185) merged on August 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152185) over 1 week, 41 additions and 20 deletions in 2 files</sub><br />
     <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix `flutter build ipa --export-method` not accepting `enterprise` flag<br />
-    <sub>[#153047](https://github.com/flutter/flutter/pull/153047) merged on August 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153047) over 21 hours, 74 additions and 2 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Fix CarouselView rebuild<br />
+    <sub>[#152791](https://github.com/flutter/flutter/pull/152791) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152791) over 2 days, 45 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Marks Mac channels_integration_test to be flaky"<br />
     <sub>[#153044](https://github.com/flutter/flutter/pull/153044) merged on August 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153044) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
