@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-32 commits.
+33 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub>
@@ -40,6 +40,10 @@
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; Slider shows visual label of value on focus
     <sub>[#152960](https://github.com/flutter/flutter/pull/152960) merged on August 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152960) over 1 week, 53 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add `HttpException` to the list of handled exceptions within `ResidentWebRunner::run`
+    <sub>[#153527](https://github.com/flutter/flutter/pull/153527) merged on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153527) over 18 hours, 65 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(flutter/a11y assessments): h1 missing a11y from each page on the web app
     <sub>[#152198](https://github.com/flutter/flutter/pull/152198) merged on August 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/152198) over 2 weeks, 132 additions and 20 deletions in 35 files</sub>
