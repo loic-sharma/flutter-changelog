@@ -68,3 +68,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; adds team-accessibility to triage workflow<br />
     <sub>[#153575](https://github.com/flutter/flutter/pull/153575) opened on on August 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153575) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]add `HttpException` to the list of handled exceptions within `ResidentWebRunner::run`<br />
+    <sub>[#153579](https://github.com/flutter/flutter/pull/153579) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153579) 65 additions and 1 deletion in 2 files</sub><br />
+
