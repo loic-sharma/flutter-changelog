@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-31 commits.
+32 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub>
@@ -28,6 +28,10 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Delay `DropdownMenu` filtering until text input
     <sub>[#152368](https://github.com/flutter/flutter/pull/152368) merged on August 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152368) over 2 weeks, 52 additions and 2 deletions in 2 files</sub>
     <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Style Guide updates
+    <sub>[#152525](https://github.com/flutter/flutter/pull/152525) merged on August 16, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/152525) over 2 weeks, 106 additions and 103 deletions in 1 file</sub>
+    <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Joe Kawai](https://github.com/kawaijoe)** &mdash; Add `TextHeightBehavior` argument for `DefaultTextStyle.merge`
     <sub>[#153178](https://github.com/flutter/flutter/pull/153178) merged on August 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153178) over 6 days, 52 additions and 0 deletions in 2 files</sub>
@@ -676,7 +680,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-28 commits.
+30 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.
     <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub>
@@ -713,6 +717,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add support for superellipse.
     <sub>[#54562](https://github.com/flutter/engine/pull/54562) merged on August 15, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/54562) over 1 day, 212 additions and 0 deletions in 6 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add dSYM binaries to without_entitlements.txt
+    <sub>[#54576](https://github.com/flutter/engine/pull/54576) merged on August 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54576) over 14 hours, 106 additions and 21 deletions in 2 files</sub>
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Improve how overlays are optimized
     <sub>[#54547](https://github.com/flutter/engine/pull/54547) merged on August 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54547) over 1 day, 210 additions and 24 deletions in 2 files</sub>
@@ -764,6 +772,10 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Clean up create_ios_framework.py
     <sub>[#54500](https://github.com/flutter/engine/pull/54500) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54500) over 16 hours, 137 additions and 101 deletions in 3 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Manual roll Dart SDK from 44635f897535 to 8c02ad43e01a (3 revisions) 
+    <sub>[#54581](https://github.com/flutter/engine/pull/54581) merged on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54581) over 1 hour, 9 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Oleg Magomedov](https://github.com/smart7even)** &mdash; Fix typo in AppLifecycleState documentation
