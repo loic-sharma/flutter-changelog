@@ -1171,7 +1171,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-10 commits.
+11 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes restriction on number of custom types per file<br />
     <sub>[#6840](https://github.com/flutter/packages/pull/6840) merged on August 12, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6840) over 2 months, 11158 additions and 5486 deletions in 69 files</sub><br />
@@ -1196,6 +1196,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix breakages introduced by `SplashFactory`<br />
     <sub>[#6952](https://github.com/flutter/packages/pull/6952) merged on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/6952) over 1 month, 12 additions and 12 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[远浅](https://github.com/unliar)** &mdash; [go_router] docs: replace out dated initialRoute to initialLocation<br />
+    <sub>[#7147](https://github.com/flutter/packages/pull/7147) merged on August 16, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7147) over 1 month, 7 additions and 4 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Fernando Trigoso](https://github.com/fertrig)** &mdash; [shared_preferences] Fixes get-all when suite name is used<br />
     <sub>[#7335](https://github.com/flutter/packages/pull/7335) merged on August 12, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/7335) over 4 days, 97 additions and 2 deletions in 5 files</sub><br />
