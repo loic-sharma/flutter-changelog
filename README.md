@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-28 commits.
+29 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.<br />
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub><br />
@@ -100,6 +100,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable DevTools when running the hot restart integration test in flutter_tools<br />
     <sub>[#153247](https://github.com/flutter/flutter/pull/153247) merged on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153247) over 1 day, 3 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds missing IMA plugin to issue template<br />
+    <sub>[#153510](https://github.com/flutter/flutter/pull/153510) merged on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153510) over 8 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update TextTheme with the M3 Typography tokens<br />
     <sub>[#153131](https://github.com/flutter/flutter/pull/153131) merged on August 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153131) over 1 week, 23 additions and 1 deletion in 1 file</sub><br />
@@ -1131,7 +1135,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-8 commits.
+9 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes restriction on number of custom types per file<br />
     <sub>[#6840](https://github.com/flutter/packages/pull/6840) merged on August 12, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6840) over 2 months, 11158 additions and 5486 deletions in 69 files</sub><br />
@@ -1164,6 +1168,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll `avd_cipd_verison` to latest to use the `crashreport` tool.<br />
     <sub>[#7422](https://github.com/flutter/packages/pull/7422) merged on August 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7422) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds IMA plugin to labeler yaml<br />
+    <sub>[#7420](https://github.com/flutter/packages/pull/7420) merged on August 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7420) over 8 hours, 5 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 ### August 3, 2024 to August 9, 2024
 
