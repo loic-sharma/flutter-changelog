@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-30 commits.
+31 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub>
@@ -52,6 +52,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update docs to use new Android version in the engine
     <sub>[#151601](https://github.com/flutter/flutter/pull/151601) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151601) over 1 month, 46 additions and 24 deletions in 1 file</sub>
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Android API level 35 emulator tests to staging
+    <sub>[#153568](https://github.com/flutter/flutter/pull/153568) merged on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153568) over 43 minutes, 4 additions and 0 deletions in 1 file</sub>
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Swift Package Manager] Test removing the last Flutter plugin
     <sub>[#153519](https://github.com/flutter/flutter/pull/153519) merged on August 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153519) over 18 hours, 104 additions and 0 deletions in 2 files</sub>
