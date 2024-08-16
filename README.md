@@ -664,7 +664,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-27 commits.
+28 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.<br />
     <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub><br />
@@ -765,6 +765,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Use BundledTestRunner from test-scripts<br />
     <sub>[#54404](https://github.com/flutter/engine/pull/54404) merged on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54404) over 6 days, 16 additions and 53 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 44635f897535 to 790fcb755a0a (3 revisions)<br />
+    <sub>[#54558](https://github.com/flutter/engine/pull/54558) merged on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54558) over 1 day, 9 additions and 9 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[Impeller] remove scene3d support."<br />
     <sub>[#54502](https://github.com/flutter/engine/pull/54502) merged on August 12, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/54502) over 10 hours, 6685 additions and 5 deletions in 97 files</sub><br />
