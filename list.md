@@ -771,7 +771,7 @@
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 44635f897535 to 790fcb755a0a (3 revisions)
-    <sub>[#54558](https://github.com/flutter/engine/pull/54558) merged on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54558) over 1 day, 9 additions and 9 deletions in 3 files</sub>
+    <sub>[#54558](https://github.com/flutter/engine/pull/54558) merged on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54558) over 1 day, 9 additions and 9 deletions in 3 files</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[Impeller] remove scene3d support."
