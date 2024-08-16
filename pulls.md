@@ -68,3 +68,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]add `HttpException` to the list of handled exceptions within `ResidentWebRunner::run`<br />
     <sub>[#153579](https://github.com/flutter/flutter/pull/153579) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153579) 65 additions and 1 deletion in 2 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes page.onPopInvoked type mismatches<br />
+    <sub>[#153593](https://github.com/flutter/flutter/pull/153593) opened on on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153593) 81 additions and 1 deletion in 2 files</sub><br />
+
