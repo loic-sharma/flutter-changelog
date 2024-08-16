@@ -72,7 +72,7 @@
     <sub>[#153593](https://github.com/flutter/flutter/pull/153593) opened on on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153593) 81 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not silently fail `pub get` even if output-mode is "none"<br />
-    <sub>[#153596](https://github.com/flutter/flutter/pull/153596) opened on on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153596) 99 additions and 18 deletions in 6 files</sub><br />
+    <sub>[#153596](https://github.com/flutter/flutter/pull/153596) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153596) 99 additions and 18 deletions in 6 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT SUBMIT: TEST ENGINE ROLL<br />
     <sub>[#153598](https://github.com/flutter/flutter/pull/153598) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153598) 2 additions and 1 deletion in 2 files</sub><br />
