@@ -692,7 +692,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-30 commits.
+31 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.<br />
     <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub><br />
@@ -785,6 +785,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Clean up create_ios_framework.py<br />
     <sub>[#54500](https://github.com/flutter/engine/pull/54500) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54500) over 16 hours, 137 additions and 101 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove SkOSLibrary files from build and license scripts<br />
+    <sub>[#54583](https://github.com/flutter/engine/pull/54583) merged on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54583) over 1 hour, 1 addition and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brian Osman](https://github.com/brianosman)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Manual roll Dart SDK from 44635f897535 to 8c02ad43e01a (3 revisions) <br />
     <sub>[#54581](https://github.com/flutter/engine/pull/54581) merged on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54581) over 1 hour, 9 additions and 9 deletions in 3 files</sub><br />
