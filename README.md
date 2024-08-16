@@ -692,7 +692,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-31 commits.
+32 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.<br />
     <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub><br />
@@ -721,6 +721,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update integration test AVD dependency to use Android 35 emulators<br />
     <sub>[#54186](https://github.com/flutter/engine/pull/54186) merged on August 12, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/54186) over 2 weeks, 313 additions and 22 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Fuchsia tests to a separate config file<br />
+    <sub>[#54591](https://github.com/flutter/engine/pull/54591) merged on August 16, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54591) over 57 minutes, 302 additions and 284 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] convert aiks blur tests to new canvas.<br />
     <sub>[#54565](https://github.com/flutter/engine/pull/54565) merged on August 15, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/54565) over 13 hours, 985 additions and 902 deletions in 6 files</sub><br />
