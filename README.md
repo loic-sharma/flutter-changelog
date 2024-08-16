@@ -4,7 +4,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-34 commits.
+35 commits.
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.<br />
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub><br />
@@ -61,13 +61,9 @@
     <sub>[#151601](https://github.com/flutter/flutter/pull/151601) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/151601) over 1 month, 46 additions and 24 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Swift Package Manager] Test removing the last Flutter plugin<br />
-    <sub>[#153519](https://github.com/flutter/flutter/pull/153519) merged on August 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153519) over 18 hours, 104 additions and 0 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Design-Documents.md incorrect link<br />
-    <sub>[#153509](https://github.com/flutter/flutter/pull/153509) merged on August 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153509) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Android API level 35 emulator tests to staging<br />
+    <sub>[#153568](https://github.com/flutter/flutter/pull/153568) merged on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153568) over 43 minutes, 4 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll `avd_cipd_verison` to latest to use the `crashreport` tool.<br />
     <sub>[#153520](https://github.com/flutter/flutter/pull/153520) merged on August 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153520) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
@@ -93,9 +89,21 @@
     <sub>[#153353](https://github.com/flutter/flutter/pull/153353) merged on August 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153353) over 1 day, 106 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Android API level 35 emulator tests to staging<br />
-    <sub>[#153568](https://github.com/flutter/flutter/pull/153568) merged on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153568) over 43 minutes, 4 additions and 0 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update cherry pick issue template's PR field<br />
+    <sub>[#153381](https://github.com/flutter/flutter/pull/153381) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153381) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Swift Package Manager] Test removing the last Flutter plugin<br />
+    <sub>[#153519](https://github.com/flutter/flutter/pull/153519) merged on August 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153519) over 18 hours, 104 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Design-Documents.md incorrect link<br />
+    <sub>[#153509](https://github.com/flutter/flutter/pull/153509) merged on August 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153509) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift API level 34 emulator tests to prod<br />
+    <sub>[#153366](https://github.com/flutter/flutter/pull/153366) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153366) over 52 minutes, 0 additions and 4 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [web] Pass `--no-source-maps` instead of `--extra-compiler-option=--no-source-maps` to `dart compile wasm`<br />
     <sub>[#153417](https://github.com/flutter/flutter/pull/153417) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153417) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
@@ -105,17 +113,9 @@
     <sub>[#153369](https://github.com/flutter/flutter/pull/153369) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153369) over 1 hour, 4 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift API level 34 emulator tests to prod<br />
-    <sub>[#153366](https://github.com/flutter/flutter/pull/153366) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153366) over 52 minutes, 0 additions and 4 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable DevTools when running the hot restart integration test in flutter_tools<br />
     <sub>[#153247](https://github.com/flutter/flutter/pull/153247) merged on August 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153247) over 1 day, 3 additions and 1 deletion in 2 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update cherry pick issue template's PR field<br />
-    <sub>[#153381](https://github.com/flutter/flutter/pull/153381) merged on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153381) over 23 hours, 1 addition and 1 deletion in 1 file</sub><br />
-    <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds missing IMA plugin to issue template<br />
     <sub>[#153510](https://github.com/flutter/flutter/pull/153510) merged on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153510) over 8 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -140,6 +140,10 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Make CupertinoButton interactive by keyboard shortcuts<br />
     <sub>[#153126](https://github.com/flutter/flutter/pull/153126) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153126) over 4 days, 49 additions and 0 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Update README.md<br />
+    <sub>[#153470](https://github.com/flutter/flutter/pull/153470) merged on August 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153470) over 1 day, 6 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; adds team-accessibility to triage workflow<br />
     <sub>[#153575](https://github.com/flutter/flutter/pull/153575) merged on August 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153575) over 1 hour, 2 additions and 0 deletions in 1 file</sub><br />
