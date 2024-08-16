@@ -692,7 +692,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-32 commits.
+33 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.
     <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub>
@@ -733,6 +733,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add support for superellipse.
     <sub>[#54562](https://github.com/flutter/engine/pull/54562) merged on August 15, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/54562) over 1 day, 212 additions and 0 deletions in 6 files</sub>
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Add missing steps to Testing Presubmit Engine PRs
+    <sub>[#54593](https://github.com/flutter/engine/pull/54593) merged on August 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54593) over 58 minutes, 18 additions and 10 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add dSYM binaries to without_entitlements.txt
     <sub>[#54576](https://github.com/flutter/engine/pull/54576) merged on August 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54576) over 14 hours, 106 additions and 21 deletions in 2 files</sub>
