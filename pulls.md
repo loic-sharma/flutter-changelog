@@ -80,6 +80,3 @@
 * **[Moustafa_Abdelrahim_Ga3llouss](https://github.com/MoustafaAbdelrahimGaallouss)** &mdash; edite Home Page only<br />
     <sub>[#153610](https://github.com/flutter/flutter/pull/153610) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153610) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to disable blur in CupertinoNavigationBar with transparent background color<br />
-    <sub>[#153631](https://github.com/flutter/flutter/pull/153631) opened on on August 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153631) 90 additions and 2 deletions in 2 files</sub><br />
-
