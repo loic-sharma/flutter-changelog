@@ -696,7 +696,7 @@
 
 ### August 10, 2024 to August 16, 2024
 
-33 commits.
+34 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.
     <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub>
@@ -742,6 +742,10 @@
     <sub>[#54593](https://github.com/flutter/engine/pull/54593) merged on August 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54593) over 58 minutes, 18 additions and 10 deletions in 1 file</sub>
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey), [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Extract framework creation to sky_utils
+    <sub>[#54586](https://github.com/flutter/engine/pull/54586) merged on August 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54586) over 4 hours, 66 additions and 66 deletions in 2 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add dSYM binaries to without_entitlements.txt
     <sub>[#54576](https://github.com/flutter/engine/pull/54576) merged on August 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54576) over 14 hours, 106 additions and 21 deletions in 2 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -778,9 +782,9 @@
     <sub>[#54543](https://github.com/flutter/engine/pull/54543) merged on August 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54543) over 1 hour, 70 additions and 111 deletions in 2 files</sub>
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add animation detection for GIFs
-    <sub>[#54483](https://github.com/flutter/engine/pull/54483) merged on August 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54483) over 3 days, 267 additions and 11 deletions in 2 files</sub>
-    <sub>Reviewed by: </sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Clean up create_ios_framework.py
+    <sub>[#54500](https://github.com/flutter/engine/pull/54500) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54500) over 16 hours, 137 additions and 101 deletions in 3 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Preserve background frame damage
     <sub>[#54540](https://github.com/flutter/engine/pull/54540) merged on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54540) over 4 hours, 86 additions and 1 deletion in 2 files</sub>
@@ -794,9 +798,9 @@
     <sub>[#54514](https://github.com/flutter/engine/pull/54514) merged on August 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54514) over 1 hour, 44 additions and 33 deletions in 3 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Clean up create_ios_framework.py
-    <sub>[#54500](https://github.com/flutter/engine/pull/54500) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54500) over 16 hours, 137 additions and 101 deletions in 3 files</sub>
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add animation detection for GIFs
+    <sub>[#54483](https://github.com/flutter/engine/pull/54483) merged on August 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54483) over 3 days, 267 additions and 11 deletions in 2 files</sub>
+    <sub>Reviewed by: </sub>
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove SkOSLibrary files from build and license scripts
     <sub>[#54583](https://github.com/flutter/engine/pull/54583) merged on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54583) over 1 hour, 1 addition and 11 deletions in 2 files</sub>
