@@ -74,9 +74,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not silently fail `pub get` even if output-mode is "none"<br />
     <sub>[#153596](https://github.com/flutter/flutter/pull/153596) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153596) 99 additions and 18 deletions in 6 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT SUBMIT: TEST ENGINE ROLL<br />
-    <sub>[#153598](https://github.com/flutter/flutter/pull/153598) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153598) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not cancel the VmService's subscription to the isolate event stream in FlutterVmService.findExtensionIsolate<br />
     <sub>[#153607](https://github.com/flutter/flutter/pull/153607) opened on on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153607) 1 addition and 81 deletions in 5 files</sub><br />
 
