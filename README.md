@@ -696,15 +696,15 @@
 
 ### August 10, 2024 to August 16, 2024
 
-34 commits.
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.<br />
-    <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub><br />
-    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+35 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix drawPoints scaling factors.<br />
     <sub>[#54368](https://github.com/flutter/engine/pull/54368) merged on August 13, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/engine/pull/54368) over 1 week, 84 additions and 14 deletions in 6 files</sub><br />
     <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Switch from AIKS canvas to DL based canvas implementation.<br />
+    <sub>[#53781](https://github.com/flutter/engine/pull/53781) merged on August 15, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/53781) over 1 month, 178 additions and 102 deletions in 12 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Allow random access to ops through indexing<br />
     <sub>[#54484](https://github.com/flutter/engine/pull/54484) merged on August 13, 2024 &mdash; **Extra large:** [15 comments](https://github.com/flutter/engine/pull/54484) over 3 days, 1355 additions and 463 deletions in 8 files</sub><br />
@@ -738,17 +738,17 @@
     <sub>[#54562](https://github.com/flutter/engine/pull/54562) merged on August 15, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/54562) over 1 day, 212 additions and 0 deletions in 6 files</sub><br />
     <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Add missing steps to Testing Presubmit Engine PRs<br />
-    <sub>[#54593](https://github.com/flutter/engine/pull/54593) merged on August 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54593) over 58 minutes, 18 additions and 10 deletions in 1 file</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey), [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Extract framework creation to sky_utils<br />
-    <sub>[#54586](https://github.com/flutter/engine/pull/54586) merged on August 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54586) over 4 hours, 66 additions and 66 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add dSYM binaries to without_entitlements.txt<br />
     <sub>[#54576](https://github.com/flutter/engine/pull/54576) merged on August 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54576) over 14 hours, 106 additions and 21 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift linux_fuchsia_tests from staging to prod<br />
+    <sub>[#54597](https://github.com/flutter/engine/pull/54597) merged on August 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54597) over 5 hours, 0 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [docs] Add missing steps to Testing Presubmit Engine PRs<br />
+    <sub>[#54593](https://github.com/flutter/engine/pull/54593) merged on August 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54593) over 58 minutes, 18 additions and 10 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Improve how overlays are optimized<br />
     <sub>[#54547](https://github.com/flutter/engine/pull/54547) merged on August 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54547) over 1 day, 210 additions and 24 deletions in 2 files</sub><br />
@@ -782,13 +782,13 @@
     <sub>[#54543](https://github.com/flutter/engine/pull/54543) merged on August 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54543) over 1 hour, 70 additions and 111 deletions in 2 files</sub><br />
     <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Extract framework creation to sky_utils<br />
+    <sub>[#54586](https://github.com/flutter/engine/pull/54586) merged on August 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54586) over 4 hours, 66 additions and 66 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Clean up create_ios_framework.py<br />
     <sub>[#54500](https://github.com/flutter/engine/pull/54500) merged on August 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54500) over 16 hours, 137 additions and 101 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; Preserve background frame damage<br />
-    <sub>[#54540](https://github.com/flutter/engine/pull/54540) merged on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54540) over 4 hours, 86 additions and 1 deletion in 2 files</sub><br />
-    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move API level 34 scenario app tests back to prod<br />
     <sub>[#54539](https://github.com/flutter/engine/pull/54539) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54539) over 47 minutes, 0 additions and 2 deletions in 1 file</sub><br />
@@ -802,9 +802,9 @@
     <sub>[#54483](https://github.com/flutter/engine/pull/54483) merged on August 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54483) over 3 days, 267 additions and 11 deletions in 2 files</sub><br />
     <sub>Reviewed by: </sub><br />
 
-* **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove SkOSLibrary files from build and license scripts<br />
-    <sub>[#54583](https://github.com/flutter/engine/pull/54583) merged on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54583) over 1 hour, 1 addition and 11 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Brian Osman](https://github.com/brianosman)</sub><br />
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Preserve background frame damage<br />
+    <sub>[#54540](https://github.com/flutter/engine/pull/54540) merged on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54540) over 4 hours, 86 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Manual roll Dart SDK from 44635f897535 to 8c02ad43e01a (3 revisions) <br />
     <sub>[#54581](https://github.com/flutter/engine/pull/54581) merged on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54581) over 1 hour, 9 additions and 9 deletions in 3 files</sub><br />
@@ -821,6 +821,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Use BundledTestRunner from test-scripts<br />
     <sub>[#54404](https://github.com/flutter/engine/pull/54404) merged on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54404) over 6 days, 16 additions and 53 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
+
+* **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove SkOSLibrary files from build and license scripts<br />
+    <sub>[#54583](https://github.com/flutter/engine/pull/54583) merged on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54583) over 1 hour, 1 addition and 11 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brian Osman](https://github.com/brianosman)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 44635f897535 to 790fcb755a0a (3 revisions)<br />
     <sub>[#54558](https://github.com/flutter/engine/pull/54558) merged on August 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54558) over 1 day, 9 additions and 9 deletions in 3 files</sub><br />
