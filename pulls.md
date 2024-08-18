@@ -50,9 +50,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes TreeSliver collapsing not working<br />
     <sub>[#153438](https://github.com/flutter/flutter/pull/153438) opened on on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153438) 209 additions and 3 deletions in 2 files</sub><br />
 
-* **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] `isCustomDateFormat` accepts an actual boolean<br />
-    <sub>[#153439](https://github.com/flutter/flutter/pull/153439) opened on on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153439) 25 additions and 0 deletions in 2 files</sub><br />
-
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] Fix formatting with multiple locale<br />
     <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153459) 283 additions and 15 deletions in 3 files</sub><br />
 
