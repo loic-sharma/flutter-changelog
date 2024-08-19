@@ -4,7 +4,11 @@
 
 ### August 17, 2024 to August 23, 2024
 
-3 commits.
+4 commits.
+
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; refactor material banner and fix focus issue
+    <sub>[#152646](https://github.com/flutter/flutter/pull/152646) merged on August 19, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/152646) over 2 weeks, 57 additions and 30 deletions in 2 files</sub>
+    <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove android stack_size_test
     <sub>[#153695](https://github.com/flutter/flutter/pull/153695) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153695) over 4 hours, 0 additions and 239 deletions in 7 files</sub>
