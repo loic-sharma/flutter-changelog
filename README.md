@@ -782,11 +782,15 @@
 
 ### August 17, 2024 to August 23, 2024
 
-1 commits.
+2 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Re-land SurfaceProducer migration with fix for camera preview rotation<br />
     <sub>[#6856](https://github.com/flutter/packages/pull/6856) merged on August 19, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/packages/pull/6856) over 2 months, 95 additions and 43 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove scorecard action<br />
+    <sub>[#7450](https://github.com/flutter/packages/pull/7450) merged on August 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7450) over 1 minute, 0 additions and 55 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 ### August 10, 2024 to August 16, 2024
 
