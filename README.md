@@ -987,3 +987,186 @@
 
 </details>
 
+## flutter/website
+
+### August 17, 2024 to August 23, 2024
+
+8 commits.
+
+* **[Mikhail Zotyev](https://github.com/MbIXjkee)** &mdash; Add Elementary to the state management options page<br />
+    <sub>[#11035](https://github.com/flutter/website/pull/11035) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11035) over 1 week, 14 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [John Ryan](https://github.com/johnpryan), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Reorder target devices<br />
+    <sub>[#11044](https://github.com/flutter/website/pull/11044) merged on August 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11044) over 5 days, 3 additions and 3 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch special tabs from SwiftUI page to inline button<br />
+    <sub>[#11058](https://github.com/flutter/website/pull/11058) merged on August 19, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11058) over 1 day, 91 additions and 288 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; document add-to-app for web<br />
+    <sub>[#11056](https://github.com/flutter/website/pull/11056) merged on August 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11056) over 2 days, 79 additions and 16 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Nestor Sebastian Garzon Contreras](https://github.com/nestorsgarzonc)** &mdash; Update android-predictive-back.md<br />
+    <sub>[#11033](https://github.com/flutter/website/pull/11033) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11033) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Integral](https://github.com/Integral-Tech)** &mdash; Fix SDK installation guide on Linux<br />
+    <sub>[#11034](https://github.com/flutter/website/pull/11034) merged on August 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11034) over 1 week, 13 additions and 13 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Update android guides to use kotlin DSL<br />
+    <sub>[#11059](https://github.com/flutter/website/pull/11059) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11059) over 1 day, 13 additions and 13 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add missing `use-named-parameters` option for l10n<br />
+    <sub>[#11061](https://github.com/flutter/website/pull/11061) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11061) over 21 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+### August 10, 2024 to August 16, 2024
+
+<details>
+<summary>11 commits...</summary>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove usages of diff2html<br />
+    <sub>[#11031](https://github.com/flutter/website/pull/11031) merged on August 16, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/website/pull/11031) over 1 week, 709 additions and 872 deletions in 30 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Corrected path notation<br />
+    <sub>[#11020](https://github.com/flutter/website/pull/11020) merged on August 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11020) over 1 week, 23 additions and 22 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update CODEOWNERS to use website reviewers team<br />
+    <sub>[#10987](https://github.com/flutter/website/pull/10987) merged on August 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/10987) over 2 weeks, 9 additions and 24 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; JS deps updates as of 2024-08-16<br />
+    <sub>[#11054](https://github.com/flutter/website/pull/11054) merged on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11054) over 6 hours, 89 additions and 95 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Standardize 404 image with main site<br />
+    <sub>[#11053](https://github.com/flutter/website/pull/11053) merged on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11053) over 12 hours, 4 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] update web renderer documentation<br />
+    <sub>[#11045](https://github.com/flutter/website/pull/11045) merged on August 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11045) over 1 day, 136 additions and 101 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add some indicator that site is building<br />
+    <sub>[#11030](https://github.com/flutter/website/pull/11030) merged on August 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11030) over 5 days, 19 additions and 1 deletion in 2 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Andrew Brogdon](https://github.com/RedBrogdon)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix CI Dart format check<br />
+    <sub>[#11027](https://github.com/flutter/website/pull/11027) merged on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11027) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Separate out design systems in widget catalogue<br />
+    <sub>[#11032](https://github.com/flutter/website/pull/11032) merged on August 13, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/11032) over 3 days, 29 additions and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Andrew Brogdon](https://github.com/RedBrogdon)</sub><br />
+
+* **[Alessandro Artoni](https://github.com/artoale)** &mdash; Fix small typo architectural-overview.md<br />
+    <sub>[#11055](https://github.com/flutter/website/pull/11055) merged on August 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11055) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add `AnnotatedString` design doc redirect<br />
+    <sub>[#11036](https://github.com/flutter/website/pull/11036) merged on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11036) over 14 hours, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Andrew Brogdon](https://github.com/RedBrogdon), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
+
+### August 3, 2024 to August 9, 2024
+
+<details>
+<summary>18 commits...</summary>
+
+* **[Andrew Brogdon](https://github.com/RedBrogdon)** &mdash; Adds new roles to the jobs page.<br />
+    <sub>[#11025](https://github.com/flutter/website/pull/11025) merged on August 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/website/pull/11025) over 23 hours, 398 additions and 11 deletions in 6 files</sub><br />
+    <sub>Reviewed by: [Todd Volkert](https://github.com/tvolkert), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Remove re-assignment of final variable<br />
+    <sub>[#11018](https://github.com/flutter/website/pull/11018) merged on August 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11018) over 1 day, 6 additions and 8 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Brett Morgan](https://github.com/domesticmouse), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Launch DevTools through `dart` subcommand<br />
+    <sub>[#11007](https://github.com/flutter/website/pull/11007) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11007) over 1 day, 2 additions and 12 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; 3.24 Release Notes<br />
+    <sub>[#11003](https://github.com/flutter/website/pull/11003) merged on August 6, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/website/pull/11003) over 7 hours, 1513 additions and 0 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Variable Declaration<br />
+    <sub>[#11019](https://github.com/flutter/website/pull/11019) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11019) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Jenn Magder](https://github.com/jmagman), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Change `--web-renderer` default from `auto` to `canvaskit`<br />
+    <sub>[#10722](https://github.com/flutter/website/pull/10722) merged on August 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/10722) over 1 month, 7 additions and 7 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix incorrect SwiftPM plugin migration step<br />
+    <sub>[#11029](https://github.com/flutter/website/pull/11029) merged on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11029) over 1 day, 3 additions and 2 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pnpm and npm deps<br />
+    <sub>[#11023](https://github.com/flutter/website/pull/11023) merged on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11023) over 5 hours, 34 additions and 34 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update examples to build with Dart 3.5 and Flutter 3.24<br />
+    <sub>[#11005](https://github.com/flutter/website/pull/11005) merged on August 6, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11005) over 2 hours, 278 additions and 298 deletions in 150 files</sub><br />
+    <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update deployment targets and other versions<br />
+    <sub>[#10992](https://github.com/flutter/website/pull/10992) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/10992) over 3 days, 16 additions and 16 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add IMA SDK entry to sidenav<br />
+    <sub>[#11006](https://github.com/flutter/website/pull/11006) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11006) over 35 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update breaking changes for 3.24 release<br />
+    <sub>[#11004](https://github.com/flutter/website/pull/11004) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11004) over 54 minutes, 85 additions and 66 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Add `/go/wide-gamut-framework` design doc redirect<br />
+    <sub>[#11000](https://github.com/flutter/website/pull/11000) merged on August 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11000) over 20 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix IDs on widget catalog pages<br />
+    <sub>[#10995](https://github.com/flutter/website/pull/10995) merged on August 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/10995) over 19 hours, 7 additions and 5 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Michel Feinstein](https://github.com/feinstein)** &mdash; Fix missing word for-plugin-authors.md<br />
+    <sub>[#11013](https://github.com/flutter/website/pull/11013) merged on August 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11013) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Seth Ladd](https://github.com/sethladd)** &mdash; Update whats-new.md<br />
+    <sub>[#11010](https://github.com/flutter/website/pull/11010) merged on August 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11010) over 20 minutes, 1 addition and 2 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updates for the 3.24 release<br />
+    <sub>[#11009](https://github.com/flutter/website/pull/11009) merged on August 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11009) over 18 minutes, 118 additions and 54 deletions in 4 files</sub><br />
+    <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add using-widget-state-property go link<br />
+    <sub>[#11001](https://github.com/flutter/website/pull/11001) merged on August 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11001) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
+
+### July 27, 2024 to August 2, 2024
+
+<details>
+<summary>2 commits...</summary>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Cleanup extra breaking change page anchors from 11ty migration<br />
+    <sub>[#10994](https://github.com/flutter/website/pull/10994) merged on August 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/10994) over 1 hour, 15 additions and 15 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Adjust description of Cupertino in widget catalog<br />
+    <sub>[#10993](https://github.com/flutter/website/pull/10993) merged on August 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/10993) over 1 day, 70 additions and 68 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
+

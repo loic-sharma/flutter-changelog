@@ -59,9 +59,6 @@
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash; Feat: Add opportunity to change CupertinoTextField suffix alignment<br />
     <sub>[#153561](https://github.com/flutter/flutter/pull/153561) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153561) 52 additions and 21 deletions in 5 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]add `HttpException` to the list of handled exceptions within `ResidentWebRunner::run`<br />
-    <sub>[#153579](https://github.com/flutter/flutter/pull/153579) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153579) 65 additions and 1 deletion in 2 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not silently fail `pub get` even if output-mode is "none"<br />
     <sub>[#153596](https://github.com/flutter/flutter/pull/153596) opened on on August 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153596) 99 additions and 18 deletions in 6 files</sub><br />
 
