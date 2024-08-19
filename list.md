@@ -4,7 +4,11 @@
 
 ### August 17, 2024 to August 23, 2024
 
-2 commits.
+3 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove android stack_size_test
+    <sub>[#153695](https://github.com/flutter/flutter/pull/153695) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153695) over 4 hours, 0 additions and 239 deletions in 7 files</sub>
+    <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update goldctl git revision
     <sub>[#153710](https://github.com/flutter/flutter/pull/153710) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153710) over 1 hour, 84 additions and 84 deletions in 1 file</sub>
