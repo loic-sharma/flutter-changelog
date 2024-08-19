@@ -69,7 +69,7 @@
     <sub>[#153645](https://github.com/flutter/flutter/pull/153645) opened on on August 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153645) 83 additions and 134 deletions in 1 file</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update tokens to v6.1<br />
-    <sub>[#153722](https://github.com/flutter/flutter/pull/153722) opened on on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153722) 90 additions and 86 deletions in 74 files</sub><br />
+    <sub>[#153722](https://github.com/flutter/flutter/pull/153722) opened on on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153722) 90 additions and 86 deletions in 74 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Document scale parameter for Image and RawImage<br />
     <sub>[#153728](https://github.com/flutter/flutter/pull/153728) opened on on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153728) 20 additions and 0 deletions in 2 files</sub><br />
