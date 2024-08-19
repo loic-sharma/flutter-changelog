@@ -87,5 +87,5 @@
     <sub>[#153645](https://github.com/flutter/flutter/pull/153645) opened on on August 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153645) 83 additions and 134 deletions in 1 file</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try to fix Android stack_size_test<br />
-    <sub>[#153695](https://github.com/flutter/flutter/pull/153695) opened on on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153695) 3 additions and 3 deletions in 2 files</sub><br />
+    <sub>[#153695](https://github.com/flutter/flutter/pull/153695) opened on on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153695) 0 additions and 239 deletions in 7 files</sub><br />
 
