@@ -4,7 +4,11 @@
 
 ### August 17, 2024 to August 23, 2024
 
-1 commits.
+2 commits.
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update goldctl git revision<br />
+    <sub>[#153710](https://github.com/flutter/flutter/pull/153710) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153710) over 1 hour, 84 additions and 84 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not cancel the VmService's subscription to the isolate event stream in FlutterVmService.findExtensionIsolate<br />
     <sub>[#153607](https://github.com/flutter/flutter/pull/153607) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153607) over 2 days, 1 addition and 81 deletions in 5 files</sub><br />
