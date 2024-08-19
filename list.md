@@ -446,7 +446,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-5 commits.
+6 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow the default background color to be changed
     <sub>[#54575](https://github.com/flutter/engine/pull/54575) merged on August 19, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/54575) over 3 days, 97 additions and 17 deletions in 7 files</sub>
@@ -459,6 +459,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] finish experimental canvas changes.
     <sub>[#54569](https://github.com/flutter/engine/pull/54569) merged on August 19, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54569) over 3 days, 331 additions and 309 deletions in 11 files</sub>
     <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix skwasm clip coverage algorithm.
+    <sub>[#54572](https://github.com/flutter/engine/pull/54572) merged on August 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54572) over 4 days, 79 additions and 51 deletions in 2 files</sub>
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set download_jdk variable
     <sub>[#54584](https://github.com/flutter/engine/pull/54584) merged on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54584) over 2 days, 195 additions and 52 deletions in 20 files</sub>
