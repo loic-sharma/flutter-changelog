@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 17, 2024 to August 23, 2024
+
+1 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not cancel the VmService's subscription to the isolate event stream in FlutterVmService.findExtensionIsolate<br />
+    <sub>[#153607](https://github.com/flutter/flutter/pull/153607) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153607) over 2 days, 1 addition and 81 deletions in 5 files</sub><br />
+    <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
 ### August 10, 2024 to August 16, 2024
 
-37 commits.
+<details>
+<summary>37 commits...</summary>
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Fix anti-aliasing when painting borders with solid colors.<br />
     <sub>[#153365](https://github.com/flutter/flutter/pull/153365) merged on August 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153365) over 2 days, 198 additions and 3 deletions in 5 files</sub><br />
@@ -156,6 +165,8 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds missing IMA plugin to issue template<br />
     <sub>[#153510](https://github.com/flutter/flutter/pull/153510) merged on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153510) over 8 hours, 1 addition and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+</details>
 
 ### August 3, 2024 to August 9, 2024
 
@@ -765,9 +776,18 @@
 
 ## flutter/packages
 
+### August 17, 2024 to August 23, 2024
+
+1 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Re-land SurfaceProducer migration with fix for camera preview rotation<br />
+    <sub>[#6856](https://github.com/flutter/packages/pull/6856) merged on August 19, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/packages/pull/6856) over 2 months, 95 additions and 43 deletions in 7 files</sub><br />
+    <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 ### August 10, 2024 to August 16, 2024
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] removes restriction on number of custom types per file<br />
     <sub>[#6840](https://github.com/flutter/packages/pull/6840) merged on August 12, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/packages/pull/6840) over 2 months, 11158 additions and 5486 deletions in 69 files</sub><br />
@@ -812,6 +832,8 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds IMA plugin to labeler yaml<br />
     <sub>[#7420](https://github.com/flutter/packages/pull/7420) merged on August 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7420) over 8 hours, 5 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+</details>
 
 ### August 3, 2024 to August 9, 2024
 
