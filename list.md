@@ -450,7 +450,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-9 commits.
+10 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors
     <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [73 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub>
@@ -471,6 +471,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix skwasm clip coverage algorithm.
     <sub>[#54572](https://github.com/flutter/engine/pull/54572) merged on August 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54572) over 4 days, 79 additions and 51 deletions in 2 files</sub>
     <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] account for negative scale in max basis xy.
+    <sub>[#54630](https://github.com/flutter/engine/pull/54630) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54630) over 53 minutes, 11 additions and 1 deletion in 2 files</sub>
+    <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a note about Graphite to the FAQ.
     <sub>[#54623](https://github.com/flutter/engine/pull/54623) merged on August 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54623) over 2 hours, 18 additions and 0 deletions in 1 file</sub>
