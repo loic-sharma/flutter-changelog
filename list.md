@@ -427,7 +427,11 @@
 
 ### August 17, 2024 to August 23, 2024
 
-1 commits.
+2 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Set download_jdk variable
+    <sub>[#54584](https://github.com/flutter/engine/pull/54584) merged on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54584) over 2 days, 195 additions and 52 deletions in 20 files</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update gni filegroup when building Skia's codec files
     <sub>[#54588](https://github.com/flutter/engine/pull/54588) merged on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54588) over 2 days, 1 addition and 3 deletions in 1 file</sub>
