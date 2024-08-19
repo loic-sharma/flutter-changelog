@@ -450,10 +450,14 @@
 
 ### August 17, 2024 to August 23, 2024
 
-8 commits.
+9 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors<br />
+    <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [73 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub><br />
+    <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow the default background color to be changed<br />
-    <sub>[#54575](https://github.com/flutter/engine/pull/54575) merged on August 19, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/54575) over 3 days, 97 additions and 17 deletions in 7 files</sub><br />
+    <sub>[#54575](https://github.com/flutter/engine/pull/54575) merged on August 19, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/54575) over 3 days, 97 additions and 17 deletions in 7 files</sub><br />
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] use paragraphs instead of bullet points in the FAQ.<br />
