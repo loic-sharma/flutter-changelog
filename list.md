@@ -425,9 +425,18 @@
 
 ## flutter/engine
 
+### August 17, 2024 to August 23, 2024
+
+1 commits.
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update gni filegroup when building Skia's codec files
+    <sub>[#54588](https://github.com/flutter/engine/pull/54588) merged on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54588) over 2 days, 1 addition and 3 deletions in 1 file</sub>
+    <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 ### August 10, 2024 to August 16, 2024
 
-35 commits.
+<details>
+<summary>35 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix drawPoints scaling factors.
     <sub>[#54368](https://github.com/flutter/engine/pull/54368) merged on August 13, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/engine/pull/54368) over 1 week, 84 additions and 14 deletions in 6 files</sub>
@@ -568,6 +577,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Reland: Partial repaint platform views"
     <sub>[#54537](https://github.com/flutter/engine/pull/54537) merged on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54537) over 49 minutes, 26 additions and 81 deletions in 9 files</sub>
     <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub>
+
+</details>
 
 ### August 3, 2024 to August 9, 2024
 
