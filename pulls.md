@@ -42,7 +42,7 @@
     <sub>[#153331](https://github.com/flutter/flutter/pull/153331) opened on on August 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153331) 56 additions and 5 deletions in 2 files</sub><br />
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; replaced url_stratagy export for non web<br />
-    <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153355) 238 additions and 7 deletions in 9 files</sub><br />
+    <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153355) 238 additions and 7 deletions in 9 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Stop `DropdownMenu` internal scrolling from moving parent `Scrollable`<br />
     <sub>[#153360](https://github.com/flutter/flutter/pull/153360) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153360) 31 additions and 1 deletion in 2 files</sub><br />
