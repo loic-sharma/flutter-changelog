@@ -80,9 +80,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out `Container` objects<br />
     <sub>[#153619](https://github.com/flutter/flutter/pull/153619) opened on on August 17, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153619) 435 additions and 359 deletions in 23 files</sub><br />
 
-* **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to disable blur in CupertinoNavigationBar with transparent background<br />
-    <sub>[#153633](https://github.com/flutter/flutter/pull/153633) opened on on August 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153633) 90 additions and 2 deletions in 2 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `_InteractiveViewerState` code cleanup<br />
     <sub>[#153645](https://github.com/flutter/flutter/pull/153645) opened on on August 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153645) 83 additions and 134 deletions in 1 file</sub><br />
 
