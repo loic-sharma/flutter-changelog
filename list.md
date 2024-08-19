@@ -446,7 +446,11 @@
 
 ### August 17, 2024 to August 23, 2024
 
-4 commits.
+5 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow the default background color to be changed
+    <sub>[#54575](https://github.com/flutter/engine/pull/54575) merged on August 19, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/54575) over 3 days, 97 additions and 17 deletions in 7 files</sub>
+    <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] use paragraphs instead of bullet points in the FAQ.
     <sub>[#54622](https://github.com/flutter/engine/pull/54622) merged on August 19, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54622) over 42 minutes, 275 additions and 236 deletions in 1 file</sub>
