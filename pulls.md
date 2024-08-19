@@ -77,9 +77,6 @@
 * **[Moustafa_Abdelrahim_Ga3llouss](https://github.com/MoustafaAbdelrahimGaallouss)** &mdash; edite Home Page only<br />
     <sub>[#153610](https://github.com/flutter/flutter/pull/153610) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153610) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out `Container` objects<br />
-    <sub>[#153619](https://github.com/flutter/flutter/pull/153619) opened on on August 17, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153619) 435 additions and 359 deletions in 23 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `_InteractiveViewerState` code cleanup<br />
     <sub>[#153645](https://github.com/flutter/flutter/pull/153645) opened on on August 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153645) 83 additions and 134 deletions in 1 file</sub><br />
 
