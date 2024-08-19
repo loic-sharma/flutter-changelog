@@ -446,7 +446,15 @@
 
 ### August 17, 2024 to August 23, 2024
 
-2 commits.
+4 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] use paragraphs instead of bullet points in the FAQ.<br />
+    <sub>[#54622](https://github.com/flutter/engine/pull/54622) merged on August 19, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54622) over 42 minutes, 275 additions and 236 deletions in 1 file</sub><br />
+    <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] finish experimental canvas changes.<br />
+    <sub>[#54569](https://github.com/flutter/engine/pull/54569) merged on August 19, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54569) over 3 days, 331 additions and 309 deletions in 11 files</sub><br />
+    <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set download_jdk variable<br />
     <sub>[#54584](https://github.com/flutter/engine/pull/54584) merged on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54584) over 2 days, 195 additions and 52 deletions in 20 files</sub><br />
