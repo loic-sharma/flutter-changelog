@@ -18,7 +18,7 @@ void main(List<String> arguments) async {
     );
 
     String owner = 'flutter';
-    for (final repository in ['flutter', 'engine', 'packages']) {
+    for (final repository in ['flutter', 'engine', 'packages', 'website']) {
       var done = false;
       String? after;
       final seen = <int>{};
