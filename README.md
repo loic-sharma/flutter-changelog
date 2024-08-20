@@ -866,7 +866,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview] Add macOS support in implementation package<br />
   <sub>[#6221](https://github.com/flutter/packages/pull/6221) merged on August 20, 2024 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/6221) over 5 months, 5765 additions and 2352 deletions in 130 files</sub><br />
@@ -875,6 +875,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Re-land SurfaceProducer migration with fix for camera preview rotation<br />
   <sub>[#6856](https://github.com/flutter/packages/pull/6856) merged on August 19, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/packages/pull/6856) over 2 months, 95 additions and 43 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue where android back button pops wrong page.<br />
+  <sub>[#7348](https://github.com/flutter/packages/pull/7348) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7348) over 1 week, 87 additions and 23 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove scorecard action<br />
   <sub>[#7450](https://github.com/flutter/packages/pull/7450) merged on August 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7450) over 1 minute, 0 additions and 55 deletions in 2 files</sub><br />
