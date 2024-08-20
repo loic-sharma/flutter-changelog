@@ -1029,6 +1029,10 @@
     <sub>[#11035](https://github.com/flutter/website/pull/11035) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11035) over 1 week, 14 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [John Ryan](https://github.com/johnpryan), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
+* **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Update android guides to use kotlin DSL<br />
+    <sub>[#11059](https://github.com/flutter/website/pull/11059) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11059) over 1 day, 13 additions and 13 deletions in 2 files</sub><br />
+    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Reorder target devices<br />
     <sub>[#11044](https://github.com/flutter/website/pull/11044) merged on August 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11044) over 5 days, 3 additions and 3 deletions in 3 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
@@ -1048,10 +1052,6 @@
 * **[Integral](https://github.com/Integral-Tech)** &mdash; Fix SDK installation guide on Linux<br />
     <sub>[#11034](https://github.com/flutter/website/pull/11034) merged on August 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11034) over 1 week, 13 additions and 13 deletions in 4 files</sub><br />
     <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
-* **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Update android guides to use kotlin DSL<br />
-    <sub>[#11059](https://github.com/flutter/website/pull/11059) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11059) over 1 day, 13 additions and 13 deletions in 2 files</sub><br />
-    <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add missing `use-named-parameters` option for l10n<br />
     <sub>[#11061](https://github.com/flutter/website/pull/11061) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11061) over 21 minutes, 1 addition and 0 deletions in 1 file</sub><br />
