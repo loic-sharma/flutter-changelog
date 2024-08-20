@@ -74,3 +74,6 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Document scale parameter for Image and RawImage<br />
     <sub>[#153728](https://github.com/flutter/flutter/pull/153728) opened on on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153728) 20 additions and 0 deletions in 2 files</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Revert "Load parent package config"<br />
+    <sub>[#153752](https://github.com/flutter/flutter/pull/153752) opened on on August 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153752) 391 additions and 613 deletions in 55 files</sub><br />
+
