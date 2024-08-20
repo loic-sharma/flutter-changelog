@@ -6,7 +6,7 @@
   <sub>[#149201](https://github.com/flutter/flutter/pull/149201) opened on on May 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149201) 220 additions and 0 deletions in 1 file</sub><br />
 
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
-  <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/151585) 44 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/151585) 44 additions and 1 deletion in 2 files</sub><br />
 
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
   <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
@@ -44,9 +44,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Stop `DropdownMenu` internal scrolling from moving parent `Scrollable`<br />
   <sub>[#153360](https://github.com/flutter/flutter/pull/153360) opened on on August 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153360) 31 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes TreeSliver collapsing not working<br />
-  <sub>[#153438](https://github.com/flutter/flutter/pull/153438) opened on on August 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153438) 209 additions and 3 deletions in 2 files</sub><br />
-
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] Fix formatting with multiple locale<br />
   <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153459) 283 additions and 15 deletions in 3 files</sub><br />
 
@@ -65,9 +62,6 @@
 * **[Moustafa_Abdelrahim_Ga3llouss](https://github.com/MoustafaAbdelrahimGaallouss)** &mdash; edite Home Page only<br />
   <sub>[#153610](https://github.com/flutter/flutter/pull/153610) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153610) 0 additions and 0 deletions in 0 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `_InteractiveViewerState` code cleanup<br />
-  <sub>[#153645](https://github.com/flutter/flutter/pull/153645) opened on on August 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153645) 83 additions and 134 deletions in 1 file</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update tokens to v6.1<br />
   <sub>[#153722](https://github.com/flutter/flutter/pull/153722) opened on on August 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153722) 90 additions and 86 deletions in 74 files</sub><br />
 
@@ -79,4 +73,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Handle "Service connection disposed" error from VmService disconnecting while requests are outstanding<br />
   <sub>[#153769](https://github.com/flutter/flutter/pull/153769) opened on on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153769) 48 additions and 5 deletions in 4 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Update template/test `compileSdk`, `targetSdk`, `ndk` versions"<br />
+  <sub>[#153795](https://github.com/flutter/flutter/pull/153795) opened on on August 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153795) 418 additions and 294 deletions in 52 files</sub><br />
 
