@@ -4,11 +4,15 @@
 
 ### August 17, 2024 to August 23, 2024
 
-8 commits.
+9 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config
     <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub>
     <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When the app enters the detached state, clear the record of the last SystemChrome style sent to the host
+    <sub>[#153586](https://github.com/flutter/flutter/pull/153586) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153586) over 3 days, 44 additions and 1 deletion in 3 files</sub>
+    <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Handle "Service connection disposed" error from VmService disconnecting while requests are outstanding
     <sub>[#153714](https://github.com/flutter/flutter/pull/153714) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153714) over 22 hours, 48 additions and 5 deletions in 4 files</sub>
