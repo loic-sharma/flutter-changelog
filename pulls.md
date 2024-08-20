@@ -80,3 +80,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix Cupertino route animation.<br />
     <sub>[#153765](https://github.com/flutter/flutter/pull/153765) opened on on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153765) 14 additions and 28 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Handle "Service connection disposed" error from VmService disconnecting while requests are outstanding<br />
+    <sub>[#153769](https://github.com/flutter/flutter/pull/153769) opened on on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153769) 48 additions and 5 deletions in 4 files</sub><br />
+
