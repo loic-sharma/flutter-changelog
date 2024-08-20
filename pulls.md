@@ -74,9 +74,6 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Document scale parameter for Image and RawImage<br />
     <sub>[#153728](https://github.com/flutter/flutter/pull/153728) opened on on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153728) 20 additions and 0 deletions in 2 files</sub><br />
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reland "Load parent package config"<br />
-    <sub>[#153754](https://github.com/flutter/flutter/pull/153754) opened on on August 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153754) 613 additions and 391 deletions in 55 files</sub><br />
-
 * **[Mohamed Hamdan](https://github.com/mnayef95)** &mdash; [Doc] [Enhancement] Add more clarification to initial value documentation for form<br />
     <sub>[#153757](https://github.com/flutter/flutter/pull/153757) opened on on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153757) 1 addition and 0 deletions in 1 file</sub><br />
 
