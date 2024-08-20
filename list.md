@@ -907,7 +907,7 @@
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [google_maps_flutter] Add heatmap support
     <sub>[#3257](https://github.com/flutter/packages/pull/3257) merged on August 6, 2024 &mdash; **Large:** [211 comments](https://github.com/flutter/packages/pull/3257) over 17 months, 761 additions and 9 deletions in 12 files</sub>
-    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Alex Muramoto](https://github.com/amuramoto), [Leigha Jarett](https://github.com/leighajarett), [Max Berktold - OpenSphere](https://github.com/OpenSphereSoftware), [stuartmorgan](https://github.com/stuartmorgan), and [2 others](https://github.com/flutter/packages/pull/3257)</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Alex Muramoto](https://github.com/amuramoto), [Leigha Jarett](https://github.com/leighajarett), [Max Berktold - UDC](https://github.com/OpenSphereSoftware), [stuartmorgan](https://github.com/stuartmorgan), and [2 others](https://github.com/flutter/packages/pull/3257)</sub>
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [camera_web] Migrate to `package:web`
     <sub>[#7012](https://github.com/flutter/packages/pull/7012) merged on August 6, 2024 &mdash; **Extra large:** [77 comments](https://github.com/flutter/packages/pull/7012) over 1 month, 1507 additions and 1243 deletions in 24 files</sub>
