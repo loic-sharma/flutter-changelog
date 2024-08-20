@@ -866,7 +866,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-3 commits.
+4 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview] Add macOS support in implementation package<br />
   <sub>[#6221](https://github.com/flutter/packages/pull/6221) merged on August 20, 2024 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/6221) over 5 months, 5765 additions and 2352 deletions in 130 files</sub><br />
@@ -879,6 +879,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove scorecard action<br />
   <sub>[#7450](https://github.com/flutter/packages/pull/7450) merged on August 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7450) over 1 minute, 0 additions and 55 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Many] Bump AGP to 8.5.1 and gradle to 8.7<br />
+  <sub>[#7432](https://github.com/flutter/packages/pull/7432) merged on August 20, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7432) over 3 days, 99 additions and 67 deletions in 77 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### August 10, 2024 to August 16, 2024
 
