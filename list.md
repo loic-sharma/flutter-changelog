@@ -466,7 +466,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-13 commits.
+14 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors
     <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub>
@@ -475,6 +475,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow the default background color to be changed
     <sub>[#54575](https://github.com/flutter/engine/pull/54575) merged on August 19, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/54575) over 3 days, 97 additions and 17 deletions in 7 files</sub>
     <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Use getBoundingRects to add support inset MediaQuery/SafeArea when in freeform mode controls are shown. 
+    <sub>[#54294](https://github.com/flutter/engine/pull/54294) merged on August 20, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/engine/pull/54294) over 2 weeks, 103 additions and 0 deletions in 5 files</sub>
+    <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] use paragraphs instead of bullet points in the FAQ.
     <sub>[#54622](https://github.com/flutter/engine/pull/54622) merged on August 19, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54622) over 42 minutes, 275 additions and 236 deletions in 1 file</sub>
