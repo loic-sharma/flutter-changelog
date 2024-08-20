@@ -64,7 +64,7 @@ Future<void> _writeChangelog(String? token) async {
     }
 
     readme.writeCommitsList(owner, repository, commits);
-    readme.writeCommitsList(owner, repository, commits);
+    list.writeCommitsList(owner, repository, commits);
   }
 
   await readme.dispose();
