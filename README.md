@@ -474,7 +474,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-14 commits.
+15 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors<br />
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub><br />
@@ -527,6 +527,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update gni filegroup when building Skia's codec files<br />
   <sub>[#54588](https://github.com/flutter/engine/pull/54588) merged on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54588) over 2 days, 1 addition and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c5264a1bd1d2 to 04c57423f90d (13 revisions)<br />
+  <sub>[#54649](https://github.com/flutter/engine/pull/54649) merged on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54649) over 1 hour, 12 additions and 14 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c5264a1bd1d2 to c22bf5aedbcf (2 revisions)<br />
   <sub>[#54646](https://github.com/flutter/engine/pull/54646) merged on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54646) over 1 hour, 23 additions and 4 deletions in 4 files</sub><br />
