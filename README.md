@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-16 commits.
+17 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config<br />
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub><br />
@@ -37,6 +37,10 @@
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog<br />
   <sub>[#152637](https://github.com/flutter/flutter/pull/152637) merged on August 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152637) over 2 weeks, 16 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
+  <sub>[#153798](https://github.com/flutter/flutter/pull/153798) merged on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153798) over 38 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.<br />
   <sub>[#153786](https://github.com/flutter/flutter/pull/153786) merged on August 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153786) over 2 hours, 85 additions and 47 deletions in 3 files</sub><br />
@@ -498,7 +502,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-16 commits.
+17 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors<br />
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub><br />
@@ -555,6 +559,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update gni filegroup when building Skia's codec files<br />
   <sub>[#54588](https://github.com/flutter/engine/pull/54588) merged on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54588) over 2 days, 1 addition and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[DisplayList] Allow random access to ops through indexing"<br />
+  <sub>[#54661](https://github.com/flutter/engine/pull/54661) merged on August 20, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/54661) over 1 hour, 463 additions and 1355 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c5264a1bd1d2 to 04c57423f90d (13 revisions)<br />
   <sub>[#54649](https://github.com/flutter/engine/pull/54649) merged on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54649) over 1 hour, 12 additions and 14 deletions in 3 files</sub><br />

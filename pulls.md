@@ -17,9 +17,6 @@
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
   <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
 
-* **[Moon Jonghwan](https://github.com/enihsgnir)** &mdash; Fix unhandled exception in `Image` widget while `TickerMode` is changing<br />
-  <sub>[#153097](https://github.com/flutter/flutter/pull/153097) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153097) 54 additions and 2 deletions in 2 files</sub><br />
-
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Add `dartFileName` setting for platform plugins <br />
   <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153099) 203 additions and 30 deletions in 7 files</sub><br />
 
