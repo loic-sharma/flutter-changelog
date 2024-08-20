@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-5 commits.
+6 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config<br />
     <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not cancel the VmService's subscription to the isolate event stream in FlutterVmService.findExtensionIsolate<br />
     <sub>[#153607](https://github.com/flutter/flutter/pull/153607) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153607) over 2 days, 1 addition and 81 deletions in 5 files</sub><br />
     <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Revert "Load parent package config"<br />
+    <sub>[#153752](https://github.com/flutter/flutter/pull/153752) merged on August 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153752) over 37 minutes, 391 additions and 613 deletions in 55 files</sub><br />
+    <sub>Reviewed by: </sub><br />
 
 ### August 10, 2024 to August 16, 2024
 
