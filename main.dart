@@ -9,75 +9,96 @@ void main(List<String> arguments) async {
   String? token = Platform.environment['GITHUB_TOKEN'];
   String? flutterTeam = Platform.environment['FLUTTER_TEAM'];
 
-  await writeChangelog((readme, list) async {
-    // Add the last 3 weeks of commits starting on Saturday.
-    DateTime start = DateTime.now().subtract(Duration(days: 21));
-    start = DateTime(start.year, start.month, start.day);
-    start = start.add(
-      Duration(days: 6 - start.weekday)
-    );
+  final team = _parseTeam(flutterTeam);
 
-    String owner = 'flutter';
-    for (final repository in ['flutter', 'engine', 'packages', 'website']) {
-      var done = false;
-      String? after;
-      final seen = <int>{};
-      final commits = <String, List<Commit>>{};
-      while (!done) {
-        final changes = await loadChanges(token, owner, repository, after);
+  await _writeChangelog(token);
+  await _writeUnassignedPullRequests(token, team);
+}
 
-        for (final commit in changes.commits) {
-          if (commit.commitDate.isBefore(start)) {
-            done = true;
-            continue;
-          }
+Future<void> _writeChangelog(String? token) async {
+  final readmeOutput = File('README.md').openWrite();
+  final listOutput = File('list.md').openWrite();
 
-          if (_ignore(commit)) continue;
-          if (seen.contains(commit.pullRequest.number)) continue;
+  final readme = ChangelogWriter(readmeOutput, addBreaks: true);
+  final list = ChangelogWriter(listOutput, addBreaks: false);
 
-          final subsection = _subsection(commit);
-          if (!commits.containsKey(subsection)) {
-            commits[subsection] = [];
-          }
+  readme.writeHeader();
+  list.writeHeader();
 
-          seen.add(commit.pullRequest.number);
-          commits[subsection]!.add(commit);
-          commits[subsection]!.sort((a, b) => _score(b).compareTo(_score(a)));
+  // Add the last 3 weeks of commits starting on Saturday.
+  DateTime start = DateTime.now().subtract(Duration(days: 21));
+  start = DateTime(start.year, start.month, start.day);
+  start = start.add(
+    Duration(days: 6 - start.weekday)
+  );
+
+  String owner = 'flutter';
+  for (final repository in ['flutter', 'engine', 'packages', 'website']) {
+    var done = false;
+    String? after;
+    final seen = <int>{};
+    final commits = <String, List<Commit>>{};
+    while (!done) {
+      final changes = await loadChanges(token, owner, repository, after);
+
+      for (final commit in changes.commits) {
+        if (commit.commitDate.isBefore(start)) {
+          done = true;
+          continue;
         }
 
-        after = changes.endCursor;
+        if (_ignore(commit)) continue;
+        if (seen.contains(commit.pullRequest.number)) continue;
+
+        final subsection = _subsection(commit);
+        if (!commits.containsKey(subsection)) {
+          commits[subsection] = [];
+        }
+
+        seen.add(commit.pullRequest.number);
+        commits[subsection]!.add(commit);
+        commits[subsection]!.sort((a, b) => _score(b).compareTo(_score(a)));
       }
 
-      writeCommitsList(readme, owner, repository, commits, addBreaks: true);
-      writeCommitsList(list, owner, repository, commits, addBreaks: false);
-    }
-  });
-
-  await writeUnassignedPullRequests((output) async {
-    final team = _parseTeam(flutterTeam);
-
-    final unassignedPullRequests = <PullRequest>[];
-    String? after;
-    while (true) {
-      final open = await loadOpenPullRequests(token, 'flutter', 'flutter', after);
-      for (final pullRequest in open.pullRequests) {
-        if (pullRequest.isDraft) continue;
-        if (_bots.contains(pullRequest.authorLogin.toLowerCase())) continue;
-        if (pullRequest.reviews.any((review) => team.contains(review.reviewerLogin.toLowerCase()))) continue;
-        if (pullRequest.reviewRequests.any((review) => team.contains(review.reviewerLogin.toLowerCase()))) continue;
-
-        unassignedPullRequests.add(pullRequest);
-      }
-
-      if (open.hasNextPage) {
-        after = open.endCursor;
-      } else {
-        break;
-      }
+      after = changes.endCursor;
     }
 
-    writePullRequests(output, 'flutter', 'flutter', unassignedPullRequests);
-  });
+    readme.writeCommitsList(owner, repository, commits);
+    readme.writeCommitsList(owner, repository, commits);
+  }
+
+  await readme.dispose();
+  await list.dispose();
+}
+
+Future<void> _writeUnassignedPullRequests(String? token, Set<String> team) async {
+  final output = File('pulls.md').openWrite();
+  final writer = UnassignedPullRequestWriter(output);
+
+  writer.writeHeader();
+
+  final unassignedPullRequests = <PullRequest>[];
+  String? after;
+  while (true) {
+    final open = await loadOpenPullRequests(token, 'flutter', 'flutter', after);
+    for (final pullRequest in open.pullRequests) {
+      if (pullRequest.isDraft) continue;
+      if (_bots.contains(pullRequest.authorLogin.toLowerCase())) continue;
+      if (pullRequest.reviews.any((review) => team.contains(review.reviewerLogin.toLowerCase()))) continue;
+      if (pullRequest.reviewRequests.any((review) => team.contains(review.reviewerLogin.toLowerCase()))) continue;
+
+      unassignedPullRequests.add(pullRequest);
+    }
+
+    if (open.hasNextPage) {
+      after = open.endCursor;
+    } else {
+      break;
+    }
+  }
+
+  writer.writePullRequests('flutter', 'flutter', unassignedPullRequests);
+  await writer.dispose();
 }
 
 final _htmlImageRegex = RegExp(r'<img\s+[^>]*src="([^"]*)"[^>]*>');
