@@ -74,6 +74,3 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Document scale parameter for Image and RawImage<br />
     <sub>[#153728](https://github.com/flutter/flutter/pull/153728) opened on on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153728) 20 additions and 0 deletions in 2 files</sub><br />
 
-* **[miechoo](https://github.com/miechoo)** &mdash; Tests of the app_bar.3.dart<br />
-    <sub>[#153747](https://github.com/flutter/flutter/pull/153747) opened on on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153747) 83 additions and 3 deletions in 2 files</sub><br />
-
