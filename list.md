@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-13 commits.
+14 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub>
@@ -29,6 +29,10 @@
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; refactor material banner and fix focus issue
   <sub>[#152646](https://github.com/flutter/flutter/pull/152646) merged on August 19, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/152646) over 2 weeks, 57 additions and 30 deletions in 2 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai), [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog
+  <sub>[#152637](https://github.com/flutter/flutter/pull/152637) merged on August 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152637) over 2 weeks, 16 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.
   <sub>[#153780](https://github.com/flutter/flutter/pull/153780) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153780) over 1 hour, 115 additions and 89 deletions in 1 file</sub>
@@ -1075,15 +1079,23 @@
 
 ### August 17, 2024 to August 23, 2024
 
-9 commits.
+12 commits.
 
 * **[Mikhail Zotyev](https://github.com/MbIXjkee)** &mdash; Add Elementary to the state management options page
   <sub>[#11035](https://github.com/flutter/website/pull/11035) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11035) over 1 week, 14 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [John Ryan](https://github.com/johnpryan), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Add Impeller migration step for camera plugin authors
+  <sub>[#11008](https://github.com/flutter/website/pull/11008) merged on August 20, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/website/pull/11008) over 2 weeks, 35 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Update android guides to use kotlin DSL
   <sub>[#11059](https://github.com/flutter/website/pull/11059) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11059) over 1 day, 13 additions and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Add --[no-]shrink instruction for release builds
+  <sub>[#11022](https://github.com/flutter/website/pull/11022) merged on August 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11022) over 1 week, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; rephrase "instances of any screen size"; other fixes
   <sub>[#11063](https://github.com/flutter/website/pull/11063) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11063) over 21 hours, 14 additions and 6 deletions in 1 file</sub>
@@ -1100,6 +1112,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; document add-to-app for web
   <sub>[#11056](https://github.com/flutter/website/pull/11056) merged on August 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11056) over 2 days, 79 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[TonyD-TuftAndPaw](https://github.com/TonyD-TuftAndPaw)** &mdash; Update the options for the gen-l10n tool
+  <sub>[#11046](https://github.com/flutter/website/pull/11046) merged on August 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11046) over 5 days, 2 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Nestor Sebastian Garzon Contreras](https://github.com/nestorsgarzonc)** &mdash; Update android-predictive-back.md
   <sub>[#11033](https://github.com/flutter/website/pull/11033) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11033) over 1 week, 1 addition and 1 deletion in 1 file</sub>
