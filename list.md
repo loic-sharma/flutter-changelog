@@ -4,11 +4,15 @@
 
 ### August 17, 2024 to August 23, 2024
 
-11 commits.
+12 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement tap to scroll to item in CupertinoPicker
+  <sub>[#153386](https://github.com/flutter/flutter/pull/153386) merged on August 20, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/153386) over 1 week, 112 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When the app enters the detached state, clear the record of the last SystemChrome style sent to the host
   <sub>[#153586](https://github.com/flutter/flutter/pull/153586) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153586) over 3 days, 44 additions and 1 deletion in 3 files</sub>
@@ -870,7 +874,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-5 commits.
+6 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview] Add macOS support in implementation package
   <sub>[#6221](https://github.com/flutter/packages/pull/6221) merged on August 20, 2024 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/6221) over 5 months, 5765 additions and 2352 deletions in 130 files</sub>
@@ -882,6 +886,10 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue where android back button pops wrong page.
   <sub>[#7348](https://github.com/flutter/packages/pull/7348) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7348) over 1 week, 87 additions and 23 deletions in 5 files</sub>
+  <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes replace and pushReplacement uri when only one route…
+  <sub>[#7433](https://github.com/flutter/packages/pull/7433) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7433) over 3 days, 50 additions and 19 deletions in 5 files</sub>
   <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove scorecard action
