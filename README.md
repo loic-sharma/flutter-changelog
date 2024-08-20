@@ -1075,7 +1075,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-8 commits.
+9 commits.
 
 * **[Mikhail Zotyev](https://github.com/MbIXjkee)** &mdash; Add Elementary to the state management options page<br />
   <sub>[#11035](https://github.com/flutter/website/pull/11035) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11035) over 1 week, 14 additions and 0 deletions in 1 file</sub><br />
@@ -1083,6 +1083,10 @@
 
 * **[Damiano Ferrari](https://github.com/ferraridamiano)** &mdash; Update android guides to use kotlin DSL<br />
   <sub>[#11059](https://github.com/flutter/website/pull/11059) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11059) over 1 day, 13 additions and 13 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; rephrase "instances of any screen size"; other fixes<br />
+  <sub>[#11063](https://github.com/flutter/website/pull/11063) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11063) over 21 hours, 14 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Reorder target devices<br />
