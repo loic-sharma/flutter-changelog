@@ -83,6 +83,3 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Handle "Service connection disposed" error from VmService disconnecting while requests are outstanding<br />
   <sub>[#153769](https://github.com/flutter/flutter/pull/153769) opened on on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153769) 48 additions and 5 deletions in 4 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.<br />
-  <sub>[#153786](https://github.com/flutter/flutter/pull/153786) opened on on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153786) 78 additions and 22 deletions in 1 file</sub><br />
-
