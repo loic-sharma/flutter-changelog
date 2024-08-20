@@ -450,7 +450,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-10 commits.
+11 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors<br />
     <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub><br />
@@ -479,6 +479,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a note about Graphite to the FAQ.<br />
     <sub>[#54623](https://github.com/flutter/engine/pull/54623) merged on August 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54623) over 2 hours, 18 additions and 0 deletions in 1 file</sub><br />
     <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Update package:js version constraints to ^0.7.0 and update test versions to match<br />
+    <sub>[#54629](https://github.com/flutter/engine/pull/54629) merged on August 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54629) over 4 hours, 5 additions and 5 deletions in 3 files</sub><br />
+    <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; web_ui: bump min Dart SDK to 3.6.0-0<br />
     <sub>[#54626](https://github.com/flutter/engine/pull/54626) merged on August 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54626) over 1 hour, 2 additions and 4 deletions in 2 files</sub><br />
