@@ -77,3 +77,6 @@
 * **[Mohammad Hamdan](https://github.com/mnayef95)** &mdash; [Doc] [Enhancement] Add more clarification to initial value documentation for form<br />
     <sub>[#153757](https://github.com/flutter/flutter/pull/153757) opened on on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153757) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix Cupertino route animation.<br />
+    <sub>[#153765](https://github.com/flutter/flutter/pull/153765) opened on on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153765) 14 additions and 28 deletions in 2 files</sub><br />
+
