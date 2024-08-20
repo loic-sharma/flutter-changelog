@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Navaron Bracke](https://github.com/navaronbracke), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update template/test `compileSdk`, `targetSdk`, `ndk` versions
-  <sub>[#152487](https://github.com/flutter/flutter/pull/152487) merged on August 20, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/152487) over 3 weeks, 403 additions and 280 deletions in 51 files</sub>
+  <sub>[#152487](https://github.com/flutter/flutter/pull/152487) merged on August 20, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/152487) over 3 weeks, 403 additions and 280 deletions in 51 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When the app enters the detached state, clear the record of the last SystemChrome style sent to the host
@@ -494,7 +494,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-15 commits.
+16 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub>
@@ -503,6 +503,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow the default background color to be changed
   <sub>[#54575](https://github.com/flutter/engine/pull/54575) merged on August 19, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/54575) over 3 days, 97 additions and 17 deletions in 7 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors (#54473)
+  <sub>[#54648](https://github.com/flutter/engine/pull/54648) merged on August 20, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/54648) over 5 hours, 446 additions and 147 deletions in 22 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Use getBoundingRects to add support inset MediaQuery/SafeArea when in freeform mode controls are shown. 
   <sub>[#54294](https://github.com/flutter/engine/pull/54294) merged on August 20, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/engine/pull/54294) over 2 weeks, 103 additions and 0 deletions in 5 files</sub>
