@@ -84,8 +84,13 @@ Future<void> _writeUnassignedPullRequests(String? token, Set<String> team) async
     for (final pullRequest in open.pullRequests) {
       if (pullRequest.isDraft) continue;
       if (_bots.contains(pullRequest.authorLogin.toLowerCase())) continue;
-      if (pullRequest.reviews.any((review) => team.contains(review.reviewerLogin.toLowerCase()))) continue;
-      if (pullRequest.reviewRequests.any((review) => team.contains(review.reviewerLogin.toLowerCase()))) continue;
+
+      final reviews = pullRequest.reviews.followedBy(pullRequest.reviewRequests);
+      final reviewers = reviews
+        .map((review) => review.reviewerLogin?.toLowerCase())
+        .where((reviewer) => reviewer != null);
+
+      if (reviewers.any((reviewer) => team.contains(reviewer))) continue;
 
       unassignedPullRequests.add(pullRequest);
     }

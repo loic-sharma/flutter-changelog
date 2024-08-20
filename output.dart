@@ -48,6 +48,7 @@ class ChangelogWriter {
         final reviewDuration = commit.commitDate.difference(pullRequest.createdAt);
 
         final reviewers = pullRequest.reviews
+            .where((r) => r.reviewerLogin != null)
             .map((r) => '[${r.reviewerName ?? r.reviewerLogin}](${r.reviewerUrl})')
             .join(', ');
 
@@ -152,7 +153,7 @@ class UnassignedPullRequestWriter {
       _output.write('<br />');
       _output.writeln();
 
-      _output.write('    ');
+      _output.write('  ');
       _output.write('<sub>');
       _output.write('[#${pullRequest.number}](${pullRequest.url}) opened on on $createdAt ');
       _output.write('&mdash; ');
