@@ -555,7 +555,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-30 commits.
+31 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use blit pass to resize decoded images.<br />
   <sub>[#54606](https://github.com/flutter/engine/pull/54606) merged on August 21, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/engine/pull/54606) over 3 days, 577 additions and 164 deletions in 25 files</sub><br />
@@ -596,6 +596,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix skwasm clip coverage algorithm.<br />
   <sub>[#54572](https://github.com/flutter/engine/pull/54572) merged on August 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54572) over 4 days, 79 additions and 51 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Make framework creation consistent with iOS<br />
+  <sub>[#54685](https://github.com/flutter/engine/pull/54685) merged on August 21, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54685) over 5 hours, 34 additions and 28 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Split tests out of Linux Android artifact creation builds<br />
   <sub>[#54683](https://github.com/flutter/engine/pull/54683) merged on August 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54683) over 5 hours, 98 additions and 38 deletions in 2 files</sub><br />
