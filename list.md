@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-21 commits.
+23 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub>
@@ -38,6 +38,10 @@
   <sub>[#153645](https://github.com/flutter/flutter/pull/153645) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153645) over 2 days, 83 additions and 134 deletions in 1 file</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Disable Dropdown menu search during keyboard navigation
+  <sub>[#152378](https://github.com/flutter/flutter/pull/152378) merged on August 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152378) over 3 weeks, 115 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Postmortem-Platform-View-android-14-regression
   <sub>[#149201](https://github.com/flutter/flutter/pull/149201) merged on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/149201) over 2 months, 220 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
@@ -45,6 +49,10 @@
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog
   <sub>[#152637](https://github.com/flutter/flutter/pull/152637) merged on August 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152637) over 2 weeks, 16 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a `bin/flutter-dev` script, for running the `flutter` command-line tool from source
+  <sub>[#153599](https://github.com/flutter/flutter/pull/153599) merged on August 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153599) over 4 days, 70 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements
   <sub>[#153843](https://github.com/flutter/flutter/pull/153843) merged on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153843) over 1 hour, 0 additions and 3 deletions in 2 files</sub>
