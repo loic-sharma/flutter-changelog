@@ -45,7 +45,7 @@
   <sub>[#153500](https://github.com/flutter/flutter/pull/153500) opened on on August 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153500) 45 additions and 3 deletions in 4 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `SingleChildScrollView` examples<br />
-  <sub>[#153548](https://github.com/flutter/flutter/pull/153548) opened on on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153548) 102 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#153548](https://github.com/flutter/flutter/pull/153548) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153548) 102 additions and 2 deletions in 3 files</sub><br />
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash; Feat: Add opportunity to change CupertinoTextField suffix alignment<br />
   <sub>[#153561](https://github.com/flutter/flutter/pull/153561) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153561) 52 additions and 21 deletions in 5 files</sub><br />
@@ -78,5 +78,5 @@
   <sub>[#153818](https://github.com/flutter/flutter/pull/153818) opened on on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153818) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: Deleting text in `EditableText` with CJK keyboard while in `CupertinoPageRoute` throws exception<br />
-  <sub>[#153822](https://github.com/flutter/flutter/pull/153822) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153822) 80 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#153822](https://github.com/flutter/flutter/pull/153822) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153822) 82 additions and 0 deletions in 2 files</sub><br />
 
