@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-29 commits.
+30 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub>
@@ -58,6 +58,10 @@
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog
   <sub>[#152637](https://github.com/flutter/flutter/pull/152637) merged on August 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152637) over 2 weeks, 16 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add test that app builds if migrated to SwiftPM but SwiftPM is turned off
+  <sub>[#153800](https://github.com/flutter/flutter/pull/153800) merged on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153800) over 23 hours, 110 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Actually run `flutter-dev` from source (turns out bash is NP-hard)
   <sub>[#153863](https://github.com/flutter/flutter/pull/153863) merged on August 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153863) over 4 hours, 4 additions and 4 deletions in 1 file</sub>
