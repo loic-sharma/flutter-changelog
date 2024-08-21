@@ -506,7 +506,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-19 commits.
+20 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors<br />
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub><br />
@@ -535,6 +535,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix skwasm clip coverage algorithm.<br />
   <sub>[#54572](https://github.com/flutter/engine/pull/54572) merged on August 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54572) over 4 days, 79 additions and 51 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements<br />
+  <sub>[#54669](https://github.com/flutter/engine/pull/54669) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54669) over 50 minutes, 0 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove unused ColorHSB.<br />
   <sub>[#54659](https://github.com/flutter/engine/pull/54659) merged on August 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54659) over 5 hours, 0 additions and 112 deletions in 2 files</sub><br />
