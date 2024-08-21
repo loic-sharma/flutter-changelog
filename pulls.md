@@ -63,7 +63,7 @@
   <sub>[#153795](https://github.com/flutter/flutter/pull/153795) opened on on August 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153795) 418 additions and 294 deletions in 52 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes itemExtent being incorrectly assigned to renderObject.minExtent…<br />
-  <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move the Linux runner into a subdirectory<br />
   <sub>[#153812](https://github.com/flutter/flutter/pull/153812) opened on on August 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153812) 49 additions and 27 deletions in 6 files</sub><br />
