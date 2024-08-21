@@ -539,7 +539,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-24 commits.
+25 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub>
@@ -572,6 +572,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix skwasm clip coverage algorithm.
   <sub>[#54572](https://github.com/flutter/engine/pull/54572) merged on August 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54572) over 4 days, 79 additions and 51 deletions in 2 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; docs: use test: all rather than editing .ci.yaml
+  <sub>[#54667](https://github.com/flutter/engine/pull/54667) merged on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54667) over 16 hours, 17 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Don't archive extra framework metadata
   <sub>[#54674](https://github.com/flutter/engine/pull/54674) merged on August 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54674) over 11 hours, 3 additions and 2 deletions in 1 file</sub>
