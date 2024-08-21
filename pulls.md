@@ -59,9 +59,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix Cupertino route animation.<br />
   <sub>[#153765](https://github.com/flutter/flutter/pull/153765) opened on on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153765) 17 additions and 31 deletions in 4 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Update template/test `compileSdk`, `targetSdk`, `ndk` versions"<br />
-  <sub>[#153795](https://github.com/flutter/flutter/pull/153795) opened on on August 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153795) 418 additions and 294 deletions in 52 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes itemExtent being incorrectly assigned to renderObject.minExtent…<br />
   <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
 
