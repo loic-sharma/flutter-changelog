@@ -918,7 +918,11 @@
 
 ### August 17, 2024 to August 23, 2024
 
-7 commits.
+8 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS<br />
+  <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview] Add macOS support in implementation package<br />
   <sub>[#6221](https://github.com/flutter/packages/pull/6221) merged on August 20, 2024 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/6221) over 5 months, 5765 additions and 2352 deletions in 130 files</sub><br />
