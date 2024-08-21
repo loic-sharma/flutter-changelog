@@ -526,7 +526,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-22 commits.
+23 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors<br />
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub><br />
@@ -559,6 +559,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix skwasm clip coverage algorithm.<br />
   <sub>[#54572](https://github.com/flutter/engine/pull/54572) merged on August 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54572) over 4 days, 79 additions and 51 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Don't archive extra framework metadata<br />
+  <sub>[#54674](https://github.com/flutter/engine/pull/54674) merged on August 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54674) over 11 hours, 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements<br />
   <sub>[#54669](https://github.com/flutter/engine/pull/54669) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54669) over 50 minutes, 0 additions and 3 deletions in 3 files</sub><br />
@@ -613,7 +617,7 @@
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] reland weaken affinity of raster/ui to non-e core instead of only fast core<br />
-  <sub>[#54616](https://github.com/flutter/engine/pull/54616) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54616) over 2 days, 13 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#54616](https://github.com/flutter/engine/pull/54616) merged on August 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54616) over 2 days, 13 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 ### August 10, 2024 to August 16, 2024
@@ -946,7 +950,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-10 commits.
+11 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS<br />
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub><br />
@@ -987,6 +991,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements<br />
   <sub>[#7462](https://github.com/flutter/packages/pull/7462) merged on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7462) over 1 hour, 0 additions and 10 deletions in 10 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Paul Berry](https://github.com/stereotype441)** &mdash; [script] Remove unnecessary breaks in default clauses of switch statements<br />
+  <sub>[#7469](https://github.com/flutter/packages/pull/7469) merged on August 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7469) over 23 minutes, 0 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 ### August 10, 2024 to August 16, 2024
 

@@ -62,9 +62,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move the Linux runner into a subdirectory<br />
   <sub>[#153812](https://github.com/flutter/flutter/pull/153812) opened on on August 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153812) 49 additions and 27 deletions in 6 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT SUBMIT: TEST ENGINE ROLL<br />
-  <sub>[#153818](https://github.com/flutter/flutter/pull/153818) opened on on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153818) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[Joshix-1](https://github.com/Joshix-1)** &mdash; Fix documentation of CircularProgressIndicator.adaptive<br />
   <sub>[#153832](https://github.com/flutter/flutter/pull/153832) opened on on August 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153832) 1 addition and 2 deletions in 1 file</sub><br />
 
