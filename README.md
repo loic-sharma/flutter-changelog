@@ -51,7 +51,7 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a `bin/flutter-dev` script, for running the `flutter` command-line tool from source<br />
-  <sub>[#153599](https://github.com/flutter/flutter/pull/153599) merged on August 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153599) over 4 days, 70 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#153599](https://github.com/flutter/flutter/pull/153599) merged on August 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153599) over 4 days, 70 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements<br />
