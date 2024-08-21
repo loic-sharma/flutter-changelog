@@ -62,3 +62,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test `custom_scroll_view.1.dart`<br />
   <sub>[#153841](https://github.com/flutter/flutter/pull/153841) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153841) 66 additions and 1 deletion in 2 files</sub><br />
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Merge stable changelog to master<br />
+  <sub>[#153872](https://github.com/flutter/flutter/pull/153872) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153872) 27 additions and 0 deletions in 1 file</sub><br />
+
