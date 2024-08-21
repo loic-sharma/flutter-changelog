@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-23 commits.
+24 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config<br />
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update template/test `compileSdk`, `targetSdk`, `ndk` versions<br />
   <sub>[#152487](https://github.com/flutter/flutter/pull/152487) merged on August 20, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/152487) over 3 weeks, 403 additions and 280 deletions in 51 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Update doc for scale behaviour of floating label<br />
+  <sub>[#151835](https://github.com/flutter/flutter/pull/151835) merged on August 21, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/151835) over 1 month, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When the app enters the detached state, clear the record of the last SystemChrome style sent to the host<br />
   <sub>[#153586](https://github.com/flutter/flutter/pull/153586) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153586) over 3 days, 44 additions and 1 deletion in 3 files</sub><br />
