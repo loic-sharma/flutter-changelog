@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-25 commits.
+26 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub>
@@ -17,6 +17,11 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update template/test `compileSdk`, `targetSdk`, `ndk` versions
   <sub>[#152487](https://github.com/flutter/flutter/pull/152487) merged on August 20, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/152487) over 3 weeks, 403 additions and 280 deletions in 51 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Make `TextField` read only when the text input is disabled by setting  `DropdownMenu.requestFocusOnTap` to `false`
+  <sub>[#153566](https://github.com/flutter/flutter/pull/153566) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153566) over 5 days, 49 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+  <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/0d9f79f3-de5d-4c42-adea-3d700464d001" /><img src="https://github.com/user-attachments/assets/cf38508e-61f7-43ff-b420-ffe24cc8e28f" /></details></sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Update doc for scale behaviour of floating label
   <sub>[#151835](https://github.com/flutter/flutter/pull/151835) merged on August 21, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/151835) over 1 month, 3 additions and 0 deletions in 1 file</sub>
@@ -962,7 +967,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-11 commits.
+12 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub>
@@ -1003,6 +1008,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements
   <sub>[#7462](https://github.com/flutter/packages/pull/7462) merged on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7462) over 1 hour, 0 additions and 10 deletions in 10 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds a contribution doc
+  <sub>[#7460](https://github.com/flutter/packages/pull/7460) merged on August 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7460) over 22 hours, 252 additions and 5 deletions in 6 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [script] Remove unnecessary breaks in default clauses of switch statements
   <sub>[#7469](https://github.com/flutter/packages/pull/7469) merged on August 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7469) over 23 minutes, 0 additions and 3 deletions in 3 files</sub>
