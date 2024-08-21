@@ -62,3 +62,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT SUBMIT: TEST ENGINE ROLL<br />
   <sub>[#153874](https://github.com/flutter/flutter/pull/153874) opened on on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153874) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ensure that the output path used by perf_tests_test matches the path used by perf_tests if the FLUTTER_TEST_OUTPUTS_DIR variable is set<br />
+  <sub>[#153888](https://github.com/flutter/flutter/pull/153888) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153888) 10 additions and 8 deletions in 2 files</sub><br />
+
