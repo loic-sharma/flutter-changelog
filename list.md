@@ -987,7 +987,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-14 commits.
+15 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub>
@@ -1012,6 +1012,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Re-land SurfaceProducer migration with fix for camera preview rotation
   <sub>[#6856](https://github.com/flutter/packages/pull/6856) merged on August 19, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/packages/pull/6856) over 2 months, 95 additions and 43 deletions in 7 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformPolygon` and `PlatformPolyline` to Pigeon
+  <sub>[#7406](https://github.com/flutter/packages/pull/7406) merged on August 21, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/7406) over 1 week, 910 additions and 220 deletions in 11 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue where android back button pops wrong page.
   <sub>[#7348](https://github.com/flutter/packages/pull/7348) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7348) over 1 week, 87 additions and 23 deletions in 5 files</sub>
