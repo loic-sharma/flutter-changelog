@@ -983,7 +983,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-12 commits.
+13 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub>
@@ -1032,6 +1032,10 @@
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [script] Remove unnecessary breaks in default clauses of switch statements
   <sub>[#7469](https://github.com/flutter/packages/pull/7469) merged on August 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7469) over 23 minutes, 0 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 80c2e84975bb to 5874a72aa4c7 (9 revisions)
+  <sub>[#7472](https://github.com/flutter/packages/pull/7472) merged on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7472) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### August 10, 2024 to August 16, 2024
 
