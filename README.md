@@ -543,7 +543,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-28 commits.
+29 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use blit pass to resize decoded images.<br />
   <sub>[#54606](https://github.com/flutter/engine/pull/54606) merged on August 21, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/engine/pull/54606) over 3 days, 577 additions and 164 deletions in 25 files</sub><br />
@@ -584,6 +584,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix skwasm clip coverage algorithm.<br />
   <sub>[#54572](https://github.com/flutter/engine/pull/54572) merged on August 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54572) over 4 days, 79 additions and 51 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [iOS] Tweak note about OpenGL support on mac in a user facing log.<br />
+  <sub>[#54690](https://github.com/flutter/engine/pull/54690) merged on August 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54690) over 52 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove spammy warning message on `FlutterView`<br />
   <sub>[#54686](https://github.com/flutter/engine/pull/54686) merged on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54686) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
