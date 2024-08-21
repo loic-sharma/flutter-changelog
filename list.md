@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-17 commits.
+18 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub>
@@ -37,6 +37,10 @@
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog
   <sub>[#152637](https://github.com/flutter/flutter/pull/152637) merged on August 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152637) over 2 weeks, 16 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `_InteractiveViewerState` code cleanup
+  <sub>[#153645](https://github.com/flutter/flutter/pull/153645) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153645) over 2 days, 83 additions and 134 deletions in 1 file</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.
   <sub>[#153798](https://github.com/flutter/flutter/pull/153798) merged on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153798) over 38 minutes, 1 addition and 0 deletions in 1 file</sub>
@@ -502,7 +506,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-17 commits.
+18 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub>
@@ -531,6 +535,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix skwasm clip coverage algorithm.
   <sub>[#54572](https://github.com/flutter/engine/pull/54572) merged on August 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54572) over 4 days, 79 additions and 51 deletions in 2 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Clean up macOS framework creation scripts
+  <sub>[#54658](https://github.com/flutter/engine/pull/54658) merged on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54658) over 3 hours, 41 additions and 22 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Check return values for Sk[I]Rect::intersect
   <sub>[#54577](https://github.com/flutter/engine/pull/54577) merged on August 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54577) over 3 days, 88 additions and 9 deletions in 6 files</sub>

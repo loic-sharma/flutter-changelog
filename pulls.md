@@ -60,7 +60,7 @@
   <sub>[#153722](https://github.com/flutter/flutter/pull/153722) opened on on August 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153722) 90 additions and 86 deletions in 74 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Document scale parameter for Image and RawImage<br />
-  <sub>[#153728](https://github.com/flutter/flutter/pull/153728) opened on on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153728) 20 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#153728](https://github.com/flutter/flutter/pull/153728) opened on on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153728) 20 additions and 0 deletions in 2 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix Cupertino route animation.<br />
   <sub>[#153765](https://github.com/flutter/flutter/pull/153765) opened on on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153765) 14 additions and 28 deletions in 2 files</sub><br />
@@ -68,6 +68,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Update template/test `compileSdk`, `targetSdk`, `ndk` versions"<br />
   <sub>[#153795](https://github.com/flutter/flutter/pull/153795) opened on on August 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153795) 418 additions and 294 deletions in 52 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT SUBMIT: TEST ENGINE ROLL<br />
-  <sub>[#153796](https://github.com/flutter/flutter/pull/153796) opened on on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153796) 2 additions and 1 deletion in 2 files</sub><br />
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes itemExtent being incorrectly assigned to renderObject.minExtent…<br />
+  <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
 
