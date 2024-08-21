@@ -543,7 +543,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-26 commits.
+27 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Perform integrity checks for Vulkan pipeline caches.
   <sub>[#54654](https://github.com/flutter/engine/pull/54654) merged on August 21, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/54654) over 23 hours, 395 additions and 81 deletions in 8 files</sub>
@@ -580,6 +580,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix skwasm clip coverage algorithm.
   <sub>[#54572](https://github.com/flutter/engine/pull/54572) merged on August 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54572) over 4 days, 79 additions and 51 deletions in 2 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove spammy warning message on `FlutterView`
+  <sub>[#54686](https://github.com/flutter/engine/pull/54686) merged on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54686) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; docs: use test: all rather than editing .ci.yaml
   <sub>[#54667](https://github.com/flutter/engine/pull/54667) merged on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54667) over 16 hours, 17 additions and 4 deletions in 1 file</sub>
