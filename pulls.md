@@ -38,9 +38,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for sliver grid delegate with fixed cross axis count examples<br />
   <sub>[#153500](https://github.com/flutter/flutter/pull/153500) opened on on August 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153500) 45 additions and 3 deletions in 4 files</sub><br />
 
-* **[AntØn UstinØff](https://github.com/ziqq)** &mdash; Feat: Add opportunity to change CupertinoTextField suffix alignment<br />
-  <sub>[#153561](https://github.com/flutter/flutter/pull/153561) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153561) 52 additions and 21 deletions in 5 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not silently fail `pub get` even if output-mode is "none"<br />
   <sub>[#153596](https://github.com/flutter/flutter/pull/153596) opened on on August 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153596) 100 additions and 19 deletions in 6 files</sub><br />
 
