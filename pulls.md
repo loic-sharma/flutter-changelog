@@ -50,9 +50,6 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Document scale parameter for Image and RawImage<br />
   <sub>[#153728](https://github.com/flutter/flutter/pull/153728) opened on on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153728) 20 additions and 0 deletions in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix Cupertino route animation.<br />
-  <sub>[#153765](https://github.com/flutter/flutter/pull/153765) opened on on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153765) 17 additions and 31 deletions in 4 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes itemExtent being incorrectly assigned to renderObject.minExtent…<br />
   <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
 
@@ -60,7 +57,7 @@
   <sub>[#153812](https://github.com/flutter/flutter/pull/153812) opened on on August 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153812) 49 additions and 27 deletions in 6 files</sub><br />
 
 * **[Joshix-1](https://github.com/Joshix-1)** &mdash; Fix documentation of CircularProgressIndicator.adaptive<br />
-  <sub>[#153832](https://github.com/flutter/flutter/pull/153832) opened on on August 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153832) 1 addition and 2 deletions in 1 file</sub><br />
+  <sub>[#153832](https://github.com/flutter/flutter/pull/153832) opened on on August 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153832) 1 addition and 2 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test `custom_scroll_view.1.dart`<br />
   <sub>[#153841](https://github.com/flutter/flutter/pull/153841) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153841) 66 additions and 1 deletion in 2 files</sub><br />

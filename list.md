@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-24 commits.
+25 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub>
@@ -19,8 +19,8 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; docs: Update doc for scale behaviour of floating label
-  <sub>[#151835](https://github.com/flutter/flutter/pull/151835) merged on August 21, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/151835) over 1 month, 3 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub>[#151835](https://github.com/flutter/flutter/pull/151835) merged on August 21, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/151835) over 1 month, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When the app enters the detached state, clear the record of the last SystemChrome style sent to the host
   <sub>[#153586](https://github.com/flutter/flutter/pull/153586) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153586) over 3 days, 44 additions and 1 deletion in 3 files</sub>
@@ -93,6 +93,10 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Release] Update bots to expect new entitlements
   <sub>[#153787](https://github.com/flutter/flutter/pull/153787) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153787) over 51 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Update template/test `compileSdk`, `targetSdk`, `ndk` versions"
+  <sub>[#153795](https://github.com/flutter/flutter/pull/153795) merged on August 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153795) over 20 hours, 522 additions and 397 deletions in 55 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reland "Load parent package config"
   <sub>[#153754](https://github.com/flutter/flutter/pull/153754) merged on August 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153754) over 2 hours, 613 additions and 391 deletions in 55 files</sub>
@@ -530,7 +534,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-23 commits.
+24 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub>
@@ -607,6 +611,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update gni filegroup when building Skia's codec files
   <sub>[#54588](https://github.com/flutter/engine/pull/54588) merged on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54588) over 2 days, 1 addition and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Reland "[DisplayList] Allow random access to ops through indexing"
+  <sub>[#54676](https://github.com/flutter/engine/pull/54676) merged on August 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/54676) over 11 hours, 1432 additions and 463 deletions in 8 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[DisplayList] Allow random access to ops through indexing"
   <sub>[#54661](https://github.com/flutter/engine/pull/54661) merged on August 20, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/54661) over 1 hour, 463 additions and 1355 deletions in 8 files</sub>
