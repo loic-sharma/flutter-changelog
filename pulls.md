@@ -65,3 +65,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ensure that the output path used by perf_tests_test matches the path used by perf_tests if the FLUTTER_TEST_OUTPUTS_DIR variable is set<br />
   <sub>[#153888](https://github.com/flutter/flutter/pull/153888) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153888) 10 additions and 8 deletions in 2 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; fix unpack freezing app with no animation<br />
+  <sub>[#153890](https://github.com/flutter/flutter/pull/153890) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153890) 103 additions and 0 deletions in 2 files</sub><br />
+
