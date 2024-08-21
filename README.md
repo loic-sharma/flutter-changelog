@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-26 commits.
+27 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config<br />
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub><br />
@@ -102,6 +102,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Update template/test `compileSdk`, `targetSdk`, `ndk` versions"<br />
   <sub>[#153795](https://github.com/flutter/flutter/pull/153795) merged on August 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153795) over 20 hours, 522 additions and 397 deletions in 55 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_mokey run_release_test to be flaky<br />
+  <sub>[#153831](https://github.com/flutter/flutter/pull/153831) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153831) over 10 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Reland "Load parent package config"<br />
   <sub>[#153754](https://github.com/flutter/flutter/pull/153754) merged on August 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153754) over 2 hours, 613 additions and 391 deletions in 55 files</sub><br />
