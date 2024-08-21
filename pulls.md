@@ -39,7 +39,7 @@
   <sub>[#153500](https://github.com/flutter/flutter/pull/153500) opened on on August 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153500) 45 additions and 3 deletions in 4 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not silently fail `pub get` even if output-mode is "none"<br />
-  <sub>[#153596](https://github.com/flutter/flutter/pull/153596) opened on on August 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153596) 100 additions and 19 deletions in 6 files</sub><br />
+  <sub>[#153596](https://github.com/flutter/flutter/pull/153596) opened on on August 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153596) 100 additions and 19 deletions in 6 files</sub><br />
 
 * **[Moustafa_Abdelrahim_Ga3llouss](https://github.com/MoustafaAbdelrahimGaallouss)** &mdash; edite Home Page only<br />
   <sub>[#153610](https://github.com/flutter/flutter/pull/153610) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153610) 0 additions and 0 deletions in 0 files</sub><br />
@@ -61,7 +61,4 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test `custom_scroll_view.1.dart`<br />
   <sub>[#153841](https://github.com/flutter/flutter/pull/153841) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153841) 66 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Merge stable changelog to master<br />
-  <sub>[#153872](https://github.com/flutter/flutter/pull/153872) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153872) 27 additions and 0 deletions in 1 file</sub><br />
 
