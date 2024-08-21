@@ -930,7 +930,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-8 commits.
+9 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS<br />
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub><br />
@@ -963,6 +963,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Many] Bump AGP to 8.5.1 and gradle to 8.7<br />
   <sub>[#7432](https://github.com/flutter/packages/pull/7432) merged on August 20, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7432) over 3 days, 99 additions and 67 deletions in 77 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements<br />
+  <sub>[#7462](https://github.com/flutter/packages/pull/7462) merged on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7462) over 1 hour, 0 additions and 10 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 ### August 10, 2024 to August 16, 2024
 

@@ -74,6 +74,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test `custom_scroll_view.1.dart`<br />
   <sub>[#153841](https://github.com/flutter/flutter/pull/153841) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153841) 66 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [flutter_releases] Flutter beta 3.25.0-0.0.pre Framework Cherrypicks<br />
-  <sub>[#153847](https://github.com/flutter/flutter/pull/153847) opened on on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153847) 2 additions and 1 deletion in 2 files</sub><br />
-
