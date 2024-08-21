@@ -543,7 +543,11 @@
 
 ### August 17, 2024 to August 23, 2024
 
-27 commits.
+28 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use blit pass to resize decoded images.
+  <sub>[#54606](https://github.com/flutter/engine/pull/54606) merged on August 21, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/engine/pull/54606) over 3 days, 577 additions and 164 deletions in 25 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Perform integrity checks for Vulkan pipeline caches.
   <sub>[#54654](https://github.com/flutter/engine/pull/54654) merged on August 21, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/54654) over 23 hours, 395 additions and 81 deletions in 8 files</sub>
@@ -983,7 +987,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-13 commits.
+14 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub>
@@ -1012,6 +1016,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes an issue where android back button pops wrong page.
   <sub>[#7348](https://github.com/flutter/packages/pull/7348) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7348) over 1 week, 87 additions and 23 deletions in 5 files</sub>
   <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] simplifies int handling across the codec, verifies ints in collections
+  <sub>[#7392](https://github.com/flutter/packages/pull/7392) merged on August 21, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/7392) over 1 week, 10821 additions and 2820 deletions in 59 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Remove scorecard action
   <sub>[#7450](https://github.com/flutter/packages/pull/7450) merged on August 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7450) over 1 minute, 0 additions and 55 deletions in 2 files</sub>
