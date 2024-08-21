@@ -42,7 +42,7 @@
   <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153459) 283 additions and 15 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for sliver grid delegate with fixed cross axis count examples<br />
-  <sub>[#153500](https://github.com/flutter/flutter/pull/153500) opened on on August 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153500) 45 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#153500](https://github.com/flutter/flutter/pull/153500) opened on on August 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153500) 45 additions and 3 deletions in 4 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `SingleChildScrollView` examples<br />
   <sub>[#153548](https://github.com/flutter/flutter/pull/153548) opened on on August 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153548) 102 additions and 2 deletions in 3 files</sub><br />
