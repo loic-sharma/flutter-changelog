@@ -934,7 +934,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-9 commits.
+10 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS<br />
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub><br />
@@ -947,6 +947,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes replace and pushReplacement uri when only one route…<br />
   <sub>[#7433](https://github.com/flutter/packages/pull/7433) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7433) over 3 days, 50 additions and 19 deletions in 5 files</sub><br />
   <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [many] Remove dependency on `kotlin-bom`<br />
+  <sub>[#7088](https://github.com/flutter/packages/pull/7088) merged on August 21, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/7088) over 1 month, 74 additions and 64 deletions in 32 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [Maurice Parrish](https://github.com/bparrishMines), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Fix landscape not showing in andUp<br />
   <sub>[#7425](https://github.com/flutter/packages/pull/7425) merged on August 21, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/7425) over 4 days, 529 additions and 93 deletions in 6 files</sub><br />
