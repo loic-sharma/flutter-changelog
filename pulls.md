@@ -65,9 +65,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT SUBMIT: TEST ENGINE ROLL<br />
   <sub>[#153818](https://github.com/flutter/flutter/pull/153818) opened on on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153818) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: Deleting text in `EditableText` with CJK keyboard while in `CupertinoPageRoute` throws exception<br />
-  <sub>[#153822](https://github.com/flutter/flutter/pull/153822) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153822) 82 additions and 0 deletions in 2 files</sub><br />
-
 * **[Joshix-1](https://github.com/Joshix-1)** &mdash; Fix documentation of CircularProgressIndicator.adaptive<br />
   <sub>[#153832](https://github.com/flutter/flutter/pull/153832) opened on on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153832) 1 addition and 2 deletions in 1 file</sub><br />
 
