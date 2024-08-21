@@ -518,7 +518,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-20 commits.
+21 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors<br />
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub><br />
@@ -599,6 +599,10 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c5264a1bd1d2 to c22bf5aedbcf (2 revisions)<br />
   <sub>[#54646](https://github.com/flutter/engine/pull/54646) merged on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54646) over 1 hour, 23 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] reland weaken affinity of raster/ui to non-e core instead of only fast core<br />
+  <sub>[#54616](https://github.com/flutter/engine/pull/54616) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54616) over 2 days, 13 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 ### August 10, 2024 to August 16, 2024
 

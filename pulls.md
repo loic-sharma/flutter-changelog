@@ -9,7 +9,7 @@
   <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of CustomScrollViewExampleApp<br />
-  <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/152431) 56 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/152431) 56 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
   <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
@@ -57,7 +57,7 @@
   <sub>[#153765](https://github.com/flutter/flutter/pull/153765) opened on on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153765) 17 additions and 31 deletions in 4 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes itemExtent being incorrectly assigned to renderObject.minExtent…<br />
-  <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move the Linux runner into a subdirectory<br />
   <sub>[#153812](https://github.com/flutter/flutter/pull/153812) opened on on August 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153812) 49 additions and 27 deletions in 6 files</sub><br />
