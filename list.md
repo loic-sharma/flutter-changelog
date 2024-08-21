@@ -543,7 +543,11 @@
 
 ### August 17, 2024 to August 23, 2024
 
-25 commits.
+26 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Perform integrity checks for Vulkan pipeline caches.
+  <sub>[#54654](https://github.com/flutter/engine/pull/54654) merged on August 21, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/54654) over 23 hours, 395 additions and 81 deletions in 8 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub>
