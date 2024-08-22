@@ -66,5 +66,5 @@
   <sub>[#153966](https://github.com/flutter/flutter/pull/153966) opened on on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153966) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][native_assets] Fix macOS host build failure when there are no frameworks to sign.<br />
-  <sub>[#153967](https://github.com/flutter/flutter/pull/153967) opened on on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153967) 76 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#153967](https://github.com/flutter/flutter/pull/153967) opened on on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153967) 76 additions and 0 deletions in 2 files</sub><br />
 
