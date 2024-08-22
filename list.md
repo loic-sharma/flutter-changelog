@@ -1272,7 +1272,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-13 commits.
+14 commits.
 
 * **[Mikhail Zotyev](https://github.com/MbIXjkee)** &mdash; Add Elementary to the state management options page
   <sub>[#11035](https://github.com/flutter/website/pull/11035) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11035) over 1 week, 14 additions and 0 deletions in 1 file</sub>
@@ -1309,6 +1309,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; document add-to-app for web
   <sub>[#11056](https://github.com/flutter/website/pull/11056) merged on August 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11056) over 2 days, 79 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Brian Wo](https://github.com/brainwo)** &mdash; Update CHANGELOG url
+  <sub>[#11070](https://github.com/flutter/website/pull/11070) merged on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11070) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[TonyD-TuftAndPaw](https://github.com/TonyD-TuftAndPaw)** &mdash; Update the options for the gen-l10n tool
   <sub>[#11046](https://github.com/flutter/website/pull/11046) merged on August 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11046) over 5 days, 2 additions and 1 deletion in 1 file</sub>
