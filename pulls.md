@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
-  <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/151585) 44 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/151585) 44 additions and 1 deletion in 2 files</sub><br />
 
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
   <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
@@ -58,4 +58,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT SUBMIT: TEST ENGINE ROLL<br />
   <sub>[#153898](https://github.com/flutter/flutter/pull/153898) opened on on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153898) 2 additions and 1 deletion in 2 files</sub><br />
+
+* **[Slava Egorov](https://github.com/mraleph)** &mdash; Use "run --resident" for flutter-dev.<br />
+  <sub>[#153905](https://github.com/flutter/flutter/pull/153905) opened on on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153905) 1 addition and 1 deletion in 1 file</sub><br />
 
