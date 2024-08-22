@@ -50,9 +50,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes itemExtent being incorrectly assigned to renderObject.minExtent…<br />
   <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test `custom_scroll_view.1.dart`<br />
-  <sub>[#153841](https://github.com/flutter/flutter/pull/153841) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153841) 66 additions and 1 deletion in 2 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix unpack freezing app with no animation<br />
   <sub>[#153890](https://github.com/flutter/flutter/pull/153890) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153890) 103 additions and 0 deletions in 2 files</sub><br />
 
