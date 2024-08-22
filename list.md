@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-42 commits.
+43 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub>
@@ -21,6 +21,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Update template/test `compileSdk`, `targetSdk`, `ndk` versions
   <sub>[#152487](https://github.com/flutter/flutter/pull/152487) merged on August 20, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/152487) over 3 weeks, 403 additions and 280 deletions in 51 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Joy Serquiña](https://github.com/essjay05)** &mdash; fix(material/a11y_assessments): add unique page title
+  <sub>[#152148](https://github.com/flutter/flutter/pull/152148) merged on August 22, 2024 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/152148) over 1 month, 350 additions and 65 deletions in 36 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Make `TextField` read only when the text input is disabled by setting  `DropdownMenu.requestFocusOnTap` to `false`
   <sub>[#153566](https://github.com/flutter/flutter/pull/153566) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153566) over 5 days, 49 additions and 0 deletions in 2 files</sub>
@@ -47,13 +51,17 @@
   <sub>[#153596](https://github.com/flutter/flutter/pull/153596) merged on August 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153596) over 5 days, 100 additions and 19 deletions in 6 files</sub>
   <sub>Reviewed by: </sub>
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Nested Navigator state restoration predictive back examples
+  <sub>[#153723](https://github.com/flutter/flutter/pull/153723) merged on August 22, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/153723) over 2 days, 430 additions and 62 deletions in 4 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When the app enters the detached state, clear the record of the last SystemChrome style sent to the host
   <sub>[#153586](https://github.com/flutter/flutter/pull/153586) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153586) over 3 days, 44 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Nested Navigator state restoration predictive back examples
-  <sub>[#153723](https://github.com/flutter/flutter/pull/153723) merged on August 22, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/153723) over 2 days, 430 additions and 62 deletions in 4 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; fixed issue to where screen reader reads all buttons when opening datepicker
+  <sub>[#152705](https://github.com/flutter/flutter/pull/152705) merged on August 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152705) over 2 weeks, 28 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Handle "Service connection disposed" error from VmService disconnecting while requests are outstanding
   <sub>[#153714](https://github.com/flutter/flutter/pull/153714) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153714) over 22 hours, 48 additions and 5 deletions in 4 files</sub>
@@ -62,10 +70,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes page.onPopInvoked type mismatches
   <sub>[#153593](https://github.com/flutter/flutter/pull/153593) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153593) over 3 days, 81 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Denis Bowen](https://github.com/DBowen33)** &mdash; fixed issue to where screen reader reads all buttons when opening datepicker
-  <sub>[#152705](https://github.com/flutter/flutter/pull/152705) merged on August 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152705) over 2 weeks, 28 additions and 3 deletions in 3 files</sub>
-  <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub>
 
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; refactor material banner and fix focus issue
   <sub>[#152646](https://github.com/flutter/flutter/pull/152646) merged on August 19, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/152646) over 2 weeks, 57 additions and 30 deletions in 2 files</sub>
@@ -119,21 +123,17 @@
   <sub>[#153607](https://github.com/flutter/flutter/pull/153607) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153607) over 2 days, 1 addition and 81 deletions in 5 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.
+  <sub>[#153780](https://github.com/flutter/flutter/pull/153780) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153780) over 1 hour, 115 additions and 89 deletions in 1 file</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.
   <sub>[#153786](https://github.com/flutter/flutter/pull/153786) merged on August 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153786) over 2 hours, 85 additions and 47 deletions in 3 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.
-  <sub>[#153780](https://github.com/flutter/flutter/pull/153780) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153780) over 1 hour, 115 additions and 89 deletions in 1 file</sub>
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.
   <sub>[#153798](https://github.com/flutter/flutter/pull/153798) merged on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153798) over 38 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Seth Ladd](https://github.com/sethladd)** &mdash; Update README.md to clarify who flutter-dev is for and what the trade-offs are
-  <sub>[#153947](https://github.com/flutter/flutter/pull/153947) merged on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153947) over 54 minutes, 7 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Document scale parameter for Image and RawImage
   <sub>[#153728](https://github.com/flutter/flutter/pull/153728) merged on August 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153728) over 2 days, 24 additions and 2 deletions in 2 files</sub>
@@ -158,6 +158,10 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [Release] Update bots to expect new entitlements
   <sub>[#153787](https://github.com/flutter/flutter/pull/153787) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153787) over 51 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Seth Ladd](https://github.com/sethladd)** &mdash; Update README.md to clarify who flutter-dev is for and what the trade-offs are
+  <sub>[#153947](https://github.com/flutter/flutter/pull/153947) merged on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153947) over 54 minutes, 7 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Update template/test `compileSdk`, `targetSdk`, `ndk` versions"
   <sub>[#153795](https://github.com/flutter/flutter/pull/153795) merged on August 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153795) over 20 hours, 522 additions and 397 deletions in 55 files</sub>
