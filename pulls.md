@@ -60,7 +60,7 @@
   <sub>[#153955](https://github.com/flutter/flutter/pull/153955) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153955) 61 additions and 2 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][native_assets] Fix macOS host build failure when there are no frameworks to sign.<br />
-  <sub>[#153967](https://github.com/flutter/flutter/pull/153967) opened on on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153967) 76 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#153967](https://github.com/flutter/flutter/pull/153967) opened on on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153967) 76 additions and 0 deletions in 2 files</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Missing tests sliver_app_bar.2_test.dart and sliver_app_bar.3_test.dart<br />
   <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153973) 62 additions and 2 deletions in 3 files</sub><br />
