@@ -62,3 +62,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu focus traversal<br />
   <sub>[#153931](https://github.com/flutter/flutter/pull/153931) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153931) 41 additions and 3 deletions in 2 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP-stable] Fix BaseTapAndDragGestureRecognizer should reset drag state after losing gesture arena (#151989)<br />
+  <sub>[#153935](https://github.com/flutter/flutter/pull/153935) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153935) 73 additions and 1 deletion in 2 files</sub><br />
+

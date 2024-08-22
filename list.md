@@ -579,7 +579,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-33 commits.
+34 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use blit pass to resize decoded images.
   <sub>[#54606](https://github.com/flutter/engine/pull/54606) merged on August 21, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/engine/pull/54606) over 3 days, 577 additions and 164 deletions in 25 files</sub>
@@ -615,6 +615,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] finish experimental canvas changes.
   <sub>[#54569](https://github.com/flutter/engine/pull/54569) merged on August 19, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54569) over 3 days, 331 additions and 309 deletions in 11 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Joel Winarske](https://github.com/jwinarske)** &mdash; vulkan_glfw validation layer logging
+  <sub>[#54607](https://github.com/flutter/engine/pull/54607) merged on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54607) over 3 days, 124 additions and 17 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix skwasm clip coverage algorithm.
@@ -661,17 +665,17 @@
   <sub>[#54658](https://github.com/flutter/engine/pull/54658) merged on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54658) over 3 hours, 41 additions and 22 deletions in 2 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Check return values for Sk[I]Rect::intersect
-  <sub>[#54577](https://github.com/flutter/engine/pull/54577) merged on August 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54577) over 3 days, 88 additions and 9 deletions in 6 files</sub>
-  <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a note about Graphite to the FAQ.
+  <sub>[#54623](https://github.com/flutter/engine/pull/54623) merged on August 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54623) over 2 hours, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] account for negative scale in max basis xy.
   <sub>[#54630](https://github.com/flutter/engine/pull/54630) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54630) over 53 minutes, 11 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a note about Graphite to the FAQ.
-  <sub>[#54623](https://github.com/flutter/engine/pull/54623) merged on August 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54623) over 2 hours, 18 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; Check return values for Sk[I]Rect::intersect
+  <sub>[#54577](https://github.com/flutter/engine/pull/54577) merged on August 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54577) over 3 days, 88 additions and 9 deletions in 6 files</sub>
+  <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub>
 
 * **[Joel Winarske](https://github.com/jwinarske)** &mdash; Export GPU symbols for embedder
   <sub>[#54662](https://github.com/flutter/engine/pull/54662) merged on August 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54662) over 1 day, 14 additions and 0 deletions in 3 files</sub>
