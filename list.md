@@ -1075,7 +1075,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-15 commits.
+16 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub>
@@ -1124,6 +1124,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements
   <sub>[#7462](https://github.com/flutter/packages/pull/7462) merged on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7462) over 1 hour, 0 additions and 10 deletions in 10 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Serve benchmarks with COOP/COEP headers in wasm mode.
+  <sub>[#7423](https://github.com/flutter/packages/pull/7423) merged on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7423) over 6 days, 61 additions and 13 deletions in 5 files</sub>
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds a contribution doc
   <sub>[#7460](https://github.com/flutter/packages/pull/7460) merged on August 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7460) over 22 hours, 252 additions and 5 deletions in 6 files</sub>
