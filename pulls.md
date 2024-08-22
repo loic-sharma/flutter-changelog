@@ -59,3 +59,6 @@
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add minimum height for MaterialBanner<br />
   <sub>[#153951](https://github.com/flutter/flutter/pull/153951) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153951) 72 additions and 1 deletion in 2 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Drawer` prematurely snapping<br />
+  <sub>[#153955](https://github.com/flutter/flutter/pull/153955) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153955) 61 additions and 2 deletions in 3 files</sub><br />
+
