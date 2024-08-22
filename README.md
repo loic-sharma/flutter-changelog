@@ -571,7 +571,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-32 commits.
+33 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use blit pass to resize decoded images.<br />
   <sub>[#54606](https://github.com/flutter/engine/pull/54606) merged on August 21, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/engine/pull/54606) over 3 days, 577 additions and 164 deletions in 25 files</sub><br />
@@ -664,6 +664,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a note about Graphite to the FAQ.<br />
   <sub>[#54623](https://github.com/flutter/engine/pull/54623) merged on August 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54623) over 2 hours, 18 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Joel Winarske](https://github.com/jwinarske)** &mdash; Export GPU symbols for embedder<br />
+  <sub>[#54662](https://github.com/flutter/engine/pull/54662) merged on August 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54662) over 1 day, 14 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Update package:js version constraints to ^0.7.0 and update test versions to match<br />
   <sub>[#54629](https://github.com/flutter/engine/pull/54629) merged on August 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54629) over 4 hours, 5 additions and 5 deletions in 3 files</sub><br />
