@@ -650,7 +650,7 @@
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin mac host and iOS builds to arm64 builders
-  <sub>[#54711](https://github.com/flutter/engine/pull/54711) merged on August 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54711) over 3 hours, 56 additions and 28 deletions in 2 files</sub>
+  <sub>[#54711](https://github.com/flutter/engine/pull/54711) merged on August 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54711) over 3 hours, 56 additions and 28 deletions in 2 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Split tests out of Linux Android artifact creation builds
