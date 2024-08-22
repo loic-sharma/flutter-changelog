@@ -63,5 +63,5 @@
   <sub>[#153955](https://github.com/flutter/flutter/pull/153955) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153955) 61 additions and 2 deletions in 3 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the web test suite runner to use the correct flutter_driver output path if FLUTTER_TEST_OUTPUTS_DIR is set<br />
-  <sub>[#153966](https://github.com/flutter/flutter/pull/153966) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153966) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#153966](https://github.com/flutter/flutter/pull/153966) opened on on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153966) 3 additions and 1 deletion in 1 file</sub><br />
 
