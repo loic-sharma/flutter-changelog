@@ -1272,7 +1272,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-12 commits.
+13 commits.
 
 * **[Mikhail Zotyev](https://github.com/MbIXjkee)** &mdash; Add Elementary to the state management options page<br />
   <sub>[#11035](https://github.com/flutter/website/pull/11035) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11035) over 1 week, 14 additions and 0 deletions in 1 file</sub><br />
@@ -1289,6 +1289,10 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; [Fix] Add --[no-]shrink instruction for release builds<br />
   <sub>[#11022](https://github.com/flutter/website/pull/11022) merged on August 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11022) over 1 week, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Swift Package Manager] Update docs after 3.24 release<br />
+  <sub>[#11071](https://github.com/flutter/website/pull/11071) merged on August 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11071) over 8 hours, 7 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; rephrase "instances of any screen size"; other fixes<br />
   <sub>[#11063](https://github.com/flutter/website/pull/11063) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11063) over 21 hours, 14 additions and 6 deletions in 1 file</sub><br />
