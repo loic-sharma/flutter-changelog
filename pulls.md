@@ -59,3 +59,6 @@
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Use "run --resident" for flutter-dev.<br />
   <sub>[#153905](https://github.com/flutter/flutter/pull/153905) opened on on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153905) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu focus traversal<br />
+  <sub>[#153931](https://github.com/flutter/flutter/pull/153931) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153931) 41 additions and 3 deletions in 2 files</sub><br />
+
