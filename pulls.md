@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
-  <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/151585) 51 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/151585) 51 additions and 1 deletion in 2 files</sub><br />
 
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
   <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
@@ -38,9 +38,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for sliver grid delegate with fixed cross axis count examples<br />
   <sub>[#153500](https://github.com/flutter/flutter/pull/153500) opened on on August 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153500) 45 additions and 3 deletions in 4 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Do not silently fail `pub get` even if output-mode is "none"<br />
-  <sub>[#153596](https://github.com/flutter/flutter/pull/153596) opened on on August 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153596) 100 additions and 19 deletions in 6 files</sub><br />
-
 * **[Moustafa_Abdelrahim_Ga3llouss](https://github.com/MoustafaAbdelrahimGaallouss)** &mdash; edite Home Page only<br />
   <sub>[#153610](https://github.com/flutter/flutter/pull/153610) opened on on August 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153610) 0 additions and 0 deletions in 0 files</sub><br />
 
@@ -57,10 +54,7 @@
   <sub>[#153898](https://github.com/flutter/flutter/pull/153898) opened on on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153898) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Use "run --resident" for flutter-dev.<br />
-  <sub>[#153905](https://github.com/flutter/flutter/pull/153905) opened on on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153905) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu focus traversal<br />
-  <sub>[#153931](https://github.com/flutter/flutter/pull/153931) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153931) 41 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#153905](https://github.com/flutter/flutter/pull/153905) opened on on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153905) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP-stable] Fix BaseTapAndDragGestureRecognizer should reset drag state after losing gesture arena (#151989)<br />
   <sub>[#153935](https://github.com/flutter/flutter/pull/153935) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153935) 73 additions and 1 deletion in 2 files</sub><br />
