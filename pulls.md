@@ -9,7 +9,7 @@
   <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of CustomScrollViewExampleApp<br />
-  <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/152431) 56 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#152431](https://github.com/flutter/flutter/pull/152431) opened on on July 27, 2024 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/152431) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
   <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
@@ -52,6 +52,9 @@
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP-stable] Fix BaseTapAndDragGestureRecognizer should reset drag state after losing gesture arena (#151989)<br />
   <sub>[#153935](https://github.com/flutter/flutter/pull/153935) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153935) 73 additions and 1 deletion in 2 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP-stable] Fix deleting text in EditableText with CJK keyboard while in CupertinoPageRoute throws exception (#153822)<br />
+  <sub>[#153946](https://github.com/flutter/flutter/pull/153946) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153946) 104 additions and 2 deletions in 2 files</sub><br />
 
 * **[Seth Ladd](https://github.com/sethladd)** &mdash; Update README.md to clarify who flutter-dev is for and what the trade-offs are<br />
   <sub>[#153947](https://github.com/flutter/flutter/pull/153947) opened on on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153947) 7 additions and 1 deletion in 1 file</sub><br />
