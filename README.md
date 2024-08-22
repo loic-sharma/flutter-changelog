@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-30 commits.
+31 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config<br />
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub><br />
@@ -98,6 +98,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not cancel the VmService's subscription to the isolate event stream in FlutterVmService.findExtensionIsolate<br />
   <sub>[#153607](https://github.com/flutter/flutter/pull/153607) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153607) over 2 days, 1 addition and 81 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: Deleting text in `EditableText` with CJK keyboard while in `CupertinoPageRoute` throws exception<br />
+  <sub>[#153822](https://github.com/flutter/flutter/pull/153822) merged on August 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153822) over 19 hours, 104 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Merge stable changelog to master<br />
   <sub>[#153872](https://github.com/flutter/flutter/pull/153872) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153872) over 2 hours, 27 additions and 0 deletions in 1 file</sub><br />
