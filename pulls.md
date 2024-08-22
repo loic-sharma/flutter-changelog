@@ -56,9 +56,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP-stable] Fix deleting text in EditableText with CJK keyboard while in CupertinoPageRoute throws exception (#153822)<br />
   <sub>[#153946](https://github.com/flutter/flutter/pull/153946) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153946) 104 additions and 2 deletions in 2 files</sub><br />
 
-* **[Seth Ladd](https://github.com/sethladd)** &mdash; Update README.md to clarify who flutter-dev is for and what the trade-offs are<br />
-  <sub>[#153947](https://github.com/flutter/flutter/pull/153947) opened on on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153947) 7 additions and 1 deletion in 1 file</sub><br />
-
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add minimum height for MaterialBanner<br />
   <sub>[#153951](https://github.com/flutter/flutter/pull/153951) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153951) 72 additions and 1 deletion in 2 files</sub><br />
 
