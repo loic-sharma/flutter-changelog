@@ -53,3 +53,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP-stable] Fix BaseTapAndDragGestureRecognizer should reset drag state after losing gesture arena (#151989)<br />
   <sub>[#153935](https://github.com/flutter/flutter/pull/153935) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153935) 73 additions and 1 deletion in 2 files</sub><br />
 
+* **[Seth Ladd](https://github.com/sethladd)** &mdash; Update README.md to clarify who flutter-dev is for and what the trade-offs are<br />
+  <sub>[#153947](https://github.com/flutter/flutter/pull/153947) opened on on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153947) 7 additions and 1 deletion in 1 file</sub><br />
+
