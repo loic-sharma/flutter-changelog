@@ -4,7 +4,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-43 commits.
+44 commits.
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config<br />
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub><br />
@@ -51,17 +51,13 @@
   <sub>[#153596](https://github.com/flutter/flutter/pull/153596) merged on August 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153596) over 5 days, 100 additions and 19 deletions in 6 files</sub><br />
   <sub>Reviewed by: </sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Nested Navigator state restoration predictive back examples<br />
-  <sub>[#153723](https://github.com/flutter/flutter/pull/153723) merged on August 22, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/153723) over 2 days, 430 additions and 62 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When the app enters the detached state, clear the record of the last SystemChrome style sent to the host<br />
   <sub>[#153586](https://github.com/flutter/flutter/pull/153586) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153586) over 3 days, 44 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Denis Bowen](https://github.com/DBowen33)** &mdash; fixed issue to where screen reader reads all buttons when opening datepicker<br />
-  <sub>[#152705](https://github.com/flutter/flutter/pull/152705) merged on August 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152705) over 2 weeks, 28 additions and 3 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Nested Navigator state restoration predictive back examples<br />
+  <sub>[#153723](https://github.com/flutter/flutter/pull/153723) merged on August 22, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/153723) over 2 days, 430 additions and 62 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Handle "Service connection disposed" error from VmService disconnecting while requests are outstanding<br />
   <sub>[#153714](https://github.com/flutter/flutter/pull/153714) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153714) over 22 hours, 48 additions and 5 deletions in 4 files</sub><br />
@@ -70,6 +66,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes page.onPopInvoked type mismatches<br />
   <sub>[#153593](https://github.com/flutter/flutter/pull/153593) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153593) over 3 days, 81 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; fixed issue to where screen reader reads all buttons when opening datepicker<br />
+  <sub>[#152705](https://github.com/flutter/flutter/pull/152705) merged on August 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152705) over 2 weeks, 28 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; refactor material banner and fix focus issue<br />
   <sub>[#152646](https://github.com/flutter/flutter/pull/152646) merged on August 19, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/152646) over 2 weeks, 57 additions and 30 deletions in 2 files</sub><br />
@@ -90,6 +90,10 @@
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; add autofocus to fix a11y issue with dialog<br />
   <sub>[#152637](https://github.com/flutter/flutter/pull/152637) merged on August 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152637) over 2 weeks, 16 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add a `flutter-dev` script to run the flutter CLI from source<br />
+  <sub>[#153892](https://github.com/flutter/flutter/pull/153892) merged on August 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/153892) over 23 hours, 78 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ensure that the output path used by perf_tests_test matches the path used by perf_tests if the FLUTTER_TEST_OUTPUTS_DIR variable is set<br />
   <sub>[#153888](https://github.com/flutter/flutter/pull/153888) merged on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153888) over 5 hours, 10 additions and 8 deletions in 2 files</sub><br />
@@ -115,17 +119,9 @@
   <sub>[#153695](https://github.com/flutter/flutter/pull/153695) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153695) over 4 hours, 0 additions and 239 deletions in 7 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update goldctl git revision<br />
-  <sub>[#153710](https://github.com/flutter/flutter/pull/153710) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153710) over 1 hour, 84 additions and 84 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not cancel the VmService's subscription to the isolate event stream in FlutterVmService.findExtensionIsolate<br />
   <sub>[#153607](https://github.com/flutter/flutter/pull/153607) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153607) over 2 days, 1 addition and 81 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
-  <sub>[#153780](https://github.com/flutter/flutter/pull/153780) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153780) over 1 hour, 115 additions and 89 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.<br />
   <sub>[#153786](https://github.com/flutter/flutter/pull/153786) merged on August 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153786) over 2 hours, 85 additions and 47 deletions in 3 files</sub><br />
@@ -135,9 +131,13 @@
   <sub>[#153798](https://github.com/flutter/flutter/pull/153798) merged on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153798) over 38 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Document scale parameter for Image and RawImage<br />
-  <sub>[#153728](https://github.com/flutter/flutter/pull/153728) merged on August 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153728) over 2 days, 24 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
+  <sub>[#153780](https://github.com/flutter/flutter/pull/153780) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153780) over 1 hour, 115 additions and 89 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update goldctl git revision<br />
+  <sub>[#153710](https://github.com/flutter/flutter/pull/153710) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153710) over 1 hour, 84 additions and 84 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Fix `flutter test` in workspace<br />
   <sub>[#153919](https://github.com/flutter/flutter/pull/153919) merged on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153919) over 3 hours, 59 additions and 13 deletions in 4 files</sub><br />
@@ -162,6 +162,10 @@
 * **[Seth Ladd](https://github.com/sethladd)** &mdash; Update README.md to clarify who flutter-dev is for and what the trade-offs are<br />
   <sub>[#153947](https://github.com/flutter/flutter/pull/153947) merged on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153947) over 54 minutes, 7 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Document scale parameter for Image and RawImage<br />
+  <sub>[#153728](https://github.com/flutter/flutter/pull/153728) merged on August 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153728) over 2 days, 24 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Update template/test `compileSdk`, `targetSdk`, `ndk` versions"<br />
   <sub>[#153795](https://github.com/flutter/flutter/pull/153795) merged on August 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153795) over 20 hours, 522 additions and 397 deletions in 55 files</sub><br />

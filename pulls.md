@@ -53,9 +53,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP-stable] Fix BaseTapAndDragGestureRecognizer should reset drag state after losing gesture arena (#151989)<br />
   <sub>[#153935](https://github.com/flutter/flutter/pull/153935) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153935) 73 additions and 1 deletion in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP-stable] Fix deleting text in EditableText with CJK keyboard while in CupertinoPageRoute throws exception (#153822)<br />
-  <sub>[#153946](https://github.com/flutter/flutter/pull/153946) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153946) 104 additions and 2 deletions in 2 files</sub><br />
-
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add minimum height for MaterialBanner<br />
   <sub>[#153951](https://github.com/flutter/flutter/pull/153951) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153951) 72 additions and 1 deletion in 2 files</sub><br />
 
@@ -67,4 +64,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][native_assets] Fix macOS host build failure when there are no frameworks to sign.<br />
   <sub>[#153967](https://github.com/flutter/flutter/pull/153967) opened on on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153967) 76 additions and 0 deletions in 2 files</sub><br />
+
+* **[miechoo](https://github.com/miechoo)** &mdash; Missing tests sliver_app_bar.2_test.dart and sliver_app_bar.3_test.dart<br />
+  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153973) 62 additions and 2 deletions in 3 files</sub><br />
 
