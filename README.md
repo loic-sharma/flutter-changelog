@@ -1182,7 +1182,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-17 commits.
+18 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS<br />
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub><br />
@@ -1235,6 +1235,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements<br />
   <sub>[#7462](https://github.com/flutter/packages/pull/7462) merged on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7462) over 1 hour, 0 additions and 10 deletions in 10 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformTileOverlay` to Pigeon<br />
+  <sub>[#7467](https://github.com/flutter/packages/pull/7467) merged on August 23, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/7467) over 2 days, 234 additions and 82 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Serve benchmarks with COOP/COEP headers in wasm mode.<br />
   <sub>[#7423](https://github.com/flutter/packages/pull/7423) merged on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7423) over 6 days, 61 additions and 13 deletions in 5 files</sub><br />
