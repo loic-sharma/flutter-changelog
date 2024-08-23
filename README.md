@@ -787,7 +787,7 @@
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert "Framework wide color"<br />
-  <sub>[#54728](https://github.com/flutter/engine/pull/54728) merged on August 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/54728) over 3 hours, 80 additions and 811 deletions in 6 files</sub><br />
+  <sub>[#54728](https://github.com/flutter/engine/pull/54728) merged on August 23, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54728) over 3 hours, 80 additions and 811 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "[DisplayList] Allow random access to ops through indexing"<br />
