@@ -54,7 +54,7 @@
   <sub>[#153951](https://github.com/flutter/flutter/pull/153951) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153951) 72 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Drawer` prematurely snapping<br />
-  <sub>[#153955](https://github.com/flutter/flutter/pull/153955) opened on on August 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153955) 61 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#153955](https://github.com/flutter/flutter/pull/153955) opened on on August 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153955) 62 additions and 2 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][native_assets] Fix macOS host build failure when there are no frameworks to sign.<br />
   <sub>[#153967](https://github.com/flutter/flutter/pull/153967) opened on on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153967) 76 additions and 0 deletions in 2 files</sub><br />
@@ -67,7 +67,4 @@
 
 * **[Paul Grandperrin](https://github.com/PaulGrandperrin)** &mdash; flutter-web: fix access to manifest with authentication<br />
   <sub>[#154012](https://github.com/flutter/flutter/pull/154012) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154012) 19 additions and 19 deletions in 16 files</sub><br />
-
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add `InlineSpan.updateAttributes`<br />
-  <sub>[#154017](https://github.com/flutter/flutter/pull/154017) opened on on August 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154017) 648 additions and 4 deletions in 7 files</sub><br />
 
