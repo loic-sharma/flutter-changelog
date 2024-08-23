@@ -68,3 +68,6 @@
 * **[Paul Grandperrin](https://github.com/PaulGrandperrin)** &mdash; flutter-web: fix access to manifest with authentication<br />
   <sub>[#154012](https://github.com/flutter/flutter/pull/154012) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154012) 19 additions and 19 deletions in 16 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add `InlineSpan.updateAttributes`<br />
+  <sub>[#154017](https://github.com/flutter/flutter/pull/154017) opened on on August 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154017) 648 additions and 4 deletions in 7 files</sub><br />
+

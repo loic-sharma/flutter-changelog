@@ -1157,7 +1157,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-16 commits.
+17 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS<br />
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub><br />
@@ -1178,6 +1178,10 @@
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Fix landscape not showing in andUp<br />
   <sub>[#7425](https://github.com/flutter/packages/pull/7425) merged on August 21, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/packages/pull/7425) over 4 days, 529 additions and 93 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Fixes issue so that the parseRouteInformationWithContext …<br />
+  <sub>[#7337](https://github.com/flutter/packages/pull/7337) merged on August 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7337) over 2 weeks, 86 additions and 87 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Re-land SurfaceProducer migration with fix for camera preview rotation<br />
   <sub>[#6856](https://github.com/flutter/packages/pull/6856) merged on August 19, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/packages/pull/6856) over 2 months, 95 additions and 43 deletions in 7 files</sub><br />
