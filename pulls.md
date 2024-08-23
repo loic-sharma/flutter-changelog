@@ -71,3 +71,6 @@
 * **[Paul Grandperrin](https://github.com/PaulGrandperrin)** &mdash; flutter-web: fix access to manifest with authentication<br />
   <sub>[#154012](https://github.com/flutter/flutter/pull/154012) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154012) 19 additions and 19 deletions in 16 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; remove branch and presubmit constraints on verify binaries test<br />
+  <sub>[#154034](https://github.com/flutter/flutter/pull/154034) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154034) 0 additions and 6 deletions in 1 file</sub><br />
+
