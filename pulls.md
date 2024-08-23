@@ -2,6 +2,9 @@
 
 ## flutter/flutter
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make the pub roller bot re-generate gradle lockfiles<br />
+  <sub>[#149355](https://github.com/flutter/flutter/pull/149355) opened on on May 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/149355) 58 additions and 28 deletions in 4 files</sub><br />
+
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
   <sub>[#151585](https://github.com/flutter/flutter/pull/151585) opened on on July 11, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/151585) 40 additions and 1 deletion in 2 files</sub><br />
 
