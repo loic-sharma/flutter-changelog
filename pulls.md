@@ -68,3 +68,6 @@
 * **[Paul Grandperrin](https://github.com/PaulGrandperrin)** &mdash; flutter-web: fix access to manifest with authentication<br />
   <sub>[#154012](https://github.com/flutter/flutter/pull/154012) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154012) 19 additions and 19 deletions in 16 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelan] opt android devices into fixed performance mode.<br />
+  <sub>[#154016](https://github.com/flutter/flutter/pull/154016) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154016) 11 additions and 0 deletions in 2 files</sub><br />
+
