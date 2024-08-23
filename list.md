@@ -635,7 +635,7 @@
 
 ### August 17, 2024 to August 23, 2024
 
-41 commits.
+42 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use blit pass to resize decoded images.
   <sub>[#54606](https://github.com/flutter/engine/pull/54606) merged on August 21, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/engine/pull/54606) over 3 days, 577 additions and 164 deletions in 25 files</sub>
@@ -649,13 +649,13 @@
   <sub>[#54697](https://github.com/flutter/engine/pull/54697) merged on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54697) over 17 hours, 82 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Framework wide color
-  <sub>[#54415](https://github.com/flutter/engine/pull/54415) merged on August 22, 2024 &mdash; **Large:** [51 comments](https://github.com/flutter/engine/pull/54415) over 2 weeks, 811 additions and 80 deletions in 6 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Changes DlColor to support wide gamut colors
   <sub>[#54473](https://github.com/flutter/engine/pull/54473) merged on August 19, 2024 &mdash; **Large:** [74 comments](https://github.com/flutter/engine/pull/54473) over 1 week, 436 additions and 146 deletions in 21 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Framework wide color
+  <sub>[#54415](https://github.com/flutter/engine/pull/54415) merged on August 22, 2024 &mdash; **Large:** [51 comments](https://github.com/flutter/engine/pull/54415) over 2 weeks, 811 additions and 80 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow the default background color to be changed
   <sub>[#54575](https://github.com/flutter/engine/pull/54575) merged on August 19, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/54575) over 3 days, 97 additions and 17 deletions in 7 files</sub>
@@ -702,18 +702,6 @@
   <sub>[#54572](https://github.com/flutter/engine/pull/54572) merged on August 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54572) over 4 days, 79 additions and 51 deletions in 2 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin mac host and iOS builds to arm64 builders
-  <sub>[#54711](https://github.com/flutter/engine/pull/54711) merged on August 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54711) over 3 hours, 56 additions and 28 deletions in 2 files</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove a log message in the Vulkan back end that is visible during engine startup
-  <sub>[#54699](https://github.com/flutter/engine/pull/54699) merged on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54699) over 40 minutes, 0 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Make framework creation consistent with iOS
-  <sub>[#54685](https://github.com/flutter/engine/pull/54685) merged on August 21, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54685) over 5 hours, 34 additions and 28 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Split tests out of Linux Android artifact creation builds
   <sub>[#54683](https://github.com/flutter/engine/pull/54683) merged on August 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/54683) over 5 hours, 98 additions and 38 deletions in 2 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
@@ -734,17 +722,37 @@
   <sub>[#54674](https://github.com/flutter/engine/pull/54674) merged on August 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54674) over 11 hours, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements
+  <sub>[#54669](https://github.com/flutter/engine/pull/54669) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54669) over 50 minutes, 0 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin mac host and iOS builds to arm64 builders
+  <sub>[#54711](https://github.com/flutter/engine/pull/54711) merged on August 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54711) over 3 hours, 56 additions and 28 deletions in 2 files</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] account for negative scale in max basis xy.
   <sub>[#54630](https://github.com/flutter/engine/pull/54630) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54630) over 53 minutes, 11 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a note about Graphite to the FAQ.
+  <sub>[#54623](https://github.com/flutter/engine/pull/54623) merged on August 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54623) over 2 hours, 18 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Test running the macOS engine has no stray logging
+  <sub>[#54716](https://github.com/flutter/engine/pull/54716) merged on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54716) over 4 hours, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Make framework creation consistent with iOS
+  <sub>[#54685](https://github.com/flutter/engine/pull/54685) merged on August 21, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54685) over 5 hours, 34 additions and 28 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Remove unused ColorHSB.
   <sub>[#54659](https://github.com/flutter/engine/pull/54659) merged on August 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54659) over 5 hours, 0 additions and 112 deletions in 2 files</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jim Graham](https://github.com/flar)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add a note about Graphite to the FAQ.
-  <sub>[#54623](https://github.com/flutter/engine/pull/54623) merged on August 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54623) over 2 hours, 18 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove a log message in the Vulkan back end that is visible during engine startup
+  <sub>[#54699](https://github.com/flutter/engine/pull/54699) merged on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54699) over 40 minutes, 0 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Clean up macOS framework creation scripts
   <sub>[#54658](https://github.com/flutter/engine/pull/54658) merged on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54658) over 3 hours, 41 additions and 22 deletions in 2 files</sub>
@@ -754,25 +762,17 @@
   <sub>[#54577](https://github.com/flutter/engine/pull/54577) merged on August 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54577) over 3 days, 88 additions and 9 deletions in 6 files</sub>
   <sub>Reviewed by: [Matej Knopp](https://github.com/knopp)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Test running the macOS engine has no stray logging
-  <sub>[#54716](https://github.com/flutter/engine/pull/54716) merged on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54716) over 4 hours, 5 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements
-  <sub>[#54669](https://github.com/flutter/engine/pull/54669) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54669) over 50 minutes, 0 additions and 3 deletions in 3 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; web_ui: bump min Dart SDK to 3.6.0-0
   <sub>[#54626](https://github.com/flutter/engine/pull/54626) merged on August 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54626) over 1 hour, 2 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
 
-* **[Joel Winarske](https://github.com/jwinarske)** &mdash; Export GPU symbols for embedder
-  <sub>[#54662](https://github.com/flutter/engine/pull/54662) merged on August 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54662) over 1 day, 14 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Update package:js version constraints to ^0.7.0 and update test versions to match
   <sub>[#54629](https://github.com/flutter/engine/pull/54629) merged on August 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54629) over 4 hours, 5 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Joel Winarske](https://github.com/jwinarske)** &mdash; Export GPU symbols for embedder
+  <sub>[#54662](https://github.com/flutter/engine/pull/54662) merged on August 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54662) over 1 day, 14 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set download_jdk variable
   <sub>[#54584](https://github.com/flutter/engine/pull/54584) merged on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54584) over 2 days, 195 additions and 52 deletions in 20 files</sub>
@@ -781,6 +781,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Update gni filegroup when building Skia's codec files
   <sub>[#54588](https://github.com/flutter/engine/pull/54588) merged on August 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54588) over 2 days, 1 addition and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Revert "Framework wide color"
+  <sub>[#54728](https://github.com/flutter/engine/pull/54728) merged on August 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/54728) over 3 hours, 80 additions and 811 deletions in 6 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "[DisplayList] Allow random access to ops through indexing"
   <sub>[#54676](https://github.com/flutter/engine/pull/54676) merged on August 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/54676) over 11 hours, 1432 additions and 463 deletions in 8 files</sub>
