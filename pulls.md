@@ -65,3 +65,6 @@
 * **[miechoo](https://github.com/miechoo)** &mdash; Missing tests sliver_app_bar.2_test.dart and sliver_app_bar.3_test.dart<br />
   <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153973) 62 additions and 2 deletions in 3 files</sub><br />
 
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; Optimize out LayoutBuilder from ReorderableList children<br />
+  <sub>[#153987](https://github.com/flutter/flutter/pull/153987) opened on on August 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153987) 5 additions and 11 deletions in 1 file</sub><br />
+
