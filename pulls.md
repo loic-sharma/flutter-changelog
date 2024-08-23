@@ -77,3 +77,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT MERGE: TEST ENGINE ROLL<br />
   <sub>[#154038](https://github.com/flutter/flutter/pull/154038) opened on on August 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154038) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fix `getFullHeightForCaret` when strut is disabled.<br />
+  <sub>[#154039](https://github.com/flutter/flutter/pull/154039) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154039) 44 additions and 5 deletions in 2 files</sub><br />
+
