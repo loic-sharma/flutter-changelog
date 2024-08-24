@@ -74,6 +74,3 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `CircularNotchedRectangle.getOuterPath()`<br />
   <sub>[#154036](https://github.com/flutter/flutter/pull/154036) opened on on August 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154036) 22 additions and 31 deletions in 1 file</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fix `getFullHeightForCaret` when strut is disabled.<br />
-  <sub>[#154039](https://github.com/flutter/flutter/pull/154039) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154039) 44 additions and 5 deletions in 2 files</sub><br />
-
