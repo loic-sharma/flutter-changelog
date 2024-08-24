@@ -71,3 +71,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `CircularNotchedRectangle.getOuterPath()`<br />
   <sub>[#154036](https://github.com/flutter/flutter/pull/154036) opened on on August 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154036) 22 additions and 31 deletions in 1 file</sub><br />
 
+* **[Nguyen Phuc Loi](https://github.com/nploi)** &mdash; Support custom transition duration for `DialogRoute`<br />
+  <sub>[#154048](https://github.com/flutter/flutter/pull/154048) opened on on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154048) 1 addition and 1 deletion in 1 file</sub><br />
+
