@@ -74,3 +74,6 @@
 * **[Nguyen Phuc Loi](https://github.com/nploi)** &mdash; Support custom transition duration for `DialogRoute`<br />
   <sub>[#154048](https://github.com/flutter/flutter/pull/154048) opened on on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154048) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[SohanRaidev](https://github.com/SohanRaidev)** &mdash; Add sample code for AutomaticKeepAliveClientMixin.<br />
+  <sub>[#154049](https://github.com/flutter/flutter/pull/154049) opened on on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154049) 246 additions and 17 deletions in 3 files</sub><br />
+
