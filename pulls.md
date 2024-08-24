@@ -83,3 +83,6 @@
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154057) 120 additions and 1 deletion in 3 files</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
+  <sub>[#154059](https://github.com/flutter/flutter/pull/154059) opened on on August 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154059) 7 additions and 0 deletions in 2 files</sub><br />
+
