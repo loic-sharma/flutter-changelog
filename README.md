@@ -4,11 +4,16 @@
 
 ### August 17, 2024 to August 23, 2024
 
-64 commits.
+65 commits.
 
 * **[Pavlo Kochylo](https://github.com/SyncroIT)** &mdash; Added new constructor RefreshIndicator.noSpinner()<br />
   <sub>[#152075](https://github.com/flutter/flutter/pull/152075) merged on August 23, 2024 &mdash; **Medium:** [56 comments](https://github.com/flutter/flutter/pull/152075) over 1 month, 360 additions and 91 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Chuckame](https://github.com/Chuckame)** &mdash; Add ability to provide selectableDayPredicate for showDateRangePicker<br />
+  <sub>[#150355](https://github.com/flutter/flutter/pull/150355) merged on August 25, 2024 &mdash; **Small:** [103 comments](https://github.com/flutter/flutter/pull/150355) over 2 months, 179 additions and 19 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="363" alt="image" src="https://github.com/flutter/flutter/assets/16419143/21e32def-46f0-41d6-974f-281a0405e28e"></details></sub>
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Load parent package config<br />
   <sub>[#150850](https://github.com/flutter/flutter/pull/150850) merged on August 20, 2024 &mdash; **Large:** [45 comments](https://github.com/flutter/flutter/pull/150850) over 1 month, 613 additions and 391 deletions in 55 files</sub><br />
@@ -81,29 +86,29 @@
   <sub>[#153596](https://github.com/flutter/flutter/pull/153596) merged on August 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153596) over 5 days, 100 additions and 19 deletions in 6 files</sub><br />
   <sub>Reviewed by: </sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When the app enters the detached state, clear the record of the last SystemChrome style sent to the host<br />
-  <sub>[#153586](https://github.com/flutter/flutter/pull/153586) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153586) over 3 days, 44 additions and 1 deletion in 3 files</sub><br />
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Nested Navigator state restoration predictive back examples<br />
   <sub>[#153723](https://github.com/flutter/flutter/pull/153723) merged on August 22, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/153723) over 2 days, 430 additions and 62 deletions in 4 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes page.onPopInvoked type mismatches<br />
-  <sub>[#153593](https://github.com/flutter/flutter/pull/153593) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153593) over 3 days, 81 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; When the app enters the detached state, clear the record of the last SystemChrome style sent to the host<br />
+  <sub>[#153586](https://github.com/flutter/flutter/pull/153586) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153586) over 3 days, 44 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; override `Analytics` in `TestBed` defaults<br />
   <sub>[#153990](https://github.com/flutter/flutter/pull/153990) merged on August 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153990) over 11 hours, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Denis Bowen](https://github.com/DBowen33)** &mdash; fixed issue to where screen reader reads all buttons when opening datepicker<br />
+  <sub>[#152705](https://github.com/flutter/flutter/pull/152705) merged on August 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152705) over 2 weeks, 28 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Handle "Service connection disposed" error from VmService disconnecting while requests are outstanding<br />
   <sub>[#153714](https://github.com/flutter/flutter/pull/153714) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153714) over 22 hours, 48 additions and 5 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Danny Tuppeny](https://github.com/DanTup)</sub><br />
 
-* **[Denis Bowen](https://github.com/DBowen33)** &mdash; fixed issue to where screen reader reads all buttons when opening datepicker<br />
-  <sub>[#152705](https://github.com/flutter/flutter/pull/152705) merged on August 22, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/152705) over 2 weeks, 28 additions and 3 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [hangyu](https://github.com/hangyujin)</sub><br />
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Fixes page.onPopInvoked type mismatches<br />
+  <sub>[#153593](https://github.com/flutter/flutter/pull/153593) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153593) over 3 days, 81 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Denis Bowen](https://github.com/DBowen33)** &mdash; refactor material banner and fix focus issue<br />
   <sub>[#152646](https://github.com/flutter/flutter/pull/152646) merged on August 19, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/152646) over 2 weeks, 57 additions and 30 deletions in 2 files</sub><br />
@@ -145,73 +150,73 @@
   <sub>[#154041](https://github.com/flutter/flutter/pull/154041) merged on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154041) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ensure that the output path used by perf_tests_test matches the path used by perf_tests if the FLUTTER_TEST_OUTPUTS_DIR variable is set<br />
-  <sub>[#153888](https://github.com/flutter/flutter/pull/153888) merged on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153888) over 5 hours, 10 additions and 8 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Update codesigned binaries list to match cache<br />
+  <sub>[#154027](https://github.com/flutter/flutter/pull/154027) merged on August 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154027) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add test that app builds if migrated to SwiftPM but SwiftPM is turned off<br />
   <sub>[#153800](https://github.com/flutter/flutter/pull/153800) merged on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153800) over 23 hours, 110 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelan] opt android devices into fixed performance mode.<br />
-  <sub>[#154016](https://github.com/flutter/flutter/pull/154016) merged on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154016) over 1 hour, 11 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual pub roll<br />
-  <sub>[#153961](https://github.com/flutter/flutter/pull/153961) merged on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153961) over 2 hours, 24 additions and 30 deletions in 11 files</sub><br />
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Actually run `flutter-dev` from source (turns out bash is NP-hard)<br />
   <sub>[#153863](https://github.com/flutter/flutter/pull/153863) merged on August 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153863) over 4 hours, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add a `flutter-dev` script to run the flutter CLI from source<br />
-  <sub>[#153892](https://github.com/flutter/flutter/pull/153892) merged on August 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/153892) over 23 hours, 78 additions and 4 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove android stack_size_test<br />
-  <sub>[#153695](https://github.com/flutter/flutter/pull/153695) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153695) over 4 hours, 0 additions and 239 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not cancel the VmService's subscription to the isolate event stream in FlutterVmService.findExtensionIsolate<br />
-  <sub>[#153607](https://github.com/flutter/flutter/pull/153607) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153607) over 2 days, 1 addition and 81 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements<br />
-  <sub>[#153843](https://github.com/flutter/flutter/pull/153843) merged on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153843) over 1 hour, 0 additions and 3 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the web test suite runner to use the correct flutter_driver output path if FLUTTER_TEST_OUTPUTS_DIR is set<br />
-  <sub>[#153966](https://github.com/flutter/flutter/pull/153966) merged on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153966) over 1 hour, 3 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
-  <sub>[#153780](https://github.com/flutter/flutter/pull/153780) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153780) over 1 hour, 115 additions and 89 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Update codesigned binaries list to match cache<br />
-  <sub>[#154027](https://github.com/flutter/flutter/pull/154027) merged on August 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154027) over 1 hour, 3 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.<br />
-  <sub>[#153786](https://github.com/flutter/flutter/pull/153786) merged on August 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153786) over 2 hours, 85 additions and 47 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
-  <sub>[#153798](https://github.com/flutter/flutter/pull/153798) merged on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153798) over 38 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Add dSYM to binariesWithoutEntitlements<br />
-  <sub>[#153977](https://github.com/flutter/flutter/pull/153977) merged on August 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153977) over 18 hours, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a `bin/flutter-dev` script, for running the `flutter` command-line tool from source<br />
   <sub>[#153599](https://github.com/flutter/flutter/pull/153599) merged on August 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153599) over 4 days, 70 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove unnecessary breaks in default clauses of switch statements<br />
+  <sub>[#153843](https://github.com/flutter/flutter/pull/153843) merged on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153843) over 1 hour, 0 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.<br />
+  <sub>[#153786](https://github.com/flutter/flutter/pull/153786) merged on August 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153786) over 2 hours, 85 additions and 47 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update goldctl git revision<br />
   <sub>[#153710](https://github.com/flutter/flutter/pull/153710) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153710) over 1 hour, 84 additions and 84 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not cancel the VmService's subscription to the isolate event stream in FlutterVmService.findExtensionIsolate<br />
+  <sub>[#153607](https://github.com/flutter/flutter/pull/153607) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153607) over 2 days, 1 addition and 81 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual pub roll<br />
+  <sub>[#153961](https://github.com/flutter/flutter/pull/153961) merged on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153961) over 2 hours, 24 additions and 30 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
+  <sub>[#153780](https://github.com/flutter/flutter/pull/153780) merged on August 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153780) over 1 hour, 115 additions and 89 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Add a `flutter-dev` script to run the flutter CLI from source<br />
+  <sub>[#153892](https://github.com/flutter/flutter/pull/153892) merged on August 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/153892) over 23 hours, 78 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky test.<br />
+  <sub>[#153798](https://github.com/flutter/flutter/pull/153798) merged on August 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153798) over 38 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelan] opt android devices into fixed performance mode.<br />
+  <sub>[#154016](https://github.com/flutter/flutter/pull/154016) merged on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154016) over 1 hour, 11 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ensure that the output path used by perf_tests_test matches the path used by perf_tests if the FLUTTER_TEST_OUTPUTS_DIR variable is set<br />
+  <sub>[#153888](https://github.com/flutter/flutter/pull/153888) merged on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153888) over 5 hours, 10 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Add dSYM to binariesWithoutEntitlements<br />
+  <sub>[#153977](https://github.com/flutter/flutter/pull/153977) merged on August 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153977) over 18 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Remove android stack_size_test<br />
+  <sub>[#153695](https://github.com/flutter/flutter/pull/153695) merged on August 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153695) over 4 hours, 0 additions and 239 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the web test suite runner to use the correct flutter_driver output path if FLUTTER_TEST_OUTPUTS_DIR is set<br />
+  <sub>[#153966](https://github.com/flutter/flutter/pull/153966) merged on August 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153966) over 1 hour, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Merge stable changelog to master<br />
   <sub>[#153872](https://github.com/flutter/flutter/pull/153872) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153872) over 2 hours, 27 additions and 0 deletions in 1 file</sub><br />
@@ -220,10 +225,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `SingleChildScrollView` examples<br />
   <sub>[#153548](https://github.com/flutter/flutter/pull/153548) merged on August 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153548) over 5 days, 102 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
-
-* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix broken macro reference<br />
-  <sub>[#153881](https://github.com/flutter/flutter/pull/153881) merged on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153881) over 1 day, 13 additions and 14 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Seth Ladd](https://github.com/sethladd)** &mdash; Update README.md to clarify who flutter-dev is for and what the trade-offs are<br />
   <sub>[#153947](https://github.com/flutter/flutter/pull/153947) merged on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153947) over 54 minutes, 7 additions and 1 deletion in 1 file</sub><br />
@@ -237,6 +238,10 @@
   <sub>[#153919](https://github.com/flutter/flutter/pull/153919) merged on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153919) over 3 hours, 59 additions and 13 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add -v to `flutter install` invocation when setting up android run tests<br />
+  <sub>[#153894](https://github.com/flutter/flutter/pull/153894) merged on August 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153894) over 1 day, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Fix: Deleting text in `EditableText` with CJK keyboard while in `CupertinoPageRoute` throws exception<br />
   <sub>[#153822](https://github.com/flutter/flutter/pull/153822) merged on August 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153822) over 19 hours, 104 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -245,9 +250,9 @@
   <sub>[#153787](https://github.com/flutter/flutter/pull/153787) merged on August 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153787) over 51 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add -v to `flutter install` invocation when setting up android run tests<br />
-  <sub>[#153894](https://github.com/flutter/flutter/pull/153894) merged on August 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153894) over 1 day, 3 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Fix broken macro reference<br />
+  <sub>[#153881](https://github.com/flutter/flutter/pull/153881) merged on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153881) over 1 day, 13 additions and 14 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Update template/test `compileSdk`, `targetSdk`, `ndk` versions"<br />
   <sub>[#153795](https://github.com/flutter/flutter/pull/153795) merged on August 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153795) over 20 hours, 522 additions and 397 deletions in 55 files</sub><br />
