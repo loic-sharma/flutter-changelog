@@ -4,7 +4,12 @@
 
 ### August 24, 2024 to August 30, 2024
 
-8 commits.
+9 commits.
+
+* **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to disable blur in CupertinoNavigationBar with transparent background<br />
+  <sub>[#153633](https://github.com/flutter/flutter/pull/153633) merged on August 26, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/153633) over 1 week, 54 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+  <sub><details><summary>2 images...</summary>![Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-08-17_at_18 30 43](https://github.com/user-attachments/assets/9297e176-374c-4a4d-b6df-fa81f1b89ae2)![simulator_screenshot_8587DA9F-E18B-4ED4-AFFB-1DA52FF5C0D2](https://github.com/user-attachments/assets/ac6eadbc-be9a-4c4c-9fb4-06e58055bab7)</details></sub>
 
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
   <sub>[#153103](https://github.com/flutter/flutter/pull/153103) merged on August 26, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/153103) over 2 weeks, 74 additions and 10 deletions in 3 files</sub><br />
@@ -490,7 +495,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-12 commits.
+13 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect origins for mesh gradient computation.<br />
   <sub>[#54762](https://github.com/flutter/engine/pull/54762) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54762) over 2 days, 82 additions and 6 deletions in 6 files</sub><br />
@@ -515,6 +520,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] Drops semantics query when app is not attached<br />
   <sub>[#52040](https://github.com/flutter/engine/pull/52040) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52040) over 4 months, 67 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Do not archive/upload FlutterMacOS.dSYM to cloud<br />
+  <sub>[#54787](https://github.com/flutter/engine/pull/54787) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54787) over 1 hour, 21 additions and 28 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Ensure orchestrators aren't assigned to 32 core machines<br />
   <sub>[#54754](https://github.com/flutter/engine/pull/54754) merged on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54754) over 2 days, 73 additions and 4 deletions in 1 file</sub><br />
