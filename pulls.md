@@ -44,9 +44,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix unpack freezing app with animation duration zero <br />
   <sub>[#153890](https://github.com/flutter/flutter/pull/153890) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153890) 103 additions and 0 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; [CP-stable] Fix BaseTapAndDragGestureRecognizer should reset drag state after losing gesture arena (#151989)<br />
-  <sub>[#153935](https://github.com/flutter/flutter/pull/153935) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153935) 73 additions and 1 deletion in 2 files</sub><br />
-
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add minimum height for MaterialBanner<br />
   <sub>[#153951](https://github.com/flutter/flutter/pull/153951) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153951) 72 additions and 1 deletion in 2 files</sub><br />
 
@@ -81,7 +78,7 @@
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154057) 120 additions and 1 deletion in 3 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
-  <sub>[#154059](https://github.com/flutter/flutter/pull/154059) opened on on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154059) 7 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#154059](https://github.com/flutter/flutter/pull/154059) opened on on August 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154059) 7 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; ++<br />
   <sub>[#154070](https://github.com/flutter/flutter/pull/154070) opened on on August 25, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154070) 116 additions and 123 deletions in 10 files</sub><br />
@@ -103,4 +100,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update `flutter build apk -h` to indicate that target arch is not supported in debug mode. <br />
   <sub>[#154111](https://github.com/flutter/flutter/pull/154111) opened on on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154111) 3 additions and 1 deletion in 1 file</sub><br />
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
+  <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 60 additions and 61 deletions in 3 files</sub><br />
 
