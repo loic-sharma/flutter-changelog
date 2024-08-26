@@ -9,7 +9,7 @@
   <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Add `dartFileName` setting for platform plugins <br />
-  <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153099) 203 additions and 30 deletions in 7 files</sub><br />
+  <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153099) 203 additions and 30 deletions in 7 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Change flag internalAddSemanticForOnTap default value to true<br />
   <sub>[#153193](https://github.com/flutter/flutter/pull/153193) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153193) 1 addition and 1 deletion in 1 file</sub><br />
@@ -77,9 +77,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) opened on on August 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154059) 7 additions and 0 deletions in 2 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; ++<br />
-  <sub>[#154070](https://github.com/flutter/flutter/pull/154070) opened on on August 25, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/154070) 116 additions and 123 deletions in 10 files</sub><br />
-
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add static `of` accessor methods to `ColorScheme` and `TextTheme`<br />
   <sub>[#154073](https://github.com/flutter/flutter/pull/154073) opened on on August 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154073) 37 additions and 4 deletions in 3 files</sub><br />
 
@@ -90,7 +87,7 @@
   <sub>[#154088](https://github.com/flutter/flutter/pull/154088) opened on on August 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/154088) 339 additions and 19 deletions in 25 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update `flutter build apk -h` to indicate that target arch is not supported in debug mode. <br />
-  <sub>[#154111](https://github.com/flutter/flutter/pull/154111) opened on on August 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154111) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#154111](https://github.com/flutter/flutter/pull/154111) opened on on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154111) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
   <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
