@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-7 commits.
+8 commits.
 
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart
   <sub>[#153103](https://github.com/flutter/flutter/pull/153103) merged on August 26, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/153103) over 2 weeks, 74 additions and 10 deletions in 3 files</sub>
@@ -21,6 +21,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message
   <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update `flutter build apk -h` to indicate that target arch is not supported in debug mode. 
+  <sub>[#154111](https://github.com/flutter/flutter/pull/154111) merged on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154111) over 4 hours, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add M3 Intrinsic width tests for InputDecoration
   <sub>[#154098](https://github.com/flutter/flutter/pull/154098) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154098) over 10 hours, 66 additions and 0 deletions in 1 file</sub>

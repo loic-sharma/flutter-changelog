@@ -89,9 +89,6 @@
 * **[Michael](https://github.com/Buchimi)** &mdash; Cpp integration<br />
   <sub>[#154088](https://github.com/flutter/flutter/pull/154088) opened on on August 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/154088) 339 additions and 19 deletions in 25 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update `flutter build apk -h` to indicate that target arch is not supported in debug mode. <br />
-  <sub>[#154111](https://github.com/flutter/flutter/pull/154111) opened on on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154111) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
   <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
 
