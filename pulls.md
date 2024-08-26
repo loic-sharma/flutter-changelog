@@ -12,7 +12,7 @@
   <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153099) 203 additions and 30 deletions in 7 files</sub><br />
 
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
-  <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/153103) 74 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/153103) 74 additions and 10 deletions in 3 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Change flag internalAddSemanticForOnTap default value to true<br />
   <sub>[#153193](https://github.com/flutter/flutter/pull/153193) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153193) 1 addition and 1 deletion in 1 file</sub><br />
@@ -100,4 +100,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add M3 Intrinsic width tests for InputDecoration<br />
   <sub>[#154098](https://github.com/flutter/flutter/pull/154098) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154098) 66 additions and 0 deletions in 1 file</sub><br />
+
+* **[Lxxyx](https://github.com/Lxxyx)** &mdash; doc: fix typo in testing doc<br />
+  <sub>[#154105](https://github.com/flutter/flutter/pull/154105) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154105) 1 addition and 1 deletion in 1 file</sub><br />
 
