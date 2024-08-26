@@ -492,6 +492,10 @@
   <sub>[#54761](https://github.com/flutter/engine/pull/54761) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54761) over 1 day, 9 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] fix missing color conversion in drawAtlas.
+  <sub>[#54750](https://github.com/flutter/engine/pull/54750) merged on August 26, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/54750) over 2 days, 53 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] Drops semantics query when app is not attached
   <sub>[#52040](https://github.com/flutter/engine/pull/52040) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52040) over 4 months, 67 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
@@ -503,10 +507,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; clangd_check: write .clangd as part of test
   <sub>[#54766](https://github.com/flutter/engine/pull/54766) merged on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54766) over 22 hours, 17 additions and 12 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] fix missing color conversion in drawAtlas.
-  <sub>[#54750](https://github.com/flutter/engine/pull/54750) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54750) over 2 days, 53 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete impeller image class.
   <sub>[#54767](https://github.com/flutter/engine/pull/54767) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54767) over 5 hours, 42 additions and 114 deletions in 18 files</sub>
