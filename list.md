@@ -495,7 +495,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-13 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect origins for mesh gradient computation.
   <sub>[#54762](https://github.com/flutter/engine/pull/54762) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54762) over 2 days, 82 additions and 6 deletions in 6 files</sub>
@@ -520,6 +520,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] Drops semantics query when app is not attached
   <sub>[#52040](https://github.com/flutter/engine/pull/52040) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52040) over 4 months, 67 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Add @available check at macOS 12 workaround
+  <sub>[#54784](https://github.com/flutter/engine/pull/54784) merged on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54784) over 3 hours, 43 additions and 28 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Do not archive/upload FlutterMacOS.dSYM to cloud
   <sub>[#54787](https://github.com/flutter/engine/pull/54787) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54787) over 1 hour, 21 additions and 28 deletions in 3 files</sub>

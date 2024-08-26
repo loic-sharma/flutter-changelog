@@ -92,3 +92,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
   <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Agp java err<br />
+  <sub>[#154142](https://github.com/flutter/flutter/pull/154142) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154142) 49 additions and 34 deletions in 3 files</sub><br />
+
