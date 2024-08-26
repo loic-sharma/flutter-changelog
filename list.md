@@ -571,8 +571,8 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add TODOs to remove AppKit bug workaround
-  <sub>[#54764](https://github.com/flutter/engine/pull/54764) merged on August 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54764) over 12 hours, 6 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+  <sub>[#54764](https://github.com/flutter/engine/pull/54764) merged on August 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54764) over 12 hours, 6 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: don't bundle simulator dSYMs in xcframework
   <sub>[#54746](https://github.com/flutter/engine/pull/54746) merged on August 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54746) over 2 hours, 8 additions and 19 deletions in 3 files</sub>
@@ -869,7 +869,7 @@
 3 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Updates minimum supported SDK
-  <sub>[#7498](https://github.com/flutter/packages/pull/7498) merged on August 26, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7498) over 13 hours, 192 additions and 57 deletions in 6 files</sub>
+  <sub>[#7498](https://github.com/flutter/packages/pull/7498) merged on August 26, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/7498) over 13 hours, 192 additions and 57 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [url_launcher] Ignore new `unreachable_switch_default` warning.
