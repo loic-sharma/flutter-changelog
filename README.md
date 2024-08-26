@@ -449,9 +449,18 @@
 
 ## flutter/engine
 
+### August 24, 2024 to August 30, 2024
+
+1 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete impeller image class.<br />
+  <sub>[#54767](https://github.com/flutter/engine/pull/54767) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54767) over 5 hours, 42 additions and 114 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 ### August 17, 2024 to August 23, 2024
 
-48 commits.
+<details>
+<summary>48 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use blit pass to resize decoded images.<br />
   <sub>[#54606](https://github.com/flutter/engine/pull/54606) merged on August 21, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/engine/pull/54606) over 3 days, 577 additions and 164 deletions in 25 files</sub><br />
@@ -645,6 +654,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] reland weaken affinity of raster/ui to non-e core instead of only fast core<br />
   <sub>[#54616](https://github.com/flutter/engine/pull/54616) merged on August 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54616) over 2 days, 13 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+</details>
 
 ### August 10, 2024 to August 16, 2024
 
