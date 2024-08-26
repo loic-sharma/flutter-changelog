@@ -1044,9 +1044,18 @@
 
 ## flutter/website
 
+### August 24, 2024 to August 30, 2024
+
+1 commits.
+
+* **[Oleg Magomedov](https://github.com/smart7even)** &mdash; Fix code sample in iOS platform-channels guide
+  <sub>[#11079](https://github.com/flutter/website/pull/11079) merged on August 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11079) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Khanh Nguyen](https://github.com/khanhnwin), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### August 17, 2024 to August 23, 2024
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Mikhail Zotyev](https://github.com/MbIXjkee)** &mdash; Add Elementary to the state management options page
   <sub>[#11035](https://github.com/flutter/website/pull/11035) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11035) over 1 week, 14 additions and 0 deletions in 1 file</sub>
@@ -1103,6 +1112,8 @@
 * **[Amir Panahandeh](https://github.com/Amir-P)** &mdash; Add missing `use-named-parameters` option for l10n
   <sub>[#11061](https://github.com/flutter/website/pull/11061) merged on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11061) over 21 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### August 10, 2024 to August 16, 2024
 
