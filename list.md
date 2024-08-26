@@ -84,8 +84,8 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-land "Ensure flutter build apk --release optimizes+shrinks platform code"
-  <sub>[#153868](https://github.com/flutter/flutter/pull/153868) merged on August 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153868) over 1 day, 83 additions and 89 deletions in 5 files</sub>
-  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
+  <sub>[#153868](https://github.com/flutter/flutter/pull/153868) merged on August 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/153868) over 1 day, 83 additions and 89 deletions in 5 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Martin Kustermann](https://github.com/mkustermann)</sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Stop `DropdownMenu` internal scrolling from moving parent `Scrollable`
   <sub>[#153360](https://github.com/flutter/flutter/pull/153360) merged on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153360) over 1 week, 31 additions and 1 deletion in 2 files</sub>
