@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-10 commits.
+11 commits.
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to disable blur in CupertinoNavigationBar with transparent background
   <sub>[#153633](https://github.com/flutter/flutter/pull/153633) merged on August 26, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/153633) over 1 week, 54 additions and 3 deletions in 2 files</sub>
@@ -18,6 +18,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make the pub roller bot re-generate gradle lockfiles
   <sub>[#149355](https://github.com/flutter/flutter/pull/149355) merged on August 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149355) over 2 months, 58 additions and 28 deletions in 4 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fix `getFullHeightForCaret` when strut is disabled.
+  <sub>[#154039](https://github.com/flutter/flutter/pull/154039) merged on August 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154039) over 2 days, 46 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example
   <sub>[#151585](https://github.com/flutter/flutter/pull/151585) merged on August 26, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/151585) over 1 month, 40 additions and 1 deletion in 2 files</sub>
