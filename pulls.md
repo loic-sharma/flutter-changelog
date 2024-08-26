@@ -57,7 +57,7 @@
   <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153973) 62 additions and 2 deletions in 3 files</sub><br />
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Optimize out LayoutBuilder from ReorderableList children<br />
-  <sub>[#153987](https://github.com/flutter/flutter/pull/153987) opened on on August 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153987) 5 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#153987](https://github.com/flutter/flutter/pull/153987) opened on on August 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153987) 5 additions and 11 deletions in 1 file</sub><br />
 
 * **[Paul Grandperrin](https://github.com/PaulGrandperrin)** &mdash; flutter-web: fix access to manifest with authentication<br />
   <sub>[#154012](https://github.com/flutter/flutter/pull/154012) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154012) 19 additions and 19 deletions in 16 files</sub><br />
@@ -105,5 +105,5 @@
   <sub>[#154105](https://github.com/flutter/flutter/pull/154105) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154105) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update `flutter build apk -h` to indicate that target arch is not supported in debug mode. <br />
-  <sub>[#154111](https://github.com/flutter/flutter/pull/154111) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154111) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#154111](https://github.com/flutter/flutter/pull/154111) opened on on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154111) 3 additions and 1 deletion in 1 file</sub><br />
 
