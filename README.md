@@ -490,7 +490,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-11 commits.
+12 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect origins for mesh gradient computation.<br />
+  <sub>[#54762](https://github.com/flutter/engine/pull/54762) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54762) over 2 days, 82 additions and 6 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change the `ci/analyze.sh` script to analyze _all_ of the engine<br />
   <sub>[#54779](https://github.com/flutter/engine/pull/54779) merged on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54779) over 3 hours, 14 additions and 19 deletions in 4 files</sub><br />
