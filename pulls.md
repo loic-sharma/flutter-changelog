@@ -105,5 +105,5 @@
   <sub>[#154105](https://github.com/flutter/flutter/pull/154105) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154105) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update `flutter build apk -h` to indicate that target arch is not supported in debug mode. <br />
-  <sub>[#154111](https://github.com/flutter/flutter/pull/154111) opened on on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154111) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#154111](https://github.com/flutter/flutter/pull/154111) opened on on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154111) 3 additions and 1 deletion in 1 file</sub><br />
 
