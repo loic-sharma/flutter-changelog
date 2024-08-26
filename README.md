@@ -857,7 +857,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Revert "[video_player] Relands #6456: Uses SurfaceProducer, this time with setCallback for suspend/resume lifecycles"<br />
-  <sub>[#7497](https://github.com/flutter/packages/pull/7497) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7497) over 21 minutes, 59 additions and 182 deletions in 6 files</sub><br />
+  <sub>[#7497](https://github.com/flutter/packages/pull/7497) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7497) over 21 minutes, 59 additions and 182 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 ### August 17, 2024 to August 23, 2024
