@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-6 commits.
+7 commits.
 
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart
   <sub>[#153103](https://github.com/flutter/flutter/pull/153103) merged on August 26, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/153103) over 2 weeks, 74 additions and 10 deletions in 3 files</sub>
@@ -21,6 +21,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message
   <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add M3 Intrinsic width tests for InputDecoration
+  <sub>[#154098](https://github.com/flutter/flutter/pull/154098) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154098) over 10 hours, 66 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Lxxyx](https://github.com/Lxxyx)** &mdash; doc: fix typo in testing doc
   <sub>[#154105](https://github.com/flutter/flutter/pull/154105) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154105) over 6 hours, 1 addition and 1 deletion in 1 file</sub>
