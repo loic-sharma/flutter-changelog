@@ -466,11 +466,15 @@
 
 ### August 24, 2024 to August 30, 2024
 
-3 commits.
+4 commits.
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] Drops semantics query when app is not attached
   <sub>[#52040](https://github.com/flutter/engine/pull/52040) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52040) over 4 months, 67 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; clangd_check: write .clangd as part of test
+  <sub>[#54766](https://github.com/flutter/engine/pull/54766) merged on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54766) over 22 hours, 17 additions and 12 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] fix missing color conversion in drawAtlas.
   <sub>[#54750](https://github.com/flutter/engine/pull/54750) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54750) over 2 days, 53 additions and 2 deletions in 2 files</sub>
@@ -575,7 +579,7 @@
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test running the macOS engine has no stray logging
-  <sub>[#54716](https://github.com/flutter/engine/pull/54716) merged on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54716) over 4 hours, 5 additions and 1 deletion in 1 file</sub>
+  <sub>[#54716](https://github.com/flutter/engine/pull/54716) merged on August 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54716) over 4 hours, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin mac host and iOS builds to arm64 builders
