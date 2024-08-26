@@ -462,7 +462,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-1 commits.
+2 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] fix missing color conversion in drawAtlas.
+  <sub>[#54750](https://github.com/flutter/engine/pull/54750) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54750) over 2 days, 53 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete impeller image class.
   <sub>[#54767](https://github.com/flutter/engine/pull/54767) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54767) over 5 hours, 42 additions and 114 deletions in 18 files</sub>
@@ -850,7 +854,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-2 commits.
+3 commits.
+
+* **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Updates minimum supported SDK
+  <sub>[#7498](https://github.com/flutter/packages/pull/7498) merged on August 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7498) over 13 hours, 192 additions and 57 deletions in 6 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [url_launcher] Ignore new `unreachable_switch_default` warning.
   <sub>[#7487](https://github.com/flutter/packages/pull/7487) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7487) over 2 days, 3 additions and 3 deletions in 2 files</sub>
