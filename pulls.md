@@ -15,7 +15,7 @@
   <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153099) 203 additions and 30 deletions in 7 files</sub><br />
 
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
-  <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/153103) 72 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [35 comments](https://github.com/flutter/flutter/pull/153103) 72 additions and 10 deletions in 3 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Change flag internalAddSemanticForOnTap default value to true<br />
   <sub>[#153193](https://github.com/flutter/flutter/pull/153193) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153193) 1 addition and 1 deletion in 1 file</sub><br />
