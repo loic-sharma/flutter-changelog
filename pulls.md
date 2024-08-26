@@ -87,7 +87,7 @@
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) opened on on August 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154059) 7 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; ++<br />
-  <sub>[#154070](https://github.com/flutter/flutter/pull/154070) opened on on August 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154070) 123 additions and 130 deletions in 11 files</sub><br />
+  <sub>[#154070](https://github.com/flutter/flutter/pull/154070) opened on on August 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154070) 124 additions and 131 deletions in 11 files</sub><br />
 
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add static `of` accessor methods to `ColorScheme` and `TextTheme`<br />
   <sub>[#154073](https://github.com/flutter/flutter/pull/154073) opened on on August 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154073) 37 additions and 4 deletions in 3 files</sub><br />
