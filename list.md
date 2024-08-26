@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 24, 2024 to August 30, 2024
+
+1 commits.
+
+* **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example
+  <sub>[#151585](https://github.com/flutter/flutter/pull/151585) merged on August 26, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/151585) over 1 month, 40 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 ### August 17, 2024 to August 23, 2024
 
-65 commits.
+<details>
+<summary>65 commits...</summary>
 
 * **[Pavlo Kochylo](https://github.com/SyncroIT)** &mdash; Added new constructor RefreshIndicator.noSpinner()
   <sub>[#152075](https://github.com/flutter/flutter/pull/152075) merged on August 23, 2024 &mdash; **Medium:** [56 comments](https://github.com/flutter/flutter/pull/152075) over 1 month, 360 additions and 91 deletions in 4 files</sub>
@@ -269,6 +278,8 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Revert "Load parent package config"
   <sub>[#153752](https://github.com/flutter/flutter/pull/153752) merged on August 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153752) over 37 minutes, 391 additions and 613 deletions in 55 files</sub>
   <sub>Reviewed by: </sub>
+
+</details>
 
 ### August 10, 2024 to August 16, 2024
 
