@@ -499,7 +499,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-14 commits.
+15 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect origins for mesh gradient computation.<br />
   <sub>[#54762](https://github.com/flutter/engine/pull/54762) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54762) over 2 days, 82 additions and 6 deletions in 6 files</sub><br />
@@ -524,6 +524,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] Drops semantics query when app is not attached<br />
   <sub>[#52040](https://github.com/flutter/engine/pull/52040) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52040) over 4 months, 67 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Disable impeller cmake test until it is fixed<br />
+  <sub>[#54788](https://github.com/flutter/engine/pull/54788) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54788) over 2 hours, 0 additions and 37 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Add @available check at macOS 12 workaround<br />
   <sub>[#54784](https://github.com/flutter/engine/pull/54784) merged on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54784) over 3 hours, 43 additions and 28 deletions in 2 files</sub><br />
