@@ -73,7 +73,7 @@
   <sub>[#152487](https://github.com/flutter/flutter/pull/152487) merged on August 20, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/152487) over 3 weeks, 403 additions and 280 deletions in 51 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Copy macOS framwork dSYM into build outputs
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Copy macOS framework dSYM into build outputs
   <sub>[#153975](https://github.com/flutter/flutter/pull/153975) merged on August 24, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/153975) over 1 day, 338 additions and 70 deletions in 4 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
