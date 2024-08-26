@@ -11,7 +11,7 @@
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Chuckame](https://github.com/Chuckame)** &mdash; Add ability to provide selectableDayPredicate for showDateRangePicker
-  <sub>[#150355](https://github.com/flutter/flutter/pull/150355) merged on August 25, 2024 &mdash; **Small:** [104 comments](https://github.com/flutter/flutter/pull/150355) over 2 months, 179 additions and 19 deletions in 2 files</sub>
+  <sub>[#150355](https://github.com/flutter/flutter/pull/150355) merged on August 25, 2024 &mdash; **Small:** [105 comments](https://github.com/flutter/flutter/pull/150355) over 2 months, 179 additions and 19 deletions in 2 files</sub>
   <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
   <sub><details><summary>1 image...</summary><img width="363" alt="image" src="https://github.com/flutter/flutter/assets/16419143/21e32def-46f0-41d6-974f-281a0405e28e"></details></sub>
 

@@ -98,3 +98,6 @@
 * **[Michael](https://github.com/Buchimi)** &mdash; Cpp integration<br />
   <sub>[#154088](https://github.com/flutter/flutter/pull/154088) opened on on August 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/154088) 339 additions and 19 deletions in 25 files</sub><br />
 
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add ability to provide selectableDayPredicate for showDateRangePicker<br />
+  <sub>[#154090](https://github.com/flutter/flutter/pull/154090) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154090) 179 additions and 19 deletions in 2 files</sub><br />
+
