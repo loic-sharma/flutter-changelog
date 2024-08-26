@@ -599,7 +599,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [macOS] Add TODOs to remove AppKit bug workaround<br />
-  <sub>[#54764](https://github.com/flutter/engine/pull/54764) merged on August 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54764) over 12 hours, 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#54764](https://github.com/flutter/engine/pull/54764) merged on August 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54764) over 12 hours, 6 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: don't bundle simulator dSYMs in xcframework<br />
