@@ -4,7 +4,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-4 commits.
+6 commits.
+
+* **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
+  <sub>[#153103](https://github.com/flutter/flutter/pull/153103) merged on August 26, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/153103) over 2 weeks, 74 additions and 10 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make the pub roller bot re-generate gradle lockfiles<br />
   <sub>[#149355](https://github.com/flutter/flutter/pull/149355) merged on August 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149355) over 2 months, 58 additions and 28 deletions in 4 files</sub><br />
@@ -17,6 +21,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message<br />
   <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Lxxyx](https://github.com/Lxxyx)** &mdash; doc: fix typo in testing doc<br />
+  <sub>[#154105](https://github.com/flutter/flutter/pull/154105) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154105) over 6 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add ability to provide selectableDayPredicate for showDateRangePicker<br />
   <sub>[#154090](https://github.com/flutter/flutter/pull/154090) merged on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154090) over 12 hours, 179 additions and 19 deletions in 2 files</sub><br />
