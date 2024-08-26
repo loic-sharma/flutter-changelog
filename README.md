@@ -850,7 +850,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-1 commits.
+2 commits.
+
+* **[Paul Berry](https://github.com/stereotype441)** &mdash; [url_launcher] Ignore new `unreachable_switch_default` warning.<br />
+  <sub>[#7487](https://github.com/flutter/packages/pull/7487) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7487) over 2 days, 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Revert "[video_player] Relands #6456: Uses SurfaceProducer, this time with setCallback for suspend/resume lifecycles"<br />
   <sub>[#7497](https://github.com/flutter/packages/pull/7497) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7497) over 21 minutes, 59 additions and 182 deletions in 6 files</sub><br />
