@@ -15,7 +15,7 @@
   <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153099) 203 additions and 30 deletions in 7 files</sub><br />
 
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
-  <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/153103) 74 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#153103](https://github.com/flutter/flutter/pull/153103) opened on on August 8, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/153103) 74 additions and 10 deletions in 3 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Change flag internalAddSemanticForOnTap default value to true<br />
   <sub>[#153193](https://github.com/flutter/flutter/pull/153193) opened on on August 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153193) 1 addition and 1 deletion in 1 file</sub><br />
@@ -87,7 +87,7 @@
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) opened on on August 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154059) 7 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; ++<br />
-  <sub>[#154070](https://github.com/flutter/flutter/pull/154070) opened on on August 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154070) 116 additions and 123 deletions in 11 files</sub><br />
+  <sub>[#154070](https://github.com/flutter/flutter/pull/154070) opened on on August 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154070) 123 additions and 130 deletions in 11 files</sub><br />
 
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add static `of` accessor methods to `ColorScheme` and `TextTheme`<br />
   <sub>[#154073](https://github.com/flutter/flutter/pull/154073) opened on on August 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154073) 37 additions and 4 deletions in 3 files</sub><br />
@@ -100,4 +100,7 @@
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add ability to provide selectableDayPredicate for showDateRangePicker<br />
   <sub>[#154090](https://github.com/flutter/flutter/pull/154090) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154090) 179 additions and 19 deletions in 2 files</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add M3 Intrinsic width tests for InputDecoration<br />
+  <sub>[#154098](https://github.com/flutter/flutter/pull/154098) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154098) 66 additions and 0 deletions in 1 file</sub><br />
 
