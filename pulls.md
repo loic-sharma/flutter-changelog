@@ -36,7 +36,7 @@
   <sub>[#153610](https://github.com/flutter/flutter/pull/153610) opened on on August 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153610) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update tokens to v6.1<br />
-  <sub>[#153722](https://github.com/flutter/flutter/pull/153722) opened on on August 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153722) 90 additions and 86 deletions in 74 files</sub><br />
+  <sub>[#153722](https://github.com/flutter/flutter/pull/153722) opened on on August 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153722) 90 additions and 86 deletions in 74 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes itemExtent being incorrectly assigned to renderObject.minExtent…<br />
   <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
