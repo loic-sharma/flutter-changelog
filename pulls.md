@@ -57,7 +57,7 @@
   <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153973) 62 additions and 2 deletions in 3 files</sub><br />
 
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Optimize out LayoutBuilder from ReorderableList children<br />
-  <sub>[#153987](https://github.com/flutter/flutter/pull/153987) opened on on August 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153987) 5 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#153987](https://github.com/flutter/flutter/pull/153987) opened on on August 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153987) 5 additions and 11 deletions in 1 file</sub><br />
 
 * **[Paul Grandperrin](https://github.com/PaulGrandperrin)** &mdash; flutter-web: fix access to manifest with authentication<br />
   <sub>[#154012](https://github.com/flutter/flutter/pull/154012) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154012) 19 additions and 19 deletions in 16 files</sub><br />
@@ -66,7 +66,7 @@
   <sub>[#154034](https://github.com/flutter/flutter/pull/154034) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154034) 0 additions and 6 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `CircularNotchedRectangle.getOuterPath()`<br />
-  <sub>[#154036](https://github.com/flutter/flutter/pull/154036) opened on on August 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154036) 22 additions and 31 deletions in 1 file</sub><br />
+  <sub>[#154036](https://github.com/flutter/flutter/pull/154036) opened on on August 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154036) 22 additions and 31 deletions in 1 file</sub><br />
 
 * **[Nguyen Phuc Loi](https://github.com/nploi)** &mdash; Support custom transition duration for `DialogRoute`<br />
   <sub>[#154048](https://github.com/flutter/flutter/pull/154048) opened on on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154048) 1 addition and 1 deletion in 1 file</sub><br />
