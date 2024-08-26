@@ -869,7 +869,7 @@
 3 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Updates minimum supported SDK<br />
-  <sub>[#7498](https://github.com/flutter/packages/pull/7498) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7498) over 13 hours, 192 additions and 57 deletions in 6 files</sub><br />
+  <sub>[#7498](https://github.com/flutter/packages/pull/7498) merged on August 26, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7498) over 13 hours, 192 additions and 57 deletions in 6 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [url_launcher] Ignore new `unreachable_switch_default` warning.<br />
