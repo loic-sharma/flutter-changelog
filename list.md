@@ -837,9 +837,18 @@
 
 ## flutter/packages
 
+### August 24, 2024 to August 30, 2024
+
+1 commits.
+
+* **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Revert "[video_player] Relands #6456: Uses SurfaceProducer, this time with setCallback for suspend/resume lifecycles"
+  <sub>[#7497](https://github.com/flutter/packages/pull/7497) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7497) over 21 minutes, 59 additions and 182 deletions in 6 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 ### August 17, 2024 to August 23, 2024
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Endorse macOS
   <sub>[#7457](https://github.com/flutter/packages/pull/7457) merged on August 21, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7457) over 15 hours, 1396 additions and 26 deletions in 33 files</sub>
@@ -916,6 +925,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 80c2e84975bb to 5874a72aa4c7 (9 revisions)
   <sub>[#7472](https://github.com/flutter/packages/pull/7472) merged on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7472) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### August 10, 2024 to August 16, 2024
 
