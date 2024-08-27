@@ -84,7 +84,7 @@
   <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduces 'focusable' in FocusNode and FocusScopeNode, deprecating 'canRequestFocus' for focus handling<br />
-  <sub>[#154139](https://github.com/flutter/flutter/pull/154139) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154139) 138 additions and 61 deletions in 4 files</sub><br />
+  <sub>[#154139](https://github.com/flutter/flutter/pull/154139) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154139) 145 additions and 61 deletions in 4 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Agp java err<br />
   <sub>[#154142](https://github.com/flutter/flutter/pull/154142) opened on on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154142) 49 additions and 34 deletions in 3 files</sub><br />
