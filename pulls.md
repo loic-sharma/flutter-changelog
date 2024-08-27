@@ -92,12 +92,12 @@
 * **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Added support for elevation on refresh indicator<br />
   <sub>[#154182](https://github.com/flutter/flutter/pull/154182) opened on on August 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154182) 68 additions and 3 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `SelectionListener`/`SelectedContentRange`/`SelectionDetails`<br />
-  <sub>[#154202](https://github.com/flutter/flutter/pull/154202) opened on on August 27, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154202) 1583 additions and 28 deletions in 14 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Minor Formatting<br />
   <sub>[#154210](https://github.com/flutter/flutter/pull/154210) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154210) 5 additions and 4 deletions in 2 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Improve Documentation for ResizeImage Dimensions and Usage<br />
   <sub>[#154212](https://github.com/flutter/flutter/pull/154212) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154212) 17 additions and 0 deletions in 1 file</sub><br />
+
+* **[M A R I O](https://github.com/MARIO1122334455)** &mdash; Develpment<br />
+  <sub>[#154213](https://github.com/flutter/flutter/pull/154213) opened on on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154213) 191 additions and 22 deletions in 4 files</sub><br />
 

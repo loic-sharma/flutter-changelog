@@ -519,7 +519,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-21 commits.
+22 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect origins for mesh gradient computation.<br />
   <sub>[#54762](https://github.com/flutter/engine/pull/54762) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54762) over 2 days, 82 additions and 6 deletions in 6 files</sub><br />
@@ -532,6 +532,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] set the "dialog" ARIA role unconditionally<br />
   <sub>[#54761](https://github.com/flutter/engine/pull/54761) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54761) over 1 day, 9 additions and 16 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix broken links in `docs/`<br />
+  <sub>[#54815](https://github.com/flutter/engine/pull/54815) merged on August 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54815) over 1 hour, 10 additions and 10 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] fix missing color conversion in drawAtlas.<br />
   <sub>[#54750](https://github.com/flutter/engine/pull/54750) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54750) over 2 days, 53 additions and 2 deletions in 2 files</sub><br />
