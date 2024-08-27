@@ -74,9 +74,6 @@
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154057) 120 additions and 1 deletion in 3 files</sub><br />
 
-* **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add static `of` accessor methods to `ColorScheme` and `TextTheme`<br />
-  <sub>[#154073](https://github.com/flutter/flutter/pull/154073) opened on on August 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154073) 37 additions and 4 deletions in 3 files</sub><br />
-
 * **[Quyen Le Van](https://github.com/quyenvsp)** &mdash; Fix TextOverflow ellipsis with TextStyle height 1 cut off the letter<br />
   <sub>[#154086](https://github.com/flutter/flutter/pull/154086) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154086) 2 additions and 1 deletion in 1 file</sub><br />
 
