@@ -92,6 +92,3 @@
 * **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Added support for elevation on refresh indicator<br />
   <sub>[#154182](https://github.com/flutter/flutter/pull/154182) opened on on August 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154182) 68 additions and 3 deletions in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Reland "Upgrade template Gradle, App AGP, Module AGP, and Kotlin versions, and tests"... but no longer upgrade module AGP version<br />
-  <sub>[#154199](https://github.com/flutter/flutter/pull/154199) opened on on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154199) 168 additions and 33 deletions in 11 files</sub><br />
-

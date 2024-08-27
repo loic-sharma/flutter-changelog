@@ -971,7 +971,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-7 commits.
+8 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in_ios] Fix "callee requires a non-null parameter" analyzer warning<br />
   <sub>[#7513](https://github.com/flutter/packages/pull/7513) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7513) over 20 hours, 29 additions and 35 deletions in 3 files</sub><br />
@@ -989,6 +989,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cupertino icons golden tests<br />
   <sub>[#7421](https://github.com/flutter/packages/pull/7421) merged on August 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/7421) over 1 week, 107 additions and 0 deletions in 68 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove matan from codeowners<br />
+  <sub>[#7511](https://github.com/flutter/packages/pull/7511) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7511) over 1 day, 2 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Allows 'localizedDescription' to be nullable to handle occasional nulls in Storekit objects<br />
   <sub>[#7515](https://github.com/flutter/packages/pull/7515) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7515) over 14 hours, 25 additions and 16 deletions in 9 files</sub><br />
