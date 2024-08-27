@@ -503,7 +503,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-16 commits.
+17 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect origins for mesh gradient computation.<br />
   <sub>[#54762](https://github.com/flutter/engine/pull/54762) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54762) over 2 days, 82 additions and 6 deletions in 6 files</sub><br />
@@ -556,6 +556,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete impeller image class.<br />
   <sub>[#54767](https://github.com/flutter/engine/pull/54767) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54767) over 5 hours, 42 additions and 114 deletions in 18 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Store a set of layers per view.<br />
+  <sub>[#54793](https://github.com/flutter/engine/pull/54793) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54793) over 4 hours, 45 additions and 27 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use TRUE/FALSE consistently for gboolean values.<br />
   <sub>[#54768](https://github.com/flutter/engine/pull/54768) merged on August 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54768) over 23 hours, 16 additions and 16 deletions in 5 files</sub><br />
