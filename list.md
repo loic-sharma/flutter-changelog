@@ -971,7 +971,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-4 commits.
+5 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Updates minimum supported SDK
   <sub>[#7498](https://github.com/flutter/packages/pull/7498) merged on August 26, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7498) over 13 hours, 192 additions and 57 deletions in 6 files</sub>
@@ -980,6 +980,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cupertino icons golden tests
   <sub>[#7421](https://github.com/flutter/packages/pull/7421) merged on August 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/7421) over 1 week, 107 additions and 0 deletions in 68 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Allows 'localizedDescription' to be nullable to handle occasional nulls in Storekit objects
+  <sub>[#7515](https://github.com/flutter/packages/pull/7515) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7515) over 14 hours, 25 additions and 16 deletions in 9 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [url_launcher] Ignore new `unreachable_switch_default` warning.
   <sub>[#7487](https://github.com/flutter/packages/pull/7487) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7487) over 2 days, 3 additions and 3 deletions in 2 files</sub>
