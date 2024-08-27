@@ -87,7 +87,7 @@
   <sub>[#154139](https://github.com/flutter/flutter/pull/154139) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154139) 145 additions and 61 deletions in 4 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Agp java err<br />
-  <sub>[#154142](https://github.com/flutter/flutter/pull/154142) opened on on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154142) 49 additions and 34 deletions in 3 files</sub><br />
+  <sub>[#154142](https://github.com/flutter/flutter/pull/154142) opened on on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154142) 49 additions and 34 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; validate and commit after regenerating gradle lockfiles from pub autoroller<br />
   <sub>[#154152](https://github.com/flutter/flutter/pull/154152) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154152) 199 additions and 12 deletions in 4 files</sub><br />
