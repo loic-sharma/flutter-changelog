@@ -93,5 +93,5 @@
   <sub>[#154182](https://github.com/flutter/flutter/pull/154182) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154182) 68 additions and 3 deletions in 2 files</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Uninstall microbenchmarks before running them.<br />
-  <sub>[#154183](https://github.com/flutter/flutter/pull/154183) opened on on August 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154183) 12 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#154183](https://github.com/flutter/flutter/pull/154183) opened on on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154183) 12 additions and 0 deletions in 1 file</sub><br />
 
