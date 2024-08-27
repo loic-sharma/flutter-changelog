@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-12 commits.
+14 commits.
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to disable blur in CupertinoNavigationBar with transparent background
   <sub>[#153633](https://github.com/flutter/flutter/pull/153633) merged on August 26, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/153633) over 1 week, 54 additions and 3 deletions in 2 files</sub>
@@ -19,6 +19,10 @@
   <sub>[#149355](https://github.com/flutter/flutter/pull/149355) merged on August 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149355) over 2 months, 58 additions and 28 deletions in 4 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; handle `IOException`s coming from `ChromeTab.connect`
+  <sub>[#153978](https://github.com/flutter/flutter/pull/153978) merged on August 27, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/153978) over 4 days, 73 additions and 12 deletions in 4 files</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fix `getFullHeightForCaret` when strut is disabled.
   <sub>[#154039](https://github.com/flutter/flutter/pull/154039) merged on August 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154039) over 2 days, 46 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -30,6 +34,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Optimize out LayoutBuilder from ReorderableList children
   <sub>[#153987](https://github.com/flutter/flutter/pull/153987) merged on August 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153987) over 3 days, 5 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Uninstall microbenchmarks before running them.
+  <sub>[#154183](https://github.com/flutter/flutter/pull/154183) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154183) over 45 minutes, 12 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix AlertDialog.adaptive clipBehavior is non-nullable
   <sub>[#154173](https://github.com/flutter/flutter/pull/154173) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154173) over 1 hour, 7 additions and 1 deletion in 2 files</sub>
