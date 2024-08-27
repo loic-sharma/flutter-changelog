@@ -971,7 +971,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-6 commits.
+7 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in_ios] Fix "callee requires a non-null parameter" analyzer warning
   <sub>[#7513](https://github.com/flutter/packages/pull/7513) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7513) over 20 hours, 29 additions and 35 deletions in 3 files</sub>
@@ -981,6 +981,10 @@
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Updates minimum supported SDK
   <sub>[#7498](https://github.com/flutter/packages/pull/7498) merged on August 26, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7498) over 13 hours, 192 additions and 57 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Add test to enforce mutable lists
+  <sub>[#7369](https://github.com/flutter/packages/pull/7369) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7369) over 2 weeks, 9 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cupertino icons golden tests
   <sub>[#7421](https://github.com/flutter/packages/pull/7421) merged on August 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/7421) over 1 week, 107 additions and 0 deletions in 68 files</sub>
