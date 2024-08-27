@@ -971,7 +971,12 @@
 
 ### August 24, 2024 to August 30, 2024
 
-5 commits.
+6 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in_ios] Fix "callee requires a non-null parameter" analyzer warning<br />
+  <sub>[#7513](https://github.com/flutter/packages/pull/7513) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7513) over 20 hours, 29 additions and 35 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub><details><summary>1 image...</summary>![Screenshot 2024-08-26 at 4 24 04 PM](https://github.com/user-attachments/assets/56937344-ab54-4ac6-9f8c-7fdb84f9567a)</details></sub>
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Updates minimum supported SDK<br />
   <sub>[#7498](https://github.com/flutter/packages/pull/7498) merged on August 26, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7498) over 13 hours, 192 additions and 57 deletions in 6 files</sub><br />
