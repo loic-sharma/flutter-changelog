@@ -92,3 +92,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; validate and commit after regenerating gradle lockfiles from pub autoroller<br />
   <sub>[#154152](https://github.com/flutter/flutter/pull/154152) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154152) 199 additions and 12 deletions in 4 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix AlertDialog.adaptive clipBehavior is non-nullable<br />
+  <sub>[#154173](https://github.com/flutter/flutter/pull/154173) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154173) 7 additions and 1 deletion in 2 files</sub><br />
+
