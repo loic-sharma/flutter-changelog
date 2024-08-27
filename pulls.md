@@ -74,9 +74,6 @@
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154057) 120 additions and 1 deletion in 3 files</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
-  <sub>[#154059](https://github.com/flutter/flutter/pull/154059) opened on on August 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154059) 7 additions and 0 deletions in 2 files</sub><br />
-
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add static `of` accessor methods to `ColorScheme` and `TextTheme`<br />
   <sub>[#154073](https://github.com/flutter/flutter/pull/154073) opened on on August 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154073) 37 additions and 4 deletions in 3 files</sub><br />
 
@@ -94,4 +91,10 @@
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Agp java err<br />
   <sub>[#154142](https://github.com/flutter/flutter/pull/154142) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154142) 49 additions and 34 deletions in 3 files</sub><br />
+
+* **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add comment document to fontFamily in the IconData<br />
+  <sub>[#154150](https://github.com/flutter/flutter/pull/154150) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154150) 16 additions and 1 deletion in 1 file</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; validate and commit after regenerating gradle lockfiles from pub autoroller<br />
+  <sub>[#154152](https://github.com/flutter/flutter/pull/154152) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154152) 199 additions and 12 deletions in 4 files</sub><br />
 
