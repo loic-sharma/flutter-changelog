@@ -69,7 +69,7 @@
   <sub>[#154049](https://github.com/flutter/flutter/pull/154049) opened on on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154049) 246 additions and 17 deletions in 3 files</sub><br />
 
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Expose long press in ```CupertinoButton```<br />
-  <sub>[#154052](https://github.com/flutter/flutter/pull/154052) opened on on August 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154052) 29 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#154052](https://github.com/flutter/flutter/pull/154052) opened on on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154052) 29 additions and 3 deletions in 2 files</sub><br />
 
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154057) 120 additions and 1 deletion in 3 files</sub><br />
@@ -90,7 +90,7 @@
   <sub>[#154139](https://github.com/flutter/flutter/pull/154139) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154139) 138 additions and 61 deletions in 4 files</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Agp java err<br />
-  <sub>[#154142](https://github.com/flutter/flutter/pull/154142) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154142) 49 additions and 34 deletions in 3 files</sub><br />
+  <sub>[#154142](https://github.com/flutter/flutter/pull/154142) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154142) 49 additions and 34 deletions in 3 files</sub><br />
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add comment document to fontFamily in the IconData<br />
   <sub>[#154150](https://github.com/flutter/flutter/pull/154150) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154150) 16 additions and 1 deletion in 1 file</sub><br />
