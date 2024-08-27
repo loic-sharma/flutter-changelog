@@ -1099,7 +1099,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-1 commits.
+2 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Add-to-app] Add Xcode 16 warning to CocoaPods instructions
+  <sub>[#11078](https://github.com/flutter/website/pull/11078) merged on August 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11078) over 3 days, 9 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Oleg Magomedov](https://github.com/smart7even)** &mdash; Fix code sample in iOS platform-channels guide
   <sub>[#11079](https://github.com/flutter/website/pull/11079) merged on August 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11079) over 1 day, 1 addition and 1 deletion in 1 file</sub>
