@@ -4,7 +4,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-14 commits.
+15 commits.
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
+  <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Jackson Gardner](https://github.com/eyebrowsoffire), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to disable blur in CupertinoNavigationBar with transparent background<br />
   <sub>[#153633](https://github.com/flutter/flutter/pull/153633) merged on August 26, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/153633) over 1 week, 54 additions and 3 deletions in 2 files</sub><br />
@@ -967,11 +971,15 @@
 
 ### August 24, 2024 to August 30, 2024
 
-3 commits.
+4 commits.
 
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Updates minimum supported SDK<br />
   <sub>[#7498](https://github.com/flutter/packages/pull/7498) merged on August 26, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7498) over 13 hours, 192 additions and 57 deletions in 6 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cupertino icons golden tests<br />
+  <sub>[#7421](https://github.com/flutter/packages/pull/7421) merged on August 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/7421) over 1 week, 107 additions and 0 deletions in 68 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [url_launcher] Ignore new `unreachable_switch_default` warning.<br />
   <sub>[#7487](https://github.com/flutter/packages/pull/7487) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7487) over 2 days, 3 additions and 3 deletions in 2 files</sub><br />
