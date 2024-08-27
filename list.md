@@ -27,13 +27,13 @@
   <sub>[#151585](https://github.com/flutter/flutter/pull/151585) merged on August 26, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/151585) over 1 month, 40 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message
-  <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Optimize out LayoutBuilder from ReorderableList children
   <sub>[#153987](https://github.com/flutter/flutter/pull/153987) merged on August 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153987) over 3 days, 5 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message
+  <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update `flutter build apk -h` to indicate that target arch is not supported in debug mode. 
   <sub>[#154111](https://github.com/flutter/flutter/pull/154111) merged on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154111) over 4 hours, 3 additions and 1 deletion in 1 file</sub>
