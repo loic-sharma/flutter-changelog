@@ -92,3 +92,6 @@
 * **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Added support for elevation on refresh indicator<br />
   <sub>[#154182](https://github.com/flutter/flutter/pull/154182) opened on on August 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154182) 68 additions and 3 deletions in 2 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `SelectionListener`/`SelectedContentRange`/`SelectionDetails`<br />
+  <sub>[#154202](https://github.com/flutter/flutter/pull/154202) opened on on August 27, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154202) 1583 additions and 28 deletions in 14 files</sub><br />
+
