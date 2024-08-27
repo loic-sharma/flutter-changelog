@@ -92,9 +92,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Agp java err<br />
   <sub>[#154142](https://github.com/flutter/flutter/pull/154142) opened on on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154142) 49 additions and 34 deletions in 3 files</sub><br />
 
-* **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add comment document to fontFamily in the IconData<br />
-  <sub>[#154150](https://github.com/flutter/flutter/pull/154150) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154150) 16 additions and 1 deletion in 1 file</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; validate and commit after regenerating gradle lockfiles from pub autoroller<br />
   <sub>[#154152](https://github.com/flutter/flutter/pull/154152) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154152) 199 additions and 12 deletions in 4 files</sub><br />
 
