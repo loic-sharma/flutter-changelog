@@ -101,3 +101,6 @@
 * **[M A R I O](https://github.com/MARIO1122334455)** &mdash; Develpment<br />
   <sub>[#154213](https://github.com/flutter/flutter/pull/154213) opened on on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154213) 191 additions and 22 deletions in 4 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Don't remove `toString` implementations while in debug mode.<br />
+  <sub>[#154216](https://github.com/flutter/flutter/pull/154216) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154216) 8 additions and 9 deletions in 2 files</sub><br />
+

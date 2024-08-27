@@ -519,7 +519,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-23 commits.
+24 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect origins for mesh gradient computation.<br />
   <sub>[#54762](https://github.com/flutter/engine/pull/54762) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54762) over 2 days, 82 additions and 6 deletions in 6 files</sub><br />
@@ -552,6 +552,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] Drops semantics query when app is not attached<br />
   <sub>[#52040](https://github.com/flutter/engine/pull/52040) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52040) over 4 months, 67 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Increase host buffer arena count to 4.<br />
+  <sub>[#54808](https://github.com/flutter/engine/pull/54808) merged on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54808) over 4 hours, 19 additions and 12 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Don't override user specification on Vulkan validation in unopt.<br />
   <sub>[#54816](https://github.com/flutter/engine/pull/54816) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54816) over 1 hour, 1 addition and 11 deletions in 1 file</sub><br />
