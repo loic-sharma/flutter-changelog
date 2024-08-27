@@ -9,7 +9,7 @@
   <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Add `dartFileName` setting for platform plugins <br />
-  <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153099) 203 additions and 30 deletions in 7 files</sub><br />
+  <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153099) 203 additions and 30 deletions in 7 files</sub><br />
 
 * **[hangyu](https://github.com/hangyujin)** &mdash; Change flag internalAddSemanticForOnTap default value to true<br />
   <sub>[#153193](https://github.com/flutter/flutter/pull/153193) opened on on August 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153193) 1 addition and 5 deletions in 2 files</sub><br />
