@@ -86,9 +86,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduces 'focusable' in FocusNode and FocusScopeNode, deprecating 'canRequestFocus' for focus handling<br />
   <sub>[#154139](https://github.com/flutter/flutter/pull/154139) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154139) 145 additions and 61 deletions in 4 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; validate and commit after regenerating gradle lockfiles from pub autoroller<br />
-  <sub>[#154152](https://github.com/flutter/flutter/pull/154152) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154152) 199 additions and 12 deletions in 4 files</sub><br />
-
 * **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Added support for elevation on refresh indicator<br />
   <sub>[#154182](https://github.com/flutter/flutter/pull/154182) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154182) 68 additions and 3 deletions in 2 files</sub><br />
 
