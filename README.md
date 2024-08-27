@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-11 commits.
+12 commits.
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to disable blur in CupertinoNavigationBar with transparent background<br />
   <sub>[#153633](https://github.com/flutter/flutter/pull/153633) merged on August 26, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/153633) over 1 week, 54 additions and 3 deletions in 2 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Optimize out LayoutBuilder from ReorderableList children<br />
   <sub>[#153987](https://github.com/flutter/flutter/pull/153987) merged on August 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153987) over 3 days, 5 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix AlertDialog.adaptive clipBehavior is non-nullable<br />
+  <sub>[#154173](https://github.com/flutter/flutter/pull/154173) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154173) over 1 hour, 7 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message<br />
   <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub><br />
