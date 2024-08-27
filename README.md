@@ -752,7 +752,7 @@
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "[DisplayList] Allow random access to ops through indexing"<br />
-  <sub>[#54676](https://github.com/flutter/engine/pull/54676) merged on August 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/54676) over 11 hours, 1432 additions and 463 deletions in 8 files</sub><br />
+  <sub>[#54676](https://github.com/flutter/engine/pull/54676) merged on August 21, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/54676) over 11 hours, 1432 additions and 463 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Revert "[DisplayList] Allow random access to ops through indexing"<br />
