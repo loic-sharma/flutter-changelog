@@ -20,7 +20,7 @@
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; handle `IOException`s coming from `ChromeTab.connect`<br />
-  <sub>[#153978](https://github.com/flutter/flutter/pull/153978) merged on August 27, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/153978) over 4 days, 73 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#153978](https://github.com/flutter/flutter/pull/153978) merged on August 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/153978) over 4 days, 73 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fix `getFullHeightForCaret` when strut is disabled.<br />
