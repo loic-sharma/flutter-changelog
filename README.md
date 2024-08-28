@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-24 commits.
+25 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
@@ -62,6 +62,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Optimize out LayoutBuilder from ReorderableList children<br />
   <sub>[#153987](https://github.com/flutter/flutter/pull/153987) merged on August 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153987) over 3 days, 5 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove scorecards and other badging with broken links<br />
+  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154272) over 1 hour, 0 additions and 57 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak tracker.<br />
   <sub>[#154157](https://github.com/flutter/flutter/pull/154157) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154157) over 1 day, 146 additions and 146 deletions in 49 files</sub><br />

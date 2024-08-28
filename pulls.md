@@ -68,9 +68,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
   <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Introduces 'focusable' in FocusNode and FocusScopeNode, deprecating 'canRequestFocus' for focus handling<br />
-  <sub>[#154139](https://github.com/flutter/flutter/pull/154139) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154139) 145 additions and 61 deletions in 4 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Minor Formatting<br />
   <sub>[#154210](https://github.com/flutter/flutter/pull/154210) opened on on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154210) 5 additions and 4 deletions in 2 files</sub><br />
 
@@ -79,13 +76,4 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
   <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154217) 88 additions and 7 deletions in 3 files</sub><br />
-
-* **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; Checkbox: add support for custom size<br />
-  <sub>[#154233](https://github.com/flutter/flutter/pull/154233) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154233) 35 additions and 10 deletions in 2 files</sub><br />
-
-* **[Elisey Ozerov](https://github.com/eliseyOzerov)** &mdash; Add background color animation to MaterialInteriorState<br />
-  <sub>[#154260](https://github.com/flutter/flutter/pull/154260) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154260) 10 additions and 2 deletions in 1 file</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove scorecards and other badging with broken links<br />
-  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) opened on on August 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154272) 0 additions and 57 deletions in 2 files</sub><br />
 
