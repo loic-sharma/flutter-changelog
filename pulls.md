@@ -11,9 +11,6 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Add `dartFileName` setting for platform plugins <br />
   <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/153099) 364 additions and 63 deletions in 7 files</sub><br />
 
-* **[hangyu](https://github.com/hangyujin)** &mdash; Change flag internalAddSemanticForOnTap default value to true<br />
-  <sub>[#153193](https://github.com/flutter/flutter/pull/153193) opened on on August 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153193) 1 addition and 5 deletions in 2 files</sub><br />
-
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; [WIP DO NOT REVIEW] Add new assert and verbosity to existing assert<br />
   <sub>[#153248](https://github.com/flutter/flutter/pull/153248) opened on on August 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153248) 17 additions and 2 deletions in 2 files</sub><br />
 
