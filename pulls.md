@@ -107,3 +107,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Make sure `usesUnsupportedDependencyVersions` property exists before checking it<br />
   <sub>[#154270](https://github.com/flutter/flutter/pull/154270) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154270) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove scorecards and other badging with broken links<br />
+  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) opened on on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154272) 0 additions and 57 deletions in 2 files</sub><br />
+
