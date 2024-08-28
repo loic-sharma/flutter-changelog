@@ -86,9 +86,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Introduces 'focusable' in FocusNode and FocusScopeNode, deprecating 'canRequestFocus' for focus handling<br />
   <sub>[#154139](https://github.com/flutter/flutter/pull/154139) opened on on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154139) 145 additions and 61 deletions in 4 files</sub><br />
 
-* **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Added support for elevation on refresh indicator<br />
-  <sub>[#154182](https://github.com/flutter/flutter/pull/154182) opened on on August 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154182) 68 additions and 3 deletions in 2 files</sub><br />
-
 * **[Tirth](https://github.com/piedcipher)** &mdash; Minor Formatting<br />
   <sub>[#154210](https://github.com/flutter/flutter/pull/154210) opened on on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154210) 5 additions and 4 deletions in 2 files</sub><br />
 
@@ -98,9 +95,6 @@
 * **[M A R I O](https://github.com/MARIO1122334455)** &mdash; Develpment<br />
   <sub>[#154213](https://github.com/flutter/flutter/pull/154213) opened on on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154213) 191 additions and 22 deletions in 4 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Don't remove `toString` implementations while in debug mode.<br />
-  <sub>[#154216](https://github.com/flutter/flutter/pull/154216) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154216) 39 additions and 11 deletions in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
   <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154217) 88 additions and 7 deletions in 3 files</sub><br />
 
@@ -109,4 +103,7 @@
 
 * **[Elisey Ozerov](https://github.com/eliseyOzerov)** &mdash; Add background color animation to MaterialInteriorState<br />
   <sub>[#154260](https://github.com/flutter/flutter/pull/154260) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154260) 10 additions and 2 deletions in 1 file</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Make sure `usesUnsupportedDependencyVersions` property exists before checking it<br />
+  <sub>[#154270](https://github.com/flutter/flutter/pull/154270) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154270) 1 addition and 1 deletion in 1 file</sub><br />
 
