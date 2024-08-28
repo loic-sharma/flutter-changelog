@@ -547,7 +547,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-25 commits.
+27 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect origins for mesh gradient computation.
   <sub>[#54762](https://github.com/flutter/engine/pull/54762) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54762) over 2 days, 82 additions and 6 deletions in 6 files</sub>
@@ -584,6 +584,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] Drops semantics query when app is not attached
   <sub>[#52040](https://github.com/flutter/engine/pull/52040) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52040) over 4 months, 67 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] port clip stack fixes to new canvas.
+  <sub>[#54727](https://github.com/flutter/engine/pull/54727) merged on August 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54727) over 5 days, 29 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Increase host buffer arena count to 4.
   <sub>[#54808](https://github.com/flutter/engine/pull/54808) merged on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54808) over 4 hours, 19 additions and 12 deletions in 3 files</sub>
@@ -628,6 +632,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete impeller image class.
   <sub>[#54767](https://github.com/flutter/engine/pull/54767) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54767) over 5 hours, 42 additions and 114 deletions in 18 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] use the api-level from gn-sdk
+  <sub>[#54740](https://github.com/flutter/engine/pull/54740) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54740) over 4 days, 4 additions and 12 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Store a set of layers per view.
   <sub>[#54793](https://github.com/flutter/engine/pull/54793) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54793) over 4 hours, 45 additions and 27 deletions in 4 files</sub>
