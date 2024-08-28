@@ -71,6 +71,3 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStateProperty` upkeep<br />
   <sub>[#154298](https://github.com/flutter/flutter/pull/154298) opened on on August 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154298) 104 additions and 151 deletions in 19 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make ViewAnchor a LookupBoundary<br />
-  <sub>[#154300](https://github.com/flutter/flutter/pull/154300) opened on on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154300) 91 additions and 11 deletions in 4 files</sub><br />
-
