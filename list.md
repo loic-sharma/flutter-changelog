@@ -567,7 +567,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-32 commits.
+33 commits.
 
 * **[Ömer Sinan Ağacan](https://github.com/osa1)** &mdash; Compile dart2wasm modules using the JS runtime exported compileStreaming
   <sub>[#51488](https://github.com/flutter/engine/pull/51488) merged on August 28, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/51488) over 5 months, 3 additions and 3 deletions in 1 file</sub>
@@ -672,6 +672,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete impeller image class.
   <sub>[#54767](https://github.com/flutter/engine/pull/54767) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54767) over 5 hours, 42 additions and 114 deletions in 18 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Always do backdrop filter operation even if empty.
+  <sub>[#54844](https://github.com/flutter/engine/pull/54844) merged on August 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54844) over 3 hours, 66 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] use the api-level from gn-sdk
   <sub>[#54740](https://github.com/flutter/engine/pull/54740) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54740) over 4 days, 4 additions and 12 deletions in 3 files</sub>
