@@ -24,7 +24,7 @@
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add documentation about updating `.ci.yaml` and `flutter-gold`.
-  <sub>[#154184](https://github.com/flutter/flutter/pull/154184) merged on August 28, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/154184) over 1 day, 99 additions and 12 deletions in 1 file</sub>
+  <sub>[#154184](https://github.com/flutter/flutter/pull/154184) merged on August 28, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/154184) over 1 day, 99 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make the pub roller bot re-generate gradle lockfiles

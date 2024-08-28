@@ -38,9 +38,6 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Enable macOS build for single arch<br />
   <sub>[#153854](https://github.com/flutter/flutter/pull/153854) opened on on August 21, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/153854) 341 additions and 5 deletions in 3 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; fix unpack freezing app with animation duration zero <br />
-  <sub>[#153890](https://github.com/flutter/flutter/pull/153890) opened on on August 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153890) 103 additions and 0 deletions in 2 files</sub><br />
-
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add minimum height for MaterialBanner<br />
   <sub>[#153951](https://github.com/flutter/flutter/pull/153951) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153951) 72 additions and 1 deletion in 2 files</sub><br />
 
