@@ -47,12 +47,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; remove branch and presubmit constraints on verify binaries test<br />
   <sub>[#154034](https://github.com/flutter/flutter/pull/154034) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154034) 0 additions and 6 deletions in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `CircularNotchedRectangle.getOuterPath()`<br />
-  <sub>[#154036](https://github.com/flutter/flutter/pull/154036) opened on on August 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154036) 22 additions and 31 deletions in 1 file</sub><br />
-
-* **[SohanRaidev](https://github.com/SohanRaidev)** &mdash; Add sample code for AutomaticKeepAliveClientMixin.<br />
-  <sub>[#154049](https://github.com/flutter/flutter/pull/154049) opened on on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154049) 246 additions and 17 deletions in 3 files</sub><br />
-
 * **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Expose long press in ```CupertinoButton```<br />
   <sub>[#154052](https://github.com/flutter/flutter/pull/154052) opened on on August 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154052) 29 additions and 3 deletions in 2 files</sub><br />
 
@@ -60,7 +54,7 @@
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154057) 120 additions and 1 deletion in 3 files</sub><br />
 
 * **[Quyen Le Van](https://github.com/quyenvsp)** &mdash; Fix TextOverflow ellipsis with TextStyle height 1 cut off the letter<br />
-  <sub>[#154086](https://github.com/flutter/flutter/pull/154086) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154086) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#154086](https://github.com/flutter/flutter/pull/154086) opened on on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154086) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Michael](https://github.com/Buchimi)** &mdash; [native_assets][tool] `template=package_ffi` Cpp integration<br />
   <sub>[#154088](https://github.com/flutter/flutter/pull/154088) opened on on August 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/154088) 339 additions and 19 deletions in 25 files</sub><br />
@@ -76,6 +70,9 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
   <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154217) 88 additions and 7 deletions in 3 files</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStateProperty` upkeep<br />
+  <sub>[#154298](https://github.com/flutter/flutter/pull/154298) opened on on August 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154298) 104 additions and 151 deletions in 19 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make ViewAnchor a LookupBoundary<br />
   <sub>[#154300](https://github.com/flutter/flutter/pull/154300) opened on on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154300) 91 additions and 11 deletions in 4 files</sub><br />
