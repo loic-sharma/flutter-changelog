@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-26 commits.
+27 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub>
@@ -90,6 +90,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message
   <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Don't remove `toString` implementations while in debug mode.
+  <sub>[#154216](https://github.com/flutter/flutter/pull/154216) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154216) over 20 hours, 39 additions and 11 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add warning if changing flutterEmbedding string.
   <sub>[#154181](https://github.com/flutter/flutter/pull/154181) merged on August 28, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154181) over 1 day, 2 additions and 0 deletions in 1 file</sub>
@@ -1071,7 +1075,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-8 commits.
+9 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in_ios] Fix "callee requires a non-null parameter" analyzer warning
   <sub>[#7513](https://github.com/flutter/packages/pull/7513) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7513) over 20 hours, 29 additions and 35 deletions in 3 files</sub>
@@ -1093,6 +1097,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove matan from codeowners
   <sub>[#7511](https://github.com/flutter/packages/pull/7511) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7511) over 1 day, 2 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [shared_preferences] Fix typo in changelog
+  <sub>[#7523](https://github.com/flutter/packages/pull/7523) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7523) over 11 hours, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Allows 'localizedDescription' to be nullable to handle occasional nulls in Storekit objects
   <sub>[#7515](https://github.com/flutter/packages/pull/7515) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7515) over 14 hours, 25 additions and 16 deletions in 9 files</sub>
