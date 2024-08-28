@@ -38,9 +38,6 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Enable macOS build for single arch<br />
   <sub>[#153854](https://github.com/flutter/flutter/pull/153854) opened on on August 21, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/153854) 341 additions and 5 deletions in 3 files</sub><br />
 
-* **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add minimum height for MaterialBanner<br />
-  <sub>[#153951](https://github.com/flutter/flutter/pull/153951) opened on on August 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153951) 72 additions and 1 deletion in 2 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Drawer` prematurely snapping<br />
   <sub>[#153955](https://github.com/flutter/flutter/pull/153955) opened on on August 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153955) 62 additions and 2 deletions in 3 files</sub><br />
 
@@ -99,5 +96,5 @@
   <sub>[#154260](https://github.com/flutter/flutter/pull/154260) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154260) 10 additions and 2 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove scorecards and other badging with broken links<br />
-  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154272) 0 additions and 57 deletions in 2 files</sub><br />
+  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) opened on on August 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154272) 0 additions and 57 deletions in 2 files</sub><br />
 
