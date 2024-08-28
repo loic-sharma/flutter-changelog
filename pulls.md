@@ -93,7 +93,7 @@
   <sub>[#154210](https://github.com/flutter/flutter/pull/154210) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154210) 5 additions and 4 deletions in 2 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Improve Documentation for ResizeImage Dimensions and Usage<br />
-  <sub>[#154212](https://github.com/flutter/flutter/pull/154212) opened on on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154212) 17 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#154212](https://github.com/flutter/flutter/pull/154212) opened on on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154212) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[M A R I O](https://github.com/MARIO1122334455)** &mdash; Develpment<br />
   <sub>[#154213](https://github.com/flutter/flutter/pull/154213) opened on on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154213) 191 additions and 22 deletions in 4 files</sub><br />

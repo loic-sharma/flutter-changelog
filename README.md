@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-20 commits.
+21 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; handle `HttpException`s coming from `ChromeTab.connect`<br />
   <sub>[#153978](https://github.com/flutter/flutter/pull/153978) merged on August 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/153978) over 4 days, 73 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add comment document to fontFamily in the IconData<br />
+  <sub>[#154150](https://github.com/flutter/flutter/pull/154150) merged on August 28, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154150) over 1 day, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Tirth](https://github.com/piedcipher)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fix `getFullHeightForCaret` when strut is disabled.<br />
   <sub>[#154039](https://github.com/flutter/flutter/pull/154039) merged on August 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154039) over 2 days, 46 additions and 5 deletions in 2 files</sub><br />
