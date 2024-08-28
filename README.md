@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-18 commits.
+19 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
   <sub>[#153633](https://github.com/flutter/flutter/pull/153633) merged on August 26, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/153633) over 1 week, 54 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
   <sub><details><summary>2 images...</summary>![Simulator_Screenshot_-_iPhone_15_Pro_Max_-_2024-08-17_at_18 30 43](https://github.com/user-attachments/assets/9297e176-374c-4a4d-b6df-fa81f1b89ae2)![simulator_screenshot_8587DA9F-E18B-4ED4-AFFB-1DA52FF5C0D2](https://github.com/user-attachments/assets/ac6eadbc-be9a-4c4c-9fb4-06e58055bab7)</details></sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactored HeroController logic to handle complex cases<br />
+  <sub>[#150027](https://github.com/flutter/flutter/pull/150027) merged on August 28, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/150027) over 2 months, 303 additions and 45 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
   <sub>[#153103](https://github.com/flutter/flutter/pull/153103) merged on August 26, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/153103) over 2 weeks, 74 additions and 10 deletions in 3 files</sub><br />
