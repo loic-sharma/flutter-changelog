@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-19 commits.
+20 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub>
@@ -50,6 +50,10 @@
 * **[Callum Moffat](https://github.com/moffatman)** &mdash; Optimize out LayoutBuilder from ReorderableList children
   <sub>[#153987](https://github.com/flutter/flutter/pull/153987) merged on August 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153987) over 3 days, 5 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak tracker.
+  <sub>[#154157](https://github.com/flutter/flutter/pull/154157) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154157) over 1 day, 146 additions and 146 deletions in 49 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make sure `usesUnsupportedDependencyVersions` property exists before checking it
   <sub>[#154121](https://github.com/flutter/flutter/pull/154121) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154121) over 1 day, 1 addition and 1 deletion in 1 file</sub>
