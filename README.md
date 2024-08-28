@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-25 commits.
+26 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
@@ -38,6 +38,10 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Scroll CupertinoContextMenu if items overflow<br />
   <sub>[#154133](https://github.com/flutter/flutter/pull/154133) merged on August 28, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/154133) over 1 day, 136 additions and 36 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Navaron Bracke](https://github.com/navaronbracke), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add missing tests for `requestFocus` routes parameter in Material and  Cupertino libraries<br />
+  <sub>[#154005](https://github.com/flutter/flutter/pull/154005) merged on August 28, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/154005) over 5 days, 443 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add comment document to fontFamily in the IconData<br />
   <sub>[#154150](https://github.com/flutter/flutter/pull/154150) merged on August 28, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154150) over 1 day, 11 additions and 0 deletions in 1 file</sub><br />
