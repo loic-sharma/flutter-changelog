@@ -107,3 +107,6 @@
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; Checkbox: add support for custom size<br />
   <sub>[#154233](https://github.com/flutter/flutter/pull/154233) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154233) 35 additions and 10 deletions in 2 files</sub><br />
 
+* **[Elisey Ozerov](https://github.com/eliseyOzerov)** &mdash; Add background color animation to MaterialInteriorState<br />
+  <sub>[#154260](https://github.com/flutter/flutter/pull/154260) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154260) 10 additions and 2 deletions in 1 file</sub><br />
+
