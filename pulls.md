@@ -32,14 +32,11 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update tokens to v6.1<br />
   <sub>[#153722](https://github.com/flutter/flutter/pull/153722) opened on on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153722) 90 additions and 86 deletions in 74 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes itemExtent being incorrectly assigned to renderObject.minExtent…<br />
-  <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where itemExtent was incorrectly assigned to renderObject.minExtent<br />
+  <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Enable macOS build for single arch<br />
   <sub>[#153854](https://github.com/flutter/flutter/pull/153854) opened on on August 21, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/153854) 341 additions and 5 deletions in 3 files</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Drawer` prematurely snapping<br />
-  <sub>[#153955](https://github.com/flutter/flutter/pull/153955) opened on on August 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153955) 62 additions and 2 deletions in 3 files</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
   <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/153973) 62 additions and 2 deletions in 3 files</sub><br />
@@ -53,9 +50,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `CircularNotchedRectangle.getOuterPath()`<br />
   <sub>[#154036](https://github.com/flutter/flutter/pull/154036) opened on on August 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154036) 22 additions and 31 deletions in 1 file</sub><br />
 
-* **[Nguyen Phuc Loi](https://github.com/nploi)** &mdash; Support custom transition duration for `DialogRoute`<br />
-  <sub>[#154048](https://github.com/flutter/flutter/pull/154048) opened on on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154048) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[SohanRaidev](https://github.com/SohanRaidev)** &mdash; Add sample code for AutomaticKeepAliveClientMixin.<br />
   <sub>[#154049](https://github.com/flutter/flutter/pull/154049) opened on on August 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154049) 246 additions and 17 deletions in 3 files</sub><br />
 
@@ -64,9 +58,6 @@
 
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154057) 120 additions and 1 deletion in 3 files</sub><br />
-
-* **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add static `of` accessor methods to `ColorScheme` and `TextTheme`<br />
-  <sub>[#154073](https://github.com/flutter/flutter/pull/154073) opened on on August 25, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/154073) 105 additions and 6 deletions in 5 files</sub><br />
 
 * **[Quyen Le Van](https://github.com/quyenvsp)** &mdash; Fix TextOverflow ellipsis with TextStyle height 1 cut off the letter<br />
   <sub>[#154086](https://github.com/flutter/flutter/pull/154086) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154086) 2 additions and 1 deletion in 1 file</sub><br />
