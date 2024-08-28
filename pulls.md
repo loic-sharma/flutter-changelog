@@ -92,9 +92,6 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Improve Documentation for ResizeImage Dimensions and Usage<br />
   <sub>[#154212](https://github.com/flutter/flutter/pull/154212) opened on on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154212) 17 additions and 0 deletions in 1 file</sub><br />
 
-* **[M A R I O](https://github.com/MARIO1122334455)** &mdash; Develpment<br />
-  <sub>[#154213](https://github.com/flutter/flutter/pull/154213) opened on on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154213) 191 additions and 22 deletions in 4 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
   <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154217) 88 additions and 7 deletions in 3 files</sub><br />
 
@@ -104,9 +101,6 @@
 * **[Elisey Ozerov](https://github.com/eliseyOzerov)** &mdash; Add background color animation to MaterialInteriorState<br />
   <sub>[#154260](https://github.com/flutter/flutter/pull/154260) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154260) 10 additions and 2 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Make sure `usesUnsupportedDependencyVersions` property exists before checking it<br />
-  <sub>[#154270](https://github.com/flutter/flutter/pull/154270) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154270) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove scorecards and other badging with broken links<br />
-  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) opened on on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154272) 0 additions and 57 deletions in 2 files</sub><br />
+  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154272) 0 additions and 57 deletions in 2 files</sub><br />
 
