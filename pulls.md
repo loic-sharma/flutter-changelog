@@ -9,7 +9,7 @@
   <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Add `dartFileName` setting for platform plugins <br />
-  <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/153099) 364 additions and 63 deletions in 7 files</sub><br />
+  <sub>[#153099](https://github.com/flutter/flutter/pull/153099) opened on on August 8, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/153099) 364 additions and 63 deletions in 7 files</sub><br />
 
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; [WIP DO NOT REVIEW] Add new assert and verbosity to existing assert<br />
   <sub>[#153248](https://github.com/flutter/flutter/pull/153248) opened on on August 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153248) 17 additions and 2 deletions in 2 files</sub><br />
