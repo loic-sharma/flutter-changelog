@@ -1260,7 +1260,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-2 commits.
+3 commits.
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Prepare DevTools release notes for version 2.39.0<br />
+  <sub>[#11089](https://github.com/flutter/website/pull/11089) merged on August 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11089) over 23 hours, 39 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Add-to-app] Add Xcode 16 warning to CocoaPods instructions<br />
   <sub>[#11078](https://github.com/flutter/website/pull/11078) merged on August 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11078) over 3 days, 9 additions and 0 deletions in 1 file</sub><br />
