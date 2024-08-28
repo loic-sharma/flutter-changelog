@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-21 commits.
+22 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub>
@@ -74,6 +74,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message
   <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add warning if changing flutterEmbedding string.
+  <sub>[#154181](https://github.com/flutter/flutter/pull/154181) merged on August 28, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154181) over 1 day, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update `flutter build apk -h` to indicate that target arch is not supported in debug mode. 
   <sub>[#154111](https://github.com/flutter/flutter/pull/154111) merged on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154111) over 4 hours, 3 additions and 1 deletion in 1 file</sub>
@@ -543,11 +547,15 @@
 
 ### August 24, 2024 to August 30, 2024
 
-24 commits.
+25 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix incorrect origins for mesh gradient computation.
   <sub>[#54762](https://github.com/flutter/engine/pull/54762) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54762) over 2 days, 82 additions and 6 deletions in 6 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fall back to path rendering on thick paths.
+  <sub>[#54822](https://github.com/flutter/engine/pull/54822) merged on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54822) over 12 hours, 27 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change the `ci/analyze.sh` script to analyze _all_ of the engine
   <sub>[#54779](https://github.com/flutter/engine/pull/54779) merged on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54779) over 3 hours, 14 additions and 19 deletions in 4 files</sub>
