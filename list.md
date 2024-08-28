@@ -40,7 +40,7 @@
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Uninstall microbenchmarks before running them.
-  <sub>[#154183](https://github.com/flutter/flutter/pull/154183) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154183) over 45 minutes, 12 additions and 0 deletions in 1 file</sub>
+  <sub>[#154183](https://github.com/flutter/flutter/pull/154183) merged on August 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154183) over 45 minutes, 12 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix AlertDialog.adaptive clipBehavior is non-nullable
