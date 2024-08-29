@@ -65,9 +65,3 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
   <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154217) 88 additions and 7 deletions in 3 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStateProperty` upkeep<br />
-  <sub>[#154298](https://github.com/flutter/flutter/pull/154298) opened on on August 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154298) 104 additions and 151 deletions in 19 files</sub><br />
-
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `Scrollable.ensureVisible` document clearer that it would scroll all enclosing `Scrollable`<br />
-  <sub>[#154321](https://github.com/flutter/flutter/pull/154321) opened on on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154321) 2 additions and 2 deletions in 1 file</sub><br />
-
