@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-29 commits.
+30 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
   <sub>[#153103](https://github.com/flutter/flutter/pull/153103) merged on August 26, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/153103) over 2 weeks, 74 additions and 10 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Drawer` prematurely snapping<br />
+  <sub>[#153955](https://github.com/flutter/flutter/pull/153955) merged on August 29, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/153955) over 6 days, 68 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add documentation about updating `.ci.yaml` and `flutter-gold`.<br />
   <sub>[#154184](https://github.com/flutter/flutter/pull/154184) merged on August 28, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/154184) over 1 day, 99 additions and 12 deletions in 1 file</sub><br />
