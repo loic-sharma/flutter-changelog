@@ -53,7 +53,7 @@
   <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Navaron Bracke](https://github.com/navaronbracke), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add missing tests for `requestFocus` routes parameter in Material and  Cupertino libraries
-  <sub>[#154005](https://github.com/flutter/flutter/pull/154005) merged on August 28, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/154005) over 5 days, 443 additions and 0 deletions in 5 files</sub>
+  <sub>[#154005](https://github.com/flutter/flutter/pull/154005) merged on August 28, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/154005) over 5 days, 443 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add comment document to fontFamily in the IconData
@@ -642,6 +642,10 @@
   <sub>[#54750](https://github.com/flutter/engine/pull/54750) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54750) over 2 days, 53 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate another big chunk of the engine repo to `package:test`
+  <sub>[#54853](https://github.com/flutter/engine/pull/54853) merged on August 29, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/54853) over 16 hours, 237 additions and 254 deletions in 39 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix clip culling with exp canvas.
   <sub>[#54701](https://github.com/flutter/engine/pull/54701) merged on August 28, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/54701) over 6 days, 155 additions and 23 deletions in 5 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
@@ -662,12 +666,8 @@
   <sub>[#54351](https://github.com/flutter/engine/pull/54351) merged on August 26, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54351) over 3 weeks, 126 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate`header_guard_check` to `package:test`.
-  <sub>[#54811](https://github.com/flutter/engine/pull/54811) merged on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54811) over 1 day, 102 additions and 51 deletions in 4 files</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix `build/dart/rules.gni` which contains erroneous code after my refactor.
-  <sub>[#54867](https://github.com/flutter/engine/pull/54867) merged on August 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54867) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add an ios noop context.
+  <sub>[#54856](https://github.com/flutter/engine/pull/54856) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54856) over 3 hours, 140 additions and 5 deletions in 7 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure that srcOver to src conversion takes stroke coverage into account.
@@ -698,9 +698,9 @@
   <sub>[#54814](https://github.com/flutter/engine/pull/54814) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54814) over 59 minutes, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate another big chunk of the engine repo to `package:test`
-  <sub>[#54853](https://github.com/flutter/engine/pull/54853) merged on August 29, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/54853) over 16 hours, 237 additions and 254 deletions in 39 files</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix `build/dart/rules.gni` which contains erroneous code after my refactor.
+  <sub>[#54867](https://github.com/flutter/engine/pull/54867) merged on August 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54867) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Revert dart to b81b344a194f
   <sub>[#54782](https://github.com/flutter/engine/pull/54782) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54782) over 1 hour, 4 additions and 4 deletions in 3 files</sub>
@@ -710,9 +710,9 @@
   <sub>[#54766](https://github.com/flutter/engine/pull/54766) merged on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54766) over 22 hours, 17 additions and 12 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add an ios noop context.
-  <sub>[#54856](https://github.com/flutter/engine/pull/54856) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54856) over 3 hours, 140 additions and 5 deletions in 7 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate`header_guard_check` to `package:test`.
+  <sub>[#54811](https://github.com/flutter/engine/pull/54811) merged on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54811) over 1 day, 102 additions and 51 deletions in 4 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete impeller image class.
   <sub>[#54767](https://github.com/flutter/engine/pull/54767) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54767) over 5 hours, 42 additions and 114 deletions in 18 files</sub>
@@ -1337,7 +1337,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-5 commits.
+7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for new Material 3 `Slider` shapes
   <sub>[#11087](https://github.com/flutter/website/pull/11087) merged on August 29, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/11087) over 2 days, 104 additions and 0 deletions in 2 files</sub>
@@ -1355,9 +1355,17 @@
   <sub>[#11078](https://github.com/flutter/website/pull/11078) merged on August 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11078) over 3 days, 9 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
+* **[Chetankumar Akarte](https://github.com/Chetankumar-Akarte)** &mdash; Add new ebook - The Flutter Foundation - A Comprehensive Guide for Technical Interviews and Beyond
+  <sub>[#11086](https://github.com/flutter/website/pull/11086) merged on August 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11086) over 2 days, 7 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 * **[Oleg Magomedov](https://github.com/smart7even)** &mdash; Fix code sample in iOS platform-channels guide
   <sub>[#11079](https://github.com/flutter/website/pull/11079) merged on August 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11079) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Khanh Nguyen](https://github.com/khanhnwin), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "Migration guide for new Material 3 `Slider` shapes"
+  <sub>[#11092](https://github.com/flutter/website/pull/11092) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11092) over 18 minutes, 0 additions and 104 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 ### August 17, 2024 to August 23, 2024
 
