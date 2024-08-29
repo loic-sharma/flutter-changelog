@@ -69,5 +69,5 @@
   <sub>[#154298](https://github.com/flutter/flutter/pull/154298) opened on on August 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154298) 104 additions and 151 deletions in 19 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `Scrollable.ensureVisible` document clearer that it would scroll all enclosing `Scrollable`<br />
-  <sub>[#154321](https://github.com/flutter/flutter/pull/154321) opened on on August 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154321) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#154321](https://github.com/flutter/flutter/pull/154321) opened on on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154321) 2 additions and 2 deletions in 1 file</sub><br />
 
