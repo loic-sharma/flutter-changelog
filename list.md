@@ -1276,7 +1276,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-3 commits.
+4 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix build failure and update other deps
+  <sub>[#11090](https://github.com/flutter/website/pull/11090) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11090) over 33 minutes, 128 additions and 125 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Prepare DevTools release notes for version 2.39.0
   <sub>[#11089](https://github.com/flutter/website/pull/11089) merged on August 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11089) over 23 hours, 39 additions and 0 deletions in 3 files</sub>
