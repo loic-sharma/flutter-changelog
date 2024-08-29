@@ -59,3 +59,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT<br />
   <sub>[#154357](https://github.com/flutter/flutter/pull/154357) opened on on August 29, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154357) 11841 additions and 15597 deletions in 955 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; unpin path_provider_android<br />
+  <sub>[#154369](https://github.com/flutter/flutter/pull/154369) opened on on August 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154369) 0 additions and 2 deletions in 1 file</sub><br />
+
