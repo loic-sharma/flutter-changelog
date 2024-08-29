@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-32 commits.
+33 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
@@ -18,6 +18,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactored HeroController logic to handle complex cases<br />
   <sub>[#150027](https://github.com/flutter/flutter/pull/150027) merged on August 28, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/150027) over 2 months, 303 additions and 45 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Gabriel Terwesten](https://github.com/blaugold)** &mdash; [native assets] Rewrite install names for relocated native libraries<br />
+  <sub>[#153054](https://github.com/flutter/flutter/pull/153054) merged on August 29, 2024 &mdash; **Large:** [53 comments](https://github.com/flutter/flutter/pull/153054) over 3 weeks, 834 additions and 115 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `IconButton` doesn't show `Tooltip` when hovering within the button area but outside the `Icon`<br />
   <sub>[#153691](https://github.com/flutter/flutter/pull/153691) merged on August 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/153691) over 1 week, 125 additions and 33 deletions in 3 files</sub><br />
