@@ -71,3 +71,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `Scrollable.ensureVisible` document clearer that it would scroll all enclosing `Scrollable`<br />
   <sub>[#154321](https://github.com/flutter/flutter/pull/154321) opened on on August 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154321) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for customer_testing test step<br />
+  <sub>[#154339](https://github.com/flutter/flutter/pull/154339) opened on on August 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154339) 10 additions and 1 deletion in 1 file</sub><br />
+
