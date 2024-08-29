@@ -32,9 +32,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where itemExtent was incorrectly assigned to renderObject.minExtent<br />
   <sub>[#153805](https://github.com/flutter/flutter/pull/153805) opened on on August 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153805) 50 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Enable macOS build for single arch<br />
-  <sub>[#153854](https://github.com/flutter/flutter/pull/153854) opened on on August 21, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/153854) 341 additions and 5 deletions in 3 files</sub><br />
-
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
   <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/153973) 62 additions and 2 deletions in 3 files</sub><br />
 
@@ -54,7 +51,7 @@
   <sub>[#154086](https://github.com/flutter/flutter/pull/154086) opened on on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154086) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Michael](https://github.com/Buchimi)** &mdash; [native_assets][tool] `template=package_ffi` Cpp integration<br />
-  <sub>[#154088](https://github.com/flutter/flutter/pull/154088) opened on on August 26, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/154088) 339 additions and 19 deletions in 25 files</sub><br />
+  <sub>[#154088](https://github.com/flutter/flutter/pull/154088) opened on on August 26, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/154088) 339 additions and 19 deletions in 25 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
   <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
