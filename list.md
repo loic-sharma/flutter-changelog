@@ -579,7 +579,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-36 commits.
+37 commits.
 
 * **[Ömer Sinan Ağacan](https://github.com/osa1)** &mdash; Compile dart2wasm modules using the JS runtime exported compileStreaming
   <sub>[#51488](https://github.com/flutter/engine/pull/51488) merged on August 28, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/51488) over 5 months, 3 additions and 3 deletions in 1 file</sub>
@@ -621,13 +621,17 @@
   <sub>[#54815](https://github.com/flutter/engine/pull/54815) merged on August 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54815) over 1 hour, 10 additions and 10 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] Drops semantics query when app is not attached
+  <sub>[#52040](https://github.com/flutter/engine/pull/52040) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52040) over 4 months, 67 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Fix text input edit rotor accessibility
   <sub>[#54351](https://github.com/flutter/engine/pull/54351) merged on August 26, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54351) over 3 weeks, 126 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; [Android] Drops semantics query when app is not attached
-  <sub>[#52040](https://github.com/flutter/engine/pull/52040) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/52040) over 4 months, 67 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate`header_guard_check` to `package:test`.
+  <sub>[#54811](https://github.com/flutter/engine/pull/54811) merged on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54811) over 1 day, 102 additions and 51 deletions in 4 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure that srcOver to src conversion takes stroke coverage into account.
   <sub>[#54817](https://github.com/flutter/engine/pull/54817) merged on August 28, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/54817) over 20 hours, 228 additions and 105 deletions in 29 files</sub>
@@ -661,25 +665,25 @@
   <sub>[#54810](https://github.com/flutter/engine/pull/54810) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54810) over 1 hour, 8 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Disable impeller cmake test until it is fixed
-  <sub>[#54788](https://github.com/flutter/engine/pull/54788) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54788) over 2 hours, 0 additions and 37 deletions in 2 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; clangd_check: write .clangd as part of test
+  <sub>[#54766](https://github.com/flutter/engine/pull/54766) merged on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54766) over 22 hours, 17 additions and 12 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add an ios noop context.
+  <sub>[#54856](https://github.com/flutter/engine/pull/54856) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54856) over 3 hours, 140 additions and 5 deletions in 7 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--disable-dart-dev` across `flutter/engine`.
   <sub>[#54845](https://github.com/flutter/engine/pull/54845) merged on August 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54845) over 6 hours, 22 additions and 37 deletions in 18 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate`header_guard_check` to `package:test`.
-  <sub>[#54811](https://github.com/flutter/engine/pull/54811) merged on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54811) over 1 day, 102 additions and 51 deletions in 4 files</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete impeller image class.
   <sub>[#54767](https://github.com/flutter/engine/pull/54767) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54767) over 5 hours, 42 additions and 114 deletions in 18 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Revert dart to b81b344a194f
-  <sub>[#54782](https://github.com/flutter/engine/pull/54782) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54782) over 1 hour, 4 additions and 4 deletions in 3 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; Disable impeller cmake test until it is fixed
+  <sub>[#54788](https://github.com/flutter/engine/pull/54788) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54788) over 2 hours, 0 additions and 37 deletions in 2 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: Add @available check at macOS 12 workaround
   <sub>[#54784](https://github.com/flutter/engine/pull/54784) merged on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54784) over 3 hours, 43 additions and 28 deletions in 2 files</sub>
@@ -689,17 +693,13 @@
   <sub>[#54787](https://github.com/flutter/engine/pull/54787) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54787) over 1 hour, 21 additions and 28 deletions in 3 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; clangd_check: write .clangd as part of test
-  <sub>[#54766](https://github.com/flutter/engine/pull/54766) merged on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54766) over 22 hours, 17 additions and 12 deletions in 3 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Ensure orchestrators aren't assigned to 32 core machines
   <sub>[#54754](https://github.com/flutter/engine/pull/54754) merged on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54754) over 2 days, 73 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use TRUE/FALSE consistently for gboolean values.
-  <sub>[#54768](https://github.com/flutter/engine/pull/54768) merged on August 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54768) over 23 hours, 16 additions and 16 deletions in 5 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; Revert dart to b81b344a194f
+  <sub>[#54782](https://github.com/flutter/engine/pull/54782) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54782) over 1 hour, 4 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Lukasz Anforowicz](https://github.com/anforowicz)** &mdash; Use GNI group instead of hardcoding PNG codecs source files.
   <sub>[#54781](https://github.com/flutter/engine/pull/54781) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54781) over 2 hours, 2 additions and 4 deletions in 1 file</sub>
@@ -716,6 +716,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Store a set of layers per view.
   <sub>[#54793](https://github.com/flutter/engine/pull/54793) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54793) over 4 hours, 45 additions and 27 deletions in 4 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use TRUE/FALSE consistently for gboolean values.
+  <sub>[#54768](https://github.com/flutter/engine/pull/54768) merged on August 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54768) over 23 hours, 16 additions and 16 deletions in 5 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from b81b344a194f to 8334290a421b (12 revisions)
   <sub>[#54813](https://github.com/flutter/engine/pull/54813) merged on August 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54813) over 1 hour, 4 additions and 4 deletions in 3 files</sub>
