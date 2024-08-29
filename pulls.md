@@ -59,9 +59,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
   <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Minor Formatting<br />
-  <sub>[#154210](https://github.com/flutter/flutter/pull/154210) opened on on August 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154210) 5 additions and 4 deletions in 2 files</sub><br />
-
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Improve Documentation for ResizeImage Dimensions and Usage<br />
   <sub>[#154212](https://github.com/flutter/flutter/pull/154212) opened on on August 27, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/154212) 17 additions and 0 deletions in 1 file</sub><br />
 
