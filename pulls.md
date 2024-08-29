@@ -57,7 +57,7 @@
   <sub>[#154212](https://github.com/flutter/flutter/pull/154212) opened on on August 27, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/154212) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
-  <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154217) 88 additions and 7 deletions in 3 files</sub><br />
+  <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154217) 88 additions and 7 deletions in 3 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT<br />
   <sub>[#154357](https://github.com/flutter/flutter/pull/154357) opened on on August 29, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154357) 11841 additions and 15597 deletions in 955 files</sub><br />

@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-38 commits.
+40 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
@@ -52,21 +52,25 @@
   <sub>[#154133](https://github.com/flutter/flutter/pull/154133) merged on August 28, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/154133) over 1 day, 136 additions and 36 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Navaron Bracke](https://github.com/navaronbracke), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; validate and commit after regenerating gradle lockfiles from pub autoroller<br />
+  <sub>[#154152](https://github.com/flutter/flutter/pull/154152) merged on August 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154152) over 2 days, 199 additions and 12 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add missing tests for `requestFocus` routes parameter in Material and  Cupertino libraries<br />
   <sub>[#154005](https://github.com/flutter/flutter/pull/154005) merged on August 28, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/154005) over 5 days, 443 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add comment document to fontFamily in the IconData<br />
-  <sub>[#154150](https://github.com/flutter/flutter/pull/154150) merged on August 28, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154150) over 1 day, 11 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Tirth](https://github.com/piedcipher)</sub><br />
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fix `getFullHeightForCaret` when strut is disabled.<br />
+  <sub>[#154039](https://github.com/flutter/flutter/pull/154039) merged on August 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154039) over 2 days, 46 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Defer overlay child layout if the target overlay is currently laying out its size-determining child<br />
   <sub>[#154222](https://github.com/flutter/flutter/pull/154222) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154222) over 23 hours, 47 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; fix `getFullHeightForCaret` when strut is disabled.<br />
-  <sub>[#154039](https://github.com/flutter/flutter/pull/154039) merged on August 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154039) over 2 days, 46 additions and 5 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add comment document to fontFamily in the IconData<br />
+  <sub>[#154150](https://github.com/flutter/flutter/pull/154150) merged on August 28, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154150) over 1 day, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Tirth](https://github.com/piedcipher)</sub><br />
 
 * **[Husnul Aman](https://github.com/iam-amanxz)** &mdash; Added missing test for SelectionArea example<br />
   <sub>[#151585](https://github.com/flutter/flutter/pull/151585) merged on August 26, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/151585) over 1 month, 40 additions and 1 deletion in 2 files</sub><br />
@@ -100,37 +104,41 @@
   <sub>[#154339](https://github.com/flutter/flutter/pull/154339) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154339) over 57 minutes, 10 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix AlertDialog.adaptive clipBehavior is non-nullable<br />
+  <sub>[#154173](https://github.com/flutter/flutter/pull/154173) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154173) over 1 hour, 7 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
 * **[Tirth](https://github.com/piedcipher)** &mdash; Minor Formatting<br />
   <sub>[#154210](https://github.com/flutter/flutter/pull/154210) merged on August 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154210) over 1 day, 5 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message<br />
-  <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Uninstall microbenchmarks before running them.<br />
   <sub>[#154183](https://github.com/flutter/flutter/pull/154183) merged on August 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154183) over 45 minutes, 12 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix AlertDialog.adaptive clipBehavior is non-nullable<br />
-  <sub>[#154173](https://github.com/flutter/flutter/pull/154173) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154173) over 1 hour, 7 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Temporarily mark `Linux customer_testing` as bringup: true.<br />
   <sub>[#154297](https://github.com/flutter/flutter/pull/154297) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154297) over 2 hours, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove scorecards and other badging with broken links<br />
+  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154272) over 1 hour, 0 additions and 57 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message<br />
+  <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make sure `usesUnsupportedDependencyVersions` property exists before checking it<br />
+  <sub>[#154121](https://github.com/flutter/flutter/pull/154121) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154121) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak tracker.<br />
   <sub>[#154157](https://github.com/flutter/flutter/pull/154157) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154157) over 1 day, 146 additions and 146 deletions in 49 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make sure `usesUnsupportedDependencyVersions` property exists before checking it<br />
-  <sub>[#154121](https://github.com/flutter/flutter/pull/154121) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154121) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove scorecards and other badging with broken links<br />
-  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154272) over 1 hour, 0 additions and 57 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update `flutter build apk -h` to indicate that target arch is not supported in debug mode. <br />
+  <sub>[#154111](https://github.com/flutter/flutter/pull/154111) merged on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154111) over 4 hours, 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add M3 Intrinsic width tests for InputDecoration<br />
   <sub>[#154098](https://github.com/flutter/flutter/pull/154098) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154098) over 10 hours, 66 additions and 0 deletions in 1 file</sub><br />
@@ -140,25 +148,25 @@
   <sub>[#154105](https://github.com/flutter/flutter/pull/154105) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154105) over 6 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Launch DDS using `DartDevelopmentServiceLauncher`<br />
+  <sub>[#154015](https://github.com/flutter/flutter/pull/154015) merged on August 29, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/154015) over 6 days, 104 additions and 245 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `Scrollable.ensureVisible` document clearer that it would scroll all enclosing `Scrollable`<br />
   <sub>[#154321](https://github.com/flutter/flutter/pull/154321) merged on August 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154321) over 10 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Don't remove `toString` implementations while in debug mode.<br />
-  <sub>[#154216](https://github.com/flutter/flutter/pull/154216) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154216) over 20 hours, 39 additions and 11 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Add ability to provide selectableDayPredicate for showDateRangePicker<br />
   <sub>[#154090](https://github.com/flutter/flutter/pull/154090) merged on August 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154090) over 12 hours, 179 additions and 19 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Don't remove `toString` implementations while in debug mode.<br />
+  <sub>[#154216](https://github.com/flutter/flutter/pull/154216) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154216) over 20 hours, 39 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub><br />
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add warning if changing flutterEmbedding string.<br />
   <sub>[#154181](https://github.com/flutter/flutter/pull/154181) merged on August 28, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154181) over 1 day, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update `flutter build apk -h` to indicate that target arch is not supported in debug mode. <br />
-  <sub>[#154111](https://github.com/flutter/flutter/pull/154111) merged on August 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154111) over 4 hours, 3 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 ### August 17, 2024 to August 23, 2024
 
