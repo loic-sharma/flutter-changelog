@@ -1172,7 +1172,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-11 commits.
+12 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in_ios] Fix "callee requires a non-null parameter" analyzer warning<br />
   <sub>[#7513](https://github.com/flutter/packages/pull/7513) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7513) over 20 hours, 29 additions and 35 deletions in 3 files</sub><br />
@@ -1182,6 +1182,10 @@
 * **[Abdelaziz Mahdy](https://github.com/abdelaziz-mahdy)** &mdash; [video_player] Updates minimum supported SDK<br />
   <sub>[#7498](https://github.com/flutter/packages/pull/7498) merged on August 26, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7498) over 13 hours, 192 additions and 57 deletions in 6 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] allow gen of unused classes<br />
+  <sub>[#7529](https://github.com/flutter/packages/pull/7529) merged on August 29, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/7529) over 1 day, 640 additions and 131 deletions in 31 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for remaining methods of the Android native `AdsManager` <br />
   <sub>[#7437](https://github.com/flutter/packages/pull/7437) merged on August 28, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/7437) over 1 week, 1244 additions and 960 deletions in 9 files</sub><br />
