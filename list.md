@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-28 commits.
+29 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub>
@@ -42,6 +42,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add missing tests for `requestFocus` routes parameter in Material and  Cupertino libraries
   <sub>[#154005](https://github.com/flutter/flutter/pull/154005) merged on August 28, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/154005) over 5 days, 443 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Defer overlay child layout if the target overlay is currently laying out its size-determining child
+  <sub>[#154222](https://github.com/flutter/flutter/pull/154222) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154222) over 23 hours, 47 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add comment document to fontFamily in the IconData
   <sub>[#154150](https://github.com/flutter/flutter/pull/154150) merged on August 28, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154150) over 1 day, 11 additions and 0 deletions in 1 file</sub>
