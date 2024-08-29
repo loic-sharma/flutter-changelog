@@ -59,3 +59,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT<br />
   <sub>[#154357](https://github.com/flutter/flutter/pull/154357) opened on on August 29, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154357) 11841 additions and 15597 deletions in 955 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Get reasonable output when a stream test fails.<br />
+  <sub>[#154377](https://github.com/flutter/flutter/pull/154377) opened on on August 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154377) 7 additions and 3 deletions in 1 file</sub><br />
+
