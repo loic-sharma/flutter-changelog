@@ -45,7 +45,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; handle `HttpException`s coming from `ChromeTab.connect`<br />
-  <sub>[#153978](https://github.com/flutter/flutter/pull/153978) merged on August 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/153978) over 4 days, 73 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#153978](https://github.com/flutter/flutter/pull/153978) merged on August 27, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/153978) over 4 days, 73 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Scroll CupertinoContextMenu if items overflow<br />
@@ -1148,7 +1148,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-10 commits.
+11 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in_ios] Fix "callee requires a non-null parameter" analyzer warning<br />
   <sub>[#7513](https://github.com/flutter/packages/pull/7513) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7513) over 20 hours, 29 additions and 35 deletions in 3 files</sub><br />
@@ -1170,6 +1170,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Cupertino icons golden tests<br />
   <sub>[#7421](https://github.com/flutter/packages/pull/7421) merged on August 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/7421) over 1 week, 107 additions and 0 deletions in 68 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Increase deprecation check minimum to iOS 14 and macOS 13<br />
+  <sub>[#7431](https://github.com/flutter/packages/pull/7431) merged on August 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7431) over 1 week, 4 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove matan from codeowners<br />
   <sub>[#7511](https://github.com/flutter/packages/pull/7511) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7511) over 1 day, 2 additions and 3 deletions in 1 file</sub><br />
