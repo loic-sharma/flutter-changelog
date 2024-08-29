@@ -1329,7 +1329,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-4 commits.
+5 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for new Material 3 `Slider` shapes<br />
+  <sub>[#11087](https://github.com/flutter/website/pull/11087) merged on August 29, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11087) over 2 days, 104 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix build failure and update other deps<br />
   <sub>[#11090](https://github.com/flutter/website/pull/11090) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11090) over 33 minutes, 128 additions and 125 deletions in 2 files</sub><br />
