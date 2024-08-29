@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-30 commits.
+31 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
@@ -18,6 +18,11 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactored HeroController logic to handle complex cases<br />
   <sub>[#150027](https://github.com/flutter/flutter/pull/150027) merged on August 28, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/150027) over 2 months, 303 additions and 45 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `IconButton` doesn't show `Tooltip` when hovering within the button area but outside the `Icon`<br />
+  <sub>[#153691](https://github.com/flutter/flutter/pull/153691) merged on August 29, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/153691) over 1 week, 125 additions and 33 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="579" alt="Screenshot 2024-08-19 at 15 30 35" src="https://github.com/user-attachments/assets/fd2a65f1-f30d-4907-a2d9-c11dc59efb2b"><img width="579" alt="Screenshot 2024-08-19 at 15 30 09" src="https://github.com/user-attachments/assets/b2b4dba7-4d0a-44c9-b1e1-742a900ffd8a"></details></sub>
 
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add test for error_widget.0_test.dart<br />
   <sub>[#153103](https://github.com/flutter/flutter/pull/153103) merged on August 26, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/153103) over 2 weeks, 74 additions and 10 deletions in 3 files</sub><br />
