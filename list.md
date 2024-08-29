@@ -53,7 +53,7 @@
   <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Navaron Bracke](https://github.com/navaronbracke), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add missing tests for `requestFocus` routes parameter in Material and  Cupertino libraries
-  <sub>[#154005](https://github.com/flutter/flutter/pull/154005) merged on August 28, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/154005) over 5 days, 443 additions and 0 deletions in 5 files</sub>
+  <sub>[#154005](https://github.com/flutter/flutter/pull/154005) merged on August 28, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/154005) over 5 days, 443 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add comment document to fontFamily in the IconData
@@ -1344,7 +1344,7 @@
 7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for new Material 3 `Slider` shapes
-  <sub>[#11087](https://github.com/flutter/website/pull/11087) merged on August 29, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/11087) over 2 days, 104 additions and 0 deletions in 2 files</sub>
+  <sub>[#11087](https://github.com/flutter/website/pull/11087) merged on August 29, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/11087) over 2 days, 104 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix build failure and update other deps
