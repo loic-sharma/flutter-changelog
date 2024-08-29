@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
-  <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
+  <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
 
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
   <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
@@ -36,7 +36,7 @@
   <sub>[#153854](https://github.com/flutter/flutter/pull/153854) opened on on August 21, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/153854) 341 additions and 5 deletions in 3 files</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
-  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/153973) 62 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/153973) 62 additions and 2 deletions in 3 files</sub><br />
 
 * **[Paul Grandperrin](https://github.com/PaulGrandperrin)** &mdash; flutter-web: fix access to manifest with authentication<br />
   <sub>[#154012](https://github.com/flutter/flutter/pull/154012) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154012) 19 additions and 19 deletions in 16 files</sub><br />
@@ -70,7 +70,4 @@
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Make `Scrollable.ensureVisible` document clearer that it would scroll all enclosing `Scrollable`<br />
   <sub>[#154321](https://github.com/flutter/flutter/pull/154321) opened on on August 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154321) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for customer_testing test step<br />
-  <sub>[#154339](https://github.com/flutter/flutter/pull/154339) opened on on August 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154339) 10 additions and 1 deletion in 1 file</sub><br />
 
