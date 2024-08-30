@@ -41,6 +41,10 @@
   <sub>[#150793](https://github.com/flutter/flutter/pull/150793) merged on August 29, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/150793) over 2 months, 155 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Scroll CupertinoContextMenu if items overflow<br />
+  <sub>[#154133](https://github.com/flutter/flutter/pull/154133) merged on August 28, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/154133) over 1 day, 136 additions and 36 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Navaron Bracke](https://github.com/navaronbracke), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Drawer` prematurely snapping<br />
   <sub>[#153955](https://github.com/flutter/flutter/pull/153955) merged on August 29, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/153955) over 6 days, 68 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -56,10 +60,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; handle `HttpException`s coming from `ChromeTab.connect`<br />
   <sub>[#153978](https://github.com/flutter/flutter/pull/153978) merged on August 27, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/153978) over 4 days, 73 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Scroll CupertinoContextMenu if items overflow<br />
-  <sub>[#154133](https://github.com/flutter/flutter/pull/154133) merged on August 28, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/154133) over 1 day, 136 additions and 36 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Navaron Bracke](https://github.com/navaronbracke), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add missing tests for `requestFocus` routes parameter in Material and  Cupertino libraries<br />
   <sub>[#154005](https://github.com/flutter/flutter/pull/154005) merged on August 28, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/154005) over 5 days, 443 additions and 0 deletions in 5 files</sub><br />
