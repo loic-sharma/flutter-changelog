@@ -63,8 +63,11 @@
   <sub>[#154417](https://github.com/flutter/flutter/pull/154417) opened on on August 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/154417) 342 additions and 1 deletion in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve 'flutter downgrade' error message<br />
-  <sub>[#154434](https://github.com/flutter/flutter/pull/154434) opened on on August 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154434) 37 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#154434](https://github.com/flutter/flutter/pull/154434) opened on on August 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154434) 37 additions and 11 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; improve trace logging in packages autoroller<br />
   <sub>[#154441](https://github.com/flutter/flutter/pull/154441) opened on on August 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154441) 52 additions and 34 deletions in 4 files</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; increase Linux build_test shard count from 3 to 5<br />
+  <sub>[#154444](https://github.com/flutter/flutter/pull/154444) opened on on August 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154444) 44 additions and 6 deletions in 1 file</sub><br />
 
