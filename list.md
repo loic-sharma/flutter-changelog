@@ -1250,7 +1250,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-18 commits.
+19 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Kotlin implementation for ProxyApis 
   <sub>[#6371](https://github.com/flutter/packages/pull/6371) merged on August 30, 2024 &mdash; **Extra large:** [76 comments](https://github.com/flutter/packages/pull/6371) over 5 months, 8733 additions and 189 deletions in 26 files</sub>
@@ -1304,6 +1304,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove matan from codeowners
   <sub>[#7511](https://github.com/flutter/packages/pull/7511) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7511) over 1 day, 2 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Compare breakpoints
+  <sub>[#7531](https://github.com/flutter/packages/pull/7531) merged on August 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7531) over 1 day, 270 additions and 8 deletions in 5 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes bug where ad can replay during content playback
   <sub>[#7537](https://github.com/flutter/packages/pull/7537) merged on August 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7537) over 1 day, 103 additions and 62 deletions in 10 files</sub>

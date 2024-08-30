@@ -69,5 +69,5 @@
   <sub>[#154441](https://github.com/flutter/flutter/pull/154441) opened on on August 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154441) 52 additions and 34 deletions in 4 files</sub><br />
 
 * **[Phil Quitslund](https://github.com/pq)** &mdash; sort part directives<br />
-  <sub>[#154456](https://github.com/flutter/flutter/pull/154456) opened on on August 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154456) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#154456](https://github.com/flutter/flutter/pull/154456) opened on on August 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154456) 2 additions and 1 deletion in 1 file</sub><br />
 
