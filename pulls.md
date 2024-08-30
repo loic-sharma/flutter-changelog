@@ -66,5 +66,5 @@
   <sub>[#154405](https://github.com/flutter/flutter/pull/154405) opened on on August 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154405) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Vasiliy Ditsyak](https://github.com/vasilich6107)** &mdash; Fix CheckboxListTile missing properties pass through<br />
-  <sub>[#154417](https://github.com/flutter/flutter/pull/154417) opened on on August 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/154417) 340 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#154417](https://github.com/flutter/flutter/pull/154417) opened on on August 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/154417) 342 additions and 1 deletion in 2 files</sub><br />
 
