@@ -127,7 +127,7 @@
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Run all microbenchmarks<br />
-  <sub>[#154374](https://github.com/flutter/flutter/pull/154374) merged on August 30, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/154374) over 19 hours, 201 additions and 105 deletions in 26 files</sub><br />
+  <sub>[#154374](https://github.com/flutter/flutter/pull/154374) merged on August 30, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/154374) over 19 hours, 201 additions and 105 deletions in 26 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Android predictive back should work after returning to the app from a notification<br />
