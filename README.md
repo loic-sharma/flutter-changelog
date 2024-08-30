@@ -675,6 +675,10 @@
   <sub>[#54879](https://github.com/flutter/engine/pull/54879) merged on August 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54879) over 2 hours, 102 additions and 3 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Hooks up framework wide gamut to engine wide gamut<br />
+  <sub>[#54567](https://github.com/flutter/engine/pull/54567) merged on August 29, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/54567) over 2 weeks, 10 additions and 12 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Use multiple command buffers for blur submission.<br />
   <sub>[#54846](https://github.com/flutter/engine/pull/54846) merged on August 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54846) over 6 hours, 25 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -682,10 +686,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] fix missing color conversion in drawAtlas.<br />
   <sub>[#54750](https://github.com/flutter/engine/pull/54750) merged on August 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54750) over 2 days, 53 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Hooks up framework wide gamut to engine wide gamut<br />
-  <sub>[#54567](https://github.com/flutter/engine/pull/54567) merged on August 29, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/54567) over 2 weeks, 10 additions and 12 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate another big chunk of the engine repo to `package:test`<br />
   <sub>[#54853](https://github.com/flutter/engine/pull/54853) merged on August 29, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/54853) over 16 hours, 237 additions and 254 deletions in 39 files</sub><br />
@@ -816,7 +816,7 @@
   <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: Framework wide color (#54415)<br />
-  <sub>[#54737](https://github.com/flutter/engine/pull/54737) merged on August 29, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/engine/pull/54737) over 6 days, 811 additions and 80 deletions in 6 files</sub><br />
+  <sub>[#54737](https://github.com/flutter/engine/pull/54737) merged on August 29, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/54737) over 6 days, 811 additions and 80 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from b81b344a194f to 8334290a421b (12 revisions)<br />
