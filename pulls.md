@@ -35,9 +35,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; remove branch and presubmit constraints on verify binaries test<br />
   <sub>[#154034](https://github.com/flutter/flutter/pull/154034) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154034) 0 additions and 6 deletions in 1 file</sub><br />
 
-* **[Dimil Kalathiya](https://github.com/Dimilkalathiya)** &mdash; Expose long press in ```CupertinoButton```<br />
-  <sub>[#154052](https://github.com/flutter/flutter/pull/154052) opened on on August 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154052) 40 additions and 3 deletions in 2 files</sub><br />
-
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/154057) 118 additions and 1 deletion in 3 files</sub><br />
 
