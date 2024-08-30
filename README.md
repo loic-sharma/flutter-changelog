@@ -1467,11 +1467,15 @@
 
 ### August 24, 2024 to August 30, 2024
 
-7 commits.
+9 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for new Material 3 `Slider` shapes<br />
   <sub>[#11087](https://github.com/flutter/website/pull/11087) merged on August 29, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/11087) over 2 days, 104 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Expand instructions on how to switch to specific version<br />
+  <sub>[#11098](https://github.com/flutter/website/pull/11098) merged on August 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11098) over 5 hours, 23 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix build failure and update other deps<br />
   <sub>[#11090](https://github.com/flutter/website/pull/11090) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11090) over 33 minutes, 128 additions and 125 deletions in 2 files</sub><br />
@@ -1484,6 +1488,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Add-to-app] Add Xcode 16 warning to CocoaPods instructions<br />
   <sub>[#11078](https://github.com/flutter/website/pull/11078) merged on August 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11078) over 3 days, 9 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Remove erroneous line about MapKit<br />
+  <sub>[#11097](https://github.com/flutter/website/pull/11097) merged on August 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11097) over 6 hours, 1 addition and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Chetankumar Akarte](https://github.com/Chetankumar-Akarte)** &mdash; Add new ebook - The Flutter Foundation - A Comprehensive Guide for Technical Interviews and Beyond<br />
   <sub>[#11086](https://github.com/flutter/website/pull/11086) merged on August 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11086) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
