@@ -1238,11 +1238,15 @@
 
 ### August 24, 2024 to August 30, 2024
 
-17 commits.
+18 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Kotlin implementation for ProxyApis <br />
   <sub>[#6371](https://github.com/flutter/packages/pull/6371) merged on August 30, 2024 &mdash; **Extra large:** [76 comments](https://github.com/flutter/packages/pull/6371) over 5 months, 8733 additions and 189 deletions in 26 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds support for collections of enums and classes<br />
+  <sub>[#7476](https://github.com/flutter/packages/pull/7476) merged on August 30, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/7476) over 1 week, 20688 additions and 2647 deletions in 35 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in_ios] Fix "callee requires a non-null parameter" analyzer warning<br />
   <sub>[#7513](https://github.com/flutter/packages/pull/7513) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7513) over 20 hours, 29 additions and 35 deletions in 3 files</sub><br />
