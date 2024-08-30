@@ -39,7 +39,7 @@
   <sub>[#154052](https://github.com/flutter/flutter/pull/154052) opened on on August 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154052) 29 additions and 3 deletions in 2 files</sub><br />
 
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
-  <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/154057) 116 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/154057) 115 additions and 1 deletion in 3 files</sub><br />
 
 * **[Quyen Le Van](https://github.com/quyenvsp)** &mdash; Fix TextOverflow ellipsis with TextStyle height 1 cut off the letter<br />
   <sub>[#154086](https://github.com/flutter/flutter/pull/154086) opened on on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154086) 2 additions and 1 deletion in 1 file</sub><br />
