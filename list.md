@@ -1209,7 +1209,11 @@
 
 ### August 24, 2024 to August 30, 2024
 
-15 commits.
+16 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Kotlin implementation for ProxyApis 
+  <sub>[#6371](https://github.com/flutter/packages/pull/6371) merged on August 30, 2024 &mdash; **Extra large:** [76 comments](https://github.com/flutter/packages/pull/6371) over 5 months, 8733 additions and 189 deletions in 26 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_sign_in_ios] Fix "callee requires a non-null parameter" analyzer warning
   <sub>[#7513](https://github.com/flutter/packages/pull/7513) merged on August 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7513) over 20 hours, 29 additions and 35 deletions in 3 files</sub>
