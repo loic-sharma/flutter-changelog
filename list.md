@@ -4,7 +4,7 @@
 
 ### August 24, 2024 to August 30, 2024
 
-54 commits.
+55 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub>
@@ -66,9 +66,9 @@
   <sub>[#153978](https://github.com/flutter/flutter/pull/153978) merged on August 27, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/153978) over 4 days, 73 additions and 12 deletions in 4 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make ViewAnchor a LookupBoundary
-  <sub>[#154300](https://github.com/flutter/flutter/pull/154300) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154300) over 23 hours, 91 additions and 11 deletions in 4 files</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; unpin path_provider_android
+  <sub>[#154369](https://github.com/flutter/flutter/pull/154369) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154369) over 59 minutes, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; validate and commit after regenerating gradle lockfiles from pub autoroller
   <sub>[#154152](https://github.com/flutter/flutter/pull/154152) merged on August 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154152) over 2 days, 199 additions and 12 deletions in 4 files</sub>
@@ -82,9 +82,9 @@
   <sub>[#154052](https://github.com/flutter/flutter/pull/154052) merged on August 30, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/154052) over 6 days, 40 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; unpin path_provider_android
-  <sub>[#154369](https://github.com/flutter/flutter/pull/154369) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154369) over 59 minutes, 0 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Make ViewAnchor a LookupBoundary
+  <sub>[#154300](https://github.com/flutter/flutter/pull/154300) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154300) over 23 hours, 91 additions and 11 deletions in 4 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; increase Linux build_test shard count from 3 to 5
   <sub>[#154444](https://github.com/flutter/flutter/pull/154444) merged on August 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154444) over 1 hour, 49 additions and 6 deletions in 1 file</sub>
@@ -130,6 +130,10 @@
   <sub>[#153987](https://github.com/flutter/flutter/pull/153987) merged on August 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153987) over 3 days, 5 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; improve trace logging in packages autoroller
+  <sub>[#154441](https://github.com/flutter/flutter/pull/154441) merged on August 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154441) over 3 hours, 52 additions and 34 deletions in 4 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Run all microbenchmarks (part trois)
   <sub>[#154446](https://github.com/flutter/flutter/pull/154446) merged on August 30, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/154446) over 38 minutes, 206 additions and 105 deletions in 27 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -138,21 +142,25 @@
   <sub>[#154374](https://github.com/flutter/flutter/pull/154374) merged on August 30, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/154374) over 19 hours, 201 additions and 105 deletions in 26 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Android predictive back should work after returning to the app from a notification
-  <sub>[#154313](https://github.com/flutter/flutter/pull/154313) merged on August 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154313) over 1 day, 11 additions and 9 deletions in 2 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make sure `usesUnsupportedDependencyVersions` property exists before checking it
+  <sub>[#154121](https://github.com/flutter/flutter/pull/154121) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154121) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Uninstall microbenchmarks before running them.
-  <sub>[#154183](https://github.com/flutter/flutter/pull/154183) merged on August 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154183) over 45 minutes, 12 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for customer_testing test step
+  <sub>[#154339](https://github.com/flutter/flutter/pull/154339) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154339) over 57 minutes, 10 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message
+  <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Minor Formatting
   <sub>[#154210](https://github.com/flutter/flutter/pull/154210) merged on August 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154210) over 1 day, 5 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make sure `usesUnsupportedDependencyVersions` property exists before checking it
-  <sub>[#154121](https://github.com/flutter/flutter/pull/154121) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154121) over 1 day, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Uninstall microbenchmarks before running them.
+  <sub>[#154183](https://github.com/flutter/flutter/pull/154183) merged on August 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154183) over 45 minutes, 12 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Add verbose logging for customer testing shard
   <sub>[#154356](https://github.com/flutter/flutter/pull/154356) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154356) over 1 hour, 3 additions and 1 deletion in 1 file</sub>
@@ -162,25 +170,21 @@
   <sub>[#154173](https://github.com/flutter/flutter/pull/154173) merged on August 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154173) over 1 hour, 7 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for customer_testing test step
-  <sub>[#154339](https://github.com/flutter/flutter/pull/154339) merged on August 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154339) over 57 minutes, 10 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak tracker.
+  <sub>[#154157](https://github.com/flutter/flutter/pull/154157) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154157) over 1 day, 146 additions and 146 deletions in 49 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove scorecards and other badging with broken links
+  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154272) over 1 hour, 0 additions and 57 deletions in 2 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Temporarily mark `Linux customer_testing` as bringup: true.
   <sub>[#154297](https://github.com/flutter/flutter/pull/154297) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154297) over 2 hours, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak tracker.
-  <sub>[#154157](https://github.com/flutter/flutter/pull/154157) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154157) over 1 day, 146 additions and 146 deletions in 49 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Windows] Improve symlink ERROR_ACCESS_DENIED error message
-  <sub>[#154030](https://github.com/flutter/flutter/pull/154030) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154030) over 2 days, 64 additions and 15 deletions in 2 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove scorecards and other badging with broken links
-  <sub>[#154272](https://github.com/flutter/flutter/pull/154272) merged on August 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154272) over 1 hour, 0 additions and 57 deletions in 2 files</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Android predictive back should work after returning to the app from a notification
+  <sub>[#154313](https://github.com/flutter/flutter/pull/154313) merged on August 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154313) over 1 day, 11 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--disable-dart-dev` across `flutter/flutter`.
   <sub>[#154280](https://github.com/flutter/flutter/pull/154280) merged on August 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154280) over 1 day, 6 additions and 41 deletions in 18 files</sub>
