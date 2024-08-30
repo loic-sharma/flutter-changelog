@@ -60,5 +60,5 @@
   <sub>[#154377](https://github.com/flutter/flutter/pull/154377) opened on on August 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154377) 7 additions and 3 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AnimatedValue<T>` for implicit animations<br />
-  <sub>[#154378](https://github.com/flutter/flutter/pull/154378) opened on on August 29, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/154378) 826 additions and 153 deletions in 6 files</sub><br />
+  <sub>[#154378](https://github.com/flutter/flutter/pull/154378) opened on on August 29, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/154378) 826 additions and 153 deletions in 6 files</sub><br />
 
