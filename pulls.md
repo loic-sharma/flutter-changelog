@@ -68,3 +68,6 @@
 * **[Phil Quitslund](https://github.com/pq)** &mdash; sort part directives<br />
   <sub>[#154456](https://github.com/flutter/flutter/pull/154456) opened on on August 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154456) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Bugfix: LinearProgressIndicator is referring to wrong color theme for the background color.<br />
+  <sub>[#154470](https://github.com/flutter/flutter/pull/154470) opened on on August 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154470) 34 additions and 5 deletions in 2 files</sub><br />
+
