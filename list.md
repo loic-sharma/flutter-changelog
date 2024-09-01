@@ -131,7 +131,7 @@
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; improve trace logging in packages autoroller
-  <sub>[#154441](https://github.com/flutter/flutter/pull/154441) merged on August 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154441) over 3 hours, 52 additions and 34 deletions in 4 files</sub>
+  <sub>[#154441](https://github.com/flutter/flutter/pull/154441) merged on August 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154441) over 3 hours, 52 additions and 34 deletions in 4 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Run all microbenchmarks (part trois)
