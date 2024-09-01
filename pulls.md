@@ -74,3 +74,6 @@
 * **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`<br />
   <sub>[#154473](https://github.com/flutter/flutter/pull/154473) opened on on August 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154473) 4 additions and 4 deletions in 2 files</sub><br />
 
+* **[hgraceb](https://github.com/hgraceb)** &mdash; Fix TabBar crash with SliverAppBar<br />
+  <sub>[#154485](https://github.com/flutter/flutter/pull/154485) opened on on September 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154485) 54 additions and 3 deletions in 2 files</sub><br />
+
