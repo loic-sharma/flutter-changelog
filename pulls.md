@@ -27,7 +27,7 @@
   <sub>[#153722](https://github.com/flutter/flutter/pull/153722) opened on on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153722) 90 additions and 86 deletions in 74 files</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
-  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/153973) 86 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/153973) 94 additions and 2 deletions in 3 files</sub><br />
 
 * **[Paul Grandperrin](https://github.com/PaulGrandperrin)** &mdash; flutter-web: fix access to manifest with authentication<br />
   <sub>[#154012](https://github.com/flutter/flutter/pull/154012) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154012) 19 additions and 19 deletions in 16 files</sub><br />
@@ -72,7 +72,7 @@
   <sub>[#154470](https://github.com/flutter/flutter/pull/154470) opened on on August 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154470) 34 additions and 5 deletions in 2 files</sub><br />
 
 * **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`<br />
-  <sub>[#154473](https://github.com/flutter/flutter/pull/154473) opened on on August 31, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154473) 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#154473](https://github.com/flutter/flutter/pull/154473) opened on on August 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154473) 3 additions and 3 deletions in 1 file</sub><br />
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Fix TabBar crash with SliverAppBar<br />
   <sub>[#154485](https://github.com/flutter/flutter/pull/154485) opened on on September 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154485) 57 additions and 6 deletions in 4 files</sub><br />
