@@ -27,7 +27,7 @@
   <sub>[#153722](https://github.com/flutter/flutter/pull/153722) opened on on August 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153722) 90 additions and 86 deletions in 74 files</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
-  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/153973) 94 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/153973) 96 additions and 2 deletions in 3 files</sub><br />
 
 * **[Paul Grandperrin](https://github.com/PaulGrandperrin)** &mdash; flutter-web: fix access to manifest with authentication<br />
   <sub>[#154012](https://github.com/flutter/flutter/pull/154012) opened on on August 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154012) 19 additions and 19 deletions in 16 files</sub><br />
