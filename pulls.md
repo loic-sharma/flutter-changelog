@@ -77,3 +77,6 @@
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Fix TabBar crash with SliverAppBar<br />
   <sub>[#154485](https://github.com/flutter/flutter/pull/154485) opened on on September 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154485) 57 additions and 6 deletions in 4 files</sub><br />
 
+* **[Viraj Kanwade](https://github.com/virajkanwade)** &mdash; Updated iPhone enable developer mode instructions<br />
+  <sub>[#154511](https://github.com/flutter/flutter/pull/154511) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154511) 1 addition and 1 deletion in 1 file</sub><br />
+
