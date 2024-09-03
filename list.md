@@ -1137,11 +1137,15 @@
 
 ### August 31, 2024 to September 6, 2024
 
-1 commits.
+2 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add migration guide to opt out of edge-to-edge by default on Android
   <sub>[#11068](https://github.com/flutter/website/pull/11068) merged on September 3, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11068) over 1 week, 103 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Go-link for "zero rebuilds" design doc
+  <sub>[#11103](https://github.com/flutter/website/pull/11103) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11103) over 30 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 ### August 24, 2024 to August 30, 2024
 
