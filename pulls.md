@@ -45,7 +45,7 @@
   <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Improve Documentation for ResizeImage Dimensions and Usage<br />
-  <sub>[#154212](https://github.com/flutter/flutter/pull/154212) opened on on August 27, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/154212) 23 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#154212](https://github.com/flutter/flutter/pull/154212) opened on on August 27, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/154212) 23 additions and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
   <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154217) 88 additions and 7 deletions in 3 files</sub><br />
