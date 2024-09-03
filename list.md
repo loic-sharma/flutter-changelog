@@ -1019,10 +1019,14 @@
 
 ### August 31, 2024 to September 6, 2024
 
-2 commits.
+3 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for pausing and resuming Ad playback and skipping an Ad
   <sub>[#7285](https://github.com/flutter/packages/pull/7285) merged on September 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7285) over 1 month, 465 additions and 24 deletions in 22 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_maps_flutter] Remove unused MapKit imports from iOS example apps
+  <sub>[#7522](https://github.com/flutter/packages/pull/7522) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7522) over 6 days, 0 additions and 11 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [rfw] Upgrade missed example app
