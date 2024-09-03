@@ -84,7 +84,7 @@
   <sub>[#154522](https://github.com/flutter/flutter/pull/154522) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154522) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash; Feat: Add opportunity to change CupertinoTextField suffix alignment <br />
-  <sub>[#154530](https://github.com/flutter/flutter/pull/154530) opened on on September 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154530) 55 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#154530](https://github.com/flutter/flutter/pull/154530) opened on on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154530) 55 additions and 21 deletions in 2 files</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added cupertino list tile example<br />
   <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154548) 76 additions and 0 deletions in 2 files</sub><br />
