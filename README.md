@@ -514,9 +514,18 @@
 
 ## flutter/engine
 
+### August 31, 2024 to September 6, 2024
+
+1 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make FlApplication class<br />
+  <sub>[#54637](https://github.com/flutter/engine/pull/54637) merged on September 3, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/engine/pull/54637) over 2 weeks, 267 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 ### August 24, 2024 to August 30, 2024
 
-48 commits.
+<details>
+<summary>48 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] separate algorithm for computing render target size.<br />
   <sub>[#54604](https://github.com/flutter/engine/pull/54604) merged on August 31, 2024 &mdash; **Large:** [71 comments](https://github.com/flutter/engine/pull/54604) over 1 week, 440 additions and 364 deletions in 17 files</sub><br />
@@ -709,6 +718,8 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Test running the macOS engine has no stray logging"<br />
   <sub>[#54778](https://github.com/flutter/engine/pull/54778) merged on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54778) over 40 minutes, 1 addition and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+</details>
 
 ### August 17, 2024 to August 23, 2024
 
