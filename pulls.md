@@ -2,6 +2,9 @@
 
 ## flutter/flutter
 
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Fix line-wrapping in `flutter create` error message.<br />
+  <sub>[#150325](https://github.com/flutter/flutter/pull/150325) opened on on June 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150325) 18 additions and 13 deletions in 2 files</sub><br />
+
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
   <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
 
