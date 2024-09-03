@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Eugene Kuznietsov](https://github.com/qwertylolman)** &mdash; Remove clip for background of Dismissible. fix for issue 56812<br />
-  <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
+  <sub>[#152405](https://github.com/flutter/flutter/pull/152405) opened on on July 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/152405) 1 addition and 44 deletions in 1 file</sub><br />
 
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
   <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
@@ -40,9 +40,6 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
   <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
-
-* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Improve Documentation for ResizeImage Dimensions and Usage<br />
-  <sub>[#154212](https://github.com/flutter/flutter/pull/154212) opened on on August 27, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/154212) 23 additions and 0 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
   <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154217) 89 additions and 8 deletions in 3 files</sub><br />
