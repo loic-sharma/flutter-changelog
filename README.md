@@ -4,7 +4,12 @@
 
 ### August 31, 2024 to September 6, 2024
 
-18 commits.
+19 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Get reasonable output when a stream test fails.<br />
+  <sub>[#154377](https://github.com/flutter/flutter/pull/154377) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154377) over 4 days, 10 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="627" alt="Screenshot 2024-08-29 at 4 25 43 PM" src="https://github.com/user-attachments/assets/2cc3266e-cc6e-425f-b909-12d7556ff110"><img width="1055" alt="Screenshot 2024-08-29 at 4 26 50 PM" src="https://github.com/user-attachments/assets/8b0ecccc-a7c9-4da7-bf22-15cef24c4cc7"></details></sub>
 
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; set onChangedField function to only update options with new results<br />
   <sub>[#150776](https://github.com/flutter/flutter/pull/150776) merged on September 3, 2024 &mdash; **Small:** [92 comments](https://github.com/flutter/flutter/pull/150776) over 2 months, 289 additions and 6 deletions in 2 files</sub><br />
