@@ -96,5 +96,5 @@
   <sub>[#154551](https://github.com/flutter/flutter/pull/154551) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154551) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverFixedExtentList` & `SliverVariedExtentList`<br />
-  <sub>[#154557](https://github.com/flutter/flutter/pull/154557) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154557) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#154557](https://github.com/flutter/flutter/pull/154557) opened on on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154557) 2 additions and 2 deletions in 1 file</sub><br />
 
