@@ -92,3 +92,6 @@
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash; Feat: Add opportunity to change CupertinoTextField suffix alignment <br />
   <sub>[#154530](https://github.com/flutter/flutter/pull/154530) opened on on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154530) 55 additions and 21 deletions in 2 files</sub><br />
 
+* **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added cupertino example<br />
+  <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154548) 77 additions and 0 deletions in 2 files</sub><br />
+
