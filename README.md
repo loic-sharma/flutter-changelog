@@ -583,11 +583,15 @@
 
 ### August 31, 2024 to September 6, 2024
 
-2 commits.
+3 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make FlApplication class<br />
   <sub>[#54637](https://github.com/flutter/engine/pull/54637) merged on September 3, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/engine/pull/54637) over 2 weeks, 267 additions and 0 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add all requested glyphs if TypographerContextSkia needs to create a new atlas<br />
+  <sub>[#54912](https://github.com/flutter/engine/pull/54912) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54912) over 3 days, 59 additions and 28 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Adreno 630 vulkan and add mechanism for android driver denylisting.<br />
   <sub>[#54920](https://github.com/flutter/engine/pull/54920) merged on September 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54920) over 1 day, 71 additions and 1 deletion in 6 files</sub><br />
