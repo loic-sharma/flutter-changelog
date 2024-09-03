@@ -86,3 +86,6 @@
 * **[Kristen McWilliam](https://github.com/Merrit)** &mdash; fix(Linux): specify application id for Wayland<br />
   <sub>[#154522](https://github.com/flutter/flutter/pull/154522) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154522) 7 additions and 0 deletions in 1 file</sub><br />
 
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Remove unnecessary imports.<br />
+  <sub>[#154527](https://github.com/flutter/flutter/pull/154527) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154527) 0 additions and 3 deletions in 2 files</sub><br />
+
