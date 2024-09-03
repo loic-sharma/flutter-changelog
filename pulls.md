@@ -60,7 +60,7 @@
   <sub>[#154417](https://github.com/flutter/flutter/pull/154417) opened on on August 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/154417) 342 additions and 1 deletion in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve 'flutter downgrade' error message<br />
-  <sub>[#154434](https://github.com/flutter/flutter/pull/154434) opened on on August 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154434) 37 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#154434](https://github.com/flutter/flutter/pull/154434) opened on on August 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154434) 37 additions and 11 deletions in 2 files</sub><br />
 
 * **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Bugfix: LinearProgressIndicator is referring to wrong color theme for the background color.<br />
   <sub>[#154470](https://github.com/flutter/flutter/pull/154470) opened on on August 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154470) 34 additions and 5 deletions in 2 files</sub><br />
