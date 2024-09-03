@@ -95,6 +95,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix duplicate MaterialApp in api example test<br />
   <sub>[#154550](https://github.com/flutter/flutter/pull/154550) opened on on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154550) 3 additions and 13 deletions in 2 files</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for SliverList.separated & SliverList.builder<br />
+* **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverList.separated` & `SliverList.builder`<br />
   <sub>[#154551](https://github.com/flutter/flutter/pull/154551) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154551) 2 additions and 2 deletions in 1 file</sub><br />
 
