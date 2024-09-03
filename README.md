@@ -891,7 +891,7 @@
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: don't bundle simulator dSYMs in xcframework<br />
-  <sub>[#54746](https://github.com/flutter/engine/pull/54746) merged on August 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54746) over 2 hours, 8 additions and 19 deletions in 3 files</sub><br />
+  <sub>[#54746](https://github.com/flutter/engine/pull/54746) merged on August 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54746) over 2 hours, 8 additions and 19 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test running the macOS engine has no stray logging<br />
@@ -1019,10 +1019,14 @@
 
 ### August 31, 2024 to September 6, 2024
 
-3 commits.
+4 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for pausing and resuming Ad playback and skipping an Ad<br />
   <sub>[#7285](https://github.com/flutter/packages/pull/7285) merged on September 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7285) over 1 month, 465 additions and 24 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [google_sign_in_android] Downgrade Guava version from `33.3.0` to `32.0.1`<br />
+  <sub>[#7573](https://github.com/flutter/packages/pull/7573) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7573) over 58 minutes, 6 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [google_maps_flutter] Remove unused MapKit imports from iOS example apps<br />
