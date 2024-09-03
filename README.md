@@ -4,11 +4,19 @@
 
 ### August 31, 2024 to September 6, 2024
 
-7 commits.
+10 commits.
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add Android SDK to Linux packages_autoroller<br />
+  <sub>[#154462](https://github.com/flutter/flutter/pull/154462) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154462) over 3 days, 4 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds wide gamut framework test<br />
   <sub>[#153319](https://github.com/flutter/flutter/pull/153319) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153319) over 3 weeks, 22 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `CircularNotchedRectangle.getOuterPath()`<br />
+  <sub>[#154036](https://github.com/flutter/flutter/pull/154036) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154036) over 1 week, 22 additions and 31 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Improve microbenchmarks a smidge<br />
   <sub>[#154461](https://github.com/flutter/flutter/pull/154461) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154461) over 3 days, 58 additions and 3 deletions in 3 files</sub><br />
@@ -19,8 +27,12 @@
   <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub><br />
 
 * **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`<br />
-  <sub>[#154473](https://github.com/flutter/flutter/pull/154473) merged on September 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154473) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#154473](https://github.com/flutter/flutter/pull/154473) merged on September 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154473) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Darniel Rumple](https://github.com/daniellampl)** &mdash; Fix typing error in AutofillGroup docs<br />
+  <sub>[#154405](https://github.com/flutter/flutter/pull/154405) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154405) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Phil Quitslund](https://github.com/pq)** &mdash; sort part directives<br />
   <sub>[#154456](https://github.com/flutter/flutter/pull/154456) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154456) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -326,6 +338,10 @@
   <sub>[#152431](https://github.com/flutter/flutter/pull/152431) merged on August 23, 2024 &mdash; **Small:** [45 comments](https://github.com/flutter/flutter/pull/152431) over 3 weeks, 47 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-land "Ensure flutter build apk --release optimizes+shrinks platform code"<br />
+  <sub>[#153868](https://github.com/flutter/flutter/pull/153868) merged on August 23, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/153868) over 1 day, 83 additions and 89 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Martin Kustermann](https://github.com/mkustermann)</sub><br />
+
 * **[Slava Egorov](https://github.com/mraleph)** &mdash; Use "run --resident" for flutter-dev.<br />
   <sub>[#153905](https://github.com/flutter/flutter/pull/153905) merged on August 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153905) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -337,10 +353,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; fix: A referenced default package must be a plugin package<br />
   <sub>[#152134](https://github.com/flutter/flutter/pull/152134) merged on August 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/152134) over 1 month, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-land "Ensure flutter build apk --release optimizes+shrinks platform code"<br />
-  <sub>[#153868](https://github.com/flutter/flutter/pull/153868) merged on August 23, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/153868) over 1 day, 83 additions and 89 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Stop `DropdownMenu` internal scrolling from moving parent `Scrollable`<br />
   <sub>[#153360](https://github.com/flutter/flutter/pull/153360) merged on August 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/153360) over 1 week, 31 additions and 1 deletion in 2 files</sub><br />
@@ -973,9 +985,18 @@
 
 ## flutter/packages
 
+### August 31, 2024 to September 6, 2024
+
+1 commits.
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [rfw] Upgrade missed example app<br />
+  <sub>[#7545](https://github.com/flutter/packages/pull/7545) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7545) over 4 days, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### August 24, 2024 to August 30, 2024
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Kotlin implementation for ProxyApis <br />
   <sub>[#6371](https://github.com/flutter/packages/pull/6371) merged on August 30, 2024 &mdash; **Extra large:** [76 comments](https://github.com/flutter/packages/pull/6371) over 5 months, 8733 additions and 189 deletions in 26 files</sub><br />
@@ -1053,6 +1074,8 @@
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Revert "[video_player] Relands #6456: Uses SurfaceProducer, this time with setCallback for suspend/resume lifecycles"<br />
   <sub>[#7497](https://github.com/flutter/packages/pull/7497) merged on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7497) over 21 minutes, 59 additions and 182 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+</details>
 
 ### August 17, 2024 to August 23, 2024
 
