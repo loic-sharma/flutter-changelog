@@ -86,9 +86,6 @@
 * **[Kristen McWilliam](https://github.com/Merrit)** &mdash; fix(Linux): specify application id for Wayland<br />
   <sub>[#154522](https://github.com/flutter/flutter/pull/154522) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154522) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Remove unnecessary imports.<br />
-  <sub>[#154527](https://github.com/flutter/flutter/pull/154527) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154527) 0 additions and 3 deletions in 2 files</sub><br />
-
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash; Feat: Add opportunity to change CupertinoTextField suffix alignment <br />
   <sub>[#154530](https://github.com/flutter/flutter/pull/154530) opened on on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154530) 55 additions and 21 deletions in 2 files</sub><br />
 
@@ -96,7 +93,7 @@
   <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154548) 77 additions and 0 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix duplicate MaterialApp in api example test<br />
-  <sub>[#154550](https://github.com/flutter/flutter/pull/154550) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154550) 3 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#154550](https://github.com/flutter/flutter/pull/154550) opened on on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154550) 3 additions and 13 deletions in 2 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for SliverList.separated & SliverList.builder<br />
   <sub>[#154551](https://github.com/flutter/flutter/pull/154551) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154551) 2 additions and 2 deletions in 1 file</sub><br />
