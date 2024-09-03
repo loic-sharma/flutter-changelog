@@ -95,3 +95,9 @@
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added cupertino example<br />
   <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154548) 77 additions and 0 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix duplicate MaterialApp in api example test<br />
+  <sub>[#154550](https://github.com/flutter/flutter/pull/154550) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154550) 3 additions and 13 deletions in 2 files</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for SliverList.separated & SliverList.builder<br />
+  <sub>[#154551](https://github.com/flutter/flutter/pull/154551) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154551) 2 additions and 2 deletions in 1 file</sub><br />
+
