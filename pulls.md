@@ -90,8 +90,11 @@
   <sub>[#154550](https://github.com/flutter/flutter/pull/154550) opened on on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154550) 3 additions and 13 deletions in 2 files</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverList.separated` & `SliverList.builder`<br />
-  <sub>[#154551](https://github.com/flutter/flutter/pull/154551) opened on on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154551) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#154551](https://github.com/flutter/flutter/pull/154551) opened on on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154551) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverFixedExtentList` & `SliverVariedExtentList`<br />
   <sub>[#154557](https://github.com/flutter/flutter/pull/154557) opened on on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154557) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; mark build_tests shard as non-flaky<br />
+  <sub>[#154570](https://github.com/flutter/flutter/pull/154570) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154570) 0 additions and 5 deletions in 1 file</sub><br />
 

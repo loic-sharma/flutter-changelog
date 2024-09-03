@@ -843,7 +843,7 @@
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: don't bundle simulator dSYMs in xcframework
-  <sub>[#54746](https://github.com/flutter/engine/pull/54746) merged on August 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54746) over 2 hours, 8 additions and 19 deletions in 3 files</sub>
+  <sub>[#54746](https://github.com/flutter/engine/pull/54746) merged on August 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54746) over 2 hours, 8 additions and 19 deletions in 3 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test running the macOS engine has no stray logging
