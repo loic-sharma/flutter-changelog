@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-17 commits.
+18 commits.
 
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; set onChangedField function to only update options with new results<br />
   <sub>[#150776](https://github.com/flutter/flutter/pull/150776) merged on September 3, 2024 &mdash; **Small:** [92 comments](https://github.com/flutter/flutter/pull/150776) over 2 months, 289 additions and 6 deletions in 2 files</sub><br />
@@ -57,6 +57,10 @@
 * **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`<br />
   <sub>[#154473](https://github.com/flutter/flutter/pull/154473) merged on September 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154473) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Prepare bots for not reporting UNUSED_IMPORT in presence of unresolved identifiers.<br />
+  <sub>[#154514](https://github.com/flutter/flutter/pull/154514) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154514) over 1 day, 12 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Darniel Rumple](https://github.com/daniellampl)** &mdash; Fix typing error in AutofillGroup docs<br />
   <sub>[#154405](https://github.com/flutter/flutter/pull/154405) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154405) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
