@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-4 commits.
+5 commits.
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Improve microbenchmarks a smidge
   <sub>[#154461](https://github.com/flutter/flutter/pull/154461) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154461) over 3 days, 58 additions and 3 deletions in 3 files</sub>
@@ -13,6 +13,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
   <sub>[#154507](https://github.com/flutter/flutter/pull/154507) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154507) over 1 day, 42 additions and 42 deletions in 5 files</sub>
   <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub>
+
+* **[Phil Quitslund](https://github.com/pq)** &mdash; sort part directives
+  <sub>[#154456](https://github.com/flutter/flutter/pull/154456) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154456) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Remove unnecessary imports.
   <sub>[#154527](https://github.com/flutter/flutter/pull/154527) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154527) over 11 hours, 0 additions and 3 deletions in 2 files</sub>
