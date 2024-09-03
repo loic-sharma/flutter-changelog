@@ -65,9 +65,6 @@
 * **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Bugfix: LinearProgressIndicator is referring to wrong color theme for the background color.<br />
   <sub>[#154470](https://github.com/flutter/flutter/pull/154470) opened on on August 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154470) 34 additions and 5 deletions in 2 files</sub><br />
 
-* **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`<br />
-  <sub>[#154473](https://github.com/flutter/flutter/pull/154473) opened on on August 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154473) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Fix TabBar crash with SliverAppBar<br />
   <sub>[#154485](https://github.com/flutter/flutter/pull/154485) opened on on September 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154485) 57 additions and 6 deletions in 4 files</sub><br />
 
@@ -97,4 +94,7 @@
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; mark build_tests shard as non-flaky<br />
   <sub>[#154570](https://github.com/flutter/flutter/pull/154570) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154570) 0 additions and 5 deletions in 1 file</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
+  <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
 

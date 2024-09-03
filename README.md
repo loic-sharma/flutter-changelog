@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-6 commits.
+7 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds wide gamut framework test<br />
   <sub>[#153319](https://github.com/flutter/flutter/pull/153319) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153319) over 3 weeks, 22 additions and 2 deletions in 2 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
   <sub>[#154507](https://github.com/flutter/flutter/pull/154507) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154507) over 1 day, 42 additions and 42 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub><br />
+
+* **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`<br />
+  <sub>[#154473](https://github.com/flutter/flutter/pull/154473) merged on September 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154473) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Phil Quitslund](https://github.com/pq)** &mdash; sort part directives<br />
   <sub>[#154456](https://github.com/flutter/flutter/pull/154456) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154456) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -335,7 +339,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Re-land "Ensure flutter build apk --release optimizes+shrinks platform code"<br />
-  <sub>[#153868](https://github.com/flutter/flutter/pull/153868) merged on August 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/153868) over 1 day, 83 additions and 89 deletions in 5 files</sub><br />
+  <sub>[#153868](https://github.com/flutter/flutter/pull/153868) merged on August 23, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/153868) over 1 day, 83 additions and 89 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Stop `DropdownMenu` internal scrolling from moving parent `Scrollable`<br />
