@@ -4,7 +4,11 @@
 
 ### August 31, 2024 to September 6, 2024
 
-13 commits.
+15 commits.
+
+* **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; set onChangedField function to only update options with new results<br />
+  <sub>[#150776](https://github.com/flutter/flutter/pull/150776) merged on September 3, 2024 &mdash; **Small:** [92 comments](https://github.com/flutter/flutter/pull/150776) over 2 months, 289 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add Android SDK to Linux packages_autoroller<br />
   <sub>[#154462](https://github.com/flutter/flutter/pull/154462) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154462) over 3 days, 4 additions and 1 deletion in 1 file</sub><br />
@@ -13,6 +17,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds wide gamut framework test<br />
   <sub>[#153319](https://github.com/flutter/flutter/pull/153319) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153319) over 3 weeks, 22 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switched CupertinoDynamicColor to `implements Color`<br />
+  <sub>[#153938](https://github.com/flutter/flutter/pull/153938) merged on September 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153938) over 1 week, 68 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer test logging<br />
   <sub>[#154577](https://github.com/flutter/flutter/pull/154577) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154577) over 41 minutes, 10 additions and 21 deletions in 2 files</sub><br />
