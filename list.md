@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-15 commits.
+17 commits.
 
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; set onChangedField function to only update options with new results
   <sub>[#150776](https://github.com/flutter/flutter/pull/150776) merged on September 3, 2024 &mdash; **Small:** [92 comments](https://github.com/flutter/flutter/pull/150776) over 2 months, 289 additions and 6 deletions in 2 files</sub>
@@ -17,6 +17,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds wide gamut framework test
   <sub>[#153319](https://github.com/flutter/flutter/pull/153319) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153319) over 3 weeks, 22 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverList.separated` & `SliverList.builder`
+  <sub>[#154551](https://github.com/flutter/flutter/pull/154551) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154551) over 6 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverFixedExtentList` & `SliverVariedExtentList`
+  <sub>[#154557](https://github.com/flutter/flutter/pull/154557) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154557) over 6 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switched CupertinoDynamicColor to `implements Color`
   <sub>[#153938](https://github.com/flutter/flutter/pull/153938) merged on September 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153938) over 1 week, 68 additions and 9 deletions in 1 file</sub>
