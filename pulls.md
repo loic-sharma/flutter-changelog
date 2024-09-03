@@ -80,8 +80,8 @@
 * **[Viraj Kanwade](https://github.com/virajkanwade)** &mdash; Updated iPhone enable developer mode instructions<br />
   <sub>[#154511](https://github.com/flutter/flutter/pull/154511) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154511) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Fix bots: remove unused_import that analyzer does not report anymore …<br />
-  <sub>[#154514](https://github.com/flutter/flutter/pull/154514) opened on on September 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154514) 0 additions and 1 deletion in 1 file</sub><br />
+* **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Prepare bots for not reporting UNUSED_IMPORT in presence of unresolved identifiers.<br />
+  <sub>[#154514](https://github.com/flutter/flutter/pull/154514) opened on on September 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154514) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[Kristen McWilliam](https://github.com/Merrit)** &mdash; fix(Linux): specify application id for Wayland<br />
   <sub>[#154522](https://github.com/flutter/flutter/pull/154522) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154522) 7 additions and 0 deletions in 1 file</sub><br />

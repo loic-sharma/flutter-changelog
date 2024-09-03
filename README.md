@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### August 31, 2024 to September 6, 2024
+
+1 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "improve trace logging in packages autoroller"<br />
+  <sub>[#154555](https://github.com/flutter/flutter/pull/154555) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154555) over 1 hour, 34 additions and 52 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
 ### August 24, 2024 to August 30, 2024
 
-55 commits.
+<details>
+<summary>55 commits...</summary>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:tools] disable search engine choice screen in flutter run<br />
   <sub>[#154059](https://github.com/flutter/flutter/pull/154059) merged on August 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154059) over 2 days, 7 additions and 0 deletions in 2 files</sub><br />
@@ -229,6 +238,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Don't remove `toString` implementations while in debug mode.<br />
   <sub>[#154216](https://github.com/flutter/flutter/pull/154216) merged on August 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154216) over 20 hours, 39 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub><br />
+
+</details>
 
 ### August 17, 2024 to August 23, 2024
 
