@@ -4,7 +4,11 @@
 
 ### August 31, 2024 to September 6, 2024
 
-5 commits.
+6 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds wide gamut framework test<br />
+  <sub>[#153319](https://github.com/flutter/flutter/pull/153319) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153319) over 3 weeks, 22 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Improve microbenchmarks a smidge<br />
   <sub>[#154461](https://github.com/flutter/flutter/pull/154461) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154461) over 3 days, 58 additions and 3 deletions in 3 files</sub><br />
@@ -1131,9 +1135,18 @@
 
 ## flutter/website
 
+### August 31, 2024 to September 6, 2024
+
+1 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Add migration guide to opt out of edge-to-edge by default on Android<br />
+  <sub>[#11068](https://github.com/flutter/website/pull/11068) merged on September 3, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11068) over 1 week, 103 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 ### August 24, 2024 to August 30, 2024
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for new Material 3 `Slider` shapes<br />
   <sub>[#11087](https://github.com/flutter/website/pull/11087) merged on August 29, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/11087) over 2 days, 104 additions and 0 deletions in 2 files</sub><br />
@@ -1170,6 +1183,8 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert "Migration guide for new Material 3 `Slider` shapes"<br />
   <sub>[#11092](https://github.com/flutter/website/pull/11092) merged on August 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11092) over 18 minutes, 0 additions and 104 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### August 17, 2024 to August 23, 2024
 
