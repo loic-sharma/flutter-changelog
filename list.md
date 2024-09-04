@@ -652,7 +652,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-7 commits.
+8 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub>
@@ -665,6 +665,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] fix platform view clipping path intersection
   <sub>[#54820](https://github.com/flutter/engine/pull/54820) merged on September 3, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/engine/pull/54820) over 6 days, 1494 additions and 61 deletions in 22 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Framework wide color linear gradients
+  <sub>[#54748](https://github.com/flutter/engine/pull/54748) merged on September 4, 2024 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/54748) over 1 week, 80 additions and 45 deletions in 4 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add all requested glyphs if TypographerContextSkia needs to create a new atlas
   <sub>[#54912](https://github.com/flutter/engine/pull/54912) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54912) over 3 days, 59 additions and 28 deletions in 2 files</sub>
