@@ -50,18 +50,12 @@
 * **[Kristen McWilliam](https://github.com/Merrit)** &mdash; fix(Linux): specify application id for Wayland<br />
   <sub>[#154522](https://github.com/flutter/flutter/pull/154522) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154522) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added cupertino list tile example<br />
-  <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/154548) 106 additions and 0 deletions in 3 files</sub><br />
+* **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; [Docs] `CupertinoListTile` API Example<br />
+  <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/154548) 106 additions and 0 deletions in 3 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; mark build_tests shard as non-flaky<br />
   <sub>[#154570](https://github.com/flutter/flutter/pull/154570) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154570) 0 additions and 5 deletions in 1 file</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
   <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
-
-* **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment<br />
-  <sub>[#154601](https://github.com/flutter/flutter/pull/154601) opened on on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154601) 31 additions and 1 deletion in 2 files</sub><br />
-
-* **[Taimoor Ghafar](https://github.com/taimoor522)** &mdash; BottomNavigationBar background color<br />
-  <sub>[#154612](https://github.com/flutter/flutter/pull/154612) opened on on September 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154612) 1 addition and 1 deletion in 1 file</sub><br />
 

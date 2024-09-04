@@ -4,7 +4,11 @@
 
 ### August 31, 2024 to September 6, 2024
 
-25 commits.
+28 commits.
+
+* **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; added enabled to search anchor
+  <sub>[#153256](https://github.com/flutter/flutter/pull/153256) merged on September 4, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/153256) over 3 weeks, 77 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make the Flutter Gradle Plugin apply `FlutterExtension` to (flutter) plugins
   <sub>[#151861](https://github.com/flutter/flutter/pull/151861) merged on September 4, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/151861) over 1 month, 3 additions and 0 deletions in 1 file</sub>
@@ -14,6 +18,10 @@
   <sub>[#154377](https://github.com/flutter/flutter/pull/154377) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154377) over 4 days, 10 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
   <sub><details><summary>2 images...</summary><img width="627" alt="Screenshot 2024-08-29 at 4 25 43 PM" src="https://github.com/user-attachments/assets/2cc3266e-cc6e-425f-b909-12d7556ff110"><img width="1055" alt="Screenshot 2024-08-29 at 4 26 50 PM" src="https://github.com/user-attachments/assets/8b0ecccc-a7c9-4da7-bf22-15cef24c4cc7"></details></sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where itemExtent was incorrectly assigned to renderObject.minExtent
+  <sub>[#153805](https://github.com/flutter/flutter/pull/153805) merged on September 4, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/153805) over 2 weeks, 44 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; set onChangedField function to only update options with new results
   <sub>[#150776](https://github.com/flutter/flutter/pull/150776) merged on September 3, 2024 &mdash; **Small:** [92 comments](https://github.com/flutter/flutter/pull/150776) over 2 months, 289 additions and 6 deletions in 2 files</sub>
@@ -38,6 +46,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds wide gamut framework test
   <sub>[#153319](https://github.com/flutter/flutter/pull/153319) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153319) over 3 weeks, 22 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Add list of expected-unsigned binaries
+  <sub>[#154591](https://github.com/flutter/flutter/pull/154591) merged on September 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154591) over 19 hours, 28 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverList.separated` & `SliverList.builder`
   <sub>[#154551](https://github.com/flutter/flutter/pull/154551) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154551) over 6 hours, 2 additions and 2 deletions in 1 file</sub>
