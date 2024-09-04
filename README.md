@@ -20,7 +20,7 @@
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Improve Documentation for ResizeImage Dimensions and Usage<br />
-  <sub>[#154212](https://github.com/flutter/flutter/pull/154212) merged on September 3, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/154212) over 6 days, 23 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#154212](https://github.com/flutter/flutter/pull/154212) merged on September 3, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/154212) over 6 days, 23 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Navaron Bracke](https://github.com/navaronbracke), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add Android SDK to Linux packages_autoroller<br />
