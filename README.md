@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-23 commits.
+24 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Get reasonable output when a stream test fails.<br />
   <sub>[#154377](https://github.com/flutter/flutter/pull/154377) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154377) over 4 days, 10 additions and 3 deletions in 1 file</sub><br />
@@ -74,6 +74,10 @@
 * **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`<br />
   <sub>[#154473](https://github.com/flutter/flutter/pull/154473) merged on September 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154473) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update changelog from 3.24.2 to master<br />
+  <sub>[#154625](https://github.com/flutter/flutter/pull/154625) merged on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154625) over 2 hours, 12 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix duplicate MaterialApp in api example test<br />
   <sub>[#154550](https://github.com/flutter/flutter/pull/154550) merged on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154550) over 16 hours, 3 additions and 13 deletions in 2 files</sub><br />
