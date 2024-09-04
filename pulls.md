@@ -56,3 +56,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
   <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Prefer `instantiateCodecFromUrl` when creating network images<br />
+  <sub>[#154643](https://github.com/flutter/flutter/pull/154643) opened on on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154643) 1 addition and 1 deletion in 1 file</sub><br />
+
