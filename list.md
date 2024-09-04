@@ -1088,7 +1088,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for pausing and resuming Ad playback and skipping an Ad
   <sub>[#7285](https://github.com/flutter/packages/pull/7285) merged on September 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7285) over 1 month, 465 additions and 24 deletions in 22 files</sub>
@@ -1117,6 +1117,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [rfw] Upgrade missed example app
   <sub>[#7545](https://github.com/flutter/packages/pull/7545) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7545) over 4 days, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 5874a72aa4c7 to 4cf269e36de2 (8 revisions)
+  <sub>[#7578](https://github.com/flutter/packages/pull/7578) merged on September 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7578) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### August 24, 2024 to August 30, 2024
 
