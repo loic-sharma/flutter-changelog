@@ -1253,7 +1253,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-3 commits.
+4 commits.
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding info about code push to the faq
   <sub>[#11105](https://github.com/flutter/website/pull/11105) merged on September 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11105) over 1 hour, 10 additions and 1 deletion in 1 file</sub>
@@ -1262,6 +1262,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add migration guide to opt out of edge-to-edge by default on Android
   <sub>[#11068](https://github.com/flutter/website/pull/11068) merged on September 3, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11068) over 1 week, 103 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update DK eng mgr careers link
+  <sub>[#11107](https://github.com/flutter/website/pull/11107) merged on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11107) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [vsmenon](https://github.com/vsmenon), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Go-link for "zero rebuilds" design doc
   <sub>[#11103](https://github.com/flutter/website/pull/11103) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11103) over 30 minutes, 1 addition and 0 deletions in 1 file</sub>
