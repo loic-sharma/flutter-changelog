@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-21 commits.
+22 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Get reasonable output when a stream test fails.
   <sub>[#154377](https://github.com/flutter/flutter/pull/154377) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154377) over 4 days, 10 additions and 3 deletions in 1 file</sub>
@@ -70,6 +70,10 @@
 * **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`
   <sub>[#154473](https://github.com/flutter/flutter/pull/154473) merged on September 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154473) over 3 days, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix duplicate MaterialApp in api example test
+  <sub>[#154550](https://github.com/flutter/flutter/pull/154550) merged on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154550) over 16 hours, 3 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Prepare bots for not reporting UNUSED_IMPORT in presence of unresolved identifiers.
   <sub>[#154514](https://github.com/flutter/flutter/pull/154514) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154514) over 1 day, 12 additions and 7 deletions in 1 file</sub>

@@ -71,9 +71,6 @@
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added cupertino list tile example<br />
   <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154548) 76 additions and 0 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix duplicate MaterialApp in api example test<br />
-  <sub>[#154550](https://github.com/flutter/flutter/pull/154550) opened on on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154550) 3 additions and 13 deletions in 2 files</sub><br />
-
 * **[Yegor](https://github.com/yjbanov)** &mdash; mark build_tests shard as non-flaky<br />
   <sub>[#154570](https://github.com/flutter/flutter/pull/154570) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154570) 0 additions and 5 deletions in 1 file</sub><br />
 
