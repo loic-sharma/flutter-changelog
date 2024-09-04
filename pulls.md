@@ -20,9 +20,6 @@
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] Fix formatting with multiple locale<br />
   <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153459) 283 additions and 15 deletions in 3 files</sub><br />
 
-* **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
-  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/153973) 84 additions and 2 deletions in 3 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Simplify tests of verify_binaries_codesigned script<br />
   <sub>[#154034](https://github.com/flutter/flutter/pull/154034) opened on on August 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154034) 548 additions and 545 deletions in 4 files</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-29 commits.
+30 commits.
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; added enabled to search anchor<br />
   <sub>[#153256](https://github.com/flutter/flutter/pull/153256) merged on September 4, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/153256) over 3 weeks, 77 additions and 5 deletions in 2 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Add Android SDK to Linux packages_autoroller<br />
   <sub>[#154462](https://github.com/flutter/flutter/pull/154462) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154462) over 3 days, 4 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
+  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) merged on September 4, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/153973) over 1 week, 84 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds wide gamut framework test<br />
   <sub>[#153319](https://github.com/flutter/flutter/pull/153319) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153319) over 3 weeks, 22 additions and 2 deletions in 2 files</sub><br />
