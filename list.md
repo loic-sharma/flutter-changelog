@@ -4,7 +4,11 @@
 
 ### August 31, 2024 to September 6, 2024
 
-24 commits.
+25 commits.
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make the Flutter Gradle Plugin apply `FlutterExtension` to (flutter) plugins
+  <sub>[#151861](https://github.com/flutter/flutter/pull/151861) merged on September 4, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/151861) over 1 month, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Get reasonable output when a stream test fails.
   <sub>[#154377](https://github.com/flutter/flutter/pull/154377) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154377) over 4 days, 10 additions and 3 deletions in 1 file</sub>
@@ -620,7 +624,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-5 commits.
+6 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make FlApplication class
   <sub>[#54637](https://github.com/flutter/engine/pull/54637) merged on September 3, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/engine/pull/54637) over 2 weeks, 267 additions and 0 deletions in 6 files</sub>
@@ -633,6 +637,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add all requested glyphs if TypographerContextSkia needs to create a new atlas
   <sub>[#54912](https://github.com/flutter/engine/pull/54912) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54912) over 3 days, 59 additions and 28 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix NPE when checking known bad driver.
+  <sub>[#54959](https://github.com/flutter/engine/pull/54959) merged on September 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54959) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Adreno 630 vulkan and add mechanism for android driver denylisting.
   <sub>[#54920](https://github.com/flutter/engine/pull/54920) merged on September 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54920) over 1 day, 71 additions and 1 deletion in 6 files</sub>
@@ -1060,7 +1068,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-6 commits.
+7 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for pausing and resuming Ad playback and skipping an Ad
   <sub>[#7285](https://github.com/flutter/packages/pull/7285) merged on September 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7285) over 1 month, 465 additions and 24 deletions in 22 files</sub>
@@ -1069,6 +1077,10 @@
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Go router sample for AdaptiveScaffold
   <sub>[#7452](https://github.com/flutter/packages/pull/7452) merged on September 4, 2024 &mdash; **Large:** [31 comments](https://github.com/flutter/packages/pull/7452) over 2 weeks, 731 additions and 2 deletions in 20 files</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `JointType` to an enum
+  <sub>[#7558](https://github.com/flutter/packages/pull/7558) merged on September 4, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7558) over 4 days, 107 additions and 19 deletions in 8 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Fix breakpoint not being active in certain cases like foldables
   <sub>[#7549](https://github.com/flutter/packages/pull/7549) merged on September 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7549) over 4 days, 116 additions and 8 deletions in 5 files</sub>
