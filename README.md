@@ -28,7 +28,7 @@
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add static `of` accessor methods to `ColorScheme` and `TextTheme`<br />
-  <sub>[#154073](https://github.com/flutter/flutter/pull/154073) merged on September 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/154073) over 1 week, 105 additions and 6 deletions in 5 files</sub><br />
+  <sub>[#154073](https://github.com/flutter/flutter/pull/154073) merged on September 4, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/154073) over 1 week, 105 additions and 6 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update tokens to v6.1<br />
