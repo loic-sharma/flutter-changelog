@@ -74,3 +74,9 @@
 * **[Taimoor Ghafar](https://github.com/taimoor522)** &mdash; BottomNavigationBar background color<br />
   <sub>[#154612](https://github.com/flutter/flutter/pull/154612) opened on on September 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154612) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Tavinder Singh](https://github.com/tavindersingh)** &mdash; removed flutter logo from material library<br />
+  <sub>[#154634](https://github.com/flutter/flutter/pull/154634) opened on on September 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154634) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Add list of expected-unsigned binaries<br />
+  <sub>[#154636](https://github.com/flutter/flutter/pull/154636) opened on on September 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154636) 28 additions and 8 deletions in 1 file</sub><br />
+
