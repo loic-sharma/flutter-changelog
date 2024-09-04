@@ -612,7 +612,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-4 commits.
+5 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make FlApplication class
   <sub>[#54637](https://github.com/flutter/engine/pull/54637) merged on September 3, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/engine/pull/54637) over 2 weeks, 267 additions and 0 deletions in 6 files</sub>
@@ -629,6 +629,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Adreno 630 vulkan and add mechanism for android driver denylisting.
   <sub>[#54920](https://github.com/flutter/engine/pull/54920) merged on September 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54920) over 1 day, 71 additions and 1 deletion in 6 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use moved Skia Ganesh header files
+  <sub>[#54833](https://github.com/flutter/engine/pull/54833) merged on September 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54833) over 1 week, 131 additions and 131 deletions in 82 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 ### August 24, 2024 to August 30, 2024
 
