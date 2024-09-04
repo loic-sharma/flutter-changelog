@@ -38,9 +38,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT<br />
   <sub>[#154357](https://github.com/flutter/flutter/pull/154357) opened on on August 29, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154357) 11841 additions and 15597 deletions in 955 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve 'flutter downgrade' error message<br />
-  <sub>[#154434](https://github.com/flutter/flutter/pull/154434) opened on on August 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154434) 37 additions and 11 deletions in 2 files</sub><br />
-
 * **[Viraj Kanwade](https://github.com/virajkanwade)** &mdash; Updated iPhone enable developer mode instructions<br />
   <sub>[#154511](https://github.com/flutter/flutter/pull/154511) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154511) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -58,4 +55,7 @@
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Prefer `instantiateCodecFromUrl` when creating network images<br />
   <sub>[#154643](https://github.com/flutter/flutter/pull/154643) opened on on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154643) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Adjust ButtonStyle.{foreground,icon}Color dartdocs for new behavior<br />
+  <sub>[#154646](https://github.com/flutter/flutter/pull/154646) opened on on September 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154646) 1 addition and 3 deletions in 1 file</sub><br />
 
