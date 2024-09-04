@@ -652,7 +652,11 @@
 
 ### August 31, 2024 to September 6, 2024
 
-6 commits.
+7 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)<br />
+  <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make FlApplication class<br />
   <sub>[#54637](https://github.com/flutter/engine/pull/54637) merged on September 3, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/engine/pull/54637) over 2 weeks, 267 additions and 0 deletions in 6 files</sub><br />
