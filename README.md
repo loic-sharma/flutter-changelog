@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-28 commits.
+29 commits.
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; added enabled to search anchor<br />
   <sub>[#153256](https://github.com/flutter/flutter/pull/153256) merged on September 4, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/153256) over 3 weeks, 77 additions and 5 deletions in 2 files</sub><br />
@@ -46,6 +46,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds wide gamut framework test<br />
   <sub>[#153319](https://github.com/flutter/flutter/pull/153319) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/153319) over 3 weeks, 22 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add minimum height for MaterialBanner<br />
+  <sub>[#153951](https://github.com/flutter/flutter/pull/153951) merged on September 4, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/153951) over 1 week, 68 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Tirth](https://github.com/piedcipher), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Add list of expected-unsigned binaries<br />
   <sub>[#154591](https://github.com/flutter/flutter/pull/154591) merged on September 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154591) over 19 hours, 28 additions and 9 deletions in 1 file</sub><br />
