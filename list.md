@@ -1054,6 +1054,10 @@
   <sub>[#7285](https://github.com/flutter/packages/pull/7285) merged on September 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7285) over 1 month, 465 additions and 24 deletions in 22 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
+* **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Fix breakpoint not being active in certain cases like foldables
+  <sub>[#7549](https://github.com/flutter/packages/pull/7549) merged on September 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7549) over 4 days, 116 additions and 8 deletions in 5 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [google_sign_in_android] Downgrade Guava version from `33.3.0` to `32.0.1`
   <sub>[#7573](https://github.com/flutter/packages/pull/7573) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7573) over 58 minutes, 6 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -1065,10 +1069,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [rfw] Upgrade missed example app
   <sub>[#7545](https://github.com/flutter/packages/pull/7545) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7545) over 4 days, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
-
-* **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Fix breakpoint not being active in certain cases like foldables
-  <sub>[#7549](https://github.com/flutter/packages/pull/7549) merged on September 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7549) over 4 days, 116 additions and 8 deletions in 5 files</sub>
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 ### August 24, 2024 to August 30, 2024
 
