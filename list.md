@@ -1297,7 +1297,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-4 commits.
+5 commits.
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding info about code push to the faq
   <sub>[#11105](https://github.com/flutter/website/pull/11105) merged on September 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11105) over 1 hour, 10 additions and 1 deletion in 1 file</sub>
@@ -1313,6 +1313,10 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Go-link for "zero rebuilds" design doc
   <sub>[#11103](https://github.com/flutter/website/pull/11103) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11103) over 30 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Elijah Luckey](https://github.com/Luckey-Elijah)** &mdash; Adds note for the common error of indentations
+  <sub>[#11106](https://github.com/flutter/website/pull/11106) merged on September 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11106) over 6 hours, 19 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 ### August 24, 2024 to August 30, 2024
