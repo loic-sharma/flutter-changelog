@@ -74,3 +74,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
   <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
 
+* **[AntØn UstinØff](https://github.com/ziqq)** &mdash; feat: add cross axis alignment to cupertino field preffix and suffix …<br />
+  <sub>[#154601](https://github.com/flutter/flutter/pull/154601) opened on on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154601) 31 additions and 1 deletion in 2 files</sub><br />
+
