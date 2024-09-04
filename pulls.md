@@ -57,7 +57,7 @@
   <sub>[#154470](https://github.com/flutter/flutter/pull/154470) opened on on August 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154470) 34 additions and 5 deletions in 2 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool][android] Allow --target-platform work properly with --debug mode<br />
-  <sub>[#154476](https://github.com/flutter/flutter/pull/154476) opened on on August 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154476) 190 additions and 45 deletions in 4 files</sub><br />
+  <sub>[#154476](https://github.com/flutter/flutter/pull/154476) opened on on August 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154476) 190 additions and 45 deletions in 4 files</sub><br />
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Fix TabBar crash with SliverAppBar<br />
   <sub>[#154485](https://github.com/flutter/flutter/pull/154485) opened on on September 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154485) 57 additions and 6 deletions in 4 files</sub><br />
