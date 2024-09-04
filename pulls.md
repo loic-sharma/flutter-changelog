@@ -20,9 +20,6 @@
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] Fix formatting with multiple locale<br />
   <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/153459) 283 additions and 15 deletions in 3 files</sub><br />
 
-* **[Moustafa_Abdelrahim_Ga3llouss](https://github.com/MoustafaAbdelrahimGaallouss)** &mdash; edite Home Page only<br />
-  <sub>[#153610](https://github.com/flutter/flutter/pull/153610) opened on on August 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/153610) 0 additions and 0 deletions in 0 files</sub><br />
-
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
   <sub>[#153973](https://github.com/flutter/flutter/pull/153973) opened on on August 22, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/153973) 86 additions and 2 deletions in 3 files</sub><br />
 
