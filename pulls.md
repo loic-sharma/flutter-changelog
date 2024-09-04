@@ -77,3 +77,6 @@
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment<br />
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) opened on on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154601) 31 additions and 1 deletion in 2 files</sub><br />
 
+* **[Taimoor Ghafar](https://github.com/taimoor522)** &mdash; BottomNavigationBar background color<br />
+  <sub>[#154612](https://github.com/flutter/flutter/pull/154612) opened on on September 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154612) 1 addition and 1 deletion in 1 file</sub><br />
+
