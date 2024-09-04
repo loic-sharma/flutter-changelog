@@ -56,6 +56,3 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Prefer `instantiateCodecFromUrl` when creating network images<br />
   <sub>[#154643](https://github.com/flutter/flutter/pull/154643) opened on on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154643) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Adjust ButtonStyle.{foreground,icon}Color dartdocs for new behavior<br />
-  <sub>[#154646](https://github.com/flutter/flutter/pull/154646) opened on on September 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154646) 1 addition and 3 deletions in 1 file</sub><br />
-
