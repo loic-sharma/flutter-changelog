@@ -1056,11 +1056,15 @@
 
 ### August 31, 2024 to September 6, 2024
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for pausing and resuming Ad playback and skipping an Ad
   <sub>[#7285](https://github.com/flutter/packages/pull/7285) merged on September 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7285) over 1 month, 465 additions and 24 deletions in 22 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Go router sample for AdaptiveScaffold
+  <sub>[#7452](https://github.com/flutter/packages/pull/7452) merged on September 4, 2024 &mdash; **Large:** [31 comments](https://github.com/flutter/packages/pull/7452) over 2 weeks, 731 additions and 2 deletions in 20 files</sub>
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Fix breakpoint not being active in certain cases like foldables
   <sub>[#7549](https://github.com/flutter/packages/pull/7549) merged on September 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7549) over 4 days, 116 additions and 8 deletions in 5 files</sub>
