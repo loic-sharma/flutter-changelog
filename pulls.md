@@ -27,7 +27,7 @@
   <sub>[#154034](https://github.com/flutter/flutter/pull/154034) opened on on August 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154034) 548 additions and 545 deletions in 4 files</sub><br />
 
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
-  <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/154057) 118 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#154057](https://github.com/flutter/flutter/pull/154057) opened on on August 24, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/154057) 118 additions and 1 deletion in 3 files</sub><br />
 
 * **[Quyen Le Van](https://github.com/quyenvsp)** &mdash; Fix TextOverflow ellipsis with TextStyle height 1 cut off the letter<br />
   <sub>[#154086](https://github.com/flutter/flutter/pull/154086) opened on on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154086) 2 additions and 1 deletion in 1 file</sub><br />
@@ -50,9 +50,6 @@
 * **[Dishank Jindal](https://github.com/dishankjindal1)** &mdash; Bugfix: LinearProgressIndicator is referring to wrong color theme for the background color.<br />
   <sub>[#154470](https://github.com/flutter/flutter/pull/154470) opened on on August 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154470) 34 additions and 5 deletions in 2 files</sub><br />
 
-* **[hgraceb](https://github.com/hgraceb)** &mdash; Fix TabBar crash with SliverAppBar<br />
-  <sub>[#154485](https://github.com/flutter/flutter/pull/154485) opened on on September 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154485) 57 additions and 6 deletions in 4 files</sub><br />
-
 * **[Viraj Kanwade](https://github.com/virajkanwade)** &mdash; Updated iPhone enable developer mode instructions<br />
   <sub>[#154511](https://github.com/flutter/flutter/pull/154511) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154511) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -60,7 +57,7 @@
   <sub>[#154522](https://github.com/flutter/flutter/pull/154522) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154522) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added cupertino list tile example<br />
-  <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154548) 106 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154548) 106 additions and 0 deletions in 3 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; mark build_tests shard as non-flaky<br />
   <sub>[#154570](https://github.com/flutter/flutter/pull/154570) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154570) 0 additions and 5 deletions in 1 file</sub><br />
@@ -73,9 +70,6 @@
 
 * **[Taimoor Ghafar](https://github.com/taimoor522)** &mdash; BottomNavigationBar background color<br />
   <sub>[#154612](https://github.com/flutter/flutter/pull/154612) opened on on September 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154612) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Tavinder Singh](https://github.com/tavindersingh)** &mdash; removed flutter logo from material library<br />
-  <sub>[#154634](https://github.com/flutter/flutter/pull/154634) opened on on September 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154634) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Add list of expected-unsigned binaries<br />
   <sub>[#154636](https://github.com/flutter/flutter/pull/154636) opened on on September 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154636) 28 additions and 8 deletions in 1 file</sub><br />
