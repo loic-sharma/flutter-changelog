@@ -56,6 +56,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT MERGE: TEST ENGINE ROLL<br />
   <sub>[#154687](https://github.com/flutter/flutter/pull/154687) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154687) 20 additions and 4 deletions in 6 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; fix offset computation<br />
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes the offset computation to first item for RenderSliverMainAxisGroup<br />
   <sub>[#154688](https://github.com/flutter/flutter/pull/154688) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154688) 105 additions and 1 deletion in 2 files</sub><br />
 
