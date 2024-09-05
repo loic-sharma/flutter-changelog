@@ -53,3 +53,9 @@
 * **[nick9822](https://github.com/nick9822)** &mdash; fixed keyboardDismissBehavior on scroll without a drag<br />
   <sub>[#154675](https://github.com/flutter/flutter/pull/154675) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154675) 47 additions and 2 deletions in 2 files</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; DO NOT MERGE: TEST ENGINE ROLL<br />
+  <sub>[#154687](https://github.com/flutter/flutter/pull/154687) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154687) 20 additions and 4 deletions in 6 files</sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; fix offset computation<br />
+  <sub>[#154688](https://github.com/flutter/flutter/pull/154688) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154688) 105 additions and 1 deletion in 2 files</sub><br />
+
