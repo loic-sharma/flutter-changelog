@@ -707,7 +707,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: add unsigned_binaries.txt
-  <sub>[#54977](https://github.com/flutter/engine/pull/54977) merged on September 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54977) over 2 hours, 51 additions and 18 deletions in 3 files</sub>
+  <sub>[#54977](https://github.com/flutter/engine/pull/54977) merged on September 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54977) over 2 hours, 51 additions and 18 deletions in 3 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Skia roll to 809f868ded1c
