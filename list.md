@@ -4,7 +4,11 @@
 
 ### August 31, 2024 to September 6, 2024
 
-32 commits.
+33 commits.
+
+* **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color
+  <sub>[#154057](https://github.com/flutter/flutter/pull/154057) merged on September 5, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/154057) over 1 week, 118 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; added enabled to search anchor
   <sub>[#153256](https://github.com/flutter/flutter/pull/153256) merged on September 4, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/153256) over 3 weeks, 77 additions and 5 deletions in 2 files</sub>
@@ -652,7 +656,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-11 commits.
+12 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub>
@@ -677,6 +681,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add all requested glyphs if TypographerContextSkia needs to create a new atlas
   <sub>[#54912](https://github.com/flutter/engine/pull/54912) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54912) over 3 days, 59 additions and 28 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] migrate last color wheel test to DisplayList.
+  <sub>[#54964](https://github.com/flutter/engine/pull/54964) merged on September 5, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/54964) over 15 hours, 121 additions and 186 deletions in 5 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add `crossOrigin` property to <img> tag used for decoding
   <sub>[#54961](https://github.com/flutter/engine/pull/54961) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54961) over 3 hours, 15 additions and 0 deletions in 3 files</sub>
