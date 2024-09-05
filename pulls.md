@@ -53,3 +53,6 @@
 * **[nick9822](https://github.com/nick9822)** &mdash; fixed keyboardDismissBehavior on scroll without a drag<br />
   <sub>[#154675](https://github.com/flutter/flutter/pull/154675) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154675) 47 additions and 2 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add proguard rule to keep the class for all implementations of FlutterPlugin<br />
+  <sub>[#154677](https://github.com/flutter/flutter/pull/154677) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154677) 7 additions and 0 deletions in 1 file</sub><br />
+
