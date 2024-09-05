@@ -56,6 +56,3 @@
 * **[nick9822](https://github.com/nick9822)** &mdash; fixed keyboardDismissBehavior on scroll without a drag<br />
   <sub>[#154666](https://github.com/flutter/flutter/pull/154666) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154666) 47 additions and 2 deletions in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu does not follow the text field<br />
-  <sub>[#154667](https://github.com/flutter/flutter/pull/154667) opened on on September 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154667) 134 additions and 5 deletions in 4 files</sub><br />
-
