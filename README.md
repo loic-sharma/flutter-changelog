@@ -672,7 +672,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-14 commits.
+15 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)<br />
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub><br />
@@ -689,6 +689,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] fix platform view clipping path intersection<br />
   <sub>[#54820](https://github.com/flutter/engine/pull/54820) merged on September 3, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/engine/pull/54820) over 6 days, 1494 additions and 61 deletions in 22 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix incorrect calculation of ImageFilter paint bounds<br />
+  <sub>[#54980](https://github.com/flutter/engine/pull/54980) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54980) over 53 minutes, 41 additions and 14 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Framework wide color linear gradients<br />
   <sub>[#54748](https://github.com/flutter/engine/pull/54748) merged on September 4, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/54748) over 1 week, 80 additions and 45 deletions in 4 files</sub><br />
