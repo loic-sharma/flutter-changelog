@@ -652,7 +652,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-8 commits.
+9 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub>
@@ -667,7 +667,7 @@
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Framework wide color linear gradients
-  <sub>[#54748](https://github.com/flutter/engine/pull/54748) merged on September 4, 2024 &mdash; **Small:** [35 comments](https://github.com/flutter/engine/pull/54748) over 1 week, 80 additions and 45 deletions in 4 files</sub>
+  <sub>[#54748](https://github.com/flutter/engine/pull/54748) merged on September 4, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/54748) over 1 week, 80 additions and 45 deletions in 4 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add all requested glyphs if TypographerContextSkia needs to create a new atlas
@@ -685,6 +685,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use moved Skia Ganesh header files
   <sub>[#54833](https://github.com/flutter/engine/pull/54833) merged on September 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54833) over 1 week, 131 additions and 131 deletions in 82 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 139867e57ba9 to 1a6246225b75 (18 revisions)
+  <sub>[#54962](https://github.com/flutter/engine/pull/54962) merged on September 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54962) over 49 minutes, 6 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### August 24, 2024 to August 30, 2024
 
