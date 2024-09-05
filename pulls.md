@@ -54,5 +54,5 @@
   <sub>[#154643](https://github.com/flutter/flutter/pull/154643) opened on on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154643) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[nick9822](https://github.com/nick9822)** &mdash; fixed keyboardDismissBehavior on scroll without a drag<br />
-  <sub>[#154666](https://github.com/flutter/flutter/pull/154666) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154666) 47 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#154675](https://github.com/flutter/flutter/pull/154675) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154675) 47 additions and 2 deletions in 2 files</sub><br />
 
