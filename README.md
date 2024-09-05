@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-35 commits.
+36 commits.
 
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) merged on September 5, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/154057) over 1 week, 118 additions and 1 deletion in 3 files</sub><br />
@@ -47,13 +47,13 @@
   <sub>[#154462](https://github.com/flutter/flutter/pull/154462) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154462) over 3 days, 4 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
-  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) merged on September 4, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/153973) over 1 week, 84 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu does not follow the text field<br />
   <sub>[#154667](https://github.com/flutter/flutter/pull/154667) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154667) over 5 hours, 134 additions and 5 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
+  <sub>[#153973](https://github.com/flutter/flutter/pull/153973) merged on September 4, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/153973) over 1 week, 84 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [tool] Update `.gitignore` templates to include `.flutter-plugins` files<br />
   <sub>[#152950](https://github.com/flutter/flutter/pull/152950) merged on September 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152950) over 4 weeks, 61 additions and 19 deletions in 4 files</sub><br />
@@ -66,6 +66,10 @@
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add minimum height for MaterialBanner<br />
   <sub>[#153951](https://github.com/flutter/flutter/pull/153951) merged on September 4, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/153951) over 1 week, 68 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Tirth](https://github.com/piedcipher), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Do not copy unsigned_binaries.txt to build outputs<br />
+  <sub>[#154684](https://github.com/flutter/flutter/pull/154684) merged on September 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154684) over 52 minutes, 18 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add proguard rule to keep the class for all implementations of FlutterPlugin<br />
   <sub>[#154677](https://github.com/flutter/flutter/pull/154677) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154677) over 2 hours, 7 additions and 0 deletions in 1 file</sub><br />
@@ -87,9 +91,9 @@
   <sub>[#154557](https://github.com/flutter/flutter/pull/154557) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154557) over 6 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switched CupertinoDynamicColor to `implements Color`<br />
-  <sub>[#153938](https://github.com/flutter/flutter/pull/153938) merged on September 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153938) over 1 week, 68 additions and 9 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Improve microbenchmarks a smidge<br />
+  <sub>[#154461](https://github.com/flutter/flutter/pull/154461) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154461) over 3 days, 58 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
   <sub>[#154507](https://github.com/flutter/flutter/pull/154507) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154507) over 1 day, 42 additions and 42 deletions in 5 files</sub><br />
@@ -107,9 +111,9 @@
   <sub>[#154036](https://github.com/flutter/flutter/pull/154036) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154036) over 1 week, 22 additions and 31 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Improve microbenchmarks a smidge<br />
-  <sub>[#154461](https://github.com/flutter/flutter/pull/154461) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154461) over 3 days, 58 additions and 3 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Switched CupertinoDynamicColor to `implements Color`<br />
+  <sub>[#153938](https://github.com/flutter/flutter/pull/153938) merged on September 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153938) over 1 week, 68 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert #154339, remove bringup on linux customer testing<br />
   <sub>[#154372](https://github.com/flutter/flutter/pull/154372) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154372) over 4 days, 0 additions and 8 deletions in 1 file</sub><br />
