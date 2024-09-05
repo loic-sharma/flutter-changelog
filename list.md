@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-34 commits.
+35 commits.
 
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) merged on September 5, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/154057) over 1 week, 118 additions and 1 deletion in 3 files</sub>
@@ -67,6 +67,10 @@
   <sub>[#153951](https://github.com/flutter/flutter/pull/153951) merged on September 4, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/153951) over 1 week, 68 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Tirth](https://github.com/piedcipher), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add proguard rule to keep the class for all implementations of FlutterPlugin
+  <sub>[#154677](https://github.com/flutter/flutter/pull/154677) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154677) over 2 hours, 7 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve 'flutter downgrade' error message
   <sub>[#154434](https://github.com/flutter/flutter/pull/154434) merged on September 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154434) over 5 days, 37 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
@@ -87,13 +91,13 @@
   <sub>[#153938](https://github.com/flutter/flutter/pull/153938) merged on September 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153938) over 1 week, 68 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer test logging
-  <sub>[#154577](https://github.com/flutter/flutter/pull/154577) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154577) over 41 minutes, 10 additions and 21 deletions in 2 files</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies
   <sub>[#154507](https://github.com/flutter/flutter/pull/154507) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154507) over 1 day, 42 additions and 42 deletions in 5 files</sub>
   <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer test logging
+  <sub>[#154577](https://github.com/flutter/flutter/pull/154577) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154577) over 41 minutes, 10 additions and 21 deletions in 2 files</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Really make the seed stable to YYYY-MM-DD
   <sub>[#154568](https://github.com/flutter/flutter/pull/154568) merged on September 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154568) over 2 hours, 2 additions and 1 deletion in 1 file</sub>
