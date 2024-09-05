@@ -4,7 +4,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-37 commits.
+38 commits.
 
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
   <sub>[#154057](https://github.com/flutter/flutter/pull/154057) merged on September 5, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/154057) over 1 week, 118 additions and 1 deletion in 3 files</sub><br />
@@ -47,17 +47,17 @@
   <sub>[#154462](https://github.com/flutter/flutter/pull/154462) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154462) over 3 days, 4 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu does not follow the text field<br />
-  <sub>[#154667](https://github.com/flutter/flutter/pull/154667) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154667) over 5 hours, 134 additions and 5 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize Dialog theme<br />
+  <sub>[#153982](https://github.com/flutter/flutter/pull/153982) merged on September 5, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/153982) over 1 week, 487 additions and 64 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of AppBarMediumApp and AppBarLargeApp<br />
   <sub>[#153973](https://github.com/flutter/flutter/pull/153973) merged on September 4, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/flutter/pull/153973) over 1 week, 84 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize Dialog theme<br />
-  <sub>[#153982](https://github.com/flutter/flutter/pull/153982) merged on September 5, 2024 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/153982) over 1 week, 487 additions and 64 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu does not follow the text field<br />
+  <sub>[#154667](https://github.com/flutter/flutter/pull/154667) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154667) over 5 hours, 134 additions and 5 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; [tool] Update `.gitignore` templates to include `.flutter-plugins` files<br />
   <sub>[#152950](https://github.com/flutter/flutter/pull/152950) merged on September 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/152950) over 4 weeks, 61 additions and 19 deletions in 4 files</sub><br />
@@ -70,6 +70,10 @@
 * **[Mansour Alhaddad](https://github.com/mansourzaki)** &mdash; Add minimum height for MaterialBanner<br />
   <sub>[#153951](https://github.com/flutter/flutter/pull/153951) merged on September 4, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/153951) over 1 week, 68 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Tirth](https://github.com/piedcipher), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made some pixel tests fuzzy<br />
+  <sub>[#154680](https://github.com/flutter/flutter/pull/154680) merged on September 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154680) over 4 hours, 32 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Do not copy unsigned_binaries.txt to build outputs<br />
   <sub>[#154684](https://github.com/flutter/flutter/pull/154684) merged on September 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154684) over 52 minutes, 18 additions and 3 deletions in 4 files</sub><br />
@@ -87,25 +91,25 @@
   <sub>[#154591](https://github.com/flutter/flutter/pull/154591) merged on September 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154591) over 19 hours, 28 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverList.separated` & `SliverList.builder`<br />
-  <sub>[#154551](https://github.com/flutter/flutter/pull/154551) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154551) over 6 hours, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `CircularNotchedRectangle.getOuterPath()`<br />
   <sub>[#154036](https://github.com/flutter/flutter/pull/154036) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154036) over 1 week, 22 additions and 31 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverList.separated` & `SliverList.builder`<br />
+  <sub>[#154551](https://github.com/flutter/flutter/pull/154551) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154551) over 6 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Improve microbenchmarks a smidge<br />
   <sub>[#154461](https://github.com/flutter/flutter/pull/154461) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154461) over 3 days, 58 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
-  <sub>[#154507](https://github.com/flutter/flutter/pull/154507) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154507) over 1 day, 42 additions and 42 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer test logging<br />
   <sub>[#154577](https://github.com/flutter/flutter/pull/154577) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154577) over 41 minutes, 10 additions and 21 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert #154339, remove bringup on linux customer testing<br />
+  <sub>[#154372](https://github.com/flutter/flutter/pull/154372) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154372) over 4 days, 0 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Really make the seed stable to YYYY-MM-DD<br />
   <sub>[#154568](https://github.com/flutter/flutter/pull/154568) merged on September 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154568) over 2 hours, 2 additions and 1 deletion in 1 file</sub><br />
@@ -119,9 +123,9 @@
   <sub>[#153938](https://github.com/flutter/flutter/pull/153938) merged on September 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153938) over 1 week, 68 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Revert #154339, remove bringup on linux customer testing<br />
-  <sub>[#154372](https://github.com/flutter/flutter/pull/154372) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154372) over 4 days, 0 additions and 8 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
+  <sub>[#154507](https://github.com/flutter/flutter/pull/154507) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154507) over 1 day, 42 additions and 42 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub><br />
 
 * **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`<br />
   <sub>[#154473](https://github.com/flutter/flutter/pull/154473) merged on September 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154473) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
@@ -672,7 +676,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-15 commits.
+17 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)<br />
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub><br />
@@ -701,6 +705,14 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add all requested glyphs if TypographerContextSkia needs to create a new atlas<br />
   <sub>[#54912](https://github.com/flutter/engine/pull/54912) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54912) over 3 days, 59 additions and 28 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: add unsigned_binaries.txt<br />
+  <sub>[#54977](https://github.com/flutter/engine/pull/54977) merged on September 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54977) over 2 hours, 51 additions and 18 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual Skia roll to 809f868ded1c<br />
+  <sub>[#54972](https://github.com/flutter/engine/pull/54972) merged on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54972) over 5 hours, 9 additions and 5 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] always force platform channel responses to schedule a task.<br />
   <sub>[#54975](https://github.com/flutter/engine/pull/54975) merged on September 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54975) over 45 minutes, 4 additions and 4 deletions in 1 file</sub><br />
