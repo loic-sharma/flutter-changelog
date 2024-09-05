@@ -656,7 +656,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-12 commits.
+13 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub>
@@ -681,6 +681,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add all requested glyphs if TypographerContextSkia needs to create a new atlas
   <sub>[#54912](https://github.com/flutter/engine/pull/54912) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54912) over 3 days, 59 additions and 28 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Fix unexpected ViewFocus events when Text Editing utilities change focus in the middle of a blur call.
+  <sub>[#54965](https://github.com/flutter/engine/pull/54965) merged on September 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54965) over 15 hours, 38 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] migrate last color wheel test to DisplayList.
   <sub>[#54964](https://github.com/flutter/engine/pull/54964) merged on September 5, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/54964) over 15 hours, 121 additions and 186 deletions in 5 files</sub>
@@ -1329,7 +1333,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-5 commits.
+6 commits.
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding info about code push to the faq
   <sub>[#11105](https://github.com/flutter/website/pull/11105) merged on September 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11105) over 1 hour, 10 additions and 1 deletion in 1 file</sub>
@@ -1346,6 +1350,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Go-link for "zero rebuilds" design doc
   <sub>[#11103](https://github.com/flutter/website/pull/11103) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11103) over 30 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; add storekit 2 adoption link
+  <sub>[#11108](https://github.com/flutter/website/pull/11108) merged on September 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11108) over 1 day, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Elijah Luckey](https://github.com/Luckey-Elijah)** &mdash; Adds note for the common error of indentations
   <sub>[#11106](https://github.com/flutter/website/pull/11106) merged on September 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11106) over 6 hours, 19 additions and 0 deletions in 1 file</sub>
