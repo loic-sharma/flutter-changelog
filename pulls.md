@@ -59,3 +59,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality<br />
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) opened on on September 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154695) 351 additions and 556 deletions in 13 files</sub><br />
 
+* **[SohanRaidev](https://github.com/SohanRaidev)** &mdash; Move FlutterLogo out of Material library<br />
+  <sub>[#154711](https://github.com/flutter/flutter/pull/154711) opened on on September 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154711) 3 additions and 3 deletions in 5 files</sub><br />
+
