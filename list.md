@@ -41,7 +41,7 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Nguyen Phuc Loi](https://github.com/nploi)** &mdash; Support custom transition duration for `DialogRoute`, `CupertinoDialogRoute` and show dialog methods.
-  <sub>[#154048](https://github.com/flutter/flutter/pull/154048) merged on September 6, 2024 &mdash; **Medium:** [31 comments](https://github.com/flutter/flutter/pull/154048) over 1 week, 415 additions and 9 deletions in 5 files</sub>
+  <sub>[#154048](https://github.com/flutter/flutter/pull/154048) merged on September 6, 2024 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/154048) over 1 week, 415 additions and 9 deletions in 5 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; set onChangedField function to only update options with new results
@@ -705,7 +705,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-21 commits.
+22 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub>
@@ -734,6 +734,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add all requested glyphs if TypographerContextSkia needs to create a new atlas
   <sub>[#54912](https://github.com/flutter/engine/pull/54912) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54912) over 3 days, 59 additions and 28 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] fake image for fake tests.
+  <sub>[#54974](https://github.com/flutter/engine/pull/54974) merged on September 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54974) over 1 day, 76 additions and 9 deletions in 7 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes the int storage from Color
   <sub>[#54714](https://github.com/flutter/engine/pull/54714) merged on September 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54714) over 2 weeks, 53 additions and 118 deletions in 2 files</sub>
