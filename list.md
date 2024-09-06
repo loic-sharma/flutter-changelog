@@ -695,7 +695,7 @@
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] fix platform view clipping path intersection
-  <sub>[#54820](https://github.com/flutter/engine/pull/54820) merged on September 3, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/engine/pull/54820) over 6 days, 1494 additions and 61 deletions in 22 files</sub>
+  <sub>[#54820](https://github.com/flutter/engine/pull/54820) merged on September 3, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/engine/pull/54820) over 6 days, 1494 additions and 61 deletions in 22 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix incorrect calculation of ImageFilter paint bounds
