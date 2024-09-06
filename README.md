@@ -718,7 +718,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-24 commits.
+26 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)<br />
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub><br />
@@ -755,6 +755,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Add all requested glyphs if TypographerContextSkia needs to create a new atlas<br />
   <sub>[#54912](https://github.com/flutter/engine/pull/54912) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54912) over 3 days, 59 additions and 28 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [skwasm] use temporary RawPaint objects<br />
+  <sub>[#54917](https://github.com/flutter/engine/pull/54917) merged on September 6, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54917) over 5 days, 227 additions and 292 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] fake image for fake tests.<br />
   <sub>[#54974](https://github.com/flutter/engine/pull/54974) merged on September 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54974) over 1 day, 76 additions and 9 deletions in 7 files</sub><br />
@@ -799,6 +803,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Adreno 630 vulkan and add mechanism for android driver denylisting.<br />
   <sub>[#54920](https://github.com/flutter/engine/pull/54920) merged on September 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54920) over 1 day, 71 additions and 1 deletion in 6 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Paul Berry](https://github.com/stereotype441)** &mdash; [multiple] Avoid new `unreachable_switch_default` warning.<br />
+  <sub>[#54996](https://github.com/flutter/engine/pull/54996) merged on September 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54996) over 9 hours, 0 additions and 11 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Change "there own" to "their own" in Flutter-GPU docs<br />
   <sub>[#54921](https://github.com/flutter/engine/pull/54921) merged on September 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54921) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
