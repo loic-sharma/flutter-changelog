@@ -764,7 +764,7 @@
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart.<br />
-  <sub>[#54983](https://github.com/flutter/engine/pull/54983) merged on September 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54983) over 47 minutes, 7 additions and 15 deletions in 4 files</sub><br />
+  <sub>[#54983](https://github.com/flutter/engine/pull/54983) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54983) over 47 minutes, 7 additions and 15 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use moved Skia Ganesh header files<br />
