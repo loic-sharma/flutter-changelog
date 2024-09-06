@@ -60,7 +60,7 @@
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) opened on on September 5, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/154695) 351 additions and 556 deletions in 13 files</sub><br />
 
 * **[SohanRaidev](https://github.com/SohanRaidev)** &mdash; Move FlutterLogo out of Material library<br />
-  <sub>[#154711](https://github.com/flutter/flutter/pull/154711) opened on on September 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154711) 4 additions and 4 deletions in 6 files</sub><br />
+  <sub>[#154711](https://github.com/flutter/flutter/pull/154711) opened on on September 6, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154711) 4 additions and 4 deletions in 6 files</sub><br />
 
 * **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Remove allowoptimization modifier from FlutterPlugin proguard rules<br />
   <sub>[#154715](https://github.com/flutter/flutter/pull/154715) opened on on September 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154715) 1 addition and 1 deletion in 1 file</sub><br />
