@@ -718,14 +718,14 @@
 
 ### August 31, 2024 to September 6, 2024
 
-23 commits.
+24 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] opt into exp canvas.
-  <sub>[#54913](https://github.com/flutter/engine/pull/54913) merged on September 6, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/54913) over 6 days, 145 additions and 73 deletions in 6 files</sub>
+  <sub>[#54913](https://github.com/flutter/engine/pull/54913) merged on September 6, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/engine/pull/54913) over 6 days, 145 additions and 73 deletions in 6 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] fix platform view clipping path intersection
@@ -743,6 +743,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix incorrect calculation of ImageFilter paint bounds
   <sub>[#54980](https://github.com/flutter/engine/pull/54980) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54980) over 53 minutes, 41 additions and 14 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] use DlScalar, DlPoint, DlRect exclusively in DlOpReceiver methods
+  <sub>[#54982](https://github.com/flutter/engine/pull/54982) merged on September 6, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/54982) over 23 hours, 1133 additions and 972 deletions in 37 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Framework wide color linear gradients
   <sub>[#54748](https://github.com/flutter/engine/pull/54748) merged on September 4, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/engine/pull/54748) over 1 week, 80 additions and 45 deletions in 4 files</sub>
@@ -1439,7 +1443,11 @@
 
 ### August 31, 2024 to September 6, 2024
 
-6 commits.
+7 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds wide gamut framework breakage notice.
+  <sub>[#11082](https://github.com/flutter/website/pull/11082) merged on September 6, 2024 &mdash; **Small:** [51 comments](https://github.com/flutter/website/pull/11082) over 1 week, 172 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Loïc Sharma](https://github.com/loic-sharma), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding info about code push to the faq
   <sub>[#11105](https://github.com/flutter/website/pull/11105) merged on September 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11105) over 1 hour, 10 additions and 1 deletion in 1 file</sub>
