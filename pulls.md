@@ -54,7 +54,7 @@
   <sub>[#154675](https://github.com/flutter/flutter/pull/154675) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154675) 47 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes the offset computation to first item for RenderSliverMainAxisGroup<br />
-  <sub>[#154688](https://github.com/flutter/flutter/pull/154688) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154688) 105 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#154688](https://github.com/flutter/flutter/pull/154688) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154688) 107 additions and 2 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality<br />
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) opened on on September 5, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/154695) 351 additions and 556 deletions in 13 files</sub><br />
