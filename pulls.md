@@ -62,3 +62,6 @@
 * **[SohanRaidev](https://github.com/SohanRaidev)** &mdash; Move FlutterLogo out of Material library<br />
   <sub>[#154711](https://github.com/flutter/flutter/pull/154711) opened on on September 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154711) 3 additions and 3 deletions in 5 files</sub><br />
 
+* **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Remove allowoptimization modifier from FlutterPlugin proguard rules<br />
+  <sub>[#154715](https://github.com/flutter/flutter/pull/154715) opened on on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154715) 1 addition and 1 deletion in 1 file</sub><br />
+
