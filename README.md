@@ -689,7 +689,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-20 commits.
+21 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)<br />
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub><br />
@@ -758,6 +758,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Adreno 630 vulkan and add mechanism for android driver denylisting.<br />
   <sub>[#54920](https://github.com/flutter/engine/pull/54920) merged on September 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54920) over 1 day, 71 additions and 1 deletion in 6 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Change "there own" to "their own" in Flutter-GPU docs<br />
+  <sub>[#54921](https://github.com/flutter/engine/pull/54921) merged on September 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54921) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll of Dart.<br />
   <sub>[#54983](https://github.com/flutter/engine/pull/54983) merged on September 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54983) over 47 minutes, 7 additions and 15 deletions in 4 files</sub><br />
