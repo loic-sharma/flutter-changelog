@@ -695,6 +695,10 @@
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [John McDole](https://github.com/jtmcdole)</sub><br />
 
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] fix platform view clipping path intersection<br />
+  <sub>[#54820](https://github.com/flutter/engine/pull/54820) merged on September 3, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/engine/pull/54820) over 6 days, 1494 additions and 61 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Remove unnecessary DisplayListBuilder as DlOpReceiver accesses<br />
   <sub>[#54969](https://github.com/flutter/engine/pull/54969) merged on September 5, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54969) over 10 hours, 762 additions and 724 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -702,10 +706,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make FlApplication class<br />
   <sub>[#54637](https://github.com/flutter/engine/pull/54637) merged on September 3, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/engine/pull/54637) over 2 weeks, 267 additions and 0 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub><br />
-
-* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] fix platform view clipping path intersection<br />
-  <sub>[#54820](https://github.com/flutter/engine/pull/54820) merged on September 3, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/engine/pull/54820) over 6 days, 1494 additions and 61 deletions in 22 files</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix incorrect calculation of ImageFilter paint bounds<br />
   <sub>[#54980](https://github.com/flutter/engine/pull/54980) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54980) over 53 minutes, 41 additions and 14 deletions in 2 files</sub><br />
