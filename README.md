@@ -722,7 +722,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-26 commits.
+27 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)<br />
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub><br />
@@ -827,6 +827,10 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 139867e57ba9 to 1a6246225b75 (18 revisions)<br />
   <sub>[#54962](https://github.com/flutter/engine/pull/54962) merged on September 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54962) over 49 minutes, 6 additions and 5 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] reland: always post tasks for platform channel responses.<br />
+  <sub>[#55006](https://github.com/flutter/engine/pull/55006) merged on September 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55006) over 6 hours, 40 additions and 18 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 ### August 24, 2024 to August 30, 2024
 
