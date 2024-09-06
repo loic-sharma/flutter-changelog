@@ -41,7 +41,7 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Nguyen Phuc Loi](https://github.com/nploi)** &mdash; Support custom transition duration for `DialogRoute`, `CupertinoDialogRoute` and show dialog methods.
-  <sub>[#154048](https://github.com/flutter/flutter/pull/154048) merged on September 6, 2024 &mdash; **Medium:** [37 comments](https://github.com/flutter/flutter/pull/154048) over 1 week, 415 additions and 9 deletions in 5 files</sub>
+  <sub>[#154048](https://github.com/flutter/flutter/pull/154048) merged on September 6, 2024 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/154048) over 1 week, 415 additions and 9 deletions in 5 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; set onChangedField function to only update options with new results

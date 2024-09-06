@@ -71,3 +71,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix `Drawer` prematurely snapping<br />
   <sub>[#154720](https://github.com/flutter/flutter/pull/154720) opened on on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154720) 68 additions and 1 deletion in 4 files</sub><br />
 
+* **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed_carousel_optinal_tap_event<br />
+  <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
+
