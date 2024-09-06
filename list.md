@@ -1172,7 +1172,7 @@
 
 ### August 31, 2024 to September 6, 2024
 
-8 commits.
+9 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for pausing and resuming Ad playback and skipping an Ad
   <sub>[#7285](https://github.com/flutter/packages/pull/7285) merged on September 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7285) over 1 month, 465 additions and 24 deletions in 22 files</sub>
@@ -1181,6 +1181,10 @@
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Go router sample for AdaptiveScaffold
   <sub>[#7452](https://github.com/flutter/packages/pull/7452) merged on September 4, 2024 &mdash; **Large:** [31 comments](https://github.com/flutter/packages/pull/7452) over 2 weeks, 731 additions and 2 deletions in 20 files</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [extension_google_sign_in_as_googleapis_auth][google_maps_flutter_ios] Manual roll with fixes to example and skipping some native tests
+  <sub>[#7571](https://github.com/flutter/packages/pull/7571) merged on September 6, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7571) over 2 days, 20 additions and 5 deletions in 5 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `JointType` to an enum
   <sub>[#7558](https://github.com/flutter/packages/pull/7558) merged on September 4, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7558) over 4 days, 107 additions and 19 deletions in 8 files</sub>
