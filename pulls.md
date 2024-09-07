@@ -71,6 +71,3 @@
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed_carousel_optinal_tap_event<br />
   <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Dart Patterns: Survival of the Fittest<br />
-  <sub>[#154753](https://github.com/flutter/flutter/pull/154753) opened on on September 6, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154753) 432 additions and 754 deletions in 62 files</sub><br />
-

@@ -101,9 +101,9 @@
   <sub>[#153951](https://github.com/flutter/flutter/pull/153951) merged on September 4, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/153951) over 1 week, 68 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Tirth](https://github.com/piedcipher), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Quick access to style guide<br />
-  <sub>[#154689](https://github.com/flutter/flutter/pull/154689) merged on September 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154689) over 18 hours, 2 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add proguard rule to keep the class for all implementations of FlutterPlugin<br />
+  <sub>[#154677](https://github.com/flutter/flutter/pull/154677) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154677) over 2 hours, 7 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverFixedExtentList` & `SliverVariedExtentList`<br />
   <sub>[#154557](https://github.com/flutter/flutter/pull/154557) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154557) over 6 hours, 2 additions and 2 deletions in 1 file</sub><br />
@@ -125,9 +125,9 @@
   <sub>[#154036](https://github.com/flutter/flutter/pull/154036) merged on September 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154036) over 1 week, 22 additions and 31 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made some pixel tests fuzzy<br />
-  <sub>[#154680](https://github.com/flutter/flutter/pull/154680) merged on September 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154680) over 4 hours, 32 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve iOS unpack target's error messages<br />
+  <sub>[#154649](https://github.com/flutter/flutter/pull/154649) merged on September 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154649) over 1 day, 47 additions and 23 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Improve microbenchmarks a smidge<br />
   <sub>[#154461](https://github.com/flutter/flutter/pull/154461) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154461) over 3 days, 58 additions and 3 deletions in 3 files</sub><br />
@@ -137,9 +137,9 @@
   <sub>[#154507](https://github.com/flutter/flutter/pull/154507) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154507) over 1 day, 42 additions and 42 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add proguard rule to keep the class for all implementations of FlutterPlugin<br />
-  <sub>[#154677](https://github.com/flutter/flutter/pull/154677) merged on September 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154677) over 2 hours, 7 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Do not copy unsigned_binaries.txt to build outputs<br />
+  <sub>[#154684](https://github.com/flutter/flutter/pull/154684) merged on September 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154684) over 52 minutes, 18 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve 'flutter downgrade' error message<br />
   <sub>[#154434](https://github.com/flutter/flutter/pull/154434) merged on September 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154434) over 5 days, 37 additions and 11 deletions in 2 files</sub><br />
@@ -149,33 +149,33 @@
   <sub>[#154591](https://github.com/flutter/flutter/pull/154591) merged on September 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154591) over 19 hours, 28 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve iOS unpack target's error messages<br />
-  <sub>[#154649](https://github.com/flutter/flutter/pull/154649) merged on September 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154649) over 1 day, 47 additions and 23 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Quick access to style guide<br />
+  <sub>[#154689](https://github.com/flutter/flutter/pull/154689) merged on September 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154689) over 18 hours, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Tiny Fix in Docs for `SliverList.separated` & `SliverList.builder`<br />
   <sub>[#154551](https://github.com/flutter/flutter/pull/154551) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154551) over 6 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Do not copy unsigned_binaries.txt to build outputs<br />
-  <sub>[#154684](https://github.com/flutter/flutter/pull/154684) merged on September 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154684) over 52 minutes, 18 additions and 3 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made some pixel tests fuzzy<br />
+  <sub>[#154680](https://github.com/flutter/flutter/pull/154680) merged on September 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154680) over 4 hours, 32 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update customer test logging<br />
   <sub>[#154577](https://github.com/flutter/flutter/pull/154577) merged on September 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154577) over 41 minutes, 10 additions and 21 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`<br />
-  <sub>[#154473](https://github.com/flutter/flutter/pull/154473) merged on September 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154473) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Remove allowoptimization modifier from FlutterPlugin proguard rules<br />
+  <sub>[#154715](https://github.com/flutter/flutter/pull/154715) merged on September 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154715) over 8 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Chris Bobbe](https://github.com/chrisbobbe)** &mdash; Adjust ButtonStyle.{foreground,icon}Color dartdocs for new behavior<br />
   <sub>[#154646](https://github.com/flutter/flutter/pull/154646) merged on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154646) over 1 day, 1 addition and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Rajesh Malviya](https://github.com/rajveermalviya)** &mdash; Remove allowoptimization modifier from FlutterPlugin proguard rules<br />
-  <sub>[#154715](https://github.com/flutter/flutter/pull/154715) merged on September 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154715) over 8 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+* **[Shreyans Pathak](https://github.com/ishon19)** &mdash; Replace `ListTile` usage with `CupertinoListTile`<br />
+  <sub>[#154473](https://github.com/flutter/flutter/pull/154473) merged on September 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154473) over 3 days, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update changelog from 3.24.2 to master<br />
   <sub>[#154625](https://github.com/flutter/flutter/pull/154625) merged on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154625) over 2 hours, 12 additions and 1 deletion in 1 file</sub><br />
