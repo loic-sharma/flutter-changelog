@@ -833,7 +833,7 @@
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] reland: always post tasks for platform channel responses.<br />
-  <sub>[#55006](https://github.com/flutter/engine/pull/55006) merged on September 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55006) over 6 hours, 40 additions and 18 deletions in 5 files</sub><br />
+  <sub>[#55006](https://github.com/flutter/engine/pull/55006) merged on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55006) over 6 hours, 40 additions and 18 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 ### August 24, 2024 to August 30, 2024
