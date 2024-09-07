@@ -761,7 +761,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [skwasm] use temporary RawPaint objects
-  <sub>[#54917](https://github.com/flutter/engine/pull/54917) merged on September 6, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/54917) over 5 days, 227 additions and 292 deletions in 5 files</sub>
+  <sub>[#54917](https://github.com/flutter/engine/pull/54917) merged on September 6, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/54917) over 5 days, 227 additions and 292 deletions in 5 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] fake image for fake tests.
