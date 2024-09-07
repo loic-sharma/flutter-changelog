@@ -53,7 +53,7 @@
 * **[nick9822](https://github.com/nick9822)** &mdash; fixed keyboardDismissBehavior on scroll without a drag<br />
   <sub>[#154675](https://github.com/flutter/flutter/pull/154675) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154675) 47 additions and 2 deletions in 2 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes the offset computation to first item for RenderSliverMainAxisGroup<br />
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Changes the offset computation to first item for RenderSliverMainAxisGroup<br />
   <sub>[#154688](https://github.com/flutter/flutter/pull/154688) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154688) 109 additions and 3 deletions in 3 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality<br />
