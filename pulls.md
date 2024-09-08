@@ -72,5 +72,5 @@
   <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Add windows build version detection<br />
-  <sub>[#154797](https://github.com/flutter/flutter/pull/154797) opened on on September 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154797) 27 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#154797](https://github.com/flutter/flutter/pull/154797) opened on on September 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154797) 25 additions and 2 deletions in 1 file</sub><br />
 
