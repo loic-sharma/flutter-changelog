@@ -80,3 +80,6 @@
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Restore analyze_snippet_code_test tests.<br />
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 12 deletions in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move (`dev/tools`), complete v0 of `native_driver` (Android)<br />
+  <sub>[#154843](https://github.com/flutter/flutter/pull/154843) opened on on September 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154843) 2739 additions and 579 deletions in 96 files</sub><br />
+
