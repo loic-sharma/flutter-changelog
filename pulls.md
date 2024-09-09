@@ -63,7 +63,7 @@
   <sub>[#154711](https://github.com/flutter/flutter/pull/154711) opened on on September 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154711) 4 additions and 4 deletions in 6 files</sub><br />
 
 * **[maRci002](https://github.com/maRci002)** &mdash; Shared element transition for predictive back<br />
-  <sub>[#154718](https://github.com/flutter/flutter/pull/154718) opened on on September 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154718) 159 additions and 12 deletions in 1 file</sub><br />
+  <sub>[#154718](https://github.com/flutter/flutter/pull/154718) opened on on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154718) 137 additions and 8 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix `Drawer` prematurely snapping<br />
   <sub>[#154720](https://github.com/flutter/flutter/pull/154720) opened on on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154720) 68 additions and 1 deletion in 4 files</sub><br />
