@@ -32,6 +32,10 @@
   <sub>[#153256](https://github.com/flutter/flutter/pull/153256) merged on September 4, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/153256) over 3 weeks, 77 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
+* **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add static `of` accessor methods to `ColorScheme` and `TextTheme`
+  <sub>[#154073](https://github.com/flutter/flutter/pull/154073) merged on September 4, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/154073) over 1 week, 105 additions and 6 deletions in 5 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make the Flutter Gradle Plugin apply `FlutterExtension` to (flutter) plugins
   <sub>[#151861](https://github.com/flutter/flutter/pull/151861) merged on September 4, 2024 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/151861) over 1 month, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
@@ -52,10 +56,6 @@
 * **[Nguyen Phuc Loi](https://github.com/nploi)** &mdash; Support custom transition duration for `DialogRoute`, `CupertinoDialogRoute` and show dialog methods.
   <sub>[#154048](https://github.com/flutter/flutter/pull/154048) merged on September 6, 2024 &mdash; **Medium:** [40 comments](https://github.com/flutter/flutter/pull/154048) over 1 week, 415 additions and 9 deletions in 5 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tirth](https://github.com/piedcipher)</sub>
-
-* **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add static `of` accessor methods to `ColorScheme` and `TextTheme`
-  <sub>[#154073](https://github.com/flutter/flutter/pull/154073) merged on September 4, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/154073) over 1 week, 105 additions and 6 deletions in 5 files</sub>
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Improve Documentation for ResizeImage Dimensions and Usage
   <sub>[#154212](https://github.com/flutter/flutter/pull/154212) merged on September 3, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/154212) over 6 days, 23 additions and 0 deletions in 1 file</sub>
