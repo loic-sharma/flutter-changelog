@@ -72,7 +72,7 @@
   <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; [WIP] Add windows build version detection<br />
-  <sub>[#154797](https://github.com/flutter/flutter/pull/154797) opened on on September 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154797) 25 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#154797](https://github.com/flutter/flutter/pull/154797) opened on on September 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154797) 26 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; CheckboxListTile: add property to scale the checkbox<br />
   <sub>[#154806](https://github.com/flutter/flutter/pull/154806) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154806) 47 additions and 34 deletions in 1 file</sub><br />
