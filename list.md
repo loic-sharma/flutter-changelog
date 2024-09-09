@@ -482,8 +482,8 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add herustic for ignoring coverage limit w/ image filters.
-  <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+  <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Add `crossOrigin` property to <img> tag used for decoding (#54961)"
   <sub>[#55042](https://github.com/flutter/engine/pull/55042) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55042) over 1 hour, 0 additions and 15 deletions in 3 files</sub>
@@ -547,7 +547,7 @@
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] fake image for fake tests.
-  <sub>[#54974](https://github.com/flutter/engine/pull/54974) merged on September 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/54974) over 1 day, 76 additions and 9 deletions in 7 files</sub>
+  <sub>[#54974](https://github.com/flutter/engine/pull/54974) merged on September 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/54974) over 1 day, 76 additions and 9 deletions in 7 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removes the int storage from Color
