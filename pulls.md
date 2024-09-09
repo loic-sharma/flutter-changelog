@@ -56,9 +56,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Changes the offset computation to first item for RenderSliverMainAxisGroup<br />
   <sub>[#154688](https://github.com/flutter/flutter/pull/154688) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154688) 109 additions and 3 deletions in 3 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality<br />
-  <sub>[#154695](https://github.com/flutter/flutter/pull/154695) opened on on September 5, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/154695) 351 additions and 556 deletions in 13 files</sub><br />
-
 * **[SohanRaidev](https://github.com/SohanRaidev)** &mdash; Move FlutterLogo out of Material library<br />
   <sub>[#154711](https://github.com/flutter/flutter/pull/154711) opened on on September 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154711) 4 additions and 4 deletions in 6 files</sub><br />
 
@@ -81,5 +78,5 @@
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 12 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move (`dev/tools`), complete v0 of `native_driver` (Android)<br />
-  <sub>[#154843](https://github.com/flutter/flutter/pull/154843) opened on on September 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154843) 2733 additions and 576 deletions in 95 files</sub><br />
+  <sub>[#154843](https://github.com/flutter/flutter/pull/154843) opened on on September 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154843) 2751 additions and 586 deletions in 95 files</sub><br />
 
