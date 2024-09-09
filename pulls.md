@@ -77,3 +77,6 @@
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; CheckboxListTile: add property to scale the checkbox<br />
   <sub>[#154806](https://github.com/flutter/flutter/pull/154806) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154806) 47 additions and 34 deletions in 1 file</sub><br />
 
+* **[野瀬田　裕樹](https://github.com/yuukiw00w)** &mdash; fix NestedScrollView crash with multiple ScrollPositions<br />
+  <sub>[#154808](https://github.com/flutter/flutter/pull/154808) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154808) 7 additions and 3 deletions in 1 file</sub><br />
+
