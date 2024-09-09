@@ -998,7 +998,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-1 commits.
+2 commits.
+
+* **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Bug in `flutter_site/check_link_references` tool during matching
+  <sub>[#11111](https://github.com/flutter/website/pull/11111) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11111) over 9 hours, 3 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Update: Extract-Archive -> Expand-Archive
   <sub>[#11112](https://github.com/flutter/website/pull/11112) merged on September 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11112) over 7 hours, 4 additions and 4 deletions in 1 file</sub>
