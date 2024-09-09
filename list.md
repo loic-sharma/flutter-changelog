@@ -834,7 +834,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-2 commits.
+3 commits.
+
+* **[Paul Berry](https://github.com/stereotype441)** &mdash; [camerax] Ignore new `unreachable_switch_default` warning.
+  <sub>[#7592](https://github.com/flutter/packages/pull/7592) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7592) over 3 days, 3 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_platform_interface] Split `CameraUpdate` into derived classes to use structured data
   <sub>[#7596](https://github.com/flutter/packages/pull/7596) merged on September 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7596) over 3 days, 243 additions and 34 deletions in 4 files</sub>
