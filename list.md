@@ -4,11 +4,15 @@
 
 ### September 7, 2024 to September 13, 2024
 
-1 commits.
+2 commits.
 
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget
   <sub>[#150315](https://github.com/flutter/flutter/pull/150315) merged on September 9, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/150315) over 2 months, 41 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.
+  <sub>[#154847](https://github.com/flutter/flutter/pull/154847) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154847) over 47 minutes, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 ### August 31, 2024 to September 6, 2024
 
