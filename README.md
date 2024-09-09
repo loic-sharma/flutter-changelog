@@ -551,7 +551,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Add `crossOrigin` property to <img> tag used for decoding<br />
-  <sub>[#54961](https://github.com/flutter/engine/pull/54961) merged on September 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/54961) over 3 hours, 15 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#54961](https://github.com/flutter/engine/pull/54961) merged on September 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/54961) over 3 hours, 15 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix NPE when checking known bad driver.<br />
