@@ -4,7 +4,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-2 commits.
+3 commits.
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Handle `ProcessException`s due to `git` missing on the host<br />
+  <sub>[#154445](https://github.com/flutter/flutter/pull/154445) merged on September 9, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/154445) over 1 week, 142 additions and 12 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
   <sub>[#150315](https://github.com/flutter/flutter/pull/150315) merged on September 9, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/150315) over 2 months, 41 additions and 6 deletions in 2 files</sub><br />
@@ -1002,7 +1006,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-3 commits.
+4 commits.
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Fix formatting of code snippets on iOS dev pages<br />
+  <sub>[#11021](https://github.com/flutter/website/pull/11021) merged on September 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11021) over 1 month, 73 additions and 87 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Bug in `flutter_site/check_link_references` tool during matching<br />
   <sub>[#11111](https://github.com/flutter/website/pull/11111) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11111) over 9 hours, 3 additions and 3 deletions in 3 files</sub><br />
