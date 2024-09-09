@@ -74,3 +74,6 @@
 * **[René Kilczan](https://github.com/rekire)** &mdash; Add windows build version detection<br />
   <sub>[#154797](https://github.com/flutter/flutter/pull/154797) opened on on September 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154797) 25 additions and 2 deletions in 1 file</sub><br />
 
+* **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; CheckboxListTile: add property to scale the checkbox<br />
+  <sub>[#154806](https://github.com/flutter/flutter/pull/154806) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154806) 47 additions and 34 deletions in 1 file</sub><br />
+
