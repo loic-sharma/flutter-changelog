@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 7, 2024 to September 13, 2024
+
+1 commits.
+
+* **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget
+  <sub>[#150315](https://github.com/flutter/flutter/pull/150315) merged on September 9, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/150315) over 2 months, 41 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 ### August 31, 2024 to September 6, 2024
 
-50 commits.
+<details>
+<summary>50 commits...</summary>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Improve CupertinoPopupSurface appearance
   <sub>[#151430](https://github.com/flutter/flutter/pull/151430) merged on September 6, 2024 &mdash; **Large:** [112 comments](https://github.com/flutter/flutter/pull/151430) over 1 month, 526 additions and 21 deletions in 2 files</sub>
@@ -208,6 +217,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "improve trace logging in packages autoroller"
   <sub>[#154555](https://github.com/flutter/flutter/pull/154555) merged on September 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154555) over 1 hour, 34 additions and 52 deletions in 4 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+
+</details>
 
 ### August 24, 2024 to August 30, 2024
 
