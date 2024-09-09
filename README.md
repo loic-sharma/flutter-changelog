@@ -1006,7 +1006,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-4 commits.
+5 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix formatting of code snippets on iOS dev pages<br />
   <sub>[#11021](https://github.com/flutter/website/pull/11021) merged on September 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11021) over 1 month, 73 additions and 87 deletions in 14 files</sub><br />
@@ -1015,6 +1015,10 @@
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Bug in `flutter_site/check_link_references` tool during matching<br />
   <sub>[#11111](https://github.com/flutter/website/pull/11111) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11111) over 9 hours, 3 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove/disable broken scorecard workflow<br />
+  <sub>[#11116](https://github.com/flutter/website/pull/11116) merged on September 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11116) over 1 hour, 0 additions and 58 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update npm deps with 11ty and liquid fixes<br />
   <sub>[#11115](https://github.com/flutter/website/pull/11115) merged on September 9, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/11115) over 22 minutes, 182 additions and 131 deletions in 2 files</sub><br />
