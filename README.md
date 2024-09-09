@@ -862,7 +862,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-3 commits.
+4 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Increase deprecation check minimum to macOS 14<br />
+  <sub>[#7544](https://github.com/flutter/packages/pull/7544) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7544) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [camerax] Ignore new `unreachable_switch_default` warning.<br />
   <sub>[#7592](https://github.com/flutter/packages/pull/7592) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7592) over 3 days, 3 additions and 3 deletions in 3 files</sub><br />
