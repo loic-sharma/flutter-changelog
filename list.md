@@ -462,9 +462,18 @@
 
 ## flutter/engine
 
+### September 7, 2024 to September 13, 2024
+
+1 commits.
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Add `crossOrigin` property to <img> tag used for decoding (#54961)"
+  <sub>[#55042](https://github.com/flutter/engine/pull/55042) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55042) over 1 hour, 0 additions and 15 deletions in 3 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
 ### August 31, 2024 to September 6, 2024
 
-31 commits.
+<details>
+<summary>31 commits...</summary>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add more `package:test` (removing usages of `package:litetest`)
   <sub>[#54882](https://github.com/flutter/engine/pull/54882) merged on September 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/54882) over 5 days, 158 additions and 181 deletions in 23 files</sub>
@@ -589,6 +598,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] reland: always post tasks for platform channel responses.
   <sub>[#55006](https://github.com/flutter/engine/pull/55006) merged on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55006) over 6 hours, 40 additions and 18 deletions in 5 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+</details>
 
 ### August 24, 2024 to August 30, 2024
 
