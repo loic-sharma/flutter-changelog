@@ -4,7 +4,15 @@
 
 ### September 7, 2024 to September 13, 2024
 
-3 commits.
+5 commits.
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality<br />
+  <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Michal Hazdra](https://github.com/Michal-MK)** &mdash; Add scrim color parameter to _ZoomEnterTransitionPainter<br />
+  <sub>[#152815](https://github.com/flutter/flutter/pull/152815) merged on September 9, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/152815) over 1 month, 125 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [dy0gu](https://github.com/dy0gu), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Handle `ProcessException`s due to `git` missing on the host<br />
   <sub>[#154445](https://github.com/flutter/flutter/pull/154445) merged on September 9, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/154445) over 1 week, 142 additions and 12 deletions in 3 files</sub><br />
@@ -483,7 +491,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-3 commits.
+4 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Unskip Impeller iOS scenario tests<br />
+  <sub>[#55012](https://github.com/flutter/engine/pull/55012) merged on September 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55012) over 3 days, 246 additions and 134 deletions in 49 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix obvious memory leak.<br />
   <sub>[#55036](https://github.com/flutter/engine/pull/55036) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55036) over 13 hours, 12 additions and 19 deletions in 4 files</sub><br />
