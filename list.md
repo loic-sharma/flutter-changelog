@@ -482,7 +482,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add herustic for ignoring coverage limit w/ image filters.
-  <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub>
+  <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Add `crossOrigin` property to <img> tag used for decoding (#54961)"
@@ -535,7 +535,7 @@
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable exp canvas.
-  <sub>[#55026](https://github.com/flutter/engine/pull/55026) merged on September 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55026) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>[#55026](https://github.com/flutter/engine/pull/55026) merged on September 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55026) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Turn off software rendering in iOS scenario golden tests
