@@ -54,7 +54,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color<br />
-  <sub>[#154057](https://github.com/flutter/flutter/pull/154057) merged on September 5, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/154057) over 1 week, 118 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#154057](https://github.com/flutter/flutter/pull/154057) merged on September 5, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/154057) over 1 week, 118 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; added enabled to search anchor<br />
