@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-12 commits.
+13 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub>
@@ -34,6 +34,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; fix test `chrome.close can recover if getTab throws a StateError`
   <sub>[#154889](https://github.com/flutter/flutter/pull/154889) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154889) over 17 hours, 19 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove scheduler: luci from new `build_aar_module_test`
+  <sub>[#154945](https://github.com/flutter/flutter/pull/154945) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154945) over 56 minutes, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; SearchBar context menu
   <sub>[#154833](https://github.com/flutter/flutter/pull/154833) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154833) over 23 hours, 87 additions and 4 deletions in 4 files</sub>

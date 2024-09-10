@@ -80,6 +80,3 @@
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [CP-stable] Cherry pick "Fix `flutter build aar` for modules that use a plugin"<br />
-  <sub>[#154944](https://github.com/flutter/flutter/pull/154944) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154944) 56 additions and 1 deletion in 4 files</sub><br />
-
