@@ -32,9 +32,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT<br />
   <sub>[#154357](https://github.com/flutter/flutter/pull/154357) opened on on August 29, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154357) 11841 additions and 15597 deletions in 955 files</sub><br />
 
-* **[Viraj Kanwade](https://github.com/virajkanwade)** &mdash; Updated iPhone enable developer mode instructions<br />
-  <sub>[#154511](https://github.com/flutter/flutter/pull/154511) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154511) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Kristen McWilliam](https://github.com/Merrit)** &mdash; fix(Linux): specify application id for Wayland<br />
   <sub>[#154522](https://github.com/flutter/flutter/pull/154522) opened on on September 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154522) 7 additions and 0 deletions in 1 file</sub><br />
 
