@@ -495,7 +495,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-5 commits.
+6 commits.
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [skwasm] use temporary RawPaint objects (attempt #2)<br />
+  <sub>[#55035](https://github.com/flutter/engine/pull/55035) merged on September 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55035) over 23 hours, 379 additions and 350 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Unskip Impeller iOS scenario tests<br />
   <sub>[#55012](https://github.com/flutter/engine/pull/55012) merged on September 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55012) over 3 days, 246 additions and 134 deletions in 49 files</sub><br />
