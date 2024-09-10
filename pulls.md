@@ -24,7 +24,7 @@
   <sub>[#154086](https://github.com/flutter/flutter/pull/154086) opened on on August 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154086) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
-  <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
+  <sub>[#154125](https://github.com/flutter/flutter/pull/154125) opened on on August 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154125) 62 additions and 61 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
   <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/154217) 257 additions and 44 deletions in 6 files</sub><br />
@@ -48,7 +48,7 @@
   <sub>[#154643](https://github.com/flutter/flutter/pull/154643) opened on on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154643) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[nick9822](https://github.com/nick9822)** &mdash; fixed keyboardDismissBehavior on scroll without a drag<br />
-  <sub>[#154675](https://github.com/flutter/flutter/pull/154675) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154675) 47 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#154675](https://github.com/flutter/flutter/pull/154675) opened on on September 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154675) 47 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Changes the offset computation to first item for RenderSliverMainAxisGroup<br />
   <sub>[#154688](https://github.com/flutter/flutter/pull/154688) opened on on September 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154688) 109 additions and 3 deletions in 3 files</sub><br />
@@ -75,7 +75,7 @@
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 12 deletions in 1 file</sub><br />
 
 * **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using LinearGradient:withOpacity<br />
-  <sub>[#154908](https://github.com/flutter/flutter/pull/154908) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154908) 26 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#154908](https://github.com/flutter/flutter/pull/154908) opened on on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154908) 26 additions and 0 deletions in 2 files</sub><br />
 
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
