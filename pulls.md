@@ -83,3 +83,6 @@
 * **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using LinearGradient:withOpacity<br />
   <sub>[#154908](https://github.com/flutter/flutter/pull/154908) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154908) 26 additions and 0 deletions in 2 files</sub><br />
 
+* **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
+  <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
+
