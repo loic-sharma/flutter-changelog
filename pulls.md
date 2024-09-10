@@ -86,3 +86,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stop reading .packages from flutter_tools.<br />
   <sub>[#154912](https://github.com/flutter/flutter/pull/154912) opened on on September 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154912) 499 additions and 319 deletions in 49 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField content should be selected on desktop when gaining focus<br />
+  <sub>[#154916](https://github.com/flutter/flutter/pull/154916) opened on on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154916) 37 additions and 12 deletions in 3 files</sub><br />
+
