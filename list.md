@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-9 commits.
+10 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub>
@@ -25,6 +25,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `flutter build aar` for modules that use a plugin
   <sub>[#154757](https://github.com/flutter/flutter/pull/154757) merged on September 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154757) over 3 days, 55 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; SearchBar context menu
+  <sub>[#154833](https://github.com/flutter/flutter/pull/154833) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154833) over 23 hours, 87 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Clean up `SnackBar` inherit theme data test
   <sub>[#154921](https://github.com/flutter/flutter/pull/154921) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154921) over 2 hours, 6 additions and 84 deletions in 1 file</sub>
