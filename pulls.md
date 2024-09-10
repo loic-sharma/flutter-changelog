@@ -80,9 +80,6 @@
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Denis Bowen](https://github.com/DBowen33)** &mdash; text button case rework<br />
-  <sub>[#154943](https://github.com/flutter/flutter/pull/154943) opened on on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154943) 39 additions and 40 deletions in 2 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove scheduler: luci from new `build_aar_module_test`<br />
   <sub>[#154945](https://github.com/flutter/flutter/pull/154945) opened on on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154945) 0 additions and 1 deletion in 1 file</sub><br />
 
