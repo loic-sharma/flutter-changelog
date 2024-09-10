@@ -524,7 +524,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-9 commits.
+11 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Redirect `run_ios_tests.sh` to `run_ios_tests.dart`.<br />
+  <sub>[#53717](https://github.com/flutter/engine/pull/53717) merged on September 10, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/53717) over 2 months, 64 additions and 106 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [skwasm] use temporary RawPaint objects (attempt #2)<br />
   <sub>[#55035](https://github.com/flutter/engine/pull/55035) merged on September 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55035) over 23 hours, 379 additions and 350 deletions in 6 files</sub><br />
@@ -533,6 +537,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Unskip Impeller iOS scenario tests<br />
   <sub>[#55012](https://github.com/flutter/engine/pull/55012) merged on September 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55012) over 3 days, 246 additions and 134 deletions in 49 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move more of the tests in the engine to `package:test`<br />
+  <sub>[#55083](https://github.com/flutter/engine/pull/55083) merged on September 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55083) over 1 hour, 44 additions and 33 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix 'dart --enable-asserts' typo in license check script<br />
   <sub>[#55082](https://github.com/flutter/engine/pull/55082) merged on September 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55082) over 53 minutes, 1 addition and 1 deletion in 1 file</sub><br />
