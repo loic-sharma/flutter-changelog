@@ -80,3 +80,6 @@
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Missing benchmarks for `foundation/all_elements_bench.dart`<br />
+  <sub>[#154954](https://github.com/flutter/flutter/pull/154954) opened on on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154954) 2 additions and 2 deletions in 1 file</sub><br />
+

@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-13 commits.
+14 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub>
@@ -12,7 +12,7 @@
   <sub><details><summary>3 images...</summary>![Screenshot 2024-08-08 at 1 42 57 PM](https://github.com/user-attachments/assets/fe2e49a8-4bbd-4d54-9aba-1f47ab9bd9d9)![Screenshot 2024-08-08 at 1 43 50 PM](https://github.com/user-attachments/assets/d3292f74-8d04-40ed-ae72-bf2e9b1751a4)![Screenshot 2024-09-04 at 5 45 25 PM](https://github.com/user-attachments/assets/99d37903-3605-475f-b87a-ae118a23e94d)</details></sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality
-  <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub>
+  <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Michal Hazdra](https://github.com/Michal-MK)** &mdash; Add scrim color parameter to _ZoomEnterTransitionPainter
@@ -34,6 +34,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; fix test `chrome.close can recover if getTab throws a StateError`
   <sub>[#154889](https://github.com/flutter/flutter/pull/154889) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154889) over 17 hours, 19 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove last `--disable-dart-dev` in `flutter/flutter`.
+  <sub>[#154948](https://github.com/flutter/flutter/pull/154948) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154948) over 52 minutes, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove scheduler: luci from new `build_aar_module_test`
   <sub>[#154945](https://github.com/flutter/flutter/pull/154945) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154945) over 56 minutes, 0 additions and 1 deletion in 1 file</sub>
