@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-8 commits.
+9 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality<br />
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
   <sub>[#150315](https://github.com/flutter/flutter/pull/150315) merged on September 9, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/150315) over 2 months, 41 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `flutter build aar` for modules that use a plugin<br />
+  <sub>[#154757](https://github.com/flutter/flutter/pull/154757) merged on September 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154757) over 3 days, 55 additions and 16 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Clean up `SnackBar` inherit theme data test<br />
   <sub>[#154921](https://github.com/flutter/flutter/pull/154921) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154921) over 2 hours, 6 additions and 84 deletions in 1 file</sub><br />
