@@ -1045,8 +1045,8 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove/disable broken scorecard workflow<br />
-  <sub>[#11116](https://github.com/flutter/website/pull/11116) merged on September 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11116) over 1 hour, 0 additions and 58 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub>[#11116](https://github.com/flutter/website/pull/11116) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11116) over 1 hour, 0 additions and 58 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Xanhum-wymra5-buxjer](https://github.com/Xanhum-wymra5-buxjer), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update npm deps with 11ty and liquid fixes<br />
   <sub>[#11115](https://github.com/flutter/website/pull/11115) merged on September 9, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/11115) over 22 minutes, 182 additions and 131 deletions in 2 files</sub><br />
