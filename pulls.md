@@ -74,6 +74,9 @@
 * **[野瀬田　裕樹](https://github.com/yuukiw00w)** &mdash; fix NestedScrollView crash with multiple ScrollPositions<br />
   <sub>[#154808](https://github.com/flutter/flutter/pull/154808) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154808) 7 additions and 3 deletions in 1 file</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes CupertinoActionSheetAction not triggering inside CupertinoAlertDialog<br />
+  <sub>[#154818](https://github.com/flutter/flutter/pull/154818) opened on on September 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154818) 84 additions and 20 deletions in 2 files</sub><br />
+
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Restore analyze_snippet_code_test tests.<br />
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 12 deletions in 1 file</sub><br />
 
