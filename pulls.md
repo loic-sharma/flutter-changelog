@@ -86,3 +86,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField content should be selected on desktop when gaining focus<br />
   <sub>[#154916](https://github.com/flutter/flutter/pull/154916) opened on on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154916) 37 additions and 12 deletions in 3 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Clean up `SnackBar` inherit theme data test<br />
+  <sub>[#154921](https://github.com/flutter/flutter/pull/154921) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154921) 6 additions and 84 deletions in 1 file</sub><br />
+
