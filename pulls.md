@@ -83,3 +83,6 @@
 * **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using LinearGradient:withOpacity<br />
   <sub>[#154908](https://github.com/flutter/flutter/pull/154908) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154908) 26 additions and 0 deletions in 2 files</sub><br />
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Stops reading .packages from flutter_tools.<br />
+  <sub>[#154912](https://github.com/flutter/flutter/pull/154912) opened on on September 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154912) 499 additions and 319 deletions in 49 files</sub><br />
+
