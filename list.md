@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-10 commits.
+11 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub>
@@ -25,6 +25,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `flutter build aar` for modules that use a plugin
   <sub>[#154757](https://github.com/flutter/flutter/pull/154757) merged on September 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154757) over 3 days, 55 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; fix test `chrome.close can recover if getTab throws a StateError`
+  <sub>[#154889](https://github.com/flutter/flutter/pull/154889) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154889) over 17 hours, 19 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; SearchBar context menu
   <sub>[#154833](https://github.com/flutter/flutter/pull/154833) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154833) over 23 hours, 87 additions and 4 deletions in 4 files</sub>
@@ -70,7 +74,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[dy0gu](https://github.com/dy0gu)** &mdash; Fix ZoomPageTransitionsBuilder hardcoded fill color
-  <sub>[#154057](https://github.com/flutter/flutter/pull/154057) merged on September 5, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/154057) over 1 week, 118 additions and 1 deletion in 3 files</sub>
+  <sub>[#154057](https://github.com/flutter/flutter/pull/154057) merged on September 5, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/154057) over 1 week, 118 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; added enabled to search anchor
