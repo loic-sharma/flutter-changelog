@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-18 commits.
+19 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update<br />
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Lu Shueh Chou](https://github.com/evan361425)** &mdash; Expose foreground property of TextStyle in Icon widget<br />
   <sub>[#150315](https://github.com/flutter/flutter/pull/150315) merged on September 9, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/150315) over 2 months, 41 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds dart fixes for Color opacity functions<br />
+  <sub>[#154953](https://github.com/flutter/flutter/pull/154953) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154953) over 1 hour, 40 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `flutter build aar` for modules that use a plugin<br />
   <sub>[#154757](https://github.com/flutter/flutter/pull/154757) merged on September 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154757) over 3 days, 55 additions and 16 deletions in 4 files</sub><br />
