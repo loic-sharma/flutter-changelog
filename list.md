@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-6 commits.
+7 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub>
@@ -29,6 +29,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.
   <sub>[#154847](https://github.com/flutter/flutter/pull/154847) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154847) over 47 minutes, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Revert "Improve CupertinoPopupSurface appearance"
+  <sub>[#154893](https://github.com/flutter/flutter/pull/154893) merged on September 10, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/154893) over 13 hours, 21 additions and 526 deletions in 2 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 ### August 31, 2024 to September 6, 2024
 
