@@ -81,5 +81,5 @@
   <sub>[#154843](https://github.com/flutter/flutter/pull/154843) opened on on September 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154843) 3140 additions and 581 deletions in 99 files</sub><br />
 
 * **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using LinearGradient:withOpacity<br />
-  <sub>[#154908](https://github.com/flutter/flutter/pull/154908) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154908) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#154908](https://github.com/flutter/flutter/pull/154908) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154908) 26 additions and 0 deletions in 2 files</sub><br />
 
