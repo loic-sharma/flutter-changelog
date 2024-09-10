@@ -80,6 +80,3 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move (`dev/tools`), complete v0 of `native_driver` (Android)<br />
   <sub>[#154843](https://github.com/flutter/flutter/pull/154843) opened on on September 9, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/154843) 3140 additions and 581 deletions in 99 files</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Revert "Improve CupertinoPopupSurface appearance"<br />
-  <sub>[#154893](https://github.com/flutter/flutter/pull/154893) opened on on September 10, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154893) 21 additions and 526 deletions in 2 files</sub><br />
-
