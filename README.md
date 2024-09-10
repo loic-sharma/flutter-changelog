@@ -4,7 +4,12 @@
 
 ### September 7, 2024 to September 13, 2024
 
-11 commits.
+12 commits.
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update<br />
+  <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+  <sub><details><summary>3 images...</summary>![Screenshot 2024-08-08 at 1 42 57 PM](https://github.com/user-attachments/assets/fe2e49a8-4bbd-4d54-9aba-1f47ab9bd9d9)![Screenshot 2024-08-08 at 1 43 50 PM](https://github.com/user-attachments/assets/d3292f74-8d04-40ed-ae72-bf2e9b1751a4)![Screenshot 2024-09-04 at 5 45 25 PM](https://github.com/user-attachments/assets/99d37903-3605-475f-b87a-ae118a23e94d)</details></sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality<br />
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub><br />

@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Fix line-wrapping in `flutter create` error message.<br />
-  <sub>[#150325](https://github.com/flutter/flutter/pull/150325) opened on on June 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/150325) 18 additions and 13 deletions in 2 files</sub><br />
+  <sub>[#150325](https://github.com/flutter/flutter/pull/150325) opened on on June 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150325) 18 additions and 13 deletions in 2 files</sub><br />
 
 * **[Ijas Hussain](https://github.com/ijashuzain)** &mdash; Fix pageview clipping<br />
   <sub>[#153051](https://github.com/flutter/flutter/pull/153051) opened on on August 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153051) 56 additions and 50 deletions in 1 file</sub><br />
@@ -82,4 +82,7 @@
 
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove scheduler: luci from new `build_aar_module_test`<br />
+  <sub>[#154945](https://github.com/flutter/flutter/pull/154945) opened on on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154945) 0 additions and 1 deletion in 1 file</sub><br />
 
