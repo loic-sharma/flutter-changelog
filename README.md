@@ -524,7 +524,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-8 commits.
+9 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [skwasm] use temporary RawPaint objects (attempt #2)<br />
   <sub>[#55035](https://github.com/flutter/engine/pull/55035) merged on September 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55035) over 23 hours, 379 additions and 350 deletions in 6 files</sub><br />
@@ -553,6 +553,10 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Roll buildroot to f85c3be4bf808add6ba867b8ff7943fd235b7b5e.<br />
   <sub>[#55051](https://github.com/flutter/engine/pull/55051) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55051) over 19 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland experimental canvas.<br />
+  <sub>[#55047](https://github.com/flutter/engine/pull/55047) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55047) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Add `crossOrigin` property to <img> tag used for decoding (#54961)"<br />
   <sub>[#55042](https://github.com/flutter/engine/pull/55042) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55042) over 1 hour, 0 additions and 15 deletions in 3 files</sub><br />
