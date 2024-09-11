@@ -12,7 +12,7 @@
   <sub><details><summary>3 images...</summary>![Screenshot 2024-08-08 at 1 42 57 PM](https://github.com/user-attachments/assets/fe2e49a8-4bbd-4d54-9aba-1f47ab9bd9d9)![Screenshot 2024-08-08 at 1 43 50 PM](https://github.com/user-attachments/assets/d3292f74-8d04-40ed-ae72-bf2e9b1751a4)![Screenshot 2024-09-04 at 5 45 25 PM](https://github.com/user-attachments/assets/99d37903-3605-475f-b87a-ae118a23e94d)</details></sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality
-  <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub>
+  <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Update color assertions
