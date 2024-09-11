@@ -1184,7 +1184,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-11 commits.
+12 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a new widget placeholder image in the catalog<br />
   <sub>[#11123](https://github.com/flutter/website/pull/11123) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11123) over 22 hours, 0 additions and 0 deletions in 1 file</sub><br />
@@ -1226,6 +1226,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update npm deps with 11ty and liquid fixes<br />
   <sub>[#11115](https://github.com/flutter/website/pull/11115) merged on September 9, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/11115) over 22 minutes, 182 additions and 131 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Andrew Brogdon](https://github.com/RedBrogdon)</sub><br />
+
+* **[Curt Weber](https://github.com/curt-weber)** &mdash; Add `entryPointBaseUrl` to web/initialization.md<br />
+  <sub>[#11120](https://github.com/flutter/website/pull/11120) merged on September 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11120) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Update: Extract-Archive -> Expand-Archive<br />
   <sub>[#11112](https://github.com/flutter/website/pull/11112) merged on September 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11112) over 7 hours, 4 additions and 4 deletions in 1 file</sub><br />
