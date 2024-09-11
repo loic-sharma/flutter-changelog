@@ -20,7 +20,7 @@
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Shashwat Pathak](https://github.com/shashwatpathak98)** &mdash; Fix `flutter create` warning regarding Java compatibility
-  <sub>[#152836](https://github.com/flutter/flutter/pull/152836) merged on September 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/152836) over 1 month, 26 additions and 13 deletions in 2 files</sub>
+  <sub>[#152836](https://github.com/flutter/flutter/pull/152836) merged on September 11, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/152836) over 1 month, 26 additions and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [Shreyans Pathak](https://github.com/ishon19), [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix unpack freezing app with animation duration zero 
@@ -839,7 +839,7 @@
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [zijiehe@](https://github.com/zijiehe-google-com)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Fix text input edit rotor accessibility
-  <sub>[#54351](https://github.com/flutter/engine/pull/54351) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54351) over 3 weeks, 126 additions and 0 deletions in 4 files</sub>
+  <sub>[#54351](https://github.com/flutter/engine/pull/54351) merged on August 26, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/54351) over 3 weeks, 126 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--disable-dart-dev` across `flutter/engine`.
