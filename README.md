@@ -585,7 +585,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-19 commits.
+20 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java<br />
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub><br />
@@ -602,6 +602,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Unskip Impeller iOS scenario tests<br />
   <sub>[#55012](https://github.com/flutter/engine/pull/55012) merged on September 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55012) over 3 days, 246 additions and 134 deletions in 49 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Replace `System.loadLibrary` with `ReLinker.loadLibrary()` in `FlutterJNI.loadLibrary()`<br />
+  <sub>[#55095](https://github.com/flutter/engine/pull/55095) merged on September 11, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55095) over 21 hours, 17 additions and 7 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Zip and upload Xcode xcresults on scenario test failure<br />
   <sub>[#55093](https://github.com/flutter/engine/pull/55093) merged on September 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55093) over 20 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1016,7 +1020,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-6 commits.
+7 commits.
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; [two_dimensional_scrollables] Fix TreeView bug when animation duration is zero<br />
+  <sub>[#7475](https://github.com/flutter/packages/pull/7475) merged on September 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7475) over 2 weeks, 110 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Adds internal wrapper for Android native `ContentProgressProvider`<br />
   <sub>[#7461](https://github.com/flutter/packages/pull/7461) merged on September 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7461) over 3 weeks, 227 additions and 13 deletions in 9 files</sub><br />
