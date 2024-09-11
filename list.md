@@ -823,7 +823,7 @@
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [zijiehe@](https://github.com/zijiehe-google-com)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios] Fix text input edit rotor accessibility
-  <sub>[#54351](https://github.com/flutter/engine/pull/54351) merged on August 26, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54351) over 3 weeks, 126 additions and 0 deletions in 4 files</sub>
+  <sub>[#54351](https://github.com/flutter/engine/pull/54351) merged on August 26, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/54351) over 3 weeks, 126 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--disable-dart-dev` across `flutter/engine`.
