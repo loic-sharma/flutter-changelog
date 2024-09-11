@@ -57,7 +57,7 @@
   <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; CheckboxListTile: add property to scale the checkbox<br />
-  <sub>[#154806](https://github.com/flutter/flutter/pull/154806) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154806) 47 additions and 34 deletions in 1 file</sub><br />
+  <sub>[#154806](https://github.com/flutter/flutter/pull/154806) opened on on September 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154806) 47 additions and 34 deletions in 1 file</sub><br />
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Restore analyze_snippet_code_test tests.<br />
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 12 deletions in 1 file</sub><br />
@@ -69,5 +69,5 @@
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Monomorphic Mapper<br />
-  <sub>[#154972](https://github.com/flutter/flutter/pull/154972) opened on on September 11, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/154972) 354 additions and 85 deletions in 6 files</sub><br />
+  <sub>[#154972](https://github.com/flutter/flutter/pull/154972) opened on on September 11, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/154972) 355 additions and 85 deletions in 6 files</sub><br />
 

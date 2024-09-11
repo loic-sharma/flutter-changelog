@@ -4,16 +4,25 @@
 
 ### September 7, 2024 to September 13, 2024
 
-25 commits.
+27 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update<br />
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
   <sub><details><summary>3 images...</summary>![Screenshot 2024-08-08 at 1 42 57 PM](https://github.com/user-attachments/assets/fe2e49a8-4bbd-4d54-9aba-1f47ab9bd9d9)![Screenshot 2024-08-08 at 1 43 50 PM](https://github.com/user-attachments/assets/d3292f74-8d04-40ed-ae72-bf2e9b1751a4)![Screenshot 2024-09-04 at 5 45 25 PM](https://github.com/user-attachments/assets/99d37903-3605-475f-b87a-ae118a23e94d)</details></sub>
 
+* **[abdalmonem](https://github.com/abdalmonem)** &mdash; Add 'direction' allow to 'SegmentedButton' oriented vertically<br />
+  <sub>[#150903](https://github.com/flutter/flutter/pull/150903) merged on September 11, 2024 &mdash; **Small:** [56 comments](https://github.com/flutter/flutter/pull/150903) over 2 months, 166 additions and 13 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Kate Lovett](https://github.com/Piinks)</sub><br />
+  <sub><details><summary>3 images...</summary>![Simulator Screenshot - iPhone 15 - 2024-06-26 at 13 37 26](https://github.com/flutter/flutter/assets/9139030/4936b7f8-246b-41ae-ac1c-7c75bc2d4f2d)![Simulator Screenshot - iPhone 15 - 2024-06-26 at 13 43 07](https://github.com/flutter/flutter/assets/9139030/5aecf229-34d8-4608-a0f7-aee5c130257f)![Simulator Screenshot - iPhone 15 - 2024-06-26 at 13 51 46](https://github.com/flutter/flutter/assets/9139030/24833153-02c8-4f5c-8c50-5a0effa19e9e)</details></sub>
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality<br />
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Dropdown menu trying to access highlight element which doesn't exist when search and filters both are enabled<br />
+  <sub>[#151969](https://github.com/flutter/flutter/pull/151969) merged on September 11, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/151969) over 1 month, 46 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [PurplePolyhedron](https://github.com/PurplePolyhedron), [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Update color assertions<br />
   <sub>[#154752](https://github.com/flutter/flutter/pull/154752) merged on September 10, 2024 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/154752) over 4 days, 1034 additions and 865 deletions in 81 files</sub><br />
@@ -995,7 +1004,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Adds internal wrapper for Android native `ContentProgressProvider`<br />
   <sub>[#7461](https://github.com/flutter/packages/pull/7461) merged on September 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7461) over 3 weeks, 227 additions and 13 deletions in 9 files</sub><br />
@@ -1004,6 +1013,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Increase deprecation check minimum to macOS 14<br />
   <sub>[#7544](https://github.com/flutter/packages/pull/7544) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7544) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_platform_interface] Fix typo in CameraUpdateNewLatLngBounds.toJson<br />
+  <sub>[#7626](https://github.com/flutter/packages/pull/7626) merged on September 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7626) over 1 hour, 22 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [camerax] Ignore new `unreachable_switch_default` warning.<br />
   <sub>[#7592](https://github.com/flutter/packages/pull/7592) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7592) over 3 days, 3 additions and 3 deletions in 3 files</sub><br />
