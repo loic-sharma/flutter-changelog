@@ -994,7 +994,7 @@
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_platform_interface] Split `CameraUpdate` into derived classes to use structured data<br />
-  <sub>[#7596](https://github.com/flutter/packages/pull/7596) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7596) over 3 days, 243 additions and 34 deletions in 4 files</sub><br />
+  <sub>[#7596](https://github.com/flutter/packages/pull/7596) merged on September 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7596) over 3 days, 243 additions and 34 deletions in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Joonas Kerttula](https://github.com/jokerttu)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Disable setAndGetScrollPosition on iOS<br />
