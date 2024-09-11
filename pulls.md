@@ -62,6 +62,3 @@
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Monomorphic Mapper<br />
-  <sub>[#154972](https://github.com/flutter/flutter/pull/154972) opened on on September 11, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/154972) 355 additions and 85 deletions in 6 files</sub><br />
-
