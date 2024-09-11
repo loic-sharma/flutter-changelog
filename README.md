@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-20 commits.
+21 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update<br />
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub><br />
@@ -50,6 +50,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `apple-mobile-web-*` to `mobile-web-*`.<br />
   <sub>[#154964](https://github.com/flutter/flutter/pull/154964) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154964) over 1 hour, 20 additions and 20 deletions in 17 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix java version used by `build_aar_module_test`<br />
+  <sub>[#154967](https://github.com/flutter/flutter/pull/154967) merged on September 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154967) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Missing benchmarks for `foundation/all_elements_bench.dart`<br />
   <sub>[#154954](https://github.com/flutter/flutter/pull/154954) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154954) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />

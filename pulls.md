@@ -68,9 +68,6 @@
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix java version used by `build_aar_module_test`<br />
-  <sub>[#154967](https://github.com/flutter/flutter/pull/154967) opened on on September 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154967) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Monomorphic Mapper<br />
-  <sub>[#154972](https://github.com/flutter/flutter/pull/154972) opened on on September 11, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/154972) 353 additions and 86 deletions in 6 files</sub><br />
+  <sub>[#154972](https://github.com/flutter/flutter/pull/154972) opened on on September 11, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/154972) 354 additions and 85 deletions in 6 files</sub><br />
 
