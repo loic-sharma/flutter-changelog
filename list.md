@@ -585,7 +585,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-21 commits.
+22 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
@@ -650,6 +650,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add herustic for ignoring coverage limit w/ image filters.
   <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix crash quitting application due to iterating over a changing list.
+  <sub>[#55062](https://github.com/flutter/engine/pull/55062) merged on September 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55062) over 1 day, 4 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use a signal for the pre-engine restart event
   <sub>[#55063](https://github.com/flutter/engine/pull/55063) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55063) over 1 day, 25 additions and 79 deletions in 4 files</sub>
