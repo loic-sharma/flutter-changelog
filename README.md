@@ -585,7 +585,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-22 commits.
+23 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java<br />
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub><br />
@@ -606,6 +606,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Replace `System.loadLibrary` with `ReLinker.loadLibrary()` in `FlutterJNI.loadLibrary()`<br />
   <sub>[#55095](https://github.com/flutter/engine/pull/55095) merged on September 11, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55095) over 21 hours, 17 additions and 7 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move most of the `dart:ui` tests to `package:test`.<br />
+  <sub>[#55090](https://github.com/flutter/engine/pull/55090) merged on September 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55090) over 1 day, 86 additions and 76 deletions in 39 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Zip and upload Xcode xcresults on scenario test failure<br />
   <sub>[#55093](https://github.com/flutter/engine/pull/55093) merged on September 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55093) over 20 hours, 1 addition and 1 deletion in 1 file</sub><br />
