@@ -581,7 +581,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-17 commits.
+18 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java<br />
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub><br />
@@ -598,6 +598,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Unskip Impeller iOS scenario tests<br />
   <sub>[#55012](https://github.com/flutter/engine/pull/55012) merged on September 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55012) over 3 days, 246 additions and 134 deletions in 49 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] hash less text stuff per frame for text rendering.<br />
+  <sub>[#55060](https://github.com/flutter/engine/pull/55060) merged on September 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55060) over 1 day, 90 additions and 64 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `flutter_frontend_server` and tweak `run_tests.py` to allow env variables.<br />
   <sub>[#55089](https://github.com/flutter/engine/pull/55089) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55089) over 1 hour, 73 additions and 56 deletions in 3 files</sub><br />
