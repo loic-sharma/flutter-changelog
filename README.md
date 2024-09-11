@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-21 commits.
+22 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update<br />
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub><br />
@@ -18,6 +18,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Update color assertions<br />
   <sub>[#154752](https://github.com/flutter/flutter/pull/154752) merged on September 10, 2024 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/154752) over 4 days, 1034 additions and 865 deletions in 81 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Shashwat Pathak](https://github.com/shashwatpathak98)** &mdash; Fix `flutter create` warning regarding Java compatibility<br />
+  <sub>[#152836](https://github.com/flutter/flutter/pull/152836) merged on September 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/152836) over 1 month, 26 additions and 13 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shreyans Pathak](https://github.com/ishon19), [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix unpack freezing app with animation duration zero <br />
   <sub>[#153890](https://github.com/flutter/flutter/pull/153890) merged on September 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153890) over 2 weeks, 104 additions and 0 deletions in 2 files</sub><br />
@@ -990,8 +994,8 @@
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_platform_interface] Split `CameraUpdate` into derived classes to use structured data<br />
-  <sub>[#7596](https://github.com/flutter/packages/pull/7596) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7596) over 3 days, 243 additions and 34 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Joonas Kerttula](https://github.com/jokerttu), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>[#7596](https://github.com/flutter/packages/pull/7596) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7596) over 3 days, 243 additions and 34 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Joonas Kerttula](https://github.com/jokerttu)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Disable setAndGetScrollPosition on iOS<br />
   <sub>[#7609](https://github.com/flutter/packages/pull/7609) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7609) over 1 hour, 6 additions and 3 deletions in 3 files</sub><br />
