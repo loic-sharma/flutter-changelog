@@ -11,13 +11,13 @@
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
   <sub><details><summary>3 images...</summary>![Screenshot 2024-08-08 at 1 42 57 PM](https://github.com/user-attachments/assets/fe2e49a8-4bbd-4d54-9aba-1f47ab9bd9d9)![Screenshot 2024-08-08 at 1 43 50 PM](https://github.com/user-attachments/assets/d3292f74-8d04-40ed-ae72-bf2e9b1751a4)![Screenshot 2024-09-04 at 5 45 25 PM](https://github.com/user-attachments/assets/99d37903-3605-475f-b87a-ae118a23e94d)</details></sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Update color assertions<br />
-  <sub>[#154752](https://github.com/flutter/flutter/pull/154752) merged on September 10, 2024 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/154752) over 4 days, 1034 additions and 865 deletions in 81 files</sub><br />
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality<br />
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Update color assertions<br />
+  <sub>[#154752](https://github.com/flutter/flutter/pull/154752) merged on September 10, 2024 &mdash; **Extra large:** [13 comments](https://github.com/flutter/flutter/pull/154752) over 4 days, 1034 additions and 865 deletions in 81 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix unpack freezing app with animation duration zero <br />
   <sub>[#153890](https://github.com/flutter/flutter/pull/153890) merged on September 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153890) over 2 weeks, 104 additions and 0 deletions in 2 files</sub><br />
