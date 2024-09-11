@@ -585,7 +585,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-18 commits.
+19 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
@@ -602,6 +602,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Unskip Impeller iOS scenario tests
   <sub>[#55012](https://github.com/flutter/engine/pull/55012) merged on September 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55012) over 3 days, 246 additions and 134 deletions in 49 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Zip and upload Xcode xcresults on scenario test failure
+  <sub>[#55093](https://github.com/flutter/engine/pull/55093) merged on September 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55093) over 20 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] hash less text stuff per frame for text rendering.
   <sub>[#55060](https://github.com/flutter/engine/pull/55060) merged on September 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55060) over 1 day, 90 additions and 64 deletions in 6 files</sub>
@@ -1180,7 +1184,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-9 commits.
+11 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a new widget placeholder image in the catalog
   <sub>[#11123](https://github.com/flutter/website/pull/11123) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11123) over 22 hours, 0 additions and 0 deletions in 1 file</sub>
@@ -1194,6 +1198,14 @@
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Bug in `flutter_site/check_link_references` tool during matching
   <sub>[#11111](https://github.com/flutter/website/pull/11111) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11111) over 9 hours, 3 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix headers and toc duplication in widget catalog
+  <sub>[#11121](https://github.com/flutter/website/pull/11121) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11121) over 23 hours, 120 additions and 137 deletions in 20 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove extra visit link from widget catalog index
+  <sub>[#11122](https://github.com/flutter/website/pull/11122) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11122) over 23 hours, 0 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix styling of text icons
   <sub>[#11124](https://github.com/flutter/website/pull/11124) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11124) over 22 hours, 9 additions and 11 deletions in 6 files</sub>
