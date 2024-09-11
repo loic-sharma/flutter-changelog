@@ -556,7 +556,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-16 commits.
+17 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java<br />
+  <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Redirect `run_ios_tests.sh` to `run_ios_tests.dart`.<br />
   <sub>[#53717](https://github.com/flutter/engine/pull/53717) merged on September 10, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/53717) over 2 months, 64 additions and 106 deletions in 2 files</sub><br />
