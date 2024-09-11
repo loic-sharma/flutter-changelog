@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-23 commits.
+25 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update<br />
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub><br />
@@ -59,6 +59,10 @@
   <sub>[#154964](https://github.com/flutter/flutter/pull/154964) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154964) over 1 hour, 20 additions and 20 deletions in 17 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrate Color.toString() test, improves `equalsIgnoringHashCodes`<br />
+  <sub>[#154934](https://github.com/flutter/flutter/pull/154934) merged on September 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154934) over 1 day, 83 additions and 91 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix java version used by `build_aar_module_test`<br />
   <sub>[#154967](https://github.com/flutter/flutter/pull/154967) merged on September 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154967) over 14 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
@@ -90,6 +94,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.<br />
   <sub>[#154847](https://github.com/flutter/flutter/pull/154847) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154847) over 47 minutes, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the signature of DDS launcher callback.<br />
+  <sub>[#154949](https://github.com/flutter/flutter/pull/154949) merged on September 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154949) over 20 hours, 6 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Helin Shiah](https://github.com/helin24)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; handle EAGAIN (macOS) in ErrorHandlingProcessManager<br />
   <sub>[#154306](https://github.com/flutter/flutter/pull/154306) merged on September 10, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154306) over 1 week, 31 additions and 0 deletions in 2 files</sub><br />
@@ -567,8 +575,8 @@
 17 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java<br />
-  <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+  <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Redirect `run_ios_tests.sh` to `run_ios_tests.dart`.<br />
   <sub>[#53717](https://github.com/flutter/engine/pull/53717) merged on September 10, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/53717) over 2 months, 64 additions and 106 deletions in 2 files</sub><br />
