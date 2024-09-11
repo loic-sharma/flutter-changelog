@@ -987,7 +987,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-4 commits.
+5 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Adds internal wrapper for Android native `ContentProgressProvider`<br />
+  <sub>[#7461](https://github.com/flutter/packages/pull/7461) merged on September 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7461) over 3 weeks, 227 additions and 13 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Increase deprecation check minimum to macOS 14<br />
   <sub>[#7544](https://github.com/flutter/packages/pull/7544) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7544) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
