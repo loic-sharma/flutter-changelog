@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-22 commits.
+23 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub>
@@ -46,6 +46,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `flutter build aar` for modules that use a plugin
   <sub>[#154757](https://github.com/flutter/flutter/pull/154757) merged on September 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154757) over 3 days, 55 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update material and cupertino localizations
+  <sub>[#154959](https://github.com/flutter/flutter/pull/154959) merged on September 11, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/154959) over 18 hours, 826 additions and 872 deletions in 214 files</sub>
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; fix test `chrome.close can recover if getTab throws a StateError`
   <sub>[#154889](https://github.com/flutter/flutter/pull/154889) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154889) over 17 hours, 19 additions and 6 deletions in 1 file</sub>
