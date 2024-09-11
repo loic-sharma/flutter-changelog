@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-27 commits.
+28 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub>
@@ -67,6 +67,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `apple-mobile-web-*` to `mobile-web-*`.
   <sub>[#154964](https://github.com/flutter/flutter/pull/154964) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154964) over 1 hour, 20 additions and 20 deletions in 17 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix `flutter run` on Mac x64 hosts if Swift Package Manager is enabled
+  <sub>[#154645](https://github.com/flutter/flutter/pull/154645) merged on September 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154645) over 6 days, 200 additions and 20 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrate Color.toString() test, improves `equalsIgnoringHashCodes`
   <sub>[#154934](https://github.com/flutter/flutter/pull/154934) merged on September 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154934) over 1 day, 83 additions and 91 deletions in 3 files</sub>
@@ -1176,7 +1180,12 @@
 
 ### September 7, 2024 to September 13, 2024
 
-6 commits.
+9 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a new widget placeholder image in the catalog
+  <sub>[#11123](https://github.com/flutter/website/pull/11123) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11123) over 22 hours, 0 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+  <sub><details><summary>2 images...</summary><img width="200" alt="Before widget placeholder" src="https://github.com/user-attachments/assets/9438abc6-193b-4a73-b9bb-d4ac4802ced0"><img width="200" alt="After change widget placeholder" src="https://github.com/user-attachments/assets/b5d46389-4376-4aff-9c27-c31ba4e74b9b"></details></sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix formatting of code snippets on iOS dev pages
   <sub>[#11021](https://github.com/flutter/website/pull/11021) merged on September 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11021) over 1 month, 73 additions and 87 deletions in 14 files</sub>
@@ -1185,6 +1194,14 @@
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Bug in `flutter_site/check_link_references` tool during matching
   <sub>[#11111](https://github.com/flutter/website/pull/11111) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11111) over 9 hours, 3 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix styling of text icons
+  <sub>[#11124](https://github.com/flutter/website/pull/11124) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11124) over 22 hours, 9 additions and 11 deletions in 6 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Dart platforms diagram
+  <sub>[#11125](https://github.com/flutter/website/pull/11125) merged on September 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11125) over 20 hours, 0 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix footnotes on architectural overview page
   <sub>[#11118](https://github.com/flutter/website/pull/11118) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11118) over 11 hours, 22 additions and 23 deletions in 2 files</sub>
