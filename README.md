@@ -65,7 +65,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; when setting up the log reader for a device during `flutter run`, discard any `RPCError` thrown due to the device being disconnected<br />
-  <sub>[#155049](https://github.com/flutter/flutter/pull/155049) merged on September 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155049) over 18 hours, 72 additions and 8 deletions in 8 files</sub><br />
+  <sub>[#155049](https://github.com/flutter/flutter/pull/155049) merged on September 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155049) over 18 hours, 72 additions and 8 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update material and cupertino localizations<br />
