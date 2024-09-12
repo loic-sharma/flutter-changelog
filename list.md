@@ -93,7 +93,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: update provisioning profile for 2024-2025 cert
-  <sub>[#155052](https://github.com/flutter/flutter/pull/155052) merged on September 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155052) over 2 hours, 8 additions and 11 deletions in 1 file</sub>
+  <sub>[#155052](https://github.com/flutter/flutter/pull/155052) merged on September 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155052) over 2 hours, 8 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.
