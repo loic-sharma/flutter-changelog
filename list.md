@@ -620,7 +620,7 @@
 31 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java
-  <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
+  <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `const_finder_test` to use `package:test`
@@ -1268,12 +1268,16 @@
 
 ### September 7, 2024 to September 13, 2024
 
-13 commits.
+14 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a new widget placeholder image in the catalog
   <sub>[#11123](https://github.com/flutter/website/pull/11123) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11123) over 22 hours, 0 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>2 images...</summary><img width="200" alt="Before widget placeholder" src="https://github.com/user-attachments/assets/9438abc6-193b-4a73-b9bb-d4ac4802ced0"><img width="200" alt="After change widget placeholder" src="https://github.com/user-attachments/assets/b5d46389-4376-4aff-9c27-c31ba4e74b9b"></details></sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding a support page
+  <sub>[#11128](https://github.com/flutter/website/pull/11128) merged on September 12, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/11128) over 20 hours, 66 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Parker Lougheed](https://github.com/parlough), [Seth Ladd](https://github.com/sethladd)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix formatting of code snippets on iOS dev pages
   <sub>[#11021](https://github.com/flutter/website/pull/11021) merged on September 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11021) over 1 month, 73 additions and 87 deletions in 14 files</sub>
