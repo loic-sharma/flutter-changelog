@@ -597,7 +597,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-24 commits.
+25 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
@@ -622,6 +622,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Replace `System.loadLibrary` with `ReLinker.loadLibrary()` in `FlutterJNI.loadLibrary()`
   <sub>[#55095](https://github.com/flutter/engine/pull/55095) merged on September 11, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55095) over 21 hours, 17 additions and 7 deletions in 7 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [dart2wasm] Move web wasm embedder to new dart2wasm embedder API
+  <sub>[#55037](https://github.com/flutter/engine/pull/55037) merged on September 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55037) over 3 days, 7 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Ömer Sinan Ağacan](https://github.com/osa1), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move most of the `dart:ui` tests to `package:test`.
   <sub>[#55090](https://github.com/flutter/engine/pull/55090) merged on September 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55090) over 1 day, 86 additions and 76 deletions in 39 files</sub>
