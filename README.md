@@ -77,7 +77,7 @@
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: update provisioning profile for 2024-2025 cert<br />
-  <sub>[#155052](https://github.com/flutter/flutter/pull/155052) merged on September 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155052) over 2 hours, 8 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#155052](https://github.com/flutter/flutter/pull/155052) merged on September 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155052) over 2 hours, 8 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix `flutter run` on Mac x64 hosts if Swift Package Manager is enabled<br />
