@@ -617,7 +617,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-31 commits.
+32 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
@@ -734,6 +734,10 @@
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Roll buildroot to f85c3be4bf808add6ba867b8ff7943fd235b7b5e.
   <sub>[#55051](https://github.com/flutter/engine/pull/55051) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55051) over 19 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "Update Color to do all calculations with floating point components"
+  <sub>[#55153](https://github.com/flutter/engine/pull/55153) merged on September 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/55153) over 1 hour, 138 additions and 164 deletions in 12 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland experimental canvas.
   <sub>[#55047](https://github.com/flutter/engine/pull/55047) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55047) over 1 day, 1 addition and 1 deletion in 1 file</sub>
