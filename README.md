@@ -85,7 +85,7 @@
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: update provisioning profile for 2024-2025 cert<br />
-  <sub>[#155052](https://github.com/flutter/flutter/pull/155052) merged on September 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155052) over 2 hours, 8 additions and 11 deletions in 1 file</sub><br />
+  <sub>[#155052](https://github.com/flutter/flutter/pull/155052) merged on September 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155052) over 2 hours, 8 additions and 11 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix `flutter run` on Mac x64 hosts if Swift Package Manager is enabled<br />
@@ -692,7 +692,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add herustic for ignoring coverage limit w/ image filters.<br />
-  <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Update Skia build for Vulkan headers<br />
@@ -1252,7 +1252,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-12 commits.
+13 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a new widget placeholder image in the catalog<br />
   <sub>[#11123](https://github.com/flutter/website/pull/11123) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11123) over 22 hours, 0 additions and 0 deletions in 1 file</sub><br />
@@ -1266,6 +1266,10 @@
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Bug in `flutter_site/check_link_references` tool during matching<br />
   <sub>[#11111](https://github.com/flutter/website/pull/11111) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11111) over 9 hours, 3 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Add internet permission / entitlement instructions.<br />
+  <sub>[#11129](https://github.com/flutter/website/pull/11129) merged on September 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11129) over 12 hours, 49 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix headers and toc duplication in widget catalog<br />
   <sub>[#11121](https://github.com/flutter/website/pull/11121) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11121) over 23 hours, 120 additions and 137 deletions in 20 files</sub><br />
