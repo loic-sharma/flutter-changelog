@@ -72,6 +72,10 @@
   <sub>[#154889](https://github.com/flutter/flutter/pull/154889) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154889) over 17 hours, 19 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; SearchBar context menu<br />
+  <sub>[#154833](https://github.com/flutter/flutter/pull/154833) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154833) over 23 hours, 87 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `apple-mobile-web-*` to `mobile-web-*`.<br />
   <sub>[#154964](https://github.com/flutter/flutter/pull/154964) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154964) over 1 hour, 20 additions and 20 deletions in 17 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
@@ -103,10 +107,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove scheduler: luci from new `build_aar_module_test`<br />
   <sub>[#154945](https://github.com/flutter/flutter/pull/154945) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154945) over 56 minutes, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
-
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; SearchBar context menu<br />
-  <sub>[#154833](https://github.com/flutter/flutter/pull/154833) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154833) over 23 hours, 87 additions and 4 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Clean up `SnackBar` inherit theme data test<br />
   <sub>[#154921](https://github.com/flutter/flutter/pull/154921) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154921) over 2 hours, 6 additions and 84 deletions in 1 file</sub><br />
