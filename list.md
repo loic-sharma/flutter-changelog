@@ -597,11 +597,15 @@
 
 ### September 7, 2024 to September 13, 2024
 
-23 commits.
+24 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] DlPath object provides auto-conversion from Skia to Impeller
+  <sub>[#55055](https://github.com/flutter/engine/pull/55055) merged on September 12, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55055) over 2 days, 731 additions and 439 deletions in 31 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Redirect `run_ios_tests.sh` to `run_ios_tests.dart`.
   <sub>[#53717](https://github.com/flutter/engine/pull/53717) merged on September 10, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/53717) over 2 months, 64 additions and 106 deletions in 2 files</sub>
