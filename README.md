@@ -601,7 +601,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-29 commits.
+30 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java<br />
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub><br />
@@ -690,6 +690,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add herustic for ignoring coverage limit w/ image filters.<br />
   <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Update Skia build for Vulkan headers<br />
+  <sub>[#55143](https://github.com/flutter/engine/pull/55143) merged on September 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55143) over 1 hour, 10 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Kaylee Lubick](https://github.com/kjlubick)</sub><br />
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Ensure Vulkan when including Skia Vulkan headers<br />
   <sub>[#55126](https://github.com/flutter/engine/pull/55126) merged on September 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55126) over 10 hours, 4 additions and 4 deletions in 2 files</sub><br />
