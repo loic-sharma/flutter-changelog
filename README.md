@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-32 commits.
+33 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update<br />
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub><br />
@@ -123,6 +123,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.<br />
   <sub>[#154847](https://github.com/flutter/flutter/pull/154847) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154847) over 47 minutes, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Externalize and update onboarding instructions<br />
+  <sub>[#154730](https://github.com/flutter/flutter/pull/154730) merged on September 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/154730) over 6 days, 67 additions and 25 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Navaron Bracke](https://github.com/navaronbracke), [Christopher Fujino](https://github.com/christopherfujino), [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the signature of DDS launcher callback.<br />
   <sub>[#154949](https://github.com/flutter/flutter/pull/154949) merged on September 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154949) over 20 hours, 6 additions and 8 deletions in 3 files</sub><br />
