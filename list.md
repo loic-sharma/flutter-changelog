@@ -597,7 +597,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-25 commits.
+26 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
@@ -674,6 +674,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add herustic for ignoring coverage limit w/ image filters.
   <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[bungeman](https://github.com/bungeman)** &mdash; Ensure Vulkan when including Skia Vulkan headers
+  <sub>[#55126](https://github.com/flutter/engine/pull/55126) merged on September 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55126) over 10 hours, 4 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Brian Osman](https://github.com/brianosman)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix crash quitting application due to iterating over a changing list.
   <sub>[#55062](https://github.com/flutter/engine/pull/55062) merged on September 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55062) over 1 day, 4 additions and 1 deletion in 1 file</sub>
