@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-28 commits.
+30 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub>
@@ -16,9 +16,17 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Kate Lovett](https://github.com/Piinks)</sub>
   <sub><details><summary>3 images...</summary>![Simulator Screenshot - iPhone 15 - 2024-06-26 at 13 37 26](https://github.com/flutter/flutter/assets/9139030/4936b7f8-246b-41ae-ac1c-7c75bc2d4f2d)![Simulator Screenshot - iPhone 15 - 2024-06-26 at 13 43 07](https://github.com/flutter/flutter/assets/9139030/5aecf229-34d8-4608-a0f7-aee5c130257f)![Simulator Screenshot - iPhone 15 - 2024-06-26 at 13 51 46](https://github.com/flutter/flutter/assets/9139030/24833153-02c8-4f5c-8c50-5a0effa19e9e)</details></sub>
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out `Container` objects
+  <sub>[#153619](https://github.com/flutter/flutter/pull/153619) merged on September 11, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/153619) over 3 weeks, 420 additions and 347 deletions in 21 files</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; un-break `ThemeData` equality
   <sub>[#154695](https://github.com/flutter/flutter/pull/154695) merged on September 9, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/154695) over 3 days, 357 additions and 561 deletions in 13 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move (`dev/tools`), complete v0 of `native_driver` (Android)
+  <sub>[#154843](https://github.com/flutter/flutter/pull/154843) merged on September 11, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/154843) over 2 days, 2999 additions and 575 deletions in 81 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Dropdown menu trying to access highlight element which doesn't exist when search and filters both are enabled
   <sub>[#151969](https://github.com/flutter/flutter/pull/151969) merged on September 11, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/151969) over 1 month, 46 additions and 4 deletions in 2 files</sub>
