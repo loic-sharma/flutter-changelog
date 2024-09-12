@@ -1100,7 +1100,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-7 commits.
+8 commits.
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformCameraUpdate` to pigeon.
+  <sub>[#7507](https://github.com/flutter/packages/pull/7507) merged on September 12, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/packages/pull/7507) over 2 weeks, 2362 additions and 1239 deletions in 10 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [two_dimensional_scrollables] Fix TreeView bug when animation duration is zero
   <sub>[#7475](https://github.com/flutter/packages/pull/7475) merged on September 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7475) over 2 weeks, 110 additions and 1 deletion in 4 files</sub>
