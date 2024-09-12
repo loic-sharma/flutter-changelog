@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-31 commits.
+32 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub>
@@ -63,6 +63,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `flutter build aar` for modules that use a plugin
   <sub>[#154757](https://github.com/flutter/flutter/pull/154757) merged on September 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154757) over 3 days, 55 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; when setting up the log reader for a device during `flutter run`, discard any `RPCError` thrown due to the device being disconnected
+  <sub>[#155049](https://github.com/flutter/flutter/pull/155049) merged on September 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155049) over 18 hours, 72 additions and 8 deletions in 8 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update material and cupertino localizations
   <sub>[#154959](https://github.com/flutter/flutter/pull/154959) merged on September 11, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/154959) over 18 hours, 826 additions and 872 deletions in 214 files</sub>
