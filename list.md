@@ -692,7 +692,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add herustic for ignoring coverage limit w/ image filters.
-  <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub>
+  <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[bungeman](https://github.com/bungeman)** &mdash; Update Skia build for Vulkan headers
