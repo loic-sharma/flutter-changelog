@@ -601,7 +601,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-28 commits.
+29 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
@@ -630,6 +630,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Replace `System.loadLibrary` with `ReLinker.loadLibrary()` in `FlutterJNI.loadLibrary()`
   <sub>[#55095](https://github.com/flutter/engine/pull/55095) merged on September 11, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55095) over 21 hours, 17 additions and 7 deletions in 7 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Update Color to do all calculations with floating point components
+  <sub>[#54981](https://github.com/flutter/engine/pull/54981) merged on September 12, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/engine/pull/54981) over 6 days, 164 additions and 138 deletions in 12 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] make UI thread the platform thread for Android. Still allows opt out as g3 escape hatch.
   <sub>[#55111](https://github.com/flutter/engine/pull/55111) merged on September 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55111) over 18 hours, 7 additions and 13 deletions in 5 files</sub>
