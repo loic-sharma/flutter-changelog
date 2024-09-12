@@ -383,6 +383,10 @@
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>1 image...</summary>![337189619-885559b5-3046-4926-aea0-66be8f5d58c8](https://github.com/user-attachments/assets/24bd5b26-c776-4131-b5ca-1054e2cc90e8) | ![337189633-5c4d2d67-0729-4d1d-86a0-1402d1ac009e](https://github.com/user-attachments/assets/02d655f6-851b-4cd5-b2ae-1c3a496f9189)</details></sub>
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Drawer` prematurely snapping<br />
+  <sub>[#153955](https://github.com/flutter/flutter/pull/153955) merged on August 29, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/153955) over 6 days, 68 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Mairramer](https://github.com/Mairramer)** &mdash; fix:: elevation and scrollUnderElevation depends on scrolling drawers on issue #120083<br />
   <sub>[#150793](https://github.com/flutter/flutter/pull/150793) merged on August 29, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/150793) over 2 months, 155 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
@@ -390,10 +394,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Scroll CupertinoContextMenu if items overflow<br />
   <sub>[#154133](https://github.com/flutter/flutter/pull/154133) merged on August 28, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/154133) over 1 day, 136 additions and 36 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Navaron Bracke](https://github.com/navaronbracke), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Drawer` prematurely snapping<br />
-  <sub>[#153955](https://github.com/flutter/flutter/pull/153955) merged on August 29, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/153955) over 6 days, 68 additions and 1 deletion in 4 files</sub><br />
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make the pub roller bot re-generate gradle lockfiles<br />
   <sub>[#149355](https://github.com/flutter/flutter/pull/149355) merged on August 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/149355) over 2 months, 58 additions and 28 deletions in 4 files</sub><br />
