@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-30 commits.
+31 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update<br />
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub><br />
@@ -75,6 +75,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `apple-mobile-web-*` to `mobile-web-*`.<br />
   <sub>[#154964](https://github.com/flutter/flutter/pull/154964) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154964) over 1 hour, 20 additions and 20 deletions in 17 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: update provisioning profile for 2024-2025 cert<br />
+  <sub>[#155052](https://github.com/flutter/flutter/pull/155052) merged on September 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155052) over 2 hours, 8 additions and 11 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix `flutter run` on Mac x64 hosts if Swift Package Manager is enabled<br />
   <sub>[#154645](https://github.com/flutter/flutter/pull/154645) merged on September 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154645) over 6 days, 200 additions and 20 deletions in 6 files</sub><br />
