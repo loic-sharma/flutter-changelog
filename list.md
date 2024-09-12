@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-35 commits.
+36 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub>
@@ -40,6 +40,10 @@
   <sub>[#150315](https://github.com/flutter/flutter/pull/150315) merged on September 9, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/150315) over 2 months, 41 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Handle `ProcessException`s due to `git` missing on the host
+  <sub>[#154445](https://github.com/flutter/flutter/pull/154445) merged on September 9, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/154445) over 1 week, 142 additions and 12 deletions in 3 files</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
 * **[Shashwat Pathak](https://github.com/shashwatpathak98)** &mdash; Fix `flutter create` warning regarding Java compatibility
   <sub>[#152836](https://github.com/flutter/flutter/pull/152836) merged on September 11, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/152836) over 1 month, 26 additions and 13 deletions in 2 files</sub>
   <sub>Reviewed by: [Shreyans Pathak](https://github.com/ishon19), [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
@@ -52,17 +56,13 @@
   <sub>[#152815](https://github.com/flutter/flutter/pull/152815) merged on September 9, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/152815) over 1 month, 125 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [dy0gu](https://github.com/dy0gu), [Justin McCandless](https://github.com/justinmc), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Handle `ProcessException`s due to `git` missing on the host
-  <sub>[#154445](https://github.com/flutter/flutter/pull/154445) merged on September 9, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/154445) over 1 week, 142 additions and 12 deletions in 3 files</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds dart fixes for Color opacity functions
+  <sub>[#154953](https://github.com/flutter/flutter/pull/154953) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154953) over 1 hour, 40 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `flutter build aar` for modules that use a plugin
   <sub>[#154757](https://github.com/flutter/flutter/pull/154757) merged on September 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154757) over 3 days, 55 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds dart fixes for Color opacity functions
-  <sub>[#154953](https://github.com/flutter/flutter/pull/154953) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154953) over 1 hour, 40 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; when setting up the log reader for a device during `flutter run`, discard any `RPCError` thrown due to the device being disconnected
   <sub>[#155049](https://github.com/flutter/flutter/pull/155049) merged on September 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155049) over 18 hours, 72 additions and 8 deletions in 8 files</sub>
@@ -96,17 +96,13 @@
   <sub>[#155052](https://github.com/flutter/flutter/pull/155052) merged on September 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155052) over 2 hours, 8 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix `flutter run` on Mac x64 hosts if Swift Package Manager is enabled
+  <sub>[#154645](https://github.com/flutter/flutter/pull/154645) merged on September 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154645) over 6 days, 200 additions and 20 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.
   <sub>[#154847](https://github.com/flutter/flutter/pull/154847) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154847) over 47 minutes, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix java version used by `build_aar_module_test`
-  <sub>[#154967](https://github.com/flutter/flutter/pull/154967) merged on September 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154967) over 14 hours, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Missing benchmarks for `foundation/all_elements_bench.dart`
-  <sub>[#154954](https://github.com/flutter/flutter/pull/154954) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154954) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove last `--disable-dart-dev` in `flutter/flutter`.
   <sub>[#154948](https://github.com/flutter/flutter/pull/154948) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154948) over 52 minutes, 0 additions and 2 deletions in 1 file</sub>
@@ -124,17 +120,25 @@
   <sub>[#154841](https://github.com/flutter/flutter/pull/154841) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154841) over 4 hours, 85 additions and 41 deletions in 7 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix `flutter run` on Mac x64 hosts if Swift Package Manager is enabled
-  <sub>[#154645](https://github.com/flutter/flutter/pull/154645) merged on September 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154645) over 6 days, 200 additions and 20 deletions in 6 files</sub>
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Migrate Color.toString() test, improves `equalsIgnoringHashCodes`
   <sub>[#154934](https://github.com/flutter/flutter/pull/154934) merged on September 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154934) over 1 day, 83 additions and 91 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix java version used by `build_aar_module_test`
+  <sub>[#154967](https://github.com/flutter/flutter/pull/154967) merged on September 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154967) over 14 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Missing benchmarks for `foundation/all_elements_bench.dart`
+  <sub>[#154954](https://github.com/flutter/flutter/pull/154954) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154954) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; handle EAGAIN (macOS) in ErrorHandlingProcessManager
   <sub>[#154306](https://github.com/flutter/flutter/pull/154306) merged on September 10, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154306) over 1 week, 31 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; update changelog on master
+  <sub>[#155109](https://github.com/flutter/flutter/pull/155109) merged on September 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155109) over 36 minutes, 21 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Externalize and update onboarding instructions
   <sub>[#154730](https://github.com/flutter/flutter/pull/154730) merged on September 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/154730) over 6 days, 67 additions and 25 deletions in 2 files</sub>
@@ -613,7 +617,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-30 commits.
+31 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
@@ -638,6 +642,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Unskip Impeller iOS scenario tests
   <sub>[#55012](https://github.com/flutter/engine/pull/55012) merged on September 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55012) over 3 days, 246 additions and 134 deletions in 49 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate more tests from `litetest` to `package:test`
+  <sub>[#55119](https://github.com/flutter/engine/pull/55119) merged on September 12, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/55119) over 19 hours, 164 additions and 221 deletions in 17 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Replace `System.loadLibrary` with `ReLinker.loadLibrary()` in `FlutterJNI.loadLibrary()`
   <sub>[#55095](https://github.com/flutter/engine/pull/55095) merged on September 11, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55095) over 21 hours, 17 additions and 7 deletions in 7 files</sub>
