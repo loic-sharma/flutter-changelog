@@ -68,3 +68,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; [CP-stable] fix DropdownMenu range error <br />
   <sub>[#155076](https://github.com/flutter/flutter/pull/155076) opened on on September 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155076) 46 additions and 4 deletions in 2 files</sub><br />
 
+* **[Dara Javaherian](https://github.com/darajava)** &mdash; Show error in debug mode when ParentDataWidget is used incorrectly<br />
+  <sub>[#155091](https://github.com/flutter/flutter/pull/155091) opened on on September 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155091) 11 additions and 18 deletions in 1 file</sub><br />
+
