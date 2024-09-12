@@ -33,10 +33,10 @@
   <sub>[#154511](https://github.com/flutter/flutter/pull/154511) opened on on September 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154511) 5 additions and 5 deletions in 2 files</sub><br />
 
 * **[Kristen McWilliam](https://github.com/Merrit)** &mdash; fix(Linux): specify application id for Wayland<br />
-  <sub>[#154522](https://github.com/flutter/flutter/pull/154522) opened on on September 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154522) 6 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#154522](https://github.com/flutter/flutter/pull/154522) opened on on September 2, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/154522) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; [Docs] `CupertinoListTile` API Example<br />
-  <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/154548) 107 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/154548) 107 additions and 0 deletions in 3 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; mark build_tests shard as non-flaky<br />
   <sub>[#154570](https://github.com/flutter/flutter/pull/154570) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154570) 0 additions and 5 deletions in 1 file</sub><br />
