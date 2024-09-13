@@ -1177,7 +1177,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-13 commits.
+14 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformCameraUpdate` to pigeon.
   <sub>[#7507](https://github.com/flutter/packages/pull/7507) merged on September 12, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/packages/pull/7507) over 2 weeks, 2362 additions and 1239 deletions in 10 files</sub>
@@ -1214,6 +1214,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Increase deprecation check minimum to macOS 14
   <sub>[#7544](https://github.com/flutter/packages/pull/7544) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7544) over 1 week, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Use improved MediaQuery methods
+  <sub>[#7565](https://github.com/flutter/packages/pull/7565) merged on September 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7565) over 1 week, 25 additions and 21 deletions in 7 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_platform_interface] Fix typo in CameraUpdateNewLatLngBounds.toJson
   <sub>[#7626](https://github.com/flutter/packages/pull/7626) merged on September 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7626) over 1 hour, 22 additions and 2 deletions in 4 files</sub>
