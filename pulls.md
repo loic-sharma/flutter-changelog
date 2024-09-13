@@ -71,3 +71,6 @@
 * **[Philip Kannegaard Hayes](https://github.com/phlip9)** &mdash; fix: cleanup xcode_backend.sh to fix iOS build w/ `NixOS/nixpkgs` flutter<br />
   <sub>[#155139](https://github.com/flutter/flutter/pull/155139) opened on on September 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155139) 4 additions and 21 deletions in 1 file</sub><br />
 
+* **[HongeSun](https://github.com/hongeSunCoder)** &mdash; correct wrong git commands<br />
+  <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
+
