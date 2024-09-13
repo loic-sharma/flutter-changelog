@@ -1177,7 +1177,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-12 commits.
+13 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformCameraUpdate` to pigeon.<br />
   <sub>[#7507](https://github.com/flutter/packages/pull/7507) merged on September 12, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/packages/pull/7507) over 2 weeks, 2362 additions and 1239 deletions in 10 files</sub><br />
@@ -1202,6 +1202,10 @@
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Adds additional slot animation parameters<br />
   <sub>[#7411](https://github.com/flutter/packages/pull/7411) merged on September 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7411) over 1 month, 230 additions and 12 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Diego Tori](https://github.com/diegotori), [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [many] Update example android apps to target SDK level 34.<br />
+  <sub>[#7587](https://github.com/flutter/packages/pull/7587) merged on September 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/7587) over 1 week, 35 additions and 20 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Adds internal wrapper for Android native `ContentProgressProvider`<br />
   <sub>[#7461](https://github.com/flutter/packages/pull/7461) merged on September 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7461) over 3 weeks, 227 additions and 13 deletions in 9 files</sub><br />
