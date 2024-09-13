@@ -1177,7 +1177,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-10 commits.
+11 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformCameraUpdate` to pigeon.
   <sub>[#7507](https://github.com/flutter/packages/pull/7507) merged on September 12, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/packages/pull/7507) over 2 weeks, 2362 additions and 1239 deletions in 10 files</sub>
@@ -1194,6 +1194,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Refactor the test benchmark app to make the example easier to follow
   <sub>[#7640](https://github.com/flutter/packages/pull/7640) merged on September 12, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/7640) over 1 hour, 386 additions and 217 deletions in 25 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Adds additional slot animation parameters
+  <sub>[#7411](https://github.com/flutter/packages/pull/7411) merged on September 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7411) over 1 month, 230 additions and 12 deletions in 5 files</sub>
+  <sub>Reviewed by: [Diego Tori](https://github.com/diegotori), [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; Adds internal wrapper for Android native `ContentProgressProvider`
   <sub>[#7461](https://github.com/flutter/packages/pull/7461) merged on September 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7461) over 3 weeks, 227 additions and 13 deletions in 9 files</sub>
