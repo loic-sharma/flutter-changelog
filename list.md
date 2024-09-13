@@ -1373,7 +1373,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-16 commits.
+17 commits.
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; FWE (v2) User Input
   <sub>[#11072](https://github.com/flutter/website/pull/11072) merged on September 13, 2024 &mdash; **Large:** [174 comments](https://github.com/flutter/website/pull/11072) over 3 weeks, 1013 additions and 175 deletions in 18 files</sub>
@@ -1431,6 +1431,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update npm deps with 11ty and liquid fixes
   <sub>[#11115](https://github.com/flutter/website/pull/11115) merged on September 9, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/11115) over 22 minutes, 182 additions and 131 deletions in 2 files</sub>
   <sub>Reviewed by: [Andrew Brogdon](https://github.com/RedBrogdon)</sub>
+
+* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Update `firebase.json` with `/to/spm` for Swift Package Manager page
+  <sub>[#11135](https://github.com/flutter/website/pull/11135) merged on September 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11135) over 34 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Curt Weber](https://github.com/curt-weber)** &mdash; Add `entryPointBaseUrl` to web/initialization.md
   <sub>[#11120](https://github.com/flutter/website/pull/11120) merged on September 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11120) over 1 day, 1 addition and 0 deletions in 1 file</sub>
