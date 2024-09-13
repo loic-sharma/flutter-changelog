@@ -781,7 +781,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; add back test itSendsTextShowPasswordToFrameworkOnAttach with new mock for display metrics
-  <sub>[#55110](https://github.com/flutter/engine/pull/55110) merged on September 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55110) over 1 day, 49 additions and 0 deletions in 3 files</sub>
+  <sub>[#55110](https://github.com/flutter/engine/pull/55110) merged on September 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55110) over 1 day, 49 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Ryan Macnak](https://github.com/rmacnak-google)** &mdash; Roll buildroot to f85c3be4bf808add6ba867b8ff7943fd235b7b5e.
