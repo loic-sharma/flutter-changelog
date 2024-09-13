@@ -93,13 +93,13 @@
   <sub>[#154889](https://github.com/flutter/flutter/pull/154889) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154889) over 17 hours, 19 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; SearchBar context menu
-  <sub>[#154833](https://github.com/flutter/flutter/pull/154833) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154833) over 23 hours, 87 additions and 4 deletions in 4 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `apple-mobile-web-*` to `mobile-web-*`.
   <sub>[#154964](https://github.com/flutter/flutter/pull/154964) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154964) over 1 hour, 20 additions and 20 deletions in 17 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; SearchBar context menu
+  <sub>[#154833](https://github.com/flutter/flutter/pull/154833) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154833) over 23 hours, 87 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: update provisioning profile for 2024-2025 cert
   <sub>[#155101](https://github.com/flutter/flutter/pull/155101) merged on September 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155101) over 1 hour, 7 additions and 7 deletions in 1 file</sub>
