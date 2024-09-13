@@ -650,7 +650,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-41 commits.
+42 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all references to `litetest` from the engine repo.
   <sub>[#55163](https://github.com/flutter/engine/pull/55163) merged on September 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55163) over 1 hour, 0 additions and 1087 deletions in 12 files</sub>
@@ -663,6 +663,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add back FlutterViewTest.java
   <sub>[#55048](https://github.com/flutter/engine/pull/55048) merged on September 11, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/55048) over 1 day, 946 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Scene builder optimizations for platform view placement
+  <sub>[#54949](https://github.com/flutter/engine/pull/54949) merged on September 13, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/54949) over 1 week, 721 additions and 370 deletions in 6 files</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove Impeller Scene 👋
   <sub>[#55118](https://github.com/flutter/engine/pull/55118) merged on September 12, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/55118) over 22 hours, 4 additions and 7102 deletions in 101 files</sub>
@@ -700,17 +704,17 @@
   <sub>[#55095](https://github.com/flutter/engine/pull/55095) merged on September 11, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55095) over 21 hours, 17 additions and 7 deletions in 7 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] make UI thread the platform thread for Android. Still allows opt out as g3 escape hatch.
-  <sub>[#55111](https://github.com/flutter/engine/pull/55111) merged on September 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55111) over 18 hours, 7 additions and 13 deletions in 5 files</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Update Color to do all calculations with floating point components
   <sub>[#54981](https://github.com/flutter/engine/pull/54981) merged on September 12, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/engine/pull/54981) over 6 days, 164 additions and 138 deletions in 12 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jim Graham](https://github.com/flar)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove now unused extra args/opts/env from `run_tests.py`.
-  <sub>[#55164](https://github.com/flutter/engine/pull/55164) merged on September 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55164) over 2 hours, 20 additions and 36 deletions in 1 file</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a note about re generating Gradle lockfiles
+  <sub>[#55150](https://github.com/flutter/engine/pull/55150) merged on September 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55150) over 3 hours, 8 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] make UI thread the platform thread for Android. Still allows opt out as g3 escape hatch.
+  <sub>[#55111](https://github.com/flutter/engine/pull/55111) merged on September 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55111) over 18 hours, 7 additions and 13 deletions in 5 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [dart2wasm] Move web wasm embedder to new dart2wasm embedder API
   <sub>[#55037](https://github.com/flutter/engine/pull/55037) merged on September 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55037) over 3 days, 7 additions and 6 deletions in 1 file</sub>
@@ -732,25 +736,25 @@
   <sub>[#55089](https://github.com/flutter/engine/pull/55089) merged on September 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55089) over 1 hour, 73 additions and 56 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix comment on savelayer utils.
-  <sub>[#55049](https://github.com/flutter/engine/pull/55049) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55049) over 1 day, 9 additions and 9 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move more of the tests in the engine to `package:test`
+  <sub>[#55083](https://github.com/flutter/engine/pull/55083) merged on September 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55083) over 1 hour, 44 additions and 33 deletions in 5 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix 'dart --enable-asserts' typo in license check script
   <sub>[#55082](https://github.com/flutter/engine/pull/55082) merged on September 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55082) over 53 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move more of the tests in the engine to `package:test`
-  <sub>[#55083](https://github.com/flutter/engine/pull/55083) merged on September 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55083) over 1 hour, 44 additions and 33 deletions in 5 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix comment on savelayer utils.
+  <sub>[#55049](https://github.com/flutter/engine/pull/55049) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55049) over 1 day, 9 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a note about re generating Gradle lockfiles
-  <sub>[#55150](https://github.com/flutter/engine/pull/55150) merged on September 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55150) over 3 hours, 8 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add missing include to fml/hex_codec.h
+  <sub>[#55034](https://github.com/flutter/engine/pull/55034) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55034) over 22 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `zircon_tests` from `package:litetest` to `package:async_helper`.
-  <sub>[#55149](https://github.com/flutter/engine/pull/55149) merged on September 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55149) over 3 hours, 12 additions and 35 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix obvious memory leak.
+  <sub>[#55036](https://github.com/flutter/engine/pull/55036) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55036) over 13 hours, 12 additions and 19 deletions in 4 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add herustic for ignoring coverage limit w/ image filters.
   <sub>[#55030](https://github.com/flutter/engine/pull/55030) merged on September 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55030) over 1 day, 84 additions and 2 deletions in 2 files</sub>
@@ -760,17 +764,17 @@
   <sub>[#55086](https://github.com/flutter/engine/pull/55086) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55086) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove now unused extra args/opts/env from `run_tests.py`.
+  <sub>[#55164](https://github.com/flutter/engine/pull/55164) merged on September 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55164) over 2 hours, 20 additions and 36 deletions in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `zircon_tests` from `package:litetest` to `package:async_helper`.
+  <sub>[#55149](https://github.com/flutter/engine/pull/55149) merged on September 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55149) over 3 hours, 12 additions and 35 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix memory leak I introduced by fixing memory leak.
   <sub>[#55087](https://github.com/flutter/engine/pull/55087) merged on September 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55087) over 1 hour, 4 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix obvious memory leak.
-  <sub>[#55036](https://github.com/flutter/engine/pull/55036) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55036) over 13 hours, 12 additions and 19 deletions in 4 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add missing include to fml/hex_codec.h
-  <sub>[#55034](https://github.com/flutter/engine/pull/55034) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55034) over 22 hours, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Update package:web to use new path and latest revision
   <sub>[#55085](https://github.com/flutter/engine/pull/55085) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55085) over 56 minutes, 2 additions and 2 deletions in 2 files</sub>
