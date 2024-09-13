@@ -4,7 +4,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-43 commits.
+44 commits.
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub>
@@ -32,6 +32,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move (`dev/tools`), complete v0 of `native_driver` (Android)
   <sub>[#154843](https://github.com/flutter/flutter/pull/154843) merged on September 11, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/154843) over 2 days, 2999 additions and 575 deletions in 81 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Flicker when reorderable list doesn't change its position
+  <sub>[#151026](https://github.com/flutter/flutter/pull/151026) merged on September 13, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/151026) over 2 months, 70 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Dropdown menu trying to access highlight element which doesn't exist when search and filters both are enabled
   <sub>[#151969](https://github.com/flutter/flutter/pull/151969) merged on September 11, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/151969) over 1 month, 46 additions and 4 deletions in 2 files</sub>
@@ -73,13 +77,13 @@
   <sub>[#155130](https://github.com/flutter/flutter/pull/155130) merged on September 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155130) over 1 hour, 25 additions and 11 deletions in 4 files</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Ian Hickson](https://github.com/Hixie)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds dart fixes for Color opacity functions
-  <sub>[#154953](https://github.com/flutter/flutter/pull/154953) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154953) over 1 hour, 40 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix `flutter build aar` for modules that use a plugin
   <sub>[#154757](https://github.com/flutter/flutter/pull/154757) merged on September 10, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154757) over 3 days, 55 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds dart fixes for Color opacity functions
+  <sub>[#154953](https://github.com/flutter/flutter/pull/154953) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154953) over 1 hour, 40 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Disable fuchsia in flutter_tools
   <sub>[#155111](https://github.com/flutter/flutter/pull/155111) merged on September 12, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/155111) over 5 hours, 1 addition and 2330 deletions in 8 files</sub>
@@ -117,14 +121,6 @@
   <sub>[#155052](https://github.com/flutter/flutter/pull/155052) merged on September 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155052) over 2 hours, 8 additions and 11 deletions in 1 file</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Clean up `SnackBar` inherit theme data test
-  <sub>[#154921](https://github.com/flutter/flutter/pull/154921) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154921) over 2 hours, 6 additions and 84 deletions in 1 file</sub>
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.
-  <sub>[#154847](https://github.com/flutter/flutter/pull/154847) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154847) over 47 minutes, 2 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Missing benchmarks for `foundation/all_elements_bench.dart`
   <sub>[#154954](https://github.com/flutter/flutter/pull/154954) merged on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154954) over 1 hour, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -132,6 +128,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix java version used by `build_aar_module_test`
   <sub>[#154967](https://github.com/flutter/flutter/pull/154967) merged on September 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154967) over 14 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Clean up `SnackBar` inherit theme data test
+  <sub>[#154921](https://github.com/flutter/flutter/pull/154921) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154921) over 2 hours, 6 additions and 84 deletions in 1 file</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove last `--disable-dart-dev` in `flutter/flutter`.
   <sub>[#154948](https://github.com/flutter/flutter/pull/154948) merged on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154948) over 52 minutes, 0 additions and 2 deletions in 1 file</sub>
@@ -153,9 +153,9 @@
   <sub>[#154934](https://github.com/flutter/flutter/pull/154934) merged on September 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154934) over 1 day, 83 additions and 91 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Externalize and update onboarding instructions
-  <sub>[#154730](https://github.com/flutter/flutter/pull/154730) merged on September 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/154730) over 6 days, 67 additions and 25 deletions in 2 files</sub>
-  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Navaron Bracke](https://github.com/navaronbracke), [Christopher Fujino](https://github.com/christopherfujino), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaky tests.
+  <sub>[#154847](https://github.com/flutter/flutter/pull/154847) merged on September 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154847) over 47 minutes, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update the signature of DDS launcher callback.
   <sub>[#154949](https://github.com/flutter/flutter/pull/154949) merged on September 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154949) over 20 hours, 6 additions and 8 deletions in 3 files</sub>
@@ -176,6 +176,10 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; update changelog on master
   <sub>[#155109](https://github.com/flutter/flutter/pull/155109) merged on September 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155109) over 36 minutes, 21 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Externalize and update onboarding instructions
+  <sub>[#154730](https://github.com/flutter/flutter/pull/154730) merged on September 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/154730) over 6 days, 67 additions and 25 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Navaron Bracke](https://github.com/navaronbracke), [Christopher Fujino](https://github.com/christopherfujino), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Revert "Improve CupertinoPopupSurface appearance"
   <sub>[#154893](https://github.com/flutter/flutter/pull/154893) merged on September 10, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/154893) over 13 hours, 21 additions and 526 deletions in 2 files</sub>
