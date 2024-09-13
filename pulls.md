@@ -86,6 +86,3 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; DNS: Update README.md<br />
   <sub>[#155183](https://github.com/flutter/flutter/pull/155183) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155183) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert iOS framework artifact contains xcprivacy manifest<br />
-  <sub>[#155187](https://github.com/flutter/flutter/pull/155187) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155187) 2 additions and 0 deletions in 1 file</sub><br />
-
