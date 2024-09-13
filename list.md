@@ -1353,7 +1353,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Add internet permission / entitlement instructions.
-  <sub>[#11129](https://github.com/flutter/website/pull/11129) merged on September 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11129) over 12 hours, 49 additions and 4 deletions in 3 files</sub>
+  <sub>[#11129](https://github.com/flutter/website/pull/11129) merged on September 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11129) over 12 hours, 49 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix headers and toc duplication in widget catalog
