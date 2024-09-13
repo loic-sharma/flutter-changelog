@@ -2,6 +2,18 @@
 
 ## flutter/flutter
 
+* **[Laurence Severtson](https://github.com/Laurry-gee)** &mdash; Update CONTRIBUTING.md<br />
+  <sub>[#135644](https://github.com/flutter/flutter/pull/135644) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135644) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Laurence Severtson](https://github.com/Laurry-gee)** &mdash; Update scorecards-analysis.yml<br />
+  <sub>[#137014](https://github.com/flutter/flutter/pull/137014) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137014) 7 additions and 7 deletions in 1 file</sub><br />
+
+* **[Laurence Severtson](https://github.com/Laurry-gee)** &mdash; Update dependabot.yml<br />
+  <sub>[#137015](https://github.com/flutter/flutter/pull/137015) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137015) 7 additions and 7 deletions in 1 file</sub><br />
+
+* **[Laurence Severtson](https://github.com/Laurry-gee)** &mdash; Update CODEOWNERS<br />
+  <sub>[#137016](https://github.com/flutter/flutter/pull/137016) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137016) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Ian Hickson](https://github.com/Hixie)** &mdash; Fix line-wrapping in `flutter create` error message.<br />
   <sub>[#150325](https://github.com/flutter/flutter/pull/150325) opened on on June 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/150325) 18 additions and 13 deletions in 2 files</sub><br />
 
