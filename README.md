@@ -1345,7 +1345,11 @@
 
 ### September 7, 2024 to September 13, 2024
 
-14 commits.
+15 commits.
+
+* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; FWE (v2) User Input<br />
+  <sub>[#11072](https://github.com/flutter/website/pull/11072) merged on September 13, 2024 &mdash; **Large:** [174 comments](https://github.com/flutter/website/pull/11072) over 3 weeks, 1013 additions and 175 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Switch to a new widget placeholder image in the catalog<br />
   <sub>[#11123](https://github.com/flutter/website/pull/11123) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11123) over 22 hours, 0 additions and 0 deletions in 1 file</sub><br />
