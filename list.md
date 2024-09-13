@@ -673,7 +673,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Scene builder optimizations for platform view placement
-  <sub>[#54949](https://github.com/flutter/engine/pull/54949) merged on September 13, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/54949) over 1 week, 721 additions and 370 deletions in 6 files</sub>
+  <sub>[#54949](https://github.com/flutter/engine/pull/54949) merged on September 13, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/engine/pull/54949) over 1 week, 721 additions and 370 deletions in 6 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove Impeller Scene 👋
@@ -1185,7 +1185,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-14 commits.
+15 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformCameraUpdate` to pigeon.
   <sub>[#7507](https://github.com/flutter/packages/pull/7507) merged on September 12, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/packages/pull/7507) over 2 weeks, 2362 additions and 1239 deletions in 10 files</sub>
@@ -1210,6 +1210,10 @@
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Adds additional slot animation parameters
   <sub>[#7411](https://github.com/flutter/packages/pull/7411) merged on September 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7411) over 1 month, 230 additions and 12 deletions in 5 files</sub>
   <sub>Reviewed by: [Diego Tori](https://github.com/diegotori), [Renzo Olivares](https://github.com/Renzo-Olivares), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Bump deps
+  <sub>[#7357](https://github.com/flutter/packages/pull/7357) merged on September 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7357) over 1 month, 6 additions and 6 deletions in 8 files</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [stuartmorgan](https://github.com/stuartmorgan), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [many] Update example android apps to target SDK level 34.
   <sub>[#7587](https://github.com/flutter/packages/pull/7587) merged on September 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/7587) over 1 week, 35 additions and 20 deletions in 22 files</sub>
