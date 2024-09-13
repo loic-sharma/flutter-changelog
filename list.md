@@ -1365,7 +1365,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-15 commits.
+16 commits.
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; FWE (v2) User Input
   <sub>[#11072](https://github.com/flutter/website/pull/11072) merged on September 13, 2024 &mdash; **Large:** [174 comments](https://github.com/flutter/website/pull/11072) over 3 weeks, 1013 additions and 175 deletions in 18 files</sub>
@@ -1387,6 +1387,10 @@
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Bug in `flutter_site/check_link_references` tool during matching
   <sub>[#11111](https://github.com/flutter/website/pull/11111) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11111) over 9 hours, 3 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds note about color equality after wide gamut.
+  <sub>[#11132](https://github.com/flutter/website/pull/11132) merged on September 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11132) over 22 hours, 17 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Matan Lurey](https://github.com/matanlurey), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Add internet permission / entitlement instructions.
   <sub>[#11129](https://github.com/flutter/website/pull/11129) merged on September 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11129) over 12 hours, 49 additions and 4 deletions in 3 files</sub>
