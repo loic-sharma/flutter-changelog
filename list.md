@@ -1389,7 +1389,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-17 commits.
+18 commits.
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; FWE (v2) User Input
   <sub>[#11072](https://github.com/flutter/website/pull/11072) merged on September 13, 2024 &mdash; **Large:** [174 comments](https://github.com/flutter/website/pull/11072) over 3 weeks, 1013 additions and 175 deletions in 18 files</sub>
@@ -1399,6 +1399,10 @@
   <sub>[#11123](https://github.com/flutter/website/pull/11123) merged on September 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11123) over 22 hours, 0 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>2 images...</summary><img width="200" alt="Before widget placeholder" src="https://github.com/user-attachments/assets/9438abc6-193b-4a73-b9bb-d4ac4802ced0"><img width="200" alt="After change widget placeholder" src="https://github.com/user-attachments/assets/b5d46389-4376-4aff-9c27-c31ba4e74b9b"></details></sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Polish web embedding docs.
+  <sub>[#11133](https://github.com/flutter/website/pull/11133) merged on September 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11133) over 21 hours, 61 additions and 15 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding a support page
   <sub>[#11128](https://github.com/flutter/website/pull/11128) merged on September 12, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/11128) over 20 hours, 66 additions and 0 deletions in 2 files</sub>
