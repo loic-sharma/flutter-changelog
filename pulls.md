@@ -59,6 +59,9 @@
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Catch unable to start app exception<br />
+  <sub>[#154970](https://github.com/flutter/flutter/pull/154970) opened on on September 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154970) 109 additions and 9 deletions in 2 files</sub><br />
+
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; [CP-stable] fix DropdownMenu range error <br />
   <sub>[#155076](https://github.com/flutter/flutter/pull/155076) opened on on September 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155076) 46 additions and 4 deletions in 2 files</sub><br />
 
