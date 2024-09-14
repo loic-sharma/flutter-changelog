@@ -1198,7 +1198,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-15 commits.
+16 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformCameraUpdate` to pigeon.<br />
   <sub>[#7507](https://github.com/flutter/packages/pull/7507) merged on September 12, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/packages/pull/7507) over 2 weeks, 2362 additions and 1239 deletions in 10 files</sub><br />
@@ -1238,6 +1238,10 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Increase deprecation check minimum to macOS 14<br />
   <sub>[#7544](https://github.com/flutter/packages/pull/7544) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7544) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Improve flaky scroll tests<br />
+  <sub>[#7621](https://github.com/flutter/packages/pull/7621) merged on September 14, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7621) over 3 days, 276 additions and 130 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Use improved MediaQuery methods<br />
