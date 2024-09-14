@@ -83,6 +83,3 @@
 * **[HongeSun](https://github.com/hongeSunCoder)** &mdash; correct wrong git commands<br />
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; DNS: Update README.md<br />
-  <sub>[#155183](https://github.com/flutter/flutter/pull/155183) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155183) 1 addition and 1 deletion in 1 file</sub><br />
-
