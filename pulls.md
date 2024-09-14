@@ -83,9 +83,9 @@
 * **[HongeSun](https://github.com/hongeSunCoder)** &mdash; correct wrong git commands<br />
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[miechoo](https://github.com/miechoo)** &mdash; Missing tests of GlowingOverscrollIndicator<br />
-  <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155203) 138 additions and 2 deletions in 3 files</sub><br />
-
 * **[Dr. Artificial曾小健](https://github.com/ArtificialZeng)** &mdash; Update README.md<br />
   <sub>[#155206](https://github.com/flutter/flutter/pull/155206) opened on on September 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155206) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix the `GlowingOverscrollIndicator` examples<br />
+  <sub>[#155208](https://github.com/flutter/flutter/pull/155208) opened on on September 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155208) 110 additions and 26 deletions in 2 files</sub><br />
 
