@@ -86,3 +86,6 @@
 * **[miechoo](https://github.com/miechoo)** &mdash; Missing tests of GlowingOverscrollIndicator<br />
   <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155203) 130 additions and 2 deletions in 3 files</sub><br />
 
+* **[Dr. Artificial曾小健](https://github.com/ArtificialZeng)** &mdash; Update README.md<br />
+  <sub>[#155206](https://github.com/flutter/flutter/pull/155206) opened on on September 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155206) 2 additions and 2 deletions in 1 file</sub><br />
+
