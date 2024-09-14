@@ -89,3 +89,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix the `GlowingOverscrollIndicator` examples<br />
   <sub>[#155208](https://github.com/flutter/flutter/pull/155208) opened on on September 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155208) 110 additions and 26 deletions in 2 files</sub><br />
 
+* **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
+  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155209) 4 additions and 1 deletion in 1 file</sub><br />
+
