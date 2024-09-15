@@ -1406,7 +1406,7 @@
 
 ### September 7, 2024 to September 13, 2024
 
-20 commits.
+21 commits.
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; FWE (v2) User Input
   <sub>[#11072](https://github.com/flutter/website/pull/11072) merged on September 13, 2024 &mdash; **Large:** [174 comments](https://github.com/flutter/website/pull/11072) over 3 weeks, 1013 additions and 175 deletions in 18 files</sub>
@@ -1436,6 +1436,10 @@
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Bug in `flutter_site/check_link_references` tool during matching
   <sub>[#11111](https://github.com/flutter/website/pull/11111) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11111) over 9 hours, 3 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Mark site as documenting Flutter 3.24.3
+  <sub>[#11134](https://github.com/flutter/website/pull/11134) merged on September 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11134) over 1 day, 4 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Some initial cleanup to FWE user input page
   <sub>[#11136](https://github.com/flutter/website/pull/11136) merged on September 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/website/pull/11136) over 20 hours, 294 additions and 246 deletions in 1 file</sub>
