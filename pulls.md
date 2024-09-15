@@ -93,7 +93,7 @@
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Added new parameter `disabledChildrenInteraction` on `CarouselView` to allow developer to control which part is clickable<br />
-  <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
 
 * **[Muhammad Hamza](https://github.com/mhmzdev)** &mdash; CarouselView: `onTap != null` checked to avoid override of children's `onTap` (if any)<br />
   <sub>[#155218](https://github.com/flutter/flutter/pull/155218) opened on on September 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155218) 88 additions and 8 deletions in 2 files</sub><br />
