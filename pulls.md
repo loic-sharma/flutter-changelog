@@ -90,11 +90,8 @@
   <sub>[#155208](https://github.com/flutter/flutter/pull/155208) opened on on September 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155208) 110 additions and 26 deletions in 2 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
-  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155209) 4 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Added new parameter `disabledChildrenInteraction` on `CarouselView` to allow developer to control which part is clickable<br />
   <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
-
-* **[Muhammad Hamza](https://github.com/mhmzdev)** &mdash; if `onTap` is not null, then only it should override children's `onTap`<br />
-  <sub>[#155216](https://github.com/flutter/flutter/pull/155216) opened on on September 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155216) 16 additions and 9 deletions in 1 file</sub><br />
 
