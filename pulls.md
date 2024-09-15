@@ -99,5 +99,5 @@
   <sub>[#155218](https://github.com/flutter/flutter/pull/155218) opened on on September 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155218) 88 additions and 8 deletions in 2 files</sub><br />
 
 * **[Piyush Anand](https://github.com/creatorpiyush)** &mdash; 155224: Date-picker buttons accessibility issue with icon buttons<br />
-  <sub>[#155225](https://github.com/flutter/flutter/pull/155225) opened on on September 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155225) 25 additions and 6 deletions in 4 files</sub><br />
+  <sub>[#155225](https://github.com/flutter/flutter/pull/155225) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155225) 25 additions and 6 deletions in 4 files</sub><br />
 
