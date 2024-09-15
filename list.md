@@ -520,7 +520,7 @@
   <sub>[#153757](https://github.com/flutter/flutter/pull/153757) merged on August 28, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153757) over 1 week, 5 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
-* **[Hannah](https://github.com/hangyujin)** &mdash; Change flag internalAddSemanticForOnTap default value to true
+* **[Hannah Jin](https://github.com/hangyujin)** &mdash; Change flag internalAddSemanticForOnTap default value to true
   <sub>[#153193](https://github.com/flutter/flutter/pull/153193) merged on August 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153193) over 2 weeks, 1 addition and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
@@ -592,7 +592,7 @@
   <sub>[#154181](https://github.com/flutter/flutter/pull/154181) merged on August 28, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154181) over 1 day, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Gray Mackall](https://github.com/gmackall), [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Hannah](https://github.com/hangyujin)** &mdash; Add a RegExp for iOS domain when reading domains from xcodeProject 
+* **[Hannah Jin](https://github.com/hangyujin)** &mdash; Add a RegExp for iOS domain when reading domains from xcodeProject 
   <sub>[#154201](https://github.com/flutter/flutter/pull/154201) merged on August 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154201) over 2 days, 4 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
