@@ -1241,7 +1241,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Improve flaky scroll tests
-  <sub>[#7621](https://github.com/flutter/packages/pull/7621) merged on September 14, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7621) over 3 days, 276 additions and 130 deletions in 3 files</sub>
+  <sub>[#7621](https://github.com/flutter/packages/pull/7621) merged on September 14, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/7621) over 3 days, 276 additions and 130 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Martijn van Dijk](https://github.com/martijn00)** &mdash; [flutter_adaptive_scaffold] Use improved MediaQuery methods
