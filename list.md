@@ -4,11 +4,15 @@
 
 ### September 14, 2024 to September 20, 2024
 
-3 commits.
+4 commits.
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.
   <sub>[#149315](https://github.com/flutter/flutter/pull/149315) merged on September 16, 2024 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/149315) over 3 months, 477 additions and 70 deletions in 2 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added .keys to ColorSwatch
+  <sub>[#155262](https://github.com/flutter/flutter/pull/155262) merged on September 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/155262) over 3 hours, 7 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Catch unable to start app exception
   <sub>[#154970](https://github.com/flutter/flutter/pull/154970) merged on September 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154970) over 5 days, 109 additions and 9 deletions in 2 files</sub>

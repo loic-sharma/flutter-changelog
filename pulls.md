@@ -104,3 +104,6 @@
 * **[Pachebel](https://github.com/Pachebel)** &mdash; fix: CupertinoDatePicker.DateAndTime using showDayOfWeek<br />
   <sub>[#155260](https://github.com/flutter/flutter/pull/155260) opened on on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155260) 4 additions and 0 deletions in 1 file</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds ColorSwatch matcher<br />
+  <sub>[#155272](https://github.com/flutter/flutter/pull/155272) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155272) 71 additions and 3 deletions in 4 files</sub><br />
+
