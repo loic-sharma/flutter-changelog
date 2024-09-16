@@ -401,9 +401,18 @@
 
 ## flutter/engine
 
+### September 14, 2024 to September 20, 2024
+
+1 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Match Windows logic for picking RGB/BGR textures.<br />
+  <sub>[#55121](https://github.com/flutter/engine/pull/55121) merged on September 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55121) over 4 days, 48 additions and 47 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 ### September 7, 2024 to September 13, 2024
 
-47 commits.
+<details>
+<summary>47 commits...</summary>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all references to `litetest` from the engine repo.<br />
   <sub>[#55163](https://github.com/flutter/engine/pull/55163) merged on September 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55163) over 1 hour, 0 additions and 1087 deletions in 12 files</sub><br />
@@ -593,6 +602,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Add `crossOrigin` property to <img> tag used for decoding (#54961)"<br />
   <sub>[#55042](https://github.com/flutter/engine/pull/55042) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55042) over 1 hour, 0 additions and 15 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+</details>
 
 ### August 31, 2024 to September 6, 2024
 
