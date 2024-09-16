@@ -887,7 +887,11 @@
 
 ### September 14, 2024 to September 20, 2024
 
-3 commits.
+4 commits.
+
+* **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Make internet permission an include<br />
+  <sub>[#11145](https://github.com/flutter/website/pull/11145) merged on September 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11145) over 2 hours, 21 additions and 68 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; npm deps updates and cleanup<br />
   <sub>[#11146](https://github.com/flutter/website/pull/11146) merged on September 16, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/11146) over 15 minutes, 250 additions and 119 deletions in 2 files</sub><br />
