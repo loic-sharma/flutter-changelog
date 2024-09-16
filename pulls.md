@@ -75,7 +75,7 @@
   <sub>[#155076](https://github.com/flutter/flutter/pull/155076) opened on on September 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155076) 46 additions and 4 deletions in 2 files</sub><br />
 
 * **[Dara Javaherian](https://github.com/darajava)** &mdash; Show error in debug mode when ParentDataWidget is used incorrectly<br />
-  <sub>[#155091](https://github.com/flutter/flutter/pull/155091) opened on on September 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155091) 11 additions and 18 deletions in 1 file</sub><br />
+  <sub>[#155091](https://github.com/flutter/flutter/pull/155091) opened on on September 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155091) 0 additions and 0 deletions in 0 files</sub><br />
 
 * **[Philip Kannegaard Hayes](https://github.com/phlip9)** &mdash; fix: cleanup xcode_backend.sh to fix iOS build w/ `NixOS/nixpkgs` flutter<br />
   <sub>[#155139](https://github.com/flutter/flutter/pull/155139) opened on on September 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155139) 4 additions and 21 deletions in 1 file</sub><br />
