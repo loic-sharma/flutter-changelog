@@ -4,7 +4,11 @@
 
 ### September 14, 2024 to September 20, 2024
 
-1 commits.
+2 commits.
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Catch unable to start app exception<br />
+  <sub>[#154970](https://github.com/flutter/flutter/pull/154970) merged on September 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154970) over 5 days, 109 additions and 9 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shi-Hao Hong](https://github.com/shihaohong), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert iOS framework artifact contains xcprivacy manifest<br />
   <sub>[#155187](https://github.com/flutter/flutter/pull/155187) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155187) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
