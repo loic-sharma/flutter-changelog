@@ -883,7 +883,11 @@
 
 ### September 14, 2024 to September 20, 2024
 
-1 commits.
+2 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Use codeblock titles instead of comments on web embedding page
+  <sub>[#11142](https://github.com/flutter/website/pull/11142) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11142) over 16 hours, 3 additions and 11 deletions in 1 file</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix nested heading on what's new page
   <sub>[#11141](https://github.com/flutter/website/pull/11141) merged on September 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11141) over 2 hours, 2 additions and 1 deletion in 1 file</sub>
