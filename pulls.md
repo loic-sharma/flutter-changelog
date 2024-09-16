@@ -74,9 +74,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; [CP-stable] fix DropdownMenu range error <br />
   <sub>[#155076](https://github.com/flutter/flutter/pull/155076) opened on on September 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155076) 46 additions and 4 deletions in 2 files</sub><br />
 
-* **[Dara Javaherian](https://github.com/darajava)** &mdash; Show error in debug mode when ParentDataWidget is used incorrectly<br />
-  <sub>[#155091](https://github.com/flutter/flutter/pull/155091) opened on on September 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155091) 0 additions and 0 deletions in 0 files</sub><br />
-
 * **[Philip Kannegaard Hayes](https://github.com/phlip9)** &mdash; fix: cleanup xcode_backend.sh to fix iOS build w/ `NixOS/nixpkgs` flutter<br />
   <sub>[#155139](https://github.com/flutter/flutter/pull/155139) opened on on September 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155139) 4 additions and 21 deletions in 1 file</sub><br />
 
@@ -96,7 +93,7 @@
   <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
-  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155219) 131 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) opened on on September 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155219) 131 additions and 4 deletions in 2 files</sub><br />
 
 * **[Piyush Anand](https://github.com/creatorpiyush)** &mdash; 155224: Date-picker buttons accessibility issue with icon buttons<br />
   <sub>[#155225](https://github.com/flutter/flutter/pull/155225) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155225) 25 additions and 6 deletions in 4 files</sub><br />
