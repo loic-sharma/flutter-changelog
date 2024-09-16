@@ -4,7 +4,11 @@
 
 ### September 14, 2024 to September 20, 2024
 
-2 commits.
+3 commits.
+
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.<br />
+  <sub>[#149315](https://github.com/flutter/flutter/pull/149315) merged on September 16, 2024 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/149315) over 3 months, 477 additions and 70 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Catch unable to start app exception<br />
   <sub>[#154970](https://github.com/flutter/flutter/pull/154970) merged on September 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154970) over 5 days, 109 additions and 9 deletions in 2 files</sub><br />
@@ -883,7 +887,11 @@
 
 ### September 14, 2024 to September 20, 2024
 
-2 commits.
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; npm deps updates and cleanup<br />
+  <sub>[#11146](https://github.com/flutter/website/pull/11146) merged on September 16, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/website/pull/11146) over 15 minutes, 250 additions and 119 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use codeblock titles instead of comments on web embedding page<br />
   <sub>[#11142](https://github.com/flutter/website/pull/11142) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11142) over 16 hours, 3 additions and 11 deletions in 1 file</sub><br />
