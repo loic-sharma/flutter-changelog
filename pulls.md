@@ -98,3 +98,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client<br />
   <sub>[#155249](https://github.com/flutter/flutter/pull/155249) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155249) 37 additions and 7 deletions in 4 files</sub><br />
 
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` keyboard navigation when entires are filtered empty<br />
+  <sub>[#155252](https://github.com/flutter/flutter/pull/155252) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155252) 31 additions and 5 deletions in 2 files</sub><br />
+
