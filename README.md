@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 14, 2024 to September 20, 2024
+
+1 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert iOS framework artifact contains xcprivacy manifest<br />
+  <sub>[#155187](https://github.com/flutter/flutter/pull/155187) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155187) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### September 7, 2024 to September 13, 2024
 
-45 commits.
+<details>
+<summary>45 commits...</summary>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; `CupertinoSlidingSegmentedControl` update<br />
   <sub>[#152976](https://github.com/flutter/flutter/pull/152976) merged on September 10, 2024 &mdash; **Large:** [91 comments](https://github.com/flutter/flutter/pull/152976) over 1 month, 553 additions and 75 deletions in 2 files</sub><br />
@@ -188,6 +197,8 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Revert "Improve CupertinoPopupSurface appearance"<br />
   <sub>[#154893](https://github.com/flutter/flutter/pull/154893) merged on September 10, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/154893) over 13 hours, 21 additions and 526 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+</details>
 
 ### August 31, 2024 to September 6, 2024
 
