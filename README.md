@@ -888,6 +888,10 @@
   <sub>[#11133](https://github.com/flutter/website/pull/11133) merged on September 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11133) over 21 hours, 61 additions and 15 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
+* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Update `firebase.json` with `/to/spm` for Swift Package Manager page<br />
+  <sub>[#11135](https://github.com/flutter/website/pull/11135) merged on September 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11135) over 34 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding a support page<br />
   <sub>[#11128](https://github.com/flutter/website/pull/11128) merged on September 12, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/11128) over 20 hours, 66 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Parker Lougheed](https://github.com/parlough), [Seth Ladd](https://github.com/sethladd)</sub><br />
@@ -895,10 +899,6 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fix formatting of code snippets on iOS dev pages<br />
   <sub>[#11021](https://github.com/flutter/website/pull/11021) merged on September 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11021) over 1 month, 73 additions and 87 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
-* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Update `firebase.json` with `/to/spm` for Swift Package Manager page<br />
-  <sub>[#11135](https://github.com/flutter/website/pull/11135) merged on September 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11135) over 34 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Bug in `flutter_site/check_link_references` tool during matching<br />
   <sub>[#11111](https://github.com/flutter/website/pull/11111) merged on September 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11111) over 9 hours, 3 additions and 3 deletions in 3 files</sub><br />
