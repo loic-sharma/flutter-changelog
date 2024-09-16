@@ -862,9 +862,18 @@
 
 ## flutter/website
 
+### September 14, 2024 to September 20, 2024
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix nested heading on what's new page
+  <sub>[#11141](https://github.com/flutter/website/pull/11141) merged on September 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11141) over 2 hours, 2 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### September 7, 2024 to September 13, 2024
 
-21 commits.
+<details>
+<summary>21 commits...</summary>
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; FWE (v2) User Input
   <sub>[#11072](https://github.com/flutter/website/pull/11072) merged on September 13, 2024 &mdash; **Large:** [174 comments](https://github.com/flutter/website/pull/11072) over 3 weeks, 1013 additions and 175 deletions in 18 files</sub>
@@ -950,6 +959,8 @@
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Update: Extract-Archive -> Expand-Archive
   <sub>[#11112](https://github.com/flutter/website/pull/11112) merged on September 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11112) over 7 hours, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### August 31, 2024 to September 6, 2024
 
