@@ -71,9 +71,6 @@
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; [CP-stable] fix DropdownMenu range error <br />
-  <sub>[#155076](https://github.com/flutter/flutter/pull/155076) opened on on September 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155076) 46 additions and 4 deletions in 2 files</sub><br />
-
 * **[Philip Kannegaard Hayes](https://github.com/phlip9)** &mdash; fix: cleanup xcode_backend.sh to fix iOS build w/ `NixOS/nixpkgs` flutter<br />
   <sub>[#155139](https://github.com/flutter/flutter/pull/155139) opened on on September 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155139) 4 additions and 21 deletions in 1 file</sub><br />
 
@@ -97,4 +94,7 @@
 
 * **[Piyush Anand](https://github.com/creatorpiyush)** &mdash; 155224: Date-picker buttons accessibility issue with icon buttons<br />
   <sub>[#155225](https://github.com/flutter/flutter/pull/155225) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155225) 25 additions and 6 deletions in 4 files</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client<br />
+  <sub>[#155249](https://github.com/flutter/flutter/pull/155249) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155249) 37 additions and 7 deletions in 4 files</sub><br />
 
