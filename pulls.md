@@ -98,6 +98,9 @@
 * **[Muhammad Hamza](https://github.com/mhmzdev)** &mdash; CarouselView: `onTap != null` checked to avoid override of children's `onTap` (if any)<br />
   <sub>[#155218](https://github.com/flutter/flutter/pull/155218) opened on on September 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155218) 88 additions and 8 deletions in 2 files</sub><br />
 
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
+  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) opened on on September 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155219) 129 additions and 4 deletions in 2 files</sub><br />
+
 * **[Piyush Anand](https://github.com/creatorpiyush)** &mdash; 155224: Date-picker buttons accessibility issue with icon buttons<br />
   <sub>[#155225](https://github.com/flutter/flutter/pull/155225) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155225) 25 additions and 6 deletions in 4 files</sub><br />
 
