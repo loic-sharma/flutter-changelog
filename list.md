@@ -414,7 +414,11 @@
 
 ### September 14, 2024 to September 20, 2024
 
-1 commits.
+2 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added .vscode back to being ignored
+  <sub>[#55195](https://github.com/flutter/engine/pull/55195) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55195) over 2 days, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Match Windows logic for picking RGB/BGR textures.
   <sub>[#55121](https://github.com/flutter/engine/pull/55121) merged on September 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55121) over 4 days, 48 additions and 47 deletions in 4 files</sub>
