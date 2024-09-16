@@ -769,7 +769,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds support for non nullable types in collections
-  <sub>[#7547](https://github.com/flutter/packages/pull/7547) merged on September 13, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/7547) over 2 weeks, 29880 additions and 10084 deletions in 38 files</sub>
+  <sub>[#7547](https://github.com/flutter/packages/pull/7547) merged on September 13, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/7547) over 2 weeks, 29880 additions and 10084 deletions in 38 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [two_dimensional_scrollables] Fix TreeView bug when animation duration is zero
