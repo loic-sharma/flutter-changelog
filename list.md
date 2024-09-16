@@ -426,7 +426,11 @@
 
 ### September 14, 2024 to September 20, 2024
 
-3 commits.
+4 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Embedder] Warn when embedders try to enable an unsupported renderer.
+  <sub>[#55240](https://github.com/flutter/engine/pull/55240) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55240) over 2 hours, 10 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added .vscode back to being ignored
   <sub>[#55195](https://github.com/flutter/engine/pull/55195) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55195) over 2 days, 2 additions and 0 deletions in 1 file</sub>
