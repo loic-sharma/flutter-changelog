@@ -914,7 +914,11 @@
 
 ### September 14, 2024 to September 20, 2024
 
-4 commits.
+5 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update Material 3 menu catalog entry to MenuAnchor<br />
+  <sub>[#11150](https://github.com/flutter/website/pull/11150) merged on September 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11150) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Make internet permission an include<br />
   <sub>[#11145](https://github.com/flutter/website/pull/11145) merged on September 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11145) over 2 hours, 21 additions and 68 deletions in 5 files</sub><br />
