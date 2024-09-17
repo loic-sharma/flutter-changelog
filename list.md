@@ -788,9 +788,18 @@
 
 ## flutter/packages
 
+### September 14, 2024 to September 20, 2024
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[webview_flutter] Improve flaky scroll tests"
+  <sub>[#7652](https://github.com/flutter/packages/pull/7652) merged on September 17, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/7652) over 9 hours, 130 additions and 276 deletions in 3 files</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 ### September 7, 2024 to September 13, 2024
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformCameraUpdate` to pigeon.
   <sub>[#7507](https://github.com/flutter/packages/pull/7507) merged on September 12, 2024 &mdash; **Extra large:** [55 comments](https://github.com/flutter/packages/pull/7507) over 2 weeks, 2362 additions and 1239 deletions in 10 files</sub>
@@ -855,6 +864,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Disable setAndGetScrollPosition on iOS
   <sub>[#7609](https://github.com/flutter/packages/pull/7609) merged on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7609) over 1 hour, 6 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+</details>
 
 ### August 31, 2024 to September 6, 2024
 
