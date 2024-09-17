@@ -426,11 +426,15 @@
 
 ### September 14, 2024 to September 20, 2024
 
-5 commits.
+6 commits.
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Delay the window until the first frame is received from the Flutter engine<br />
   <sub>[#54703](https://github.com/flutter/engine/pull/54703) merged on September 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54703) over 3 weeks, 85 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; FlutterViewTest add back part 4 and 5<br />
+  <sub>[#55243](https://github.com/flutter/engine/pull/55243) merged on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55243) over 18 hours, 113 additions and 39 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Embedder] Warn when embedders try to enable an unsupported renderer.<br />
   <sub>[#55240](https://github.com/flutter/engine/pull/55240) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55240) over 2 hours, 10 additions and 7 deletions in 1 file</sub><br />
