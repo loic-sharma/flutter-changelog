@@ -442,7 +442,7 @@
 
 ### September 14, 2024 to September 20, 2024
 
-11 commits.
+13 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add golden test for rendering a triangle.
   <sub>[#55262](https://github.com/flutter/engine/pull/55262) merged on September 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55262) over 50 minutes, 85 additions and 2 deletions in 2 files</sub>
@@ -452,6 +452,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Delay the window until the first frame is received from the Flutter engine
   <sub>[#54703](https://github.com/flutter/engine/pull/54703) merged on September 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54703) over 3 weeks, 85 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed solid blur style math
+  <sub>[#55194](https://github.com/flutter/engine/pull/55194) merged on September 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55194) over 3 days, 20 additions and 21 deletions in 2 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; FlutterViewTest add back part 4 and 5
   <sub>[#55243](https://github.com/flutter/engine/pull/55243) merged on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55243) over 18 hours, 113 additions and 39 deletions in 1 file</sub>
@@ -468,6 +472,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added .vscode back to being ignored
   <sub>[#55195](https://github.com/flutter/engine/pull/55195) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55195) over 2 days, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove the redundant smoketest.
+  <sub>[#55267](https://github.com/flutter/engine/pull/55267) merged on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55267) over 1 hour, 0 additions and 178 deletions in 7 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove tinygltf
   <sub>[#55264](https://github.com/flutter/engine/pull/55264) merged on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55264) over 1 hour, 2 additions and 43 deletions in 7 files</sub>
