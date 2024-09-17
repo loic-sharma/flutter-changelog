@@ -71,17 +71,20 @@
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
+* **[Dara Javaherian](https://github.com/darajava)** &mdash; Show error in debug mode when ParentDataWidget is used incorrectly<br />
+  <sub>[#155091](https://github.com/flutter/flutter/pull/155091) opened on on September 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155091) 40 additions and 18 deletions in 2 files</sub><br />
+
 * **[Philip Kannegaard Hayes](https://github.com/phlip9)** &mdash; fix: cleanup xcode_backend.sh to fix iOS build w/ `NixOS/nixpkgs` flutter<br />
   <sub>[#155139](https://github.com/flutter/flutter/pull/155139) opened on on September 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155139) 4 additions and 21 deletions in 1 file</sub><br />
 
 * **[HongeSun](https://github.com/hongeSunCoder)** &mdash; correct wrong git commands<br />
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[miechoo](https://github.com/miechoo)** &mdash; Fix `GlowingOverscrollIndicator` examples<br />
+  <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155203) 248 additions and 28 deletions in 5 files</sub><br />
+
 * **[Dr. Artificial曾小健](https://github.com/ArtificialZeng)** &mdash; Update README.md<br />
   <sub>[#155206](https://github.com/flutter/flutter/pull/155206) opened on on September 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/155206) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix the `GlowingOverscrollIndicator` examples<br />
-  <sub>[#155208](https://github.com/flutter/flutter/pull/155208) opened on on September 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155208) 110 additions and 26 deletions in 2 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
