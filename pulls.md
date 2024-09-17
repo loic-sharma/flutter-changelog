@@ -108,13 +108,13 @@
   <sub>[#155260](https://github.com/flutter/flutter/pull/155260) opened on on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155260) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add  magnificationScale to CupertinoMagnifier for Zoom Effect<br />
-  <sub>[#155276](https://github.com/flutter/flutter/pull/155276) opened on on September 16, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155276) 11 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#155276](https://github.com/flutter/flutter/pull/155276) opened on on September 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/155276) 11 additions and 1 deletion in 1 file</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to configure shadow in banner<br />
   <sub>[#155296](https://github.com/flutter/flutter/pull/155296) opened on on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155296) 49 additions and 5 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds dynamic management of TapRegion on navigation<br />
-  <sub>[#155297](https://github.com/flutter/flutter/pull/155297) opened on on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155297) 191 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#155297](https://github.com/flutter/flutter/pull/155297) opened on on September 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155297) 191 additions and 2 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) opened on on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155315) 161 additions and 0 deletions in 3 files</sub><br />
