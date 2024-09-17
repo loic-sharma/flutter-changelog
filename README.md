@@ -442,7 +442,7 @@
 
 ### September 14, 2024 to September 20, 2024
 
-8 commits.
+10 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add golden test for rendering a triangle.<br />
   <sub>[#55262](https://github.com/flutter/engine/pull/55262) merged on September 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55262) over 50 minutes, 85 additions and 2 deletions in 2 files</sub><br />
@@ -457,6 +457,10 @@
   <sub>[#55243](https://github.com/flutter/engine/pull/55243) merged on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55243) over 18 hours, 113 additions and 39 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add DeviceBuffer.flush & GpuContext.getMinimumUniformByteAlignment.<br />
+  <sub>[#53620](https://github.com/flutter/engine/pull/53620) merged on September 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/53620) over 2 months, 79 additions and 1 deletion in 7 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Embedder] Warn when embedders try to enable an unsupported renderer.<br />
   <sub>[#55240](https://github.com/flutter/engine/pull/55240) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55240) over 2 hours, 10 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -464,6 +468,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added .vscode back to being ignored<br />
   <sub>[#55195](https://github.com/flutter/engine/pull/55195) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55195) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Update the Impeller Scene doc<br />
+  <sub>[#55265](https://github.com/flutter/engine/pull/55265) merged on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55265) over 55 minutes, 2 additions and 18 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove scene GLB files<br />
   <sub>[#55263](https://github.com/flutter/engine/pull/55263) merged on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55263) over 46 minutes, 0 additions and 2 deletions in 3 files</sub><br />
