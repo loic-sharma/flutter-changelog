@@ -438,7 +438,12 @@
 
 ### September 14, 2024 to September 20, 2024
 
-6 commits.
+8 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add golden test for rendering a triangle.<br />
+  <sub>[#55262](https://github.com/flutter/engine/pull/55262) merged on September 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55262) over 50 minutes, 85 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+  <sub><details><summary>1 image...</summary>![flutter_gpu_test_triangle](https://github.com/user-attachments/assets/0b39380e-1aa5-4369-ae5b-a8764d5701cb)</details></sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Delay the window until the first frame is received from the Flutter engine<br />
   <sub>[#54703](https://github.com/flutter/engine/pull/54703) merged on September 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54703) over 3 weeks, 85 additions and 9 deletions in 3 files</sub><br />
@@ -455,6 +460,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added .vscode back to being ignored<br />
   <sub>[#55195](https://github.com/flutter/engine/pull/55195) merged on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55195) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove scene GLB files<br />
+  <sub>[#55263](https://github.com/flutter/engine/pull/55263) merged on September 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55263) over 46 minutes, 0 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; flutter view add test 2<br />
   <sub>[#55188](https://github.com/flutter/engine/pull/55188) merged on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55188) over 3 days, 97 additions and 8 deletions in 3 files</sub><br />
