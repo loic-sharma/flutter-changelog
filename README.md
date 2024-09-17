@@ -4,11 +4,19 @@
 
 ### September 14, 2024 to September 20, 2024
 
-4 commits.
+6 commits.
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.<br />
   <sub>[#149315](https://github.com/flutter/flutter/pull/149315) merged on September 16, 2024 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/149315) over 3 months, 477 additions and 70 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Delete packages/flutter_tools/lib/src/fuchsia directory<br />
+  <sub>[#154880](https://github.com/flutter/flutter/pull/154880) merged on September 17, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/154880) over 1 week, 2 additions and 1845 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds ColorSwatch matcher<br />
+  <sub>[#155272](https://github.com/flutter/flutter/pull/155272) merged on September 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155272) over 18 hours, 69 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added .keys to ColorSwatch<br />
   <sub>[#155262](https://github.com/flutter/flutter/pull/155262) merged on September 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/155262) over 3 hours, 7 additions and 3 deletions in 2 files</sub><br />
