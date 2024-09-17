@@ -914,7 +914,11 @@
 
 ### September 14, 2024 to September 20, 2024
 
-6 commits.
+7 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Mark new iOS and macOS releases as "Best effort"
+  <sub>[#11149](https://github.com/flutter/website/pull/11149) merged on September 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11149) over 18 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; [FWE]: Adding a simple networking sample to get things started
   <sub>[#11147](https://github.com/flutter/website/pull/11147) merged on September 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11147) over 13 hours, 18 additions and 3 deletions in 1 file</sub>
