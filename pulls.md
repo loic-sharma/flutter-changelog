@@ -108,5 +108,5 @@
   <sub>[#155272](https://github.com/flutter/flutter/pull/155272) opened on on September 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155272) 69 additions and 1 deletion in 2 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add  magnificationScale to CupertinoMagnifier for Zoom Effect<br />
-  <sub>[#155276](https://github.com/flutter/flutter/pull/155276) opened on on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155276) 8 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#155276](https://github.com/flutter/flutter/pull/155276) opened on on September 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155276) 8 additions and 1 deletion in 1 file</sub><br />
 
