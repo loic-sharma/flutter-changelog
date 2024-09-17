@@ -4,11 +4,15 @@
 
 ### September 14, 2024 to September 20, 2024
 
-7 commits.
+8 commits.
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.
   <sub>[#149315](https://github.com/flutter/flutter/pull/149315) merged on September 16, 2024 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/149315) over 3 months, 477 additions and 70 deletions in 2 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [CupertinoAlertDialog] Add tap-slide gesture
+  <sub>[#154853](https://github.com/flutter/flutter/pull/154853) merged on September 17, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/154853) over 1 week, 674 additions and 54 deletions in 3 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Uninstall /can fail/
   <sub>[#155314](https://github.com/flutter/flutter/pull/155314) merged on September 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155314) over 50 minutes, 1 addition and 7 deletions in 1 file</sub>
