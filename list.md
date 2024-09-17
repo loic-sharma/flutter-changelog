@@ -4,11 +4,15 @@
 
 ### September 14, 2024 to September 20, 2024
 
-6 commits.
+7 commits.
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.
   <sub>[#149315](https://github.com/flutter/flutter/pull/149315) merged on September 16, 2024 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/149315) over 3 months, 477 additions and 70 deletions in 2 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Uninstall /can fail/
+  <sub>[#155314](https://github.com/flutter/flutter/pull/155314) merged on September 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155314) over 50 minutes, 1 addition and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Delete packages/flutter_tools/lib/src/fuchsia directory
   <sub>[#154880](https://github.com/flutter/flutter/pull/154880) merged on September 17, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/154880) over 1 week, 2 additions and 1845 deletions in 14 files</sub>
