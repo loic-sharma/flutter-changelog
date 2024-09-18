@@ -120,5 +120,5 @@
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) opened on on September 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155297) 191 additions and 2 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
-  <sub>[#155315](https://github.com/flutter/flutter/pull/155315) opened on on September 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155315) 153 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#155315](https://github.com/flutter/flutter/pull/155315) opened on on September 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155315) 153 additions and 0 deletions in 3 files</sub><br />
 
