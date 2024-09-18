@@ -66,7 +66,7 @@
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 12 deletions in 1 file</sub><br />
 
 * **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using *Gradient:withOpacity<br />
-  <sub>[#154908](https://github.com/flutter/flutter/pull/154908) opened on on September 10, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/154908) 85 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#154908](https://github.com/flutter/flutter/pull/154908) opened on on September 10, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/154908) 85 additions and 1 deletion in 2 files</sub><br />
 
 * **[Thomas Hareau](https://github.com/ThHareau)** &mdash; Add autocorrect and enableSuggestions to SearchDelegate<br />
   <sub>[#154932](https://github.com/flutter/flutter/pull/154932) opened on on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154932) 53 additions and 1 deletion in 2 files</sub><br />
