@@ -96,7 +96,7 @@
   <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
-  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) opened on on September 15, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/155219) 163 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) opened on on September 15, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/155219) 161 additions and 5 deletions in 2 files</sub><br />
 
 * **[Piyush Anand](https://github.com/creatorpiyush)** &mdash; 155224: Date-picker buttons accessibility issue with icon buttons<br />
   <sub>[#155225](https://github.com/flutter/flutter/pull/155225) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155225) 25 additions and 6 deletions in 4 files</sub><br />
