@@ -447,7 +447,7 @@
 
 ### September 14, 2024 to September 20, 2024
 
-14 commits.
+15 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Expose a single-header C API to Impellers Display-List layer.
   <sub>[#55238](https://github.com/flutter/engine/pull/55238) merged on September 18, 2024 &mdash; **Extra large:** [24 comments](https://github.com/flutter/engine/pull/55238) over 1 day, 4320 additions and 13 deletions in 47 files</sub>
@@ -462,6 +462,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Delay the window until the first frame is received from the Flutter engine
   <sub>[#54703](https://github.com/flutter/engine/pull/54703) merged on September 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54703) over 3 weeks, 85 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; [ios] Update gesture position on every event
+  <sub>[#55285](https://github.com/flutter/engine/pull/55285) merged on September 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/55285) over 5 hours, 13 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed solid blur style math
   <sub>[#55194](https://github.com/flutter/engine/pull/55194) merged on September 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55194) over 3 days, 20 additions and 21 deletions in 2 files</sub>
