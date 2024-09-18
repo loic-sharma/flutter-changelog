@@ -981,7 +981,7 @@
 
 ### September 14, 2024 to September 20, 2024
 
-8 commits.
+9 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Mark new iOS and macOS releases as "Best effort"<br />
   <sub>[#11149](https://github.com/flutter/website/pull/11149) merged on September 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11149) over 18 hours, 2 additions and 2 deletions in 1 file</sub><br />
@@ -1010,6 +1010,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix nested heading on what's new page<br />
   <sub>[#11141](https://github.com/flutter/website/pull/11141) merged on September 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11141) over 2 hours, 2 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Text in other languages was removed from anchors<br />
+  <sub>[#11151](https://github.com/flutter/website/pull/11151) merged on September 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11151) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; Update `firebase.json` with `/go/google-maps-advanced-markers` for Advanced Markers feature<br />
   <sub>[#11157](https://github.com/flutter/website/pull/11157) merged on September 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11157) over 6 hours, 1 addition and 0 deletions in 1 file</sub><br />
