@@ -4,7 +4,12 @@
 
 ### September 14, 2024 to September 20, 2024
 
-8 commits.
+9 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix missing icon props in button `styleFrom`  methods<br />
+  <sub>[#154821](https://github.com/flutter/flutter/pull/154821) merged on September 18, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/154821) over 1 week, 376 additions and 66 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="838" alt="Screenshot 2024-09-09 at 16 27 19" src="https://github.com/user-attachments/assets/551d328b-307f-4f63-b0e8-1358a12877f9"></details></sub>
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Extend 'flutter symbolize' to handle deferred loading units.<br />
   <sub>[#149315](https://github.com/flutter/flutter/pull/149315) merged on September 16, 2024 &mdash; **Large:** [25 comments](https://github.com/flutter/flutter/pull/149315) over 3 months, 477 additions and 70 deletions in 2 files</sub><br />
