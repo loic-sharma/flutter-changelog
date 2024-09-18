@@ -849,11 +849,15 @@
 
 ### September 14, 2024 to September 20, 2024
 
-2 commits.
+3 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for mid-roll ads
   <sub>[#7407](https://github.com/flutter/packages/pull/7407) merged on September 17, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/7407) over 1 month, 910 additions and 44 deletions in 37 files</sub>
   <sub>Reviewed by: [harold1208](https://github.com/harold1208), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `AdsRenderingSettings`
+  <sub>[#7660](https://github.com/flutter/packages/pull/7660) merged on September 18, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7660) over 2 hours, 1385 additions and 3 deletions in 10 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[webview_flutter] Improve flaky scroll tests"
   <sub>[#7652](https://github.com/flutter/packages/pull/7652) merged on September 17, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/7652) over 9 hours, 130 additions and 276 deletions in 3 files</sub>
