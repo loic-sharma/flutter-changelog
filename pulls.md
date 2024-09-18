@@ -122,3 +122,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) opened on on September 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/155315) 153 additions and 0 deletions in 3 files</sub><br />
 
+* **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; [#155269] Platform adaptive showAboutDialog and AboutDialog feature c…<br />
+  <sub>[#155377](https://github.com/flutter/flutter/pull/155377) opened on on September 18, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/155377) 684 additions and 204 deletions in 2 files</sub><br />
+
