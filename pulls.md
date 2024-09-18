@@ -74,7 +74,7 @@
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Dara Javaherian](https://github.com/darajava)** &mdash; Show error in debug mode when ParentDataWidget is used incorrectly<br />
+* **[Dara Javaherian](https://github.com/darajava)** &mdash; Prevent uncontrolled crash in Release mode when ParentDataWidget is used incorrectly<br />
   <sub>[#155091](https://github.com/flutter/flutter/pull/155091) opened on on September 12, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/155091) 56 additions and 17 deletions in 3 files</sub><br />
 
 * **[Philip Kannegaard Hayes](https://github.com/phlip9)** &mdash; fix: cleanup xcode_backend.sh to fix iOS build w/ `NixOS/nixpkgs` flutter<br />
