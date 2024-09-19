@@ -122,3 +122,6 @@
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; [#155269] Platform adaptive showAboutDialog and AboutDialog feature c…<br />
   <sub>[#155377](https://github.com/flutter/flutter/pull/155377) opened on on September 18, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/155377) 685 additions and 205 deletions in 3 files</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)<br />
+  <sub>[#155430](https://github.com/flutter/flutter/pull/155430) opened on on September 19, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/155430) 1699 additions and 3394 deletions in 19 files</sub><br />
+
