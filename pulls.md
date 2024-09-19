@@ -98,9 +98,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
   <sub>[#155219](https://github.com/flutter/flutter/pull/155219) opened on on September 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155219) 168 additions and 4 deletions in 2 files</sub><br />
 
-* **[Piyush Anand](https://github.com/creatorpiyush)** &mdash; 155224: Date-picker buttons accessibility issue with icon buttons<br />
-  <sub>[#155225](https://github.com/flutter/flutter/pull/155225) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155225) 25 additions and 6 deletions in 4 files</sub><br />
-
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client<br />
   <sub>[#155249](https://github.com/flutter/flutter/pull/155249) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155249) 37 additions and 7 deletions in 4 files</sub><br />
 
