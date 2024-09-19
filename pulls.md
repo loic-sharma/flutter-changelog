@@ -96,7 +96,7 @@
   <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
-  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) opened on on September 15, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/155219) 161 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) opened on on September 15, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/155219) 169 additions and 5 deletions in 2 files</sub><br />
 
 * **[Piyush Anand](https://github.com/creatorpiyush)** &mdash; 155224: Date-picker buttons accessibility issue with icon buttons<br />
   <sub>[#155225](https://github.com/flutter/flutter/pull/155225) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155225) 25 additions and 6 deletions in 4 files</sub><br />
@@ -123,5 +123,5 @@
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) opened on on September 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/155315) 153 additions and 0 deletions in 3 files</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; [#155269] Platform adaptive showAboutDialog and AboutDialog feature c…<br />
-  <sub>[#155377](https://github.com/flutter/flutter/pull/155377) opened on on September 18, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/155377) 684 additions and 204 deletions in 2 files</sub><br />
+  <sub>[#155377](https://github.com/flutter/flutter/pull/155377) opened on on September 18, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/155377) 685 additions and 205 deletions in 3 files</sub><br />
 
