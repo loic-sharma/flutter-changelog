@@ -454,6 +454,10 @@
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
   <sub><details><summary>1 image...</summary><img width="1107" alt="Screenshot 2024-09-12 at 2 55 14 PM" src="https://github.com/user-attachments/assets/e1532dba-487e-4af1-9442-1005a8f52d8d"></details></sub>
 
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; [ios] Update gesture position on every event
+  <sub>[#55285](https://github.com/flutter/engine/pull/55285) merged on September 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/55285) over 5 hours, 13 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add golden test for rendering a triangle.
   <sub>[#55262](https://github.com/flutter/engine/pull/55262) merged on September 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55262) over 50 minutes, 85 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -462,10 +466,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Delay the window until the first frame is received from the Flutter engine
   <sub>[#54703](https://github.com/flutter/engine/pull/54703) merged on September 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54703) over 3 weeks, 85 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
-* **[Callum Moffat](https://github.com/moffatman)** &mdash; [ios] Update gesture position on every event
-  <sub>[#55285](https://github.com/flutter/engine/pull/55285) merged on September 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/55285) over 5 hours, 13 additions and 10 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed solid blur style math
   <sub>[#55194](https://github.com/flutter/engine/pull/55194) merged on September 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55194) over 3 days, 20 additions and 21 deletions in 2 files</sub>
