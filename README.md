@@ -989,7 +989,7 @@
 
 ### September 14, 2024 to September 20, 2024
 
-11 commits.
+12 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update references to iOS 18 beta and release<br />
   <sub>[#11160](https://github.com/flutter/website/pull/11160) merged on September 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11160) over 13 minutes, 5 additions and 7 deletions in 2 files</sub><br />
@@ -1026,6 +1026,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix nested heading on what's new page<br />
   <sub>[#11141](https://github.com/flutter/website/pull/11141) merged on September 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11141) over 2 hours, 2 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; iOS updates<br />
+  <sub>[#11140](https://github.com/flutter/website/pull/11140) merged on September 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11140) over 4 days, 44 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Text in other languages was removed from anchors<br />
   <sub>[#11151](https://github.com/flutter/website/pull/11151) merged on September 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11151) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
