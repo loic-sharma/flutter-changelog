@@ -116,3 +116,6 @@
 * **[Frank](https://github.com/Frank3K)** &mdash; Do not handle external requests by service worker (Flutter web)<br />
   <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
 
+* **[TheMaverickProgrammer](https://github.com/TheMaverickProgrammer)** &mdash; `SelectionContainer.getSelectionContent()` add newline char iff none exists in `Selectable`'s result.<br />
+  <sub>[#155481](https://github.com/flutter/flutter/pull/155481) opened on on September 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155481) 29 additions and 12 deletions in 4 files</sub><br />
+
