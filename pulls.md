@@ -123,7 +123,7 @@
   <sub>[#155377](https://github.com/flutter/flutter/pull/155377) opened on on September 18, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/155377) 685 additions and 205 deletions in 3 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)<br />
-  <sub>[#155430](https://github.com/flutter/flutter/pull/155430) opened on on September 19, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/155430) 1708 additions and 3398 deletions in 20 files</sub><br />
+  <sub>[#155430](https://github.com/flutter/flutter/pull/155430) opened on on September 19, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/155430) 1713 additions and 3400 deletions in 20 files</sub><br />
 
 * **[Juniardo150604](https://github.com/Juniardo150604)** &mdash; Update dart<br />
   <sub>[#155437](https://github.com/flutter/flutter/pull/155437) opened on on September 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155437) 5 additions and 10 deletions in 1 file</sub><br />
