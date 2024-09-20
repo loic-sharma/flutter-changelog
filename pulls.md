@@ -84,7 +84,7 @@
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Fix `GlowingOverscrollIndicator` examples<br />
-  <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155203) 196 additions and 28 deletions in 5 files</sub><br />
+  <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155203) 247 additions and 28 deletions in 5 files</sub><br />
 
 * **[Dr. Artificial曾小健](https://github.com/ArtificialZeng)** &mdash; Update README.md<br />
   <sub>[#155206](https://github.com/flutter/flutter/pull/155206) opened on on September 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/155206) 1 addition and 1 deletion in 1 file</sub><br />
