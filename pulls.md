@@ -125,3 +125,6 @@
 * **[Juniardo150604](https://github.com/Juniardo150604)** &mdash; Update dart<br />
   <sub>[#155437](https://github.com/flutter/flutter/pull/155437) opened on on September 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155437) 5 additions and 10 deletions in 1 file</sub><br />
 
+* **[Frank](https://github.com/Frank3K)** &mdash; Do not handle external requests by service worker (Flutter web)<br />
+  <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
+
