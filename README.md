@@ -447,7 +447,7 @@
 
 ### September 14, 2024 to September 20, 2024
 
-15 commits.
+16 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Expose a single-header C API to Impellers Display-List layer.<br />
   <sub>[#55238](https://github.com/flutter/engine/pull/55238) merged on September 18, 2024 &mdash; **Extra large:** [24 comments](https://github.com/flutter/engine/pull/55238) over 1 day, 4320 additions and 13 deletions in 47 files</sub><br />
@@ -462,6 +462,11 @@
   <sub>[#55262](https://github.com/flutter/engine/pull/55262) merged on September 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55262) over 50 minutes, 85 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
   <sub><details><summary>1 image...</summary>![flutter_gpu_test_triangle](https://github.com/user-attachments/assets/0b39380e-1aa5-4369-ae5b-a8764d5701cb)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds vscode workspace with impeller test runner<br />
+  <sub>[#55291](https://github.com/flutter/engine/pull/55291) merged on September 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55291) over 1 day, 261 additions and 20 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+  <sub><details><summary>1 image...</summary>![ezgif-2-bcd582b44e](https://github.com/user-attachments/assets/11cea32e-628f-4626-b87d-9d3ebfe11357)</details></sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Delay the window until the first frame is received from the Flutter engine<br />
   <sub>[#54703](https://github.com/flutter/engine/pull/54703) merged on September 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/54703) over 3 weeks, 85 additions and 9 deletions in 3 files</sub><br />
