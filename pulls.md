@@ -65,9 +65,6 @@
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Restore analyze_snippet_code_test tests.<br />
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 12 deletions in 1 file</sub><br />
 
-* **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using *Gradient:withOpacity<br />
-  <sub>[#154908](https://github.com/flutter/flutter/pull/154908) opened on on September 10, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/154908) 85 additions and 1 deletion in 2 files</sub><br />
-
 * **[Thomas Hareau](https://github.com/ThHareau)** &mdash; Add autocorrect and enableSuggestions to SearchDelegate<br />
   <sub>[#154932](https://github.com/flutter/flutter/pull/154932) opened on on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154932) 53 additions and 1 deletion in 2 files</sub><br />
 
@@ -86,17 +83,11 @@
 * **[miechoo](https://github.com/miechoo)** &mdash; Fix `GlowingOverscrollIndicator` examples<br />
   <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155203) 247 additions and 28 deletions in 5 files</sub><br />
 
-* **[Dr. Artificial曾小健](https://github.com/ArtificialZeng)** &mdash; Update README.md<br />
-  <sub>[#155206](https://github.com/flutter/flutter/pull/155206) opened on on September 14, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155206) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Added new parameter `disabledChildrenInteraction` on `CarouselView` to allow developer to control which part is clickable<br />
   <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
-
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
-  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) opened on on September 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155219) 168 additions and 4 deletions in 2 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client<br />
   <sub>[#155249](https://github.com/flutter/flutter/pull/155249) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155249) 37 additions and 7 deletions in 4 files</sub><br />
