@@ -4,7 +4,7 @@
 
 ### September 14, 2024 to September 20, 2024
 
-9 commits.
+10 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix missing icon props in button `styleFrom`  methods
   <sub>[#154821](https://github.com/flutter/flutter/pull/154821) merged on September 18, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/154821) over 1 week, 376 additions and 66 deletions in 12 files</sub>
@@ -26,6 +26,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Delete packages/flutter_tools/lib/src/fuchsia directory
   <sub>[#154880](https://github.com/flutter/flutter/pull/154880) merged on September 17, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/154880) over 1 week, 2 additions and 1845 deletions in 14 files</sub>
   <sub>Reviewed by: [Lau Ching Jun](https://github.com/chingjun), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Dr. Artificial曾小健](https://github.com/ArtificialZeng)** &mdash; Update README.md
+  <sub>[#155206](https://github.com/flutter/flutter/pull/155206) merged on September 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/155206) over 6 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Michael Thomsen](https://github.com/mit-mit)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Adds ColorSwatch matcher
   <sub>[#155272](https://github.com/flutter/flutter/pull/155272) merged on September 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155272) over 18 hours, 69 additions and 1 deletion in 2 files</sub>
