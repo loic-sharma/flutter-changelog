@@ -24,7 +24,7 @@
   <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153355) 238 additions and 7 deletions in 9 files</sub><br />
 
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] Fix formatting with multiple locale<br />
-  <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/153459) 390 additions and 43 deletions in 4 files</sub><br />
+  <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/153459) 390 additions and 43 deletions in 4 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Simplify tests of verify_binaries_codesigned script<br />
   <sub>[#154034](https://github.com/flutter/flutter/pull/154034) opened on on August 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154034) 548 additions and 545 deletions in 4 files</sub><br />
@@ -84,7 +84,7 @@
   <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155203) 247 additions and 28 deletions in 5 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
-  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
+  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Added new parameter `disabledChildrenInteraction` on `CarouselView` to allow developer to control which part is clickable<br />
   <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
