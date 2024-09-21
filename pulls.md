@@ -125,3 +125,6 @@
 * **[Younghan Kim](https://github.com/goosetapa)** &mdash; Remove block and line comments when detecting '.flutter-plugins' in settings.gradle(.kts)<br />
   <sub>[#155488](https://github.com/flutter/flutter/pull/155488) opened on on September 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155488) 59 additions and 1 deletion in 2 files</sub><br />
 
+* **[romain.gyh](https://github.com/romaingyh)** &mdash; fix: Considers strokeAlign to compute border dimensions<br />
+  <sub>[#155495](https://github.com/flutter/flutter/pull/155495) opened on on September 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155495) 18 additions and 2 deletions in 2 files</sub><br />
+
