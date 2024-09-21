@@ -131,3 +131,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dartdoc to 8.2.0<br />
   <sub>[#155500](https://github.com/flutter/flutter/pull/155500) opened on on September 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155500) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Misc docs cleanup and fixes<br />
+  <sub>[#155501](https://github.com/flutter/flutter/pull/155501) opened on on September 21, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/155501) 229 additions and 109 deletions in 49 files</sub><br />
+
