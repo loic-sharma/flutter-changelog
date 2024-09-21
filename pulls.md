@@ -123,5 +123,5 @@
   <sub>[#155481](https://github.com/flutter/flutter/pull/155481) opened on on September 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155481) 19 additions and 2 deletions in 2 files</sub><br />
 
 * **[Younghan Kim](https://github.com/goosetapa)** &mdash; Remove block and line comments when detecting '.flutter-plugins' in settings.gradle(.kts)<br />
-  <sub>[#155488](https://github.com/flutter/flutter/pull/155488) opened on on September 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155488) 6 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#155488](https://github.com/flutter/flutter/pull/155488) opened on on September 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155488) 59 additions and 1 deletion in 2 files</sub><br />
 
