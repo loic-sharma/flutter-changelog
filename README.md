@@ -381,6 +381,10 @@
   <sub>[#55118](https://github.com/flutter/engine/pull/55118) merged on September 12, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/55118) over 22 hours, 4 additions and 7102 deletions in 101 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add xcprivacy privacy manifest to macOS framework<br />
+  <sub>[#55078](https://github.com/flutter/engine/pull/55078) merged on September 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55078) over 3 days, 22 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Unskip Impeller iOS scenario tests<br />
   <sub>[#55012](https://github.com/flutter/engine/pull/55012) merged on September 9, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55012) over 3 days, 246 additions and 134 deletions in 49 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
@@ -392,10 +396,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Redirect `run_ios_tests.sh` to `run_ios_tests.dart`.<br />
   <sub>[#53717](https://github.com/flutter/engine/pull/53717) merged on September 10, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/53717) over 2 months, 64 additions and 106 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add xcprivacy privacy manifest to macOS framework<br />
-  <sub>[#55078](https://github.com/flutter/engine/pull/55078) merged on September 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55078) over 3 days, 22 additions and 0 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `const_finder_test` to use `package:test`<br />
   <sub>[#55132](https://github.com/flutter/engine/pull/55132) merged on September 12, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/55132) over 9 hours, 402 additions and 468 deletions in 3 files</sub><br />
