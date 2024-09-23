@@ -140,3 +140,6 @@
 * **[lizhuo](https://github.com/huanglizhuo)** &mdash; fix: support android 15 16k page size for template package_ffi <br />
   <sub>[#155508](https://github.com/flutter/flutter/pull/155508) opened on on September 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155508) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add WidgetStateMouseCursor example and tests for it.<br />
+  <sub>[#155552](https://github.com/flutter/flutter/pull/155552) opened on on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155552) 137 additions and 1 deletion in 3 files</sub><br />
+

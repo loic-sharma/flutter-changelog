@@ -267,11 +267,15 @@
 
 ### September 21, 2024 to September 27, 2024
 
-1 commits.
+2 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove Linux orchestrator builds that only kick off one other build and wait
   <sub>[#55186](https://github.com/flutter/engine/pull/55186) merged on September 23, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/55186) over 1 week, 205 additions and 228 deletions in 7 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: Update Color to do all calculations with floating point components
+  <sub>[#55231](https://github.com/flutter/engine/pull/55231) merged on September 23, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55231) over 1 week, 177 additions and 138 deletions in 12 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 ### September 14, 2024 to September 20, 2024
 
