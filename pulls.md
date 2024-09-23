@@ -123,7 +123,7 @@
   <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[TheMaverickProgrammer](https://github.com/TheMaverickProgrammer)** &mdash; `SelectionContainer.getSelectionContent()` add newline char iff none exists in `Selectable`'s result.<br />
-  <sub>[#155481](https://github.com/flutter/flutter/pull/155481) opened on on September 20, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/155481) 92 additions and 12 deletions in 5 files</sub><br />
+  <sub>[#155481](https://github.com/flutter/flutter/pull/155481) opened on on September 20, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/155481) 77 additions and 1 deletion in 2 files</sub><br />
 
 * **[Younghan Kim](https://github.com/goosetapa)** &mdash; Remove block and line comments when detecting '.flutter-plugins' in settings.gradle(.kts)<br />
   <sub>[#155488](https://github.com/flutter/flutter/pull/155488) opened on on September 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155488) 59 additions and 1 deletion in 2 files</sub><br />
@@ -138,7 +138,7 @@
   <sub>[#155501](https://github.com/flutter/flutter/pull/155501) opened on on September 21, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/155501) 229 additions and 109 deletions in 49 files</sub><br />
 
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; Add loading and empty state builders for Autocomplete<br />
-  <sub>[#155506](https://github.com/flutter/flutter/pull/155506) opened on on September 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/155506) 326 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#155506](https://github.com/flutter/flutter/pull/155506) opened on on September 22, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/155506) 326 additions and 2 deletions in 3 files</sub><br />
 
 * **[lizhuo](https://github.com/huanglizhuo)** &mdash; fix: support android 15 16k page size for template package_ffi <br />
   <sub>[#155508](https://github.com/flutter/flutter/pull/155508) opened on on September 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155508) 3 additions and 0 deletions in 1 file</sub><br />
