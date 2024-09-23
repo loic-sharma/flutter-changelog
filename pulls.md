@@ -126,7 +126,7 @@
   <sub>[#155488](https://github.com/flutter/flutter/pull/155488) opened on on September 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155488) 59 additions and 1 deletion in 2 files</sub><br />
 
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; fix: Considers strokeAlign to compute border dimensions<br />
-  <sub>[#155495](https://github.com/flutter/flutter/pull/155495) opened on on September 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155495) 18 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#155495](https://github.com/flutter/flutter/pull/155495) opened on on September 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155495) 18 additions and 2 deletions in 2 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update dartdoc to 8.2.0<br />
   <sub>[#155500](https://github.com/flutter/flutter/pull/155500) opened on on September 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155500) 1 addition and 1 deletion in 1 file</sub><br />
