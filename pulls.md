@@ -83,6 +83,9 @@
 * **[HongeSun](https://github.com/hongeSunCoder)** &mdash; correct wrong git commands<br />
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert macOS framework artifact contains xcprivacy manifest<br />
+  <sub>[#155189](https://github.com/flutter/flutter/pull/155189) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155189) 1 addition and 0 deletions in 1 file</sub><br />
+
 * **[miechoo](https://github.com/miechoo)** &mdash; Fix `GlowingOverscrollIndicator` examples<br />
   <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/155203) 247 additions and 28 deletions in 5 files</sub><br />
 
@@ -120,7 +123,7 @@
   <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[TheMaverickProgrammer](https://github.com/TheMaverickProgrammer)** &mdash; `SelectionContainer.getSelectionContent()` add newline char iff none exists in `Selectable`'s result.<br />
-  <sub>[#155481](https://github.com/flutter/flutter/pull/155481) opened on on September 20, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155481) 92 additions and 12 deletions in 5 files</sub><br />
+  <sub>[#155481](https://github.com/flutter/flutter/pull/155481) opened on on September 20, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/155481) 92 additions and 12 deletions in 5 files</sub><br />
 
 * **[Younghan Kim](https://github.com/goosetapa)** &mdash; Remove block and line comments when detecting '.flutter-plugins' in settings.gradle(.kts)<br />
   <sub>[#155488](https://github.com/flutter/flutter/pull/155488) opened on on September 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155488) 59 additions and 1 deletion in 2 files</sub><br />
