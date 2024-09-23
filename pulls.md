@@ -41,9 +41,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; DO NOT SUBMIT<br />
   <sub>[#154357](https://github.com/flutter/flutter/pull/154357) opened on on August 29, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/154357) 11841 additions and 15597 deletions in 955 files</sub><br />
 
-* **[Viraj Kanwade](https://github.com/virajkanwade)** &mdash; Updated iPhone enable developer mode instructions<br />
-  <sub>[#154511](https://github.com/flutter/flutter/pull/154511) opened on on September 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154511) 5 additions and 5 deletions in 2 files</sub><br />
-
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; [Docs] `CupertinoListTile` API Example<br />
   <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/154548) 107 additions and 0 deletions in 3 files</sub><br />
 
@@ -93,7 +90,7 @@
   <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client<br />
-  <sub>[#155249](https://github.com/flutter/flutter/pull/155249) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155249) 37 additions and 7 deletions in 4 files</sub><br />
+  <sub>[#155249](https://github.com/flutter/flutter/pull/155249) opened on on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155249) 37 additions and 7 deletions in 4 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` keyboard navigation when entires are filtered empty<br />
   <sub>[#155252](https://github.com/flutter/flutter/pull/155252) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155252) 31 additions and 5 deletions in 2 files</sub><br />
