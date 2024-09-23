@@ -152,3 +152,6 @@
 * **[Adam](https://github.com/admosity)** &mdash; Add `bySemanticsIdentifier` finder for finding by identifier<br />
   <sub>[#155571](https://github.com/flutter/flutter/pull/155571) opened on on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155571) 85 additions and 1 deletion in 3 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; forward fix for color change<br />
+  <sub>[#155574](https://github.com/flutter/flutter/pull/155574) opened on on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155574) 1 addition and 1 deletion in 1 file</sub><br />
+
