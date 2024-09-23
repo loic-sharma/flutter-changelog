@@ -592,9 +592,18 @@
 
 ## flutter/packages
 
+### September 21, 2024 to September 27, 2024
+
+1 commits.
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformPolyline.pattern` to Pigeon<br />
+  <sub>[#7631](https://github.com/flutter/packages/pull/7631) merged on September 23, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/7631) over 1 week, 366 additions and 160 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### September 14, 2024 to September 20, 2024
 
-4 commits.
+<details>
+<summary>4 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support for mid-roll ads<br />
   <sub>[#7407](https://github.com/flutter/packages/pull/7407) merged on September 17, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/7407) over 1 month, 910 additions and 44 deletions in 37 files</sub><br />
@@ -611,6 +620,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[webview_flutter] Improve flaky scroll tests"<br />
   <sub>[#7652](https://github.com/flutter/packages/pull/7652) merged on September 17, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/7652) over 9 hours, 130 additions and 276 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+</details>
 
 ### September 7, 2024 to September 13, 2024
 
