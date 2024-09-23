@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 21, 2024 to September 27, 2024
+
+1 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert macOS framework artifact contains xcprivacy manifest
+  <sub>[#155189](https://github.com/flutter/flutter/pull/155189) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155189) over 1 week, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 ### September 14, 2024 to September 20, 2024
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix missing icon props in button `styleFrom`  methods
   <sub>[#154821](https://github.com/flutter/flutter/pull/154821) merged on September 18, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/154821) over 1 week, 376 additions and 66 deletions in 12 files</sub>
@@ -50,6 +59,8 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; create_api_docs.dart: correct command logging
   <sub>[#155226](https://github.com/flutter/flutter/pull/155226) merged on September 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155226) over 1 week, 2 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+</details>
 
 ### September 7, 2024 to September 13, 2024
 
