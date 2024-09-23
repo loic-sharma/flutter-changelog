@@ -267,11 +267,19 @@
 
 ### September 21, 2024 to September 27, 2024
 
-2 commits.
+4 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove Linux orchestrator builds that only kick off one other build and wait<br />
   <sub>[#55186](https://github.com/flutter/engine/pull/55186) merged on September 23, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/55186) over 1 week, 205 additions and 228 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] sprinkle some null checks on BringLayersIntoView.<br />
+  <sub>[#55334](https://github.com/flutter/engine/pull/55334) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55334) over 1 day, 87 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Update fuchsia instruction in Compiling-the-engine.md<br />
+  <sub>[#55365](https://github.com/flutter/engine/pull/55365) merged on September 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55365) over 43 minutes, 22 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonny Wang](https://github.com/jrwang)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: Update Color to do all calculations with floating point components<br />
   <sub>[#55231](https://github.com/flutter/engine/pull/55231) merged on September 23, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55231) over 1 week, 177 additions and 138 deletions in 12 files</sub><br />

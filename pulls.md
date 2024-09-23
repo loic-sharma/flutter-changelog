@@ -111,7 +111,7 @@
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) opened on on September 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155297) 187 additions and 2 deletions in 3 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
-  <sub>[#155315](https://github.com/flutter/flutter/pull/155315) opened on on September 17, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155315) 132 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#155315](https://github.com/flutter/flutter/pull/155315) opened on on September 17, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) 132 additions and 0 deletions in 3 files</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; [#155269] Platform adaptive showAboutDialog and AboutDialog feature c…<br />
   <sub>[#155377](https://github.com/flutter/flutter/pull/155377) opened on on September 18, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/155377) 685 additions and 205 deletions in 3 files</sub><br />
@@ -145,4 +145,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Assert macOS framework artifact contains xcprivacy manifest<br />
   <sub>[#155556](https://github.com/flutter/flutter/pull/155556) opened on on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155556) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add WidgetStateBorderSide example and tests for it.<br />
+  <sub>[#155559](https://github.com/flutter/flutter/pull/155559) opened on on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155559) 119 additions and 0 deletions in 3 files</sub><br />
 
