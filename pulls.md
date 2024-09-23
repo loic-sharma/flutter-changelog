@@ -140,6 +140,3 @@
 * **[lizhuo](https://github.com/huanglizhuo)** &mdash; fix: support android 15 16k page size for template package_ffi <br />
   <sub>[#155508](https://github.com/flutter/flutter/pull/155508) opened on on September 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155508) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu rendered behind AppBar<br />
-  <sub>[#155539](https://github.com/flutter/flutter/pull/155539) opened on on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155539) 72 additions and 1 deletion in 2 files</sub><br />
-
