@@ -254,9 +254,18 @@
 
 ## flutter/engine
 
+### September 21, 2024 to September 27, 2024
+
+1 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove Linux orchestrator builds that only kick off one other build and wait
+  <sub>[#55186](https://github.com/flutter/engine/pull/55186) merged on September 23, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/55186) over 1 week, 205 additions and 228 deletions in 7 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 ### September 14, 2024 to September 20, 2024
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Expose a single-header C API to Impellers Display-List layer.
   <sub>[#55238](https://github.com/flutter/engine/pull/55238) merged on September 18, 2024 &mdash; **Extra large:** [24 comments](https://github.com/flutter/engine/pull/55238) over 1 day, 4320 additions and 13 deletions in 47 files</sub>
@@ -324,6 +333,8 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Match Windows logic for picking RGB/BGR textures.
   <sub>[#55121](https://github.com/flutter/engine/pull/55121) merged on September 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55121) over 4 days, 48 additions and 47 deletions in 4 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+</details>
 
 ### September 7, 2024 to September 13, 2024
 
