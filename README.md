@@ -653,7 +653,7 @@
 <summary>12 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update references to iOS 18 beta and release<br />
-  <sub>[#11160](https://github.com/flutter/website/pull/11160) merged on September 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11160) over 13 minutes, 5 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#11160](https://github.com/flutter/website/pull/11160) merged on September 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11160) over 13 minutes, 5 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove outdated mention of 80fps iOS platform view cap<br />
