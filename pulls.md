@@ -72,7 +72,7 @@
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154941) 4 additions and 1 deletion in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Stop specifying ndk version in android templates/tests<br />
-  <sub>[#154961](https://github.com/flutter/flutter/pull/154961) opened on on September 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154961) 4 additions and 24 deletions in 17 files</sub><br />
+  <sub>[#154961](https://github.com/flutter/flutter/pull/154961) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154961) 4 additions and 24 deletions in 17 files</sub><br />
 
 * **[Dara Javaherian](https://github.com/darajava)** &mdash; Prevent uncontrolled crash in Release mode when ParentDataWidget is used incorrectly<br />
   <sub>[#155091](https://github.com/flutter/flutter/pull/155091) opened on on September 12, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155091) 56 additions and 17 deletions in 3 files</sub><br />
