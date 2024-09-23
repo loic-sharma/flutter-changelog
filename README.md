@@ -267,10 +267,14 @@
 
 ### September 21, 2024 to September 27, 2024
 
-7 commits.
+8 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use BufferSubData to update gles device buffer.<br />
   <sub>[#55330](https://github.com/flutter/engine/pull/55330) merged on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55330) over 2 days, 87 additions and 14 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add triangle fan support and remove drawVertices copying.<br />
+  <sub>[#55236](https://github.com/flutter/engine/pull/55236) merged on September 23, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/55236) over 1 week, 321 additions and 292 deletions in 20 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Copy Dart SDK vm_shared sources into the sky_engine package<br />
