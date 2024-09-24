@@ -291,7 +291,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-19 commits.
+21 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Further improve overlay optimization by splitting pictures<br />
   <sub>[#54878](https://github.com/flutter/engine/pull/54878) merged on September 24, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/54878) over 3 weeks, 1005 additions and 561 deletions in 10 files</sub><br />
@@ -341,6 +341,10 @@
   <sub>[#55270](https://github.com/flutter/engine/pull/55270) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55270) over 6 days, 92 additions and 18 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete expensive trace event.<br />
+  <sub>[#55400](https://github.com/flutter/engine/pull/55400) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55400) over 37 minutes, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove usage of VBB when allocating vertices of a fixed size.<br />
   <sub>[#55235](https://github.com/flutter/engine/pull/55235) merged on September 23, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/55235) over 1 week, 190 additions and 182 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -364,6 +368,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Update fuchsia instruction in Compiling-the-engine.md<br />
   <sub>[#55365](https://github.com/flutter/engine/pull/55365) merged on September 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55365) over 43 minutes, 22 additions and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonny Wang](https://github.com/jrwang)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Revert "[canvaskit] Further improve overlay optimization by splitting pictures"<br />
+  <sub>[#55401](https://github.com/flutter/engine/pull/55401) merged on September 24, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/engine/pull/55401) over 3 minutes, 561 additions and 1005 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: Update Color to do all calculations with floating point components<br />
   <sub>[#55231](https://github.com/flutter/engine/pull/55231) merged on September 23, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55231) over 1 week, 177 additions and 138 deletions in 12 files</sub><br />
