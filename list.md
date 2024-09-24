@@ -287,7 +287,11 @@
 
 ### September 21, 2024 to September 27, 2024
 
-14 commits.
+16 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] finish wiring up external textures for macOS embedder.
+  <sub>[#55347](https://github.com/flutter/engine/pull/55347) merged on September 24, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55347) over 1 day, 370 additions and 31 deletions in 7 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES gaussian implementation.
   <sub>[#55329](https://github.com/flutter/engine/pull/55329) merged on September 23, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55329) over 2 days, 99 additions and 75 deletions in 7 files</sub>
@@ -320,6 +324,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove Linux orchestrator builds that only kick off one other build and wait
   <sub>[#55186](https://github.com/flutter/engine/pull/55186) merged on September 23, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/55186) over 1 week, 205 additions and 228 deletions in 7 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add setStencilReference to RenderPass.
+  <sub>[#55270](https://github.com/flutter/engine/pull/55270) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55270) over 6 days, 92 additions and 18 deletions in 4 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove usage of VBB when allocating vertices of a fixed size.
   <sub>[#55235](https://github.com/flutter/engine/pull/55235) merged on September 23, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/55235) over 1 week, 190 additions and 182 deletions in 13 files</sub>
@@ -754,11 +762,15 @@
 
 ### September 21, 2024 to September 27, 2024
 
-2 commits.
+3 commits.
 
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Reflect deprecation of the HTML renderer on image CORS details
   <sub>[#11155](https://github.com/flutter/website/pull/11155) merged on September 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11155) over 6 days, 47 additions and 96 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor, initial adjustments for ios-latest page
+  <sub>[#11169](https://github.com/flutter/website/pull/11169) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11169) over 20 hours, 21 additions and 20 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update sass and shiki dependencies
   <sub>[#11168](https://github.com/flutter/website/pull/11168) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11168) over 1 day, 86 additions and 72 deletions in 2 files</sub>
