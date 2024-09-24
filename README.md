@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-5 commits.
+6 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert macOS framework artifact contains xcprivacy manifest<br />
   <sub>[#155189](https://github.com/flutter/flutter/pull/155189) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155189) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Fix some broken links in DAP readme<br />
+  <sub>[#155600](https://github.com/flutter/flutter/pull/155600) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155600) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client<br />
   <sub>[#155249](https://github.com/flutter/flutter/pull/155249) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155249) over 1 week, 37 additions and 7 deletions in 4 files</sub><br />
