@@ -140,3 +140,6 @@
 * **[Adam](https://github.com/admosity)** &mdash; Add `bySemanticsIdentifier` finder for finding by identifier<br />
   <sub>[#155571](https://github.com/flutter/flutter/pull/155571) opened on on September 23, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/155571) 94 additions and 1 deletion in 3 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
+  <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
+
