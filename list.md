@@ -287,7 +287,11 @@
 
 ### September 21, 2024 to September 27, 2024
 
-18 commits.
+19 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Further improve overlay optimization by splitting pictures
+  <sub>[#54878](https://github.com/flutter/engine/pull/54878) merged on September 24, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/54878) over 3 weeks, 1005 additions and 561 deletions in 10 files</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] finish wiring up external textures for macOS embedder.
   <sub>[#55347](https://github.com/flutter/engine/pull/55347) merged on September 24, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55347) over 1 day, 370 additions and 31 deletions in 7 files</sub>
