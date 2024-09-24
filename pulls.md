@@ -123,7 +123,7 @@
   <sub>[#155500](https://github.com/flutter/flutter/pull/155500) opened on on September 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155500) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Misc docs cleanup and fixes<br />
-  <sub>[#155501](https://github.com/flutter/flutter/pull/155501) opened on on September 21, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/155501) 229 additions and 109 deletions in 49 files</sub><br />
+  <sub>[#155501](https://github.com/flutter/flutter/pull/155501) opened on on September 21, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/155501) 229 additions and 109 deletions in 49 files</sub><br />
 
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; Add loading and empty state builders for Autocomplete<br />
   <sub>[#155506](https://github.com/flutter/flutter/pull/155506) opened on on September 22, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/155506) 326 additions and 2 deletions in 3 files</sub><br />
