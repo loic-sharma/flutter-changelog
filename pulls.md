@@ -2,18 +2,6 @@
 
 ## flutter/flutter
 
-* **[Laurence Severtson](https://github.com/Laurry-gee)** &mdash; Update CONTRIBUTING.md<br />
-  <sub>[#135644](https://github.com/flutter/flutter/pull/135644) opened on on September 28, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/135644) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Laurence Severtson](https://github.com/Laurry-gee)** &mdash; Update scorecards-analysis.yml<br />
-  <sub>[#137014](https://github.com/flutter/flutter/pull/137014) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137014) 7 additions and 7 deletions in 1 file</sub><br />
-
-* **[Laurence Severtson](https://github.com/Laurry-gee)** &mdash; Update dependabot.yml<br />
-  <sub>[#137015](https://github.com/flutter/flutter/pull/137015) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137015) 7 additions and 7 deletions in 1 file</sub><br />
-
-* **[Laurence Severtson](https://github.com/Laurry-gee)** &mdash; Update CODEOWNERS<br />
-  <sub>[#137016](https://github.com/flutter/flutter/pull/137016) opened on on October 21, 2023 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/137016) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Remove publishing race<br />
   <sub>[#153304](https://github.com/flutter/flutter/pull/153304) opened on on August 12, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153304) 534 additions and 765 deletions in 6 files</sub><br />
 
