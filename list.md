@@ -773,7 +773,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor, initial adjustments for ios-latest page
-  <sub>[#11169](https://github.com/flutter/website/pull/11169) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11169) over 20 hours, 21 additions and 20 deletions in 1 file</sub>
+  <sub>[#11169](https://github.com/flutter/website/pull/11169) merged on September 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11169) over 20 hours, 21 additions and 20 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update sass and shiki dependencies
