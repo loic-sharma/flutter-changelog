@@ -626,7 +626,11 @@
 
 ### September 21, 2024 to September 27, 2024
 
-2 commits.
+3 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions] Add guidance for correcting task management/back press behavior for apps with launcher activities
+  <sub>[#7686](https://github.com/flutter/packages/pull/7686) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7686) over 19 hours, 36 additions and 3 deletions in 6 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Adds macOS privacy manifests
   <sub>[#7687](https://github.com/flutter/packages/pull/7687) merged on September 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7687) over 4 hours, 82 additions and 6 deletions in 12 files</sub>
