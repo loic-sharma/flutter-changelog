@@ -84,7 +84,7 @@
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Added new parameter `disabledChildrenInteraction` on `CarouselView` to allow developer to control which part is clickable<br />
-  <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` keyboard navigation when entires are filtered empty<br />
   <sub>[#155252](https://github.com/flutter/flutter/pull/155252) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155252) 31 additions and 5 deletions in 2 files</sub><br />
