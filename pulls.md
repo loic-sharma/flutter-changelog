@@ -138,7 +138,7 @@
   <sub>[#155559](https://github.com/flutter/flutter/pull/155559) opened on on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155559) 119 additions and 0 deletions in 3 files</sub><br />
 
 * **[Adam](https://github.com/admosity)** &mdash; Add `bySemanticsIdentifier` finder for finding by identifier<br />
-  <sub>[#155571](https://github.com/flutter/flutter/pull/155571) opened on on September 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155571) 89 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#155571](https://github.com/flutter/flutter/pull/155571) opened on on September 23, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155571) 89 additions and 1 deletion in 3 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Fix some broken links in DAP readme<br />
   <sub>[#155600](https://github.com/flutter/flutter/pull/155600) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155600) 3 additions and 3 deletions in 1 file</sub><br />
