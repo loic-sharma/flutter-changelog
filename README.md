@@ -4,7 +4,15 @@
 
 ### September 21, 2024 to September 27, 2024
 
-7 commits.
+9 commits.
+
+* **[nick9822](https://github.com/nick9822)** &mdash; fixed keyboardDismissBehavior on scroll without a drag<br />
+  <sub>[#154675](https://github.com/flutter/flutter/pull/154675) merged on September 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154675) over 2 weeks, 46 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using *Gradient:withOpacity<br />
+  <sub>[#154908](https://github.com/flutter/flutter/pull/154908) merged on September 24, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/154908) over 2 weeks, 85 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub><br />
