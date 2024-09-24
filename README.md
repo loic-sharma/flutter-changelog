@@ -299,7 +299,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-25 commits.
+26 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Further improve overlay optimization by splitting pictures<br />
   <sub>[#54878](https://github.com/flutter/engine/pull/54878) merged on September 24, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/54878) over 3 weeks, 1005 additions and 561 deletions in 10 files</sub><br />
@@ -329,6 +329,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use BufferSubData to update gles device buffer.<br />
   <sub>[#55330](https://github.com/flutter/engine/pull/55330) merged on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55330) over 2 days, 87 additions and 14 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move each dart GN rule to a standalone file.<br />
+  <sub>[#55404](https://github.com/flutter/engine/pull/55404) merged on September 24, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55404) over 3 hours, 427 additions and 397 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Delete command pools held by the CommandPoolRecyclerVK after decoding an image on the IO thread<br />
   <sub>[#55398](https://github.com/flutter/engine/pull/55398) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55398) over 3 hours, 46 additions and 0 deletions in 8 files</sub><br />
@@ -699,7 +703,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-3 commits.
+4 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions] Add guidance for correcting task management/back press behavior for apps with launcher activities<br />
   <sub>[#7686](https://github.com/flutter/packages/pull/7686) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7686) over 19 hours, 36 additions and 3 deletions in 6 files</sub><br />
@@ -712,6 +716,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformPolyline.pattern` to Pigeon<br />
   <sub>[#7631](https://github.com/flutter/packages/pull/7631) merged on September 23, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/7631) over 1 week, 366 additions and 160 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Fixed TabView swiping in custom stateful shell route example <br />
+  <sub>[#7583](https://github.com/flutter/packages/pull/7583) merged on September 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7583) over 2 weeks, 226 additions and 12 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hangyujin)</sub><br />
 
 ### September 14, 2024 to September 20, 2024
 
