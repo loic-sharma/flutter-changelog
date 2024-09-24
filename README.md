@@ -4,7 +4,15 @@
 
 ### September 21, 2024 to September 27, 2024
 
-1 commits.
+3 commits.
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
+  <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Redo flutter engine flutter autoroll bd3d1990 485b 419c 8c55 b27e3eeb15ed 1727117767<br />
+  <sub>[#155579](https://github.com/flutter/flutter/pull/155579) merged on September 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155579) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert macOS framework artifact contains xcprivacy manifest<br />
   <sub>[#155189](https://github.com/flutter/flutter/pull/155189) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155189) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
