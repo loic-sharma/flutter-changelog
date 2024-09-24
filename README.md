@@ -4,11 +4,15 @@
 
 ### September 21, 2024 to September 27, 2024
 
-6 commits.
+7 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Misc docs cleanup and fixes<br />
+  <sub>[#155501](https://github.com/flutter/flutter/pull/155501) merged on September 24, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/155501) over 2 days, 229 additions and 109 deletions in 49 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
   <sub>[#155432](https://github.com/flutter/flutter/pull/155432) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155432) over 4 days, 13 additions and 171 deletions in 13 files</sub><br />
