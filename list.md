@@ -287,7 +287,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-17 commits.
+18 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] finish wiring up external textures for macOS embedder.
   <sub>[#55347](https://github.com/flutter/engine/pull/55347) merged on September 24, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55347) over 1 day, 370 additions and 31 deletions in 7 files</sub>
@@ -320,6 +320,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Copy Dart SDK vm_shared sources into the sky_engine package
   <sub>[#55158](https://github.com/flutter/engine/pull/55158) merged on September 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55158) over 1 week, 8 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix OES texture usage.
+  <sub>[#55331](https://github.com/flutter/engine/pull/55331) merged on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55331) over 2 days, 137 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove Linux orchestrator builds that only kick off one other build and wait
   <sub>[#55186](https://github.com/flutter/engine/pull/55186) merged on September 23, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/55186) over 1 week, 205 additions and 228 deletions in 7 files</sub>
