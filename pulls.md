@@ -48,7 +48,7 @@
   <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Prefer `instantiateCodecFromUrl` when creating network images<br />
-  <sub>[#154643](https://github.com/flutter/flutter/pull/154643) opened on on September 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154643) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#154643](https://github.com/flutter/flutter/pull/154643) opened on on September 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154643) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[SohanRaidev](https://github.com/SohanRaidev)** &mdash; Move FlutterLogo out of Material library<br />
   <sub>[#154711](https://github.com/flutter/flutter/pull/154711) opened on on September 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154711) 4 additions and 4 deletions in 6 files</sub><br />
