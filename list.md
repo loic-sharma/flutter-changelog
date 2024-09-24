@@ -275,7 +275,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-10 commits.
+11 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES gaussian implementation.
   <sub>[#55329](https://github.com/flutter/engine/pull/55329) merged on September 23, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55329) over 2 days, 99 additions and 75 deletions in 7 files</sub>
@@ -308,6 +308,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] sprinkle some null checks on BringLayersIntoView.
   <sub>[#55334](https://github.com/flutter/engine/pull/55334) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55334) over 1 day, 87 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use GTask integer return APIs and fix documentation on return value on error.
+  <sub>[#55353](https://github.com/flutter/engine/pull/55353) merged on September 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55353) over 20 hours, 5 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Update fuchsia instruction in Compiling-the-engine.md
   <sub>[#55365](https://github.com/flutter/engine/pull/55365) merged on September 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55365) over 43 minutes, 22 additions and 8 deletions in 1 file</sub>
@@ -614,7 +618,11 @@
 
 ### September 21, 2024 to September 27, 2024
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Adds macOS privacy manifests
+  <sub>[#7687](https://github.com/flutter/packages/pull/7687) merged on September 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7687) over 4 hours, 82 additions and 6 deletions in 12 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformPolyline.pattern` to Pigeon
   <sub>[#7631](https://github.com/flutter/packages/pull/7631) merged on September 23, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/7631) over 1 week, 366 additions and 160 deletions in 8 files</sub>
