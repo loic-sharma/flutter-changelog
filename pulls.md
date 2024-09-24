@@ -140,6 +140,3 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file #2<br />
   <sub>[#155628](https://github.com/flutter/flutter/pull/155628) opened on on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155628) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; increase both linux & windows tool integration test shards<br />
-  <sub>[#155631](https://github.com/flutter/flutter/pull/155631) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155631) 72 additions and 22 deletions in 1 file</sub><br />
-
