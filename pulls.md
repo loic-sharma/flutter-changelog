@@ -44,9 +44,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
   <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Prefer `instantiateCodecFromUrl` when creating network images<br />
-  <sub>[#154643](https://github.com/flutter/flutter/pull/154643) opened on on September 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154643) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[SohanRaidev](https://github.com/SohanRaidev)** &mdash; Move FlutterLogo out of Material library<br />
   <sub>[#154711](https://github.com/flutter/flutter/pull/154711) opened on on September 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154711) 4 additions and 4 deletions in 6 files</sub><br />
 
@@ -101,14 +98,8 @@
 * **[Frank](https://github.com/Frank3K)** &mdash; Do not handle external requests by service worker (Flutter web)<br />
   <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
 
-* **[TheMaverickProgrammer](https://github.com/TheMaverickProgrammer)** &mdash; `SelectionContainer.getSelectionContent()` add newline char iff none exists in `Selectable`'s result.<br />
-  <sub>[#155481](https://github.com/flutter/flutter/pull/155481) opened on on September 20, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/155481) 77 additions and 1 deletion in 2 files</sub><br />
-
 * **[Younghan Kim](https://github.com/goosetapa)** &mdash; Remove block and line comments when detecting '.flutter-plugins' in settings.gradle(.kts)<br />
   <sub>[#155488](https://github.com/flutter/flutter/pull/155488) opened on on September 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155488) 59 additions and 1 deletion in 2 files</sub><br />
-
-* **[romain.gyh](https://github.com/romaingyh)** &mdash; fix: Considers strokeAlign to compute border dimensions<br />
-  <sub>[#155495](https://github.com/flutter/flutter/pull/155495) opened on on September 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155495) 18 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mohsin Raza](https://github.com/mohsinraza-fdev)** &mdash; Add loading and empty state builders for Autocomplete<br />
   <sub>[#155506](https://github.com/flutter/flutter/pull/155506) opened on on September 22, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/155506) 326 additions and 2 deletions in 3 files</sub><br />
@@ -116,17 +107,11 @@
 * **[lizhuo](https://github.com/huanglizhuo)** &mdash; fix: support android 15 16k page size for template package_ffi <br />
   <sub>[#155508](https://github.com/flutter/flutter/pull/155508) opened on on September 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155508) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add WidgetStateMouseCursor example and tests for it.<br />
-  <sub>[#155552](https://github.com/flutter/flutter/pull/155552) opened on on September 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155552) 157 additions and 1 deletion in 3 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Assert macOS framework artifact contains xcprivacy manifest<br />
   <sub>[#155556](https://github.com/flutter/flutter/pull/155556) opened on on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155556) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add WidgetStateBorderSide example and tests for it.<br />
   <sub>[#155559](https://github.com/flutter/flutter/pull/155559) opened on on September 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155559) 143 additions and 0 deletions in 3 files</sub><br />
-
-* **[Adam](https://github.com/admosity)** &mdash; Add `bySemanticsIdentifier` finder for finding by identifier<br />
-  <sub>[#155571](https://github.com/flutter/flutter/pull/155571) opened on on September 23, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/155571) 94 additions and 1 deletion in 3 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor devfs_web_ddc_modules_test.dart<br />
   <sub>[#155609](https://github.com/flutter/flutter/pull/155609) opened on on September 24, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/155609) 1332 additions and 1575 deletions in 1 file</sub><br />
