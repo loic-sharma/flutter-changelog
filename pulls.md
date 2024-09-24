@@ -86,9 +86,6 @@
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Added new parameter `disabledChildrenInteraction` on `CarouselView` to allow developer to control which part is clickable<br />
   <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
 
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client<br />
-  <sub>[#155249](https://github.com/flutter/flutter/pull/155249) opened on on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155249) 37 additions and 7 deletions in 4 files</sub><br />
-
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` keyboard navigation when entires are filtered empty<br />
   <sub>[#155252](https://github.com/flutter/flutter/pull/155252) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155252) 31 additions and 5 deletions in 2 files</sub><br />
 
@@ -142,4 +139,7 @@
 
 * **[Adam](https://github.com/admosity)** &mdash; Add `bySemanticsIdentifier` finder for finding by identifier<br />
   <sub>[#155571](https://github.com/flutter/flutter/pull/155571) opened on on September 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155571) 85 additions and 1 deletion in 3 files</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Fix some broken links in DAP readme<br />
+  <sub>[#155600](https://github.com/flutter/flutter/pull/155600) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155600) 3 additions and 3 deletions in 1 file</sub><br />
 
