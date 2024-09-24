@@ -299,7 +299,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-24 commits.
+25 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Further improve overlay optimization by splitting pictures
   <sub>[#54878](https://github.com/flutter/engine/pull/54878) merged on September 24, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/54878) over 3 weeks, 1005 additions and 561 deletions in 10 files</sub>
@@ -317,6 +317,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES gaussian implementation.
   <sub>[#55329](https://github.com/flutter/engine/pull/55329) merged on September 23, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55329) over 2 days, 99 additions and 75 deletions in 7 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Pack impeller:Path into 2 vecs instead of 3.
+  <sub>[#55028](https://github.com/flutter/engine/pull/55028) merged on September 24, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55028) over 2 weeks, 370 additions and 386 deletions in 8 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix keyboard not showing up when iOS input has decoration text
   <sub>[#55152](https://github.com/flutter/engine/pull/55152) merged on September 24, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55152) over 1 week, 101 additions and 4 deletions in 5 files</sub>
