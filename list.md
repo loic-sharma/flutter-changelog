@@ -287,7 +287,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-13 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES gaussian implementation.
   <sub>[#55329](https://github.com/flutter/engine/pull/55329) merged on September 23, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55329) over 2 days, 99 additions and 75 deletions in 7 files</sub>
@@ -300,6 +300,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use BufferSubData to update gles device buffer.
   <sub>[#55330](https://github.com/flutter/engine/pull/55330) merged on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55330) over 2 days, 87 additions and 14 deletions in 5 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added assert for host buffer allocation.
+  <sub>[#55395](https://github.com/flutter/engine/pull/55395) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55395) over 36 minutes, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made YAML version of vscode workspace to avoid redundancy
   <sub>[#55322](https://github.com/flutter/engine/pull/55322) merged on September 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/55322) over 3 days, 464 additions and 17 deletions in 5 files</sub>
