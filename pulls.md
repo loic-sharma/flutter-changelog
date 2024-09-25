@@ -83,6 +83,3 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage doc<br />
-  <sub>[#155716](https://github.com/flutter/flutter/pull/155716) opened on on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155716) 1 addition and 1 deletion in 1 file</sub><br />
-
