@@ -335,7 +335,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-37 commits.
+38 commits.
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid<br />
   <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub><br />
@@ -447,6 +447,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update `setSystemChromeEnabledSystemUIMode` docs to note targeting Android 15+ change<br />
   <sub>[#54560](https://github.com/flutter/engine/pull/54560) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54560) over 1 month, 30 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] actually fix external texture for GLES.<br />
+  <sub>[#55414](https://github.com/flutter/engine/pull/55414) merged on September 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55414) over 21 hours, 103 additions and 120 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenario_app] delete get bitmap activity.<br />
   <sub>[#55436](https://github.com/flutter/engine/pull/55436) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55436) over 2 hours, 0 additions and 77 deletions in 4 files</sub><br />
