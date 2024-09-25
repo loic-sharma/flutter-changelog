@@ -299,7 +299,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-28 commits.
+29 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix Impeller on windows.<br />
   <sub>[#55323](https://github.com/flutter/engine/pull/55323) merged on September 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55323) over 4 days, 122 additions and 61 deletions in 9 files</sub><br />
@@ -321,6 +321,11 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES gaussian implementation.<br />
   <sub>[#55329](https://github.com/flutter/engine/pull/55329) merged on September 23, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55329) over 2 days, 99 additions and 75 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add CullMode.<br />
+  <sub>[#55409](https://github.com/flutter/engine/pull/55409) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55409) over 2 hours, 108 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+  <sub><details><summary>1 image...</summary>![flutter_gpu_test_cull_mode](https://github.com/user-attachments/assets/cbdf804e-1608-4352-9aa1-d5d9223f3c1a)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Pack impeller:Path into 2 vecs instead of 3.<br />
   <sub>[#55028](https://github.com/flutter/engine/pull/55028) merged on September 24, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55028) over 2 weeks, 370 additions and 386 deletions in 8 files</sub><br />
