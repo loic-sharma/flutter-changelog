@@ -753,7 +753,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-5 commits.
+6 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions] Add guidance for correcting task management/back press behavior for apps with launcher activities<br />
   <sub>[#7686](https://github.com/flutter/packages/pull/7686) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7686) over 19 hours, 36 additions and 3 deletions in 6 files</sub><br />
@@ -774,6 +774,10 @@
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [flutter_lints] remove prefer_const_constructors, prefer_const_declarations, prefer_const_literals_to_create_immutables<br />
   <sub>[#7688](https://github.com/flutter/packages/pull/7688) merged on September 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7688) over 1 day, 4 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update test to not depend on `Color.toString()`<br />
+  <sub>[#7701](https://github.com/flutter/packages/pull/7701) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7701) over 16 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 ### September 14, 2024 to September 20, 2024
 
@@ -873,7 +877,12 @@
 
 ### September 21, 2024 to September 27, 2024
 
-8 commits.
+9 commits.
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add FWE to sidenav<br />
+  <sub>[#11171](https://github.com/flutter/website/pull/11171) merged on September 25, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/website/pull/11171) over 1 day, 631 additions and 571 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="226" alt="Screenshot 2024-09-24 at 10 37 38 AM" src="https://github.com/user-attachments/assets/74f0979b-8058-46c1-aecf-3d55d658a492"></details></sub>
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Make it clear that relative base hrefs are supported for the client/runtime if appropriately formed<br />
   <sub>[#11163](https://github.com/flutter/website/pull/11163) merged on September 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11163) over 6 days, 6 additions and 1 deletion in 1 file</sub><br />
