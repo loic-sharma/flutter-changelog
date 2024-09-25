@@ -78,7 +78,7 @@
   <sub>[#155296](https://github.com/flutter/flutter/pull/155296) opened on on September 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155296) 49 additions and 5 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds dynamic management of TapRegion on navigation<br />
-  <sub>[#155297](https://github.com/flutter/flutter/pull/155297) opened on on September 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155297) 187 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#155297](https://github.com/flutter/flutter/pull/155297) opened on on September 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/155297) 187 additions and 2 deletions in 3 files</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; [#155269] Platform adaptive showAboutDialog and AboutDialog feature c…<br />
   <sub>[#155377](https://github.com/flutter/flutter/pull/155377) opened on on September 18, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/155377) 685 additions and 205 deletions in 3 files</sub><br />
