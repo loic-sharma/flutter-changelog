@@ -113,3 +113,6 @@
 * **[Crafti](https://github.com/Craftplacer)** &mdash; Implement actionsPadding for AppBar<br />
   <sub>[#155632](https://github.com/flutter/flutter/pull/155632) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155632) 76 additions and 6 deletions in 3 files</sub><br />
 
+* **[Jonathan Steele](https://github.com/iNoles)** &mdash; Fix typo on theme_data<br />
+  <sub>[#155644](https://github.com/flutter/flutter/pull/155644) opened on on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155644) 1 addition and 1 deletion in 1 file</sub><br />
+
