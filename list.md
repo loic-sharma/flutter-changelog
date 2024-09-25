@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-11 commits.
+12 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add PrivacyInfo.xcprivacy to macOS plugin template
   <sub>[#155570](https://github.com/flutter/flutter/pull/155570) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155570) over 1 day, 52 additions and 4 deletions in 7 files</sub>
@@ -21,6 +21,10 @@
 * **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using *Gradient:withOpacity
   <sub>[#154908](https://github.com/flutter/flutter/pull/154908) merged on September 24, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/154908) over 2 weeks, 85 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add WidgetStateBorderSide example and tests for it.
+  <sub>[#155559](https://github.com/flutter/flutter/pull/155559) merged on September 25, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/155559) over 1 day, 143 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub>
@@ -844,11 +848,23 @@
 
 ### September 21, 2024 to September 27, 2024
 
-5 commits.
+8 commits.
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Make it clear that relative base hrefs are supported for the client/runtime if appropriately formed
+  <sub>[#11163](https://github.com/flutter/website/pull/11163) merged on September 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11163) over 6 days, 6 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Reflect deprecation of the HTML renderer on image CORS details
   <sub>[#11155](https://github.com/flutter/website/pull/11155) merged on September 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11155) over 6 days, 47 additions and 96 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update Wasm documentation
+  <sub>[#11131](https://github.com/flutter/website/pull/11131) merged on September 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11131) over 1 week, 33 additions and 38 deletions in 1 file</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Clarify notice about installation in China
+  <sub>[#11167](https://github.com/flutter/website/pull/11167) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11167) over 3 days, 9 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update a few more mentions to the `main` channel
   <sub>[#11173](https://github.com/flutter/website/pull/11173) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11173) over 15 hours, 14 additions and 11 deletions in 3 files</sub>
