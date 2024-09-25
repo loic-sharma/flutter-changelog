@@ -116,3 +116,6 @@
 * **[Jonathan Steele](https://github.com/iNoles)** &mdash; Fix typo on theme_data<br />
   <sub>[#155644](https://github.com/flutter/flutter/pull/155644) opened on on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155644) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Added date selection callback to Date Picker Dialogs<br />
+  <sub>[#155651](https://github.com/flutter/flutter/pull/155651) opened on on September 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155651) 79 additions and 4 deletions in 2 files</sub><br />
+
