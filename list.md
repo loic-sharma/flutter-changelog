@@ -844,11 +844,15 @@
 
 ### September 21, 2024 to September 27, 2024
 
-4 commits.
+5 commits.
 
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Reflect deprecation of the HTML renderer on image CORS details
   <sub>[#11155](https://github.com/flutter/website/pull/11155) merged on September 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11155) over 6 days, 47 additions and 96 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update a few more mentions to the `main` channel
+  <sub>[#11173](https://github.com/flutter/website/pull/11173) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11173) over 15 hours, 14 additions and 11 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor, initial adjustments for ios-latest page
   <sub>[#11169](https://github.com/flutter/website/pull/11169) merged on September 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11169) over 20 hours, 21 additions and 20 deletions in 1 file</sub>

@@ -39,7 +39,7 @@
   <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[野瀬田　裕樹](https://github.com/yuukiw00w)** &mdash; fix NestedScrollView crash with multiple ScrollPositions<br />
-  <sub>[#154808](https://github.com/flutter/flutter/pull/154808) opened on on September 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/154808) 139 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#154808](https://github.com/flutter/flutter/pull/154808) opened on on September 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154808) 139 additions and 3 deletions in 2 files</sub><br />
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Restore analyze_snippet_code_test tests.<br />
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154834) 7 additions and 13 deletions in 1 file</sub><br />
@@ -100,9 +100,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Assert macOS framework artifact contains xcprivacy manifest<br />
   <sub>[#155556](https://github.com/flutter/flutter/pull/155556) opened on on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155556) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add WidgetStateBorderSide example and tests for it.<br />
-  <sub>[#155559](https://github.com/flutter/flutter/pull/155559) opened on on September 23, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/155559) 143 additions and 0 deletions in 3 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor devfs_web_ddc_modules_test.dart<br />
   <sub>[#155609](https://github.com/flutter/flutter/pull/155609) opened on on September 24, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/155609) 1332 additions and 1575 deletions in 1 file</sub><br />
