@@ -832,7 +832,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-3 commits.
+4 commits.
 
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Reflect deprecation of the HTML renderer on image CORS details
   <sub>[#11155](https://github.com/flutter/website/pull/11155) merged on September 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11155) over 6 days, 47 additions and 96 deletions in 1 file</sub>
@@ -845,6 +845,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update sass and shiki dependencies
   <sub>[#11168](https://github.com/flutter/website/pull/11168) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11168) over 1 day, 86 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[James Williams](https://github.com/jwill)** &mdash; Add `/go/colorscheme-enhancements` design doc redirect
+  <sub>[#11174](https://github.com/flutter/website/pull/11174) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11174) over 23 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 ### September 14, 2024 to September 20, 2024
 
