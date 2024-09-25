@@ -777,7 +777,11 @@
 
 ### September 21, 2024 to September 27, 2024
 
-6 commits.
+7 commits.
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; [package:flutter_lints] update the dep on `package:lints` to 5.0.0 and the sdk dependency to 3.5.0<br />
+  <sub>[#7704](https://github.com/flutter/packages/pull/7704) merged on September 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7704) over 2 hours, 12 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions] Add guidance for correcting task management/back press behavior for apps with launcher activities<br />
   <sub>[#7686](https://github.com/flutter/packages/pull/7686) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7686) over 19 hours, 36 additions and 3 deletions in 6 files</sub><br />
