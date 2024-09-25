@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-14 commits.
+17 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add PrivacyInfo.xcprivacy to macOS plugin template<br />
   <sub>[#155570](https://github.com/flutter/flutter/pull/155570) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155570) over 1 day, 52 additions and 4 deletions in 7 files</sub><br />
@@ -26,6 +26,10 @@
   <sub>[#154908](https://github.com/flutter/flutter/pull/154908) merged on September 24, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/154908) over 2 weeks, 85 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update `SystemUiMode`  and `setSystemChromeEnabledSystemUIMode ` docs to note targeting Android 15+ change<br />
+  <sub>[#153466](https://github.com/flutter/flutter/pull/153466) merged on September 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153466) over 1 month, 39 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add WidgetStateBorderSide example and tests for it.<br />
   <sub>[#155559](https://github.com/flutter/flutter/pull/155559) merged on September 25, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/155559) over 1 day, 143 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -33,6 +37,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark linux packages autoroller bringup: true<br />
+  <sub>[#155705](https://github.com/flutter/flutter/pull/155705) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155705) over 37 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; increase both linux & windows tool integration test shards<br />
   <sub>[#155631](https://github.com/flutter/flutter/pull/155631) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155631) over 19 hours, 85 additions and 22 deletions in 1 file</sub><br />
@@ -53,6 +61,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert macOS framework artifact contains xcprivacy manifest<br />
   <sub>[#155189](https://github.com/flutter/flutter/pull/155189) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155189) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file #2<br />
+  <sub>[#155628](https://github.com/flutter/flutter/pull/155628) merged on September 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155628) over 22 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Fix some broken links in DAP readme<br />
   <sub>[#155600](https://github.com/flutter/flutter/pull/155600) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155600) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
