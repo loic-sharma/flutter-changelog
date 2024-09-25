@@ -110,9 +110,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file #2<br />
-  <sub>[#155628](https://github.com/flutter/flutter/pull/155628) opened on on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155628) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Crafti](https://github.com/Craftplacer)** &mdash; Implement actionsPadding for AppBar<br />
   <sub>[#155632](https://github.com/flutter/flutter/pull/155632) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155632) 76 additions and 6 deletions in 3 files</sub><br />
 
