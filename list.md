@@ -307,7 +307,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-29 commits.
+30 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix Impeller on windows.
   <sub>[#55323](https://github.com/flutter/engine/pull/55323) merged on September 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55323) over 4 days, 122 additions and 61 deletions in 9 files</sub>
@@ -394,6 +394,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add setStencilReference to RenderPass.
   <sub>[#55270](https://github.com/flutter/engine/pull/55270) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55270) over 6 days, 92 additions and 18 deletions in 4 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Update `setSystemChromeEnabledSystemUIMode` docs to note targeting Android 15+ change
+  <sub>[#54560](https://github.com/flutter/engine/pull/54560) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54560) over 1 month, 30 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete expensive trace event.
   <sub>[#55400](https://github.com/flutter/engine/pull/55400) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55400) over 37 minutes, 0 additions and 2 deletions in 1 file</sub>
