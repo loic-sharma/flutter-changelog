@@ -11,7 +11,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize TabBarTheme
-  <sub>[#155476](https://github.com/flutter/flutter/pull/155476) merged on September 25, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/155476) over 4 days, 489 additions and 99 deletions in 4 files</sub>
+  <sub>[#155476](https://github.com/flutter/flutter/pull/155476) merged on September 25, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/155476) over 4 days, 489 additions and 99 deletions in 4 files</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used
@@ -878,13 +878,13 @@
   <sub>[#11155](https://github.com/flutter/website/pull/11155) merged on September 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11155) over 6 days, 47 additions and 96 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
-* **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update Wasm documentation
-  <sub>[#11131](https://github.com/flutter/website/pull/11131) merged on September 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11131) over 1 week, 33 additions and 38 deletions in 1 file</sub>
-  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Clarify notice about installation in China
   <sub>[#11167](https://github.com/flutter/website/pull/11167) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11167) over 3 days, 9 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update Wasm documentation
+  <sub>[#11131](https://github.com/flutter/website/pull/11131) merged on September 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11131) over 1 week, 33 additions and 38 deletions in 1 file</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update a few more mentions to the `main` channel
   <sub>[#11173](https://github.com/flutter/website/pull/11173) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11173) over 15 hours, 14 additions and 11 deletions in 3 files</sub>

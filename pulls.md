@@ -113,3 +113,6 @@
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Added date selection callback to Date Picker Dialogs<br />
   <sub>[#155651](https://github.com/flutter/flutter/pull/155651) opened on on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155651) 79 additions and 4 deletions in 2 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Inherited Theme: zero rebuilds<br />
+  <sub>[#155699](https://github.com/flutter/flutter/pull/155699) opened on on September 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155699) 105 additions and 0 deletions in 1 file</sub><br />
+
