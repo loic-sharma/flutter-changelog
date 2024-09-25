@@ -319,7 +319,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-32 commits.
+33 commits.
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid
   <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub>
@@ -345,6 +345,11 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES gaussian implementation.
   <sub>[#55329](https://github.com/flutter/engine/pull/55329) merged on September 23, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55329) over 2 days, 99 additions and 75 deletions in 7 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Use vm.Vector4 for clear color instead of ui.Color.
+  <sub>[#55416](https://github.com/flutter/engine/pull/55416) merged on September 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55416) over 17 hours, 51 additions and 27 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+  <sub><details><summary>1 image...</summary>![flutter_gpu_test_clear_color](https://github.com/user-attachments/assets/ba7a4e74-aaf2-48d8-ac13-115a86daeb19)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add CullMode.
   <sub>[#55409](https://github.com/flutter/engine/pull/55409) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55409) over 2 hours, 108 additions and 0 deletions in 6 files</sub>

@@ -68,9 +68,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` keyboard navigation when entires are filtered empty<br />
   <sub>[#155252](https://github.com/flutter/flutter/pull/155252) opened on on September 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155252) 31 additions and 5 deletions in 2 files</sub><br />
 
-* **[Pachebel](https://github.com/Pachebel)** &mdash; fix: CupertinoDatePicker.DateAndTime using showDayOfWeek<br />
-  <sub>[#155260](https://github.com/flutter/flutter/pull/155260) opened on on September 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155260) 4 additions and 0 deletions in 1 file</sub><br />
-
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add  magnificationScale to CupertinoMagnifier for Zoom Effect<br />
   <sub>[#155276](https://github.com/flutter/flutter/pull/155276) opened on on September 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155276) 68 additions and 1 deletion in 2 files</sub><br />
 
