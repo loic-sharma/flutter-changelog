@@ -748,7 +748,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-4 commits.
+5 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions] Add guidance for correcting task management/back press behavior for apps with launcher activities
   <sub>[#7686](https://github.com/flutter/packages/pull/7686) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7686) over 19 hours, 36 additions and 3 deletions in 6 files</sub>
@@ -765,6 +765,10 @@
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Fixed TabView swiping in custom stateful shell route example 
   <sub>[#7583](https://github.com/flutter/packages/pull/7583) merged on September 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7583) over 2 weeks, 226 additions and 12 deletions in 4 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hangyujin)</sub>
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; [flutter_lints] remove prefer_const_constructors, prefer_const_declarations, prefer_const_literals_to_create_immutables
+  <sub>[#7688](https://github.com/flutter/packages/pull/7688) merged on September 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7688) over 1 day, 4 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### September 14, 2024 to September 20, 2024
 
