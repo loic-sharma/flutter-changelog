@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-12 commits.
+13 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add PrivacyInfo.xcprivacy to macOS plugin template<br />
   <sub>[#155570](https://github.com/flutter/flutter/pull/155570) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155570) over 1 day, 52 additions and 4 deletions in 7 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; increase both linux & windows tool integration test shards<br />
+  <sub>[#155631](https://github.com/flutter/flutter/pull/155631) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155631) over 19 hours, 85 additions and 22 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Misc docs cleanup and fixes<br />
   <sub>[#155501](https://github.com/flutter/flutter/pull/155501) merged on September 24, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/155501) over 2 days, 229 additions and 109 deletions in 49 files</sub><br />
