@@ -317,6 +317,10 @@
   <sub>[#54878](https://github.com/flutter/engine/pull/54878) merged on September 24, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/54878) over 3 weeks, 1005 additions and 561 deletions in 10 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
+* **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid
+  <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add pipeline stencil config.
   <sub>[#55272](https://github.com/flutter/engine/pull/55272) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55272) over 6 days, 237 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -334,10 +338,6 @@
   <sub>[#55409](https://github.com/flutter/engine/pull/55409) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55409) over 2 hours, 108 additions and 0 deletions in 6 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
   <sub><details><summary>1 image...</summary>![flutter_gpu_test_cull_mode](https://github.com/user-attachments/assets/cbdf804e-1608-4352-9aa1-d5d9223f3c1a)</details></sub>
-
-* **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid
-  <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Pack impeller:Path into 2 vecs instead of 3.
   <sub>[#55028](https://github.com/flutter/engine/pull/55028) merged on September 24, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55028) over 2 weeks, 370 additions and 386 deletions in 8 files</sub>
