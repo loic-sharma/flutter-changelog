@@ -309,13 +309,13 @@
 
 30 commits.
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix Impeller on windows.
-  <sub>[#55323](https://github.com/flutter/engine/pull/55323) merged on September 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55323) over 4 days, 122 additions and 61 deletions in 9 files</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid
   <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix Impeller on windows.
+  <sub>[#55323](https://github.com/flutter/engine/pull/55323) merged on September 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55323) over 4 days, 122 additions and 61 deletions in 9 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Further improve overlay optimization by splitting pictures
   <sub>[#54878](https://github.com/flutter/engine/pull/54878) merged on September 24, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/54878) over 3 weeks, 1005 additions and 561 deletions in 10 files</sub>
