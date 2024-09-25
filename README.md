@@ -4,11 +4,15 @@
 
 ### September 21, 2024 to September 27, 2024
 
-13 commits.
+14 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add PrivacyInfo.xcprivacy to macOS plugin template<br />
   <sub>[#155570](https://github.com/flutter/flutter/pull/155570) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155570) over 1 day, 52 additions and 4 deletions in 7 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize TabBarTheme<br />
+  <sub>[#155476](https://github.com/flutter/flutter/pull/155476) merged on September 25, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/155476) over 4 days, 489 additions and 99 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
   <sub>[#155219](https://github.com/flutter/flutter/pull/155219) merged on September 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/155219) over 1 week, 172 additions and 4 deletions in 2 files</sub><br />
@@ -315,7 +319,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-31 commits.
+32 commits.
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid<br />
   <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub><br />
@@ -410,6 +414,10 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Update `setSystemChromeEnabledSystemUIMode` docs to note targeting Android 15+ change<br />
   <sub>[#54560](https://github.com/flutter/engine/pull/54560) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54560) over 1 month, 30 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds more tasks to the engine workspace<br />
+  <sub>[#55435](https://github.com/flutter/engine/pull/55435) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55435) over 51 minutes, 105 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete expensive trace event.<br />
   <sub>[#55400](https://github.com/flutter/engine/pull/55400) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55400) over 37 minutes, 0 additions and 2 deletions in 1 file</sub><br />
