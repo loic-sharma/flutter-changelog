@@ -30,7 +30,7 @@
   <sub>[#154711](https://github.com/flutter/flutter/pull/154711) opened on on September 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154711) 4 additions and 4 deletions in 6 files</sub><br />
 
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed_carousel_optinal_tap_event<br />
-  <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[野瀬田　裕樹](https://github.com/yuukiw00w)** &mdash; fix NestedScrollView crash with multiple ScrollPositions<br />
   <sub>[#154808](https://github.com/flutter/flutter/pull/154808) opened on on September 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154808) 139 additions and 3 deletions in 2 files</sub><br />
@@ -55,12 +55,6 @@
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
-
-* **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Added new parameter `disabledChildrenInteraction` on `CarouselView` to allow developer to control which part is clickable<br />
-  <sub>[#155214](https://github.com/flutter/flutter/pull/155214) opened on on September 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155214) 140 additions and 11 deletions in 2 files</sub><br />
-
-* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add  magnificationScale to CupertinoMagnifier for Zoom Effect<br />
-  <sub>[#155276](https://github.com/flutter/flutter/pull/155276) opened on on September 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155276) 68 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to configure shadow in banner<br />
   <sub>[#155296](https://github.com/flutter/flutter/pull/155296) opened on on September 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155296) 49 additions and 5 deletions in 2 files</sub><br />
@@ -88,15 +82,6 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Crafti](https://github.com/Craftplacer)** &mdash; Implement actionsPadding for AppBar<br />
-  <sub>[#155632](https://github.com/flutter/flutter/pull/155632) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155632) 76 additions and 6 deletions in 3 files</sub><br />
-
-* **[Jonathan Steele](https://github.com/iNoles)** &mdash; Fix typo on theme_data<br />
-  <sub>[#155644](https://github.com/flutter/flutter/pull/155644) opened on on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155644) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Added date selection callback to Date Picker Dialogs<br />
-  <sub>[#155651](https://github.com/flutter/flutter/pull/155651) opened on on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155651) 79 additions and 4 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Inherited Theme: zero rebuilds<br />
   <sub>[#155699](https://github.com/flutter/flutter/pull/155699) opened on on September 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155699) 105 additions and 0 deletions in 1 file</sub><br />
