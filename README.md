@@ -335,6 +335,10 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
   <sub><details><summary>1 image...</summary>![flutter_gpu_test_cull_mode](https://github.com/user-attachments/assets/cbdf804e-1608-4352-9aa1-d5d9223f3c1a)</details></sub>
 
+* **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid<br />
+  <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Pack impeller:Path into 2 vecs instead of 3.<br />
   <sub>[#55028](https://github.com/flutter/engine/pull/55028) merged on September 24, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55028) over 2 weeks, 370 additions and 386 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -374,10 +378,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Copy Dart SDK vm_shared sources into the sky_engine package<br />
   <sub>[#55158](https://github.com/flutter/engine/pull/55158) merged on September 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55158) over 1 week, 8 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid<br />
-  <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix OES texture usage.<br />
   <sub>[#55331](https://github.com/flutter/engine/pull/55331) merged on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55331) over 2 days, 137 additions and 0 deletions in 3 files</sub><br />
