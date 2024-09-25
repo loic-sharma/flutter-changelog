@@ -739,7 +739,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Fixed TabView swiping in custom stateful shell route example <br />
-  <sub>[#7583](https://github.com/flutter/packages/pull/7583) merged on September 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7583) over 2 weeks, 226 additions and 12 deletions in 4 files</sub><br />
+  <sub>[#7583](https://github.com/flutter/packages/pull/7583) merged on September 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7583) over 2 weeks, 226 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hangyujin)</sub><br />
 
 ### September 14, 2024 to September 20, 2024
