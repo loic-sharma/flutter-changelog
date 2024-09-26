@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-24 commits.
+25 commits.
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)<br />
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; remove fujino from CODEOWNERS<br />
   <sub>[#155369](https://github.com/flutter/flutter/pull/155369) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155369) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `RenderParagraph` should invalidate its `_SelectableFragment`s cached rects on window size updates<br />
+  <sub>[#155719](https://github.com/flutter/flutter/pull/155719) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155719) over 23 hours, 56 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add PrivacyInfo.xcprivacy to macOS plugin template<br />
   <sub>[#155570](https://github.com/flutter/flutter/pull/155570) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155570) over 1 day, 52 additions and 4 deletions in 7 files</sub><br />
