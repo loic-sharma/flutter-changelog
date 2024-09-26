@@ -978,7 +978,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-16 commits.
+17 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add FWE to sidenav<br />
   <sub>[#11171](https://github.com/flutter/website/pull/11171) merged on September 25, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/website/pull/11171) over 1 day, 631 additions and 571 deletions in 17 files</sub><br />
@@ -1000,6 +1000,10 @@
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update Wasm documentation<br />
   <sub>[#11131](https://github.com/flutter/website/pull/11131) merged on September 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11131) over 1 week, 33 additions and 38 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add go link for Q3 2024 DevIntel<br />
+  <sub>[#11193](https://github.com/flutter/website/pull/11193) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11193) over 27 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Improve formatting of code snippets in layout tutorial<br />
   <sub>[#11190](https://github.com/flutter/website/pull/11190) merged on September 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11190) over 39 minutes, 13 additions and 15 deletions in 2 files</sub><br />
