@@ -348,7 +348,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-42 commits.
+43 commits.
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid
   <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub>
@@ -371,13 +371,13 @@
   <sub>[#55347](https://github.com/flutter/engine/pull/55347) merged on September 24, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55347) over 1 day, 370 additions and 31 deletions in 7 files</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] remove clear color hack.
-  <sub>[#54451](https://github.com/flutter/engine/pull/54451) merged on September 26, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/54451) over 1 month, 2 additions and 8 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES gaussian implementation.
   <sub>[#55329](https://github.com/flutter/engine/pull/55329) merged on September 23, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55329) over 2 days, 99 additions and 75 deletions in 7 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] remove clear color hack.
+  <sub>[#54451](https://github.com/flutter/engine/pull/54451) merged on September 26, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/54451) over 1 month, 2 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Remove usages of WindowManager's getDefaultDisplay
   <sub>[#55002](https://github.com/flutter/engine/pull/55002) merged on September 25, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/55002) over 2 weeks, 86 additions and 20 deletions in 5 files</sub>
@@ -405,10 +405,6 @@
   <sub>[#55330](https://github.com/flutter/engine/pull/55330) merged on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55330) over 2 days, 87 additions and 14 deletions in 5 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a boolean that exposes rotation/crop metadata capability.
-  <sub>[#55434](https://github.com/flutter/engine/pull/55434) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55434) over 3 hours, 60 additions and 0 deletions in 5 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move lint suppression from `baseline.xml` to `@SuppressLint`.
   <sub>[#55447](https://github.com/flutter/engine/pull/55447) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55447) over 45 minutes, 1 addition and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
@@ -433,6 +429,10 @@
   <sub>[#55395](https://github.com/flutter/engine/pull/55395) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55395) over 36 minutes, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes blend + color filter
+  <sub>[#55411](https://github.com/flutter/engine/pull/55411) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55411) over 21 hours, 57 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made YAML version of vscode workspace to avoid redundancy
   <sub>[#55322](https://github.com/flutter/engine/pull/55322) merged on September 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/55322) over 3 days, 464 additions and 17 deletions in 5 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
@@ -445,9 +445,9 @@
   <sub>[#55158](https://github.com/flutter/engine/pull/55158) merged on September 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55158) over 1 week, 8 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes blend + color filter
-  <sub>[#55411](https://github.com/flutter/engine/pull/55411) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55411) over 21 hours, 57 additions and 1 deletion in 3 files</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a boolean that exposes rotation/crop metadata capability.
+  <sub>[#55434](https://github.com/flutter/engine/pull/55434) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55434) over 3 hours, 60 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix OES texture usage.
   <sub>[#55331](https://github.com/flutter/engine/pull/55331) merged on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55331) over 2 days, 137 additions and 0 deletions in 3 files</sub>
@@ -500,6 +500,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] sprinkle some null checks on BringLayersIntoView.
   <sub>[#55334](https://github.com/flutter/engine/pull/55334) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55334) over 1 day, 87 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixes color filter + advanced blends
+  <sub>[#55448](https://github.com/flutter/engine/pull/55448) merged on September 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55448) over 17 hours, 67 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Remove deprecated and unnecessary parameters from fuchsia*archive
   <sub>[#55324](https://github.com/flutter/engine/pull/55324) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55324) over 3 days, 65 additions and 139 deletions in 9 files</sub>
