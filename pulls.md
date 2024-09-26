@@ -33,7 +33,7 @@
   <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[野瀬田　裕樹](https://github.com/yuukiw00w)** &mdash; fix NestedScrollView crash with multiple ScrollPositions<br />
-  <sub>[#154808](https://github.com/flutter/flutter/pull/154808) opened on on September 9, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/154808) 136 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#154808](https://github.com/flutter/flutter/pull/154808) opened on on September 9, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/154808) 136 additions and 3 deletions in 2 files</sub><br />
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Restore analyze_snippet_code_test tests.<br />
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154834) 7 additions and 13 deletions in 1 file</sub><br />
@@ -82,7 +82,4 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[David Iglesias](https://github.com/ditman)** &mdash; Assert `implicitView != null` on `wrapWithDefaultView`.<br />
-  <sub>[#155734](https://github.com/flutter/flutter/pull/155734) opened on on September 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155734) 96 additions and 0 deletions in 3 files</sub><br />
 
