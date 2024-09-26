@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-23 commits.
+24 commits.
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub>
@@ -18,6 +18,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move the Linux runner into a subdirectory
   <sub>[#153812](https://github.com/flutter/flutter/pull/153812) merged on September 25, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/153812) over 1 month, 34 additions and 24 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[zhengzeqin](https://github.com/zeqinjie)** &mdash; Fix broken text field with set hint and min and max lines(#153183)
+  <sub>[#153235](https://github.com/flutter/flutter/pull/153235) merged on September 26, 2024 &mdash; **Small:** [48 comments](https://github.com/flutter/flutter/pull/153235) over 1 month, 155 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; remove fujino from CODEOWNERS
   <sub>[#155369](https://github.com/flutter/flutter/pull/155369) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155369) over 1 week, 0 additions and 1 deletion in 1 file</sub>
