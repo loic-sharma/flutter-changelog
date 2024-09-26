@@ -954,7 +954,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-13 commits.
+14 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add FWE to sidenav
   <sub>[#11171](https://github.com/flutter/website/pull/11171) merged on September 25, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/website/pull/11171) over 1 day, 631 additions and 571 deletions in 17 files</sub>
@@ -976,6 +976,10 @@
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update Wasm documentation
   <sub>[#11131](https://github.com/flutter/website/pull/11131) merged on September 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11131) over 1 week, 33 additions and 38 deletions in 1 file</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add notes about new `SurfaceProducer` APIs for 3.27.
+  <sub>[#11179](https://github.com/flutter/website/pull/11179) merged on September 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11179) over 22 hours, 17 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix formatting of various lists in fundamentals docs
   <sub>[#11181](https://github.com/flutter/website/pull/11181) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11181) over 18 hours, 80 additions and 79 deletions in 6 files</sub>
