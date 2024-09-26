@@ -838,11 +838,15 @@
 
 ### September 21, 2024 to September 27, 2024
 
-9 commits.
+10 commits.
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [package:flutter_lints] update the dep on `package:lints` to 5.0.0 and the sdk dependency to 3.5.0<br />
   <sub>[#7704](https://github.com/flutter/packages/pull/7704) merged on September 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7704) over 2 hours, 12 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Hosam Hasan Ramadan](https://github.com/HosamHasanRamadan)** &mdash; [flutter_markdown] remove backgroundColor from code text theme to enable code selection highlight<br />
+  <sub>[#7090](https://github.com/flutter/packages/pull/7090) merged on September 26, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7090) over 2 months, 8 additions and 9 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for iOS native `IMAFriendlyObstruction`<br />
   <sub>[#7696](https://github.com/flutter/packages/pull/7696) merged on September 26, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/7696) over 1 day, 1146 additions and 581 deletions in 12 files</sub><br />
