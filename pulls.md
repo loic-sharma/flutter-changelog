@@ -69,7 +69,7 @@
   <sub>[#155506](https://github.com/flutter/flutter/pull/155506) opened on on September 22, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/155506) 326 additions and 2 deletions in 3 files</sub><br />
 
 * **[lizhuo](https://github.com/huanglizhuo)** &mdash; fix: support android 15 16k page size for template package_ffi <br />
-  <sub>[#155508](https://github.com/flutter/flutter/pull/155508) opened on on September 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155508) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#155508](https://github.com/flutter/flutter/pull/155508) opened on on September 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155508) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Assert macOS framework artifact contains xcprivacy manifest<br />
   <sub>[#155556](https://github.com/flutter/flutter/pull/155556) opened on on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155556) 1 addition and 0 deletions in 1 file</sub><br />
