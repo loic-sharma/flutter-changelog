@@ -16,7 +16,7 @@
   <sub><details><summary>2 images...</summary>![before](https://github.com/user-attachments/assets/d8b8e826-bab4-462a-a7ac-191e1597c3c6)![after](https://github.com/user-attachments/assets/3c4b57e7-182a-4749-af72-b82fdaf25013)</details></sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move the Linux runner into a subdirectory
-  <sub>[#153812](https://github.com/flutter/flutter/pull/153812) merged on September 25, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/153812) over 1 month, 34 additions and 24 deletions in 6 files</sub>
+  <sub>[#153812](https://github.com/flutter/flutter/pull/153812) merged on September 25, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/153812) over 1 month, 34 additions and 24 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add PrivacyInfo.xcprivacy to macOS plugin template
