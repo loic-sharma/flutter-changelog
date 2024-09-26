@@ -986,7 +986,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-19 commits.
+20 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add FWE to sidenav
   <sub>[#11171](https://github.com/flutter/website/pull/11171) merged on September 25, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/website/pull/11171) over 1 day, 631 additions and 571 deletions in 17 files</sub>
@@ -1008,6 +1008,10 @@
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update Wasm documentation
   <sub>[#11131](https://github.com/flutter/website/pull/11131) merged on September 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11131) over 1 week, 33 additions and 38 deletions in 1 file</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; Add permalink to runWidget docs.
+  <sub>[#11196](https://github.com/flutter/website/pull/11196) merged on September 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11196) over 19 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Automatically run `pnpm install` in dash_site tool
   <sub>[#11191](https://github.com/flutter/website/pull/11191) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11191) over 55 minutes, 117 additions and 69 deletions in 4 files</sub>
