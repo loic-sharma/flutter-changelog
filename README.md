@@ -7,7 +7,7 @@
 20 commits.
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)<br />
-  <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [46 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub><br />
+  <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to configure shadow in banner<br />
