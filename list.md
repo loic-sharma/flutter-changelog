@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-25 commits.
+26 commits.
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub>
@@ -66,6 +66,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Use flutter from in same repo (not path) in `generate_gradle_lockfiles.dart`
+  <sub>[#155790](https://github.com/flutter/flutter/pull/155790) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155790) over 1 hour, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark linux packages autoroller bringup: true
   <sub>[#155705](https://github.com/flutter/flutter/pull/155705) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155705) over 37 minutes, 1 addition and 0 deletions in 1 file</sub>
@@ -994,7 +998,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-20 commits.
+21 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add FWE to sidenav
   <sub>[#11171](https://github.com/flutter/website/pull/11171) merged on September 25, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/website/pull/11171) over 1 day, 631 additions and 571 deletions in 17 files</sub>
@@ -1012,6 +1016,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Clarify notice about installation in China
   <sub>[#11167](https://github.com/flutter/website/pull/11167) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11167) over 3 days, 9 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[James Williams](https://github.com/jwill)** &mdash; Fleshed out typography page with more details
+  <sub>[#11183](https://github.com/flutter/website/pull/11183) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11183) over 22 hours, 85 additions and 59 deletions in 4 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update Wasm documentation
   <sub>[#11131](https://github.com/flutter/website/pull/11131) merged on September 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11131) over 1 week, 33 additions and 38 deletions in 1 file</sub>
