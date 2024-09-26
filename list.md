@@ -4,11 +4,15 @@
 
 ### September 21, 2024 to September 27, 2024
 
-18 commits.
+19 commits.
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [46 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move the Linux runner into a subdirectory
+  <sub>[#153812](https://github.com/flutter/flutter/pull/153812) merged on September 25, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/153812) over 1 month, 34 additions and 24 deletions in 6 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add PrivacyInfo.xcprivacy to macOS plugin template
   <sub>[#155570](https://github.com/flutter/flutter/pull/155570) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155570) over 1 day, 52 additions and 4 deletions in 7 files</sub>
