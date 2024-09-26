@@ -57,7 +57,7 @@
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to configure shadow in banner<br />
-  <sub>[#155296](https://github.com/flutter/flutter/pull/155296) opened on on September 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155296) 49 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#155296](https://github.com/flutter/flutter/pull/155296) opened on on September 17, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/155296) 49 additions and 6 deletions in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds dynamic management of TapRegion on navigation<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) opened on on September 17, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155297) 187 additions and 2 deletions in 3 files</sub><br />
