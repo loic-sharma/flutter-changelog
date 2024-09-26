@@ -1087,7 +1087,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; iOS updates<br />
-  <sub>[#11140](https://github.com/flutter/website/pull/11140) merged on September 20, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11140) over 4 days, 44 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#11140](https://github.com/flutter/website/pull/11140) merged on September 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11140) over 4 days, 44 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix: Text in other languages was removed from anchors<br />
