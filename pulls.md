@@ -80,3 +80,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed<br />
+  <sub>[#155757](https://github.com/flutter/flutter/pull/155757) opened on on September 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155757) 102 additions and 14 deletions in 2 files</sub><br />
+
