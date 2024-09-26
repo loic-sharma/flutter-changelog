@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-20 commits.
+21 commits.
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)<br />
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub><br />
@@ -86,6 +86,10 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client<br />
   <sub>[#155249](https://github.com/flutter/flutter/pull/155249) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155249) over 1 week, 37 additions and 7 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Reland "[flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code) (#155430)"<br />
+  <sub>[#155745](https://github.com/flutter/flutter/pull/155745) merged on September 26, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/155745) over 1 hour, 1165 additions and 2810 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 ### September 14, 2024 to September 20, 2024
 
