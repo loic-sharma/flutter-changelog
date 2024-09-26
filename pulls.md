@@ -83,6 +83,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed<br />
   <sub>[#155757](https://github.com/flutter/flutter/pull/155757) opened on on September 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155757) 102 additions and 14 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; fix: SelectableText should handle focus changes<br />
-  <sub>[#155771](https://github.com/flutter/flutter/pull/155771) opened on on September 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155771) 192 additions and 33 deletions in 2 files</sub><br />
-
