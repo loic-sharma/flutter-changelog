@@ -822,7 +822,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-7 commits.
+8 commits.
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [package:flutter_lints] update the dep on `package:lints` to 5.0.0 and the sdk dependency to 3.5.0
   <sub>[#7704](https://github.com/flutter/packages/pull/7704) merged on September 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7704) over 2 hours, 12 additions and 8 deletions in 2 files</sub>
@@ -839,6 +839,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Convert `PlatformPolyline.pattern` to Pigeon
   <sub>[#7631](https://github.com/flutter/packages/pull/7631) merged on September 23, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/7631) over 1 week, 366 additions and 160 deletions in 8 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a `@SuppressWarnings` in advance 
+  <sub>[#7712](https://github.com/flutter/packages/pull/7712) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7712) over 21 minutes, 7 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Fixed TabView swiping in custom stateful shell route example 
   <sub>[#7583](https://github.com/flutter/packages/pull/7583) merged on September 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7583) over 2 weeks, 226 additions and 12 deletions in 4 files</sub>
@@ -950,7 +954,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-10 commits.
+13 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add FWE to sidenav
   <sub>[#11171](https://github.com/flutter/website/pull/11171) merged on September 25, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/website/pull/11171) over 1 day, 631 additions and 571 deletions in 17 files</sub>
@@ -973,6 +977,10 @@
   <sub>[#11131](https://github.com/flutter/website/pull/11131) merged on September 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11131) over 1 week, 33 additions and 38 deletions in 1 file</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix formatting of various lists in fundamentals docs
+  <sub>[#11181](https://github.com/flutter/website/pull/11181) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11181) over 18 hours, 80 additions and 79 deletions in 6 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix broken link to new fundamentals docs
   <sub>[#11180](https://github.com/flutter/website/pull/11180) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11180) over 3 hours, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
@@ -988,6 +996,14 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update sass and shiki dependencies
   <sub>[#11168](https://github.com/flutter/website/pull/11168) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11168) over 1 day, 86 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix incorrect title - seems to be copy-pasted from the Windows example.
+  <sub>[#11184](https://github.com/flutter/website/pull/11184) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11184) over 15 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace C cast in example with more correct use of standard macro
+  <sub>[#11185](https://github.com/flutter/website/pull/11185) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11185) over 13 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[James Williams](https://github.com/jwill)** &mdash; Add `/go/colorscheme-enhancements` design doc redirect
   <sub>[#11174](https://github.com/flutter/website/pull/11174) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11174) over 23 minutes, 1 addition and 0 deletions in 1 file</sub>
