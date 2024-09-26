@@ -80,3 +80,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Reland "[flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code) (#155430)"<br />
+  <sub>[#155745](https://github.com/flutter/flutter/pull/155745) opened on on September 26, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/155745) 1165 additions and 2810 deletions in 19 files</sub><br />
+
