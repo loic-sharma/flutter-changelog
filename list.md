@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-21 commits.
+23 commits.
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub>
@@ -18,6 +18,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move the Linux runner into a subdirectory
   <sub>[#153812](https://github.com/flutter/flutter/pull/153812) merged on September 25, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/153812) over 1 month, 34 additions and 24 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; remove fujino from CODEOWNERS
+  <sub>[#155369](https://github.com/flutter/flutter/pull/155369) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155369) over 1 week, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add PrivacyInfo.xcprivacy to macOS plugin template
   <sub>[#155570](https://github.com/flutter/flutter/pull/155570) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155570) over 1 day, 52 additions and 4 deletions in 7 files</sub>
@@ -38,6 +42,10 @@
 * **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using *Gradient:withOpacity
   <sub>[#154908](https://github.com/flutter/flutter/pull/154908) merged on September 24, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/154908) over 2 weeks, 85 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Ian Hickson](https://github.com/Hixie)** &mdash; Fix line-wrapping in `flutter create` error message.
+  <sub>[#150325](https://github.com/flutter/flutter/pull/150325) merged on September 26, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/150325) over 3 months, 18 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Update `SystemUiMode`  and `setSystemChromeEnabledSystemUIMode ` docs to note targeting Android 15+ change
   <sub>[#153466](https://github.com/flutter/flutter/pull/153466) merged on September 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153466) over 1 month, 39 additions and 7 deletions in 1 file</sub>
@@ -954,7 +962,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-14 commits.
+15 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add FWE to sidenav
   <sub>[#11171](https://github.com/flutter/website/pull/11171) merged on September 25, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/website/pull/11171) over 1 day, 631 additions and 571 deletions in 17 files</sub>
@@ -976,6 +984,10 @@
 * **[Luka S](https://github.com/JaffaKetchup)** &mdash; Update Wasm documentation
   <sub>[#11131](https://github.com/flutter/website/pull/11131) merged on September 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11131) over 1 week, 33 additions and 38 deletions in 1 file</sub>
   <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Add a reference to the `flutter_shaders` package
+  <sub>[#11186](https://github.com/flutter/website/pull/11186) merged on September 26, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11186) over 13 hours, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add notes about new `SurfaceProducer` APIs for 3.27.
   <sub>[#11179](https://github.com/flutter/website/pull/11179) merged on September 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11179) over 22 hours, 17 additions and 4 deletions in 1 file</sub>
