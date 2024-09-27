@@ -393,7 +393,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-52 commits.
+53 commits.
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid
   <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub>
@@ -464,33 +464,33 @@
   <sub>[#55330](https://github.com/flutter/engine/pull/55330) merged on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55330) over 2 days, 87 additions and 14 deletions in 5 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move each dart GN rule to a standalone file.
-  <sub>[#55404](https://github.com/flutter/engine/pull/55404) merged on September 24, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55404) over 3 hours, 427 additions and 397 deletions in 4 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont use blend shader for simple drawAtlas calls.
+  <sub>[#55420](https://github.com/flutter/engine/pull/55420) merged on September 27, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/55420) over 1 day, 417 additions and 198 deletions in 12 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Delete command pools held by the CommandPoolRecyclerVK after decoding an image on the IO thread
   <sub>[#55398](https://github.com/flutter/engine/pull/55398) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55398) over 3 hours, 46 additions and 0 deletions in 8 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont use blend shader for simple drawAtlas calls.
-  <sub>[#55420](https://github.com/flutter/engine/pull/55420) merged on September 27, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/55420) over 1 day, 417 additions and 198 deletions in 12 files</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move each dart GN rule to a standalone file.
+  <sub>[#55404](https://github.com/flutter/engine/pull/55404) merged on September 24, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55404) over 3 hours, 427 additions and 397 deletions in 4 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes blend + color filter
+  <sub>[#55411](https://github.com/flutter/engine/pull/55411) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55411) over 21 hours, 57 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move lint suppression from `baseline.xml` to `@SuppressLint`.
   <sub>[#55447](https://github.com/flutter/engine/pull/55447) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55447) over 45 minutes, 1 addition and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a boolean that exposes rotation/crop metadata capability.
-  <sub>[#55434](https://github.com/flutter/engine/pull/55434) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55434) over 3 hours, 60 additions and 0 deletions in 5 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added assert for host buffer allocation.
   <sub>[#55395](https://github.com/flutter/engine/pull/55395) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55395) over 36 minutes, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes blend + color filter
-  <sub>[#55411](https://github.com/flutter/engine/pull/55411) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55411) over 21 hours, 57 additions and 1 deletion in 3 files</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a boolean that exposes rotation/crop metadata capability.
+  <sub>[#55434](https://github.com/flutter/engine/pull/55434) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55434) over 3 hours, 60 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic culling checks during text frame dispatcher.
   <sub>[#55168](https://github.com/flutter/engine/pull/55168) merged on September 24, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/55168) over 1 week, 111 additions and 22 deletions in 10 files</sub>
@@ -537,24 +537,12 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "[canvaskit] Further improve overlay optimization by splitting pictures"
-  <sub>[#55464](https://github.com/flutter/engine/pull/55464) merged on September 26, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/55464) over 3 hours, 1184 additions and 656 deletions in 10 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "[canvaskit] Further improve overlay optimization by splitting pictures"
   <sub>[#55402](https://github.com/flutter/engine/pull/55402) merged on September 25, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55402) over 1 day, 1149 additions and 656 deletions in 10 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenario_app] delete get bitmap activity.
-  <sub>[#55436](https://github.com/flutter/engine/pull/55436) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55436) over 2 hours, 0 additions and 77 deletions in 4 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds more tasks to the engine workspace
-  <sub>[#55435](https://github.com/flutter/engine/pull/55435) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55435) over 51 minutes, 105 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete expensive trace event.
-  <sub>[#55400](https://github.com/flutter/engine/pull/55400) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55400) over 37 minutes, 0 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "[canvaskit] Further improve overlay optimization by splitting pictures"
+  <sub>[#55464](https://github.com/flutter/engine/pull/55464) merged on September 26, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/55464) over 3 hours, 1184 additions and 656 deletions in 10 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ci] make opengles impeller scenario app non-bringup
   <sub>[#55474](https://github.com/flutter/engine/pull/55474) merged on September 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55474) over 2 hours, 0 additions and 1 deletion in 1 file</sub>
@@ -576,6 +564,18 @@
   <sub>[#55362](https://github.com/flutter/engine/pull/55362) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55362) over 2 days, 25 additions and 20 deletions in 3 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] actually fix external texture for GLES.
+  <sub>[#55414](https://github.com/flutter/engine/pull/55414) merged on September 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55414) over 21 hours, 103 additions and 120 deletions in 7 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [scenario_app] delete get bitmap activity.
+  <sub>[#55436](https://github.com/flutter/engine/pull/55436) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55436) over 2 hours, 0 additions and 77 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; adds more tasks to the engine workspace
+  <sub>[#55435](https://github.com/flutter/engine/pull/55435) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55435) over 51 minutes, 105 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove usage of VBB when allocating vertices of a fixed size.
   <sub>[#55235](https://github.com/flutter/engine/pull/55235) merged on September 23, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/55235) over 1 week, 190 additions and 182 deletions in 13 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -584,9 +584,13 @@
   <sub>[#55334](https://github.com/flutter/engine/pull/55334) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55334) over 1 day, 87 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] actually fix external texture for GLES.
-  <sub>[#55414](https://github.com/flutter/engine/pull/55414) merged on September 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55414) over 21 hours, 103 additions and 120 deletions in 7 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete expensive trace event.
+  <sub>[#55400](https://github.com/flutter/engine/pull/55400) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55400) over 37 minutes, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Update builder json generator to reflect recent changes
+  <sub>[#55307](https://github.com/flutter/engine/pull/55307) merged on September 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55307) over 1 week, 3 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Remove deprecated and unnecessary parameters from fuchsia*archive
   <sub>[#55324](https://github.com/flutter/engine/pull/55324) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55324) over 3 days, 65 additions and 139 deletions in 9 files</sub>
