@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-27 commits.
+28 commits.
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub>
@@ -26,6 +26,10 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; remove fujino from CODEOWNERS
   <sub>[#155369](https://github.com/flutter/flutter/pull/155369) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155369) over 1 week, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; fix: SelectableText should handle focus changes
+  <sub>[#155771](https://github.com/flutter/flutter/pull/155771) merged on September 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155771) over 7 hours, 192 additions and 33 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `RenderParagraph` should invalidate its `_SelectableFragment`s cached rects on window size updates
   <sub>[#155719](https://github.com/flutter/flutter/pull/155719) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155719) over 23 hours, 56 additions and 0 deletions in 2 files</sub>
@@ -372,7 +376,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-48 commits.
+49 commits.
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid
   <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub>
@@ -438,21 +442,21 @@
   <sub>[#55330](https://github.com/flutter/engine/pull/55330) merged on September 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55330) over 2 days, 87 additions and 14 deletions in 5 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes blend + color filter
+  <sub>[#55411](https://github.com/flutter/engine/pull/55411) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55411) over 21 hours, 57 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move each dart GN rule to a standalone file.
   <sub>[#55404](https://github.com/flutter/engine/pull/55404) merged on September 24, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55404) over 3 hours, 427 additions and 397 deletions in 4 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move lint suppression from `baseline.xml` to `@SuppressLint`.
-  <sub>[#55447](https://github.com/flutter/engine/pull/55447) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55447) over 45 minutes, 1 addition and 12 deletions in 2 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Delete command pools held by the CommandPoolRecyclerVK after decoding an image on the IO thread
   <sub>[#55398](https://github.com/flutter/engine/pull/55398) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55398) over 3 hours, 46 additions and 0 deletions in 8 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes blend + color filter
-  <sub>[#55411](https://github.com/flutter/engine/pull/55411) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55411) over 21 hours, 57 additions and 1 deletion in 3 files</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move lint suppression from `baseline.xml` to `@SuppressLint`.
+  <sub>[#55447](https://github.com/flutter/engine/pull/55447) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55447) over 45 minutes, 1 addition and 12 deletions in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added assert for host buffer allocation.
   <sub>[#55395](https://github.com/flutter/engine/pull/55395) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55395) over 36 minutes, 3 additions and 1 deletion in 1 file</sub>
@@ -482,6 +486,10 @@
   <sub>[#55168](https://github.com/flutter/engine/pull/55168) merged on September 24, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/55168) over 1 week, 111 additions and 22 deletions in 10 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
+* **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add `format` field to EGL surface backing store
+  <sub>[#54499](https://github.com/flutter/engine/pull/54499) merged on September 27, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/54499) over 1 month, 78 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix OES texture usage.
   <sub>[#55331](https://github.com/flutter/engine/pull/55331) merged on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55331) over 2 days, 137 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -510,6 +518,14 @@
   <sub>[#55464](https://github.com/flutter/engine/pull/55464) merged on September 26, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/55464) over 3 hours, 1184 additions and 656 deletions in 10 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; cipd: add mobileprovision CIPD package
+  <sub>[#55449](https://github.com/flutter/engine/pull/55449) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55449) over 17 hours, 122 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixes color filter + advanced blends
+  <sub>[#55448](https://github.com/flutter/engine/pull/55448) merged on September 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55448) over 17 hours, 67 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] set platform thread name to ui.
   <sub>[#55362](https://github.com/flutter/engine/pull/55362) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55362) over 2 days, 25 additions and 20 deletions in 3 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -530,14 +546,6 @@
   <sub>[#55400](https://github.com/flutter/engine/pull/55400) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55400) over 37 minutes, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline dependencies on `build_root` for a constant.
-  <sub>[#55441](https://github.com/flutter/engine/pull/55441) merged on September 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55441) over 22 hours, 3 additions and 9 deletions in 3 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; cipd: add mobileprovision CIPD package
-  <sub>[#55449](https://github.com/flutter/engine/pull/55449) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55449) over 17 hours, 122 additions and 0 deletions in 4 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove usage of VBB when allocating vertices of a fixed size.
   <sub>[#55235](https://github.com/flutter/engine/pull/55235) merged on September 23, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/55235) over 1 week, 190 additions and 182 deletions in 13 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -546,9 +554,9 @@
   <sub>[#55334](https://github.com/flutter/engine/pull/55334) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55334) over 1 day, 87 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixes color filter + advanced blends
-  <sub>[#55448](https://github.com/flutter/engine/pull/55448) merged on September 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55448) over 17 hours, 67 additions and 6 deletions in 3 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline dependencies on `build_root` for a constant.
+  <sub>[#55441](https://github.com/flutter/engine/pull/55441) merged on September 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55441) over 22 hours, 3 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Remove deprecated and unnecessary parameters from fuchsia*archive
   <sub>[#55324](https://github.com/flutter/engine/pull/55324) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55324) over 3 days, 65 additions and 139 deletions in 9 files</sub>
