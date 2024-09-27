@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-34 commits.
+35 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Throw StateError when implicitView is null on `wrapWithDefaultView`.<br />
   <sub>[#155734](https://github.com/flutter/flutter/pull/155734) merged on September 27, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155734) over 22 hours, 106 additions and 0 deletions in 3 files</sub><br />
@@ -48,13 +48,17 @@
   <sub>[#154675](https://github.com/flutter/flutter/pull/154675) merged on September 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154675) over 2 weeks, 46 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
-  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) merged on September 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/155219) over 1 week, 172 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize TabBarTheme<br />
   <sub>[#155476](https://github.com/flutter/flutter/pull/155476) merged on September 25, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/155476) over 4 days, 489 additions and 99 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add  magnificationScale to CupertinoMagnifier for Zoom Effect<br />
+  <sub>[#155276](https://github.com/flutter/flutter/pull/155276) merged on September 27, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155276) over 1 week, 69 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
+  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) merged on September 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/155219) over 1 week, 172 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using *Gradient:withOpacity<br />
   <sub>[#154908](https://github.com/flutter/flutter/pull/154908) merged on September 24, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/154908) over 2 weeks, 85 additions and 1 deletion in 2 files</sub><br />
@@ -88,9 +92,9 @@
   <sub>[#155539](https://github.com/flutter/flutter/pull/155539) merged on September 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155539) over 3 days, 72 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Roll packages manually<br />
-  <sub>[#155786](https://github.com/flutter/flutter/pull/155786) merged on September 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155786) over 3 hours, 132 additions and 132 deletions in 64 files</sub><br />
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Redo flutter engine flutter autoroll bd3d1990 485b 419c 8c55 b27e3eeb15ed 1727117767<br />
+  <sub>[#155579](https://github.com/flutter/flutter/pull/155579) merged on September 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155579) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert macOS framework artifact contains xcprivacy manifest<br />
   <sub>[#155189](https://github.com/flutter/flutter/pull/155189) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155189) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
@@ -116,17 +120,13 @@
   <sub>[#155432](https://github.com/flutter/flutter/pull/155432) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155432) over 4 days, 13 additions and 171 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Redo flutter engine flutter autoroll bd3d1990 485b 419c 8c55 b27e3eeb15ed 1727117767<br />
-  <sub>[#155579](https://github.com/flutter/flutter/pull/155579) merged on September 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155579) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Roll packages manually<br />
+  <sub>[#155786](https://github.com/flutter/flutter/pull/155786) merged on September 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155786) over 3 hours, 132 additions and 132 deletions in 64 files</sub><br />
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Use flutter from in same repo (not path) in `generate_gradle_lockfiles.dart` (again)<br />
   <sub>[#155794](https://github.com/flutter/flutter/pull/155794) merged on September 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155794) over 55 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file #2<br />
-  <sub>[#155628](https://github.com/flutter/flutter/pull/155628) merged on September 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155628) over 22 hours, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Fix some broken links in DAP readme<br />
   <sub>[#155600](https://github.com/flutter/flutter/pull/155600) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155600) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
@@ -139,6 +139,10 @@
 * **[Jonathan Steele](https://github.com/iNoles)** &mdash; Fix typo on theme_data<br />
   <sub>[#155644](https://github.com/flutter/flutter/pull/155644) merged on September 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155644) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file #2<br />
+  <sub>[#155628](https://github.com/flutter/flutter/pull/155628) merged on September 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155628) over 22 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Reland "[flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code) (#155430)"<br />
   <sub>[#155745](https://github.com/flutter/flutter/pull/155745) merged on September 26, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/155745) over 1 hour, 1165 additions and 2810 deletions in 19 files</sub><br />
