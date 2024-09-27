@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-30 commits.
+31 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Throw StateError when implicitView is null on `wrapWithDefaultView`.
   <sub>[#155734](https://github.com/flutter/flutter/pull/155734) merged on September 27, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155734) over 22 hours, 106 additions and 0 deletions in 3 files</sub>
@@ -75,6 +75,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu rendered behind AppBar
+  <sub>[#155539](https://github.com/flutter/flutter/pull/155539) merged on September 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155539) over 3 days, 72 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Roll packages manually
   <sub>[#155786](https://github.com/flutter/flutter/pull/155786) merged on September 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155786) over 3 hours, 132 additions and 132 deletions in 64 files</sub>
