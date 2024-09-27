@@ -1028,7 +1028,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-21 commits.
+22 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add FWE to sidenav
   <sub>[#11171](https://github.com/flutter/website/pull/11171) merged on September 25, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/website/pull/11171) over 1 day, 631 additions and 571 deletions in 17 files</sub>
@@ -1046,6 +1046,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Clarify notice about installation in China
   <sub>[#11167](https://github.com/flutter/website/pull/11167) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11167) over 3 days, 9 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Removing unneeded instruction for Linux
+  <sub>[#11199](https://github.com/flutter/website/pull/11199) merged on September 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11199) over 3 hours, 1 addition and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[James Williams](https://github.com/jwill)** &mdash; Fleshed out typography page with more details
   <sub>[#11183](https://github.com/flutter/website/pull/11183) merged on September 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11183) over 22 hours, 85 additions and 59 deletions in 4 files</sub>
