@@ -1028,7 +1028,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-22 commits.
+23 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add FWE to sidenav
   <sub>[#11171](https://github.com/flutter/website/pull/11171) merged on September 25, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/website/pull/11171) over 1 day, 631 additions and 571 deletions in 17 files</sub>
@@ -1102,6 +1102,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update sass and shiki dependencies
   <sub>[#11168](https://github.com/flutter/website/pull/11168) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11168) over 1 day, 86 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Remove outdated mention of iOS platform view cap
+  <sub>[#11198](https://github.com/flutter/website/pull/11198) merged on September 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11198) over 4 hours, 0 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix missing closing character on include
   <sub>[#11195](https://github.com/flutter/website/pull/11195) merged on September 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11195) over 13 minutes, 1 addition and 1 deletion in 1 file</sub>
