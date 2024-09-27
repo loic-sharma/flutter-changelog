@@ -4,7 +4,12 @@
 
 ### September 21, 2024 to September 27, 2024
 
-28 commits.
+30 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; Throw StateError when implicitView is null on `wrapWithDefaultView`.
+  <sub>[#155734](https://github.com/flutter/flutter/pull/155734) merged on September 27, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155734) over 22 hours, 106 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt)</sub>
+  <sub><details><summary>2 images...</summary><img width="619" alt="Screenshot 2024-09-25 at 7 33 47 PM" src="https://github.com/user-attachments/assets/4897dd3c-bdd0-4217-9f23-7eee9fab4999"><img width="613" alt="Screenshot 2024-09-26 at 5 01 49 PM" src="https://github.com/user-attachments/assets/3febb91d-a8c3-41b6-bf34-c2c8743b637c"></details></sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub>
@@ -70,6 +75,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Roll packages manually
+  <sub>[#155786](https://github.com/flutter/flutter/pull/155786) merged on September 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155786) over 3 hours, 132 additions and 132 deletions in 64 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Use flutter from in same repo (not path) in `generate_gradle_lockfiles.dart` (again)
   <sub>[#155794](https://github.com/flutter/flutter/pull/155794) merged on September 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155794) over 55 minutes, 1 addition and 1 deletion in 1 file</sub>
