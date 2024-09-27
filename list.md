@@ -85,8 +85,8 @@
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Use flutter from in same repo (not path) in `generate_gradle_lockfiles.dart` (again)
-  <sub>[#155794](https://github.com/flutter/flutter/pull/155794) merged on September 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155794) over 55 minutes, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+  <sub>[#155794](https://github.com/flutter/flutter/pull/155794) merged on September 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155794) over 55 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Use flutter from in same repo (not path) in `generate_gradle_lockfiles.dart`
   <sub>[#155790](https://github.com/flutter/flutter/pull/155790) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155790) over 1 hour, 5 additions and 1 deletion in 1 file</sub>

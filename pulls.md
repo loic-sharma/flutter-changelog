@@ -78,7 +78,7 @@
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed<br />
-  <sub>[#155757](https://github.com/flutter/flutter/pull/155757) opened on on September 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155757) 102 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#155757](https://github.com/flutter/flutter/pull/155757) opened on on September 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155757) 153 additions and 14 deletions in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Move platform specific text selection behavior out of styled TextField classes<br />
   <sub>[#155774](https://github.com/flutter/flutter/pull/155774) opened on on September 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/155774) 236 additions and 283 deletions in 4 files</sub><br />
