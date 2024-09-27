@@ -83,6 +83,3 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Move platform specific text selection behavior out of styled TextField classes<br />
   <sub>[#155774](https://github.com/flutter/flutter/pull/155774) opened on on September 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/155774) 236 additions and 283 deletions in 4 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `AppBar` back button doesn't navigate back when using `TooltipTriggerMode.tap` in the `TooltipTheme`<br />
-  <sub>[#155822](https://github.com/flutter/flutter/pull/155822) opened on on September 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155822) 105 additions and 61 deletions in 3 files</sub><br />
-
