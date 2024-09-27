@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-32 commits.
+33 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Throw StateError when implicitView is null on `wrapWithDefaultView`.<br />
   <sub>[#155734](https://github.com/flutter/flutter/pull/155734) merged on September 27, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155734) over 22 hours, 106 additions and 0 deletions in 3 files</sub><br />
@@ -75,6 +75,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.<br />
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Turn the packages roller bot back on<br />
+  <sub>[#155842](https://github.com/flutter/flutter/pull/155842) merged on September 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155842) over 36 minutes, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove left-over traces of "link-dry-run" - which isn't used anywhere in flutter<br />
   <sub>[#155820](https://github.com/flutter/flutter/pull/155820) merged on September 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155820) over 45 minutes, 3 additions and 8 deletions in 3 files</sub><br />
