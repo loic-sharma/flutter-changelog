@@ -577,8 +577,8 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Make arm64 iOS simulator local engine build unopt<br />
-  <sub>[#55493](https://github.com/flutter/engine/pull/55493) merged on September 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55493) over 1 hour, 3 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+  <sub>[#55493](https://github.com/flutter/engine/pull/55493) merged on September 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55493) over 1 hour, 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Listen for uncaught exceptions during loading of a web test suite in Chrome<br />
   <sub>[#55166](https://github.com/flutter/engine/pull/55166) merged on September 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55166) over 2 weeks, 56 additions and 4 deletions in 3 files</sub><br />
