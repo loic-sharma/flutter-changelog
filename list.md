@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-33 commits.
+34 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Throw StateError when implicitView is null on `wrapWithDefaultView`.
   <sub>[#155734](https://github.com/flutter/flutter/pull/155734) merged on September 27, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155734) over 22 hours, 106 additions and 0 deletions in 3 files</sub>
@@ -44,17 +44,17 @@
   <sub>[#155570](https://github.com/flutter/flutter/pull/155570) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155570) over 1 day, 52 additions and 4 deletions in 7 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize TabBarTheme
-  <sub>[#155476](https://github.com/flutter/flutter/pull/155476) merged on September 25, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/155476) over 4 days, 489 additions and 99 deletions in 4 files</sub>
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+* **[nick9822](https://github.com/nick9822)** &mdash; fixed keyboardDismissBehavior on scroll without a drag
+  <sub>[#154675](https://github.com/flutter/flutter/pull/154675) merged on September 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154675) over 2 weeks, 46 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used
   <sub>[#155219](https://github.com/flutter/flutter/pull/155219) merged on September 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/155219) over 1 week, 172 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[nick9822](https://github.com/nick9822)** &mdash; fixed keyboardDismissBehavior on scroll without a drag
-  <sub>[#154675](https://github.com/flutter/flutter/pull/154675) merged on September 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154675) over 2 weeks, 46 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize TabBarTheme
+  <sub>[#155476](https://github.com/flutter/flutter/pull/155476) merged on September 25, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/155476) over 4 days, 489 additions and 99 deletions in 4 files</sub>
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Hugh Hou](https://github.com/hyhugh)** &mdash; Preserve transform when using *Gradient:withOpacity
   <sub>[#154908](https://github.com/flutter/flutter/pull/154908) merged on September 24, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/154908) over 2 weeks, 85 additions and 1 deletion in 2 files</sub>
@@ -92,9 +92,9 @@
   <sub>[#155786](https://github.com/flutter/flutter/pull/155786) merged on September 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155786) over 3 hours, 132 additions and 132 deletions in 64 files</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Use flutter from in same repo (not path) in `generate_gradle_lockfiles.dart` (again)
-  <sub>[#155794](https://github.com/flutter/flutter/pull/155794) merged on September 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155794) over 55 minutes, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert macOS framework artifact contains xcprivacy manifest
+  <sub>[#155189](https://github.com/flutter/flutter/pull/155189) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155189) over 1 week, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Use flutter from in same repo (not path) in `generate_gradle_lockfiles.dart`
   <sub>[#155790](https://github.com/flutter/flutter/pull/155790) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155790) over 1 hour, 5 additions and 1 deletion in 1 file</sub>
@@ -120,9 +120,9 @@
   <sub>[#155579](https://github.com/flutter/flutter/pull/155579) merged on September 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155579) over 1 hour, 4 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Assert macOS framework artifact contains xcprivacy manifest
-  <sub>[#155189](https://github.com/flutter/flutter/pull/155189) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155189) over 1 week, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Use flutter from in same repo (not path) in `generate_gradle_lockfiles.dart` (again)
+  <sub>[#155794](https://github.com/flutter/flutter/pull/155794) merged on September 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155794) over 55 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; reduce warnings inside flutter.groovy file #2
   <sub>[#155628](https://github.com/flutter/flutter/pull/155628) merged on September 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155628) over 22 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -135,6 +135,10 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client
   <sub>[#155249](https://github.com/flutter/flutter/pull/155249) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155249) over 1 week, 37 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Jonathan Steele](https://github.com/iNoles)** &mdash; Fix typo on theme_data
+  <sub>[#155644](https://github.com/flutter/flutter/pull/155644) merged on September 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155644) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Reland "[flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code) (#155430)"
   <sub>[#155745](https://github.com/flutter/flutter/pull/155745) merged on September 26, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/155745) over 1 hour, 1165 additions and 2810 deletions in 19 files</sub>
