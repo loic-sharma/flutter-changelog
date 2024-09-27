@@ -393,7 +393,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-54 commits.
+55 commits.
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid
   <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub>
@@ -468,33 +468,33 @@
   <sub>[#55398](https://github.com/flutter/engine/pull/55398) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55398) over 3 hours, 46 additions and 0 deletions in 8 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes blend + color filter
-  <sub>[#55411](https://github.com/flutter/engine/pull/55411) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55411) over 21 hours, 57 additions and 1 deletion in 3 files</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic culling checks during text frame dispatcher.
-  <sub>[#55168](https://github.com/flutter/engine/pull/55168) merged on September 24, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/55168) over 1 week, 111 additions and 22 deletions in 10 files</sub>
-  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a boolean that exposes rotation/crop metadata capability.
+  <sub>[#55434](https://github.com/flutter/engine/pull/55434) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55434) over 3 hours, 60 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move lint suppression from `baseline.xml` to `@SuppressLint`.
   <sub>[#55447](https://github.com/flutter/engine/pull/55447) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55447) over 45 minutes, 1 addition and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a boolean that exposes rotation/crop metadata capability.
-  <sub>[#55434](https://github.com/flutter/engine/pull/55434) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55434) over 3 hours, 60 additions and 0 deletions in 5 files</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes blend + color filter
+  <sub>[#55411](https://github.com/flutter/engine/pull/55411) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55411) over 21 hours, 57 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer#onSurfaceAvailable`, deprecate `onSurfaceCreated`.
+  <sub>[#55418](https://github.com/flutter/engine/pull/55418) merged on September 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55418) over 14 hours, 71 additions and 12 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added assert for host buffer allocation.
   <sub>[#55395](https://github.com/flutter/engine/pull/55395) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55395) over 36 minutes, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer#onSurfaceAvailable`, deprecate `onSurfaceCreated`.
-  <sub>[#55418](https://github.com/flutter/engine/pull/55418) merged on September 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55418) over 14 hours, 71 additions and 12 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont use blend shader for simple drawAtlas calls.
   <sub>[#55420](https://github.com/flutter/engine/pull/55420) merged on September 27, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/55420) over 1 day, 417 additions and 198 deletions in 12 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move each dart GN rule to a standalone file.
+  <sub>[#55404](https://github.com/flutter/engine/pull/55404) merged on September 24, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55404) over 3 hours, 427 additions and 397 deletions in 4 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made YAML version of vscode workspace to avoid redundancy
   <sub>[#55322](https://github.com/flutter/engine/pull/55322) merged on September 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/engine/pull/55322) over 3 days, 464 additions and 17 deletions in 5 files</sub>
@@ -508,9 +508,9 @@
   <sub>[#55158](https://github.com/flutter/engine/pull/55158) merged on September 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55158) over 1 week, 8 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move each dart GN rule to a standalone file.
-  <sub>[#55404](https://github.com/flutter/engine/pull/55404) merged on September 24, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55404) over 3 hours, 427 additions and 397 deletions in 4 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic culling checks during text frame dispatcher.
+  <sub>[#55168](https://github.com/flutter/engine/pull/55168) merged on September 24, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/55168) over 1 week, 111 additions and 22 deletions in 10 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add `format` field to EGL surface backing store
   <sub>[#54499](https://github.com/flutter/engine/pull/54499) merged on September 27, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/54499) over 1 month, 78 additions and 4 deletions in 5 files</sub>
@@ -544,13 +544,9 @@
   <sub>[#55464](https://github.com/flutter/engine/pull/55464) merged on September 26, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/55464) over 3 hours, 1184 additions and 656 deletions in 10 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; cipd: add mobileprovision CIPD package
-  <sub>[#55449](https://github.com/flutter/engine/pull/55449) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55449) over 17 hours, 122 additions and 0 deletions in 4 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixes color filter + advanced blends
-  <sub>[#55448](https://github.com/flutter/engine/pull/55448) merged on September 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55448) over 17 hours, 67 additions and 6 deletions in 3 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] sprinkle some null checks on BringLayersIntoView.
+  <sub>[#55334](https://github.com/flutter/engine/pull/55334) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55334) over 1 day, 87 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] set platform thread name to ui.
   <sub>[#55362](https://github.com/flutter/engine/pull/55362) merged on September 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55362) over 2 days, 25 additions and 20 deletions in 3 files</sub>
@@ -568,10 +564,6 @@
   <sub>[#55435](https://github.com/flutter/engine/pull/55435) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55435) over 51 minutes, 105 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete expensive trace event.
-  <sub>[#55400](https://github.com/flutter/engine/pull/55400) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55400) over 37 minutes, 0 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Listen for uncaught exceptions during loading of a web test suite in Chrome
   <sub>[#55166](https://github.com/flutter/engine/pull/55166) merged on September 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55166) over 2 weeks, 56 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
@@ -580,17 +572,29 @@
   <sub>[#55474](https://github.com/flutter/engine/pull/55474) merged on September 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55474) over 2 hours, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline dependencies on `build_root` for a constant.
+  <sub>[#55441](https://github.com/flutter/engine/pull/55441) merged on September 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55441) over 22 hours, 3 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete expensive trace event.
+  <sub>[#55400](https://github.com/flutter/engine/pull/55400) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55400) over 37 minutes, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove usage of VBB when allocating vertices of a fixed size.
   <sub>[#55235](https://github.com/flutter/engine/pull/55235) merged on September 23, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/55235) over 1 week, 190 additions and 182 deletions in 13 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] sprinkle some null checks on BringLayersIntoView.
-  <sub>[#55334](https://github.com/flutter/engine/pull/55334) merged on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55334) over 1 day, 87 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; cipd: add mobileprovision CIPD package
+  <sub>[#55449](https://github.com/flutter/engine/pull/55449) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55449) over 17 hours, 122 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove and inline dependencies on `build_root` for a constant.
-  <sub>[#55441](https://github.com/flutter/engine/pull/55441) merged on September 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55441) over 22 hours, 3 additions and 9 deletions in 3 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixes color filter + advanced blends
+  <sub>[#55448](https://github.com/flutter/engine/pull/55448) merged on September 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55448) over 17 hours, 67 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Zuckjet](https://github.com/Zuckjet)** &mdash; [docs] Fix broken links in docs/
+  <sub>[#55350](https://github.com/flutter/engine/pull/55350) merged on September 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55350) over 4 days, 7 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Remove deprecated and unnecessary parameters from fuchsia*archive
   <sub>[#55324](https://github.com/flutter/engine/pull/55324) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55324) over 3 days, 65 additions and 139 deletions in 9 files</sub>
