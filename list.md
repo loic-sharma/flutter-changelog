@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-26 commits.
+27 commits.
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub>
@@ -66,6 +66,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add `WidgetStateProperty` example and tests for it.
   <sub>[#155315](https://github.com/flutter/flutter/pull/155315) merged on September 24, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155315) over 6 days, 132 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Use flutter from in same repo (not path) in `generate_gradle_lockfiles.dart` (again)
+  <sub>[#155794](https://github.com/flutter/flutter/pull/155794) merged on September 27, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155794) over 55 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Use flutter from in same repo (not path) in `generate_gradle_lockfiles.dart`
   <sub>[#155790](https://github.com/flutter/flutter/pull/155790) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155790) over 1 hour, 5 additions and 1 deletion in 1 file</sub>
