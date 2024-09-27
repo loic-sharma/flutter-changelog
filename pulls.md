@@ -80,6 +80,3 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed<br />
   <sub>[#155757](https://github.com/flutter/flutter/pull/155757) opened on on September 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155757) 192 additions and 57 deletions in 5 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Move platform specific text selection behavior out of styled TextField classes<br />
-  <sub>[#155774](https://github.com/flutter/flutter/pull/155774) opened on on September 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/155774) 236 additions and 283 deletions in 4 files</sub><br />
-
