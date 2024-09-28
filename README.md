@@ -4,7 +4,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-36 commits.
+37 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Throw StateError when implicitView is null on `wrapWithDefaultView`.<br />
   <sub>[#155734](https://github.com/flutter/flutter/pull/155734) merged on September 27, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155734) over 22 hours, 106 additions and 0 deletions in 3 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code)<br />
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes column text width calculation in CupertinoDatePicker<br />
+  <sub>[#151128](https://github.com/flutter/flutter/pull/151128) merged on September 28, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/151128) over 2 months, 90 additions and 39 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; added ability to configure shadow in banner<br />
   <sub>[#155296](https://github.com/flutter/flutter/pull/155296) merged on September 26, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/155296) over 1 week, 49 additions and 6 deletions in 2 files</sub><br />
@@ -53,13 +57,13 @@
   <sub>[#155276](https://github.com/flutter/flutter/pull/155276) merged on September 27, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155276) over 1 week, 69 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
-  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) merged on September 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/155219) over 1 week, 172 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize TabBarTheme<br />
   <sub>[#155476](https://github.com/flutter/flutter/pull/155476) merged on September 25, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/155476) over 4 days, 489 additions and 99 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `SearchAnchor` disposing `SearchController` while it is still used<br />
+  <sub>[#155219](https://github.com/flutter/flutter/pull/155219) merged on September 25, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/155219) over 1 week, 172 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[nick9822](https://github.com/nick9822)** &mdash; fixed keyboardDismissBehavior on scroll without a drag<br />
   <sub>[#154675](https://github.com/flutter/flutter/pull/154675) merged on September 24, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154675) over 2 weeks, 46 additions and 1 deletion in 2 files</sub><br />
@@ -93,9 +97,9 @@
   <sub>[#155820](https://github.com/flutter/flutter/pull/155820) merged on September 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155820) over 45 minutes, 3 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu rendered behind AppBar<br />
-  <sub>[#155539](https://github.com/flutter/flutter/pull/155539) merged on September 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155539) over 3 days, 72 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
+  <sub>[#155432](https://github.com/flutter/flutter/pull/155432) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155432) over 4 days, 13 additions and 171 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Redo flutter engine flutter autoroll bd3d1990 485b 419c 8c55 b27e3eeb15ed 1727117767<br />
   <sub>[#155579](https://github.com/flutter/flutter/pull/155579) merged on September 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155579) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
@@ -117,9 +121,9 @@
   <sub>[#155501](https://github.com/flutter/flutter/pull/155501) merged on September 24, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/155501) over 2 days, 229 additions and 109 deletions in 49 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
-  <sub>[#155432](https://github.com/flutter/flutter/pull/155432) merged on September 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155432) over 4 days, 13 additions and 171 deletions in 13 files</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu rendered behind AppBar<br />
+  <sub>[#155539](https://github.com/flutter/flutter/pull/155539) merged on September 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155539) over 3 days, 72 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Roll packages manually<br />
   <sub>[#155786](https://github.com/flutter/flutter/pull/155786) merged on September 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155786) over 3 hours, 132 additions and 132 deletions in 64 files</sub><br />
@@ -133,10 +137,6 @@
   <sub>[#155790](https://github.com/flutter/flutter/pull/155790) merged on September 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155790) over 1 hour, 5 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client<br />
-  <sub>[#155249](https://github.com/flutter/flutter/pull/155249) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155249) over 1 week, 37 additions and 7 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
 * **[Jonathan Steele](https://github.com/iNoles)** &mdash; Fix typo on theme_data<br />
   <sub>[#155644](https://github.com/flutter/flutter/pull/155644) merged on September 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155644) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
@@ -148,6 +148,10 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; Fix some broken links in DAP readme<br />
   <sub>[#155600](https://github.com/flutter/flutter/pull/155600) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155600) over 3 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tools] Fix encoded stderr in "dart.log" from debug adapter to client<br />
+  <sub>[#155249](https://github.com/flutter/flutter/pull/155249) merged on September 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155249) over 1 week, 37 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Reland "[flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code) (#155430)"<br />
   <sub>[#155745](https://github.com/flutter/flutter/pull/155745) merged on September 26, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/155745) over 1 hour, 1165 additions and 2810 deletions in 19 files</sub><br />
