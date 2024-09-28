@@ -86,3 +86,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Optimize `Overlay` sample to avoid overflow<br />
   <sub>[#155861](https://github.com/flutter/flutter/pull/155861) opened on on September 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155861) 75 additions and 55 deletions in 2 files</sub><br />
 
+* **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget<br />
+  <sub>[#155864](https://github.com/flutter/flutter/pull/155864) opened on on September 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155864) 2 additions and 5 deletions in 7 files</sub><br />
+
