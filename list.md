@@ -518,7 +518,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Fix npe during skia dispatch of drawAtlas
-  <sub>[#55497](https://github.com/flutter/engine/pull/55497) merged on September 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55497) over 21 hours, 38 additions and 5 deletions in 2 files</sub>
+  <sub>[#55497](https://github.com/flutter/engine/pull/55497) merged on September 28, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/55497) over 21 hours, 38 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic culling checks during text frame dispatcher.
