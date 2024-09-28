@@ -1013,7 +1013,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] fix int bug<br />
-  <sub>[#7725](https://github.com/flutter/packages/pull/7725) merged on September 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7725) over 8 hours, 136 additions and 35 deletions in 9 files</sub><br />
+  <sub>[#7725](https://github.com/flutter/packages/pull/7725) merged on September 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7725) over 8 hours, 136 additions and 35 deletions in 9 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Ellet](https://github.com/EchoEllet)** &mdash; [pigeon] update deprecated command in README of the example<br />
