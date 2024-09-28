@@ -84,7 +84,7 @@
   <sub>[#155757](https://github.com/flutter/flutter/pull/155757) opened on on September 26, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/155757) 192 additions and 57 deletions in 5 files</sub><br />
 
 * **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget<br />
-  <sub>[#155864](https://github.com/flutter/flutter/pull/155864) opened on on September 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155864) 7 additions and 6 deletions in 7 files</sub><br />
+  <sub>[#155864](https://github.com/flutter/flutter/pull/155864) opened on on September 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155864) 7 additions and 6 deletions in 7 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add deprecation warning for "flutter create --ios-language"<br />
   <sub>[#155867](https://github.com/flutter/flutter/pull/155867) opened on on September 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155867) 41 additions and 1 deletion in 3 files</sub><br />
