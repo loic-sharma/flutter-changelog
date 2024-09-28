@@ -83,3 +83,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed<br />
   <sub>[#155757](https://github.com/flutter/flutter/pull/155757) opened on on September 26, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/155757) 192 additions and 57 deletions in 5 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Optimize `Overlay` sample to avoid overflow<br />
+  <sub>[#155861](https://github.com/flutter/flutter/pull/155861) opened on on September 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155861) 75 additions and 55 deletions in 2 files</sub><br />
+
