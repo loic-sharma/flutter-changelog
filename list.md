@@ -958,7 +958,7 @@
 
 ### September 21, 2024 to September 27, 2024
 
-12 commits.
+13 commits.
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [package:flutter_lints] update the dep on `package:lints` to 5.0.0 and the sdk dependency to 3.5.0
   <sub>[#7704](https://github.com/flutter/packages/pull/7704) merged on September 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7704) over 2 hours, 12 additions and 8 deletions in 2 files</sub>
@@ -998,6 +998,10 @@
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [flutter_lints] remove prefer_const_constructors, prefer_const_declarations, prefer_const_literals_to_create_immutables
   <sub>[#7688](https://github.com/flutter/packages/pull/7688) merged on September 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7688) over 1 day, 4 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] fix int bug
+  <sub>[#7725](https://github.com/flutter/packages/pull/7725) merged on September 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7725) over 8 hours, 136 additions and 35 deletions in 9 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Ellet](https://github.com/EchoEllet)** &mdash; [pigeon] update deprecated command in README of the example
