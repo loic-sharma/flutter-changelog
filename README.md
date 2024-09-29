@@ -15,6 +15,11 @@
   <sub>[#155430](https://github.com/flutter/flutter/pull/155430) merged on September 25, 2024 &mdash; **Extra large:** [47 comments](https://github.com/flutter/flutter/pull/155430) over 5 days, 1163 additions and 2810 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Optimize `Overlay` sample to avoid overflow<br />
+  <sub>[#155861](https://github.com/flutter/flutter/pull/155861) merged on September 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155861) over 8 hours, 75 additions and 55 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/eea6f1d9-e860-4ebd-8d16-2d8f4141e1ec" /><img src="https://github.com/user-attachments/assets/9f8426ba-d541-44a6-8ea6-2e34636b7e82"  /></details></sub>
+
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes column text width calculation in CupertinoDatePicker<br />
   <sub>[#151128](https://github.com/flutter/flutter/pull/151128) merged on September 28, 2024 &mdash; **Small:** [49 comments](https://github.com/flutter/flutter/pull/151128) over 2 months, 90 additions and 39 deletions in 2 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -23,11 +28,6 @@
   <sub>[#155296](https://github.com/flutter/flutter/pull/155296) merged on September 26, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/155296) over 1 week, 49 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub><br />
   <sub><details><summary>2 images...</summary>![before](https://github.com/user-attachments/assets/d8b8e826-bab4-462a-a7ac-191e1597c3c6)![after](https://github.com/user-attachments/assets/3c4b57e7-182a-4749-af72-b82fdaf25013)</details></sub>
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Optimize `Overlay` sample to avoid overflow<br />
-  <sub>[#155861](https://github.com/flutter/flutter/pull/155861) merged on September 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155861) over 8 hours, 75 additions and 55 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
-  <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/eea6f1d9-e860-4ebd-8d16-2d8f4141e1ec" /><img src="https://github.com/user-attachments/assets/9f8426ba-d541-44a6-8ea6-2e34636b7e82"  /></details></sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move the Linux runner into a subdirectory<br />
   <sub>[#153812](https://github.com/flutter/flutter/pull/153812) merged on September 25, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/153812) over 1 month, 34 additions and 24 deletions in 6 files</sub><br />
