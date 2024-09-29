@@ -89,3 +89,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add deprecation warning for "flutter create --ios-language"<br />
   <sub>[#155867](https://github.com/flutter/flutter/pull/155867) opened on on September 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155867) 41 additions and 1 deletion in 3 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `RenderParagraph`s `_SelectableFragment.boundingBoxes` should consider max line height<br />
+  <sub>[#155892](https://github.com/flutter/flutter/pull/155892) opened on on September 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155892) 9 additions and 11 deletions in 2 files</sub><br />
+
