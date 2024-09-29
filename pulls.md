@@ -21,7 +21,7 @@
   <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/154217) 257 additions and 44 deletions in 6 files</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; [Docs] `CupertinoListTile` API Example<br />
-  <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/154548) 107 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/154548) 104 additions and 0 deletions in 3 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
   <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
