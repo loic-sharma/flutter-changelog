@@ -4,11 +4,15 @@
 
 ### September 28, 2024 to October 4, 2024
 
-1 commits.
+2 commits.
 
 * **[lizhuo](https://github.com/huanglizhuo)** &mdash; fix: support android 15 16k page size for template plugin_ffi <br />
   <sub>[#155508](https://github.com/flutter/flutter/pull/155508) merged on September 30, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/155508) over 1 week, 32 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Hossein Yousefi](https://github.com/HosseinYousefi)</sub><br />
+
+* **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget<br />
+  <sub>[#155864](https://github.com/flutter/flutter/pull/155864) merged on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) over 2 days, 7 additions and 6 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 ### September 21, 2024 to September 27, 2024
 

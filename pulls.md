@@ -26,9 +26,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
   <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
 
-* **[SohanRaidev](https://github.com/SohanRaidev)** &mdash; Move FlutterLogo out of Material library<br />
-  <sub>[#154711](https://github.com/flutter/flutter/pull/154711) opened on on September 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154711) 4 additions and 4 deletions in 6 files</sub><br />
-
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed_carousel_optinal_tap_event<br />
   <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -79,9 +76,6 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Inherited Theme: zero rebuilds<br />
   <sub>[#155699](https://github.com/flutter/flutter/pull/155699) opened on on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155699) 105 additions and 0 deletions in 1 file</sub><br />
-
-* **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget<br />
-  <sub>[#155864](https://github.com/flutter/flutter/pull/155864) opened on on September 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) 7 additions and 6 deletions in 7 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add deprecation warning for "flutter create --ios-language"<br />
   <sub>[#155867](https://github.com/flutter/flutter/pull/155867) opened on on September 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155867) 41 additions and 1 deletion in 3 files</sub><br />
