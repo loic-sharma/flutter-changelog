@@ -57,7 +57,7 @@
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds dynamic management of TapRegion on navigation<br />
-  <sub>[#155297](https://github.com/flutter/flutter/pull/155297) opened on on September 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/155297) 187 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#155297](https://github.com/flutter/flutter/pull/155297) opened on on September 17, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/155297) 187 additions and 2 deletions in 3 files</sub><br />
 
 * **[Frank](https://github.com/Frank3K)** &mdash; Do not handle external requests by service worker (Flutter web)<br />
   <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
