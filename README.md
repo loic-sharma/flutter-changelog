@@ -612,11 +612,15 @@
 
 ### September 28, 2024 to October 4, 2024
 
-1 commits.
+2 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `AdProgressInfo`<br />
   <sub>[#7723](https://github.com/flutter/packages/pull/7723) merged on September 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7723) over 2 days, 462 additions and 23 deletions in 14 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Update Windows Pigeon for non-nullable generics<br />
+  <sub>[#7730](https://github.com/flutter/packages/pull/7730) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7730) over 23 hours, 96 additions and 94 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 ### September 21, 2024 to September 27, 2024
 
