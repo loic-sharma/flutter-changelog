@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### September 28, 2024 to October 4, 2024
+
+1 commits.
+
+* **[lizhuo](https://github.com/huanglizhuo)** &mdash; fix: support android 15 16k page size for template plugin_ffi 
+  <sub>[#155508](https://github.com/flutter/flutter/pull/155508) merged on September 30, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/155508) over 1 week, 32 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Hossein Yousefi](https://github.com/HosseinYousefi)</sub>
+
 ### September 21, 2024 to September 27, 2024
 
-37 commits.
+<details>
+<summary>37 commits...</summary>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; Throw StateError when implicitView is null on `wrapWithDefaultView`.
   <sub>[#155734](https://github.com/flutter/flutter/pull/155734) merged on September 27, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155734) over 22 hours, 106 additions and 0 deletions in 3 files</sub>
@@ -156,6 +165,8 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Reland "[flutter_tools] Cleanup of native asset related code (removes around 50% of the native asset related code) (#155430)"
   <sub>[#155745](https://github.com/flutter/flutter/pull/155745) merged on September 26, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/155745) over 1 hour, 1165 additions and 2810 deletions in 19 files</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
+
+</details>
 
 ### September 14, 2024 to September 20, 2024
 
