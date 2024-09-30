@@ -83,3 +83,6 @@
 * **[Graham Jenson](https://github.com/grahamjenson)** &mdash; Fix error where possible null is being asserted in rendering paragraph<br />
   <sub>[#155920](https://github.com/flutter/flutter/pull/155920) opened on on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155920) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[miechoo](https://github.com/miechoo)** &mdash; Tests of StarBorder class<br />
+  <sub>[#155956](https://github.com/flutter/flutter/pull/155956) opened on on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155956) 134 additions and 1 deletion in 2 files</sub><br />
+
