@@ -613,7 +613,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] fix int bug
-  <sub>[#7725](https://github.com/flutter/packages/pull/7725) merged on September 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7725) over 8 hours, 136 additions and 35 deletions in 9 files</sub>
+  <sub>[#7725](https://github.com/flutter/packages/pull/7725) merged on September 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7725) over 8 hours, 136 additions and 35 deletions in 9 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Ellet](https://github.com/EchoEllet)** &mdash; [pigeon] update deprecated command in README of the example
