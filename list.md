@@ -222,9 +222,18 @@
 
 ## flutter/engine
 
+### September 28, 2024 to October 4, 2024
+
+1 commits.
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterHeadlessDartRunner to ARC
+  <sub>[#55502](https://github.com/flutter/engine/pull/55502) merged on September 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55502) over 2 days, 5 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
 ### September 21, 2024 to September 27, 2024
 
-63 commits.
+<details>
+<summary>63 commits...</summary>
 
 * **[Mahmut Taşkıran](https://github.com/mahmuttaskiran)** &mdash; Add a check for the surface if it is valid
   <sub>[#55277](https://github.com/flutter/engine/pull/55277) merged on September 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55277) over 6 days, 39 additions and 0 deletions in 2 files</sub>
@@ -482,6 +491,8 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reland: Update Color to do all calculations with floating point components
   <sub>[#55231](https://github.com/flutter/engine/pull/55231) merged on September 23, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55231) over 1 week, 177 additions and 138 deletions in 12 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+</details>
 
 ### September 14, 2024 to September 20, 2024
 
