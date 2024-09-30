@@ -240,7 +240,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] hash even less stuff per frame.<br />
-  <sub>[#55092](https://github.com/flutter/engine/pull/55092) merged on September 27, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/engine/pull/55092) over 2 weeks, 402 additions and 205 deletions in 17 files</sub><br />
+  <sub>[#55092](https://github.com/flutter/engine/pull/55092) merged on September 27, 2024 &mdash; **Large:** [27 comments](https://github.com/flutter/engine/pull/55092) over 2 weeks, 402 additions and 205 deletions in 17 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John McDole](https://github.com/jtmcdole)</sub><br />
   <sub><details><summary>2 images...</summary>![flutter_03](https://github.com/user-attachments/assets/be9c4459-f0c8-426c-b152-38861acb207f)![flutter_04](https://github.com/user-attachments/assets/1aa7cbd1-6af7-4020-8966-7e3baaef102b)</details></sub>
 
