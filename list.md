@@ -232,7 +232,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-3 commits.
+4 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterEngineGroup to ARC
   <sub>[#55503](https://github.com/flutter/engine/pull/55503) merged on September 30, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/55503) over 2 days, 17 additions and 30 deletions in 3 files</sub>
@@ -241,6 +241,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterHeadlessDartRunner to ARC
   <sub>[#55502](https://github.com/flutter/engine/pull/55502) merged on September 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55502) over 2 days, 5 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[art-snake](https://github.com/art-snake)** &mdash; fix use_of_uninitialized_value in message_loop_task_queues.cc
+  <sub>[#55520](https://github.com/flutter/engine/pull/55520) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55520) over 9 hours, 1 addition and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland [skwasm] Scene builder optimizations for platform view placement
   <sub>[#55468](https://github.com/flutter/engine/pull/55468) merged on September 30, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/55468) over 3 days, 784 additions and 373 deletions in 10 files</sub>
@@ -606,9 +610,18 @@
 
 ## flutter/packages
 
+### September 28, 2024 to October 4, 2024
+
+1 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `AdProgressInfo`
+  <sub>[#7723](https://github.com/flutter/packages/pull/7723) merged on September 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7723) over 2 days, 462 additions and 23 deletions in 14 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 ### September 21, 2024 to September 27, 2024
 
-13 commits.
+<details>
+<summary>13 commits...</summary>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [package:flutter_lints] update the dep on `package:lints` to 5.0.0 and the sdk dependency to 3.5.0
   <sub>[#7704](https://github.com/flutter/packages/pull/7704) merged on September 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7704) over 2 hours, 12 additions and 8 deletions in 2 files</sub>
@@ -661,6 +674,8 @@
 * **[Lau Ching Jun](https://github.com/chingjun)** &mdash; Update test to not depend on `Color.toString()`
   <sub>[#7701](https://github.com/flutter/packages/pull/7701) merged on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7701) over 16 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+</details>
 
 ### September 14, 2024 to September 20, 2024
 
