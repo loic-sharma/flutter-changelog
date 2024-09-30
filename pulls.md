@@ -81,7 +81,7 @@
   <sub>[#155699](https://github.com/flutter/flutter/pull/155699) opened on on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155699) 105 additions and 0 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed<br />
-  <sub>[#155757](https://github.com/flutter/flutter/pull/155757) opened on on September 26, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/155757) 204 additions and 61 deletions in 5 files</sub><br />
+  <sub>[#155757](https://github.com/flutter/flutter/pull/155757) opened on on September 26, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/155757) 204 additions and 61 deletions in 5 files</sub><br />
 
 * **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget<br />
   <sub>[#155864](https://github.com/flutter/flutter/pull/155864) opened on on September 28, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) 7 additions and 6 deletions in 7 files</sub><br />
