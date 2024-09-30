@@ -4,7 +4,11 @@
 
 ### September 28, 2024 to October 4, 2024
 
-4 commits.
+5 commits.
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Move platform specific text selection behavior out of styled TextField classes<br />
+  <sub>[#155774](https://github.com/flutter/flutter/pull/155774) merged on September 30, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/155774) over 4 days, 236 additions and 283 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `RenderParagraph`s `_SelectableFragment.boundingBoxes` should consider max line height<br />
   <sub>[#155892](https://github.com/flutter/flutter/pull/155892) merged on September 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/155892) over 1 day, 74 additions and 12 deletions in 2 files</sub><br />
