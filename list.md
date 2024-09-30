@@ -228,11 +228,15 @@
 
 ### September 28, 2024 to October 4, 2024
 
-1 commits.
+2 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterHeadlessDartRunner to ARC
   <sub>[#55502](https://github.com/flutter/engine/pull/55502) merged on September 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55502) over 2 days, 5 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Reland [skwasm] Scene builder optimizations for platform view placement
+  <sub>[#55468](https://github.com/flutter/engine/pull/55468) merged on September 30, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/55468) over 3 days, 784 additions and 373 deletions in 10 files</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 ### September 21, 2024 to September 27, 2024
 
