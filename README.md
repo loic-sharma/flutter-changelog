@@ -54,7 +54,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add  magnificationScale to CupertinoMagnifier for Zoom Effect<br />
-  <sub>[#155276](https://github.com/flutter/flutter/pull/155276) merged on September 27, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155276) over 1 week, 69 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#155276](https://github.com/flutter/flutter/pull/155276) merged on September 27, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155276) over 1 week, 69 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize TabBarTheme<br />
