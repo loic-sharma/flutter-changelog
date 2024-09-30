@@ -4,7 +4,11 @@
 
 ### September 28, 2024 to October 4, 2024
 
-3 commits.
+4 commits.
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `RenderParagraph`s `_SelectableFragment.boundingBoxes` should consider max line height
+  <sub>[#155892](https://github.com/flutter/flutter/pull/155892) merged on September 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/155892) over 1 day, 74 additions and 12 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; when `ResidentRunner.tryInitLogReader` fails, only log warning on Android
   <sub>[#155800](https://github.com/flutter/flutter/pull/155800) merged on September 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155800) over 3 days, 16 additions and 14 deletions in 2 files</sub>
