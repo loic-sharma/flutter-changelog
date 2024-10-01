@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-7 commits.
+8 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `RenderParagraph`s `_SelectableFragment.boundingBoxes` should consider max line height
   <sub>[#155892](https://github.com/flutter/flutter/pull/155892) merged on September 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/155892) over 1 day, 74 additions and 12 deletions in 2 files</sub>
@@ -25,6 +25,10 @@
 * **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget
   <sub>[#155864](https://github.com/flutter/flutter/pull/155864) merged on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) over 2 days, 7 additions and 6 deletions in 7 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable flaky menu test 
+  <sub>[#155968](https://github.com/flutter/flutter/pull/155968) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155968) over 29 minutes, 2 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in input_decorator [prod-leak-fix]
   <sub>[#155885](https://github.com/flutter/flutter/pull/155885) merged on September 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155885) over 2 days, 19 additions and 9 deletions in 1 file</sub>
@@ -757,9 +761,18 @@
 
 ## flutter/website
 
+### September 28, 2024 to October 4, 2024
+
+1 commits.
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating iOS 18 supported feature table
+  <sub>[#11211](https://github.com/flutter/website/pull/11211) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11211) over 47 minutes, 26 additions and 21 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
 ### September 21, 2024 to September 27, 2024
 
-23 commits.
+<details>
+<summary>23 commits...</summary>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add FWE to sidenav
   <sub>[#11171](https://github.com/flutter/website/pull/11171) merged on September 25, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/website/pull/11171) over 1 day, 631 additions and 571 deletions in 17 files</sub>
@@ -853,6 +866,8 @@
 * **[James Williams](https://github.com/jwill)** &mdash; Add `/go/colorscheme-enhancements` design doc redirect
   <sub>[#11174](https://github.com/flutter/website/pull/11174) merged on September 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11174) over 23 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### September 14, 2024 to September 20, 2024
 
