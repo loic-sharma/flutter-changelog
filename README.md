@@ -763,7 +763,11 @@
 
 ### September 28, 2024 to October 4, 2024
 
-4 commits.
+6 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to new 11ty beta release<br />
+  <sub>[#11210](https://github.com/flutter/website/pull/11210) merged on October 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11210) over 15 hours, 94 additions and 84 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update lint package versions<br />
   <sub>[#11207](https://github.com/flutter/website/pull/11207) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11207) over 4 hours, 9 additions and 7 deletions in 4 files</sub><br />
@@ -776,6 +780,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use our standard footnote support for 'Inside Flutter' doc<br />
   <sub>[#11209](https://github.com/flutter/website/pull/11209) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11209) over 4 hours, 21 additions and 22 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; More tweaking of iOS docs<br />
+  <sub>[#11213](https://github.com/flutter/website/pull/11213) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11213) over 11 hours, 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating iOS 18 supported feature table<br />
   <sub>[#11211](https://github.com/flutter/website/pull/11211) merged on October 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11211) over 47 minutes, 26 additions and 21 deletions in 1 file</sub><br />
