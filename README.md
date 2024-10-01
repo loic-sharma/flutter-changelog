@@ -668,7 +668,11 @@
 
 ### September 28, 2024 to October 4, 2024
 
-5 commits.
+6 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Update Pigeon in iOS and Android<br />
+  <sub>[#7724](https://github.com/flutter/packages/pull/7724) merged on October 1, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/7724) over 3 days, 627 additions and 547 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `AdProgressInfo`<br />
   <sub>[#7723](https://github.com/flutter/packages/pull/7723) merged on September 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7723) over 2 days, 462 additions and 23 deletions in 14 files</sub><br />
