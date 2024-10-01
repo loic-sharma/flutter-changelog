@@ -87,5 +87,5 @@
   <sub>[#156002](https://github.com/flutter/flutter/pull/156002) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156002) 42 additions and 4 deletions in 2 files</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update flutter create generated projects to use package:flutter_lints 5.0.0<br />
-  <sub>[#156011](https://github.com/flutter/flutter/pull/156011) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156011) 7 additions and 7 deletions in 6 files</sub><br />
+  <sub>[#156011](https://github.com/flutter/flutter/pull/156011) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156011) 8 additions and 10 deletions in 7 files</sub><br />
 
