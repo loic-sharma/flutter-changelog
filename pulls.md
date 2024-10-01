@@ -41,9 +41,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Stop specifying ndk version in android templates/tests<br />
   <sub>[#154961](https://github.com/flutter/flutter/pull/154961) opened on on September 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154961) 4 additions and 24 deletions in 17 files</sub><br />
 
-* **[Philip Kannegaard Hayes](https://github.com/phlip9)** &mdash; fix: cleanup xcode_backend.sh to fix iOS build w/ `NixOS/nixpkgs` flutter<br />
-  <sub>[#155139](https://github.com/flutter/flutter/pull/155139) opened on on September 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155139) 4 additions and 21 deletions in 1 file</sub><br />
-
 * **[HongeSun](https://github.com/hongeSunCoder)** &mdash; correct wrong git commands<br />
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -88,4 +85,7 @@
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland `TabBarTheme` normalization<br />
   <sub>[#155969](https://github.com/flutter/flutter/pull/155969) opened on on September 30, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/155969) 489 additions and 99 deletions in 4 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark slow Mac builds as unflaky<br />
+  <sub>[#155979](https://github.com/flutter/flutter/pull/155979) opened on on October 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155979) 0 additions and 8 deletions in 1 file</sub><br />
 
