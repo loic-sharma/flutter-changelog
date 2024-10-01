@@ -555,14 +555,14 @@
 <details>
 <summary>16 commits...</summary>
 
+* **[Callum Moffat](https://github.com/moffatman)** &mdash; [ios] Update gesture position on every event<br />
+  <sub>[#55285](https://github.com/flutter/engine/pull/55285) merged on September 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/55285) over 5 hours, 13 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Expose a single-header C API to Impellers Display-List layer.<br />
   <sub>[#55238](https://github.com/flutter/engine/pull/55238) merged on September 18, 2024 &mdash; **Extra large:** [24 comments](https://github.com/flutter/engine/pull/55238) over 1 day, 4320 additions and 13 deletions in 47 files</sub><br />
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1107" alt="Screenshot 2024-09-12 at 2 55 14 PM" src="https://github.com/user-attachments/assets/e1532dba-487e-4af1-9442-1005a8f52d8d"></details></sub>
-
-* **[Callum Moffat](https://github.com/moffatman)** &mdash; [ios] Update gesture position on every event<br />
-  <sub>[#55285](https://github.com/flutter/engine/pull/55285) merged on September 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/55285) over 5 hours, 13 additions and 10 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add golden test for rendering a triangle.<br />
   <sub>[#55262](https://github.com/flutter/engine/pull/55262) merged on September 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55262) over 50 minutes, 85 additions and 2 deletions in 2 files</sub><br />

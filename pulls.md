@@ -9,7 +9,7 @@
   <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153355) 238 additions and 7 deletions in 9 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks<br />
-  <sub>[#153368](https://github.com/flutter/flutter/pull/153368) opened on on August 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153368) 183 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#153368](https://github.com/flutter/flutter/pull/153368) opened on on August 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153368) 183 additions and 0 deletions in 2 files</sub><br />
 
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] Fix formatting with multiple locale<br />
   <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/153459) 390 additions and 43 deletions in 4 files</sub><br />
@@ -78,7 +78,7 @@
   <sub>[#155867](https://github.com/flutter/flutter/pull/155867) opened on on September 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155867) 40 additions and 1 deletion in 3 files</sub><br />
 
 * **[Graham Jenson](https://github.com/grahamjenson)** &mdash; Fix error where possible null is being asserted in rendering paragraph<br />
-  <sub>[#155920](https://github.com/flutter/flutter/pull/155920) opened on on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155920) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#155920](https://github.com/flutter/flutter/pull/155920) opened on on September 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155920) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Tests of StarBorder class<br />
   <sub>[#155956](https://github.com/flutter/flutter/pull/155956) opened on on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155956) 134 additions and 1 deletion in 2 files</sub><br />
