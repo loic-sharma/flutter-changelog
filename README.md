@@ -692,7 +692,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-6 commits.
+7 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Update Pigeon in iOS and Android<br />
   <sub>[#7724](https://github.com/flutter/packages/pull/7724) merged on October 1, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/7724) over 3 days, 627 additions and 547 deletions in 20 files</sub><br />
@@ -701,6 +701,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `AdProgressInfo`<br />
   <sub>[#7723](https://github.com/flutter/packages/pull/7723) merged on September 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7723) over 2 days, 462 additions and 23 deletions in 14 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add flutter frame timings to benchmark metrics<br />
+  <sub>[#7759](https://github.com/flutter/packages/pull/7759) merged on October 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7759) over 2 hours, 131 additions and 36 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Replace `initialPage` parameter with `benchmarkPath`<br />
   <sub>[#7743](https://github.com/flutter/packages/pull/7743) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7743) over 4 hours, 115 additions and 57 deletions in 15 files</sub><br />
