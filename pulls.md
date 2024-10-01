@@ -86,6 +86,3 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland `TabBarTheme` normalization<br />
   <sub>[#155969](https://github.com/flutter/flutter/pull/155969) opened on on September 30, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/155969) 489 additions and 99 deletions in 4 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark slow Mac builds as unflaky<br />
-  <sub>[#155979](https://github.com/flutter/flutter/pull/155979) opened on on October 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155979) 0 additions and 8 deletions in 1 file</sub><br />
-
