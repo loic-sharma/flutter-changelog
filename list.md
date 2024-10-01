@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-9 commits.
+10 commits.
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub>
@@ -33,6 +33,10 @@
 * **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget
   <sub>[#155864](https://github.com/flutter/flutter/pull/155864) merged on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) over 2 days, 7 additions and 6 deletions in 7 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool][android] Allow --target-platform work properly with --debug mode
+  <sub>[#154476](https://github.com/flutter/flutter/pull/154476) merged on October 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154476) over 1 month, 189 additions and 47 deletions in 5 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Andrew Kolos](https://github.com/andrewkolos), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in input_decorator [prod-leak-fix]
   <sub>[#155885](https://github.com/flutter/flutter/pull/155885) merged on September 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155885) over 2 days, 19 additions and 9 deletions in 1 file</sub>
@@ -652,7 +656,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-4 commits.
+5 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `AdProgressInfo`
   <sub>[#7723](https://github.com/flutter/packages/pull/7723) merged on September 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7723) over 2 days, 462 additions and 23 deletions in 14 files</sub>
@@ -661,6 +665,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Replace `initialPage` parameter with `benchmarkPath`
   <sub>[#7743](https://github.com/flutter/packages/pull/7743) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7743) over 4 hours, 115 additions and 57 deletions in 15 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Correct assumption about preview being correctly rotated by default on API 29
+  <sub>[#7714](https://github.com/flutter/packages/pull/7714) merged on October 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7714) over 4 days, 17 additions and 11 deletions in 4 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Change the location of where the AdsLoader is initialized
   <sub>[#7721](https://github.com/flutter/packages/pull/7721) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7721) over 3 days, 85 additions and 83 deletions in 6 files</sub>
