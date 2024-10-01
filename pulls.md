@@ -86,3 +86,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; fix ReorderableList not passing in item extent builder<br />
   <sub>[#155994](https://github.com/flutter/flutter/pull/155994) opened on on October 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155994) 47 additions and 0 deletions in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Cocoon ] Wait for task results to be received by the task runner before shutting down the task process<br />
+  <sub>[#156002](https://github.com/flutter/flutter/pull/156002) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156002) 42 additions and 4 deletions in 2 files</sub><br />
+
