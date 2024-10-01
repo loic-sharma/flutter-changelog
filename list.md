@@ -39,7 +39,7 @@
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; docs: Update gardener doc with tree-gardener channel
-  <sub>[#155972](https://github.com/flutter/flutter/pull/155972) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155972) over 16 hours, 8 additions and 7 deletions in 1 file</sub>
+  <sub>[#155972](https://github.com/flutter/flutter/pull/155972) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155972) over 16 hours, 8 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in input_decorator [prod-leak-fix]
@@ -787,7 +787,11 @@
 
 ### September 28, 2024 to October 4, 2024
 
-6 commits.
+7 commits.
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; remove link to the test SEO site
+  <sub>[#11215](https://github.com/flutter/website/pull/11215) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11215) over 12 minutes, 1 addition and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to new 11ty beta release
   <sub>[#11210](https://github.com/flutter/website/pull/11210) merged on October 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11210) over 15 hours, 94 additions and 84 deletions in 2 files</sub>
