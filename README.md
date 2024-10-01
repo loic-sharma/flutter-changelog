@@ -18,6 +18,10 @@
   <sub>[#155774](https://github.com/flutter/flutter/pull/155774) merged on September 30, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/155774) over 4 days, 236 additions and 283 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool][android] Allow --target-platform work properly with --debug mode<br />
+  <sub>[#154476](https://github.com/flutter/flutter/pull/154476) merged on October 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154476) over 1 month, 189 additions and 47 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Andrew Kolos](https://github.com/andrewkolos), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; when `ResidentRunner.tryInitLogReader` fails, only log warning on Android<br />
   <sub>[#155800](https://github.com/flutter/flutter/pull/155800) merged on September 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155800) over 3 days, 16 additions and 14 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -33,10 +37,6 @@
 * **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget<br />
   <sub>[#155864](https://github.com/flutter/flutter/pull/155864) merged on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) over 2 days, 7 additions and 6 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub><br />
-
-* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool][android] Allow --target-platform work properly with --debug mode<br />
-  <sub>[#154476](https://github.com/flutter/flutter/pull/154476) merged on October 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154476) over 1 month, 189 additions and 47 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Andrew Kolos](https://github.com/andrewkolos), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in input_decorator [prod-leak-fix]<br />
   <sub>[#155885](https://github.com/flutter/flutter/pull/155885) merged on September 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155885) over 2 days, 19 additions and 9 deletions in 1 file</sub><br />
@@ -260,7 +260,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-8 commits.
+9 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Introduce a GN rule that (explicitly) generates a `dart test` wrapper<br />
   <sub>[#55475](https://github.com/flutter/engine/pull/55475) merged on September 30, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55475) over 3 days, 217 additions and 0 deletions in 6 files</sub><br />
@@ -269,6 +269,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterEngineGroup to ARC<br />
   <sub>[#55503](https://github.com/flutter/engine/pull/55503) merged on September 30, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/55503) over 2 days, 17 additions and 30 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Fix gen_dartcli_call in --no-prebuilt-dart-sdk.<br />
+  <sub>[#55558](https://github.com/flutter/engine/pull/55558) merged on October 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55558) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove the need to use `runZoned` by replacing `print` statements<br />
   <sub>[#55530](https://github.com/flutter/engine/pull/55530) merged on September 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55530) over 2 hours, 55 additions and 56 deletions in 3 files</sub><br />
