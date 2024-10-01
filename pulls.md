@@ -86,3 +86,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland `TabBarTheme` normalization<br />
   <sub>[#155969](https://github.com/flutter/flutter/pull/155969) opened on on September 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/155969) 489 additions and 99 deletions in 4 files</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; fix ReorderableList not passing in item extent builder<br />
+  <sub>[#155994](https://github.com/flutter/flutter/pull/155994) opened on on October 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155994) 47 additions and 0 deletions in 2 files</sub><br />
+
