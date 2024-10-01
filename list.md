@@ -260,11 +260,15 @@
 
 ### September 28, 2024 to October 4, 2024
 
-9 commits.
+10 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Introduce a GN rule that (explicitly) generates a `dart test` wrapper
   <sub>[#55475](https://github.com/flutter/engine/pull/55475) merged on September 30, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55475) over 3 days, 217 additions and 0 deletions in 6 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken), [Jacob MacDonald](https://github.com/jakemac53), [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate off a global test fixture for `build` and `lint`.
+  <sub>[#55540](https://github.com/flutter/engine/pull/55540) merged on October 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55540) over 13 hours, 518 additions and 136 deletions in 4 files</sub>
+  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterEngineGroup to ARC
   <sub>[#55503](https://github.com/flutter/engine/pull/55503) merged on September 30, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/55503) over 2 days, 17 additions and 30 deletions in 3 files</sub>
