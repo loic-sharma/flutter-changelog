@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-11 commits.
+12 commits.
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub>
@@ -37,6 +37,10 @@
 * **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget
   <sub>[#155864](https://github.com/flutter/flutter/pull/155864) merged on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) over 2 days, 7 additions and 6 deletions in 7 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Swift Package Manager] Make available but off on beta and stable
+  <sub>[#155964](https://github.com/flutter/flutter/pull/155964) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155964) over 18 hours, 9 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; docs: Update gardener doc with tree-gardener channel
   <sub>[#155972](https://github.com/flutter/flutter/pull/155972) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155972) over 16 hours, 8 additions and 7 deletions in 1 file</sub>
