@@ -29,9 +29,6 @@
 * **[Md. Yeasin Sheikh](https://github.com/yeasin50)** &mdash; fixed_carousel_optinal_tap_event<br />
   <sub>[#154745](https://github.com/flutter/flutter/pull/154745) opened on on September 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154745) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[野瀬田　裕樹](https://github.com/yuukiw00w)** &mdash; fix NestedScrollView crash with multiple ScrollPositions<br />
-  <sub>[#154808](https://github.com/flutter/flutter/pull/154808) opened on on September 9, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/154808) 136 additions and 3 deletions in 2 files</sub><br />
-
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Restore analyze_snippet_code_test tests.<br />
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154834) 7 additions and 13 deletions in 1 file</sub><br />
 
@@ -46,9 +43,6 @@
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Adds dynamic management of TapRegion on navigation<br />
-  <sub>[#155297](https://github.com/flutter/flutter/pull/155297) opened on on September 17, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155297) 187 additions and 2 deletions in 3 files</sub><br />
 
 * **[Frank](https://github.com/Frank3K)** &mdash; Do not handle external requests by service worker (Flutter web)<br />
   <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
@@ -68,14 +62,11 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Inherited Theme: zero rebuilds<br />
-  <sub>[#155699](https://github.com/flutter/flutter/pull/155699) opened on on September 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155699) 105 additions and 0 deletions in 1 file</sub><br />
-
 * **[miechoo](https://github.com/miechoo)** &mdash; Tests of StarBorder class<br />
   <sub>[#155956](https://github.com/flutter/flutter/pull/155956) opened on on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155956) 134 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Cocoon ] Wait for task results to be received by the task runner before shutting down the task process<br />
-  <sub>[#156002](https://github.com/flutter/flutter/pull/156002) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156002) 42 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#156002](https://github.com/flutter/flutter/pull/156002) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156002) 50 additions and 33 deletions in 2 files</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update flutter create generated projects to use package:flutter_lints 5.0.0<br />
   <sub>[#156011](https://github.com/flutter/flutter/pull/156011) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156011) 8 additions and 10 deletions in 7 files</sub><br />
