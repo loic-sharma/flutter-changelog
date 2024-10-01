@@ -84,5 +84,5 @@
   <sub>[#155956](https://github.com/flutter/flutter/pull/155956) opened on on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155956) 134 additions and 1 deletion in 2 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland `TabBarTheme` normalization<br />
-  <sub>[#155969](https://github.com/flutter/flutter/pull/155969) opened on on September 30, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/155969) 489 additions and 99 deletions in 4 files</sub><br />
+  <sub>[#155969](https://github.com/flutter/flutter/pull/155969) opened on on September 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/155969) 489 additions and 99 deletions in 4 files</sub><br />
 
