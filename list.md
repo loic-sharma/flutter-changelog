@@ -22,13 +22,13 @@
   <sub>[#155508](https://github.com/flutter/flutter/pull/155508) merged on September 30, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/155508) over 1 week, 32 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Hossein Yousefi](https://github.com/HosseinYousefi)</sub>
 
-* **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget
-  <sub>[#155864](https://github.com/flutter/flutter/pull/155864) merged on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) over 2 days, 7 additions and 6 deletions in 7 files</sub>
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable flaky menu test 
   <sub>[#155968](https://github.com/flutter/flutter/pull/155968) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155968) over 29 minutes, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Greg Spencer](https://github.com/gspencergoog), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget
+  <sub>[#155864](https://github.com/flutter/flutter/pull/155864) merged on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) over 2 days, 7 additions and 6 deletions in 7 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in input_decorator [prod-leak-fix]
   <sub>[#155885](https://github.com/flutter/flutter/pull/155885) merged on September 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155885) over 2 days, 19 additions and 9 deletions in 1 file</sub>
