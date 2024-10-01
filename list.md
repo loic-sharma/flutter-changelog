@@ -763,7 +763,19 @@
 
 ### September 28, 2024 to October 4, 2024
 
-1 commits.
+4 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update lint package versions
+  <sub>[#11207](https://github.com/flutter/website/pull/11207) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11207) over 4 hours, 9 additions and 7 deletions in 4 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update old `package:js` mention
+  <sub>[#11208](https://github.com/flutter/website/pull/11208) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11208) over 4 hours, 5 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Use our standard footnote support for 'Inside Flutter' doc
+  <sub>[#11209](https://github.com/flutter/website/pull/11209) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11209) over 4 hours, 21 additions and 22 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating iOS 18 supported feature table
   <sub>[#11211](https://github.com/flutter/website/pull/11211) merged on October 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11211) over 47 minutes, 26 additions and 21 deletions in 1 file</sub>
