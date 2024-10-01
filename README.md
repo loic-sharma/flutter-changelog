@@ -264,11 +264,15 @@
 
 ### September 28, 2024 to October 4, 2024
 
-10 commits.
+11 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Introduce a GN rule that (explicitly) generates a `dart test` wrapper<br />
   <sub>[#55475](https://github.com/flutter/engine/pull/55475) merged on September 30, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55475) over 3 days, 217 additions and 0 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken), [Jacob MacDonald](https://github.com/jakemac53), [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[John Bauman](https://github.com/jbauman42)** &mdash; Log Vulkan loader errors if the instance failed creation on Fuchsia<br />
+  <sub>[#52935](https://github.com/flutter/engine/pull/52935) merged on October 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52935) over 4 months, 58 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate off a global test fixture for `build` and `lint`.<br />
   <sub>[#55540](https://github.com/flutter/engine/pull/55540) merged on October 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55540) over 13 hours, 518 additions and 136 deletions in 4 files</sub><br />
