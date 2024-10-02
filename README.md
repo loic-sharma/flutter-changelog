@@ -4,7 +4,11 @@
 
 ### September 28, 2024 to October 4, 2024
 
-26 commits.
+27 commits.
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Allow mixing route transitions in one app.<br />
+  <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment<br />
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub><br />
@@ -325,7 +329,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-20 commits.
+21 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Introduce a GN rule that (explicitly) generates a `dart test` wrapper<br />
   <sub>[#55475](https://github.com/flutter/engine/pull/55475) merged on September 30, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55475) over 3 days, 217 additions and 0 deletions in 6 files</sub><br />
@@ -342,6 +346,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterEngineGroup to ARC<br />
   <sub>[#55503](https://github.com/flutter/engine/pull/55503) merged on September 30, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/55503) over 2 days, 17 additions and 30 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Check stability against most recent cipd emulator artifact<br />
+  <sub>[#55591](https://github.com/flutter/engine/pull/55591) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55591) over 53 minutes, 6 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added Dart docs<br />
   <sub>[#54506](https://github.com/flutter/engine/pull/54506) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54506) over 1 month, 15 additions and 0 deletions in 2 files</sub><br />
