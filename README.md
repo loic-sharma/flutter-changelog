@@ -308,7 +308,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-16 commits.
+17 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Introduce a GN rule that (explicitly) generates a `dart test` wrapper<br />
   <sub>[#55475](https://github.com/flutter/engine/pull/55475) merged on September 30, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55475) over 3 days, 217 additions and 0 deletions in 6 files</sub><br />
@@ -329,6 +329,10 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added Dart docs<br />
   <sub>[#54506](https://github.com/flutter/engine/pull/54506) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54506) over 1 month, 15 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate accessibility_bridge to ARC<br />
+  <sub>[#55570](https://github.com/flutter/engine/pull/55570) merged on October 2, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55570) over 18 hours, 24 additions and 25 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterPlatformPlugin to ARC<br />
   <sub>[#55571](https://github.com/flutter/engine/pull/55571) merged on October 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55571) over 2 hours, 25 additions and 29 deletions in 2 files</sub><br />
