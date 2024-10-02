@@ -4,11 +4,15 @@
 
 ### September 28, 2024 to October 4, 2024
 
-14 commits.
+15 commits.
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub>
   <sub>Reviewed by: </sub>
+
+* **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add `enableSplash` parameter to `CarouselView`
+  <sub>[#155214](https://github.com/flutter/flutter/pull/155214) merged on October 2, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/155214) over 2 weeks, 172 additions and 15 deletions in 2 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `RenderParagraph`s `_SelectableFragment.boundingBoxes` should consider max line height
   <sub>[#155892](https://github.com/flutter/flutter/pull/155892) merged on September 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/155892) over 1 day, 74 additions and 12 deletions in 2 files</sub>
