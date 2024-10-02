@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-17 commits.
+18 commits.
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub>
@@ -25,6 +25,10 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Move platform specific text selection behavior out of styled TextField classes
   <sub>[#155774](https://github.com/flutter/flutter/pull/155774) merged on September 30, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/155774) over 4 days, 236 additions and 283 deletions in 4 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed
+  <sub>[#155757](https://github.com/flutter/flutter/pull/155757) merged on October 2, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155757) over 5 days, 198 additions and 61 deletions in 5 files</sub>
+  <sub>Reviewed by: [davidhicks980](https://github.com/davidhicks980), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool][android] Allow --target-platform work properly with --debug mode
   <sub>[#154476](https://github.com/flutter/flutter/pull/154476) merged on October 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154476) over 1 month, 189 additions and 47 deletions in 5 files</sub>
