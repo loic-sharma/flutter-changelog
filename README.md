@@ -317,7 +317,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-18 commits.
+19 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Introduce a GN rule that (explicitly) generates a `dart test` wrapper<br />
   <sub>[#55475](https://github.com/flutter/engine/pull/55475) merged on September 30, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55475) over 3 days, 217 additions and 0 deletions in 6 files</sub><br />
@@ -338,6 +338,10 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added Dart docs<br />
   <sub>[#54506](https://github.com/flutter/engine/pull/54506) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54506) over 1 month, 15 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use localized config data for `et test` tests.<br />
+  <sub>[#55573](https://github.com/flutter/engine/pull/55573) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55573) over 19 hours, 67 additions and 48 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use localized config data for `et query` tests.<br />
   <sub>[#55572](https://github.com/flutter/engine/pull/55572) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55572) over 20 hours, 238 additions and 43 deletions in 1 file</sub><br />
@@ -753,7 +757,11 @@
 
 ### September 28, 2024 to October 4, 2024
 
-8 commits.
+9 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Background/resuming `video_player` on Android sends one `initialized` event<br />
+  <sub>[#7722](https://github.com/flutter/packages/pull/7722) merged on October 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7722) over 4 days, 83 additions and 9 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions_android] Update instructions for using a launcher activity with more breadcrumbs<br />
   <sub>[#7716](https://github.com/flutter/packages/pull/7716) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7716) over 5 days, 61 additions and 15 deletions in 3 files</sub><br />
