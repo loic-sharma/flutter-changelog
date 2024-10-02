@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-28 commits.
+29 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Allow mixing route transitions in one app.
   <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub>
@@ -18,6 +18,10 @@
   <sub>[#155867](https://github.com/flutter/flutter/pull/155867) merged on October 2, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155867) over 4 days, 40 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [stuartmorgan](https://github.com/stuartmorgan), [LouiseHsu](https://github.com/LouiseHsu)</sub>
   <sub><details><summary>1 image...</summary>![Screenshot 2024-09-27 at 8 54 16 PM](https://github.com/user-attachments/assets/112be47f-a5bd-4f57-9a9d-c96c7bbc8ac3)</details></sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add `mouseCursor` property to `CupertinoCheckbox`
+  <sub>[#151788](https://github.com/flutter/flutter/pull/151788) merged on October 2, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/151788) over 2 months, 171 additions and 11 deletions in 5 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Taha Tesser](https://github.com/TahaTesser), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` keyboard navigation when entries are filtered empty
   <sub>[#155252](https://github.com/flutter/flutter/pull/155252) merged on October 2, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155252) over 2 weeks, 23 additions and 0 deletions in 2 files</sub>
@@ -799,7 +803,7 @@
   <sub>[#7770](https://github.com/flutter/packages/pull/7770) merged on October 2, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7770) over 33 minutes, 1482 additions and 581 deletions in 13 files</sub>
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add percentile computations to benchmark scores
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add percentile computations to benchmark scores
   <sub>[#7760](https://github.com/flutter/packages/pull/7760) merged on October 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7760) over 23 hours, 485 additions and 305 deletions in 8 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
@@ -819,11 +823,11 @@
   <sub>[#7723](https://github.com/flutter/packages/pull/7723) merged on September 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7723) over 2 days, 462 additions and 23 deletions in 14 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add flutter frame timings to benchmark metrics
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add flutter frame timings to benchmark metrics
   <sub>[#7759](https://github.com/flutter/packages/pull/7759) merged on October 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7759) over 2 hours, 131 additions and 36 deletions in 8 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Replace `initialPage` parameter with `benchmarkPath`
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Replace `initialPage` parameter with `benchmarkPath`
   <sub>[#7743](https://github.com/flutter/packages/pull/7743) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7743) over 4 hours, 115 additions and 57 deletions in 15 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
