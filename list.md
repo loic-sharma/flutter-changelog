@@ -333,7 +333,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-22 commits.
+24 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Introduce a GN rule that (explicitly) generates a `dart test` wrapper
   <sub>[#55475](https://github.com/flutter/engine/pull/55475) merged on September 30, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55475) over 3 days, 217 additions and 0 deletions in 6 files</sub>
@@ -351,6 +351,10 @@
   <sub>[#55563](https://github.com/flutter/engine/pull/55563) merged on October 2, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/engine/pull/55563) over 1 day, 1212 additions and 667 deletions in 13 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all use of `gn desc` global test fixtures.
+  <sub>[#55592](https://github.com/flutter/engine/pull/55592) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55592) over 2 hours, 103 additions and 177 deletions in 4 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterEngineGroup to ARC
   <sub>[#55503](https://github.com/flutter/engine/pull/55503) merged on September 30, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/55503) over 2 days, 17 additions and 30 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
@@ -362,6 +366,10 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added Dart docs
   <sub>[#54506](https://github.com/flutter/engine/pull/54506) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54506) over 1 month, 15 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Add host engine build that exercises no-prebuilt-dart-sdk
+  <sub>[#55589](https://github.com/flutter/engine/pull/55589) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55589) over 3 hours, 34 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] merge aiks directory into impeller/display_list directory.
   <sub>[#55471](https://github.com/flutter/engine/pull/55471) merged on October 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/55471) over 5 days, 206 additions and 235 deletions in 59 files</sub>
