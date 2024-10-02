@@ -57,7 +57,7 @@
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Tests of StarBorder class<br />
-  <sub>[#155956](https://github.com/flutter/flutter/pull/155956) opened on on September 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155956) 139 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#155956](https://github.com/flutter/flutter/pull/155956) opened on on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155956) 139 additions and 1 deletion in 2 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add code sample to the CupertinoMagnifier/CupertinoTextMagnifier<br />
   <sub>[#156028](https://github.com/flutter/flutter/pull/156028) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156028) 137 additions and 0 deletions in 3 files</sub><br />
