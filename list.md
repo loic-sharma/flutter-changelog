@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-21 commits.
+22 commits.
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub>
@@ -45,6 +45,10 @@
 * **[lizhuo](https://github.com/huanglizhuo)** &mdash; fix: support android 15 16k page size for template plugin_ffi 
   <sub>[#155508](https://github.com/flutter/flutter/pull/155508) merged on September 30, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/155508) over 1 week, 32 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Hossein Yousefi](https://github.com/HosseinYousefi)</sub>
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; update flutter create generated projects to use package:flutter_lints 5.0.0
+  <sub>[#156011](https://github.com/flutter/flutter/pull/156011) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156011) over 21 hours, 8 additions and 10 deletions in 7 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts
   <sub>[#154125](https://github.com/flutter/flutter/pull/154125) merged on October 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154125) over 1 month, 62 additions and 61 deletions in 3 files</sub>

@@ -62,9 +62,6 @@
 * **[miechoo](https://github.com/miechoo)** &mdash; Tests of StarBorder class<br />
   <sub>[#155956](https://github.com/flutter/flutter/pull/155956) opened on on September 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155956) 134 additions and 1 deletion in 2 files</sub><br />
 
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; update flutter create generated projects to use package:flutter_lints 5.0.0<br />
-  <sub>[#156011](https://github.com/flutter/flutter/pull/156011) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156011) 8 additions and 10 deletions in 7 files</sub><br />
-
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add code sample to the CupertinoMagnifier/CupertinoTextMagnifier<br />
   <sub>[#156028](https://github.com/flutter/flutter/pull/156028) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156028) 137 additions and 0 deletions in 3 files</sub><br />
 
