@@ -303,8 +303,8 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterPlatformPlugin to ARC<br />
-  <sub>[#55571](https://github.com/flutter/engine/pull/55571) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55571) over 2 hours, 25 additions and 29 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+  <sub>[#55571](https://github.com/flutter/engine/pull/55571) merged on October 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55571) over 2 hours, 25 additions and 29 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Build standalone library on Android.<br />
   <sub>[#55566](https://github.com/flutter/engine/pull/55566) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55566) over 1 hour, 5 additions and 1 deletion in 1 file</sub><br />
