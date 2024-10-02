@@ -757,7 +757,11 @@
 
 ### September 28, 2024 to October 4, 2024
 
-9 commits.
+10 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert Linux to Pigeon<br />
+  <sub>[#7770](https://github.com/flutter/packages/pull/7770) merged on October 2, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/7770) over 33 minutes, 1482 additions and 581 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Background/resuming `video_player` on Android sends one `initialized` event<br />
   <sub>[#7722](https://github.com/flutter/packages/pull/7722) merged on October 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7722) over 4 days, 83 additions and 9 deletions in 11 files</sub><br />
