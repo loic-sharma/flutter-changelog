@@ -20,9 +20,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
   <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/154217) 257 additions and 44 deletions in 6 files</sub><br />
 
-* **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; [Docs] `CupertinoListTile` API Example<br />
-  <sub>[#154548](https://github.com/flutter/flutter/pull/154548) opened on on September 3, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/154548) 104 additions and 0 deletions in 3 files</sub><br />
-
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
   <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
 
@@ -64,9 +61,6 @@
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Tests of StarBorder class<br />
   <sub>[#155956](https://github.com/flutter/flutter/pull/155956) opened on on September 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155956) 134 additions and 1 deletion in 2 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Cocoon ] Wait for task results to be received by the task runner before shutting down the task process<br />
-  <sub>[#156002](https://github.com/flutter/flutter/pull/156002) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156002) 50 additions and 33 deletions in 2 files</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update flutter create generated projects to use package:flutter_lints 5.0.0<br />
   <sub>[#156011](https://github.com/flutter/flutter/pull/156011) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156011) 8 additions and 10 deletions in 7 files</sub><br />
