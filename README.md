@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-18 commits.
+19 commits.
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment<br />
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub><br />
@@ -73,6 +73,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix crash in Linux platform channel example.<br />
   <sub>[#155735](https://github.com/flutter/flutter/pull/155735) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155735) over 4 days, 20 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows_mokey native_assets_android to be flaky<br />
+  <sub>[#156064](https://github.com/flutter/flutter/pull/156064) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156064) over 3 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland `TabBarTheme` normalization<br />
   <sub>[#155969](https://github.com/flutter/flutter/pull/155969) merged on October 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/155969) over 20 hours, 489 additions and 99 deletions in 4 files</sub><br />
