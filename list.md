@@ -56,7 +56,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts
-  <sub>[#154125](https://github.com/flutter/flutter/pull/154125) merged on October 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154125) over 1 month, 62 additions and 61 deletions in 3 files</sub>
+  <sub>[#154125](https://github.com/flutter/flutter/pull/154125) merged on October 2, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/154125) over 1 month, 62 additions and 61 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable flaky menu test 
@@ -745,7 +745,11 @@
 
 ### September 28, 2024 to October 4, 2024
 
-7 commits.
+8 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [quick_actions_android] Update instructions for using a launcher activity with more breadcrumbs
+  <sub>[#7716](https://github.com/flutter/packages/pull/7716) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7716) over 5 days, 61 additions and 15 deletions in 3 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Update Pigeon in iOS and Android
   <sub>[#7724](https://github.com/flutter/packages/pull/7724) merged on October 1, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/7724) over 3 days, 627 additions and 547 deletions in 20 files</sub>
