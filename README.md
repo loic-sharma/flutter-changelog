@@ -4,11 +4,15 @@
 
 ### September 28, 2024 to October 4, 2024
 
-16 commits.
+17 commits.
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment<br />
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub><br />
   <sub>Reviewed by: </sub><br />
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` keyboard navigation when entries are filtered empty<br />
+  <sub>[#155252](https://github.com/flutter/flutter/pull/155252) merged on October 2, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155252) over 2 weeks, 23 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Add `enableSplash` parameter to `CarouselView`<br />
   <sub>[#155214](https://github.com/flutter/flutter/pull/155214) merged on October 2, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/155214) over 2 weeks, 172 additions and 15 deletions in 2 files</sub><br />
