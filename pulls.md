@@ -68,3 +68,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Add back main() methods to benchmark benches.<br />
   <sub>[#156083](https://github.com/flutter/flutter/pull/156083) opened on on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156083) 36 additions and 0 deletions in 9 files</sub><br />
 
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix wrong test in "fixing `DropdownMenu` keyboard navigation" <br />
+  <sub>[#156084](https://github.com/flutter/flutter/pull/156084) opened on on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156084) 7 additions and 8 deletions in 1 file</sub><br />
+

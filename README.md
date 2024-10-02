@@ -4,11 +4,16 @@
 
 ### September 28, 2024 to October 4, 2024
 
-22 commits.
+23 commits.
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment<br />
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub><br />
   <sub>Reviewed by: </sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add deprecation warning for "flutter create --ios-language"<br />
+  <sub>[#155867](https://github.com/flutter/flutter/pull/155867) merged on October 2, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155867) over 4 days, 40 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [stuartmorgan](https://github.com/stuartmorgan), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+  <sub><details><summary>1 image...</summary>![Screenshot 2024-09-27 at 8 54 16 PM](https://github.com/user-attachments/assets/112be47f-a5bd-4f57-9a9d-c96c7bbc8ac3)</details></sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` keyboard navigation when entries are filtered empty<br />
   <sub>[#155252](https://github.com/flutter/flutter/pull/155252) merged on October 2, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155252) over 2 weeks, 23 additions and 0 deletions in 2 files</sub><br />
