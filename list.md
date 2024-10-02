@@ -56,7 +56,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts
-  <sub>[#154125](https://github.com/flutter/flutter/pull/154125) merged on October 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154125) over 1 month, 62 additions and 61 deletions in 3 files</sub>
+  <sub>[#154125](https://github.com/flutter/flutter/pull/154125) merged on October 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/154125) over 1 month, 62 additions and 61 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Disable flaky menu test 
