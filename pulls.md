@@ -65,3 +65,6 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add code sample to the CupertinoMagnifier/CupertinoTextMagnifier<br />
   <sub>[#156028](https://github.com/flutter/flutter/pull/156028) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156028) 137 additions and 0 deletions in 3 files</sub><br />
 
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Add back main() methods to benchmark benches.<br />
+  <sub>[#156083](https://github.com/flutter/flutter/pull/156083) opened on on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156083) 36 additions and 0 deletions in 9 files</sub><br />
+
