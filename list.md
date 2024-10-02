@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-29 commits.
+30 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Allow mixing route transitions in one app.
   <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub>
@@ -78,6 +78,10 @@
 * **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget
   <sub>[#155864](https://github.com/flutter/flutter/pull/155864) merged on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) over 2 days, 7 additions and 6 deletions in 7 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Add back main() methods to benchmark benches.
+  <sub>[#156083](https://github.com/flutter/flutter/pull/156083) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156083) over 7 hours, 63 additions and 0 deletions in 9 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark {Linux,Windows} tool_integration_tests_* non-bringup
   <sub>[#155773](https://github.com/flutter/flutter/pull/155773) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155773) over 5 days, 0 additions and 13 deletions in 1 file</sub>
