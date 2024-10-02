@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-15 commits.
+16 commits.
 
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub>
@@ -41,6 +41,10 @@
 * **[Denis Gordin](https://github.com/g0rdan)** &mdash; Move FlutterLogo from material to widget
   <sub>[#155864](https://github.com/flutter/flutter/pull/155864) merged on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) over 2 days, 7 additions and 6 deletions in 7 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark {Linux,Windows} tool_integration_tests_* non-bringup
+  <sub>[#155773](https://github.com/flutter/flutter/pull/155773) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155773) over 5 days, 0 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Swift Package Manager] Make available but off on beta and stable
   <sub>[#155964](https://github.com/flutter/flutter/pull/155964) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155964) over 18 hours, 9 additions and 3 deletions in 2 files</sub>
