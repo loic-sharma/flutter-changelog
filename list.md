@@ -849,7 +849,7 @@
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Ellet](https://github.com/EchoEllet)** &mdash; [pigeon] chore(readme): deprecated command of running pigeon
-  <sub>[#7761](https://github.com/flutter/packages/pull/7761) merged on October 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7761) over 1 day, 7 additions and 3 deletions in 4 files</sub>
+  <sub>[#7761](https://github.com/flutter/packages/pull/7761) merged on October 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7761) over 1 day, 7 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Unpin some dev dependencies
