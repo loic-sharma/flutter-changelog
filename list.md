@@ -361,7 +361,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-28 commits.
+29 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Vectorize rrect_blur
   <sub>[#55576](https://github.com/flutter/engine/pull/55576) merged on October 3, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/55576) over 1 day, 54 additions and 35 deletions in 3 files</sub>
@@ -407,6 +407,10 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added Dart docs
   <sub>[#54506](https://github.com/flutter/engine/pull/54506) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54506) over 1 month, 15 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix IOSSurfaceNoopTest
+  <sub>[#55621](https://github.com/flutter/engine/pull/55621) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55621) over 2 hours, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Shift --no-prebuilt-dart-sdk build to linux_unopt
   <sub>[#55597](https://github.com/flutter/engine/pull/55597) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55597) over 1 hour, 94 additions and 34 deletions in 9 files</sub>
