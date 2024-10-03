@@ -814,7 +814,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-13 commits.
+14 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert Linux to Pigeon<br />
   <sub>[#7770](https://github.com/flutter/packages/pull/7770) merged on October 2, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7770) over 33 minutes, 1482 additions and 581 deletions in 13 files</sub><br />
@@ -847,6 +847,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Replace `initialPage` parameter with `benchmarkPath`<br />
   <sub>[#7743](https://github.com/flutter/packages/pull/7743) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7743) over 4 hours, 115 additions and 57 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Remove -Werror from Android build<br />
+  <sub>[#7776](https://github.com/flutter/packages/pull/7776) merged on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7776) over 21 minutes, 5 additions and 6 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Ellet](https://github.com/EchoEllet)** &mdash; [pigeon] chore(readme): deprecated command of running pigeon<br />
   <sub>[#7761](https://github.com/flutter/packages/pull/7761) merged on October 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7761) over 1 day, 7 additions and 3 deletions in 4 files</sub><br />
