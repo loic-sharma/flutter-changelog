@@ -345,7 +345,12 @@
 
 ### September 28, 2024 to October 4, 2024
 
-25 commits.
+26 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Vectorize rrect_blur
+  <sub>[#55576](https://github.com/flutter/engine/pull/55576) merged on October 3, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/55576) over 1 day, 54 additions and 35 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [John McDole](https://github.com/jtmcdole)</sub>
+  <sub><details><summary>2 images...</summary><img width="1728" alt="Screenshot 2024-10-01 at 3 45 46 PM" src="https://github.com/user-attachments/assets/643068a5-ab1e-4fa3-bc03-184b2ee4a6cf"><img width="1728" alt="Screenshot 2024-10-01 at 3 42 30 PM" src="https://github.com/user-attachments/assets/41445231-ffea-4279-8142-ce126df8187c"></details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Introduce a GN rule that (explicitly) generates a `dart test` wrapper
   <sub>[#55475](https://github.com/flutter/engine/pull/55475) merged on September 30, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55475) over 3 days, 217 additions and 0 deletions in 6 files</sub>
