@@ -818,7 +818,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-14 commits.
+16 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert Linux to Pigeon
   <sub>[#7770](https://github.com/flutter/packages/pull/7770) merged on October 2, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7770) over 33 minutes, 1482 additions and 581 deletions in 13 files</sub>
@@ -827,6 +827,14 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Add percentile computations to benchmark scores
   <sub>[#7760](https://github.com/flutter/packages/pull/7760) merged on October 2, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/7760) over 23 hours, 485 additions and 305 deletions in 8 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] Relax subroute path requirements (allow root and child routes to have the same path forms )
+  <sub>[#7647](https://github.com/flutter/packages/pull/7647) merged on October 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7647) over 2 weeks, 115 additions and 69 deletions in 8 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hangyujin)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [camera, google_sign_in, espresso] Bump guava to version `33.3.1`.
+  <sub>[#7773](https://github.com/flutter/packages/pull/7773) merged on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7773) over 16 hours, 18 additions and 6 deletions in 9 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Background/resuming `video_player` on Android sends one `initialized` event
   <sub>[#7722](https://github.com/flutter/packages/pull/7722) merged on October 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7722) over 4 days, 83 additions and 9 deletions in 11 files</sub>
