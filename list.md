@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-36 commits.
+37 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Allow mixing route transitions in one app.
   <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub>
@@ -55,10 +55,6 @@
   <sub>[#156002](https://github.com/flutter/flutter/pull/156002) merged on October 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156002) over 1 day, 79 additions and 36 deletions in 3 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
-* **[Thomas Hareau](https://github.com/ThHareau)** &mdash; Add autocorrect and enableSuggestions to SearchDelegate
-  <sub>[#154932](https://github.com/flutter/flutter/pull/154932) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154932) over 3 weeks, 53 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed
   <sub>[#155757](https://github.com/flutter/flutter/pull/155757) merged on October 2, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155757) over 5 days, 198 additions and 61 deletions in 5 files</sub>
   <sub>Reviewed by: [davidhicks980](https://github.com/davidhicks980), [Nate Wilson](https://github.com/nate-thegrate)</sub>
@@ -66,6 +62,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool][android] Allow --target-platform work properly with --debug mode
   <sub>[#154476](https://github.com/flutter/flutter/pull/154476) merged on October 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154476) over 1 month, 189 additions and 47 deletions in 5 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Andrew Kolos](https://github.com/andrewkolos), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Thomas Hareau](https://github.com/ThHareau)** &mdash; Add autocorrect and enableSuggestions to SearchDelegate
+  <sub>[#154932](https://github.com/flutter/flutter/pull/154932) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154932) over 3 weeks, 53 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; when `ResidentRunner.tryInitLogReader` fails, only log warning on Android
   <sub>[#155800](https://github.com/flutter/flutter/pull/155800) merged on September 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155800) over 3 days, 16 additions and 14 deletions in 2 files</sub>
@@ -91,6 +91,10 @@
   <sub>[#155864](https://github.com/flutter/flutter/pull/155864) merged on September 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155864) over 2 days, 7 additions and 6 deletions in 7 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Allow arrow keys to navigate `MenuAnchor` independently of global shortcut definition
+  <sub>[#155728](https://github.com/flutter/flutter/pull/155728) merged on October 3, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/155728) over 1 week, 149 additions and 32 deletions in 4 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux), [davidhicks980](https://github.com/davidhicks980), [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Move some tools test ownership to Ben
   <sub>[#156123](https://github.com/flutter/flutter/pull/156123) merged on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156123) over 16 hours, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -102,10 +106,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Add back main() methods to benchmark benches.
   <sub>[#156083](https://github.com/flutter/flutter/pull/156083) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156083) over 7 hours, 63 additions and 0 deletions in 9 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in input_decorator [prod-leak-fix]
-  <sub>[#155885](https://github.com/flutter/flutter/pull/155885) merged on September 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155885) over 2 days, 19 additions and 9 deletions in 1 file</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark {Linux,Windows} tool_integration_tests_* non-bringup
   <sub>[#155773](https://github.com/flutter/flutter/pull/155773) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155773) over 5 days, 0 additions and 13 deletions in 1 file</sub>
@@ -119,9 +119,9 @@
   <sub>[#155972](https://github.com/flutter/flutter/pull/155972) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155972) over 16 hours, 8 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; fix ReorderableList not passing in item extent builder
-  <sub>[#155994](https://github.com/flutter/flutter/pull/155994) merged on October 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155994) over 1 day, 46 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in input_decorator [prod-leak-fix]
+  <sub>[#155885](https://github.com/flutter/flutter/pull/155885) merged on September 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155885) over 2 days, 19 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add WidgetStateMouseCursor example and tests for it.
   <sub>[#155552](https://github.com/flutter/flutter/pull/155552) merged on October 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155552) over 1 week, 157 additions and 1 deletion in 3 files</sub>
@@ -142,6 +142,10 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix wrong test in "fixing `DropdownMenu` keyboard navigation" 
   <sub>[#156084](https://github.com/flutter/flutter/pull/156084) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156084) over 2 hours, 8 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; fix ReorderableList not passing in item extent builder
+  <sub>[#155994](https://github.com/flutter/flutter/pull/155994) merged on October 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155994) over 1 day, 46 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows_mokey native_assets_android to be flaky
   <sub>[#156064](https://github.com/flutter/flutter/pull/156064) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156064) over 3 hours, 1 addition and 0 deletions in 1 file</sub>
