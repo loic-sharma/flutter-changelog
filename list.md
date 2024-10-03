@@ -814,7 +814,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-12 commits.
+13 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert Linux to Pigeon
   <sub>[#7770](https://github.com/flutter/packages/pull/7770) merged on October 2, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7770) over 33 minutes, 1482 additions and 581 deletions in 13 files</sub>
@@ -847,6 +847,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Replace `initialPage` parameter with `benchmarkPath`
   <sub>[#7743](https://github.com/flutter/packages/pull/7743) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7743) over 4 hours, 115 additions and 57 deletions in 15 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Ellet](https://github.com/EchoEllet)** &mdash; [pigeon] chore(readme): deprecated command of running pigeon
+  <sub>[#7761](https://github.com/flutter/packages/pull/7761) merged on October 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7761) over 1 day, 7 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Unpin some dev dependencies
   <sub>[#7762](https://github.com/flutter/packages/pull/7762) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7762) over 4 hours, 54 additions and 61 deletions in 53 files</sub>
