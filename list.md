@@ -365,7 +365,12 @@
 
 ### September 28, 2024 to October 4, 2024
 
-31 commits.
+32 commits.
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] A text layout and shaping API for the standalone library.
+  <sub>[#55598](https://github.com/flutter/engine/pull/55598) merged on October 3, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55598) over 20 hours, 1028 additions and 7 deletions in 19 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+  <sub><details><summary>1 image...</summary><img width="1136" alt="Screenshot 2024-10-02 at 4 11 17 PM" src="https://github.com/user-attachments/assets/ce63dc99-7c3d-4b71-ac5d-926dffa5269b"></details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Vectorize rrect_blur
   <sub>[#55576](https://github.com/flutter/engine/pull/55576) merged on October 3, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/55576) over 1 day, 54 additions and 35 deletions in 3 files</sub>
