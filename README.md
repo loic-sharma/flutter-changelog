@@ -389,7 +389,7 @@
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] one aiks context per app.<br />
-  <sub>[#55393](https://github.com/flutter/engine/pull/55393) merged on October 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55393) over 1 week, 74 additions and 33 deletions in 13 files</sub><br />
+  <sub>[#55393](https://github.com/flutter/engine/pull/55393) merged on October 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55393) over 1 week, 74 additions and 33 deletions in 13 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all use of `gn desc` global test fixtures.<br />
