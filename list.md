@@ -10,6 +10,10 @@
   <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add `mouseCursor` property to `CupertinoCheckbox`
+  <sub>[#151788](https://github.com/flutter/flutter/pull/151788) merged on October 2, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/151788) over 2 months, 171 additions and 11 deletions in 5 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Taha Tesser](https://github.com/TahaTesser), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[AntØn UstinØff](https://github.com/ziqq)** &mdash;  Feat: Add opportunity to change CupertinoTextField suffix alignment
   <sub>[#154601](https://github.com/flutter/flutter/pull/154601) merged on October 1, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/154601) over 3 weeks, 100 additions and 21 deletions in 2 files</sub>
   <sub>Reviewed by: </sub>
@@ -18,10 +22,6 @@
   <sub>[#155867](https://github.com/flutter/flutter/pull/155867) merged on October 2, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155867) over 4 days, 40 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [stuartmorgan](https://github.com/stuartmorgan), [LouiseHsu](https://github.com/LouiseHsu)</sub>
   <sub><details><summary>1 image...</summary>![Screenshot 2024-09-27 at 8 54 16 PM](https://github.com/user-attachments/assets/112be47f-a5bd-4f57-9a9d-c96c7bbc8ac3)</details></sub>
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add `mouseCursor` property to `CupertinoCheckbox`
-  <sub>[#151788](https://github.com/flutter/flutter/pull/151788) merged on October 2, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/151788) over 2 months, 171 additions and 11 deletions in 5 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Taha Tesser](https://github.com/TahaTesser), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` keyboard navigation when entries are filtered empty
   <sub>[#155252](https://github.com/flutter/flutter/pull/155252) merged on October 2, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155252) over 2 weeks, 23 additions and 0 deletions in 2 files</sub>
@@ -35,6 +35,10 @@
   <sub>[#155892](https://github.com/flutter/flutter/pull/155892) merged on September 30, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/155892) over 1 day, 74 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub>
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `ThemeData.dialogTheme` type to accept `DialogThemeData`
+  <sub>[#155129](https://github.com/flutter/flutter/pull/155129) merged on October 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155129) over 2 weeks, 161 additions and 37 deletions in 7 files</sub>
+  <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; [Docs] `CupertinoListTile` API Example
   <sub>[#154548](https://github.com/flutter/flutter/pull/154548) merged on October 2, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/154548) over 4 weeks, 104 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser), [Victor Sanni](https://github.com/victorsanni)</sub>
@@ -42,10 +46,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Move platform specific text selection behavior out of styled TextField classes
   <sub>[#155774](https://github.com/flutter/flutter/pull/155774) merged on September 30, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/155774) over 4 days, 236 additions and 283 deletions in 4 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Update `ThemeData.dialogTheme` type to accept `DialogThemeData`
-  <sub>[#155129](https://github.com/flutter/flutter/pull/155129) merged on October 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155129) over 2 weeks, 161 additions and 37 deletions in 7 files</sub>
-  <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Cocoon ] Wait for task results to be received by the task runner before shutting down the task process
   <sub>[#156002](https://github.com/flutter/flutter/pull/156002) merged on October 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156002) over 1 day, 79 additions and 36 deletions in 3 files</sub>
