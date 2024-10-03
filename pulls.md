@@ -66,5 +66,5 @@
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) opened on on October 2, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/156110) 328 additions and 48 deletions in 6 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Update `DropdownMenu` tests to remove some dependence on platforms<br />
-  <sub>[#156131](https://github.com/flutter/flutter/pull/156131) opened on on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156131) 35 additions and 23 deletions in 2 files</sub><br />
+  <sub>[#156131](https://github.com/flutter/flutter/pull/156131) opened on on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156131) 35 additions and 23 deletions in 2 files</sub><br />
 
