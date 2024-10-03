@@ -989,7 +989,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-8 commits.
+9 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add temporary Dash image to FWE index <br />
   <sub>[#11218](https://github.com/flutter/website/pull/11218) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11218) over 6 hours, 14 additions and 1 deletion in 2 files</sub><br />
@@ -998,6 +998,10 @@
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; remove link to the test SEO site<br />
   <sub>[#11215](https://github.com/flutter/website/pull/11215) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11215) over 12 minutes, 1 addition and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; Add go link to new service worker doc.<br />
+  <sub>[#11223](https://github.com/flutter/website/pull/11223) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11223) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to new 11ty beta release<br />
