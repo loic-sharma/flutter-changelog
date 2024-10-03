@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-33 commits.
+34 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Allow mixing route transitions in one app.<br />
   <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub><br />
@@ -51,6 +51,10 @@
   <sub>[#156002](https://github.com/flutter/flutter/pull/156002) merged on October 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156002) over 1 day, 79 additions and 36 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
+* **[Thomas Hareau](https://github.com/ThHareau)** &mdash; Add autocorrect and enableSuggestions to SearchDelegate<br />
+  <sub>[#154932](https://github.com/flutter/flutter/pull/154932) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154932) over 3 weeks, 53 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed<br />
   <sub>[#155757](https://github.com/flutter/flutter/pull/155757) merged on October 2, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155757) over 5 days, 198 additions and 61 deletions in 5 files</sub><br />
   <sub>Reviewed by: [davidhicks980](https://github.com/davidhicks980), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
@@ -91,10 +95,6 @@
   <sub>[#156083](https://github.com/flutter/flutter/pull/156083) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156083) over 7 hours, 63 additions and 0 deletions in 9 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark {Linux,Windows} tool_integration_tests_* non-bringup<br />
-  <sub>[#155773](https://github.com/flutter/flutter/pull/155773) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155773) over 5 days, 0 additions and 13 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Swift Package Manager] Make available but off on beta and stable<br />
   <sub>[#155964](https://github.com/flutter/flutter/pull/155964) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155964) over 18 hours, 9 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
@@ -107,9 +107,9 @@
   <sub>[#155885](https://github.com/flutter/flutter/pull/155885) merged on September 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155885) over 2 days, 19 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; further shard the Windows tool_integration_tests* targets<br />
-  <sub>[#156121](https://github.com/flutter/flutter/pull/156121) merged on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156121) over 17 hours, 49 additions and 16 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark {Linux,Windows} tool_integration_tests_* non-bringup<br />
+  <sub>[#155773](https://github.com/flutter/flutter/pull/155773) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155773) over 5 days, 0 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update Upgrading-Engine's-Android-API-version.md to reflect code move<br />
   <sub>[#156108](https://github.com/flutter/flutter/pull/156108) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156108) over 35 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -130,6 +130,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix crash in Linux platform channel example.<br />
   <sub>[#155735](https://github.com/flutter/flutter/pull/155735) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155735) over 4 days, 20 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; further shard the Windows tool_integration_tests* targets<br />
+  <sub>[#156121](https://github.com/flutter/flutter/pull/156121) merged on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156121) over 17 hours, 49 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows_mokey native_assets_android to be flaky<br />
   <sub>[#156064](https://github.com/flutter/flutter/pull/156064) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156064) over 3 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -353,7 +357,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-27 commits.
+28 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Vectorize rrect_blur<br />
   <sub>[#55576](https://github.com/flutter/engine/pull/55576) merged on October 3, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/55576) over 1 day, 54 additions and 35 deletions in 3 files</sub><br />
@@ -379,6 +383,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "[canvaskit] Further improve overlay optimization by splitting pictures"<br />
   <sub>[#55563](https://github.com/flutter/engine/pull/55563) merged on October 2, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/engine/pull/55563) over 1 day, 1212 additions and 667 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] one aiks context per app.<br />
+  <sub>[#55393](https://github.com/flutter/engine/pull/55393) merged on October 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55393) over 1 week, 74 additions and 33 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all use of `gn desc` global test fixtures.<br />
   <sub>[#55592](https://github.com/flutter/engine/pull/55592) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55592) over 2 hours, 103 additions and 177 deletions in 4 files</sub><br />
