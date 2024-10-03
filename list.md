@@ -1042,7 +1042,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-9 commits.
+10 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add temporary Dash image to FWE index 
   <sub>[#11218](https://github.com/flutter/website/pull/11218) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11218) over 6 hours, 14 additions and 1 deletion in 2 files</sub>
@@ -1072,6 +1072,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use our standard footnote support for 'Inside Flutter' doc
   <sub>[#11209](https://github.com/flutter/website/pull/11209) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11209) over 4 hours, 21 additions and 22 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Update Gradle settings file
+  <sub>[#11197](https://github.com/flutter/website/pull/11197) merged on October 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11197) over 1 week, 33 additions and 22 deletions in 1 file</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; More tweaking of iOS docs
   <sub>[#11213](https://github.com/flutter/website/pull/11213) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11213) over 11 hours, 3 additions and 3 deletions in 2 files</sub>
