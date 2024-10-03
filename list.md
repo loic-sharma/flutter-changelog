@@ -4,11 +4,15 @@
 
 ### September 28, 2024 to October 4, 2024
 
-34 commits.
+35 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Allow mixing route transitions in one app.
   <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; pattern-matching refactor
+  <sub>[#154753](https://github.com/flutter/flutter/pull/154753) merged on October 3, 2024 &mdash; **Large:** [133 comments](https://github.com/flutter/flutter/pull/154753) over 3 weeks, 380 additions and 673 deletions in 46 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Jacob MacDonald](https://github.com/jakemac53), [Hossein Yousefi](https://github.com/HosseinYousefi), [Kate Lovett](https://github.com/Piinks), [cedvdb](https://github.com/cedvdb), and [5 others](https://github.com/flutter/flutter/pull/154753)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add `mouseCursor` property to `CupertinoCheckbox`
   <sub>[#151788](https://github.com/flutter/flutter/pull/151788) merged on October 2, 2024 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/151788) over 2 months, 171 additions and 11 deletions in 5 files</sub>
@@ -95,10 +99,6 @@
   <sub>[#156083](https://github.com/flutter/flutter/pull/156083) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156083) over 7 hours, 63 additions and 0 deletions in 9 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Swift Package Manager] Make available but off on beta and stable
-  <sub>[#155964](https://github.com/flutter/flutter/pull/155964) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155964) over 18 hours, 9 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
-
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; docs: Update gardener doc with tree-gardener channel
   <sub>[#155972](https://github.com/flutter/flutter/pull/155972) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155972) over 16 hours, 8 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
@@ -111,9 +111,9 @@
   <sub>[#155773](https://github.com/flutter/flutter/pull/155773) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155773) over 5 days, 0 additions and 13 deletions in 1 file</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update Upgrading-Engine's-Android-API-version.md to reflect code move
-  <sub>[#156108](https://github.com/flutter/flutter/pull/156108) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156108) over 35 minutes, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Swift Package Manager] Make available but off on beta and stable
+  <sub>[#155964](https://github.com/flutter/flutter/pull/155964) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155964) over 18 hours, 9 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix wrong test in "fixing `DropdownMenu` keyboard navigation" 
   <sub>[#156084](https://github.com/flutter/flutter/pull/156084) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156084) over 2 hours, 8 additions and 9 deletions in 1 file</sub>
@@ -134,6 +134,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; further shard the Windows tool_integration_tests* targets
   <sub>[#156121](https://github.com/flutter/flutter/pull/156121) merged on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156121) over 17 hours, 49 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update Upgrading-Engine's-Android-API-version.md to reflect code move
+  <sub>[#156108](https://github.com/flutter/flutter/pull/156108) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156108) over 35 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows_mokey native_assets_android to be flaky
   <sub>[#156064](https://github.com/flutter/flutter/pull/156064) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156064) over 3 hours, 1 addition and 0 deletions in 1 file</sub>
