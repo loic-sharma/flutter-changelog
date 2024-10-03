@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-35 commits.
+36 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Allow mixing route transitions in one app.
   <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub>
@@ -95,13 +95,13 @@
   <sub>[#156123](https://github.com/flutter/flutter/pull/156123) merged on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156123) over 16 hours, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Inherited Theme: zero rebuilds
+  <sub>[#155699](https://github.com/flutter/flutter/pull/155699) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155699) over 1 week, 105 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Add back main() methods to benchmark benches.
   <sub>[#156083](https://github.com/flutter/flutter/pull/156083) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156083) over 7 hours, 63 additions and 0 deletions in 9 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; docs: Update gardener doc with tree-gardener channel
-  <sub>[#155972](https://github.com/flutter/flutter/pull/155972) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155972) over 16 hours, 8 additions and 7 deletions in 1 file</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in input_decorator [prod-leak-fix]
   <sub>[#155885](https://github.com/flutter/flutter/pull/155885) merged on September 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155885) over 2 days, 19 additions and 9 deletions in 1 file</sub>
@@ -115,9 +115,9 @@
   <sub>[#155964](https://github.com/flutter/flutter/pull/155964) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155964) over 18 hours, 9 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix wrong test in "fixing `DropdownMenu` keyboard navigation" 
-  <sub>[#156084](https://github.com/flutter/flutter/pull/156084) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156084) over 2 hours, 8 additions and 9 deletions in 1 file</sub>
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; docs: Update gardener doc with tree-gardener channel
+  <sub>[#155972](https://github.com/flutter/flutter/pull/155972) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155972) over 16 hours, 8 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; fix ReorderableList not passing in item extent builder
   <sub>[#155994](https://github.com/flutter/flutter/pull/155994) merged on October 2, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155994) over 1 day, 46 additions and 0 deletions in 2 files</sub>
@@ -138,6 +138,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update Upgrading-Engine's-Android-API-version.md to reflect code move
   <sub>[#156108](https://github.com/flutter/flutter/pull/156108) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156108) over 35 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix wrong test in "fixing `DropdownMenu` keyboard navigation" 
+  <sub>[#156084](https://github.com/flutter/flutter/pull/156084) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156084) over 2 hours, 8 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows_mokey native_assets_android to be flaky
   <sub>[#156064](https://github.com/flutter/flutter/pull/156064) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156064) over 3 hours, 1 addition and 0 deletions in 1 file</sub>
@@ -361,7 +365,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-29 commits.
+31 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Vectorize rrect_blur
   <sub>[#55576](https://github.com/flutter/engine/pull/55576) merged on October 3, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/55576) over 1 day, 54 additions and 35 deletions in 3 files</sub>
@@ -371,6 +375,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Introduce a GN rule that (explicitly) generates a `dart test` wrapper
   <sub>[#55475](https://github.com/flutter/engine/pull/55475) merged on September 30, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55475) over 3 days, 217 additions and 0 deletions in 6 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken), [Jacob MacDonald](https://github.com/jakemac53), [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `et run` (and friends).
+  <sub>[#55537](https://github.com/flutter/engine/pull/55537) merged on October 3, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/engine/pull/55537) over 2 days, 1553 additions and 352 deletions in 10 files</sub>
+  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
 * **[John Bauman](https://github.com/jbauman42)** &mdash; Log Vulkan loader errors if the instance failed creation on Fuchsia
   <sub>[#52935](https://github.com/flutter/engine/pull/52935) merged on October 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52935) over 4 months, 58 additions and 8 deletions in 2 files</sub>
@@ -407,6 +415,10 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added Dart docs
   <sub>[#54506](https://github.com/flutter/engine/pull/54506) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54506) over 1 month, 15 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not cull in TextFrameDispatcher::drawDisplayList if the transform has perspective
+  <sub>[#55602](https://github.com/flutter/engine/pull/55602) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55602) over 17 hours, 40 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix IOSSurfaceNoopTest
   <sub>[#55621](https://github.com/flutter/engine/pull/55621) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55621) over 2 hours, 3 additions and 1 deletion in 1 file</sub>
@@ -842,7 +854,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-16 commits.
+17 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert Linux to Pigeon
   <sub>[#7770](https://github.com/flutter/packages/pull/7770) merged on October 2, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7770) over 33 minutes, 1482 additions and 581 deletions in 13 files</sub>
@@ -883,6 +895,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Replace `initialPage` parameter with `benchmarkPath`
   <sub>[#7743](https://github.com/flutter/packages/pull/7743) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7743) over 4 hours, 115 additions and 57 deletions in 15 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Update Android Pigeon for non-nullable generics
+  <sub>[#7781](https://github.com/flutter/packages/pull/7781) merged on October 3, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/packages/pull/7781) over 1 hour, 275 additions and 151 deletions in 10 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Remove -Werror from Android build
   <sub>[#7776](https://github.com/flutter/packages/pull/7776) merged on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7776) over 21 minutes, 5 additions and 6 deletions in 3 files</sub>
