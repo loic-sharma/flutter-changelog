@@ -373,7 +373,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-34 commits.
+35 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] A text layout and shaping API for the standalone library.
   <sub>[#55598](https://github.com/flutter/engine/pull/55598) merged on October 3, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55598) over 20 hours, 1028 additions and 7 deletions in 19 files</sub>
@@ -405,21 +405,25 @@
   <sub>[#55540](https://github.com/flutter/engine/pull/55540) merged on October 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55540) over 13 hours, 518 additions and 136 deletions in 4 files</sub>
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor FlKeyboardHandler
+  <sub>[#55601](https://github.com/flutter/engine/pull/55601) merged on October 3, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/55601) over 21 hours, 804 additions and 784 deletions in 17 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; Reland "[canvaskit] Further improve overlay optimization by splitting pictures"
   <sub>[#55563](https://github.com/flutter/engine/pull/55563) merged on October 2, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/engine/pull/55563) over 1 day, 1212 additions and 667 deletions in 13 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] one aiks context per app.
-  <sub>[#55393](https://github.com/flutter/engine/pull/55393) merged on October 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55393) over 1 week, 74 additions and 33 deletions in 13 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterEngineGroup to ARC
+  <sub>[#55503](https://github.com/flutter/engine/pull/55503) merged on September 30, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/55503) over 2 days, 17 additions and 30 deletions in 3 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove all use of `gn desc` global test fixtures.
   <sub>[#55592](https://github.com/flutter/engine/pull/55592) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55592) over 2 hours, 103 additions and 177 deletions in 4 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterEngineGroup to ARC
-  <sub>[#55503](https://github.com/flutter/engine/pull/55503) merged on September 30, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/55503) over 2 days, 17 additions and 30 deletions in 3 files</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] one aiks context per app.
+  <sub>[#55393](https://github.com/flutter/engine/pull/55393) merged on October 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55393) over 1 week, 74 additions and 33 deletions in 13 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Check stability against most recent cipd emulator artifact
   <sub>[#55591](https://github.com/flutter/engine/pull/55591) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55591) over 53 minutes, 6 additions and 6 deletions in 2 files</sub>
@@ -457,9 +461,9 @@
   <sub>[#55471](https://github.com/flutter/engine/pull/55471) merged on October 2, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/55471) over 5 days, 206 additions and 235 deletions in 59 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use localized config data for `et test` tests.
-  <sub>[#55573](https://github.com/flutter/engine/pull/55573) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55573) over 19 hours, 67 additions and 48 deletions in 1 file</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added metal validation for `impeller_unittests
+  <sub>[#55527](https://github.com/flutter/engine/pull/55527) merged on September 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55527) over 1 hour, 11 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterHeadlessDartRunner to ARC
   <sub>[#55502](https://github.com/flutter/engine/pull/55502) merged on September 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55502) over 2 days, 5 additions and 3 deletions in 2 files</sub>
@@ -489,9 +493,9 @@
   <sub>[#55526](https://github.com/flutter/engine/pull/55526) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55526) over 2 hours, 21 additions and 10 deletions in 3 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added metal validation for `impeller_unittests
-  <sub>[#55527](https://github.com/flutter/engine/pull/55527) merged on September 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55527) over 1 hour, 11 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use localized config data for `et test` tests.
+  <sub>[#55573](https://github.com/flutter/engine/pull/55573) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55573) over 19 hours, 67 additions and 48 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use localized config data for `et query` tests.
   <sub>[#55572](https://github.com/flutter/engine/pull/55572) merged on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55572) over 20 hours, 238 additions and 43 deletions in 1 file</sub>
