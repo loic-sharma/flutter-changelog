@@ -68,3 +68,6 @@
 * **[SwanFlutter1993](https://github.com/SwanFlutter)** &mdash; Update on circle avatar and app bar<br />
   <sub>[#156148](https://github.com/flutter/flutter/pull/156148) opened on on October 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/156148) 378 additions and 95 deletions in 5 files</sub><br />
 
+* **[Rody Davis](https://github.com/rodydavis)** &mdash; Add transformChild property to InteractiveViewer<br />
+  <sub>[#156163](https://github.com/flutter/flutter/pull/156163) opened on on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156163) 20 additions and 7 deletions in 1 file</sub><br />
+
