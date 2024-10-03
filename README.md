@@ -369,7 +369,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-32 commits.
+33 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] A text layout and shaping API for the standalone library.<br />
   <sub>[#55598](https://github.com/flutter/engine/pull/55598) merged on October 3, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55598) over 20 hours, 1028 additions and 7 deletions in 19 files</sub><br />
@@ -386,8 +386,8 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken), [Jacob MacDonald](https://github.com/jakemac53), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `et run` (and friends).<br />
-  <sub>[#55537](https://github.com/flutter/engine/pull/55537) merged on October 3, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/engine/pull/55537) over 2 days, 1553 additions and 352 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+  <sub>[#55537](https://github.com/flutter/engine/pull/55537) merged on October 3, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/55537) over 2 days, 1553 additions and 352 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[John Bauman](https://github.com/jbauman42)** &mdash; Log Vulkan loader errors if the instance failed creation on Fuchsia<br />
   <sub>[#52935](https://github.com/flutter/engine/pull/52935) merged on October 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52935) over 4 months, 58 additions and 8 deletions in 2 files</sub><br />
@@ -424,6 +424,10 @@
 * **[Todd Volkert](https://github.com/tvolkert)** &mdash; Added Dart docs<br />
   <sub>[#54506](https://github.com/flutter/engine/pull/54506) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/54506) over 1 month, 15 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure one AiksContext per app.<br />
+  <sub>[#55629](https://github.com/flutter/engine/pull/55629) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55629) over 1 hour, 74 additions and 33 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not cull in TextFrameDispatcher::drawDisplayList if the transform has perspective<br />
   <sub>[#55602](https://github.com/flutter/engine/pull/55602) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55602) over 17 hours, 40 additions and 9 deletions in 3 files</sub><br />
