@@ -60,7 +60,7 @@
   <sub>[#155956](https://github.com/flutter/flutter/pull/155956) opened on on September 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/155956) 139 additions and 1 deletion in 2 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add code sample to the CupertinoMagnifier/CupertinoTextMagnifier<br />
-  <sub>[#156028](https://github.com/flutter/flutter/pull/156028) opened on on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156028) 137 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#156028](https://github.com/flutter/flutter/pull/156028) opened on on October 1, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/156028) 137 additions and 0 deletions in 3 files</sub><br />
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion<br />
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) opened on on October 2, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/156110) 328 additions and 48 deletions in 6 files</sub><br />
