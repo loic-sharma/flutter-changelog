@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-31 commits.
+32 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Allow mixing route transitions in one app.<br />
   <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub><br />
@@ -102,6 +102,10 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in input_decorator [prod-leak-fix]<br />
   <sub>[#155885](https://github.com/flutter/flutter/pull/155885) merged on September 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155885) over 2 days, 19 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; further shard the Windows tool_integration_tests* targets<br />
+  <sub>[#156121](https://github.com/flutter/flutter/pull/156121) merged on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156121) over 17 hours, 49 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update Upgrading-Engine's-Android-API-version.md to reflect code move<br />
   <sub>[#156108](https://github.com/flutter/flutter/pull/156108) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156108) over 35 minutes, 1 addition and 1 deletion in 1 file</sub><br />
