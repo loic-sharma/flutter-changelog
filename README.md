@@ -345,7 +345,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-26 commits.
+27 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Vectorize rrect_blur<br />
   <sub>[#55576](https://github.com/flutter/engine/pull/55576) merged on October 3, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/55576) over 1 day, 54 additions and 35 deletions in 3 files</sub><br />
@@ -359,6 +359,10 @@
 * **[John Bauman](https://github.com/jbauman42)** &mdash; Log Vulkan loader errors if the instance failed creation on Fuchsia<br />
   <sub>[#52935](https://github.com/flutter/engine/pull/52935) merged on October 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52935) over 4 months, 58 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix handling of perspective matrices in Matrix::Translate<br />
+  <sub>[#55536](https://github.com/flutter/engine/pull/55536) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55536) over 2 days, 13 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate off a global test fixture for `build` and `lint`.<br />
   <sub>[#55540](https://github.com/flutter/engine/pull/55540) merged on October 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55540) over 13 hours, 518 additions and 136 deletions in 4 files</sub><br />
