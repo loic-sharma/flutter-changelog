@@ -68,6 +68,3 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Update `DropdownMenu` tests to remove some dependence on platforms<br />
   <sub>[#156131](https://github.com/flutter/flutter/pull/156131) opened on on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156131) 35 additions and 23 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize the default `Slider` padding<br />
-  <sub>[#156143](https://github.com/flutter/flutter/pull/156143) opened on on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156143) 105 additions and 4 deletions in 3 files</sub><br />
-
