@@ -918,7 +918,7 @@
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_platform_interface] Convert `PatternItem` and `Cap` to typesafe structures.<br />
-  <sub>[#7703](https://github.com/flutter/packages/pull/7703) merged on October 4, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/7703) over 1 week, 190 additions and 14 deletions in 6 files</sub><br />
+  <sub>[#7703](https://github.com/flutter/packages/pull/7703) merged on October 4, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/7703) over 1 week, 190 additions and 14 deletions in 6 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Swift plugins for non-nullable generics<br />
