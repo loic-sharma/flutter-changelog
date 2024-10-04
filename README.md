@@ -1110,7 +1110,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-14 commits.
+15 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add temporary Dash image to FWE index <br />
   <sub>[#11218](https://github.com/flutter/website/pull/11218) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11218) over 6 hours, 14 additions and 1 deletion in 2 files</sub><br />
@@ -1120,6 +1120,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; remove link to the test SEO site<br />
   <sub>[#11215](https://github.com/flutter/website/pull/11215) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11215) over 12 minutes, 1 addition and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add release notes for DevTools 2.40.0<br />
+  <sub>[#11231](https://github.com/flutter/website/pull/11231) merged on October 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11231) over 37 minutes, 67 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to stable 3.0 release of 11ty<br />
   <sub>[#11229](https://github.com/flutter/website/pull/11229) merged on October 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11229) over 59 minutes, 23 additions and 23 deletions in 2 files</sub><br />
