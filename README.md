@@ -899,7 +899,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-22 commits.
+23 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert Linux to Pigeon<br />
   <sub>[#7770](https://github.com/flutter/packages/pull/7770) merged on October 2, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7770) over 33 minutes, 1482 additions and 581 deletions in 13 files</sub><br />
@@ -922,7 +922,7 @@
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_platform_interface] Convert `PatternItem` and `Cap` to typesafe structures.<br />
-  <sub>[#7703](https://github.com/flutter/packages/pull/7703) merged on October 4, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/7703) over 1 week, 190 additions and 14 deletions in 6 files</sub><br />
+  <sub>[#7703](https://github.com/flutter/packages/pull/7703) merged on October 4, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/7703) over 1 week, 190 additions and 14 deletions in 6 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Swift plugins for non-nullable generics<br />
@@ -940,6 +940,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `AdProgressInfo`<br />
   <sub>[#7723](https://github.com/flutter/packages/pull/7723) merged on September 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7723) over 2 days, 462 additions and 23 deletions in 14 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Added missing implementation for the routerNeglect parameter in GoRouter<br />
+  <sub>[#7752](https://github.com/flutter/packages/pull/7752) merged on October 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7752) over 3 days, 100 additions and 6 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_platform_interface] Convert `BitmapDescriptor` to typesafe subclasses<br />
   <sub>[#7699](https://github.com/flutter/packages/pull/7699) merged on October 4, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7699) over 1 week, 246 additions and 51 deletions in 4 files</sub><br />
