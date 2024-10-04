@@ -899,7 +899,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-23 commits.
+24 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert Linux to Pigeon<br />
   <sub>[#7770](https://github.com/flutter/packages/pull/7770) merged on October 2, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7770) over 33 minutes, 1482 additions and 581 deletions in 13 files</sub><br />
@@ -920,6 +920,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Background/resuming `video_player` on Android sends one `initialized` event<br />
   <sub>[#7722](https://github.com/flutter/packages/pull/7722) merged on October 2, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7722) over 4 days, 83 additions and 9 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Update Pigeon for non-nullable generics<br />
+  <sub>[#7790](https://github.com/flutter/packages/pull/7790) merged on October 4, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/7790) over 3 hours, 1026 additions and 690 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_platform_interface] Convert `PatternItem` and `Cap` to typesafe structures.<br />
   <sub>[#7703](https://github.com/flutter/packages/pull/7703) merged on October 4, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/7703) over 1 week, 190 additions and 14 deletions in 6 files</sub><br />
