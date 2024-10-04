@@ -62,3 +62,6 @@
 * **[Rody Davis](https://github.com/rodydavis)** &mdash; Add transformChild property to InteractiveViewer<br />
   <sub>[#156163](https://github.com/flutter/flutter/pull/156163) opened on on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156163) 20 additions and 7 deletions in 1 file</sub><br />
 
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update 'dump-info' usage for dart2js builds<br />
+  <sub>[#156187](https://github.com/flutter/flutter/pull/156187) opened on on October 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156187) 1 addition and 1 deletion in 1 file</sub><br />
+
