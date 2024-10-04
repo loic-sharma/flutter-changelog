@@ -4,7 +4,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-39 commits.
+40 commits.
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Allow mixing route transitions in one app.<br />
   <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub><br />
@@ -55,25 +55,29 @@
   <sub>[#155609](https://github.com/flutter/flutter/pull/155609) merged on October 3, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/155609) over 1 week, 1334 additions and 1574 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed<br />
-  <sub>[#155757](https://github.com/flutter/flutter/pull/155757) merged on October 2, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155757) over 5 days, 198 additions and 61 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [davidhicks980](https://github.com/davidhicks980), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize `ThemeData.cardTheme`<br />
+  <sub>[#153254](https://github.com/flutter/flutter/pull/153254) merged on October 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/153254) over 1 month, 154 additions and 22 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Pierre](https://github.com/guidezpl)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Cocoon ] Wait for task results to be received by the task runner before shutting down the task process<br />
   <sub>[#156002](https://github.com/flutter/flutter/pull/156002) merged on October 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156002) over 1 day, 79 additions and 36 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu does not rematch initialSelection when entries have changed<br />
+  <sub>[#155757](https://github.com/flutter/flutter/pull/155757) merged on October 2, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/155757) over 5 days, 198 additions and 61 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [davidhicks980](https://github.com/davidhicks980), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool][android] Allow --target-platform work properly with --debug mode<br />
   <sub>[#154476](https://github.com/flutter/flutter/pull/154476) merged on October 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154476) over 1 month, 189 additions and 47 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Andrew Kolos](https://github.com/andrewkolos), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize `ThemeData.cardTheme`<br />
-  <sub>[#153254](https://github.com/flutter/flutter/pull/153254) merged on October 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/153254) over 1 month, 154 additions and 22 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Pierre](https://github.com/guidezpl)</sub><br />
-
 * **[Thomas Hareau](https://github.com/ThHareau)** &mdash; Add autocorrect and enableSuggestions to SearchDelegate<br />
   <sub>[#154932](https://github.com/flutter/flutter/pull/154932) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154932) over 3 weeks, 53 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove bringup from Windows tool_integration_tests_*<br />
+  <sub>[#156179](https://github.com/flutter/flutter/pull/156179) merged on October 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156179) over 21 hours, 0 additions and 9 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; when `ResidentRunner.tryInitLogReader` fails, only log warning on Android<br />
   <sub>[#155800](https://github.com/flutter/flutter/pull/155800) merged on September 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155800) over 3 days, 16 additions and 14 deletions in 2 files</sub><br />
@@ -107,9 +111,9 @@
   <sub>[#156123](https://github.com/flutter/flutter/pull/156123) merged on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156123) over 16 hours, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Inherited Theme: zero rebuilds<br />
-  <sub>[#155699](https://github.com/flutter/flutter/pull/155699) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155699) over 1 week, 105 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Add back main() methods to benchmark benches.<br />
+  <sub>[#156083](https://github.com/flutter/flutter/pull/156083) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156083) over 7 hours, 63 additions and 0 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark {Linux,Windows} tool_integration_tests_* non-bringup<br />
   <sub>[#155773](https://github.com/flutter/flutter/pull/155773) merged on October 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155773) over 5 days, 0 additions and 13 deletions in 1 file</sub><br />
@@ -119,17 +123,17 @@
   <sub>[#155964](https://github.com/flutter/flutter/pull/155964) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155964) over 18 hours, 9 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; docs: Update gardener doc with tree-gardener channel<br />
-  <sub>[#155972](https://github.com/flutter/flutter/pull/155972) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155972) over 16 hours, 8 additions and 7 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leak in input_decorator [prod-leak-fix]<br />
   <sub>[#155885](https://github.com/flutter/flutter/pull/155885) merged on September 30, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155885) over 2 days, 19 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Add back main() methods to benchmark benches.<br />
-  <sub>[#156083](https://github.com/flutter/flutter/pull/156083) merged on October 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156083) over 7 hours, 63 additions and 0 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Inherited Theme: zero rebuilds<br />
+  <sub>[#155699](https://github.com/flutter/flutter/pull/155699) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155699) over 1 week, 105 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; docs: Update gardener doc with tree-gardener channel<br />
+  <sub>[#155972](https://github.com/flutter/flutter/pull/155972) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155972) over 16 hours, 8 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; further shard the Windows tool_integration_tests* targets<br />
   <sub>[#156121](https://github.com/flutter/flutter/pull/156121) merged on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156121) over 17 hours, 49 additions and 16 deletions in 1 file</sub><br />
