@@ -1110,7 +1110,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-13 commits.
+14 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add temporary Dash image to FWE index 
   <sub>[#11218](https://github.com/flutter/website/pull/11218) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11218) over 6 hours, 14 additions and 1 deletion in 2 files</sub>
@@ -1148,6 +1148,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Use our standard footnote support for 'Inside Flutter' doc
   <sub>[#11209](https://github.com/flutter/website/pull/11209) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11209) over 4 hours, 21 additions and 22 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Casey Rogers](https://github.com/caseycrogers)** &mdash; Add `go/default-animation-style` design doc redirect
+  <sub>[#11230](https://github.com/flutter/website/pull/11230) merged on October 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11230) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Remove codelabs.flutter-io.cn
   <sub>[#11222](https://github.com/flutter/website/pull/11222) merged on October 4, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11222) over 1 day, 0 additions and 8 deletions in 1 file</sub>
