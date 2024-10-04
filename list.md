@@ -895,7 +895,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-21 commits.
+22 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert Linux to Pigeon
   <sub>[#7770](https://github.com/flutter/packages/pull/7770) merged on October 2, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7770) over 33 minutes, 1482 additions and 581 deletions in 13 files</sub>
@@ -936,6 +936,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `AdProgressInfo`
   <sub>[#7723](https://github.com/flutter/packages/pull/7723) merged on September 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7723) over 2 days, 462 additions and 23 deletions in 14 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_platform_interface] Convert `BitmapDescriptor` to typesafe subclasses
+  <sub>[#7699](https://github.com/flutter/packages/pull/7699) merged on October 4, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7699) over 1 week, 246 additions and 51 deletions in 4 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Crafti](https://github.com/Craftplacer)** &mdash; [xdg_directories] Add `stateHome` property
   <sub>[#7766](https://github.com/flutter/packages/pull/7766) merged on October 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/7766) over 1 day, 15 additions and 2 deletions in 5 files</sub>
