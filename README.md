@@ -405,6 +405,10 @@
   <sub>[#55537](https://github.com/flutter/engine/pull/55537) merged on October 3, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/55537) over 2 days, 1553 additions and 352 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use a squircle-sdf-based algorithm for fast blurs<br />
+  <sub>[#55604](https://github.com/flutter/engine/pull/55604) merged on October 4, 2024 &mdash; **Medium:** [41 comments](https://github.com/flutter/engine/pull/55604) over 1 day, 198 additions and 131 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[John Bauman](https://github.com/jbauman42)** &mdash; Log Vulkan loader errors if the instance failed creation on Fuchsia<br />
   <sub>[#52935](https://github.com/flutter/engine/pull/52935) merged on October 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52935) over 4 months, 58 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John McDole](https://github.com/jtmcdole)</sub><br />
@@ -416,10 +420,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add support for `et test //flutter/path/to/dart_test`<br />
   <sub>[#55638](https://github.com/flutter/engine/pull/55638) merged on October 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55638) over 22 hours, 142 additions and 2 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Chris Bracken](https://github.com/cbracken)</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use a squircle-sdf-based algorithm for fast blurs<br />
-  <sub>[#55604](https://github.com/flutter/engine/pull/55604) merged on October 4, 2024 &mdash; **Medium:** [40 comments](https://github.com/flutter/engine/pull/55604) over 1 day, 198 additions and 131 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove aiks color_source.<br />
   <sub>[#55603](https://github.com/flutter/engine/pull/55603) merged on October 4, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/engine/pull/55603) over 23 hours, 408 additions and 693 deletions in 12 files</sub><br />
