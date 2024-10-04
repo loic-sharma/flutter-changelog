@@ -65,3 +65,6 @@
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update 'dump-info' usage for dart2js builds<br />
   <sub>[#156187](https://github.com/flutter/flutter/pull/156187) opened on on October 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156187) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Nayden Gochev](https://github.com/gochev)** &mdash; Changing the flutter doctor and mac message when simulator is missing<br />
+  <sub>[#156202](https://github.com/flutter/flutter/pull/156202) opened on on October 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156202) 2 additions and 2 deletions in 2 files</sub><br />
+
