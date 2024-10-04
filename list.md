@@ -1102,7 +1102,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-12 commits.
+13 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add temporary Dash image to FWE index 
   <sub>[#11218](https://github.com/flutter/website/pull/11218) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11218) over 6 hours, 14 additions and 1 deletion in 2 files</sub>
@@ -1111,6 +1111,10 @@
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; remove link to the test SEO site
   <sub>[#11215](https://github.com/flutter/website/pull/11215) merged on October 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11215) over 12 minutes, 1 addition and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to stable 3.0 release of 11ty
+  <sub>[#11229](https://github.com/flutter/website/pull/11229) merged on October 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11229) over 59 minutes, 23 additions and 23 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add go link to Updating Material 3 Sliders doc.
