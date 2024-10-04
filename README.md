@@ -418,7 +418,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use a squircle-sdf-based algorithm for fast blurs<br />
-  <sub>[#55604](https://github.com/flutter/engine/pull/55604) merged on October 4, 2024 &mdash; **Medium:** [34 comments](https://github.com/flutter/engine/pull/55604) over 1 day, 198 additions and 131 deletions in 7 files</sub><br />
+  <sub>[#55604](https://github.com/flutter/engine/pull/55604) merged on October 4, 2024 &mdash; **Medium:** [37 comments](https://github.com/flutter/engine/pull/55604) over 1 day, 198 additions and 131 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove aiks color_source.<br />
@@ -546,8 +546,8 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[John McCutchan](https://github.com/johnmccutchan)** &mdash; Add --rbe-force-local flag to force rbe task execution to happen on the local machine<br />
-  <sub>[#55635](https://github.com/flutter/engine/pull/55635) merged on October 4, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55635) over 1 day, 81 additions and 17 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+  <sub>[#55635](https://github.com/flutter/engine/pull/55635) merged on October 4, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/55635) over 1 day, 81 additions and 17 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Deregister views when they are destroyed<br />
   <sub>[#55542](https://github.com/flutter/engine/pull/55542) merged on October 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55542) over 17 hours, 79 additions and 0 deletions in 4 files</sub><br />
