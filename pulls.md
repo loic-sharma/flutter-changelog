@@ -71,3 +71,6 @@
 * **[Nayden Gochev](https://github.com/gochev)** &mdash; Changing the flutter doctor and mac message when simulator is missing<br />
   <sub>[#156202](https://github.com/flutter/flutter/pull/156202) opened on on October 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156202) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `flexible_space_bar_test.dart` tests for Material 3<br />
+  <sub>[#156226](https://github.com/flutter/flutter/pull/156226) opened on on October 4, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/156226) 775 additions and 83 deletions in 1 file</sub><br />
+
