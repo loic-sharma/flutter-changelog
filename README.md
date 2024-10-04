@@ -418,7 +418,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use a squircle-sdf-based algorithm for fast blurs<br />
-  <sub>[#55604](https://github.com/flutter/engine/pull/55604) merged on October 4, 2024 &mdash; **Medium:** [38 comments](https://github.com/flutter/engine/pull/55604) over 1 day, 198 additions and 131 deletions in 7 files</sub><br />
+  <sub>[#55604](https://github.com/flutter/engine/pull/55604) merged on October 4, 2024 &mdash; **Medium:** [39 comments](https://github.com/flutter/engine/pull/55604) over 1 day, 198 additions and 131 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove aiks color_source.<br />
