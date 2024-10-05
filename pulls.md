@@ -72,5 +72,5 @@
   <sub>[#156226](https://github.com/flutter/flutter/pull/156226) opened on on October 4, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/156226) 775 additions and 83 deletions in 1 file</sub><br />
 
 * **[Muhammad Mohiuddin](https://github.com/MohiuddinM)** &mdash; feat: add errorBuilder property to customize errorText appearance<br />
-  <sub>[#156275](https://github.com/flutter/flutter/pull/156275) opened on on October 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156275) 53 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#156275](https://github.com/flutter/flutter/pull/156275) opened on on October 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156275) 56 additions and 2 deletions in 2 files</sub><br />
 
