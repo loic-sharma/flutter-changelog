@@ -935,7 +935,7 @@
 
 ### September 28, 2024 to October 4, 2024
 
-24 commits.
+25 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Convert Linux to Pigeon
   <sub>[#7770](https://github.com/flutter/packages/pull/7770) merged on October 2, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/7770) over 33 minutes, 1482 additions and 581 deletions in 13 files</sub>
@@ -1000,6 +1000,10 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Replace `initialPage` parameter with `benchmarkPath`
   <sub>[#7743](https://github.com/flutter/packages/pull/7743) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7743) over 4 hours, 115 additions and 57 deletions in 15 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Java compatibility version to 11
+  <sub>[#7795](https://github.com/flutter/packages/pull/7795) merged on October 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/7795) over 15 hours, 250 additions and 288 deletions in 84 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Update Android Pigeon
   <sub>[#7744](https://github.com/flutter/packages/pull/7744) merged on October 4, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7744) over 3 days, 254 additions and 163 deletions in 7 files</sub>
