@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Paolo Lammens](https://github.com/plammens)** &mdash; performance: Override .elementAt in CachingIterable<br />
-  <sub>[#152477](https://github.com/flutter/flutter/pull/152477) opened on on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152477) 15 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#152477](https://github.com/flutter/flutter/pull/152477) opened on on July 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/152477) 28 additions and 0 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Remove publishing race<br />
   <sub>[#153304](https://github.com/flutter/flutter/pull/153304) opened on on August 12, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153304) 534 additions and 765 deletions in 6 files</sub><br />
