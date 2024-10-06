@@ -75,5 +75,5 @@
   <sub>[#156275](https://github.com/flutter/flutter/pull/156275) opened on on October 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156275) 56 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; RadioListTile: add property to scale the radio<br />
-  <sub>[#156292](https://github.com/flutter/flutter/pull/156292) opened on on October 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156292) 86 additions and 27 deletions in 2 files</sub><br />
+  <sub>[#156292](https://github.com/flutter/flutter/pull/156292) opened on on October 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156292) 86 additions and 27 deletions in 2 files</sub><br />
 
