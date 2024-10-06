@@ -397,6 +397,10 @@
   <sub>[#55475](https://github.com/flutter/engine/pull/55475) merged on September 30, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/55475) over 3 days, 217 additions and 0 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken), [Jacob MacDonald](https://github.com/jakemac53), [John McDole](https://github.com/jtmcdole)</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use a squircle-sdf-based algorithm for fast blurs<br />
+  <sub>[#55604](https://github.com/flutter/engine/pull/55604) merged on October 4, 2024 &mdash; **Medium:** [42 comments](https://github.com/flutter/engine/pull/55604) over 1 day, 198 additions and 131 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate FlutterEngine to ARC<br />
   <sub>[#55590](https://github.com/flutter/engine/pull/55590) merged on October 4, 2024 &mdash; **Large:** [34 comments](https://github.com/flutter/engine/pull/55590) over 1 day, 269 additions and 377 deletions in 5 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
@@ -404,10 +408,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `et run` (and friends).<br />
   <sub>[#55537](https://github.com/flutter/engine/pull/55537) merged on October 3, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/55537) over 2 days, 1553 additions and 352 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Use a squircle-sdf-based algorithm for fast blurs<br />
-  <sub>[#55604](https://github.com/flutter/engine/pull/55604) merged on October 4, 2024 &mdash; **Medium:** [42 comments](https://github.com/flutter/engine/pull/55604) over 1 day, 198 additions and 131 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[John Bauman](https://github.com/jbauman42)** &mdash; Log Vulkan loader errors if the instance failed creation on Fuchsia<br />
   <sub>[#52935](https://github.com/flutter/engine/pull/52935) merged on October 1, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/52935) over 4 months, 58 additions and 8 deletions in 2 files</sub><br />
