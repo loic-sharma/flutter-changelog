@@ -2,9 +2,19 @@
 
 ## flutter/flutter
 
+### October 5, 2024 to October 11, 2024
+
+1 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DropdownMenu` with `expandedInsets` always aligned on top<br />
+  <sub>[#156214](https://github.com/flutter/flutter/pull/156214) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156214) over 3 days, 38 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="770" alt="Screenshot 2024-10-04 at 14 13 58" src="https://github.com/user-attachments/assets/c7520c12-d16a-4867-8fae-38b75dbc4225"><img width="770" alt="Screenshot 2024-10-04 at 14 13 49" src="https://github.com/user-attachments/assets/82e0b81e-5c85-4e59-99b8-df329459773b"></details></sub>
+
 ### September 28, 2024 to October 4, 2024
 
-41 commits.
+<details>
+<summary>41 commits...</summary>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Allow mixing route transitions in one app.<br />
   <sub>[#150031](https://github.com/flutter/flutter/pull/150031) merged on October 2, 2024 &mdash; **Large:** [184 comments](https://github.com/flutter/flutter/pull/150031) over 3 months, 1320 additions and 31 deletions in 10 files</sub><br />
@@ -170,6 +180,8 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Reland `TabBarTheme` normalization<br />
   <sub>[#155969](https://github.com/flutter/flutter/pull/155969) merged on October 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/155969) over 20 hours, 489 additions and 99 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+</details>
 
 ### September 21, 2024 to September 27, 2024
 
