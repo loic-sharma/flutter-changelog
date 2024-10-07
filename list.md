@@ -816,7 +816,11 @@
 
 ### October 5, 2024 to October 11, 2024
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Update Pigeon for non-nullable generics
+  <sub>[#7785](https://github.com/flutter/packages/pull/7785) merged on October 7, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/7785) over 3 days, 461 additions and 263 deletions in 10 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Update Android Pigeon for non-nullable generics 
   <sub>[#7783](https://github.com/flutter/packages/pull/7783) merged on October 7, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7783) over 3 days, 429 additions and 222 deletions in 9 files</sub>
