@@ -63,7 +63,7 @@
   <sub>[#156163](https://github.com/flutter/flutter/pull/156163) opened on on October 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/156163) 124 additions and 7 deletions in 2 files</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix: showDatePicker should have a simple example in the docs<br />
-  <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156196) 126 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/156196) 126 additions and 0 deletions in 3 files</sub><br />
 
 * **[Nayden Gochev](https://github.com/gochev)** &mdash; Changing the flutter doctor and mac message when simulator is missing<br />
   <sub>[#156202](https://github.com/flutter/flutter/pull/156202) opened on on October 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156202) 2 additions and 2 deletions in 2 files</sub><br />
