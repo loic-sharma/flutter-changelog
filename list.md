@@ -4,12 +4,16 @@
 
 ### October 5, 2024 to October 11, 2024
 
-2 commits.
+3 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DropdownMenu` with `expandedInsets` always aligned on top
   <sub>[#156214](https://github.com/flutter/flutter/pull/156214) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156214) over 3 days, 38 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
   <sub><details><summary>2 images...</summary><img width="770" alt="Screenshot 2024-10-04 at 14 13 58" src="https://github.com/user-attachments/assets/c7520c12-d16a-4867-8fae-38b75dbc4225"><img width="770" alt="Screenshot 2024-10-04 at 14 13 49" src="https://github.com/user-attachments/assets/82e0b81e-5c85-4e59-99b8-df329459773b"></details></sub>
+
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update 'dump-info' usage for dart2js builds
+  <sub>[#156187](https://github.com/flutter/flutter/pull/156187) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156187) over 3 days, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; handle any `RPCError` due to vm service disconnection in `flutter run`
   <sub>[#156346](https://github.com/flutter/flutter/pull/156346) merged on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156346) over 47 minutes, 19 additions and 3 deletions in 2 files</sub>
@@ -360,11 +364,15 @@
 
 ### October 5, 2024 to October 11, 2024
 
-5 commits.
+6 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add parsing of known GPU models
   <sub>[#55196](https://github.com/flutter/engine/pull/55196) merged on October 7, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/55196) over 3 weeks, 313 additions and 21 deletions in 3 files</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [John McDole](https://github.com/jtmcdole), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable surface control on API 29.
+  <sub>[#55708](https://github.com/flutter/engine/pull/55708) merged on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55708) over 44 minutes, 8 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Vulkan command encoder abstraction, use command buffer vk.
   <sub>[#55680](https://github.com/flutter/engine/pull/55680) merged on October 7, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/55680) over 1 day, 288 additions and 451 deletions in 22 files</sub>
