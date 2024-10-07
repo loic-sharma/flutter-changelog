@@ -62,9 +62,6 @@
 * **[Rody Davis](https://github.com/rodydavis)** &mdash; Add transformChild property to InteractiveViewer<br />
   <sub>[#156163](https://github.com/flutter/flutter/pull/156163) opened on on October 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/156163) 124 additions and 7 deletions in 2 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Move platform-specific log-reading implementation details from `ResidentRunner`/`FlutterDevice` to `DeviceLogReader` implementations<br />
-  <sub>[#156181](https://github.com/flutter/flutter/pull/156181) opened on on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156181) 136 additions and 127 deletions in 22 files</sub><br />
-
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix: showDatePicker should have a simple example in the docs<br />
   <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156196) 126 additions and 0 deletions in 3 files</sub><br />
 
