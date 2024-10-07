@@ -77,3 +77,6 @@
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; RadioListTile: add property to scale the radio<br />
   <sub>[#156292](https://github.com/flutter/flutter/pull/156292) opened on on October 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156292) 86 additions and 27 deletions in 2 files</sub><br />
 
+* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
+  <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
+
