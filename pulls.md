@@ -60,7 +60,7 @@
   <sub>[#156148](https://github.com/flutter/flutter/pull/156148) opened on on October 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/156148) 378 additions and 95 deletions in 5 files</sub><br />
 
 * **[Rody Davis](https://github.com/rodydavis)** &mdash; Add transformChild property to InteractiveViewer<br />
-  <sub>[#156163](https://github.com/flutter/flutter/pull/156163) opened on on October 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156163) 128 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#156163](https://github.com/flutter/flutter/pull/156163) opened on on October 3, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/156163) 124 additions and 7 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Move platform-specific log-reading implementation details from `ResidentRunner`/`FlutterDevice` to `DeviceLogReader` implementations<br />
   <sub>[#156181](https://github.com/flutter/flutter/pull/156181) opened on on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156181) 136 additions and 127 deletions in 22 files</sub><br />
@@ -84,7 +84,7 @@
   <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
-  <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Aparin Kirill](https://github.com/kirya355)** &mdash; fix: ensure draggable_scrollable_sheet respects shouldCloseOnMinExten…<br />
   <sub>[#156338](https://github.com/flutter/flutter/pull/156338) opened on on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156338) 3 additions and 2 deletions in 1 file</sub><br />
