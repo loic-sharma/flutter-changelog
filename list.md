@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-4 commits.
+5 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub>
@@ -14,6 +14,10 @@
   <sub>[#156214](https://github.com/flutter/flutter/pull/156214) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156214) over 3 days, 38 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
   <sub><details><summary>2 images...</summary><img width="770" alt="Screenshot 2024-10-04 at 14 13 58" src="https://github.com/user-attachments/assets/c7520c12-d16a-4867-8fae-38b75dbc4225"><img width="770" alt="Screenshot 2024-10-04 at 14 13 49" src="https://github.com/user-attachments/assets/82e0b81e-5c85-4e59-99b8-df329459773b"></details></sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify when `override: no versioning needed` label should be applied
+  <sub>[#156342](https://github.com/flutter/flutter/pull/156342) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156342) over 3 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update 'dump-info' usage for dart2js builds
   <sub>[#156187](https://github.com/flutter/flutter/pull/156187) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156187) over 3 days, 2 additions and 2 deletions in 2 files</sub>
@@ -1059,7 +1063,11 @@
 
 ### October 5, 2024 to October 11, 2024
 
-2 commits.
+3 commits.
+
+* **[Tushar Bansod](https://github.com/tbansod2018)** &mdash; updated slugify function to replace + with plus
+  <sub>[#11236](https://github.com/flutter/website/pull/11236) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11236) over 8 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Add `/to/web-html-renderer-deprecation` redirect
   <sub>[#11238](https://github.com/flutter/website/pull/11238) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11238) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
