@@ -4,12 +4,16 @@
 
 ### October 5, 2024 to October 11, 2024
 
-1 commits.
+2 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DropdownMenu` with `expandedInsets` always aligned on top<br />
   <sub>[#156214](https://github.com/flutter/flutter/pull/156214) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156214) over 3 days, 38 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
   <sub><details><summary>2 images...</summary><img width="770" alt="Screenshot 2024-10-04 at 14 13 58" src="https://github.com/user-attachments/assets/c7520c12-d16a-4867-8fae-38b75dbc4225"><img width="770" alt="Screenshot 2024-10-04 at 14 13 49" src="https://github.com/user-attachments/assets/82e0b81e-5c85-4e59-99b8-df329459773b"></details></sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; handle any `RPCError` due to vm service disconnection in `flutter run`<br />
+  <sub>[#156346](https://github.com/flutter/flutter/pull/156346) merged on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156346) over 47 minutes, 19 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 ### September 28, 2024 to October 4, 2024
 
@@ -835,7 +839,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-5 commits.
+6 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
@@ -852,6 +856,10 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; [rfw] Increase tolerance for material widget tests<br />
   <sub>[#7148](https://github.com/flutter/packages/pull/7148) merged on October 7, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7148) over 2 months, 71 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Ian Hickson](https://github.com/Hixie)</sub><br />
+
+* **[Jason Edwards](https://github.com/jtanium)** &mdash; [webview_flutter_wkwebview] Support NTLM for authentication<br />
+  <sub>[#7670](https://github.com/flutter/packages/pull/7670) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7670) over 2 weeks, 49 additions and 2 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[in_app_purchase_storekit] Add support for purchase and transactions"<br />
   <sub>[#7810](https://github.com/flutter/packages/pull/7810) merged on October 7, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/7810) over 5 minutes, 248 additions and 1876 deletions in 26 files</sub><br />
