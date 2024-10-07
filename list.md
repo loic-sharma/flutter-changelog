@@ -967,9 +967,18 @@
 
 ## flutter/website
 
+### October 5, 2024 to October 11, 2024
+
+1 commits.
+
+* **[WalkQuackBack](https://github.com/WalkQuackBack)** &mdash; Fix typo in sidenav for in Cookbook Animation "Animate a widget using a physics simulation“
+  <sub>[#11234](https://github.com/flutter/website/pull/11234) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11234) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### September 28, 2024 to October 4, 2024
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add temporary Dash image to FWE index 
   <sub>[#11218](https://github.com/flutter/website/pull/11218) merged on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11218) over 6 hours, 14 additions and 1 deletion in 2 files</sub>
@@ -1031,6 +1040,8 @@
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating iOS 18 supported feature table
   <sub>[#11211](https://github.com/flutter/website/pull/11211) merged on October 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11211) over 47 minutes, 26 additions and 21 deletions in 1 file</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+</details>
 
 ### September 21, 2024 to September 27, 2024
 
