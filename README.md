@@ -816,7 +816,11 @@
 
 ### October 5, 2024 to October 11, 2024
 
-1 commits.
+2 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Update Android Pigeon for non-nullable generics <br />
+  <sub>[#7783](https://github.com/flutter/packages/pull/7783) merged on October 7, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7783) over 3 days, 429 additions and 222 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; [rfw] Increase tolerance for material widget tests<br />
   <sub>[#7148](https://github.com/flutter/packages/pull/7148) merged on October 7, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7148) over 2 months, 71 additions and 0 deletions in 3 files</sub><br />
