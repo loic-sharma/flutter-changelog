@@ -356,11 +356,15 @@
 
 ### October 5, 2024 to October 11, 2024
 
-1 commits.
+2 commits.
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; La Grande Fusion Notes - History Editing<br />
   <sub>[#55667](https://github.com/flutter/engine/pull/55667) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55667) over 2 days, 260 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: Migrate FlutterEngine to ARC (#55590)"<br />
+  <sub>[#55699](https://github.com/flutter/engine/pull/55699) merged on October 7, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55699) over 40 minutes, 377 additions and 269 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 ### September 28, 2024 to October 4, 2024
 
