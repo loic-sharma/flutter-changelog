@@ -54,7 +54,7 @@
   <sub>[#156028](https://github.com/flutter/flutter/pull/156028) opened on on October 1, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/156028) 137 additions and 0 deletions in 3 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Update `DropdownMenu` tests to remove some dependence on platforms<br />
-  <sub>[#156131](https://github.com/flutter/flutter/pull/156131) opened on on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156131) 35 additions and 23 deletions in 2 files</sub><br />
+  <sub>[#156131](https://github.com/flutter/flutter/pull/156131) opened on on October 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156131) 35 additions and 23 deletions in 2 files</sub><br />
 
 * **[SwanFlutter1993](https://github.com/SwanFlutter)** &mdash; Update on circle avatar and app bar<br />
   <sub>[#156148](https://github.com/flutter/flutter/pull/156148) opened on on October 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/156148) 378 additions and 95 deletions in 5 files</sub><br />
