@@ -1051,7 +1051,11 @@
 
 ### October 5, 2024 to October 11, 2024
 
-1 commits.
+2 commits.
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Add `/to/web-html-renderer-deprecation` redirect
+  <sub>[#11238](https://github.com/flutter/website/pull/11238) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11238) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[WalkQuackBack](https://github.com/WalkQuackBack)** &mdash; Fix typo in sidenav for in Cookbook Animation "Animate a widget using a physics simulation“
   <sub>[#11234](https://github.com/flutter/website/pull/11234) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11234) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
