@@ -60,7 +60,7 @@
   <sub>[#156148](https://github.com/flutter/flutter/pull/156148) opened on on October 3, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/156148) 378 additions and 95 deletions in 5 files</sub><br />
 
 * **[Rody Davis](https://github.com/rodydavis)** &mdash; Add transformChild property to InteractiveViewer<br />
-  <sub>[#156163](https://github.com/flutter/flutter/pull/156163) opened on on October 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156163) 20 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#156163](https://github.com/flutter/flutter/pull/156163) opened on on October 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156163) 95 additions and 7 deletions in 1 file</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Move platform-specific log-reading implementation details from `ResidentRunner`/`FlutterDevice` to `DeviceLogReader` implementations<br />
   <sub>[#156181](https://github.com/flutter/flutter/pull/156181) opened on on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156181) 136 additions and 127 deletions in 22 files</sub><br />
