@@ -75,7 +75,7 @@
   <sub>[#156292](https://github.com/flutter/flutter/pull/156292) opened on on October 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156292) 86 additions and 27 deletions in 2 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] fix android studio preview's version parsing<br />
-  <sub>[#156293](https://github.com/flutter/flutter/pull/156293) opened on on October 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156293) 35 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#156293](https://github.com/flutter/flutter/pull/156293) opened on on October 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156293) 35 additions and 1 deletion in 2 files</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
   <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
