@@ -4,7 +4,11 @@
 
 ### October 5, 2024 to October 11, 2024
 
-3 commits.
+4 commits.
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
+  <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `DropdownMenu` with `expandedInsets` always aligned on top<br />
   <sub>[#156214](https://github.com/flutter/flutter/pull/156214) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156214) over 3 days, 38 additions and 4 deletions in 2 files</sub><br />
@@ -364,7 +368,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-6 commits.
+7 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add parsing of known GPU models<br />
   <sub>[#55196](https://github.com/flutter/engine/pull/55196) merged on October 7, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/55196) over 3 weeks, 313 additions and 21 deletions in 3 files</sub><br />
@@ -377,6 +381,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Vulkan command encoder abstraction, use command buffer vk.<br />
   <sub>[#55680](https://github.com/flutter/engine/pull/55680) merged on October 7, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55680) over 1 day, 288 additions and 451 deletions in 22 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Speculative fix for memory issues related to retrying image decompression<br />
+  <sub>[#55704](https://github.com/flutter/engine/pull/55704) merged on October 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55704) over 3 hours, 178 additions and 13 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Path clarification in Setting-up-the-Engine-development-environment.md<br />
   <sub>[#55529](https://github.com/flutter/engine/pull/55529) merged on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55529) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
