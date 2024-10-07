@@ -942,6 +942,10 @@
   <sub>[#7723](https://github.com/flutter/packages/pull/7723) merged on September 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7723) over 2 days, 462 additions and 23 deletions in 14 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Java compatibility version to 11<br />
+  <sub>[#7795](https://github.com/flutter/packages/pull/7795) merged on October 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/7795) over 15 hours, 250 additions and 288 deletions in 84 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Added missing implementation for the routerNeglect parameter in GoRouter<br />
   <sub>[#7752](https://github.com/flutter/packages/pull/7752) merged on October 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7752) over 3 days, 100 additions and 6 deletions in 9 files</sub><br />
   <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -961,10 +965,6 @@
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; [web_benchmarks] Replace `initialPage` parameter with `benchmarkPath`<br />
   <sub>[#7743](https://github.com/flutter/packages/pull/7743) merged on September 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7743) over 4 hours, 115 additions and 57 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Java compatibility version to 11<br />
-  <sub>[#7795](https://github.com/flutter/packages/pull/7795) merged on October 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/7795) over 15 hours, 250 additions and 288 deletions in 84 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Update Android Pigeon<br />
   <sub>[#7744](https://github.com/flutter/packages/pull/7744) merged on October 4, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7744) over 3 days, 254 additions and 163 deletions in 7 files</sub><br />
