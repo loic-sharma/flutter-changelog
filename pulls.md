@@ -84,5 +84,5 @@
   <sub>[#156338](https://github.com/flutter/flutter/pull/156338) opened on on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156338) 3 additions and 2 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify when `override: no versioning needed` label should be applied<br />
-  <sub>[#156342](https://github.com/flutter/flutter/pull/156342) opened on on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156342) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#156342](https://github.com/flutter/flutter/pull/156342) opened on on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156342) 2 additions and 2 deletions in 1 file</sub><br />
 
