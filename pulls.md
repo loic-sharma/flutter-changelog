@@ -81,5 +81,5 @@
   <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Aparin Kirill](https://github.com/kirya355)** &mdash; fix: ensure draggable_scrollable_sheet respects shouldCloseOnMinExten…<br />
-  <sub>[#156338](https://github.com/flutter/flutter/pull/156338) opened on on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156338) 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#156338](https://github.com/flutter/flutter/pull/156338) opened on on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156338) 3 additions and 2 deletions in 1 file</sub><br />
 
