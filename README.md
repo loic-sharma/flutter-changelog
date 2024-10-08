@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-9 commits.
+10 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify when `override: no versioning needed` label should be applied<br />
   <sub>[#156342](https://github.com/flutter/flutter/pull/156342) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156342) over 3 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Update `DropdownMenu` tests to remove some dependence on platforms<br />
+  <sub>[#156131](https://github.com/flutter/flutter/pull/156131) merged on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156131) over 5 days, 36 additions and 25 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Update 'dump-info' usage for dart2js builds<br />
   <sub>[#156187](https://github.com/flutter/flutter/pull/156187) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156187) over 3 days, 2 additions and 2 deletions in 2 files</sub><br />
@@ -895,7 +899,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-8 commits.
+9 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
@@ -924,6 +928,10 @@
 * **[Jason Edwards](https://github.com/jtanium)** &mdash; [webview_flutter_wkwebview] Support NTLM for authentication<br />
   <sub>[#7670](https://github.com/flutter/packages/pull/7670) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7670) over 2 weeks, 49 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; [WIP] Updated applying gradle plugin for flutter_plugin_android_lifecycles<br />
+  <sub>[#7786](https://github.com/flutter/packages/pull/7786) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7786) over 4 days, 34 additions and 37 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[in_app_purchase_storekit] Add support for purchase and transactions"<br />
   <sub>[#7810](https://github.com/flutter/packages/pull/7810) merged on October 7, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/7810) over 5 minutes, 248 additions and 1876 deletions in 26 files</sub><br />
