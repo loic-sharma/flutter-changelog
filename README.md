@@ -372,7 +372,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-7 commits.
+8 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add parsing of known GPU models<br />
   <sub>[#55196](https://github.com/flutter/engine/pull/55196) merged on October 7, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/55196) over 3 weeks, 313 additions and 21 deletions in 3 files</sub><br />
@@ -401,6 +401,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: Migrate FlutterEngine to ARC (#55590)"<br />
   <sub>[#55699](https://github.com/flutter/engine/pull/55699) merged on October 7, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55699) over 40 minutes, 377 additions and 269 deletions in 5 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Reland [skwasm] Scene builder optimizations for platform view placement (#55468)"<br />
+  <sub>[#55715](https://github.com/flutter/engine/pull/55715) merged on October 8, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55715) over 55 minutes, 373 additions and 784 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 ### September 28, 2024 to October 4, 2024
 
@@ -1063,7 +1067,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-4 commits.
+5 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-tool-bug` redirect<br />
   <sub>[#11239](https://github.com/flutter/website/pull/11239) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11239) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
@@ -1071,6 +1075,10 @@
 
 * **[Tushar Bansod](https://github.com/tbansod2018)** &mdash; updated slugify function to replace + with plus<br />
   <sub>[#11236](https://github.com/flutter/website/pull/11236) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11236) over 8 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-rbe`<br />
+  <sub>[#11241](https://github.com/flutter/website/pull/11241) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11241) over 13 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Add `/to/web-html-renderer-deprecation` redirect<br />
