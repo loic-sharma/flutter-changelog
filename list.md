@@ -929,7 +929,7 @@
   <sub>[#7670](https://github.com/flutter/packages/pull/7670) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7670) over 2 weeks, 49 additions and 2 deletions in 5 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; [WIP] Updated applying gradle plugin for flutter_plugin_android_lifecycles
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Updated applying gradle plugin for flutter_plugin_android_lifecycles
   <sub>[#7786](https://github.com/flutter/packages/pull/7786) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7786) over 4 days, 34 additions and 37 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
