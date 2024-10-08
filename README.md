@@ -919,7 +919,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-9 commits.
+12 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
@@ -928,6 +928,14 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Remove incorrect SMS instructions<br />
   <sub>[#7807](https://github.com/flutter/packages/pull/7807) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7807) over 18 hours, 3 additions and 33 deletions in 4 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Update iOS Pigeon for non-nullable generics<br />
+  <sub>[#7787](https://github.com/flutter/packages/pull/7787) merged on October 8, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/7787) over 4 days, 875 additions and 791 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Update Android Pigeon for non-nullable generics<br />
+  <sub>[#7788](https://github.com/flutter/packages/pull/7788) merged on October 8, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/7788) over 4 days, 1197 additions and 899 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds remaining methods for internal wrapper of the iOS native `IMAAdsRenderingSettings`<br />
   <sub>[#7745](https://github.com/flutter/packages/pull/7745) merged on October 8, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/7745) over 1 week, 615 additions and 7 deletions in 10 files</sub><br />
@@ -948,6 +956,10 @@
 * **[Jason Edwards](https://github.com/jtanium)** &mdash; [webview_flutter_wkwebview] Support NTLM for authentication<br />
   <sub>[#7670](https://github.com/flutter/packages/pull/7670) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7670) over 2 weeks, 49 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Manually Roll Flutter (stable) from 4cf269e36de2 to 2663184aa790 (5 revisions)<br />
+  <sub>[#7819](https://github.com/flutter/packages/pull/7819) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7819) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated applying gradle plugin for flutter_plugin_android_lifecycles<br />
   <sub>[#7786](https://github.com/flutter/packages/pull/7786) merged on October 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7786) over 4 days, 34 additions and 37 deletions in 3 files</sub><br />
