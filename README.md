@@ -412,7 +412,16 @@
 
 ### October 5, 2024 to October 11, 2024
 
-19 commits.
+21 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix incorrect clipping with Opacity scene layer<br />
+  <sub>[#55751](https://github.com/flutter/engine/pull/55751) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55751) over 3 hours, 66 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+  <sub><details><summary>4 images...</summary>![Screenshot 2024-10-08 at 11 00 14 AM](https://github.com/user-attachments/assets/cf4c6296-7730-4db6-96f6-e22f32e28d94)![Screenshot 2024-10-08 at 11 06 22 AM](https://github.com/user-attachments/assets/6a680e2c-23d0-41e2-9de5-1c9667a785ab)![failing_opacity](https://github.com/user-attachments/assets/d8acf075-c92d-4f8a-aa1a-476f46f1c931)![working_opacity](https://github.com/user-attachments/assets/3e589deb-d8b6-4466-9e19-95daff870bfb)</details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor multi-file build parsing into a single `BuildPlan` class.<br />
+  <sub>[#55720](https://github.com/flutter/engine/pull/55720) merged on October 8, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/55720) over 21 hours, 1425 additions and 455 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove heap allocation of most geometry objects.<br />
   <sub>[#55677](https://github.com/flutter/engine/pull/55677) merged on October 8, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55677) over 2 days, 480 additions and 461 deletions in 39 files</sub><br />
