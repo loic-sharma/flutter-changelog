@@ -89,3 +89,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update MenuAnchor API examples<br />
   <sub>[#156404](https://github.com/flutter/flutter/pull/156404) opened on on October 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156404) 14 additions and 42 deletions in 6 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `DropdownMenu.closeBehavior` to control menu closing behavior<br />
+  <sub>[#156405](https://github.com/flutter/flutter/pull/156405) opened on on October 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156405) 116 additions and 0 deletions in 2 files</sub><br />
+
