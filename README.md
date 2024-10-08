@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-5 commits.
+6 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
   <sub>[#156214](https://github.com/flutter/flutter/pull/156214) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156214) over 3 days, 38 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
   <sub><details><summary>2 images...</summary><img width="770" alt="Screenshot 2024-10-04 at 14 13 58" src="https://github.com/user-attachments/assets/c7520c12-d16a-4867-8fae-38b75dbc4225"><img width="770" alt="Screenshot 2024-10-04 at 14 13 49" src="https://github.com/user-attachments/assets/82e0b81e-5c85-4e59-99b8-df329459773b"></details></sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Emit a deprecation warning for some values of --web-renderer.<br />
+  <sub>[#156376](https://github.com/flutter/flutter/pull/156376) merged on October 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156376) over 1 hour, 121 additions and 0 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify when `override: no versioning needed` label should be applied<br />
   <sub>[#156342](https://github.com/flutter/flutter/pull/156342) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156342) over 3 hours, 2 additions and 2 deletions in 1 file</sub><br />
