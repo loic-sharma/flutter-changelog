@@ -372,11 +372,15 @@
 
 ### October 5, 2024 to October 11, 2024
 
-8 commits.
+9 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add parsing of known GPU models
   <sub>[#55196](https://github.com/flutter/engine/pull/55196) merged on October 7, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/55196) over 3 weeks, 313 additions and 21 deletions in 3 files</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [John McDole](https://github.com/jtmcdole), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Warn users when picking a deprecated renderer.
+  <sub>[#55709](https://github.com/flutter/engine/pull/55709) merged on October 8, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/55709) over 4 hours, 52 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable surface control on API 29.
   <sub>[#55708](https://github.com/flutter/engine/pull/55708) merged on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55708) over 44 minutes, 8 additions and 1 deletion in 1 file</sub>
