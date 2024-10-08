@@ -376,7 +376,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-9 commits.
+10 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add parsing of known GPU models
   <sub>[#55196](https://github.com/flutter/engine/pull/55196) merged on October 7, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/55196) over 3 weeks, 313 additions and 21 deletions in 3 files</sub>
@@ -405,6 +405,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; La Grande Fusion Notes - History Editing
   <sub>[#55667](https://github.com/flutter/engine/pull/55667) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55667) over 2 days, 260 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Delete DartIsolateTest.PlatformIsolateSendAndReceive
+  <sub>[#55722](https://github.com/flutter/engine/pull/55722) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55722) over 43 minutes, 0 additions and 73 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: Migrate FlutterEngine to ARC (#55590)"
   <sub>[#55699](https://github.com/flutter/engine/pull/55699) merged on October 7, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55699) over 40 minutes, 377 additions and 269 deletions in 5 files</sub>
