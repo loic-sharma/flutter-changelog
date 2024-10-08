@@ -408,7 +408,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-14 commits.
+15 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove heap allocation of most geometry objects.<br />
   <sub>[#55677](https://github.com/flutter/engine/pull/55677) merged on October 8, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55677) over 2 days, 480 additions and 461 deletions in 39 files</sub><br />
@@ -421,6 +421,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Warn users when picking a deprecated renderer.<br />
   <sub>[#55709](https://github.com/flutter/engine/pull/55709) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55709) over 4 hours, 52 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow wrapping external texture handles.<br />
+  <sub>[#55664](https://github.com/flutter/engine/pull/55664) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55664) over 4 days, 176 additions and 18 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable surface control on API 29.<br />
   <sub>[#55708](https://github.com/flutter/engine/pull/55708) merged on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55708) over 44 minutes, 8 additions and 1 deletion in 1 file</sub><br />
@@ -931,7 +935,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-12 commits.
+13 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
@@ -968,6 +972,10 @@
 * **[Jason Edwards](https://github.com/jtanium)** &mdash; [webview_flutter_wkwebview] Support NTLM for authentication<br />
   <sub>[#7670](https://github.com/flutter/packages/pull/7670) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7670) over 2 weeks, 49 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Use non-nullable generics in example app<br />
+  <sub>[#7817](https://github.com/flutter/packages/pull/7817) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7817) over 5 hours, 10 additions and 10 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Manually Roll Flutter (stable) from 4cf269e36de2 to 2663184aa790 (5 revisions)<br />
   <sub>[#7819](https://github.com/flutter/packages/pull/7819) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7819) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
