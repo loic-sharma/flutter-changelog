@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-13 commits.
+14 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -42,6 +42,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify when `override: no versioning needed` label should be applied<br />
   <sub>[#156342](https://github.com/flutter/flutter/pull/156342) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156342) over 3 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize `ThemeData.tabBarTheme`<br />
+  <sub>[#156253](https://github.com/flutter/flutter/pull/156253) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156253) over 3 days, 84 additions and 65 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update MenuAnchor API examples<br />
   <sub>[#156404](https://github.com/flutter/flutter/pull/156404) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156404) over 4 hours, 10 additions and 14 deletions in 5 files</sub><br />
@@ -404,7 +408,11 @@
 
 ### October 5, 2024 to October 11, 2024
 
-12 commits.
+13 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove heap allocation of most geometry objects.<br />
+  <sub>[#55677](https://github.com/flutter/engine/pull/55677) merged on October 8, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55677) over 2 days, 480 additions and 461 deletions in 39 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add parsing of known GPU models<br />
   <sub>[#55196](https://github.com/flutter/engine/pull/55196) merged on October 7, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/55196) over 3 weeks, 313 additions and 21 deletions in 3 files</sub><br />
