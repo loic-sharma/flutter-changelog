@@ -30,7 +30,7 @@
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154834) 7 additions and 13 deletions in 1 file</sub><br />
 
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
-  <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/154941) 6 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/154941) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[HongeSun](https://github.com/hongeSunCoder)** &mdash; correct wrong git commands<br />
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
