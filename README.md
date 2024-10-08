@@ -408,7 +408,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-15 commits.
+16 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove heap allocation of most geometry objects.<br />
   <sub>[#55677](https://github.com/flutter/engine/pull/55677) merged on October 8, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55677) over 2 days, 480 additions and 461 deletions in 39 files</sub><br />
@@ -433,6 +433,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Vulkan command encoder abstraction, use command buffer vk.<br />
   <sub>[#55680](https://github.com/flutter/engine/pull/55680) merged on October 7, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55680) over 1 day, 288 additions and 451 deletions in 22 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Fix typo in public API.<br />
+  <sub>[#55750](https://github.com/flutter/engine/pull/55750) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55750) over 43 minutes, 7 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added mutex to the pending gpu tasks deque.<br />
   <sub>[#55748](https://github.com/flutter/engine/pull/55748) merged on October 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55748) over 1 hour, 29 additions and 9 deletions in 2 files</sub><br />
