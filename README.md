@@ -935,7 +935,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-13 commits.
+14 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
@@ -972,6 +972,10 @@
 * **[Jason Edwards](https://github.com/jtanium)** &mdash; [webview_flutter_wkwebview] Support NTLM for authentication<br />
   <sub>[#7670](https://github.com/flutter/packages/pull/7670) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7670) over 2 weeks, 49 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Dispose the `ExoPlayer` before `SurfaceProducer`.<br />
+  <sub>[#7824](https://github.com/flutter/packages/pull/7824) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7824) over 2 hours, 16 additions and 5 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Use non-nullable generics in example app<br />
   <sub>[#7817](https://github.com/flutter/packages/pull/7817) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7817) over 5 hours, 10 additions and 10 deletions in 6 files</sub><br />
