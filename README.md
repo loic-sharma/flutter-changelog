@@ -930,7 +930,7 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Updated applying gradle plugin for flutter_plugin_android_lifecycles<br />
-  <sub>[#7786](https://github.com/flutter/packages/pull/7786) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7786) over 4 days, 34 additions and 37 deletions in 3 files</sub><br />
+  <sub>[#7786](https://github.com/flutter/packages/pull/7786) merged on October 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7786) over 4 days, 34 additions and 37 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[in_app_purchase_storekit] Add support for purchase and transactions"<br />
