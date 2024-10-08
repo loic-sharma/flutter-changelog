@@ -178,7 +178,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux), [davidhicks980](https://github.com/davidhicks980), [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Move some tools test ownership to Ben<br />
-  <sub>[#156123](https://github.com/flutter/flutter/pull/156123) merged on October 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156123) over 16 hours, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#156123](https://github.com/flutter/flutter/pull/156123) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156123) over 16 hours, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark {Linux,Windows} tool_integration_tests_* non-bringup<br />
@@ -412,7 +412,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-17 commits.
+18 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove heap allocation of most geometry objects.<br />
   <sub>[#55677](https://github.com/flutter/engine/pull/55677) merged on October 8, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55677) over 2 days, 480 additions and 461 deletions in 39 files</sub><br />
@@ -425,6 +425,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Warn users when picking a deprecated renderer.<br />
   <sub>[#55709](https://github.com/flutter/engine/pull/55709) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55709) over 4 hours, 52 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not scale the miter limit applied to stroked text<br />
+  <sub>[#55745](https://github.com/flutter/engine/pull/55745) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55745) over 4 hours, 24 additions and 3 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow wrapping external texture handles.<br />
   <sub>[#55664](https://github.com/flutter/engine/pull/55664) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55664) over 4 days, 176 additions and 18 deletions in 9 files</sub><br />
@@ -443,7 +447,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added mutex to the pending gpu tasks deque.<br />
-  <sub>[#55748](https://github.com/flutter/engine/pull/55748) merged on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55748) over 1 hour, 29 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#55748](https://github.com/flutter/engine/pull/55748) merged on October 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55748) over 1 hour, 29 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; added shell_unittests and ui_unittests to the testing menu<br />
