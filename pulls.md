@@ -83,9 +83,6 @@
 * **[Aziz Chebbi](https://github.com/azizChebbi)** &mdash; Fix: Announce only the first error message for better accessibility<br />
   <sub>[#156399](https://github.com/flutter/flutter/pull/156399) opened on on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156399) 3 additions and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update MenuAnchor API examples<br />
-  <sub>[#156404](https://github.com/flutter/flutter/pull/156404) opened on on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156404) 10 additions and 14 deletions in 5 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Fix `DropdownMenu` focus<br />
   <sub>[#156412](https://github.com/flutter/flutter/pull/156412) opened on on October 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156412) 45 additions and 1 deletion in 2 files</sub><br />
 
