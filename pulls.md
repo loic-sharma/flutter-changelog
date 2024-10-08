@@ -83,3 +83,6 @@
 * **[Aparin Kirill](https://github.com/kirya355)** &mdash; fix: ensure draggable_scrollable_sheet respects shouldCloseOnMinExten…<br />
   <sub>[#156338](https://github.com/flutter/flutter/pull/156338) opened on on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156338) 3 additions and 2 deletions in 1 file</sub><br />
 
+* **[Aziz Chebbi](https://github.com/azizChebbi)** &mdash; Fix: Announce only the first error message for better accessibility<br />
+  <sub>[#156399](https://github.com/flutter/flutter/pull/156399) opened on on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156399) 3 additions and 1 deletion in 1 file</sub><br />
+
