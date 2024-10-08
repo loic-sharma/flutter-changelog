@@ -396,7 +396,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-11 commits.
+12 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add parsing of known GPU models<br />
   <sub>[#55196](https://github.com/flutter/engine/pull/55196) merged on October 7, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/55196) over 3 weeks, 313 additions and 21 deletions in 3 files</sub><br />
@@ -413,6 +413,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Vulkan command encoder abstraction, use command buffer vk.<br />
   <sub>[#55680](https://github.com/flutter/engine/pull/55680) merged on October 7, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55680) over 1 day, 288 additions and 451 deletions in 22 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; added shell_unittests and ui_unittests to the testing menu<br />
+  <sub>[#55711](https://github.com/flutter/engine/pull/55711) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55711) over 21 hours, 96 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Record notes on hashing artifacts in a monorepo<br />
   <sub>[#55703](https://github.com/flutter/engine/pull/55703) merged on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55703) over 1 day, 99 additions and 0 deletions in 1 file</sub><br />
