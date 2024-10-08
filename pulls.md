@@ -78,5 +78,5 @@
   <sub>[#156430](https://github.com/flutter/flutter/pull/156430) opened on on October 8, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/156430) 284 additions and 283 deletions in 3 files</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; add test for autofill api example<br />
-  <sub>[#156439](https://github.com/flutter/flutter/pull/156439) opened on on October 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156439) 110 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#156439](https://github.com/flutter/flutter/pull/156439) opened on on October 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156439) 47 additions and 1 deletion in 2 files</sub><br />
 
