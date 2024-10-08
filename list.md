@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-6 commits.
+7 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub>
@@ -14,6 +14,10 @@
   <sub>[#156214](https://github.com/flutter/flutter/pull/156214) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156214) over 3 days, 38 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
   <sub><details><summary>2 images...</summary><img width="770" alt="Screenshot 2024-10-04 at 14 13 58" src="https://github.com/user-attachments/assets/c7520c12-d16a-4867-8fae-38b75dbc4225"><img width="770" alt="Screenshot 2024-10-04 at 14 13 49" src="https://github.com/user-attachments/assets/82e0b81e-5c85-4e59-99b8-df329459773b"></details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `flexible_space_bar_test.dart` tests for Material 3
+  <sub>[#156226](https://github.com/flutter/flutter/pull/156226) merged on October 8, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/156226) over 3 days, 782 additions and 89 deletions in 1 file</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Emit a deprecation warning for some values of --web-renderer.
   <sub>[#156376](https://github.com/flutter/flutter/pull/156376) merged on October 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156376) over 1 hour, 121 additions and 0 deletions in 7 files</sub>
