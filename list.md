@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-8 commits.
+9 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub>
@@ -26,6 +26,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migrator for android 35/16kb page size cmake flags for plugin_ffi 
   <sub>[#156221](https://github.com/flutter/flutter/pull/156221) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156221) over 3 days, 216 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; NavigatorPopHandler.onPopWithResult
+  <sub>[#155618](https://github.com/flutter/flutter/pull/155618) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155618) over 1 week, 114 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ari Weiland](https://github.com/math1man), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify when `override: no versioning needed` label should be applied
   <sub>[#156342](https://github.com/flutter/flutter/pull/156342) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156342) over 3 hours, 2 additions and 2 deletions in 1 file</sub>
