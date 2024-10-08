@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-12 commits.
+13 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub>
@@ -42,6 +42,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify when `override: no versioning needed` label should be applied
   <sub>[#156342](https://github.com/flutter/flutter/pull/156342) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156342) over 3 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update MenuAnchor API examples
+  <sub>[#156404](https://github.com/flutter/flutter/pull/156404) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156404) over 4 hours, 10 additions and 14 deletions in 5 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Update `DropdownMenu` tests to remove some dependence on platforms
   <sub>[#156131](https://github.com/flutter/flutter/pull/156131) merged on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156131) over 5 days, 36 additions and 25 deletions in 2 files</sub>
@@ -1138,7 +1142,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Rydmike](https://github.com/rydmike)** &mdash; FIX: Broken links on "new-color-scheme-roles.md" page
-  <sub>[#11245](https://github.com/flutter/website/pull/11245) merged on October 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11245) over 5 hours, 4 additions and 4 deletions in 1 file</sub>
+  <sub>[#11245](https://github.com/flutter/website/pull/11245) merged on October 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11245) over 5 hours, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Add `/to/web-html-renderer-deprecation` redirect
