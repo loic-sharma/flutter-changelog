@@ -86,3 +86,6 @@
 * **[Aziz Chebbi](https://github.com/azizChebbi)** &mdash; Fix: Announce only the first error message for better accessibility<br />
   <sub>[#156399](https://github.com/flutter/flutter/pull/156399) opened on on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156399) 3 additions and 1 deletion in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update MenuAnchor API examples<br />
+  <sub>[#156404](https://github.com/flutter/flutter/pull/156404) opened on on October 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156404) 14 additions and 42 deletions in 6 files</sub><br />
+
