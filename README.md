@@ -1115,7 +1115,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-5 commits.
+6 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-tool-bug` redirect<br />
   <sub>[#11239](https://github.com/flutter/website/pull/11239) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11239) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
@@ -1128,6 +1128,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-rbe`<br />
   <sub>[#11241](https://github.com/flutter/website/pull/11241) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11241) over 13 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Rydmike](https://github.com/rydmike)** &mdash; FIX: Broken links on "new-color-scheme-roles.md" page<br />
+  <sub>[#11245](https://github.com/flutter/website/pull/11245) merged on October 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11245) over 5 hours, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Add `/to/web-html-renderer-deprecation` redirect<br />
   <sub>[#11238](https://github.com/flutter/website/pull/11238) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11238) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
