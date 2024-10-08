@@ -891,11 +891,19 @@
 
 ### October 5, 2024 to October 11, 2024
 
-6 commits.
+8 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Remove incorrect SMS instructions<br />
+  <sub>[#7807](https://github.com/flutter/packages/pull/7807) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7807) over 18 hours, 3 additions and 33 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds remaining methods for internal wrapper of the iOS native `IMAAdsRenderingSettings`<br />
+  <sub>[#7745](https://github.com/flutter/packages/pull/7745) merged on October 8, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/7745) over 1 week, 615 additions and 7 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Update Pigeon for non-nullable generics<br />
   <sub>[#7785](https://github.com/flutter/packages/pull/7785) merged on October 7, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/packages/pull/7785) over 3 days, 461 additions and 263 deletions in 10 files</sub><br />
