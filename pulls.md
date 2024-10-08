@@ -77,6 +77,3 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [DO NOT LAND]Testing presubmit for engine PR <br />
   <sub>[#156430](https://github.com/flutter/flutter/pull/156430) opened on on October 8, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/156430) 284 additions and 283 deletions in 3 files</sub><br />
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Update description of where to install platforms in XCode<br />
-  <sub>[#156432](https://github.com/flutter/flutter/pull/156432) opened on on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156432) 2 additions and 2 deletions in 2 files</sub><br />
-

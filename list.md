@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-14 commits.
+15 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub>
@@ -42,6 +42,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify when `override: no versioning needed` label should be applied
   <sub>[#156342](https://github.com/flutter/flutter/pull/156342) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156342) over 3 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Update description of where to install platforms in XCode
+  <sub>[#156432](https://github.com/flutter/flutter/pull/156432) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156432) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Normalize `ThemeData.tabBarTheme`
   <sub>[#156253](https://github.com/flutter/flutter/pull/156253) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156253) over 3 days, 84 additions and 65 deletions in 6 files</sub>
