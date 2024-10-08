@@ -53,9 +53,6 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add code sample to the CupertinoMagnifier/CupertinoTextMagnifier<br />
   <sub>[#156028](https://github.com/flutter/flutter/pull/156028) opened on on October 1, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/156028) 137 additions and 0 deletions in 3 files</sub><br />
 
-* **[Rody Davis](https://github.com/rodydavis)** &mdash; Add transformChild property to InteractiveViewer<br />
-  <sub>[#156163](https://github.com/flutter/flutter/pull/156163) opened on on October 3, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/156163) 125 additions and 7 deletions in 2 files</sub><br />
-
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix: showDatePicker should have a simple example in the docs<br />
   <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/156196) 126 additions and 0 deletions in 3 files</sub><br />
 
@@ -76,12 +73,6 @@
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
   <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
-
-* **[Aparin Kirill](https://github.com/kirya355)** &mdash; fix: ensure draggable_scrollable_sheet respects shouldCloseOnMinExten…<br />
-  <sub>[#156338](https://github.com/flutter/flutter/pull/156338) opened on on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156338) 3 additions and 2 deletions in 1 file</sub><br />
-
-* **[Aziz Chebbi](https://github.com/azizChebbi)** &mdash; Fix: Announce only the first error message for better accessibility<br />
-  <sub>[#156399](https://github.com/flutter/flutter/pull/156399) opened on on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156399) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix `DropdownMenu` focus<br />
   <sub>[#156412](https://github.com/flutter/flutter/pull/156412) opened on on October 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156412) 45 additions and 1 deletion in 2 files</sub><br />
