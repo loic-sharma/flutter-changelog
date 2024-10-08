@@ -412,7 +412,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-16 commits.
+17 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove heap allocation of most geometry objects.<br />
   <sub>[#55677](https://github.com/flutter/engine/pull/55677) merged on October 8, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55677) over 2 days, 480 additions and 461 deletions in 39 files</sub><br />
@@ -443,7 +443,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added mutex to the pending gpu tasks deque.<br />
-  <sub>[#55748](https://github.com/flutter/engine/pull/55748) merged on October 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55748) over 1 hour, 29 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#55748](https://github.com/flutter/engine/pull/55748) merged on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55748) over 1 hour, 29 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; added shell_unittests and ui_unittests to the testing menu<br />
@@ -465,6 +465,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; La Grande Fusion Notes - History Editing<br />
   <sub>[#55667](https://github.com/flutter/engine/pull/55667) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55667) over 2 days, 260 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to set primitive type<br />
+  <sub>[#55514](https://github.com/flutter/engine/pull/55514) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55514) over 1 week, 68 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Delete DartIsolateTest.PlatformIsolateSendAndReceive<br />
   <sub>[#55722](https://github.com/flutter/engine/pull/55722) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55722) over 43 minutes, 0 additions and 73 deletions in 1 file</sub><br />
