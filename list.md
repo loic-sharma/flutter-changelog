@@ -412,7 +412,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-18 commits.
+19 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove heap allocation of most geometry objects.
   <sub>[#55677](https://github.com/flutter/engine/pull/55677) merged on October 8, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55677) over 2 days, 480 additions and 461 deletions in 39 files</sub>
@@ -425,6 +425,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Warn users when picking a deprecated renderer.
   <sub>[#55709](https://github.com/flutter/engine/pull/55709) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55709) over 4 hours, 52 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; fixes mask blurs on stoked gradient geometry
+  <sub>[#55717](https://github.com/flutter/engine/pull/55717) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55717) over 22 hours, 106 additions and 9 deletions in 4 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not scale the miter limit applied to stroked text
   <sub>[#55745](https://github.com/flutter/engine/pull/55745) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55745) over 4 hours, 24 additions and 3 deletions in 4 files</sub>
