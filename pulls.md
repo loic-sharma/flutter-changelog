@@ -84,5 +84,5 @@
   <sub>[#156442](https://github.com/flutter/flutter/pull/156442) opened on on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156442) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for animated list example<br />
-  <sub>[#156452](https://github.com/flutter/flutter/pull/156452) opened on on October 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156452) 45 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#156452](https://github.com/flutter/flutter/pull/156452) opened on on October 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156452) 45 additions and 1 deletion in 2 files</sub><br />
 
