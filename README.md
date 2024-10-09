@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-15 commits.
+16 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
   <sub>[#156214](https://github.com/flutter/flutter/pull/156214) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156214) over 3 days, 38 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
   <sub><details><summary>2 images...</summary><img width="770" alt="Screenshot 2024-10-04 at 14 13 58" src="https://github.com/user-attachments/assets/c7520c12-d16a-4867-8fae-38b75dbc4225"><img width="770" alt="Screenshot 2024-10-04 at 14 13 49" src="https://github.com/user-attachments/assets/82e0b81e-5c85-4e59-99b8-df329459773b"></details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started handling duplicate validation layer messages<br />
+  <sub>[#156375](https://github.com/flutter/flutter/pull/156375) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156375) over 1 day, 7 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `flexible_space_bar_test.dart` tests for Material 3<br />
   <sub>[#156226](https://github.com/flutter/flutter/pull/156226) merged on October 8, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/156226) over 3 days, 782 additions and 89 deletions in 1 file</sub><br />
@@ -412,7 +416,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-24 commits.
+25 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.<br />
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub><br />
@@ -463,6 +467,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Vulkan command encoder abstraction, use command buffer vk.<br />
   <sub>[#55680](https://github.com/flutter/engine/pull/55680) merged on October 7, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55680) over 1 day, 288 additions and 451 deletions in 22 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `GetTargetRenderPassDescriptor` to `GetRenderTarget`.<br />
+  <sub>[#55765](https://github.com/flutter/engine/pull/55765) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55765) over 11 hours, 22 additions and 27 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow fetching OpenGL texture handle.<br />
   <sub>[#55753](https://github.com/flutter/engine/pull/55753) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55753) over 10 hours, 43 additions and 4 deletions in 5 files</sub><br />
