@@ -178,7 +178,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux), [davidhicks980](https://github.com/davidhicks980), [Greg Spencer](https://github.com/gspencergoog), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Move some tools test ownership to Ben<br />
-  <sub>[#156123](https://github.com/flutter/flutter/pull/156123) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156123) over 16 hours, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#156123](https://github.com/flutter/flutter/pull/156123) merged on October 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156123) over 16 hours, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark {Linux,Windows} tool_integration_tests_* non-bringup<br />
@@ -412,7 +412,12 @@
 
 ### October 5, 2024 to October 11, 2024
 
-21 commits.
+22 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.<br />
+  <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+  <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/9eecb67f-a980-4556-8060-b0c947713534)![image](https://github.com/user-attachments/assets/c8e2071f-e7c0-411c-8f37-e1f3037916f4)</details></sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix incorrect clipping with Opacity scene layer<br />
   <sub>[#55751](https://github.com/flutter/engine/pull/55751) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55751) over 3 hours, 66 additions and 6 deletions in 2 files</sub><br />
@@ -964,11 +969,15 @@
 
 ### October 5, 2024 to October 11, 2024
 
-14 commits.
+15 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Disable `SurfaceProducer.Callback` when the surface is disposed manually.<br />
+  <sub>[#7827](https://github.com/flutter/packages/pull/7827) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7827) over 1 hour, 22 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Remove incorrect SMS instructions<br />
   <sub>[#7807](https://github.com/flutter/packages/pull/7807) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7807) over 18 hours, 3 additions and 33 deletions in 4 files</sub><br />
