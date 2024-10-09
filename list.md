@@ -1229,7 +1229,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-6 commits.
+7 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-tool-bug` redirect
   <sub>[#11239](https://github.com/flutter/website/pull/11239) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11239) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
@@ -1237,6 +1237,10 @@
 
 * **[Tushar Bansod](https://github.com/tbansod2018)** &mdash; updated slugify function to replace + with plus
   <sub>[#11236](https://github.com/flutter/website/pull/11236) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11236) over 8 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Rename DevTools 2.40.0 notes to 2.40.1 to include CP release
+  <sub>[#11255](https://github.com/flutter/website/pull/11255) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11255) over 13 minutes, 20 additions and 14 deletions in 7 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-rbe`
