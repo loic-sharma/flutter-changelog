@@ -99,5 +99,5 @@
   <sub>[#156486](https://github.com/flutter/flutter/pull/156486) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156486) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix OutputFile deprecation inside flutter.groovy<br />
-  <sub>[#156490](https://github.com/flutter/flutter/pull/156490) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156490) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#156490](https://github.com/flutter/flutter/pull/156490) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156490) 3 additions and 3 deletions in 1 file</sub><br />
 
