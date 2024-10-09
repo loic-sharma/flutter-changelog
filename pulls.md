@@ -81,7 +81,7 @@
   <sub>[#156439](https://github.com/flutter/flutter/pull/156439) opened on on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156439) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Emmanuel Bonke](https://github.com/Coder-Manuel)** &mdash; add `dividerThickness` in `PaginatedDataTable`<br />
-  <sub>[#156442](https://github.com/flutter/flutter/pull/156442) opened on on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156442) 75 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#156442](https://github.com/flutter/flutter/pull/156442) opened on on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/156442) 75 additions and 0 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for animated list example<br />
   <sub>[#156452](https://github.com/flutter/flutter/pull/156452) opened on on October 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156452) 45 additions and 1 deletion in 2 files</sub><br />
