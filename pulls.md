@@ -101,3 +101,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix OutputFile deprecation inside flutter.groovy<br />
   <sub>[#156490](https://github.com/flutter/flutter/pull/156490) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156490) 2 additions and 3 deletions in 1 file</sub><br />
 
+* **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
+  <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156501) 129 additions and 2 deletions in 3 files</sub><br />
+
