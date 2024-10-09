@@ -96,7 +96,7 @@
   <sub>[#156485](https://github.com/flutter/flutter/pull/156485) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156485) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix XmlParser deprecation inside flutter.groovy<br />
-  <sub>[#156486](https://github.com/flutter/flutter/pull/156486) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156486) 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#156486](https://github.com/flutter/flutter/pull/156486) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156486) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix OutputFile deprecation inside flutter.groovy<br />
   <sub>[#156490](https://github.com/flutter/flutter/pull/156490) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156490) 2 additions and 3 deletions in 1 file</sub><br />
