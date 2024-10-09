@@ -416,7 +416,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-26 commits.
+27 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub>
@@ -467,6 +467,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Vulkan command encoder abstraction, use command buffer vk.
   <sub>[#55680](https://github.com/flutter/engine/pull/55680) merged on October 7, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55680) over 1 day, 288 additions and 451 deletions in 22 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow creating image color sources.
+  <sub>[#55754](https://github.com/flutter/engine/pull/55754) merged on October 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55754) over 22 hours, 51 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `GetTargetRenderPassDescriptor` to `GetRenderTarget`.
   <sub>[#55765](https://github.com/flutter/engine/pull/55765) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55765) over 11 hours, 22 additions and 27 deletions in 8 files</sub>
