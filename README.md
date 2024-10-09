@@ -416,7 +416,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-25 commits.
+26 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.<br />
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub><br />
@@ -515,6 +515,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: Migrate FlutterEngine to ARC (#55590)"<br />
   <sub>[#55699](https://github.com/flutter/engine/pull/55699) merged on October 7, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55699) over 40 minutes, 377 additions and 269 deletions in 5 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK to 3.6.0-334.2.beta<br />
+  <sub>[#55772](https://github.com/flutter/engine/pull/55772) merged on October 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55772) over 2 hours, 5 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Reland [skwasm] Scene builder optimizations for platform view placement (#55468)"<br />
   <sub>[#55715](https://github.com/flutter/engine/pull/55715) merged on October 8, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55715) over 55 minutes, 373 additions and 784 deletions in 10 files</sub><br />
