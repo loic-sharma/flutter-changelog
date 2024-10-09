@@ -54,7 +54,7 @@
   <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/156196) 126 additions and 0 deletions in 3 files</sub><br />
 
 * **[Nayden Gochev](https://github.com/gochev)** &mdash; Changing the flutter doctor and mac message when simulator is missing<br />
-  <sub>[#156202](https://github.com/flutter/flutter/pull/156202) opened on on October 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156202) 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#156202](https://github.com/flutter/flutter/pull/156202) opened on on October 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156202) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Muhammad Mohiuddin](https://github.com/MohiuddinM)** &mdash; feat: add errorBuilder property to customize errorText appearance<br />
   <sub>[#156275](https://github.com/flutter/flutter/pull/156275) opened on on October 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156275) 56 additions and 2 deletions in 2 files</sub><br />
