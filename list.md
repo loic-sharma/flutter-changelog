@@ -412,7 +412,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-23 commits.
+24 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub>
@@ -463,6 +463,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Vulkan command encoder abstraction, use command buffer vk.
   <sub>[#55680](https://github.com/flutter/engine/pull/55680) merged on October 7, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55680) over 1 day, 288 additions and 451 deletions in 22 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow fetching OpenGL texture handle.
+  <sub>[#55753](https://github.com/flutter/engine/pull/55753) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55753) over 10 hours, 43 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Fix typo in public API.
   <sub>[#55750](https://github.com/flutter/engine/pull/55750) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55750) over 43 minutes, 7 additions and 7 deletions in 4 files</sub>
