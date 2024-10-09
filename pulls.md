@@ -95,3 +95,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `first` and `second` deprecation in Tuple2<String, String> inside flutter.groovy<br />
   <sub>[#156485](https://github.com/flutter/flutter/pull/156485) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156485) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix XmlParser deprecation inside flutter.groovy<br />
+  <sub>[#156486](https://github.com/flutter/flutter/pull/156486) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156486) 1 addition and 0 deletions in 1 file</sub><br />
+
