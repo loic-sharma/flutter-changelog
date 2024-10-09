@@ -1249,7 +1249,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-9 commits.
+10 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-tool-bug` redirect
   <sub>[#11239](https://github.com/flutter/website/pull/11239) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11239) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
@@ -1269,6 +1269,10 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-rbe`
   <sub>[#11241](https://github.com/flutter/website/pull/11241) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11241) over 13 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Working around a broken redirect in the tooling
+  <sub>[#11257](https://github.com/flutter/website/pull/11257) merged on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11257) over 19 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Shreyas](https://github.com/shreyaspranav)** &mdash; Fix typo in vscode.md: change 'you' to 'your'
