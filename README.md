@@ -477,7 +477,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Run gen_snapshot under /usr/bin/time<br />
-  <sub>[#55777](https://github.com/flutter/engine/pull/55777) merged on October 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55777) over 4 hours, 4 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#55777](https://github.com/flutter/engine/pull/55777) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55777) over 4 hours, 4 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Publish SDK artifacts.<br />
