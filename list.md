@@ -436,7 +436,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-33 commits.
+34 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub>
@@ -472,9 +472,9 @@
   <sub>[#55745](https://github.com/flutter/engine/pull/55745) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55745) over 4 hours, 24 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Recognize`group`, and warn when we silently discard targets.
-  <sub>[#55791](https://github.com/flutter/engine/pull/55791) merged on October 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55791) over 20 hours, 167 additions and 1 deletion in 5 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow wrapping external texture handles.
+  <sub>[#55664](https://github.com/flutter/engine/pull/55664) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55664) over 4 days, 176 additions and 18 deletions in 9 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:a11y] make header a proper <header>
   <sub>[#55747](https://github.com/flutter/engine/pull/55747) merged on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55747) over 1 day, 77 additions and 20 deletions in 6 files</sub>
@@ -484,9 +484,9 @@
   <sub>[#55760](https://github.com/flutter/engine/pull/55760) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55760) over 49 minutes, 26 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow wrapping external texture handles.
-  <sub>[#55664](https://github.com/flutter/engine/pull/55664) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55664) over 4 days, 176 additions and 18 deletions in 9 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Recognize`group`, and warn when we silently discard targets.
+  <sub>[#55791](https://github.com/flutter/engine/pull/55791) merged on October 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55791) over 20 hours, 167 additions and 1 deletion in 5 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable surface control on API 29.
   <sub>[#55708](https://github.com/flutter/engine/pull/55708) merged on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55708) over 44 minutes, 8 additions and 1 deletion in 1 file</sub>
@@ -504,6 +504,10 @@
   <sub>[#55765](https://github.com/flutter/engine/pull/55765) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55765) over 11 hours, 22 additions and 27 deletions in 8 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] remove merge thread setting and fix default value.
+  <sub>[#55810](https://github.com/flutter/engine/pull/55810) merged on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55810) over 2 hours, 1 addition and 30 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole)</sub>
+
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to pick up change to --time executions
   <sub>[#55792](https://github.com/flutter/engine/pull/55792) merged on October 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55792) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google)</sub>
@@ -520,9 +524,9 @@
   <sub>[#55783](https://github.com/flutter/engine/pull/55783) merged on October 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55783) over 53 minutes, 71 additions and 9 deletions in 6 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow fetching OpenGL texture handle.
-  <sub>[#55753](https://github.com/flutter/engine/pull/55753) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55753) over 10 hours, 43 additions and 4 deletions in 5 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[John McDole](https://github.com/jtmcdole)** &mdash; La Grande Fusion Notes - History Editing
+  <sub>[#55667](https://github.com/flutter/engine/pull/55667) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55667) over 2 days, 260 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Fix typo in public API.
   <sub>[#55750](https://github.com/flutter/engine/pull/55750) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55750) over 43 minutes, 7 additions and 7 deletions in 4 files</sub>
@@ -548,17 +552,17 @@
   <sub>[#55529](https://github.com/flutter/engine/pull/55529) merged on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55529) over 6 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; La Grande Fusion Notes - History Editing
-  <sub>[#55667](https://github.com/flutter/engine/pull/55667) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55667) over 2 days, 260 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to set primitive type
-  <sub>[#55514](https://github.com/flutter/engine/pull/55514) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55514) over 1 week, 68 additions and 0 deletions in 4 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow fetching OpenGL texture handle.
+  <sub>[#55753](https://github.com/flutter/engine/pull/55753) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55753) over 10 hours, 43 additions and 4 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Delete DartIsolateTest.PlatformIsolateSendAndReceive
   <sub>[#55722](https://github.com/flutter/engine/pull/55722) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55722) over 43 minutes, 0 additions and 73 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to set primitive type
+  <sub>[#55514](https://github.com/flutter/engine/pull/55514) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55514) over 1 week, 68 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: Migrate FlutterEngine to ARC (#55590)"
   <sub>[#55699](https://github.com/flutter/engine/pull/55699) merged on October 7, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55699) over 40 minutes, 377 additions and 269 deletions in 5 files</sub>
