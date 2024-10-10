@@ -1037,7 +1037,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-21 commits.
+22 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
@@ -1102,6 +1102,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Dispose the `ExoPlayer` before `SurfaceProducer`.<br />
   <sub>[#7824](https://github.com/flutter/packages/pull/7824) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7824) over 2 hours, 16 additions and 5 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter] Updates minimum supported `webview_flutter_android` from 3.16.0 to 4.0.0<br />
+  <sub>[#7844](https://github.com/flutter/packages/pull/7844) merged on October 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7844) over 1 hour, 10 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes bug where Android would show the last frame of the previous Ad before playing the current one<br />
   <sub>[#7835](https://github.com/flutter/packages/pull/7835) merged on October 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7835) over 1 day, 137 additions and 10 deletions in 13 files</sub><br />

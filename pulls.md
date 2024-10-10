@@ -53,9 +53,6 @@
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix: showDatePicker should have a simple example in the docs<br />
   <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/156196) 126 additions and 0 deletions in 3 files</sub><br />
 
-* **[Nayden Gochev](https://github.com/gochev)** &mdash; Changing the flutter doctor and mac message when simulator is missing<br />
-  <sub>[#156202](https://github.com/flutter/flutter/pull/156202) opened on on October 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156202) 2 additions and 2 deletions in 2 files</sub><br />
-
 * **[Muhammad Mohiuddin](https://github.com/MohiuddinM)** &mdash; feat: add errorBuilder property to customize errorText appearance<br />
   <sub>[#156275](https://github.com/flutter/flutter/pull/156275) opened on on October 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156275) 56 additions and 2 deletions in 2 files</sub><br />
 
@@ -88,9 +85,6 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `first` and `second` deprecation in Tuple2<String, String> inside flutter.groovy<br />
   <sub>[#156485](https://github.com/flutter/flutter/pull/156485) opened on on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156485) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix OutputFile deprecation inside flutter.groovy<br />
-  <sub>[#156490](https://github.com/flutter/flutter/pull/156490) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156490) 2 additions and 3 deletions in 1 file</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156501) 129 additions and 2 deletions in 3 files</sub><br />
