@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-20 commits.
+21 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migrator for android 35/16kb page size cmake flags for plugin_ffi <br />
   <sub>[#156221](https://github.com/flutter/flutter/pull/156221) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156221) over 3 days, 216 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Flutter tool assumes impeller is enabled by default<br />
+  <sub>[#156540](https://github.com/flutter/flutter/pull/156540) merged on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156540) over 41 minutes, 5 additions and 6 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Flutter templates example app Gradle memory settings<br />
   <sub>[#156201](https://github.com/flutter/flutter/pull/156201) merged on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156201) over 6 days, 2 additions and 2 deletions in 2 files</sub><br />
@@ -432,7 +436,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-32 commits.
+33 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.<br />
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub><br />
@@ -467,6 +471,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Do not scale the miter limit applied to stroked text<br />
   <sub>[#55745](https://github.com/flutter/engine/pull/55745) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55745) over 4 hours, 24 additions and 3 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Recognize`group`, and warn when we silently discard targets.<br />
+  <sub>[#55791](https://github.com/flutter/engine/pull/55791) merged on October 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55791) over 20 hours, 167 additions and 1 deletion in 5 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:a11y] make header a proper <header><br />
   <sub>[#55747](https://github.com/flutter/engine/pull/55747) merged on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55747) over 1 day, 77 additions and 20 deletions in 6 files</sub><br />
@@ -1029,7 +1037,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-20 commits.
+21 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
@@ -1094,6 +1102,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Dispose the `ExoPlayer` before `SurfaceProducer`.<br />
   <sub>[#7824](https://github.com/flutter/packages/pull/7824) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7824) over 2 hours, 16 additions and 5 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Fixes bug where Android would show the last frame of the previous Ad before playing the current one<br />
+  <sub>[#7835](https://github.com/flutter/packages/pull/7835) merged on October 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7835) over 1 day, 137 additions and 10 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Use non-nullable generics in example app<br />
   <sub>[#7817](https://github.com/flutter/packages/pull/7817) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7817) over 5 hours, 10 additions and 10 deletions in 6 files</sub><br />
