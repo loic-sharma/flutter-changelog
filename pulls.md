@@ -83,9 +83,6 @@
 * **[Emmanuel Bonke](https://github.com/Coder-Manuel)** &mdash; add `dividerThickness` in `PaginatedDataTable`<br />
   <sub>[#156442](https://github.com/flutter/flutter/pull/156442) opened on on October 8, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/156442) 71 additions and 0 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for animated list example<br />
-  <sub>[#156452](https://github.com/flutter/flutter/pull/156452) opened on on October 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156452) 45 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support Powershell v6+ to determine Windows version in `flutter doctor`<br />
   <sub>[#156476](https://github.com/flutter/flutter/pull/156476) opened on on October 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156476) 135 additions and 3 deletions in 2 files</sub><br />
 

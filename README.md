@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-16 commits.
+18 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -35,6 +35,10 @@
   <sub>[#156221](https://github.com/flutter/flutter/pull/156221) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156221) over 3 days, 216 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Unskip cupertino datepicker tests<br />
+  <sub>[#156499](https://github.com/flutter/flutter/pull/156499) merged on October 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156499) over 18 hours, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dartdoc to 8.2.0<br />
   <sub>[#156426](https://github.com/flutter/flutter/pull/156426) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156426) over 41 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
@@ -46,6 +50,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify when `override: no versioning needed` label should be applied<br />
   <sub>[#156342](https://github.com/flutter/flutter/pull/156342) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156342) over 3 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for animated list example<br />
+  <sub>[#156452](https://github.com/flutter/flutter/pull/156452) merged on October 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156452) over 1 day, 45 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [tool] Update description of where to install platforms in XCode<br />
   <sub>[#156432](https://github.com/flutter/flutter/pull/156432) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156432) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
