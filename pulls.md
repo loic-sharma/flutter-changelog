@@ -87,7 +87,7 @@
   <sub>[#156452](https://github.com/flutter/flutter/pull/156452) opened on on October 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156452) 45 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support Powershell v6+ to determine Windows version in `flutter doctor`<br />
-  <sub>[#156476](https://github.com/flutter/flutter/pull/156476) opened on on October 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156476) 79 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#156476](https://github.com/flutter/flutter/pull/156476) opened on on October 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156476) 136 additions and 3 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; small update in regex in flutter.groovy<br />
   <sub>[#156484](https://github.com/flutter/flutter/pull/156484) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156484) 1 addition and 1 deletion in 1 file</sub><br />
