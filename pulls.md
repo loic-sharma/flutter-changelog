@@ -69,7 +69,7 @@
   <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
-  <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix `DropdownMenu` focus<br />
   <sub>[#156412](https://github.com/flutter/flutter/pull/156412) opened on on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156412) 93 additions and 7 deletions in 2 files</sub><br />
@@ -100,4 +100,7 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `const SizedBox.fromSize()`<br />
   <sub>[#156513](https://github.com/flutter/flutter/pull/156513) opened on on October 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156513) 53 additions and 15 deletions in 5 files</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update Android plugin templates for newer AGP<br />
+  <sub>[#156533](https://github.com/flutter/flutter/pull/156533) opened on on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156533) 58 additions and 16 deletions in 4 files</sub><br />
 
