@@ -1261,7 +1261,12 @@
 
 ### October 5, 2024 to October 11, 2024
 
-10 commits.
+11 commits.
+
+* **[xjccc](https://github.com/xjccc)** &mdash; docs: update web-devs.md<br />
+  <sub>[#11251](https://github.com/flutter/website/pull/11251) merged on October 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11251) over 15 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/19f76503-3d66-4ddb-9803-3f92682ec3c2)</details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-tool-bug` redirect<br />
   <sub>[#11239](https://github.com/flutter/website/pull/11239) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11239) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
