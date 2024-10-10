@@ -101,3 +101,6 @@
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156501) 129 additions and 2 deletions in 3 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `const SizedBox.fromSize()`<br />
+  <sub>[#156513](https://github.com/flutter/flutter/pull/156513) opened on on October 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156513) 53 additions and 15 deletions in 5 files</sub><br />
+
