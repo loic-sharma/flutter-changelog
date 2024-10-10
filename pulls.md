@@ -107,3 +107,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Flutter tool assumes impeller is enabled by default<br />
   <sub>[#156542](https://github.com/flutter/flutter/pull/156542) opened on on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156542) 5 additions and 6 deletions in 3 files</sub><br />
 
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Flutter tool assumes impeller is enabled by default (#156540)<br />
+  <sub>[#156545](https://github.com/flutter/flutter/pull/156545) opened on on October 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156545) 5 additions and 6 deletions in 3 files</sub><br />
+
