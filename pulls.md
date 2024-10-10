@@ -78,7 +78,7 @@
   <sub>[#156430](https://github.com/flutter/flutter/pull/156430) opened on on October 8, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/156430) 284 additions and 283 deletions in 3 files</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add test for AutofillGroup api example<br />
-  <sub>[#156439](https://github.com/flutter/flutter/pull/156439) opened on on October 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/156439) 104 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#156439](https://github.com/flutter/flutter/pull/156439) opened on on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156439) 104 additions and 1 deletion in 2 files</sub><br />
 
 * **[Emmanuel Bonke](https://github.com/Coder-Manuel)** &mdash; add `dividerThickness` in `PaginatedDataTable`<br />
   <sub>[#156442](https://github.com/flutter/flutter/pull/156442) opened on on October 8, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/156442) 71 additions and 0 deletions in 2 files</sub><br />
