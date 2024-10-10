@@ -78,7 +78,7 @@
   <sub>[#156430](https://github.com/flutter/flutter/pull/156430) opened on on October 8, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/156430) 284 additions and 283 deletions in 3 files</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add test for AutofillGroup api example<br />
-  <sub>[#156439](https://github.com/flutter/flutter/pull/156439) opened on on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156439) 104 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#156439](https://github.com/flutter/flutter/pull/156439) opened on on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156439) 102 additions and 1 deletion in 2 files</sub><br />
 
 * **[Emmanuel Bonke](https://github.com/Coder-Manuel)** &mdash; add `dividerThickness` in `PaginatedDataTable`<br />
   <sub>[#156442](https://github.com/flutter/flutter/pull/156442) opened on on October 8, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/156442) 71 additions and 0 deletions in 2 files</sub><br />
@@ -102,5 +102,5 @@
   <sub>[#156513](https://github.com/flutter/flutter/pull/156513) opened on on October 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156513) 53 additions and 15 deletions in 5 files</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add doc-import for references to CommonFinders<br />
-  <sub>[#156539](https://github.com/flutter/flutter/pull/156539) opened on on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156539) 7 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#156539](https://github.com/flutter/flutter/pull/156539) opened on on October 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156539) 7 additions and 2 deletions in 1 file</sub><br />
 
