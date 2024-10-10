@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-18 commits.
+19 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub>
@@ -34,6 +34,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migrator for android 35/16kb page size cmake flags for plugin_ffi 
   <sub>[#156221](https://github.com/flutter/flutter/pull/156221) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156221) over 3 days, 216 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; Flutter templates example app Gradle memory settings
+  <sub>[#156201](https://github.com/flutter/flutter/pull/156201) merged on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156201) over 6 days, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Unskip cupertino datepicker tests
   <sub>[#156499](https://github.com/flutter/flutter/pull/156499) merged on October 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156499) over 18 hours, 2 additions and 1 deletion in 1 file</sub>
