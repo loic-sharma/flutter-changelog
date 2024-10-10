@@ -416,7 +416,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-31 commits.
+32 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub>
@@ -479,6 +479,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `GetTargetRenderPassDescriptor` to `GetRenderTarget`.
   <sub>[#55765](https://github.com/flutter/engine/pull/55765) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55765) over 11 hours, 22 additions and 27 deletions in 8 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to pick up change to --time executions
+  <sub>[#55792](https://github.com/flutter/engine/pull/55792) merged on October 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55792) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move some `et` tests around and delete unused files.
   <sub>[#55764](https://github.com/flutter/engine/pull/55764) merged on October 9, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55764) over 18 hours, 48 additions and 263 deletions in 13 files</sub>
