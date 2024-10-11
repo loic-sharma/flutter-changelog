@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-24 commits.
+25 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub>
@@ -34,6 +34,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migrator for android 35/16kb page size cmake flags for plugin_ffi 
   <sub>[#156221](https://github.com/flutter/flutter/pull/156221) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156221) over 3 days, 216 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] remove raster cache benchmarks.
+  <sub>[#156600](https://github.com/flutter/flutter/pull/156600) merged on October 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156600) over 2 hours, 0 additions and 32 deletions in 4 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Manual pub roll
   <sub>[#156549](https://github.com/flutter/flutter/pull/156549) merged on October 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/156549) over 20 hours, 213 additions and 212 deletions in 54 files</sub>
