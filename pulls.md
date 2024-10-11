@@ -57,7 +57,7 @@
   <sub>[#156275](https://github.com/flutter/flutter/pull/156275) opened on on October 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156275) 56 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; RadioListTile: add property to scale the radio<br />
-  <sub>[#156292](https://github.com/flutter/flutter/pull/156292) opened on on October 6, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156292) 59 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#156292](https://github.com/flutter/flutter/pull/156292) opened on on October 6, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156292) 57 additions and 1 deletion in 2 files</sub><br />
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Allow add_format() in flutter gen-l10n DateTime format<br />
   <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
@@ -94,7 +94,4 @@
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; Carousel view fixes 154533<br />
   <sub>[#156577](https://github.com/flutter/flutter/pull/156577) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156577) 22 additions and 22 deletions in 2 files</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix unattached `MenuController` throws assertion error when calling `MenuController.close()`<br />
-  <sub>[#156588](https://github.com/flutter/flutter/pull/156588) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156588) 11 additions and 2 deletions in 2 files</sub><br />
 
