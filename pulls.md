@@ -75,7 +75,7 @@
   <sub>[#156476](https://github.com/flutter/flutter/pull/156476) opened on on October 9, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156476) 135 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
-  <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156501) 129 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156501) 128 additions and 2 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Flutter tool assumes impeller is enabled by default<br />
   <sub>[#156542](https://github.com/flutter/flutter/pull/156542) opened on on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156542) 5 additions and 6 deletions in 3 files</sub><br />
@@ -88,4 +88,7 @@
 
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; CheckboxListTile: use Transform.scale only when required<br />
   <sub>[#156593](https://github.com/flutter/flutter/pull/156593) opened on on October 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156593) 43 additions and 45 deletions in 2 files</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
+  <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
