@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-28 commits.
+29 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub>
@@ -30,6 +30,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Emit a deprecation warning for some values of --web-renderer.
   <sub>[#156376](https://github.com/flutter/flutter/pull/156376) merged on October 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156376) over 1 hour, 121 additions and 0 deletions in 7 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Improve InputDecoration.errorMaxLines documentation
+  <sub>[#156468](https://github.com/flutter/flutter/pull/156468) merged on October 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156468) over 2 days, 18 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add code sample to the CupertinoMagnifier/CupertinoTextMagnifier
   <sub>[#156028](https://github.com/flutter/flutter/pull/156028) merged on October 11, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/156028) over 1 week, 232 additions and 0 deletions in 5 files</sub>
