@@ -92,3 +92,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Manual pub roll<br />
   <sub>[#156549](https://github.com/flutter/flutter/pull/156549) opened on on October 10, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/156549) 213 additions and 212 deletions in 54 files</sub><br />
 
+* **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; Carousel view fixes 154533<br />
+  <sub>[#156577](https://github.com/flutter/flutter/pull/156577) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156577) 22 additions and 22 deletions in 2 files</sub><br />
+
