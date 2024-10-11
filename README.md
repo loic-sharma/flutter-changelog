@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-22 commits.
+23 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migrator for android 35/16kb page size cmake flags for plugin_ffi <br />
   <sub>[#156221](https://github.com/flutter/flutter/pull/156221) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156221) over 3 days, 216 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] handle missed lifecycle messages.<br />
+  <sub>[#156596](https://github.com/flutter/flutter/pull/156596) merged on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156596) over 14 minutes, 4 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Flutter tool assumes impeller is enabled by default<br />
   <sub>[#156540](https://github.com/flutter/flutter/pull/156540) merged on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156540) over 41 minutes, 5 additions and 6 deletions in 3 files</sub><br />
