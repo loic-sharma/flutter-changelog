@@ -1073,7 +1073,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-23 commits.
+24 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub>
@@ -1082,6 +1082,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Add `PlatformCap` pigeon type.
   <sub>[#7639](https://github.com/flutter/packages/pull/7639) merged on October 9, 2024 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/7639) over 3 weeks, 445 additions and 172 deletions in 8 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Swift implementation for ProxyApis
+  <sub>[#6602](https://github.com/flutter/packages/pull/6602) merged on October 11, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/6602) over 5 months, 13250 additions and 73 deletions in 24 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [camera_android] Begin conversion to Pigeon
   <sub>[#7755](https://github.com/flutter/packages/pull/7755) merged on October 9, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/7755) over 1 week, 628 additions and 103 deletions in 14 files</sub>
