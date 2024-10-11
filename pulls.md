@@ -57,7 +57,7 @@
   <sub>[#156275](https://github.com/flutter/flutter/pull/156275) opened on on October 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156275) 56 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; RadioListTile: add property to scale the radio<br />
-  <sub>[#156292](https://github.com/flutter/flutter/pull/156292) opened on on October 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156292) 59 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#156292](https://github.com/flutter/flutter/pull/156292) opened on on October 6, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156292) 59 additions and 1 deletion in 2 files</sub><br />
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Allow add_format() in flutter gen-l10n DateTime format<br />
   <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
