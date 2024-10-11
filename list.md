@@ -468,7 +468,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-40 commits.
+41 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub>
@@ -512,9 +512,9 @@
   <sub>[#55745](https://github.com/flutter/engine/pull/55745) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55745) over 4 hours, 24 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Create DlFoo type variants to start moving away from Skia types in API
-  <sub>[#55812](https://github.com/flutter/engine/pull/55812) merged on October 11, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/55812) over 1 hour, 881 additions and 759 deletions in 28 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable surface control on API 29.
+  <sub>[#55708](https://github.com/flutter/engine/pull/55708) merged on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55708) over 44 minutes, 8 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Release`onTrimMemoryListener` after `ImageReaderSurfaceProducer` released.
   <sub>[#55760](https://github.com/flutter/engine/pull/55760) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55760) over 49 minutes, 26 additions and 3 deletions in 2 files</sub>
@@ -528,9 +528,9 @@
   <sub>[#55664](https://github.com/flutter/engine/pull/55664) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55664) over 4 days, 176 additions and 18 deletions in 9 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable surface control on API 29.
-  <sub>[#55708](https://github.com/flutter/engine/pull/55708) merged on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55708) over 44 minutes, 8 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Create DlFoo type variants to start moving away from Skia types in API
+  <sub>[#55812](https://github.com/flutter/engine/pull/55812) merged on October 11, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/55812) over 1 hour, 881 additions and 759 deletions in 28 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Vulkan command encoder abstraction, use command buffer vk.
   <sub>[#55680](https://github.com/flutter/engine/pull/55680) merged on October 7, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55680) over 1 day, 288 additions and 451 deletions in 22 files</sub>
@@ -568,21 +568,17 @@
   <sub>[#55764](https://github.com/flutter/engine/pull/55764) merged on October 9, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55764) over 18 hours, 48 additions and 263 deletions in 13 files</sub>
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Path clarification in Setting-up-the-Engine-development-environment.md
-  <sub>[#55529](https://github.com/flutter/engine/pull/55529) merged on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55529) over 6 days, 1 addition and 1 deletion in 1 file</sub>
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Record notes on hashing artifacts in a monorepo
+  <sub>[#55703](https://github.com/flutter/engine/pull/55703) merged on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55703) over 1 day, 99 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added mutex to the pending gpu tasks deque.
+  <sub>[#55748](https://github.com/flutter/engine/pull/55748) merged on October 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55748) over 1 hour, 29 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; La Grande Fusion Notes - History Editing
   <sub>[#55667](https://github.com/flutter/engine/pull/55667) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55667) over 2 days, 260 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; added shell_unittests and ui_unittests to the testing menu
-  <sub>[#55711](https://github.com/flutter/engine/pull/55711) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55711) over 21 hours, 96 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Record notes on hashing artifacts in a monorepo
-  <sub>[#55703](https://github.com/flutter/engine/pull/55703) merged on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55703) over 1 day, 99 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Run gen_snapshot under /usr/bin/time
   <sub>[#55777](https://github.com/flutter/engine/pull/55777) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55777) over 4 hours, 4 additions and 1 deletion in 2 files</sub>
@@ -600,13 +596,17 @@
   <sub>[#55750](https://github.com/flutter/engine/pull/55750) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55750) over 43 minutes, 7 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added mutex to the pending gpu tasks deque.
-  <sub>[#55748](https://github.com/flutter/engine/pull/55748) merged on October 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55748) over 1 hour, 29 additions and 9 deletions in 2 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Speculative fix for memory issues related to retrying image decompression
   <sub>[#55704](https://github.com/flutter/engine/pull/55704) merged on October 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55704) over 3 hours, 178 additions and 13 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Path clarification in Setting-up-the-Engine-development-environment.md
+  <sub>[#55529](https://github.com/flutter/engine/pull/55529) merged on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55529) over 6 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; added shell_unittests and ui_unittests to the testing menu
+  <sub>[#55711](https://github.com/flutter/engine/pull/55711) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55711) over 21 hours, 96 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Use the right versioned libs according to the target-api-level
   <sub>[#55786](https://github.com/flutter/engine/pull/55786) merged on October 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55786) over 1 day, 5 additions and 5 deletions in 1 file</sub>
@@ -623,6 +623,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: Migrate FlutterEngine to ARC (#55590)"
   <sub>[#55699](https://github.com/flutter/engine/pull/55699) merged on October 7, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55699) over 40 minutes, 377 additions and 269 deletions in 5 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from d916a5f69a48 to 75bf9e183a33 (1 revision)
+  <sub>[#55838](https://github.com/flutter/engine/pull/55838) merged on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55838) over 52 minutes, 75 additions and 54 deletions in 4 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK to 3.6.0-334.2.beta
   <sub>[#55772](https://github.com/flutter/engine/pull/55772) merged on October 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55772) over 2 hours, 5 additions and 5 deletions in 3 files</sub>
