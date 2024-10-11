@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-23 commits.
+24 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migrator for android 35/16kb page size cmake flags for plugin_ffi <br />
   <sub>[#156221](https://github.com/flutter/flutter/pull/156221) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156221) over 3 days, 216 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Manual pub roll<br />
+  <sub>[#156549](https://github.com/flutter/flutter/pull/156549) merged on October 11, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/156549) over 20 hours, 213 additions and 212 deletions in 54 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] handle missed lifecycle messages.<br />
   <sub>[#156596](https://github.com/flutter/flutter/pull/156596) merged on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156596) over 14 minutes, 4 additions and 1 deletion in 1 file</sub><br />
