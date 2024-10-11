@@ -95,3 +95,6 @@
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; Carousel view fixes 154533<br />
   <sub>[#156577](https://github.com/flutter/flutter/pull/156577) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156577) 22 additions and 22 deletions in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix unattached `MenuController` throws assertion error when calling `MenuController.close()`<br />
+  <sub>[#156588](https://github.com/flutter/flutter/pull/156588) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156588) 11 additions and 2 deletions in 2 files</sub><br />
+
