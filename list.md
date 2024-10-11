@@ -436,12 +436,16 @@
 
 ### October 5, 2024 to October 11, 2024
 
-35 commits.
+36 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/9eecb67f-a980-4556-8060-b0c947713534)![image](https://github.com/user-attachments/assets/c8e2071f-e7c0-411c-8f37-e1f3037916f4)</details></sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] Fix Platform view gesture recognizer with iPad pencil getting stuck
+  <sub>[#55724](https://github.com/flutter/engine/pull/55724) merged on October 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55724) over 2 days, 77 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix incorrect clipping with Opacity scene layer
   <sub>[#55751](https://github.com/flutter/engine/pull/55751) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55751) over 3 hours, 66 additions and 6 deletions in 2 files</sub>
@@ -472,25 +476,25 @@
   <sub>[#55745](https://github.com/flutter/engine/pull/55745) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55745) over 4 hours, 24 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow wrapping external texture handles.
-  <sub>[#55664](https://github.com/flutter/engine/pull/55664) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55664) over 4 days, 176 additions and 18 deletions in 9 files</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Create DlFoo type variants to start moving away from Skia types in API
+  <sub>[#55812](https://github.com/flutter/engine/pull/55812) merged on October 11, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/55812) over 1 hour, 881 additions and 759 deletions in 28 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Recognize`group`, and warn when we silently discard targets.
   <sub>[#55791](https://github.com/flutter/engine/pull/55791) merged on October 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55791) over 20 hours, 167 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Release`onTrimMemoryListener` after `ImageReaderSurfaceProducer` released.
+  <sub>[#55760](https://github.com/flutter/engine/pull/55760) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55760) over 49 minutes, 26 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:a11y] make header a proper <header>
   <sub>[#55747](https://github.com/flutter/engine/pull/55747) merged on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55747) over 1 day, 77 additions and 20 deletions in 6 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Create DlFoo type variants to start moving away from Skia types in API
-  <sub>[#55812](https://github.com/flutter/engine/pull/55812) merged on October 11, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/55812) over 1 hour, 881 additions and 759 deletions in 28 files</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow wrapping external texture handles.
+  <sub>[#55664](https://github.com/flutter/engine/pull/55664) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55664) over 4 days, 176 additions and 18 deletions in 9 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Release`onTrimMemoryListener` after `ImageReaderSurfaceProducer` released.
-  <sub>[#55760](https://github.com/flutter/engine/pull/55760) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55760) over 49 minutes, 26 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable surface control on API 29.
   <sub>[#55708](https://github.com/flutter/engine/pull/55708) merged on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55708) over 44 minutes, 8 additions and 1 deletion in 1 file</sub>
@@ -520,13 +524,13 @@
   <sub>[#55764](https://github.com/flutter/engine/pull/55764) merged on October 9, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55764) over 18 hours, 48 additions and 263 deletions in 13 files</sub>
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Run gen_snapshot under /usr/bin/time
-  <sub>[#55777](https://github.com/flutter/engine/pull/55777) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55777) over 4 hours, 4 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Path clarification in Setting-up-the-Engine-development-environment.md
   <sub>[#55529](https://github.com/flutter/engine/pull/55529) merged on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55529) over 6 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Run gen_snapshot under /usr/bin/time
+  <sub>[#55777](https://github.com/flutter/engine/pull/55777) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55777) over 4 hours, 4 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; La Grande Fusion Notes - History Editing
   <sub>[#55667](https://github.com/flutter/engine/pull/55667) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55667) over 2 days, 260 additions and 0 deletions in 1 file</sub>
@@ -560,13 +564,13 @@
   <sub>[#55753](https://github.com/flutter/engine/pull/55753) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55753) over 10 hours, 43 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Delete DartIsolateTest.PlatformIsolateSendAndReceive
-  <sub>[#55722](https://github.com/flutter/engine/pull/55722) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55722) over 43 minutes, 0 additions and 73 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to set primitive type
   <sub>[#55514](https://github.com/flutter/engine/pull/55514) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55514) over 1 week, 68 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub>
+
+* **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Delete DartIsolateTest.PlatformIsolateSendAndReceive
+  <sub>[#55722](https://github.com/flutter/engine/pull/55722) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55722) over 43 minutes, 0 additions and 73 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: Migrate FlutterEngine to ARC (#55590)"
   <sub>[#55699](https://github.com/flutter/engine/pull/55699) merged on October 7, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55699) over 40 minutes, 377 additions and 269 deletions in 5 files</sub>
