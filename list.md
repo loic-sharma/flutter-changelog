@@ -36,7 +36,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Manual pub roll
-  <sub>[#156549](https://github.com/flutter/flutter/pull/156549) merged on October 11, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/156549) over 20 hours, 213 additions and 212 deletions in 54 files</sub>
+  <sub>[#156549](https://github.com/flutter/flutter/pull/156549) merged on October 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/156549) over 20 hours, 213 additions and 212 deletions in 54 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] handle missed lifecycle messages.
