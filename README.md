@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-25 commits.
+26 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
   <sub>[#156214](https://github.com/flutter/flutter/pull/156214) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156214) over 3 days, 38 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
   <sub><details><summary>2 images...</summary><img width="770" alt="Screenshot 2024-10-04 at 14 13 58" src="https://github.com/user-attachments/assets/c7520c12-d16a-4867-8fae-38b75dbc4225"><img width="770" alt="Screenshot 2024-10-04 at 14 13 49" src="https://github.com/user-attachments/assets/82e0b81e-5c85-4e59-99b8-df329459773b"></details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `DropdownMenu.closeBehavior` to control menu closing behavior<br />
+  <sub>[#156405](https://github.com/flutter/flutter/pull/156405) merged on October 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156405) over 3 days, 116 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started handling duplicate validation layer messages<br />
   <sub>[#156375](https://github.com/flutter/flutter/pull/156375) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156375) over 1 day, 7 additions and 6 deletions in 1 file</sub><br />

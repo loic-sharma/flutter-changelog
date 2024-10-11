@@ -47,9 +47,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add code sample to the CupertinoMagnifier/CupertinoTextMagnifier<br />
-  <sub>[#156028](https://github.com/flutter/flutter/pull/156028) opened on on October 1, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/156028) 232 additions and 0 deletions in 5 files</sub><br />
-
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix: showDatePicker should have a simple example in the docs<br />
   <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/156196) 126 additions and 0 deletions in 3 files</sub><br />
 
@@ -90,7 +87,7 @@
   <sub>[#156577](https://github.com/flutter/flutter/pull/156577) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156577) 22 additions and 22 deletions in 2 files</sub><br />
 
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; CheckboxListTile: use Transform.scale only when required<br />
-  <sub>[#156593](https://github.com/flutter/flutter/pull/156593) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156593) 43 additions and 45 deletions in 2 files</sub><br />
+  <sub>[#156593](https://github.com/flutter/flutter/pull/156593) opened on on October 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156593) 43 additions and 45 deletions in 2 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove non-functional, deprecated `package_api_docs` lint<br />
   <sub>[#156603](https://github.com/flutter/flutter/pull/156603) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156603) 1 addition and 1 deletion in 1 file</sub><br />
