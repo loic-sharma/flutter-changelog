@@ -89,6 +89,3 @@
 * **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; CheckboxListTile: use Transform.scale only when required<br />
   <sub>[#156593](https://github.com/flutter/flutter/pull/156593) opened on on October 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156593) 43 additions and 45 deletions in 2 files</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove non-functional, deprecated `package_api_docs` lint<br />
-  <sub>[#156603](https://github.com/flutter/flutter/pull/156603) opened on on October 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156603) 1 addition and 1 deletion in 1 file</sub><br />
-
