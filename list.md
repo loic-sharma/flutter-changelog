@@ -1317,7 +1317,11 @@
 
 ### October 5, 2024 to October 11, 2024
 
-12 commits.
+14 commits.
+
+* **[Craig Labenz](https://github.com/craiglabenz)** &mdash; Adds "Launching a Compose activity" article
+  <sub>[#11219](https://github.com/flutter/website/pull/11219) merged on October 11, 2024 &mdash; **Medium:** [29 comments](https://github.com/flutter/website/pull/11219) over 1 week, 362 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [James Williams](https://github.com/jwill), [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[xjccc](https://github.com/xjccc)** &mdash; docs: update web-devs.md
   <sub>[#11251](https://github.com/flutter/website/pull/11251) merged on October 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11251) over 15 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -1347,6 +1351,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/engine-rbe`
   <sub>[#11241](https://github.com/flutter/website/pull/11241) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11241) over 13 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[nikhilrawal](https://github.com/nikhilrawal)** &mdash; Update layout.md (Just a one word typo)
+  <sub>[#11262](https://github.com/flutter/website/pull/11262) merged on October 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11262) over 10 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Working around a broken redirect in the tooling
   <sub>[#11257](https://github.com/flutter/website/pull/11257) merged on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11257) over 19 minutes, 1 addition and 0 deletions in 1 file</sub>
