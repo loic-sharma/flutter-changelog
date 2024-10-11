@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-21 commits.
+22 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub>
@@ -58,6 +58,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Clarify when `override: no versioning needed` label should be applied
   <sub>[#156342](https://github.com/flutter/flutter/pull/156342) merged on October 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156342) over 3 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add doc-import for references to CommonFinders
+  <sub>[#156539](https://github.com/flutter/flutter/pull/156539) merged on October 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156539) over 9 hours, 7 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update Android plugin templates for newer AGP
   <sub>[#156533](https://github.com/flutter/flutter/pull/156533) merged on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156533) over 57 minutes, 58 additions and 16 deletions in 4 files</sub>
