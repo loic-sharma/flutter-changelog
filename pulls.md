@@ -92,6 +92,3 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Implement listenable menu controller<br />
-  <sub>[#156650](https://github.com/flutter/flutter/pull/156650) opened on on October 12, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/156650) 133 additions and 0 deletions in 2 files</sub><br />
-
