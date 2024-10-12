@@ -55,6 +55,10 @@
   <sub>[#156221](https://github.com/flutter/flutter/pull/156221) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156221) over 3 days, 216 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update Android plugin templates for newer AGP
+  <sub>[#156533](https://github.com/flutter/flutter/pull/156533) merged on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156533) over 57 minutes, 58 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove non-functional, deprecated `package_api_docs` lint
   <sub>[#156603](https://github.com/flutter/flutter/pull/156603) merged on October 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156603) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
@@ -98,10 +102,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Add doc-import for references to CommonFinders
   <sub>[#156539](https://github.com/flutter/flutter/pull/156539) merged on October 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156539) over 9 hours, 7 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Nate Wilson](https://github.com/nate-thegrate)</sub>
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update Android plugin templates for newer AGP
-  <sub>[#156533](https://github.com/flutter/flutter/pull/156533) merged on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156533) over 57 minutes, 58 additions and 16 deletions in 4 files</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for animated list example
   <sub>[#156452](https://github.com/flutter/flutter/pull/156452) merged on October 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156452) over 1 day, 45 additions and 1 deletion in 2 files</sub>
