@@ -95,9 +95,6 @@
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; Carousel view fixes 154533<br />
   <sub>[#156577](https://github.com/flutter/flutter/pull/156577) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156577) 22 additions and 22 deletions in 2 files</sub><br />
 
-* **[Jatin Nagar](https://github.com/itsjatinnagar)** &mdash; CheckboxListTile: use Transform.scale only when required<br />
-  <sub>[#156593](https://github.com/flutter/flutter/pull/156593) opened on on October 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156593) 43 additions and 45 deletions in 2 files</sub><br />
-
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
