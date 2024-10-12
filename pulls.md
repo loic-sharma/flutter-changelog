@@ -65,9 +65,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix `DropdownMenu` focus<br />
   <sub>[#156412](https://github.com/flutter/flutter/pull/156412) opened on on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156412) 93 additions and 7 deletions in 2 files</sub><br />
 
-* **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add test for AutofillGroup api example<br />
-  <sub>[#156439](https://github.com/flutter/flutter/pull/156439) opened on on October 8, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/156439) 102 additions and 1 deletion in 2 files</sub><br />
-
 * **[Emmanuel Bonke](https://github.com/Coder-Manuel)** &mdash; add `dividerThickness` in `PaginatedDataTable`<br />
   <sub>[#156442](https://github.com/flutter/flutter/pull/156442) opened on on October 8, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/156442) 71 additions and 0 deletions in 2 files</sub><br />
 

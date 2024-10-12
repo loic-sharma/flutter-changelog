@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-31 commits.
+32 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub>
@@ -58,6 +58,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migrator for android 35/16kb page size cmake flags for plugin_ffi 
   <sub>[#156221](https://github.com/flutter/flutter/pull/156221) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156221) over 3 days, 216 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add test for AutofillGroup api example
+  <sub>[#156439](https://github.com/flutter/flutter/pull/156439) merged on October 12, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/156439) over 3 days, 102 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove non-functional, deprecated `package_api_docs` lint
   <sub>[#156603](https://github.com/flutter/flutter/pull/156603) merged on October 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156603) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
