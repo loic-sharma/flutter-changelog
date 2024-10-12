@@ -47,6 +47,10 @@
   <sub>[#156028](https://github.com/flutter/flutter/pull/156028) merged on October 11, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/156028) over 1 week, 232 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update Android plugin templates for newer AGP
+  <sub>[#156533](https://github.com/flutter/flutter/pull/156533) merged on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156533) over 57 minutes, 58 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[Adam](https://github.com/admosity)** &mdash; Add `bySemanticsIdentifier` finder for finding by identifier
   <sub>[#155571](https://github.com/flutter/flutter/pull/155571) merged on October 8, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/155571) over 2 weeks, 100 additions and 12 deletions in 3 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Nate Wilson](https://github.com/nate-thegrate), [chunhtai](https://github.com/chunhtai)</sub>
@@ -54,10 +58,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; Migrator for android 35/16kb page size cmake flags for plugin_ffi 
   <sub>[#156221](https://github.com/flutter/flutter/pull/156221) merged on October 8, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156221) over 3 days, 216 additions and 1 deletion in 5 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update Android plugin templates for newer AGP
-  <sub>[#156533](https://github.com/flutter/flutter/pull/156533) merged on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156533) over 57 minutes, 58 additions and 16 deletions in 4 files</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove non-functional, deprecated `package_api_docs` lint
   <sub>[#156603](https://github.com/flutter/flutter/pull/156603) merged on October 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156603) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
