@@ -4,7 +4,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-30 commits.
+31 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -34,6 +34,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Emit a deprecation warning for some values of --web-renderer.<br />
   <sub>[#156376](https://github.com/flutter/flutter/pull/156376) merged on October 8, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156376) over 1 hour, 121 additions and 0 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Viraj Kanwade](https://github.com/virajkanwade)** &mdash; Updated iPhone enable developer mode instructions<br />
+  <sub>[#154511](https://github.com/flutter/flutter/pull/154511) merged on October 12, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/154511) over 1 month, 8 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Improve InputDecoration.errorMaxLines documentation<br />
   <sub>[#156468](https://github.com/flutter/flutter/pull/156468) merged on October 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156468) over 2 days, 18 additions and 2 deletions in 1 file</sub><br />
