@@ -1121,7 +1121,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-24 commits.
+25 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
@@ -1150,6 +1150,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Remove incorrect SMS instructions<br />
   <sub>[#7807](https://github.com/flutter/packages/pull/7807) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7807) over 18 hours, 3 additions and 33 deletions in 4 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Update iOS Pigeon for non-nullable generics<br />
+  <sub>[#7792](https://github.com/flutter/packages/pull/7792) merged on October 12, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/7792) over 1 week, 839 additions and 835 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camerax] Revert "Explicitly remove READ_EXTERNAL_STORAGE permission"<br />
   <sub>[#7826](https://github.com/flutter/packages/pull/7826) merged on October 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7826) over 21 hours, 23 additions and 6 deletions in 4 files</sub><br />
