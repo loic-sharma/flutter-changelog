@@ -653,7 +653,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from d916a5f69a48 to 75bf9e183a33 (1 revision)<br />
-  <sub>[#55838](https://github.com/flutter/engine/pull/55838) merged on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55838) over 52 minutes, 75 additions and 54 deletions in 4 files</sub><br />
+  <sub>[#55838](https://github.com/flutter/engine/pull/55838) merged on October 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55838) over 52 minutes, 75 additions and 54 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK to 3.6.0-334.2.beta<br />
