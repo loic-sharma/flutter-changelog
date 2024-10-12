@@ -468,7 +468,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-42 commits.
+43 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.<br />
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub><br />
@@ -512,9 +512,9 @@
   <sub>[#55745](https://github.com/flutter/engine/pull/55745) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55745) over 4 hours, 24 additions and 3 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Recognize`group`, and warn when we silently discard targets.<br />
-  <sub>[#55791](https://github.com/flutter/engine/pull/55791) merged on October 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55791) over 20 hours, 167 additions and 1 deletion in 5 files</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Create DlFoo type variants to start moving away from Skia types in API<br />
+  <sub>[#55812](https://github.com/flutter/engine/pull/55812) merged on October 11, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/55812) over 1 hour, 881 additions and 759 deletions in 28 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow wrapping external texture handles.<br />
   <sub>[#55664](https://github.com/flutter/engine/pull/55664) merged on October 8, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55664) over 4 days, 176 additions and 18 deletions in 9 files</sub><br />
@@ -528,9 +528,9 @@
   <sub>[#55708](https://github.com/flutter/engine/pull/55708) merged on October 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55708) over 44 minutes, 8 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Create DlFoo type variants to start moving away from Skia types in API<br />
-  <sub>[#55812](https://github.com/flutter/engine/pull/55812) merged on October 11, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/55812) over 1 hour, 881 additions and 759 deletions in 28 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Recognize`group`, and warn when we silently discard targets.<br />
+  <sub>[#55791](https://github.com/flutter/engine/pull/55791) merged on October 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55791) over 20 hours, 167 additions and 1 deletion in 5 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Vulkan command encoder abstraction, use command buffer vk.<br />
   <sub>[#55680](https://github.com/flutter/engine/pull/55680) merged on October 7, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55680) over 1 day, 288 additions and 451 deletions in 22 files</sub><br />
@@ -552,6 +552,10 @@
   <sub>[#55804](https://github.com/flutter/engine/pull/55804) merged on October 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55804) over 1 day, 85 additions and 1 deletion in 6 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete a bunch of dead filter code.<br />
+  <sub>[#55841](https://github.com/flutter/engine/pull/55841) merged on October 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55841) over 2 hours, 0 additions and 190 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Upload missing arm artifacts.<br />
   <sub>[#55790](https://github.com/flutter/engine/pull/55790) merged on October 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55790) over 1 day, 6 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -568,17 +572,17 @@
   <sub>[#55792](https://github.com/flutter/engine/pull/55792) merged on October 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55792) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move some `et` tests around and delete unused files.<br />
-  <sub>[#55764](https://github.com/flutter/engine/pull/55764) merged on October 9, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55764) over 18 hours, 48 additions and 263 deletions in 13 files</sub><br />
-  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Record notes on hashing artifacts in a monorepo<br />
+  <sub>[#55703](https://github.com/flutter/engine/pull/55703) merged on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55703) over 1 day, 99 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Path clarification in Setting-up-the-Engine-development-environment.md<br />
   <sub>[#55529](https://github.com/flutter/engine/pull/55529) merged on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55529) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Run gen_snapshot under /usr/bin/time<br />
-  <sub>[#55777](https://github.com/flutter/engine/pull/55777) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55777) over 4 hours, 4 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added mutex to the pending gpu tasks deque.<br />
+  <sub>[#55748](https://github.com/flutter/engine/pull/55748) merged on October 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55748) over 1 hour, 29 additions and 9 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; La Grande Fusion Notes - History Editing<br />
   <sub>[#55667](https://github.com/flutter/engine/pull/55667) merged on October 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55667) over 2 days, 260 additions and 0 deletions in 1 file</sub><br />
@@ -592,25 +596,25 @@
   <sub>[#55753](https://github.com/flutter/engine/pull/55753) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55753) over 10 hours, 43 additions and 4 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Fix typo in public API.<br />
-  <sub>[#55750](https://github.com/flutter/engine/pull/55750) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55750) over 43 minutes, 7 additions and 7 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Speculative fix for memory issues related to retrying image decompression<br />
   <sub>[#55704](https://github.com/flutter/engine/pull/55704) merged on October 7, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55704) over 3 hours, 178 additions and 13 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added mutex to the pending gpu tasks deque.<br />
-  <sub>[#55748](https://github.com/flutter/engine/pull/55748) merged on October 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55748) over 1 hour, 29 additions and 9 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Fix typo in public API.<br />
+  <sub>[#55750](https://github.com/flutter/engine/pull/55750) merged on October 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55750) over 43 minutes, 7 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Run gen_snapshot under /usr/bin/time<br />
+  <sub>[#55777](https://github.com/flutter/engine/pull/55777) merged on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55777) over 4 hours, 4 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; added shell_unittests and ui_unittests to the testing menu<br />
   <sub>[#55711](https://github.com/flutter/engine/pull/55711) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55711) over 21 hours, 96 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Record notes on hashing artifacts in a monorepo<br />
-  <sub>[#55703](https://github.com/flutter/engine/pull/55703) merged on October 8, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55703) over 1 day, 99 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move some `et` tests around and delete unused files.<br />
+  <sub>[#55764](https://github.com/flutter/engine/pull/55764) merged on October 9, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/55764) over 18 hours, 48 additions and 263 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to set primitive type<br />
   <sub>[#55514](https://github.com/flutter/engine/pull/55514) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55514) over 1 week, 68 additions and 0 deletions in 4 files</sub><br />
