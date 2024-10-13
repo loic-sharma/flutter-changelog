@@ -1133,7 +1133,7 @@
 
 ### October 5, 2024 to October 11, 2024
 
-25 commits.
+26 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub>
@@ -1162,6 +1162,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Remove incorrect SMS instructions
   <sub>[#7807](https://github.com/flutter/packages/pull/7807) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7807) over 18 hours, 3 additions and 33 deletions in 4 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[andrechalella](https://github.com/andrechalella)** &mdash; [flutter_markdown] Soft wrapping in blockquotes
+  <sub>[#7848](https://github.com/flutter/packages/pull/7848) merged on October 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/7848) over 1 day, 20 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Update iOS Pigeon for non-nullable generics
   <sub>[#7792](https://github.com/flutter/packages/pull/7792) merged on October 12, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/7792) over 1 week, 839 additions and 835 deletions in 8 files</sub>
