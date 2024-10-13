@@ -92,3 +92,6 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix OutputFile deprecation inside flutter.groovy<br />
+  <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
+
