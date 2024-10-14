@@ -95,3 +95,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix OutputFile deprecation inside flutter.groovy<br />
   <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build<br />
+  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156708) 60 additions and 1 deletion in 2 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hangyujin)** &mdash; Update dropdown menu semantics to fix its a11y issues<br />
+  <sub>[#156709](https://github.com/flutter/flutter/pull/156709) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156709) 66 additions and 19 deletions in 2 files</sub><br />
+
