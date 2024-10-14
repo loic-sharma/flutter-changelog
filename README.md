@@ -329,9 +329,22 @@
 
 ## flutter/engine
 
+### October 12, 2024 to October 18, 2024
+
+2 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unnecessary use of std::vector<br />
+  <sub>[#55796](https://github.com/flutter/engine/pull/55796) merged on October 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55796) over 3 days, 1 addition and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove fl_keyboard_view_delegate_subscribe_to_layout_change and just access the object directly via a method<br />
+  <sub>[#55817](https://github.com/flutter/engine/pull/55817) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55817) over 2 days, 19 additions and 52 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 ### October 5, 2024 to October 11, 2024
 
-49 commits.
+<details>
+<summary>49 commits...</summary>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Get the GLES backend/Windows working.<br />
   <sub>[#55694](https://github.com/flutter/engine/pull/55694) merged on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/55694) over 1 day, 110 additions and 30 deletions in 13 files</sub><br />
@@ -530,6 +543,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert "Reland [skwasm] Scene builder optimizations for platform view placement (#55468)"<br />
   <sub>[#55715](https://github.com/flutter/engine/pull/55715) merged on October 8, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/55715) over 55 minutes, 373 additions and 784 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+</details>
 
 ### September 28, 2024 to October 4, 2024
 
