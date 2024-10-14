@@ -331,7 +331,11 @@
 
 ### October 12, 2024 to October 18, 2024
 
-3 commits.
+4 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add miplevel to Buffer->Texture blit.<br />
+  <sub>[#55848](https://github.com/flutter/engine/pull/55848) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55848) over 2 days, 99 additions and 17 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use GWeakRef API<br />
   <sub>[#55795](https://github.com/flutter/engine/pull/55795) merged on October 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55795) over 3 days, 146 additions and 135 deletions in 8 files</sub><br />
