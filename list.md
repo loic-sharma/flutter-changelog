@@ -331,7 +331,11 @@
 
 ### October 12, 2024 to October 18, 2024
 
-2 commits.
+3 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Use GWeakRef API
+  <sub>[#55795](https://github.com/flutter/engine/pull/55795) merged on October 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55795) over 3 days, 146 additions and 135 deletions in 8 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unnecessary use of std::vector
   <sub>[#55796](https://github.com/flutter/engine/pull/55796) merged on October 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55796) over 3 days, 1 addition and 5 deletions in 1 file</sub>
