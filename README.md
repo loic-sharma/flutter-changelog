@@ -342,11 +342,15 @@
 
 ### October 12, 2024 to October 18, 2024
 
-5 commits.
+6 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.<br />
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.<br />
+  <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add miplevel to Buffer->Texture blit.<br />
   <sub>[#55848](https://github.com/flutter/engine/pull/55848) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55848) over 2 days, 99 additions and 17 deletions in 14 files</sub><br />
