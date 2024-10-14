@@ -772,9 +772,18 @@
 
 ## flutter/packages
 
+### October 12, 2024 to October 18, 2024
+
+1 commits.
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Update JSON code to Pigeon for `BitmapDescriptor`, `Cap`, and `PatternItem`<br />
+  <sub>[#7840](https://github.com/flutter/packages/pull/7840) merged on October 14, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/7840) over 3 days, 2003 additions and 698 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### October 5, 2024 to October 11, 2024
 
-26 commits.
+<details>
+<summary>26 commits...</summary>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7574](https://github.com/flutter/packages/pull/7574) merged on October 7, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/7574) over 1 month, 1876 additions and 248 deletions in 26 files</sub><br />
@@ -879,6 +888,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[in_app_purchase_storekit] Add support for purchase and transactions"<br />
   <sub>[#7810](https://github.com/flutter/packages/pull/7810) merged on October 7, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/7810) over 5 minutes, 248 additions and 1876 deletions in 26 files</sub><br />
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
+
+</details>
 
 ### September 28, 2024 to October 4, 2024
 
