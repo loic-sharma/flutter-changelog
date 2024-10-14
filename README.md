@@ -906,7 +906,7 @@
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] Relax subroute path requirements (allow root and child routes to have the same path forms )<br />
   <sub>[#7647](https://github.com/flutter/packages/pull/7647) merged on October 3, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7647) over 2 weeks, 115 additions and 69 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hangyujin)</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [camera, google_sign_in, espresso] Bump guava to version `33.3.1`.<br />
   <sub>[#7773](https://github.com/flutter/packages/pull/7773) merged on October 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7773) over 16 hours, 18 additions and 6 deletions in 9 files</sub><br />
