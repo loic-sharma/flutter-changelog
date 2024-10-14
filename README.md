@@ -1080,7 +1080,7 @@
 <summary>15 commits...</summary>
 
 * **[Craig Labenz](https://github.com/craiglabenz)** &mdash; Adds "Launching a Compose activity" article<br />
-  <sub>[#11219](https://github.com/flutter/website/pull/11219) merged on October 11, 2024 &mdash; **Medium:** [29 comments](https://github.com/flutter/website/pull/11219) over 1 week, 362 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#11219](https://github.com/flutter/website/pull/11219) merged on October 11, 2024 &mdash; **Medium:** [30 comments](https://github.com/flutter/website/pull/11219) over 1 week, 362 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [James Williams](https://github.com/jwill), [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[xjccc](https://github.com/xjccc)** &mdash; docs: update web-devs.md<br />
