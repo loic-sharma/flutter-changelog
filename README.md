@@ -342,7 +342,11 @@
 
 ### October 12, 2024 to October 18, 2024
 
-4 commits.
+5 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.<br />
+  <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add miplevel to Buffer->Texture blit.<br />
   <sub>[#55848](https://github.com/flutter/engine/pull/55848) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55848) over 2 days, 99 additions and 17 deletions in 14 files</sub><br />
@@ -1040,11 +1044,15 @@
 
 ### October 12, 2024 to October 18, 2024
 
-3 commits.
+4 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused example code and update dependabot config<br />
   <sub>[#11265](https://github.com/flutter/website/pull/11265) merged on October 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11265) over 2 days, 146 additions and 1092 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Tushar Bansod](https://github.com/tbansod2018)** &mdash; Column widget in FinishedPage and WaitingPage has been wrapped by Sing…<br />
+  <sub>[#11247](https://github.com/flutter/website/pull/11247) merged on October 14, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/11247) over 5 days, 206 additions and 197 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelabs submodule and usages<br />
   <sub>[#11264](https://github.com/flutter/website/pull/11264) merged on October 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11264) over 2 days, 160 additions and 92 deletions in 13 files</sub><br />
