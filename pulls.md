@@ -101,3 +101,6 @@
 * **[Hannah Jin](https://github.com/hangyujin)** &mdash; Update dropdown menu semantics to fix its a11y issues<br />
   <sub>[#156709](https://github.com/flutter/flutter/pull/156709) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156709) 69 additions and 22 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `material_state_property.0.dart`<br />
+  <sub>[#156719](https://github.com/flutter/flutter/pull/156719) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156719) 47 additions and 1 deletion in 2 files</sub><br />
+
