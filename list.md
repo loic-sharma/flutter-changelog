@@ -778,7 +778,11 @@
 
 ### October 12, 2024 to October 18, 2024
 
-1 commits.
+2 commits.
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [camera_android] Convert calls from native to dart side to Pigeon.
+  <sub>[#7857](https://github.com/flutter/packages/pull/7857) merged on October 14, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/7857) over 2 days, 1203 additions and 356 deletions in 14 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Update JSON code to Pigeon for `BitmapDescriptor`, `Cap`, and `PatternItem`
   <sub>[#7840](https://github.com/flutter/packages/pull/7840) merged on October 14, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/7840) over 3 days, 2003 additions and 698 deletions in 11 files</sub>
