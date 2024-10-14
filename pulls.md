@@ -80,9 +80,6 @@
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156501) 128 additions and 2 deletions in 3 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Support host android apps with `kts` gradle files for add to app<br />
-  <sub>[#156502](https://github.com/flutter/flutter/pull/156502) opened on on October 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156502) 10 additions and 2 deletions in 1 file</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Flutter tool assumes impeller is enabled by default<br />
   <sub>[#156542](https://github.com/flutter/flutter/pull/156542) opened on on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156542) 5 additions and 6 deletions in 3 files</sub><br />
 
@@ -106,4 +103,7 @@
 
 * **[Siva](https://github.com/a-siva)** &mdash; Fix JS compilation to use the command 'compile js' instead of using snapshot names to invoke dart2js<br />
   <sub>[#156735](https://github.com/flutter/flutter/pull/156735) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156735) 6 additions and 2 deletions in 4 files</sub><br />
+
+* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Set onFocusChanged to false when detached<br />
+  <sub>[#156779](https://github.com/flutter/flutter/pull/156779) opened on on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156779) 1 addition and 0 deletions in 1 file</sub><br />
 
