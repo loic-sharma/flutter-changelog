@@ -96,5 +96,5 @@
   <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Refactor some DropdownMenu tests<br />
-  <sub>[#156702](https://github.com/flutter/flutter/pull/156702) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156702) 38 additions and 126 deletions in 1 file</sub><br />
+  <sub>[#156702](https://github.com/flutter/flutter/pull/156702) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156702) 52 additions and 183 deletions in 1 file</sub><br />
 
