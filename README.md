@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### October 12, 2024 to October 18, 2024
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update iOS/macOS plugin test information<br />
+  <sub>[#156716](https://github.com/flutter/flutter/pull/156716) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156716) over 2 hours, 15 additions and 14 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 ### October 5, 2024 to October 11, 2024
 
-33 commits.
+<details>
+<summary>33 commits...</summary>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes an issue where onTapOutside was incorrectly triggered across routes in TapRegion<br />
   <sub>[#155297](https://github.com/flutter/flutter/pull/155297) merged on October 7, 2024 &mdash; **Small:** [46 comments](https://github.com/flutter/flutter/pull/155297) over 2 weeks, 172 additions and 2 deletions in 2 files</sub><br />
@@ -138,6 +147,8 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; handle any `RPCError` due to vm service disconnection in `flutter run`<br />
   <sub>[#156346](https://github.com/flutter/flutter/pull/156346) merged on October 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156346) over 47 minutes, 19 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+</details>
 
 ### September 28, 2024 to October 4, 2024
 
@@ -778,7 +789,11 @@
 
 ### October 12, 2024 to October 18, 2024
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update for non-nullable generics in Pigeon<br />
+  <sub>[#7775](https://github.com/flutter/packages/pull/7775) merged on October 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/7775) over 1 week, 788 additions and 541 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [camera_android] Convert calls from native to dart side to Pigeon.<br />
   <sub>[#7857](https://github.com/flutter/packages/pull/7857) merged on October 14, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/7857) over 2 days, 1203 additions and 356 deletions in 14 files</sub><br />
@@ -1023,9 +1038,26 @@
 
 ## flutter/website
 
+### October 12, 2024 to October 18, 2024
+
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused example code and update dependabot config<br />
+  <sub>[#11265](https://github.com/flutter/website/pull/11265) merged on October 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11265) over 2 days, 146 additions and 1092 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelabs submodule and usages<br />
+  <sub>[#11264](https://github.com/flutter/website/pull/11264) merged on October 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11264) over 2 days, 160 additions and 92 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor formatting fixes for new compose-activity article<br />
+  <sub>[#11266](https://github.com/flutter/website/pull/11266) merged on October 14, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11266) over 2 days, 216 additions and 202 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 ### October 5, 2024 to October 11, 2024
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Craig Labenz](https://github.com/craiglabenz)** &mdash; Adds "Launching a Compose activity" article<br />
   <sub>[#11219](https://github.com/flutter/website/pull/11219) merged on October 11, 2024 &mdash; **Medium:** [29 comments](https://github.com/flutter/website/pull/11219) over 1 week, 362 additions and 0 deletions in 3 files</sub><br />
@@ -1087,6 +1119,8 @@
 * **[WalkQuackBack](https://github.com/WalkQuackBack)** &mdash; Fix typo in sidenav for in Cookbook Animation "Animate a widget using a physics simulation“<br />
   <sub>[#11234](https://github.com/flutter/website/pull/11234) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11234) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### September 28, 2024 to October 4, 2024
 
