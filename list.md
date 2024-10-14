@@ -342,11 +342,15 @@
 
 ### October 12, 2024 to October 18, 2024
 
-6 commits.
+7 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional and deprecated `package_api_docs` lint
+  <sub>[#55833](https://github.com/flutter/engine/pull/55833) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55833) over 3 days, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.
   <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub>
@@ -797,7 +801,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-3 commits.
+4 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update for non-nullable generics in Pigeon
   <sub>[#7775](https://github.com/flutter/packages/pull/7775) merged on October 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/7775) over 1 week, 788 additions and 541 deletions in 17 files</sub>
@@ -809,6 +813,10 @@
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Update JSON code to Pigeon for `BitmapDescriptor`, `Cap`, and `PatternItem`
   <sub>[#7840](https://github.com/flutter/packages/pull/7840) merged on October 14, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/7840) over 3 days, 2003 additions and 698 deletions in 11 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional, deprecated `package_api_docs` lint
+  <sub>[#7858](https://github.com/flutter/packages/pull/7858) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7858) over 2 days, 1 addition and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### October 5, 2024 to October 11, 2024
