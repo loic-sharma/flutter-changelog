@@ -4,11 +4,15 @@
 
 ### October 12, 2024 to October 18, 2024
 
-1 commits.
+2 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update iOS/macOS plugin test information
   <sub>[#156716](https://github.com/flutter/flutter/pull/156716) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156716) over 2 hours, 15 additions and 14 deletions in 1 file</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Refactor some DropdownMenu tests
+  <sub>[#156702](https://github.com/flutter/flutter/pull/156702) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156702) over 11 hours, 52 additions and 183 deletions in 1 file</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 ### October 5, 2024 to October 11, 2024
 
