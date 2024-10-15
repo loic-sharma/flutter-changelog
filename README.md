@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-15 commits.
+17 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement CupertinoSearchTextField opacity fade on scroll<br />
   <sub>[#155025](https://github.com/flutter/flutter/pull/155025) merged on October 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155025) over 1 month, 227 additions and 15 deletions in 2 files</sub><br />
@@ -50,9 +50,17 @@
   <sub>[#156716](https://github.com/flutter/flutter/pull/156716) merged on October 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156716) over 2 hours, 15 additions and 14 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Pin google_mobile_ads to 5.1.0<br />
+  <sub>[#156911](https://github.com/flutter/flutter/pull/156911) merged on October 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156911) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] try waiting for first frame.<br />
   <sub>[#156907](https://github.com/flutter/flutter/pull/156907) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156907) over 43 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Fix JS compilation to use the command 'compile js' instead of using snapshot names to invoke dart2js<br />
+  <sub>[#156735](https://github.com/flutter/flutter/pull/156735) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156735) over 1 day, 8 additions and 44 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `material_state_outlined_border.0.dart`<br />
   <sub>[#156814](https://github.com/flutter/flutter/pull/156814) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156814) over 1 hour, 58 additions and 1 deletion in 2 files</sub><br />
