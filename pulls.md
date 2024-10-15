@@ -71,9 +71,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; small update in regex in flutter.groovy<br />
   <sub>[#156484](https://github.com/flutter/flutter/pull/156484) opened on on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156484) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `first` and `second` deprecation in Tuple2<String, String> inside flutter.groovy<br />
-  <sub>[#156485](https://github.com/flutter/flutter/pull/156485) opened on on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156485) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156501) 130 additions and 2 deletions in 3 files</sub><br />
 
@@ -102,5 +99,5 @@
   <sub>[#156778](https://github.com/flutter/flutter/pull/156778) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156778) 95 additions and 2 deletions in 3 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Set onFocusChanged to false when detached<br />
-  <sub>[#156779](https://github.com/flutter/flutter/pull/156779) opened on on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156779) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#156779](https://github.com/flutter/flutter/pull/156779) opened on on October 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156779) 1 addition and 0 deletions in 1 file</sub><br />
 
