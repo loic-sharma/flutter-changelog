@@ -110,3 +110,6 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Set onFocusChanged to false when detached<br />
   <sub>[#156779](https://github.com/flutter/flutter/pull/156779) opened on on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156779) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix DropdownMenu keyboard navigation is broken when expandedInsets is set<br />
+  <sub>[#156803](https://github.com/flutter/flutter/pull/156803) opened on on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156803) 121 additions and 40 deletions in 2 files</sub><br />
+
