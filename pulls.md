@@ -105,7 +105,7 @@
   <sub>[#156735](https://github.com/flutter/flutter/pull/156735) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156735) 8 additions and 7 deletions in 5 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make `Chromium.close` a no-op if it has already been called<br />
-  <sub>[#156778](https://github.com/flutter/flutter/pull/156778) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156778) 46 additions and 14 deletions in 2 files</sub><br />
+  <sub>[#156778](https://github.com/flutter/flutter/pull/156778) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156778) 42 additions and 14 deletions in 3 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Set onFocusChanged to false when detached<br />
   <sub>[#156779](https://github.com/flutter/flutter/pull/156779) opened on on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156779) 1 addition and 0 deletions in 1 file</sub><br />
