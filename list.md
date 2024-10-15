@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-6 commits.
+7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `AppBar` back button doesn't navigate back when using `TooltipTriggerMode.tap` in the `TooltipTheme`
   <sub>[#155822](https://github.com/flutter/flutter/pull/155822) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155822) over 2 weeks, 150 additions and 61 deletions in 3 files</sub>
@@ -21,6 +21,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update iOS/macOS plugin test information
   <sub>[#156716](https://github.com/flutter/flutter/pull/156716) merged on October 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156716) over 2 hours, 15 additions and 14 deletions in 1 file</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `material_state_outlined_border.0.dart`
+  <sub>[#156814](https://github.com/flutter/flutter/pull/156814) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156814) over 1 hour, 58 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `material_state_property.0.dart`
   <sub>[#156719](https://github.com/flutter/flutter/pull/156719) merged on October 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156719) over 20 hours, 47 additions and 1 deletion in 2 files</sub>
