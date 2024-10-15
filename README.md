@@ -886,7 +886,11 @@
 
 ### October 12, 2024 to October 18, 2024
 
-5 commits.
+6 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert use of `mini_player` in the `video_player_android` test to `AndroidVideoPlayer`.<br />
+  <sub>[#7847](https://github.com/flutter/packages/pull/7847) merged on October 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7847) over 5 days, 142 additions and 121 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update for non-nullable generics in Pigeon<br />
   <sub>[#7775](https://github.com/flutter/packages/pull/7775) merged on October 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/7775) over 1 week, 788 additions and 541 deletions in 17 files</sub><br />
