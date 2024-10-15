@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-14 commits.
+15 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement CupertinoSearchTextField opacity fade on scroll<br />
   <sub>[#155025](https://github.com/flutter/flutter/pull/155025) merged on October 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155025) over 1 month, 227 additions and 15 deletions in 2 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix flavor-conditional asset bundling for path dependencies<br />
   <sub>[#156687](https://github.com/flutter/flutter/pull/156687) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156687) over 1 day, 94 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Determine the scroll gesture axis based on the effectiveScrollController<br />
+  <sub>[#156190](https://github.com/flutter/flutter/pull/156190) merged on October 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156190) over 1 week, 65 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Adjust timeout for devicelab tests<br />
   <sub>[#156553](https://github.com/flutter/flutter/pull/156553) merged on October 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156553) over 4 days, 5 additions and 2 deletions in 2 files</sub><br />
@@ -394,7 +398,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-11 commits.
+12 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -424,6 +428,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.<br />
   <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Simplify code for dispatching events<br />
+  <sub>[#55871](https://github.com/flutter/engine/pull/55871) merged on October 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55871) over 17 hours, 10 additions and 26 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add miplevel to Buffer->Texture blit.<br />
   <sub>[#55848](https://github.com/flutter/engine/pull/55848) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55848) over 2 days, 99 additions and 17 deletions in 14 files</sub><br />
