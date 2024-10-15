@@ -354,7 +354,12 @@
 
 ### October 12, 2024 to October 18, 2024
 
-8 commits.
+9 commits.
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
+  <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+  <sub><details><summary>3 images...</summary><img width="1136" alt="image" src="https://github.com/user-attachments/assets/e2398fde-532f-402d-899a-39aaa556f24f"><img width="1136" alt="image" src="https://github.com/user-attachments/assets/1c1bf664-bec1-43cb-ab2e-eb2a74718bfd"><img width="1136" alt="image" src="https://github.com/user-attachments/assets/bf59da17-cf52-4913-88e4-ab6f0bd6fc96"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub>
@@ -1072,11 +1077,15 @@
 
 ### October 12, 2024 to October 18, 2024
 
-4 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused example code and update dependabot config
   <sub>[#11265](https://github.com/flutter/website/pull/11265) merged on October 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11265) over 2 days, 146 additions and 1092 deletions in 8 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Illia Velichko](https://github.com/iveloff-developer)** &mdash; bugfix: typo in update-data.md
+  <sub>[#11273](https://github.com/flutter/website/pull/11273) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11273) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Tushar Bansod](https://github.com/tbansod2018)** &mdash; Column widget in FinishedPage and WaitingPage has been wrapped by Sing…
   <sub>[#11247](https://github.com/flutter/website/pull/11247) merged on October 14, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/11247) over 5 days, 206 additions and 197 deletions in 5 files</sub>
