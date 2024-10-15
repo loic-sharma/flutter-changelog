@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-13 commits.
+14 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement CupertinoSearchTextField opacity fade on scroll
   <sub>[#155025](https://github.com/flutter/flutter/pull/155025) merged on October 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155025) over 1 month, 227 additions and 15 deletions in 2 files</sub>
@@ -21,6 +21,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix flavor-conditional asset bundling for path dependencies
   <sub>[#156687](https://github.com/flutter/flutter/pull/156687) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156687) over 1 day, 94 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Adjust timeout for devicelab tests
+  <sub>[#156553](https://github.com/flutter/flutter/pull/156553) merged on October 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156553) over 4 days, 5 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update dropdown menu semantics to fix its a11y issues
   <sub>[#156709](https://github.com/flutter/flutter/pull/156709) merged on October 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156709) over 7 hours, 67 additions and 24 deletions in 2 files</sub>
