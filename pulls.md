@@ -92,9 +92,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build<br />
   <sub>[#156708](https://github.com/flutter/flutter/pull/156708) opened on on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156708) 60 additions and 1 deletion in 2 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make `Chromium.close` a no-op if it has already been called<br />
-  <sub>[#156778](https://github.com/flutter/flutter/pull/156778) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156778) 95 additions and 2 deletions in 3 files</sub><br />
-
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Set onFocusChanged to false when detached<br />
   <sub>[#156779](https://github.com/flutter/flutter/pull/156779) opened on on October 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156779) 1 addition and 0 deletions in 1 file</sub><br />
 
