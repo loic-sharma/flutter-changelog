@@ -110,3 +110,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix DropdownMenu keyboard navigation is broken when expandedInsets is set<br />
   <sub>[#156803](https://github.com/flutter/flutter/pull/156803) opened on on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156803) 121 additions and 40 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `material_state_outlined_border.0.dart`<br />
+  <sub>[#156814](https://github.com/flutter/flutter/pull/156814) opened on on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156814) 58 additions and 1 deletion in 2 files</sub><br />
+
