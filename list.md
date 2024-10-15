@@ -378,7 +378,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-10 commits.
+11 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -392,6 +392,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove unused fixture.
   <sub>[#55869](https://github.com/flutter/engine/pull/55869) merged on October 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/55869) over 1 hour, 0 additions and 403 deletions in 5 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Ignore opt-outs on iOS devices.
+  <sub>[#55808](https://github.com/flutter/engine/pull/55808) merged on October 15, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/55808) over 5 days, 19 additions and 13 deletions in 4 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra copy from drawPoints.
   <sub>[#55872](https://github.com/flutter/engine/pull/55872) merged on October 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55872) over 10 hours, 74 additions and 31 deletions in 2 files</sub>
