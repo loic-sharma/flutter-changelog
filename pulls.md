@@ -68,9 +68,6 @@
 * **[Emmanuel Bonke](https://github.com/Coder-Manuel)** &mdash; add `dividerThickness` in `PaginatedDataTable`<br />
   <sub>[#156442](https://github.com/flutter/flutter/pull/156442) opened on on October 8, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/156442) 71 additions and 0 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support Powershell v6+ to determine Windows version in `flutter doctor`<br />
-  <sub>[#156476](https://github.com/flutter/flutter/pull/156476) opened on on October 9, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156476) 135 additions and 3 deletions in 2 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; small update in regex in flutter.groovy<br />
   <sub>[#156484](https://github.com/flutter/flutter/pull/156484) opened on on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156484) 1 addition and 1 deletion in 1 file</sub><br />
 

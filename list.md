@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-7 commits.
+8 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `AppBar` back button doesn't navigate back when using `TooltipTriggerMode.tap` in the `TooltipTheme`
   <sub>[#155822](https://github.com/flutter/flutter/pull/155822) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155822) over 2 weeks, 150 additions and 61 deletions in 3 files</sub>
@@ -13,6 +13,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update dropdown menu semantics to fix its a11y issues
   <sub>[#156709](https://github.com/flutter/flutter/pull/156709) merged on October 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156709) over 7 hours, 67 additions and 24 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Support Powershell v6+ to determine Windows version in `flutter doctor`
+  <sub>[#156476](https://github.com/flutter/flutter/pull/156476) merged on October 15, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156476) over 6 days, 135 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; increase sharding of `Windows build_tests`
   <sub>[#156763](https://github.com/flutter/flutter/pull/156763) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156763) over 39 minutes, 40 additions and 14 deletions in 1 file</sub>
@@ -366,7 +370,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-9 commits.
+10 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -380,6 +384,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove unused fixture.
   <sub>[#55869](https://github.com/flutter/engine/pull/55869) merged on October 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/55869) over 1 hour, 0 additions and 403 deletions in 5 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra copy from drawPoints.
+  <sub>[#55872](https://github.com/flutter/engine/pull/55872) merged on October 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55872) over 10 hours, 74 additions and 31 deletions in 2 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional and deprecated `package_api_docs` lint
   <sub>[#55833](https://github.com/flutter/engine/pull/55833) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55833) over 3 days, 0 additions and 1 deletion in 1 file</sub>
