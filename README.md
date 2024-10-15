@@ -4,7 +4,11 @@
 
 ### October 12, 2024 to October 18, 2024
 
-5 commits.
+6 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `AppBar` back button doesn't navigate back when using `TooltipTriggerMode.tap` in the `TooltipTheme`<br />
+  <sub>[#155822](https://github.com/flutter/flutter/pull/155822) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155822) over 2 weeks, 150 additions and 61 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update dropdown menu semantics to fix its a11y issues<br />
   <sub>[#156709](https://github.com/flutter/flutter/pull/156709) merged on October 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156709) over 7 hours, 67 additions and 24 deletions in 2 files</sub><br />
