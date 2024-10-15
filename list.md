@@ -101,7 +101,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] handle missed lifecycle messages.
-  <sub>[#156596](https://github.com/flutter/flutter/pull/156596) merged on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156596) over 14 minutes, 4 additions and 1 deletion in 1 file</sub>
+  <sub>[#156596](https://github.com/flutter/flutter/pull/156596) merged on October 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156596) over 14 minutes, 4 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Flutter tool assumes impeller is enabled by default
