@@ -98,9 +98,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build<br />
   <sub>[#156708](https://github.com/flutter/flutter/pull/156708) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156708) 60 additions and 1 deletion in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `material_state_property.0.dart`<br />
-  <sub>[#156719](https://github.com/flutter/flutter/pull/156719) opened on on October 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156719) 47 additions and 1 deletion in 2 files</sub><br />
-
 * **[Siva](https://github.com/a-siva)** &mdash; Fix JS compilation to use the command 'compile js' instead of using snapshot names to invoke dart2js<br />
   <sub>[#156735](https://github.com/flutter/flutter/pull/156735) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156735) 8 additions and 7 deletions in 5 files</sub><br />
 

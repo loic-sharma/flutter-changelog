@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-4 commits.
+5 commits.
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update dropdown menu semantics to fix its a11y issues
   <sub>[#156709](https://github.com/flutter/flutter/pull/156709) merged on October 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156709) over 7 hours, 67 additions and 24 deletions in 2 files</sub>
@@ -17,6 +17,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update iOS/macOS plugin test information
   <sub>[#156716](https://github.com/flutter/flutter/pull/156716) merged on October 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156716) over 2 hours, 15 additions and 14 deletions in 1 file</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `material_state_property.0.dart`
+  <sub>[#156719](https://github.com/flutter/flutter/pull/156719) merged on October 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156719) over 20 hours, 47 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Refactor some DropdownMenu tests
   <sub>[#156702](https://github.com/flutter/flutter/pull/156702) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156702) over 11 hours, 52 additions and 183 deletions in 1 file</sub>
