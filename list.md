@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-9 commits.
+10 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement CupertinoSearchTextField opacity fade on scroll
   <sub>[#155025](https://github.com/flutter/flutter/pull/155025) merged on October 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155025) over 1 month, 227 additions and 15 deletions in 2 files</sub>
@@ -13,6 +13,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `AppBar` back button doesn't navigate back when using `TooltipTriggerMode.tap` in the `TooltipTheme`
   <sub>[#155822](https://github.com/flutter/flutter/pull/155822) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155822) over 2 weeks, 150 additions and 61 deletions in 3 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix flavor-conditional asset bundling for path dependencies
+  <sub>[#156687](https://github.com/flutter/flutter/pull/156687) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156687) over 1 day, 94 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update dropdown menu semantics to fix its a11y issues
   <sub>[#156709](https://github.com/flutter/flutter/pull/156709) merged on October 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156709) over 7 hours, 67 additions and 24 deletions in 2 files</sub>
