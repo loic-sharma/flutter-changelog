@@ -72,7 +72,7 @@
   <sub>[#156484](https://github.com/flutter/flutter/pull/156484) opened on on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156484) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
-  <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156501) 130 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/156501) 134 additions and 2 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Flutter tool assumes impeller is enabled by default<br />
   <sub>[#156542](https://github.com/flutter/flutter/pull/156542) opened on on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156542) 5 additions and 6 deletions in 3 files</sub><br />
