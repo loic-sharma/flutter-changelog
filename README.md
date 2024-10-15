@@ -878,7 +878,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-4 commits.
+5 commits.
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update for non-nullable generics in Pigeon<br />
   <sub>[#7775](https://github.com/flutter/packages/pull/7775) merged on October 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/7775) over 1 week, 788 additions and 541 deletions in 17 files</sub><br />
@@ -894,6 +894,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional, deprecated `package_api_docs` lint<br />
   <sub>[#7858](https://github.com/flutter/packages/pull/7858) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7858) over 2 days, 1 addition and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `UniversalAdId`<br />
+  <sub>[#7833](https://github.com/flutter/packages/pull/7833) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7833) over 6 days, 262 additions and 3 deletions in 10 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 ### October 5, 2024 to October 11, 2024

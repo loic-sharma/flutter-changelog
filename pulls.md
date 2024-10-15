@@ -75,7 +75,7 @@
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/156501) 134 additions and 2 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Support host android apps with `kts` gradle files for add to app<br />
-  <sub>[#156502](https://github.com/flutter/flutter/pull/156502) opened on on October 9, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/156502) 1003 additions and 15 deletions in 46 files</sub><br />
+  <sub>[#156502](https://github.com/flutter/flutter/pull/156502) opened on on October 9, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/156502) 1003 additions and 15 deletions in 46 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Flutter tool assumes impeller is enabled by default<br />
   <sub>[#156542](https://github.com/flutter/flutter/pull/156542) opened on on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156542) 5 additions and 6 deletions in 3 files</sub><br />
