@@ -102,7 +102,7 @@
   <sub>[#156719](https://github.com/flutter/flutter/pull/156719) opened on on October 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156719) 47 additions and 1 deletion in 2 files</sub><br />
 
 * **[Siva](https://github.com/a-siva)** &mdash; Fix JS compilation to use the command 'compile js' instead of using snapshot names to invoke dart2js<br />
-  <sub>[#156735](https://github.com/flutter/flutter/pull/156735) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156735) 6 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#156735](https://github.com/flutter/flutter/pull/156735) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156735) 8 additions and 7 deletions in 5 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make `Chromium.close` a no-op if it has already been called<br />
   <sub>[#156778](https://github.com/flutter/flutter/pull/156778) opened on on October 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156778) 46 additions and 14 deletions in 2 files</sub><br />

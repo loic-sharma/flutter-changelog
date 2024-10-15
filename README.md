@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update iOS/macOS plugin test information<br />
-  <sub>[#156716](https://github.com/flutter/flutter/pull/156716) merged on October 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156716) over 2 hours, 15 additions and 14 deletions in 1 file</sub><br />
+  <sub>[#156716](https://github.com/flutter/flutter/pull/156716) merged on October 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156716) over 2 hours, 15 additions and 14 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Refactor some DropdownMenu tests<br />
@@ -354,11 +354,15 @@
 
 ### October 12, 2024 to October 18, 2024
 
-7 commits.
+8 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.<br />
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove unused fixture.<br />
+  <sub>[#55869](https://github.com/flutter/engine/pull/55869) merged on October 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/55869) over 1 hour, 0 additions and 403 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional and deprecated `package_api_docs` lint<br />
   <sub>[#55833](https://github.com/flutter/engine/pull/55833) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55833) over 3 days, 0 additions and 1 deletion in 1 file</sub><br />
