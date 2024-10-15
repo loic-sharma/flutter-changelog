@@ -468,7 +468,7 @@
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/9eecb67f-a980-4556-8060-b0c947713534)![image](https://github.com/user-attachments/assets/c8e2071f-e7c0-411c-8f37-e1f3037916f4)</details></sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] Fix Platform view gesture recognizer with iPad pencil getting stuck
-  <sub>[#55724](https://github.com/flutter/engine/pull/55724) merged on October 11, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55724) over 2 days, 77 additions and 4 deletions in 2 files</sub>
+  <sub>[#55724](https://github.com/flutter/engine/pull/55724) merged on October 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/55724) over 2 days, 77 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add parsing of known GPU models

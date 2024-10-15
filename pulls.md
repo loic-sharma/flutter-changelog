@@ -3,7 +3,7 @@
 ## flutter/flutter
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Remove publishing race<br />
-  <sub>[#153304](https://github.com/flutter/flutter/pull/153304) opened on on August 12, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/153304) 534 additions and 765 deletions in 6 files</sub><br />
+  <sub>[#153304](https://github.com/flutter/flutter/pull/153304) opened on on August 12, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/153304) 534 additions and 765 deletions in 6 files</sub><br />
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; replaced url_stratagy export for non web<br />
   <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153355) 238 additions and 7 deletions in 9 files</sub><br />
