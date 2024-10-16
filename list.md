@@ -426,7 +426,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-18 commits.
+19 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -441,6 +441,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub>
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Remove pm use in build_fuchsia_artifacts
+  <sub>[#55832](https://github.com/flutter/engine/pull/55832) merged on October 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55832) over 5 days, 121 additions and 665 deletions in 9 files</sub>
+  <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split FlKeyboardManager out of FlKeyboardHandler
   <sub>[#55892](https://github.com/flutter/engine/pull/55892) merged on October 16, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/55892) over 1 hour, 1809 additions and 1683 deletions in 9 files</sub>
