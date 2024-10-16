@@ -98,3 +98,6 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update Snackbar actionOverflowThreshold Documentation<br />
   <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156926) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selection_container_disabled.0.dart`<br />
+  <sub>[#156934](https://github.com/flutter/flutter/pull/156934) opened on on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156934) 46 additions and 1 deletion in 2 files</sub><br />
+
