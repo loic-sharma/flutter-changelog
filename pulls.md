@@ -66,7 +66,7 @@
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/156501) 162 additions and 2 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Support host android apps with `kts` gradle files for add to app<br />
-  <sub>[#156502](https://github.com/flutter/flutter/pull/156502) opened on on October 9, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/156502) 1018 additions and 15 deletions in 46 files</sub><br />
+  <sub>[#156502](https://github.com/flutter/flutter/pull/156502) opened on on October 9, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/156502) 1018 additions and 15 deletions in 46 files</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
