@@ -86,9 +86,6 @@
 * **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template<br />
   <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Lurchfresser](https://github.com/Lurchfresser)** &mdash; builder gets executed with AnimationStyle.noAnimation<br />
-  <sub>[#156982](https://github.com/flutter/flutter/pull/156982) opened on on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156982) 7 additions and 7 deletions in 1 file</sub><br />
-
 * **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip SemanticsFlag test to allow new flag to roll in<br />
   <sub>[#157017](https://github.com/flutter/flutter/pull/157017) opened on on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157017) 5 additions and 1 deletion in 1 file</sub><br />
 
