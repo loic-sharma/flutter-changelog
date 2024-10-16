@@ -4,11 +4,16 @@
 
 ### October 12, 2024 to October 18, 2024
 
-23 commits.
+24 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar<br />
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add a tool warning when `pod install` does not work after adding a new test/watch/extension/other target with Xcode 16 <br />
+  <sub>[#156758](https://github.com/flutter/flutter/pull/156758) merged on October 16, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156758) over 1 day, 59 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="567" alt="Screenshot 2024-10-14 at 14 48 39" src="https://github.com/user-attachments/assets/6befa601-4041-46fc-9ca2-f57662adda4a"></details></sub>
 
 * **[Jakub Bogacki](https://github.com/kubatatami)** &mdash; Add TapOutsideConfiguration widget<br />
   <sub>[#150125](https://github.com/flutter/flutter/pull/150125) merged on October 16, 2024 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/150125) over 4 months, 246 additions and 169 deletions in 3 files</sub><br />
