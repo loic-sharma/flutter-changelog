@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-17 commits.
+18 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement CupertinoSearchTextField opacity fade on scroll<br />
   <sub>[#155025](https://github.com/flutter/flutter/pull/155025) merged on October 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155025) over 1 month, 227 additions and 15 deletions in 2 files</sub><br />
@@ -57,6 +57,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] try waiting for first frame.<br />
   <sub>[#156907](https://github.com/flutter/flutter/pull/156907) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156907) over 43 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix DropdownMenu keyboard navigation is broken when expandedInsets is set<br />
+  <sub>[#156803](https://github.com/flutter/flutter/pull/156803) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156803) over 1 day, 121 additions and 40 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Siva](https://github.com/a-siva)** &mdash; Fix JS compilation to use the command 'compile js' instead of using snapshot names to invoke dart2js<br />
   <sub>[#156735](https://github.com/flutter/flutter/pull/156735) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156735) over 1 day, 8 additions and 44 deletions in 6 files</sub><br />
