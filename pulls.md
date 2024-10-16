@@ -105,5 +105,5 @@
   <sub>[#156941](https://github.com/flutter/flutter/pull/156941) opened on on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156941) 24 additions and 3 deletions in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template<br />
-  <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
 
