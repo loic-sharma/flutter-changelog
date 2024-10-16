@@ -105,5 +105,5 @@
   <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Lurchfresser](https://github.com/Lurchfresser)** &mdash; builder gets executed with AnimationStyle.noAnimation<br />
-  <sub>[#156982](https://github.com/flutter/flutter/pull/156982) opened on on October 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156982) 7 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#156982](https://github.com/flutter/flutter/pull/156982) opened on on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156982) 7 additions and 7 deletions in 1 file</sub><br />
 
