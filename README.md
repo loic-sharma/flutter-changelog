@@ -509,7 +509,7 @@
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll Dart SDK from d916a5f69a48 to 2bf0f2b8d391 (24 revisions)<br />
-  <sub>[#55884](https://github.com/flutter/engine/pull/55884) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55884) over 4 hours, 128 additions and 114 deletions in 8 files</sub><br />
+  <sub>[#55884](https://github.com/flutter/engine/pull/55884) merged on October 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55884) over 4 hours, 128 additions and 114 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "[ios][platform_view] Fix Platform view gesture recognizer wit…<br />
@@ -537,7 +537,7 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 2bf0f2b8d391 to 7fce3544047c (4 revisions)<br />
-  <sub>[#55896](https://github.com/flutter/engine/pull/55896) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55896) over 50 minutes, 6 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#55896](https://github.com/flutter/engine/pull/55896) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55896) over 50 minutes, 6 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### October 5, 2024 to October 11, 2024
