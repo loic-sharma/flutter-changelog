@@ -406,7 +406,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-12 commits.
+13 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -436,6 +436,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.
   <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "[ios][platform_view] Fix Platform view gesture recognizer wit…
+  <sub>[#55889](https://github.com/flutter/engine/pull/55889) merged on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55889) over 1 hour, 4 additions and 77 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Simplify code for dispatching events
   <sub>[#55871](https://github.com/flutter/engine/pull/55871) merged on October 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55871) over 17 hours, 10 additions and 26 deletions in 1 file</sub>
