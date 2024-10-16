@@ -66,7 +66,7 @@
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/156501) 162 additions and 2 deletions in 3 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Support host android apps with `kts` gradle files for add to app<br />
-  <sub>[#156502](https://github.com/flutter/flutter/pull/156502) opened on on October 9, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/156502) 1026 additions and 17 deletions in 47 files</sub><br />
+  <sub>[#156502](https://github.com/flutter/flutter/pull/156502) opened on on October 9, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/156502) 1018 additions and 15 deletions in 46 files</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
@@ -85,9 +85,6 @@
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template<br />
   <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip SemanticsFlag test to allow new flag to roll in<br />
-  <sub>[#157017](https://github.com/flutter/flutter/pull/157017) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157017) 5 additions and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add a tool warning when `pod install` does not work after adding a new test/watch/extension/other target with Xcode 16 <br />
   <sub>[#157022](https://github.com/flutter/flutter/pull/157022) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157022) 59 additions and 0 deletions in 2 files</sub><br />

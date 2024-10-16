@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-26 commits.
+27 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub>
@@ -75,6 +75,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage doc
   <sub>[#155716](https://github.com/flutter/flutter/pull/155716) merged on October 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155716) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip SemanticsFlag test to allow new flag to roll in
+  <sub>[#157017](https://github.com/flutter/flutter/pull/157017) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157017) over 2 hours, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Pin google_mobile_ads to 5.1.0
   <sub>[#156911](https://github.com/flutter/flutter/pull/156911) merged on October 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156911) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
