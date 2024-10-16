@@ -101,14 +101,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selection_container_disabled.0.dart`<br />
   <sub>[#156934](https://github.com/flutter/flutter/pull/156934) opened on on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156934) 76 additions and 1 deletion in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove LogicalKeySet usage in one Shortcuts example<br />
-  <sub>[#156941](https://github.com/flutter/flutter/pull/156941) opened on on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156941) 24 additions and 3 deletions in 2 files</sub><br />
-
 * **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template<br />
   <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [WIP] Fix TextField selects all content after the application is resumed<br />
-  <sub>[#156968](https://github.com/flutter/flutter/pull/156968) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156968) 11 additions and 1 deletion in 1 file</sub><br />
 
 * **[Lurchfresser](https://github.com/Lurchfresser)** &mdash; builder gets executed with AnimationStyle.noAnimation<br />
   <sub>[#156982](https://github.com/flutter/flutter/pull/156982) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156982) 7 additions and 7 deletions in 1 file</sub><br />
