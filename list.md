@@ -4,11 +4,16 @@
 
 ### October 12, 2024 to October 18, 2024
 
-24 commits.
+25 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoNavigationBar to allow for a double-row nav bar
+  <sub>[#155959](https://github.com/flutter/flutter/pull/155959) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155959) over 2 weeks, 175 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+  <sub><details><summary>1 image...</summary><img width="270" height="600"  alt="Screenshot 2024-09-30 at 3 09 04 PM" src="https://github.com/user-attachments/assets/4003116f-69dd-4f8f-a185-6ca151b74d2d"></details></sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add a tool warning when `pod install` does not work after adding a new test/watch/extension/other target with Xcode 16 
   <sub>[#156758](https://github.com/flutter/flutter/pull/156758) merged on October 16, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156758) over 1 day, 59 additions and 0 deletions in 2 files</sub>
