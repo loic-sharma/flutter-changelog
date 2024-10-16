@@ -489,7 +489,7 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update the repo references for package:file<br />
-  <sub>[#55906](https://github.com/flutter/engine/pull/55906) merged on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55906) over 2 hours, 2 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#55906](https://github.com/flutter/engine/pull/55906) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55906) over 2 hours, 2 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Starts looking for the bdf fast path in relation to the snapshot_entity's transform<br />
