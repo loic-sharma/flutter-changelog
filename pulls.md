@@ -110,3 +110,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [WIP] Fix TextField selects all content after the application is resumed<br />
   <sub>[#156968](https://github.com/flutter/flutter/pull/156968) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156968) 11 additions and 1 deletion in 1 file</sub><br />
 
+* **[Lurchfresser](https://github.com/Lurchfresser)** &mdash; builder gets executed with AnimationStyle.noAnimation<br />
+  <sub>[#156982](https://github.com/flutter/flutter/pull/156982) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156982) 7 additions and 7 deletions in 1 file</sub><br />
+
