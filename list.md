@@ -1207,7 +1207,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-6 commits.
+7 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused example code and update dependabot config
   <sub>[#11265](https://github.com/flutter/website/pull/11265) merged on October 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11265) over 2 days, 146 additions and 1092 deletions in 8 files</sub>
@@ -1227,6 +1227,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor formatting fixes for new compose-activity article
   <sub>[#11266](https://github.com/flutter/website/pull/11266) merged on October 14, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11266) over 2 days, 216 additions and 202 deletions in 5 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Update /tools/ide redirect to vs code
+  <sub>[#11280](https://github.com/flutter/website/pull/11280) merged on October 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11280) over 12 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Chris Mercredi](https://github.com/chrismercredi)** &mdash; Update url-strategies.md
