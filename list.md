@@ -406,16 +406,25 @@
 
 ### October 12, 2024 to October 18, 2024
 
-13 commits.
+15 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
   <sub><details><summary>3 images...</summary><img width="1136" alt="image" src="https://github.com/user-attachments/assets/e2398fde-532f-402d-899a-39aaa556f24f"><img width="1136" alt="image" src="https://github.com/user-attachments/assets/1c1bf664-bec1-43cb-ab2e-eb2a74718bfd"><img width="1136" alt="image" src="https://github.com/user-attachments/assets/bf59da17-cf52-4913-88e4-ab6f0bd6fc96"></details></sub>
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Initialize the base paragraph style lazily.
+  <sub>[#55891](https://github.com/flutter/engine/pull/55891) merged on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55891) over 1 hour, 140 additions and 26 deletions in 6 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+  <sub><details><summary>1 image...</summary><img width="1136" alt="Screenshot 2024-10-15 at 4 01 27 PM" src="https://github.com/user-attachments/assets/eeecba1d-eecb-4f29-878f-caf4c674a836"></details></sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split FlKeyboardManager out of FlKeyboardHandler
+  <sub>[#55892](https://github.com/flutter/engine/pull/55892) merged on October 16, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/55892) over 1 hour, 1809 additions and 1683 deletions in 9 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove unused fixture.
   <sub>[#55869](https://github.com/flutter/engine/pull/55869) merged on October 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/55869) over 1 hour, 0 additions and 403 deletions in 5 files</sub>
