@@ -108,7 +108,7 @@
   <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Lurchfresser](https://github.com/Lurchfresser)** &mdash; builder gets executed with AnimationStyle.noAnimation<br />
-  <sub>[#156966](https://github.com/flutter/flutter/pull/156966) opened on on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156966) 7 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#156966](https://github.com/flutter/flutter/pull/156966) opened on on October 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156966) 7 additions and 7 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [WIP] Fix TextField selects all content after the application is resumed<br />
   <sub>[#156968](https://github.com/flutter/flutter/pull/156968) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156968) 11 additions and 1 deletion in 1 file</sub><br />
