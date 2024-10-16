@@ -77,9 +77,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Support host android apps with `kts` gradle files for add to app<br />
   <sub>[#156502](https://github.com/flutter/flutter/pull/156502) opened on on October 9, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/156502) 1003 additions and 15 deletions in 46 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Flutter tool assumes impeller is enabled by default<br />
-  <sub>[#156542](https://github.com/flutter/flutter/pull/156542) opened on on October 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156542) 5 additions and 6 deletions in 3 files</sub><br />
-
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Flutter tool assumes impeller is enabled by default (#156540)<br />
   <sub>[#156545](https://github.com/flutter/flutter/pull/156545) opened on on October 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156545) 5 additions and 6 deletions in 3 files</sub><br />
 
@@ -93,13 +90,10 @@
   <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build<br />
-  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) opened on on October 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156708) 52 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) opened on on October 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156708) 63 additions and 13 deletions in 5 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update Snackbar actionOverflowThreshold Documentation<br />
   <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156926) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selection_container_disabled.0.dart`<br />
-  <sub>[#156934](https://github.com/flutter/flutter/pull/156934) opened on on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156934) 76 additions and 1 deletion in 2 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template<br />
   <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />

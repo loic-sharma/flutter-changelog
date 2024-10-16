@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-20 commits.
+21 commits.
 
 * **[Jakub Bogacki](https://github.com/kubatatami)** &mdash; Add TapOutsideConfiguration widget<br />
   <sub>[#150125](https://github.com/flutter/flutter/pull/150125) merged on October 16, 2024 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/150125) over 4 months, 246 additions and 169 deletions in 3 files</sub><br />
@@ -65,6 +65,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] try waiting for first frame.<br />
   <sub>[#156907](https://github.com/flutter/flutter/pull/156907) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156907) over 43 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selection_container_disabled.0.dart`<br />
+  <sub>[#156934](https://github.com/flutter/flutter/pull/156934) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156934) over 11 hours, 76 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix DropdownMenu keyboard navigation is broken when expandedInsets is set<br />
   <sub>[#156803](https://github.com/flutter/flutter/pull/156803) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156803) over 1 day, 121 additions and 40 deletions in 2 files</sub><br />
