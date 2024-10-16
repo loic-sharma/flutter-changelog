@@ -36,7 +36,7 @@
   <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/155203) 245 additions and 14 deletions in 5 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
-  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
+  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[Frank](https://github.com/Frank3K)** &mdash; Do not handle external requests by service worker (Flutter web)<br />
   <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
@@ -52,9 +52,6 @@
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix: showDatePicker should have a simple example in the docs<br />
   <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/156196) 126 additions and 0 deletions in 3 files</sub><br />
-
-* **[Muhammad Mohiuddin](https://github.com/MohiuddinM)** &mdash; feat: add errorBuilder property to customize errorText appearance<br />
-  <sub>[#156275](https://github.com/flutter/flutter/pull/156275) opened on on October 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156275) 56 additions and 2 deletions in 2 files</sub><br />
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Allow add_format() in flutter gen-l10n DateTime format<br />
   <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
@@ -83,9 +80,15 @@
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update Snackbar actionOverflowThreshold Documentation<br />
   <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156926) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[FMorschel](https://github.com/FMorschel)** &mdash; Removing unnecessary parenthesis<br />
+  <sub>[#156928](https://github.com/flutter/flutter/pull/156928) opened on on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156928) 6 additions and 6 deletions in 5 files</sub><br />
+
 * **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template<br />
   <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Lurchfresser](https://github.com/Lurchfresser)** &mdash; builder gets executed with AnimationStyle.noAnimation<br />
   <sub>[#156982](https://github.com/flutter/flutter/pull/156982) opened on on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156982) 7 additions and 7 deletions in 1 file</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip SemanticsFlag test to allow new flag to roll in<br />
+  <sub>[#157017](https://github.com/flutter/flutter/pull/157017) opened on on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157017) 5 additions and 1 deletion in 1 file</sub><br />
 

@@ -4,7 +4,11 @@
 
 ### October 12, 2024 to October 18, 2024
 
-22 commits.
+23 commits.
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar
+  <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Jakub Bogacki](https://github.com/kubatatami)** &mdash; Add TapOutsideConfiguration widget
   <sub>[#150125](https://github.com/flutter/flutter/pull/150125) merged on October 16, 2024 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/150125) over 4 months, 246 additions and 169 deletions in 3 files</sub>
