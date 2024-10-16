@@ -1174,7 +1174,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-5 commits.
+6 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused example code and update dependabot config<br />
   <sub>[#11265](https://github.com/flutter/website/pull/11265) merged on October 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11265) over 2 days, 146 additions and 1092 deletions in 8 files</sub><br />
@@ -1195,6 +1195,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor formatting fixes for new compose-activity article<br />
   <sub>[#11266](https://github.com/flutter/website/pull/11266) merged on October 14, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11266) over 2 days, 216 additions and 202 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Chris Mercredi](https://github.com/chrismercredi)** &mdash; Update url-strategies.md<br />
+  <sub>[#11221](https://github.com/flutter/website/pull/11221) merged on October 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11221) over 1 week, 15 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### October 5, 2024 to October 11, 2024
 
