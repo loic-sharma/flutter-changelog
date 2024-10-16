@@ -4,7 +4,11 @@
 
 ### October 12, 2024 to October 18, 2024
 
-18 commits.
+19 commits.
+
+* **[Jakub Bogacki](https://github.com/kubatatami)** &mdash; Add TapOutsideConfiguration widget
+  <sub>[#150125](https://github.com/flutter/flutter/pull/150125) merged on October 16, 2024 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/150125) over 4 months, 246 additions and 169 deletions in 3 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement CupertinoSearchTextField opacity fade on scroll
   <sub>[#155025](https://github.com/flutter/flutter/pull/155025) merged on October 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155025) over 1 month, 227 additions and 15 deletions in 2 files</sub>
