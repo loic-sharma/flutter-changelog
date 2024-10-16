@@ -42,7 +42,7 @@
   <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Assert macOS framework artifact contains xcprivacy manifest<br />
-  <sub>[#155556](https://github.com/flutter/flutter/pull/155556) opened on on September 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155556) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#155556](https://github.com/flutter/flutter/pull/155556) opened on on September 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155556) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
@@ -76,9 +76,6 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Support host android apps with `kts` gradle files for add to app<br />
   <sub>[#156502](https://github.com/flutter/flutter/pull/156502) opened on on October 9, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/156502) 1003 additions and 15 deletions in 46 files</sub><br />
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Flutter tool assumes impeller is enabled by default (#156540)<br />
-  <sub>[#156545](https://github.com/flutter/flutter/pull/156545) opened on on October 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156545) 5 additions and 6 deletions in 3 files</sub><br />
 
 * **[Sikandar Sadaqat](https://github.com/Sikandar4747)** &mdash; Carousel view fixes 154533<br />
   <sub>[#156577](https://github.com/flutter/flutter/pull/156577) opened on on October 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156577) 89 additions and 4 deletions in 1 file</sub><br />
