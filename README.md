@@ -406,7 +406,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-15 commits.
+16 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -445,6 +445,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.<br />
   <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Manual roll Dart SDK from d916a5f69a48 to 2bf0f2b8d391 (24 revisions)<br />
+  <sub>[#55884](https://github.com/flutter/engine/pull/55884) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55884) over 4 hours, 128 additions and 114 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "[ios][platform_view] Fix Platform view gesture recognizer wit…<br />
   <sub>[#55889](https://github.com/flutter/engine/pull/55889) merged on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55889) over 1 hour, 4 additions and 77 deletions in 2 files</sub><br />
