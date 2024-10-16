@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-28 commits.
+29 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub>
@@ -27,6 +27,10 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement CupertinoSearchTextField opacity fade on scroll
   <sub>[#155025](https://github.com/flutter/flutter/pull/155025) merged on October 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155025) over 1 month, 227 additions and 15 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Support host android apps with `kts` gradle files for add to app
+  <sub>[#156502](https://github.com/flutter/flutter/pull/156502) merged on October 16, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/flutter/pull/156502) over 1 week, 1018 additions and 15 deletions in 46 files</sub>
+  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] fix android studio preview's version parsing
   <sub>[#156293](https://github.com/flutter/flutter/pull/156293) merged on October 16, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/156293) over 1 week, 35 additions and 1 deletion in 2 files</sub>
