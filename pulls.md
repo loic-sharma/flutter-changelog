@@ -42,7 +42,7 @@
   <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Assert macOS framework artifact contains xcprivacy manifest<br />
-  <sub>[#155556](https://github.com/flutter/flutter/pull/155556) opened on on September 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155556) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#155556](https://github.com/flutter/flutter/pull/155556) opened on on September 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155556) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />

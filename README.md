@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-19 commits.
+20 commits.
 
 * **[Jakub Bogacki](https://github.com/kubatatami)** &mdash; Add TapOutsideConfiguration widget<br />
   <sub>[#150125](https://github.com/flutter/flutter/pull/150125) merged on October 16, 2024 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/150125) over 4 months, 246 additions and 169 deletions in 3 files</sub><br />
@@ -13,6 +13,10 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement CupertinoSearchTextField opacity fade on scroll<br />
   <sub>[#155025](https://github.com/flutter/flutter/pull/155025) merged on October 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155025) over 1 month, 227 additions and 15 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] fix android studio preview's version parsing<br />
+  <sub>[#156293](https://github.com/flutter/flutter/pull/156293) merged on October 16, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/156293) over 1 week, 35 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Andrew Kolos](https://github.com/andrewkolos), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix flavor-conditional asset bundling for path dependencies<br />
   <sub>[#156687](https://github.com/flutter/flutter/pull/156687) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156687) over 1 day, 94 additions and 8 deletions in 2 files</sub><br />
@@ -447,7 +451,7 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra copy from drawPoints.<br />
-  <sub>[#55872](https://github.com/flutter/engine/pull/55872) merged on October 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55872) over 10 hours, 74 additions and 31 deletions in 2 files</sub><br />
+  <sub>[#55872](https://github.com/flutter/engine/pull/55872) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55872) over 10 hours, 74 additions and 31 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional and deprecated `package_api_docs` lint<br />
