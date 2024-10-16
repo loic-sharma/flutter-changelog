@@ -406,7 +406,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-17 commits.
+18 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -477,6 +477,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove fl_keyboard_view_delegate_subscribe_to_layout_change and just access the object directly via a method<br />
   <sub>[#55817](https://github.com/flutter/engine/pull/55817) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55817) over 2 days, 19 additions and 52 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 2bf0f2b8d391 to 7fce3544047c (4 revisions)<br />
+  <sub>[#55896](https://github.com/flutter/engine/pull/55896) merged on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55896) over 50 minutes, 6 additions and 6 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### October 5, 2024 to October 11, 2024
 
