@@ -1212,7 +1212,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-7 commits.
+8 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused example code and update dependabot config
   <sub>[#11265](https://github.com/flutter/website/pull/11265) merged on October 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11265) over 2 days, 146 additions and 1092 deletions in 8 files</sub>
@@ -1225,6 +1225,10 @@
 * **[Tushar Bansod](https://github.com/tbansod2018)** &mdash; Column widget in FinishedPage and WaitingPage has been wrapped by Sing…
   <sub>[#11247](https://github.com/flutter/website/pull/11247) merged on October 14, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/11247) over 5 days, 206 additions and 197 deletions in 5 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Eric Windmill](https://github.com/ericwindmill)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Follow up clean up to URL strategy config doc
+  <sub>[#11278](https://github.com/flutter/website/pull/11278) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11278) over 15 hours, 6 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove codelabs submodule and usages
   <sub>[#11264](https://github.com/flutter/website/pull/11264) merged on October 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11264) over 2 days, 160 additions and 92 deletions in 13 files</sub>
