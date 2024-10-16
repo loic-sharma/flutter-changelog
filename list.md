@@ -42,13 +42,13 @@
   <sub>[#156763](https://github.com/flutter/flutter/pull/156763) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156763) over 39 minutes, 40 additions and 14 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage doc
-  <sub>[#155716](https://github.com/flutter/flutter/pull/155716) merged on October 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155716) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update iOS/macOS plugin test information
   <sub>[#156716](https://github.com/flutter/flutter/pull/156716) merged on October 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156716) over 2 hours, 15 additions and 14 deletions in 1 file</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update triage doc
+  <sub>[#155716](https://github.com/flutter/flutter/pull/155716) merged on October 15, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/155716) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Pin google_mobile_ads to 5.1.0
   <sub>[#156911](https://github.com/flutter/flutter/pull/156911) merged on October 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156911) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
