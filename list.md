@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-25 commits.
+26 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub>
@@ -35,6 +35,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix flavor-conditional asset bundling for path dependencies
   <sub>[#156687](https://github.com/flutter/flutter/pull/156687) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156687) over 1 day, 94 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Monomorphic Mapper
+  <sub>[#154972](https://github.com/flutter/flutter/pull/154972) merged on October 16, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/154972) over 1 month, 263 additions and 85 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; Add padding options to `SearchAnchor`
   <sub>[#152508](https://github.com/flutter/flutter/pull/152508) merged on October 15, 2024 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/152508) over 2 months, 202 additions and 51 deletions in 5 files</sub>
@@ -440,7 +444,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-20 commits.
+22 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -451,6 +455,10 @@
   <sub>[#55891](https://github.com/flutter/engine/pull/55891) merged on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55891) over 1 hour, 140 additions and 26 deletions in 6 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
   <sub><details><summary>1 image...</summary><img width="1136" alt="Screenshot 2024-10-15 at 4 01 27 PM" src="https://github.com/user-attachments/assets/eeecba1d-eecb-4f29-878f-caf4c674a836"></details></sub>
+
+* **[Harlen Batagelo](https://github.com/hbatagelo)** &mdash; Handle out-of-order add/remove pointer events
+  <sub>[#55740](https://github.com/flutter/engine/pull/55740) merged on October 16, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/55740) over 1 week, 148 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub>
@@ -475,6 +483,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete fl_keyboard_view_delegate_get_messenger
   <sub>[#54857](https://github.com/flutter/engine/pull/54857) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54857) over 1 month, 9 additions and 36 deletions in 7 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; update the repo references for package:file
+  <sub>[#55906](https://github.com/flutter/engine/pull/55906) merged on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55906) over 2 hours, 2 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Starts looking for the bdf fast path in relation to the snapshot_entity's transform
   <sub>[#55890](https://github.com/flutter/engine/pull/55890) merged on October 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55890) over 21 hours, 39 additions and 1 deletion in 4 files</sub>
