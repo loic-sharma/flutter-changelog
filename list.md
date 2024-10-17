@@ -1008,7 +1008,7 @@
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions #7574
-  <sub>[#7812](https://github.com/flutter/packages/pull/7812) merged on October 17, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/7812) over 1 week, 1880 additions and 251 deletions in 25 files</sub>
+  <sub>[#7812](https://github.com/flutter/packages/pull/7812) merged on October 17, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/7812) over 1 week, 1880 additions and 251 deletions in 25 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update for non-nullable generics in Pigeon
