@@ -86,3 +86,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add a tool warning when `pod install` does not work after adding a new test/watch/extension/other target with Xcode 16 <br />
   <sub>[#157022](https://github.com/flutter/flutter/pull/157022) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157022) 59 additions and 0 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selection_container.0_test.dart`<br />
+  <sub>[#157079](https://github.com/flutter/flutter/pull/157079) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157079) 63 additions and 1 deletion in 2 files</sub><br />
+
