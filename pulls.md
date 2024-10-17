@@ -74,9 +74,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix OutputFile deprecation inside flutter.groovy<br />
   <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build<br />
-  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) opened on on October 14, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/156708) 48 additions and 13 deletions in 5 files</sub><br />
-
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Snackbar actionOverflowThreshold Documentation<br />
   <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156926) 1 addition and 1 deletion in 1 file</sub><br />
 
