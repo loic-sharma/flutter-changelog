@@ -468,7 +468,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-25 commits.
+26 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -511,6 +511,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete fl_keyboard_view_delegate_get_messenger<br />
   <sub>[#54857](https://github.com/flutter/engine/pull/54857) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54857) over 1 month, 9 additions and 36 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started using a specific python for yapf<br />
+  <sub>[#55905](https://github.com/flutter/engine/pull/55905) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55905) over 21 hours, 15 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix memory leak during gif upload.<br />
   <sub>[#55920](https://github.com/flutter/engine/pull/55920) merged on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55920) over 2 hours, 10 additions and 0 deletions in 2 files</sub><br />
