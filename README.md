@@ -1021,7 +1021,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-10 commits.
+11 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [image_picker_web] Loosen mime dep to >=1.0.4 <3.0.0<br />
   <sub>[#7879](https://github.com/flutter/packages/pull/7879) merged on October 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7879) over 1 day, 9 additions and 8 deletions in 7 files</sub><br />
@@ -1032,7 +1032,7 @@
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions #7574<br />
-  <sub>[#7812](https://github.com/flutter/packages/pull/7812) merged on October 17, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/7812) over 1 week, 1880 additions and 251 deletions in 25 files</sub><br />
+  <sub>[#7812](https://github.com/flutter/packages/pull/7812) merged on October 17, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/packages/pull/7812) over 1 week, 1880 additions and 251 deletions in 25 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update for non-nullable generics in Pigeon<br />
@@ -1062,6 +1062,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `UniversalAdId`<br />
   <sub>[#7833](https://github.com/flutter/packages/pull/7833) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7833) over 6 days, 262 additions and 3 deletions in 10 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[in_app_purchase_storekit] Add support for purchase and transactions #7574"<br />
+  <sub>[#7886](https://github.com/flutter/packages/pull/7886) merged on October 17, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/7886) over 5 hours, 251 additions and 1880 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 ### October 5, 2024 to October 11, 2024
 
