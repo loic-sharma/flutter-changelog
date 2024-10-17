@@ -71,9 +71,6 @@
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Snackbar actionOverflowThreshold Documentation<br />
   <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156926) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[FMorschel](https://github.com/FMorschel)** &mdash; Removing unnecessary parenthesis<br />
-  <sub>[#156928](https://github.com/flutter/flutter/pull/156928) opened on on October 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/156928) 15 additions and 16 deletions in 5 files</sub><br />
-
 * **[Bobek Bobekos](https://github.com/bobekos)** &mdash; Add collapsed title padding for flexibale space bar 69017<br />
   <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157088) 111 additions and 12 deletions in 2 files</sub><br />
 
@@ -85,4 +82,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update CupertinoNavigationBar to support large layout<br />
   <sub>[#157133](https://github.com/flutter/flutter/pull/157133) opened on on October 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/157133) 417 additions and 73 deletions in 4 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Test alternate correct macOS framework xcprivacy manifest location<br />
+  <sub>[#157135](https://github.com/flutter/flutter/pull/157135) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157135) 13 additions and 1 deletion in 1 file</sub><br />
 

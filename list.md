@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-40 commits.
+41 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub>
@@ -108,9 +108,9 @@
   <sub>[#157127](https://github.com/flutter/flutter/pull/157127) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157127) over 58 minutes, 6 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] try waiting for first frame.
-  <sub>[#156907](https://github.com/flutter/flutter/pull/156907) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156907) over 43 minutes, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts
+  <sub>[#156291](https://github.com/flutter/flutter/pull/156291) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156291) over 1 week, 62 additions and 61 deletions in 3 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip SemanticsFlag test to allow new flag to roll in
   <sub>[#157017](https://github.com/flutter/flutter/pull/157017) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157017) over 2 hours, 5 additions and 1 deletion in 1 file</sub>
@@ -120,13 +120,13 @@
   <sub>[#156911](https://github.com/flutter/flutter/pull/156911) merged on October 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156911) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts
-  <sub>[#156291](https://github.com/flutter/flutter/pull/156291) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156291) over 1 week, 62 additions and 61 deletions in 3 files</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
-
 * **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip CustomPainter SemanticsFlag test to allow new flag to roll in
   <sub>[#157061](https://github.com/flutter/flutter/pull/157061) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157061) over 31 minutes, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] try waiting for first frame.
+  <sub>[#156907](https://github.com/flutter/flutter/pull/156907) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156907) over 43 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selection_container_disabled.0.dart`
   <sub>[#156934](https://github.com/flutter/flutter/pull/156934) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156934) over 11 hours, 76 additions and 1 deletion in 2 files</sub>
@@ -139,6 +139,10 @@
 * **[Siva](https://github.com/a-siva)** &mdash; Fix JS compilation to use the command 'compile js' instead of using snapshot names to invoke dart2js
   <sub>[#156735](https://github.com/flutter/flutter/pull/156735) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156735) over 1 day, 8 additions and 44 deletions in 6 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[FMorschel](https://github.com/FMorschel)** &mdash; Removing unnecessary parenthesis
+  <sub>[#156928](https://github.com/flutter/flutter/pull/156928) merged on October 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/156928) over 1 day, 15 additions and 16 deletions in 5 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `material_state_outlined_border.0.dart`
   <sub>[#156814](https://github.com/flutter/flutter/pull/156814) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156814) over 1 hour, 58 additions and 1 deletion in 2 files</sub>
@@ -500,7 +504,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-31 commits.
+32 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -619,6 +623,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove fl_keyboard_view_delegate_subscribe_to_layout_change and just access the object directly via a method
   <sub>[#55817](https://github.com/flutter/engine/pull/55817) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55817) over 2 days, 19 additions and 52 deletions in 6 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Reland "iOS: Migrate FlutterEngine to ARC"
+  <sub>[#55937](https://github.com/flutter/engine/pull/55937) merged on October 17, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/engine/pull/55937) over 2 hours, 293 additions and 379 deletions in 6 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from d916a5f69a48 to 993d3069f42e (35 revisions)
   <sub>[#55927](https://github.com/flutter/engine/pull/55927) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55927) over 2 hours, 91 additions and 63 deletions in 6 files</sub>
@@ -1057,7 +1065,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-14 commits.
+15 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [two_dimensional_scrollables] Fixes TreeViewNode collapsing not working
   <sub>[#7474](https://github.com/flutter/packages/pull/7474) merged on October 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7474) over 1 month, 79 additions and 5 deletions in 4 files</sub>
@@ -1102,6 +1110,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional, deprecated `package_api_docs` lint
   <sub>[#7858](https://github.com/flutter/packages/pull/7858) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7858) over 2 days, 1 addition and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[ftsui](https://github.com/ftsui)** &mdash; [url_launcher] Decode file URLs before passing it to ShellExecuteW
+  <sub>[#7774](https://github.com/flutter/packages/pull/7774) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7774) over 2 weeks, 44 additions and 5 deletions in 5 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [camera_android] Mark `description` in `sendCameraErrorEvent` as `@NonNull`
   <sub>[#7877](https://github.com/flutter/packages/pull/7877) merged on October 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7877) over 1 day, 18 additions and 9 deletions in 2 files</sub>
