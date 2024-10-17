@@ -492,7 +492,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-28 commits.
+29 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -535,6 +535,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete fl_keyboard_view_delegate_get_messenger
   <sub>[#54857](https://github.com/flutter/engine/pull/54857) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54857) over 1 month, 9 additions and 36 deletions in 7 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add back unnecessary_parenthesis lint
+  <sub>[#55931](https://github.com/flutter/engine/pull/55931) merged on October 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55931) over 2 hours, 44 additions and 56 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make labeling APIs exclusively use std::string_view.
   <sub>[#55918](https://github.com/flutter/engine/pull/55918) merged on October 17, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55918) over 18 hours, 195 additions and 178 deletions in 55 files</sub>
