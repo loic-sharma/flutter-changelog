@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-29 commits.
+30 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar<br />
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub><br />
@@ -95,6 +95,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] try waiting for first frame.<br />
   <sub>[#156907](https://github.com/flutter/flutter/pull/156907) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156907) over 43 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Mark `Linux_android_emu_34 flutter_driver_android_test` bringup: true<br />
+  <sub>[#157069](https://github.com/flutter/flutter/pull/157069) merged on October 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157069) over 51 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Remove LogicalKeySet usage in one Shortcuts example<br />
   <sub>[#156941](https://github.com/flutter/flutter/pull/156941) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156941) over 8 hours, 24 additions and 3 deletions in 2 files</sub><br />
