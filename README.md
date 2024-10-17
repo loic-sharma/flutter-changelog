@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-31 commits.
+32 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar<br />
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub><br />
@@ -23,6 +23,10 @@
 * **[Jakub Bogacki](https://github.com/kubatatami)** &mdash; Add TapOutsideConfiguration widget<br />
   <sub>[#150125](https://github.com/flutter/flutter/pull/150125) merged on October 16, 2024 &mdash; **Medium:** [26 comments](https://github.com/flutter/flutter/pull/150125) over 4 months, 246 additions and 169 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Crafti](https://github.com/Craftplacer)** &mdash; Implement actionsPadding for AppBar<br />
+  <sub>[#155632](https://github.com/flutter/flutter/pull/155632) merged on October 17, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/155632) over 3 weeks, 91 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Implement CupertinoSearchTextField opacity fade on scroll<br />
   <sub>[#155025](https://github.com/flutter/flutter/pull/155025) merged on October 15, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/155025) over 1 month, 227 additions and 15 deletions in 2 files</sub><br />
@@ -178,7 +182,7 @@
   <sub>[#156468](https://github.com/flutter/flutter/pull/156468) merged on October 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156468) over 2 days, 18 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Add code sample to the CupertinoMagnifier/CupertinoTextMagnifier<br />
+* **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Add code sample to the CupertinoMagnifier/CupertinoTextMagnifier<br />
   <sub>[#156028](https://github.com/flutter/flutter/pull/156028) merged on October 11, 2024 &mdash; **Small:** [38 comments](https://github.com/flutter/flutter/pull/156028) over 1 week, 232 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
