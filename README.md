@@ -791,7 +791,7 @@
   <sub>[#55786](https://github.com/flutter/engine/pull/55786) merged on October 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55786) over 1 day, 5 additions and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to set primitive type<br />
+* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; [Flutter GPU] Added support to set primitive type<br />
   <sub>[#55514](https://github.com/flutter/engine/pull/55514) merged on October 8, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55514) over 1 week, 68 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Brandon DeRosier](https://github.com/bdero)</sub><br />
 

@@ -74,9 +74,6 @@
 * **[FMorschel](https://github.com/FMorschel)** &mdash; Removing unnecessary parenthesis<br />
   <sub>[#156928](https://github.com/flutter/flutter/pull/156928) opened on on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156928) 15 additions and 16 deletions in 5 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add a tool warning when `pod install` does not work after adding a new test/watch/extension/other target with Xcode 16 <br />
-  <sub>[#157022](https://github.com/flutter/flutter/pull/157022) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157022) 59 additions and 0 deletions in 2 files</sub><br />
-
 * **[Bobek Bobekos](https://github.com/bobekos)** &mdash; Add collapsed title padding for flexibale space bar 69017<br />
   <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157088) 111 additions and 12 deletions in 2 files</sub><br />
 
