@@ -1000,7 +1000,7 @@
 9 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [image_picker_web] Loosen mime dep to >=1.0.4 <3.0.0
-  <sub>[#7879](https://github.com/flutter/packages/pull/7879) merged on October 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7879) over 1 day, 9 additions and 8 deletions in 7 files</sub>
+  <sub>[#7879](https://github.com/flutter/packages/pull/7879) merged on October 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7879) over 1 day, 9 additions and 8 deletions in 7 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert use of `mini_player` in the `video_player_android` test to `AndroidVideoPlayer`.
