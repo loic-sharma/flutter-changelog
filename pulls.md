@@ -54,7 +54,7 @@
   <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
-  <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; small update in regex in flutter.groovy<br />
   <sub>[#156484](https://github.com/flutter/flutter/pull/156484) opened on on October 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156484) 1 addition and 1 deletion in 1 file</sub><br />
@@ -79,4 +79,7 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `flexible_space_bar.0.dart`<br />
   <sub>[#157107](https://github.com/flutter/flutter/pull/157107) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157107) 43 additions and 1 deletion in 2 files</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move analyzer_benchmark to the devicelab<br />
+  <sub>[#157127](https://github.com/flutter/flutter/pull/157127) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157127) 4 additions and 3 deletions in 1 file</sub><br />
 

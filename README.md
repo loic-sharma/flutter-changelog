@@ -496,7 +496,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-29 commits.
+30 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -539,6 +539,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete fl_keyboard_view_delegate_get_messenger<br />
   <sub>[#54857](https://github.com/flutter/engine/pull/54857) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54857) over 1 month, 9 additions and 36 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; Introduce SemanticsFlag.hasSelectedState to the engine API<br />
+  <sub>[#55780](https://github.com/flutter/engine/pull/55780) merged on October 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/55780) over 1 week, 44 additions and 12 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add back unnecessary_parenthesis lint<br />
   <sub>[#55931](https://github.com/flutter/engine/pull/55931) merged on October 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55931) over 2 hours, 44 additions and 56 deletions in 3 files</sub><br />
