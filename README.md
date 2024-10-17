@@ -1036,7 +1036,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[FMorschel](https://github.com/FMorschel)** &mdash; Removing unnecessary parenthesis<br />
-  <sub>[#7881](https://github.com/flutter/packages/pull/7881) merged on October 17, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7881) over 1 day, 24 additions and 26 deletions in 15 files</sub><br />
+  <sub>[#7881](https://github.com/flutter/packages/pull/7881) merged on October 17, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/7881) over 1 day, 24 additions and 26 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional, deprecated `package_api_docs` lint<br />
