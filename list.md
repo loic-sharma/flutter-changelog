@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-32 commits.
+33 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub>
@@ -103,6 +103,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] try waiting for first frame.
   <sub>[#156907](https://github.com/flutter/flutter/pull/156907) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156907) over 43 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selection_container.0_test.dart`
+  <sub>[#157079](https://github.com/flutter/flutter/pull/157079) merged on October 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157079) over 8 hours, 62 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Mark `Linux_android_emu_34 flutter_driver_android_test` bringup: true
   <sub>[#157069](https://github.com/flutter/flutter/pull/157069) merged on October 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157069) over 51 minutes, 1 addition and 0 deletions in 1 file</sub>
