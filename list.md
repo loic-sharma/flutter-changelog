@@ -997,11 +997,19 @@
 
 ### October 12, 2024 to October 18, 2024
 
-6 commits.
+9 commits.
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [image_picker_web] Loosen mime dep to >=1.0.4 <3.0.0
+  <sub>[#7879](https://github.com/flutter/packages/pull/7879) merged on October 17, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7879) over 1 day, 9 additions and 8 deletions in 7 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [David Iglesias](https://github.com/ditman), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert use of `mini_player` in the `video_player_android` test to `AndroidVideoPlayer`.
   <sub>[#7847](https://github.com/flutter/packages/pull/7847) merged on October 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7847) over 5 days, 142 additions and 121 deletions in 4 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions #7574
+  <sub>[#7812](https://github.com/flutter/packages/pull/7812) merged on October 17, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/7812) over 1 week, 1880 additions and 251 deletions in 25 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Update for non-nullable generics in Pigeon
   <sub>[#7775](https://github.com/flutter/packages/pull/7775) merged on October 14, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/7775) over 1 week, 788 additions and 541 deletions in 17 files</sub>
@@ -1014,6 +1022,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_flutter_android] Update JSON code to Pigeon for `BitmapDescriptor`, `Cap`, and `PatternItem`
   <sub>[#7840](https://github.com/flutter/packages/pull/7840) merged on October 14, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/packages/pull/7840) over 3 days, 2003 additions and 698 deletions in 11 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[FMorschel](https://github.com/FMorschel)** &mdash; Removing unnecessary parenthesis
+  <sub>[#7881](https://github.com/flutter/packages/pull/7881) merged on October 17, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7881) over 1 day, 24 additions and 26 deletions in 15 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional, deprecated `package_api_docs` lint
   <sub>[#7858](https://github.com/flutter/packages/pull/7858) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7858) over 2 days, 1 addition and 2 deletions in 2 files</sub>
