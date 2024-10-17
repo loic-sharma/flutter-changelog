@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-30 commits.
+31 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub>
@@ -51,6 +51,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `AppBar` back button doesn't navigate back when using `TooltipTriggerMode.tap` in the `TooltipTheme`
   <sub>[#155822](https://github.com/flutter/flutter/pull/155822) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155822) over 2 weeks, 150 additions and 61 deletions in 3 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Return a valid result for a view with zero width/height in TestViewConfiguration._getMatrix
+  <sub>[#157068](https://github.com/flutter/flutter/pull/157068) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157068) over 1 hour, 11 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Determine the scroll gesture axis based on the effectiveScrollController
   <sub>[#156190](https://github.com/flutter/flutter/pull/156190) merged on October 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156190) over 1 week, 65 additions and 3 deletions in 2 files</sub>
@@ -460,7 +464,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-22 commits.
+24 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -481,7 +485,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Remove pm use in build_fuchsia_artifacts
-  <sub>[#55832](https://github.com/flutter/engine/pull/55832) merged on October 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55832) over 5 days, 121 additions and 665 deletions in 9 files</sub>
+  <sub>[#55832](https://github.com/flutter/engine/pull/55832) merged on October 16, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/55832) over 5 days, 121 additions and 665 deletions in 9 files</sub>
   <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split FlKeyboardManager out of FlKeyboardHandler
@@ -499,6 +503,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete fl_keyboard_view_delegate_get_messenger
   <sub>[#54857](https://github.com/flutter/engine/pull/54857) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54857) over 1 month, 9 additions and 36 deletions in 7 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix memory leak during gif upload.
+  <sub>[#55920](https://github.com/flutter/engine/pull/55920) merged on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55920) over 2 hours, 10 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update the repo references for package:file
   <sub>[#55906](https://github.com/flutter/engine/pull/55906) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55906) over 2 hours, 2 additions and 6 deletions in 3 files</sub>
@@ -519,6 +527,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.
   <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct glBlitFramebuffer emulation todo.
+  <sub>[#55919](https://github.com/flutter/engine/pull/55919) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55919) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll Dart SDK from d916a5f69a48 to 2bf0f2b8d391 (24 revisions)
   <sub>[#55884](https://github.com/flutter/engine/pull/55884) merged on October 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55884) over 4 hours, 128 additions and 114 deletions in 8 files</sub>
