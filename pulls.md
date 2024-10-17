@@ -63,7 +63,7 @@
   <sub>[#156484](https://github.com/flutter/flutter/pull/156484) opened on on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156484) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
-  <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/156501) 162 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/156501) 162 additions and 2 deletions in 3 files</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
