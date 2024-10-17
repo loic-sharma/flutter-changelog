@@ -472,7 +472,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-26 commits.
+27 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -515,6 +515,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove obsolete fl_keyboard_view_delegate_get_messenger
   <sub>[#54857](https://github.com/flutter/engine/pull/54857) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54857) over 1 month, 9 additions and 36 deletions in 7 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make labeling APIs exclusively use std::string_view.
+  <sub>[#55918](https://github.com/flutter/engine/pull/55918) merged on October 17, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55918) over 18 hours, 195 additions and 178 deletions in 55 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started using a specific python for yapf
   <sub>[#55905](https://github.com/flutter/engine/pull/55905) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55905) over 21 hours, 15 additions and 1 deletion in 1 file</sub>
@@ -1009,7 +1013,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-9 commits.
+10 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [image_picker_web] Loosen mime dep to >=1.0.4 <3.0.0
   <sub>[#7879](https://github.com/flutter/packages/pull/7879) merged on October 17, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7879) over 1 day, 9 additions and 8 deletions in 7 files</sub>
@@ -1042,6 +1046,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional, deprecated `package_api_docs` lint
   <sub>[#7858](https://github.com/flutter/packages/pull/7858) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7858) over 2 days, 1 addition and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [camera_android] Mark `description` in `sendCameraErrorEvent` as `@NonNull`
+  <sub>[#7877](https://github.com/flutter/packages/pull/7877) merged on October 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7877) over 1 day, 18 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `UniversalAdId`
   <sub>[#7833](https://github.com/flutter/packages/pull/7833) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7833) over 6 days, 262 additions and 3 deletions in 10 files</sub>
