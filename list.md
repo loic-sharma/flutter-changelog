@@ -464,7 +464,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-24 commits.
+25 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -479,6 +479,10 @@
 * **[Harlen Batagelo](https://github.com/hbatagelo)** &mdash; Handle out-of-order add/remove pointer events
   <sub>[#55740](https://github.com/flutter/engine/pull/55740) merged on October 16, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/55740) over 1 week, 148 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] flood input coverage with destructive color filter.
+  <sub>[#55758](https://github.com/flutter/engine/pull/55758) merged on October 17, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/55758) over 1 week, 31 additions and 6 deletions in 5 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub>
