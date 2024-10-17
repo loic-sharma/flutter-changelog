@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-34 commits.
+35 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar<br />
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub><br />
@@ -92,17 +92,21 @@
   <sub>[#156982](https://github.com/flutter/flutter/pull/156982) merged on October 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156982) over 1 day, 34 additions and 18 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip CustomPainter SemanticsFlag test to allow new flag to roll in<br />
-  <sub>[#157061](https://github.com/flutter/flutter/pull/157061) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157061) over 31 minutes, 5 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
+  <sub>[#156291](https://github.com/flutter/flutter/pull/156291) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156291) over 1 week, 62 additions and 61 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] try waiting for first frame.<br />
+  <sub>[#156907](https://github.com/flutter/flutter/pull/156907) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156907) over 43 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Pin google_mobile_ads to 5.1.0<br />
   <sub>[#156911](https://github.com/flutter/flutter/pull/156911) merged on October 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156911) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] try waiting for first frame.<br />
-  <sub>[#156907](https://github.com/flutter/flutter/pull/156907) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156907) over 43 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+* **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip CustomPainter SemanticsFlag test to allow new flag to roll in<br />
+  <sub>[#157061](https://github.com/flutter/flutter/pull/157061) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157061) over 31 minutes, 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip SemanticsFlag test to allow new flag to roll in<br />
   <sub>[#157017](https://github.com/flutter/flutter/pull/157017) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157017) over 2 hours, 5 additions and 1 deletion in 1 file</sub><br />
