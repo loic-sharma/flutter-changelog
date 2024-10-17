@@ -72,7 +72,7 @@
   <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build<br />
-  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) opened on on October 14, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/156708) 53 additions and 13 deletions in 5 files</sub><br />
+  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) opened on on October 14, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/156708) 47 additions and 13 deletions in 5 files</sub><br />
 
 * **[RamonFarizel](https://github.com/RamonFarizel)** &mdash; Update Snackbar actionOverflowThreshold Documentation<br />
   <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156926) 1 addition and 1 deletion in 1 file</sub><br />
@@ -81,16 +81,13 @@
   <sub>[#156928](https://github.com/flutter/flutter/pull/156928) opened on on October 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156928) 6 additions and 6 deletions in 5 files</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template<br />
-  <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add a tool warning when `pod install` does not work after adding a new test/watch/extension/other target with Xcode 16 <br />
   <sub>[#157022](https://github.com/flutter/flutter/pull/157022) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157022) 59 additions and 0 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selection_container.0_test.dart`<br />
   <sub>[#157079](https://github.com/flutter/flutter/pull/157079) opened on on October 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157079) 62 additions and 1 deletion in 2 files</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add TextFormField.errorBuilder to display a custom error widget<br />
-  <sub>[#157087](https://github.com/flutter/flutter/pull/157087) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157087) 47 additions and 2 deletions in 2 files</sub><br />
 
 * **[Bobek Bobekos](https://github.com/bobekos)** &mdash; Add collapsed title padding for flexibale space bar 69017<br />
   <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157088) 105 additions and 6 deletions in 2 files</sub><br />
