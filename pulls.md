@@ -39,7 +39,7 @@
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[Frank](https://github.com/Frank3K)** &mdash; Do not handle external requests by service worker (Flutter web)<br />
-  <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Assert macOS framework artifact contains xcprivacy manifest<br />
   <sub>[#155556](https://github.com/flutter/flutter/pull/155556) opened on on September 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/155556) 1 addition and 0 deletions in 1 file</sub><br />
@@ -76,9 +76,6 @@
 
 * **[FMorschel](https://github.com/FMorschel)** &mdash; Removing unnecessary parenthesis<br />
   <sub>[#156928](https://github.com/flutter/flutter/pull/156928) opened on on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156928) 15 additions and 16 deletions in 5 files</sub><br />
-
-* **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template<br />
-  <sub>[#156947](https://github.com/flutter/flutter/pull/156947) opened on on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156947) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add a tool warning when `pod install` does not work after adding a new test/watch/extension/other target with Xcode 16 <br />
   <sub>[#157022](https://github.com/flutter/flutter/pull/157022) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157022) 59 additions and 0 deletions in 2 files</sub><br />
