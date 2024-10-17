@@ -4,7 +4,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-39 commits.
+40 commits.
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub>
@@ -52,17 +52,17 @@
   <sub>[#156687](https://github.com/flutter/flutter/pull/156687) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156687) over 1 day, 94 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `AppBar` back button doesn't navigate back when using `TooltipTriggerMode.tap` in the `TooltipTheme`
-  <sub>[#155822](https://github.com/flutter/flutter/pull/155822) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155822) over 2 weeks, 150 additions and 61 deletions in 3 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+* **[Rexios](https://github.com/Rexios80)** &mdash; Add padding options to `SearchAnchor`
+  <sub>[#152508](https://github.com/flutter/flutter/pull/152508) merged on October 15, 2024 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/152508) over 2 months, 202 additions and 51 deletions in 5 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Monomorphic Mapper
   <sub>[#154972](https://github.com/flutter/flutter/pull/154972) merged on October 16, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/154972) over 1 month, 263 additions and 85 deletions in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
-* **[Rexios](https://github.com/Rexios80)** &mdash; Add padding options to `SearchAnchor`
-  <sub>[#152508](https://github.com/flutter/flutter/pull/152508) merged on October 15, 2024 &mdash; **Small:** [37 comments](https://github.com/flutter/flutter/pull/152508) over 2 months, 202 additions and 51 deletions in 5 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `AppBar` back button doesn't navigate back when using `TooltipTriggerMode.tap` in the `TooltipTheme`
+  <sub>[#155822](https://github.com/flutter/flutter/pull/155822) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155822) over 2 weeks, 150 additions and 61 deletions in 3 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Return a valid result for a view with zero width/height in TestViewConfiguration._getMatrix
   <sub>[#157068](https://github.com/flutter/flutter/pull/157068) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157068) over 1 hour, 11 additions and 1 deletion in 2 files</sub>
@@ -104,24 +104,28 @@
   <sub>[#156982](https://github.com/flutter/flutter/pull/156982) merged on October 17, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/156982) over 1 day, 34 additions and 18 deletions in 2 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts
-  <sub>[#156291](https://github.com/flutter/flutter/pull/156291) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156291) over 1 week, 62 additions and 61 deletions in 3 files</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move analyzer_benchmark to the devicelab
+  <sub>[#157127](https://github.com/flutter/flutter/pull/157127) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157127) over 58 minutes, 6 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] try waiting for first frame.
   <sub>[#156907](https://github.com/flutter/flutter/pull/156907) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156907) over 43 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip SemanticsFlag test to allow new flag to roll in
+  <sub>[#157017](https://github.com/flutter/flutter/pull/157017) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157017) over 2 hours, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Pin google_mobile_ads to 5.1.0
   <sub>[#156911](https://github.com/flutter/flutter/pull/156911) merged on October 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156911) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts
+  <sub>[#156291](https://github.com/flutter/flutter/pull/156291) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156291) over 1 week, 62 additions and 61 deletions in 3 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip CustomPainter SemanticsFlag test to allow new flag to roll in
   <sub>[#157061](https://github.com/flutter/flutter/pull/157061) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157061) over 31 minutes, 5 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; Temporarily skip SemanticsFlag test to allow new flag to roll in
-  <sub>[#157017](https://github.com/flutter/flutter/pull/157017) merged on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157017) over 2 hours, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selection_container_disabled.0.dart`
