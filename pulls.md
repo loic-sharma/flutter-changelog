@@ -90,7 +90,7 @@
   <sub>[#157022](https://github.com/flutter/flutter/pull/157022) opened on on October 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157022) 59 additions and 0 deletions in 2 files</sub><br />
 
 * **[Bobek Bobekos](https://github.com/bobekos)** &mdash; Add collapsed title padding for flexibale space bar 69017<br />
-  <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157088) 105 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157088) 105 additions and 6 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `flexible_space_bar.0.dart`<br />
   <sub>[#157107](https://github.com/flutter/flutter/pull/157107) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157107) 43 additions and 1 deletion in 2 files</sub><br />

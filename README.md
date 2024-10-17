@@ -476,7 +476,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-27 commits.
+28 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -583,6 +583,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove fl_keyboard_view_delegate_subscribe_to_layout_change and just access the object directly via a method<br />
   <sub>[#55817](https://github.com/flutter/engine/pull/55817) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55817) over 2 days, 19 additions and 52 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from d916a5f69a48 to 993d3069f42e (35 revisions)<br />
+  <sub>[#55927](https://github.com/flutter/engine/pull/55927) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55927) over 2 hours, 91 additions and 63 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 2bf0f2b8d391 to 7fce3544047c (4 revisions)<br />
   <sub>[#55896](https://github.com/flutter/engine/pull/55896) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55896) over 50 minutes, 6 additions and 6 deletions in 3 files</sub><br />
@@ -1296,7 +1300,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-9 commits.
+10 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused example code and update dependabot config<br />
   <sub>[#11265](https://github.com/flutter/website/pull/11265) merged on October 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11265) over 2 days, 146 additions and 1092 deletions in 8 files</sub><br />
@@ -1309,6 +1313,10 @@
 * **[Tushar Bansod](https://github.com/tbansod2018)** &mdash; Column widget in FinishedPage and WaitingPage has been wrapped by Sing…<br />
   <sub>[#11247](https://github.com/flutter/website/pull/11247) merged on October 14, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/11247) over 5 days, 206 additions and 197 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update lints for example snippets<br />
+  <sub>[#11283](https://github.com/flutter/website/pull/11283) merged on October 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11283) over 17 hours, 39 additions and 31 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Follow up clean up to URL strategy config doc<br />
   <sub>[#11278](https://github.com/flutter/website/pull/11278) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11278) over 15 hours, 6 additions and 4 deletions in 1 file</sub><br />
