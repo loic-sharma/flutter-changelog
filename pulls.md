@@ -89,3 +89,9 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selection_container.0_test.dart`<br />
   <sub>[#157079](https://github.com/flutter/flutter/pull/157079) opened on on October 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157079) 62 additions and 1 deletion in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add TextFormField.errorBuilder to display a custom error widget<br />
+  <sub>[#157087](https://github.com/flutter/flutter/pull/157087) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157087) 47 additions and 2 deletions in 2 files</sub><br />
+
+* **[Bobek Bobekos](https://github.com/bobekos)** &mdash; Add collapsed title padding for flexibale space bar 69017<br />
+  <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157088) 105 additions and 6 deletions in 2 files</sub><br />
+
