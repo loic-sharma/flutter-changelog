@@ -1049,7 +1049,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-13 commits.
+14 commits.
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [two_dimensional_scrollables] Fixes TreeViewNode collapsing not working
   <sub>[#7474](https://github.com/flutter/packages/pull/7474) merged on October 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7474) over 1 month, 79 additions and 5 deletions in 4 files</sub>
@@ -1062,6 +1062,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert use of `mini_player` in the `video_player_android` test to `AndroidVideoPlayer`.
   <sub>[#7847](https://github.com/flutter/packages/pull/7847) merged on October 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7847) over 5 days, 142 additions and 121 deletions in 4 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions
+  <sub>[#7887](https://github.com/flutter/packages/pull/7887) merged on October 17, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/7887) over 5 hours, 1876 additions and 251 deletions in 25 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for iOS native `IMACompanionAd`
   <sub>[#7873](https://github.com/flutter/packages/pull/7873) merged on October 17, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/7873) over 2 days, 392 additions and 51 deletions in 12 files</sub>

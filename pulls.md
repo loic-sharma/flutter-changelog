@@ -80,6 +80,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `flexible_space_bar.0.dart`<br />
   <sub>[#157107](https://github.com/flutter/flutter/pull/157107) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157107) 43 additions and 1 deletion in 2 files</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move analyzer_benchmark to the devicelab<br />
-  <sub>[#157127](https://github.com/flutter/flutter/pull/157127) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157127) 4 additions and 3 deletions in 1 file</sub><br />
-
