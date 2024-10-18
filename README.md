@@ -1113,7 +1113,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-17 commits.
+18 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [camera_android] Convert Dart to native calls to use Pigeon<br />
   <sub>[#7874](https://github.com/flutter/packages/pull/7874) merged on October 18, 2024 &mdash; **Extra large:** [59 comments](https://github.com/flutter/packages/pull/7874) over 3 days, 3516 additions and 1548 deletions in 19 files</sub><br />
@@ -1166,6 +1166,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional, deprecated `package_api_docs` lint<br />
   <sub>[#7858](https://github.com/flutter/packages/pull/7858) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7858) over 2 days, 1 addition and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Remove Android API 19 SSL handling<br />
+  <sub>[#7876](https://github.com/flutter/packages/pull/7876) merged on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7876) over 3 days, 6 additions and 95 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[ftsui](https://github.com/ftsui)** &mdash; [url_launcher] Decode file URLs before passing it to ShellExecuteW<br />
   <sub>[#7774](https://github.com/flutter/packages/pull/7774) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7774) over 2 weeks, 44 additions and 5 deletions in 5 files</sub><br />
