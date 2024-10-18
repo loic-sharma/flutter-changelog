@@ -504,7 +504,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-32 commits.
+33 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -527,6 +527,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.<br />
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlKeyResponder and use the two responder classes directly.<br />
+  <sub>[#55925](https://github.com/flutter/engine/pull/55925) merged on October 18, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55925) over 21 hours, 345 additions and 438 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove Command/VertexBuffer usage from Flutter GPU.<br />
   <sub>[#55893](https://github.com/flutter/engine/pull/55893) merged on October 17, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/engine/pull/55893) over 1 day, 210 additions and 173 deletions in 15 files</sub><br />
