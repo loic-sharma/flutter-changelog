@@ -16,7 +16,7 @@
   <sub><details><summary>1 image...</summary><img width="270" height="600"  alt="Screenshot 2024-09-30 at 3 09 04 PM" src="https://github.com/user-attachments/assets/4003116f-69dd-4f8f-a185-6ca151b74d2d"></details></sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Arrow syntax for getters
-  <sub>[#156483](https://github.com/flutter/flutter/pull/156483) merged on October 17, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/156483) over 1 week, 240 additions and 346 deletions in 36 files</sub>
+  <sub>[#156483](https://github.com/flutter/flutter/pull/156483) merged on October 17, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/156483) over 1 week, 240 additions and 346 deletions in 36 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add a tool warning when `pod install` does not work after adding a new test/watch/extension/other target with Xcode 16 
