@@ -565,7 +565,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make labeling APIs exclusively use std::string_view.
-  <sub>[#55918](https://github.com/flutter/engine/pull/55918) merged on October 17, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/55918) over 18 hours, 195 additions and 178 deletions in 55 files</sub>
+  <sub>[#55918](https://github.com/flutter/engine/pull/55918) merged on October 17, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/55918) over 18 hours, 195 additions and 178 deletions in 55 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started using a specific python for yapf
