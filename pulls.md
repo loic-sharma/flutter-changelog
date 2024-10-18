@@ -53,9 +53,6 @@
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
   <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; small update in regex in flutter.groovy<br />
-  <sub>[#156484](https://github.com/flutter/flutter/pull/156484) opened on on October 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156484) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/156501) 162 additions and 2 deletions in 3 files</sub><br />
 
@@ -66,7 +63,7 @@
   <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Snackbar actionOverflowThreshold Documentation<br />
-  <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156926) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156926) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Bobek Bobekos](https://github.com/bobekos)** &mdash; Add collapsed title padding for flexibale space bar 69017<br />
   <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157088) 111 additions and 12 deletions in 2 files</sub><br />
