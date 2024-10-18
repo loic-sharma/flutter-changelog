@@ -77,3 +77,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add support for `flutter build web --debug`.<br />
   <sub>[#157186](https://github.com/flutter/flutter/pull/157186) opened on on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157186) 35 additions and 42 deletions in 5 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete unused string in `gradle_errors.dart`<br />
+  <sub>[#157187](https://github.com/flutter/flutter/pull/157187) opened on on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) 0 additions and 3 deletions in 1 file</sub><br />
+
