@@ -86,3 +86,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test alternate correct macOS framework xcprivacy manifest location<br />
   <sub>[#157135](https://github.com/flutter/flutter/pull/157135) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157135) 13 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Beta test alternate correct macOS framework xcprivacy manifest location<br />
+  <sub>[#157136](https://github.com/flutter/flutter/pull/157136) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157136) 13 additions and 1 deletion in 1 file</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Preland support for monorepo engine hashing<br />
+  <sub>[#157138](https://github.com/flutter/flutter/pull/157138) opened on on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157138) 17 additions and 2 deletions in 2 files</sub><br />
+
