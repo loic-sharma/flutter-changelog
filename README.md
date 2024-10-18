@@ -532,7 +532,7 @@
   <sub><details><summary>3 images...</summary><img width="1136" alt="image" src="https://github.com/user-attachments/assets/e2398fde-532f-402d-899a-39aaa556f24f"><img width="1136" alt="image" src="https://github.com/user-attachments/assets/1c1bf664-bec1-43cb-ab2e-eb2a74718bfd"><img width="1136" alt="image" src="https://github.com/user-attachments/assets/bf59da17-cf52-4913-88e4-ab6f0bd6fc96"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add mechanism for sharing bdf inputs.<br />
-  <sub>[#55701](https://github.com/flutter/engine/pull/55701) merged on October 18, 2024 &mdash; **Large:** [119 comments](https://github.com/flutter/engine/pull/55701) over 1 week, 612 additions and 255 deletions in 43 files</sub><br />
+  <sub>[#55701](https://github.com/flutter/engine/pull/55701) merged on October 18, 2024 &mdash; **Large:** [121 comments](https://github.com/flutter/engine/pull/55701) over 1 week, 612 additions and 255 deletions in 43 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow custom font registrations.<br />
@@ -1146,7 +1146,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-19 commits.
+20 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [camera_android] Convert Dart to native calls to use Pigeon<br />
   <sub>[#7874](https://github.com/flutter/packages/pull/7874) merged on October 18, 2024 &mdash; **Extra large:** [59 comments](https://github.com/flutter/packages/pull/7874) over 3 days, 3516 additions and 1548 deletions in 19 files</sub><br />
@@ -1163,6 +1163,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert use of `mini_player` in the `video_player_android` test to `AndroidVideoPlayer`.<br />
   <sub>[#7847](https://github.com/flutter/packages/pull/7847) merged on October 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7847) over 5 days, 142 additions and 121 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [in_app_purchase] Update iOS Pigeon for non-nullable generics<br />
+  <sub>[#7820](https://github.com/flutter/packages/pull/7820) merged on October 18, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/7820) over 1 week, 1095 additions and 967 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for Android native `Ad`<br />
   <sub>[#7880](https://github.com/flutter/packages/pull/7880) merged on October 18, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7880) over 2 days, 1146 additions and 5 deletions in 10 files</sub><br />
