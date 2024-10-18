@@ -60,7 +60,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix OutputFile deprecation inside flutter.groovy<br />
-  <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Snackbar actionOverflowThreshold Documentation<br />
   <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156926) 1 addition and 1 deletion in 1 file</sub><br />
@@ -69,7 +69,7 @@
   <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157088) 111 additions and 12 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `flexible_space_bar.0.dart`<br />
-  <sub>[#157107](https://github.com/flutter/flutter/pull/157107) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157107) 43 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157107](https://github.com/flutter/flutter/pull/157107) opened on on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157107) 43 additions and 1 deletion in 2 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add handler for jlink error when using Java 21<br />
   <sub>[#157132](https://github.com/flutter/flutter/pull/157132) opened on on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157132) 87 additions and 7 deletions in 2 files</sub><br />
