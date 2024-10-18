@@ -504,7 +504,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-33 commits.
+34 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
@@ -595,6 +595,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.
   <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move redispatch_event from FlKeyboardViewDelegate to FlKeyboardManager
+  <sub>[#55941](https://github.com/flutter/engine/pull/55941) merged on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55941) over 42 minutes, 85 additions and 89 deletions in 6 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct glBlitFramebuffer emulation todo.
   <sub>[#55919](https://github.com/flutter/engine/pull/55919) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55919) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
