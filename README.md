@@ -1408,7 +1408,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-10 commits.
+11 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused example code and update dependabot config<br />
   <sub>[#11265](https://github.com/flutter/website/pull/11265) merged on October 14, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11265) over 2 days, 146 additions and 1092 deletions in 8 files</sub><br />
@@ -1421,6 +1421,10 @@
 * **[Tushar Bansod](https://github.com/tbansod2018)** &mdash; Column widget in FinishedPage and WaitingPage has been wrapped by Sing…<br />
   <sub>[#11247](https://github.com/flutter/website/pull/11247) merged on October 14, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/website/pull/11247) over 5 days, 206 additions and 197 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pinned npm dependencies, particularly sass to catch its new de…<br />
+  <sub>[#11285](https://github.com/flutter/website/pull/11285) merged on October 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11285) over 15 hours, 269 additions and 108 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update lints for example snippets<br />
   <sub>[#11283](https://github.com/flutter/website/pull/11283) merged on October 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11283) over 17 hours, 39 additions and 31 deletions in 14 files</sub><br />
