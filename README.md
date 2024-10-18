@@ -504,7 +504,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-36 commits.
+37 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -531,6 +531,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlKeyResponder and use the two responder classes directly.<br />
   <sub>[#55925](https://github.com/flutter/engine/pull/55925) merged on October 18, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55925) over 21 hours, 345 additions and 438 deletions in 19 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; On a merged UI/platform thread, immediately execute platform message handlers and then run microtasks<br />
+  <sub>[#55933](https://github.com/flutter/engine/pull/55933) merged on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55933) over 18 hours, 7 additions and 21 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove Command/VertexBuffer usage from Flutter GPU.<br />
   <sub>[#55893](https://github.com/flutter/engine/pull/55893) merged on October 17, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/engine/pull/55893) over 1 day, 210 additions and 173 deletions in 15 files</sub><br />
@@ -588,13 +592,13 @@
   <sub>[#55906](https://github.com/flutter/engine/pull/55906) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55906) over 2 hours, 2 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Starts looking for the bdf fast path in relation to the snapshot_entity's transform<br />
-  <sub>[#55890](https://github.com/flutter/engine/pull/55890) merged on October 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55890) over 21 hours, 39 additions and 1 deletion in 4 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.<br />
   <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Starts looking for the bdf fast path in relation to the snapshot_entity's transform<br />
+  <sub>[#55890](https://github.com/flutter/engine/pull/55890) merged on October 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55890) over 21 hours, 39 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra copy from drawPoints.<br />
   <sub>[#55872](https://github.com/flutter/engine/pull/55872) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55872) over 10 hours, 74 additions and 31 deletions in 2 files</sub><br />
