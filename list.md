@@ -504,12 +504,16 @@
 
 ### October 12, 2024 to October 18, 2024
 
-37 commits.
+38 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
   <sub><details><summary>3 images...</summary><img width="1136" alt="image" src="https://github.com/user-attachments/assets/e2398fde-532f-402d-899a-39aaa556f24f"><img width="1136" alt="image" src="https://github.com/user-attachments/assets/1c1bf664-bec1-43cb-ab2e-eb2a74718bfd"><img width="1136" alt="image" src="https://github.com/user-attachments/assets/bf59da17-cf52-4913-88e4-ab6f0bd6fc96"></details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add mechanism for sharing bdf inputs.
+  <sub>[#55701](https://github.com/flutter/engine/pull/55701) merged on October 18, 2024 &mdash; **Large:** [119 comments](https://github.com/flutter/engine/pull/55701) over 1 week, 612 additions and 255 deletions in 43 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Initialize the base paragraph style lazily.
   <sub>[#55891](https://github.com/flutter/engine/pull/55891) merged on October 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55891) over 1 hour, 140 additions and 26 deletions in 6 files</sub>
@@ -520,13 +524,13 @@
   <sub>[#55740](https://github.com/flutter/engine/pull/55740) merged on October 16, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/55740) over 1 week, 148 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] flood input coverage with destructive color filter.
-  <sub>[#55758](https://github.com/flutter/engine/pull/55758) merged on October 17, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/55758) over 1 week, 31 additions and 6 deletions in 5 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] flood input coverage with destructive color filter.
+  <sub>[#55758](https://github.com/flutter/engine/pull/55758) merged on October 17, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/55758) over 1 week, 31 additions and 6 deletions in 5 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlKeyResponder and use the two responder classes directly.
   <sub>[#55925](https://github.com/flutter/engine/pull/55925) merged on October 18, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55925) over 21 hours, 345 additions and 438 deletions in 19 files</sub>
@@ -536,9 +540,9 @@
   <sub>[#55933](https://github.com/flutter/engine/pull/55933) merged on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55933) over 18 hours, 7 additions and 21 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove Command/VertexBuffer usage from Flutter GPU.
-  <sub>[#55893](https://github.com/flutter/engine/pull/55893) merged on October 17, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/engine/pull/55893) over 1 day, 210 additions and 173 deletions in 15 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove unused fixture.
+  <sub>[#55869](https://github.com/flutter/engine/pull/55869) merged on October 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/55869) over 1 hour, 0 additions and 403 deletions in 5 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] Remove pm use in build_fuchsia_artifacts
   <sub>[#55832](https://github.com/flutter/engine/pull/55832) merged on October 16, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/55832) over 5 days, 121 additions and 665 deletions in 9 files</sub>
@@ -548,9 +552,9 @@
   <sub>[#55892](https://github.com/flutter/engine/pull/55892) merged on October 16, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/55892) over 1 hour, 1809 additions and 1683 deletions in 9 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove unused fixture.
-  <sub>[#55869](https://github.com/flutter/engine/pull/55869) merged on October 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/55869) over 1 hour, 0 additions and 403 deletions in 5 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Remove Command/VertexBuffer usage from Flutter GPU.
+  <sub>[#55893](https://github.com/flutter/engine/pull/55893) merged on October 17, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/engine/pull/55893) over 1 day, 210 additions and 173 deletions in 15 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Ignore opt-outs on iOS devices.
   <sub>[#55808](https://github.com/flutter/engine/pull/55808) merged on October 15, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/55808) over 5 days, 19 additions and 13 deletions in 4 files</sub>
@@ -592,10 +596,6 @@
   <sub>[#55906](https://github.com/flutter/engine/pull/55906) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55906) over 2 hours, 2 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.
-  <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Starts looking for the bdf fast path in relation to the snapshot_entity's transform
   <sub>[#55890](https://github.com/flutter/engine/pull/55890) merged on October 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55890) over 21 hours, 39 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -604,13 +604,13 @@
   <sub>[#55872](https://github.com/flutter/engine/pull/55872) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55872) over 10 hours, 74 additions and 31 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.
+  <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional and deprecated `package_api_docs` lint
   <sub>[#55833](https://github.com/flutter/engine/pull/55833) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55833) over 3 days, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move redispatch_event from FlKeyboardViewDelegate to FlKeyboardManager
-  <sub>[#55941](https://github.com/flutter/engine/pull/55941) merged on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55941) over 42 minutes, 85 additions and 89 deletions in 6 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct glBlitFramebuffer emulation todo.
   <sub>[#55919](https://github.com/flutter/engine/pull/55919) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55919) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
@@ -626,6 +626,10 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Simplify code for dispatching events
   <sub>[#55871](https://github.com/flutter/engine/pull/55871) merged on October 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55871) over 17 hours, 10 additions and 26 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move redispatch_event from FlKeyboardViewDelegate to FlKeyboardManager
+  <sub>[#55941](https://github.com/flutter/engine/pull/55941) merged on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55941) over 42 minutes, 85 additions and 89 deletions in 6 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add miplevel to Buffer->Texture blit.
