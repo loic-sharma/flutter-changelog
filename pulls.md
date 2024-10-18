@@ -78,7 +78,7 @@
   <sub>[#157187](https://github.com/flutter/flutter/pull/157187) opened on on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) 0 additions and 3 deletions in 1 file</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; all selectable widgets set the hasSelectedState flag<br />
-  <sub>[#157191](https://github.com/flutter/flutter/pull/157191) opened on on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157191) 103 additions and 43 deletions in 23 files</sub><br />
+  <sub>[#157191](https://github.com/flutter/flutter/pull/157191) opened on on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157191) 103 additions and 43 deletions in 23 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
