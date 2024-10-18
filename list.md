@@ -589,7 +589,7 @@
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use render pass to transition attachments to eGeneral instead of barriers.
-  <sub>[#55930](https://github.com/flutter/engine/pull/55930) merged on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55930) over 9 hours, 8 additions and 16 deletions in 3 files</sub>
+  <sub>[#55930](https://github.com/flutter/engine/pull/55930) merged on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55930) over 9 hours, 8 additions and 16 deletions in 3 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Introduce SemanticsFlag.hasSelectedState to the engine API
