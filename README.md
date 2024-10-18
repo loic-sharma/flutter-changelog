@@ -1097,7 +1097,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-16 commits.
+17 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [camera_android] Convert Dart to native calls to use Pigeon<br />
   <sub>[#7874](https://github.com/flutter/packages/pull/7874) merged on October 18, 2024 &mdash; **Extra large:** [59 comments](https://github.com/flutter/packages/pull/7874) over 3 days, 3516 additions and 1548 deletions in 19 files</sub><br />
@@ -1114,6 +1114,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert use of `mini_player` in the `video_player_android` test to `AndroidVideoPlayer`.<br />
   <sub>[#7847](https://github.com/flutter/packages/pull/7847) merged on October 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7847) over 5 days, 142 additions and 121 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [google_maps_android_flutter] Convert `Config.sdk` to `minSdk` in Robolectric tests and lower to `LOLLIPOP`<br />
+  <sub>[#7805](https://github.com/flutter/packages/pull/7805) merged on October 18, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7805) over 1 week, 15 additions and 6 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
   <sub>[#7887](https://github.com/flutter/packages/pull/7887) merged on October 17, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/7887) over 5 hours, 1876 additions and 251 deletions in 25 files</sub><br />
