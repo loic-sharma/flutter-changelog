@@ -60,7 +60,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Snackbar actionOverflowThreshold Documentation<br />
-  <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/156926) 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/156926) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Bobek Bobekos](https://github.com/bobekos)** &mdash; Add collapsed title padding for flexibale space bar 69017<br />
   <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157088) 111 additions and 12 deletions in 2 files</sub><br />
@@ -70,9 +70,6 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test alternate correct macOS framework xcprivacy manifest location<br />
   <sub>[#157135](https://github.com/flutter/flutter/pull/157135) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157135) 13 additions and 1 deletion in 1 file</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Beta test alternate correct macOS framework xcprivacy manifest location<br />
-  <sub>[#157136](https://github.com/flutter/flutter/pull/157136) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157136) 13 additions and 1 deletion in 1 file</sub><br />
 
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker<br />
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) opened on on October 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157151) 80 additions and 1 deletion in 2 files</sub><br />
