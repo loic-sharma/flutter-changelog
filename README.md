@@ -1096,7 +1096,7 @@
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Add support for purchase and transactions<br />
-  <sub>[#7887](https://github.com/flutter/packages/pull/7887) merged on October 17, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/7887) over 5 hours, 1876 additions and 251 deletions in 25 files</sub><br />
+  <sub>[#7887](https://github.com/flutter/packages/pull/7887) merged on October 17, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/7887) over 5 hours, 1876 additions and 251 deletions in 25 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for iOS native `IMACompanionAd`<br />
