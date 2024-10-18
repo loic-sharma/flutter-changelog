@@ -504,7 +504,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-34 commits.
+36 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -556,6 +556,14 @@
   <sub>[#54857](https://github.com/flutter/engine/pull/54857) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54857) over 1 month, 9 additions and 36 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simpler labels for render target textures and cmd buffers.<br />
+  <sub>[#55936](https://github.com/flutter/engine/pull/55936) merged on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55936) over 6 hours, 95 additions and 20 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use render pass to transition attachments to eGeneral instead of barriers.<br />
+  <sub>[#55930](https://github.com/flutter/engine/pull/55930) merged on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55930) over 9 hours, 8 additions and 16 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; Introduce SemanticsFlag.hasSelectedState to the engine API<br />
   <sub>[#55780](https://github.com/flutter/engine/pull/55780) merged on October 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/55780) over 1 week, 44 additions and 12 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -584,6 +592,10 @@
   <sub>[#55890](https://github.com/flutter/engine/pull/55890) merged on October 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55890) over 21 hours, 39 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.<br />
+  <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra copy from drawPoints.<br />
   <sub>[#55872](https://github.com/flutter/engine/pull/55872) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55872) over 10 hours, 74 additions and 31 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
@@ -591,10 +603,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional and deprecated `package_api_docs` lint<br />
   <sub>[#55833](https://github.com/flutter/engine/pull/55833) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55833) over 3 days, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.<br />
-  <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move redispatch_event from FlKeyboardViewDelegate to FlKeyboardManager<br />
   <sub>[#55941](https://github.com/flutter/engine/pull/55941) merged on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55941) over 42 minutes, 85 additions and 89 deletions in 6 files</sub><br />
