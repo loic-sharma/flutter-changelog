@@ -60,7 +60,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix OutputFile deprecation inside flutter.groovy<br />
-  <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#156676](https://github.com/flutter/flutter/pull/156676) opened on on October 13, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156676) 2 additions and 3 deletions in 1 file</sub><br />
 
 * **[Ramon Farizel](https://github.com/RamonFarizel)** &mdash; Update Snackbar actionOverflowThreshold Documentation<br />
   <sub>[#156926](https://github.com/flutter/flutter/pull/156926) opened on on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156926) 1 addition and 1 deletion in 1 file</sub><br />
@@ -85,4 +85,7 @@
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Preland support for monorepo engine hashing<br />
   <sub>[#157138](https://github.com/flutter/flutter/pull/157138) opened on on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157138) 17 additions and 2 deletions in 2 files</sub><br />
+
+* **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker<br />
+  <sub>[#157151](https://github.com/flutter/flutter/pull/157151) opened on on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157151) 80 additions and 1 deletion in 2 files</sub><br />
 
