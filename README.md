@@ -1089,7 +1089,11 @@
 
 ### October 12, 2024 to October 18, 2024
 
-15 commits.
+16 commits.
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; [camera_android] Convert Dart to native calls to use Pigeon<br />
+  <sub>[#7874](https://github.com/flutter/packages/pull/7874) merged on October 18, 2024 &mdash; **Extra large:** [59 comments](https://github.com/flutter/packages/pull/7874) over 3 days, 3516 additions and 1548 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; [two_dimensional_scrollables] Fixes TreeViewNode collapsing not working<br />
   <sub>[#7474](https://github.com/flutter/packages/pull/7474) merged on October 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7474) over 1 month, 79 additions and 5 deletions in 4 files</sub><br />
