@@ -74,3 +74,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Polish the texture example<br />
   <sub>[#157176](https://github.com/flutter/flutter/pull/157176) opened on on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157176) 33 additions and 32 deletions in 1 file</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add support for `flutter build web --debug`.<br />
+  <sub>[#157186](https://github.com/flutter/flutter/pull/157186) opened on on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157186) 35 additions and 42 deletions in 5 files</sub><br />
+
