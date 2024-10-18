@@ -16,7 +16,7 @@
   <sub><details><summary>1 image...</summary><img width="270" height="600"  alt="Screenshot 2024-09-30 at 3 09 04 PM" src="https://github.com/user-attachments/assets/4003116f-69dd-4f8f-a185-6ca151b74d2d"></details></sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Use Gradle KTS in new Android app projects by default<br />
-  <sub>[#154061](https://github.com/flutter/flutter/pull/154061) merged on October 18, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/154061) over 1 month, 133 additions and 112 deletions in 18 files</sub><br />
+  <sub>[#154061](https://github.com/flutter/flutter/pull/154061) merged on October 18, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/flutter/pull/154061) over 1 month, 133 additions and 112 deletions in 18 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix native assets failing to build with AGP 8.4 and multiple flavors<br />
