@@ -74,9 +74,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Polish the texture example<br />
   <sub>[#157176](https://github.com/flutter/flutter/pull/157176) opened on on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157176) 33 additions and 32 deletions in 1 file</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add support for `flutter build web --debug`.<br />
-  <sub>[#157186](https://github.com/flutter/flutter/pull/157186) opened on on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157186) 35 additions and 42 deletions in 5 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete unused string in `gradle_errors.dart`<br />
   <sub>[#157187](https://github.com/flutter/flutter/pull/157187) opened on on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) 0 additions and 3 deletions in 1 file</sub><br />
 
@@ -85,4 +82,7 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make android dependency version test suite run on changes to android templates<br />
+  <sub>[#157196](https://github.com/flutter/flutter/pull/157196) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157196) 6 additions and 2 deletions in 1 file</sub><br />
 
