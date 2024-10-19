@@ -83,3 +83,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make android dependency version test suite run on changes to android templates<br />
   <sub>[#157196](https://github.com/flutter/flutter/pull/157196) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157196) 6 additions and 2 deletions in 1 file</sub><br />
 
+* **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Made Cupertino dialog more like a native dialog in dark mode<br />
+  <sub>[#157218](https://github.com/flutter/flutter/pull/157218) opened on on October 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157218) 3 additions and 3 deletions in 2 files</sub><br />
+
