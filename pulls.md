@@ -72,7 +72,7 @@
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) opened on on October 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157151) 80 additions and 1 deletion in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Polish the texture example<br />
-  <sub>[#157176](https://github.com/flutter/flutter/pull/157176) opened on on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157176) 33 additions and 32 deletions in 1 file</sub><br />
+  <sub>[#157176](https://github.com/flutter/flutter/pull/157176) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157176) 33 additions and 32 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete unused string in `gradle_errors.dart`<br />
   <sub>[#157187](https://github.com/flutter/flutter/pull/157187) opened on on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) 0 additions and 3 deletions in 1 file</sub><br />
