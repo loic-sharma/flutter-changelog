@@ -402,9 +402,9 @@
   <sub>[#155609](https://github.com/flutter/flutter/pull/155609) merged on October 3, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/155609) over 1 week, 1334 additions and 1574 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Cocoon ] Wait for task results to be received by the task runner before shutting down the task process<br />
-  <sub>[#156002](https://github.com/flutter/flutter/pull/156002) merged on October 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156002) over 1 day, 79 additions and 36 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; when `ResidentRunner.tryInitLogReader` fails, only log warning on Android<br />
+  <sub>[#155800](https://github.com/flutter/flutter/pull/155800) merged on September 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155800) over 3 days, 16 additions and 14 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove bringup from Windows tool_integration_tests_*<br />
   <sub>[#156179](https://github.com/flutter/flutter/pull/156179) merged on October 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156179) over 21 hours, 0 additions and 9 deletions in 1 file</sub><br />
@@ -426,9 +426,9 @@
   <sub>[#154932](https://github.com/flutter/flutter/pull/154932) merged on October 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154932) over 3 weeks, 53 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; when `ResidentRunner.tryInitLogReader` fails, only log warning on Android<br />
-  <sub>[#155800](https://github.com/flutter/flutter/pull/155800) merged on September 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155800) over 3 days, 16 additions and 14 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Cocoon ] Wait for task results to be received by the task runner before shutting down the task process<br />
+  <sub>[#156002](https://github.com/flutter/flutter/pull/156002) merged on October 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156002) over 1 day, 79 additions and 36 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[lizhuo](https://github.com/huanglizhuo)** &mdash; fix: support android 15 16k page size for template plugin_ffi <br />
   <sub>[#155508](https://github.com/flutter/flutter/pull/155508) merged on September 30, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/155508) over 1 week, 32 additions and 0 deletions in 2 files</sub><br />
