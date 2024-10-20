@@ -536,7 +536,7 @@
 
 ### October 12, 2024 to October 18, 2024
 
-52 commits.
+53 commits.
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -564,6 +564,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove STB backend.<br />
   <sub>[#55842](https://github.com/flutter/engine/pull/55842) merged on October 14, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55842) over 2 days, 0 additions and 1044 deletions in 16 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] New impeller round rect class<br />
+  <sub>[#55946](https://github.com/flutter/engine/pull/55946) merged on October 20, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/55946) over 2 days, 1773 additions and 428 deletions in 50 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started filtering out close line segments in rrect polylines.<br />
   <sub>[#55929](https://github.com/flutter/engine/pull/55929) merged on October 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/55929) over 1 day, 62 additions and 4 deletions in 4 files</sub><br />
@@ -621,41 +625,41 @@
   <sub>[#55780](https://github.com/flutter/engine/pull/55780) merged on October 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/55780) over 1 week, 44 additions and 12 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add back unnecessary_parenthesis lint<br />
-  <sub>[#55931](https://github.com/flutter/engine/pull/55931) merged on October 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55931) over 2 hours, 44 additions and 56 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [UI] fix scene builder parameter naming.<br />
-  <sub>[#55969](https://github.com/flutter/engine/pull/55969) merged on October 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55969) over 1 hour, 4 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Starts looking for the bdf fast path in relation to the snapshot_entity's transform<br />
   <sub>[#55890](https://github.com/flutter/engine/pull/55890) merged on October 16, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55890) over 21 hours, 39 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix flaky tests (remove timeouts)<br />
-  <sub>[#55961](https://github.com/flutter/engine/pull/55961) merged on October 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55961) over 3 hours, 4 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Improve thread safety of first frame callback<br />
-  <sub>[#55966](https://github.com/flutter/engine/pull/55966) merged on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55966) over 1 hour, 23 additions and 20 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] batch submit vulkan command buffers on newer hardware.<br />
+  <sub>[#55956](https://github.com/flutter/engine/pull/55956) merged on October 19, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/55956) over 21 hours, 285 additions and 129 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update the repo references for package:file<br />
   <sub>[#55906](https://github.com/flutter/engine/pull/55906) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55906) over 2 hours, 2 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] batch submit vulkan command buffers on newer hardware.<br />
-  <sub>[#55956](https://github.com/flutter/engine/pull/55956) merged on October 19, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/55956) over 21 hours, 285 additions and 129 deletions in 18 files</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started using a specific python for yapf<br />
+  <sub>[#55905](https://github.com/flutter/engine/pull/55905) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55905) over 21 hours, 15 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add a README.<br />
   <sub>[#55940](https://github.com/flutter/engine/pull/55940) merged on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55940) over 20 hours, 96 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add back opt out for merged threads.<br />
-  <sub>[#55952](https://github.com/flutter/engine/pull/55952) merged on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55952) over 1 hour, 39 additions and 12 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Improve thread safety of first frame callback<br />
+  <sub>[#55966](https://github.com/flutter/engine/pull/55966) merged on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55966) over 1 hour, 23 additions and 20 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make labeling APIs exclusively use std::string_view.<br />
+  <sub>[#55918](https://github.com/flutter/engine/pull/55918) merged on October 17, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/55918) over 18 hours, 195 additions and 178 deletions in 55 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra copy from drawPoints.<br />
+  <sub>[#55872](https://github.com/flutter/engine/pull/55872) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55872) over 10 hours, 74 additions and 31 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix flaky tests (remove timeouts)<br />
+  <sub>[#55961](https://github.com/flutter/engine/pull/55961) merged on October 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55961) over 3 hours, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional and deprecated `package_api_docs` lint<br />
   <sub>[#55833](https://github.com/flutter/engine/pull/55833) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55833) over 3 days, 0 additions and 1 deletion in 1 file</sub><br />
@@ -665,40 +669,40 @@
   <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [UI] fix scene builder parameter naming.<br />
+  <sub>[#55969](https://github.com/flutter/engine/pull/55969) merged on October 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55969) over 1 hour, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate needless profiler metrics ivar<br />
   <sub>[#55957](https://github.com/flutter/engine/pull/55957) merged on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55957) over 53 minutes, 5 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started using a specific python for yapf<br />
-  <sub>[#55905](https://github.com/flutter/engine/pull/55905) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55905) over 21 hours, 15 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix memory leak during gif upload.<br />
-  <sub>[#55920](https://github.com/flutter/engine/pull/55920) merged on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55920) over 2 hours, 10 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make labeling APIs exclusively use std::string_view.<br />
-  <sub>[#55918](https://github.com/flutter/engine/pull/55918) merged on October 17, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/55918) over 18 hours, 195 additions and 178 deletions in 55 files</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] one descriptor pool per frame.<br />
   <sub>[#55939](https://github.com/flutter/engine/pull/55939) merged on October 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55939) over 18 hours, 138 additions and 40 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra copy from drawPoints.<br />
-  <sub>[#55872](https://github.com/flutter/engine/pull/55872) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55872) over 10 hours, 74 additions and 31 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add back unnecessary_parenthesis lint<br />
+  <sub>[#55931](https://github.com/flutter/engine/pull/55931) merged on October 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55931) over 2 hours, 44 additions and 56 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix memory leak during gif upload.<br />
+  <sub>[#55920](https://github.com/flutter/engine/pull/55920) merged on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55920) over 2 hours, 10 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add back opt out for merged threads.<br />
+  <sub>[#55952](https://github.com/flutter/engine/pull/55952) merged on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55952) over 1 hour, 39 additions and 12 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll Dart SDK from d916a5f69a48 to 2bf0f2b8d391 (24 revisions)<br />
   <sub>[#55884](https://github.com/flutter/engine/pull/55884) merged on October 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55884) over 4 hours, 128 additions and 114 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Sam Rawlins](https://github.com/srawlins), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct glBlitFramebuffer emulation todo.<br />
-  <sub>[#55919](https://github.com/flutter/engine/pull/55919) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55919) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move keymap from FlKeyboardViewDelegate to FlKeyboardManager<br />
   <sub>[#55942](https://github.com/flutter/engine/pull/55942) merged on October 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55942) over 1 day, 153 additions and 68 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move redispatch_event from FlKeyboardViewDelegate to FlKeyboardManager<br />
+  <sub>[#55941](https://github.com/flutter/engine/pull/55941) merged on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55941) over 42 minutes, 85 additions and 89 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; Revert "[ios][platform_view] Fix Platform view gesture recognizer wit…<br />
@@ -709,9 +713,9 @@
   <sub>[#55871](https://github.com/flutter/engine/pull/55871) merged on October 15, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55871) over 17 hours, 10 additions and 26 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move redispatch_event from FlKeyboardViewDelegate to FlKeyboardManager<br />
-  <sub>[#55941](https://github.com/flutter/engine/pull/55941) merged on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55941) over 42 minutes, 85 additions and 89 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Correct glBlitFramebuffer emulation todo.<br />
+  <sub>[#55919](https://github.com/flutter/engine/pull/55919) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55919) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Add miplevel to Buffer->Texture blit.<br />
   <sub>[#55848](https://github.com/flutter/engine/pull/55848) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55848) over 2 days, 99 additions and 17 deletions in 14 files</sub><br />
