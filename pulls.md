@@ -96,10 +96,10 @@
   <sub>[#157222](https://github.com/flutter/flutter/pull/157222) opened on on October 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157222) 65 additions and 1 deletion in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to ClipOval docs<br />
-  <sub>[#157227](https://github.com/flutter/flutter/pull/157227) opened on on October 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157227) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#157227](https://github.com/flutter/flutter/pull/157227) opened on on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157227) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to SafeArea docs<br />
-  <sub>[#157228](https://github.com/flutter/flutter/pull/157228) opened on on October 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157228) 17 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#157228](https://github.com/flutter/flutter/pull/157228) opened on on October 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157228) 17 additions and 0 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to Directionality docs<br />
   <sub>[#157230](https://github.com/flutter/flutter/pull/157230) opened on on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157230) 16 additions and 0 deletions in 1 file</sub><br />
