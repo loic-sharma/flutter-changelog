@@ -57,8 +57,8 @@
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Andrew Kolos](https://github.com/andrewkolos), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Snap CupertinoSliverNavigationBar large title and bottom widget
-  <sub>[#156381](https://github.com/flutter/flutter/pull/156381) merged on October 18, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/156381) over 1 week, 247 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+  <sub>[#156381](https://github.com/flutter/flutter/pull/156381) merged on October 18, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/156381) over 1 week, 247 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [b3nni97](https://github.com/b3nni97), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix flavor-conditional asset bundling for path dependencies
   <sub>[#156687](https://github.com/flutter/flutter/pull/156687) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156687) over 1 day, 94 additions and 8 deletions in 2 files</sub>
