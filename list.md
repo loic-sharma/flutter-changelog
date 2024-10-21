@@ -465,7 +465,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] New impeller round rect class
-  <sub>[#55946](https://github.com/flutter/engine/pull/55946) merged on October 20, 2024 &mdash; **Extra large:** [13 comments](https://github.com/flutter/engine/pull/55946) over 2 days, 1773 additions and 428 deletions in 50 files</sub>
+  <sub>[#55946](https://github.com/flutter/engine/pull/55946) merged on October 20, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/engine/pull/55946) over 2 days, 1773 additions and 428 deletions in 50 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started filtering out close line segments in rrect polylines.
