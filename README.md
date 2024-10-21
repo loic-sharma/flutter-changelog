@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### October 19, 2024 to October 25, 2024
+
+1 commits.
+
+* **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
+  <sub>[#156501](https://github.com/flutter/flutter/pull/156501) merged on October 21, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/156501) over 1 week, 165 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
 ### October 12, 2024 to October 18, 2024
 
-49 commits.
+<details>
+<summary>49 commits...</summary>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoSliverNavigationBar<br />
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub><br />
@@ -203,6 +212,8 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Preland support for monorepo engine hashing<br />
   <sub>[#157138](https://github.com/flutter/flutter/pull/157138) merged on October 18, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157138) over 22 hours, 17 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+</details>
 
 ### October 5, 2024 to October 11, 2024
 
