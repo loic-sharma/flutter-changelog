@@ -4,7 +4,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-11 commits.
+12 commits.
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion<br />
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub><br />
@@ -41,6 +41,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete unused string in `gradle_errors.dart`<br />
   <sub>[#157187](https://github.com/flutter/flutter/pull/157187) merged on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) over 2 days, 0 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update ecosystem contribution docs<br />
+  <sub>[#157288](https://github.com/flutter/flutter/pull/157288) merged on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157288) over 30 minutes, 11 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add support for `flutter build web --debug`.<br />
   <sub>[#157186](https://github.com/flutter/flutter/pull/157186) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157186) over 2 days, 35 additions and 42 deletions in 5 files</sub><br />

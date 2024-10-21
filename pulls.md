@@ -99,5 +99,5 @@
   <sub>[#157258](https://github.com/flutter/flutter/pull/157258) opened on on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157258) 92 additions and 6 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.27.0-0.1.pre Framework Cherrypicks<br />
-  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />
 
