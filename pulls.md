@@ -113,3 +113,6 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate away from deprecated whereNotNull<br />
   <sub>[#157250](https://github.com/flutter/flutter/pull/157250) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157250) 2 additions and 3 deletions in 2 files</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Resolve pupup menu test TODO<br />
+  <sub>[#157251](https://github.com/flutter/flutter/pull/157251) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157251) 2 additions and 6 deletions in 1 file</sub><br />
+
