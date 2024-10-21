@@ -406,7 +406,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-4 commits.
+5 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -415,6 +415,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Request another frame in ImageReaderSurfaceProducer.dequeueImage if more images are pending in the queue
   <sub>[#55944](https://github.com/flutter/engine/pull/55944) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55944) over 3 days, 61 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; re-land "update the repo references for package:file (#55906)"
+  <sub>[#55935](https://github.com/flutter/engine/pull/55935) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55935) over 3 days, 2 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for Linux mac_clangd
   <sub>[#55988](https://github.com/flutter/engine/pull/55988) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55988) over 2 hours, 2 additions and 0 deletions in 2 files</sub>
@@ -472,6 +476,10 @@
   <sub>[#55925](https://github.com/flutter/engine/pull/55925) merged on October 18, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/engine/pull/55925) over 21 hours, 345 additions and 438 deletions in 19 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] one descriptor pool per frame.
+  <sub>[#55939](https://github.com/flutter/engine/pull/55939) merged on October 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55939) over 18 hours, 138 additions and 40 deletions in 10 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; On a merged UI/platform thread, immediately execute platform message handlers and then run microtasks
   <sub>[#55933](https://github.com/flutter/engine/pull/55933) merged on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55933) over 18 hours, 7 additions and 21 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -504,6 +512,10 @@
   <sub>[#54857](https://github.com/flutter/engine/pull/54857) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54857) over 1 month, 9 additions and 36 deletions in 7 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add back opt out for merged threads.
+  <sub>[#55952](https://github.com/flutter/engine/pull/55952) merged on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55952) over 1 hour, 39 additions and 12 deletions in 6 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simpler labels for render target textures and cmd buffers.
   <sub>[#55936](https://github.com/flutter/engine/pull/55936) merged on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55936) over 6 hours, 95 additions and 20 deletions in 14 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
@@ -532,13 +544,13 @@
   <sub>[#55905](https://github.com/flutter/engine/pull/55905) merged on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55905) over 21 hours, 15 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add a README.
-  <sub>[#55940](https://github.com/flutter/engine/pull/55940) merged on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55940) over 20 hours, 96 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [UI] fix scene builder parameter naming.
+  <sub>[#55969](https://github.com/flutter/engine/pull/55969) merged on October 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55969) over 1 hour, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Improve thread safety of first frame callback
-  <sub>[#55966](https://github.com/flutter/engine/pull/55966) merged on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55966) over 1 hour, 23 additions and 20 deletions in 1 file</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix flaky tests (remove timeouts)
+  <sub>[#55961](https://github.com/flutter/engine/pull/55961) merged on October 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55961) over 3 hours, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make labeling APIs exclusively use std::string_view.
   <sub>[#55918](https://github.com/flutter/engine/pull/55918) merged on October 17, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/55918) over 18 hours, 195 additions and 178 deletions in 55 files</sub>
@@ -548,41 +560,33 @@
   <sub>[#55872](https://github.com/flutter/engine/pull/55872) merged on October 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55872) over 10 hours, 74 additions and 31 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix flaky tests (remove timeouts)
-  <sub>[#55961](https://github.com/flutter/engine/pull/55961) merged on October 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55961) over 3 hours, 4 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Disable non-functional and deprecated `package_api_docs` lint
   <sub>[#55833](https://github.com/flutter/engine/pull/55833) merged on October 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55833) over 3 days, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add a README.
+  <sub>[#55940](https://github.com/flutter/engine/pull/55940) merged on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55940) over 20 hours, 96 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Improve thread safety of first frame callback
+  <sub>[#55966](https://github.com/flutter/engine/pull/55966) merged on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55966) over 1 hour, 23 additions and 20 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Ensure Flutter adds a generator meta-tag.
   <sub>[#55714](https://github.com/flutter/engine/pull/55714) merged on October 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55714) over 6 days, 21 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [UI] fix scene builder parameter naming.
-  <sub>[#55969](https://github.com/flutter/engine/pull/55969) merged on October 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55969) over 1 hour, 4 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate needless profiler metrics ivar
-  <sub>[#55957](https://github.com/flutter/engine/pull/55957) merged on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55957) over 53 minutes, 5 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] one descriptor pool per frame.
-  <sub>[#55939](https://github.com/flutter/engine/pull/55939) merged on October 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55939) over 18 hours, 138 additions and 40 deletions in 10 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix memory leak during gif upload.
+  <sub>[#55920](https://github.com/flutter/engine/pull/55920) merged on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55920) over 2 hours, 10 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add back unnecessary_parenthesis lint
   <sub>[#55931](https://github.com/flutter/engine/pull/55931) merged on October 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55931) over 2 hours, 44 additions and 56 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix memory leak during gif upload.
-  <sub>[#55920](https://github.com/flutter/engine/pull/55920) merged on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55920) over 2 hours, 10 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add back opt out for merged threads.
-  <sub>[#55952](https://github.com/flutter/engine/pull/55952) merged on October 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55952) over 1 hour, 39 additions and 12 deletions in 6 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate needless profiler metrics ivar
+  <sub>[#55957](https://github.com/flutter/engine/pull/55957) merged on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55957) over 53 minutes, 5 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Manual roll Dart SDK from d916a5f69a48 to 2bf0f2b8d391 (24 revisions)
   <sub>[#55884](https://github.com/flutter/engine/pull/55884) merged on October 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55884) over 4 hours, 128 additions and 114 deletions in 8 files</sub>
