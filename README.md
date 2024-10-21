@@ -4,11 +4,19 @@
 
 ### October 19, 2024 to October 25, 2024
 
-1 commits.
+3 commits.
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) merged on October 21, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/156501) over 1 week, 165 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete line referencing v1 string<br />
+  <sub>[#157170](https://github.com/flutter/flutter/pull/157170) merged on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157170) over 2 days, 0 additions and 20 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete unused string in `gradle_errors.dart`<br />
+  <sub>[#157187](https://github.com/flutter/flutter/pull/157187) merged on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) over 2 days, 0 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 ### October 12, 2024 to October 18, 2024
 
