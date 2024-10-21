@@ -59,9 +59,6 @@
 * **[Bobek Bobekos](https://github.com/bobekos)** &mdash; Add collapsed title padding for flexibale space bar 69017<br />
   <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157088) 111 additions and 12 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `flexible_space_bar.0.dart`<br />
-  <sub>[#157107](https://github.com/flutter/flutter/pull/157107) opened on on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157107) 103 additions and 56 deletions in 3 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test alternate correct macOS framework xcprivacy manifest location<br />
   <sub>[#157135](https://github.com/flutter/flutter/pull/157135) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157135) 13 additions and 1 deletion in 1 file</sub><br />
 
@@ -84,7 +81,7 @@
   <sub>[#157221](https://github.com/flutter/flutter/pull/157221) opened on on October 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157221) 13 additions and 15 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigation_rail.extended_animation.0_test.dart`<br />
-  <sub>[#157222](https://github.com/flutter/flutter/pull/157222) opened on on October 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157222) 65 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157222](https://github.com/flutter/flutter/pull/157222) opened on on October 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157222) 65 additions and 1 deletion in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to ClipOval docs<br />
   <sub>[#157227](https://github.com/flutter/flutter/pull/157227) opened on on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157227) 11 additions and 0 deletions in 1 file</sub><br />
@@ -106,4 +103,7 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selectable_region.0.dart`<br />
   <sub>[#157258](https://github.com/flutter/flutter/pull/157258) opened on on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157258) 92 additions and 6 deletions in 3 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update engine.version for hot fix release<br />
+  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157268) 1 addition and 1 deletion in 1 file</sub><br />
 
