@@ -178,7 +178,7 @@
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move analyzer_benchmark to the devicelab<br />
-  <sub>[#157127](https://github.com/flutter/flutter/pull/157127) merged on October 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157127) over 58 minutes, 6 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#157127](https://github.com/flutter/flutter/pull/157127) merged on October 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157127) over 58 minutes, 6 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test: migrate to build.gradle.kts<br />
@@ -465,7 +465,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] New impeller round rect class<br />
-  <sub>[#55946](https://github.com/flutter/engine/pull/55946) merged on October 20, 2024 &mdash; **Extra large:** [12 comments](https://github.com/flutter/engine/pull/55946) over 2 days, 1773 additions and 428 deletions in 50 files</sub><br />
+  <sub>[#55946](https://github.com/flutter/engine/pull/55946) merged on October 20, 2024 &mdash; **Extra large:** [13 comments](https://github.com/flutter/engine/pull/55946) over 2 days, 1773 additions and 428 deletions in 50 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started filtering out close line segments in rrect polylines.<br />
