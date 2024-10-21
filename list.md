@@ -670,7 +670,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:a11y] make header a proper <header>
-  <sub>[#55747](https://github.com/flutter/engine/pull/55747) merged on October 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55747) over 1 day, 77 additions and 20 deletions in 6 files</sub>
+  <sub>[#55747](https://github.com/flutter/engine/pull/55747) merged on October 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55747) over 1 day, 77 additions and 20 deletions in 6 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Release`onTrimMemoryListener` after `ImageReaderSurfaceProducer` released.
