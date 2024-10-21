@@ -4,7 +4,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-12 commits.
+14 commits.
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub>
@@ -29,6 +29,14 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make android dependency version test suite run on changes to templates
   <sub>[#157196](https://github.com/flutter/flutter/pull/157196) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157196) over 2 days, 6 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate away from deprecated whereNotNull
+  <sub>[#157250](https://github.com/flutter/flutter/pull/157250) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157250) over 18 hours, 2 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix a few typos in framework code and doc comments
+  <sub>[#157248](https://github.com/flutter/flutter/pull/157248) merged on October 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157248) over 20 hours, 44 additions and 44 deletions in 25 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Dispose temporarily created CurvedAnimation [prod-leak-fix]
   <sub>[#157233](https://github.com/flutter/flutter/pull/157233) merged on October 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157233) over 1 day, 6 additions and 3 deletions in 1 file</sub>
@@ -414,7 +422,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-6 commits.
+7 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -436,6 +444,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for Linux mac_clangd
   <sub>[#55988](https://github.com/flutter/engine/pull/55988) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55988) over 2 hours, 2 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: one descriptor pool per frame.
+  <sub>[#55960](https://github.com/flutter/engine/pull/55960) merged on October 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55960) over 2 days, 73 additions and 18 deletions in 10 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a51df90298ca to c8659684d34d (4 revisions)
   <sub>[#55984](https://github.com/flutter/engine/pull/55984) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55984) over 2 hours, 5 additions and 5 deletions in 3 files</sub>
