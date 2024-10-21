@@ -60,7 +60,7 @@
   <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157088) 111 additions and 12 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `flexible_space_bar.0.dart`<br />
-  <sub>[#157107](https://github.com/flutter/flutter/pull/157107) opened on on October 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157107) 103 additions and 56 deletions in 3 files</sub><br />
+  <sub>[#157107](https://github.com/flutter/flutter/pull/157107) opened on on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157107) 103 additions and 56 deletions in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test alternate correct macOS framework xcprivacy manifest location<br />
   <sub>[#157135](https://github.com/flutter/flutter/pull/157135) opened on on October 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157135) 13 additions and 1 deletion in 1 file</sub><br />
@@ -73,9 +73,6 @@
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Make android dependency version test suite run on changes to templates<br />
-  <sub>[#157196](https://github.com/flutter/flutter/pull/157196) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157196) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Made Cupertino dialog more like a native dialog in dark mode<br />
   <sub>[#157218](https://github.com/flutter/flutter/pull/157218) opened on on October 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157218) 3 additions and 3 deletions in 2 files</sub><br />
