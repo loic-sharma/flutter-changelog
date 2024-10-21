@@ -4,7 +4,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-3 commits.
+4 commits.
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) merged on October 21, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/156501) over 1 week, 165 additions and 2 deletions in 3 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete unused string in `gradle_errors.dart`<br />
   <sub>[#157187](https://github.com/flutter/flutter/pull/157187) merged on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) over 2 days, 0 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `flexible_space_bar.0.dart`<br />
+  <sub>[#157107](https://github.com/flutter/flutter/pull/157107) merged on October 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157107) over 3 days, 103 additions and 56 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 ### October 12, 2024 to October 18, 2024
 

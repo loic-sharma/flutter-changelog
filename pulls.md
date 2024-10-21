@@ -36,7 +36,7 @@
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[Frank](https://github.com/Frank3K)** &mdash; Do not handle external requests by service worker (Flutter web)<br />
-  <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
@@ -66,7 +66,7 @@
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) opened on on October 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/157151) 80 additions and 1 deletion in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Polish the texture example<br />
-  <sub>[#157176](https://github.com/flutter/flutter/pull/157176) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157176) 33 additions and 32 deletions in 1 file</sub><br />
+  <sub>[#157176](https://github.com/flutter/flutter/pull/157176) opened on on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157176) 33 additions and 32 deletions in 1 file</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
@@ -104,6 +104,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selectable_region.0.dart`<br />
   <sub>[#157258](https://github.com/flutter/flutter/pull/157258) opened on on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157258) 92 additions and 6 deletions in 3 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update engine.version for hot fix release<br />
-  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157268) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.27.0-0.1.pre Framework Cherrypicks<br />
+  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157268) 1 addition and 1 deletion in 1 file</sub><br />
 
