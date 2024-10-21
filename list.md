@@ -952,11 +952,15 @@
 
 ### October 19, 2024 to October 25, 2024
 
-1 commits.
+2 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow custom blocks to be something other than `Column` or `SizedBox`
   <sub>[#7859](https://github.com/flutter/packages/pull/7859) merged on October 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7859) over 1 week, 106 additions and 12 deletions in 4 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player_android] Correct rotation of videos recorded by the camera
+  <sub>[#7846](https://github.com/flutter/packages/pull/7846) merged on October 21, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7846) over 1 week, 199 additions and 17 deletions in 5 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 ### October 12, 2024 to October 18, 2024
 
