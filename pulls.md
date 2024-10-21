@@ -9,7 +9,7 @@
   <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153355) 238 additions and 7 deletions in 9 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks<br />
-  <sub>[#153368](https://github.com/flutter/flutter/pull/153368) opened on on August 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153368) 183 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#153368](https://github.com/flutter/flutter/pull/153368) opened on on August 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153368) 183 additions and 0 deletions in 2 files</sub><br />
 
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] Fix formatting with multiple locale<br />
   <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/153459) 453 additions and 43 deletions in 4 files</sub><br />
@@ -87,10 +87,10 @@
   <sub>[#157258](https://github.com/flutter/flutter/pull/157258) opened on on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157258) 92 additions and 6 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.27.0-0.1.pre Framework Cherrypicks<br />
-  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Match framework and engine android emulator versions<br />
-  <sub>[#157291](https://github.com/flutter/flutter/pull/157291) opened on on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157291) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#157291](https://github.com/flutter/flutter/pull/157291) opened on on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157291) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove duplicated widget of the week video embed<br />
   <sub>[#157299](https://github.com/flutter/flutter/pull/157299) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157299) 0 additions and 2 deletions in 1 file</sub><br />
