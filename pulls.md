@@ -108,7 +108,7 @@
   <sub>[#157238](https://github.com/flutter/flutter/pull/157238) opened on on October 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157238) 50 additions and 10 deletions in 2 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix a few typos in framework code and doc comments<br />
-  <sub>[#157248](https://github.com/flutter/flutter/pull/157248) opened on on October 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157248) 44 additions and 44 deletions in 25 files</sub><br />
+  <sub>[#157248](https://github.com/flutter/flutter/pull/157248) opened on on October 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157248) 44 additions and 44 deletions in 25 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate away from deprecated whereNotNull<br />
   <sub>[#157250](https://github.com/flutter/flutter/pull/157250) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157250) 2 additions and 3 deletions in 2 files</sub><br />
