@@ -92,3 +92,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Match framework and engine android emulator versions<br />
   <sub>[#157291](https://github.com/flutter/flutter/pull/157291) opened on on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157291) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove duplicated widget of the week video embed<br />
+  <sub>[#157299](https://github.com/flutter/flutter/pull/157299) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157299) 0 additions and 2 deletions in 1 file</sub><br />
+
