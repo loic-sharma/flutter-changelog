@@ -4,7 +4,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-14 commits.
+15 commits.
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion<br />
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make android dependency version test suite run on changes to templates<br />
   <sub>[#157196](https://github.com/flutter/flutter/pull/157196) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157196) over 2 days, 6 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Resolve pupup menu test TODO<br />
+  <sub>[#157251](https://github.com/flutter/flutter/pull/157251) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157251) over 19 hours, 2 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Migrate away from deprecated whereNotNull<br />
   <sub>[#157250](https://github.com/flutter/flutter/pull/157250) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157250) over 18 hours, 2 additions and 3 deletions in 2 files</sub><br />

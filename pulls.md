@@ -86,14 +86,11 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to Directionality docs<br />
   <sub>[#157230](https://github.com/flutter/flutter/pull/157230) opened on on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157230) 16 additions and 0 deletions in 1 file</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Resolve pupup menu test TODO<br />
-  <sub>[#157251](https://github.com/flutter/flutter/pull/157251) opened on on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157251) 2 additions and 6 deletions in 1 file</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selectable_region.0.dart`<br />
   <sub>[#157258](https://github.com/flutter/flutter/pull/157258) opened on on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157258) 92 additions and 6 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.27.0-0.1.pre Framework Cherrypicks<br />
-  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Match framework and engine android emulator versions<br />
   <sub>[#157291](https://github.com/flutter/flutter/pull/157291) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157291) 2 additions and 2 deletions in 1 file</sub><br />
