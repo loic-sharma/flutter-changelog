@@ -357,9 +357,18 @@
 
 ## flutter/engine
 
+### October 19, 2024 to October 25, 2024
+
+1 commits.
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a51df90298ca to c8659684d34d (4 revisions)<br />
+  <sub>[#55984](https://github.com/flutter/engine/pull/55984) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55984) over 2 hours, 5 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 ### October 12, 2024 to October 18, 2024
 
-53 commits.
+<details>
+<summary>53 commits...</summary>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Impeller] Allow binding multiple vertex buffer views.<br />
   <sub>[#55856](https://github.com/flutter/engine/pull/55856) merged on October 15, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/engine/pull/55856) over 1 day, 406 additions and 132 deletions in 18 files</sub><br />
@@ -575,6 +584,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 2bf0f2b8d391 to 7fce3544047c (4 revisions)<br />
   <sub>[#55896](https://github.com/flutter/engine/pull/55896) merged on October 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55896) over 50 minutes, 6 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### October 5, 2024 to October 11, 2024
 
