@@ -591,8 +591,8 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix flaky tests (remove timeouts)<br />
-  <sub>[#55961](https://github.com/flutter/engine/pull/55961) merged on October 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/55961) over 3 hours, 4 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+  <sub>[#55961](https://github.com/flutter/engine/pull/55961) merged on October 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/55961) over 3 hours, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make labeling APIs exclusively use std::string_view.<br />
   <sub>[#55918](https://github.com/flutter/engine/pull/55918) merged on October 17, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/55918) over 18 hours, 195 additions and 178 deletions in 55 files</sub><br />
