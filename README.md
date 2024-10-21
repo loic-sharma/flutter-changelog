@@ -7,7 +7,7 @@
 9 commits.
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion<br />
-  <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub><br />
+  <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make `ChromiumDevice.stopApp` a no-op if it has already been called<br />
@@ -402,7 +402,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-3 commits.
+4 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts<br />
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub><br />
@@ -411,6 +411,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Request another frame in ImageReaderSurfaceProducer.dequeueImage if more images are pending in the queue<br />
   <sub>[#55944](https://github.com/flutter/engine/pull/55944) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55944) over 3 days, 61 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for Linux mac_clangd<br />
+  <sub>[#55988](https://github.com/flutter/engine/pull/55988) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55988) over 2 hours, 2 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a51df90298ca to c8659684d34d (4 revisions)<br />
   <sub>[#55984](https://github.com/flutter/engine/pull/55984) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55984) over 2 hours, 5 additions and 5 deletions in 3 files</sub><br />
