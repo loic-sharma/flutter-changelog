@@ -10,14 +10,14 @@
   <sub>[#155841](https://github.com/flutter/flutter/pull/155841) merged on October 16, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/flutter/pull/155841) over 2 weeks, 612 additions and 39 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Use Gradle KTS in new Android app projects by default<br />
+  <sub>[#154061](https://github.com/flutter/flutter/pull/154061) merged on October 18, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/154061) over 1 month, 133 additions and 112 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Add bottom to CupertinoNavigationBar to allow for a double-row nav bar<br />
   <sub>[#155959](https://github.com/flutter/flutter/pull/155959) merged on October 16, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/155959) over 2 weeks, 175 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
   <sub><details><summary>1 image...</summary><img width="270" height="600"  alt="Screenshot 2024-09-30 at 3 09 04 PM" src="https://github.com/user-attachments/assets/4003116f-69dd-4f8f-a185-6ca151b74d2d"></details></sub>
-
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Use Gradle KTS in new Android app projects by default<br />
-  <sub>[#154061](https://github.com/flutter/flutter/pull/154061) merged on October 18, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/154061) over 1 month, 133 additions and 112 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; Fix native assets failing to build with AGP 8.4 and multiple flavors<br />
   <sub>[#155039](https://github.com/flutter/flutter/pull/155039) merged on October 18, 2024 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/155039) over 1 month, 408 additions and 270 deletions in 4 files</sub><br />
