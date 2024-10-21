@@ -101,3 +101,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.27.0-0.1.pre Framework Cherrypicks<br />
   <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Match framework and engine android emulator versions<br />
+  <sub>[#157291](https://github.com/flutter/flutter/pull/157291) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157291) 2 additions and 2 deletions in 1 file</sub><br />
+
