@@ -4,7 +4,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-21 commits.
+22 commits.
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion<br />
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub><br />
@@ -34,6 +34,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make android dependency version test suite run on changes to templates<br />
   <sub>[#157196](https://github.com/flutter/flutter/pull/157196) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157196) over 2 days, 6 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Add dart command line tool for calculating engine hash<br />
+  <sub>[#157212](https://github.com/flutter/flutter/pull/157212) merged on October 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/157212) over 2 days, 254 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ensure that the build system checks for updates of locally built flutter_web_sdk artifacts<br />
   <sub>[#156534](https://github.com/flutter/flutter/pull/156534) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156534) over 1 week, 25 additions and 13 deletions in 7 files</sub><br />
