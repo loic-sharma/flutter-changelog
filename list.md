@@ -370,7 +370,11 @@
 
 ### October 19, 2024 to October 25, 2024
 
-1 commits.
+2 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
+  <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a51df90298ca to c8659684d34d (4 revisions)
   <sub>[#55984](https://github.com/flutter/engine/pull/55984) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55984) over 2 hours, 5 additions and 5 deletions in 3 files</sub>
