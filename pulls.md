@@ -54,7 +54,7 @@
   <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
-  <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/156501) 167 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#156501](https://github.com/flutter/flutter/pull/156501) opened on on October 9, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/156501) 165 additions and 2 deletions in 3 files</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
@@ -103,9 +103,6 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to Directionality docs<br />
   <sub>[#157230](https://github.com/flutter/flutter/pull/157230) opened on on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157230) 16 additions and 0 deletions in 1 file</sub><br />
-
-* **[yim](https://github.com/yiiim)** &mdash; Fix the Dropdown icon not being centered.<br />
-  <sub>[#157238](https://github.com/flutter/flutter/pull/157238) opened on on October 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157238) 50 additions and 10 deletions in 2 files</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix a few typos in framework code and doc comments<br />
   <sub>[#157248](https://github.com/flutter/flutter/pull/157248) opened on on October 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157248) 44 additions and 44 deletions in 25 files</sub><br />
