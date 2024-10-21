@@ -45,7 +45,7 @@
   <sub>[#156104](https://github.com/flutter/flutter/pull/156104) opened on on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156104) 85 additions and 21 deletions in 2 files</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix: showDatePicker should have a simple example in the docs<br />
-  <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/156196) 120 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156196) 120 additions and 0 deletions in 3 files</sub><br />
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Allow add_format() in flutter gen-l10n DateTime format<br />
   <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
@@ -102,5 +102,5 @@
   <sub>[#157258](https://github.com/flutter/flutter/pull/157258) opened on on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157258) 92 additions and 6 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.27.0-0.1.pre Framework Cherrypicks<br />
-  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157268) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />
 
