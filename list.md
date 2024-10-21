@@ -131,7 +131,7 @@
   <sub>Reviewed by: [b3nni97](https://github.com/b3nni97), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix flavor-conditional asset bundling for path dependencies
-  <sub>[#156687](https://github.com/flutter/flutter/pull/156687) merged on October 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156687) over 1 day, 94 additions and 8 deletions in 2 files</sub>
+  <sub>[#156687](https://github.com/flutter/flutter/pull/156687) merged on October 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156687) over 1 day, 94 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Rexios](https://github.com/Rexios80)** &mdash; Add padding options to `SearchAnchor`
