@@ -4,7 +4,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-17 commits.
+18 commits.
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub>
@@ -74,6 +74,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `flexible_space_bar.0.dart`
   <sub>[#157107](https://github.com/flutter/flutter/pull/157107) merged on October 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157107) over 3 days, 103 additions and 56 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "[devicelab] handle missed lifecycle messages. (#156596)"
+  <sub>[#157293](https://github.com/flutter/flutter/pull/157293) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157293) over 1 hour, 1 addition and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 ### October 12, 2024 to October 18, 2024
 
@@ -435,7 +439,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-9 commits.
+10 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -465,6 +469,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: one descriptor pool per frame.
   <sub>[#55960](https://github.com/flutter/engine/pull/55960) merged on October 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/55960) over 2 days, 73 additions and 18 deletions in 10 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Reland: [fuchsia] Remove pm use in build_fuchsia_artifacts
+  <sub>[#55932](https://github.com/flutter/engine/pull/55932) merged on October 21, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55932) over 4 days, 122 additions and 666 deletions in 9 files</sub>
+  <sub>Reviewed by: [jacobsimionato](https://github.com/jacobsimionato)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a51df90298ca to c8659684d34d (4 revisions)
   <sub>[#55984](https://github.com/flutter/engine/pull/55984) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55984) over 2 hours, 5 additions and 5 deletions in 3 files</sub>
