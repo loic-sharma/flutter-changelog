@@ -81,7 +81,7 @@
   <sub>[#157230](https://github.com/flutter/flutter/pull/157230) opened on on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157230) 16 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selectable_region.0.dart`<br />
-  <sub>[#157258](https://github.com/flutter/flutter/pull/157258) opened on on October 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157258) 55 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#157258](https://github.com/flutter/flutter/pull/157258) opened on on October 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157258) 55 additions and 1 deletion in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.27.0-0.1.pre Framework Cherrypicks<br />
   <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />
