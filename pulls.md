@@ -90,5 +90,8 @@
   <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove duplicated widget of the week video embed<br />
-  <sub>[#157299](https://github.com/flutter/flutter/pull/157299) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157299) 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#157299](https://github.com/flutter/flutter/pull/157299) opened on on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157299) 0 additions and 2 deletions in 1 file</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides<br />
+  <sub>[#157313](https://github.com/flutter/flutter/pull/157313) opened on on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157313) 98 additions and 0 deletions in 21 files</sub><br />
 
