@@ -93,8 +93,8 @@
   <sub>[#157328](https://github.com/flutter/flutter/pull/157328) opened on on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157328) 124 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `pointer_signal_resolver.0.dart`<br />
-  <sub>[#157330](https://github.com/flutter/flutter/pull/157330) opened on on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157330) 78 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157330](https://github.com/flutter/flutter/pull/157330) opened on on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157330) 78 additions and 1 deletion in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix MenuController.isOpen throws when unattached<br />
-  <sub>[#157331](https://github.com/flutter/flutter/pull/157331) opened on on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157331) 6 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#157331](https://github.com/flutter/flutter/pull/157331) opened on on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157331) 6 additions and 2 deletions in 2 files</sub><br />
 
