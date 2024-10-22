@@ -487,7 +487,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-16 commits.
+17 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -510,6 +510,10 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] implement selectable semantics
   <sub>[#55970](https://github.com/flutter/engine/pull/55970) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55970) over 2 days, 182 additions and 1 deletion in 6 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Document the entire API.
+  <sub>[#56003](https://github.com/flutter/engine/pull/56003) merged on October 22, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/56003) over 19 hours, 1405 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Request another frame in ImageReaderSurfaceProducer.dequeueImage if more images are pending in the queue
   <sub>[#55944](https://github.com/flutter/engine/pull/55944) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55944) over 3 days, 61 additions and 1 deletion in 2 files</sub>
