@@ -4,7 +4,11 @@
 
 ### October 19, 2024 to October 25, 2024
 
-34 commits.
+35 commits.
+
+* **[René Kilczan](https://github.com/rekire)** &mdash; Add windows build version detection
+  <sub>[#154797](https://github.com/flutter/flutter/pull/154797) merged on October 22, 2024 &mdash; **Medium:** [44 comments](https://github.com/flutter/flutter/pull/154797) over 1 month, 316 additions and 15 deletions in 3 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub>
@@ -24,7 +28,7 @@
   <sub><details><summary>1 image...</summary>![Capture d’écran 2024-10-19 094417](https://github.com/user-attachments/assets/8278c72e-068e-4596-b1ce-7888161bfcc8)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField selects all content after the application is resumed
-  <sub>[#156968](https://github.com/flutter/flutter/pull/156968) merged on October 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156968) over 5 days, 50 additions and 1 deletion in 2 files</sub>
+  <sub>[#156968](https://github.com/flutter/flutter/pull/156968) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156968) over 5 days, 50 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[João Victor Schramm](https://github.com/Pachebel)** &mdash; fix: CupertinoDatePicker.DateAndTime using showDayOfWeek
@@ -51,17 +55,17 @@
   <sub>[#157176](https://github.com/flutter/flutter/pull/157176) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157176) over 2 days, 33 additions and 32 deletions in 1 file</sub>
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub>
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaks in some image tests and explain hackyness of opted-out.
-  <sub>[#154481](https://github.com/flutter/flutter/pull/154481) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154481) over 1 month, 70 additions and 65 deletions in 2 files</sub>
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix unattached `MenuController` throws assertion error when calling `MenuController.close()`
+  <sub>[#156588](https://github.com/flutter/flutter/pull/156588) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156588) over 1 week, 9 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make android dependency version test suite run on changes to templates
   <sub>[#157196](https://github.com/flutter/flutter/pull/157196) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157196) over 2 days, 6 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix unattached `MenuController` throws assertion error when calling `MenuController.close()`
-  <sub>[#156588](https://github.com/flutter/flutter/pull/156588) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156588) over 1 week, 9 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaks in some image tests and explain hackyness of opted-out.
+  <sub>[#154481](https://github.com/flutter/flutter/pull/154481) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154481) over 1 month, 70 additions and 65 deletions in 2 files</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test alternate correct macOS framework xcprivacy manifest location
   <sub>[#157318](https://github.com/flutter/flutter/pull/157318) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157318) over 16 hours, 13 additions and 1 deletion in 1 file</sub>
@@ -91,25 +95,21 @@
   <sub>[#157250](https://github.com/flutter/flutter/pull/157250) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157250) over 18 hours, 2 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix a few typos in framework code and doc comments
-  <sub>[#157248](https://github.com/flutter/flutter/pull/157248) merged on October 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157248) over 20 hours, 44 additions and 44 deletions in 25 files</sub>
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete unused string in `gradle_errors.dart`
+  <sub>[#157187](https://github.com/flutter/flutter/pull/157187) merged on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) over 2 days, 0 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete line referencing v1 string
   <sub>[#157170](https://github.com/flutter/flutter/pull/157170) merged on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157170) over 2 days, 0 additions and 20 deletions in 4 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete unused string in `gradle_errors.dart`
-  <sub>[#157187](https://github.com/flutter/flutter/pull/157187) merged on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) over 2 days, 0 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix a few typos in framework code and doc comments
+  <sub>[#157248](https://github.com/flutter/flutter/pull/157248) merged on October 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157248) over 20 hours, 44 additions and 44 deletions in 25 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Dispose temporarily created CurvedAnimation [prod-leak-fix]
   <sub>[#157233](https://github.com/flutter/flutter/pull/157233) merged on October 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157233) over 1 day, 6 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Allow control of hitTestBehavior of Platform Views
-  <sub>[#157189](https://github.com/flutter/flutter/pull/157189) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157189) over 3 days, 84 additions and 2 deletions in 4 files</sub>
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selectable_region.0.dart`
   <sub>[#157258](https://github.com/flutter/flutter/pull/157258) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157258) over 22 hours, 55 additions and 1 deletion in 3 files</sub>
@@ -138,6 +138,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix MenuController.isOpen throws when unattached
   <sub>[#157331](https://github.com/flutter/flutter/pull/157331) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157331) over 10 hours, 6 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Allow control of hitTestBehavior of Platform Views
+  <sub>[#157189](https://github.com/flutter/flutter/pull/157189) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157189) over 3 days, 84 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "[devicelab] handle missed lifecycle messages. (#156596)"
   <sub>[#157293](https://github.com/flutter/flutter/pull/157293) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157293) over 1 hour, 1 addition and 4 deletions in 1 file</sub>
