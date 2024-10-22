@@ -515,8 +515,8 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Reland: [fuchsia] Remove pm use in build_fuchsia_artifacts
-  <sub>[#55932](https://github.com/flutter/engine/pull/55932) merged on October 21, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55932) over 4 days, 122 additions and 666 deletions in 9 files</sub>
-  <sub>Reviewed by: [jacobsimionato](https://github.com/jacobsimionato)</sub>
+  <sub>[#55932](https://github.com/flutter/engine/pull/55932) merged on October 21, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/55932) over 4 days, 122 additions and 666 deletions in 9 files</sub>
+  <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang), [jacobsimionato](https://github.com/jacobsimionato)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a51df90298ca to c8659684d34d (4 revisions)
   <sub>[#55984](https://github.com/flutter/engine/pull/55984) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55984) over 2 hours, 5 additions and 5 deletions in 3 files</sub>
