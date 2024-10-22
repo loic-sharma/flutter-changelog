@@ -4,7 +4,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-29 commits.
+30 commits.
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub>
@@ -94,6 +94,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete unused string in `gradle_errors.dart`
   <sub>[#157187](https://github.com/flutter/flutter/pull/157187) merged on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) over 2 days, 0 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Allow control of hitTestBehavior of Platform Views
+  <sub>[#157189](https://github.com/flutter/flutter/pull/157189) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157189) over 3 days, 84 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selectable_region.0.dart`
   <sub>[#157258](https://github.com/flutter/flutter/pull/157258) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157258) over 22 hours, 55 additions and 1 deletion in 3 files</sub>
@@ -483,7 +487,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-15 commits.
+16 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -493,6 +497,11 @@
   <sub>[#52943](https://github.com/flutter/engine/pull/52943) merged on October 21, 2024 &mdash; **Large:** [47 comments](https://github.com/flutter/engine/pull/52943) over 5 months, 851 additions and 39 deletions in 16 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
   <sub><details><summary>1 image...</summary>![scribe](https://github.com/flutter/engine/assets/389558/210278a4-81c3-420f-bc9b-f1c164ee141a)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eagerly flip backdrop back to onscreen.
+  <sub>[#55983](https://github.com/flutter/engine/pull/55983) merged on October 22, 2024 &mdash; **Large:** [14 comments](https://github.com/flutter/engine/pull/55983) over 2 days, 391 additions and 151 deletions in 6 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+  <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/557d12ed-b169-4806-a2d1-88db9f24d8a1)![image](https://github.com/user-attachments/assets/ad547131-af0a-4247-91a2-deeb3ffda8e9)</details></sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add missing MSAA stuff.
   <sub>[#55424](https://github.com/flutter/engine/pull/55424) merged on October 22, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/55424) over 3 weeks, 220 additions and 42 deletions in 8 files</sub>
