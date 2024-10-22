@@ -28,7 +28,7 @@
   <sub><details><summary>1 image...</summary>![Capture d’écran 2024-10-19 094417](https://github.com/user-attachments/assets/8278c72e-068e-4596-b1ce-7888161bfcc8)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField selects all content after the application is resumed<br />
-  <sub>[#156968](https://github.com/flutter/flutter/pull/156968) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/156968) over 5 days, 50 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#156968](https://github.com/flutter/flutter/pull/156968) merged on October 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/156968) over 5 days, 50 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[João Victor Schramm](https://github.com/Pachebel)** &mdash; fix: CupertinoDatePicker.DateAndTime using showDayOfWeek<br />
