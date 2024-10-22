@@ -80,6 +80,3 @@
 * **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Feature: Add BuildContext to FormFieldValidator function (Resolves #59059)<br />
   <sub>[#157366](https://github.com/flutter/flutter/pull/157366) opened on on October 22, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/157366) 297 additions and 255 deletions in 10 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use existence of `.flutter-plugins-dependencies` for `hasPlugins`.<br />
-  <sub>[#157393](https://github.com/flutter/flutter/pull/157393) opened on on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157393) 1 addition and 1 deletion in 1 file</sub><br />
-
