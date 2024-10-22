@@ -4,7 +4,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-26 commits.
+27 commits.
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion<br />
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) merged on October 21, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/156501) over 1 week, 165 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaks in some image tests and explain hackyness of opted-out.<br />
+  <sub>[#154481](https://github.com/flutter/flutter/pull/154481) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154481) over 1 month, 70 additions and 65 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix unattached `MenuController` throws assertion error when calling `MenuController.close()`<br />
   <sub>[#156588](https://github.com/flutter/flutter/pull/156588) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156588) over 1 week, 9 additions and 2 deletions in 2 files</sub><br />
@@ -1211,11 +1215,15 @@
 
 ### October 19, 2024 to October 25, 2024
 
-3 commits.
+4 commits.
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating the supported platforms page<br />
   <sub>[#11271](https://github.com/flutter/website/pull/11271) merged on October 21, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/website/pull/11271) over 1 week, 26 additions and 26 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Christopher Fujino](https://github.com/christopherfujino), [Todd Volkert](https://github.com/tvolkert), [Chris Bracken](https://github.com/cbracken), [Zachary Anderson](https://github.com/zanderso), and [2 others](https://github.com/flutter/website/pull/11271)</sub><br />
+
+* **[tanguypouriel](https://github.com/tanguypouriel)** &mdash; Update page-route-animation.md<br />
+  <sub>[#11299](https://github.com/flutter/website/pull/11299) merged on October 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11299) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Vuong Nguyen Thien](https://github.com/nickf2k)** &mdash; fix invalid link flutter.dev<br />
   <sub>[#11295](https://github.com/flutter/website/pull/11295) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11295) over 19 hours, 1 addition and 1 deletion in 1 file</sub><br />
