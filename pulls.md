@@ -44,9 +44,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Hides added routes before top-most route finishes pushing<br />
   <sub>[#156104](https://github.com/flutter/flutter/pull/156104) opened on on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156104) 85 additions and 21 deletions in 2 files</sub><br />
 
-* **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix: showDatePicker should have a simple example in the docs<br />
-  <sub>[#156196](https://github.com/flutter/flutter/pull/156196) opened on on October 4, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/156196) 120 additions and 0 deletions in 3 files</sub><br />
-
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Allow add_format() in flutter gen-l10n DateTime format<br />
   <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
 
