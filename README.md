@@ -28,7 +28,7 @@
   <sub><details><summary>1 image...</summary>![Capture d’écran 2024-10-19 094417](https://github.com/user-attachments/assets/8278c72e-068e-4596-b1ce-7888161bfcc8)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField selects all content after the application is resumed<br />
-  <sub>[#156968](https://github.com/flutter/flutter/pull/156968) merged on October 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/156968) over 5 days, 50 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#156968](https://github.com/flutter/flutter/pull/156968) merged on October 22, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/156968) over 5 days, 50 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[João Victor Schramm](https://github.com/Pachebel)** &mdash; fix: CupertinoDatePicker.DateAndTime using showDayOfWeek<br />
@@ -511,7 +511,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-18 commits.
+19 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts<br />
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub><br />
@@ -546,6 +546,10 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Copy gen_snapshots using python's shutil.copy, avoid links<br />
   <sub>[#55830](https://github.com/flutter/engine/pull/55830) merged on October 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/55830) over 1 week, 34 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Slava Egorov](https://github.com/mraleph), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix macos xcprivacy manifest copy location<br />
+  <sub>[#56010](https://github.com/flutter/engine/pull/56010) merged on October 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56010) over 17 hours, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Typo in engine_binary_hashing.md<br />
   <sub>[#55866](https://github.com/flutter/engine/pull/55866) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55866) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
