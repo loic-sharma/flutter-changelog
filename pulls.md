@@ -68,12 +68,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove unused import from kt plugin template<br />
   <sub>[#157220](https://github.com/flutter/flutter/pull/157220) opened on on October 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157220) 0 additions and 2 deletions in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to ClipOval docs<br />
-  <sub>[#157227](https://github.com/flutter/flutter/pull/157227) opened on on October 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157227) 11 additions and 0 deletions in 1 file</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to Directionality docs<br />
-  <sub>[#157230](https://github.com/flutter/flutter/pull/157230) opened on on October 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157230) 16 additions and 0 deletions in 1 file</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides<br />
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) opened on on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157313) 98 additions and 0 deletions in 21 files</sub><br />
 
