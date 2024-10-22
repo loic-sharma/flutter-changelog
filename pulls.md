@@ -42,7 +42,7 @@
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Hides added routes before top-most route finishes pushing<br />
-  <sub>[#156104](https://github.com/flutter/flutter/pull/156104) opened on on October 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156104) 85 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#156104](https://github.com/flutter/flutter/pull/156104) opened on on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156104) 85 additions and 21 deletions in 2 files</sub><br />
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Allow add_format() in flutter gen-l10n DateTime format<br />
   <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
@@ -60,7 +60,7 @@
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) opened on on October 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/157151) 80 additions and 1 deletion in 2 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
-  <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
+  <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Made Cupertino dialog more like a native dialog in dark mode<br />
   <sub>[#157218](https://github.com/flutter/flutter/pull/157218) opened on on October 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157218) 3 additions and 3 deletions in 2 files</sub><br />
@@ -69,10 +69,10 @@
   <sub>[#157220](https://github.com/flutter/flutter/pull/157220) opened on on October 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157220) 0 additions and 2 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to ClipOval docs<br />
-  <sub>[#157227](https://github.com/flutter/flutter/pull/157227) opened on on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157227) 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#157227](https://github.com/flutter/flutter/pull/157227) opened on on October 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157227) 11 additions and 0 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to Directionality docs<br />
-  <sub>[#157230](https://github.com/flutter/flutter/pull/157230) opened on on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157230) 16 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#157230](https://github.com/flutter/flutter/pull/157230) opened on on October 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157230) 16 additions and 0 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides<br />
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) opened on on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157313) 98 additions and 0 deletions in 21 files</sub><br />
