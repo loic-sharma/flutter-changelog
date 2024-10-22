@@ -74,9 +74,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove unused import from kt plugin template<br />
   <sub>[#157220](https://github.com/flutter/flutter/pull/157220) opened on on October 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157220) 0 additions and 2 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigation_rail.extended_animation.0_test.dart`<br />
-  <sub>[#157222](https://github.com/flutter/flutter/pull/157222) opened on on October 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157222) 65 additions and 1 deletion in 2 files</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add example to ClipOval docs<br />
   <sub>[#157227](https://github.com/flutter/flutter/pull/157227) opened on on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157227) 11 additions and 0 deletions in 1 file</sub><br />
 
@@ -84,7 +81,7 @@
   <sub>[#157230](https://github.com/flutter/flutter/pull/157230) opened on on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157230) 16 additions and 0 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `selectable_region.0.dart`<br />
-  <sub>[#157258](https://github.com/flutter/flutter/pull/157258) opened on on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157258) 92 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#157258](https://github.com/flutter/flutter/pull/157258) opened on on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157258) 121 additions and 38 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_releases] Flutter beta 3.27.0-0.1.pre Framework Cherrypicks<br />
   <sub>[#157268](https://github.com/flutter/flutter/pull/157268) opened on on October 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157268) 2 additions and 1 deletion in 2 files</sub><br />

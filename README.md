@@ -4,7 +4,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-22 commits.
+23 commits.
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion<br />
   <sub>[#156110](https://github.com/flutter/flutter/pull/156110) merged on October 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/156110) over 2 weeks, 340 additions and 52 deletions in 6 files</sub><br />
@@ -74,6 +74,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete unused string in `gradle_errors.dart`<br />
   <sub>[#157187](https://github.com/flutter/flutter/pull/157187) merged on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157187) over 2 days, 0 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigation_rail.extended_animation.0_test.dart`<br />
+  <sub>[#157222](https://github.com/flutter/flutter/pull/157222) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157222) over 2 days, 65 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Match framework and engine android emulator versions<br />
   <sub>[#157291](https://github.com/flutter/flutter/pull/157291) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157291) over 3 hours, 2 additions and 2 deletions in 1 file</sub><br />
@@ -1187,11 +1191,15 @@
 
 ### October 19, 2024 to October 25, 2024
 
-2 commits.
+3 commits.
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating the supported platforms page<br />
   <sub>[#11271](https://github.com/flutter/website/pull/11271) merged on October 21, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/website/pull/11271) over 1 week, 26 additions and 26 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Christopher Fujino](https://github.com/christopherfujino), [Todd Volkert](https://github.com/tvolkert), [Chris Bracken](https://github.com/cbracken), [Zachary Anderson](https://github.com/zanderso), and [2 others](https://github.com/flutter/website/pull/11271)</sub><br />
+
+* **[Vuong Nguyen Thien](https://github.com/nickf2k)** &mdash; fix invalid link flutter.dev<br />
+  <sub>[#11295](https://github.com/flutter/website/pull/11295) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11295) over 19 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Changed "h/w arch" to "target arch" as per Yegor<br />
   <sub>[#11298](https://github.com/flutter/website/pull/11298) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11298) over 1 hour, 12 additions and 12 deletions in 2 files</sub><br />
