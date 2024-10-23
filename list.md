@@ -564,8 +564,8 @@
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/557d12ed-b169-4806-a2d1-88db9f24d8a1)![image](https://github.com/user-attachments/assets/ad547131-af0a-4247-91a2-deeb3ffda8e9)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] grow display list backing store by power of two.
-  <sub>[#56004](https://github.com/flutter/engine/pull/56004) merged on October 23, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/engine/pull/56004) over 1 day, 96 additions and 6 deletions in 3 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jim Graham](https://github.com/flar)</sub>
+  <sub>[#56004](https://github.com/flutter/engine/pull/56004) merged on October 23, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/56004) over 1 day, 96 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add missing MSAA stuff.
   <sub>[#55424](https://github.com/flutter/engine/pull/55424) merged on October 22, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/55424) over 3 weeks, 220 additions and 42 deletions in 8 files</sub>
@@ -1352,7 +1352,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-6 commits.
+7 commits.
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating the supported platforms page
   <sub>[#11271](https://github.com/flutter/website/pull/11271) merged on October 21, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/website/pull/11271) over 1 week, 26 additions and 26 deletions in 2 files</sub>
@@ -1364,6 +1364,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add go link to `dart:io` reimplementation design doc
   <sub>[#11305](https://github.com/flutter/website/pull/11305) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11305) over 14 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Add Dart code snippets
+  <sub>[#11310](https://github.com/flutter/website/pull/11310) merged on October 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11310) over 1 hour, 19 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[tanguypouriel](https://github.com/tanguypouriel)** &mdash; Update page-route-animation.md

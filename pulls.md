@@ -33,7 +33,7 @@
   <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/155203) 245 additions and 14 deletions in 5 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
-  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
+  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
 
 * **[Frank](https://github.com/Frank3K)** &mdash; Do not handle external requests by service worker (Flutter web)<br />
   <sub>[#155453](https://github.com/flutter/flutter/pull/155453) opened on on September 20, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155453) 7 additions and 0 deletions in 1 file</sub><br />
@@ -64,12 +64,6 @@
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove unused import from kt plugin template<br />
   <sub>[#157220](https://github.com/flutter/flutter/pull/157220) opened on on October 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157220) 0 additions and 2 deletions in 1 file</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `Theme` upgrade<br />
-  <sub>[#157253](https://github.com/flutter/flutter/pull/157253) opened on on October 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/157253) 657 additions and 163 deletions in 52 files</sub><br />
-
-* **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Feature: Add BuildContext to FormFieldValidator function (Resolves #59059)<br />
-  <sub>[#157366](https://github.com/flutter/flutter/pull/157366) opened on on October 22, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/157366) 297 additions and 255 deletions in 10 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `star_border.0.dart`<br />
   <sub>[#157401](https://github.com/flutter/flutter/pull/157401) opened on on October 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157401) 230 additions and 1 deletion in 2 files</sub><br />
