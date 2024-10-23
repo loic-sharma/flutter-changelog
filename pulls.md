@@ -12,7 +12,7 @@
   <sub>[#153368](https://github.com/flutter/flutter/pull/153368) opened on on August 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153368) 183 additions and 0 deletions in 2 files</sub><br />
 
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] When localizing a message, prefer placeholder definitions defined by the current locale rather than the template locale<br />
-  <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/153459) 453 additions and 43 deletions in 4 files</sub><br />
+  <sub>[#153459](https://github.com/flutter/flutter/pull/153459) opened on on August 14, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/153459) 453 additions and 43 deletions in 4 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Simplify tests of verify_binaries_codesigned script<br />
   <sub>[#154034](https://github.com/flutter/flutter/pull/154034) opened on on August 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154034) 548 additions and 545 deletions in 4 files</sub><br />
@@ -21,7 +21,7 @@
   <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Restore analyze_snippet_code_test tests.<br />
-  <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/154834) 7 additions and 13 deletions in 1 file</sub><br />
+  <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 13 deletions in 1 file</sub><br />
 
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/154941) 6 additions and 1 deletion in 1 file</sub><br />
