@@ -77,3 +77,6 @@
 * **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Feature: Add BuildContext to FormFieldValidator function (Resolves #59059)<br />
   <sub>[#157366](https://github.com/flutter/flutter/pull/157366) opened on on October 22, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/157366) 297 additions and 255 deletions in 10 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland "Fix TextField selects all content after the application is resumed"<br />
+  <sub>[#157399](https://github.com/flutter/flutter/pull/157399) opened on on October 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157399) 50 additions and 1 deletion in 2 files</sub><br />
+
