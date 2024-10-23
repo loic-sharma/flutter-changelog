@@ -1283,6 +1283,10 @@
   <sub>[#7755](https://github.com/flutter/packages/pull/7755) merged on October 9, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/packages/pull/7755) over 1 week, 628 additions and 103 deletions in 14 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+* **[Jason Edwards](https://github.com/jtanium)** &mdash; [webview_flutter_wkwebview] Support NTLM for authentication<br />
+  <sub>[#7670](https://github.com/flutter/packages/pull/7670) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7670) over 2 weeks, 49 additions and 2 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove additional (harmless but annoying) native stack traces.<br />
   <sub>[#7837](https://github.com/flutter/packages/pull/7837) merged on October 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7837) over 1 hour, 27 additions and 3 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
@@ -1338,10 +1342,6 @@
 * **[Ellet](https://github.com/EchoEllet)** &mdash; [camera_android_camerax] Remove duplicated 'report' in README.md<br />
   <sub>[#7708](https://github.com/flutter/packages/pull/7708) merged on October 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7708) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Jason Edwards](https://github.com/jtanium)** &mdash; [webview_flutter_wkwebview] Support NTLM for authentication<br />
-  <sub>[#7670](https://github.com/flutter/packages/pull/7670) merged on October 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7670) over 2 weeks, 49 additions and 2 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Dispose the `ExoPlayer` before `SurfaceProducer`.<br />
   <sub>[#7824](https://github.com/flutter/packages/pull/7824) merged on October 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7824) over 2 hours, 16 additions and 5 deletions in 4 files</sub><br />
