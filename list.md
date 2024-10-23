@@ -1308,11 +1308,15 @@
 
 ### October 19, 2024 to October 25, 2024
 
-5 commits.
+6 commits.
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating the supported platforms page
   <sub>[#11271](https://github.com/flutter/website/pull/11271) merged on October 21, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/website/pull/11271) over 1 week, 26 additions and 26 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Christopher Fujino](https://github.com/christopherfujino), [Todd Volkert](https://github.com/tvolkert), [Chris Bracken](https://github.com/cbracken), [Zachary Anderson](https://github.com/zanderso), and [2 others](https://github.com/flutter/website/pull/11271)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Sidenav upkeep
+  <sub>[#11302](https://github.com/flutter/website/pull/11302) merged on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11302) over 2 hours, 63 additions and 51 deletions in 7 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add go link to `dart:io` reimplementation design doc
   <sub>[#11305](https://github.com/flutter/website/pull/11305) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11305) over 14 minutes, 1 addition and 0 deletions in 1 file</sub>
