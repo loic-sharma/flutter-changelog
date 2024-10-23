@@ -88,7 +88,7 @@
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test alternate correct macOS framework xcprivacy manifest location
-  <sub>[#157318](https://github.com/flutter/flutter/pull/157318) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157318) over 16 hours, 13 additions and 1 deletion in 1 file</sub>
+  <sub>[#157318](https://github.com/flutter/flutter/pull/157318) merged on October 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157318) over 16 hours, 13 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Add dart command line tool for calculating engine hash
@@ -612,7 +612,7 @@
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix macos xcprivacy manifest copy location
-  <sub>[#56010](https://github.com/flutter/engine/pull/56010) merged on October 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56010) over 17 hours, 2 additions and 1 deletion in 1 file</sub>
+  <sub>[#56010](https://github.com/flutter/engine/pull/56010) merged on October 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56010) over 17 hours, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Typo in engine_binary_hashing.md
