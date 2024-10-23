@@ -80,3 +80,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland "Fix TextField selects all content after the application is resumed"<br />
   <sub>[#157399](https://github.com/flutter/flutter/pull/157399) opened on on October 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157399) 50 additions and 1 deletion in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `star_border.0.dart`<br />
+  <sub>[#157401](https://github.com/flutter/flutter/pull/157401) opened on on October 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157401) 132 additions and 1 deletion in 2 files</sub><br />
+
