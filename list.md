@@ -564,7 +564,7 @@
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/557d12ed-b169-4806-a2d1-88db9f24d8a1)![image](https://github.com/user-attachments/assets/ad547131-af0a-4247-91a2-deeb3ffda8e9)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] grow display list backing store by power of two.
-  <sub>[#56004](https://github.com/flutter/engine/pull/56004) merged on October 23, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/engine/pull/56004) over 1 day, 96 additions and 6 deletions in 3 files</sub>
+  <sub>[#56004](https://github.com/flutter/engine/pull/56004) merged on October 23, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/56004) over 1 day, 96 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add missing MSAA stuff.
