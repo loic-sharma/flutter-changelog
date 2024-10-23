@@ -559,7 +559,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-33 commits.
+36 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -574,6 +574,14 @@
   <sub>[#55983](https://github.com/flutter/engine/pull/55983) merged on October 22, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/55983) over 2 days, 391 additions and 151 deletions in 6 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/557d12ed-b169-4806-a2d1-88db9f24d8a1)![image](https://github.com/user-attachments/assets/ad547131-af0a-4247-91a2-deeb3ffda8e9)</details></sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Delete v1 android engine embedding
+  <sub>[#52022](https://github.com/flutter/engine/pull/52022) merged on October 23, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/engine/pull/52022) over 6 months, 8 additions and 3584 deletions in 23 files</sub>
+  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view]force reset forwarding recognizer state when its stuck
+  <sub>[#55958](https://github.com/flutter/engine/pull/55958) merged on October 23, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55958) over 5 days, 141 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] grow display list backing store by power of two.
   <sub>[#56004](https://github.com/flutter/engine/pull/56004) merged on October 23, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/engine/pull/56004) over 1 day, 96 additions and 6 deletions in 3 files</sub>
@@ -591,13 +599,13 @@
   <sub>[#55970](https://github.com/flutter/engine/pull/55970) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55970) over 2 days, 182 additions and 1 deletion in 6 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] refactor clip rendering.
-  <sub>[#56030](https://github.com/flutter/engine/pull/56030) merged on October 22, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/56030) over 3 hours, 388 additions and 717 deletions in 19 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Document the entire API.
   <sub>[#56003](https://github.com/flutter/engine/pull/56003) merged on October 22, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/56003) over 19 hours, 1405 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] refactor clip rendering.
+  <sub>[#56030](https://github.com/flutter/engine/pull/56030) merged on October 22, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/engine/pull/56030) over 3 hours, 388 additions and 717 deletions in 19 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Request another frame in ImageReaderSurfaceProducer.dequeueImage if more images are pending in the queue
   <sub>[#55944](https://github.com/flutter/engine/pull/55944) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55944) over 3 days, 61 additions and 1 deletion in 2 files</sub>
@@ -610,10 +618,6 @@
 * **[K. P. Krasiński-Sroka](https://github.com/kpsroka)** &mdash; [canvaskit] Makes access to CkSurface null-safer
   <sub>[#54895](https://github.com/flutter/engine/pull/54895) merged on October 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54895) over 1 month, 61 additions and 22 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] optimize clip rects by checking if integral coverage is sufficient.
-  <sub>[#56041](https://github.com/flutter/engine/pull/56041) merged on October 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56041) over 18 hours, 156 additions and 47 deletions in 6 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; Update the engine deps to track new SoT git locations for several packages
   <sub>[#56028](https://github.com/flutter/engine/pull/56028) merged on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56028) over 1 day, 32 additions and 64 deletions in 7 files</sub>
@@ -643,21 +647,21 @@
   <sub>[#55998](https://github.com/flutter/engine/pull/55998) merged on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55998) over 2 hours, 3 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; re-land "update the repo references for package:file (#55906)"
-  <sub>[#55935](https://github.com/flutter/engine/pull/55935) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55935) over 3 days, 2 additions and 6 deletions in 3 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Allow running the YAPF formatter using Python version 3.11
+  <sub>[#56062](https://github.com/flutter/engine/pull/56062) merged on October 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56062) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] optimize clip rects by checking if integral coverage is sufficient.
+  <sub>[#56041](https://github.com/flutter/engine/pull/56041) merged on October 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56041) over 18 hours, 156 additions and 47 deletions in 6 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for Linux mac_clangd
   <sub>[#55988](https://github.com/flutter/engine/pull/55988) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55988) over 2 hours, 2 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
-* **[Siva](https://github.com/a-siva)** &mdash; Switch the web compilation step to use an AOT snapshot
-  <sub>[#56040](https://github.com/flutter/engine/pull/56040) merged on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56040) over 20 hours, 4 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move get_keyboard_state from FlKeyboardViewDelegate to FlKeyboardManager.
-  <sub>[#56021](https://github.com/flutter/engine/pull/56021) merged on October 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56021) over 23 hours, 67 additions and 90 deletions in 11 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; re-land "update the repo references for package:file (#55906)"
+  <sub>[#55935](https://github.com/flutter/engine/pull/55935) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55935) over 3 days, 2 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move send_key_event from FlKeyboardViewDelegate to FlKeyboardManager.
   <sub>[#56020](https://github.com/flutter/engine/pull/56020) merged on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56020) over 1 day, 113 additions and 127 deletions in 6 files</sub>
@@ -674,6 +678,14 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix conditional when checking DeviceBuffer bounds.
   <sub>[#56017](https://github.com/flutter/engine/pull/56017) merged on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56017) over 4 hours, 46 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[Siva](https://github.com/a-siva)** &mdash; Switch the web compilation step to use an AOT snapshot
+  <sub>[#56040](https://github.com/flutter/engine/pull/56040) merged on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56040) over 20 hours, 4 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move get_keyboard_state from FlKeyboardViewDelegate to FlKeyboardManager.
+  <sub>[#56021](https://github.com/flutter/engine/pull/56021) merged on October 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56021) over 23 hours, 67 additions and 90 deletions in 11 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: one descriptor pool per frame.
   <sub>[#55960](https://github.com/flutter/engine/pull/55960) merged on October 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55960) over 2 days, 73 additions and 18 deletions in 10 files</sub>
