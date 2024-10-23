@@ -547,7 +547,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-29 commits.
+30 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -662,6 +662,10 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from a51df90298ca to c8659684d34d (4 revisions)
   <sub>[#55984](https://github.com/flutter/engine/pull/55984) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55984) over 2 hours, 5 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Reland copy gen snapshot
+  <sub>[#56061](https://github.com/flutter/engine/pull/56061) merged on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56061) over 56 minutes, 44 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Revert "[web:a11y] make header a proper <header> (#55747)"
   <sub>[#55993](https://github.com/flutter/engine/pull/55993) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55993) over 45 minutes, 20 additions and 77 deletions in 6 files</sub>
