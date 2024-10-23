@@ -75,7 +75,7 @@
   <sub>[#157366](https://github.com/flutter/flutter/pull/157366) opened on on October 22, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/157366) 297 additions and 255 deletions in 10 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `star_border.0.dart`<br />
-  <sub>[#157401](https://github.com/flutter/flutter/pull/157401) opened on on October 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157401) 231 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157401](https://github.com/flutter/flutter/pull/157401) opened on on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157401) 231 additions and 1 deletion in 2 files</sub><br />
 
 * **[Pranav](https://github.com/pranavo72bex)** &mdash; fix: time selector separator in timepicker is not centered vertically<br />
   <sub>[#157402](https://github.com/flutter/flutter/pull/157402) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157402) 7 additions and 6 deletions in 1 file</sub><br />
