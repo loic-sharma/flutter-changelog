@@ -71,9 +71,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides<br />
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) opened on on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157313) 98 additions and 0 deletions in 21 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `platform_menu_bar.0.dart`<br />
-  <sub>[#157328](https://github.com/flutter/flutter/pull/157328) opened on on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157328) 124 additions and 1 deletion in 2 files</sub><br />
-
 * **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Feature: Add BuildContext to FormFieldValidator function (Resolves #59059)<br />
   <sub>[#157366](https://github.com/flutter/flutter/pull/157366) opened on on October 22, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/157366) 297 additions and 255 deletions in 10 files</sub><br />
 
