@@ -30,7 +30,7 @@
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Fix `GlowingOverscrollIndicator` examples<br />
-  <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/155203) 245 additions and 14 deletions in 5 files</sub><br />
+  <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/155203) 245 additions and 14 deletions in 5 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/155209) 13 additions and 10 deletions in 1 file</sub><br />
@@ -82,4 +82,7 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `star_border.0.dart`<br />
   <sub>[#157401](https://github.com/flutter/flutter/pull/157401) opened on on October 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157401) 132 additions and 1 deletion in 2 files</sub><br />
+
+* **[Pranav](https://github.com/pranavo72bex)** &mdash; fix: time selector separator in timepicker is not centered vertically<br />
+  <sub>[#157402](https://github.com/flutter/flutter/pull/157402) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157402) 7 additions and 6 deletions in 1 file</sub><br />
 
