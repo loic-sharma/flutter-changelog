@@ -71,6 +71,3 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix Scaffold extend body<br />
   <sub>[#157441](https://github.com/flutter/flutter/pull/157441) opened on on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157441) 31 additions and 5 deletions in 2 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; docs: Rework "Making changes to the `flutter` tool" to include `flutter-dev`<br />
-  <sub>[#157480](https://github.com/flutter/flutter/pull/157480) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157480) 7 additions and 5 deletions in 1 file</sub><br />
-
