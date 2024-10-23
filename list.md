@@ -547,7 +547,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-30 commits.
+31 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -598,6 +598,10 @@
 * **[K. P. Krasiński-Sroka](https://github.com/kpsroka)** &mdash; [canvaskit] Makes access to CkSurface null-safer
   <sub>[#54895](https://github.com/flutter/engine/pull/54895) merged on October 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54895) over 1 month, 61 additions and 22 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; Update the engine deps to track new SoT git locations for several packages
+  <sub>[#56028](https://github.com/flutter/engine/pull/56028) merged on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56028) over 1 day, 32 additions and 64 deletions in 7 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes crash in testTrackpadGesturesAreSentToFramework
   <sub>[#55990](https://github.com/flutter/engine/pull/55990) merged on October 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55990) over 2 days, 12 additions and 9 deletions in 1 file</sub>

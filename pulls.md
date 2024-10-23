@@ -53,9 +53,6 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
-* **[Bobek Bobekos](https://github.com/bobekos)** &mdash; Add collapsed title padding for flexibale space bar 69017<br />
-  <sub>[#157088](https://github.com/flutter/flutter/pull/157088) opened on on October 17, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157088) 111 additions and 12 deletions in 2 files</sub><br />
-
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker<br />
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) opened on on October 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/157151) 80 additions and 1 deletion in 2 files</sub><br />
 
@@ -71,17 +68,11 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `Theme` upgrade<br />
   <sub>[#157253](https://github.com/flutter/flutter/pull/157253) opened on on October 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/157253) 657 additions and 163 deletions in 52 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides<br />
-  <sub>[#157313](https://github.com/flutter/flutter/pull/157313) opened on on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157313) 98 additions and 0 deletions in 21 files</sub><br />
-
 * **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Feature: Add BuildContext to FormFieldValidator function (Resolves #59059)<br />
   <sub>[#157366](https://github.com/flutter/flutter/pull/157366) opened on on October 22, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/157366) 297 additions and 255 deletions in 10 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `star_border.0.dart`<br />
   <sub>[#157401](https://github.com/flutter/flutter/pull/157401) opened on on October 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157401) 230 additions and 1 deletion in 2 files</sub><br />
-
-* **[Pranav](https://github.com/pranavo72bex)** &mdash; fix: time selector separator in timepicker is not centered vertically<br />
-  <sub>[#157402](https://github.com/flutter/flutter/pull/157402) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157402) 7 additions and 6 deletions in 1 file</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fixes typos & spelling error in changelog.md file<br />
   <sub>[#157438](https://github.com/flutter/flutter/pull/157438) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157438) 1 addition and 1 deletion in 1 file</sub><br />
