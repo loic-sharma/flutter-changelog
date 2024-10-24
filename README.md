@@ -100,7 +100,7 @@
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Added a warning if `flutter.groovy` uses a `.flutter-plugins` file.<br />
-  <sub>[#157388](https://github.com/flutter/flutter/pull/157388) merged on October 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157388) over 1 day, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#157388](https://github.com/flutter/flutter/pull/157388) merged on October 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/157388) over 1 day, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Upgrade leak tracker.<br />

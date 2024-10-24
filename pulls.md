@@ -56,9 +56,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
 
-* **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Made Cupertino dialog more like a native dialog in dark mode<br />
-  <sub>[#157218](https://github.com/flutter/flutter/pull/157218) opened on on October 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157218) 4 additions and 4 deletions in 3 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove unused import from kt plugin template<br />
   <sub>[#157220](https://github.com/flutter/flutter/pull/157220) opened on on October 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157220) 0 additions and 2 deletions in 1 file</sub><br />
 
