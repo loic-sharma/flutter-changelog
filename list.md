@@ -587,7 +587,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-40 commits.
+41 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -643,13 +643,13 @@
   <sub>[#56003](https://github.com/flutter/engine/pull/56003) merged on October 22, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/56003) over 19 hours, 1405 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow appending to the transformation stack.
-  <sub>[#56072](https://github.com/flutter/engine/pull/56072) merged on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56072) over 1 hour, 34 additions and 0 deletions in 5 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Copy gen_snapshots using python's shutil.copy, avoid links
   <sub>[#55830](https://github.com/flutter/engine/pull/55830) merged on October 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/55830) over 1 week, 34 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Slava Egorov](https://github.com/mraleph), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow appending to the transformation stack.
+  <sub>[#56072](https://github.com/flutter/engine/pull/56072) merged on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56072) over 1 hour, 34 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Bare-bones iOS FKA implementation
   <sub>[#55964](https://github.com/flutter/engine/pull/55964) merged on October 24, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/55964) over 5 days, 186 additions and 0 deletions in 5 files</sub>
@@ -658,6 +658,10 @@
 * **[K. P. Krasiński-Sroka](https://github.com/kpsroka)** &mdash; [canvaskit] Makes access to CkSurface null-safer
   <sub>[#54895](https://github.com/flutter/engine/pull/54895) merged on October 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54895) over 1 month, 61 additions and 22 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove 'Linux mac_clangd' in favor of 'Mac clangd'
+  <sub>[#56082](https://github.com/flutter/engine/pull/56082) merged on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56082) over 11 hours, 0 additions and 67 deletions in 2 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added thread name to pipeline validation error.
   <sub>[#56074](https://github.com/flutter/engine/pull/56074) merged on October 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56074) over 15 hours, 33 additions and 23 deletions in 1 file</sub>
@@ -687,17 +691,9 @@
   <sub>[#56037](https://github.com/flutter/engine/pull/56037) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56037) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; update the SoT location for package:http_parser
-  <sub>[#55998](https://github.com/flutter/engine/pull/55998) merged on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55998) over 2 hours, 3 additions and 6 deletions in 2 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix macos xcprivacy manifest copy location
   <sub>[#56010](https://github.com/flutter/engine/pull/56010) merged on October 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56010) over 17 hours, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Typo in engine_binary_hashing.md
-  <sub>[#55866](https://github.com/flutter/engine/pull/55866) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55866) over 1 week, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for Linux mac_clangd
   <sub>[#55988](https://github.com/flutter/engine/pull/55988) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55988) over 2 hours, 2 additions and 0 deletions in 2 files</sub>
@@ -707,9 +703,13 @@
   <sub>[#55935](https://github.com/flutter/engine/pull/55935) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55935) over 3 days, 2 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix conditional when checking DeviceBuffer bounds.
-  <sub>[#56017](https://github.com/flutter/engine/pull/56017) merged on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56017) over 4 hours, 46 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; update the SoT location for package:http_parser
+  <sub>[#55998](https://github.com/flutter/engine/pull/55998) merged on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55998) over 2 hours, 3 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Typo in engine_binary_hashing.md
+  <sub>[#55866](https://github.com/flutter/engine/pull/55866) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55866) over 1 week, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Switch the web compilation step to use an AOT snapshot
   <sub>[#56040](https://github.com/flutter/engine/pull/56040) merged on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56040) over 20 hours, 4 additions and 3 deletions in 1 file</sub>
@@ -730,6 +730,10 @@
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Fix typo in testing script
   <sub>[#56029](https://github.com/flutter/engine/pull/56029) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56029) over 2 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker), [Zachary Anderson](https://github.com/zanderso), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix conditional when checking DeviceBuffer bounds.
+  <sub>[#56017](https://github.com/flutter/engine/pull/56017) merged on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56017) over 4 hours, 46 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: one descriptor pool per frame.
   <sub>[#55960](https://github.com/flutter/engine/pull/55960) merged on October 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/55960) over 2 days, 73 additions and 18 deletions in 10 files</sub>
