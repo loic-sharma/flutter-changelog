@@ -75,7 +75,7 @@
   <sub>[#157492](https://github.com/flutter/flutter/pull/157492) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157492) 58 additions and 3 deletions in 3 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix DropdownMenu menu vertical position<br />
-  <sub>[#157496](https://github.com/flutter/flutter/pull/157496) opened on on October 24, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/157496) 345 additions and 256 deletions in 3 files</sub><br />
+  <sub>[#157496](https://github.com/flutter/flutter/pull/157496) opened on on October 24, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/157496) 345 additions and 256 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `build_owner.0.dart`<br />
   <sub>[#157499](https://github.com/flutter/flutter/pull/157499) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157499) 50 additions and 8 deletions in 3 files</sub><br />
