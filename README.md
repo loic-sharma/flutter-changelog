@@ -596,7 +596,7 @@
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [display_list] grow display list backing store by power of two.<br />
-  <sub>[#56004](https://github.com/flutter/engine/pull/56004) merged on October 23, 2024 &mdash; **Small:** [28 comments](https://github.com/flutter/engine/pull/56004) over 1 day, 96 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#56004](https://github.com/flutter/engine/pull/56004) merged on October 23, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/engine/pull/56004) over 1 day, 96 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add missing MSAA stuff.<br />
