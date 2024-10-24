@@ -1442,7 +1442,7 @@
   <sub>[#11310](https://github.com/flutter/website/pull/11310) merged on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11310) over 1 hour, 19 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
-* **[tanguypouriel](https://github.com/tanguypouriel)** &mdash; Update page-route-animation.md
+* **[Tanguy Pouriel](https://github.com/tanguypouriel)** &mdash; Update page-route-animation.md
   <sub>[#11299](https://github.com/flutter/website/pull/11299) merged on October 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11299) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
