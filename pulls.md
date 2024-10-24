@@ -68,6 +68,9 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix Scaffold extend body<br />
   <sub>[#157441](https://github.com/flutter/flutter/pull/157441) opened on on October 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157441) 37 additions and 6 deletions in 2 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `buildDir` inside `flutter.groovy`<br />
+  <sub>[#157468](https://github.com/flutter/flutter/pull/157468) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157468) 2 additions and 2 deletions in 1 file</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside `flutter.groovy`<br />
   <sub>[#157471](https://github.com/flutter/flutter/pull/157471) opened on on October 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157471) 30 additions and 52 deletions in 1 file</sub><br />
 
