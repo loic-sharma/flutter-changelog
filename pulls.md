@@ -57,7 +57,7 @@
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Made Cupertino dialog more like a native dialog in dark mode<br />
-  <sub>[#157218](https://github.com/flutter/flutter/pull/157218) opened on on October 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157218) 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>[#157218](https://github.com/flutter/flutter/pull/157218) opened on on October 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157218) 4 additions and 4 deletions in 3 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove unused import from kt plugin template<br />
   <sub>[#157220](https://github.com/flutter/flutter/pull/157220) opened on on October 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157220) 0 additions and 2 deletions in 1 file</sub><br />
@@ -75,7 +75,7 @@
   <sub>[#157492](https://github.com/flutter/flutter/pull/157492) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157492) 58 additions and 3 deletions in 3 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; fix DropdownMenu menu vertical position<br />
-  <sub>[#157496](https://github.com/flutter/flutter/pull/157496) opened on on October 24, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/157496) 347 additions and 258 deletions in 5 files</sub><br />
+  <sub>[#157496](https://github.com/flutter/flutter/pull/157496) opened on on October 24, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/157496) 347 additions and 258 deletions in 5 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `build_owner.0.dart`<br />
   <sub>[#157499](https://github.com/flutter/flutter/pull/157499) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157499) 50 additions and 8 deletions in 3 files</sub><br />
