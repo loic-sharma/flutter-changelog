@@ -119,3 +119,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove unsafe_html lint rule<br />
   <sub>[#157531](https://github.com/flutter/flutter/pull/157531) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157531) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Nestor Sebastian Garzon Contreras](https://github.com/nestorsgarzonc)** &mdash; Added back_button_adaptive<br />
+  <sub>[#157540](https://github.com/flutter/flutter/pull/157540) opened on on October 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157540) 22 additions and 17 deletions in 2 files</sub><br />
+
