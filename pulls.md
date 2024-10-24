@@ -50,6 +50,9 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade tests to AGP 8.7/Gradle 8.10.2/Kotlin 1.8.10<br />
+  <sub>[#157032](https://github.com/flutter/flutter/pull/157032) opened on on October 16, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/157032) 7298 additions and 4275 deletions in 148 files</sub><br />
+
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker<br />
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) opened on on October 18, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/157151) 80 additions and 1 deletion in 2 files</sub><br />
 
