@@ -1476,11 +1476,15 @@
 
 ### October 19, 2024 to October 25, 2024
 
-8 commits.
+11 commits.
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating the supported platforms page<br />
   <sub>[#11271](https://github.com/flutter/website/pull/11271) merged on October 21, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/website/pull/11271) over 1 week, 26 additions and 26 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Christopher Fujino](https://github.com/christopherfujino), [Todd Volkert](https://github.com/tvolkert), [Chris Bracken](https://github.com/cbracken), [Zachary Anderson](https://github.com/zanderso), and [2 others](https://github.com/flutter/website/pull/11271)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix a few typos across the site<br />
+  <sub>[#11293](https://github.com/flutter/website/pull/11293) merged on October 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11293) over 3 days, 9 additions and 9 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Announce deprecation of `.flutter-plugins`.<br />
   <sub>[#11303](https://github.com/flutter/website/pull/11303) merged on October 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11303) over 1 day, 154 additions and 0 deletions in 3 files</sub><br />
@@ -1492,6 +1496,14 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add go link to `dart:io` reimplementation design doc<br />
   <sub>[#11305](https://github.com/flutter/website/pull/11305) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11305) over 14 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Andrea Bizzotto](https://github.com/bizz84)** &mdash; Add Flutter in Production course by Andrea Bizzotto<br />
+  <sub>[#11308](https://github.com/flutter/website/pull/11308) merged on October 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11308) over 1 day, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Michał Sawicz](https://github.com/Saviq)** &mdash; Add go link for multi-window-api<br />
+  <sub>[#11315](https://github.com/flutter/website/pull/11315) merged on October 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11315) over 5 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Khanh Nguyen](https://github.com/khanhnwin)** &mdash; Add Dart code snippets<br />
