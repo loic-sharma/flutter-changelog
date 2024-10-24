@@ -69,5 +69,5 @@
   <sub>[#157441](https://github.com/flutter/flutter/pull/157441) opened on on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157441) 34 additions and 6 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator.restorable_push_and_remove_until.0.dart`<br />
-  <sub>[#157487](https://github.com/flutter/flutter/pull/157487) opened on on October 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157487) 58 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#157487](https://github.com/flutter/flutter/pull/157487) opened on on October 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157487) 58 additions and 3 deletions in 3 files</sub><br />
 
