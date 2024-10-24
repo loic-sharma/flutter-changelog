@@ -77,3 +77,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `build_owner.0.dart`<br />
   <sub>[#157499](https://github.com/flutter/flutter/pull/157499) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157499) 50 additions and 8 deletions in 3 files</sub><br />
 
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
+  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
+
