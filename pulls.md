@@ -66,7 +66,10 @@
   <sub>[#157438](https://github.com/flutter/flutter/pull/157438) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157438) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix Scaffold extend body<br />
-  <sub>[#157441](https://github.com/flutter/flutter/pull/157441) opened on on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157441) 36 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#157441](https://github.com/flutter/flutter/pull/157441) opened on on October 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157441) 37 additions and 6 deletions in 2 files</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside `flutter.groovy`<br />
+  <sub>[#157471](https://github.com/flutter/flutter/pull/157471) opened on on October 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157471) 30 additions and 52 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator.restorable_push_and_remove_until.0.dart`<br />
   <sub>[#157487](https://github.com/flutter/flutter/pull/157487) opened on on October 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157487) 58 additions and 3 deletions in 3 files</sub><br />
@@ -109,4 +112,7 @@
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; example: material 3 multi-window demo<br />
   <sub>[#157525](https://github.com/flutter/flutter/pull/157525) opened on on October 24, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157525) 9437 additions and 113 deletions in 121 files</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove unsafe_html lint rule<br />
+  <sub>[#157531](https://github.com/flutter/flutter/pull/157531) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157531) 0 additions and 1 deletion in 1 file</sub><br />
 
