@@ -624,7 +624,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-42 commits.
+43 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -688,13 +688,17 @@
   <sub>[#55830](https://github.com/flutter/engine/pull/55830) merged on October 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/55830) over 1 week, 34 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Slava Egorov](https://github.com/mraleph), [Chris Bracken](https://github.com/cbracken)</sub>
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Bare-bones iOS FKA implementation
+  <sub>[#55964](https://github.com/flutter/engine/pull/55964) merged on October 24, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/55964) over 5 days, 186 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
 * **[K. P. Krasiński-Sroka](https://github.com/kpsroka)** &mdash; [canvaskit] Makes access to CkSurface null-safer
   <sub>[#54895](https://github.com/flutter/engine/pull/54895) merged on October 22, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/54895) over 1 month, 61 additions and 22 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Bare-bones iOS FKA implementation
-  <sub>[#55964](https://github.com/flutter/engine/pull/55964) merged on October 24, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/engine/pull/55964) over 5 days, 186 additions and 0 deletions in 5 files</sub>
-  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] update deps and pubspecs for the new locations of package:matcher, package:collection, and package:boolean_selector
+  <sub>[#56107](https://github.com/flutter/engine/pull/56107) merged on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56107) over 1 hour, 6 additions and 19 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] make failing to acquire a java image non-fatal.
   <sub>[#56105](https://github.com/flutter/engine/pull/56105) merged on October 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56105) over 39 minutes, 5 additions and 2 deletions in 1 file</sub>
@@ -724,25 +728,13 @@
   <sub>[#55990](https://github.com/flutter/engine/pull/55990) merged on October 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55990) over 2 days, 12 additions and 9 deletions in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [dart:ui] Improve Clip's docs
-  <sub>[#55978](https://github.com/flutter/engine/pull/55978) merged on October 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55978) over 3 days, 31 additions and 24 deletions in 1 file</sub>
-  <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Jim Graham](https://github.com/flar)</sub>
-
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update the SoT location for package:http_parser
   <sub>[#55998](https://github.com/flutter/engine/pull/55998) merged on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55998) over 2 hours, 3 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; re-land "update the repo references for package:file (#55906)"
-  <sub>[#55935](https://github.com/flutter/engine/pull/55935) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55935) over 3 days, 2 additions and 6 deletions in 3 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] flush thread local resources during toImage/toImageSync.
-  <sub>[#56037](https://github.com/flutter/engine/pull/56037) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56037) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Typo in engine_binary_hashing.md
-  <sub>[#55866](https://github.com/flutter/engine/pull/55866) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55866) over 1 week, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [dart:ui] Improve Clip's docs
+  <sub>[#55978](https://github.com/flutter/engine/pull/55978) merged on October 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55978) over 3 days, 31 additions and 24 deletions in 1 file</sub>
+  <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for Linux mac_clangd
   <sub>[#55988](https://github.com/flutter/engine/pull/55988) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55988) over 2 hours, 2 additions and 0 deletions in 2 files</sub>
@@ -751,6 +743,18 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix macos xcprivacy manifest copy location
   <sub>[#56010](https://github.com/flutter/engine/pull/56010) merged on October 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56010) over 17 hours, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; re-land "update the repo references for package:file (#55906)"
+  <sub>[#55935](https://github.com/flutter/engine/pull/55935) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55935) over 3 days, 2 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Typo in engine_binary_hashing.md
+  <sub>[#55866](https://github.com/flutter/engine/pull/55866) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55866) over 1 week, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] flush thread local resources during toImage/toImageSync.
+  <sub>[#56037](https://github.com/flutter/engine/pull/56037) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56037) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Switch the web compilation step to use an AOT snapshot
   <sub>[#56040](https://github.com/flutter/engine/pull/56040) merged on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56040) over 20 hours, 4 additions and 3 deletions in 1 file</sub>
@@ -1485,7 +1489,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-13 commits.
+15 commits.
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating the supported platforms page
   <sub>[#11271](https://github.com/flutter/website/pull/11271) merged on October 21, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/website/pull/11271) over 1 week, 26 additions and 26 deletions in 2 files</sub>
@@ -1509,6 +1513,14 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add go link to `dart:io` reimplementation design doc
   <sub>[#11305](https://github.com/flutter/website/pull/11305) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11305) over 14 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Emmanuel Ferdman](https://github.com/emmanuel-ferdman)** &mdash; Update async weather reference
+  <sub>[#11307](https://github.com/flutter/website/pull/11307) merged on October 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11307) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Tadas Petra](https://github.com/tadaspetra)** &mdash; Update courses.md
+  <sub>[#11297](https://github.com/flutter/website/pull/11297) merged on October 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11297) over 3 days, 2 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Andrea Bizzotto](https://github.com/bizz84)** &mdash; Updated link to article about Firebase multiple flavors setup
