@@ -87,7 +87,7 @@
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unused `PubDependenciesProjectValidator`.<br />
-  <sub>[#157516](https://github.com/flutter/flutter/pull/157516) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157516) 0 additions and 180 deletions in 3 files</sub><br />
+  <sub>[#157516](https://github.com/flutter/flutter/pull/157516) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157516) 0 additions and 187 deletions in 3 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement popup windows<br />
   <sub>[#157517](https://github.com/flutter/flutter/pull/157517) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157517) 3097 additions and 2 deletions in 27 files</sub><br />
