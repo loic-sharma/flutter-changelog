@@ -39,7 +39,7 @@
   <sub>[#156104](https://github.com/flutter/flutter/pull/156104) opened on on October 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156104) 85 additions and 21 deletions in 2 files</sub><br />
 
 * **[Albert Wolszon](https://github.com/Albert221)** &mdash; Allow add_format() in flutter gen-l10n DateTime format<br />
-  <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
+  <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/156297) 79 additions and 46 deletions in 6 files</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
   <sub>[#156313](https://github.com/flutter/flutter/pull/156313) opened on on October 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156313) 2 additions and 0 deletions in 1 file</sub><br />
@@ -109,4 +109,7 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove unsafe_html lint rule<br />
   <sub>[#157531](https://github.com/flutter/flutter/pull/157531) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157531) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Tighten up `throwToolExit`, explain when to use it.<br />
+  <sub>[#157561](https://github.com/flutter/flutter/pull/157561) opened on on October 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157561) 47 additions and 24 deletions in 8 files</sub><br />
 
