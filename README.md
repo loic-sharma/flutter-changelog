@@ -81,17 +81,21 @@
   <sub>[#157394](https://github.com/flutter/flutter/pull/157394) merged on October 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157394) over 1 day, 19 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStateInputBorder`<br />
-  <sub>[#157190](https://github.com/flutter/flutter/pull/157190) merged on October 22, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/157190) over 4 days, 349 additions and 0 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Wide gamut framework gradient test<br />
+  <sub>[#153976](https://github.com/flutter/flutter/pull/153976) merged on October 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/153976) over 2 months, 144 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unused `PubDependenciesProjectValidator`.<br />
+  <sub>[#157516](https://github.com/flutter/flutter/pull/157516) merged on October 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157516) over 5 hours, 0 additions and 187 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `Tab.height` parameter doc for tab height lower than default<br />
   <sub>[#157443](https://github.com/flutter/flutter/pull/157443) merged on October 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157443) over 18 hours, 25 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unused `PubDependenciesProjectValidator`.<br />
-  <sub>[#157516](https://github.com/flutter/flutter/pull/157516) merged on October 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157516) over 5 hours, 0 additions and 187 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStateInputBorder`<br />
+  <sub>[#157190](https://github.com/flutter/flutter/pull/157190) merged on October 22, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/157190) over 4 days, 349 additions and 0 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) merged on October 21, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/156501) over 1 week, 165 additions and 2 deletions in 3 files</sub><br />
@@ -105,17 +109,13 @@
   <sub>[#157380](https://github.com/flutter/flutter/pull/157380) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157380) over 1 hour, 0 additions and 72 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaks in some image tests and explain hackyness of opted-out.<br />
-  <sub>[#154481](https://github.com/flutter/flutter/pull/154481) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154481) over 1 month, 70 additions and 65 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix unattached `MenuController` throws assertion error when calling `MenuController.close()`<br />
   <sub>[#156588](https://github.com/flutter/flutter/pull/156588) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156588) over 1 week, 9 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Wide gamut framework gradient test<br />
-  <sub>[#153976](https://github.com/flutter/flutter/pull/153976) merged on October 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/153976) over 2 months, 144 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Create flutter specific leak troubleshooting guidance.<br />
+  <sub>[#157396](https://github.com/flutter/flutter/pull/157396) merged on October 25, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/157396) over 2 days, 67 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Polish the texture example<br />
   <sub>[#157176](https://github.com/flutter/flutter/pull/157176) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157176) over 2 days, 33 additions and 32 deletions in 1 file</sub><br />
@@ -129,9 +129,9 @@
   <sub>[#157228](https://github.com/flutter/flutter/pull/157228) merged on October 24, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/157228) over 5 days, 28 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Create flutter specific leak troubleshooting guidance.<br />
-  <sub>[#157396](https://github.com/flutter/flutter/pull/157396) merged on October 25, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/157396) over 2 days, 67 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Fix leaks in some image tests and explain hackyness of opted-out.<br />
+  <sub>[#154481](https://github.com/flutter/flutter/pull/154481) merged on October 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/154481) over 1 month, 70 additions and 65 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Turn `brieflyShowPassword` back on on iOS<br />
   <sub>[#157466](https://github.com/flutter/flutter/pull/157466) merged on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157466) over 2 hours, 2 additions and 4 deletions in 2 files</sub><br />
