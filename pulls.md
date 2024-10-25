@@ -113,3 +113,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests  for `focusable_action_detector.0.dart`<br />
+  <sub>[#157575](https://github.com/flutter/flutter/pull/157575) opened on on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157575) 69 additions and 1 deletion in 2 files</sub><br />
+
