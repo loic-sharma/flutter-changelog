@@ -6,14 +6,14 @@
 
 73 commits.
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update CupertinoNavigationBar to support large layout
+  <sub>[#157133](https://github.com/flutter/flutter/pull/157133) merged on October 25, 2024 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/157133) over 1 week, 419 additions and 75 deletions in 4 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Support backdrop key in flutter framework.
   <sub>[#157278](https://github.com/flutter/flutter/pull/157278) merged on October 25, 2024 &mdash; **Small:** [69 comments](https://github.com/flutter/flutter/pull/157278) over 3 days, 261 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gaaclarke](https://github.com/gaaclarke)</sub>
   <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/4c08e92d-f0ba-42b2-a4c4-fc44efbcfae0" width="200"/><img src="https://github.com/user-attachments/assets/21e95efd-5e0c-4f41-8f84-af3f0e47d1aa" width="200"/></details></sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update CupertinoNavigationBar to support large layout
-  <sub>[#157133](https://github.com/flutter/flutter/pull/157133) merged on October 25, 2024 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/157133) over 1 week, 419 additions and 75 deletions in 4 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Add ability to disable CupertinoSegmentedControl
   <sub>[#152813](https://github.com/flutter/flutter/pull/152813) merged on October 24, 2024 &mdash; **Medium:** [37 comments](https://github.com/flutter/flutter/pull/152813) over 2 months, 315 additions and 9 deletions in 4 files</sub>
