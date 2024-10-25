@@ -122,7 +122,7 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Wide gamut framework gradient test
-  <sub>[#153976](https://github.com/flutter/flutter/pull/153976) merged on October 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/153976) over 2 months, 144 additions and 2 deletions in 2 files</sub>
+  <sub>[#153976](https://github.com/flutter/flutter/pull/153976) merged on October 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/153976) over 2 months, 144 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Turn `brieflyShowPassword` back on on iOS
