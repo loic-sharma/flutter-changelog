@@ -116,3 +116,9 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator_state.restorable_push_and_remove_until.0.dart`<br />
   <sub>[#157595](https://github.com/flutter/flutter/pull/157595) opened on on October 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157595) 52 additions and 1 deletion in 2 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add 3.24.4 changelog to master<br />
+  <sub>[#157600](https://github.com/flutter/flutter/pull/157600) opened on on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157600) 4 additions and 0 deletions in 1 file</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix double tap in a11y mode moves thumb to the center of the `Slider`<br />
+  <sub>[#157601](https://github.com/flutter/flutter/pull/157601) opened on on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157601) 97 additions and 9 deletions in 2 files</sub><br />
+
