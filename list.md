@@ -114,7 +114,7 @@
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Wide gamut framework gradient test
-  <sub>[#153976](https://github.com/flutter/flutter/pull/153976) merged on October 25, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/153976) over 2 months, 144 additions and 2 deletions in 2 files</sub>
+  <sub>[#153976](https://github.com/flutter/flutter/pull/153976) merged on October 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/153976) over 2 months, 144 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Polish the texture example
