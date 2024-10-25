@@ -107,3 +107,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
+* **[Andika Tanuwijaya](https://github.com/dikatok)** &mdash; set constraints for autocomplete suggestion overlay<br />
+  <sub>[#157590](https://github.com/flutter/flutter/pull/157590) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157590) 75 additions and 4 deletions in 1 file</sub><br />
+
