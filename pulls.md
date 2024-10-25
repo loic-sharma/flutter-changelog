@@ -113,3 +113,9 @@
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Allow didPop() to process even if route is not yet totally displayed<br />
   <sub>[#157592](https://github.com/flutter/flutter/pull/157592) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157592) 5 additions and 3 deletions in 1 file</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator_state.restorable_push_and_remove_until.0.dart`<br />
+  <sub>[#157595](https://github.com/flutter/flutter/pull/157595) opened on on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157595) 52 additions and 1 deletion in 2 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add 3.24.4 changelog<br />
+  <sub>[#157596](https://github.com/flutter/flutter/pull/157596) opened on on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157596) 4 additions and 0 deletions in 1 file</sub><br />
+
