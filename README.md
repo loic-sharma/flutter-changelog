@@ -1290,11 +1290,15 @@
 
 ### October 19, 2024 to October 25, 2024
 
-6 commits.
+7 commits.
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow custom blocks to be something other than `Column` or `SizedBox`<br />
   <sub>[#7859](https://github.com/flutter/packages/pull/7859) merged on October 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7859) over 1 week, 106 additions and 12 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_parsing] Initial import<br />
+  <sub>[#7908](https://github.com/flutter/packages/pull/7908) merged on October 25, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/7908) over 3 days, 1546 additions and 2 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Simplify Pigeon API on Android<br />
   <sub>[#7909](https://github.com/flutter/packages/pull/7909) merged on October 24, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/packages/pull/7909) over 3 days, 249 additions and 1014 deletions in 9 files</sub><br />
