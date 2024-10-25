@@ -65,14 +65,11 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside `flutter.groovy`<br />
   <sub>[#157471](https://github.com/flutter/flutter/pull/157471) opened on on October 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157471) 30 additions and 52 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator.restorable_push_and_remove_until.0.dart`<br />
-  <sub>[#157487](https://github.com/flutter/flutter/pull/157487) opened on on October 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157487) 58 additions and 3 deletions in 3 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `navigator.restorable_push.0.dart`<br />
   <sub>[#157492](https://github.com/flutter/flutter/pull/157492) opened on on October 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157492) 58 additions and 3 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `build_owner.0.dart`<br />
-  <sub>[#157499](https://github.com/flutter/flutter/pull/157499) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157499) 50 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#157499](https://github.com/flutter/flutter/pull/157499) opened on on October 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157499) 50 additions and 8 deletions in 3 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
@@ -114,5 +111,5 @@
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests  for `focusable_action_detector.0.dart`<br />
-  <sub>[#157575](https://github.com/flutter/flutter/pull/157575) opened on on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157575) 69 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157575](https://github.com/flutter/flutter/pull/157575) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157575) 69 additions and 1 deletion in 2 files</sub><br />
 
