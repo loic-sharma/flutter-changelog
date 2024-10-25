@@ -99,7 +99,7 @@
   <sub>[#157531](https://github.com/flutter/flutter/pull/157531) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157531) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Tighten up `throwToolExit`, explain when to use it.<br />
-  <sub>[#157561](https://github.com/flutter/flutter/pull/157561) opened on on October 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157561) 48 additions and 25 deletions in 8 files</sub><br />
+  <sub>[#157561](https://github.com/flutter/flutter/pull/157561) opened on on October 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157561) 48 additions and 25 deletions in 8 files</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
