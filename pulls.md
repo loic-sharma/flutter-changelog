@@ -110,3 +110,6 @@
 * **[Andika Tanuwijaya](https://github.com/dikatok)** &mdash; set constraints for autocomplete suggestion overlay<br />
   <sub>[#157590](https://github.com/flutter/flutter/pull/157590) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157590) 75 additions and 4 deletions in 1 file</sub><br />
 
+* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Allow didPop() to process even if route is not yet totally displayed<br />
+  <sub>[#157592](https://github.com/flutter/flutter/pull/157592) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157592) 5 additions and 3 deletions in 1 file</sub><br />
+
