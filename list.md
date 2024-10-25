@@ -624,7 +624,7 @@
 
 ### October 19, 2024 to October 25, 2024
 
-45 commits.
+46 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -654,6 +654,10 @@
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Add missing MSAA stuff.
   <sub>[#55424](https://github.com/flutter/engine/pull/55424) merged on October 22, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/55424) over 3 weeks, 220 additions and 42 deletions in 8 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Remove legacy size fields in DLOp records
+  <sub>[#56101](https://github.com/flutter/engine/pull/56101) merged on October 25, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/56101) over 10 hours, 497 additions and 265 deletions in 12 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Remove old futureToPromise.
@@ -736,37 +740,33 @@
   <sub>[#55998](https://github.com/flutter/engine/pull/55998) merged on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55998) over 2 hours, 3 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [dart:ui] Improve Clip's docs
-  <sub>[#55978](https://github.com/flutter/engine/pull/55978) merged on October 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55978) over 3 days, 31 additions and 24 deletions in 1 file</sub>
-  <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Jim Graham](https://github.com/flar)</sub>
-
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; re-land "update the repo references for package:file (#55906)"
-  <sub>[#55935](https://github.com/flutter/engine/pull/55935) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55935) over 3 days, 2 additions and 6 deletions in 3 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for Linux mac_clangd
-  <sub>[#55988](https://github.com/flutter/engine/pull/55988) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55988) over 2 hours, 2 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes crash in testTrackpadGesturesAreSentToFramework
-  <sub>[#55990](https://github.com/flutter/engine/pull/55990) merged on October 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55990) over 2 days, 12 additions and 9 deletions in 1 file</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub>
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Typo in engine_binary_hashing.md
+  <sub>[#55866](https://github.com/flutter/engine/pull/55866) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55866) over 1 week, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix macos xcprivacy manifest copy location
   <sub>[#56010](https://github.com/flutter/engine/pull/56010) merged on October 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56010) over 17 hours, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Typo in engine_binary_hashing.md
-  <sub>[#55866](https://github.com/flutter/engine/pull/55866) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55866) over 1 week, 2 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixes crash in testTrackpadGesturesAreSentToFramework
+  <sub>[#55990](https://github.com/flutter/engine/pull/55990) merged on October 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55990) over 2 days, 12 additions and 9 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [dart:ui] Improve Clip's docs
+  <sub>[#55978](https://github.com/flutter/engine/pull/55978) merged on October 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/55978) over 3 days, 31 additions and 24 deletions in 1 file</sub>
+  <sub>Reviewed by: [Ian Hickson](https://github.com/Hixie), [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] flush thread local resources during toImage/toImageSync.
   <sub>[#56037](https://github.com/flutter/engine/pull/56037) merged on October 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56037) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move send_key_event from FlKeyboardViewDelegate to FlKeyboardManager.
-  <sub>[#56020](https://github.com/flutter/engine/pull/56020) merged on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56020) over 1 day, 113 additions and 127 deletions in 6 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for Linux mac_clangd
+  <sub>[#55988](https://github.com/flutter/engine/pull/55988) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55988) over 2 hours, 2 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; re-land "update the repo references for package:file (#55906)"
+  <sub>[#55935](https://github.com/flutter/engine/pull/55935) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55935) over 3 days, 2 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix assert failure in createDeviceBufferWithCopy.
   <sub>[#56039](https://github.com/flutter/engine/pull/56039) merged on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56039) over 5 hours, 12 additions and 14 deletions in 2 files</sub>
@@ -786,6 +786,10 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move get_keyboard_state from FlKeyboardViewDelegate to FlKeyboardManager.
   <sub>[#56021](https://github.com/flutter/engine/pull/56021) merged on October 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56021) over 23 hours, 67 additions and 90 deletions in 11 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move send_key_event from FlKeyboardViewDelegate to FlKeyboardManager.
+  <sub>[#56020](https://github.com/flutter/engine/pull/56020) merged on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56020) over 1 day, 113 additions and 127 deletions in 6 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: one descriptor pool per frame.
