@@ -30,7 +30,7 @@
   <sub>[#155203](https://github.com/flutter/flutter/pull/155203) opened on on September 14, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/155203) 245 additions and 14 deletions in 5 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
-  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/155209) 20 additions and 19 deletions in 2 files</sub><br />
+  <sub>[#155209](https://github.com/flutter/flutter/pull/155209) opened on on September 14, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/155209) 20 additions and 19 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
@@ -115,9 +115,6 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator_state.restorable_push_and_remove_until.0.dart`<br />
   <sub>[#157595](https://github.com/flutter/flutter/pull/157595) opened on on October 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157595) 52 additions and 1 deletion in 2 files</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add 3.24.4 changelog to master<br />
-  <sub>[#157600](https://github.com/flutter/flutter/pull/157600) opened on on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157600) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix double tap in a11y mode moves thumb to the center of the `Slider`<br />
   <sub>[#157601](https://github.com/flutter/flutter/pull/157601) opened on on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157601) 97 additions and 9 deletions in 2 files</sub><br />
