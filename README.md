@@ -11,13 +11,13 @@
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/4c08e92d-f0ba-42b2-a4c4-fc44efbcfae0" width="200"/><img src="https://github.com/user-attachments/assets/21e95efd-5e0c-4f41-8f84-af3f0e47d1aa" width="200"/></details></sub>
 
-* **[Huy](https://github.com/huycozy)** &mdash; Add ability to disable CupertinoSegmentedControl<br />
-  <sub>[#152813](https://github.com/flutter/flutter/pull/152813) merged on October 24, 2024 &mdash; **Medium:** [37 comments](https://github.com/flutter/flutter/pull/152813) over 2 months, 315 additions and 9 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update CupertinoNavigationBar to support large layout<br />
   <sub>[#157133](https://github.com/flutter/flutter/pull/157133) merged on October 25, 2024 &mdash; **Medium:** [29 comments](https://github.com/flutter/flutter/pull/157133) over 1 week, 419 additions and 75 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+
+* **[Huy](https://github.com/huycozy)** &mdash; Add ability to disable CupertinoSegmentedControl<br />
+  <sub>[#152813](https://github.com/flutter/flutter/pull/152813) merged on October 24, 2024 &mdash; **Medium:** [37 comments](https://github.com/flutter/flutter/pull/152813) over 2 months, 315 additions and 9 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Add windows build version detection<br />
   <sub>[#154797](https://github.com/flutter/flutter/pull/154797) merged on October 22, 2024 &mdash; **Medium:** [44 comments](https://github.com/flutter/flutter/pull/154797) over 1 month, 316 additions and 15 deletions in 3 files</sub><br />
