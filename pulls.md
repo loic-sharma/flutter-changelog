@@ -101,9 +101,6 @@
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Allow didPop() to process even if route is not yet totally displayed<br />
   <sub>[#157592](https://github.com/flutter/flutter/pull/157592) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157592) 5 additions and 3 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator_state.restorable_push_and_remove_until.0.dart`<br />
-  <sub>[#157595](https://github.com/flutter/flutter/pull/157595) opened on on October 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157595) 58 additions and 3 deletions in 3 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `ResizeImage` documentation<br />
   <sub>[#157619](https://github.com/flutter/flutter/pull/157619) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157619) 9 additions and 7 deletions in 1 file</sub><br />
 
