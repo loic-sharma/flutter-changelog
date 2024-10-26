@@ -110,3 +110,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; fix fade_transition issue<br />
   <sub>[#157663](https://github.com/flutter/flutter/pull/157663) opened on on October 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157663) 26 additions and 1 deletion in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `navigator_state.restorable_push.0.dart`<br />
+  <sub>[#157667](https://github.com/flutter/flutter/pull/157667) opened on on October 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157667) 58 additions and 3 deletions in 3 files</sub><br />
+
