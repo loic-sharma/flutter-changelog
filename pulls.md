@@ -122,3 +122,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove extraneous `throw`.<br />
   <sub>[#157658](https://github.com/flutter/flutter/pull/157658) opened on on October 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157658) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Coin](https://github.com/coin3x)** &mdash; Add SharedXAxisPageTransition<br />
+  <sub>[#157659](https://github.com/flutter/flutter/pull/157659) opened on on October 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157659) 295 additions and 0 deletions in 3 files</sub><br />
+
