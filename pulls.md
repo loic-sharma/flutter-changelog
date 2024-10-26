@@ -99,7 +99,7 @@
   <sub>[#157531](https://github.com/flutter/flutter/pull/157531) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157531) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Tighten up `throwToolExit`, explain when to use it.<br />
-  <sub>[#157561](https://github.com/flutter/flutter/pull/157561) opened on on October 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/157561) 48 additions and 25 deletions in 8 files</sub><br />
+  <sub>[#157561](https://github.com/flutter/flutter/pull/157561) opened on on October 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/157561) 48 additions and 25 deletions in 8 files</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
@@ -118,4 +118,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Kill interactive script job `xcdevice observe` processes on tool/daemon shutdown<br />
   <sub>[#157646](https://github.com/flutter/flutter/pull/157646) opened on on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157646) 55 additions and 6 deletions in 4 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove extraneous `throw`.<br />
+  <sub>[#157658](https://github.com/flutter/flutter/pull/157658) opened on on October 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157658) 1 addition and 1 deletion in 1 file</sub><br />
 
