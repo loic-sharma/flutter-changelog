@@ -878,7 +878,7 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: hash less stuff per frame.
-  <sub>[#55742](https://github.com/flutter/engine/pull/55742) merged on October 25, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/55742) over 2 weeks, 331 additions and 170 deletions in 15 files</sub>
+  <sub>[#55742](https://github.com/flutter/engine/pull/55742) merged on October 25, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/55742) over 2 weeks, 331 additions and 170 deletions in 15 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: one descriptor pool per frame.
