@@ -102,7 +102,7 @@
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
 * **[Andika Tanuwijaya](https://github.com/dikatok)** &mdash; set constraints for autocomplete suggestion overlay<br />
-  <sub>[#157590](https://github.com/flutter/flutter/pull/157590) opened on on October 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157590) 75 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#157590](https://github.com/flutter/flutter/pull/157590) opened on on October 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157590) 75 additions and 4 deletions in 1 file</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Allow didPop() to process even if route is not yet totally displayed<br />
   <sub>[#157592](https://github.com/flutter/flutter/pull/157592) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157592) 5 additions and 3 deletions in 1 file</sub><br />
@@ -112,12 +112,6 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `ResizeImage` documentation<br />
   <sub>[#157619](https://github.com/flutter/flutter/pull/157619) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157619) 9 additions and 7 deletions in 1 file</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Kill interactive script job `xcdevice observe` processes on tool/daemon shutdown<br />
-  <sub>[#157646](https://github.com/flutter/flutter/pull/157646) opened on on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157646) 55 additions and 6 deletions in 4 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove extraneous `throw`.<br />
-  <sub>[#157658](https://github.com/flutter/flutter/pull/157658) opened on on October 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157658) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Coin](https://github.com/coin3x)** &mdash; Add SharedXAxisPageTransition<br />
   <sub>[#157659](https://github.com/flutter/flutter/pull/157659) opened on on October 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157659) 295 additions and 0 deletions in 3 files</sub><br />
