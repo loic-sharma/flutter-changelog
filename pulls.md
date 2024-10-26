@@ -21,7 +21,7 @@
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 13 deletions in 1 file</sub><br />
 
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
-  <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/154941) 6 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#154941](https://github.com/flutter/flutter/pull/154941) opened on on September 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/154941) 133 additions and 18 deletions in 5 files</sub><br />
 
 * **[HongeSun](https://github.com/hongeSunCoder)** &mdash; correct wrong git commands<br />
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
@@ -94,9 +94,6 @@
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove unsafe_html lint rule<br />
   <sub>[#157531](https://github.com/flutter/flutter/pull/157531) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157531) 0 additions and 1 deletion in 1 file</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Tighten up `throwToolExit`, explain when to use it.<br />
-  <sub>[#157561](https://github.com/flutter/flutter/pull/157561) opened on on October 24, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/157561) 48 additions and 25 deletions in 8 files</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
