@@ -92,9 +92,6 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; example: material 3 multi-window demo<br />
   <sub>[#157525](https://github.com/flutter/flutter/pull/157525) opened on on October 24, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157525) 9437 additions and 113 deletions in 121 files</sub><br />
 
-* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove unsafe_html lint rule<br />
-  <sub>[#157531](https://github.com/flutter/flutter/pull/157531) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157531) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
