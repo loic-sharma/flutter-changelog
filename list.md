@@ -4,7 +4,11 @@
 
 ### October 26, 2024 to November 1, 2024
 
-7 commits.
+8 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `restorable_route_future.0.dart`
+  <sub>[#157708](https://github.com/flutter/flutter/pull/157708) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157708) over 7 hours, 80 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update .ci.yaml have android sdk be 35v1
   <sub>[#157621](https://github.com/flutter/flutter/pull/157621) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157621) over 2 days, 135 additions and 135 deletions in 1 file</sub>

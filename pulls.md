@@ -113,9 +113,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix showSnackBar can't access useMaterial3 from the theme<br />
   <sub>[#157707](https://github.com/flutter/flutter/pull/157707) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157707) 52 additions and 9 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `restorable_route_future.0.dart`<br />
-  <sub>[#157708](https://github.com/flutter/flutter/pull/157708) opened on on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157708) 80 additions and 1 deletion in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `nested_scroll_view_state.0.dart`<br />
   <sub>[#157714](https://github.com/flutter/flutter/pull/157714) opened on on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157714) 42 additions and 2 deletions in 3 files</sub><br />
 
@@ -124,4 +121,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` tab icons not respecting custom `IconTheme`<br />
   <sub>[#157724](https://github.com/flutter/flutter/pull/157724) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157724) 71 additions and 5 deletions in 2 files</sub><br />
+
+* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; fix-expose-did-complete<br />
+  <sub>[#157725](https://github.com/flutter/flutter/pull/157725) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157725) 1 addition and 2 deletions in 1 file</sub><br />
 
