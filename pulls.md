@@ -98,6 +98,9 @@
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Allow didPop() to process even if route is not yet totally displayed<br />
   <sub>[#157592](https://github.com/flutter/flutter/pull/157592) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157592) 5 additions and 3 deletions in 1 file</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix double tap in a11y mode moves thumb to the center of the `Slider`<br />
+  <sub>[#157601](https://github.com/flutter/flutter/pull/157601) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157601) 103 additions and 10 deletions in 3 files</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `ResizeImage` documentation<br />
   <sub>[#157619](https://github.com/flutter/flutter/pull/157619) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157619) 9 additions and 7 deletions in 1 file</sub><br />
 
