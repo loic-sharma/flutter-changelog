@@ -600,7 +600,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-8 commits.
+9 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic Impeller+Vulkan support to embedder API.<br />
   <sub>[#55490](https://github.com/flutter/engine/pull/55490) merged on October 28, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/55490) over 1 month, 774 additions and 111 deletions in 24 files</sub><br />
@@ -614,6 +614,10 @@
   <sub>[#56153](https://github.com/flutter/engine/pull/56153) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56153) over 1 day, 18 additions and 15 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/aeae405b-1e5a-4d97-a9a3-b7668cec0714)</details></sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Replace HostBuffer with Dart version.<br />
+  <sub>[#56054](https://github.com/flutter/engine/pull/56054) merged on October 28, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/56054) over 5 days, 139 additions and 335 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix initial layout for loadOp load and incorrect usage of host visible textures.<br />
   <sub>[#56148](https://github.com/flutter/engine/pull/56148) merged on October 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56148) over 2 days, 63 additions and 17 deletions in 6 files</sub><br />
