@@ -116,9 +116,6 @@
 * **[Neutrino2711](https://github.com/Neutrino2711)** &mdash; Update documentation for clipping behavior in DecoratedSliver with ScrollView Parent<br />
   <sub>[#157698](https://github.com/flutter/flutter/pull/157698) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157698) 11 additions and 2 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator.restorable_push_replacement.0.dart`<br />
-  <sub>[#157704](https://github.com/flutter/flutter/pull/157704) opened on on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157704) 60 additions and 6 deletions in 3 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix showSnackBar can't access useMaterial3 from the theme<br />
   <sub>[#157707](https://github.com/flutter/flutter/pull/157707) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157707) 52 additions and 9 deletions in 2 files</sub><br />
 
