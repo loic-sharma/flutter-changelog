@@ -45,7 +45,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker<br />
-  <sub>[#157151](https://github.com/flutter/flutter/pull/157151) opened on on October 18, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/157151) 80 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157151](https://github.com/flutter/flutter/pull/157151) opened on on October 18, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/157151) 80 additions and 1 deletion in 2 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
