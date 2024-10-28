@@ -108,7 +108,7 @@
   <sub>[#157663](https://github.com/flutter/flutter/pull/157663) opened on on October 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157663) 26 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `focus_node.unfocus.0.dart`<br />
-  <sub>[#157673](https://github.com/flutter/flutter/pull/157673) opened on on October 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157673) 90 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157673](https://github.com/flutter/flutter/pull/157673) opened on on October 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157673) 78 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Allow namespaces when generating localization<br />
   <sub>[#157696](https://github.com/flutter/flutter/pull/157696) opened on on October 27, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/157696) 564 additions and 382 deletions in 9 files</sub><br />
