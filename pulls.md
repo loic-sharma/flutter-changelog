@@ -122,6 +122,9 @@
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; fix-expose-did-complete<br />
   <sub>[#157725](https://github.com/flutter/flutter/pull/157725) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157725) 1 addition and 2 deletions in 1 file</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out "shaker" class<br />
+  <sub>[#157748](https://github.com/flutter/flutter/pull/157748) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157748) 31 additions and 49 deletions in 2 files</sub><br />
+
 * **[Mohamed Kamel](https://github.com/mu7ammadkamel)** &mdash; add centerLeading to AppBar.<br />
   <sub>[#157750](https://github.com/flutter/flutter/pull/157750) opened on on October 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/157750) 805 additions and 453 deletions in 3 files</sub><br />
 
