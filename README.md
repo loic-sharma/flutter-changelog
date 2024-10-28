@@ -4,7 +4,11 @@
 
 ### October 26, 2024 to November 1, 2024
 
-6 commits.
+7 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update .ci.yaml have android sdk be 35v1<br />
+  <sub>[#157621](https://github.com/flutter/flutter/pull/157621) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157621) over 2 days, 135 additions and 135 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `restoration_mixin.0.dart`<br />
   <sub>[#157709](https://github.com/flutter/flutter/pull/157709) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157709) over 2 hours, 37 additions and 1 deletion in 2 files</sub><br />
