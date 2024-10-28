@@ -122,3 +122,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `nested_scroll_view_state.0.dart`<br />
   <sub>[#157714](https://github.com/flutter/flutter/pull/157714) opened on on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157714) 42 additions and 2 deletions in 3 files</sub><br />
 
+* **[Neutrino2711](https://github.com/Neutrino2711)** &mdash; Updated document to clarify Clip Behaviour<br />
+  <sub>[#157719](https://github.com/flutter/flutter/pull/157719) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157719) 11 additions and 2 deletions in 1 file</sub><br />
+
