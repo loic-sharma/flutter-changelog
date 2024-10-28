@@ -187,7 +187,7 @@
   <sub>Reviewed by: [Todd Volkert](https://github.com/tvolkert)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Mark mac impeller as bringup.
-  <sub>[#157551](https://github.com/flutter/flutter/pull/157551) merged on October 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157551) over 21 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>[#157551](https://github.com/flutter/flutter/pull/157551) merged on October 24, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157551) over 21 minutes, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow opting out of `.flutter-plugins`, opt-out in `refreshPluginsList`.
@@ -604,7 +604,7 @@
   <sub><details><summary>1 image...</summary>![scribe](https://github.com/flutter/engine/assets/389558/210278a4-81c3-420f-bc9b-f1c164ee141a)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eagerly flip backdrop back to onscreen.
-  <sub>[#55983](https://github.com/flutter/engine/pull/55983) merged on October 22, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/engine/pull/55983) over 2 days, 391 additions and 151 deletions in 6 files</sub>
+  <sub>[#55983](https://github.com/flutter/engine/pull/55983) merged on October 22, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/engine/pull/55983) over 2 days, 391 additions and 151 deletions in 6 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/557d12ed-b169-4806-a2d1-88db9f24d8a1)![image](https://github.com/user-attachments/assets/ad547131-af0a-4247-91a2-deeb3ffda8e9)</details></sub>
 
