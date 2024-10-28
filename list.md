@@ -590,9 +590,19 @@
 
 ## flutter/engine
 
+### October 26, 2024 to November 1, 2024
+
+1 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont increment shared_ptr when tracked object is already tracked.
+  <sub>[#56153](https://github.com/flutter/engine/pull/56153) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56153) over 1 day, 18 additions and 15 deletions in 4 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/aeae405b-1e5a-4d97-a9a3-b7668cec0714)</details></sub>
+
 ### October 19, 2024 to October 25, 2024
 
-56 commits.
+<details>
+<summary>56 commits...</summary>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Support woff2 fonts
   <sub>[#55908](https://github.com/flutter/engine/pull/55908) merged on October 21, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/55908) over 4 days, 3591 additions and 2433 deletions in 22 files</sub>
@@ -819,6 +829,8 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; Revert "[web:a11y] make header a proper <header> (#55747)"
   <sub>[#55993](https://github.com/flutter/engine/pull/55993) merged on October 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/55993) over 45 minutes, 20 additions and 77 deletions in 6 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+</details>
 
 ### October 12, 2024 to October 18, 2024
 
