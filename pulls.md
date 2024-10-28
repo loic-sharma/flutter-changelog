@@ -95,9 +95,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
-* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Allow didPop() to process even if route is not yet totally displayed<br />
-  <sub>[#157592](https://github.com/flutter/flutter/pull/157592) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157592) 5 additions and 3 deletions in 1 file</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix double tap in a11y mode moves thumb to the center of the `Slider`<br />
   <sub>[#157601](https://github.com/flutter/flutter/pull/157601) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157601) 103 additions and 11 deletions in 4 files</sub><br />
 
