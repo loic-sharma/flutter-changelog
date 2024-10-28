@@ -600,7 +600,11 @@
 
 ### October 26, 2024 to November 1, 2024
 
-4 commits.
+5 commits.
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Migrate PlatformViewIOS to ARC<br />
+  <sub>[#55672](https://github.com/flutter/engine/pull/55672) merged on October 28, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/55672) over 3 weeks, 58 additions and 142 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont increment shared_ptr when tracked object is already tracked.<br />
   <sub>[#56153](https://github.com/flutter/engine/pull/56153) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56153) over 1 day, 18 additions and 15 deletions in 4 files</sub><br />
@@ -616,7 +620,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin local_engine mac builds to arm64<br />
-  <sub>[#56172](https://github.com/flutter/engine/pull/56172) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56172) over 2 hours, 32 additions and 16 deletions in 1 file</sub><br />
+  <sub>[#56172](https://github.com/flutter/engine/pull/56172) merged on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56172) over 2 hours, 32 additions and 16 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 ### October 19, 2024 to October 25, 2024
