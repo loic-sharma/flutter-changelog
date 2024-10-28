@@ -1095,9 +1095,18 @@
 
 ## flutter/packages
 
+### October 26, 2024 to November 1, 2024
+
+1 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for iOS native `IMACompanionAdSlot` and `IMACompanionDelegate`
+  <sub>[#7889](https://github.com/flutter/packages/pull/7889) merged on October 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7889) over 1 week, 1093 additions and 3 deletions in 14 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 ### October 19, 2024 to October 25, 2024
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Drop deprecated web library
   <sub>[#7926](https://github.com/flutter/packages/pull/7926) merged on October 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7926) over 1 day, 1 addition and 4 deletions in 3 files</sub>
@@ -1138,6 +1147,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 2663184aa790 to 603104015dd6 (3 revisions)
   <sub>[#7930](https://github.com/flutter/packages/pull/7930) merged on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7930) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### October 12, 2024 to October 18, 2024
 
