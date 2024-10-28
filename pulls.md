@@ -131,3 +131,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157756) 48 additions and 1 deletion in 2 files</sub><br />
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin Mac tool_integration_test shards to arm64<br />
+  <sub>[#157760](https://github.com/flutter/flutter/pull/157760) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157760) 5 additions and 2 deletions in 1 file</sub><br />
+
