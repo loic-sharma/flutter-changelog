@@ -4,7 +4,11 @@
 
 ### October 26, 2024 to November 1, 2024
 
-2 commits.
+3 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `navigator_state.restorable_push.0.dart`<br />
+  <sub>[#157667](https://github.com/flutter/flutter/pull/157667) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157667) over 1 day, 58 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator_state.restorable_push_replacement.0.dart`<br />
   <sub>[#157668](https://github.com/flutter/flutter/pull/157668) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157668) over 1 day, 59 additions and 5 deletions in 3 files</sub><br />
