@@ -1290,9 +1290,18 @@
 
 ## flutter/website
 
+### October 26, 2024 to November 1, 2024
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove test-drive page from get-started flow
+  <sub>[#11337](https://github.com/flutter/website/pull/11337) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11337) over 3 hours, 33 additions and 31 deletions in 15 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### October 19, 2024 to October 25, 2024
 
-16 commits.
+<details>
+<summary>16 commits...</summary>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating the supported platforms page
   <sub>[#11271](https://github.com/flutter/website/pull/11271) merged on October 21, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/website/pull/11271) over 1 week, 26 additions and 26 deletions in 2 files</sub>
@@ -1357,6 +1366,8 @@
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Changed "h/w arch" to "target arch" as per Yegor
   <sub>[#11298](https://github.com/flutter/website/pull/11298) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11298) over 1 hour, 12 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### October 12, 2024 to October 18, 2024
 
