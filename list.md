@@ -600,7 +600,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-9 commits.
+10 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic Impeller+Vulkan support to embedder API.
   <sub>[#55490](https://github.com/flutter/engine/pull/55490) merged on October 28, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/55490) over 1 month, 774 additions and 111 deletions in 24 files</sub>
@@ -626,6 +626,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Switch some mac_unopt tests from intel to arm hosts
   <sub>[#55882](https://github.com/flutter/engine/pull/55882) merged on October 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55882) over 1 week, 39 additions and 85 deletions in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Deduplicate golden test file names
+  <sub>[#56143](https://github.com/flutter/engine/pull/56143) merged on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56143) over 3 days, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS/macOS: migrate darwin/common to ARC
   <sub>[#56155](https://github.com/flutter/engine/pull/56155) merged on October 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56155) over 1 day, 10 additions and 11 deletions in 3 files</sub>
