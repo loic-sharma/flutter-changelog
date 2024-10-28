@@ -600,7 +600,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-6 commits.
+7 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Migrate PlatformViewIOS to ARC<br />
   <sub>[#55672](https://github.com/flutter/engine/pull/55672) merged on October 28, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/55672) over 3 weeks, 58 additions and 142 deletions in 8 files</sub><br />
@@ -610,6 +610,10 @@
   <sub>[#56153](https://github.com/flutter/engine/pull/56153) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56153) over 1 day, 18 additions and 15 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/aeae405b-1e5a-4d97-a9a3-b7668cec0714)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix initial layout for loadOp load and incorrect usage of host visible textures.<br />
+  <sub>[#56148](https://github.com/flutter/engine/pull/56148) merged on October 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56148) over 2 days, 63 additions and 17 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Switch some mac_unopt tests from intel to arm hosts<br />
   <sub>[#55882](https://github.com/flutter/engine/pull/55882) merged on October 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55882) over 1 week, 39 additions and 85 deletions in 1 file</sub><br />
