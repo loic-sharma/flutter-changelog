@@ -122,3 +122,9 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix showSnackBar can't access useMaterial3 from the theme<br />
   <sub>[#157707](https://github.com/flutter/flutter/pull/157707) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157707) 52 additions and 9 deletions in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `restorable_route_future.0.dart`<br />
+  <sub>[#157708](https://github.com/flutter/flutter/pull/157708) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157708) 80 additions and 1 deletion in 2 files</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `restoration_mixin.0.dart`<br />
+  <sub>[#157709](https://github.com/flutter/flutter/pull/157709) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157709) 37 additions and 1 deletion in 2 files</sub><br />
+
