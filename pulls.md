@@ -117,7 +117,7 @@
   <sub>[#157673](https://github.com/flutter/flutter/pull/157673) opened on on October 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157673) 90 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Allow namespaces when generating localization<br />
-  <sub>[#157696](https://github.com/flutter/flutter/pull/157696) opened on on October 27, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/157696) 563 additions and 382 deletions in 9 files</sub><br />
+  <sub>[#157696](https://github.com/flutter/flutter/pull/157696) opened on on October 27, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/157696) 564 additions and 382 deletions in 9 files</sub><br />
 
 * **[Neutrino2711](https://github.com/Neutrino2711)** &mdash; Update documentation for clipping behavior in DecoratedSliver with ScrollView Parent<br />
   <sub>[#157698](https://github.com/flutter/flutter/pull/157698) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157698) 11 additions and 2 deletions in 1 file</sub><br />
