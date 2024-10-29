@@ -44,9 +44,6 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
-* **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker<br />
-  <sub>[#157151](https://github.com/flutter/flutter/pull/157151) opened on on October 18, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/157151) 80 additions and 1 deletion in 2 files</sub><br />
-
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
 
@@ -114,7 +111,7 @@
   <sub>[#157719](https://github.com/flutter/flutter/pull/157719) opened on on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157719) 11 additions and 2 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` tab icons not respecting custom `IconTheme`<br />
-  <sub>[#157724](https://github.com/flutter/flutter/pull/157724) opened on on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157724) 71 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#157724](https://github.com/flutter/flutter/pull/157724) opened on on October 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157724) 71 additions and 5 deletions in 2 files</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; fix-expose-did-complete<br />
   <sub>[#157725](https://github.com/flutter/flutter/pull/157725) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157725) 1 addition and 2 deletions in 1 file</sub><br />
