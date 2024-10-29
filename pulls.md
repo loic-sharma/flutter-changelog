@@ -134,3 +134,6 @@
 * **[Zezqi](https://github.com/ariski254)** &mdash; Projek FLutter<br />
   <sub>[#157804](https://github.com/flutter/flutter/pull/157804) opened on on October 29, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157804) 1499 additions and 301 deletions in 115 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Avoid labeling all PRs as 'text-input'<br />
+  <sub>[#157805](https://github.com/flutter/flutter/pull/157805) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157805) 7 additions and 6 deletions in 1 file</sub><br />
+
