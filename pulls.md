@@ -108,7 +108,7 @@
   <sub>[#157719](https://github.com/flutter/flutter/pull/157719) opened on on October 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157719) 11 additions and 2 deletions in 1 file</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; fix-expose-did-complete<br />
-  <sub>[#157725](https://github.com/flutter/flutter/pull/157725) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157725) 1 addition and 2 deletions in 1 file</sub><br />
+  <sub>[#157725](https://github.com/flutter/flutter/pull/157725) opened on on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157725) 1 addition and 2 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out "shaker" class<br />
   <sub>[#157748](https://github.com/flutter/flutter/pull/157748) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157748) 31 additions and 49 deletions in 2 files</sub><br />
