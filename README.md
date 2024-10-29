@@ -642,7 +642,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-16 commits.
+17 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic Impeller+Vulkan support to embedder API.<br />
   <sub>[#55490](https://github.com/flutter/engine/pull/55490) merged on October 28, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/55490) over 1 month, 774 additions and 111 deletions in 24 files</sub><br />
@@ -656,6 +656,10 @@
   <sub>[#56153](https://github.com/flutter/engine/pull/56153) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56153) over 1 day, 18 additions and 15 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/aeae405b-1e5a-4d97-a9a3-b7668cec0714)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made et compilation errors relative to the CWD<br />
+  <sub>[#56177](https://github.com/flutter/engine/pull/56177) merged on October 29, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/56177) over 1 day, 32 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Replace HostBuffer with Dart version.<br />
   <sub>[#56054](https://github.com/flutter/engine/pull/56054) merged on October 28, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/56054) over 5 days, 139 additions and 335 deletions in 12 files</sub><br />
@@ -1207,10 +1211,14 @@
 
 ### October 26, 2024 to November 1, 2024
 
-3 commits.
+4 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for iOS native `IMACompanionAdSlot` and `IMACompanionDelegate`<br />
   <sub>[#7889](https://github.com/flutter/packages/pull/7889) merged on October 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7889) over 1 week, 1093 additions and 3 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Bump `path_provider_android` to `^2.2.5` due to Android v1 embedder.<br />
+  <sub>[#7935](https://github.com/flutter/packages/pull/7935) merged on October 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7935) over 3 days, 6 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Fix macOS 14+ test hangs<br />
