@@ -134,12 +134,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `scroll_metrics_notification.0.dart`<br />
   <sub>[#157768](https://github.com/flutter/flutter/pull/157768) opened on on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157768) 24 additions and 1 deletion in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `page_storage.0.dart`<br />
-  <sub>[#157770](https://github.com/flutter/flutter/pull/157770) opened on on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157770) 39 additions and 1 deletion in 2 files</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `focus_scope.0.dart`<br />
-  <sub>[#157772](https://github.com/flutter/flutter/pull/157772) opened on on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157772) 58 additions and 1 deletion in 2 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `interactive_viewer.0.dart`<br />
   <sub>[#157773](https://github.com/flutter/flutter/pull/157773) opened on on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157773) 63 additions and 1 deletion in 2 files</sub><br />
 
