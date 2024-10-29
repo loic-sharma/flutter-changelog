@@ -4,7 +4,12 @@
 
 ### October 26, 2024 to November 1, 2024
 
-14 commits.
+15 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` tab icons not respecting custom `IconTheme`<br />
+  <sub>[#157724](https://github.com/flutter/flutter/pull/157724) merged on October 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157724) over 19 hours, 71 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="666" alt="Screenshot 2024-10-28 at 16 25 06" src="https://github.com/user-attachments/assets/56d31115-7ee9-4378-9811-75a3a2a4ce0f"><img width="666" alt="Screenshot 2024-10-28 at 16 24 52" src="https://github.com/user-attachments/assets/ab8a3e4b-e912-40ac-b249-6358492581e0"></details></sub>
 
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker<br />
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) merged on October 29, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/157151) over 1 week, 80 additions and 1 deletion in 2 files</sub><br />
