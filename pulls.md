@@ -137,3 +137,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `page_storage.0.dart`<br />
   <sub>[#157770](https://github.com/flutter/flutter/pull/157770) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157770) 39 additions and 1 deletion in 2 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `focus_scope.0.dart`<br />
+  <sub>[#157772](https://github.com/flutter/flutter/pull/157772) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157772) 59 additions and 1 deletion in 2 files</sub><br />
+
