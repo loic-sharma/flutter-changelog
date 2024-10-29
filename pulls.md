@@ -117,7 +117,7 @@
   <sub>[#157719](https://github.com/flutter/flutter/pull/157719) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157719) 11 additions and 2 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` tab icons not respecting custom `IconTheme`<br />
-  <sub>[#157724](https://github.com/flutter/flutter/pull/157724) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157724) 71 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#157724](https://github.com/flutter/flutter/pull/157724) opened on on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157724) 71 additions and 5 deletions in 2 files</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; fix-expose-did-complete<br />
   <sub>[#157725](https://github.com/flutter/flutter/pull/157725) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157725) 1 addition and 2 deletions in 1 file</sub><br />
@@ -126,10 +126,10 @@
   <sub>[#157748](https://github.com/flutter/flutter/pull/157748) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157748) 31 additions and 49 deletions in 2 files</sub><br />
 
 * **[Mohamed Kamel](https://github.com/mu7ammadkamel)** &mdash; add centerLeading to AppBar.<br />
-  <sub>[#157750](https://github.com/flutter/flutter/pull/157750) opened on on October 28, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/157750) 805 additions and 453 deletions in 3 files</sub><br />
+  <sub>[#157750](https://github.com/flutter/flutter/pull/157750) opened on on October 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/157750) 805 additions and 453 deletions in 3 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support double tap and long press to select ChoiceChip, FilterChip, InputChip (#157752)<br />
-  <sub>[#157754](https://github.com/flutter/flutter/pull/157754) opened on on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157754) 15 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157754](https://github.com/flutter/flutter/pull/157754) opened on on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157754) 15 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157756) 48 additions and 1 deletion in 2 files</sub><br />
