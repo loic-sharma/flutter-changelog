@@ -105,7 +105,7 @@
   <sub>[#157659](https://github.com/flutter/flutter/pull/157659) opened on on October 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157659) 295 additions and 0 deletions in 3 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; fix fade_transition issue<br />
-  <sub>[#157663](https://github.com/flutter/flutter/pull/157663) opened on on October 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157663) 24 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157663](https://github.com/flutter/flutter/pull/157663) opened on on October 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157663) 24 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Allow namespaces when generating localization<br />
   <sub>[#157696](https://github.com/flutter/flutter/pull/157696) opened on on October 27, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/157696) 564 additions and 382 deletions in 9 files</sub><br />
@@ -133,7 +133,4 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157756) 48 additions and 1 deletion in 2 files</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin Mac tool_integration_test shards to arm64<br />
-  <sub>[#157760](https://github.com/flutter/flutter/pull/157760) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157760) 5 additions and 2 deletions in 1 file</sub><br />
 
