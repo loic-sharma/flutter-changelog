@@ -92,9 +92,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix double tap in a11y mode moves thumb to the center of the `Slider`<br />
-  <sub>[#157601](https://github.com/flutter/flutter/pull/157601) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157601) 103 additions and 11 deletions in 4 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `ResizeImage` documentation<br />
   <sub>[#157619](https://github.com/flutter/flutter/pull/157619) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157619) 9 additions and 7 deletions in 1 file</sub><br />
 
