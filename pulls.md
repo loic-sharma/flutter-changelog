@@ -92,9 +92,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Upgrade tests to AGP 8.7/Gradle 8.10.2/Kotlin 1.8.10"<br />
-  <sub>[#157617](https://github.com/flutter/flutter/pull/157617) opened on on October 25, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/157617) 7303 additions and 4276 deletions in 151 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `ResizeImage` documentation<br />
   <sub>[#157619](https://github.com/flutter/flutter/pull/157619) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157619) 9 additions and 7 deletions in 1 file</sub><br />
 
@@ -134,9 +131,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 100 additions and 2 deletions in 2 files</sub><br />
 
-* **[Zezqi](https://github.com/ariski254)** &mdash; Projek FLutter<br />
-  <sub>[#157804](https://github.com/flutter/flutter/pull/157804) opened on on October 29, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157804) 1499 additions and 301 deletions in 115 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Avoid labeling all PRs as 'text-input'<br />
-  <sub>[#157805](https://github.com/flutter/flutter/pull/157805) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157805) 7 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#157805](https://github.com/flutter/flutter/pull/157805) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157805) 1 addition and 3 deletions in 1 file</sub><br />
 
