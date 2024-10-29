@@ -4,11 +4,19 @@
 
 ### October 26, 2024 to November 1, 2024
 
-9 commits.
+11 commits.
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin Mac tool_integration_test shards to arm64<br />
+  <sub>[#157760](https://github.com/flutter/flutter/pull/157760) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157760) over 3 hours, 5 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Avoid labeling 'context' PRs as 'text-input'<br />
   <sub>[#157650](https://github.com/flutter/flutter/pull/157650) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157650) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `nested_scroll_view_state.0.dart`<br />
+  <sub>[#157714](https://github.com/flutter/flutter/pull/157714) merged on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157714) over 14 hours, 42 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `restorable_route_future.0.dart`<br />
   <sub>[#157708](https://github.com/flutter/flutter/pull/157708) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157708) over 7 hours, 80 additions and 1 deletion in 2 files</sub><br />
