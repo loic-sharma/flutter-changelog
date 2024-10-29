@@ -4,19 +4,24 @@
 
 ### October 26, 2024 to November 1, 2024
 
-15 commits.
+16 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` tab icons not respecting custom `IconTheme`
   <sub>[#157724](https://github.com/flutter/flutter/pull/157724) merged on October 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157724) over 19 hours, 71 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
   <sub><details><summary>2 images...</summary><img width="666" alt="Screenshot 2024-10-28 at 16 25 06" src="https://github.com/user-attachments/assets/56d31115-7ee9-4378-9811-75a3a2a4ce0f"><img width="666" alt="Screenshot 2024-10-28 at 16 24 52" src="https://github.com/user-attachments/assets/ab8a3e4b-e912-40ac-b249-6358492581e0"></details></sub>
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove unused import from kt plugin template
+  <sub>[#157220](https://github.com/flutter/flutter/pull/157220) merged on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157220) over 1 week, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [yaakovschectman](https://github.com/yaakovschectman)</sub>
+  <sub><details><summary>1 image...</summary><img width="480" alt="code" src="https://github.com/user-attachments/assets/de45b396-995a-459f-8f36-f738d16cc229"></details></sub>
+
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) merged on October 29, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/157151) over 1 week, 80 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Navaron Bracke](https://github.com/navaronbracke), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin Mac tool_integration_test shards to arm64
-  <sub>[#157760](https://github.com/flutter/flutter/pull/157760) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157760) over 3 hours, 5 additions and 2 deletions in 1 file</sub>
+  <sub>[#157760](https://github.com/flutter/flutter/pull/157760) merged on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157760) over 3 hours, 5 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Avoid labeling 'context' PRs as 'text-input'
