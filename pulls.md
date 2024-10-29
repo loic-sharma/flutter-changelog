@@ -131,3 +131,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 100 additions and 2 deletions in 2 files</sub><br />
 
+* **[Zezqi](https://github.com/ariski254)** &mdash; Projek FLutter<br />
+  <sub>[#157804](https://github.com/flutter/flutter/pull/157804) opened on on October 29, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157804) 1499 additions and 301 deletions in 115 files</sub><br />
+
