@@ -642,7 +642,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-15 commits.
+16 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic Impeller+Vulkan support to embedder API.
   <sub>[#55490](https://github.com/flutter/engine/pull/55490) merged on October 28, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/55490) over 1 month, 774 additions and 111 deletions in 24 files</sub>
@@ -704,6 +704,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin local_engine mac builds to arm64
   <sub>[#56172](https://github.com/flutter/engine/pull/56172) merged on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56172) over 2 hours, 32 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: disable AHBs on devices that were upgraded to 29.
+  <sub>[#56213](https://github.com/flutter/engine/pull/56213) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56213) over 1 hour, 23 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John McDole](https://github.com/jtmcdole)</sub>
 
 ### October 19, 2024 to October 25, 2024
 
