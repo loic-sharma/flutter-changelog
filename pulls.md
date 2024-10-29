@@ -131,3 +131,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `interactive_viewer.0.dart`<br />
   <sub>[#157773](https://github.com/flutter/flutter/pull/157773) opened on on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157773) 63 additions and 1 deletion in 2 files</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
+  <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 100 additions and 2 deletions in 2 files</sub><br />
+
