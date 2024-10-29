@@ -86,7 +86,7 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[René Kilczan](https://github.com/rekire)** &mdash; Add windows build version detection
-  <sub>[#154797](https://github.com/flutter/flutter/pull/154797) merged on October 22, 2024 &mdash; **Medium:** [45 comments](https://github.com/flutter/flutter/pull/154797) over 1 month, 316 additions and 15 deletions in 3 files</sub>
+  <sub>[#154797](https://github.com/flutter/flutter/pull/154797) merged on October 22, 2024 &mdash; **Medium:** [46 comments](https://github.com/flutter/flutter/pull/154797) over 1 month, 316 additions and 15 deletions in 3 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add callbacks for detecting tap up events to TapRegion
