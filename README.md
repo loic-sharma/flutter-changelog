@@ -1235,7 +1235,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-4 commits.
+5 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for iOS native `IMACompanionAdSlot` and `IMACompanionDelegate`<br />
   <sub>[#7889](https://github.com/flutter/packages/pull/7889) merged on October 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7889) over 1 week, 1093 additions and 3 deletions in 14 files</sub><br />
@@ -1244,6 +1244,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Bump `path_provider_android` to `^2.2.5` due to Android v1 embedder.<br />
   <sub>[#7935](https://github.com/flutter/packages/pull/7935) merged on October 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7935) over 3 days, 6 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Sam Rawlins](https://github.com/srawlins)** &mdash; Disable two lint rules which are being removed.<br />
+  <sub>[#7959](https://github.com/flutter/packages/pull/7959) merged on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7959) over 1 hour, 0 additions and 11 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Fix macOS 14+ test hangs<br />
   <sub>[#7953](https://github.com/flutter/packages/pull/7953) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7953) over 2 hours, 8 additions and 4 deletions in 4 files</sub><br />
