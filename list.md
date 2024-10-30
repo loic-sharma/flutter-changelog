@@ -700,11 +700,15 @@
 
 ### October 26, 2024 to November 1, 2024
 
-24 commits.
+25 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Change default TileMode for blur ImageFilter objects to null
   <sub>[#55552](https://github.com/flutter/engine/pull/55552) merged on October 29, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55552) over 4 weeks, 872 additions and 112 deletions in 37 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and use `mergeGnArgs` with `--gn-args` from `et`.
+  <sub>[#56228](https://github.com/flutter/engine/pull/56228) merged on October 30, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/56228) over 19 hours, 543 additions and 39 deletions in 7 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Prioritize split font fallbacks over monolythic ones.
   <sub>[#56187](https://github.com/flutter/engine/pull/56187) merged on October 29, 2024 &mdash; **Extra large:** [18 comments](https://github.com/flutter/engine/pull/56187) over 19 hours, 1940 additions and 1902 deletions in 4 files</sub>
