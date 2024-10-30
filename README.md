@@ -654,7 +654,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-21 commits.
+22 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Change default TileMode for blur ImageFilter objects to null<br />
   <sub>[#55552](https://github.com/flutter/engine/pull/55552) merged on October 29, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55552) over 4 weeks, 872 additions and 112 deletions in 37 files</sub><br />
@@ -708,6 +708,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Switch some mac_unopt tests from intel to arm hosts<br />
   <sub>[#55882](https://github.com/flutter/engine/pull/55882) merged on October 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55882) over 1 week, 39 additions and 85 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: make unopt debug builds unopt and debug<br />
+  <sub>[#56226](https://github.com/flutter/engine/pull/56226) merged on October 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56226) over 3 hours, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to 3f1a1f0.<br />
   <sub>[#56214](https://github.com/flutter/engine/pull/56214) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56214) over 5 hours, 1 addition and 2 deletions in 2 files</sub><br />
