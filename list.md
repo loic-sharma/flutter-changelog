@@ -4,7 +4,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-26 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize the default `Slider` padding
   <sub>[#156143](https://github.com/flutter/flutter/pull/156143) merged on October 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156143) over 3 weeks, 244 additions and 25 deletions in 4 files</sub>
@@ -36,6 +36,10 @@
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) merged on October 29, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/157151) over 1 week, 80 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Navaron Bracke](https://github.com/navaronbracke), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update CHANGELOG.md to correct ios vs macos issue
+  <sub>[#157822](https://github.com/flutter/flutter/pull/157822) merged on October 30, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/157822) over 18 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Avoid labeling all PRs as 'text-input'
   <sub>[#157805](https://github.com/flutter/flutter/pull/157805) merged on October 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157805) over 6 hours, 2 additions and 2 deletions in 1 file</sub>
