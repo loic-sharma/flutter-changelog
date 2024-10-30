@@ -92,9 +92,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `ResizeImage` documentation<br />
-  <sub>[#157619](https://github.com/flutter/flutter/pull/157619) opened on on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157619) 9 additions and 7 deletions in 1 file</sub><br />
-
 * **[Coin](https://github.com/coin3x)** &mdash; Add SharedXAxisPageTransition<br />
   <sub>[#157659](https://github.com/flutter/flutter/pull/157659) opened on on October 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157659) 295 additions and 0 deletions in 3 files</sub><br />
 
