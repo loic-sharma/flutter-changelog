@@ -4,7 +4,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-27 commits.
+28 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize the default `Slider` padding
   <sub>[#156143](https://github.com/flutter/flutter/pull/156143) merged on October 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156143) over 3 weeks, 244 additions and 25 deletions in 4 files</sub>
@@ -60,6 +60,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Avoid labeling 'context' PRs as 'text-input'
   <sub>[#157650](https://github.com/flutter/flutter/pull/157650) merged on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157650) over 2 days, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Mention partial PRs in the contributing docs
+  <sub>[#157863](https://github.com/flutter/flutter/pull/157863) merged on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157863) over 35 minutes, 8 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `interactive_viewer.0.dart`
   <sub>[#157773](https://github.com/flutter/flutter/pull/157773) merged on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157773) over 22 hours, 63 additions and 1 deletion in 2 files</sub>
