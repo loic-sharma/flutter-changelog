@@ -114,7 +114,7 @@
   <sub>[#157750](https://github.com/flutter/flutter/pull/157750) opened on on October 28, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/157750) 805 additions and 453 deletions in 3 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support double tap and long press to select ChoiceChip, FilterChip, InputChip (#157752)<br />
-  <sub>[#157754](https://github.com/flutter/flutter/pull/157754) opened on on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157754) 15 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157754](https://github.com/flutter/flutter/pull/157754) opened on on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157754) 15 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157756) 48 additions and 1 deletion in 2 files</sub><br />
