@@ -129,5 +129,5 @@
   <sub>[#157874](https://github.com/flutter/flutter/pull/157874) opened on on October 30, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/157874) 1789 additions and 1755 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Support host android apps with `kts` gradle files for add to app<br />
-  <sub>[#157881](https://github.com/flutter/flutter/pull/157881) opened on on October 30, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/157881) 1018 additions and 15 deletions in 46 files</sub><br />
+  <sub>[#157881](https://github.com/flutter/flutter/pull/157881) opened on on October 30, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/157881) 1018 additions and 15 deletions in 46 files</sub><br />
 
