@@ -4,7 +4,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-32 commits.
+33 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize the default `Slider` padding<br />
   <sub>[#156143](https://github.com/flutter/flutter/pull/156143) merged on October 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156143) over 3 weeks, 244 additions and 25 deletions in 4 files</sub><br />
@@ -49,6 +49,10 @@
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker<br />
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) merged on October 29, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/157151) over 1 week, 80 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Navaron Bracke](https://github.com/navaronbracke), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Adds a new helpful tool exit message for SocketExceptions thrown during mdns discovery<br />
+  <sub>[#157638](https://github.com/flutter/flutter/pull/157638) merged on October 30, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157638) over 5 days, 53 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update CHANGELOG.md to correct ios vs macos issue<br />
   <sub>[#157822](https://github.com/flutter/flutter/pull/157822) merged on October 30, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/157822) over 18 hours, 2 additions and 2 deletions in 1 file</sub><br />
