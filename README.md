@@ -6,6 +6,10 @@
 
 25 commits.
 
+* **[YeungKC](https://github.com/YeungKC)** &mdash; Fix menu anchor state handling<br />
+  <sub>[#157612](https://github.com/flutter/flutter/pull/157612) merged on October 30, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/157612) over 4 days, 65 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
 * **[yim](https://github.com/yiiim)** &mdash; Add boundary feature to the drag gesture.<br />
   <sub>[#147521](https://github.com/flutter/flutter/pull/147521) merged on October 30, 2024 &mdash; **Small:** [105 comments](https://github.com/flutter/flutter/pull/147521) over 6 months, 289 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
@@ -19,10 +23,6 @@
   <sub>[#157220](https://github.com/flutter/flutter/pull/157220) merged on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157220) over 1 week, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
   <sub><details><summary>1 image...</summary><img width="480" alt="code" src="https://github.com/user-attachments/assets/de45b396-995a-459f-8f36-f738d16cc229"></details></sub>
-
-* **[YeungKC](https://github.com/YeungKC)** &mdash; Fix menu anchor state handling<br />
-  <sub>[#157612](https://github.com/flutter/flutter/pull/157612) merged on October 30, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/157612) over 4 days, 65 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `ResizeImage` documentation<br />
   <sub>[#157619](https://github.com/flutter/flutter/pull/157619) merged on October 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157619) over 4 days, 9 additions and 7 deletions in 1 file</sub><br />
@@ -1255,7 +1255,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for iOS native `IMACompanionAdSlot` and `IMACompanionDelegate`<br />
   <sub>[#7889](https://github.com/flutter/packages/pull/7889) merged on October 28, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7889) over 1 week, 1093 additions and 3 deletions in 14 files</sub><br />
@@ -1264,6 +1264,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Bump `path_provider_android` to `^2.2.5` due to Android v1 embedder.<br />
   <sub>[#7935](https://github.com/flutter/packages/pull/7935) merged on October 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7935) over 3 days, 6 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Update build-all app creation<br />
+  <sub>[#7955](https://github.com/flutter/packages/pull/7955) merged on October 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7955) over 17 hours, 17 additions and 30 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Disable two lint rules which are being removed.<br />
   <sub>[#7959](https://github.com/flutter/packages/pull/7959) merged on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7959) over 1 hour, 0 additions and 11 deletions in 6 files</sub><br />
