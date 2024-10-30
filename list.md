@@ -735,8 +735,8 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: make unopt debug builds unopt and debug
-  <sub>[#56226](https://github.com/flutter/engine/pull/56226) merged on October 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56226) over 3 hours, 3 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+  <sub>[#56226](https://github.com/flutter/engine/pull/56226) merged on October 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56226) over 3 hours, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to 3f1a1f0.
   <sub>[#56214](https://github.com/flutter/engine/pull/56214) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56214) over 5 hours, 1 addition and 2 deletions in 2 files</sub>
