@@ -4,7 +4,11 @@
 
 ### October 26, 2024 to November 1, 2024
 
-21 commits.
+22 commits.
+
+* **[yim](https://github.com/yiiim)** &mdash; Add boundary feature to the drag gesture.<br />
+  <sub>[#147521](https://github.com/flutter/flutter/pull/147521) merged on October 30, 2024 &mdash; **Small:** [105 comments](https://github.com/flutter/flutter/pull/147521) over 6 months, 289 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` tab icons not respecting custom `IconTheme`<br />
   <sub>[#157724](https://github.com/flutter/flutter/pull/157724) merged on October 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157724) over 19 hours, 71 additions and 5 deletions in 2 files</sub><br />
