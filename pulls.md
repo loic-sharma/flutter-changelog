@@ -84,7 +84,7 @@
   <sub>[#157524](https://github.com/flutter/flutter/pull/157524) opened on on October 24, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157524) 6640 additions and 102 deletions in 74 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; example: material 3 multi-window demo<br />
-  <sub>[#157525](https://github.com/flutter/flutter/pull/157525) opened on on October 24, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157525) 9437 additions and 113 deletions in 121 files</sub><br />
+  <sub>[#157525](https://github.com/flutter/flutter/pull/157525) opened on on October 24, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157525) 9647 additions and 113 deletions in 121 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix use of deprecated `buildDir` in Android templates/tests/examples<br />
   <sub>[#157560](https://github.com/flutter/flutter/pull/157560) opened on on October 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157560) 63 additions and 55 deletions in 23 files</sub><br />
