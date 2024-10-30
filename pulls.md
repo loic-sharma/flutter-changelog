@@ -135,7 +135,7 @@
   <sub>[#157855](https://github.com/flutter/flutter/pull/157855) opened on on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157855) 4 additions and 3 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to `Diagnosticable` methods<br />
-  <sub>[#157873](https://github.com/flutter/flutter/pull/157873) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157873) 10 additions and 2 deletions in 4 files</sub><br />
+  <sub>[#157873](https://github.com/flutter/flutter/pull/157873) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157873) 9 additions and 2 deletions in 4 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Implicitly `@protected` Navigator<br />
   <sub>[#157874](https://github.com/flutter/flutter/pull/157874) opened on on October 30, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/157874) 1789 additions and 1755 deletions in 3 files</sub><br />
