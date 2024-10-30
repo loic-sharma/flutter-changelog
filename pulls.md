@@ -122,3 +122,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 100 additions and 2 deletions in 2 files</sub><br />
 
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Imporve `ContainerRenderObjectMixin` error message when parentData is not set up properly<br />
+  <sub>[#157846](https://github.com/flutter/flutter/pull/157846) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157846) 17 additions and 0 deletions in 2 files</sub><br />
+
