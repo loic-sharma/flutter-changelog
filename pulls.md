@@ -92,9 +92,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
-* **[Coin](https://github.com/coin3x)** &mdash; Add SharedXAxisPageTransition<br />
-  <sub>[#157659](https://github.com/flutter/flutter/pull/157659) opened on on October 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157659) 295 additions and 0 deletions in 3 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; fix fade_transition issue<br />
   <sub>[#157663](https://github.com/flutter/flutter/pull/157663) opened on on October 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157663) 24 additions and 1 deletion in 2 files</sub><br />
 
@@ -103,12 +100,6 @@
 
 * **[Neutrino2711](https://github.com/Neutrino2711)** &mdash; Updated document to clarify Clip Behaviour<br />
   <sub>[#157719](https://github.com/flutter/flutter/pull/157719) opened on on October 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157719) 11 additions and 2 deletions in 1 file</sub><br />
-
-* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; fix-expose-did-complete<br />
-  <sub>[#157725](https://github.com/flutter/flutter/pull/157725) opened on on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157725) 1 addition and 2 deletions in 1 file</sub><br />
-
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out "shaker" class<br />
-  <sub>[#157748](https://github.com/flutter/flutter/pull/157748) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157748) 31 additions and 49 deletions in 2 files</sub><br />
 
 * **[Mohamed Kamel](https://github.com/mu7ammadkamel)** &mdash; add centerLeading to AppBar.<br />
   <sub>[#157750](https://github.com/flutter/flutter/pull/157750) opened on on October 28, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/157750) 805 additions and 453 deletions in 3 files</sub><br />
