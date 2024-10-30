@@ -688,7 +688,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-22 commits.
+23 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Change default TileMode for blur ImageFilter objects to null<br />
   <sub>[#55552](https://github.com/flutter/engine/pull/55552) merged on October 29, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55552) over 4 weeks, 872 additions and 112 deletions in 37 files</sub><br />
@@ -734,6 +734,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix initial layout for loadOp load and incorrect usage of host visible textures.<br />
   <sub>[#56148](https://github.com/flutter/engine/pull/56148) merged on October 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56148) over 2 days, 63 additions and 17 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Remove the use of a subpixel minimum stroke size for MSAA<br />
+  <sub>[#56223](https://github.com/flutter/engine/pull/56223) merged on October 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56223) over 19 hours, 17 additions and 38 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Maleoon GPU from using Vulkan.<br />
   <sub>[#56203](https://github.com/flutter/engine/pull/56203) merged on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56203) over 1 hour, 18 additions and 0 deletions in 2 files</sub><br />
