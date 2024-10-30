@@ -4,7 +4,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-31 commits.
+32 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize the default `Slider` padding<br />
   <sub>[#156143](https://github.com/flutter/flutter/pull/156143) merged on October 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156143) over 3 weeks, 244 additions and 25 deletions in 4 files</sub><br />
@@ -20,6 +20,10 @@
   <sub>[#157612](https://github.com/flutter/flutter/pull/157612) merged on October 30, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/157612) over 4 days, 65 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add hidden `--no-implicit-pubspec-resolution` flag for one stable release.<br />
+  <sub>[#157635](https://github.com/flutter/flutter/pull/157635) merged on October 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/157635) over 4 days, 133 additions and 51 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[yim](https://github.com/yiiim)** &mdash; Add boundary feature to the drag gesture.<br />
   <sub>[#147521](https://github.com/flutter/flutter/pull/147521) merged on October 30, 2024 &mdash; **Small:** [105 comments](https://github.com/flutter/flutter/pull/147521) over 6 months, 289 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
@@ -34,9 +38,9 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
   <sub><details><summary>1 image...</summary><img width="480" alt="code" src="https://github.com/user-attachments/assets/de45b396-995a-459f-8f36-f738d16cc229"></details></sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add hidden `--no-implicit-pubspec-resolution` flag for one stable release.<br />
-  <sub>[#157635](https://github.com/flutter/flutter/pull/157635) merged on October 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/157635) over 4 days, 133 additions and 51 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[miechoo](https://github.com/miechoo)** &mdash; Fix `GlowingOverscrollIndicator` examples<br />
+  <sub>[#155203](https://github.com/flutter/flutter/pull/155203) merged on October 30, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/155203) over 1 month, 245 additions and 14 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `ResizeImage` documentation<br />
   <sub>[#157619](https://github.com/flutter/flutter/pull/157619) merged on October 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157619) over 4 days, 9 additions and 7 deletions in 1 file</sub><br />
