@@ -123,8 +123,11 @@
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 100 additions and 2 deletions in 2 files</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; Imporve `ContainerRenderObjectMixin` error message when parentData is not set up properly<br />
-  <sub>[#157846](https://github.com/flutter/flutter/pull/157846) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157846) 17 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#157846](https://github.com/flutter/flutter/pull/157846) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157846) 22 additions and 0 deletions in 2 files</sub><br />
 
 * **[Pascal Welsch](https://github.com/passsy)** &mdash; Revert: Add wrapWidth parameter of DiagnosticableTree.toStringDeep()<br />
-  <sub>[#157850](https://github.com/flutter/flutter/pull/157850) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157850) 2 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#157850](https://github.com/flutter/flutter/pull/157850) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157850) 48 additions and 6 deletions in 2 files</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `media_query_data.system_gesture_insets.0.dart`<br />
+  <sub>[#157854](https://github.com/flutter/flutter/pull/157854) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157854) 23 additions and 1 deletion in 2 files</sub><br />
 
