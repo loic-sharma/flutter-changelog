@@ -53,9 +53,6 @@
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fixes typos & spelling error in changelog.md file<br />
   <sub>[#157438](https://github.com/flutter/flutter/pull/157438) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157438) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `buildDir` inside `flutter.groovy`<br />
-  <sub>[#157468](https://github.com/flutter/flutter/pull/157468) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157468) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside `flutter.groovy`<br />
   <sub>[#157471](https://github.com/flutter/flutter/pull/157471) opened on on October 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157471) 30 additions and 52 deletions in 1 file</sub><br />
 
@@ -120,7 +117,7 @@
   <sub>[#157754](https://github.com/flutter/flutter/pull/157754) opened on on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157754) 15 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
-  <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157756) 48 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157756) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 100 additions and 2 deletions in 2 files</sub><br />
