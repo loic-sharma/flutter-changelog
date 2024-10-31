@@ -107,6 +107,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `notification.0.dart`<br />
   <sub>[#157909](https://github.com/flutter/flutter/pull/157909) opened on on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157909) 125 additions and 1 deletion in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add adaptive vertical positioning to RenderFollowerLayer<br />
-  <sub>[#157921](https://github.com/flutter/flutter/pull/157921) opened on on October 31, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/157921) 329 additions and 51 deletions in 6 files</sub><br />
-
