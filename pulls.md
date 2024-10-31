@@ -84,7 +84,7 @@
   <sub>[#157525](https://github.com/flutter/flutter/pull/157525) opened on on October 24, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157525) 9647 additions and 113 deletions in 121 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix use of deprecated `buildDir` in Android templates/tests/examples<br />
-  <sub>[#157560](https://github.com/flutter/flutter/pull/157560) opened on on October 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157560) 63 additions and 55 deletions in 23 files</sub><br />
+  <sub>[#157560](https://github.com/flutter/flutter/pull/157560) opened on on October 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157560) 63 additions and 55 deletions in 23 files</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
@@ -105,7 +105,7 @@
   <sub>[#157754](https://github.com/flutter/flutter/pull/157754) opened on on October 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157754) 15 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
-  <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157756) 48 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157756) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 100 additions and 2 deletions in 2 files</sub><br />
