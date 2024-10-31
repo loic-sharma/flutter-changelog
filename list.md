@@ -1412,7 +1412,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [vector_garphics] fix execution on the web with WebAssembly
-  <sub>[#7991](https://github.com/flutter/packages/pull/7991) merged on October 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7991) over 23 minutes, 6 additions and 2 deletions in 3 files</sub>
+  <sub>[#7991](https://github.com/flutter/packages/pull/7991) merged on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7991) over 23 minutes, 6 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Support third_party for --current-package
@@ -1596,7 +1596,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-4 commits.
+5 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Declare `package:flutter_gen` to be deprecated
   <sub>[#11343](https://github.com/flutter/website/pull/11343) merged on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11343) over 23 hours, 95 additions and 2 deletions in 4 files</sub>
@@ -1613,6 +1613,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove test-drive page from get-started flow
   <sub>[#11337](https://github.com/flutter/website/pull/11337) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11337) over 3 hours, 33 additions and 31 deletions in 15 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[El](https://github.com/undef-i)** &mdash; Fix Errors in PowerShell Code in Flutter Setup Guide for China
+  <sub>[#11329](https://github.com/flutter/website/pull/11329) merged on October 31, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11329) over 6 days, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 ### October 19, 2024 to October 25, 2024
 
