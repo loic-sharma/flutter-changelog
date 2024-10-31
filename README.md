@@ -4,7 +4,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-36 commits.
+37 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize the default `Slider` padding<br />
   <sub>[#156143](https://github.com/flutter/flutter/pull/156143) merged on October 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156143) over 3 weeks, 244 additions and 25 deletions in 4 files</sub><br />
@@ -41,6 +41,10 @@
   <sub>[#157220](https://github.com/flutter/flutter/pull/157220) merged on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157220) over 1 week, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
   <sub><details><summary>1 image...</summary><img width="480" alt="code" src="https://github.com/user-attachments/assets/de45b396-995a-459f-8f36-f738d16cc229"></details></sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Hides added routes before top-most route finishes pushing<br />
+  <sub>[#156104](https://github.com/flutter/flutter/pull/156104) merged on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156104) over 4 weeks, 88 additions and 22 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) merged on October 31, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/155209) over 1 month, 22 additions and 20 deletions in 2 files</sub><br />
@@ -90,8 +94,8 @@
   <sub>[#157650](https://github.com/flutter/flutter/pull/157650) merged on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157650) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `media_query_data.system_gesture_insets.0.dart`<br />
-  <sub>[#157854](https://github.com/flutter/flutter/pull/157854) merged on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157854) over 1 day, 23 additions and 1 deletion in 2 files</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `focus_node.unfocus.0.dart`<br />
+  <sub>[#157673](https://github.com/flutter/flutter/pull/157673) merged on October 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157673) over 1 day, 78 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `navigator_state.restorable_push.0.dart`<br />
@@ -134,8 +138,8 @@
   <sub>[#157704](https://github.com/flutter/flutter/pull/157704) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157704) over 2 hours, 60 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `focus_node.unfocus.0.dart`<br />
-  <sub>[#157673](https://github.com/flutter/flutter/pull/157673) merged on October 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157673) over 1 day, 78 additions and 1 deletion in 2 files</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `media_query_data.system_gesture_insets.0.dart`<br />
+  <sub>[#157854](https://github.com/flutter/flutter/pull/157854) merged on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157854) over 1 day, 23 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Mention partial PRs in the contributing docs<br />
