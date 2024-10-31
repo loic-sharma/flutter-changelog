@@ -137,6 +137,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `notification.0.dart`<br />
   <sub>[#157909](https://github.com/flutter/flutter/pull/157909) opened on on October 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157909) 128 additions and 1 deletion in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Refactor DropdownMenu tests<br />
-  <sub>[#157913](https://github.com/flutter/flutter/pull/157913) opened on on October 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157913) 106 additions and 128 deletions in 2 files</sub><br />
-
