@@ -101,9 +101,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `notification.0.dart`<br />
   <sub>[#157909](https://github.com/flutter/flutter/pull/157909) opened on on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157909) 125 additions and 1 deletion in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Renames `injectBuildTimePluginFilesForWebPlatform` and removes unused named parameter.<br />
-  <sub>[#157944](https://github.com/flutter/flutter/pull/157944) opened on on October 31, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157944) 17 additions and 12 deletions in 5 files</sub><br />
-
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157947) 12 additions and 0 deletions in 1 file</sub><br />
 

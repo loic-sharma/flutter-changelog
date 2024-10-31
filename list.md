@@ -4,7 +4,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-40 commits.
+41 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize the default `Slider` padding
   <sub>[#156143](https://github.com/flutter/flutter/pull/156143) merged on October 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156143) over 3 weeks, 244 additions and 25 deletions in 4 files</sub>
@@ -58,13 +58,17 @@
   <sub>[#157707](https://github.com/flutter/flutter/pull/157707) merged on October 31, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/157707) over 3 days, 35 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `ResizeImage` documentation
+  <sub>[#157619](https://github.com/flutter/flutter/pull/157619) merged on October 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157619) over 4 days, 9 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_driver] use mostly public screenshot API.
   <sub>[#157888](https://github.com/flutter/flutter/pull/157888) merged on October 31, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/157888) over 22 hours, 278 additions and 12 deletions in 16 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `ResizeImage` documentation
-  <sub>[#157619](https://github.com/flutter/flutter/pull/157619) merged on October 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157619) over 4 days, 9 additions and 7 deletions in 1 file</sub>
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Renames `injectBuildTimePluginFilesForWebPlatform` and removes unused named parameter.
+  <sub>[#157944](https://github.com/flutter/flutter/pull/157944) merged on October 31, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157944) over 3 hours, 17 additions and 12 deletions in 5 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Made insetPadding configurable for Date Picker Dialog
   <sub>[#155651](https://github.com/flutter/flutter/pull/155651) merged on October 31, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/155651) over 1 month, 26 additions and 5 deletions in 2 files</sub>
@@ -90,13 +94,13 @@
   <sub>[#157805](https://github.com/flutter/flutter/pull/157805) merged on October 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157805) over 6 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix and remove a few `no-shuffle` tags in `flutter_tools`.
-  <sub>[#157656](https://github.com/flutter/flutter/pull/157656) merged on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157656) over 3 days, 7 additions and 22 deletions in 3 files</sub>
-  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Avoid labeling 'context' PRs as 'text-input'
   <sub>[#157650](https://github.com/flutter/flutter/pull/157650) merged on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157650) over 2 days, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix and remove a few `no-shuffle` tags in `flutter_tools`.
+  <sub>[#157656](https://github.com/flutter/flutter/pull/157656) merged on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157656) over 3 days, 7 additions and 22 deletions in 3 files</sub>
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] re-enable impeller shard.
   <sub>[#157806](https://github.com/flutter/flutter/pull/157806) merged on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157806) over 56 minutes, 0 additions and 1 deletion in 1 file</sub>
@@ -106,8 +110,8 @@
   <sub>[#157760](https://github.com/flutter/flutter/pull/157760) merged on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157760) over 3 hours, 5 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `navigator_state.restorable_push.0.dart`
-  <sub>[#157667](https://github.com/flutter/flutter/pull/157667) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157667) over 1 day, 58 additions and 3 deletions in 3 files</sub>
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator_state.restorable_push_replacement.0.dart`
+  <sub>[#157668](https://github.com/flutter/flutter/pull/157668) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157668) over 1 day, 59 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove unsafe_html lint rule
@@ -150,21 +154,21 @@
   <sub>[#157704](https://github.com/flutter/flutter/pull/157704) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157704) over 2 hours, 60 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `focus_node.unfocus.0.dart`
+  <sub>[#157673](https://github.com/flutter/flutter/pull/157673) merged on October 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157673) over 1 day, 78 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `media_query_data.system_gesture_insets.0.dart`
   <sub>[#157854](https://github.com/flutter/flutter/pull/157854) merged on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157854) over 1 day, 23 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `focus_node.unfocus.0.dart`
-  <sub>[#157673](https://github.com/flutter/flutter/pull/157673) merged on October 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157673) over 1 day, 78 additions and 1 deletion in 2 files</sub>
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add tests for `navigator_state.restorable_push.0.dart`
+  <sub>[#157667](https://github.com/flutter/flutter/pull/157667) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157667) over 1 day, 58 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Mention partial PRs in the contributing docs
   <sub>[#157863](https://github.com/flutter/flutter/pull/157863) merged on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157863) over 35 minutes, 8 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator_state.restorable_push_replacement.0.dart`
-  <sub>[#157668](https://github.com/flutter/flutter/pull/157668) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157668) over 1 day, 59 additions and 5 deletions in 3 files</sub>
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Reland "Upgrade tests to AGP 8.7/Gradle 8.10.2/Kotlin 1.8.10"
   <sub>[#157617](https://github.com/flutter/flutter/pull/157617) merged on October 29, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/157617) over 4 days, 7303 additions and 4276 deletions in 151 files</sub>
