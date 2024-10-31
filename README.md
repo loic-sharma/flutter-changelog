@@ -716,7 +716,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-34 commits.
+35 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Change default TileMode for blur ImageFilter objects to null<br />
   <sub>[#55552](https://github.com/flutter/engine/pull/55552) merged on October 29, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55552) over 4 weeks, 872 additions and 112 deletions in 37 files</sub><br />
@@ -767,9 +767,9 @@
   <sub>[#56183](https://github.com/flutter/engine/pull/56183) merged on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56183) over 17 hours, 43 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: migrate Metal testing types to ARC<br />
-  <sub>[#56156](https://github.com/flutter/engine/pull/56156) merged on October 31, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/56156) over 4 days, 41 additions and 22 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: migrate shell/gpu to ARC<br />
+  <sub>[#56157](https://github.com/flutter/engine/pull/56157) merged on October 31, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/56157) over 3 days, 73 additions and 65 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `ArgParser.usage` tests for `BuildPlan` to reduce duplication.<br />
   <sub>[#56254](https://github.com/flutter/engine/pull/56254) merged on October 31, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/56254) over 13 hours, 184 additions and 345 deletions in 1 file</sub><br />
@@ -783,9 +783,9 @@
   <sub>[#56148](https://github.com/flutter/engine/pull/56148) merged on October 28, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56148) over 2 days, 63 additions and 17 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: migrate shell/gpu to ARC<br />
-  <sub>[#56157](https://github.com/flutter/engine/pull/56157) merged on October 31, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/56157) over 3 days, 73 additions and 65 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: migrate Metal testing types to ARC<br />
+  <sub>[#56156](https://github.com/flutter/engine/pull/56156) merged on October 31, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/56156) over 4 days, 41 additions and 22 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] expose reference to tessellator instead of shared_ptr.<br />
   <sub>[#56244](https://github.com/flutter/engine/pull/56244) merged on October 31, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/56244) over 5 hours, 12 additions and 14 deletions in 9 files</sub><br />
@@ -803,13 +803,13 @@
   <sub>[#55882](https://github.com/flutter/engine/pull/55882) merged on October 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55882) over 1 week, 39 additions and 85 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Embedder: migrate Metal surfaces to ARC<br />
+  <sub>[#56279](https://github.com/flutter/engine/pull/56279) merged on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56279) over 54 minutes, 14 additions and 13 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `timeout` to `local_engine`.<br />
   <sub>[#56271](https://github.com/flutter/engine/pull/56271) merged on October 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56271) over 50 minutes, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add back opt out for merged thread mode.<br />
-  <sub>[#56242](https://github.com/flutter/engine/pull/56242) merged on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56242) over 2 hours, 12 additions and 5 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: make unopt debug builds unopt and debug<br />
   <sub>[#56226](https://github.com/flutter/engine/pull/56226) merged on October 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56226) over 3 hours, 3 additions and 0 deletions in 1 file</sub><br />
@@ -842,6 +842,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate strong retain loop in Scenario tests<br />
   <sub>[#56249](https://github.com/flutter/engine/pull/56249) merged on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56249) over 2 hours, 2 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add back opt out for merged thread mode.<br />
+  <sub>[#56242](https://github.com/flutter/engine/pull/56242) merged on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56242) over 2 hours, 12 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix MSAA sample size and HostBuffer alignment.<br />
   <sub>[#56218](https://github.com/flutter/engine/pull/56218) merged on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56218) over 2 hours, 41 additions and 2 deletions in 4 files</sub><br />
@@ -1353,7 +1357,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-14 commits.
+15 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for `path_provider`<br />
   <sub>[#7822](https://github.com/flutter/packages/pull/7822) merged on October 30, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/7822) over 3 weeks, 226 additions and 62 deletions in 7 files</sub><br />
@@ -1382,6 +1386,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Bump `path_provider_android` to `^2.2.5` due to Android v1 embedder.<br />
   <sub>[#7935](https://github.com/flutter/packages/pull/7935) merged on October 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7935) over 3 days, 6 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [vector_garphics] fix execution on the web with WebAssembly<br />
+  <sub>[#7991](https://github.com/flutter/packages/pull/7991) merged on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7991) over 23 minutes, 6 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Support third_party for --current-package<br />
   <sub>[#7967](https://github.com/flutter/packages/pull/7967) merged on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7967) over 4 hours, 28 additions and 7 deletions in 2 files</sub><br />
