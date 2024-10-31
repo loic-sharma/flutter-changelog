@@ -56,33 +56,6 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
 
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement popup windows<br />
-  <sub>[#157517](https://github.com/flutter/flutter/pull/157517) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157517) 3097 additions and 2 deletions in 27 files</sub><br />
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: migrate MenuAnchor to multi-window<br />
-  <sub>[#157518](https://github.com/flutter/flutter/pull/157518) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157518) 4459 additions and 42 deletions in 45 files</sub><br />
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: migrate PopupMenu to multi-window<br />
-  <sub>[#157519](https://github.com/flutter/flutter/pull/157519) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157519) 4990 additions and 67 deletions in 47 files</sub><br />
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: migrate Tooltip to multi-window<br />
-  <sub>[#157520](https://github.com/flutter/flutter/pull/157520) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157520) 5148 additions and 82 deletions in 49 files</sub><br />
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: dialog windows<br />
-  <sub>[#157521](https://github.com/flutter/flutter/pull/157521) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157521) 5301 additions and 82 deletions in 50 files</sub><br />
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: migrate showDialog to use multi-window<br />
-  <sub>[#157522](https://github.com/flutter/flutter/pull/157522) opened on on October 24, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/157522) 5452 additions and 98 deletions in 52 files</sub><br />
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implementation of satellite windows<br />
-  <sub>[#157523](https://github.com/flutter/flutter/pull/157523) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157523) 5650 additions and 98 deletions in 53 files</sub><br />
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; testing: integration tests for creating windows<br />
-  <sub>[#157524](https://github.com/flutter/flutter/pull/157524) opened on on October 24, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157524) 6640 additions and 102 deletions in 74 files</sub><br />
-
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; example: material 3 multi-window demo<br />
-  <sub>[#157525](https://github.com/flutter/flutter/pull/157525) opened on on October 24, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/157525) 9647 additions and 113 deletions in 121 files</sub><br />
-
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix use of deprecated `buildDir` in Android templates/tests/examples<br />
   <sub>[#157560](https://github.com/flutter/flutter/pull/157560) opened on on October 24, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157560) 63 additions and 55 deletions in 23 files</sub><br />
 
