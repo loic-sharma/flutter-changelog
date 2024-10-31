@@ -744,7 +744,7 @@
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm single threaded<br />
-  <sub>[#56206](https://github.com/flutter/engine/pull/56206) merged on October 31, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/engine/pull/56206) over 1 day, 939 additions and 1703 deletions in 35 files</sub><br />
+  <sub>[#56206](https://github.com/flutter/engine/pull/56206) merged on October 31, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/engine/pull/56206) over 1 day, 939 additions and 1703 deletions in 35 files</sub><br />
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Replace HostBuffer with Dart version.<br />
