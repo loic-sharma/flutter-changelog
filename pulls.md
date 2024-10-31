@@ -54,7 +54,7 @@
   <sub>[#157471](https://github.com/flutter/flutter/pull/157471) opened on on October 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157471) 30 additions and 52 deletions in 1 file</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
-  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
+  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement popup windows<br />
   <sub>[#157517](https://github.com/flutter/flutter/pull/157517) opened on on October 24, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/157517) 3097 additions and 2 deletions in 27 files</sub><br />
