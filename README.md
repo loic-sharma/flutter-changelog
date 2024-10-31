@@ -728,7 +728,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-39 commits.
+40 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Change default TileMode for blur ImageFilter objects to null<br />
   <sub>[#55552](https://github.com/flutter/engine/pull/55552) merged on October 29, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55552) over 4 weeks, 872 additions and 112 deletions in 37 files</sub><br />
@@ -775,17 +775,17 @@
   <sub>[#56054](https://github.com/flutter/engine/pull/56054) merged on October 28, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/engine/pull/56054) over 5 days, 139 additions and 335 deletions in 12 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Clip the DrawImageRect source rect to the bounds of the image<br />
-  <sub>[#56183](https://github.com/flutter/engine/pull/56183) merged on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56183) over 17 hours, 43 additions and 1 deletion in 3 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Adreno 506.<br />
   <sub>[#56210](https://github.com/flutter/engine/pull/56210) merged on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56210) over 1 hour, 7 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: migrate Metal testing types to ARC<br />
-  <sub>[#56156](https://github.com/flutter/engine/pull/56156) merged on October 31, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/56156) over 4 days, 41 additions and 22 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Clip the DrawImageRect source rect to the bounds of the image<br />
+  <sub>[#56183](https://github.com/flutter/engine/pull/56183) merged on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56183) over 17 hours, 43 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make desktop GL render.<br />
+  <sub>[#56274](https://github.com/flutter/engine/pull/56274) merged on October 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56274) over 3 hours, 27 additions and 5 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: migrate shell/gpu to ARC<br />
   <sub>[#56157](https://github.com/flutter/engine/pull/56157) merged on October 31, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/56157) over 3 days, 73 additions and 65 deletions in 8 files</sub><br />
@@ -807,9 +807,9 @@
   <sub>[#56224](https://github.com/flutter/engine/pull/56224) merged on October 31, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/56224) over 1 day, 405 additions and 190 deletions in 40 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make desktop GL render.<br />
-  <sub>[#56274](https://github.com/flutter/engine/pull/56274) merged on October 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56274) over 3 hours, 27 additions and 5 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: migrate Metal testing types to ARC<br />
+  <sub>[#56156](https://github.com/flutter/engine/pull/56156) merged on October 31, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/engine/pull/56156) over 4 days, 41 additions and 22 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] expose reference to tessellator instead of shared_ptr.<br />
   <sub>[#56244](https://github.com/flutter/engine/pull/56244) merged on October 31, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/56244) over 5 hours, 12 additions and 14 deletions in 9 files</sub><br />
@@ -827,13 +827,13 @@
   <sub>[#55882](https://github.com/flutter/engine/pull/55882) merged on October 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55882) over 1 week, 39 additions and 85 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: migrate third_party/accessibility to ARC<br />
+  <sub>[#56281](https://github.com/flutter/engine/pull/56281) merged on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56281) over 1 hour, 17 additions and 193 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS/macOS: migrate darwin/common to ARC<br />
   <sub>[#56155](https://github.com/flutter/engine/pull/56155) merged on October 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56155) over 1 day, 10 additions and 11 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to pick up revert of debugging gen_snapshot prints<br />
-  <sub>[#56175](https://github.com/flutter/engine/pull/56175) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56175) over 1 hour, 1 addition and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: make unopt debug builds unopt and debug<br />
   <sub>[#56226](https://github.com/flutter/engine/pull/56226) merged on October 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56226) over 3 hours, 3 additions and 0 deletions in 1 file</sub><br />
@@ -867,13 +867,17 @@
   <sub>[#56249](https://github.com/flutter/engine/pull/56249) merged on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56249) over 2 hours, 2 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin local_engine mac builds to arm64<br />
-  <sub>[#56172](https://github.com/flutter/engine/pull/56172) merged on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56172) over 2 hours, 32 additions and 16 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to pick up revert of debugging gen_snapshot prints<br />
+  <sub>[#56175](https://github.com/flutter/engine/pull/56175) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56175) over 1 hour, 1 addition and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add back opt out for merged thread mode.<br />
   <sub>[#56242](https://github.com/flutter/engine/pull/56242) merged on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56242) over 2 hours, 12 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin local_engine mac builds to arm64<br />
+  <sub>[#56172](https://github.com/flutter/engine/pull/56172) merged on October 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56172) over 2 hours, 32 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix MSAA sample size and HostBuffer alignment.<br />
   <sub>[#56218](https://github.com/flutter/engine/pull/56218) merged on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56218) over 2 hours, 41 additions and 2 deletions in 4 files</sub><br />
