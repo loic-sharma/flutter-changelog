@@ -104,3 +104,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Renames `injectBuildTimePluginFilesForWebPlatform` and removes unused named parameter.<br />
   <sub>[#157944](https://github.com/flutter/flutter/pull/157944) opened on on October 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157944) 8 additions and 12 deletions in 5 files</sub><br />
 
+* **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
+  <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157947) 12 additions and 0 deletions in 1 file</sub><br />
+
