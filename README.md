@@ -1520,7 +1520,11 @@
 
 ### October 26, 2024 to November 1, 2024
 
-2 commits.
+3 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `/to` short links for `et` and `engine-tool`.<br />
+  <sub>[#11344](https://github.com/flutter/website/pull/11344) merged on October 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/website/pull/11344) over 10 hours, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update minimum recommended CocoaPods version to support Xcode 16<br />
   <sub>[#11346](https://github.com/flutter/website/pull/11346) merged on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11346) over 5 hours, 5 additions and 9 deletions in 2 files</sub><br />
