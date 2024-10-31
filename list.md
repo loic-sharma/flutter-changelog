@@ -700,7 +700,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-28 commits.
+29 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Change default TileMode for blur ImageFilter objects to null
   <sub>[#55552](https://github.com/flutter/engine/pull/55552) merged on October 29, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55552) over 4 weeks, 872 additions and 112 deletions in 37 files</sub>
@@ -726,6 +726,10 @@
   <sub>[#56153](https://github.com/flutter/engine/pull/56153) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56153) over 1 day, 18 additions and 15 deletions in 4 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/aeae405b-1e5a-4d97-a9a3-b7668cec0714)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use primitive restart for faster tessellation: write directly into host buffer.
+  <sub>[#56173](https://github.com/flutter/engine/pull/56173) merged on October 31, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/engine/pull/56173) over 2 days, 410 additions and 15 deletions in 19 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made et compilation errors relative to the CWD
   <sub>[#56177](https://github.com/flutter/engine/pull/56177) merged on October 29, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/56177) over 1 day, 32 additions and 0 deletions in 2 files</sub>
