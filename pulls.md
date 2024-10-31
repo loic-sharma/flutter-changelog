@@ -89,9 +89,6 @@
 * **[Pascal Welsch](https://github.com/passsy)** &mdash; Revert: Add wrapWidth parameter of DiagnosticableTree.toStringDeep()<br />
   <sub>[#157850](https://github.com/flutter/flutter/pull/157850) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157850) 48 additions and 6 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `media_query_data.system_gesture_insets.0.dart`<br />
-  <sub>[#157854](https://github.com/flutter/flutter/pull/157854) opened on on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157854) 23 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(ScrollAction): unsafe null assertion operation<br />
   <sub>[#157855](https://github.com/flutter/flutter/pull/157855) opened on on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157855) 4 additions and 3 deletions in 1 file</sub><br />
 
