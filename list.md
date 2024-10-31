@@ -1520,7 +1520,11 @@
 
 ### October 26, 2024 to November 1, 2024
 
-1 commits.
+2 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update minimum recommended CocoaPods version to support Xcode 16
+  <sub>[#11346](https://github.com/flutter/website/pull/11346) merged on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11346) over 5 hours, 5 additions and 9 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove test-drive page from get-started flow
   <sub>[#11337](https://github.com/flutter/website/pull/11337) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11337) over 3 hours, 33 additions and 31 deletions in 15 files</sub>
