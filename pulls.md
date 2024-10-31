@@ -101,3 +101,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `notification.0.dart`<br />
   <sub>[#157909](https://github.com/flutter/flutter/pull/157909) opened on on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157909) 125 additions and 1 deletion in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Renames `injectBuildTimePluginFilesForWebPlatform` and removes unused named parameter.<br />
+  <sub>[#157944](https://github.com/flutter/flutter/pull/157944) opened on on October 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157944) 8 additions and 12 deletions in 5 files</sub><br />
+
