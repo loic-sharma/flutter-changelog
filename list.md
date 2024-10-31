@@ -716,7 +716,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-31 commits.
+32 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Change default TileMode for blur ImageFilter objects to null
   <sub>[#55552](https://github.com/flutter/engine/pull/55552) merged on October 29, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55552) over 4 weeks, 872 additions and 112 deletions in 37 files</sub>
@@ -838,6 +838,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; [Flutter GPU] Fix MSAA sample size and HostBuffer alignment.
   <sub>[#56218](https://github.com/flutter/engine/pull/56218) merged on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56218) over 2 hours, 41 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: disable AHBs on devices that were upgraded to 29.
+  <sub>[#56221](https://github.com/flutter/engine/pull/56221) merged on October 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56221) over 1 day, 25 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: disable AHBs on devices that were upgraded to 29.
   <sub>[#56213](https://github.com/flutter/engine/pull/56213) merged on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56213) over 1 hour, 23 additions and 4 deletions in 3 files</sub>
