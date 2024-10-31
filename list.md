@@ -1412,8 +1412,8 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [vector_garphics] fix execution on the web with WebAssembly
-  <sub>[#7991](https://github.com/flutter/packages/pull/7991) merged on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7991) over 23 minutes, 6 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+  <sub>[#7991](https://github.com/flutter/packages/pull/7991) merged on October 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7991) over 23 minutes, 6 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Support third_party for --current-package
   <sub>[#7967](https://github.com/flutter/packages/pull/7967) merged on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7967) over 4 hours, 28 additions and 7 deletions in 2 files</sub>
