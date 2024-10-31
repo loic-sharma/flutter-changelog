@@ -716,7 +716,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-30 commits.
+31 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Change default TileMode for blur ImageFilter objects to null<br />
   <sub>[#55552](https://github.com/flutter/engine/pull/55552) merged on October 29, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55552) over 4 weeks, 872 additions and 112 deletions in 37 files</sub><br />
@@ -794,6 +794,10 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Switch some mac_unopt tests from intel to arm hosts<br />
   <sub>[#55882](https://github.com/flutter/engine/pull/55882) merged on October 28, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/55882) over 1 week, 39 additions and 85 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `timeout` to `local_engine`.<br />
+  <sub>[#56271](https://github.com/flutter/engine/pull/56271) merged on October 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56271) over 50 minutes, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate strong retain loop in Scenario tests<br />
   <sub>[#56249](https://github.com/flutter/engine/pull/56249) merged on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56249) over 2 hours, 2 additions and 10 deletions in 1 file</sub><br />
