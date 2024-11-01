@@ -83,9 +83,6 @@
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(ScrollAction): unsafe null assertion operation<br />
   <sub>[#157855](https://github.com/flutter/flutter/pull/157855) opened on on October 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157855) 6 additions and 6 deletions in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to `Diagnosticable` methods<br />
-  <sub>[#157873](https://github.com/flutter/flutter/pull/157873) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157873) 9 additions and 0 deletions in 1 file</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Set stable color for semantics debugger<br />
   <sub>[#157884](https://github.com/flutter/flutter/pull/157884) opened on on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157884) 33 additions and 6 deletions in 3 files</sub><br />
 
