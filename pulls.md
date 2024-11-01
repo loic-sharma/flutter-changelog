@@ -95,3 +95,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix Hindi language orientation for LTR in localizations.<br />
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157998) 39 additions and 2 deletions in 3 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused references to dev.flutter.plugins.e2e.<br />
+  <sub>[#158031](https://github.com/flutter/flutter/pull/158031) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158031) 0 additions and 32 deletions in 2 files</sub><br />
+
