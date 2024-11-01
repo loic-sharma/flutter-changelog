@@ -104,3 +104,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `interactive_viewer.transformation_controller.0.dart`<br />
   <sub>[#157986](https://github.com/flutter/flutter/pull/157986) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157986) 80 additions and 1 deletion in 3 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.0.dart`<br />
+  <sub>[#157989](https://github.com/flutter/flutter/pull/157989) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157989) 37 additions and 1 deletion in 2 files</sub><br />
+
