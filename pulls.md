@@ -101,6 +101,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.0.dart`<br />
   <sub>[#157989](https://github.com/flutter/flutter/pull/157989) opened on on November 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157989) 37 additions and 1 deletion in 2 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Adjust Hindi language to proper LTR in localizations timeOfDayFormatRaw<br />
-  <sub>[#157998](https://github.com/flutter/flutter/pull/157998) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157998) 38 additions and 1 deletion in 2 files</sub><br />
-
