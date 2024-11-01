@@ -1429,7 +1429,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-16 commits.
+18 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for `path_provider`<br />
   <sub>[#7822](https://github.com/flutter/packages/pull/7822) merged on October 30, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/7822) over 3 weeks, 226 additions and 62 deletions in 7 files</sub><br />
@@ -1458,6 +1458,14 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Bump `path_provider_android` to `^2.2.5` due to Android v1 embedder.<br />
   <sub>[#7935](https://github.com/flutter/packages/pull/7935) merged on October 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/7935) over 3 days, 6 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Update Android for non-nullable generics<br />
+  <sub>[#7990](https://github.com/flutter/packages/pull/7990) merged on November 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7990) over 19 hours, 122 additions and 149 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Minor cleanup in recently imported packages<br />
+  <sub>[#7995](https://github.com/flutter/packages/pull/7995) merged on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7995) over 1 hour, 6 additions and 3 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [go_router] Update example app to Kotlin 1.9.0<br />
   <sub>[#7997](https://github.com/flutter/packages/pull/7997) merged on November 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/7997) over 38 minutes, 1 addition and 1 deletion in 1 file</sub><br />
