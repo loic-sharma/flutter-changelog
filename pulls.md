@@ -96,5 +96,5 @@
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157998) 39 additions and 2 deletions in 3 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add benchmarks for single-threaded Skwasm.<br />
-  <sub>[#158027](https://github.com/flutter/flutter/pull/158027) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158027) 50 additions and 4 deletions in 7 files</sub><br />
+  <sub>[#158027](https://github.com/flutter/flutter/pull/158027) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158027) 51 additions and 4 deletions in 8 files</sub><br />
 
