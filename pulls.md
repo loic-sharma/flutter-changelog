@@ -45,7 +45,7 @@
   <sub>[#157438](https://github.com/flutter/flutter/pull/157438) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157438) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside `flutter.groovy`<br />
-  <sub>[#157471](https://github.com/flutter/flutter/pull/157471) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157471) 25 additions and 52 deletions in 1 file</sub><br />
+  <sub>[#157471](https://github.com/flutter/flutter/pull/157471) opened on on October 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157471) 25 additions and 52 deletions in 1 file</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
