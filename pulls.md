@@ -95,12 +95,12 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Set stable color for semantics debugger<br />
   <sub>[#157884](https://github.com/flutter/flutter/pull/157884) opened on on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157884) 33 additions and 6 deletions in 3 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `notification.0.dart`<br />
-  <sub>[#157909](https://github.com/flutter/flutter/pull/157909) opened on on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157909) 125 additions and 1 deletion in 2 files</sub><br />
-
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157947) 12 additions and 0 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Make the SwiftPM integration tests more idiomatic<br />
   <sub>[#157971](https://github.com/flutter/flutter/pull/157971) opened on on November 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/157971) 703 additions and 695 deletions in 1 file</sub><br />
+
+* **[YeungKC](https://github.com/YeungKC)** &mdash; Refactor: update popup position<br />
+  <sub>[#157983](https://github.com/flutter/flutter/pull/157983) opened on on November 1, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/157983) 1623 additions and 334 deletions in 117 files</sub><br />
 
