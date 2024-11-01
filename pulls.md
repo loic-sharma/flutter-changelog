@@ -101,9 +101,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix Hindi language orientation for LTR in localizations.<br />
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157998) 39 additions and 2 deletions in 3 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unnecessary `kCliAnimationsFeatureName` that is available as `.configSetting`.<br />
-  <sub>[#158013](https://github.com/flutter/flutter/pull/158013) opened on on November 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158013) 2 additions and 4 deletions in 2 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Deflake api 35 emulator tests by updating emulator definitions version to latest available from chrome infra<br />
   <sub>[#158017](https://github.com/flutter/flutter/pull/158017) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158017) 2 additions and 2 deletions in 1 file</sub><br />
 
