@@ -60,7 +60,7 @@
   <sub>[#157696](https://github.com/flutter/flutter/pull/157696) opened on on October 27, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/157696) 564 additions and 382 deletions in 9 files</sub><br />
 
 * **[Neutrino2711](https://github.com/Neutrino2711)** &mdash; Updated document to clarify Clip Behaviour<br />
-  <sub>[#157719](https://github.com/flutter/flutter/pull/157719) opened on on October 28, 2024 &mdash; **Small:** [35 comments](https://github.com/flutter/flutter/pull/157719) 215 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#157719](https://github.com/flutter/flutter/pull/157719) opened on on October 28, 2024 &mdash; **Small:** [44 comments](https://github.com/flutter/flutter/pull/157719) 215 additions and 2 deletions in 3 files</sub><br />
 
 * **[Mohamed Kamel](https://github.com/mu7ammadkamel)** &mdash; add centerLeading to AppBar.<br />
   <sub>[#157750](https://github.com/flutter/flutter/pull/157750) opened on on October 28, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/157750) 805 additions and 453 deletions in 3 files</sub><br />
@@ -102,7 +102,7 @@
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157998) 39 additions and 2 deletions in 3 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unnecessary `kCliAnimationsFeatureName` that is available as `.configSetting`.<br />
-  <sub>[#158013](https://github.com/flutter/flutter/pull/158013) opened on on November 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158013) 2 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#158013](https://github.com/flutter/flutter/pull/158013) opened on on November 1, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158013) 2 additions and 4 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Deflake api 35 emulator tests by updating emulator definitions version to latest available from chrome infra<br />
   <sub>[#158017](https://github.com/flutter/flutter/pull/158017) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158017) 2 additions and 2 deletions in 1 file</sub><br />
