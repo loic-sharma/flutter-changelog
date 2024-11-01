@@ -95,9 +95,6 @@
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 12 additions and 0 deletions in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Make the SwiftPM integration tests more idiomatic<br />
-  <sub>[#157971](https://github.com/flutter/flutter/pull/157971) opened on on November 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/157971) 703 additions and 695 deletions in 1 file</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.0.dart`<br />
   <sub>[#157989](https://github.com/flutter/flutter/pull/157989) opened on on November 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157989) 37 additions and 1 deletion in 2 files</sub><br />
 
