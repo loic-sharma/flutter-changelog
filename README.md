@@ -1684,7 +1684,11 @@
 
 ### October 26, 2024 to November 1, 2024
 
-7 commits.
+8 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; ImageFilter default tile mode automatic selection breaking change notice<br />
+  <sub>[#11338](https://github.com/flutter/website/pull/11338) merged on November 1, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/website/pull/11338) over 4 days, 84 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Parker Lougheed](https://github.com/parlough), [Jim Graham](https://github.com/flar), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add Flutter Forum as a support option<br />
   <sub>[#11350](https://github.com/flutter/website/pull/11350) merged on November 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11350) over 5 hours, 1 addition and 0 deletions in 1 file</sub><br />
