@@ -101,6 +101,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix Hindi language orientation for LTR in localizations.<br />
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157998) 39 additions and 2 deletions in 3 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Deflake api 35 emulator tests by updating emulator definitions version to latest available from chrome infra<br />
-  <sub>[#158017](https://github.com/flutter/flutter/pull/158017) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158017) 2 additions and 2 deletions in 1 file</sub><br />
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Improve consistency of code snippets in basic.dart<br />
+  <sub>[#158015](https://github.com/flutter/flutter/pull/158015) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158015) 7 additions and 2 deletions in 1 file</sub><br />
 
