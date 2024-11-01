@@ -102,5 +102,5 @@
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157998) 39 additions and 2 deletions in 3 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unnecessary `kCliAnimationsFeatureName` that is available as `.configSetting`.<br />
-  <sub>[#158013](https://github.com/flutter/flutter/pull/158013) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158013) 18 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#158013](https://github.com/flutter/flutter/pull/158013) opened on on November 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158013) 2 additions and 4 deletions in 2 files</sub><br />
 
