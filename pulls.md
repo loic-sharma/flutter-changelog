@@ -101,6 +101,3 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Make the SwiftPM integration tests more idiomatic<br />
   <sub>[#157971](https://github.com/flutter/flutter/pull/157971) opened on on November 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/157971) 703 additions and 695 deletions in 1 file</sub><br />
 
-* **[YeungKC](https://github.com/YeungKC)** &mdash; Refactor: update popup position<br />
-  <sub>[#157983](https://github.com/flutter/flutter/pull/157983) opened on on November 1, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/157983) 1623 additions and 334 deletions in 117 files</sub><br />
-
