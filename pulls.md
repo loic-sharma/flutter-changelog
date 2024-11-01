@@ -101,3 +101,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix Hindi language orientation for LTR in localizations.<br />
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157998) 39 additions and 2 deletions in 3 files</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Make SwiftPM integration tests even MORE idiomatic<br />
+  <sub>[#158014](https://github.com/flutter/flutter/pull/158014) opened on on November 1, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158014) 42 additions and 55 deletions in 1 file</sub><br />
+
