@@ -1493,11 +1493,15 @@
 
 ### October 26, 2024 to November 1, 2024
 
-20 commits.
+21 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for `path_provider`
   <sub>[#7822](https://github.com/flutter/packages/pull/7822) merged on October 30, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/7822) over 3 weeks, 226 additions and 62 deletions in 7 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera] Use Pigeon for Windows C++->Dart
+  <sub>[#8001](https://github.com/flutter/packages/pull/8001) merged on November 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/8001) over 15 hours, 543 additions and 344 deletions in 11 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_svg] Initial import
   <sub>[#7944](https://github.com/flutter/packages/pull/7944) merged on October 31, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/7944) over 3 days, 10657 additions and 2 deletions in 276 files</sub>

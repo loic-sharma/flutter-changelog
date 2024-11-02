@@ -81,7 +81,7 @@
   <sub>[#157850](https://github.com/flutter/flutter/pull/157850) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157850) 48 additions and 6 deletions in 2 files</sub><br />
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(ScrollAction): unsafe null assertion operation<br />
-  <sub>[#157855](https://github.com/flutter/flutter/pull/157855) opened on on October 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157855) 6 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#157855](https://github.com/flutter/flutter/pull/157855) opened on on October 30, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157855) 96 additions and 6 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Set stable color for semantics debugger<br />
   <sub>[#157884](https://github.com/flutter/flutter/pull/157884) opened on on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157884) 33 additions and 6 deletions in 3 files</sub><br />
@@ -94,7 +94,4 @@
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `interactive_viewer.constrained.0.dart`<br />
   <sub>[#158044](https://github.com/flutter/flutter/pull/158044) opened on on November 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158044) 79 additions and 1 deletion in 2 files</sub><br />
-
-* **[PDAWork](https://github.com/PDAWork)** &mdash; Refactor CupertinoPicker to support custom selection overlay<br />
-  <sub>[#158051](https://github.com/flutter/flutter/pull/158051) opened on on November 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158051) 2 additions and 2 deletions in 1 file</sub><br />
 
