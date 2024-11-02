@@ -92,3 +92,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix Hindi language orientation for LTR in localizations.<br />
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157998) 39 additions and 2 deletions in 3 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `interactive_viewer.constrained.0.dart`<br />
+  <sub>[#158044](https://github.com/flutter/flutter/pull/158044) opened on on November 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158044) 79 additions and 1 deletion in 2 files</sub><br />
+
