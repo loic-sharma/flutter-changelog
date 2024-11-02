@@ -69,7 +69,7 @@
   <sub>[#157754](https://github.com/flutter/flutter/pull/157754) opened on on October 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157754) 15 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
-  <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/157756) 48 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/157756) 48 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 100 additions and 2 deletions in 2 files</sub><br />
