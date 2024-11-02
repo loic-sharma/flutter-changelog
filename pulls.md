@@ -89,9 +89,6 @@
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.0.dart`<br />
-  <sub>[#157989](https://github.com/flutter/flutter/pull/157989) opened on on November 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157989) 37 additions and 1 deletion in 2 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix Hindi language orientation for LTR in localizations.<br />
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157998) 39 additions and 2 deletions in 3 files</sub><br />
 
