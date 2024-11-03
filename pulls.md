@@ -101,6 +101,3 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "Add and plumb `useImplicitPubspecResolution` across `flutter_tools`."<br />
   <sub>[#158076](https://github.com/flutter/flutter/pull/158076) opened on on November 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158076) 40 additions and 409 deletions in 57 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "Add a warning/additional handlers for parsing`synthetic-package`."<br />
-  <sub>[#158078](https://github.com/flutter/flutter/pull/158078) opened on on November 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158078) 5 additions and 209 deletions in 3 files</sub><br />
-
