@@ -98,3 +98,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.1.dart`<br />
   <sub>[#158069](https://github.com/flutter/flutter/pull/158069) opened on on November 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158069) 36 additions and 1 deletion in 2 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "Add and plumb `useImplicitPubspecResolution` across `flutter_tools`."<br />
+  <sub>[#158076](https://github.com/flutter/flutter/pull/158076) opened on on November 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158076) 40 additions and 409 deletions in 57 files</sub><br />
+
