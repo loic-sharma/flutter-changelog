@@ -1732,7 +1732,7 @@
 
 ### October 26, 2024 to November 1, 2024
 
-8 commits.
+9 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; ImageFilter default tile mode automatic selection breaking change notice<br />
   <sub>[#11338](https://github.com/flutter/website/pull/11338) merged on November 1, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/website/pull/11338) over 4 days, 84 additions and 0 deletions in 2 files</sub><br />
@@ -1757,6 +1757,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove test-drive page from get-started flow<br />
   <sub>[#11337](https://github.com/flutter/website/pull/11337) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11337) over 3 hours, 33 additions and 31 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Flajt](https://github.com/Flajt)** &mdash; Adding new /go/ link for custom camera codec proposal<br />
+  <sub>[#11351](https://github.com/flutter/website/pull/11351) merged on November 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11351) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Craig Labenz](https://github.com/craiglabenz)** &mdash; Flutter from Compose documentation<br />
   <sub>[#11345](https://github.com/flutter/website/pull/11345) merged on October 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11345) over 1 day, 90 additions and 6 deletions in 2 files</sub><br />
