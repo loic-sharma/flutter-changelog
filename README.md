@@ -47,7 +47,7 @@
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning/additional handlers for parsing`synthetic-package`.<br />
-  <sub>[#157934](https://github.com/flutter/flutter/pull/157934) merged on November 1, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/157934) over 6 hours, 209 additions and 5 deletions in 3 files</sub><br />
+  <sub>[#157934](https://github.com/flutter/flutter/pull/157934) merged on November 1, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/157934) over 6 hours, 209 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Hides added routes before top-most route finishes pushing<br />
