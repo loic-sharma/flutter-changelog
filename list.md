@@ -815,6 +815,10 @@
   <sub>[#56284](https://github.com/flutter/engine/pull/56284) merged on November 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/56284) over 4 hours, 240 additions and 768 deletions in 1 file</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm single threaded
+  <sub>[#56206](https://github.com/flutter/engine/pull/56206) merged on October 31, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/engine/pull/56206) over 1 day, 939 additions and 1703 deletions in 35 files</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made et compilation errors relative to the CWD
   <sub>[#56177](https://github.com/flutter/engine/pull/56177) merged on October 29, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/56177) over 1 day, 32 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -830,10 +834,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Multiple touches of a stylus should be considered from the same device
   <sub>[#56075](https://github.com/flutter/engine/pull/56075) merged on November 2, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/56075) over 1 week, 158 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Skwasm single threaded
-  <sub>[#56206](https://github.com/flutter/engine/pull/56206) merged on October 31, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/engine/pull/56206) over 1 day, 939 additions and 1703 deletions in 35 files</sub>
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] implement external texture gl for embedder.
   <sub>[#56277](https://github.com/flutter/engine/pull/56277) merged on November 1, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56277) over 1 day, 151 additions and 1 deletion in 6 files</sub>
