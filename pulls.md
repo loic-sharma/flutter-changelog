@@ -99,5 +99,5 @@
   <sub>[#158056](https://github.com/flutter/flutter/pull/158056) opened on on November 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158056) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.1.dart`<br />
-  <sub>[#158069](https://github.com/flutter/flutter/pull/158069) opened on on November 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158069) 36 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#158069](https://github.com/flutter/flutter/pull/158069) opened on on November 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158069) 36 additions and 1 deletion in 2 files</sub><br />
 
