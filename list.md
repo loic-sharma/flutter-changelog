@@ -26,7 +26,7 @@
   <sub><details><summary>2 images...</summary><img width="666" alt="Screenshot 2024-10-28 at 16 25 06" src="https://github.com/user-attachments/assets/56d31115-7ee9-4378-9811-75a3a2a4ce0f"><img width="666" alt="Screenshot 2024-10-28 at 16 24 52" src="https://github.com/user-attachments/assets/ab8a3e4b-e912-40ac-b249-6358492581e0"></details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and plumb `useImplicitPubspecResolution` across `flutter_tools`.
-  <sub>[#157879](https://github.com/flutter/flutter/pull/157879) merged on October 31, 2024 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/157879) over 14 hours, 409 additions and 40 deletions in 57 files</sub>
+  <sub>[#157879](https://github.com/flutter/flutter/pull/157879) merged on October 31, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/157879) over 14 hours, 409 additions and 40 deletions in 57 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add hidden `--no-implicit-pubspec-resolution` flag for one stable release.
