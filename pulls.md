@@ -41,9 +41,6 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; doctor: make JDK validation message more descriptive<br />
   <sub>[#157280](https://github.com/flutter/flutter/pull/157280) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157280) 218 additions and 9 deletions in 6 files</sub><br />
 
-* **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fixes typos & spelling error in changelog.md file<br />
-  <sub>[#157438](https://github.com/flutter/flutter/pull/157438) opened on on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157438) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
 
