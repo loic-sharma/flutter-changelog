@@ -92,9 +92,6 @@
 * **[PDAWork](https://github.com/PDAWork)** &mdash; Refactor CupertinoPicker to support custom selection overlay<br />
   <sub>[#158056](https://github.com/flutter/flutter/pull/158056) opened on on November 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158056) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove null from flex documentation<br />
-  <sub>[#158086](https://github.com/flutter/flutter/pull/158086) opened on on November 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158086) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.shape.0.dart`<br />
   <sub>[#158094](https://github.com/flutter/flutter/pull/158094) opened on on November 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158094) 34 additions and 1 deletion in 2 files</sub><br />
 

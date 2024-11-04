@@ -4,7 +4,11 @@
 
 ### November 2, 2024 to November 8, 2024
 
-2 commits.
+3 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove null from flex documentation
+  <sub>[#158086](https://github.com/flutter/flutter/pull/158086) merged on November 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158086) over 11 hours, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.1.dart`
   <sub>[#158069](https://github.com/flutter/flutter/pull/158069) merged on November 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158069) over 1 day, 36 additions and 1 deletion in 2 files</sub>
