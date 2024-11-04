@@ -4,7 +4,11 @@
 
 ### November 2, 2024 to November 8, 2024
 
-3 commits.
+4 commits.
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add benchmarks for single-threaded Skwasm.<br />
+  <sub>[#158027](https://github.com/flutter/flutter/pull/158027) merged on November 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158027) over 2 days, 58 additions and 5 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove null from flex documentation<br />
   <sub>[#158086](https://github.com/flutter/flutter/pull/158086) merged on November 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158086) over 11 hours, 4 additions and 4 deletions in 1 file</sub><br />
