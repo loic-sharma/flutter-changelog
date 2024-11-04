@@ -98,3 +98,6 @@
 * **[Moshe Dicker](https://github.com/dickermoshe)** &mdash; Adds support for applying delta/factor transformations for TextTheme height, letter and word spacing<br />
   <sub>[#158103](https://github.com/flutter/flutter/pull/158103) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158103) 253 additions and 55 deletions in 2 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert1:  "Revert "Add and plumb `useImplicitPubspecResolution` across `flutter_tools`.""<br />
+  <sub>[#158126](https://github.com/flutter/flutter/pull/158126) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158126) 409 additions and 40 deletions in 57 files</sub><br />
+
