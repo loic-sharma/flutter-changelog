@@ -14,6 +14,9 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Simplify tests of verify_binaries_codesigned script<br />
   <sub>[#154034](https://github.com/flutter/flutter/pull/154034) opened on on August 23, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/154034) 548 additions and 545 deletions in 4 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] ensure we fetch tags on arbitrary branches<br />
+  <sub>[#154217](https://github.com/flutter/flutter/pull/154217) opened on on August 28, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/154217) 257 additions and 44 deletions in 6 files</sub><br />
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
   <sub>[#154574](https://github.com/flutter/flutter/pull/154574) opened on on September 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/154574) 8 additions and 6 deletions in 3 files</sub><br />
 

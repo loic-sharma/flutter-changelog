@@ -236,7 +236,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "Add and plumb `useImplicitPubspecResolution` across `flutter_tools`."
-  <sub>[#158076](https://github.com/flutter/flutter/pull/158076) merged on November 3, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/158076) over 2 hours, 40 additions and 409 deletions in 57 files</sub>
+  <sub>[#158076](https://github.com/flutter/flutter/pull/158076) merged on November 3, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/158076) over 2 hours, 40 additions and 409 deletions in 57 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro service_extensions_test to be flaky
