@@ -615,11 +615,15 @@
 
 ### November 2, 2024 to November 8, 2024
 
-7 commits.
+8 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`<br />
   <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and document `et cleanup`.<br />
+  <sub>[#56327](https://github.com/flutter/engine/pull/56327) merged on November 4, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/56327) over 2 days, 361 additions and 9 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] check if memory type is host coherent, avoid flush.<br />
   <sub>[#56350](https://github.com/flutter/engine/pull/56350) merged on November 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56350) over 15 hours, 39 additions and 8 deletions in 4 files</sub><br />
