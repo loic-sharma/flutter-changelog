@@ -102,5 +102,5 @@
   <sub>[#158103](https://github.com/flutter/flutter/pull/158103) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158103) 253 additions and 55 deletions in 2 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 3  `CircularProgressIndicator` for new visual style<br />
-  <sub>[#158104](https://github.com/flutter/flutter/pull/158104) opened on on November 4, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/158104) 599 additions and 60 deletions in 5 files</sub><br />
+  <sub>[#158104](https://github.com/flutter/flutter/pull/158104) opened on on November 4, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/158104) 599 additions and 60 deletions in 5 files</sub><br />
 
