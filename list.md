@@ -611,11 +611,15 @@
 
 ### November 2, 2024 to November 8, 2024
 
-6 commits.
+7 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`
   <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] check if memory type is host coherent, avoid flush.
+  <sub>[#56350](https://github.com/flutter/engine/pull/56350) merged on November 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56350) over 15 hours, 39 additions and 8 deletions in 4 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate fml::scoped_nsobject pointer use
   <sub>[#56295](https://github.com/flutter/engine/pull/56295) merged on November 4, 2024 &mdash; **Medium:** [25 comments](https://github.com/flutter/engine/pull/56295) over 3 days, 161 additions and 214 deletions in 37 files</sub>
