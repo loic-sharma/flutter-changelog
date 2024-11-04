@@ -603,11 +603,15 @@
 
 ### November 2, 2024 to November 8, 2024
 
-2 commits.
+3 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`
   <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry mac_unopt one time in presubmit
+  <sub>[#56319](https://github.com/flutter/engine/pull/56319) merged on November 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56319) over 2 days, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] faster descriptor type mapping.
   <sub>[#56351](https://github.com/flutter/engine/pull/56351) merged on November 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56351) over 11 hours, 51 additions and 27 deletions in 5 files</sub>
