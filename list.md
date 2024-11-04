@@ -4,7 +4,11 @@
 
 ### November 2, 2024 to November 8, 2024
 
-1 commits.
+2 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.1.dart`
+  <sub>[#158069](https://github.com/flutter/flutter/pull/158069) merged on November 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158069) over 1 day, 36 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `interactive_viewer.constrained.0.dart`
   <sub>[#158044](https://github.com/flutter/flutter/pull/158044) merged on November 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158044) over 1 day, 79 additions and 1 deletion in 2 files</sub>

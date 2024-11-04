@@ -66,7 +66,7 @@
   <sub>[#157754](https://github.com/flutter/flutter/pull/157754) opened on on October 28, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157754) 15 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
-  <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/157756) 117 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#157756](https://github.com/flutter/flutter/pull/157756) opened on on October 28, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157756) 117 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 100 additions and 2 deletions in 2 files</sub><br />
@@ -91,9 +91,6 @@
 
 * **[PDAWork](https://github.com/PDAWork)** &mdash; Refactor CupertinoPicker to support custom selection overlay<br />
   <sub>[#158056](https://github.com/flutter/flutter/pull/158056) opened on on November 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158056) 2 additions and 2 deletions in 1 file</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.1.dart`<br />
-  <sub>[#158069](https://github.com/flutter/flutter/pull/158069) opened on on November 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158069) 36 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Remove null from flex documentation<br />
   <sub>[#158086](https://github.com/flutter/flutter/pull/158086) opened on on November 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158086) 4 additions and 4 deletions in 1 file</sub><br />
