@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 2, 2024 to November 8, 2024
+
+1 commits.
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `interactive_viewer.constrained.0.dart`<br />
+  <sub>[#158044](https://github.com/flutter/flutter/pull/158044) merged on November 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158044) over 1 day, 79 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
 ### October 26, 2024 to November 1, 2024
 
-55 commits.
+<details>
+<summary>55 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize the default `Slider` padding<br />
   <sub>[#156143](https://github.com/flutter/flutter/pull/156143) merged on October 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156143) over 3 weeks, 244 additions and 25 deletions in 4 files</sub><br />
@@ -229,6 +238,8 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Revert "Add a warning/additional handlers for parsing`synthetic-package`."<br />
   <sub>[#158078](https://github.com/flutter/flutter/pull/158078) merged on November 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158078) over 1 hour, 5 additions and 209 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+</details>
 
 ### October 19, 2024 to October 25, 2024
 
@@ -589,6 +600,10 @@
   <sub>[#56250](https://github.com/flutter/engine/pull/56250) merged on October 31, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/56250) over 22 hours, 360 additions and 56 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic Impeller+Vulkan support to embedder API.<br />
+  <sub>[#55490](https://github.com/flutter/engine/pull/55490) merged on October 28, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/55490) over 1 month, 774 additions and 111 deletions in 24 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont increment shared_ptr when tracked object is already tracked.<br />
   <sub>[#56153](https://github.com/flutter/engine/pull/56153) merged on October 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56153) over 1 day, 18 additions and 15 deletions in 4 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
@@ -597,10 +612,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Migrate PlatformViewIOS to ARC<br />
   <sub>[#55672](https://github.com/flutter/engine/pull/55672) merged on October 28, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/55672) over 3 weeks, 58 additions and 142 deletions in 8 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic Impeller+Vulkan support to embedder API.<br />
-  <sub>[#55490](https://github.com/flutter/engine/pull/55490) merged on October 28, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/55490) over 1 month, 774 additions and 111 deletions in 24 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Further de-duplicate and refactor `build_plan_test`.<br />
   <sub>[#56284](https://github.com/flutter/engine/pull/56284) merged on November 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/56284) over 4 hours, 240 additions and 768 deletions in 1 file</sub><br />
