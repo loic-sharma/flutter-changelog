@@ -1164,6 +1164,10 @@
   <sub>[#7963](https://github.com/flutter/packages/pull/7963) merged on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7963) over 7 hours, 12 additions and 5 deletions in 4 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Fix macOS 14+ test hangs
+  <sub>[#7953](https://github.com/flutter/packages/pull/7953) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7953) over 2 hours, 8 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Updates path_parsing README.md with a note about Dan
   <sub>[#7949](https://github.com/flutter/packages/pull/7949) merged on October 30, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/7949) over 2 days, 14 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub>
@@ -1215,10 +1219,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Disable two lint rules which are being removed.
   <sub>[#7959](https://github.com/flutter/packages/pull/7959) merged on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7959) over 1 hour, 0 additions and 11 deletions in 6 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [webview_flutter] Fix macOS 14+ test hangs
-  <sub>[#7953](https://github.com/flutter/packages/pull/7953) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7953) over 2 hours, 8 additions and 4 deletions in 4 files</sub>
-  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove multiDexEnabled
   <sub>[#7956](https://github.com/flutter/packages/pull/7956) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7956) over 24 minutes, 0 additions and 10 deletions in 10 files</sub>
