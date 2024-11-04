@@ -98,3 +98,6 @@
 * **[Moshe Dicker](https://github.com/dickermoshe)** &mdash; Adds support for applying delta/factor transformations for TextTheme height, letter and word spacing<br />
   <sub>[#158103](https://github.com/flutter/flutter/pull/158103) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158103) 253 additions and 55 deletions in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Prevent `flutter build ios-framework --xcframework` from copying `Flutter.xcframework.dSYM` into the `App.framework` folder.<br />
+  <sub>[#158125](https://github.com/flutter/flutter/pull/158125) opened on on November 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158125) 19 additions and 7 deletions in 3 files</sub><br />
+
