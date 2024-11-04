@@ -4,7 +4,16 @@
 
 ### November 2, 2024 to November 8, 2024
 
-4 commits.
+5 commits.
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
+  <sub>[#157756](https://github.com/flutter/flutter/pull/157756) merged on November 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157756) over 6 days, 117 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+  <sub><details><summary>1 image...</summary><img 
+    src="https://github.com/user-attachments/assets/8a48abd0-466b-4e06-90f3-dd05869bac27"
+    alt="NestedScrollController fix"
+    height="720px"
+  /></details></sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add benchmarks for single-threaded Skwasm.<br />
   <sub>[#158027](https://github.com/flutter/flutter/pull/158027) merged on November 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158027) over 2 days, 58 additions and 5 deletions in 8 files</sub><br />
@@ -592,9 +601,18 @@
 
 ## flutter/engine
 
+### November 2, 2024 to November 8, 2024
+
+1 commits.
+
+* **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`<br />
+  <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
 ### October 26, 2024 to November 1, 2024
 
-54 commits.
+<details>
+<summary>54 commits...</summary>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Change default TileMode for blur ImageFilter objects to null<br />
   <sub>[#55552](https://github.com/flutter/engine/pull/55552) merged on October 29, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/55552) over 4 weeks, 872 additions and 112 deletions in 37 files</sub><br />
@@ -812,6 +830,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: disable AHBs on devices that were upgraded to 29.<br />
   <sub>[#56213](https://github.com/flutter/engine/pull/56213) merged on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56213) over 1 hour, 23 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John McDole](https://github.com/jtmcdole)</sub><br />
+
+</details>
 
 ### October 19, 2024 to October 25, 2024
 
