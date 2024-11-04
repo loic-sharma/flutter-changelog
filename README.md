@@ -1129,11 +1129,15 @@
 
 ### November 2, 2024 to November 8, 2024
 
-4 commits.
+5 commits.
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter<br />
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Kallen Tu](https://github.com/kallentu)** &mdash; [various] Add `missing_code_block_language_in_doc_comment` lint to flutter/packages.<br />
+  <sub>[#6473](https://github.com/flutter/packages/pull/6473) merged on November 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/6473) over 7 months, 163 additions and 108 deletions in 37 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan), [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken), [David Iglesias](https://github.com/ditman), and [1 other](https://github.com/flutter/packages/pull/6473)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera_windows] Revert: Support image streams on Windows platform<br />
   <sub>[#7951](https://github.com/flutter/packages/pull/7951) merged on November 4, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/7951) over 6 days, 7 additions and 605 deletions in 15 files</sub><br />
