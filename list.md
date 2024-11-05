@@ -4,7 +4,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-10 commits.
+11 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) merged on November 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157756) over 6 days, 117 additions and 1 deletion in 2 files</sub>
@@ -30,6 +30,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove use_modular_headers! from Swift Podfiles
   <sub>[#156257](https://github.com/flutter/flutter/pull/156257) merged on November 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156257) over 1 month, 0 additions and 12 deletions in 11 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add optional parameter to FlutterTesterDevices.
+  <sub>[#158133](https://github.com/flutter/flutter/pull/158133) merged on November 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158133) over 4 hours, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Disable failing native assets test
   <sub>[#158119](https://github.com/flutter/flutter/pull/158119) merged on November 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158119) over 57 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -634,7 +638,7 @@
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] check if memory type is host coherent, avoid flush.
-  <sub>[#56350](https://github.com/flutter/engine/pull/56350) merged on November 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56350) over 15 hours, 39 additions and 8 deletions in 4 files</sub>
+  <sub>[#56350](https://github.com/flutter/engine/pull/56350) merged on November 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56350) over 15 hours, 39 additions and 8 deletions in 4 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate fml::scoped_nsobject pointer use

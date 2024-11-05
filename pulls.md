@@ -104,6 +104,3 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland1:  "Revert "Add and plumb `useImplicitPubspecResolution` across `flutter_tools`.""<br />
   <sub>[#158126](https://github.com/flutter/flutter/pull/158126) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158126) 409 additions and 40 deletions in 57 files</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add optional parameter to FlutterTesterDevices.<br />
-  <sub>[#158133](https://github.com/flutter/flutter/pull/158133) opened on on November 4, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158133) 2 additions and 0 deletions in 1 file</sub><br />
-
