@@ -99,7 +99,7 @@
   <sub>[#158103](https://github.com/flutter/flutter/pull/158103) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158103) 253 additions and 55 deletions in 2 files</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland1:  "Revert "Add and plumb `useImplicitPubspecResolution` across `flutter_tools`.""<br />
-  <sub>[#158126](https://github.com/flutter/flutter/pull/158126) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158126) 409 additions and 42 deletions in 57 files</sub><br />
+  <sub>[#158126](https://github.com/flutter/flutter/pull/158126) opened on on November 4, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/158126) 409 additions and 42 deletions in 57 files</sub><br />
 
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Fix update order of SliverAppBar<br />
   <sub>[#158159](https://github.com/flutter/flutter/pull/158159) opened on on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158159) 116 additions and 17 deletions in 4 files</sub><br />
