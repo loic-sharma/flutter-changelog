@@ -104,3 +104,6 @@
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Fix update order of SliverAppBar<br />
   <sub>[#158159](https://github.com/flutter/flutter/pull/158159) opened on on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158159) 116 additions and 17 deletions in 4 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.2.dart`<br />
+  <sub>[#158161](https://github.com/flutter/flutter/pull/158161) opened on on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158161) 55 additions and 1 deletion in 5 files</sub><br />
+
