@@ -60,8 +60,8 @@
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Linux_pixel_7pro flavors_test to be flaky<br />
-  <sub>[#156956](https://github.com/flutter/flutter/pull/156956) merged on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156956) over 2 weeks, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+  <sub>[#156956](https://github.com/flutter/flutter/pull/156956) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156956) over 2 weeks, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [kh3rld](https://github.com/kh3rld), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 ### October 26, 2024 to November 1, 2024
 
