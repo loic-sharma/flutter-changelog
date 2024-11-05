@@ -4,7 +4,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-15 commits.
+16 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) merged on November 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157756) over 6 days, 117 additions and 1 deletion in 2 files</sub>
@@ -30,6 +30,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove use_modular_headers! from Swift Podfiles
   <sub>[#156257](https://github.com/flutter/flutter/pull/156257) merged on November 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156257) over 1 month, 0 additions and 12 deletions in 11 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Readability change to `flutter.groovy`, align on null assignment, reduce unused scope for some methods, apply static where possible
+  <sub>[#157471](https://github.com/flutter/flutter/pull/157471) merged on November 5, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/157471) over 1 week, 16 additions and 35 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Refactor DropdownMenu tests
   <sub>[#157913](https://github.com/flutter/flutter/pull/157913) merged on November 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157913) over 4 days, 106 additions and 128 deletions in 2 files</sub>
