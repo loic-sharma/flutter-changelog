@@ -4,7 +4,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-20 commits.
+22 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) merged on November 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157756) over 6 days, 117 additions and 1 deletion in 2 files</sub><br />
@@ -14,6 +14,14 @@
     alt="NestedScrollController fix"
     height="720px"
   /></details></sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Gap between prefix and suffix icon and input field in input deco…<br />
+  <sub>[#152069](https://github.com/flutter/flutter/pull/152069) merged on November 5, 2024 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/152069) over 3 months, 125 additions and 84 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Kill interactive script job `xcdevice observe` processes on tool/daemon shutdown<br />
+  <sub>[#157646](https://github.com/flutter/flutter/pull/157646) merged on November 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157646) over 1 week, 54 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `WidgetStateProperty` documentation<br />
   <sub>[#154298](https://github.com/flutter/flutter/pull/154298) merged on November 4, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/154298) over 2 months, 74 additions and 109 deletions in 15 files</sub><br />
@@ -424,7 +432,7 @@
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) merged on October 21, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/156501) over 1 week, 165 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make `ChromiumDevice.stopApp` a no-op if it has already been called<br />
   <sub>[#156778](https://github.com/flutter/flutter/pull/156778) merged on October 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156778) over 6 days, 64 additions and 2 deletions in 2 files</sub><br />
@@ -448,7 +456,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make android dependency version test suite run on changes to templates<br />
   <sub>[#157196](https://github.com/flutter/flutter/pull/157196) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157196) over 2 days, 6 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove the only reference to `settings.gradle.legacy_versions`.<br />
   <sub>[#157380](https://github.com/flutter/flutter/pull/157380) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157380) over 1 hour, 0 additions and 72 deletions in 2 files</sub><br />
@@ -1213,35 +1221,35 @@
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter<br />
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; [various] Add `missing_code_block_language_in_doc_comment` lint to flutter/packages.<br />
   <sub>[#6473](https://github.com/flutter/packages/pull/6473) merged on November 4, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/6473) over 7 months, 163 additions and 108 deletions in 37 files</sub><br />
-  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan), [Yegor](https://github.com/yjbanov), [Chris Bracken](https://github.com/cbracken), [David Iglesias](https://github.com/ditman), and [1 other](https://github.com/flutter/packages/pull/6473)</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [David Iglesias](https://github.com/ditman), [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov), [stuartmorgan](https://github.com/stuartmorgan), and [1 other](https://github.com/flutter/packages/pull/6473)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [vector_graphics*] Relax dependency constraints of vector_graphics, vector_graphics_codec, vector_graphics_compiler, flutter_svg <br />
   <sub>[#8018](https://github.com/flutter/packages/pull/8018) merged on November 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8018) over 20 hours, 22 additions and 22 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [camera_windows] Revert: Support image streams on Windows platform<br />
   <sub>[#7951](https://github.com/flutter/packages/pull/7951) merged on November 4, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/7951) over 6 days, 7 additions and 605 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add vector_graphics and flutter_svg to autolabeler<br />
-  <sub>[#8025](https://github.com/flutter/packages/pull/8025) merged on November 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8025) over 6 minutes, 13 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Alexandru Mariuti](https://github.com/nank1ro)** &mdash; [vector_graphics_compiler] wasm compatibility<br />
   <sub>[#8021](https://github.com/flutter/packages/pull/8021) merged on November 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8021) over 8 hours, 8 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add vector_graphics and flutter_svg to autolabeler<br />
+  <sub>[#8025](https://github.com/flutter/packages/pull/8025) merged on November 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8025) over 6 minutes, 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update example apps to Kotlin 1.9.0<br />
   <sub>[#7998](https://github.com/flutter/packages/pull/7998) merged on November 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/7998) over 3 days, 44 additions and 20 deletions in 20 files</sub><br />
-  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Gray Mackall](https://github.com/gmackall), [Kate Lovett](https://github.com/Piinks), [Greg Spencer](https://github.com/gspencergoog), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for Multiple Plugin Example Apps<br />
   <sub>[#7968](https://github.com/flutter/packages/pull/7968) merged on November 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/7968) over 4 days, 170 additions and 257 deletions in 21 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Kate Lovett](https://github.com/Piinks), [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
+  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Kate Lovett](https://github.com/Piinks), [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 ### October 26, 2024 to November 1, 2024
 
@@ -1258,7 +1266,7 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_svg] Initial import<br />
   <sub>[#7944](https://github.com/flutter/packages/pull/7944) merged on October 31, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/7944) over 3 days, 10657 additions and 2 deletions in 276 files</sub><br />
-  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [vector_graphics] Initial import<br />
   <sub>[#7941](https://github.com/flutter/packages/pull/7941) merged on October 31, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/7941) over 3 days, 33382 additions and 2 deletions in 111 files</sub><br />
@@ -1290,11 +1298,11 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [path_parsing] deprecate utility functions that should be private<br />
   <sub>[#7993](https://github.com/flutter/packages/pull/7993) merged on November 1, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7993) over 14 hours, 21 additions and 1 deletion in 3 files</sub><br />
-  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Update Android for non-nullable generics<br />
   <sub>[#7990](https://github.com/flutter/packages/pull/7990) merged on November 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/7990) over 19 hours, 122 additions and 149 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
+  <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Minor cleanup in recently imported packages<br />
   <sub>[#7995](https://github.com/flutter/packages/pull/7995) merged on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7995) over 1 hour, 6 additions and 3 deletions in 5 files</sub><br />
@@ -1306,7 +1314,7 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [vector_garphics] fix execution on the web with WebAssembly<br />
   <sub>[#7991](https://github.com/flutter/packages/pull/7991) merged on October 31, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7991) over 23 minutes, 6 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Support third_party for --current-package<br />
   <sub>[#7967](https://github.com/flutter/packages/pull/7967) merged on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/7967) over 4 hours, 28 additions and 7 deletions in 2 files</sub><br />
