@@ -101,3 +101,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.2.dart`<br />
   <sub>[#158161](https://github.com/flutter/flutter/pull/158161) opened on on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158161) 55 additions and 1 deletion in 5 files</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Update error message for Cocoapods support for synchronized groups/folders<br />
+  <sub>[#158206](https://github.com/flutter/flutter/pull/158206) opened on on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158206) 5 additions and 10 deletions in 2 files</sub><br />
+
