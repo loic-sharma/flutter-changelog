@@ -580,7 +580,7 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; small update in regex in flutter.groovy<br />
   <sub>[#156484](https://github.com/flutter/flutter/pull/156484) merged on October 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156484) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator_state.restorable_push_and_remove_until.0.dart`<br />
   <sub>[#157595](https://github.com/flutter/flutter/pull/157595) merged on October 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157595) over 19 hours, 58 additions and 3 deletions in 3 files</sub><br />
@@ -761,7 +761,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Migrate PlatformViewIOS to ARC<br />
   <sub>[#55672](https://github.com/flutter/engine/pull/55672) merged on October 28, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/55672) over 3 weeks, 58 additions and 142 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Further de-duplicate and refactor `build_plan_test`.<br />
   <sub>[#56284](https://github.com/flutter/engine/pull/56284) merged on November 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/56284) over 4 hours, 240 additions and 768 deletions in 1 file</sub><br />
@@ -913,7 +913,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS/macOS: migrate darwin/common to ARC<br />
   <sub>[#56155](https://github.com/flutter/engine/pull/56155) merged on October 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56155) over 1 day, 10 additions and 11 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Embedder: migrate Metal surfaces to ARC<br />
   <sub>[#56279](https://github.com/flutter/engine/pull/56279) merged on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56279) over 54 minutes, 14 additions and 13 deletions in 3 files</sub><br />
@@ -1449,7 +1449,7 @@
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating the supported platforms page<br />
   <sub>[#11271](https://github.com/flutter/website/pull/11271) merged on October 21, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/website/pull/11271) over 1 week, 26 additions and 26 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Todd Volkert](https://github.com/tvolkert), [Christopher Fujino](https://github.com/christopherfujino), [Yegor](https://github.com/yjbanov), [Parker Lougheed](https://github.com/parlough), [Michael Thomsen](https://github.com/mit-mit), and [2 others](https://github.com/flutter/website/pull/11271)</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Christopher Fujino](https://github.com/christopherfujino), [Todd Volkert](https://github.com/tvolkert), [Chris Bracken](https://github.com/cbracken), [Zachary Anderson](https://github.com/zanderso), and [2 others](https://github.com/flutter/website/pull/11271)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Tiny cleanup of phrasing.<br />
   <sub>[#11330](https://github.com/flutter/website/pull/11330) merged on October 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/website/pull/11330) over 18 minutes, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1465,7 +1465,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Announce deprecation of `.flutter-plugins`.<br />
   <sub>[#11303](https://github.com/flutter/website/pull/11303) merged on October 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11303) over 1 day, 154 additions and 0 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Reid Baker](https://github.com/reidbaker), [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan), [Reid Baker](https://github.com/reidbaker), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Sidenav upkeep<br />
   <sub>[#11302](https://github.com/flutter/website/pull/11302) merged on October 23, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11302) over 2 hours, 63 additions and 51 deletions in 7 files</sub><br />
@@ -1509,7 +1509,7 @@
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Changed "h/w arch" to "target arch" as per Yegor<br />
   <sub>[#11298](https://github.com/flutter/website/pull/11298) merged on October 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11298) over 1 hour, 12 additions and 12 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Yegor](https://github.com/yjbanov)</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 </details>
 
