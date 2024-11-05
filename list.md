@@ -4,7 +4,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-9 commits.
+10 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) merged on November 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157756) over 6 days, 117 additions and 1 deletion in 2 files</sub>
@@ -18,6 +18,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `WidgetStateProperty` documentation
   <sub>[#154298](https://github.com/flutter/flutter/pull/154298) merged on November 4, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/154298) over 2 months, 74 additions and 109 deletions in 15 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Extract and restore a test that a blank native assets project still builds
+  <sub>[#158141](https://github.com/flutter/flutter/pull/158141) merged on November 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/158141) over 2 hours, 169 additions and 75 deletions in 3 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Victor Sanni](https://github.com/victorsanni)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove references to the HTML renderer in public docs.
   <sub>[#158035](https://github.com/flutter/flutter/pull/158035) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158035) over 2 days, 4 additions and 10 deletions in 4 files</sub>
@@ -619,7 +623,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-8 commits.
+10 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`
   <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub>
@@ -640,6 +644,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made it so angle builds on linux
   <sub>[#56328](https://github.com/flutter/engine/pull/56328) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56328) over 2 days, 3 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [web] injectPlatformView into correct flutterView
+  <sub>[#56334](https://github.com/flutter/engine/pull/56334) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56334) over 2 days, 64 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] removed unused deps (dart-lang browser_launcher, clock, bazel_worker, cli_util, csslib, html, json_rpc_2
+  <sub>[#56359](https://github.com/flutter/engine/pull/56359) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56359) over 4 hours, 0 additions and 30 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] combine translate* scale mat mul when computing shader transform.
   <sub>[#56352](https://github.com/flutter/engine/pull/56352) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56352) over 12 hours, 27 additions and 2 deletions in 3 files</sub>
