@@ -194,7 +194,7 @@
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fixes typos & spelling error in changelog.md file
   <sub>[#157438](https://github.com/flutter/flutter/pull/157438) merged on November 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157438) over 1 week, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tirth](https://github.com/piedcipher)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Adds a new helpful tool exit message for SocketExceptions thrown during mdns discovery
   <sub>[#157638](https://github.com/flutter/flutter/pull/157638) merged on October 30, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157638) over 5 days, 53 additions and 4 deletions in 2 files</sub>
@@ -432,7 +432,7 @@
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) merged on October 21, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/156501) over 1 week, 165 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; make `ChromiumDevice.stopApp` a no-op if it has already been called
   <sub>[#156778](https://github.com/flutter/flutter/pull/156778) merged on October 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156778) over 6 days, 64 additions and 2 deletions in 2 files</sub>
@@ -456,7 +456,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Make android dependency version test suite run on changes to templates
   <sub>[#157196](https://github.com/flutter/flutter/pull/157196) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157196) over 2 days, 6 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove the only reference to `settings.gradle.legacy_versions`.
   <sub>[#157380](https://github.com/flutter/flutter/pull/157380) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157380) over 1 hour, 0 additions and 72 deletions in 2 files</sub>
@@ -740,7 +740,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and use `mergeGnArgs` with `--gn-args` from `et`.
   <sub>[#56228](https://github.com/flutter/engine/pull/56228) merged on October 30, 2024 &mdash; **Large:** [22 comments](https://github.com/flutter/engine/pull/56228) over 19 hours, 543 additions and 39 deletions in 7 files</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso), [gaaclarke](https://github.com/gaaclarke)</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] Prioritize split font fallbacks over monolythic ones.
   <sub>[#56187](https://github.com/flutter/engine/pull/56187) merged on October 29, 2024 &mdash; **Extra large:** [18 comments](https://github.com/flutter/engine/pull/56187) over 19 hours, 1940 additions and 1902 deletions in 4 files</sub>
@@ -748,7 +748,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Vastly rewrite and expand `et/README.md`
   <sub>[#56250](https://github.com/flutter/engine/pull/56250) merged on October 31, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/engine/pull/56250) over 22 hours, 360 additions and 56 deletions in 2 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add basic Impeller+Vulkan support to embedder API.
   <sub>[#55490](https://github.com/flutter/engine/pull/55490) merged on October 28, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/55490) over 1 month, 774 additions and 111 deletions in 24 files</sub>
@@ -833,7 +833,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: migrate shell/gpu to ARC
   <sub>[#56157](https://github.com/flutter/engine/pull/56157) merged on October 31, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/56157) over 3 days, 73 additions and 65 deletions in 8 files</sub>
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make desktop GL render.
   <sub>[#56274](https://github.com/flutter/engine/pull/56274) merged on October 31, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56274) over 3 hours, 27 additions and 5 deletions in 5 files</sub>
@@ -885,7 +885,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] add back opt out for merged thread mode.
   <sub>[#56242](https://github.com/flutter/engine/pull/56242) merged on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56242) over 2 hours, 12 additions and 5 deletions in 3 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Zachary Anderson](https://github.com/zanderso)</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Remove --time run of gen_snapshot.
   <sub>[#56204](https://github.com/flutter/engine/pull/56204) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56204) over 49 minutes, 0 additions and 3 deletions in 1 file</sub>
@@ -917,7 +917,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Embedder: migrate Metal surfaces to ARC
   <sub>[#56279](https://github.com/flutter/engine/pull/56279) merged on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56279) over 54 minutes, 14 additions and 13 deletions in 3 files</sub>
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jonah Williams](https://github.com/jonahwilliams), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll buildroot to pick up revert of debugging gen_snapshot prints
   <sub>[#56175](https://github.com/flutter/engine/pull/56175) merged on October 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56175) over 1 hour, 1 addition and 2 deletions in 2 files</sub>
@@ -1353,7 +1353,7 @@
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow custom blocks to be something other than `Column` or `SizedBox`
   <sub>[#7859](https://github.com/flutter/packages/pull/7859) merged on October 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7859) over 1 week, 106 additions and 12 deletions in 4 files</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Ahmed Bilal](https://github.com/ahmedbilal008)** &mdash; [video_player_web] Don't modify volume when muting video
   <sub>[#7845](https://github.com/flutter/packages/pull/7845) merged on October 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7845) over 2 weeks, 17 additions and 6 deletions in 4 files</sub>
@@ -1377,7 +1377,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player_android] Correct rotation of videos recorded by the camera
   <sub>[#7846](https://github.com/flutter/packages/pull/7846) merged on October 21, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7846) over 1 week, 199 additions and 17 deletions in 5 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Matan Lurey](https://github.com/matanlurey)</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mason Nguyen](https://github.com/wamynobe)** &mdash; [pigeon] Allows swift generator to skip error class generation
   <sub>[#7849](https://github.com/flutter/packages/pull/7849) merged on October 23, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7849) over 1 week, 25 additions and 4 deletions in 6 files</sub>
