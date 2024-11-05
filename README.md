@@ -1353,7 +1353,7 @@
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow custom blocks to be something other than `Column` or `SizedBox`<br />
   <sub>[#7859](https://github.com/flutter/packages/pull/7859) merged on October 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7859) over 1 week, 106 additions and 12 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Ahmed Bilal](https://github.com/ahmedbilal008)** &mdash; [video_player_web] Don't modify volume when muting video<br />
   <sub>[#7845](https://github.com/flutter/packages/pull/7845) merged on October 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7845) over 2 weeks, 17 additions and 6 deletions in 4 files</sub><br />
@@ -1377,7 +1377,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player_android] Correct rotation of videos recorded by the camera<br />
   <sub>[#7846](https://github.com/flutter/packages/pull/7846) merged on October 21, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7846) over 1 week, 199 additions and 17 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Mason Nguyen](https://github.com/wamynobe)** &mdash; [pigeon] Allows swift generator to skip error class generation<br />
   <sub>[#7849](https://github.com/flutter/packages/pull/7849) merged on October 23, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7849) over 1 week, 25 additions and 4 deletions in 6 files</sub><br />
