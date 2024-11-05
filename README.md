@@ -106,7 +106,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to customize the default `Slider` padding<br />
   <sub>[#156143](https://github.com/flutter/flutter/pull/156143) merged on October 30, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156143) over 3 weeks, 244 additions and 25 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
   <sub><details><summary>2 images...</summary><img width="717" alt="Screenshot 2024-10-03 at 15 45 18" src="https://github.com/user-attachments/assets/e9d9a4d1-3087-45b4-8607-b94411e2bd23"><img width="717" alt="Screenshot 2024-10-03 at 15 46 25" src="https://github.com/user-attachments/assets/cd455881-6d52-46cb-8ac6-cc33f50a13ff"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 3  `LinearProgressIndicator` for new visual style<br />
@@ -116,7 +116,7 @@
 
 * **[YeungKC](https://github.com/YeungKC)** &mdash; Fix menu anchor state handling<br />
   <sub>[#157612](https://github.com/flutter/flutter/pull/157612) merged on October 30, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/157612) over 4 days, 65 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` tab icons not respecting custom `IconTheme`<br />
   <sub>[#157724](https://github.com/flutter/flutter/pull/157724) merged on October 29, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157724) over 19 hours, 71 additions and 5 deletions in 2 files</sub><br />
@@ -129,15 +129,15 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and plumb `useImplicitPubspecResolution` across `flutter_tools`.<br />
   <sub>[#157879](https://github.com/flutter/flutter/pull/157879) merged on October 31, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/157879) over 14 hours, 409 additions and 40 deletions in 57 files</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add hidden `--no-implicit-pubspec-resolution` flag for one stable release.<br />
   <sub>[#157635](https://github.com/flutter/flutter/pull/157635) merged on October 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/157635) over 4 days, 133 additions and 51 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove unused import from kt plugin template<br />
   <sub>[#157220](https://github.com/flutter/flutter/pull/157220) merged on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157220) over 1 week, 0 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [yaakovschectman](https://github.com/yaakovschectman)</sub><br />
   <sub><details><summary>1 image...</summary><img width="480" alt="code" src="https://github.com/user-attachments/assets/de45b396-995a-459f-8f36-f738d16cc229"></details></sub>
 
 * **[Paolo Lammens](https://github.com/plammens)** &mdash; performance: Override .elementAt in CachingIterable<br />
@@ -154,11 +154,11 @@
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) merged on October 31, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/155209) over 1 month, 22 additions and 20 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni), [Taha Tesser](https://github.com/TahaTesser), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Fix `GlowingOverscrollIndicator` examples<br />
   <sub>[#155203](https://github.com/flutter/flutter/pull/155203) merged on October 30, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/155203) over 1 month, 245 additions and 14 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix showSnackBar can't access useMaterial3 from the theme<br />
   <sub>[#157707](https://github.com/flutter/flutter/pull/157707) merged on October 31, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/157707) over 3 days, 35 additions and 9 deletions in 2 files</sub><br />
@@ -190,7 +190,7 @@
 
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker<br />
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) merged on October 29, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/157151) over 1 week, 80 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Navaron Bracke](https://github.com/navaronbracke), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fixes typos & spelling error in changelog.md file<br />
   <sub>[#157438](https://github.com/flutter/flutter/pull/157438) merged on November 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157438) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -202,7 +202,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update CHANGELOG.md to correct ios vs macos issue<br />
   <sub>[#157822](https://github.com/flutter/flutter/pull/157822) merged on October 30, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/157822) over 18 hours, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Jenn Magder](https://github.com/jmagman)</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade templates to AGP 8.7/Gradle 8.10.2<br />
   <sub>[#157872](https://github.com/flutter/flutter/pull/157872) merged on October 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157872) over 1 hour, 4 additions and 4 deletions in 2 files</sub><br />
@@ -222,7 +222,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] re-enable impeller shard.<br />
   <sub>[#157806](https://github.com/flutter/flutter/pull/157806) merged on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157806) over 56 minutes, 0 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin Mac tool_integration_test shards to arm64<br />
   <sub>[#157760](https://github.com/flutter/flutter/pull/157760) merged on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157760) over 3 hours, 5 additions and 2 deletions in 1 file</sub><br />
@@ -362,7 +362,7 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Changes the offset computation to first item for RenderSliverMainAxisGroup<br />
   <sub>[#154688](https://github.com/flutter/flutter/pull/154688) merged on October 24, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/154688) over 1 month, 90 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `Consider using 'named' to avoid unnecessary configuration` inside flutter.groovy<br />
   <sub>[#157221](https://github.com/flutter/flutter/pull/157221) merged on October 21, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/157221) over 2 days, 13 additions and 15 deletions in 1 file</sub><br />
@@ -492,7 +492,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add partial test for flutter build ios-framework on non-module<br />
   <sub>[#157482](https://github.com/flutter/flutter/pull/157482) merged on October 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157482) over 19 hours, 96 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jenn Magder](https://github.com/jmagman)</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Added a warning if `flutter.groovy` uses a `.flutter-plugins` file.<br />
   <sub>[#157388](https://github.com/flutter/flutter/pull/157388) merged on October 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/157388) over 1 day, 4 additions and 0 deletions in 1 file</sub><br />
