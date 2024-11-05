@@ -1323,9 +1323,18 @@
 
 ## flutter/website
 
+### November 2, 2024 to November 8, 2024
+
+1 commits.
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add `/go/semantics-role-system` design doc redirect
+  <sub>[#11359](https://github.com/flutter/website/pull/11359) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11359) over 4 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### October 26, 2024 to November 1, 2024
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; ImageFilter default tile mode automatic selection breaking change notice
   <sub>[#11338](https://github.com/flutter/website/pull/11338) merged on November 1, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/website/pull/11338) over 4 days, 84 additions and 0 deletions in 2 files</sub>
@@ -1362,6 +1371,8 @@
 * **[El](https://github.com/undef-i)** &mdash; Fix Errors in PowerShell Code in Flutter Setup Guide for China
   <sub>[#11329](https://github.com/flutter/website/pull/11329) merged on October 31, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11329) over 6 days, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### October 19, 2024 to October 25, 2024
 
