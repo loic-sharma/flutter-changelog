@@ -5,9 +5,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Remove publishing race<br />
   <sub>[#153304](https://github.com/flutter/flutter/pull/153304) opened on on August 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/153304) 534 additions and 765 deletions in 6 files</sub><br />
 
-* **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; replaced url_stratagy export for non web<br />
-  <sub>[#153355](https://github.com/flutter/flutter/pull/153355) opened on on August 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/153355) 238 additions and 7 deletions in 9 files</sub><br />
-
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks<br />
   <sub>[#153368](https://github.com/flutter/flutter/pull/153368) opened on on August 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/153368) 183 additions and 0 deletions in 2 files</sub><br />
 
