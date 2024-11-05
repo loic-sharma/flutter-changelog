@@ -104,3 +104,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.2.dart`<br />
   <sub>[#158161](https://github.com/flutter/flutter/pull/158161) opened on on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158161) 55 additions and 1 deletion in 5 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland2: Revert "Revert "Add a warning/additional handlers for parsing`synthetic-package`.""<br />
+  <sub>[#158184](https://github.com/flutter/flutter/pull/158184) opened on on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158184) 209 additions and 5 deletions in 3 files</sub><br />
+
