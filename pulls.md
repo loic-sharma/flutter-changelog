@@ -53,29 +53,14 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; fix fade_transition issue<br />
-  <sub>[#157663](https://github.com/flutter/flutter/pull/157663) opened on on October 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157663) 24 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Allow namespaces when generating localization<br />
   <sub>[#157696](https://github.com/flutter/flutter/pull/157696) opened on on October 27, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/157696) 564 additions and 382 deletions in 9 files</sub><br />
-
-* **[Neutrino2711](https://github.com/Neutrino2711)** &mdash; Updated document to clarify Clip Behaviour<br />
-  <sub>[#157719](https://github.com/flutter/flutter/pull/157719) opened on on October 28, 2024 &mdash; **Small:** [47 comments](https://github.com/flutter/flutter/pull/157719) 214 additions and 2 deletions in 3 files</sub><br />
 
 * **[Mohamed Kamel](https://github.com/mu7ammadkamel)** &mdash; add centerLeading to AppBar.<br />
   <sub>[#157750](https://github.com/flutter/flutter/pull/157750) opened on on October 28, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/157750) 805 additions and 453 deletions in 3 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 99 additions and 2 deletions in 2 files</sub><br />
-
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; improve `ContainerRenderObjectMixin` error message when `parentData` is not set up properly<br />
-  <sub>[#157846](https://github.com/flutter/flutter/pull/157846) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157846) 22 additions and 0 deletions in 2 files</sub><br />
-
-* **[Pascal Welsch](https://github.com/passsy)** &mdash; Revert: Add wrapWidth parameter of DiagnosticableTree.toStringDeep()<br />
-  <sub>[#157850](https://github.com/flutter/flutter/pull/157850) opened on on October 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157850) 48 additions and 6 deletions in 2 files</sub><br />
-
-* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(ScrollAction): unsafe non-null assertion<br />
-  <sub>[#157855](https://github.com/flutter/flutter/pull/157855) opened on on October 30, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/157855) 92 additions and 6 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Set stable color for semantics debugger<br />
   <sub>[#157884](https://github.com/flutter/flutter/pull/157884) opened on on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157884) 33 additions and 6 deletions in 3 files</sub><br />
@@ -92,14 +77,8 @@
 * **[PDAWork](https://github.com/PDAWork)** &mdash; Refactor CupertinoPicker to support custom selection overlay<br />
   <sub>[#158056](https://github.com/flutter/flutter/pull/158056) opened on on November 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158056) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; add test for raw_scrollbar_desktop api example<br />
-  <sub>[#158101](https://github.com/flutter/flutter/pull/158101) opened on on November 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158101) 41 additions and 21 deletions in 3 files</sub><br />
-
 * **[Moshe Dicker](https://github.com/dickermoshe)** &mdash; Adds support for applying delta/factor transformations for TextTheme height, letter and word spacing<br />
   <sub>[#158103](https://github.com/flutter/flutter/pull/158103) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158103) 253 additions and 55 deletions in 2 files</sub><br />
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.2.dart`<br />
-  <sub>[#158161](https://github.com/flutter/flutter/pull/158161) opened on on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158161) 55 additions and 1 deletion in 5 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make flutter_tools use newest package:{native_assets_builder,native_assets_cli,native_toolchain_c}<br />
   <sub>[#158214](https://github.com/flutter/flutter/pull/158214) opened on on November 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/158214) 510 additions and 447 deletions in 24 files</sub><br />
