@@ -341,7 +341,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Support backdrop key in flutter framework.
   <sub>[#157278](https://github.com/flutter/flutter/pull/157278) merged on October 25, 2024 &mdash; **Small:** [69 comments](https://github.com/flutter/flutter/pull/157278) over 3 days, 261 additions and 3 deletions in 4 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Tong Mu](https://github.com/dkwingsmt)</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [gaaclarke](https://github.com/gaaclarke)</sub>
   <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/4c08e92d-f0ba-42b2-a4c4-fc44efbcfae0" width="200"/><img src="https://github.com/user-attachments/assets/21e95efd-5e0c-4f41-8f84-af3f0e47d1aa" width="200"/></details></sub>
 
 * **[Huy](https://github.com/huycozy)** &mdash; Add ability to disable CupertinoSegmentedControl
@@ -383,16 +383,16 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use discenrable characters (replace `' 🙙 🙛 '` in error logs)
   <sub>[#157548](https://github.com/flutter/flutter/pull/157548) merged on October 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157548) over 2 hours, 3 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [John McDole](https://github.com/jtmcdole)</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Christopher Fujino](https://github.com/christopherfujino)</sub>
   <sub><details><summary>1 image...</summary><img width="795" alt="Screenshot 2024-10-24 at 12 47 58 PM" src="https://github.com/user-attachments/assets/a986f71c-5533-4899-aeb8-126dc82794fb"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ThemeData.dialogBackgroundColor` in favor of `DialogThemeData.backgroundColor`
   <sub>[#155072](https://github.com/flutter/flutter/pull/155072) merged on October 24, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/155072) over 1 month, 140 additions and 40 deletions in 8 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Kate Lovett](https://github.com/Piinks)</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade tests to AGP 8.7/Gradle 8.10.2/Kotlin 1.8.10
   <sub>[#157032](https://github.com/flutter/flutter/pull/157032) merged on October 24, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/157032) over 1 week, 7302 additions and 4275 deletions in 150 files</sub>
-  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
 
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; fix: Considers strokeAlign to compute border dimensions
   <sub>[#155495](https://github.com/flutter/flutter/pull/155495) merged on October 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/155495) over 1 month, 16 additions and 6 deletions in 2 files</sub>
@@ -612,7 +612,7 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update flutter.groovy to catch unknown task exception when finding api task
   <sub>[#157282](https://github.com/flutter/flutter/pull/157282) merged on October 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/157282) over 3 days, 4 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `platform_menu_bar.0.dart`
   <sub>[#157328](https://github.com/flutter/flutter/pull/157328) merged on October 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157328) over 23 hours, 124 additions and 1 deletion in 2 files</sub>
@@ -1353,7 +1353,7 @@
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow custom blocks to be something other than `Column` or `SizedBox`
   <sub>[#7859](https://github.com/flutter/packages/pull/7859) merged on October 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7859) over 1 week, 106 additions and 12 deletions in 4 files</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Ahmed Bilal](https://github.com/ahmedbilal008)** &mdash; [video_player_web] Don't modify volume when muting video
   <sub>[#7845](https://github.com/flutter/packages/pull/7845) merged on October 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7845) over 2 weeks, 17 additions and 6 deletions in 4 files</sub>
@@ -1377,7 +1377,7 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player_android] Correct rotation of videos recorded by the camera
   <sub>[#7846](https://github.com/flutter/packages/pull/7846) merged on October 21, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7846) over 1 week, 199 additions and 17 deletions in 5 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Matan Lurey](https://github.com/matanlurey)</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mason Nguyen](https://github.com/wamynobe)** &mdash; [pigeon] Allows swift generator to skip error class generation
   <sub>[#7849](https://github.com/flutter/packages/pull/7849) merged on October 23, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7849) over 1 week, 25 additions and 4 deletions in 6 files</sub>
