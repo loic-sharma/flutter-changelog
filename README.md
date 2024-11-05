@@ -4,7 +4,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-11 commits.
+12 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) merged on November 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157756) over 6 days, 117 additions and 1 deletion in 2 files</sub><br />
@@ -30,6 +30,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove use_modular_headers! from Swift Podfiles<br />
   <sub>[#156257](https://github.com/flutter/flutter/pull/156257) merged on November 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156257) over 1 month, 0 additions and 12 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Further remove web-only considerations that are no longer necessary<br />
+  <sub>[#158143](https://github.com/flutter/flutter/pull/158143) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158143) over 4 hours, 0 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add optional parameter to FlutterTesterDevices.<br />
   <sub>[#158133](https://github.com/flutter/flutter/pull/158133) merged on November 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158133) over 4 hours, 2 additions and 0 deletions in 1 file</sub><br />
