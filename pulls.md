@@ -107,6 +107,3 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.2.dart`<br />
   <sub>[#158161](https://github.com/flutter/flutter/pull/158161) opened on on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158161) 55 additions and 1 deletion in 5 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove package:cli_config dependency in pubspec.yaml: This package is not used anywhere<br />
-  <sub>[#158165](https://github.com/flutter/flutter/pull/158165) opened on on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158165) 0 additions and 3 deletions in 3 files</sub><br />
-
