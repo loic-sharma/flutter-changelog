@@ -102,5 +102,5 @@
   <sub>[#158161](https://github.com/flutter/flutter/pull/158161) opened on on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158161) 55 additions and 1 deletion in 5 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make flutter_tools use newest package:{native_assets_builder,native_assets_cli,native_toolchain_c}<br />
-  <sub>[#158214](https://github.com/flutter/flutter/pull/158214) opened on on November 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/158214) 508 additions and 445 deletions in 23 files</sub><br />
+  <sub>[#158214](https://github.com/flutter/flutter/pull/158214) opened on on November 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/158214) 510 additions and 447 deletions in 24 files</sub><br />
 
