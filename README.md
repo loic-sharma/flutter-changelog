@@ -747,7 +747,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-31 commits.
+33 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`<br />
   <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub><br />
@@ -759,6 +759,10 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and document and explicit `toARGB32`.<br />
   <sub>[#56329](https://github.com/flutter/engine/pull/56329) merged on November 6, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56329) over 4 days, 28 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] generate stroke vertices into point arena.<br />
+  <sub>[#56390](https://github.com/flutter/engine/pull/56390) merged on November 6, 2024 &mdash; **Medium:** [25 comments](https://github.com/flutter/engine/pull/56390) over 22 hours, 248 additions and 135 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Avoid errors due to triangle fans usage on Molten.<br />
@@ -852,6 +856,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] faster descriptor type mapping.<br />
   <sub>[#56351](https://github.com/flutter/engine/pull/56351) merged on November 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56351) over 11 hours, 51 additions and 27 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix empty backdrop drawing.<br />
+  <sub>[#56385](https://github.com/flutter/engine/pull/56385) merged on November 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56385) over 1 day, 60 additions and 23 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Document fields in FlEngine<br />
   <sub>[#56266](https://github.com/flutter/engine/pull/56266) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56266) over 5 days, 20 additions and 0 deletions in 1 file</sub><br />
