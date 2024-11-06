@@ -747,7 +747,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-29 commits.
+30 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`
   <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub>
@@ -784,6 +784,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made it so angle builds on linux
   <sub>[#56328](https://github.com/flutter/engine/pull/56328) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56328) over 2 days, 3 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Roll ICU from 9408c6fd4a39 to 4239b1559d11 (2 revisions)
+  <sub>[#56407](https://github.com/flutter/engine/pull/56407) merged on November 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56407) over 2 hours, 1 addition and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] injectPlatformView into correct flutterView
   <sub>[#56334](https://github.com/flutter/engine/pull/56334) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56334) over 2 days, 64 additions and 8 deletions in 2 files</sub>
