@@ -246,7 +246,7 @@
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fixes typos & spelling error in changelog.md file<br />
   <sub>[#157438](https://github.com/flutter/flutter/pull/157438) merged on November 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157438) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tirth](https://github.com/piedcipher)</sub><br />
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Adds a new helpful tool exit message for SocketExceptions thrown during mdns discovery<br />
   <sub>[#157638](https://github.com/flutter/flutter/pull/157638) merged on October 30, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157638) over 5 days, 53 additions and 4 deletions in 2 files</sub><br />
@@ -1301,7 +1301,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Improve thread safety of first frame callback<br />
   <sub>[#55966](https://github.com/flutter/engine/pull/55966) merged on October 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/55966) over 1 hour, 23 additions and 20 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move keymap from FlKeyboardViewDelegate to FlKeyboardManager<br />
   <sub>[#55942](https://github.com/flutter/engine/pull/55942) merged on October 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/55942) over 1 day, 153 additions and 68 deletions in 9 files</sub><br />
