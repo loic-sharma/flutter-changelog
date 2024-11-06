@@ -181,7 +181,7 @@
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove unused import from kt plugin template
   <sub>[#157220](https://github.com/flutter/flutter/pull/157220) merged on October 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157220) over 1 week, 0 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [yaakovschectman](https://github.com/yaakovschectman), [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall), [yaakovschectman](https://github.com/yaakovschectman)</sub>
   <sub><details><summary>1 image...</summary><img width="480" alt="code" src="https://github.com/user-attachments/assets/de45b396-995a-459f-8f36-f738d16cc229"></details></sub>
 
 * **[Paolo Lammens](https://github.com/plammens)** &mdash; performance: Override .elementAt in CachingIterable
@@ -234,11 +234,11 @@
 
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) merged on October 29, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/157151) over 1 week, 80 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Navaron Bracke](https://github.com/navaronbracke), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fixes typos & spelling error in changelog.md file
   <sub>[#157438](https://github.com/flutter/flutter/pull/157438) merged on November 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157438) over 1 week, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tirth](https://github.com/piedcipher)</sub>
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Adds a new helpful tool exit message for SocketExceptions thrown during mdns discovery
   <sub>[#157638](https://github.com/flutter/flutter/pull/157638) merged on October 30, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157638) over 5 days, 53 additions and 4 deletions in 2 files</sub>
@@ -266,7 +266,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] re-enable impeller shard.
   <sub>[#157806](https://github.com/flutter/flutter/pull/157806) merged on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157806) over 56 minutes, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Pin Mac tool_integration_test shards to arm64
   <sub>[#157760](https://github.com/flutter/flutter/pull/157760) merged on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157760) over 3 hours, 5 additions and 2 deletions in 1 file</sub>
@@ -406,7 +406,7 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Changes the offset computation to first item for RenderSliverMainAxisGroup
   <sub>[#154688](https://github.com/flutter/flutter/pull/154688) merged on October 24, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/154688) over 1 month, 90 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `Consider using 'named' to avoid unnecessary configuration` inside flutter.groovy
   <sub>[#157221](https://github.com/flutter/flutter/pull/157221) merged on October 21, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/157221) over 2 days, 13 additions and 15 deletions in 1 file</sub>
@@ -427,16 +427,16 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use discenrable characters (replace `' 🙙 🙛 '` in error logs)
   <sub>[#157548](https://github.com/flutter/flutter/pull/157548) merged on October 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157548) over 2 hours, 3 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Christopher Fujino](https://github.com/christopherfujino)</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [John McDole](https://github.com/jtmcdole)</sub>
   <sub><details><summary>1 image...</summary><img width="795" alt="Screenshot 2024-10-24 at 12 47 58 PM" src="https://github.com/user-attachments/assets/a986f71c-5533-4899-aeb8-126dc82794fb"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ThemeData.dialogBackgroundColor` in favor of `DialogThemeData.backgroundColor`
   <sub>[#155072](https://github.com/flutter/flutter/pull/155072) merged on October 24, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/155072) over 1 month, 140 additions and 40 deletions in 8 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Upgrade tests to AGP 8.7/Gradle 8.10.2/Kotlin 1.8.10
   <sub>[#157032](https://github.com/flutter/flutter/pull/157032) merged on October 24, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/flutter/pull/157032) over 1 week, 7302 additions and 4275 deletions in 150 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Bartek Pacia](https://github.com/bartekpacia)</sub>
+  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[romain.gyh](https://github.com/romaingyh)** &mdash; fix: Considers strokeAlign to compute border dimensions
   <sub>[#155495](https://github.com/flutter/flutter/pull/155495) merged on October 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/155495) over 1 month, 16 additions and 6 deletions in 2 files</sub>
@@ -536,7 +536,7 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add partial test for flutter build ios-framework on non-module
   <sub>[#157482](https://github.com/flutter/flutter/pull/157482) merged on October 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157482) over 19 hours, 96 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jenn Magder](https://github.com/jmagman)</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Added a warning if `flutter.groovy` uses a `.flutter-plugins` file.
   <sub>[#157388](https://github.com/flutter/flutter/pull/157388) merged on October 24, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/157388) over 1 day, 4 additions and 0 deletions in 1 file</sub>
@@ -885,7 +885,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Adreno 506.
   <sub>[#56210](https://github.com/flutter/engine/pull/56210) merged on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56210) over 1 hour, 7 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John McDole](https://github.com/jtmcdole)</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; [web] Transfer focus to view rootElement on blur/remove.
   <sub>[#55045](https://github.com/flutter/engine/pull/55045) merged on November 2, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/engine/pull/55045) over 1 month, 102 additions and 50 deletions in 7 files</sub>
@@ -905,7 +905,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable AHBs on devices that were upgraded to 29.
   <sub>[#56202](https://github.com/flutter/engine/pull/56202) merged on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56202) over 1 hour, 23 additions and 4 deletions in 3 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [John McDole](https://github.com/jtmcdole)</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] use greater equal rather than greater depth compare.
   <sub>[#56310](https://github.com/flutter/engine/pull/56310) merged on November 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56310) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -1001,7 +1001,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS/macOS: migrate darwin/common to ARC
   <sub>[#56155](https://github.com/flutter/engine/pull/56155) merged on October 28, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56155) over 1 day, 10 additions and 11 deletions in 3 files</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman)</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Embedder: migrate Metal surfaces to ARC
   <sub>[#56279](https://github.com/flutter/engine/pull/56279) merged on October 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56279) over 54 minutes, 14 additions and 13 deletions in 3 files</sub>
@@ -1170,7 +1170,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [web] Do not copy invalid images in the Skia test image collection
   <sub>[#56102](https://github.com/flutter/engine/pull/56102) merged on October 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56102) over 3 hours, 4 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [John McDole](https://github.com/jtmcdole)</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; update the SoT location for package:http_parser
   <sub>[#55998](https://github.com/flutter/engine/pull/55998) merged on October 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/55998) over 2 hours, 3 additions and 6 deletions in 2 files</sub>
@@ -1178,7 +1178,7 @@
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] update deps and pubspecs for the new locations of package:matcher, package:collection, and package:boolean_selector
   <sub>[#56107](https://github.com/flutter/engine/pull/56107) merged on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56107) over 1 hour, 6 additions and 19 deletions in 4 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Zachary Anderson](https://github.com/zanderso)</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] optimize clip rects by checking if integral coverage is sufficient.
   <sub>[#56041](https://github.com/flutter/engine/pull/56041) merged on October 23, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56041) over 18 hours, 156 additions and 47 deletions in 6 files</sub>
