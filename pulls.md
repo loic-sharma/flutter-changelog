@@ -68,6 +68,3 @@
 * **[Moshe Dicker](https://github.com/dickermoshe)** &mdash; Adds support for applying delta/factor transformations for TextTheme height, letter and word spacing<br />
   <sub>[#158103](https://github.com/flutter/flutter/pull/158103) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158103) 253 additions and 55 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flakiness in hot_reload_test.dart<br />
-  <sub>[#158271](https://github.com/flutter/flutter/pull/158271) opened on on November 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158271) 11 additions and 1 deletion in 1 file</sub><br />
-
