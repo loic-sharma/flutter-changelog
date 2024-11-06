@@ -38,9 +38,6 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix use of deprecated `buildDir` in Android templates/tests/examples<br />
-  <sub>[#157560](https://github.com/flutter/flutter/pull/157560) opened on on October 24, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157560) 63 additions and 55 deletions in 23 files</sub><br />
-
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
   <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
 
