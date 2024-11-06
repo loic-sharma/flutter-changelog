@@ -423,7 +423,7 @@
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; [#155269] Platform adaptive showAboutDialog and AboutDialog feature c…<br />
   <sub>[#155377](https://github.com/flutter/flutter/pull/155377) merged on October 22, 2024 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/155377) over 1 month, 327 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Victor Sanni](https://github.com/victorsanni), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Allow requesting a reduced widget tree with `getRootWidgetTree` service extension<br />
   <sub>[#157309](https://github.com/flutter/flutter/pull/157309) merged on October 23, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/157309) over 1 day, 380 additions and 45 deletions in 7 files</sub><br />
@@ -448,7 +448,7 @@
 
 * **[Pachebel](https://github.com/Pachebel)** &mdash; fix: CupertinoDatePicker.DateAndTime using showDayOfWeek<br />
   <sub>[#155260](https://github.com/flutter/flutter/pull/155260) merged on October 22, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/155260) over 1 month, 84 additions and 38 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Use Gradle KTS in new Android app projects by default (2nd try)<br />
   <sub>[#157195](https://github.com/flutter/flutter/pull/157195) merged on October 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/157195) over 3 days, 162 additions and 131 deletions in 20 files</sub><br />
@@ -560,7 +560,7 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Test alternate correct macOS framework xcprivacy manifest location<br />
   <sub>[#157318](https://github.com/flutter/flutter/pull/157318) merged on October 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157318) over 16 hours, 13 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Chris Bracken](https://github.com/cbracken)</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Add dart command line tool for calculating engine hash<br />
   <sub>[#157212](https://github.com/flutter/flutter/pull/157212) merged on October 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/157212) over 2 days, 254 additions and 0 deletions in 2 files</sub><br />
@@ -743,7 +743,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate fml::scoped_nsobject pointer use<br />
   <sub>[#56295](https://github.com/flutter/engine/pull/56295) merged on November 4, 2024 &mdash; **Medium:** [25 comments](https://github.com/flutter/engine/pull/56295) over 3 days, 161 additions and 214 deletions in 37 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlScrollingViewDelegate<br />
   <sub>[#56270](https://github.com/flutter/engine/pull/56270) merged on November 5, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/56270) over 5 days, 366 additions and 711 deletions in 8 files</sub><br />
@@ -751,7 +751,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made it so angle builds on linux<br />
   <sub>[#56328](https://github.com/flutter/engine/pull/56328) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56328) over 2 days, 3 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] injectPlatformView into correct flutterView<br />
   <sub>[#56334](https://github.com/flutter/engine/pull/56334) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56334) over 2 days, 64 additions and 8 deletions in 2 files</sub><br />
@@ -1462,7 +1462,7 @@
 
 * **[Ahmed Bilal](https://github.com/ahmedbilal008)** &mdash; [video_player_web] Don't modify volume when muting video<br />
   <sub>[#7845](https://github.com/flutter/packages/pull/7845) merged on October 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7845) over 2 weeks, 17 additions and 6 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_parsing] Initial import<br />
   <sub>[#7908](https://github.com/flutter/packages/pull/7908) merged on October 25, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/7908) over 3 days, 1546 additions and 2 deletions in 17 files</sub><br />
@@ -1478,7 +1478,7 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera] Manual roll and skip failing tests<br />
   <sub>[#7891](https://github.com/flutter/packages/pull/7891) merged on October 24, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7891) over 5 days, 36 additions and 12 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player_android] Correct rotation of videos recorded by the camera<br />
   <sub>[#7846](https://github.com/flutter/packages/pull/7846) merged on October 21, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7846) over 1 week, 199 additions and 17 deletions in 5 files</sub><br />
