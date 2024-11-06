@@ -4,7 +4,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-29 commits.
+30 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) merged on November 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157756) over 6 days, 117 additions and 1 deletion in 2 files</sub>
@@ -34,6 +34,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Extract and restore a test that a blank native assets project still builds
   <sub>[#158141](https://github.com/flutter/flutter/pull/158141) merged on November 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/158141) over 2 hours, 169 additions and 75 deletions in 3 files</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Victor Sanni](https://github.com/victorsanni)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Forward fix `CupertinoDynamicColor` by adding `toARGB32()`.
+  <sub>[#158145](https://github.com/flutter/flutter/pull/158145) merged on November 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158145) over 23 hours, 25 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove references to the HTML renderer in public docs.
   <sub>[#158035](https://github.com/flutter/flutter/pull/158035) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158035) over 2 days, 4 additions and 10 deletions in 4 files</sub>
@@ -1429,7 +1433,7 @@
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow custom blocks to be something other than `Column` or `SizedBox`
   <sub>[#7859](https://github.com/flutter/packages/pull/7859) merged on October 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7859) over 1 week, 106 additions and 12 deletions in 4 files</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Ahmed Bilal](https://github.com/ahmedbilal008)** &mdash; [video_player_web] Don't modify volume when muting video
   <sub>[#7845](https://github.com/flutter/packages/pull/7845) merged on October 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7845) over 2 weeks, 17 additions and 6 deletions in 4 files</sub>
@@ -1453,11 +1457,11 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player_android] Correct rotation of videos recorded by the camera
   <sub>[#7846](https://github.com/flutter/packages/pull/7846) merged on October 21, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7846) over 1 week, 199 additions and 17 deletions in 5 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Matan Lurey](https://github.com/matanlurey)</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Mason Nguyen](https://github.com/wamynobe)** &mdash; [pigeon] Allows swift generator to skip error class generation
   <sub>[#7849](https://github.com/flutter/packages/pull/7849) merged on October 23, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7849) over 1 week, 25 additions and 4 deletions in 6 files</sub>
-  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 2663184aa790 to 603104015dd6 (3 revisions)
   <sub>[#7930](https://github.com/flutter/packages/pull/7930) merged on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7930) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
