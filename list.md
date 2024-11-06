@@ -1345,7 +1345,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-11 commits.
+12 commits.
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub>
@@ -1379,6 +1379,10 @@
 * **[Alexandru Mariuti](https://github.com/nank1ro)** &mdash; [vector_graphics_compiler] wasm compatibility
   <sub>[#8021](https://github.com/flutter/packages/pull/8021) merged on November 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8021) over 8 hours, 8 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for Multiple Plugin Example Apps (Part 2)
+  <sub>[#8019](https://github.com/flutter/packages/pull/8019) merged on November 6, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/8019) over 1 day, 168 additions and 270 deletions in 20 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Add vector_graphics and flutter_svg to autolabeler
   <sub>[#8025](https://github.com/flutter/packages/pull/8025) merged on November 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8025) over 6 minutes, 13 additions and 0 deletions in 1 file</sub>
