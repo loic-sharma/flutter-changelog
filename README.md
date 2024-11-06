@@ -747,7 +747,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-27 commits.
+28 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`<br />
   <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub><br />
@@ -852,6 +852,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Switch all fonts to WOFF2 (non-split)<br />
   <sub>[#56035](https://github.com/flutter/engine/pull/56035) merged on November 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56035) over 2 weeks, 160 additions and 147 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 1c1d0420539f to d456f613465a (6 revisions)<br />
+  <sub>[#56406](https://github.com/flutter/engine/pull/56406) merged on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56406) over 1 hour, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 3e840340c412 to 1c1d0420539f (2 revisions)<br />
   <sub>[#56391](https://github.com/flutter/engine/pull/56391) merged on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56391) over 51 minutes, 7 additions and 7 deletions in 3 files</sub><br />
