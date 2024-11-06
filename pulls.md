@@ -74,3 +74,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make flutter_tools use newest package:{native_assets_builder,native_assets_cli,native_toolchain_c}<br />
   <sub>[#158214](https://github.com/flutter/flutter/pull/158214) opened on on November 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/158214) 510 additions and 447 deletions in 24 files</sub><br />
 
+* **[Paul Salmon](https://github.com/p-salmon)** &mdash; Added cusor control properties to CupertinoSearchTextField and tests<br />
+  <sub>[#158240](https://github.com/flutter/flutter/pull/158240) opened on on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158240) 100 additions and 0 deletions in 2 files</sub><br />
+
