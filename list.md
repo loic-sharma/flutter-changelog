@@ -181,7 +181,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and plumb `useImplicitPubspecResolution` across `flutter_tools`.
   <sub>[#157879](https://github.com/flutter/flutter/pull/157879) merged on October 31, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/157879) over 14 hours, 409 additions and 40 deletions in 57 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add hidden `--no-implicit-pubspec-resolution` flag for one stable release.
   <sub>[#157635](https://github.com/flutter/flutter/pull/157635) merged on October 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/157635) over 4 days, 133 additions and 51 deletions in 9 files</sub>
@@ -198,7 +198,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning/additional handlers for parsing`synthetic-package`.
   <sub>[#157934](https://github.com/flutter/flutter/pull/157934) merged on November 1, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/157934) over 6 hours, 209 additions and 5 deletions in 3 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Hides added routes before top-most route finishes pushing
   <sub>[#156104](https://github.com/flutter/flutter/pull/156104) merged on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156104) over 4 weeks, 88 additions and 22 deletions in 2 files</sub>
@@ -206,7 +206,7 @@
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) merged on October 31, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/155209) over 1 month, 22 additions and 20 deletions in 2 files</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser), [Victor Sanni](https://github.com/victorsanni)</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni), [Taha Tesser](https://github.com/TahaTesser), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Fix `GlowingOverscrollIndicator` examples
   <sub>[#155203](https://github.com/flutter/flutter/pull/155203) merged on October 30, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/155203) over 1 month, 245 additions and 14 deletions in 5 files</sub>
@@ -238,7 +238,7 @@
 
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Made insetPadding configurable for Date Picker Dialog
   <sub>[#155651](https://github.com/flutter/flutter/pull/155651) merged on October 31, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/155651) over 1 month, 26 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) merged on October 29, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/157151) over 1 week, 80 additions and 1 deletion in 2 files</sub>
@@ -410,7 +410,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField selects all content after the application is resumed
   <sub>[#156968](https://github.com/flutter/flutter/pull/156968) merged on October 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/156968) over 5 days, 50 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Greg Spencer](https://github.com/gspencergoog)</sub>
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Changes the offset computation to first item for RenderSliverMainAxisGroup
   <sub>[#154688](https://github.com/flutter/flutter/pull/154688) merged on October 24, 2024 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/154688) over 1 month, 90 additions and 1 deletion in 2 files</sub>
@@ -418,7 +418,7 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `Consider using 'named' to avoid unnecessary configuration` inside flutter.groovy
   <sub>[#157221](https://github.com/flutter/flutter/pull/157221) merged on October 21, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/157221) over 2 days, 13 additions and 15 deletions in 1 file</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
   <sub><details><summary>1 image...</summary>![Capture d’écran 2024-10-19 094417](https://github.com/user-attachments/assets/8278c72e-068e-4596-b1ce-7888161bfcc8)</details></sub>
 
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Fix: showDatePicker should have a simple example in the docs
@@ -572,7 +572,7 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Ensure that the build system checks for updates of locally built flutter_web_sdk artifacts
   <sub>[#156534](https://github.com/flutter/flutter/pull/156534) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156534) over 1 week, 25 additions and 13 deletions in 7 files</sub>
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove duplicated widget of the week video embed
   <sub>[#157299](https://github.com/flutter/flutter/pull/157299) merged on October 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157299) over 23 hours, 0 additions and 2 deletions in 1 file</sub>
