@@ -731,7 +731,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-25 commits.
+26 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`
   <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub>
@@ -768,6 +768,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] injectPlatformView into correct flutterView
   <sub>[#56334](https://github.com/flutter/engine/pull/56334) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56334) over 2 days, 64 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] split downsample shader into GLES variant.
+  <sub>[#56376](https://github.com/flutter/engine/pull/56376) merged on November 6, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56376) over 23 hours, 279 additions and 50 deletions in 9 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add missing TOC.
   <sub>[#56389](https://github.com/flutter/engine/pull/56389) merged on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56389) over 57 minutes, 1 addition and 0 deletions in 1 file</sub>
