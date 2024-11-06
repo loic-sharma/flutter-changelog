@@ -47,9 +47,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 99 additions and 2 deletions in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Set stable color for semantics debugger<br />
-  <sub>[#157884](https://github.com/flutter/flutter/pull/157884) opened on on October 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157884) 33 additions and 6 deletions in 3 files</sub><br />
-
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
