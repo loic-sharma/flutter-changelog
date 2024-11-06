@@ -173,7 +173,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and plumb `useImplicitPubspecResolution` across `flutter_tools`.<br />
   <sub>[#157879](https://github.com/flutter/flutter/pull/157879) merged on October 31, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/157879) over 14 hours, 409 additions and 40 deletions in 57 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add hidden `--no-implicit-pubspec-resolution` flag for one stable release.<br />
   <sub>[#157635](https://github.com/flutter/flutter/pull/157635) merged on October 30, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/157635) over 4 days, 133 additions and 51 deletions in 9 files</sub><br />
@@ -190,7 +190,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a warning/additional handlers for parsing`synthetic-package`.<br />
   <sub>[#157934](https://github.com/flutter/flutter/pull/157934) merged on November 1, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/157934) over 6 hours, 209 additions and 5 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jonah Williams](https://github.com/jonahwilliams), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Hides added routes before top-most route finishes pushing<br />
   <sub>[#156104](https://github.com/flutter/flutter/pull/156104) merged on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/156104) over 4 weeks, 88 additions and 22 deletions in 2 files</sub><br />
@@ -198,7 +198,7 @@
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Fix cursor on hover expand/collapse icon (#155207)<br />
   <sub>[#155209](https://github.com/flutter/flutter/pull/155209) merged on October 31, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/155209) over 1 month, 22 additions and 20 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser), [Victor Sanni](https://github.com/victorsanni)</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni), [Taha Tesser](https://github.com/TahaTesser), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[miechoo](https://github.com/miechoo)** &mdash; Fix `GlowingOverscrollIndicator` examples<br />
   <sub>[#155203](https://github.com/flutter/flutter/pull/155203) merged on October 30, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/155203) over 1 month, 245 additions and 14 deletions in 5 files</sub><br />
@@ -230,7 +230,7 @@
 
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Made insetPadding configurable for Date Picker Dialog<br />
   <sub>[#155651](https://github.com/flutter/flutter/pull/155651) merged on October 31, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/155651) over 1 month, 26 additions and 5 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[aniq](https://github.com/syedaniq)** &mdash; Allow customizing entry mode icons in TimePicker<br />
   <sub>[#157151](https://github.com/flutter/flutter/pull/157151) merged on October 29, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/157151) over 1 week, 80 additions and 1 deletion in 2 files</sub><br />
@@ -624,7 +624,7 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; small update in regex in flutter.groovy<br />
   <sub>[#156484](https://github.com/flutter/flutter/pull/156484) merged on October 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156484) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `navigator_state.restorable_push_and_remove_until.0.dart`<br />
   <sub>[#157595](https://github.com/flutter/flutter/pull/157595) merged on October 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157595) over 19 hours, 58 additions and 3 deletions in 3 files</sub><br />
@@ -1449,7 +1449,7 @@
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Allow custom blocks to be something other than `Column` or `SizedBox`<br />
   <sub>[#7859](https://github.com/flutter/packages/pull/7859) merged on October 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7859) over 1 week, 106 additions and 12 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Ahmed Bilal](https://github.com/ahmedbilal008)** &mdash; [video_player_web] Don't modify volume when muting video<br />
   <sub>[#7845](https://github.com/flutter/packages/pull/7845) merged on October 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7845) over 2 weeks, 17 additions and 6 deletions in 4 files</sub><br />
@@ -1473,11 +1473,11 @@
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player_android] Correct rotation of videos recorded by the camera<br />
   <sub>[#7846](https://github.com/flutter/packages/pull/7846) merged on October 21, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7846) over 1 week, 199 additions and 17 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Mason Nguyen](https://github.com/wamynobe)** &mdash; [pigeon] Allows swift generator to skip error class generation<br />
   <sub>[#7849](https://github.com/flutter/packages/pull/7849) merged on October 23, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7849) over 1 week, 25 additions and 4 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 2663184aa790 to 603104015dd6 (3 revisions)<br />
   <sub>[#7930](https://github.com/flutter/packages/pull/7930) merged on October 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/7930) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
