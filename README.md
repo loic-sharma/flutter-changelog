@@ -743,7 +743,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate fml::scoped_nsobject pointer use<br />
   <sub>[#56295](https://github.com/flutter/engine/pull/56295) merged on November 4, 2024 &mdash; **Medium:** [25 comments](https://github.com/flutter/engine/pull/56295) over 3 days, 161 additions and 214 deletions in 37 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlScrollingViewDelegate<br />
   <sub>[#56270](https://github.com/flutter/engine/pull/56270) merged on November 5, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/56270) over 5 days, 366 additions and 711 deletions in 8 files</sub><br />
@@ -751,7 +751,7 @@
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Made it so angle builds on linux<br />
   <sub>[#56328](https://github.com/flutter/engine/pull/56328) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56328) over 2 days, 3 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [web] injectPlatformView into correct flutterView<br />
   <sub>[#56334](https://github.com/flutter/engine/pull/56334) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56334) over 2 days, 64 additions and 8 deletions in 2 files</sub><br />
@@ -1056,7 +1056,7 @@
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Scribe (Android stylus handwriting text input)<br />
   <sub>[#52943](https://github.com/flutter/engine/pull/52943) merged on October 21, 2024 &mdash; **Large:** [47 comments](https://github.com/flutter/engine/pull/52943) over 5 months, 851 additions and 39 deletions in 16 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>1 image...</summary>![scribe](https://github.com/flutter/engine/assets/389558/210278a4-81c3-420f-bc9b-f1c164ee141a)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] eagerly flip backdrop back to onscreen.<br />
@@ -1118,7 +1118,7 @@
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Copy gen_snapshots using python's shutil.copy, avoid links<br />
   <sub>[#55830](https://github.com/flutter/engine/pull/55830) merged on October 22, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/55830) over 1 week, 34 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Slava Egorov](https://github.com/mraleph), [Chris Bracken](https://github.com/cbracken)</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chris Bracken](https://github.com/cbracken), [Slava Egorov](https://github.com/mraleph)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Allow appending to the transformation stack.<br />
   <sub>[#56072](https://github.com/flutter/engine/pull/56072) merged on October 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56072) over 1 hour, 34 additions and 0 deletions in 5 files</sub><br />
@@ -1214,7 +1214,7 @@
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Increase timeout for Linux mac_clangd<br />
   <sub>[#55988](https://github.com/flutter/engine/pull/55988) merged on October 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/55988) over 2 hours, 2 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
+  <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move get_keyboard_state from FlKeyboardViewDelegate to FlKeyboardManager.<br />
   <sub>[#56021](https://github.com/flutter/engine/pull/56021) merged on October 23, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56021) over 23 hours, 67 additions and 90 deletions in 11 files</sub><br />
@@ -1462,7 +1462,7 @@
 
 * **[Ahmed Bilal](https://github.com/ahmedbilal008)** &mdash; [video_player_web] Don't modify volume when muting video<br />
   <sub>[#7845](https://github.com/flutter/packages/pull/7845) merged on October 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/7845) over 2 weeks, 17 additions and 6 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [David Iglesias](https://github.com/ditman)</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_parsing] Initial import<br />
   <sub>[#7908](https://github.com/flutter/packages/pull/7908) merged on October 25, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/7908) over 3 days, 1546 additions and 2 deletions in 17 files</sub><br />
@@ -1478,7 +1478,7 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera] Manual roll and skip failing tests<br />
   <sub>[#7891](https://github.com/flutter/packages/pull/7891) merged on October 24, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7891) over 5 days, 36 additions and 12 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player_android] Correct rotation of videos recorded by the camera<br />
   <sub>[#7846](https://github.com/flutter/packages/pull/7846) merged on October 21, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/7846) over 1 week, 199 additions and 17 deletions in 5 files</sub><br />
