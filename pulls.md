@@ -77,7 +77,7 @@
 * **[Paul Salmon](https://github.com/p-salmon)** &mdash; Added cusor control properties to CupertinoSearchTextField and tests<br />
   <sub>[#158240](https://github.com/flutter/flutter/pull/158240) opened on on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158240) 100 additions and 0 deletions in 2 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `image.loading_builder.0.dart`<br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `image.frame_builder.0.dart`<br />
   <sub>[#158247](https://github.com/flutter/flutter/pull/158247) opened on on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158247) 54 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `image.loading_builder.0.dart`<br />
