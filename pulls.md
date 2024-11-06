@@ -78,5 +78,5 @@
   <sub>[#158268](https://github.com/flutter/flutter/pull/158268) opened on on November 6, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/158268) 826 additions and 826 deletions in 68 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flakiness in hot_reload_test.dart<br />
-  <sub>[#158271](https://github.com/flutter/flutter/pull/158271) opened on on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158271) 11 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#158271](https://github.com/flutter/flutter/pull/158271) opened on on November 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158271) 11 additions and 1 deletion in 1 file</sub><br />
 
