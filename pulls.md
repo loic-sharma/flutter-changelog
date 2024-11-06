@@ -80,3 +80,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `image.loading_builder.0.dart`<br />
   <sub>[#158248](https://github.com/flutter/flutter/pull/158248) opened on on November 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158248) 65 additions and 1 deletion in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to override `NavigationDestination.label` padding for `NavigationBar`<br />
+  <sub>[#158260](https://github.com/flutter/flutter/pull/158260) opened on on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158260) 207 additions and 52 deletions in 5 files</sub><br />
+
