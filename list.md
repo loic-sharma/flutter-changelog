@@ -747,7 +747,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-26 commits.
+27 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`
   <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub>
@@ -760,6 +760,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add and document and explicit `toARGB32`.
   <sub>[#56329](https://github.com/flutter/engine/pull/56329) merged on November 6, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56329) over 4 days, 28 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Avoid errors due to triangle fans usage on Molten.
+  <sub>[#56321](https://github.com/flutter/engine/pull/56321) merged on November 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56321) over 4 days, 89 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; fml: delete scoped_nsobject.h,mm
   <sub>[#56382](https://github.com/flutter/engine/pull/56382) merged on November 5, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/engine/pull/56382) over 2 hours, 10 additions and 548 deletions in 12 files</sub>
