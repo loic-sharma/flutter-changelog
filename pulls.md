@@ -81,5 +81,5 @@
   <sub>[#158247](https://github.com/flutter/flutter/pull/158247) opened on on November 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158247) 54 additions and 1 deletion in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `image.loading_builder.0.dart`<br />
-  <sub>[#158248](https://github.com/flutter/flutter/pull/158248) opened on on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158248) 65 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#158248](https://github.com/flutter/flutter/pull/158248) opened on on November 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158248) 65 additions and 1 deletion in 2 files</sub><br />
 
