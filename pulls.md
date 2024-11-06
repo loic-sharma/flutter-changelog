@@ -71,9 +71,6 @@
 * **[Moshe Dicker](https://github.com/dickermoshe)** &mdash; Adds support for applying delta/factor transformations for TextTheme height, letter and word spacing<br />
   <sub>[#158103](https://github.com/flutter/flutter/pull/158103) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158103) 253 additions and 55 deletions in 2 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make flutter_tools use newest package:{native_assets_builder,native_assets_cli,native_toolchain_c}<br />
-  <sub>[#158214](https://github.com/flutter/flutter/pull/158214) opened on on November 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/158214) 519 additions and 449 deletions in 24 files</sub><br />
-
 * **[Paul Salmon](https://github.com/p-salmon)** &mdash; Added cusor control properties to CupertinoSearchTextField and tests<br />
   <sub>[#158240](https://github.com/flutter/flutter/pull/158240) opened on on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158240) 100 additions and 0 deletions in 2 files</sub><br />
 
