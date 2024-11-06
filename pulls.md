@@ -75,5 +75,5 @@
   <sub>[#158214](https://github.com/flutter/flutter/pull/158214) opened on on November 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/158214) 510 additions and 447 deletions in 24 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix RawScrollbar examples and desktop test<br />
-  <sub>[#158237](https://github.com/flutter/flutter/pull/158237) opened on on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158237) 93 additions and 87 deletions in 4 files</sub><br />
+  <sub>[#158237](https://github.com/flutter/flutter/pull/158237) opened on on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158237) 93 additions and 88 deletions in 5 files</sub><br />
 
