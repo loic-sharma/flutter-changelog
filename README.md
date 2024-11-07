@@ -1413,7 +1413,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-13 commits.
+14 commits.
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter<br />
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub><br />
@@ -1451,6 +1451,10 @@
 * **[Alexandru Mariuti](https://github.com/nank1ro)** &mdash; [vector_graphics_compiler] wasm compatibility<br />
   <sub>[#8021](https://github.com/flutter/packages/pull/8021) merged on November 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8021) over 8 hours, 8 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; [google_sign_in/google_identity_services] Clear-up documentation of callbacks in various APIs and uses of those APIs<br />
+  <sub>[#8029](https://github.com/flutter/packages/pull/8029) merged on November 7, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8029) over 16 hours, 25 additions and 23 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for Multiple Plugin Example Apps (Part 2)<br />
   <sub>[#8019](https://github.com/flutter/packages/pull/8019) merged on November 6, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/8019) over 1 day, 168 additions and 270 deletions in 20 files</sub><br />
