@@ -1397,7 +1397,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-12 commits.
+13 commits.
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter<br />
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub><br />
@@ -1407,6 +1407,10 @@
   <sub>[#7430](https://github.com/flutter/packages/pull/7430) merged on November 6, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/7430) over 2 months, 242 additions and 40 deletions in 8 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
   <sub><details><summary>3 images...</summary>![Screenshot 2024-10-25 at 10 10 36 AM](https://github.com/user-attachments/assets/dd7ae9bc-6161-4381-8a4f-f10b8c981801)![Screenshot 2024-10-25 at 10 11 55 AM](https://github.com/user-attachments/assets/d4dd8420-f272-459c-9785-ab0c03887a74)![Screenshot 2024-10-25 at 10 19 55 AM](https://github.com/user-attachments/assets/76a86a15-2150-482a-8b15-e3e7ac90485e)</details></sub>
+
+* **[Alexandru Mariuti](https://github.com/nank1ro)** &mdash; [flutter_svg] wasm compatibility<br />
+  <sub>[#8014](https://github.com/flutter/packages/pull/8014) merged on November 7, 2024 &mdash; **Small:** [43 comments](https://github.com/flutter/packages/pull/8014) over 3 days, 8 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan), [Kevin Moore](https://github.com/kevmoo), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; [various] Add `missing_code_block_language_in_doc_comment` lint to flutter/packages.<br />
   <sub>[#6473](https://github.com/flutter/packages/pull/6473) merged on November 4, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/6473) over 7 months, 163 additions and 108 deletions in 37 files</sub><br />
