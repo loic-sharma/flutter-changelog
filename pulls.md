@@ -69,5 +69,5 @@
   <sub>[#158323](https://github.com/flutter/flutter/pull/158323) opened on on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158323) 16 additions and 2 deletions in 2 files</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add recently imported packages to issue template<br />
-  <sub>[#158324](https://github.com/flutter/flutter/pull/158324) opened on on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158324) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#158324](https://github.com/flutter/flutter/pull/158324) opened on on November 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158324) 3 additions and 0 deletions in 1 file</sub><br />
 
