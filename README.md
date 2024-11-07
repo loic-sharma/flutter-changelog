@@ -1646,7 +1646,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-4 commits.
+5 commits.
 
 * **[Rody Davis](https://github.com/rodydavis)** &mdash; Add "Open in IDX" for Flutter website development<br />
   <sub>[#11364](https://github.com/flutter/website/pull/11364) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11364) over 51 minutes, 72 additions and 1 deletion in 3 files</sub><br />
@@ -1659,6 +1659,10 @@
 * **[Joel Kitching](https://github.com/jkitching)** &mdash; deployment/ios: fix broken markdown link<br />
   <sub>[#11361](https://github.com/flutter/website/pull/11361) merged on November 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11361) over 6 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Hossein zare](https://github.com/hosseinzare1)** &mdash; Fix/update deeplinking doc<br />
+  <sub>[#11366](https://github.com/flutter/website/pull/11366) merged on November 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11366) over 1 day, 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Embedding web content into a Flutter web app"<br />
   <sub>[#11370](https://github.com/flutter/website/pull/11370) merged on November 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11370) over 1 day, 0 additions and 4 deletions in 1 file</sub><br />
