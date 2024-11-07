@@ -47,9 +47,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 99 additions and 2 deletions in 2 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; iOS Selection Handle Improvements<br />
-  <sub>[#157815](https://github.com/flutter/flutter/pull/157815) opened on on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157815) 170 additions and 20 deletions in 7 files</sub><br />
-
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
@@ -67,4 +64,7 @@
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll Flutter Engine from 371c86fb6b49 to bcb281cde579<br />
+  <sub>[#158346](https://github.com/flutter/flutter/pull/158346) opened on on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158346) 3 additions and 7 deletions in 3 files</sub><br />
 
