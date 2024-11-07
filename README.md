@@ -4,7 +4,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-45 commits.
+46 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic<br />
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) merged on November 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157756) over 6 days, 117 additions and 1 deletion in 2 files</sub><br />
@@ -51,9 +51,9 @@
   <sub>[#158170](https://github.com/flutter/flutter/pull/158170) merged on November 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158170) over 3 hours, 36 additions and 12 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Update error message for Cocoapods support for synchronized groups/folders<br />
-  <sub>[#158206](https://github.com/flutter/flutter/pull/158206) merged on November 6, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158206) over 4 hours, 9 additions and 14 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flakiness in hot_reload_test.dart<br />
+  <sub>[#158271](https://github.com/flutter/flutter/pull/158271) merged on November 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158271) over 5 hours, 11 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; excluding website-cms from critical pr triage<br />
   <sub>[#158220](https://github.com/flutter/flutter/pull/158220) merged on November 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158220) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -63,17 +63,17 @@
   <sub>[#158175](https://github.com/flutter/flutter/pull/158175) merged on November 6, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158175) over 16 hours, 18 additions and 13 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flakiness in hot_reload_test.dart<br />
-  <sub>[#158271](https://github.com/flutter/flutter/pull/158271) merged on November 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158271) over 5 hours, 11 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
-  <sub>[#154574](https://github.com/flutter/flutter/pull/154574) merged on November 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154574) over 2 months, 8 additions and 6 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Update error message for Cocoapods support for synchronized groups/folders<br />
+  <sub>[#158206](https://github.com/flutter/flutter/pull/158206) merged on November 6, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158206) over 4 hours, 9 additions and 14 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove references to the HTML renderer in public docs.<br />
   <sub>[#158035](https://github.com/flutter/flutter/pull/158035) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158035) over 2 days, 4 additions and 10 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] fix --ab option for web benchmarks<br />
+  <sub>[#154574](https://github.com/flutter/flutter/pull/154574) merged on November 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/154574) over 2 months, 8 additions and 6 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Kevin Moore](https://github.com/kevmoo), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove use_modular_headers! from Swift Podfiles<br />
   <sub>[#156257](https://github.com/flutter/flutter/pull/156257) merged on November 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/156257) over 1 month, 0 additions and 12 deletions in 11 files</sub><br />
@@ -115,10 +115,6 @@
   <sub>[#158202](https://github.com/flutter/flutter/pull/158202) merged on November 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158202) over 3 hours, 2 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove observatory related TODO that is already fixed.<br />
-  <sub>[#158205](https://github.com/flutter/flutter/pull/158205) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158205) over 2 hours, 1 addition and 6 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Factor out "shaker" class<br />
   <sub>[#157748](https://github.com/flutter/flutter/pull/157748) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157748) over 1 week, 31 additions and 49 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -130,6 +126,18 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Add optional parameter to FlutterTesterDevices.<br />
   <sub>[#158133](https://github.com/flutter/flutter/pull/158133) merged on November 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158133) over 4 hours, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove observatory related TODO that is already fixed.<br />
+  <sub>[#158205](https://github.com/flutter/flutter/pull/158205) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158205) over 2 hours, 1 addition and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Add recently imported packages to issue template<br />
+  <sub>[#158324](https://github.com/flutter/flutter/pull/158324) merged on November 7, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158324) over 54 minutes, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Huy](https://github.com/huycozy)</sub><br />
+
+* **[Paul Salmon](https://github.com/p-salmon)** &mdash; Added cusor control properties to CupertinoSearchTextField and tests<br />
+  <sub>[#158240](https://github.com/flutter/flutter/pull/158240) merged on November 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158240) over 14 hours, 100 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `image.frame_builder.0.dart`<br />
   <sub>[#158247](https://github.com/flutter/flutter/pull/158247) merged on November 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158247) over 7 hours, 58 additions and 1 deletion in 2 files</sub><br />
@@ -147,17 +155,13 @@
   <sub>[#158201](https://github.com/flutter/flutter/pull/158201) merged on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158201) over 2 hours, 15 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.shape.0.dart`<br />
-  <sub>[#158094](https://github.com/flutter/flutter/pull/158094) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158094) over 22 hours, 34 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
-
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Disable failing native assets test<br />
   <sub>[#158119](https://github.com/flutter/flutter/pull/158119) merged on November 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158119) over 57 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Paul Salmon](https://github.com/p-salmon)** &mdash; Added cusor control properties to CupertinoSearchTextField and tests<br />
-  <sub>[#158240](https://github.com/flutter/flutter/pull/158240) merged on November 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158240) over 14 hours, 100 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `raw_scrollbar.shape.0.dart`<br />
+  <sub>[#158094](https://github.com/flutter/flutter/pull/158094) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158094) over 22 hours, 34 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Add benchmarks for single-threaded Skwasm.<br />
   <sub>[#158027](https://github.com/flutter/flutter/pull/158027) merged on November 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158027) over 2 days, 58 additions and 5 deletions in 8 files</sub><br />
@@ -786,7 +790,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] generate stroke vertices into point arena.<br />
-  <sub>[#56390](https://github.com/flutter/engine/pull/56390) merged on November 6, 2024 &mdash; **Medium:** [25 comments](https://github.com/flutter/engine/pull/56390) over 22 hours, 248 additions and 135 deletions in 7 files</sub><br />
+  <sub>[#56390](https://github.com/flutter/engine/pull/56390) merged on November 6, 2024 &mdash; **Medium:** [26 comments](https://github.com/flutter/engine/pull/56390) over 22 hours, 248 additions and 135 deletions in 7 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Avoid errors due to triangle fans usage on Molten.<br />
