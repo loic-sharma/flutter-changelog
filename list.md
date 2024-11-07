@@ -1449,7 +1449,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-16 commits.
+17 commits.
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub>
@@ -1467,6 +1467,10 @@
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; [various] Add `missing_code_block_language_in_doc_comment` lint to flutter/packages.
   <sub>[#6473](https://github.com/flutter/packages/pull/6473) merged on November 4, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/6473) over 7 months, 163 additions and 108 deletions in 37 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [David Iglesias](https://github.com/ditman), [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov), [stuartmorgan](https://github.com/stuartmorgan), and [1 other](https://github.com/flutter/packages/pull/6473)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Activate leak testing
+  <sub>[#7546](https://github.com/flutter/packages/pull/7546) merged on November 7, 2024 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/7546) over 2 months, 23 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] enable more than 30 fps
   <sub>[#7394](https://github.com/flutter/packages/pull/7394) merged on November 5, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/7394) over 2 months, 121 additions and 19 deletions in 5 files</sub>
