@@ -30,7 +30,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
-  <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
+  <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; doctor: make JDK validation message more descriptive<br />
   <sub>[#157280](https://github.com/flutter/flutter/pull/157280) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157280) 218 additions and 9 deletions in 6 files</sub><br />
@@ -58,4 +58,7 @@
 
 * **[Moshe Dicker](https://github.com/dickermoshe)** &mdash; Adds support for applying delta/factor transformations for TextTheme height, letter and word spacing<br />
   <sub>[#158103](https://github.com/flutter/flutter/pull/158103) opened on on November 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158103) 253 additions and 55 deletions in 2 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] Update defaultCacheExtent<br />
+  <sub>[#158301](https://github.com/flutter/flutter/pull/158301) opened on on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158301) 1 addition and 1 deletion in 1 file</sub><br />
 
