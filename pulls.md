@@ -48,7 +48,7 @@
   <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157786) 99 additions and 2 deletions in 2 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; iOS Selection Handle Improvements<br />
-  <sub>[#157815](https://github.com/flutter/flutter/pull/157815) opened on on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157815) 171 additions and 20 deletions in 7 files</sub><br />
+  <sub>[#157815](https://github.com/flutter/flutter/pull/157815) opened on on October 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157815) 170 additions and 20 deletions in 7 files</sub><br />
 
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
