@@ -767,7 +767,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-38 commits.
+39 commits.
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`
   <sub>[#55992](https://github.com/flutter/engine/pull/55992) merged on November 4, 2024 &mdash; **Medium:** [52 comments](https://github.com/flutter/engine/pull/55992) over 1 week, 251 additions and 75 deletions in 4 files</sub>
@@ -857,21 +857,21 @@
   <sub>[#56384](https://github.com/flutter/engine/pull/56384) merged on November 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56384) over 1 hour, 18 additions and 27 deletions in 3 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable overdraw prevention for source draws.
+  <sub>[#56403](https://github.com/flutter/engine/pull/56403) merged on November 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56403) over 1 day, 6 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] combine translate* scale mat mul when computing shader transform.
   <sub>[#56352](https://github.com/flutter/engine/pull/56352) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56352) over 12 hours, 27 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] faster descriptor type mapping.
+  <sub>[#56351](https://github.com/flutter/engine/pull/56351) merged on November 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56351) over 11 hours, 51 additions and 27 deletions in 5 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: fix leak in CurrentKeyboardLayout
   <sub>[#56420](https://github.com/flutter/engine/pull/56420) merged on November 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56420) over 15 hours, 5 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry mac_unopt one time in presubmit
-  <sub>[#56319](https://github.com/flutter/engine/pull/56319) merged on November 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56319) over 2 days, 2 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; remove mock vulkan memory test.
-  <sub>[#56367](https://github.com/flutter/engine/pull/56367) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56367) over 31 minutes, 0 additions and 13 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] removed unused deps (dart-lang browser_launcher, clock, bazel_worker, cli_util, csslib, html, json_rpc_2
   <sub>[#56359](https://github.com/flutter/engine/pull/56359) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56359) over 4 hours, 0 additions and 30 deletions in 1 file</sub>
@@ -893,13 +893,13 @@
   <sub>[#56370](https://github.com/flutter/engine/pull/56370) merged on November 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56370) over 13 hours, 42 additions and 56 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] faster descriptor type mapping.
-  <sub>[#56351](https://github.com/flutter/engine/pull/56351) merged on November 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56351) over 11 hours, 51 additions and 27 deletions in 5 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry mac_unopt one time in presubmit
+  <sub>[#56319](https://github.com/flutter/engine/pull/56319) merged on November 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56319) over 2 days, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Document fields in FlEngine
-  <sub>[#56266](https://github.com/flutter/engine/pull/56266) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56266) over 5 days, 20 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; remove mock vulkan memory test.
+  <sub>[#56367](https://github.com/flutter/engine/pull/56367) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56367) over 31 minutes, 0 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unnecessary method for getting engine switches (command line).
   <sub>[#56265](https://github.com/flutter/engine/pull/56265) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56265) over 5 days, 5 additions and 56 deletions in 3 files</sub>
@@ -912,6 +912,10 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix empty backdrop drawing.
   <sub>[#56385](https://github.com/flutter/engine/pull/56385) merged on November 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56385) over 1 day, 60 additions and 23 deletions in 2 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Document fields in FlEngine
+  <sub>[#56266](https://github.com/flutter/engine/pull/56266) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56266) over 5 days, 20 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 1c1d0420539f to d456f613465a (6 revisions)
   <sub>[#56406](https://github.com/flutter/engine/pull/56406) merged on November 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56406) over 1 hour, 4 additions and 4 deletions in 3 files</sub>
