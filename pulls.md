@@ -30,7 +30,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
-  <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
+  <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; doctor: make JDK validation message more descriptive<br />
   <sub>[#157280](https://github.com/flutter/flutter/pull/157280) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157280) 218 additions and 9 deletions in 6 files</sub><br />
@@ -64,4 +64,7 @@
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
+
+* **[André Stein](https://github.com/stonemaster)** &mdash; [TextInput] Add TextInputType.webSearch (#15762)<br />
+  <sub>[#158323](https://github.com/flutter/flutter/pull/158323) opened on on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158323) 16 additions and 2 deletions in 2 files</sub><br />
 
