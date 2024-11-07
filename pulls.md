@@ -66,5 +66,5 @@
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
 * **[André Stein](https://github.com/stonemaster)** &mdash; [TextInput] Add TextInputType.webSearch (#15762)<br />
-  <sub>[#158323](https://github.com/flutter/flutter/pull/158323) opened on on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158323) 16 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#158323](https://github.com/flutter/flutter/pull/158323) opened on on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158323) 15 additions and 2 deletions in 2 files</sub><br />
 
