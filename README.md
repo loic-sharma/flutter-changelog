@@ -1487,7 +1487,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-19 commits.
+20 commits.
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter<br />
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub><br />
@@ -1537,6 +1537,10 @@
 * **[Alexandru Mariuti](https://github.com/nank1ro)** &mdash; [vector_graphics_compiler] wasm compatibility<br />
   <sub>[#8021](https://github.com/flutter/packages/pull/8021) merged on November 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8021) over 8 hours, 8 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; [vector_graphics_compiler] fix-null-exception<br />
+  <sub>[#8006](https://github.com/flutter/packages/pull/8006) merged on November 8, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8006) over 6 days, 23 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Format Dart per-package<br />
   <sub>[#8043](https://github.com/flutter/packages/pull/8043) merged on November 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8043) over 24 minutes, 57 additions and 52 deletions in 2 files</sub><br />
