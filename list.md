@@ -507,7 +507,7 @@
   <sub><details><summary>1 image...</summary><img width="795" alt="Screenshot 2024-10-24 at 12 47 58 PM" src="https://github.com/user-attachments/assets/a986f71c-5533-4899-aeb8-126dc82794fb"></details></sub>
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix Scaffold extend body
-  <sub>[#157441](https://github.com/flutter/flutter/pull/157441) merged on October 27, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/157441) over 3 days, 37 additions and 6 deletions in 2 files</sub>
+  <sub>[#157441](https://github.com/flutter/flutter/pull/157441) merged on October 27, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/157441) over 3 days, 37 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ThemeData.dialogBackgroundColor` in favor of `DialogThemeData.backgroundColor`
