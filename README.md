@@ -809,7 +809,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-47 commits.
+49 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add support for ImageFilter.shader<br />
   <sub>[#53490](https://github.com/flutter/engine/pull/53490) merged on November 8, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/engine/pull/53490) over 4 months, 953 additions and 199 deletions in 35 files</sub><br />
@@ -895,85 +895,89 @@
   <sub>[#56409](https://github.com/flutter/engine/pull/56409) merged on November 6, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/56409) over 2 hours, 20 additions and 9 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Delete any remaining GL objects during destruction of the ReactorGLES<br />
+  <sub>[#56361](https://github.com/flutter/engine/pull/56361) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56361) over 23 hours, 83 additions and 50 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Add Obj-C cflags to all Obj-C targets<br />
   <sub>[#56386](https://github.com/flutter/engine/pull/56386) merged on November 6, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56386) over 23 hours, 49 additions and 41 deletions in 11 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] split downsample shader into GLES variant.<br />
-  <sub>[#56376](https://github.com/flutter/engine/pull/56376) merged on November 6, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56376) over 23 hours, 279 additions and 50 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] exploit content context options' perfect hash function.<br />
   <sub>[#56360](https://github.com/flutter/engine/pull/56360) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56360) over 22 hours, 40 additions and 55 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] match Skia's old VMA default block size.<br />
-  <sub>[#56368](https://github.com/flutter/engine/pull/56368) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56368) over 14 hours, 3 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Refactor ShellTestPlatformViewMetal<br />
   <sub>[#56370](https://github.com/flutter/engine/pull/56370) merged on November 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56370) over 13 hours, 42 additions and 56 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Use Matrix::MakeTranslateScale to compute the source-to-destination mapping in DrawImageRect<br />
-  <sub>[#56433](https://github.com/flutter/engine/pull/56433) merged on November 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56433) over 1 hour, 1 addition and 6 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate ScopedBlock, ScopedTypeRef, ScopedPolicy<br />
-  <sub>[#56410](https://github.com/flutter/engine/pull/56410) merged on November 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56410) over 23 hours, 6 additions and 224 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable overdraw prevention for source draws.<br />
-  <sub>[#56403](https://github.com/flutter/engine/pull/56403) merged on November 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56403) over 1 day, 6 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] faster descriptor type mapping.<br />
-  <sub>[#56351](https://github.com/flutter/engine/pull/56351) merged on November 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56351) over 11 hours, 51 additions and 27 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Move off deprecated upload-artifactv3<br />
-  <sub>[#56439](https://github.com/flutter/engine/pull/56439) merged on November 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56439) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add missing TOC.<br />
-  <sub>[#56389](https://github.com/flutter/engine/pull/56389) merged on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56389) over 57 minutes, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Use standard Obj-C cflags for ios_test_flutter<br />
-  <sub>[#56384](https://github.com/flutter/engine/pull/56384) merged on November 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56384) over 1 hour, 18 additions and 27 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Delete any remaining GL objects during destruction of the ReactorGLES<br />
-  <sub>[#56361](https://github.com/flutter/engine/pull/56361) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56361) over 23 hours, 83 additions and 50 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; remove mock vulkan memory test.<br />
-  <sub>[#56367](https://github.com/flutter/engine/pull/56367) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56367) over 31 minutes, 0 additions and 13 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] combine translate* scale mat mul when computing shader transform.<br />
-  <sub>[#56352](https://github.com/flutter/engine/pull/56352) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56352) over 12 hours, 27 additions and 2 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Increase timeouts for Linux Fuchsia and Linux Web Framework Tests builders<br />
-  <sub>[#56387](https://github.com/flutter/engine/pull/56387) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56387) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry mac_unopt one time in presubmit<br />
-  <sub>[#56319](https://github.com/flutter/engine/pull/56319) merged on November 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56319) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Add FlutterTaskRunnerDescription.destruction_callback<br />
+  <sub>[#56445](https://github.com/flutter/engine/pull/56445) merged on November 8, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56445) over 18 hours, 48 additions and 14 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] removed unused deps (dart-lang browser_launcher, clock, bazel_worker, cli_util, csslib, html, json_rpc_2<br />
   <sub>[#56359](https://github.com/flutter/engine/pull/56359) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56359) over 4 hours, 0 additions and 30 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; yapf: Add more detailed error message and TODO<br />
+  <sub>[#56458](https://github.com/flutter/engine/pull/56458) merged on November 8, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56458) over 1 hour, 9 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Move off deprecated upload-artifactv3<br />
+  <sub>[#56439](https://github.com/flutter/engine/pull/56439) merged on November 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56439) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate ScopedBlock, ScopedTypeRef, ScopedPolicy<br />
+  <sub>[#56410](https://github.com/flutter/engine/pull/56410) merged on November 7, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56410) over 23 hours, 6 additions and 224 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Retry mac_unopt one time in presubmit<br />
+  <sub>[#56319](https://github.com/flutter/engine/pull/56319) merged on November 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56319) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] faster descriptor type mapping.<br />
+  <sub>[#56351](https://github.com/flutter/engine/pull/56351) merged on November 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56351) over 11 hours, 51 additions and 27 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable overdraw prevention for source draws.<br />
+  <sub>[#56403](https://github.com/flutter/engine/pull/56403) merged on November 7, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56403) over 1 day, 6 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] match Skia's old VMA default block size.<br />
+  <sub>[#56368](https://github.com/flutter/engine/pull/56368) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56368) over 14 hours, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add missing TOC.<br />
+  <sub>[#56389](https://github.com/flutter/engine/pull/56389) merged on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56389) over 57 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Use Matrix::MakeTranslateScale to compute the source-to-destination mapping in DrawImageRect<br />
+  <sub>[#56433](https://github.com/flutter/engine/pull/56433) merged on November 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56433) over 1 hour, 1 addition and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Use standard Obj-C cflags for ios_test_flutter<br />
+  <sub>[#56384](https://github.com/flutter/engine/pull/56384) merged on November 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56384) over 1 hour, 18 additions and 27 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] combine translate* scale mat mul when computing shader transform.<br />
+  <sub>[#56352](https://github.com/flutter/engine/pull/56352) merged on November 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56352) over 12 hours, 27 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; remove mock vulkan memory test.<br />
+  <sub>[#56367](https://github.com/flutter/engine/pull/56367) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56367) over 31 minutes, 0 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] split downsample shader into GLES variant.<br />
+  <sub>[#56376](https://github.com/flutter/engine/pull/56376) merged on November 6, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56376) over 23 hours, 279 additions and 50 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Increase timeouts for Linux Fuchsia and Linux Web Framework Tests builders<br />
+  <sub>[#56387](https://github.com/flutter/engine/pull/56387) merged on November 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56387) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Switch all fonts to WOFF2 (non-split)<br />
   <sub>[#56035](https://github.com/flutter/engine/pull/56035) merged on November 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56035) over 2 weeks, 160 additions and 147 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Make sure to include the transfer list when using postMessage.<br />
-  <sub>[#56431](https://github.com/flutter/engine/pull/56431) merged on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56431) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Fix empty backdrop drawing.<br />
   <sub>[#56385](https://github.com/flutter/engine/pull/56385) merged on November 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56385) over 1 day, 60 additions and 23 deletions in 2 files</sub><br />
@@ -986,6 +990,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unnecessary method for getting engine switches (command line).<br />
   <sub>[#56265](https://github.com/flutter/engine/pull/56265) merged on November 5, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56265) over 5 days, 5 additions and 56 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Make sure to include the transfer list when using postMessage.<br />
+  <sub>[#56431](https://github.com/flutter/engine/pull/56431) merged on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56431) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 50c620224f27 to cfa1826c3df1 (2 revisions)<br />
   <sub>[#56456](https://github.com/flutter/engine/pull/56456) merged on November 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56456) over 1 hour, 8 additions and 8 deletions in 2 files</sub><br />
