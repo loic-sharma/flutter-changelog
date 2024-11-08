@@ -1511,7 +1511,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-21 commits.
+22 commits.
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub>
@@ -1546,6 +1546,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [vector_graphics*] Relax dependency constraints of vector_graphics, vector_graphics_codec, vector_graphics_compiler, flutter_svg 
   <sub>[#8018](https://github.com/flutter/packages/pull/8018) merged on November 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8018) over 20 hours, 22 additions and 22 deletions in 7 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [animations] Remove `.flutter-plugins` reference from example app
+  <sub>[#8002](https://github.com/flutter/packages/pull/8002) merged on November 8, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8002) over 6 days, 182 additions and 105 deletions in 16 files</sub>
+  <sub>Reviewed by: [jesswrd](https://github.com/jesswrd), [Reid Baker](https://github.com/reidbaker), [Matan Lurey](https://github.com/matanlurey), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds remaining methods for internal wrapper of the Android native `BaseManager`
   <sub>[#7943](https://github.com/flutter/packages/pull/7943) merged on November 7, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/7943) over 1 week, 525 additions and 18 deletions in 13 files</sub>
