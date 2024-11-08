@@ -62,3 +62,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix flutter tool issues<br />
   <sub>[#158370](https://github.com/flutter/flutter/pull/158370) opened on on November 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158370) 52 additions and 48 deletions in 6 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Replace custom `RPCErrorCodes` with `RPCErrorKind` from `package:vm_service`<br />
+  <sub>[#158379](https://github.com/flutter/flutter/pull/158379) opened on on November 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158379) 68 additions and 95 deletions in 14 files</sub><br />
+
