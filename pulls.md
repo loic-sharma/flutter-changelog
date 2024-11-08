@@ -56,3 +56,6 @@
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Support materialTapTargetSize in PopupMenuButton<br />
+  <sub>[#158357](https://github.com/flutter/flutter/pull/158357) opened on on November 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158357) 48 additions and 1 deletion in 2 files</sub><br />
+
