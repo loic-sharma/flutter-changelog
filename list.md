@@ -42,7 +42,7 @@
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Extract and restore a test that a blank native assets project still builds
-  <sub>[#158141](https://github.com/flutter/flutter/pull/158141) merged on November 5, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/158141) over 2 hours, 169 additions and 75 deletions in 3 files</sub>
+  <sub>[#158141](https://github.com/flutter/flutter/pull/158141) merged on November 5, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/158141) over 2 hours, 169 additions and 75 deletions in 3 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; `Plugin.isDevDependency` if exclusively in `dev_dependencies`
