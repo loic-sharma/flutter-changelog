@@ -1487,7 +1487,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-20 commits.
+21 commits.
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub>
@@ -1501,6 +1501,11 @@
 * **[Alexandru Mariuti](https://github.com/nank1ro)** &mdash; [flutter_svg] wasm compatibility
   <sub>[#8014](https://github.com/flutter/packages/pull/8014) merged on November 7, 2024 &mdash; **Small:** [43 comments](https://github.com/flutter/packages/pull/8014) over 3 days, 8 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan), [Kevin Moore](https://github.com/kevmoo), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Group dependabot github-action update PRs, delete dead docker updates
+  <sub>[#8044](https://github.com/flutter/packages/pull/8044) merged on November 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8044) over 1 hour, 5 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+  <sub><details><summary>1 image...</summary><img width="400" alt="Screenshot 2024-11-08 at 11 08 52 AM" src="https://github.com/user-attachments/assets/eebedf69-3fae-409b-9c88-c3afc8036c52"></details></sub>
 
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; [various] Add `missing_code_block_language_in_doc_comment` lint to flutter/packages.
   <sub>[#6473](https://github.com/flutter/packages/pull/6473) merged on November 4, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/6473) over 7 months, 163 additions and 108 deletions in 37 files</sub>
