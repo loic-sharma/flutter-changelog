@@ -59,3 +59,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Support materialTapTargetSize in PopupMenuButton<br />
   <sub>[#158357](https://github.com/flutter/flutter/pull/158357) opened on on November 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158357) 48 additions and 1 deletion in 2 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix flutter tool issues<br />
+  <sub>[#158370](https://github.com/flutter/flutter/pull/158370) opened on on November 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158370) 19 additions and 11 deletions in 2 files</sub><br />
+
