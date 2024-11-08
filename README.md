@@ -1515,7 +1515,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-22 commits.
+23 commits.
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter<br />
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub><br />
@@ -1546,6 +1546,10 @@
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] enable more than 30 fps<br />
   <sub>[#7394](https://github.com/flutter/packages/pull/7394) merged on November 5, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/7394) over 2 months, 121 additions and 19 deletions in 5 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Use dependabot multi-directory configuration for Android example gradle updates<br />
+  <sub>[#8036](https://github.com/flutter/packages/pull/8036) merged on November 8, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/8036) over 22 hours, 104 additions and 514 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [vector_graphics*] Relax dependency constraints of vector_graphics, vector_graphics_codec, vector_graphics_compiler, flutter_svg <br />
   <sub>[#8018](https://github.com/flutter/packages/pull/8018) merged on November 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8018) over 20 hours, 22 additions and 22 deletions in 7 files</sub><br />
