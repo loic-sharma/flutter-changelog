@@ -56,9 +56,6 @@
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Allow a custom `dart` version in the environment in `computeExclusiveDevDependencies`<br />
-  <sub>[#158370](https://github.com/flutter/flutter/pull/158370) opened on on November 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158370) 141 additions and 49 deletions in 6 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Replace custom `RPCErrorCodes` with `RPCErrorKind` from `package:vm_service`<br />
   <sub>[#158379](https://github.com/flutter/flutter/pull/158379) opened on on November 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158379) 68 additions and 95 deletions in 14 files</sub><br />
 
