@@ -506,6 +506,10 @@
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [John McDole](https://github.com/jtmcdole)</sub><br />
   <sub><details><summary>1 image...</summary><img width="795" alt="Screenshot 2024-10-24 at 12 47 58 PM" src="https://github.com/user-attachments/assets/a986f71c-5533-4899-aeb8-126dc82794fb"></details></sub>
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix Scaffold extend body<br />
+  <sub>[#157441](https://github.com/flutter/flutter/pull/157441) merged on October 27, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/157441) over 3 days, 37 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ThemeData.dialogBackgroundColor` in favor of `DialogThemeData.backgroundColor`<br />
   <sub>[#155072](https://github.com/flutter/flutter/pull/155072) merged on October 24, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/155072) over 1 month, 140 additions and 40 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -534,21 +538,17 @@
   <sub>[#157443](https://github.com/flutter/flutter/pull/157443) merged on October 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157443) over 18 hours, 25 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Wide gamut framework gradient test<br />
+  <sub>[#153976](https://github.com/flutter/flutter/pull/153976) merged on October 25, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/153976) over 2 months, 144 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unused `PubDependenciesProjectValidator`.<br />
   <sub>[#157516](https://github.com/flutter/flutter/pull/157516) merged on October 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157516) over 5 hours, 0 additions and 187 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix Scaffold extend body<br />
-  <sub>[#157441](https://github.com/flutter/flutter/pull/157441) merged on October 27, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/157441) over 3 days, 37 additions and 6 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStateInputBorder`<br />
   <sub>[#157190](https://github.com/flutter/flutter/pull/157190) merged on October 22, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/157190) over 4 days, 349 additions and 0 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Wide gamut framework gradient test<br />
-  <sub>[#153976](https://github.com/flutter/flutter/pull/153976) merged on October 25, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/153976) over 2 months, 144 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Ildeberto Vasconcelos](https://github.com/IldySilva)** &mdash; Add Tests for bottom_app_bar api examples<br />
   <sub>[#156501](https://github.com/flutter/flutter/pull/156501) merged on October 21, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/156501) over 1 week, 165 additions and 2 deletions in 3 files</sub><br />
