@@ -1523,7 +1523,7 @@
 
 ### November 2, 2024 to November 8, 2024
 
-23 commits.
+24 commits.
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub>
@@ -1562,6 +1562,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [vector_graphics*] Relax dependency constraints of vector_graphics, vector_graphics_codec, vector_graphics_compiler, flutter_svg 
   <sub>[#8018](https://github.com/flutter/packages/pull/8018) merged on November 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8018) over 20 hours, 22 additions and 22 deletions in 7 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix confusing language in README
+  <sub>[#8049](https://github.com/flutter/packages/pull/8049) merged on November 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8049) over 3 hours, 8 additions and 3 deletions in 4 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [animations] Remove `.flutter-plugins` reference from example app
   <sub>[#8002](https://github.com/flutter/packages/pull/8002) merged on November 8, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8002) over 6 days, 182 additions and 105 deletions in 16 files</sub>
