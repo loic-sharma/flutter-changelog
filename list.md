@@ -1543,6 +1543,10 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
   <sub><details><summary>1 image...</summary><img width="400" alt="Screenshot 2024-11-08 at 11 08 52 AM" src="https://github.com/user-attachments/assets/eebedf69-3fae-409b-9c88-c3afc8036c52"></details></sub>
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Use dependabot multi-directory configuration for Android example gradle updates
+  <sub>[#8036](https://github.com/flutter/packages/pull/8036) merged on November 8, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/8036) over 22 hours, 104 additions and 514 deletions in 3 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 * **[Kallen Tu](https://github.com/kallentu)** &mdash; [various] Add `missing_code_block_language_in_doc_comment` lint to flutter/packages.
   <sub>[#6473](https://github.com/flutter/packages/pull/6473) merged on November 4, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/6473) over 7 months, 163 additions and 108 deletions in 37 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [David Iglesias](https://github.com/ditman), [Chris Bracken](https://github.com/cbracken), [Yegor](https://github.com/yjbanov), [stuartmorgan](https://github.com/stuartmorgan), and [1 other](https://github.com/flutter/packages/pull/6473)</sub>
@@ -1554,10 +1558,6 @@
 * **[misos1](https://github.com/misos1)** &mdash; [camera_avfoundation] enable more than 30 fps
   <sub>[#7394](https://github.com/flutter/packages/pull/7394) merged on November 5, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/packages/pull/7394) over 2 months, 121 additions and 19 deletions in 5 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Use dependabot multi-directory configuration for Android example gradle updates
-  <sub>[#8036](https://github.com/flutter/packages/pull/8036) merged on November 8, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/packages/pull/8036) over 22 hours, 104 additions and 514 deletions in 3 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [vector_graphics*] Relax dependency constraints of vector_graphics, vector_graphics_codec, vector_graphics_compiler, flutter_svg 
   <sub>[#8018](https://github.com/flutter/packages/pull/8018) merged on November 5, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8018) over 20 hours, 22 additions and 22 deletions in 7 files</sub>
