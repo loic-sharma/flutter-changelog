@@ -1537,14 +1537,14 @@
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub>
 
+* **[Alexandru Mariuti](https://github.com/nank1ro)** &mdash; [flutter_svg] wasm compatibility
+  <sub>[#8014](https://github.com/flutter/packages/pull/8014) merged on November 7, 2024 &mdash; **Small:** [43 comments](https://github.com/flutter/packages/pull/8014) over 3 days, 8 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan), [Kevin Moore](https://github.com/kevmoo), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Upload screenshots, logs, and Xcode test results for drive and integration_test runs
   <sub>[#7430](https://github.com/flutter/packages/pull/7430) merged on November 6, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/7430) over 2 months, 242 additions and 40 deletions in 8 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
   <sub><details><summary>3 images...</summary>![Screenshot 2024-10-25 at 10 10 36 AM](https://github.com/user-attachments/assets/dd7ae9bc-6161-4381-8a4f-f10b8c981801)![Screenshot 2024-10-25 at 10 11 55 AM](https://github.com/user-attachments/assets/d4dd8420-f272-459c-9785-ab0c03887a74)![Screenshot 2024-10-25 at 10 19 55 AM](https://github.com/user-attachments/assets/76a86a15-2150-482a-8b15-e3e7ac90485e)</details></sub>
-
-* **[Alexandru Mariuti](https://github.com/nank1ro)** &mdash; [flutter_svg] wasm compatibility
-  <sub>[#8014](https://github.com/flutter/packages/pull/8014) merged on November 7, 2024 &mdash; **Small:** [43 comments](https://github.com/flutter/packages/pull/8014) over 3 days, 8 additions and 4 deletions in 3 files</sub>
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [stuartmorgan](https://github.com/stuartmorgan), [Kevin Moore](https://github.com/kevmoo), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Group dependabot github-action update PRs, delete dead docker updates
   <sub>[#8044](https://github.com/flutter/packages/pull/8044) merged on November 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8044) over 1 hour, 5 additions and 13 deletions in 1 file</sub>
