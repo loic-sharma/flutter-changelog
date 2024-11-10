@@ -63,5 +63,5 @@
   <sub>[#158417](https://github.com/flutter/flutter/pull/158417) opened on on November 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/158417) 61 additions and 12 deletions in 3 files</sub><br />
 
 * **[Abdelhalim Elmenshawi](https://github.com/Halim-Elmenshawi)** &mdash; ExpansionTile children background color<br />
-  <sub>[#158421](https://github.com/flutter/flutter/pull/158421) opened on on November 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158421) 173 additions and 100 deletions in 4 files</sub><br />
+  <sub>[#158421](https://github.com/flutter/flutter/pull/158421) opened on on November 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158421) 84 additions and 13 deletions in 4 files</sub><br />
 
