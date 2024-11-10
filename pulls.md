@@ -65,3 +65,6 @@
 * **[Abdelhalim Elmenshawi](https://github.com/Halim-Elmenshawi)** &mdash; ExpansionTile children background color<br />
   <sub>[#158421](https://github.com/flutter/flutter/pull/158421) opened on on November 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158421) 84 additions and 13 deletions in 4 files</sub><br />
 
+* **[miechoo](https://github.com/miechoo)** &mdash; Test of DynamicColorExample (dynamic_content_color.0_test.dart)<br />
+  <sub>[#158434](https://github.com/flutter/flutter/pull/158434) opened on on November 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158434) 61 additions and 3 deletions in 2 files</sub><br />
+
