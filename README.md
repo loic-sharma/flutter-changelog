@@ -1016,9 +1016,18 @@
 
 ## flutter/packages
 
+### November 9, 2024 to November 15, 2024
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Fix Linux cancel regression<br />
+  <sub>[#8051](https://github.com/flutter/packages/pull/8051) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8051) over 1 hour, 41 additions and 4 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 ### November 2, 2024 to November 8, 2024
 
-24 commits.
+<details>
+<summary>24 commits...</summary>
 
 * **[cedvdb](https://github.com/cedvdb)** &mdash; [go_router] add current state getter<br />
   <sub>[#7651](https://github.com/flutter/packages/pull/7651) merged on November 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/7651) over 1 month, 92 additions and 2 deletions in 5 files</sub><br />
@@ -1118,6 +1127,8 @@
   <sub>[#7968](https://github.com/flutter/packages/pull/7968) merged on November 4, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/packages/pull/7968) over 4 days, 170 additions and 257 deletions in 21 files</sub><br />
   <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Kate Lovett](https://github.com/Piinks), [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+</details>
+
 ### October 26, 2024 to November 1, 2024
 
 <details>
@@ -1213,7 +1224,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-1 commits.
+2 commits.
+
+* **[JaYoung Lee](https://github.com/jayoung-lee)** &mdash; Announce the Q4 survey (Nov 12-22)<br />
+  <sub>[#11376](https://github.com/flutter/website/pull/11376) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11376) over 2 days, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update supported Firefox version<br />
   <sub>[#11375](https://github.com/flutter/website/pull/11375) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11375) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
