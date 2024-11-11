@@ -1228,7 +1228,19 @@
 
 ### November 9, 2024 to November 15, 2024
 
-3 commits.
+6 commits.
+
+* **[Rivaan Ranawat](https://github.com/RivaanRanawat)** &mdash; Add Dart & Flutter Course by Rivaan Ranawat<br />
+  <sub>[#11377](https://github.com/flutter/website/pull/11377) merged on November 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11377) over 2 days, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Mohammad Sadegh Shad](https://github.com/m-sadegh-sh)** &mdash; Keep it ordered<br />
+  <sub>[#11378](https://github.com/flutter/website/pull/11378) merged on November 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11378) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Mazen-Embaby](https://github.com/Mazen-Embaby)** &mdash; Update android-java-gradle-migration-guide.md<br />
+  <sub>[#11381](https://github.com/flutter/website/pull/11381) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11381) over 9 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; Add `/go/smoothing-discrete-scroll-inputs` design doc redirect<br />
   <sub>[#11380](https://github.com/flutter/website/pull/11380) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11380) over 20 hours, 1 addition and 0 deletions in 1 file</sub><br />
