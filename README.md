@@ -542,7 +542,12 @@
 
 ### November 9, 2024 to November 15, 2024
 
-7 commits.
+8 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group<br />
+  <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="400" alt="Screenshot 2024-11-08 at 11 08 52 AM" src="https://github.com/user-attachments/assets/eebedf69-3fae-409b-9c88-c3afc8036c52"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix line/polygon depth and GLES scissor state.<br />
   <sub>[#56494](https://github.com/flutter/engine/pull/56494) merged on November 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56494) over 21 hours, 80 additions and 8 deletions in 6 files</sub><br />
