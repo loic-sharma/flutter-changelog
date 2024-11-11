@@ -542,12 +542,16 @@
 
 ### November 9, 2024 to November 15, 2024
 
-4 commits.
+6 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix line/polygon depth and GLES scissor state.<br />
   <sub>[#56494](https://github.com/flutter/engine/pull/56494) merged on November 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56494) over 21 hours, 80 additions and 8 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/a5541a51-bdf6-4a47-9638-610d9562df6f)![image](https://github.com/user-attachments/assets/9f3ad7e1-8193-405d-98c0-49141c8ab662)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] geometry changes to support line/point style.<br />
+  <sub>[#56340](https://github.com/flutter/engine/pull/56340) merged on November 11, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/56340) over 1 week, 331 additions and 8 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not stop flutter_tester if microtasks are still pending<br />
   <sub>[#56432](https://github.com/flutter/engine/pull/56432) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56432) over 4 days, 68 additions and 0 deletions in 9 files</sub><br />
@@ -556,6 +560,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler<br />
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont unnecessarily copy point data out of display list.<br />
+  <sub>[#56492](https://github.com/flutter/engine/pull/56492) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56492) over 1 day, 49 additions and 48 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox version to 132.0<br />
   <sub>[#56435](https://github.com/flutter/engine/pull/56435) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56435) over 3 days, 6 additions and 6 deletions in 3 files</sub><br />
