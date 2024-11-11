@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-3 commits.
+4 commits.
 
 * **[Younghan Kim](https://github.com/goosetapa)** &mdash; Remove block and line comments when detecting '.flutter-plugins' in settings.gradle(.kts)
   <sub>[#155488](https://github.com/flutter/flutter/pull/155488) merged on November 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155488) over 1 month, 104 additions and 1 deletion in 2 files</sub>
@@ -13,6 +13,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `SafeArea` DartPad sample
   <sub>[#158019](https://github.com/flutter/flutter/pull/158019) merged on November 11, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/158019) over 1 week, 379 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [cedvdb](https://github.com/cedvdb), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state
+  <sub>[#158454](https://github.com/flutter/flutter/pull/158454) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158454) over 5 hours, 44 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Replace custom `RPCErrorCodes` with `RPCErrorKind` from `package:vm_service`
   <sub>[#158379](https://github.com/flutter/flutter/pull/158379) merged on November 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158379) over 2 days, 71 additions and 95 deletions in 14 files</sub>
