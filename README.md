@@ -528,9 +528,18 @@
 
 ## flutter/engine
 
+### November 9, 2024 to November 15, 2024
+
+1 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox version to 132.0<br />
+  <sub>[#56435](https://github.com/flutter/engine/pull/56435) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56435) over 3 days, 6 additions and 6 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
 ### November 2, 2024 to November 8, 2024
 
-58 commits.
+<details>
+<summary>58 commits...</summary>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add support for ImageFilter.shader<br />
   <sub>[#53490](https://github.com/flutter/engine/pull/53490) merged on November 8, 2024 &mdash; **Large:** [65 comments](https://github.com/flutter/engine/pull/53490) over 4 months, 953 additions and 199 deletions in 35 files</sub><br />
@@ -763,6 +772,8 @@
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 3e840340c412 to 1c1d0420539f (2 revisions)<br />
   <sub>[#56391](https://github.com/flutter/engine/pull/56391) merged on November 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56391) over 51 minutes, 7 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### October 26, 2024 to November 1, 2024
 
