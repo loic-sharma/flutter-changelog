@@ -534,7 +534,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-1 commits.
+2 commits.
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler<br />
+  <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox version to 132.0<br />
   <sub>[#56435](https://github.com/flutter/engine/pull/56435) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56435) over 3 days, 6 additions and 6 deletions in 3 files</sub><br />
@@ -1224,7 +1228,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-2 commits.
+3 commits.
+
+* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; Add `/go/smoothing-discrete-scroll-inputs` design doc redirect<br />
+  <sub>[#11380](https://github.com/flutter/website/pull/11380) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11380) over 20 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[JaYoung Lee](https://github.com/jayoung-lee)** &mdash; Announce the Q4 survey (Nov 12-22)<br />
   <sub>[#11376](https://github.com/flutter/website/pull/11376) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11376) over 2 days, 2 additions and 1 deletion in 1 file</sub><br />
