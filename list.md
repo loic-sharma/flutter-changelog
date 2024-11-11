@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 9, 2024 to November 15, 2024
+
+1 commits.
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `SafeArea` DartPad sample
+  <sub>[#158019](https://github.com/flutter/flutter/pull/158019) merged on November 11, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/158019) over 1 week, 379 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [cedvdb](https://github.com/cedvdb), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
 ### November 2, 2024 to November 8, 2024
 
-59 commits.
+<details>
+<summary>59 commits...</summary>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `NestedScrollView` inner position logic
   <sub>[#157756](https://github.com/flutter/flutter/pull/157756) merged on November 4, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/157756) over 6 days, 117 additions and 1 deletion in 2 files</sub>
@@ -248,6 +257,8 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Reland2: Revert "Revert "Add a warning/additional handlers for parsing`synthetic-package`.""
   <sub>[#158184](https://github.com/flutter/flutter/pull/158184) merged on November 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158184) over 45 minutes, 209 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+</details>
 
 ### October 26, 2024 to November 1, 2024
 
