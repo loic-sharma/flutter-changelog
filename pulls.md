@@ -68,6 +68,3 @@
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of DynamicColorExample (dynamic_content_color.0_test.dart)<br />
   <sub>[#158434](https://github.com/flutter/flutter/pull/158434) opened on on November 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158434) 84 additions and 3 deletions in 2 files</sub><br />
 
-* **[hgraceb](https://github.com/hgraceb)** &mdash; Fix the drawing position of InputBorder<br />
-  <sub>[#158440](https://github.com/flutter/flutter/pull/158440) opened on on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158440) 16 additions and 15 deletions in 2 files</sub><br />
-
