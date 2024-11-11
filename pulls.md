@@ -65,12 +65,12 @@
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of DynamicColorExample (dynamic_content_color.0_test.dart)<br />
   <sub>[#158434](https://github.com/flutter/flutter/pull/158434) opened on on November 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158434) 84 additions and 3 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state<br />
-  <sub>[#158454](https://github.com/flutter/flutter/pull/158454) opened on on November 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158454) 44 additions and 0 deletions in 2 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TappableLabel` extension type<br />
   <sub>[#158465](https://github.com/flutter/flutter/pull/158465) opened on on November 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158465) 68 additions and 76 deletions in 3 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add "extension types" section to style guide<br />
-  <sub>[#158466](https://github.com/flutter/flutter/pull/158466) opened on on November 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158466) 46 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#158466](https://github.com/flutter/flutter/pull/158466) opened on on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158466) 46 additions and 7 deletions in 1 file</sub><br />
+
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #154792 - CupertinoActionSheetAction cursor doesn't change to clickable on desktop<br />
+  <sub>[#158470](https://github.com/flutter/flutter/pull/158470) opened on on November 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158470) 42 additions and 1 deletion in 2 files</sub><br />
 
