@@ -72,5 +72,5 @@
   <sub>[#158466](https://github.com/flutter/flutter/pull/158466) opened on on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158466) 46 additions and 7 deletions in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #154792 - CupertinoActionSheetAction cursor doesn't change to clickable on desktop<br />
-  <sub>[#158470](https://github.com/flutter/flutter/pull/158470) opened on on November 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158470) 42 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#158470](https://github.com/flutter/flutter/pull/158470) opened on on November 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158470) 42 additions and 1 deletion in 2 files</sub><br />
 
