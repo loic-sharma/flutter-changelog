@@ -538,7 +538,12 @@
 
 ### November 9, 2024 to November 15, 2024
 
-3 commits.
+4 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix line/polygon depth and GLES scissor state.<br />
+  <sub>[#56494](https://github.com/flutter/engine/pull/56494) merged on November 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56494) over 21 hours, 80 additions and 8 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+  <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/a5541a51-bdf6-4a47-9638-610d9562df6f)![image](https://github.com/user-attachments/assets/9f3ad7e1-8193-405d-98c0-49141c8ab662)</details></sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not stop flutter_tester if microtasks are still pending<br />
   <sub>[#56432](https://github.com/flutter/engine/pull/56432) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56432) over 4 days, 68 additions and 0 deletions in 9 files</sub><br />
@@ -1030,7 +1035,15 @@
 
 ### November 9, 2024 to November 15, 2024
 
-1 commits.
+3 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Use dependabot multi-directory configuration for Android package updates<br />
+  <sub>[#8048](https://github.com/flutter/packages/pull/8048) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/8048) over 2 days, 24 additions and 341 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Run `pub get` before `format`<br />
+  <sub>[#8052](https://github.com/flutter/packages/pull/8052) merged on November 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8052) over 1 hour, 90 additions and 18 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Fix Linux cancel regression<br />
   <sub>[#8051](https://github.com/flutter/packages/pull/8051) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8051) over 1 hour, 41 additions and 4 deletions in 5 files</sub><br />
