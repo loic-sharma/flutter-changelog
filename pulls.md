@@ -74,3 +74,6 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #154792 - CupertinoActionSheetAction cursor doesn't change to clickable on desktop<br />
   <sub>[#158470](https://github.com/flutter/flutter/pull/158470) opened on on November 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158470) 42 additions and 1 deletion in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add filesystem error handling to `systemTempDirectory`<br />
+  <sub>[#158481](https://github.com/flutter/flutter/pull/158481) opened on on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158481) 31 additions and 2 deletions in 2 files</sub><br />
+
