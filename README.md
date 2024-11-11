@@ -534,7 +534,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-2 commits.
+3 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not stop flutter_tester if microtasks are still pending<br />
+  <sub>[#56432](https://github.com/flutter/engine/pull/56432) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56432) over 4 days, 68 additions and 0 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler<br />
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub><br />
