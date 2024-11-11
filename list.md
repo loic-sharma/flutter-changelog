@@ -4,7 +4,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-1 commits.
+2 commits.
+
+* **[Younghan Kim](https://github.com/goosetapa)** &mdash; Remove block and line comments when detecting '.flutter-plugins' in settings.gradle(.kts)
+  <sub>[#155488](https://github.com/flutter/flutter/pull/155488) merged on November 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155488) over 1 month, 104 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `SafeArea` DartPad sample
   <sub>[#158019](https://github.com/flutter/flutter/pull/158019) merged on November 11, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/158019) over 1 week, 379 additions and 6 deletions in 3 files</sub>
