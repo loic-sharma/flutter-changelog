@@ -68,3 +68,9 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state<br />
   <sub>[#158454](https://github.com/flutter/flutter/pull/158454) opened on on November 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158454) 44 additions and 0 deletions in 2 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TappableLabel` extension type<br />
+  <sub>[#158465](https://github.com/flutter/flutter/pull/158465) opened on on November 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158465) 68 additions and 76 deletions in 3 files</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add "extension types" section to style guide<br />
+  <sub>[#158466](https://github.com/flutter/flutter/pull/158466) opened on on November 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158466) 46 additions and 7 deletions in 1 file</sub><br />
+
