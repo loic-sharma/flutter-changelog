@@ -56,6 +56,9 @@
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `dynamic_content_color.0.dart`<br />
+  <sub>[#158309](https://github.com/flutter/flutter/pull/158309) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158309) 175 additions and 51 deletions in 3 files</sub><br />
+
 * **[Abdelhalim Elmenshawi](https://github.com/Halim-Elmenshawi)** &mdash; add optionsLayerLink  attribute<br />
   <sub>[#158417](https://github.com/flutter/flutter/pull/158417) opened on on November 9, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/158417) 61 additions and 12 deletions in 3 files</sub><br />
 
