@@ -80,9 +80,6 @@
 * **[1zj23](https://github.com/1zj23)** &mdash; Simplified Code Improved Readability<br />
   <sub>[#158507](https://github.com/flutter/flutter/pull/158507) opened on on November 12, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/158507) 5420 additions and 17 deletions in 131 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `dart pub deps` call to `<Pub>.deps` and use it accordingly<br />
-  <sub>[#158524](https://github.com/flutter/flutter/pull/158524) opened on on November 12, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/158524) 594 additions and 333 deletions in 16 files</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Manually cherry-pick #158141 (out_dir_shared) into stable<br />
-  <sub>[#158525](https://github.com/flutter/flutter/pull/158525) opened on on November 12, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158525) 394 additions and 76 deletions in 3 files</sub><br />
+  <sub>[#158525](https://github.com/flutter/flutter/pull/158525) opened on on November 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/158525) 394 additions and 76 deletions in 3 files</sub><br />
 
