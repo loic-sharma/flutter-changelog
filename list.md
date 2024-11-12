@@ -571,7 +571,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-12 commits.
+14 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub>
@@ -598,6 +598,14 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: ARC bridge casts for FlutterMetalTexture.user_data
+  <sub>[#56518](https://github.com/flutter/engine/pull/56518) merged on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56518) over 21 hours, 14 additions and 14 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] prevent no-op backend from throwing exceptions during image  decoding
+  <sub>[#56522](https://github.com/flutter/engine/pull/56522) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56522) over 18 hours, 18 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] In canvas_unittests, only create an MSAA offscreen texture if the platform supports MSAA
   <sub>[#56542](https://github.com/flutter/engine/pull/56542) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56542) over 1 hour, 15 additions and 12 deletions in 1 file</sub>
@@ -1101,11 +1109,15 @@
 
 ### November 9, 2024 to November 15, 2024
 
-8 commits.
+9 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub>
   <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Michel Feinstein](https://github.com/feinstein)** &mdash; [in_app_purchase] Add expiration date to Transaction
+  <sub>[#8030](https://github.com/flutter/packages/pull/8030) merged on November 12, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/8030) over 5 days, 35 additions and 14 deletions in 7 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin), [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Update Pigeon version for Linux
   <sub>[#8065](https://github.com/flutter/packages/pull/8065) merged on November 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8065) over 1 hour, 73 additions and 44 deletions in 6 files</sub>

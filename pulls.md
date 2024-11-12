@@ -86,3 +86,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update test to include more complete instructions for how to run tests locally, add example to andoid 11 tests as well<br />
   <sub>[#158528](https://github.com/flutter/flutter/pull/158528) opened on on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158528) 18 additions and 2 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Explain how to use `flutter channel`.<br />
+  <sub>[#158533](https://github.com/flutter/flutter/pull/158533) opened on on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158533) 37 additions and 3 deletions in 2 files</sub><br />
+
