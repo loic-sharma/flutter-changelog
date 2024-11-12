@@ -1056,11 +1056,15 @@
 
 ### November 9, 2024 to November 15, 2024
 
-3 commits.
+4 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use dependabot multi-directory configuration for Android package updates
   <sub>[#8048](https://github.com/flutter/packages/pull/8048) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/8048) over 2 days, 24 additions and 341 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Make Linux type declarations public
+  <sub>[#8040](https://github.com/flutter/packages/pull/8040) merged on November 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8040) over 3 days, 54 additions and 41 deletions in 9 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Run `pub get` before `format`
   <sub>[#8052](https://github.com/flutter/packages/pull/8052) merged on November 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8052) over 1 hour, 90 additions and 18 deletions in 5 files</sub>
