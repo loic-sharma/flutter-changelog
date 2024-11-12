@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-12 commits.
+13 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationBar` label style customization on the widget level<br />
   <sub>[#158510](https://github.com/flutter/flutter/pull/158510) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158510) over 1 hour, 113 additions and 10 deletions in 2 files</sub><br />
@@ -50,6 +50,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state<br />
   <sub>[#158454](https://github.com/flutter/flutter/pull/158454) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158454) over 5 hours, 44 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update test to include more complete instructions for how to run tests locally, add example to andoid 11 tests as well<br />
+  <sub>[#158528](https://github.com/flutter/flutter/pull/158528) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158528) over 1 hour, 18 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Replace custom `RPCErrorCodes` with `RPCErrorKind` from `package:vm_service`<br />
   <sub>[#158379](https://github.com/flutter/flutter/pull/158379) merged on November 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158379) over 2 days, 71 additions and 95 deletions in 14 files</sub><br />

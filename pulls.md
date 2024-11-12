@@ -80,9 +80,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Manually cherry-pick #158141 (out_dir_shared) into stable<br />
   <sub>[#158525](https://github.com/flutter/flutter/pull/158525) opened on on November 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/158525) 395 additions and 77 deletions in 3 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update test to include more complete instructions for how to run tests locally, add example to andoid 11 tests as well<br />
-  <sub>[#158528](https://github.com/flutter/flutter/pull/158528) opened on on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158528) 18 additions and 2 deletions in 2 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Explain how to use `flutter channel`.<br />
   <sub>[#158533](https://github.com/flutter/flutter/pull/158533) opened on on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158533) 37 additions and 3 deletions in 2 files</sub><br />
 
