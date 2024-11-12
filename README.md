@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-10 commits.
+11 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationBar` label style customization on the widget level<br />
   <sub>[#158510](https://github.com/flutter/flutter/pull/158510) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158510) over 1 hour, 113 additions and 10 deletions in 2 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add filesystem error handling to `systemTempDirectory`<br />
   <sub>[#158481](https://github.com/flutter/flutter/pull/158481) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158481) over 19 hours, 31 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Support materialTapTargetSize in PopupMenuButton<br />
+  <sub>[#158357](https://github.com/flutter/flutter/pull/158357) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158357) over 4 days, 48 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Simplify logic that determines if CocoaPods is used<br />
   <sub>[#158409](https://github.com/flutter/flutter/pull/158409) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158409) over 2 days, 1 addition and 18 deletions in 1 file</sub><br />
