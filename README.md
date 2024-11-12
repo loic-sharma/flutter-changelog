@@ -1070,13 +1070,13 @@
   <sub>[#8040](https://github.com/flutter/packages/pull/8040) merged on November 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8040) over 3 days, 54 additions and 41 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Run `pub get` before `format`<br />
-  <sub>[#8052](https://github.com/flutter/packages/pull/8052) merged on November 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8052) over 1 hour, 90 additions and 18 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
-
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Fix Linux cancel regression<br />
   <sub>[#8051](https://github.com/flutter/packages/pull/8051) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8051) over 1 hour, 41 additions and 4 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Run `pub get` before `format`<br />
+  <sub>[#8052](https://github.com/flutter/packages/pull/8052) merged on November 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8052) over 1 hour, 90 additions and 18 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 ### November 2, 2024 to November 8, 2024
 
