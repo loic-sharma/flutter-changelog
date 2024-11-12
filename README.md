@@ -40,7 +40,7 @@
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; force Linux plugin_test to run on Ubuntu 20.04<br />
-  <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Update .flutter-plugin-dependencies format<br />
@@ -575,7 +575,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-14 commits.
+15 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group<br />
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub><br />
@@ -602,6 +602,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler<br />
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Linux] Configure depth and stencil framebuffer attachments needed for Impeller<br />
+  <sub>[#56516](https://github.com/flutter/engine/pull/56516) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56516) over 22 hours, 100 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: ARC bridge casts for FlutterMetalTexture.user_data<br />
   <sub>[#56518](https://github.com/flutter/engine/pull/56518) merged on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56518) over 21 hours, 14 additions and 14 deletions in 1 file</sub><br />
