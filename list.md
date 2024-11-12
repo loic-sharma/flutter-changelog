@@ -542,7 +542,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-8 commits.
+9 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub>
@@ -561,6 +561,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not stop flutter_tester if microtasks are still pending
   <sub>[#56432](https://github.com/flutter/engine/pull/56432) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56432) over 4 days, 68 additions and 0 deletions in 9 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add FlPointerManager to process pointer events from GTK in a form suitable for Flutter.
+  <sub>[#56443](https://github.com/flutter/engine/pull/56443) merged on November 12, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/56443) over 4 days, 866 additions and 140 deletions in 6 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub>
