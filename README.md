@@ -542,7 +542,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-10 commits.
+11 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group<br />
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub><br />
@@ -581,6 +581,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont unnecessarily copy point data out of display list.<br />
   <sub>[#56492](https://github.com/flutter/engine/pull/56492) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56492) over 1 day, 49 additions and 48 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [iOS] Fix slider semantics node answer to accessibility activate<br />
+  <sub>[#56427](https://github.com/flutter/engine/pull/56427) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56427) over 4 days, 21 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox version to 132.0<br />
   <sub>[#56435](https://github.com/flutter/engine/pull/56435) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56435) over 3 days, 6 additions and 6 deletions in 3 files</sub><br />
