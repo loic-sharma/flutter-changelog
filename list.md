@@ -1299,7 +1299,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-6 commits.
+7 commits.
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Set up web development for Flutter" page
+  <sub>[#11362](https://github.com/flutter/website/pull/11362) merged on November 12, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11362) over 6 days, 21 additions and 164 deletions in 11 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Rivaan Ranawat](https://github.com/RivaanRanawat)** &mdash; Add Dart & Flutter Course by Rivaan Ranawat
   <sub>[#11377](https://github.com/flutter/website/pull/11377) merged on November 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11377) over 2 days, 2 additions and 0 deletions in 1 file</sub>
