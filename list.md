@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-9 commits.
+10 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationBar` label style customization on the widget level
   <sub>[#158510](https://github.com/flutter/flutter/pull/158510) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158510) over 1 hour, 113 additions and 10 deletions in 2 files</sub>
@@ -34,6 +34,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `dynamic_content_color.0.dart`
   <sub>[#158309](https://github.com/flutter/flutter/pull/158309) merged on November 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158309) over 5 days, 182 additions and 51 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Update .flutter-plugin-dependencies format
+  <sub>[#158138](https://github.com/flutter/flutter/pull/158138) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158138) over 1 week, 63 additions and 18 deletions in 5 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state
   <sub>[#158454](https://github.com/flutter/flutter/pull/158454) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158454) over 5 hours, 44 additions and 0 deletions in 2 files</sub>
