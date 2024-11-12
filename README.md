@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-8 commits.
+9 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationBar` label style customization on the widget level<br />
   <sub>[#158510](https://github.com/flutter/flutter/pull/158510) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158510) over 1 hour, 113 additions and 10 deletions in 2 files</sub><br />
@@ -22,6 +22,10 @@
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Made Cupertino dialog more like a native dialog in dark mode<br />
   <sub>[#157218](https://github.com/flutter/flutter/pull/157218) merged on November 12, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/157218) over 3 weeks, 4 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add filesystem error handling to `systemTempDirectory`<br />
+  <sub>[#158481](https://github.com/flutter/flutter/pull/158481) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158481) over 19 hours, 31 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Simplify logic that determines if CocoaPods is used<br />
   <sub>[#158409](https://github.com/flutter/flutter/pull/158409) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158409) over 2 days, 1 addition and 18 deletions in 1 file</sub><br />
@@ -1303,7 +1307,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-8 commits.
+9 commits.
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Flutter web app initialization" page<br />
+  <sub>[#11369](https://github.com/flutter/website/pull/11369) merged on November 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11369) over 5 days, 8 additions and 308 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Set up web development for Flutter" page<br />
   <sub>[#11362](https://github.com/flutter/website/pull/11362) merged on November 12, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11362) over 6 days, 21 additions and 164 deletions in 11 files</sub><br />
