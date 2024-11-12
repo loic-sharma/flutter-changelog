@@ -4,7 +4,12 @@
 
 ### November 9, 2024 to November 15, 2024
 
-6 commits.
+7 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationBar` label style customization on the widget level
+  <sub>[#158510](https://github.com/flutter/flutter/pull/158510) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158510) over 1 hour, 113 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
+  <sub><details><summary>1 image...</summary><img width="719" alt="Screenshot 2024-11-12 at 17 18 00" src="https://github.com/user-attachments/assets/2b489bfa-78a3-4766-bc22-9273d76eadcd"></details></sub>
 
 * **[Younghan Kim](https://github.com/goosetapa)** &mdash; Remove block and line comments when detecting '.flutter-plugins' in settings.gradle(.kts)
   <sub>[#155488](https://github.com/flutter/flutter/pull/155488) merged on November 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155488) over 1 month, 104 additions and 1 deletion in 2 files</sub>
