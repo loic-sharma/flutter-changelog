@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-5 commits.
+6 commits.
 
 * **[Younghan Kim](https://github.com/goosetapa)** &mdash; Remove block and line comments when detecting '.flutter-plugins' in settings.gradle(.kts)
   <sub>[#155488](https://github.com/flutter/flutter/pull/155488) merged on November 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155488) over 1 month, 104 additions and 1 deletion in 2 files</sub>
@@ -17,6 +17,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Simplify logic that determines if CocoaPods is used
   <sub>[#158409](https://github.com/flutter/flutter/pull/158409) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158409) over 2 days, 1 addition and 18 deletions in 1 file</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `dynamic_content_color.0.dart`
+  <sub>[#158309](https://github.com/flutter/flutter/pull/158309) merged on November 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158309) over 5 days, 182 additions and 51 deletions in 3 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state
   <sub>[#158454](https://github.com/flutter/flutter/pull/158454) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158454) over 5 hours, 44 additions and 0 deletions in 2 files</sub>
