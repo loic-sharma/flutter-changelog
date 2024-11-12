@@ -1085,11 +1085,19 @@
 
 ### November 9, 2024 to November 15, 2024
 
-5 commits.
+7 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)<br />
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub><br />
   <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Update Pigeon version for Linux<br />
+  <sub>[#8065](https://github.com/flutter/packages/pull/8065) merged on November 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8065) over 1 hour, 73 additions and 44 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Remove web renderer option from tools.<br />
+  <sub>[#8055](https://github.com/flutter/packages/pull/8055) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8055) over 19 hours, 3 additions and 81 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [stuartmorgan](https://github.com/stuartmorgan), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use dependabot multi-directory configuration for Android package updates<br />
   <sub>[#8048](https://github.com/flutter/packages/pull/8048) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/8048) over 2 days, 24 additions and 341 deletions in 1 file</sub><br />
