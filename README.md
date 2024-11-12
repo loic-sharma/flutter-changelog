@@ -1077,7 +1077,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-4 commits.
+5 commits.
+
+* **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)<br />
+  <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use dependabot multi-directory configuration for Android package updates<br />
   <sub>[#8048](https://github.com/flutter/packages/pull/8048) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/8048) over 2 days, 24 additions and 341 deletions in 1 file</sub><br />
