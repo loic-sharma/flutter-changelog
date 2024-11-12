@@ -65,9 +65,6 @@
 * **[miechoo](https://github.com/miechoo)** &mdash; Test of DynamicColorExample (dynamic_content_color.0_test.dart)<br />
   <sub>[#158434](https://github.com/flutter/flutter/pull/158434) opened on on November 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158434) 84 additions and 3 deletions in 2 files</sub><br />
 
-* **[hgraceb](https://github.com/hgraceb)** &mdash; Fix the drawing position of OutlineInputBorder<br />
-  <sub>[#158440](https://github.com/flutter/flutter/pull/158440) opened on on November 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158440) 12 additions and 14 deletions in 2 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TappableLabel` extension type<br />
   <sub>[#158465](https://github.com/flutter/flutter/pull/158465) opened on on November 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158465) 68 additions and 76 deletions in 3 files</sub><br />
 
@@ -82,4 +79,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleForm` methods<br />
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) opened on on November 12, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158503) 430 additions and 42 deletions in 14 files</sub><br />
+
+* **[1zj23](https://github.com/1zj23)** &mdash; Simplified Code Improved Readability<br />
+  <sub>[#158507](https://github.com/flutter/flutter/pull/158507) opened on on November 12, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/158507) 5420 additions and 17 deletions in 131 files</sub><br />
 
