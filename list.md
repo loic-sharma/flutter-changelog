@@ -542,7 +542,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-9 commits.
+10 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub>
@@ -569,6 +569,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add OpenGL debugging utilities.
+  <sub>[#56515](https://github.com/flutter/engine/pull/56515) merged on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56515) over 5 hours, 53 additions and 11 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Refactor TestMetalContext for ARC
   <sub>[#56510](https://github.com/flutter/engine/pull/56510) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56510) over 1 hour, 20 additions and 25 deletions in 2 files</sub>
