@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-11 commits.
+12 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationBar` label style customization on the widget level
   <sub>[#158510](https://github.com/flutter/flutter/pull/158510) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158510) over 1 hour, 113 additions and 10 deletions in 2 files</sub>
@@ -38,6 +38,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `dynamic_content_color.0.dart`
   <sub>[#158309](https://github.com/flutter/flutter/pull/158309) merged on November 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158309) over 5 days, 182 additions and 51 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; force Linux plugin_test to run on Ubuntu 20.04
+  <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Update .flutter-plugin-dependencies format
   <sub>[#158138](https://github.com/flutter/flutter/pull/158138) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158138) over 1 week, 63 additions and 18 deletions in 5 files</sub>
