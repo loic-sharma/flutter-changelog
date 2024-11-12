@@ -59,20 +59,11 @@
 * **[Abdelhalim Elmenshawi](https://github.com/Halim-Elmenshawi)** &mdash; ExpansionTile children background color<br />
   <sub>[#158421](https://github.com/flutter/flutter/pull/158421) opened on on November 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158421) 84 additions and 13 deletions in 4 files</sub><br />
 
-* **[miechoo](https://github.com/miechoo)** &mdash; Test of DynamicColorExample (dynamic_content_color.0_test.dart)<br />
-  <sub>[#158434](https://github.com/flutter/flutter/pull/158434) opened on on November 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158434) 84 additions and 3 deletions in 2 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TappableLabel` extension type<br />
   <sub>[#158465](https://github.com/flutter/flutter/pull/158465) opened on on November 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158465) 68 additions and 76 deletions in 3 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add "extension types" section to style guide<br />
-  <sub>[#158466](https://github.com/flutter/flutter/pull/158466) opened on on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158466) 46 additions and 7 deletions in 1 file</sub><br />
-
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; docs: align comments<br />
   <sub>[#158490](https://github.com/flutter/flutter/pull/158490) opened on on November 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158490) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[1zj23](https://github.com/1zj23)** &mdash; Simplified Code Improved Readability<br />
-  <sub>[#158507](https://github.com/flutter/flutter/pull/158507) opened on on November 12, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/158507) 5420 additions and 17 deletions in 131 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Manually cherry-pick #158141 (out_dir_shared) into stable<br />
   <sub>[#158525](https://github.com/flutter/flutter/pull/158525) opened on on November 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/158525) 395 additions and 77 deletions in 3 files</sub><br />
