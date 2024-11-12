@@ -19,7 +19,7 @@
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `dynamic_content_color.0.dart`<br />
-  <sub>[#158309](https://github.com/flutter/flutter/pull/158309) merged on November 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158309) over 5 days, 182 additions and 51 deletions in 3 files</sub><br />
+  <sub>[#158309](https://github.com/flutter/flutter/pull/158309) merged on November 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158309) over 5 days, 182 additions and 51 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state<br />
