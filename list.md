@@ -600,7 +600,7 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] In canvas_unittests, only create an MSAA offscreen texture if the platform supports MSAA
-  <sub>[#56542](https://github.com/flutter/engine/pull/56542) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56542) over 1 hour, 15 additions and 12 deletions in 1 file</sub>
+  <sub>[#56542](https://github.com/flutter/engine/pull/56542) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56542) over 1 hour, 15 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add OpenGL debugging utilities.
