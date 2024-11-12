@@ -77,9 +77,6 @@
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; docs: align comments<br />
   <sub>[#158490](https://github.com/flutter/flutter/pull/158490) opened on on November 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158490) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleForm` methods<br />
-  <sub>[#158503](https://github.com/flutter/flutter/pull/158503) opened on on November 12, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158503) 430 additions and 42 deletions in 14 files</sub><br />
-
 * **[1zj23](https://github.com/1zj23)** &mdash; Simplified Code Improved Readability<br />
   <sub>[#158507](https://github.com/flutter/flutter/pull/158507) opened on on November 12, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/158507) 5420 additions and 17 deletions in 131 files</sub><br />
 
