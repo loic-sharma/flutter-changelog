@@ -81,5 +81,5 @@
   <sub>[#158525](https://github.com/flutter/flutter/pull/158525) opened on on November 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/158525) 395 additions and 77 deletions in 3 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Explain how to use `flutter channel`.<br />
-  <sub>[#158533](https://github.com/flutter/flutter/pull/158533) opened on on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158533) 37 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#158533](https://github.com/flutter/flutter/pull/158533) opened on on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158533) 37 additions and 3 deletions in 2 files</sub><br />
 
