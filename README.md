@@ -567,7 +567,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-11 commits.
+12 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group<br />
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub><br />
@@ -594,6 +594,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler<br />
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] In canvas_unittests, only create an MSAA offscreen texture if the platform supports MSAA<br />
+  <sub>[#56542](https://github.com/flutter/engine/pull/56542) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56542) over 1 hour, 15 additions and 12 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add OpenGL debugging utilities.<br />
   <sub>[#56515](https://github.com/flutter/engine/pull/56515) merged on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56515) over 5 hours, 53 additions and 11 deletions in 2 files</sub><br />
@@ -1093,7 +1097,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-7 commits.
+8 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)<br />
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub><br />
@@ -1118,6 +1122,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Fix Linux cancel regression<br />
   <sub>[#8051](https://github.com/flutter/packages/pull/8051) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8051) over 1 hour, 41 additions and 4 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Clean up contributing guides<br />
+  <sub>[#8032](https://github.com/flutter/packages/pull/8032) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8032) over 5 days, 48 additions and 166 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu), [Maurice Parrish](https://github.com/bparrishMines), [David Iglesias](https://github.com/ditman), [Chris Bracken](https://github.com/cbracken), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Run `pub get` before `format`<br />
   <sub>[#8052](https://github.com/flutter/packages/pull/8052) merged on November 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8052) over 1 hour, 90 additions and 18 deletions in 5 files</sub><br />
