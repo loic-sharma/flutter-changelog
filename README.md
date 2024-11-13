@@ -40,7 +40,7 @@
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; force Linux plugin_test to run on Ubuntu 20.04<br />
-  <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Update .flutter-plugin-dependencies format<br />
@@ -1117,7 +1117,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-9 commits.
+10 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)<br />
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub><br />
@@ -1146,6 +1146,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Fix Linux cancel regression<br />
   <sub>[#8051](https://github.com/flutter/packages/pull/8051) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8051) over 1 hour, 41 additions and 4 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Phil Quitslund](https://github.com/pq)** &mdash; [vector_graphics_compiler] fix a renamed method parameter lint<br />
+  <sub>[#8070](https://github.com/flutter/packages/pull/8070) merged on November 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8070) over 2 hours, 8 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Clean up contributing guides<br />
   <sub>[#8032](https://github.com/flutter/packages/pull/8032) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8032) over 5 days, 48 additions and 166 deletions in 20 files</sub><br />
