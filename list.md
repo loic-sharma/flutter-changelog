@@ -336,7 +336,7 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Bruno Leroux](https://github.com/bleroux)</sub>
   <sub><details><summary>2 images...</summary><img width="717" alt="Screenshot 2024-10-03 at 15 45 18" src="https://github.com/user-attachments/assets/e9d9a4d1-3087-45b4-8607-b94411e2bd23"><img width="717" alt="Screenshot 2024-10-03 at 15 46 25" src="https://github.com/user-attachments/assets/cd455881-6d52-46cb-8ac6-cc33f50a13ff"></details></sub>
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 3  `LinearProgressIndicator` for new visual style
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 3 `LinearProgressIndicator` for new visual style
   <sub>[#154817](https://github.com/flutter/flutter/pull/154817) merged on October 30, 2024 &mdash; **Large:** [31 comments](https://github.com/flutter/flutter/pull/154817) over 1 month, 753 additions and 92 deletions in 10 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
   <sub><details><summary>1 image...</summary><img width="824" alt="Screenshot 2024-09-09 at 13 53 10" src="https://github.com/user-attachments/assets/d12e56a5-f196-4011-8266-c7ab96be96b2"></details></sub>
