@@ -4,7 +4,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-17 commits.
+19 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `dart pub deps` call to `<Pub>.deps` and use it accordingly<br />
+  <sub>[#158524](https://github.com/flutter/flutter/pull/158524) merged on November 13, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/158524) over 22 hours, 600 additions and 337 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Clean up dependabot config, add github-action group<br />
   <sub>[#158408](https://github.com/flutter/flutter/pull/158408) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158408) over 4 days, 4 additions and 26 deletions in 1 file</sub><br />
@@ -27,6 +31,10 @@
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Made Cupertino dialog more like a native dialog in dark mode<br />
   <sub>[#157218](https://github.com/flutter/flutter/pull/157218) merged on November 12, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/157218) over 3 weeks, 4 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid using platform `ProcessInfo.maxRss` in test.<br />
+  <sub>[#158526](https://github.com/flutter/flutter/pull/158526) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158526) over 22 hours, 10 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add filesystem error handling to `systemTempDirectory`<br />
   <sub>[#158481](https://github.com/flutter/flutter/pull/158481) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158481) over 19 hours, 31 additions and 2 deletions in 2 files</sub><br />
