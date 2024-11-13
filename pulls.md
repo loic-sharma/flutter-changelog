@@ -35,9 +35,6 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
 
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; test frob<br />
-  <sub>[#157566](https://github.com/flutter/flutter/pull/157566) opened on on October 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157566) 5 additions and 0 deletions in 2 files</sub><br />
-
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Allow namespaces when generating localization<br />
   <sub>[#157696](https://github.com/flutter/flutter/pull/157696) opened on on October 27, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/157696) 564 additions and 382 deletions in 9 files</sub><br />
 
@@ -75,5 +72,5 @@
   <sub>[#158877](https://github.com/flutter/flutter/pull/158877) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158877) 22 additions and 2 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try with `bringup: true` debugging why `flutter build apk` often times out.<br />
-  <sub>[#158895](https://github.com/flutter/flutter/pull/158895) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158895) 105 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#158895](https://github.com/flutter/flutter/pull/158895) opened on on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158895) 105 additions and 0 deletions in 4 files</sub><br />
 
