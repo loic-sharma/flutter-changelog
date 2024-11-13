@@ -45,7 +45,7 @@
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag<br />
-  <sub>[#158016](https://github.com/flutter/flutter/pull/158016) opened on on November 1, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/158016) 225 additions and 435 deletions in 65 files</sub><br />
+  <sub>[#158016](https://github.com/flutter/flutter/pull/158016) opened on on November 1, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/158016) 225 additions and 435 deletions in 65 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix lint usage of `task` inside `resolve_dependecies.gradle` file<br />
   <sub>[#158022](https://github.com/flutter/flutter/pull/158022) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158022) 2 additions and 2 deletions in 1 file</sub><br />
