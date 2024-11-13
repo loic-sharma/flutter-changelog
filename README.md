@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-20 commits.
+21 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; "Fix failing checks" wiki page for new contributors<br />
   <sub>[#154629](https://github.com/flutter/flutter/pull/154629) merged on November 13, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/154629) over 2 months, 140 additions and 0 deletions in 2 files</sub><br />
@@ -67,6 +67,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow `devDependencies` to be omitted and not cause a tool crash.<br />
   <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stream the output of `flutter build` for debugging.<br />
+  <sub>[#158757](https://github.com/flutter/flutter/pull/158757) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158757) over 47 minutes, 16 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; force Linux plugin_test to run on Ubuntu 20.04<br />
   <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub><br />
