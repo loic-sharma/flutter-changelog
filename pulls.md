@@ -68,9 +68,6 @@
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade to package:intl v.0.20.0<br />
   <sub>[#158555](https://github.com/flutter/flutter/pull/158555) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158555) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; feat: Change default value of keyboardDismissBehavior<br />
-  <sub>[#158580](https://github.com/flutter/flutter/pull/158580) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158580) 194 additions and 36 deletions in 11 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Don't throw StateError when DDS fails to start<br />
   <sub>[#158744](https://github.com/flutter/flutter/pull/158744) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158744) 0 additions and 70 deletions in 2 files</sub><br />
 
