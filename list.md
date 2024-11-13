@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-23 commits.
+24 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; "Fix failing checks" wiki page for new contributors
   <sub>[#154629](https://github.com/flutter/flutter/pull/154629) merged on November 13, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/154629) over 2 months, 140 additions and 0 deletions in 2 files</sub>
@@ -40,6 +40,10 @@
 * **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Made Cupertino dialog more like a native dialog in dark mode
   <sub>[#157218](https://github.com/flutter/flutter/pull/157218) merged on November 12, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/157218) over 3 weeks, 4 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Move the logic for SwiftPM enablement to the platform project
+  <sub>[#158213](https://github.com/flutter/flutter/pull/158213) merged on November 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/158213) over 1 week, 338 additions and 163 deletions in 14 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid using platform `ProcessInfo.maxRss` in test.
   <sub>[#158526](https://github.com/flutter/flutter/pull/158526) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158526) over 22 hours, 10 additions and 1 deletion in 1 file</sub>
@@ -1167,7 +1171,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-14 commits.
+15 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub>
@@ -1201,6 +1205,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Use dependabot multi-directory configuration for Android package updates
   <sub>[#8048](https://github.com/flutter/packages/pull/8048) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/8048) over 2 days, 24 additions and 341 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Fixes manual invocation of `finishTransaction()` triggering fatal crash
+  <sub>[#8071](https://github.com/flutter/packages/pull/8071) merged on November 13, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8071) over 23 hours, 62 additions and 9 deletions in 4 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Phil Quitslund](https://github.com/pq)** &mdash; [vector_graphics_compiler] fix a renamed method parameter lint
   <sub>[#8070](https://github.com/flutter/packages/pull/8070) merged on November 13, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/8070) over 2 hours, 8 additions and 7 deletions in 2 files</sub>
