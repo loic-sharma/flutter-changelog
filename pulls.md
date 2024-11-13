@@ -41,9 +41,6 @@
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Allow namespaces when generating localization<br />
   <sub>[#157696](https://github.com/flutter/flutter/pull/157696) opened on on October 27, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/157696) 564 additions and 382 deletions in 9 files</sub><br />
 
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes crash in SliverAnimatedList<br />
-  <sub>[#157786](https://github.com/flutter/flutter/pull/157786) opened on on October 29, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/157786) 102 additions and 3 deletions in 2 files</sub><br />
-
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
@@ -51,7 +48,7 @@
   <sub>[#158022](https://github.com/flutter/flutter/pull/158022) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158022) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lints in `aar_init_script.gradle` <br />
-  <sub>[#158025](https://github.com/flutter/flutter/pull/158025) opened on on November 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158025) 3 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#158025](https://github.com/flutter/flutter/pull/158025) opened on on November 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158025) 3 additions and 5 deletions in 1 file</sub><br />
 
 * **[PDAWork](https://github.com/PDAWork)** &mdash; Refactor CupertinoPicker to support custom selection overlay<br />
   <sub>[#158056](https://github.com/flutter/flutter/pull/158056) opened on on November 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158056) 2 additions and 2 deletions in 1 file</sub><br />
@@ -79,9 +76,6 @@
 
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; docs: include Human Interface haptic information in HapticFeedback<br />
   <sub>[#158587](https://github.com/flutter/flutter/pull/158587) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158587) 18 additions and 0 deletions in 1 file</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove ancient versions of AGP from integration tests.<br />
-  <sub>[#158743](https://github.com/flutter/flutter/pull/158743) opened on on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158743) 11 additions and 100 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Don't throw StateError when DDS fails to start<br />
   <sub>[#158744](https://github.com/flutter/flutter/pull/158744) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158744) 0 additions and 70 deletions in 2 files</sub><br />
