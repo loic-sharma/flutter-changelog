@@ -4,7 +4,12 @@
 
 ### November 9, 2024 to November 15, 2024
 
-13 commits.
+15 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Clean up dependabot config, add github-action group
+  <sub>[#158408](https://github.com/flutter/flutter/pull/158408) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158408) over 4 days, 4 additions and 26 deletions in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+  <sub><details><summary>1 image...</summary><img width="400" alt="Screenshot 2024-11-08 at 11 08 52 AM" src="https://github.com/user-attachments/assets/eebedf69-3fae-409b-9c88-c3afc8036c52"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationBar` label style customization on the widget level
   <sub>[#158510](https://github.com/flutter/flutter/pull/158510) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158510) over 1 hour, 113 additions and 10 deletions in 2 files</sub>
@@ -26,6 +31,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add filesystem error handling to `systemTempDirectory`
   <sub>[#158481](https://github.com/flutter/flutter/pull/158481) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158481) over 19 hours, 31 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Explain how to use `flutter channel`.
+  <sub>[#158533](https://github.com/flutter/flutter/pull/158533) merged on November 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158533) over 2 hours, 37 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Support materialTapTargetSize in PopupMenuButton
   <sub>[#158357](https://github.com/flutter/flutter/pull/158357) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158357) over 4 days, 48 additions and 1 deletion in 2 files</sub>
@@ -575,7 +584,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-15 commits.
+16 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub>
@@ -583,7 +592,7 @@
   <sub><details><summary>1 image...</summary><img width="400" alt="Screenshot 2024-11-08 at 11 08 52 AM" src="https://github.com/user-attachments/assets/eebedf69-3fae-409b-9c88-c3afc8036c52"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix line/polygon depth and GLES scissor state.
-  <sub>[#56494](https://github.com/flutter/engine/pull/56494) merged on November 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56494) over 21 hours, 80 additions and 8 deletions in 6 files</sub>
+  <sub>[#56494](https://github.com/flutter/engine/pull/56494) merged on November 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56494) over 21 hours, 80 additions and 8 deletions in 6 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/a5541a51-bdf6-4a47-9638-610d9562df6f)![image](https://github.com/user-attachments/assets/9f3ad7e1-8193-405d-98c0-49141c8ab662)</details></sub>
 
@@ -602,6 +611,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wrap provided FBO instead of defaulting to FBO0 and cleanup/document the texture API.
+  <sub>[#56543](https://github.com/flutter/engine/pull/56543) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56543) over 4 hours, 163 additions and 64 deletions in 10 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Linux] Configure depth and stencil framebuffer attachments needed for Impeller
   <sub>[#56516](https://github.com/flutter/engine/pull/56516) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56516) over 22 hours, 100 additions and 0 deletions in 5 files</sub>
