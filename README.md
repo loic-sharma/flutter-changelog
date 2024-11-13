@@ -40,6 +40,10 @@
   <sub>[#158357](https://github.com/flutter/flutter/pull/158357) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158357) over 4 days, 48 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Update .flutter-plugin-dependencies format<br />
+  <sub>[#158138](https://github.com/flutter/flutter/pull/158138) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158138) over 1 week, 63 additions and 18 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Simplify logic that determines if CocoaPods is used<br />
   <sub>[#158409](https://github.com/flutter/flutter/pull/158409) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158409) over 2 days, 1 addition and 18 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub><br />
@@ -55,10 +59,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; force Linux plugin_test to run on Ubuntu 20.04<br />
   <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Update .flutter-plugin-dependencies format<br />
-  <sub>[#158138](https://github.com/flutter/flutter/pull/158138) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158138) over 1 week, 63 additions and 18 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state<br />
   <sub>[#158454](https://github.com/flutter/flutter/pull/158454) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158454) over 5 hours, 44 additions and 0 deletions in 2 files</sub><br />
