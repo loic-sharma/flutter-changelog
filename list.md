@@ -1117,11 +1117,15 @@
 
 ### November 9, 2024 to November 15, 2024
 
-10 commits.
+11 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub>
   <sub>Reviewed by: [cedvdb](https://github.com/cedvdb), [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Thang Vu](https://github.com/ThangVuNguyenViet)** &mdash; [go_router] Add support for relative routes
+  <sub>[#6825](https://github.com/flutter/packages/pull/6825) merged on November 13, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/6825) over 5 months, 539 additions and 3 deletions in 8 files</sub>
+  <sub>Reviewed by: [thangmoxielabs](https://github.com/thangmoxielabs), [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Michel Feinstein](https://github.com/feinstein)** &mdash; [in_app_purchase] Add expiration date to Transaction
   <sub>[#8030](https://github.com/flutter/packages/pull/8030) merged on November 12, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/8030) over 5 days, 35 additions and 14 deletions in 7 files</sub>
