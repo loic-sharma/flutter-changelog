@@ -45,7 +45,7 @@
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag<br />
-  <sub>[#158016](https://github.com/flutter/flutter/pull/158016) opened on on November 1, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/158016) 224 additions and 436 deletions in 65 files</sub><br />
+  <sub>[#158016](https://github.com/flutter/flutter/pull/158016) opened on on November 1, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) 224 additions and 436 deletions in 65 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix lint usage of `task` inside `resolve_dependecies.gradle` file<br />
   <sub>[#158022](https://github.com/flutter/flutter/pull/158022) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158022) 2 additions and 2 deletions in 1 file</sub><br />
@@ -73,4 +73,7 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Make GlobalKey a `mixin class`<br />
   <sub>[#158877](https://github.com/flutter/flutter/pull/158877) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158877) 22 additions and 2 deletions in 2 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try with `bringup: true` debugging why `flutter build apk` often times out.<br />
+  <sub>[#158895](https://github.com/flutter/flutter/pull/158895) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158895) 105 additions and 0 deletions in 4 files</sub><br />
 
