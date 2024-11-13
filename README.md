@@ -1173,6 +1173,10 @@
   <sub>[#8048](https://github.com/flutter/packages/pull/8048) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/8048) over 2 days, 24 additions and 341 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+* **[Phil Quitslund](https://github.com/pq)** &mdash; [vector_graphics_compiler] fix a renamed method parameter lint<br />
+  <sub>[#8070](https://github.com/flutter/packages/pull/8070) merged on November 13, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8070) over 2 hours, 8 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Make Linux type declarations public<br />
   <sub>[#8040](https://github.com/flutter/packages/pull/8040) merged on November 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8040) over 3 days, 54 additions and 41 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
@@ -1180,10 +1184,6 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Fix Linux cancel regression<br />
   <sub>[#8051](https://github.com/flutter/packages/pull/8051) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8051) over 1 hour, 41 additions and 4 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
-
-* **[Phil Quitslund](https://github.com/pq)** &mdash; [vector_graphics_compiler] fix a renamed method parameter lint<br />
-  <sub>[#8070](https://github.com/flutter/packages/pull/8070) merged on November 13, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8070) over 2 hours, 8 additions and 7 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Clean up contributing guides<br />
   <sub>[#8032](https://github.com/flutter/packages/pull/8032) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8032) over 5 days, 48 additions and 166 deletions in 20 files</sub><br />
