@@ -4,7 +4,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-19 commits.
+20 commits.
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; "Fix failing checks" wiki page for new contributors
+  <sub>[#154629](https://github.com/flutter/flutter/pull/154629) merged on November 13, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/154629) over 2 months, 140 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Tong Mu](https://github.com/dkwingsmt), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `dart pub deps` call to `<Pub>.deps` and use it accordingly
   <sub>[#158524](https://github.com/flutter/flutter/pull/158524) merged on November 13, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/158524) over 22 hours, 600 additions and 337 deletions in 16 files</sub>
