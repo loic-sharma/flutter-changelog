@@ -78,7 +78,7 @@
   <sub>[#158580](https://github.com/flutter/flutter/pull/158580) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158580) 194 additions and 36 deletions in 11 files</sub><br />
 
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; docs: include Human Interface haptic information in HapticFeedback<br />
-  <sub>[#158587](https://github.com/flutter/flutter/pull/158587) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158587) 18 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#158587](https://github.com/flutter/flutter/pull/158587) opened on on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158587) 18 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Don't throw StateError when DDS fails to start<br />
   <sub>[#158744](https://github.com/flutter/flutter/pull/158744) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158744) 0 additions and 70 deletions in 2 files</sub><br />
