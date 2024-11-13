@@ -1388,7 +1388,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-9 commits.
+10 commits.
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Flutter web app initialization" page<br />
   <sub>[#11369](https://github.com/flutter/website/pull/11369) merged on November 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11369) over 5 days, 8 additions and 308 deletions in 5 files</sub><br />
@@ -1397,6 +1397,10 @@
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Set up web development for Flutter" page<br />
   <sub>[#11362](https://github.com/flutter/website/pull/11362) merged on November 12, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11362) over 6 days, 21 additions and 164 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix broken link<br />
+  <sub>[#11387](https://github.com/flutter/website/pull/11387) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11387) over 7 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Build a web app with Flutter" page<br />
   <sub>[#11363](https://github.com/flutter/website/pull/11363) merged on November 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11363) over 6 days, 67 additions and 144 deletions in 2 files</sub><br />
