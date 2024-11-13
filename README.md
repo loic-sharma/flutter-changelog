@@ -102,7 +102,7 @@
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_arm64_ios hot_mode_dev_cycle_ios__benchmark to be flaky<br />
-  <sub>[#158242](https://github.com/flutter/flutter/pull/158242) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158242) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#158242](https://github.com/flutter/flutter/pull/158242) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158242) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 ### November 2, 2024 to November 8, 2024
