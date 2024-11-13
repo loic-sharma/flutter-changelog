@@ -45,7 +45,7 @@
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag<br />
-  <sub>[#158016](https://github.com/flutter/flutter/pull/158016) opened on on November 1, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/158016) 225 additions and 435 deletions in 65 files</sub><br />
+  <sub>[#158016](https://github.com/flutter/flutter/pull/158016) opened on on November 1, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/158016) 224 additions and 436 deletions in 65 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix lint usage of `task` inside `resolve_dependecies.gradle` file<br />
   <sub>[#158022](https://github.com/flutter/flutter/pull/158022) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158022) 2 additions and 2 deletions in 1 file</sub><br />
@@ -59,14 +59,8 @@
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
-* **[Abdelhalim Elmenshawi](https://github.com/Halim-Elmenshawi)** &mdash; ExpansionTile children background color<br />
-  <sub>[#158421](https://github.com/flutter/flutter/pull/158421) opened on on November 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158421) 84 additions and 13 deletions in 4 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TappableLabel` extension type<br />
-  <sub>[#158465](https://github.com/flutter/flutter/pull/158465) opened on on November 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158465) 68 additions and 76 deletions in 3 files</sub><br />
-
-* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; docs: align comments<br />
-  <sub>[#158490](https://github.com/flutter/flutter/pull/158490) opened on on November 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158490) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#158465](https://github.com/flutter/flutter/pull/158465) opened on on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158465) 68 additions and 76 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add test for dynamic_content_color.0.dart<br />
   <sub>[#158547](https://github.com/flutter/flutter/pull/158547) opened on on November 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158547) 217 additions and 53 deletions in 3 files</sub><br />
