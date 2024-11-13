@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-16 commits.
+17 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Clean up dependabot config, add github-action group
   <sub>[#158408](https://github.com/flutter/flutter/pull/158408) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158408) over 4 days, 4 additions and 26 deletions in 1 file</sub>
@@ -71,6 +71,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Replace custom `RPCErrorCodes` with `RPCErrorKind` from `package:vm_service`
   <sub>[#158379](https://github.com/flutter/flutter/pull/158379) merged on November 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158379) over 2 days, 71 additions and 95 deletions in 14 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_arm64_ios hot_mode_dev_cycle_ios__benchmark to be flaky
+  <sub>[#158242](https://github.com/flutter/flutter/pull/158242) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158242) over 6 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 ### November 2, 2024 to November 8, 2024
 
