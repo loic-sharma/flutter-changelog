@@ -74,3 +74,6 @@
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; feat: Change default value of keyboardDismissBehavior<br />
   <sub>[#158580](https://github.com/flutter/flutter/pull/158580) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158580) 194 additions and 36 deletions in 11 files</sub><br />
 
+* **[Alejandro Santiago](https://github.com/alestiago)** &mdash; docs: include Human Interface haptic information in HapticFeedback<br />
+  <sub>[#158587](https://github.com/flutter/flutter/pull/158587) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158587) 18 additions and 0 deletions in 1 file</sub><br />
+

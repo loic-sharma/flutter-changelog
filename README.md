@@ -1142,7 +1142,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-11 commits.
+12 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)<br />
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub><br />
@@ -1151,6 +1151,11 @@
 * **[Thang Vu](https://github.com/ThangVuNguyenViet)** &mdash; [go_router] Add support for relative routes<br />
   <sub>[#6825](https://github.com/flutter/packages/pull/6825) merged on November 13, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/packages/pull/6825) over 5 months, 539 additions and 3 deletions in 8 files</sub><br />
   <sub>Reviewed by: [thangmoxielabs](https://github.com/thangmoxielabs), [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Danang Rahmatullah](https://github.com/dasyad00)** &mdash; [camera_windows] Set device media type for video preview explicitly<br />
+  <sub>[#7447](https://github.com/flutter/packages/pull/7447) merged on November 13, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/7447) over 2 months, 42 additions and 5 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+  <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/cca93da9-dd94-486e-930f-5c5aa73922a9)![image](https://github.com/user-attachments/assets/05c5c460-21ed-40d8-93eb-1e75da7c929c)</details></sub>
 
 * **[Michel Feinstein](https://github.com/feinstein)** &mdash; [in_app_purchase] Add expiration date to Transaction<br />
   <sub>[#8030](https://github.com/flutter/packages/pull/8030) merged on November 12, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/8030) over 5 days, 35 additions and 14 deletions in 7 files</sub><br />
