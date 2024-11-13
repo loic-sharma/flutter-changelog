@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-24 commits.
+25 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; "Fix failing checks" wiki page for new contributors<br />
   <sub>[#154629](https://github.com/flutter/flutter/pull/154629) merged on November 13, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/154629) over 2 months, 140 additions and 0 deletions in 2 files</sub><br />
@@ -77,8 +77,12 @@
   <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adds a skip message for analyzer<br />
+  <sub>[#158890](https://github.com/flutter/flutter/pull/158890) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158890) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Temporarily skip flutter build apk for native_assets tests.<br />
-  <sub>[#158880](https://github.com/flutter/flutter/pull/158880) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158880) over 33 minutes, 4 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#158880](https://github.com/flutter/flutter/pull/158880) merged on November 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158880) over 33 minutes, 4 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stream the output of `flutter build` for debugging.<br />
