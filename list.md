@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-22 commits.
+23 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; "Fix failing checks" wiki page for new contributors
   <sub>[#154629](https://github.com/flutter/flutter/pull/154629) merged on November 13, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/154629) over 2 months, 140 additions and 0 deletions in 2 files</sub>
@@ -72,6 +72,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow `devDependencies` to be omitted and not cause a tool crash.
   <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Temporarily skip flutter build apk for native_assets tests.
+  <sub>[#158880](https://github.com/flutter/flutter/pull/158880) merged on November 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158880) over 33 minutes, 4 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stream the output of `flutter build` for debugging.
   <sub>[#158757](https://github.com/flutter/flutter/pull/158757) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158757) over 47 minutes, 16 additions and 13 deletions in 1 file</sub>
