@@ -77,3 +77,9 @@
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; docs: include Human Interface haptic information in HapticFeedback<br />
   <sub>[#158587](https://github.com/flutter/flutter/pull/158587) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158587) 18 additions and 0 deletions in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove ancient versions of AGP from integration tests.<br />
+  <sub>[#158743](https://github.com/flutter/flutter/pull/158743) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158743) 11 additions and 100 deletions in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Don't throw StateError when DDS fails to start<br />
+  <sub>[#158744](https://github.com/flutter/flutter/pull/158744) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158744) 0 additions and 11 deletions in 1 file</sub><br />
+
