@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-15 commits.
+16 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Clean up dependabot config, add github-action group
   <sub>[#158408](https://github.com/flutter/flutter/pull/158408) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158408) over 4 days, 4 additions and 26 deletions in 1 file</sub>
@@ -47,6 +47,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `dynamic_content_color.0.dart`
   <sub>[#158309](https://github.com/flutter/flutter/pull/158309) merged on November 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158309) over 5 days, 182 additions and 51 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow `devDependencies` to be omitted and not cause a tool crash.
+  <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; force Linux plugin_test to run on Ubuntu 20.04
   <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub>
@@ -584,7 +588,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-16 commits.
+17 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub>
@@ -611,6 +615,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] force semantics action to post a task.
+  <sub>[#56514](https://github.com/flutter/engine/pull/56514) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56514) over 1 day, 62 additions and 2 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wrap provided FBO instead of defaulting to FBO0 and cleanup/document the texture API.
   <sub>[#56543](https://github.com/flutter/engine/pull/56543) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56543) over 4 hours, 163 additions and 64 deletions in 10 files</sub>
