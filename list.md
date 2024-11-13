@@ -1158,7 +1158,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-12 commits.
+13 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub>
@@ -1200,6 +1200,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Fix Linux cancel regression
   <sub>[#8051](https://github.com/flutter/packages/pull/8051) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8051) over 1 hour, 41 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Improve Swift lint error message
+  <sub>[#8074](https://github.com/flutter/packages/pull/8074) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8074) over 3 hours, 43 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Clean up contributing guides
   <sub>[#8032](https://github.com/flutter/packages/pull/8032) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8032) over 5 days, 48 additions and 166 deletions in 20 files</sub>
