@@ -1182,7 +1182,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Phil Quitslund](https://github.com/pq)** &mdash; [vector_graphics_compiler] fix a renamed method parameter lint<br />
-  <sub>[#8070](https://github.com/flutter/packages/pull/8070) merged on November 13, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/8070) over 2 hours, 8 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#8070](https://github.com/flutter/packages/pull/8070) merged on November 13, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/8070) over 2 hours, 8 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Make Linux type declarations public<br />

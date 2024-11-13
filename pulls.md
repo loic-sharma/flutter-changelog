@@ -86,6 +86,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Don't throw StateError when DDS fails to start<br />
   <sub>[#158744](https://github.com/flutter/flutter/pull/158744) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158744) 0 additions and 70 deletions in 2 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [flutter_releases] Flutter stable 3.24.5 Framework Cherrypicks<br />
-  <sub>[#158778](https://github.com/flutter/flutter/pull/158778) opened on on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158778) 1 addition and 1 deletion in 1 file</sub><br />
-
