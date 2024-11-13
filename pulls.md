@@ -66,5 +66,5 @@
   <sub>[#158490](https://github.com/flutter/flutter/pull/158490) opened on on November 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158490) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add test for dynamic_content_color.0.dart<br />
-  <sub>[#158547](https://github.com/flutter/flutter/pull/158547) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158547) 138 additions and 53 deletions in 3 files</sub><br />
+  <sub>[#158547](https://github.com/flutter/flutter/pull/158547) opened on on November 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158547) 138 additions and 53 deletions in 3 files</sub><br />
 
