@@ -1158,7 +1158,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-13 commits.
+14 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)<br />
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub><br />
@@ -1180,6 +1180,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [url_launcher] Update Pigeon version for Linux<br />
   <sub>[#8065](https://github.com/flutter/packages/pull/8065) merged on November 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8065) over 1 hour, 73 additions and 44 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Remove unneeded platform annotations <br />
+  <sub>[#7914](https://github.com/flutter/packages/pull/7914) merged on November 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/7914) over 2 weeks, 16 additions and 17 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Remove web renderer option from tools.<br />
   <sub>[#8055](https://github.com/flutter/packages/pull/8055) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8055) over 19 hours, 3 additions and 81 deletions in 4 files</sub><br />
