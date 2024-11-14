@@ -26,9 +26,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157193) 97 additions and 117 deletions in 5 files</sub><br />
 
-* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; doctor: make JDK validation message more descriptive<br />
-  <sub>[#157280](https://github.com/flutter/flutter/pull/157280) opened on on October 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/157280) 218 additions and 9 deletions in 6 files</sub><br />
-
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
 
@@ -42,7 +39,7 @@
   <sub>[#158056](https://github.com/flutter/flutter/pull/158056) opened on on November 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158056) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
-  <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
+  <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade to package:intl v.0.20.0<br />
   <sub>[#158555](https://github.com/flutter/flutter/pull/158555) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158555) 1 addition and 1 deletion in 1 file</sub><br />
@@ -61,4 +58,10 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flaky failure related to core_device_list.json not being found<br />
   <sub>[#158946](https://github.com/flutter/flutter/pull/158946) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158946) 18 additions and 2 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Adds a new helpful tool exit message for SocketExceptions thrown during mdns discovery<br />
+  <sub>[#158949](https://github.com/flutter/flutter/pull/158949) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158949) 53 additions and 4 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Adds a new helpful tool exit message for SocketExceptions thrown during mdns discovery<br />
+  <sub>[#158950](https://github.com/flutter/flutter/pull/158950) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158950) 53 additions and 4 deletions in 2 files</sub><br />
 
