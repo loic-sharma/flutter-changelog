@@ -677,7 +677,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-24 commits.
+25 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] force software resize usage for GLES backend.<br />
   <sub>[#56511](https://github.com/flutter/engine/pull/56511) merged on November 14, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/engine/pull/56511) over 2 days, 68 additions and 15 deletions in 5 files</sub><br />
@@ -720,6 +720,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move FlMouseCursorHandler from FlView to FlEngine<br />
   <sub>[#56026](https://github.com/flutter/engine/pull/56026) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56026) over 3 weeks, 124 additions and 26 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Build/test test_metal_surface_unittests<br />
+  <sub>[#56586](https://github.com/flutter/engine/pull/56586) merged on November 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56586) over 1 hour, 25 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Move Vulkan context to EmbedderTestContextVulkan<br />
   <sub>[#56571](https://github.com/flutter/engine/pull/56571) merged on November 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56571) over 14 hours, 4 additions and 6 deletions in 2 files</sub><br />
