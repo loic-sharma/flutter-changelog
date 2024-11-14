@@ -4,7 +4,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-39 commits.
+42 commits.
+
+* **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] When localizing a message, prefer placeholder definitions defined by the current locale rather than the template locale
+  <sub>[#153459](https://github.com/flutter/flutter/pull/153459) merged on November 14, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/153459) over 3 months, 453 additions and 43 deletions in 4 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag
   <sub>[#158016](https://github.com/flutter/flutter/pull/158016) merged on November 14, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) over 1 week, 224 additions and 436 deletions in 65 files</sub>
@@ -18,6 +22,11 @@
   <sub>[#158524](https://github.com/flutter/flutter/pull/158524) merged on November 13, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/158524) over 22 hours, 600 additions and 337 deletions in 16 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationBar` label style customization on the widget level
+  <sub>[#158510](https://github.com/flutter/flutter/pull/158510) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158510) over 1 hour, 113 additions and 10 deletions in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
+  <sub><details><summary>1 image...</summary><img width="719" alt="Screenshot 2024-11-12 at 17 18 00" src="https://github.com/user-attachments/assets/2b489bfa-78a3-4766-bc22-9273d76eadcd"></details></sub>
+
 * **[Rexios](https://github.com/Rexios80)** &mdash; Add constraint options to `SearchAnchor` suggestions builder
   <sub>[#148856](https://github.com/flutter/flutter/pull/148856) merged on November 14, 2024 &mdash; **Small:** [115 comments](https://github.com/flutter/flutter/pull/148856) over 5 months, 212 additions and 84 deletions in 5 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -26,11 +35,6 @@
   <sub>[#158408](https://github.com/flutter/flutter/pull/158408) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158408) over 4 days, 4 additions and 26 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
   <sub><details><summary>1 image...</summary><img width="400" alt="Screenshot 2024-11-08 at 11 08 52 AM" src="https://github.com/user-attachments/assets/eebedf69-3fae-409b-9c88-c3afc8036c52"></details></sub>
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `NavigationBar` label style customization on the widget level
-  <sub>[#158510](https://github.com/flutter/flutter/pull/158510) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158510) over 1 hour, 113 additions and 10 deletions in 2 files</sub>
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
-  <sub><details><summary>1 image...</summary><img width="719" alt="Screenshot 2024-11-12 at 17 18 00" src="https://github.com/user-attachments/assets/2b489bfa-78a3-4766-bc22-9273d76eadcd"></details></sub>
 
 * **[Younghan Kim](https://github.com/goosetapa)** &mdash; Remove block and line comments when detecting '.flutter-plugins' in settings.gradle(.kts)
   <sub>[#155488](https://github.com/flutter/flutter/pull/155488) merged on November 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155488) over 1 month, 104 additions and 1 deletion in 2 files</sub>
@@ -49,6 +53,10 @@
   <sub>[#158019](https://github.com/flutter/flutter/pull/158019) merged on November 11, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/158019) over 1 week, 379 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [cedvdb](https://github.com/cedvdb), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
+* **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Made Cupertino dialog more like a native dialog in dark mode
+  <sub>[#157218](https://github.com/flutter/flutter/pull/157218) merged on November 12, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/157218) over 3 weeks, 4 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Move platform-specific log-reading implementation details from `ResidentRunner`/`FlutterDevice` to `DeviceLogReader` implementations
   <sub>[#156181](https://github.com/flutter/flutter/pull/156181) merged on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156181) over 1 month, 136 additions and 127 deletions in 22 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
@@ -56,10 +64,6 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #154792 - CupertinoActionSheetAction cursor doesn't change to clickable on desktop
   <sub>[#158470](https://github.com/flutter/flutter/pull/158470) merged on November 13, 2024 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/158470) over 2 days, 46 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Taha Tesser](https://github.com/TahaTesser)</sub>
-
-* **[Jiten Patel](https://github.com/thejitenpatel)** &mdash; Made Cupertino dialog more like a native dialog in dark mode
-  <sub>[#157218](https://github.com/flutter/flutter/pull/157218) merged on November 12, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/157218) over 3 weeks, 4 additions and 4 deletions in 3 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; No longer pass `--verbose` to implicit `pub` calls when `flutter --verbose` is set.
   <sub>[#158898](https://github.com/flutter/flutter/pull/158898) merged on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158898) over 16 hours, 44 additions and 4 deletions in 2 files</sub>
@@ -72,6 +76,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid using platform `ProcessInfo.maxRss` in test.
   <sub>[#158526](https://github.com/flutter/flutter/pull/158526) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158526) over 22 hours, 10 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template
+  <sub>[#156947](https://github.com/flutter/flutter/pull/156947) merged on November 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156947) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add `dev_dependency` attribute to plugins in `.flutter-plugins-dependencies`
   <sub>[#158009](https://github.com/flutter/flutter/pull/158009) merged on November 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158009) over 1 week, 153 additions and 4 deletions in 3 files</sub>
@@ -105,13 +113,13 @@
   <sub>[#158915](https://github.com/flutter/flutter/pull/158915) merged on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158915) over 40 minutes, 40 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `dynamic_content_color.0.dart`
-  <sub>[#158309](https://github.com/flutter/flutter/pull/158309) merged on November 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158309) over 5 days, 182 additions and 51 deletions in 3 files</sub>
-  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
-
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Fix update order of SliverAppBar
   <sub>[#158159](https://github.com/flutter/flutter/pull/158159) merged on November 14, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/158159) over 1 week, 68 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `dynamic_content_color.0.dart`
+  <sub>[#158309](https://github.com/flutter/flutter/pull/158309) merged on November 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158309) over 5 days, 182 additions and 51 deletions in 3 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow `devDependencies` to be omitted and not cause a tool crash.
   <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub>
@@ -140,6 +148,10 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adjusts the Hindi TimeOfDayFormat to display in a LTR orientation in localizations.
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) merged on November 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157998) over 1 week, 39 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tirth](https://github.com/piedcipher)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; hide members where possible
+  <sub>[#158492](https://github.com/flutter/flutter/pull/158492) merged on November 14, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/158492) over 2 days, 62 additions and 54 deletions in 1 file</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Enable --verbose for android_plugin_skip_unsupported_test tests
   <sub>[#158933](https://github.com/flutter/flutter/pull/158933) merged on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158933) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
