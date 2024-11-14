@@ -68,3 +68,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.24.5<br />
   <sub>[#158904](https://github.com/flutter/flutter/pull/158904) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158904) 6 additions and 0 deletions in 1 file</sub><br />
 
+* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; Fix: The enableFeedback property of InkWell cannot be set to a nullab…<br />
+  <sub>[#158907](https://github.com/flutter/flutter/pull/158907) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158907) 1 addition and 2 deletions in 1 file</sub><br />
+
