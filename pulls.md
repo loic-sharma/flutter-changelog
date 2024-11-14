@@ -65,6 +65,3 @@
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; Fix: The enableFeedback property of InkWell cannot be set to a nullab…<br />
   <sub>[#158907](https://github.com/flutter/flutter/pull/158907) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158907) 2 additions and 3 deletions in 2 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [flutter_releases] Flutter beta 3.27.0-0.2.pre Framework Cherrypicks<br />
-  <sub>[#158943](https://github.com/flutter/flutter/pull/158943) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158943) 1 addition and 1 deletion in 1 file</sub><br />
-
