@@ -56,9 +56,6 @@
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TappableLabel` extension type<br />
-  <sub>[#158465](https://github.com/flutter/flutter/pull/158465) opened on on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158465) 68 additions and 76 deletions in 3 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add test for dynamic_content_color.0.dart<br />
   <sub>[#158547](https://github.com/flutter/flutter/pull/158547) opened on on November 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158547) 217 additions and 53 deletions in 3 files</sub><br />
 
