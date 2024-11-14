@@ -81,6 +81,10 @@
   <sub>[#158409](https://github.com/flutter/flutter/pull/158409) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158409) over 2 days, 1 addition and 18 deletions in 1 file</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add one MenuAnchor alignment test
+  <sub>[#158915](https://github.com/flutter/flutter/pull/158915) merged on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158915) over 40 minutes, 40 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Fix update order of SliverAppBar
   <sub>[#158159](https://github.com/flutter/flutter/pull/158159) merged on November 14, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/158159) over 1 week, 68 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate)</sub>
@@ -120,10 +124,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adjusts the Hindi TimeOfDayFormat to display in a LTR orientation in localizations.
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) merged on November 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157998) over 1 week, 39 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tirth](https://github.com/piedcipher)</sub>
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add one MenuAnchor alignment test
-  <sub>[#158915](https://github.com/flutter/flutter/pull/158915) merged on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158915) over 40 minutes, 40 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update test to include more complete instructions for how to run tests locally, add example to andoid 11 tests as well
   <sub>[#158528](https://github.com/flutter/flutter/pull/158528) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158528) over 1 hour, 18 additions and 2 deletions in 2 files</sub>
