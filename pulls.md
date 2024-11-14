@@ -65,3 +65,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Make GlobalKey a `mixin class`<br />
   <sub>[#158877](https://github.com/flutter/flutter/pull/158877) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158877) 22 additions and 2 deletions in 2 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.24.5<br />
+  <sub>[#158904](https://github.com/flutter/flutter/pull/158904) opened on on November 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158904) 6 additions and 0 deletions in 1 file</sub><br />
+
