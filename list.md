@@ -1255,7 +1255,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-17 commits.
+18 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub>
@@ -1305,6 +1305,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Fix Linux cancel regression
   <sub>[#8051](https://github.com/flutter/packages/pull/8051) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8051) over 1 hour, 41 additions and 4 deletions in 5 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Ignore dependabot minor and patch updates of Kotlin mocking library
+  <sub>[#8056](https://github.com/flutter/packages/pull/8056) merged on November 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8056) over 2 days, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Paul Berry](https://github.com/stereotype441)** &mdash; [google_identity_services_web] Set nonce properly in loadWebSdk().
   <sub>[#8069](https://github.com/flutter/packages/pull/8069) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8069) over 1 day, 136 additions and 8 deletions in 5 files</sub>
