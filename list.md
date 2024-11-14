@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-36 commits.
+37 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag
   <sub>[#158016](https://github.com/flutter/flutter/pull/158016) merged on November 14, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) over 1 week, 224 additions and 436 deletions in 65 files</sub>
@@ -132,6 +132,10 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adjusts the Hindi TimeOfDayFormat to display in a LTR orientation in localizations.
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) merged on November 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157998) over 1 week, 39 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tirth](https://github.com/piedcipher)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Enable --verbose for android_plugin_skip_unsupported_test tests
+  <sub>[#158933](https://github.com/flutter/flutter/pull/158933) merged on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158933) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update triage flow chart for SVG packages
   <sub>[#158670](https://github.com/flutter/flutter/pull/158670) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158670) over 18 hours, 1 addition and 0 deletions in 1 file</sub>

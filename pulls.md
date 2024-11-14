@@ -65,6 +65,3 @@
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; Fix: The enableFeedback property of InkWell cannot be set to a nullab…<br />
   <sub>[#158907](https://github.com/flutter/flutter/pull/158907) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158907) 2 additions and 3 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Enable --verbose for android_plugin_skip_unsupported_test tests<br />
-  <sub>[#158933](https://github.com/flutter/flutter/pull/158933) opened on on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158933) 2 additions and 0 deletions in 1 file</sub><br />
-
