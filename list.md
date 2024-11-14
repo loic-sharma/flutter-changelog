@@ -173,6 +173,10 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
   <sub><details><summary>2 images...</summary><img width="458" alt="Screenshot 2024-11-06 at 14 30 52" src="https://github.com/user-attachments/assets/637e5e66-e05f-49fa-a4ae-72083b6ff884"><img width="458" alt="Screenshot 2024-11-06 at 14 32 02" src="https://github.com/user-attachments/assets/23ebf715-30d3-433c-92cd-c8f0fdb1571b"></details></sub>
 
+* **[Aparin Kirill](https://github.com/kirya355)** &mdash; fix: ensure draggable_scrollable_sheet respects shouldCloseOnMinExten…
+  <sub>[#156338](https://github.com/flutter/flutter/pull/156338) merged on November 6, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156338) over 4 weeks, 34 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `WidgetStateProperty` documentation
   <sub>[#154298](https://github.com/flutter/flutter/pull/154298) merged on November 4, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/154298) over 2 months, 74 additions and 109 deletions in 15 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
@@ -188,10 +192,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Restore skipped iOS test by looping over `FakeAsync` elapse.
   <sub>[#158204](https://github.com/flutter/flutter/pull/158204) merged on November 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158204) over 4 hours, 20 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: </sub>
-
-* **[Aparin Kirill](https://github.com/kirya355)** &mdash; fix: ensure draggable_scrollable_sheet respects shouldCloseOnMinExten…
-  <sub>[#156338](https://github.com/flutter/flutter/pull/156338) merged on November 6, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156338) over 4 weeks, 34 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make native asset integration test more robust, thereby allowing smooth auto-update of packages via `flutter update-packages`
   <sub>[#158170](https://github.com/flutter/flutter/pull/158170) merged on November 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158170) over 3 hours, 36 additions and 12 deletions in 1 file</sub>
