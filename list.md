@@ -65,6 +65,10 @@
   <sub>[#158481](https://github.com/flutter/flutter/pull/158481) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158481) over 19 hours, 31 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adds a skip message for analyzer
+  <sub>[#158890](https://github.com/flutter/flutter/pull/158890) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158890) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Explain how to use `flutter channel`.
   <sub>[#158533](https://github.com/flutter/flutter/pull/158533) merged on November 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158533) over 2 hours, 37 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
@@ -96,10 +100,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow `devDependencies` to be omitted and not cause a tool crash.
   <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adds a skip message for analyzer
-  <sub>[#158890](https://github.com/flutter/flutter/pull/158890) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158890) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Temporarily skip flutter build apk for native_assets tests.
   <sub>[#158880](https://github.com/flutter/flutter/pull/158880) merged on November 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158880) over 33 minutes, 4 additions and 1 deletion in 1 file</sub>
