@@ -45,7 +45,7 @@
   <sub>[#158555](https://github.com/flutter/flutter/pull/158555) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158555) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Don't throw StateError when DDS fails to start<br />
-  <sub>[#158744](https://github.com/flutter/flutter/pull/158744) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158744) 0 additions and 70 deletions in 2 files</sub><br />
+  <sub>[#158744](https://github.com/flutter/flutter/pull/158744) opened on on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158744) 0 additions and 70 deletions in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Make GlobalKey a `mixin class`<br />
   <sub>[#158877](https://github.com/flutter/flutter/pull/158877) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158877) 22 additions and 2 deletions in 2 files</sub><br />
