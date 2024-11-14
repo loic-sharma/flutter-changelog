@@ -38,9 +38,6 @@
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Add `dev_dependency` attribute to plugins in `.flutter-plugins-dependencies`<br />
-  <sub>[#158009](https://github.com/flutter/flutter/pull/158009) opened on on November 1, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158009) 153 additions and 4 deletions in 3 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix lint usage of `task` inside `resolve_dependecies.gradle` file<br />
   <sub>[#158022](https://github.com/flutter/flutter/pull/158022) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158022) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -69,5 +66,5 @@
   <sub>[#158907](https://github.com/flutter/flutter/pull/158907) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158907) 2 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Enable --verbose for android_plugin_skip_unsupported_test tests<br />
-  <sub>[#158933](https://github.com/flutter/flutter/pull/158933) opened on on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158933) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#158933](https://github.com/flutter/flutter/pull/158933) opened on on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158933) 2 additions and 0 deletions in 1 file</sub><br />
 

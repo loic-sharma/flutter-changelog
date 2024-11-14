@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-35 commits.
+36 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag<br />
   <sub>[#158016](https://github.com/flutter/flutter/pull/158016) merged on November 14, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) over 1 week, 224 additions and 436 deletions in 65 files</sub><br />
@@ -57,13 +57,17 @@
   <sub>[#158898](https://github.com/flutter/flutter/pull/158898) merged on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158898) over 16 hours, 44 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid using platform `ProcessInfo.maxRss` in test.<br />
+  <sub>[#158526](https://github.com/flutter/flutter/pull/158526) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158526) over 22 hours, 10 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Move the logic for SwiftPM enablement to the platform project<br />
   <sub>[#158213](https://github.com/flutter/flutter/pull/158213) merged on November 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/158213) over 1 week, 338 additions and 163 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid using platform `ProcessInfo.maxRss` in test.<br />
-  <sub>[#158526](https://github.com/flutter/flutter/pull/158526) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158526) over 22 hours, 10 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Add `dev_dependency` attribute to plugins in `.flutter-plugins-dependencies`<br />
+  <sub>[#158009](https://github.com/flutter/flutter/pull/158009) merged on November 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158009) over 1 week, 153 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add filesystem error handling to `systemTempDirectory`<br />
   <sub>[#158481](https://github.com/flutter/flutter/pull/158481) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158481) over 19 hours, 31 additions and 2 deletions in 2 files</sub><br />
