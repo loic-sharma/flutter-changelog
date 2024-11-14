@@ -72,5 +72,5 @@
   <sub>[#158877](https://github.com/flutter/flutter/pull/158877) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158877) 22 additions and 2 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try with `bringup: true` debugging why `flutter build apk` often times out.<br />
-  <sub>[#158895](https://github.com/flutter/flutter/pull/158895) opened on on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158895) 129 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#158895](https://github.com/flutter/flutter/pull/158895) opened on on November 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158895) 129 additions and 0 deletions in 5 files</sub><br />
 
