@@ -4,15 +4,15 @@
 
 ### November 9, 2024 to November 15, 2024
 
-33 commits.
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag<br />
-  <sub>[#158016](https://github.com/flutter/flutter/pull/158016) merged on November 14, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) over 1 week, 224 additions and 436 deletions in 65 files</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+34 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; "Fix failing checks" wiki page for new contributors<br />
   <sub>[#154629](https://github.com/flutter/flutter/pull/154629) merged on November 13, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/154629) over 2 months, 140 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Tong Mu](https://github.com/dkwingsmt), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag<br />
+  <sub>[#158016](https://github.com/flutter/flutter/pull/158016) merged on November 14, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) over 1 week, 224 additions and 436 deletions in 65 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `dart pub deps` call to `<Pub>.deps` and use it accordingly<br />
   <sub>[#158524](https://github.com/flutter/flutter/pull/158524) merged on November 13, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/158524) over 22 hours, 600 additions and 337 deletions in 16 files</sub><br />
@@ -53,13 +53,13 @@
   <sub>[#157218](https://github.com/flutter/flutter/pull/157218) merged on November 12, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/157218) over 3 weeks, 4 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Victor Sanni](https://github.com/victorsanni), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Move the logic for SwiftPM enablement to the platform project<br />
-  <sub>[#158213](https://github.com/flutter/flutter/pull/158213) merged on November 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/158213) over 1 week, 338 additions and 163 deletions in 14 files</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid using platform `ProcessInfo.maxRss` in test.<br />
   <sub>[#158526](https://github.com/flutter/flutter/pull/158526) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158526) over 22 hours, 10 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Move the logic for SwiftPM enablement to the platform project<br />
+  <sub>[#158213](https://github.com/flutter/flutter/pull/158213) merged on November 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/158213) over 1 week, 338 additions and 163 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add filesystem error handling to `systemTempDirectory`<br />
   <sub>[#158481](https://github.com/flutter/flutter/pull/158481) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158481) over 19 hours, 31 additions and 2 deletions in 2 files</sub><br />
@@ -97,10 +97,6 @@
   <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try with `bringup: true` debugging why `flutter build apk` often times out.<br />
-  <sub>[#158895](https://github.com/flutter/flutter/pull/158895) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158895) over 2 hours, 129 additions and 0 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adds a skip message for analyzer<br />
   <sub>[#158890](https://github.com/flutter/flutter/pull/158890) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158890) over 1 minute, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -121,9 +117,17 @@
   <sub>[#158454](https://github.com/flutter/flutter/pull/158454) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158454) over 5 hours, 44 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try with `bringup: true` debugging why `flutter build apk` often times out.<br />
+  <sub>[#158895](https://github.com/flutter/flutter/pull/158895) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158895) over 2 hours, 129 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adjusts the Hindi TimeOfDayFormat to display in a LTR orientation in localizations.<br />
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) merged on November 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157998) over 1 week, 39 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tirth](https://github.com/piedcipher)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Update triage flow chart for SVG packages<br />
+  <sub>[#158670](https://github.com/flutter/flutter/pull/158670) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158670) over 18 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [darshankawar](https://github.com/darshankawar), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update test to include more complete instructions for how to run tests locally, add example to andoid 11 tests as well<br />
   <sub>[#158528](https://github.com/flutter/flutter/pull/158528) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158528) over 1 hour, 18 additions and 2 deletions in 2 files</sub><br />
