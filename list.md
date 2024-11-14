@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-26 commits.
+28 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; "Fix failing checks" wiki page for new contributors
   <sub>[#154629](https://github.com/flutter/flutter/pull/154629) merged on November 13, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/154629) over 2 months, 140 additions and 0 deletions in 2 files</sub>
@@ -73,6 +73,10 @@
   <sub>[#158409](https://github.com/flutter/flutter/pull/158409) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158409) over 2 days, 1 addition and 18 deletions in 1 file</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[hgraceb](https://github.com/hgraceb)** &mdash; Fix update order of SliverAppBar
+  <sub>[#158159](https://github.com/flutter/flutter/pull/158159) merged on November 14, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/158159) over 1 week, 68 additions and 16 deletions in 4 files</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `dynamic_content_color.0.dart`
   <sub>[#158309](https://github.com/flutter/flutter/pull/158309) merged on November 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158309) over 5 days, 182 additions and 51 deletions in 3 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
@@ -100,6 +104,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state
   <sub>[#158454](https://github.com/flutter/flutter/pull/158454) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158454) over 5 hours, 44 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Adjusts the Hindi TimeOfDayFormat to display in a LTR orientation in localizations.
+  <sub>[#157998](https://github.com/flutter/flutter/pull/157998) merged on November 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157998) over 1 week, 39 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update test to include more complete instructions for how to run tests locally, add example to andoid 11 tests as well
   <sub>[#158528](https://github.com/flutter/flutter/pull/158528) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158528) over 1 hour, 18 additions and 2 deletions in 2 files</sub>
