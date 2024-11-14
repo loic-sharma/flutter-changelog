@@ -68,3 +68,6 @@
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; Fix: The enableFeedback property of InkWell cannot be set to a nullab…<br />
   <sub>[#158907](https://github.com/flutter/flutter/pull/158907) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158907) 2 additions and 3 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add one MenuAnchor alignment test<br />
+  <sub>[#158915](https://github.com/flutter/flutter/pull/158915) opened on on November 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158915) 40 additions and 0 deletions in 1 file</sub><br />
+
