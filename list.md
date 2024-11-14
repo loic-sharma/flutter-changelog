@@ -4,7 +4,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-29 commits.
+31 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag
+  <sub>[#158016](https://github.com/flutter/flutter/pull/158016) merged on November 14, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) over 1 week, 224 additions and 436 deletions in 65 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; "Fix failing checks" wiki page for new contributors
   <sub>[#154629](https://github.com/flutter/flutter/pull/154629) merged on November 13, 2024 &mdash; **Small:** [41 comments](https://github.com/flutter/flutter/pull/154629) over 2 months, 140 additions and 0 deletions in 2 files</sub>
@@ -88,6 +92,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow `devDependencies` to be omitted and not cause a tool crash.
   <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try with `bringup: true` debugging why `flutter build apk` often times out.
+  <sub>[#158895](https://github.com/flutter/flutter/pull/158895) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158895) over 2 hours, 129 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adds a skip message for analyzer
   <sub>[#158890](https://github.com/flutter/flutter/pull/158890) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158890) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
@@ -641,7 +649,11 @@
 
 ### November 9, 2024 to November 15, 2024
 
-17 commits.
+22 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] force software resize usage for GLES backend.
+  <sub>[#56511](https://github.com/flutter/engine/pull/56511) merged on November 14, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/engine/pull/56511) over 2 days, 68 additions and 15 deletions in 5 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub>
@@ -668,6 +680,22 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused FlMockTextInputHandler
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] choose 24 bit depth buffer.
+  <sub>[#56553](https://github.com/flutter/engine/pull/56553) merged on November 14, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56553) over 20 hours, 4 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `android_jit_release_x86`.
+  <sub>[#56548](https://github.com/flutter/engine/pull/56548) merged on November 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56548) over 1 day, 0 additions and 101 deletions in 3 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move FlMouseCursorHandler from FlView to FlEngine
+  <sub>[#56026](https://github.com/flutter/engine/pull/56026) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56026) over 3 weeks, 124 additions and 26 deletions in 7 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Embedder: Refactor EmbedderTestContext creation
+  <sub>[#56563](https://github.com/flutter/engine/pull/56563) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56563) over 9 hours, 94 additions and 37 deletions in 6 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] force semantics action to post a task.
   <sub>[#56514](https://github.com/flutter/engine/pull/56514) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56514) over 1 day, 62 additions and 2 deletions in 5 files</sub>

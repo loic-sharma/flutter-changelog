@@ -41,9 +41,6 @@
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag<br />
-  <sub>[#158016](https://github.com/flutter/flutter/pull/158016) opened on on November 1, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) 224 additions and 436 deletions in 65 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix lint usage of `task` inside `resolve_dependecies.gradle` file<br />
   <sub>[#158022](https://github.com/flutter/flutter/pull/158022) opened on on November 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158022) 2 additions and 2 deletions in 1 file</sub><br />
 
@@ -57,7 +54,7 @@
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add test for dynamic_content_color.0.dart<br />
-  <sub>[#158547](https://github.com/flutter/flutter/pull/158547) opened on on November 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158547) 217 additions and 53 deletions in 3 files</sub><br />
+  <sub>[#158547](https://github.com/flutter/flutter/pull/158547) opened on on November 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158547) 220 additions and 53 deletions in 3 files</sub><br />
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade to package:intl v.0.20.0<br />
   <sub>[#158555](https://github.com/flutter/flutter/pull/158555) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158555) 1 addition and 1 deletion in 1 file</sub><br />
@@ -67,7 +64,4 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Make GlobalKey a `mixin class`<br />
   <sub>[#158877](https://github.com/flutter/flutter/pull/158877) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158877) 22 additions and 2 deletions in 2 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try with `bringup: true` debugging why `flutter build apk` often times out.<br />
-  <sub>[#158895](https://github.com/flutter/flutter/pull/158895) opened on on November 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158895) 129 additions and 0 deletions in 5 files</sub><br />
 
