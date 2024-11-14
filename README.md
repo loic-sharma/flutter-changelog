@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-42 commits.
+43 commits.
 
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] When localizing a message, prefer placeholder definitions defined by the current locale rather than the template locale<br />
   <sub>[#153459](https://github.com/flutter/flutter/pull/153459) merged on November 14, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/153459) over 3 months, 453 additions and 43 deletions in 4 files</sub><br />
@@ -125,18 +125,6 @@
   <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stream the output of `flutter build` for debugging.<br />
-  <sub>[#158757](https://github.com/flutter/flutter/pull/158757) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158757) over 47 minutes, 16 additions and 13 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [John McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; force Linux plugin_test to run on Ubuntu 20.04<br />
-  <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state<br />
-  <sub>[#158454](https://github.com/flutter/flutter/pull/158454) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158454) over 5 hours, 44 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try with `bringup: true` debugging why `flutter build apk` often times out.<br />
   <sub>[#158895](https://github.com/flutter/flutter/pull/158895) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158895) over 2 hours, 129 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
@@ -144,6 +132,18 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Temporarily skip flutter build apk for native_assets tests.<br />
   <sub>[#158880](https://github.com/flutter/flutter/pull/158880) merged on November 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158880) over 33 minutes, 4 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state<br />
+  <sub>[#158454](https://github.com/flutter/flutter/pull/158454) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158454) over 5 hours, 44 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stream the output of `flutter build` for debugging.<br />
+  <sub>[#158757](https://github.com/flutter/flutter/pull/158757) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158757) over 47 minutes, 16 additions and 13 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; force Linux plugin_test to run on Ubuntu 20.04<br />
+  <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adjusts the Hindi TimeOfDayFormat to display in a LTR orientation in localizations.<br />
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) merged on November 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157998) over 1 week, 39 additions and 2 deletions in 3 files</sub><br />
@@ -168,6 +168,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Replace custom `RPCErrorCodes` with `RPCErrorKind` from `package:vm_service`<br />
   <sub>[#158379](https://github.com/flutter/flutter/pull/158379) merged on November 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158379) over 2 days, 71 additions and 95 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_x64 hot_mode_dev_cycle_macos_target__benchmark to be flaky<br />
+  <sub>[#158569](https://github.com/flutter/flutter/pull/158569) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158569) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_arm64_ios hot_mode_dev_cycle_ios__benchmark to be flaky<br />
   <sub>[#158242](https://github.com/flutter/flutter/pull/158242) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158242) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
