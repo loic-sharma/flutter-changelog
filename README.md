@@ -1247,7 +1247,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-15 commits.
+16 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)<br />
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub><br />
@@ -1309,6 +1309,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tools] Run `pub get` before `format`<br />
   <sub>[#8052](https://github.com/flutter/packages/pull/8052) merged on November 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8052) over 1 hour, 90 additions and 18 deletions in 5 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 603104015dd6 to dec2ee5c1f98 (4 revisions)<br />
+  <sub>[#8084](https://github.com/flutter/packages/pull/8084) merged on November 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8084) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### November 2, 2024 to November 8, 2024
 
