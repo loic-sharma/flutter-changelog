@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-38 commits.
+39 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag<br />
   <sub>[#158016](https://github.com/flutter/flutter/pull/158016) merged on November 14, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) over 1 week, 224 additions and 436 deletions in 65 files</sub><br />
@@ -48,6 +48,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `SafeArea` DartPad sample<br />
   <sub>[#158019](https://github.com/flutter/flutter/pull/158019) merged on November 11, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/158019) over 1 week, 379 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [cedvdb](https://github.com/cedvdb), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Move platform-specific log-reading implementation details from `ResidentRunner`/`FlutterDevice` to `DeviceLogReader` implementations<br />
+  <sub>[#156181](https://github.com/flutter/flutter/pull/156181) merged on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/156181) over 1 month, 136 additions and 127 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #154792 - CupertinoActionSheetAction cursor doesn't change to clickable on desktop<br />
   <sub>[#158470](https://github.com/flutter/flutter/pull/158470) merged on November 13, 2024 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/158470) over 2 days, 46 additions and 1 deletion in 2 files</sub><br />
@@ -101,13 +105,13 @@
   <sub>[#158915](https://github.com/flutter/flutter/pull/158915) merged on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158915) over 40 minutes, 40 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
-* **[hgraceb](https://github.com/hgraceb)** &mdash; Fix update order of SliverAppBar<br />
-  <sub>[#158159](https://github.com/flutter/flutter/pull/158159) merged on November 14, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/158159) over 1 week, 68 additions and 16 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add test for `dynamic_content_color.0.dart`<br />
   <sub>[#158309](https://github.com/flutter/flutter/pull/158309) merged on November 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158309) over 5 days, 182 additions and 51 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[hgraceb](https://github.com/hgraceb)** &mdash; Fix update order of SliverAppBar<br />
+  <sub>[#158159](https://github.com/flutter/flutter/pull/158159) merged on November 14, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/158159) over 1 week, 68 additions and 16 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Allow `devDependencies` to be omitted and not cause a tool crash.<br />
   <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub><br />
