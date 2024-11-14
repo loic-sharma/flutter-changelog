@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-31 commits.
+32 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag
   <sub>[#158016](https://github.com/flutter/flutter/pull/158016) merged on November 14, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) over 1 week, 224 additions and 436 deletions in 65 files</sub>
@@ -132,6 +132,10 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_arm64_ios hot_mode_dev_cycle_ios__benchmark to be flaky
   <sub>[#158242](https://github.com/flutter/flutter/pull/158242) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158242) over 6 days, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add test for dynamic_content_color.0.dart
+  <sub>[#158547](https://github.com/flutter/flutter/pull/158547) merged on November 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158547) over 1 day, 220 additions and 53 deletions in 3 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
 
 ### November 2, 2024 to November 8, 2024
 
