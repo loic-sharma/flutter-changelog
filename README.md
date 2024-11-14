@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-37 commits.
+38 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move explicit package dependencies to a feature flag<br />
   <sub>[#158016](https://github.com/flutter/flutter/pull/158016) merged on November 14, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/158016) over 1 week, 224 additions and 436 deletions in 65 files</sub><br />
@@ -36,6 +36,10 @@
   <sub>[#155488](https://github.com/flutter/flutter/pull/155488) merged on November 11, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/155488) over 1 month, 104 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
+* **[Neutrino2711](https://github.com/Neutrino2711)** &mdash; Updated document to clarify Clip Behaviour<br />
+  <sub>[#157719](https://github.com/flutter/flutter/pull/157719) merged on November 14, 2024 &mdash; **Small:** [50 comments](https://github.com/flutter/flutter/pull/157719) over 2 weeks, 214 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
 * **[Alejandro Santiago](https://github.com/alestiago)** &mdash; docs: include Human Interface haptic information in HapticFeedback<br />
   <sub>[#158587](https://github.com/flutter/flutter/pull/158587) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158587) over 5 hours, 18 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
@@ -57,13 +61,13 @@
   <sub>[#158898](https://github.com/flutter/flutter/pull/158898) merged on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158898) over 16 hours, 44 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid using platform `ProcessInfo.maxRss` in test.<br />
-  <sub>[#158526](https://github.com/flutter/flutter/pull/158526) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158526) over 22 hours, 10 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Move the logic for SwiftPM enablement to the platform project<br />
   <sub>[#158213](https://github.com/flutter/flutter/pull/158213) merged on November 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/158213) over 1 week, 338 additions and 163 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid using platform `ProcessInfo.maxRss` in test.<br />
+  <sub>[#158526](https://github.com/flutter/flutter/pull/158526) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158526) over 22 hours, 10 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Add `dev_dependency` attribute to plugins in `.flutter-plugins-dependencies`<br />
   <sub>[#158009](https://github.com/flutter/flutter/pull/158009) merged on November 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158009) over 1 week, 153 additions and 4 deletions in 3 files</sub><br />
@@ -1251,7 +1255,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-16 commits.
+17 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)<br />
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub><br />
@@ -1301,6 +1305,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Fix Linux cancel regression<br />
   <sub>[#8051](https://github.com/flutter/packages/pull/8051) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8051) over 1 hour, 41 additions and 4 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Paul Berry](https://github.com/stereotype441)** &mdash; [google_identity_services_web] Set nonce properly in loadWebSdk().<br />
+  <sub>[#8069](https://github.com/flutter/packages/pull/8069) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8069) over 1 day, 136 additions and 8 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Improve Swift lint error message<br />
   <sub>[#8074](https://github.com/flutter/packages/pull/8074) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8074) over 3 hours, 43 additions and 3 deletions in 2 files</sub><br />
