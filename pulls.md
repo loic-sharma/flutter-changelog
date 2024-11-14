@@ -36,7 +36,7 @@
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; Allow namespaces when generating localization<br />
-  <sub>[#157696](https://github.com/flutter/flutter/pull/157696) opened on on October 27, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/157696) 564 additions and 382 deletions in 9 files</sub><br />
+  <sub>[#157696](https://github.com/flutter/flutter/pull/157696) opened on on October 27, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/157696) 564 additions and 382 deletions in 9 files</sub><br />
 
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
