@@ -59,3 +59,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flaky failure related to core_device_list.json not being found<br />
   <sub>[#158946](https://github.com/flutter/flutter/pull/158946) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158946) 18 additions and 2 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try running historically flaky tests first to make `flutter build apk` health tests time out more often?<br />
+  <sub>[#158967](https://github.com/flutter/flutter/pull/158967) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158967) 20 additions and 2 deletions in 2 files</sub><br />
+
