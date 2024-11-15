@@ -733,7 +733,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-33 commits.
+34 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Don't enable KHR_debug on Angle.<br />
   <sub>[#56601](https://github.com/flutter/engine/pull/56601) merged on November 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56601) over 1 hour, 4 additions and 1 deletion in 1 file</sub><br />
@@ -753,6 +753,10 @@
   <sub>[#56494](https://github.com/flutter/engine/pull/56494) merged on November 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56494) over 21 hours, 80 additions and 8 deletions in 6 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/a5541a51-bdf6-4a47-9638-610d9562df6f)![image](https://github.com/user-attachments/assets/9f3ad7e1-8193-405d-98c0-49141c8ab662)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable OpenGL fallback on Android.<br />
+  <sub>[#56591](https://github.com/flutter/engine/pull/56591) merged on November 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56591) over 20 hours, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Maintain separate queues of GLES operations for each thread in the reactor<br />
   <sub>[#56573](https://github.com/flutter/engine/pull/56573) merged on November 15, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/56573) over 1 day, 63 additions and 24 deletions in 14 files</sub><br />
@@ -774,13 +778,13 @@
   <sub>[#56495](https://github.com/flutter/engine/pull/56495) merged on November 11, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/56495) over 18 hours, 171 additions and 317 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] choose 24 bit depth buffer.<br />
-  <sub>[#56553](https://github.com/flutter/engine/pull/56553) merged on November 14, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56553) over 20 hours, 4 additions and 1 deletion in 3 files</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `android_jit_release_x86`.<br />
   <sub>[#56548](https://github.com/flutter/engine/pull/56548) merged on November 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56548) over 1 day, 0 additions and 101 deletions in 3 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] choose 24 bit depth buffer.<br />
+  <sub>[#56553](https://github.com/flutter/engine/pull/56553) merged on November 14, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56553) over 20 hours, 4 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move FlMouseCursorHandler from FlView to FlEngine<br />
   <sub>[#56026](https://github.com/flutter/engine/pull/56026) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56026) over 3 weeks, 124 additions and 26 deletions in 7 files</sub><br />
@@ -818,8 +822,8 @@
   <sub>[#56571](https://github.com/flutter/engine/pull/56571) merged on November 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56571) over 14 hours, 4 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Embedder: Refactor EmbedderTestContext creation<br />
-  <sub>[#56563](https://github.com/flutter/engine/pull/56563) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56563) over 9 hours, 94 additions and 37 deletions in 6 files</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont unnecessarily copy point data out of display list.<br />
+  <sub>[#56492](https://github.com/flutter/engine/pull/56492) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56492) over 1 day, 49 additions and 48 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] force semantics action to post a task.<br />
@@ -854,8 +858,8 @@
   <sub>[#56510](https://github.com/flutter/engine/pull/56510) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56510) over 1 hour, 20 additions and 25 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont unnecessarily copy point data out of display list.<br />
-  <sub>[#56492](https://github.com/flutter/engine/pull/56492) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56492) over 1 day, 49 additions and 48 deletions in 8 files</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Embedder: Refactor EmbedderTestContext creation<br />
+  <sub>[#56563](https://github.com/flutter/engine/pull/56563) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56563) over 9 hours, 94 additions and 37 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Fix Slider semantics double tap behaviors<br />
