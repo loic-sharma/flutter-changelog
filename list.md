@@ -717,7 +717,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-31 commits.
+32 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Don't enable KHR_debug on Angle.
   <sub>[#56601](https://github.com/flutter/engine/pull/56601) merged on November 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56601) over 1 hour, 4 additions and 1 deletion in 1 file</sub>
@@ -765,6 +765,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move FlMouseCursorHandler from FlView to FlEngine
   <sub>[#56026](https://github.com/flutter/engine/pull/56026) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56026) over 3 weeks, 124 additions and 26 deletions in 7 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Move TestMetalContext/Surface to testing namespace
+  <sub>[#56602](https://github.com/flutter/engine/pull/56602) merged on November 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56602) over 2 hours, 89 additions and 162 deletions in 41 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Reset the GL state when transitioning control back to the embedder.
   <sub>[#56597](https://github.com/flutter/engine/pull/56597) merged on November 15, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56597) over 1 hour, 92 additions and 15 deletions in 8 files</sub>
