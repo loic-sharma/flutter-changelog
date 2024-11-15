@@ -62,3 +62,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Fix duplicate work in native assets release builds<br />
   <sub>[#158980](https://github.com/flutter/flutter/pull/158980) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158980) 207 additions and 87 deletions in 8 files</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Fix code asset copying logic in native asset code<br />
+  <sub>[#158984](https://github.com/flutter/flutter/pull/158984) opened on on November 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158984) 220 additions and 181 deletions in 5 files</sub><br />
+
