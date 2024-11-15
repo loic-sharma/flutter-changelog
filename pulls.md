@@ -44,9 +44,6 @@
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade to package:intl v.0.20.0<br />
   <sub>[#158555](https://github.com/flutter/flutter/pull/158555) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158555) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Don't throw StateError when DDS fails to start<br />
-  <sub>[#158744](https://github.com/flutter/flutter/pull/158744) opened on on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158744) 0 additions and 70 deletions in 2 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Make GlobalKey a `mixin class`<br />
   <sub>[#158877](https://github.com/flutter/flutter/pull/158877) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158877) 22 additions and 2 deletions in 2 files</sub><br />
 
@@ -57,8 +54,8 @@
   <sub>[#158907](https://github.com/flutter/flutter/pull/158907) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158907) 2 additions and 3 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flaky failure related to core_device_list.json not being found<br />
-  <sub>[#158946](https://github.com/flutter/flutter/pull/158946) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158946) 18 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#158946](https://github.com/flutter/flutter/pull/158946) opened on on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158946) 18 additions and 2 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try running historically flaky tests first to make `flutter build apk` health tests time out more often?<br />
-  <sub>[#158967](https://github.com/flutter/flutter/pull/158967) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158967) 20 additions and 2 deletions in 2 files</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Label PRs with gradle and Android paths "platform-android"<br />
+  <sub>[#158970](https://github.com/flutter/flutter/pull/158970) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158970) 2 additions and 0 deletions in 1 file</sub><br />
 
