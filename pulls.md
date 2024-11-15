@@ -60,5 +60,5 @@
   <sub>[#158970](https://github.com/flutter/flutter/pull/158970) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158970) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Fix duplicate work in native assets release builds<br />
-  <sub>[#158980](https://github.com/flutter/flutter/pull/158980) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158980) 79 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#158980](https://github.com/flutter/flutter/pull/158980) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158980) 207 additions and 87 deletions in 8 files</sub><br />
 
