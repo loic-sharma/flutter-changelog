@@ -56,6 +56,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flaky failure related to core_device_list.json not being found<br />
   <sub>[#158946](https://github.com/flutter/flutter/pull/158946) opened on on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158946) 18 additions and 2 deletions in 2 files</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Fix code asset copying logic in native asset code<br />
-  <sub>[#158984](https://github.com/flutter/flutter/pull/158984) opened on on November 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158984) 217 additions and 182 deletions in 5 files</sub><br />
-

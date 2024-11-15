@@ -4,7 +4,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-49 commits.
+51 commits.
 
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] When localizing a message, prefer placeholder definitions defined by the current locale rather than the template locale
   <sub>[#153459](https://github.com/flutter/flutter/pull/153459) merged on November 14, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/153459) over 3 months, 453 additions and 43 deletions in 4 files</sub>
@@ -93,6 +93,10 @@
   <sub>[#158481](https://github.com/flutter/flutter/pull/158481) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158481) over 19 hours, 31 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Label PRs with gradle and Android paths "platform-android"
+  <sub>[#158970](https://github.com/flutter/flutter/pull/158970) merged on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158970) over 14 hours, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Create merge_queue.md
   <sub>[#158959](https://github.com/flutter/flutter/pull/158959) merged on November 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158959) over 1 hour, 34 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
@@ -133,37 +137,41 @@
   <sub>[#158518](https://github.com/flutter/flutter/pull/158518) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158518) over 7 hours, 51 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Fix code asset copying logic in native asset code
+  <sub>[#158984](https://github.com/flutter/flutter/pull/158984) merged on November 15, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/158984) over 1 hour, 217 additions and 182 deletions in 5 files</sub>
+  <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix Chip draws `InkWell.hoverColor` is drawn on top of the provided background color with `hovered` state
   <sub>[#158454](https://github.com/flutter/flutter/pull/158454) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158454) over 5 hours, 44 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
-
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Fix duplicate work in native assets release builds
-  <sub>[#158980](https://github.com/flutter/flutter/pull/158980) merged on November 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158980) over 2 hours, 207 additions and 87 deletions in 8 files</sub>
-  <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Temporarily skip flutter build apk for native_assets tests.
-  <sub>[#158880](https://github.com/flutter/flutter/pull/158880) merged on November 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158880) over 33 minutes, 4 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Further skip `native_assets_test`(s) that runs `flutter build apk`.
-  <sub>[#158966](https://github.com/flutter/flutter/pull/158966) merged on November 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158966) over 1 hour, 5 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Ben Konyi](https://github.com/bkonyi)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try running historically flaky tests first to make `flutter build apk` health tests time out more often?
-  <sub>[#158967](https://github.com/flutter/flutter/pull/158967) merged on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158967) over 45 minutes, 20 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; force Linux plugin_test to run on Ubuntu 20.04
   <sub>[#158529](https://github.com/flutter/flutter/pull/158529) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158529) over 38 minutes, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stream the output of `flutter build` for debugging.
+  <sub>[#158757](https://github.com/flutter/flutter/pull/158757) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158757) over 47 minutes, 16 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Fix duplicate work in native assets release builds
+  <sub>[#158980](https://github.com/flutter/flutter/pull/158980) merged on November 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158980) over 2 hours, 207 additions and 87 deletions in 8 files</sub>
+  <sub>Reviewed by: [Slava Egorov](https://github.com/mraleph)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Further skip `native_assets_test`(s) that runs `flutter build apk`.
+  <sub>[#158966](https://github.com/flutter/flutter/pull/158966) merged on November 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158966) over 1 hour, 5 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Ben Konyi](https://github.com/bkonyi)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try with `bringup: true` debugging why `flutter build apk` often times out.
   <sub>[#158895](https://github.com/flutter/flutter/pull/158895) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158895) over 2 hours, 129 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stream the output of `flutter build` for debugging.
-  <sub>[#158757](https://github.com/flutter/flutter/pull/158757) merged on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158757) over 47 minutes, 16 additions and 13 deletions in 1 file</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [John McDole](https://github.com/jtmcdole)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try running historically flaky tests first to make `flutter build apk` health tests time out more often?
+  <sub>[#158967](https://github.com/flutter/flutter/pull/158967) merged on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158967) over 45 minutes, 20 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Temporarily skip flutter build apk for native_assets tests.
+  <sub>[#158880](https://github.com/flutter/flutter/pull/158880) merged on November 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158880) over 33 minutes, 4 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adjusts the Hindi TimeOfDayFormat to display in a LTR orientation in localizations.
   <sub>[#157998](https://github.com/flutter/flutter/pull/157998) merged on November 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/157998) over 1 week, 39 additions and 2 deletions in 3 files</sub>
