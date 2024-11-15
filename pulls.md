@@ -56,3 +56,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flaky failure related to core_device_list.json not being found<br />
   <sub>[#158946](https://github.com/flutter/flutter/pull/158946) opened on on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158946) 18 additions and 2 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Define and use `flutterBin` consistently across `integration.shard`.<br />
+  <sub>[#159007](https://github.com/flutter/flutter/pull/159007) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159007) 8 additions and 172 deletions in 42 files</sub><br />
+
