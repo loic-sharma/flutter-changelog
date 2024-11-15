@@ -60,5 +60,5 @@
   <sub>[#158970](https://github.com/flutter/flutter/pull/158970) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158970) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Fix code asset copying logic in native asset code<br />
-  <sub>[#158984](https://github.com/flutter/flutter/pull/158984) opened on on November 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158984) 220 additions and 181 deletions in 5 files</sub><br />
+  <sub>[#158984](https://github.com/flutter/flutter/pull/158984) opened on on November 15, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/158984) 217 additions and 182 deletions in 5 files</sub><br />
 
