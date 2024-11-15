@@ -6,7 +6,7 @@
   <sub>[#153304](https://github.com/flutter/flutter/pull/153304) opened on on August 12, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/153304) 534 additions and 765 deletions in 6 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks<br />
-  <sub>[#153368](https://github.com/flutter/flutter/pull/153368) opened on on August 13, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/153368) 183 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#153368](https://github.com/flutter/flutter/pull/153368) opened on on August 13, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/153368) 174 additions and 0 deletions in 2 files</sub><br />
 
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Restore analyze_snippet_code_test tests.<br />
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 13 deletions in 1 file</sub><br />
