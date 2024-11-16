@@ -60,7 +60,7 @@
   <sub>[#159007](https://github.com/flutter/flutter/pull/159007) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159007) 11 additions and 176 deletions in 46 files</sub><br />
 
 * **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationBar example overflow alignment<br />
-  <sub>[#159034](https://github.com/flutter/flutter/pull/159034) opened on on November 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159034) 14 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#159034](https://github.com/flutter/flutter/pull/159034) opened on on November 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159034) 14 additions and 1 deletion in 2 files</sub><br />
 
 * **[userFortyTwo](https://github.com/userFortyTwo)** &mdash; Fix typo in gen_l10n_types.dart<br />
   <sub>[#159035](https://github.com/flutter/flutter/pull/159035) opened on on November 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159035) 1 addition and 1 deletion in 1 file</sub><br />
