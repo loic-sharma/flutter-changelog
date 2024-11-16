@@ -59,6 +59,3 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Define and use `flutterBin` consistently across `integration.shard`.<br />
   <sub>[#159007](https://github.com/flutter/flutter/pull/159007) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159007) 11 additions and 176 deletions in 46 files</sub><br />
 
-* **[JayeshPatil18](https://github.com/JayeshPatil18)** &mdash; Main dev<br />
-  <sub>[#159031](https://github.com/flutter/flutter/pull/159031) opened on on November 16, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/159031) 1355 additions and 1265 deletions in 184 files</sub><br />
-
