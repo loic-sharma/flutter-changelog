@@ -1408,7 +1408,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-21 commits.
+22 commits.
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)<br />
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub><br />
@@ -1446,6 +1446,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] Fixes manual invocation of `finishTransaction()` triggering fatal crash<br />
   <sub>[#8071](https://github.com/flutter/packages/pull/8071) merged on November 13, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8071) over 23 hours, 62 additions and 9 deletions in 4 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [google_identity_services_web] Migrate all types to JSObject<br />
+  <sub>[#8053](https://github.com/flutter/packages/pull/8053) merged on November 16, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8053) over 4 days, 50 additions and 117 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [google_maps_flutter] Fix detection of WebAssembly compatibility<br />
   <sub>[#8102](https://github.com/flutter/packages/pull/8102) merged on November 15, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8102) over 16 hours, 4 additions and 5 deletions in 4 files</sub><br />
