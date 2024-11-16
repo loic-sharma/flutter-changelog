@@ -59,3 +59,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Define and use `flutterBin` consistently across `integration.shard`.<br />
   <sub>[#159007](https://github.com/flutter/flutter/pull/159007) opened on on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159007) 11 additions and 176 deletions in 46 files</sub><br />
 
+* **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationBar example overflow alignment<br />
+  <sub>[#159034](https://github.com/flutter/flutter/pull/159034) opened on on November 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159034) 14 additions and 1 deletion in 2 files</sub><br />
+
