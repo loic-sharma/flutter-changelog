@@ -753,7 +753,7 @@
 
 ### November 9, 2024 to November 15, 2024
 
-42 commits.
+43 commits.
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub>
@@ -806,20 +806,20 @@
   <sub>[#56443](https://github.com/flutter/engine/pull/56443) merged on November 12, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/56443) over 4 days, 866 additions and 140 deletions in 6 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] choose 24 bit depth buffer.
-  <sub>[#56553](https://github.com/flutter/engine/pull/56553) merged on November 14, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56553) over 20 hours, 4 additions and 1 deletion in 3 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added assert for opengles thread safety
   <sub>[#56585](https://github.com/flutter/engine/pull/56585) merged on November 15, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/56585) over 23 hours, 24 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] choose 24 bit depth buffer.
+  <sub>[#56553](https://github.com/flutter/engine/pull/56553) merged on November 14, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56553) over 20 hours, 4 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move FlMouseCursorHandler from FlView to FlEngine
   <sub>[#56026](https://github.com/flutter/engine/pull/56026) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56026) over 3 weeks, 124 additions and 26 deletions in 7 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Reset the GL state when transitioning control back to the embedder.
-  <sub>[#56597](https://github.com/flutter/engine/pull/56597) merged on November 15, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56597) over 1 hour, 92 additions and 15 deletions in 8 files</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add a warning about OpenGL state being trampled.
+  <sub>[#56599](https://github.com/flutter/engine/pull/56599) merged on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56599) over 41 minutes, 8 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Embedder: Refactor EmbedderConfigBuilder by backend
@@ -842,69 +842,65 @@
   <sub>[#56563](https://github.com/flutter/engine/pull/56563) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56563) over 9 hours, 94 additions and 37 deletions in 6 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add OpenGL debugging utilities.
+  <sub>[#56515](https://github.com/flutter/engine/pull/56515) merged on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56515) over 5 hours, 53 additions and 11 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Tinker on the README to cross reference the SDK and the example.
   <sub>[#56623](https://github.com/flutter/engine/pull/56623) merged on November 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56623) over 41 minutes, 15 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Move TestMetalContext/Surface to testing namespace
+  <sub>[#56602](https://github.com/flutter/engine/pull/56602) merged on November 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56602) over 2 hours, 89 additions and 162 deletions in 41 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move mac clangd build from x64 to arm
+  <sub>[#56567](https://github.com/flutter/engine/pull/56567) merged on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56567) over 1 day, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Reset the GL state when transitioning control back to the embedder.
+  <sub>[#56597](https://github.com/flutter/engine/pull/56597) merged on November 15, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56597) over 1 hour, 92 additions and 15 deletions in 8 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Move SetRenderTargetType to EmbedderTestCompositor
   <sub>[#56626](https://github.com/flutter/engine/pull/56626) merged on November 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56626) over 3 hours, 115 additions and 37 deletions in 13 files</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Refactor TestMetalContext for ARC
-  <sub>[#56510](https://github.com/flutter/engine/pull/56510) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56510) over 1 hour, 20 additions and 25 deletions in 2 files</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont unnecessarily copy point data out of display list.
-  <sub>[#56492](https://github.com/flutter/engine/pull/56492) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56492) over 1 day, 49 additions and 48 deletions in 8 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Put test components in the testing namespace.
   <sub>[#56594](https://github.com/flutter/engine/pull/56594) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56594) over 1 hour, 8 additions and 8 deletions in 4 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add a warning about OpenGL state being trampled.
-  <sub>[#56599](https://github.com/flutter/engine/pull/56599) merged on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56599) over 41 minutes, 8 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Add OpenGL debugging utilities.
-  <sub>[#56515](https://github.com/flutter/engine/pull/56515) merged on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56515) over 5 hours, 53 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wrap provided FBO instead of defaulting to FBO0 and cleanup/document the texture API.
   <sub>[#56543](https://github.com/flutter/engine/pull/56543) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56543) over 4 hours, 163 additions and 64 deletions in 10 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Linux] Configure depth and stencil framebuffer attachments needed for Impeller
-  <sub>[#56516](https://github.com/flutter/engine/pull/56516) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56516) over 22 hours, 100 additions and 0 deletions in 5 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Robert Ancell](https://github.com/robert-ancell)</sub>
-
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; macOS: ARC bridge casts for FlutterMetalTexture.user_data
   <sub>[#56518](https://github.com/flutter/engine/pull/56518) merged on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56518) over 21 hours, 14 additions and 14 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Move TestMetalContext/Surface to testing namespace
-  <sub>[#56602](https://github.com/flutter/engine/pull/56602) merged on November 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56602) over 2 hours, 89 additions and 162 deletions in 41 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Refactor TestMetalContext for ARC
+  <sub>[#56510](https://github.com/flutter/engine/pull/56510) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56510) over 1 hour, 20 additions and 25 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] prevent no-op backend from throwing exceptions during image  decoding
   <sub>[#56522](https://github.com/flutter/engine/pull/56522) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56522) over 18 hours, 18 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Move mac clangd build from x64 to arm
-  <sub>[#56567](https://github.com/flutter/engine/pull/56567) merged on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56567) over 1 day, 2 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] In canvas_unittests, only create an MSAA offscreen texture if the platform supports MSAA
-  <sub>[#56542](https://github.com/flutter/engine/pull/56542) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56542) over 1 hour, 15 additions and 12 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont unnecessarily copy point data out of display list.
+  <sub>[#56492](https://github.com/flutter/engine/pull/56492) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56492) over 1 day, 49 additions and 48 deletions in 8 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] force semantics action to post a task.
   <sub>[#56514](https://github.com/flutter/engine/pull/56514) merged on November 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56514) over 1 day, 62 additions and 2 deletions in 5 files</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Fix Slider semantics double tap behaviors
-  <sub>[#56452](https://github.com/flutter/engine/pull/56452) merged on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56452) over 6 days, 24 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] In canvas_unittests, only create an MSAA offscreen texture if the platform supports MSAA
+  <sub>[#56542](https://github.com/flutter/engine/pull/56542) merged on November 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56542) over 1 hour, 15 additions and 12 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Linux] Configure depth and stencil framebuffer attachments needed for Impeller
+  <sub>[#56516](https://github.com/flutter/engine/pull/56516) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56516) over 22 hours, 100 additions and 0 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Robert Ancell](https://github.com/robert-ancell)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; [iOS] Fix slider semantics node answer to accessibility activate
   <sub>[#56427](https://github.com/flutter/engine/pull/56427) merged on November 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56427) over 4 days, 21 additions and 0 deletions in 2 files</sub>
@@ -922,9 +918,17 @@
   <sub>[#56429](https://github.com/flutter/engine/pull/56429) merged on November 15, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56429) over 1 week, 10 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [Emircan Uysaler](https://github.com/uysalere), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; [Android] Fix Slider semantics double tap behaviors
+  <sub>[#56452](https://github.com/flutter/engine/pull/56452) merged on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56452) over 6 days, 24 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Bump Firefox version to 132.0
   <sub>[#56435](https://github.com/flutter/engine/pull/56435) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56435) over 3 days, 6 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Remove `android_jit_release_x86`."
+  <sub>[#56634](https://github.com/flutter/engine/pull/56634) merged on November 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56634) over 1 hour, 101 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 ### November 2, 2024 to November 8, 2024
 
