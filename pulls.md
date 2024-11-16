@@ -65,3 +65,6 @@
 * **[userFortyTwo](https://github.com/userFortyTwo)** &mdash; Fix typo in gen_l10n_types.dart<br />
   <sub>[#159035](https://github.com/flutter/flutter/pull/159035) opened on on November 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159035) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Dominik Toton](https://github.com/dtscalac)** &mdash; Fix `--web-header` flag for `flutter drive`<br />
+  <sub>[#159039](https://github.com/flutter/flutter/pull/159039) opened on on November 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159039) 2 additions and 0 deletions in 1 file</sub><br />
+
