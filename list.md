@@ -1716,11 +1716,15 @@
 
 ### November 9, 2024 to November 15, 2024
 
-10 commits.
+11 commits.
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Flutter web app initialization" page
   <sub>[#11369](https://github.com/flutter/website/pull/11369) merged on November 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11369) over 5 days, 8 additions and 308 deletions in 5 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Add Flutter Animations Studio to Redux samples
+  <sub>[#11389](https://github.com/flutter/website/pull/11389) merged on November 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11389) over 4 days, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Set up web development for Flutter" page
   <sub>[#11362](https://github.com/flutter/website/pull/11362) merged on November 12, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11362) over 6 days, 21 additions and 164 deletions in 11 files</sub>
