@@ -68,3 +68,6 @@
 * **[Dominik Toton](https://github.com/dtscalac)** &mdash; Fix `--web-header` flag for `flutter drive`<br />
   <sub>[#159039](https://github.com/flutter/flutter/pull/159039) opened on on November 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159039) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Add `minTileHeight` to ListTileTheme<br />
+  <sub>[#159053](https://github.com/flutter/flutter/pull/159053) opened on on November 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159053) 11 additions and 0 deletions in 1 file</sub><br />
+
