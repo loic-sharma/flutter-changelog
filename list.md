@@ -521,9 +521,18 @@
 
 ## flutter/engine
 
+### November 16, 2024 to November 22, 2024
+
+1 commits.
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up @synthesize directives / ivars
+  <sub>[#56665](https://github.com/flutter/engine/pull/56665) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56665) over 2 hours, 36 additions and 32 deletions in 12 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 ### November 9, 2024 to November 15, 2024
 
-52 commits.
+<details>
+<summary>52 commits...</summary>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub>
@@ -735,6 +744,8 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Revert "Remove `android_jit_release_x86`."
   <sub>[#56634](https://github.com/flutter/engine/pull/56634) merged on November 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56634) over 1 hour, 101 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+</details>
 
 ### November 2, 2024 to November 8, 2024
 
