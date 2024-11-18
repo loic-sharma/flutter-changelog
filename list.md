@@ -4,7 +4,12 @@
 
 ### November 16, 2024 to November 22, 2024
 
-4 commits.
+5 commits.
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides
+  <sub>[#157313](https://github.com/flutter/flutter/pull/157313) merged on November 18, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/157313) over 3 weeks, 223 additions and 5 deletions in 26 files</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc), [Matan Lurey](https://github.com/matanlurey)</sub>
+  <sub><details><summary>1 image...</summary>![navigator dispose](https://github.com/user-attachments/assets/5d2dc37c-abe9-44f4-ad16-4396a3aeeaf7)</details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flaky failure related to core_device_list.json not being found
   <sub>[#158946](https://github.com/flutter/flutter/pull/158946) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158946) over 3 days, 75 additions and 2 deletions in 3 files</sub>
