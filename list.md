@@ -593,6 +593,10 @@
   <sub>[#56443](https://github.com/flutter/engine/pull/56443) merged on November 12, 2024 &mdash; **Large:** [5 comments](https://github.com/flutter/engine/pull/56443) over 4 days, 866 additions and 140 deletions in 6 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate unnecessary bridged retain casts
+  <sub>[#56662](https://github.com/flutter/engine/pull/56662) merged on November 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56662) over 5 hours, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added assert for opengles thread safety
   <sub>[#56585](https://github.com/flutter/engine/pull/56585) merged on November 15, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/56585) over 23 hours, 24 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -604,10 +608,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move FlMouseCursorHandler from FlView to FlEngine
   <sub>[#56026](https://github.com/flutter/engine/pull/56026) merged on November 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56026) over 3 weeks, 124 additions and 26 deletions in 7 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Chris Bracken](https://github.com/cbracken)</sub>
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate FlutterEngine dealloc notification
-  <sub>[#56650](https://github.com/flutter/engine/pull/56650) merged on November 17, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/56650) over 5 hours, 15 additions and 42 deletions in 6 files</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Tinker on the README to cross reference the SDK and the example.
   <sub>[#56623](https://github.com/flutter/engine/pull/56623) merged on November 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56623) over 41 minutes, 15 additions and 0 deletions in 2 files</sub>
@@ -629,8 +629,8 @@
   <sub>[#56563](https://github.com/flutter/engine/pull/56563) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56563) over 9 hours, 94 additions and 37 deletions in 6 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate unnecessary use of NSClassFromString
-  <sub>[#56660](https://github.com/flutter/engine/pull/56660) merged on November 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56660) over 6 hours, 51 additions and 53 deletions in 6 files</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Extract constant for CADisableMinimumFrameDurationOnPhone
+  <sub>[#56659](https://github.com/flutter/engine/pull/56659) merged on November 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56659) over 7 hours, 22 additions and 9 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] force semantics action to post a task.
@@ -653,25 +653,25 @@
   <sub>[#56571](https://github.com/flutter/engine/pull/56571) merged on November 14, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56571) over 14 hours, 4 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Fix string constant declarations
-  <sub>[#56661](https://github.com/flutter/engine/pull/56661) merged on November 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56661) over 6 hours, 7 additions and 4 deletions in 3 files</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate unnecessary use of NSClassFromString
+  <sub>[#56660](https://github.com/flutter/engine/pull/56660) merged on November 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56660) over 6 hours, 51 additions and 53 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Refactor TestMetalContext for ARC
   <sub>[#56510](https://github.com/flutter/engine/pull/56510) merged on November 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56510) over 1 hour, 20 additions and 25 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up uses of string literal constants
-  <sub>[#56658](https://github.com/flutter/engine/pull/56658) merged on November 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56658) over 6 hours, 7 additions and 5 deletions in 3 files</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Fix string constant declarations
+  <sub>[#56661](https://github.com/flutter/engine/pull/56661) merged on November 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56661) over 6 hours, 7 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont unnecessarily copy point data out of display list.
   <sub>[#56492](https://github.com/flutter/engine/pull/56492) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56492) over 1 day, 49 additions and 48 deletions in 8 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Move SetRenderTargetType to EmbedderTestCompositor
-  <sub>[#56626](https://github.com/flutter/engine/pull/56626) merged on November 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56626) over 3 hours, 115 additions and 37 deletions in 13 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Make FlutterViewController.engine a strong ref
+  <sub>[#56663](https://github.com/flutter/engine/pull/56663) merged on November 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56663) over 4 hours, 1 addition and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add a warning about OpenGL state being trampled.
   <sub>[#56599](https://github.com/flutter/engine/pull/56599) merged on November 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56599) over 41 minutes, 8 additions and 0 deletions in 1 file</sub>
@@ -689,8 +689,8 @@
   <sub>[#56592](https://github.com/flutter/engine/pull/56592) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56592) over 47 minutes, 53 additions and 83 deletions in 8 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate unnecessary bridged retain casts
-  <sub>[#56662](https://github.com/flutter/engine/pull/56662) merged on November 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56662) over 5 hours, 3 additions and 3 deletions in 1 file</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up uses of string literal constants
+  <sub>[#56658](https://github.com/flutter/engine/pull/56658) merged on November 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56658) over 6 hours, 7 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Wrap provided FBO instead of defaulting to FBO0 and cleanup/document the texture API.
@@ -705,16 +705,16 @@
   <sub>[#56518](https://github.com/flutter/engine/pull/56518) merged on November 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56518) over 21 hours, 14 additions and 14 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Extract constant for CADisableMinimumFrameDurationOnPhone
-  <sub>[#56659](https://github.com/flutter/engine/pull/56659) merged on November 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56659) over 7 hours, 22 additions and 9 deletions in 4 files</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Move SetRenderTargetType to EmbedderTestCompositor
+  <sub>[#56626](https://github.com/flutter/engine/pull/56626) merged on November 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56626) over 3 hours, 115 additions and 37 deletions in 13 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Put test components in the testing namespace.
   <sub>[#56594](https://github.com/flutter/engine/pull/56594) merged on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56594) over 1 hour, 8 additions and 8 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Make FlutterViewController.engine a strong ref
-  <sub>[#56663](https://github.com/flutter/engine/pull/56663) merged on November 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56663) over 4 hours, 1 addition and 6 deletions in 2 files</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate FlutterEngine dealloc notification
+  <sub>[#56650](https://github.com/flutter/engine/pull/56650) merged on November 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56650) over 5 hours, 15 additions and 42 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[André Stein](https://github.com/stonemaster)** &mdash; [TextInput] Add TextInputType.webSearch (#15762)
@@ -1011,9 +1011,18 @@
 
 ## flutter/packages
 
+### November 16, 2024 to November 22, 2024
+
+1 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add autosubmit label to dependabot PRs
+  <sub>[#8101](https://github.com/flutter/packages/pull/8101) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8101) over 3 days, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
 ### November 9, 2024 to November 15, 2024
 
-22 commits.
+<details>
+<summary>22 commits...</summary>
 
 * **[Tobias Löfstrand](https://github.com/tolo)** &mdash; [go_router] Add support for preloading branches of StatefulShellRoute (revised solution)
   <sub>[#6467](https://github.com/flutter/packages/pull/6467) merged on November 12, 2024 &mdash; **Large:** [44 comments](https://github.com/flutter/packages/pull/6467) over 7 months, 566 additions and 67 deletions in 9 files</sub>
@@ -1103,6 +1112,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 603104015dd6 to dec2ee5c1f98 (4 revisions)
   <sub>[#8084](https://github.com/flutter/packages/pull/8084) merged on November 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8084) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+</details>
 
 ### November 2, 2024 to November 8, 2024
 
