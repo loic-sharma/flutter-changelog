@@ -551,7 +551,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-12 commits.
+13 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub>
@@ -564,6 +564,10 @@
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Flutter views can gain focus
   <sub>[#54985](https://github.com/flutter/engine/pull/54985) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54985) over 2 months, 33 additions and 49 deletions in 2 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update emulator definitions version to latest available from chrome infra
+  <sub>[#56313](https://github.com/flutter/engine/pull/56313) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/56313) over 2 weeks, 12 additions and 12 deletions in 5 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub>
