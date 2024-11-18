@@ -546,11 +546,15 @@
 
 ### November 16, 2024 to November 22, 2024
 
-5 commits.
+6 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Flutter views can gain focus
+  <sub>[#54985](https://github.com/flutter/engine/pull/54985) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54985) over 2 months, 33 additions and 49 deletions in 2 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub>
@@ -1274,7 +1278,19 @@
 
 ### November 16, 2024 to November 22, 2024
 
-1 commits.
+4 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how `explicit-package-dependencies` is provided.
+  <sub>[#11398](https://github.com/flutter/website/pull/11398) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11398) over 3 days, 4 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update latest versions
+  <sub>[#11401](https://github.com/flutter/website/pull/11401) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11401) over 1 day, 6 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix broken API doc link on state management fundamentals page
+  <sub>[#11402](https://github.com/flutter/website/pull/11402) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11402) over 1 day, 7 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog
   <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub>
