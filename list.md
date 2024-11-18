@@ -551,7 +551,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-9 commits.
+10 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub>
@@ -568,6 +568,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Extract TestGLContext to separate translation unit
+  <sub>[#56647](https://github.com/flutter/engine/pull/56647) merged on November 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56647) over 2 days, 259 additions and 196 deletions in 10 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Skia build scripts for a refactoring of the Fontconfig font manager
   <sub>[#56684](https://github.com/flutter/engine/pull/56684) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56684) over 1 hour, 9 additions and 1 deletion in 1 file</sub>
