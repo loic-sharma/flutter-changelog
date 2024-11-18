@@ -1272,9 +1272,18 @@
 
 ## flutter/website
 
+### November 16, 2024 to November 22, 2024
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog
+  <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### November 9, 2024 to November 15, 2024
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Flutter web app initialization" page
   <sub>[#11369](https://github.com/flutter/website/pull/11369) merged on November 12, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11369) over 5 days, 8 additions and 308 deletions in 5 files</sub>
@@ -1319,6 +1328,8 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Update supported Firefox version
   <sub>[#11375](https://github.com/flutter/website/pull/11375) merged on November 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11375) over 2 days, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### November 2, 2024 to November 8, 2024
 
