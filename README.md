@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-5 commits.
+6 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides<br />
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) merged on November 18, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/157313) over 3 weeks, 223 additions and 5 deletions in 26 files</sub><br />
@@ -18,6 +18,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Prettier merge_queue.md<br />
   <sub>[#158969](https://github.com/flutter/flutter/pull/158969) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158969) over 3 days, 34 additions and 12 deletions in 1 file</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a tag and assert some state in FlutterTestDriver tests.<br />
+  <sub>[#159099](https://github.com/flutter/flutter/pull/159099) merged on November 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159099) over 2 hours, 104 additions and 4 deletions in 25 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Define and use `flutterBin` consistently across `integration.shard`.<br />
   <sub>[#159007](https://github.com/flutter/flutter/pull/159007) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159007) over 2 days, 11 additions and 176 deletions in 46 files</sub><br />
@@ -1085,11 +1089,15 @@
 
 ### November 16, 2024 to November 22, 2024
 
-2 commits.
+3 commits.
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for Most Remaining Plugin Example Apps (Part 3)<br />
   <sub>[#8037](https://github.com/flutter/packages/pull/8037) merged on November 18, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/packages/pull/8037) over 1 week, 719 additions and 1070 deletions in 88 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Jenn Magder](https://github.com/jmagman), [Tarrin Neal](https://github.com/tarrinneal), [chunhtai](https://github.com/chunhtai), [Gray Mackall](https://github.com/gmackall), and [2 others](https://github.com/flutter/packages/pull/8037)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Take screenshot when native drive test is taking longer than 10 minutes<br />
+  <sub>[#8050](https://github.com/flutter/packages/pull/8050) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8050) over 1 week, 124 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add autosubmit label to dependabot PRs<br />
   <sub>[#8101](https://github.com/flutter/packages/pull/8101) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8101) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
