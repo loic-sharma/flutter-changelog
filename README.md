@@ -4,7 +4,11 @@
 
 ### November 16, 2024 to November 22, 2024
 
-3 commits.
+4 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flaky failure related to core_device_list.json not being found<br />
+  <sub>[#158946](https://github.com/flutter/flutter/pull/158946) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158946) over 3 days, 75 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Prettier merge_queue.md<br />
   <sub>[#158969](https://github.com/flutter/flutter/pull/158969) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158969) over 3 days, 34 additions and 12 deletions in 1 file</sub><br />
