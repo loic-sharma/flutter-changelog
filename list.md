@@ -546,7 +546,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-6 commits.
+7 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub>
@@ -559,6 +559,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land "Remove `android_jit_release_x86`."
+  <sub>[#56681](https://github.com/flutter/engine/pull/56681) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56681) over 2 hours, 0 additions and 101 deletions in 3 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Extract backend-specific user_data
   <sub>[#56642](https://github.com/flutter/engine/pull/56642) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56642) over 2 days, 148 additions and 76 deletions in 15 files</sub>
