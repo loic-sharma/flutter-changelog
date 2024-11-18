@@ -4,7 +4,11 @@
 
 ### November 16, 2024 to November 22, 2024
 
-1 commits.
+2 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Define and use `flutterBin` consistently across `integration.shard`.
+  <sub>[#159007](https://github.com/flutter/flutter/pull/159007) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159007) over 2 days, 11 additions and 176 deletions in 46 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; No longer download `android-x86-jit-release`.
   <sub>[#159011](https://github.com/flutter/flutter/pull/159011) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159011) over 2 days, 0 additions and 1 deletion in 1 file</sub>
