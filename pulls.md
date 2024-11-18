@@ -74,6 +74,3 @@
 * **[Bedirhan Saglam](https://github.com/bedirhanssaglam)** &mdash; code improvements in flex.dart<br />
   <sub>[#159066](https://github.com/flutter/flutter/pull/159066) opened on on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159066) 13 additions and 24 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InkWell overlayColor resolution ignores selected state<br />
-  <sub>[#159072](https://github.com/flutter/flutter/pull/159072) opened on on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159072) 123 additions and 27 deletions in 2 files</sub><br />
-
