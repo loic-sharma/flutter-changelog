@@ -534,7 +534,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-4 commits.
+5 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub>
@@ -543,6 +543,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Extract backend-specific user_data
+  <sub>[#56642](https://github.com/flutter/engine/pull/56642) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56642) over 2 days, 148 additions and 76 deletions in 15 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up @synthesize directives / ivars
   <sub>[#56665](https://github.com/flutter/engine/pull/56665) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56665) over 2 hours, 36 additions and 32 deletions in 12 files</sub>
