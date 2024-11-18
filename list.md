@@ -558,7 +558,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Enable ARC in flutter_cflags_objc[c]
-  <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub>
+  <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Flutter views can gain focus
@@ -1069,7 +1069,11 @@
 
 ### November 16, 2024 to November 22, 2024
 
-1 commits.
+2 commits.
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for Most Remaining Plugin Example Apps (Part 3)
+  <sub>[#8037](https://github.com/flutter/packages/pull/8037) merged on November 18, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/packages/pull/8037) over 1 week, 719 additions and 1070 deletions in 88 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Jenn Magder](https://github.com/jmagman), [Tarrin Neal](https://github.com/tarrinneal), [chunhtai](https://github.com/chunhtai), [Gray Mackall](https://github.com/gmackall), and [2 others](https://github.com/flutter/packages/pull/8037)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add autosubmit label to dependabot PRs
   <sub>[#8101](https://github.com/flutter/packages/pull/8101) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8101) over 3 days, 4 additions and 0 deletions in 1 file</sub>
