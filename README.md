@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 16, 2024 to November 22, 2024
+
+1 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; No longer download `android-x86-jit-release`.<br />
+  <sub>[#159011](https://github.com/flutter/flutter/pull/159011) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159011) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
 ### November 9, 2024 to November 15, 2024
 
-58 commits.
+<details>
+<summary>58 commits...</summary>
 
 * **[kzrnm](https://github.com/kzrnm)** &mdash; [gen_l10n] When localizing a message, prefer placeholder definitions defined by the current locale rather than the template locale<br />
   <sub>[#153459](https://github.com/flutter/flutter/pull/153459) merged on November 14, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/153459) over 3 months, 453 additions and 43 deletions in 4 files</sub><br />
@@ -241,6 +250,8 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Reland Add test for dynamic_content_color.0.dart<br />
   <sub>[#158547](https://github.com/flutter/flutter/pull/158547) merged on November 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158547) over 1 day, 220 additions and 53 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+</details>
 
 ### November 2, 2024 to November 8, 2024
 
@@ -530,7 +541,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context<br />
-  <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up @synthesize directives / ivars<br />
