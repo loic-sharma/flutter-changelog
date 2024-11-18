@@ -1282,10 +1282,14 @@
 
 ### November 16, 2024 to November 22, 2024
 
-5 commits.
+6 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix broken link to GridView API docs
+  <sub>[#11400](https://github.com/flutter/website/pull/11400) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11400) over 1 day, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how `explicit-package-dependencies` is provided.
