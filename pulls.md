@@ -71,3 +71,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ tool ] Don't throw StateError when DDS fails to start<br />
   <sub>[#159079](https://github.com/flutter/flutter/pull/159079) opened on on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159079) 0 additions and 70 deletions in 2 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Temporarily change tests to accommodate new `SemanticsAction` value<br />
+  <sub>[#159108](https://github.com/flutter/flutter/pull/159108) opened on on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159108) 2 additions and 1 deletion in 1 file</sub><br />
+
