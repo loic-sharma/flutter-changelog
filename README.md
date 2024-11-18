@@ -523,11 +523,15 @@
 
 ### November 16, 2024 to November 22, 2024
 
-1 commits.
+2 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up @synthesize directives / ivars<br />
   <sub>[#56665](https://github.com/flutter/engine/pull/56665) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56665) over 2 hours, 36 additions and 32 deletions in 12 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use updated gni source list<br />
+  <sub>[#56627](https://github.com/flutter/engine/pull/56627) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56627) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 ### November 9, 2024 to November 15, 2024
 
