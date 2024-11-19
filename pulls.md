@@ -74,3 +74,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Terminate `flutter test` when no longer needed in integration test.<br />
   <sub>[#159117](https://github.com/flutter/flutter/pull/159117) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159117) 20 additions and 14 deletions in 1 file</sub><br />
 
+* **[Simon Hadenius](https://github.com/skimm3)** &mdash; Exclude focus for hidden children in an IndexedStack<br />
+  <sub>[#159133](https://github.com/flutter/flutter/pull/159133) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159133) 62 additions and 3 deletions in 2 files</sub><br />
+
