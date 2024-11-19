@@ -606,7 +606,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-21 commits.
+22 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub>
@@ -635,6 +635,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; TestMetalContext: Use ARC-managed Metal types
+  <sub>[#56717](https://github.com/flutter/engine/pull/56717) merged on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56717) over 1 hour, 17 additions and 20 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: templatise GetEmbedderContext
   <sub>[#56709](https://github.com/flutter/engine/pull/56709) merged on November 19, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/56709) over 2 hours, 266 additions and 252 deletions in 10 files</sub>
