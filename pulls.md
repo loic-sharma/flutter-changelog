@@ -54,7 +54,7 @@
   <sub>[#158904](https://github.com/flutter/flutter/pull/158904) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158904) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; Fix: The enableFeedback property of InkWell cannot be set to a nullab…<br />
-  <sub>[#158907](https://github.com/flutter/flutter/pull/158907) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158907) 2 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#158907](https://github.com/flutter/flutter/pull/158907) opened on on November 14, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158907) 2 additions and 3 deletions in 2 files</sub><br />
 
 * **[userFortyTwo](https://github.com/userFortyTwo)** &mdash; Fix typo in gen_l10n_types.dart<br />
   <sub>[#159035](https://github.com/flutter/flutter/pull/159035) opened on on November 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159035) 1 addition and 1 deletion in 1 file</sub><br />
