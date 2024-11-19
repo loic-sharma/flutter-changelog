@@ -32,6 +32,9 @@
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Deflake api 35 emulator tests by updating emulator definitions version to latest available from chrome infra<br />
+  <sub>[#158017](https://github.com/flutter/flutter/pull/158017) opened on on November 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158017) 6 additions and 6 deletions in 1 file</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
   <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158020) 29 additions and 16 deletions in 1 file</sub><br />
 
@@ -72,7 +75,7 @@
   <sub>[#159079](https://github.com/flutter/flutter/pull/159079) opened on on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159079) 0 additions and 70 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Terminate `flutter test` when no longer needed in integration test.<br />
-  <sub>[#159117](https://github.com/flutter/flutter/pull/159117) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159117) 20 additions and 14 deletions in 1 file</sub><br />
+  <sub>[#159117](https://github.com/flutter/flutter/pull/159117) opened on on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159117) 20 additions and 14 deletions in 1 file</sub><br />
 
 * **[Simon Hadenius](https://github.com/skimm3)** &mdash; Exclude focus for hidden children in an IndexedStack<br />
   <sub>[#159133](https://github.com/flutter/flutter/pull/159133) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159133) 62 additions and 3 deletions in 2 files</sub><br />

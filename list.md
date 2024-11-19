@@ -567,7 +567,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-16 commits.
+17 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub>
@@ -592,6 +592,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Eliminate unused include
+  <sub>[#56698](https://github.com/flutter/engine/pull/56698) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56698) over 10 hours, 2 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate unguarded-availability opt-out
   <sub>[#56689](https://github.com/flutter/engine/pull/56689) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56689) over 40 minutes, 1 addition and 5 deletions in 1 file</sub>
