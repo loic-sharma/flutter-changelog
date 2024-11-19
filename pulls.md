@@ -71,3 +71,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ tool ] Don't throw StateError when DDS fails to start<br />
   <sub>[#159079](https://github.com/flutter/flutter/pull/159079) opened on on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159079) 0 additions and 70 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Terminate `flutter test` when no longer needed in integration test.<br />
+  <sub>[#159117](https://github.com/flutter/flutter/pull/159117) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159117) 20 additions and 14 deletions in 1 file</sub><br />
+
