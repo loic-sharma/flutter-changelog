@@ -1151,10 +1151,14 @@
 
 ### November 16, 2024 to November 22, 2024
 
-4 commits.
+5 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads<br />
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Updates plugin to use `ProxyApis`s<br />
+  <sub>[#7794](https://github.com/flutter/packages/pull/7794) merged on November 19, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/7794) over 1 month, 17809 additions and 23523 deletions in 125 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for Most Remaining Plugin Example Apps (Part 3)<br />
