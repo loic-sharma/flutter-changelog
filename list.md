@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-15 commits.
+16 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
@@ -19,6 +19,11 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build
   <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [54 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix lint usage of `task` inside `resolve_dependecies.gradle` file
+  <sub>[#158022](https://github.com/flutter/flutter/pull/158022) merged on November 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158022) over 2 weeks, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>2 images...</summary>![writing-tasks-4](https://github.com/user-attachments/assets/407c79bb-7bfa-4bea-9b13-dec01c60dc1c)![Capture d’écran 2024-11-01 214856](https://github.com/user-attachments/assets/af745305-6310-406c-b427-fb8a5dd5755c)</details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Removing redundant backticks in `flutter\packages\flutter_tools\gradle\gradle.kts`
   <sub>[#159051](https://github.com/flutter/flutter/pull/159051) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159051) over 2 days, 1 addition and 1 deletion in 1 file</sub>
