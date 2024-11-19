@@ -593,7 +593,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-19 commits.
+21 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available<br />
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub><br />
@@ -622,6 +622,14 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context<br />
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: templatise GetEmbedderContext<br />
+  <sub>[#56709](https://github.com/flutter/engine/pull/56709) merged on November 19, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/56709) over 2 hours, 266 additions and 252 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; display_list: Extract backend-specific surface providers<br />
+  <sub>[#56711](https://github.com/flutter/engine/pull/56711) merged on November 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56711) over 1 hour, 79 additions and 32 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams), [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Eliminate unused include<br />
   <sub>[#56698](https://github.com/flutter/engine/pull/56698) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56698) over 10 hours, 2 additions and 5 deletions in 2 files</sub><br />
