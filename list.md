@@ -563,7 +563,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-14 commits.
+15 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub>
@@ -612,6 +612,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up @synthesize directives / ivars
   <sub>[#56665](https://github.com/flutter/engine/pull/56665) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56665) over 2 hours, 36 additions and 32 deletions in 12 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove SK_USE_LEGACY_BLUR_RASTER staging flag
+  <sub>[#56618](https://github.com/flutter/engine/pull/56618) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56618) over 3 days, 3 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Use `displayWidth`/`displayHeight` instead of `codedWidth`/`codedHeight`
   <sub>[#56686](https://github.com/flutter/engine/pull/56686) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56686) over 1 hour, 15 additions and 2 deletions in 2 files</sub>
