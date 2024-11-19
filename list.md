@@ -1343,11 +1343,15 @@
 
 ### November 16, 2024 to November 22, 2024
 
-6 commits.
+7 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update api.dart.dev links for new infrastructure setup
+  <sub>[#11406](https://github.com/flutter/website/pull/11406) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11406) over 4 hours, 28 additions and 28 deletions in 7 files</sub>
+  <sub>Reviewed by: [Marya](https://github.com/MaryaBelanger)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix broken link to GridView API docs
   <sub>[#11400](https://github.com/flutter/website/pull/11400) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11400) over 1 day, 4 additions and 4 deletions in 1 file</sub>
