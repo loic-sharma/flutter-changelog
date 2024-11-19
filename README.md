@@ -641,7 +641,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; display_list: Extract backend-specific surface providers<br />
-  <sub>[#56711](https://github.com/flutter/engine/pull/56711) merged on November 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56711) over 1 hour, 79 additions and 32 deletions in 6 files</sub><br />
+  <sub>[#56711](https://github.com/flutter/engine/pull/56711) merged on November 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56711) over 1 hour, 79 additions and 32 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams), [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Eliminate unused include<br />
