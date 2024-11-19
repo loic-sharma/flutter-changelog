@@ -4,12 +4,17 @@
 
 ### November 16, 2024 to November 22, 2024
 
-18 commits.
+19 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
   <sub><details><summary>3 images...</summary><img width="912" alt="Screenshot 2024-07-24 at 16 38 11" src="https://github.com/user-attachments/assets/9645ff6c-b72a-40aa-ae95-4f76994f8302"><img width="912" alt="Screenshot 2024-07-24 at 16 38 24" src="https://github.com/user-attachments/assets/fbaed8bb-2717-43a9-9415-ea1365165d9a"><img width="912" alt="Screenshot 2024-07-24 at 16 41 49" src="https://github.com/user-attachments/assets/2f279240-5af8-4bc8-9c65-a4b4ac718101"></details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 3 `CircularProgressIndicator` for new visual style
+  <sub>[#158104](https://github.com/flutter/flutter/pull/158104) merged on November 19, 2024 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/158104) over 2 weeks, 607 additions and 60 deletions in 5 files</sub>
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+  <sub><details><summary>2 images...</summary><img width="579" alt="Screenshot 2024-11-04 at 16 01 57" src="https://github.com/user-attachments/assets/d27768c6-5570-48d0-9eed-565e02be8041"><img width="579" alt="Screenshot 2024-11-04 at 16 02 40" src="https://github.com/user-attachments/assets/c67c4a31-58f4-4f82-bfb6-f1b78a000bac"></details></sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) merged on November 18, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/157313) over 3 weeks, 223 additions and 5 deletions in 26 files</sub>
