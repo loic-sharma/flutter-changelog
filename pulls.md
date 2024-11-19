@@ -65,3 +65,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Framework sends a11y message when enabling semantics<br />
   <sub>[#159163](https://github.com/flutter/flutter/pull/159163) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159163) 83 additions and 0 deletions in 3 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do a clean shutdown of the flutter_tools processes started by observatory_port_test<br />
+  <sub>[#159169](https://github.com/flutter/flutter/pull/159169) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159169) 4 additions and 4 deletions in 1 file</sub><br />
+
