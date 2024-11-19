@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-7 commits.
+8 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) merged on November 18, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/157313) over 3 weeks, 223 additions and 5 deletions in 26 files</sub>
@@ -18,6 +18,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Prettier merge_queue.md
   <sub>[#158969](https://github.com/flutter/flutter/pull/158969) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158969) over 3 days, 34 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Move where the migration checks feature flags
+  <sub>[#159110](https://github.com/flutter/flutter/pull/159110) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159110) over 2 hours, 170 additions and 23 deletions in 4 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a tag and assert some state in FlutterTestDriver tests.
   <sub>[#159099](https://github.com/flutter/flutter/pull/159099) merged on November 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159099) over 2 hours, 104 additions and 4 deletions in 25 files</sub>
