@@ -8,9 +8,6 @@
 * **[Konstantin Scheglov](https://github.com/scheglov)** &mdash; Restore analyze_snippet_code_test tests.<br />
   <sub>[#154834](https://github.com/flutter/flutter/pull/154834) opened on on September 9, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/154834) 7 additions and 13 deletions in 1 file</sub><br />
 
-* **[HongeSun](https://github.com/hongeSunCoder)** &mdash; correct wrong git commands<br />
-  <sub>[#155146](https://github.com/flutter/flutter/pull/155146) opened on on September 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155146) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
