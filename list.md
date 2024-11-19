@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-6 commits.
+7 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) merged on November 18, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/157313) over 3 weeks, 223 additions and 5 deletions in 26 files</sub>
@@ -30,6 +30,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; No longer download `android-x86-jit-release`.
   <sub>[#159011](https://github.com/flutter/flutter/pull/159011) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159011) over 2 days, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Plumbs `scrollBehavior` into `SelectableText` so that the scrollbar may be hidden
+  <sub>[#158887](https://github.com/flutter/flutter/pull/158887) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158887) over 5 days, 51 additions and 27 deletions in 8 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 ### November 9, 2024 to November 15, 2024
 
@@ -555,7 +559,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-13 commits.
+14 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub>
@@ -572,6 +576,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update emulator definitions version to latest available from chrome infra
   <sub>[#56313](https://github.com/flutter/engine/pull/56313) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/56313) over 2 weeks, 12 additions and 12 deletions in 5 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use sync fence for image uploads.
+  <sub>[#56609](https://github.com/flutter/engine/pull/56609) merged on November 19, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56609) over 3 days, 252 additions and 28 deletions in 24 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub>
