@@ -4,12 +4,21 @@
 
 ### November 16, 2024 to November 22, 2024
 
-12 commits.
+14 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
+  <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub>
+  <sub><details><summary>3 images...</summary><img width="912" alt="Screenshot 2024-07-24 at 16 38 11" src="https://github.com/user-attachments/assets/9645ff6c-b72a-40aa-ae95-4f76994f8302"><img width="912" alt="Screenshot 2024-07-24 at 16 38 24" src="https://github.com/user-attachments/assets/fbaed8bb-2717-43a9-9415-ea1365165d9a"><img width="912" alt="Screenshot 2024-07-24 at 16 41 49" src="https://github.com/user-attachments/assets/2f279240-5af8-4bc8-9c65-a4b4ac718101"></details></sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) merged on November 18, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/157313) over 3 weeks, 223 additions and 5 deletions in 26 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc), [Matan Lurey](https://github.com/matanlurey)</sub>
   <sub><details><summary>1 image...</summary>![navigator dispose](https://github.com/user-attachments/assets/5d2dc37c-abe9-44f4-ad16-4396a3aeeaf7)</details></sub>
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build
+  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [54 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InkWell overlayColor resolution ignores selected state
   <sub>[#159072](https://github.com/flutter/flutter/pull/159072) merged on November 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159072) over 22 hours, 123 additions and 27 deletions in 2 files</sub>

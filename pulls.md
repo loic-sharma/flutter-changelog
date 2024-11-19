@@ -62,9 +62,6 @@
 * **[Dominik Toton](https://github.com/dtscalac)** &mdash; Fix `--web-header` flag for `flutter drive`<br />
   <sub>[#159039](https://github.com/flutter/flutter/pull/159039) opened on on November 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159039) 18 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ahmed Elsayed](https://github.com/AhmedLSayed9)** &mdash; Add `minTileHeight` to ListTileTheme<br />
-  <sub>[#159053](https://github.com/flutter/flutter/pull/159053) opened on on November 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159053) 30 additions and 9 deletions in 3 files</sub><br />
-
 * **[Bedirhan Saglam](https://github.com/bedirhanssaglam)** &mdash; code improvements in flex.dart<br />
   <sub>[#159066](https://github.com/flutter/flutter/pull/159066) opened on on November 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159066) 13 additions and 24 deletions in 1 file</sub><br />
 
