@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-10 commits.
+11 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) merged on November 18, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/157313) over 3 weeks, 223 additions and 5 deletions in 26 files</sub>
@@ -18,6 +18,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix flaky failure related to core_device_list.json not being found
   <sub>[#158946](https://github.com/flutter/flutter/pull/158946) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158946) over 3 days, 75 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Terminate the test device if the `flutter` tool is signal-killed.
+  <sub>[#159115](https://github.com/flutter/flutter/pull/159115) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159115) over 15 hours, 81 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Danny Tuppeny](https://github.com/DanTup)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Prettier merge_queue.md
   <sub>[#158969](https://github.com/flutter/flutter/pull/158969) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158969) over 3 days, 34 additions and 12 deletions in 1 file</sub>
