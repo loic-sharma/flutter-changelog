@@ -701,13 +701,17 @@
 <details>
 <summary>52 commits...</summary>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] force software resize usage for GLES backend.<br />
+  <sub>[#56511](https://github.com/flutter/engine/pull/56511) merged on November 14, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/engine/pull/56511) over 2 days, 68 additions and 15 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add dependabot github-actions group<br />
   <sub>[#56468](https://github.com/flutter/engine/pull/56468) merged on November 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56468) over 2 days, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub><br />
   <sub><details><summary>1 image...</summary><img width="400" alt="Screenshot 2024-11-08 at 11 08 52 AM" src="https://github.com/user-attachments/assets/eebedf69-3fae-409b-9c88-c3afc8036c52"></details></sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] force software resize usage for GLES backend.<br />
-  <sub>[#56511](https://github.com/flutter/engine/pull/56511) merged on November 14, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/engine/pull/56511) over 2 days, 68 additions and 15 deletions in 5 files</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable OpenGL fallback on Android.<br />
+  <sub>[#56591](https://github.com/flutter/engine/pull/56591) merged on November 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56591) over 20 hours, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix line/polygon depth and GLES scissor state.<br />
@@ -723,10 +727,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] geometry changes to support line/point style.<br />
   <sub>[#56340](https://github.com/flutter/engine/pull/56340) merged on November 11, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/56340) over 1 week, 331 additions and 8 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] enable OpenGL fallback on Android.<br />
-  <sub>[#56591](https://github.com/flutter/engine/pull/56591) merged on November 15, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56591) over 20 hours, 2 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Maintain separate queues of GLES operations for each thread in the reactor<br />
   <sub>[#56573](https://github.com/flutter/engine/pull/56573) merged on November 15, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/56573) over 1 day, 63 additions and 24 deletions in 14 files</sub><br />
