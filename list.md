@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-17 commits.
+18 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
@@ -49,6 +49,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Deflake api 35 emulator tests by updating emulator definitions version to latest available from chrome infra
   <sub>[#158017](https://github.com/flutter/flutter/pull/158017) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158017) over 2 weeks, 6 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add platform-android label for all flutter_tools *android* files
+  <sub>[#159166](https://github.com/flutter/flutter/pull/159166) merged on November 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159166) over 1 hour, 3 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Terminate `flutter test` when no longer needed in integration test.
   <sub>[#159117](https://github.com/flutter/flutter/pull/159117) merged on November 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159117) over 15 hours, 20 additions and 14 deletions in 1 file</sub>
