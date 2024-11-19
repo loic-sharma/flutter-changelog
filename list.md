@@ -1181,7 +1181,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub>
@@ -1194,6 +1194,10 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for Most Remaining Plugin Example Apps (Part 3)
   <sub>[#8037](https://github.com/flutter/packages/pull/8037) merged on November 18, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/packages/pull/8037) over 1 week, 719 additions and 1070 deletions in 88 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Jenn Magder](https://github.com/jmagman), [Tarrin Neal](https://github.com/tarrinneal), [chunhtai](https://github.com/chunhtai), [Gray Mackall](https://github.com/gmackall), and [2 others](https://github.com/flutter/packages/pull/8037)</sub>
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] disallow ios versions lower than supported from enabling storekit
+  <sub>[#8110](https://github.com/flutter/packages/pull/8110) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8110) over 3 days, 128 additions and 9 deletions in 14 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Take screenshot when native drive test is taking longer than 10 minutes
   <sub>[#8050](https://github.com/flutter/packages/pull/8050) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8050) over 1 week, 124 additions and 7 deletions in 3 files</sub>
