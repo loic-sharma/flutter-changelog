@@ -622,7 +622,7 @@
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Use `displayWidth`/`displayHeight` instead of `codedWidth`/`codedHeight`
-  <sub>[#56686](https://github.com/flutter/engine/pull/56686) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56686) over 1 hour, 15 additions and 2 deletions in 2 files</sub>
+  <sub>[#56686](https://github.com/flutter/engine/pull/56686) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56686) over 1 hour, 15 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use updated gni source list
