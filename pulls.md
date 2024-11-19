@@ -65,6 +65,3 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Framework sends a11y message when enabling semantics<br />
   <sub>[#159163](https://github.com/flutter/flutter/pull/159163) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159163) 83 additions and 0 deletions in 3 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add platform-android label for all flutter_tools *android* files<br />
-  <sub>[#159166](https://github.com/flutter/flutter/pull/159166) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159166) 3 additions and 1 deletion in 1 file</sub><br />
-
