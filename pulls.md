@@ -81,5 +81,5 @@
   <sub>[#159133](https://github.com/flutter/flutter/pull/159133) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159133) 62 additions and 3 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix fialing lint `Consider using 'register' to avoid unnecessary configuration`<br />
-  <sub>[#159137](https://github.com/flutter/flutter/pull/159137) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159137) 8 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#159137](https://github.com/flutter/flutter/pull/159137) opened on on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159137) 8 additions and 5 deletions in 1 file</sub><br />
 
