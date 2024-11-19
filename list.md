@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-14 commits.
+15 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
@@ -19,6 +19,11 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build
   <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [54 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Removing redundant backticks in `flutter\packages\flutter_tools\gradle\gradle.kts`
+  <sub>[#159051](https://github.com/flutter/flutter/pull/159051) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159051) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>2 images...</summary>![Capture d’écran 2024-11-19 110315](https://github.com/user-attachments/assets/d86605f6-0060-4721-9233-09d8ec5774d4)![Capture d’écran 2024-11-19 110338](https://github.com/user-attachments/assets/7ee7465e-7a06-43db-bebb-ca87dda3cdc8)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InkWell overlayColor resolution ignores selected state
   <sub>[#159072](https://github.com/flutter/flutter/pull/159072) merged on November 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159072) over 22 hours, 123 additions and 27 deletions in 2 files</sub>
@@ -1146,7 +1151,11 @@
 
 ### November 16, 2024 to November 22, 2024
 
-3 commits.
+4 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads
+  <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for Most Remaining Plugin Example Apps (Part 3)
   <sub>[#8037](https://github.com/flutter/packages/pull/8037) merged on November 18, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/packages/pull/8037) over 1 week, 719 additions and 1070 deletions in 88 files</sub>
