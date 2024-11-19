@@ -77,3 +77,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly<br />
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159151) 138 additions and 60 deletions in 7 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `runner` non-nullable as it always is.<br />
+  <sub>[#159156](https://github.com/flutter/flutter/pull/159156) opened on on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159156) 13 additions and 9 deletions in 3 files</sub><br />
+
