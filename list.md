@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-21 commits.
+22 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
@@ -58,6 +58,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Deflake api 35 emulator tests by updating emulator definitions version to latest available from chrome infra
   <sub>[#158017](https://github.com/flutter/flutter/pull/158017) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158017) over 2 weeks, 6 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dependency on [Target] and instead operate on [Architecture]
+  <sub>[#159196](https://github.com/flutter/flutter/pull/159196) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159196) over 1 hour, 73 additions and 69 deletions in 8 files</sub>
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `runner` non-nullable as it always is.
   <sub>[#159156](https://github.com/flutter/flutter/pull/159156) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159156) over 5 hours, 13 additions and 9 deletions in 3 files</sub>
