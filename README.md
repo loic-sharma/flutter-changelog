@@ -623,7 +623,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-22 commits.
+23 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Enable ARC in flutter_cflags_objc[c]<br />
   <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub><br />
@@ -644,6 +644,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update emulator definitions version to latest available from chrome infra<br />
   <sub>[#56313](https://github.com/flutter/engine/pull/56313) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/56313) over 2 weeks, 12 additions and 12 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] flush all GLES cmd buffers together.<br />
+  <sub>[#56724](https://github.com/flutter/engine/pull/56724) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56724) over 15 hours, 57 additions and 11 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use sync fence for image uploads.<br />
   <sub>[#56609](https://github.com/flutter/engine/pull/56609) merged on November 19, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56609) over 3 days, 252 additions and 28 deletions in 24 files</sub><br />
