@@ -1499,7 +1499,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add caching and service worker docs to the web FAQ<br />
-  <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]some nits for add to app page<br />
