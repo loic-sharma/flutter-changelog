@@ -50,6 +50,9 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do a clean shutdown of the flutter_tools processes started by observatory_port_test<br />
   <sub>[#159169](https://github.com/flutter/flutter/pull/159169) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159169) 6 additions and 4 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add WidgetPreview and WidgetPreviewerWindowConstraints widgets and @Preview() annotation<br />
+  <sub>[#159219](https://github.com/flutter/flutter/pull/159219) opened on on November 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159219) 894 additions and 0 deletions in 7 files</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Un-skip tests that use `flutter build apk`.<br />
   <sub>[#159231](https://github.com/flutter/flutter/pull/159231) opened on on November 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159231) 0 additions and 6 deletions in 2 files</sub><br />
 

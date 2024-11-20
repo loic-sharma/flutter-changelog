@@ -1492,7 +1492,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-22 commits.
+24 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance<br />
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub><br />
@@ -1500,6 +1500,10 @@
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add caching and service worker docs to the web FAQ<br />
   <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for updated Material 3 `Slider`<br />
+  <sub>[#11093](https://github.com/flutter/website/pull/11093) merged on November 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11093) over 2 months, 75 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]some nits for add to app page<br />
@@ -1548,6 +1552,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog<br />
   <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Show correct video for LinearGradient widget.<br />
+  <sub>[#11420](https://github.com/flutter/website/pull/11420) merged on November 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11420) over 51 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Web support for Flutter" page<br />
