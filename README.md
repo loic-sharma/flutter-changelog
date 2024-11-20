@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-23 commits.
+25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes<br />
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub><br />
@@ -34,6 +34,14 @@
   <sub>[#159051](https://github.com/flutter/flutter/pull/159051) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159051) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>2 images...</summary>![Capture d’écran 2024-11-19 110315](https://github.com/user-attachments/assets/d86605f6-0060-4721-9233-09d8ec5774d4)![Capture d’écran 2024-11-19 110338](https://github.com/user-attachments/assets/7ee7465e-7a06-43db-bebb-ca87dda3cdc8)</details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `--dry-run` to `dev/bots/test.dart`.<br />
+  <sub>[#158956](https://github.com/flutter/flutter/pull/158956) merged on November 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158956) over 5 days, 106 additions and 28 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add docs for setting up Android Studio to auto format Kotlin code<br />
+  <sub>[#159209](https://github.com/flutter/flutter/pull/159209) merged on November 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/159209) over 3 hours, 29 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InkWell overlayColor resolution ignores selected state<br />
   <sub>[#159072](https://github.com/flutter/flutter/pull/159072) merged on November 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159072) over 22 hours, 123 additions and 27 deletions in 2 files</sub><br />
