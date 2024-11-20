@@ -38,9 +38,6 @@
 * **[Dominik Toton](https://github.com/dtscalac)** &mdash; Fix `--web-header` flag for `flutter drive`<br />
   <sub>[#159039](https://github.com/flutter/flutter/pull/159039) opened on on November 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159039) 18 additions and 1 deletion in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][ tool ] Don't throw StateError when DDS fails to start<br />
-  <sub>[#159079](https://github.com/flutter/flutter/pull/159079) opened on on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159079) 0 additions and 70 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly<br />
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159151) 138 additions and 60 deletions in 7 files</sub><br />
 

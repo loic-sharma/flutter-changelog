@@ -625,6 +625,10 @@
 
 22 commits.
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Enable ARC in flutter_cflags_objc[c]<br />
+  <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available<br />
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -632,10 +636,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Move renderer config to EmbedderTestContext<br />
   <sub>[#56699](https://github.com/flutter/engine/pull/56699) merged on November 19, 2024 &mdash; **Extra large:** [19 comments](https://github.com/flutter/engine/pull/56699) over 11 hours, 705 additions and 927 deletions in 21 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Enable ARC in flutter_cflags_objc[c]<br />
-  <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Flutter views can gain focus<br />
   <sub>[#54985](https://github.com/flutter/engine/pull/54985) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54985) over 2 months, 33 additions and 49 deletions in 2 files</sub><br />
