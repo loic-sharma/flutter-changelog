@@ -1193,7 +1193,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub>
@@ -1214,6 +1214,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Enable example app build in CI
   <sub>[#8119](https://github.com/flutter/packages/pull/8119) merged on November 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/8119) over 1 day, 73 additions and 45 deletions in 6 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [url_launcher] Add Swift Package Manager integration to example app
+  <sub>[#8128](https://github.com/flutter/packages/pull/8128) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8128) over 18 hours, 89 additions and 43 deletions in 5 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Take screenshot when native drive test is taking longer than 10 minutes
   <sub>[#8050](https://github.com/flutter/packages/pull/8050) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8050) over 1 week, 124 additions and 7 deletions in 3 files</sub>
