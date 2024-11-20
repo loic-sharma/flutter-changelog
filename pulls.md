@@ -53,3 +53,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Date picker overlay colors aren't applied on selected state<br />
   <sub>[#159203](https://github.com/flutter/flutter/pull/159203) opened on on November 20, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/159203) 364 additions and 53 deletions in 5 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add docs for setting up Android Studio to auto format Kotlin code<br />
+  <sub>[#159209](https://github.com/flutter/flutter/pull/159209) opened on on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159209) 29 additions and 1 deletion in 2 files</sub><br />
+
