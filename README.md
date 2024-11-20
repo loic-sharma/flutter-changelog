@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-22 commits.
+23 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes<br />
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub><br />
@@ -50,6 +50,10 @@
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Prettier merge_queue.md<br />
   <sub>[#158969](https://github.com/flutter/flutter/pull/158969) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158969) over 3 days, 34 additions and 12 deletions in 1 file</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; Fix: The enableFeedback property of InkWell cannot be set to a nullab…<br />
+  <sub>[#158907](https://github.com/flutter/flutter/pull/158907) merged on November 20, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/158907) over 6 days, 2 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[HongeSun](https://github.com/hongeSunCoder)** &mdash; Fix git command in Quality-Assurance.md<br />
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155146) over 2 months, 1 addition and 1 deletion in 1 file</sub><br />
