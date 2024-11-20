@@ -1193,7 +1193,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-6 commits.
+7 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads<br />
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub><br />
@@ -1210,6 +1210,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] disallow ios versions lower than supported from enabling storekit<br />
   <sub>[#8110](https://github.com/flutter/packages/pull/8110) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8110) over 3 days, 128 additions and 9 deletions in 14 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Enable example app build in CI<br />
+  <sub>[#8119](https://github.com/flutter/packages/pull/8119) merged on November 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/8119) over 1 day, 73 additions and 45 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Take screenshot when native drive test is taking longer than 10 minutes<br />
   <sub>[#8050](https://github.com/flutter/packages/pull/8050) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8050) over 1 week, 124 additions and 7 deletions in 3 files</sub><br />
