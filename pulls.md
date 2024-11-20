@@ -50,6 +50,3 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do a clean shutdown of the flutter_tools processes started by observatory_port_test<br />
   <sub>[#159169](https://github.com/flutter/flutter/pull/159169) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159169) 6 additions and 4 deletions in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add docs for setting up Android Studio to auto format Kotlin code<br />
-  <sub>[#159209](https://github.com/flutter/flutter/pull/159209) opened on on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159209) 29 additions and 1 deletion in 2 files</sub><br />
-
