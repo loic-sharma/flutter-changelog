@@ -1447,7 +1447,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-15 commits.
+16 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub>
@@ -1456,6 +1456,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]some nits for add to app page
   <sub>[#11411](https://github.com/flutter/website/pull/11411) merged on November 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11411) over 22 hours, 22 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration Guide for Updated Material 3 Progress Indicators
+  <sub>[#11396](https://github.com/flutter/website/pull/11396) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11396) over 6 days, 92 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused alt config from widget catalog yaml file
   <sub>[#11408](https://github.com/flutter/website/pull/11408) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11408) over 1 day, 1 addition and 96 deletions in 2 files</sub>
