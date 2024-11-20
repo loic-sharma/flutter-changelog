@@ -1492,7 +1492,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-19 commits.
+22 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub>
@@ -1505,6 +1505,10 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]some nits for add to app page
   <sub>[#11411](https://github.com/flutter/website/pull/11411) merged on November 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11411) over 22 hours, 22 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `/go/unwrapping-widget-keys` design doc redirect
+  <sub>[#11419](https://github.com/flutter/website/pull/11419) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11419) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration Guide for Updated Material 3 Progress Indicators
   <sub>[#11396](https://github.com/flutter/website/pull/11396) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11396) over 6 days, 92 additions and 0 deletions in 2 files</sub>
@@ -1544,6 +1548,14 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog
   <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Web support for Flutter" page
+  <sub>[#11388](https://github.com/flutter/website/pull/11388) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11388) over 1 week, 25 additions and 21 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Web FAQ" page
+  <sub>[#11385](https://github.com/flutter/website/pull/11385) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11385) over 1 week, 0 additions and 18 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[JaYoung Lee](https://github.com/jayoung-lee)** &mdash; Remove survey announcement from the banner
