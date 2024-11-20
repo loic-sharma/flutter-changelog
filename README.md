@@ -635,7 +635,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-27 commits.
+28 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlImageFilter code to Impeller geometry classes<br />
   <sub>[#56720](https://github.com/flutter/engine/pull/56720) merged on November 20, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/engine/pull/56720) over 21 hours, 2179 additions and 1378 deletions in 99 files</sub><br />
@@ -644,6 +644,11 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Enable ARC in flutter_cflags_objc[c]<br />
   <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: Impeller playground's shapes should react to controllers<br />
+  <sub>[#56734](https://github.com/flutter/engine/pull/56734) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56734) over 1 hour, 54 additions and 58 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="1136" alt="image" src="https://github.com/user-attachments/assets/29fe63ed-d077-4384-88ec-2f80dcc8c719"></details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] enable framebuffer blit when available<br />
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub><br />
