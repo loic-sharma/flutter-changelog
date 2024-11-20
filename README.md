@@ -627,7 +627,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-24 commits.
+25 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Enable ARC in flutter_cflags_objc[c]<br />
   <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub><br />
@@ -724,6 +724,10 @@
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use updated gni source list<br />
   <sub>[#56627](https://github.com/flutter/engine/pull/56627) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56627) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Added assert for opengles thread safety (#56585)"<br />
+  <sub>[#56730](https://github.com/flutter/engine/pull/56730) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56730) over 58 minutes, 0 additions and 24 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 ### November 9, 2024 to November 15, 2024
 
