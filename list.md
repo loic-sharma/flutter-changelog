@@ -949,7 +949,7 @@
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Split all 1MB+ fallback fonts (including CJK)
-  <sub>[#56388](https://github.com/flutter/engine/pull/56388) merged on November 8, 2024 &mdash; **Extra large:** [32 comments](https://github.com/flutter/engine/pull/56388) over 2 days, 43983 additions and 23163 deletions in 5 files</sub>
+  <sub>[#56388](https://github.com/flutter/engine/pull/56388) merged on November 8, 2024 &mdash; **Extra large:** [33 comments](https://github.com/flutter/engine/pull/56388) over 2 days, 43983 additions and 23163 deletions in 5 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [David Iglesias](https://github.com/ditman)</sub>
 
 * **[yaakovschectman](https://github.com/yaakovschectman)** &mdash; Move detection of cutouts in Android engine to `onApplyWindowInsets`
