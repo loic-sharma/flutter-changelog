@@ -1459,7 +1459,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-16 commits.
+17 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub>
@@ -1507,6 +1507,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog
   <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; replace 'may' with 'might' in extern_win.md
+  <sub>[#11418](https://github.com/flutter/website/pull/11418) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11418) over 31 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Support for WebAssembly (Wasm)" page
