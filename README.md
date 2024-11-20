@@ -1431,10 +1431,14 @@
 
 ### November 16, 2024 to November 22, 2024
 
-8 commits.
+10 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance<br />
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Allow checking-in example apps' SwiftPM integration<br />
+  <sub>[#11416](https://github.com/flutter/website/pull/11416) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11416) over 1 hour, 12 additions and 14 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add tooling /to link for flutter favorites<br />
@@ -1464,6 +1468,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog<br />
   <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update dart swift concurrency doc for ios 18<br />
+  <sub>[#11412](https://github.com/flutter/website/pull/11412) merged on November 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11412) over 5 hours, 18 additions and 20 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 ### November 9, 2024 to November 15, 2024
 
