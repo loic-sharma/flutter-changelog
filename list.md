@@ -1225,7 +1225,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-8 commits.
+9 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub>
@@ -1258,6 +1258,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add autosubmit label to dependabot PRs
   <sub>[#8101](https://github.com/flutter/packages/pull/8101) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8101) over 3 days, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_markdown] enable Wasm support
+  <sub>[#8120](https://github.com/flutter/packages/pull/8120) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8120) over 2 days, 6 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 ### November 9, 2024 to November 15, 2024
 
