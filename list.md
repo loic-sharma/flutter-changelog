@@ -1230,7 +1230,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-9 commits.
+10 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub>
@@ -1239,6 +1239,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Updates plugin to use `ProxyApis`s
   <sub>[#7794](https://github.com/flutter/packages/pull/7794) merged on November 19, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/7794) over 1 month, 17809 additions and 23523 deletions in 125 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation] send video load failure even when eventsink was initialized late
+  <sub>[#7194](https://github.com/flutter/packages/pull/7194) merged on November 20, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/7194) over 4 months, 73 additions and 8 deletions in 4 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for Most Remaining Plugin Example Apps (Part 3)
   <sub>[#8037](https://github.com/flutter/packages/pull/8037) merged on November 18, 2024 &mdash; **Extra large:** [14 comments](https://github.com/flutter/packages/pull/8037) over 1 week, 719 additions and 1070 deletions in 88 files</sub>
@@ -1265,7 +1269,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_markdown] enable Wasm support
-  <sub>[#8120](https://github.com/flutter/packages/pull/8120) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8120) over 2 days, 6 additions and 2 deletions in 3 files</sub>
+  <sub>[#8120](https://github.com/flutter/packages/pull/8120) merged on November 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8120) over 2 days, 6 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 ### November 9, 2024 to November 15, 2024
