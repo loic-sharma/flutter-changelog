@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-19 commits.
+20 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes<br />
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub><br />
@@ -54,6 +54,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Deflake api 35 emulator tests by updating emulator definitions version to latest available from chrome infra<br />
   <sub>[#158017](https://github.com/flutter/flutter/pull/158017) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158017) over 2 weeks, 6 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `runner` non-nullable as it always is.<br />
+  <sub>[#159156](https://github.com/flutter/flutter/pull/159156) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159156) over 5 hours, 13 additions and 9 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add platform-android label for all flutter_tools *android* files<br />
   <sub>[#159166](https://github.com/flutter/flutter/pull/159166) merged on November 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159166) over 1 hour, 3 additions and 1 deletion in 1 file</sub><br />
@@ -1427,10 +1431,14 @@
 
 ### November 16, 2024 to November 22, 2024
 
-7 commits.
+8 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance<br />
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add tooling /to link for flutter favorites<br />
+  <sub>[#11409](https://github.com/flutter/website/pull/11409) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11409) over 14 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update api.dart.dev links for new infrastructure setup<br />
