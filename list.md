@@ -1447,10 +1447,18 @@
 
 ### November 16, 2024 to November 22, 2024
 
-10 commits.
+15 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]some nits for add to app page
+  <sub>[#11411](https://github.com/flutter/website/pull/11411) merged on November 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11411) over 22 hours, 22 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Loïc Sharma](https://github.com/loic-sharma)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused alt config from widget catalog yaml file
+  <sub>[#11408](https://github.com/flutter/website/pull/11408) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11408) over 1 day, 1 addition and 96 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Allow checking-in example apps' SwiftPM integration
@@ -1483,6 +1491,18 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog
   <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Support for WebAssembly (Wasm)" page
+  <sub>[#11367](https://github.com/flutter/website/pull/11367) merged on November 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11367) over 2 weeks, 56 additions and 151 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Hossein zare](https://github.com/hosseinzare1)** &mdash; Update developing packages docs
+  <sub>[#11404](https://github.com/flutter/website/pull/11404) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11404) over 2 days, 6 additions and 16 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Remove references to HTML renderer on "Display images" page
+  <sub>[#11384](https://github.com/flutter/website/pull/11384) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11384) over 1 week, 0 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update dart swift concurrency doc for ios 18
