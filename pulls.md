@@ -50,3 +50,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do a clean shutdown of the flutter_tools processes started by observatory_port_test<br />
   <sub>[#159169](https://github.com/flutter/flutter/pull/159169) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159169) 6 additions and 4 deletions in 1 file</sub><br />
 
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dependency on [Target] and instead operate on [Architecture]<br />
+  <sub>[#159196](https://github.com/flutter/flutter/pull/159196) opened on on November 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159196) 73 additions and 69 deletions in 8 files</sub><br />
+
