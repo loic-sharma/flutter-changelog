@@ -50,3 +50,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do a clean shutdown of the flutter_tools processes started by observatory_port_test<br />
   <sub>[#159169](https://github.com/flutter/flutter/pull/159169) opened on on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159169) 6 additions and 4 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Date picker overlay colors aren't applied on selected state<br />
+  <sub>[#159203](https://github.com/flutter/flutter/pull/159203) opened on on November 20, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/159203) 351 additions and 37 deletions in 3 files</sub><br />
+
