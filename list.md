@@ -1248,7 +1248,7 @@
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [url_launcher] Add Swift Package Manager integration to example app
-  <sub>[#8128](https://github.com/flutter/packages/pull/8128) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8128) over 18 hours, 89 additions and 43 deletions in 5 files</sub>
+  <sub>[#8128](https://github.com/flutter/packages/pull/8128) merged on November 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8128) over 18 hours, 89 additions and 43 deletions in 5 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [ci] Take screenshot when native drive test is taking longer than 10 minutes
