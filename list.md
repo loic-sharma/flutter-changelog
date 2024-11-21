@@ -1230,7 +1230,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-10 commits.
+11 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub>
@@ -1251,6 +1251,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] disallow ios versions lower than supported from enabling storekit
   <sub>[#8110](https://github.com/flutter/packages/pull/8110) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8110) over 3 days, 128 additions and 9 deletions in 14 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[derdilla](https://github.com/derdilla)** &mdash; [flutter_svg] Fix SvgNetworkLoader not closing internal http client
+  <sub>[#8126](https://github.com/flutter/packages/pull/8126) merged on November 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8126) over 1 day, 57 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Enable example app build in CI
   <sub>[#8119](https://github.com/flutter/packages/pull/8119) merged on November 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/8119) over 1 day, 73 additions and 45 deletions in 6 files</sub>
