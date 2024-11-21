@@ -652,7 +652,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-31 commits.
+33 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlImageFilter code to Impeller geometry classes
   <sub>[#56720](https://github.com/flutter/engine/pull/56720) merged on November 20, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/engine/pull/56720) over 21 hours, 2179 additions and 1378 deletions in 99 files</sub>
@@ -661,6 +661,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Enable ARC in flutter_cflags_objc[c]
   <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Make sure to include all split fonts
+  <sub>[#56733](https://github.com/flutter/engine/pull/56733) merged on November 21, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/56733) over 17 hours, 32629 additions and 32592 deletions in 5 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: Impeller playground's shapes should react to controllers
   <sub>[#56734](https://github.com/flutter/engine/pull/56734) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56734) over 1 hour, 54 additions and 58 deletions in 1 file</sub>
@@ -678,6 +682,10 @@
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Flutter views can gain focus
   <sub>[#54985](https://github.com/flutter/engine/pull/54985) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54985) over 2 months, 33 additions and 49 deletions in 2 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Work around wrong pointerId in coalesced events in iOS Safari 18.2
+  <sub>[#56719](https://github.com/flutter/engine/pull/56719) merged on November 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56719) over 1 day, 174 additions and 16 deletions in 3 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; [Flutter GPU] Added support to set Scissor.
   <sub>[#56302](https://github.com/flutter/engine/pull/56302) merged on November 21, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/56302) over 2 weeks, 123 additions and 0 deletions in 4 files</sub>
