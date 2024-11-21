@@ -1320,7 +1320,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Updates plugin to use `ProxyApis`s
-  <sub>[#7794](https://github.com/flutter/packages/pull/7794) merged on November 19, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/7794) over 1 month, 17809 additions and 23523 deletions in 125 files</sub>
+  <sub>[#7794](https://github.com/flutter/packages/pull/7794) merged on November 19, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/7794) over 1 month, 17809 additions and 23523 deletions in 125 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Use structured Pigeon data on iOS
@@ -1597,16 +1597,16 @@
 
 29 commits.
 
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Add caching and service worker docs to the web FAQ
+  <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Key-Value Data" and "SQL" architecture cookbook recipes
   <sub>[#11410](https://github.com/flutter/website/pull/11410) merged on November 21, 2024 &mdash; **Extra large:** [38 comments](https://github.com/flutter/website/pull/11410) over 2 days, 1849 additions and 2 deletions in 24 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub>
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
-
-* **[John Ryan](https://github.com/johnpryan)** &mdash; Add caching and service worker docs to the web FAQ
-  <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Optimistic State" architecture cookbook recipe
