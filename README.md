@@ -7,7 +7,7 @@
 37 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes<br />
-  <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub><br />
+  <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [93 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
   <sub><details><summary>3 images...</summary><img width="912" alt="Screenshot 2024-07-24 at 16 38 11" src="https://github.com/user-attachments/assets/9645ff6c-b72a-40aa-ae95-4f76994f8302"><img width="912" alt="Screenshot 2024-07-24 at 16 38 24" src="https://github.com/user-attachments/assets/fbaed8bb-2717-43a9-9415-ea1365165d9a"><img width="912" alt="Screenshot 2024-07-24 at 16 41 49" src="https://github.com/user-attachments/assets/2f279240-5af8-4bc8-9c65-a4b4ac718101"></details></sub>
 
