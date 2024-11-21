@@ -66,7 +66,7 @@
   <sub>[#159257](https://github.com/flutter/flutter/pull/159257) opened on on November 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159257) 34 additions and 53 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Reland CupertinoPopupSurface<br />
-  <sub>[#159272](https://github.com/flutter/flutter/pull/159272) opened on on November 21, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159272) 527 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#159272](https://github.com/flutter/flutter/pull/159272) opened on on November 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/159272) 527 additions and 21 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Added additional logging to `_listCoreDevices`<br />
   <sub>[#159275](https://github.com/flutter/flutter/pull/159275) opened on on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159275) 4 additions and 0 deletions in 1 file</sub><br />
