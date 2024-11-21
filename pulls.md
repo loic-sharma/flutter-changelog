@@ -38,9 +38,6 @@
 * **[userFortyTwo](https://github.com/userFortyTwo)** &mdash; Fix typo in gen_l10n_types.dart<br />
   <sub>[#159035](https://github.com/flutter/flutter/pull/159035) opened on on November 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159035) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Dominik Toton](https://github.com/dtscalac)** &mdash; Fix `--web-header` flag for `flutter drive`<br />
-  <sub>[#159039](https://github.com/flutter/flutter/pull/159039) opened on on November 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159039) 18 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly<br />
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) opened on on November 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159151) 166 additions and 62 deletions in 8 files</sub><br />
 

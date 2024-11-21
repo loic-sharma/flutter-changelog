@@ -1582,7 +1582,11 @@
 
 ### November 16, 2024 to November 22, 2024
 
-27 commits.
+28 commits.
+
+* **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Key-Value Data" and "SQL" architecture cookbook recipes
+  <sub>[#11410](https://github.com/flutter/website/pull/11410) merged on November 21, 2024 &mdash; **Extra large:** [38 comments](https://github.com/flutter/website/pull/11410) over 2 days, 1849 additions and 2 deletions in 24 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub>
