@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-29 commits.
+30 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes<br />
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub><br />
@@ -34,6 +34,10 @@
   <sub>[#158022](https://github.com/flutter/flutter/pull/158022) merged on November 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158022) over 2 weeks, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>2 images...</summary>![writing-tasks-4](https://github.com/user-attachments/assets/407c79bb-7bfa-4bea-9b13-dec01c60dc1c)![Capture d’écran 2024-11-01 214856](https://github.com/user-attachments/assets/af745305-6310-406c-b427-fb8a5dd5755c)</details></sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Remove `firebase_abstract_method_smoke_test`<br />
+  <sub>[#159145](https://github.com/flutter/flutter/pull/159145) merged on November 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/159145) over 2 days, 0 additions and 881 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Removing redundant backticks in `flutter\packages\flutter_tools\gradle\gradle.kts`<br />
   <sub>[#159051](https://github.com/flutter/flutter/pull/159051) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159051) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1555,20 +1559,8 @@
   <sub>[#11411](https://github.com/flutter/website/pull/11411) merged on November 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11411) over 22 hours, 22 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `/go/unwrapping-widget-keys` design doc redirect<br />
-  <sub>[#11419](https://github.com/flutter/website/pull/11419) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11419) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration Guide for Updated Material 3 Progress Indicators<br />
-  <sub>[#11396](https://github.com/flutter/website/pull/11396) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11396) over 6 days, 92 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unused alt config from widget catalog yaml file<br />
   <sub>[#11408](https://github.com/flutter/website/pull/11408) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11408) over 1 day, 1 addition and 96 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Allow checking-in example apps' SwiftPM integration<br />
-  <sub>[#11416](https://github.com/flutter/website/pull/11416) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11416) over 1 hour, 12 additions and 14 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add tooling /to link for flutter favorites<br />
@@ -1581,6 +1573,18 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix broken link to GridView API docs<br />
   <sub>[#11400](https://github.com/flutter/website/pull/11400) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11400) over 1 day, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `/go/unwrapping-widget-keys` design doc redirect<br />
+  <sub>[#11419](https://github.com/flutter/website/pull/11419) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11419) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration Guide for Updated Material 3 Progress Indicators<br />
+  <sub>[#11396](https://github.com/flutter/website/pull/11396) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11396) over 6 days, 92 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Allow checking-in example apps' SwiftPM integration<br />
+  <sub>[#11416](https://github.com/flutter/website/pull/11416) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11416) over 1 hour, 12 additions and 14 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how `explicit-package-dependencies` is provided.<br />
