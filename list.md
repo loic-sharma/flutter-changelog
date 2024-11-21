@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-30 commits.
+31 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
@@ -20,6 +20,11 @@
   <sub>[#148784](https://github.com/flutter/flutter/pull/148784) merged on November 21, 2024 &mdash; **Extra large:** [54 comments](https://github.com/flutter/flutter/pull/148784) over 6 months, 1315 additions and 679 deletions in 13 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
   <sub><details><summary>1 image...</summary>![scribe](https://github.com/flutter/flutter/assets/389558/25a54ae9-9399-4772-8482-913ec7a9b330)</details></sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; On-device Widget Inspector button exits widget selection
+  <sub>[#158219](https://github.com/flutter/flutter/pull/158219) merged on November 21, 2024 &mdash; **Large:** [26 comments](https://github.com/flutter/flutter/pull/158219) over 2 weeks, 693 additions and 104 deletions in 5 files</sub>
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+  <sub><details><summary>1 image...</summary>![exit_select_mode_button](https://github.com/user-attachments/assets/e1170753-ade7-4226-baca-8f07667f0587)</details></sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) merged on November 18, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/157313) over 3 weeks, 223 additions and 5 deletions in 26 files</sub>
