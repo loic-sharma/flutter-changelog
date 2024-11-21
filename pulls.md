@@ -27,7 +27,7 @@
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
-  <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
+  <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Bump AGP/Gradle/Kotlin warn versions<br />
   <sub>[#158839](https://github.com/flutter/flutter/pull/158839) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158839) 6 additions and 6 deletions in 2 files</sub><br />
@@ -35,14 +35,11 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.24.5<br />
   <sub>[#158904](https://github.com/flutter/flutter/pull/158904) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158904) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[userFortyTwo](https://github.com/userFortyTwo)** &mdash; Fix typo in gen_l10n_types.dart<br />
-  <sub>[#159035](https://github.com/flutter/flutter/pull/159035) opened on on November 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159035) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly<br />
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) opened on on November 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159151) 166 additions and 62 deletions in 8 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Framework sends a11y message when enabling semantics<br />
-  <sub>[#159163](https://github.com/flutter/flutter/pull/159163) opened on on November 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159163) 92 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#159163](https://github.com/flutter/flutter/pull/159163) opened on on November 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159163) 92 additions and 8 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add WidgetPreview and WidgetPreviewerWindowConstraints widgets and @Preview() annotation<br />
   <sub>[#159219](https://github.com/flutter/flutter/pull/159219) opened on on November 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/159219) 894 additions and 0 deletions in 7 files</sub><br />
