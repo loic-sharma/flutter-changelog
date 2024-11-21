@@ -27,7 +27,7 @@
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Bump AGP/Gradle/Kotlin warn versions<br />
-  <sub>[#158839](https://github.com/flutter/flutter/pull/158839) opened on on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158839) 6 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#158839](https://github.com/flutter/flutter/pull/158839) opened on on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158839) 6 additions and 6 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.24.5<br />
   <sub>[#158904](https://github.com/flutter/flutter/pull/158904) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158904) 6 additions and 0 deletions in 1 file</sub><br />
