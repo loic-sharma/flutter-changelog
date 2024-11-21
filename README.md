@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-36 commits.
+37 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes<br />
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub><br />
@@ -30,6 +30,11 @@
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) merged on November 18, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/157313) over 3 weeks, 223 additions and 5 deletions in 26 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Justin McCandless](https://github.com/justinmc), [Matan Lurey](https://github.com/matanlurey)</sub><br />
   <sub><details><summary>1 image...</summary>![navigator dispose](https://github.com/user-attachments/assets/5d2dc37c-abe9-44f4-ad16-4396a3aeeaf7)</details></sub>
+
+* **[Dominik Toton](https://github.com/dtscalac)** &mdash; Fix `--web-header` flag for `flutter drive`<br />
+  <sub>[#159039](https://github.com/flutter/flutter/pull/159039) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159039) over 4 days, 18 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [David Iglesias](https://github.com/ditman)</sub><br />
+  <sub><details><summary>2 images...</summary>![Screenshot 2024-11-16 at 22 21 36](https://github.com/user-attachments/assets/b3d4e34b-fe2b-4d32-8b0a-2d55e5d23f69)![Screenshot 2024-11-16 at 22 13 43](https://github.com/user-attachments/assets/b74a41de-69c5-4968-82c0-a08d29a3252d)</details></sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build<br />
   <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [54 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub><br />
@@ -109,10 +114,6 @@
   <sub>[#159011](https://github.com/flutter/flutter/pull/159011) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159011) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dependency on [Target] and instead operate on [Architecture]<br />
-  <sub>[#159196](https://github.com/flutter/flutter/pull/159196) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159196) over 1 hour, 73 additions and 69 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `runner` non-nullable as it always is.<br />
   <sub>[#159156](https://github.com/flutter/flutter/pull/159156) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159156) over 5 hours, 13 additions and 9 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
@@ -137,13 +138,17 @@
   <sub>[#159238](https://github.com/flutter/flutter/pull/159238) merged on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159238) over 16 hours, 14 additions and 6 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try a speculative fix for Gradle OOMs.<br />
+  <sub>[#159234](https://github.com/flutter/flutter/pull/159234) merged on November 21, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/159234) over 17 hours, 201 additions and 203 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Define and use `flutterBin` consistently across `integration.shard`.<br />
   <sub>[#159007](https://github.com/flutter/flutter/pull/159007) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159007) over 2 days, 11 additions and 176 deletions in 46 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try a speculative fix for Gradle OOMs.<br />
-  <sub>[#159234](https://github.com/flutter/flutter/pull/159234) merged on November 21, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/159234) over 17 hours, 201 additions and 203 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dependency on [Target] and instead operate on [Architecture]<br />
+  <sub>[#159196](https://github.com/flutter/flutter/pull/159196) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159196) over 1 hour, 73 additions and 69 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Plumbs `scrollBehavior` into `SelectableText` so that the scrollbar may be hidden<br />
   <sub>[#158887](https://github.com/flutter/flutter/pull/158887) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158887) over 5 days, 51 additions and 27 deletions in 8 files</sub><br />
