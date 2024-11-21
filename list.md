@@ -1617,7 +1617,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Show correct video for LinearGradient widget.
-  <sub>[#11420](https://github.com/flutter/website/pull/11420) merged on November 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11420) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>[#11420](https://github.com/flutter/website/pull/11420) merged on November 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11420) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Web support for Flutter" page
