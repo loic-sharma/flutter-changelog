@@ -1649,6 +1649,10 @@
   <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; replace 'may' with 'might' in extern_win.md<br />
+  <sub>[#11418](https://github.com/flutter/website/pull/11418) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11418) over 31 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `/go/unwrapping-widget-keys` design doc redirect<br />
   <sub>[#11419](https://github.com/flutter/website/pull/11419) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11419) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
@@ -1691,10 +1695,6 @@
 
 * **[JaYoung Lee](https://github.com/jayoung-lee)** &mdash; Remove survey announcement from the banner<br />
   <sub>[#11417](https://github.com/flutter/website/pull/11417) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11417) over 1 hour, 1 addition and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
-* **[Amanda Fitch](https://github.com/antfitch)** &mdash; replace 'may' with 'might' in extern_win.md<br />
-  <sub>[#11418](https://github.com/flutter/website/pull/11418) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11418) over 31 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Support for WebAssembly (Wasm)" page<br />
