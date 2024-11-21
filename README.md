@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-25 commits.
+29 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes<br />
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub><br />
@@ -15,6 +15,11 @@
   <sub>[#158104](https://github.com/flutter/flutter/pull/158104) merged on November 19, 2024 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/158104) over 2 weeks, 607 additions and 60 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
   <sub><details><summary>2 images...</summary><img width="579" alt="Screenshot 2024-11-04 at 16 01 57" src="https://github.com/user-attachments/assets/d27768c6-5570-48d0-9eed-565e02be8041"><img width="579" alt="Screenshot 2024-11-04 at 16 02 40" src="https://github.com/user-attachments/assets/c67c4a31-58f4-4f82-bfb6-f1b78a000bac"></details></sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Scribe Android handwriting text input<br />
+  <sub>[#148784](https://github.com/flutter/flutter/pull/148784) merged on November 21, 2024 &mdash; **Extra large:** [54 comments](https://github.com/flutter/flutter/pull/148784) over 6 months, 1315 additions and 679 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+  <sub><details><summary>1 image...</summary>![scribe](https://github.com/flutter/flutter/assets/389558/25a54ae9-9399-4772-8482-913ec7a9b330)</details></sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `@protected` to public `State` method overrides<br />
   <sub>[#157313](https://github.com/flutter/flutter/pull/157313) merged on November 18, 2024 &mdash; **Small:** [36 comments](https://github.com/flutter/flutter/pull/157313) over 3 weeks, 223 additions and 5 deletions in 26 files</sub><br />
@@ -34,6 +39,18 @@
   <sub>[#159051](https://github.com/flutter/flutter/pull/159051) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159051) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>2 images...</summary>![Capture d’écran 2024-11-19 110315](https://github.com/user-attachments/assets/d86605f6-0060-4721-9233-09d8ec5774d4)![Capture d’écran 2024-11-19 110338](https://github.com/user-attachments/assets/7ee7465e-7a06-43db-bebb-ca87dda3cdc8)</details></sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] opt iOS/macOS apps out of Metal API validation via migrator, update templates in repo.<br />
+  <sub>[#159228](https://github.com/flutter/flutter/pull/159228) merged on November 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/159228) over 3 hours, 219 additions and 0 deletions in 37 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Terminate non-detached test devices on `flutter run` completion<br />
+  <sub>[#159170](https://github.com/flutter/flutter/pull/159170) merged on November 21, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/159170) over 1 day, 179 additions and 13 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Un-skip tests that use `flutter build apk`.<br />
+  <sub>[#159231](https://github.com/flutter/flutter/pull/159231) merged on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159231) over 1 hour, 0 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `--dry-run` to `dev/bots/test.dart`.<br />
   <sub>[#158956](https://github.com/flutter/flutter/pull/158956) merged on November 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158956) over 5 days, 106 additions and 28 deletions in 5 files</sub><br />
@@ -1230,7 +1247,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-11 commits.
+12 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads<br />
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub><br />
@@ -1271,6 +1288,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add autosubmit label to dependabot PRs<br />
   <sub>[#8101](https://github.com/flutter/packages/pull/8101) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8101) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [vector_graphics] handle errors from bytes loader<br />
+  <sub>[#8080](https://github.com/flutter/packages/pull/8080) merged on November 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8080) over 6 days, 52 additions and 12 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [flutter_markdown] enable Wasm support<br />
   <sub>[#8120](https://github.com/flutter/packages/pull/8120) merged on November 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8120) over 2 days, 6 additions and 2 deletions in 3 files</sub><br />
@@ -1496,14 +1517,14 @@
 
 ### November 16, 2024 to November 22, 2024
 
-24 commits.
+25 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance<br />
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add caching and service worker docs to the web FAQ<br />
-  <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for updated Material 3 `Slider`<br />
@@ -1556,6 +1577,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog<br />
   <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Web renderers" page<br />
+  <sub>[#11383](https://github.com/flutter/website/pull/11383) merged on November 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11383) over 1 week, 87 additions and 75 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Show correct video for LinearGradient widget.<br />

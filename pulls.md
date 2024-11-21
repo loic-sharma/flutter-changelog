@@ -53,6 +53,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add WidgetPreview and WidgetPreviewerWindowConstraints widgets and @Preview() annotation<br />
   <sub>[#159219](https://github.com/flutter/flutter/pull/159219) opened on on November 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159219) 894 additions and 0 deletions in 7 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Un-skip tests that use `flutter build apk`.<br />
-  <sub>[#159231](https://github.com/flutter/flutter/pull/159231) opened on on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159231) 0 additions and 6 deletions in 2 files</sub><br />
-
