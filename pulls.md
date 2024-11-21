@@ -44,9 +44,6 @@
 * **[denisbganev](https://github.com/denisbganev)** &mdash; Material ButtonStyleButton.icon() constructor param IconAlignment default-safety fix<br />
   <sub>[#159242](https://github.com/flutter/flutter/pull/159242) opened on on November 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159242) 10 additions and 10 deletions in 4 files</sub><br />
 
-* **[Winston Sung](https://github.com/winstonsung)** &mdash; Add locales for lzh (Literary Chinese), nan (Minnan/Hokkien) and yue (Yue/Cantonese) to locale list, Fixes #159252<br />
-  <sub>[#159253](https://github.com/flutter/flutter/pull/159253) opened on on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159253) 33 additions and 0 deletions in 2 files</sub><br />
-
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Refactor bottom sheet & related widgets<br />
   <sub>[#159257](https://github.com/flutter/flutter/pull/159257) opened on on November 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159257) 34 additions and 53 deletions in 1 file</sub><br />
 

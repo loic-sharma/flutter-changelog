@@ -1313,7 +1313,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-14 commits.
+15 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads<br />
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub><br />
@@ -1337,6 +1337,10 @@
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] disallow ios versions lower than supported from enabling storekit<br />
   <sub>[#8110](https://github.com/flutter/packages/pull/8110) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8110) over 3 days, 128 additions and 9 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] fix price displayed with wrong precision<br />
+  <sub>[#8127](https://github.com/flutter/packages/pull/8127) merged on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8127) over 1 day, 28 additions and 3 deletions in 4 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[derdilla](https://github.com/derdilla)** &mdash; [flutter_svg] Fix SvgNetworkLoader not closing internal http client<br />
@@ -1591,7 +1595,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-28 commits.
+29 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Key-Value Data" and "SQL" architecture cookbook recipes<br />
   <sub>[#11410](https://github.com/flutter/website/pull/11410) merged on November 21, 2024 &mdash; **Extra large:** [38 comments](https://github.com/flutter/website/pull/11410) over 2 days, 1849 additions and 2 deletions in 24 files</sub><br />
@@ -1660,6 +1664,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how `explicit-package-dependencies` is provided.<br />
   <sub>[#11398](https://github.com/flutter/website/pull/11398) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11398) over 3 days, 4 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Remove the Raster Status tab from the Flutter Performance topic.<br />
+  <sub>[#11426](https://github.com/flutter/website/pull/11426) merged on November 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11426) over 1 hour, 1 addition and 31 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Build and release a web app" page<br />
   <sub>[#11386](https://github.com/flutter/website/pull/11386) merged on November 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11386) over 1 week, 24 additions and 51 deletions in 1 file</sub><br />
