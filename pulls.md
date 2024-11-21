@@ -42,7 +42,7 @@
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) opened on on November 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159151) 166 additions and 62 deletions in 8 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Framework sends a11y message when enabling semantics<br />
-  <sub>[#159163](https://github.com/flutter/flutter/pull/159163) opened on on November 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159163) 88 additions and 5 deletions in 4 files</sub><br />
+  <sub>[#159163](https://github.com/flutter/flutter/pull/159163) opened on on November 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159163) 92 additions and 8 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add WidgetPreview and WidgetPreviewerWindowConstraints widgets and @Preview() annotation<br />
   <sub>[#159219](https://github.com/flutter/flutter/pull/159219) opened on on November 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/159219) 894 additions and 0 deletions in 7 files</sub><br />
@@ -61,4 +61,7 @@
 
 * **[Lam Thanh Nhan](https://github.com/lamnhan066)** &mdash; Add `columnWidth` Property to `DataTable` for Customizable Column Widths<br />
   <sub>[#159279](https://github.com/flutter/flutter/pull/159279) opened on on November 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159279) 117 additions and 3 deletions in 2 files</sub><br />
+
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Improve UI-thread animation performance<br />
+  <sub>[#159288](https://github.com/flutter/flutter/pull/159288) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159288) 28 additions and 6 deletions in 3 files</sub><br />
 
