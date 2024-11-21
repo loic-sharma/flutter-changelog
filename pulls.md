@@ -11,9 +11,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) opened on on September 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/155615) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Albert Wolszon](https://github.com/Albert221)** &mdash; Allow add_format() in flutter gen-l10n DateTime format<br />
-  <sub>[#156297](https://github.com/flutter/flutter/pull/156297) opened on on October 6, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/156297) 188 additions and 46 deletions in 7 files</sub><br />
-
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Switch benchmarks to tap at found locations<br />
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
@@ -30,7 +27,7 @@
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) opened on on November 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158302) 8 additions and 24 deletions in 6 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Bump AGP/Gradle/Kotlin warn versions<br />
-  <sub>[#158839](https://github.com/flutter/flutter/pull/158839) opened on on November 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158839) 6 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#158839](https://github.com/flutter/flutter/pull/158839) opened on on November 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158839) 6 additions and 6 deletions in 2 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.24.5<br />
   <sub>[#158904](https://github.com/flutter/flutter/pull/158904) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158904) 6 additions and 0 deletions in 1 file</sub><br />

@@ -1313,7 +1313,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-13 commits.
+14 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads<br />
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub><br />
@@ -1357,6 +1357,10 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add autosubmit label to dependabot PRs<br />
   <sub>[#8101](https://github.com/flutter/packages/pull/8101) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8101) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Removes the `@protected` annotation from the InstanceManager field of the   `PigeonInternalProxyApiBaseClass`<br />
+  <sub>[#8125](https://github.com/flutter/packages/pull/8125) merged on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8125) over 2 days, 63 additions and 4 deletions in 6 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [vector_graphics] handle errors from bytes loader<br />
