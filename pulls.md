@@ -53,3 +53,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add WidgetPreview and WidgetPreviewerWindowConstraints widgets and @Preview() annotation<br />
   <sub>[#159219](https://github.com/flutter/flutter/pull/159219) opened on on November 20, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159219) 894 additions and 0 deletions in 7 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Shut down DevTools and DDS processes if flutter_tools is killed by a signal<br />
+  <sub>[#159238](https://github.com/flutter/flutter/pull/159238) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159238) 14 additions and 6 deletions in 4 files</sub><br />
+

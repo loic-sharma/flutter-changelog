@@ -652,7 +652,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-28 commits.
+29 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlImageFilter code to Impeller geometry classes
   <sub>[#56720](https://github.com/flutter/engine/pull/56720) merged on November 20, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/engine/pull/56720) over 21 hours, 2179 additions and 1378 deletions in 99 files</sub>
@@ -742,6 +742,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up @synthesize directives / ivars
   <sub>[#56665](https://github.com/flutter/engine/pull/56665) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56665) over 2 hours, 36 additions and 32 deletions in 12 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow GTK style enum naming
+  <sub>[#56731](https://github.com/flutter/engine/pull/56731) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56731) over 5 hours, 72 additions and 89 deletions in 24 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update Engine-Clang-Tidy-Linter.md
   <sub>[#56708](https://github.com/flutter/engine/pull/56708) merged on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56708) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -1517,7 +1521,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-25 commits.
+26 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub>
@@ -1577,6 +1581,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog
   <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Build and release a web app" page
+  <sub>[#11386](https://github.com/flutter/website/pull/11386) merged on November 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11386) over 1 week, 24 additions and 51 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Web renderers" page
