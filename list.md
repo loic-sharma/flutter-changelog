@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-32 commits.
+34 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [92 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
@@ -53,6 +53,10 @@
   <sub>[#159228](https://github.com/flutter/flutter/pull/159228) merged on November 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/159228) over 3 hours, 219 additions and 0 deletions in 37 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `RepaintBoundary` that is no longer needed.
+  <sub>[#159232](https://github.com/flutter/flutter/pull/159232) merged on November 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159232) over 18 hours, 8 additions and 11 deletions in 3 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Terminate non-detached test devices on `flutter run` completion
   <sub>[#159170](https://github.com/flutter/flutter/pull/159170) merged on November 21, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/159170) over 1 day, 179 additions and 13 deletions in 6 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jason Simmons](https://github.com/jason-simmons)</sub>
@@ -95,6 +99,10 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Deflake api 35 emulator tests by updating emulator definitions version to latest available from chrome infra
   <sub>[#158017](https://github.com/flutter/flutter/pull/158017) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158017) over 2 weeks, 6 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Shut down DevTools and DDS processes if flutter_tools is killed by a signal
+  <sub>[#159238](https://github.com/flutter/flutter/pull/159238) merged on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159238) over 16 hours, 14 additions and 6 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try a speculative fix for Gradle OOMs.
@@ -665,7 +673,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-34 commits.
+36 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlImageFilter code to Impeller geometry classes
   <sub>[#56720](https://github.com/flutter/engine/pull/56720) merged on November 20, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/56720) over 21 hours, 2179 additions and 1378 deletions in 99 files</sub>
@@ -674,6 +682,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Enable ARC in flutter_cflags_objc[c]
   <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] support GLES 3.0 MSAA without extension.
+  <sub>[#56705](https://github.com/flutter/engine/pull/56705) merged on November 21, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/56705) over 2 days, 102 additions and 23 deletions in 5 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Make sure to include all split fonts
   <sub>[#56733](https://github.com/flutter/engine/pull/56733) merged on November 21, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/56733) over 17 hours, 32629 additions and 32592 deletions in 5 files</sub>
@@ -688,6 +700,10 @@
   <sub>[#56596](https://github.com/flutter/engine/pull/56596) merged on November 18, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56596) over 3 days, 113 additions and 26 deletions in 11 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Consume `NativeAssetsManifest.json`
+  <sub>[#56727](https://github.com/flutter/engine/pull/56727) merged on November 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/engine/pull/56727) over 1 day, 439 additions and 50 deletions in 21 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Move renderer config to EmbedderTestContext
   <sub>[#56699](https://github.com/flutter/engine/pull/56699) merged on November 19, 2024 &mdash; **Extra large:** [19 comments](https://github.com/flutter/engine/pull/56699) over 11 hours, 705 additions and 927 deletions in 21 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -700,13 +716,13 @@
   <sub>[#56719](https://github.com/flutter/engine/pull/56719) merged on November 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56719) over 1 day, 174 additions and 16 deletions in 3 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
-* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; [Flutter GPU] Added support to set Scissor.
-  <sub>[#56302](https://github.com/flutter/engine/pull/56302) merged on November 21, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/56302) over 2 weeks, 123 additions and 0 deletions in 4 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split channel messaging out of handlers
   <sub>[#56667](https://github.com/flutter/engine/pull/56667) merged on November 20, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/56667) over 2 days, 1713 additions and 596 deletions in 17 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; [Flutter GPU] Added support to set Scissor.
+  <sub>[#56302](https://github.com/flutter/engine/pull/56302) merged on November 21, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/56302) over 2 weeks, 123 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update emulator definitions version to latest available from chrome infra
   <sub>[#56313](https://github.com/flutter/engine/pull/56313) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/56313) over 2 weeks, 12 additions and 12 deletions in 5 files</sub>
@@ -756,10 +772,6 @@
   <sub>[#56665](https://github.com/flutter/engine/pull/56665) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56665) over 2 hours, 36 additions and 32 deletions in 12 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Extract TestGLContext to separate translation unit
-  <sub>[#56647](https://github.com/flutter/engine/pull/56647) merged on November 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56647) over 2 days, 259 additions and 196 deletions in 10 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Skia build scripts for a refactoring of the Fontconfig font manager
   <sub>[#56684](https://github.com/flutter/engine/pull/56684) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56684) over 1 hour, 9 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -776,9 +788,9 @@
   <sub>[#56689](https://github.com/flutter/engine/pull/56689) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56689) over 40 minutes, 1 addition and 5 deletions in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Update Engine-Clang-Tidy-Linter.md
-  <sub>[#56708](https://github.com/flutter/engine/pull/56708) merged on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56708) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Extract TestGLContext to separate translation unit
+  <sub>[#56647](https://github.com/flutter/engine/pull/56647) merged on November 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56647) over 2 days, 259 additions and 196 deletions in 10 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add missing cancellable to text input handler
   <sub>[#56666](https://github.com/flutter/engine/pull/56666) merged on November 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56666) over 1 day, 18 additions and 7 deletions in 1 file</sub>
@@ -792,13 +804,17 @@
   <sub>[#56686](https://github.com/flutter/engine/pull/56686) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56686) over 1 hour, 15 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow GTK style enum naming
+  <sub>[#56731](https://github.com/flutter/engine/pull/56731) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56731) over 5 hours, 72 additions and 89 deletions in 24 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use updated gni source list
   <sub>[#56627](https://github.com/flutter/engine/pull/56627) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56627) over 2 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow GTK style enum naming
-  <sub>[#56731](https://github.com/flutter/engine/pull/56731) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56731) over 5 hours, 72 additions and 89 deletions in 24 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Update Engine-Clang-Tidy-Linter.md
+  <sub>[#56708](https://github.com/flutter/engine/pull/56708) merged on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56708) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Added assert for opengles thread safety (#56585)"
   <sub>[#56730](https://github.com/flutter/engine/pull/56730) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56730) over 58 minutes, 0 additions and 24 deletions in 2 files</sub>
@@ -1284,7 +1300,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-12 commits.
+13 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub>
@@ -1293,6 +1309,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Updates plugin to use `ProxyApis`s
   <sub>[#7794](https://github.com/flutter/packages/pull/7794) merged on November 19, 2024 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/7794) over 1 month, 17809 additions and 23523 deletions in 125 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Use structured Pigeon data on iOS
+  <sub>[#8142](https://github.com/flutter/packages/pull/8142) merged on November 21, 2024 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/8142) over 1 hour, 3921 additions and 1159 deletions in 25 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation] send video load failure even when eventsink was initialized late
   <sub>[#7194](https://github.com/flutter/packages/pull/7194) merged on November 20, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/packages/pull/7194) over 4 months, 73 additions and 8 deletions in 4 files</sub>
