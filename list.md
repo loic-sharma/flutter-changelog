@@ -686,7 +686,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-36 commits.
+37 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlImageFilter code to Impeller geometry classes
   <sub>[#56720](https://github.com/flutter/engine/pull/56720) merged on November 20, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/56720) over 21 hours, 2179 additions and 1378 deletions in 99 files</sub>
@@ -729,10 +729,6 @@
   <sub>[#56719](https://github.com/flutter/engine/pull/56719) merged on November 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56719) over 1 day, 174 additions and 16 deletions in 3 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split channel messaging out of handlers
-  <sub>[#56667](https://github.com/flutter/engine/pull/56667) merged on November 20, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/56667) over 2 days, 1713 additions and 596 deletions in 17 files</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
-
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; [Flutter GPU] Added support to set Scissor.
   <sub>[#56302](https://github.com/flutter/engine/pull/56302) merged on November 21, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/56302) over 2 weeks, 123 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -741,13 +737,13 @@
   <sub>[#56313](https://github.com/flutter/engine/pull/56313) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/56313) over 2 weeks, 12 additions and 12 deletions in 5 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split channel messaging out of handlers
+  <sub>[#56667](https://github.com/flutter/engine/pull/56667) merged on November 20, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/56667) over 2 days, 1713 additions and 596 deletions in 17 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Enable view focus
   <sub>[#54966](https://github.com/flutter/engine/pull/54966) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54966) over 2 months, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Ashish Myles](https://github.com/marcianx), [Yegor](https://github.com/yjbanov)</sub>
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [et] Add Android x64 configurations
-  <sub>[#56703](https://github.com/flutter/engine/pull/56703) merged on November 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56703) over 1 day, 27 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] flush all GLES cmd buffers together.
   <sub>[#56724](https://github.com/flutter/engine/pull/56724) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56724) over 15 hours, 57 additions and 11 deletions in 6 files</sub>
@@ -757,9 +753,17 @@
   <sub>[#56609](https://github.com/flutter/engine/pull/56609) merged on November 19, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56609) over 3 days, 252 additions and 28 deletions in 24 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [et] Add Android x64 configurations
+  <sub>[#56703](https://github.com/flutter/engine/pull/56703) merged on November 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56703) over 1 day, 27 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Run simulator tests with Impeller enabled.
+  <sub>[#56740](https://github.com/flutter/engine/pull/56740) merged on November 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56740) over 45 minutes, 10 additions and 19 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated some impeller benchmark urls
   <sub>[#56721](https://github.com/flutter/engine/pull/56721) merged on November 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56721) over 1 day, 7 additions and 8 deletions in 1 file</sub>
@@ -777,17 +781,13 @@
   <sub>[#56711](https://github.com/flutter/engine/pull/56711) merged on November 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56711) over 1 hour, 79 additions and 32 deletions in 6 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [Jonah Williams](https://github.com/jonahwilliams), [Loïc Sharma](https://github.com/loic-sharma), [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Eliminate unused include
-  <sub>[#56698](https://github.com/flutter/engine/pull/56698) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56698) over 10 hours, 2 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate unguarded-availability opt-out
+  <sub>[#56689](https://github.com/flutter/engine/pull/56689) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56689) over 40 minutes, 1 addition and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up @synthesize directives / ivars
   <sub>[#56665](https://github.com/flutter/engine/pull/56665) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56665) over 2 hours, 36 additions and 32 deletions in 12 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Skia build scripts for a refactoring of the Fontconfig font manager
-  <sub>[#56684](https://github.com/flutter/engine/pull/56684) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56684) over 1 hour, 9 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land "Remove `android_jit_release_x86`."
   <sub>[#56681](https://github.com/flutter/engine/pull/56681) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56681) over 2 hours, 0 additions and 101 deletions in 3 files</sub>
@@ -797,17 +797,17 @@
   <sub>[#56642](https://github.com/flutter/engine/pull/56642) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56642) over 2 days, 148 additions and 76 deletions in 15 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate unguarded-availability opt-out
-  <sub>[#56689](https://github.com/flutter/engine/pull/56689) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56689) over 40 minutes, 1 addition and 5 deletions in 1 file</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Eliminate unused include
+  <sub>[#56698](https://github.com/flutter/engine/pull/56698) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56698) over 10 hours, 2 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Extract TestGLContext to separate translation unit
   <sub>[#56647](https://github.com/flutter/engine/pull/56647) merged on November 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56647) over 2 days, 259 additions and 196 deletions in 10 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add missing cancellable to text input handler
-  <sub>[#56666](https://github.com/flutter/engine/pull/56666) merged on November 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56666) over 1 day, 18 additions and 7 deletions in 1 file</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Skia build scripts for a refactoring of the Fontconfig font manager
+  <sub>[#56684](https://github.com/flutter/engine/pull/56684) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56684) over 1 hour, 9 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Michael Ludwig](https://github.com/lhkbob)** &mdash; Remove SK_USE_LEGACY_BLUR_RASTER staging flag
   <sub>[#56618](https://github.com/flutter/engine/pull/56618) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56618) over 3 days, 3 additions and 4 deletions in 2 files</sub>
@@ -821,13 +821,17 @@
   <sub>[#56731](https://github.com/flutter/engine/pull/56731) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56731) over 5 hours, 72 additions and 89 deletions in 24 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Update Engine-Clang-Tidy-Linter.md
+  <sub>[#56708](https://github.com/flutter/engine/pull/56708) merged on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56708) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use updated gni source list
   <sub>[#56627](https://github.com/flutter/engine/pull/56627) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56627) over 2 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Update Engine-Clang-Tidy-Linter.md
-  <sub>[#56708](https://github.com/flutter/engine/pull/56708) merged on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56708) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add missing cancellable to text input handler
+  <sub>[#56666](https://github.com/flutter/engine/pull/56666) merged on November 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56666) over 1 day, 18 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Added assert for opengles thread safety (#56585)"
   <sub>[#56730](https://github.com/flutter/engine/pull/56730) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56730) over 58 minutes, 0 additions and 24 deletions in 2 files</sub>
