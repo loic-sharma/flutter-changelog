@@ -1574,7 +1574,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-26 commits.
+27 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add initial pages for Architecture guidance
   <sub>[#11300](https://github.com/flutter/website/pull/11300) merged on November 18, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/website/pull/11300) over 3 weeks, 877 additions and 0 deletions in 23 files</sub>
@@ -1583,6 +1583,10 @@
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add caching and service worker docs to the web FAQ
   <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Optimistic State" architecture cookbook recipe
+  <sub>[#11394](https://github.com/flutter/website/pull/11394) merged on November 21, 2024 &mdash; **Large:** [9 comments](https://github.com/flutter/website/pull/11394) over 1 week, 826 additions and 0 deletions in 9 files</sub>
+  <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for updated Material 3 `Slider`
   <sub>[#11093](https://github.com/flutter/website/pull/11093) merged on November 20, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11093) over 2 months, 75 additions and 0 deletions in 2 files</sub>
