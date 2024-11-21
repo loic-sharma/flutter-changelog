@@ -56,3 +56,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Shut down DevTools and DDS processes if flutter_tools is killed by a signal<br />
   <sub>[#159238](https://github.com/flutter/flutter/pull/159238) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159238) 14 additions and 6 deletions in 4 files</sub><br />
 
+* **[denisbganev](https://github.com/denisbganev)** &mdash; Material ButtonStyleButton.icon() constructor param IconAlignment default-safety fix<br />
+  <sub>[#159242](https://github.com/flutter/flutter/pull/159242) opened on on November 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159242) 10 additions and 10 deletions in 4 files</sub><br />
+
