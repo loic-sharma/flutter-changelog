@@ -1575,6 +1575,18 @@
   <sub>[#11400](https://github.com/flutter/website/pull/11400) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11400) over 1 day, 4 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update latest versions<br />
+  <sub>[#11401](https://github.com/flutter/website/pull/11401) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11401) over 1 day, 6 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix broken API doc link on state management fundamentals page<br />
+  <sub>[#11402](https://github.com/flutter/website/pull/11402) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11402) over 1 day, 7 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog<br />
+  <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `/go/unwrapping-widget-keys` design doc redirect<br />
   <sub>[#11419](https://github.com/flutter/website/pull/11419) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11419) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
@@ -1590,18 +1602,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how `explicit-package-dependencies` is provided.<br />
   <sub>[#11398](https://github.com/flutter/website/pull/11398) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11398) over 3 days, 4 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update latest versions<br />
-  <sub>[#11401](https://github.com/flutter/website/pull/11401) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11401) over 1 day, 6 additions and 6 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix broken API doc link on state management fundamentals page<br />
-  <sub>[#11402](https://github.com/flutter/website/pull/11402) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11402) over 1 day, 7 additions and 7 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog<br />
-  <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Build and release a web app" page<br />
   <sub>[#11386](https://github.com/flutter/website/pull/11386) merged on November 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11386) over 1 week, 24 additions and 51 deletions in 1 file</sub><br />
