@@ -155,7 +155,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Added additional logging to `_listCoreDevices`<br />
-  <sub>[#159275](https://github.com/flutter/flutter/pull/159275) merged on November 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159275) over 2 hours, 4 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#159275](https://github.com/flutter/flutter/pull/159275) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159275) over 2 hours, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks<br />
@@ -697,7 +697,7 @@
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] support GLES 3.0 MSAA without extension.<br />
-  <sub>[#56705](https://github.com/flutter/engine/pull/56705) merged on November 21, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/engine/pull/56705) over 2 days, 102 additions and 23 deletions in 5 files</sub><br />
+  <sub>[#56705](https://github.com/flutter/engine/pull/56705) merged on November 21, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/engine/pull/56705) over 2 days, 102 additions and 23 deletions in 5 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Make sure to include all split fonts<br />
@@ -1313,7 +1313,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-15 commits.
+16 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads<br />
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub><br />
@@ -1362,6 +1362,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add autosubmit label to dependabot PRs<br />
   <sub>[#8101](https://github.com/flutter/packages/pull/8101) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8101) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Omar Khaled](https://github.com/omar-hanafy)** &mdash; [go_router] Fix: Consistent PopScope Handling on Root Routes issue #140869<br />
+  <sub>[#8045](https://github.com/flutter/packages/pull/8045) merged on November 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8045) over 1 week, 75 additions and 22 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Removes the `@protected` annotation from the InstanceManager field of the   `PigeonInternalProxyApiBaseClass`<br />
   <sub>[#8125](https://github.com/flutter/packages/pull/8125) merged on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8125) over 2 days, 63 additions and 4 deletions in 6 files</sub><br />
