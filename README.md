@@ -1668,7 +1668,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-31 commits.
+32 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Offline-first" architecture cookbook recipe<br />
   <sub>[#11425](https://github.com/flutter/website/pull/11425) merged on November 22, 2024 &mdash; **Large:** [53 comments](https://github.com/flutter/website/pull/11425) over 21 hours, 1070 additions and 0 deletions in 12 files</sub><br />
@@ -1749,6 +1749,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change how `explicit-package-dependencies` is provided.<br />
   <sub>[#11398](https://github.com/flutter/website/pull/11398) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11398) over 3 days, 4 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Jimothy](https://github.com/itsJimothy)** &mdash; Fix typo in concepts.md: 'principals' to 'principles'<br />
+  <sub>[#11430](https://github.com/flutter/website/pull/11430) merged on November 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11430) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Remove the Raster Status tab from the Flutter Performance topic.<br />
   <sub>[#11426](https://github.com/flutter/website/pull/11426) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11426) over 1 hour, 1 addition and 31 deletions in 4 files</sub><br />
