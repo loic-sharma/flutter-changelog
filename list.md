@@ -50,6 +50,10 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
   <sub><details><summary>2 images...</summary><img width="454" alt="Screenshot 2024-11-21 at 17 13 25" src="https://github.com/user-attachments/assets/6f7520f1-a213-4814-8116-6dd996639eec">![Screenshot_2024-11-20_at_12 17 46_PM](https://github.com/user-attachments/assets/3ab005cc-e93a-485a-8470-f80072440948)</details></sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Set stable color for semantics debugger
+  <sub>[#157884](https://github.com/flutter/flutter/pull/157884) merged on November 22, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/157884) over 3 weeks, 43 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(ScrollAction): unsafe non-null assertion
   <sub>[#157855](https://github.com/flutter/flutter/pull/157855) merged on November 22, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/157855) over 3 weeks, 92 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate)</sub>
@@ -66,10 +70,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] opt iOS/macOS apps out of Metal API validation via migrator, update templates in repo.
   <sub>[#159228](https://github.com/flutter/flutter/pull/159228) merged on November 21, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/159228) over 3 hours, 219 additions and 0 deletions in 37 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Set stable color for semantics debugger
-  <sub>[#157884](https://github.com/flutter/flutter/pull/157884) merged on November 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/157884) over 3 weeks, 43 additions and 6 deletions in 3 files</sub>
-  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do a clean shutdown of the flutter_tools processes started by observatory_port_test
   <sub>[#159169](https://github.com/flutter/flutter/pull/159169) merged on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159169) over 1 day, 6 additions and 4 deletions in 1 file</sub>
