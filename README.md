@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-39 commits.
+40 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes<br />
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [93 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub><br />
@@ -45,6 +45,11 @@
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
   <sub><details><summary>2 images...</summary>![writing-tasks-4](https://github.com/user-attachments/assets/407c79bb-7bfa-4bea-9b13-dec01c60dc1c)![Capture d’écran 2024-11-01 214856](https://github.com/user-attachments/assets/af745305-6310-406c-b427-fb8a5dd5755c)</details></sub>
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce `CircularProgressIndicator.padding` for the updated M3 specs<br />
+  <sub>[#159271](https://github.com/flutter/flutter/pull/159271) merged on November 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159271) over 1 day, 136 additions and 32 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="454" alt="Screenshot 2024-11-21 at 17 13 25" src="https://github.com/user-attachments/assets/6f7520f1-a213-4814-8116-6dd996639eec">![Screenshot_2024-11-20_at_12 17 46_PM](https://github.com/user-attachments/assets/3ab005cc-e93a-485a-8470-f80072440948)</details></sub>
+
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Remove `firebase_abstract_method_smoke_test`<br />
   <sub>[#159145](https://github.com/flutter/flutter/pull/159145) merged on November 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/159145) over 2 days, 0 additions and 881 deletions in 18 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
@@ -70,6 +75,10 @@
   <sub>[#159170](https://github.com/flutter/flutter/pull/159170) merged on November 21, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/159170) over 1 day, 179 additions and 13 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Un-skip tests that use `flutter build apk`.<br />
+  <sub>[#159231](https://github.com/flutter/flutter/pull/159231) merged on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159231) over 1 hour, 0 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `--dry-run` to `dev/bots/test.dart`.<br />
   <sub>[#158956](https://github.com/flutter/flutter/pull/158956) merged on November 20, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158956) over 5 days, 106 additions and 28 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Reid Baker](https://github.com/reidbaker)</sub><br />
@@ -77,10 +86,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add docs for setting up Android Studio to auto format Kotlin code<br />
   <sub>[#159209](https://github.com/flutter/flutter/pull/159209) merged on November 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/159209) over 3 hours, 29 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Un-skip tests that use `flutter build apk`.<br />
-  <sub>[#159231](https://github.com/flutter/flutter/pull/159231) merged on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159231) over 1 hour, 0 additions and 6 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InkWell overlayColor resolution ignores selected state<br />
   <sub>[#159072](https://github.com/flutter/flutter/pull/159072) merged on November 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159072) over 22 hours, 123 additions and 27 deletions in 2 files</sub><br />
@@ -106,17 +111,17 @@
   <sub>[#158907](https://github.com/flutter/flutter/pull/158907) merged on November 20, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/158907) over 6 days, 2 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
-* **[HongeSun](https://github.com/hongeSunCoder)** &mdash; Fix git command in Quality-Assurance.md<br />
-  <sub>[#155146](https://github.com/flutter/flutter/pull/155146) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155146) over 2 months, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Deflake api 35 emulator tests by updating emulator definitions version to latest available from chrome infra<br />
   <sub>[#158017](https://github.com/flutter/flutter/pull/158017) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158017) over 2 weeks, 6 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; No longer download `android-x86-jit-release`.<br />
-  <sub>[#159011](https://github.com/flutter/flutter/pull/159011) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159011) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[HongeSun](https://github.com/hongeSunCoder)** &mdash; Fix git command in Quality-Assurance.md<br />
+  <sub>[#155146](https://github.com/flutter/flutter/pull/155146) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155146) over 2 months, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dependency on [Target] and instead operate on [Architecture]<br />
+  <sub>[#159196](https://github.com/flutter/flutter/pull/159196) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159196) over 1 hour, 73 additions and 69 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `runner` non-nullable as it always is.<br />
   <sub>[#159156](https://github.com/flutter/flutter/pull/159156) merged on November 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159156) over 5 hours, 13 additions and 9 deletions in 3 files</sub><br />
@@ -154,9 +159,9 @@
   <sub>[#159007](https://github.com/flutter/flutter/pull/159007) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159007) over 2 days, 11 additions and 176 deletions in 46 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dependency on [Target] and instead operate on [Architecture]<br />
-  <sub>[#159196](https://github.com/flutter/flutter/pull/159196) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159196) over 1 hour, 73 additions and 69 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; No longer download `android-x86-jit-release`.<br />
+  <sub>[#159011](https://github.com/flutter/flutter/pull/159011) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159011) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Added additional logging to `_listCoreDevices`<br />
   <sub>[#159275](https://github.com/flutter/flutter/pull/159275) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159275) over 2 hours, 4 additions and 0 deletions in 1 file</sub><br />
