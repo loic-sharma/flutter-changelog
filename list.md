@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-37 commits.
+38 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [93 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
@@ -134,6 +134,10 @@
   <sub>[#159099](https://github.com/flutter/flutter/pull/159099) merged on November 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159099) over 2 hours, 104 additions and 4 deletions in 25 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Chris Bracken](https://github.com/cbracken)</sub>
 
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Move Linux packages_autoroller to bringup
+  <sub>[#159336](https://github.com/flutter/flutter/pull/159336) merged on November 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159336) over 2 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jason Simmons](https://github.com/jason-simmons)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Shut down DevTools and DDS processes if flutter_tools is killed by a signal
   <sub>[#159238](https://github.com/flutter/flutter/pull/159238) merged on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159238) over 16 hours, 14 additions and 6 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -142,13 +146,13 @@
   <sub>[#159234](https://github.com/flutter/flutter/pull/159234) merged on November 21, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/159234) over 17 hours, 201 additions and 203 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Define and use `flutterBin` consistently across `integration.shard`.
-  <sub>[#159007](https://github.com/flutter/flutter/pull/159007) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159007) over 2 days, 11 additions and 176 deletions in 46 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dependency on [Target] and instead operate on [Architecture]
   <sub>[#159196](https://github.com/flutter/flutter/pull/159196) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159196) over 1 hour, 73 additions and 69 deletions in 8 files</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Define and use `flutterBin` consistently across `integration.shard`.
+  <sub>[#159007](https://github.com/flutter/flutter/pull/159007) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159007) over 2 days, 11 additions and 176 deletions in 46 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Plumbs `scrollBehavior` into `SelectableText` so that the scrollbar may be hidden
   <sub>[#158887](https://github.com/flutter/flutter/pull/158887) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158887) over 5 days, 51 additions and 27 deletions in 8 files</sub>
@@ -1635,7 +1639,11 @@
 
 ### November 16, 2024 to November 22, 2024
 
-29 commits.
+30 commits.
+
+* **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Offline-first" architecture cookbook recipe
+  <sub>[#11425](https://github.com/flutter/website/pull/11425) merged on November 22, 2024 &mdash; **Large:** [53 comments](https://github.com/flutter/website/pull/11425) over 21 hours, 1070 additions and 0 deletions in 12 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add caching and service worker docs to the web FAQ
   <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub>
