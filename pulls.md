@@ -36,7 +36,7 @@
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) opened on on November 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159151) 166 additions and 62 deletions in 8 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Framework sends a11y message when enabling semantics<br />
-  <sub>[#159163](https://github.com/flutter/flutter/pull/159163) opened on on November 19, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159163) 92 additions and 8 deletions in 5 files</sub><br />
+  <sub>[#159163](https://github.com/flutter/flutter/pull/159163) opened on on November 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159163) 92 additions and 8 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add WidgetPreview and WidgetPreviewerWindowConstraints widgets and @Preview() annotation<br />
   <sub>[#159219](https://github.com/flutter/flutter/pull/159219) opened on on November 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/159219) 894 additions and 0 deletions in 7 files</sub><br />

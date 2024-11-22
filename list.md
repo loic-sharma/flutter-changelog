@@ -4,7 +4,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-40 commits.
+41 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [93 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
@@ -63,13 +63,17 @@
   <sub>[#159228](https://github.com/flutter/flutter/pull/159228) merged on November 21, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/159228) over 3 hours, 219 additions and 0 deletions in 37 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do a clean shutdown of the flutter_tools processes started by observatory_port_test
+  <sub>[#159169](https://github.com/flutter/flutter/pull/159169) merged on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159169) over 1 day, 6 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `RepaintBoundary` that is no longer needed.
   <sub>[#159232](https://github.com/flutter/flutter/pull/159232) merged on November 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159232) over 18 hours, 8 additions and 11 deletions in 3 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do a clean shutdown of the flutter_tools processes started by observatory_port_test
-  <sub>[#159169](https://github.com/flutter/flutter/pull/159169) merged on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159169) over 1 day, 6 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Manually update strings after dca37ad, and turn `packages_autoroller` back on
+  <sub>[#159343](https://github.com/flutter/flutter/pull/159343) merged on November 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159343) over 43 minutes, 4 additions and 1 deletion in 3 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Terminate non-detached test devices on `flutter run` completion
   <sub>[#159170](https://github.com/flutter/flutter/pull/159170) merged on November 21, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/flutter/pull/159170) over 1 day, 179 additions and 13 deletions in 6 files</sub>
@@ -107,10 +111,6 @@
   <sub>[#159279](https://github.com/flutter/flutter/pull/159279) merged on November 22, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159279) over 1 day, 107 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; Fix: The enableFeedback property of InkWell cannot be set to a nullab…
-  <sub>[#158907](https://github.com/flutter/flutter/pull/158907) merged on November 20, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/158907) over 6 days, 2 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub>
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Deflake api 35 emulator tests by updating emulator definitions version to latest available from chrome infra
   <sub>[#158017](https://github.com/flutter/flutter/pull/158017) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158017) over 2 weeks, 6 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -118,6 +118,10 @@
 * **[HongeSun](https://github.com/hongeSunCoder)** &mdash; Fix git command in Quality-Assurance.md
   <sub>[#155146](https://github.com/flutter/flutter/pull/155146) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/155146) over 2 months, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; Fix: The enableFeedback property of InkWell cannot be set to a nullab…
+  <sub>[#158907](https://github.com/flutter/flutter/pull/158907) merged on November 20, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/158907) over 6 days, 2 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Remove dependency on [Target] and instead operate on [Architecture]
   <sub>[#159196](https://github.com/flutter/flutter/pull/159196) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159196) over 1 hour, 73 additions and 69 deletions in 8 files</sub>
@@ -163,13 +167,13 @@
   <sub>[#159011](https://github.com/flutter/flutter/pull/159011) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159011) over 2 days, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Added additional logging to `_listCoreDevices`
-  <sub>[#159275](https://github.com/flutter/flutter/pull/159275) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159275) over 2 hours, 4 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Plumbs `scrollBehavior` into `SelectableText` so that the scrollbar may be hidden
   <sub>[#158887](https://github.com/flutter/flutter/pull/158887) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158887) over 5 days, 51 additions and 27 deletions in 8 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Added additional logging to `_listCoreDevices`
+  <sub>[#159275](https://github.com/flutter/flutter/pull/159275) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159275) over 2 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks
   <sub>[#153368](https://github.com/flutter/flutter/pull/153368) merged on November 19, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/153368) over 3 months, 174 additions and 0 deletions in 2 files</sub>
