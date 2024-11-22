@@ -1690,7 +1690,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Remove the Raster Status tab from the Flutter Performance topic.<br />
-  <sub>[#11426](https://github.com/flutter/website/pull/11426) merged on November 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11426) over 1 hour, 1 addition and 31 deletions in 4 files</sub><br />
+  <sub>[#11426](https://github.com/flutter/website/pull/11426) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11426) over 1 hour, 1 addition and 31 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update "Build and release a web app" page<br />
