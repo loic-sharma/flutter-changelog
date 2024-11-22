@@ -823,7 +823,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] more consistently flush dart event loop, run vsync callback immediately<br />
-  <sub>[#56738](https://github.com/flutter/engine/pull/56738) merged on November 22, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56738) over 13 hours, 99 additions and 36 deletions in 6 files</sub><br />
+  <sub>[#56738](https://github.com/flutter/engine/pull/56738) merged on November 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56738) over 13 hours, 99 additions and 36 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Extract backend-specific code in ShellTestPlatformView<br />
@@ -1390,7 +1390,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-21 commits.
+22 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads<br />
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub><br />
@@ -1451,6 +1451,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add autosubmit label to dependabot PRs<br />
   <sub>[#8101](https://github.com/flutter/packages/pull/8101) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8101) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update avd_cipd_version<br />
+  <sub>[#8135](https://github.com/flutter/packages/pull/8135) merged on November 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8135) over 2 days, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_actions_plaform_interface] add localizedSubtitle<br />
   <sub>[#8112](https://github.com/flutter/packages/pull/8112) merged on November 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8112) over 5 days, 58 additions and 6 deletions in 5 files</sub><br />
