@@ -56,3 +56,6 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Improve UI-thread animation performance<br />
   <sub>[#159288](https://github.com/flutter/flutter/pull/159288) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159288) 28 additions and 6 deletions in 3 files</sub><br />
 
+* **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed typos<br />
+  <sub>[#159331](https://github.com/flutter/flutter/pull/159331) opened on on November 22, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/159331) 179 additions and 179 deletions in 59 files</sub><br />
+
