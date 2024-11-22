@@ -1348,7 +1348,7 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation] send video load failure even when eventsink was initialized late<br />
-  <sub>[#7194](https://github.com/flutter/packages/pull/7194) merged on November 20, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/packages/pull/7194) over 4 months, 73 additions and 8 deletions in 4 files</sub><br />
+  <sub>[#7194](https://github.com/flutter/packages/pull/7194) merged on November 20, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/7194) over 4 months, 73 additions and 8 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively for Most Remaining Plugin Example Apps (Part 3)<br />
