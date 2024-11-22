@@ -33,7 +33,7 @@
   <sub>[#158904](https://github.com/flutter/flutter/pull/158904) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158904) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly<br />
-  <sub>[#159151](https://github.com/flutter/flutter/pull/159151) opened on on November 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159151) 166 additions and 62 deletions in 8 files</sub><br />
+  <sub>[#159151](https://github.com/flutter/flutter/pull/159151) opened on on November 19, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/159151) 166 additions and 62 deletions in 8 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Framework sends a11y message when enabling semantics<br />
   <sub>[#159163](https://github.com/flutter/flutter/pull/159163) opened on on November 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159163) 92 additions and 8 deletions in 5 files</sub><br />
