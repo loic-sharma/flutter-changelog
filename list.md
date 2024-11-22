@@ -1652,7 +1652,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-30 commits.
+31 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Offline-first" architecture cookbook recipe
   <sub>[#11425](https://github.com/flutter/website/pull/11425) merged on November 22, 2024 &mdash; **Large:** [53 comments](https://github.com/flutter/website/pull/11425) over 21 hours, 1070 additions and 0 deletions in 12 files</sub>
@@ -1709,6 +1709,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove duplicated CupertinoThemeData entry from widget catalog
   <sub>[#11403](https://github.com/flutter/website/pull/11403) merged on November 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11403) over 1 day, 0 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add `go/widget-previews-architecture`
+  <sub>[#11429](https://github.com/flutter/website/pull/11429) merged on November 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11429) over 40 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; replace 'may' with 'might' in extern_win.md
   <sub>[#11418](https://github.com/flutter/website/pull/11418) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11418) over 31 minutes, 1 addition and 1 deletion in 1 file</sub>
