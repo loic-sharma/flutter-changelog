@@ -63,5 +63,5 @@
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) opened on on November 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159344) 36 additions and 2 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `\r\n` code with Dart SDK standard conventions.<br />
-  <sub>[#159346](https://github.com/flutter/flutter/pull/159346) opened on on November 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159346) 34 additions and 49 deletions in 8 files</sub><br />
+  <sub>[#159346](https://github.com/flutter/flutter/pull/159346) opened on on November 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159346) 34 additions and 49 deletions in 8 files</sub><br />
 
