@@ -1321,14 +1321,14 @@
 
 ### November 16, 2024 to November 22, 2024
 
-16 commits.
+17 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads<br />
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_android] Updates plugin to use `ProxyApis`s<br />
-  <sub>[#7794](https://github.com/flutter/packages/pull/7794) merged on November 19, 2024 &mdash; **Extra large:** [23 comments](https://github.com/flutter/packages/pull/7794) over 1 month, 17809 additions and 23523 deletions in 125 files</sub><br />
+  <sub>[#7794](https://github.com/flutter/packages/pull/7794) merged on November 19, 2024 &mdash; **Extra large:** [24 comments](https://github.com/flutter/packages/pull/7794) over 1 month, 17809 additions and 23523 deletions in 125 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Use structured Pigeon data on iOS<br />
@@ -1358,6 +1358,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Enable example app build in CI<br />
   <sub>[#8119](https://github.com/flutter/packages/pull/8119) merged on November 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/8119) over 1 day, 73 additions and 45 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tools] Don't check license of generated Swift package<br />
+  <sub>[#8137](https://github.com/flutter/packages/pull/8137) merged on November 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8137) over 1 day, 46 additions and 10 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [url_launcher] Add Swift Package Manager integration to example app<br />
   <sub>[#8128](https://github.com/flutter/packages/pull/8128) merged on November 20, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8128) over 18 hours, 89 additions and 43 deletions in 5 files</sub><br />
