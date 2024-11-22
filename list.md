@@ -55,7 +55,7 @@
   <sub><details><summary>2 images...</summary>![Capture d’écran 2024-11-19 110315](https://github.com/user-attachments/assets/d86605f6-0060-4721-9233-09d8ec5774d4)![Capture d’écran 2024-11-19 110338](https://github.com/user-attachments/assets/7ee7465e-7a06-43db-bebb-ca87dda3cdc8)</details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] opt iOS/macOS apps out of Metal API validation via migrator, update templates in repo.
-  <sub>[#159228](https://github.com/flutter/flutter/pull/159228) merged on November 21, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/159228) over 3 hours, 219 additions and 0 deletions in 37 files</sub>
+  <sub>[#159228](https://github.com/flutter/flutter/pull/159228) merged on November 21, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/159228) over 3 hours, 219 additions and 0 deletions in 37 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `RepaintBoundary` that is no longer needed.

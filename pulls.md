@@ -59,3 +59,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStateMap` observer<br />
   <sub>[#159333](https://github.com/flutter/flutter/pull/159333) opened on on November 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159333) 116 additions and 1 deletion in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Manually update strings after dca37ad<br />
+  <sub>[#159343](https://github.com/flutter/flutter/pull/159343) opened on on November 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159343) 4 additions and 0 deletions in 2 files</sub><br />
+
