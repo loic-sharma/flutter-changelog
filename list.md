@@ -68,7 +68,7 @@
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Set stable color for semantics debugger
-  <sub>[#157884](https://github.com/flutter/flutter/pull/157884) merged on November 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157884) over 3 weeks, 43 additions and 6 deletions in 3 files</sub>
+  <sub>[#157884](https://github.com/flutter/flutter/pull/157884) merged on November 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/157884) over 3 weeks, 43 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do a clean shutdown of the flutter_tools processes started by observatory_port_test
