@@ -51,7 +51,7 @@
   <sub>[#159272](https://github.com/flutter/flutter/pull/159272) opened on on November 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/159272) 527 additions and 21 deletions in 2 files</sub><br />
 
 * **[Lam Thanh Nhan](https://github.com/lamnhan066)** &mdash; Add `columnWidth` Property to `DataTable` for Customizable Column Widths<br />
-  <sub>[#159279](https://github.com/flutter/flutter/pull/159279) opened on on November 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159279) 110 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#159279](https://github.com/flutter/flutter/pull/159279) opened on on November 21, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/159279) 110 additions and 3 deletions in 2 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Improve UI-thread animation performance<br />
   <sub>[#159288](https://github.com/flutter/flutter/pull/159288) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159288) 28 additions and 6 deletions in 3 files</sub><br />
