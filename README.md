@@ -1321,7 +1321,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-17 commits.
+18 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads<br />
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub><br />
@@ -1374,6 +1374,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Add autosubmit label to dependabot PRs<br />
   <sub>[#8101](https://github.com/flutter/packages/pull/8101) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8101) over 3 days, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_actions_plaform_interface] add localizedSubtitle<br />
+  <sub>[#8112](https://github.com/flutter/packages/pull/8112) merged on November 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8112) over 5 days, 58 additions and 6 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Omar Khaled](https://github.com/omar-hanafy)** &mdash; [go_router] Fix: Consistent PopScope Handling on Root Routes issue #140869<br />
   <sub>[#8045](https://github.com/flutter/packages/pull/8045) merged on November 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8045) over 1 week, 75 additions and 22 deletions in 4 files</sub><br />
