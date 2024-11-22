@@ -42,7 +42,7 @@
   <sub>[#159219](https://github.com/flutter/flutter/pull/159219) opened on on November 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/159219) 894 additions and 0 deletions in 7 files</sub><br />
 
 * **[denisbganev](https://github.com/denisbganev)** &mdash; Material ButtonStyleButton.icon() constructor param IconAlignment default-safety fix<br />
-  <sub>[#159242](https://github.com/flutter/flutter/pull/159242) opened on on November 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159242) 10 additions and 10 deletions in 4 files</sub><br />
+  <sub>[#159242](https://github.com/flutter/flutter/pull/159242) opened on on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159242) 10 additions and 10 deletions in 4 files</sub><br />
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Refactor bottom sheet & related widgets<br />
   <sub>[#159257](https://github.com/flutter/flutter/pull/159257) opened on on November 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159257) 34 additions and 53 deletions in 1 file</sub><br />
