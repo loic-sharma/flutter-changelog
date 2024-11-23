@@ -62,6 +62,3 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample<br />
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) opened on on November 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159344) 36 additions and 2 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove now unused `apk-health-tests`. Can always re-add in the future.<br />
-  <sub>[#159349](https://github.com/flutter/flutter/pull/159349) opened on on November 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159349) 0 additions and 73 deletions in 12 files</sub><br />
-
