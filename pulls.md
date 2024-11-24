@@ -74,3 +74,6 @@
 * **[Ercan Tomac](https://github.com/ercantomac)** &mdash; Ability to customize the curve used in the hero animation (#26150)<br />
   <sub>[#159393](https://github.com/flutter/flutter/pull/159393) opened on on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159393) 18 additions and 2 deletions in 1 file</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix false positive validation result on form submission with AutovalidateMode.onUnfocus<br />
+  <sub>[#159394](https://github.com/flutter/flutter/pull/159394) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159394) 54 additions and 2 deletions in 2 files</sub><br />
+
