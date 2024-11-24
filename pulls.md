@@ -77,3 +77,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix false positive validation result on form submission with AutovalidateMode.onUnfocus<br />
   <sub>[#159394](https://github.com/flutter/flutter/pull/159394) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159394) 54 additions and 2 deletions in 2 files</sub><br />
 
+* **[TheJoeSchr](https://github.com/TheJoeSchr)** &mdash; Fix typo in flutter_command.dart<br />
+  <sub>[#159398](https://github.com/flutter/flutter/pull/159398) opened on on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159398) 1 addition and 1 deletion in 1 file</sub><br />
+
