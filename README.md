@@ -740,7 +740,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-49 commits.
+50 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlImageFilter code to Impeller geometry classes<br />
   <sub>[#56720](https://github.com/flutter/engine/pull/56720) merged on November 20, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/56720) over 21 hours, 2179 additions and 1378 deletions in 99 files</sub><br />
@@ -796,13 +796,13 @@
   <sub>[#56682](https://github.com/flutter/engine/pull/56682) merged on November 22, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/56682) over 3 days, 1630 additions and 110 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; [Flutter GPU] Added support to set Scissor.<br />
-  <sub>[#56302](https://github.com/flutter/engine/pull/56302) merged on November 21, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/56302) over 2 weeks, 123 additions and 0 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Work around wrong pointerId in coalesced events in iOS Safari 18.2<br />
   <sub>[#56719](https://github.com/flutter/engine/pull/56719) merged on November 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56719) over 1 day, 174 additions and 16 deletions in 3 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; [Flutter GPU] Added support to set Scissor.<br />
+  <sub>[#56302](https://github.com/flutter/engine/pull/56302) merged on November 21, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/56302) over 2 weeks, 123 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update emulator definitions version to latest available from chrome infra<br />
   <sub>[#56313](https://github.com/flutter/engine/pull/56313) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/56313) over 2 weeks, 12 additions and 12 deletions in 5 files</sub><br />
@@ -816,10 +816,6 @@
   <sub>[#56770](https://github.com/flutter/engine/pull/56770) merged on November 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56770) over 43 minutes, 41 additions and 41 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [et] Add Android x64 configurations<br />
-  <sub>[#56703](https://github.com/flutter/engine/pull/56703) merged on November 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56703) over 1 day, 27 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] flush all GLES cmd buffers together.<br />
   <sub>[#56724](https://github.com/flutter/engine/pull/56724) merged on November 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56724) over 15 hours, 57 additions and 11 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -832,8 +828,16 @@
   <sub>[#54966](https://github.com/flutter/engine/pull/54966) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/54966) over 2 months, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Ashish Myles](https://github.com/marcianx), [Yegor](https://github.com/yjbanov)</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [et] Add Android x64 configurations<br />
+  <sub>[#56703](https://github.com/flutter/engine/pull/56703) merged on November 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56703) over 1 day, 27 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started only loading gles3 functions if we have a gles3 context<br />
   <sub>[#56636](https://github.com/flutter/engine/pull/56636) merged on November 18, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56636) over 2 days, 5 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Cleaned up BufferBindingsGLES::BindUniformBuffer<br />
+  <sub>[#56777](https://github.com/flutter/engine/pull/56777) merged on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56777) over 20 hours, 19 additions and 16 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Ensure that SnapshotControllerImpeller has a rendering context before creating the snapshot<br />
@@ -848,37 +852,37 @@
   <sub>[#56759](https://github.com/flutter/engine/pull/56759) merged on November 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56759) over 1 hour, 11 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Eliminate unused include<br />
+  <sub>[#56698](https://github.com/flutter/engine/pull/56698) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56698) over 10 hours, 2 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache and reuse openGL framebuffer attachments.<br />
   <sub>[#56746](https://github.com/flutter/engine/pull/56746) merged on November 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56746) over 12 hours, 50 additions and 28 deletions in 3 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Eliminate unused include<br />
-  <sub>[#56698](https://github.com/flutter/engine/pull/56698) merged on November 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56698) over 10 hours, 2 additions and 5 deletions in 2 files</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Run simulator tests with Impeller enabled.<br />
+  <sub>[#56740](https://github.com/flutter/engine/pull/56740) merged on November 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56740) over 45 minutes, 10 additions and 19 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Extract TestGLContext to separate translation unit<br />
+  <sub>[#56647](https://github.com/flutter/engine/pull/56647) merged on November 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56647) over 2 days, 259 additions and 196 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Extract backend-specific user_data<br />
+  <sub>[#56642](https://github.com/flutter/engine/pull/56642) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56642) over 2 days, 148 additions and 76 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up @synthesize directives / ivars<br />
+  <sub>[#56665](https://github.com/flutter/engine/pull/56665) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56665) over 2 hours, 36 additions and 32 deletions in 12 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate unguarded-availability opt-out<br />
   <sub>[#56689](https://github.com/flutter/engine/pull/56689) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56689) over 40 minutes, 1 addition and 5 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Extract TestGLContext to separate translation unit<br />
-  <sub>[#56647](https://github.com/flutter/engine/pull/56647) merged on November 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56647) over 2 days, 259 additions and 196 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Skia build scripts for a refactoring of the Fontconfig font manager<br />
-  <sub>[#56684](https://github.com/flutter/engine/pull/56684) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56684) over 1 hour, 9 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; Eliminate ShellTestPlatformView::BackendType::kDefaultBackendType<br />
-  <sub>[#56744](https://github.com/flutter/engine/pull/56744) merged on November 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56744) over 2 hours, 36 additions and 18 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Clean up @synthesize directives / ivars<br />
-  <sub>[#56665](https://github.com/flutter/engine/pull/56665) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56665) over 2 hours, 36 additions and 32 deletions in 12 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] more consistently flush dart event loop, run vsync callback immediately<br />
-  <sub>[#56738](https://github.com/flutter/engine/pull/56738) merged on November 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56738) over 13 hours, 99 additions and 36 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated some impeller benchmark urls<br />
+  <sub>[#56721](https://github.com/flutter/engine/pull/56721) merged on November 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56721) over 1 day, 7 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; TestMetalContext: Use ARC-managed Metal types<br />
   <sub>[#56717](https://github.com/flutter/engine/pull/56717) merged on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56717) over 1 hour, 17 additions and 20 deletions in 3 files</sub><br />
@@ -887,6 +891,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: templatise GetEmbedderContext<br />
   <sub>[#56709](https://github.com/flutter/engine/pull/56709) merged on November 19, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/engine/pull/56709) over 2 hours, 266 additions and 252 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update the Skia build scripts for a refactoring of the Fontconfig font manager<br />
+  <sub>[#56684](https://github.com/flutter/engine/pull/56684) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56684) over 1 hour, 9 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; display_list: Extract backend-specific surface providers<br />
   <sub>[#56711](https://github.com/flutter/engine/pull/56711) merged on November 19, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56711) over 1 hour, 79 additions and 32 deletions in 6 files</sub><br />
@@ -900,17 +908,13 @@
   <sub>[#56722](https://github.com/flutter/engine/pull/56722) merged on November 22, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56722) over 2 days, 157 additions and 102 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; EmbedderTest: Extract backend-specific user_data<br />
-  <sub>[#56642](https://github.com/flutter/engine/pull/56642) merged on November 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56642) over 2 days, 148 additions and 76 deletions in 15 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] more consistently flush dart event loop, run vsync callback immediately<br />
+  <sub>[#56738](https://github.com/flutter/engine/pull/56738) merged on November 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56738) over 13 hours, 99 additions and 36 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Run simulator tests with Impeller enabled.<br />
-  <sub>[#56740](https://github.com/flutter/engine/pull/56740) merged on November 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56740) over 45 minutes, 10 additions and 19 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated some impeller benchmark urls<br />
-  <sub>[#56721](https://github.com/flutter/engine/pull/56721) merged on November 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56721) over 1 day, 7 additions and 8 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Eliminate ShellTestPlatformView::BackendType::kDefaultBackendType<br />
+  <sub>[#56744](https://github.com/flutter/engine/pull/56744) merged on November 22, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56744) over 2 hours, 36 additions and 18 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Use `displayWidth`/`displayHeight` instead of `codedWidth`/`codedHeight`<br />
   <sub>[#56686](https://github.com/flutter/engine/pull/56686) merged on November 18, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56686) over 1 hour, 15 additions and 2 deletions in 2 files</sub><br />
@@ -920,13 +924,13 @@
   <sub>[#56618](https://github.com/flutter/engine/pull/56618) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56618) over 3 days, 3 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow GTK style enum naming<br />
-  <sub>[#56731](https://github.com/flutter/engine/pull/56731) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56731) over 5 hours, 72 additions and 89 deletions in 24 files</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update Engine-Clang-Tidy-Linter.md<br />
   <sub>[#56708](https://github.com/flutter/engine/pull/56708) merged on November 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56708) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow GTK style enum naming<br />
+  <sub>[#56731](https://github.com/flutter/engine/pull/56731) merged on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56731) over 5 hours, 72 additions and 89 deletions in 24 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Kaylee Lubick](https://github.com/kjlubick)** &mdash; Use updated gni source list<br />
   <sub>[#56627](https://github.com/flutter/engine/pull/56627) merged on November 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56627) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
