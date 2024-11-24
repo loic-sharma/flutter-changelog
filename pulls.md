@@ -45,7 +45,7 @@
   <sub>[#159242](https://github.com/flutter/flutter/pull/159242) opened on on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159242) 10 additions and 10 deletions in 4 files</sub><br />
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Refactor bottom sheet & related widgets<br />
-  <sub>[#159257](https://github.com/flutter/flutter/pull/159257) opened on on November 21, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/159257) 29 additions and 62 deletions in 1 file</sub><br />
+  <sub>[#159257](https://github.com/flutter/flutter/pull/159257) opened on on November 21, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/159257) 29 additions and 62 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Reland CupertinoPopupSurface<br />
   <sub>[#159272](https://github.com/flutter/flutter/pull/159272) opened on on November 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/159272) 561 additions and 21 deletions in 2 files</sub><br />
