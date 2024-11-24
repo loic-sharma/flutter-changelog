@@ -68,3 +68,6 @@
 * **[hgraceb](https://github.com/hgraceb)** &mdash; Fix unexpected shown of Scrollbar<br />
   <sub>[#159386](https://github.com/flutter/flutter/pull/159386) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159386) 45 additions and 6 deletions in 2 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; SliverMainAxisGroup multiple PinnedHeaderSliver children<br />
+  <sub>[#159391](https://github.com/flutter/flutter/pull/159391) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159391) 56 additions and 42 deletions in 2 files</sub><br />
+
