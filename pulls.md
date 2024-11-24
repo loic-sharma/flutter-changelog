@@ -48,7 +48,7 @@
   <sub>[#159257](https://github.com/flutter/flutter/pull/159257) opened on on November 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159257) 34 additions and 53 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Reland CupertinoPopupSurface<br />
-  <sub>[#159272](https://github.com/flutter/flutter/pull/159272) opened on on November 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/159272) 527 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#159272](https://github.com/flutter/flutter/pull/159272) opened on on November 21, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/159272) 561 additions and 21 deletions in 2 files</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Improve UI-thread animation performance<br />
   <sub>[#159288](https://github.com/flutter/flutter/pull/159288) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159288) 28 additions and 6 deletions in 3 files</sub><br />
