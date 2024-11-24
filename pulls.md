@@ -72,5 +72,5 @@
   <sub>[#159391](https://github.com/flutter/flutter/pull/159391) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159391) 56 additions and 42 deletions in 2 files</sub><br />
 
 * **[Ercan Tomac](https://github.com/ercantomac)** &mdash; Ability to customize the curve used in the hero animation (#26150)<br />
-  <sub>[#159393](https://github.com/flutter/flutter/pull/159393) opened on on November 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159393) 18 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#159393](https://github.com/flutter/flutter/pull/159393) opened on on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159393) 18 additions and 2 deletions in 1 file</sub><br />
 
