@@ -1725,7 +1725,7 @@
 
 ### November 16, 2024 to November 22, 2024
 
-32 commits.
+33 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Offline-first" architecture cookbook recipe<br />
   <sub>[#11425](https://github.com/flutter/website/pull/11425) merged on November 22, 2024 &mdash; **Large:** [53 comments](https://github.com/flutter/website/pull/11425) over 21 hours, 1070 additions and 0 deletions in 12 files</sub><br />
@@ -1790,6 +1790,10 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; replace 'may' with 'might' in extern_win.md<br />
   <sub>[#11418](https://github.com/flutter/website/pull/11418) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11418) over 31 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; fix: #11433 broken link<br />
+  <sub>[#11435](https://github.com/flutter/website/pull/11435) merged on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11435) over 26 minutes, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Add `/go/unwrapping-widget-keys` design doc redirect<br />
   <sub>[#11419](https://github.com/flutter/website/pull/11419) merged on November 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11419) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
