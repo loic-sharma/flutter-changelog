@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `image_filter_test` and `color_filter_test.dart` for Material 3<br />
-  <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[userFortyTwo](https://github.com/userFortyTwo)** &mdash; Fix typo in gen_l10n_types.dart<br />
@@ -974,11 +974,15 @@
 
 ### November 23, 2024 to November 29, 2024
 
-1 commits.
+2 commits.
 
 * **[Fransdhinta D. Prianggoro](https://github.com/fransdhinta)** &mdash; [vector_graphics_compiler] fix: handle parsing stroke-width with an invalid value<br />
   <sub>[#8004](https://github.com/flutter/packages/pull/8004) merged on November 25, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/8004) over 3 weeks, 87 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Update example apps' .gitignore<br />
+  <sub>[#8156](https://github.com/flutter/packages/pull/8156) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8156) over 2 days, 12 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 ### November 16, 2024 to November 22, 2024
 
