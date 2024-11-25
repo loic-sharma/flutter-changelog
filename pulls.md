@@ -86,6 +86,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix "Error: Unable to find git in your PATH" when Command Processor `AutoRun` registry key is defined<br />
   <sub>[#159424](https://github.com/flutter/flutter/pull/159424) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159424) 13 additions and 8 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix constrained InputDecorator baseline when content overflows<br />
-  <sub>[#159434](https://github.com/flutter/flutter/pull/159434) opened on on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159434) 55 additions and 3 deletions in 2 files</sub><br />
-
