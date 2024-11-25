@@ -4,11 +4,15 @@
 
 ### November 23, 2024 to November 29, 2024
 
-1 commits.
+2 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Date picker overlay colors aren't applied on selected state
   <sub>[#159203](https://github.com/flutter/flutter/pull/159203) merged on November 25, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/159203) over 4 days, 364 additions and 53 deletions in 5 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `image_filter_test` and `color_filter_test.dart` for Material 3
+  <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 ### November 16, 2024 to November 22, 2024
 
