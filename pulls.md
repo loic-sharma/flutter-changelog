@@ -44,13 +44,13 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Improve UI-thread animation performance<br />
   <sub>[#159288](https://github.com/flutter/flutter/pull/159288) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159288) 28 additions and 6 deletions in 3 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update flutter.groovy<br />
-  <sub>[#159296](https://github.com/flutter/flutter/pull/159296) opened on on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159296) 12 additions and 2 deletions in 1 file</sub><br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : `findByPath` requires a specific ordering of project evaluation in `flutter.groovy`<br />
+  <sub>[#159296](https://github.com/flutter/flutter/pull/159296) opened on on November 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159296) 12 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Align comments in ` flutter_build_preview_sdk_test.dart` with build.gradle.kts usage<br />
   <sub>[#159299](https://github.com/flutter/flutter/pull/159299) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159299) 3 additions and 3 deletions in 1 file</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update module_plugin_loader.gradle<br />
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove unnecessary semicolon in module_plugin_loader.radle<br />
   <sub>[#159303](https://github.com/flutter/flutter/pull/159303) opened on on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159303) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed typos<br />
