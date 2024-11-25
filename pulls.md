@@ -50,6 +50,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Align comments in ` flutter_build_preview_sdk_test.dart` with build.gradle.kts usage<br />
   <sub>[#159299](https://github.com/flutter/flutter/pull/159299) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159299) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Update module_plugin_loader.gradle<br />
+  <sub>[#159303](https://github.com/flutter/flutter/pull/159303) opened on on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159303) 1 addition and 1 deletion in 1 file</sub><br />
+
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed typos<br />
   <sub>[#159331](https://github.com/flutter/flutter/pull/159331) opened on on November 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159331) 179 additions and 179 deletions in 59 files</sub><br />
 
@@ -94,7 +97,4 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Do not rely on Leader/Follower to position DropdownMenu menu<br />
   <sub>[#159436](https://github.com/flutter/flutter/pull/159436) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159436) 0 additions and 42 deletions in 2 files</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Revert "Update `image_filter_test` and `color_filter_test.dart` for Material 3"<br />
-  <sub>[#159439](https://github.com/flutter/flutter/pull/159439) opened on on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159439) 11 additions and 125 deletions in 2 files</sub><br />
 
