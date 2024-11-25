@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `image_filter_test` and `color_filter_test.dart` for Material 3<br />
-  <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix a failing test missed in #159108<br />
