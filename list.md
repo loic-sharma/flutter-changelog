@@ -353,7 +353,7 @@
   <sub>[#158915](https://github.com/flutter/flutter/pull/158915) merged on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158915) over 40 minutes, 40 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
-* **[hgraceb](https://github.com/hgraceb)** &mdash; Fix update order of SliverAppBar
+* **[Flop](https://github.com/hgraceb)** &mdash; Fix update order of SliverAppBar
   <sub>[#158159](https://github.com/flutter/flutter/pull/158159) merged on November 14, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/158159) over 1 week, 68 additions and 16 deletions in 4 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
