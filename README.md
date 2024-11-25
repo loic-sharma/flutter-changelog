@@ -964,9 +964,18 @@
 
 ## flutter/packages
 
+### November 23, 2024 to November 29, 2024
+
+1 commits.
+
+* **[Fransdhinta D. Prianggoro](https://github.com/fransdhinta)** &mdash; [vector_graphics_compiler] fix: handle parsing stroke-width with an invalid value<br />
+  <sub>[#8004](https://github.com/flutter/packages/pull/8004) merged on November 25, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/8004) over 3 weeks, 87 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### November 16, 2024 to November 22, 2024
 
-22 commits.
+<details>
+<summary>22 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds support to define parameters that control the rendering of ads<br />
   <sub>[#8057](https://github.com/flutter/packages/pull/8057) merged on November 19, 2024 &mdash; **Large:** [24 comments](https://github.com/flutter/packages/pull/8057) over 1 week, 1274 additions and 62 deletions in 32 files</sub><br />
@@ -1055,6 +1064,8 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Reland "[url_launcher] Add Swift Package Manager integration to example app"<br />
   <sub>[#8148](https://github.com/flutter/packages/pull/8148) merged on November 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8148) over 14 hours, 89 additions and 43 deletions in 5 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+</details>
 
 ### November 9, 2024 to November 15, 2024
 
