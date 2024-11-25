@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-10 commits.
+11 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) merged on November 25, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159151) over 5 days, 166 additions and 62 deletions in 8 files</sub>
@@ -21,6 +21,10 @@
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Refactor bottom sheet & related widgets
   <sub>[#159257](https://github.com/flutter/flutter/pull/159257) merged on November 25, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159257) over 4 days, 29 additions and 62 deletions in 1 file</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Roll dartdoc to 8.3.0
+  <sub>[#159448](https://github.com/flutter/flutter/pull/159448) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159448) over 49 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update comment in analysis_options.yaml
   <sub>[#159449](https://github.com/flutter/flutter/pull/159449) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159449) over 27 minutes, 1 addition and 1 deletion in 1 file</sub>
