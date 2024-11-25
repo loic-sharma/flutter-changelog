@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 23, 2024 to November 29, 2024
+
+1 commits.
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Date picker overlay colors aren't applied on selected state
+  <sub>[#159203](https://github.com/flutter/flutter/pull/159203) merged on November 25, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/159203) over 4 days, 364 additions and 53 deletions in 5 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 ### November 16, 2024 to November 22, 2024
 
-50 commits.
+<details>
+<summary>50 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce new Material 3 `Slider` shapes
   <sub>[#152237](https://github.com/flutter/flutter/pull/152237) merged on November 19, 2024 &mdash; **Large:** [93 comments](https://github.com/flutter/flutter/pull/152237) over 3 months, 1170 additions and 51 deletions in 7 files</sub>
@@ -215,6 +224,8 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Reland Add UI Benchmarks
   <sub>[#153368](https://github.com/flutter/flutter/pull/153368) merged on November 19, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/153368) over 3 months, 174 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+
+</details>
 
 ### November 9, 2024 to November 15, 2024
 
