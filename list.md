@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-11 commits.
+12 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) merged on November 25, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159151) over 5 days, 166 additions and 62 deletions in 8 files</sub>
@@ -13,6 +13,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Date picker overlay colors aren't applied on selected state
   <sub>[#159203](https://github.com/flutter/flutter/pull/159203) merged on November 25, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/159203) over 4 days, 364 additions and 53 deletions in 5 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Click-and-dragging in widget selection mode updates the inspected widget in DevTools
+  <sub>[#159352](https://github.com/flutter/flutter/pull/159352) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159352) over 3 days, 58 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `image_filter_test` and `color_filter_test.dart` for Material 3
   <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub>
@@ -533,11 +537,15 @@
 
 ### November 23, 2024 to November 29, 2024
 
-8 commits.
+9 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [46 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] better handle allocation herustics of Android slide in page transition.
+  <sub>[#56762](https://github.com/flutter/engine/pull/56762) merged on November 25, 2024 &mdash; **Small:** [26 comments](https://github.com/flutter/engine/pull/56762) over 3 days, 109 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] remove fml_check from surface_texture_external_texture
   <sub>[#56760](https://github.com/flutter/engine/pull/56760) merged on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56760) over 3 days, 4 additions and 1 deletion in 1 file</sub>
