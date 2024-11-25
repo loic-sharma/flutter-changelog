@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `image_filter_test` and `color_filter_test.dart` for Material 3<br />
-  <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub><br />
+  <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix a failing test missed in #159108<br />
@@ -230,7 +230,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Do not rely on Leader/Follower to position DropdownMenu menu<br />
-  <sub>[#158930](https://github.com/flutter/flutter/pull/158930) merged on November 23, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/158930) over 1 week, 0 additions and 42 deletions in 2 files</sub><br />
+  <sub>[#158930](https://github.com/flutter/flutter/pull/158930) merged on November 23, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158930) over 1 week, 0 additions and 42 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Temporarily change tests to accommodate new `SemanticsAction` value<br />

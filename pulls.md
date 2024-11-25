@@ -86,3 +86,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix "Error: Unable to find git in your PATH" when Command Processor `AutoRun` registry key is defined<br />
   <sub>[#159424](https://github.com/flutter/flutter/pull/159424) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159424) 13 additions and 8 deletions in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Do not rely on Leader/Follower to position DropdownMenu menu<br />
+  <sub>[#159436](https://github.com/flutter/flutter/pull/159436) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159436) 0 additions and 42 deletions in 2 files</sub><br />
+
