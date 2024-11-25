@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-4 commits.
+5 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) merged on November 25, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159151) over 5 days, 166 additions and 62 deletions in 8 files</sub>
@@ -17,6 +17,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `image_filter_test` and `color_filter_test.dart` for Material 3
   <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix a failing test missed in #159108
+  <sub>[#159407](https://github.com/flutter/flutter/pull/159407) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159407) over 11 hours, 2 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[userFortyTwo](https://github.com/userFortyTwo)** &mdash; Fix typo in gen_l10n_types.dart
   <sub>[#159035](https://github.com/flutter/flutter/pull/159035) merged on November 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159035) over 1 week, 1 addition and 1 deletion in 1 file</sub>
