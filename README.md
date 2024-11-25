@@ -480,9 +480,18 @@
 
 ## flutter/engine
 
+### November 23, 2024 to November 29, 2024
+
+1 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix the mapping from exit response strings to the FlPlatformChannelExitResponse enum<br />
+  <sub>[#56769](https://github.com/flutter/engine/pull/56769) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56769) over 2 days, 47 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
 ### November 16, 2024 to November 22, 2024
 
-51 commits.
+<details>
+<summary>51 commits...</summary>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlImageFilter code to Impeller geometry classes<br />
   <sub>[#56720](https://github.com/flutter/engine/pull/56720) merged on November 20, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/56720) over 21 hours, 2179 additions and 1378 deletions in 99 files</sub><br />
@@ -690,6 +699,8 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Added assert for opengles thread safety (#56585)"<br />
   <sub>[#56730](https://github.com/flutter/engine/pull/56730) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56730) over 58 minutes, 0 additions and 24 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+</details>
 
 ### November 9, 2024 to November 15, 2024
 
