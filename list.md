@@ -533,7 +533,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-6 commits.
+7 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [46 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub>
@@ -546,6 +546,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; removed unused variable for skia initialization
   <sub>[#56791](https://github.com/flutter/engine/pull/56791) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56791) over 42 minutes, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] gles: started storing the number of handle deletions to avoid reallocation
+  <sub>[#56799](https://github.com/flutter/engine/pull/56799) merged on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56799) over 53 minutes, 8 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Bump versions of agp and robolectric, and configure to use SDK 35
   <sub>[#56732](https://github.com/flutter/engine/pull/56732) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56732) over 4 days, 7 additions and 78 deletions in 4 files</sub>
