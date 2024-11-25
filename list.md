@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-7 commits.
+8 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) merged on November 25, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159151) over 5 days, 166 additions and 62 deletions in 8 files</sub>
@@ -33,6 +33,10 @@
 * **[userFortyTwo](https://github.com/userFortyTwo)** &mdash; Fix typo in gen_l10n_types.dart
   <sub>[#159035](https://github.com/flutter/flutter/pull/159035) merged on November 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159035) over 1 week, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Set stable color for semantics debugger (#157884)"
+  <sub>[#159355](https://github.com/flutter/flutter/pull/159355) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159355) over 2 days, 43 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
 
 ### November 16, 2024 to November 22, 2024
 
