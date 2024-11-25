@@ -509,7 +509,15 @@
 
 ### November 23, 2024 to November 29, 2024
 
-3 commits.
+5 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] remove fml_check from surface_texture_external_texture<br />
+  <sub>[#56760](https://github.com/flutter/engine/pull/56760) merged on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56760) over 3 days, 4 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; removed unused variable for skia initialization<br />
+  <sub>[#56791](https://github.com/flutter/engine/pull/56791) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56791) over 42 minutes, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Bump versions of agp and robolectric, and configure to use SDK 35<br />
   <sub>[#56732](https://github.com/flutter/engine/pull/56732) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56732) over 4 days, 7 additions and 78 deletions in 4 files</sub><br />
@@ -978,11 +986,15 @@
 
 ### November 23, 2024 to November 29, 2024
 
-2 commits.
+3 commits.
 
 * **[Fransdhinta D. Prianggoro](https://github.com/fransdhinta)** &mdash; [vector_graphics_compiler] fix: handle parsing stroke-width with an invalid value<br />
   <sub>[#8004](https://github.com/flutter/packages/pull/8004) merged on November 25, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/8004) over 3 weeks, 87 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Migrate example apps' AppDelegate.swift<br />
+  <sub>[#8155](https://github.com/flutter/packages/pull/8155) merged on November 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8155) over 2 days, 165 additions and 41 deletions in 47 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [LouiseHsu](https://github.com/LouiseHsu), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Update example apps' .gitignore<br />
   <sub>[#8156](https://github.com/flutter/packages/pull/8156) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8156) over 2 days, 12 additions and 0 deletions in 6 files</sub><br />
