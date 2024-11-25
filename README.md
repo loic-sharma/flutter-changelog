@@ -505,7 +505,11 @@
 
 ### November 23, 2024 to November 29, 2024
 
-1 commits.
+2 commits.
+
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Add missing import for malloc<br />
+  <sub>[#56781](https://github.com/flutter/engine/pull/56781) merged on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56781) over 15 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix the mapping from exit response strings to the FlPlatformChannelExitResponse enum<br />
   <sub>[#56769](https://github.com/flutter/engine/pull/56769) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56769) over 2 days, 47 additions and 1 deletion in 4 files</sub><br />
@@ -1176,9 +1180,18 @@
 
 ## flutter/website
 
+### November 23, 2024 to November 29, 2024
+
+1 commits.
+
+* **[Dawit Beyene](https://github.com/daveragos)** &mdash; Updated Doc: changes Center to Container<br />
+  <sub>[#11427](https://github.com/flutter/website/pull/11427) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11427) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 ### November 16, 2024 to November 22, 2024
 
-33 commits.
+<details>
+<summary>33 commits...</summary>
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Offline-first" architecture cookbook recipe<br />
   <sub>[#11425](https://github.com/flutter/website/pull/11425) merged on November 22, 2024 &mdash; **Large:** [53 comments](https://github.com/flutter/website/pull/11425) over 21 hours, 1070 additions and 0 deletions in 12 files</sub><br />
@@ -1311,6 +1324,8 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]update dart swift concurrency doc for ios 18<br />
   <sub>[#11412](https://github.com/flutter/website/pull/11412) merged on November 20, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11412) over 5 hours, 18 additions and 20 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+</details>
 
 ### November 9, 2024 to November 15, 2024
 

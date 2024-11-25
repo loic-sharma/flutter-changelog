@@ -90,7 +90,7 @@
   <sub>[#159410](https://github.com/flutter/flutter/pull/159410) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159410) 266 additions and 7 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` parameter to `Chip`s<br />
-  <sub>[#159422](https://github.com/flutter/flutter/pull/159422) opened on on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159422) 201 additions and 0 deletions in 10 files</sub><br />
+  <sub>[#159422](https://github.com/flutter/flutter/pull/159422) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159422) 201 additions and 0 deletions in 10 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix "Error: Unable to find git in your PATH" when Command Processor `AutoRun` registry key is defined<br />
   <sub>[#159424](https://github.com/flutter/flutter/pull/159424) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159424) 14 additions and 10 deletions in 1 file</sub><br />
