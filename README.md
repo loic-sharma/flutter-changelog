@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-8 commits.
+10 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly<br />
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) merged on November 25, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159151) over 5 days, 166 additions and 62 deletions in 8 files</sub><br />
@@ -17,6 +17,14 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `image_filter_test` and `color_filter_test.dart` for Material 3<br />
   <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Matthias Ngeo](https://github.com/Pante)** &mdash; Refactor bottom sheet & related widgets<br />
+  <sub>[#159257](https://github.com/flutter/flutter/pull/159257) merged on November 25, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159257) over 4 days, 29 additions and 62 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update comment in analysis_options.yaml<br />
+  <sub>[#159449](https://github.com/flutter/flutter/pull/159449) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159449) over 27 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Bump AGP/Gradle/Kotlin warn versions<br />
   <sub>[#158839](https://github.com/flutter/flutter/pull/158839) merged on November 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158839) over 1 week, 6 additions and 6 deletions in 2 files</sub><br />
