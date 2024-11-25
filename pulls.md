@@ -33,10 +33,7 @@
   <sub>[#159242](https://github.com/flutter/flutter/pull/159242) opened on on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159242) 10 additions and 10 deletions in 4 files</sub><br />
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Refactor bottom sheet & related widgets<br />
-  <sub>[#159257](https://github.com/flutter/flutter/pull/159257) opened on on November 21, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/159257) 29 additions and 62 deletions in 1 file</sub><br />
-
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Reland CupertinoPopupSurface<br />
-  <sub>[#159272](https://github.com/flutter/flutter/pull/159272) opened on on November 21, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/159272) 561 additions and 21 deletions in 2 files</sub><br />
+  <sub>[#159257](https://github.com/flutter/flutter/pull/159257) opened on on November 21, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159257) 29 additions and 62 deletions in 1 file</sub><br />
 
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Improve UI-thread animation performance<br />
   <sub>[#159288](https://github.com/flutter/flutter/pull/159288) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159288) 28 additions and 6 deletions in 3 files</sub><br />
@@ -100,4 +97,7 @@
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint in MainActivity.kt.tmpl<br />
   <sub>[#159441](https://github.com/flutter/flutter/pull/159441) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159441) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update comment in analysis_options.yaml<br />
+  <sub>[#159449](https://github.com/flutter/flutter/pull/159449) opened on on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159449) 1 addition and 1 deletion in 1 file</sub><br />
 
