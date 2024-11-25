@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-6 commits.
+7 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly<br />
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) merged on November 25, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159151) over 5 days, 166 additions and 62 deletions in 8 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Bump AGP/Gradle/Kotlin warn versions<br />
   <sub>[#158839](https://github.com/flutter/flutter/pull/158839) merged on November 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158839) over 1 week, 6 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Framework sends a11y message when enabling semantics<br />
+  <sub>[#159163](https://github.com/flutter/flutter/pull/159163) merged on November 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159163) over 6 days, 92 additions and 8 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Fix a failing test missed in #159108<br />
   <sub>[#159407](https://github.com/flutter/flutter/pull/159407) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159407) over 11 hours, 2 additions and 1 deletion in 1 file</sub><br />
