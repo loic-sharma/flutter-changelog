@@ -505,7 +505,11 @@
 
 ### November 23, 2024 to November 29, 2024
 
-2 commits.
+3 commits.
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Bump versions of agp and robolectric, and configure to use SDK 35
+  <sub>[#56732](https://github.com/flutter/engine/pull/56732) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56732) over 4 days, 7 additions and 78 deletions in 4 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Add missing import for malloc
   <sub>[#56781](https://github.com/flutter/engine/pull/56781) merged on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56781) over 15 hours, 1 addition and 0 deletions in 1 file</sub>
