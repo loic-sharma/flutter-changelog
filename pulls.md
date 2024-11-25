@@ -50,6 +50,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Align comments in ` flutter_build_preview_sdk_test.dart` with build.gradle.kts usage<br />
   <sub>[#159299](https://github.com/flutter/flutter/pull/159299) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159299) 3 additions and 3 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`<br />
+  <sub>[#159301](https://github.com/flutter/flutter/pull/159301) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159301) 8 additions and 3 deletions in 1 file</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove unnecessary semicolon in module_plugin_loader.radle<br />
   <sub>[#159303](https://github.com/flutter/flutter/pull/159303) opened on on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159303) 1 addition and 1 deletion in 1 file</sub><br />
 
