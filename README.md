@@ -541,7 +541,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-13 commits.
+14 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling<br />
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub><br />
@@ -562,6 +562,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; removed unused variable for skia initialization<br />
   <sub>[#56791](https://github.com/flutter/engine/pull/56791) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56791) over 42 minutes, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Rename FlutterPlatformViews_Internal.mm<br />
+  <sub>[#56816](https://github.com/flutter/engine/pull/56816) merged on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56816) over 59 minutes, 3 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate global in platformviews controller<br />
   <sub>[#56805](https://github.com/flutter/engine/pull/56805) merged on November 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56805) over 17 hours, 38 additions and 44 deletions in 1 file</sub><br />
