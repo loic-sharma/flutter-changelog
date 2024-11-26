@@ -104,6 +104,3 @@
 * **[Dicksen](https://github.com/Dicksenz)** &mdash; Add my name to authors<br />
   <sub>[#159468](https://github.com/flutter/flutter/pull/159468) opened on on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159468) 11 additions and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField overlay colors management<br />
-  <sub>[#159472](https://github.com/flutter/flutter/pull/159472) opened on on November 26, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159472) 250 additions and 159 deletions in 4 files</sub><br />
-
