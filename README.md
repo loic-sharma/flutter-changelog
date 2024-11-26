@@ -4,7 +4,11 @@
 
 ### November 23, 2024 to November 29, 2024
 
-12 commits.
+13 commits.
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `SelectionListener`/`SelectedContentRange`<br />
+  <sub>[#154202](https://github.com/flutter/flutter/pull/154202) merged on November 26, 2024 &mdash; **Extra large:** [227 comments](https://github.com/flutter/flutter/pull/154202) over 3 months, 1664 additions and 34 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly<br />
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) merged on November 25, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159151) over 5 days, 166 additions and 62 deletions in 8 files</sub><br />
