@@ -98,7 +98,7 @@
   <sub><details><summary>2 images...</summary>![Screenshot 2024-11-16 at 22 21 36](https://github.com/user-attachments/assets/b3d4e34b-fe2b-4d32-8b0a-2d55e5d23f69)![Screenshot 2024-11-16 at 22 13 43](https://github.com/user-attachments/assets/b74a41de-69c5-4968-82c0-a08d29a3252d)</details></sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build
-  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub>
+  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [56 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix lint usage of `task` inside `resolve_dependecies.gradle` file
@@ -1270,7 +1270,11 @@
 
 ### November 23, 2024 to November 29, 2024
 
-1 commits.
+2 commits.
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add new JetPack APIs to menus
+  <sub>[#11443](https://github.com/flutter/website/pull/11443) merged on November 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11443) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Dawit Beyene](https://github.com/daveragos)** &mdash; Updated Doc: changes Center to Container
   <sub>[#11427](https://github.com/flutter/website/pull/11427) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11427) over 3 days, 1 addition and 1 deletion in 1 file</sub>
