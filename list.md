@@ -549,7 +549,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-16 commits.
+17 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub>
@@ -574,6 +574,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; removed unused variable for skia initialization
   <sub>[#56791](https://github.com/flutter/engine/pull/56791) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56791) over 42 minutes, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache even more text frame data to skip lookups.
+  <sub>[#56798](https://github.com/flutter/engine/pull/56798) merged on November 26, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56798) over 22 hours, 192 additions and 35 deletions in 10 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Rename FlutterPlatformViews_Internal.mm
   <sub>[#56816](https://github.com/flutter/engine/pull/56816) merged on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56816) over 59 minutes, 3 additions and 3 deletions in 3 files</sub>
@@ -1070,7 +1074,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-6 commits.
+7 commits.
 
 * **[Fransdhinta D. Prianggoro](https://github.com/fransdhinta)** &mdash; [vector_graphics_compiler] fix: handle parsing stroke-width with an invalid value
   <sub>[#8004](https://github.com/flutter/packages/pull/8004) merged on November 25, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/8004) over 3 weeks, 87 additions and 2 deletions in 4 files</sub>
@@ -1091,6 +1095,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Update example apps' .gitignore
   <sub>[#8156](https://github.com/flutter/packages/pull/8156) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8156) over 2 days, 12 additions and 0 deletions in 6 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [flutter_svg] Adopt code excerpts
+  <sub>[#8181](https://github.com/flutter/packages/pull/8181) merged on November 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8181) over 3 hours, 201 additions and 38 deletions in 11 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [ci][webview_flutter_android] Manual Roll and skip tests
   <sub>[#8186](https://github.com/flutter/packages/pull/8186) merged on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8186) over 1 hour, 8 additions and 2 deletions in 2 files</sub>
