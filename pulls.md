@@ -92,3 +92,6 @@
 * **[Dicksen](https://github.com/Dicksenz)** &mdash; Add my name to authors<br />
   <sub>[#159468](https://github.com/flutter/flutter/pull/159468) opened on on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159468) 11 additions and 1 deletion in 1 file</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Report usage of `deferred-components` to analytics.<br />
+  <sub>[#159506](https://github.com/flutter/flutter/pull/159506) opened on on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159506) 87 additions and 0 deletions in 4 files</sub><br />
+
