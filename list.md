@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-14 commits.
+15 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `SelectionListener`/`SelectedContentRange`
   <sub>[#154202](https://github.com/flutter/flutter/pull/154202) merged on November 26, 2024 &mdash; **Extra large:** [227 comments](https://github.com/flutter/flutter/pull/154202) over 3 months, 1664 additions and 34 deletions in 14 files</sub>
@@ -17,6 +17,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Date picker overlay colors aren't applied on selected state
   <sub>[#159203](https://github.com/flutter/flutter/pull/159203) merged on November 25, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/159203) over 4 days, 364 additions and 53 deletions in 5 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Fix stack overflow error for Flutter web when requesting a large widget tree
+  <sub>[#159454](https://github.com/flutter/flutter/pull/159454) merged on November 26, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/159454) over 21 hours, 170 additions and 154 deletions in 7 files</sub>
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Click-and-dragging in widget selection mode updates the inspected widget in DevTools
   <sub>[#159352](https://github.com/flutter/flutter/pull/159352) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159352) over 3 days, 58 additions and 0 deletions in 2 files</sub>
