@@ -98,7 +98,7 @@
   <sub><details><summary>2 images...</summary>![Screenshot 2024-11-16 at 22 21 36](https://github.com/user-attachments/assets/b3d4e34b-fe2b-4d32-8b0a-2d55e5d23f69)![Screenshot 2024-11-16 at 22 13 43](https://github.com/user-attachments/assets/b74a41de-69c5-4968-82c0-a08d29a3252d)</details></sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build
-  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub>
+  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [60 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix lint usage of `task` inside `resolve_dependecies.gradle` file
@@ -541,7 +541,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-14 commits.
+15 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub>
@@ -598,6 +598,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix the mapping from exit response strings to the FlPlatformChannelExitResponse enum
   <sub>[#56769](https://github.com/flutter/engine/pull/56769) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56769) over 2 days, 47 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: Migrate PlatformViewsController to Objective-C (#56790)"
+  <sub>[#56817](https://github.com/flutter/engine/pull/56817) merged on November 26, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/56817) over 1 hour, 1974 additions and 2280 deletions in 24 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Yegor](https://github.com/yjbanov)</sub>
 
 ### November 16, 2024 to November 22, 2024
 
