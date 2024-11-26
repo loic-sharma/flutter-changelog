@@ -56,12 +56,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; SliverMainAxisGroup multiple PinnedHeaderSliver children<br />
   <sub>[#159391](https://github.com/flutter/flutter/pull/159391) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159391) 63 additions and 43 deletions in 2 files</sub><br />
 
-* **[Ercan Tomac](https://github.com/ercantomac)** &mdash; Ability to customize the curve used in the hero animation (#26150)<br />
-  <sub>[#159393](https://github.com/flutter/flutter/pull/159393) opened on on November 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159393) 18 additions and 2 deletions in 1 file</sub><br />
-
-* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix false positive validation result on form submission with AutovalidateMode.onUnfocus<br />
-  <sub>[#159394](https://github.com/flutter/flutter/pull/159394) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159394) 54 additions and 2 deletions in 2 files</sub><br />
-
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] fix confusing tests (not working conditions based on broken regex)<br />
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159396) 27 additions and 31 deletions in 2 files</sub><br />
 
