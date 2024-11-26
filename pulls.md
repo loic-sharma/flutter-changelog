@@ -44,9 +44,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStateMap` observer<br />
   <sub>[#159333](https://github.com/flutter/flutter/pull/159333) opened on on November 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159333) 109 additions and 1 deletion in 2 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample<br />
-  <sub>[#159344](https://github.com/flutter/flutter/pull/159344) opened on on November 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159344) 36 additions and 2 deletions in 2 files</sub><br />
-
 * **[sargntpi](https://github.com/sargntpi)** &mdash; Added spellCheckConfiguration to the constructor of CupertinoTextFormFieldRow<br />
   <sub>[#159385](https://github.com/flutter/flutter/pull/159385) opened on on November 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159385) 2 additions and 0 deletions in 1 file</sub><br />
 
