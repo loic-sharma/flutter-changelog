@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-13 commits.
+14 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `SelectionListener`/`SelectedContentRange`
   <sub>[#154202](https://github.com/flutter/flutter/pull/154202) merged on November 26, 2024 &mdash; **Extra large:** [227 comments](https://github.com/flutter/flutter/pull/154202) over 3 months, 1664 additions and 34 deletions in 14 files</sub>
@@ -21,6 +21,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Click-and-dragging in widget selection mode updates the inspected widget in DevTools
   <sub>[#159352](https://github.com/flutter/flutter/pull/159352) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159352) over 3 days, 58 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Report usage of `deferred-components` to analytics.
+  <sub>[#159307](https://github.com/flutter/flutter/pull/159307) merged on November 26, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159307) over 4 days, 87 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `image_filter_test` and `color_filter_test.dart` for Material 3
   <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub>
@@ -541,11 +545,15 @@
 
 ### November 23, 2024 to November 29, 2024
 
-15 commits.
+16 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlColorFilter objects to new source layout
+  <sub>[#56785](https://github.com/flutter/engine/pull/56785) merged on November 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/56785) over 1 day, 769 additions and 550 deletions in 40 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Migrate PlatformViewsController to Objective-C
   <sub>[#56790](https://github.com/flutter/engine/pull/56790) merged on November 26, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/engine/pull/56790) over 6 hours, 2293 additions and 1974 deletions in 24 files</sub>
@@ -1058,7 +1066,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-4 commits.
+6 commits.
 
 * **[Fransdhinta D. Prianggoro](https://github.com/fransdhinta)** &mdash; [vector_graphics_compiler] fix: handle parsing stroke-width with an invalid value
   <sub>[#8004](https://github.com/flutter/packages/pull/8004) merged on November 25, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/8004) over 3 weeks, 87 additions and 2 deletions in 4 files</sub>
@@ -1068,12 +1076,20 @@
   <sub>[#8172](https://github.com/flutter/packages/pull/8172) merged on November 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8172) over 10 hours, 15 additions and 11 deletions in 5 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [flutter_markdown] fix invalid URI's causing unhandled image errors
+  <sub>[#8058](https://github.com/flutter/packages/pull/8058) merged on November 26, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8058) over 2 weeks, 148 additions and 14 deletions in 6 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Brett Morgan](https://github.com/domesticmouse)</sub>
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Migrate example apps' AppDelegate.swift
   <sub>[#8155](https://github.com/flutter/packages/pull/8155) merged on November 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8155) over 2 days, 165 additions and 41 deletions in 47 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [LouiseHsu](https://github.com/LouiseHsu), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Update example apps' .gitignore
   <sub>[#8156](https://github.com/flutter/packages/pull/8156) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8156) over 2 days, 12 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [ci][webview_flutter_android] Manual Roll and skip tests
+  <sub>[#8186](https://github.com/flutter/packages/pull/8186) merged on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8186) over 1 hour, 8 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### November 16, 2024 to November 22, 2024
