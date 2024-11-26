@@ -544,7 +544,7 @@
 9 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling<br />
-  <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [46 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub><br />
+  <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] better handle allocation herustics of Android slide in page transition.<br />
@@ -1034,11 +1034,15 @@
 
 ### November 23, 2024 to November 29, 2024
 
-3 commits.
+4 commits.
 
 * **[Fransdhinta D. Prianggoro](https://github.com/fransdhinta)** &mdash; [vector_graphics_compiler] fix: handle parsing stroke-width with an invalid value<br />
   <sub>[#8004](https://github.com/flutter/packages/pull/8004) merged on November 25, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/8004) over 3 weeks, 87 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Update Pigeon version for Linux<br />
+  <sub>[#8172](https://github.com/flutter/packages/pull/8172) merged on November 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8172) over 10 hours, 15 additions and 11 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Migrate example apps' AppDelegate.swift<br />
   <sub>[#8155](https://github.com/flutter/packages/pull/8155) merged on November 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8155) over 2 days, 165 additions and 41 deletions in 47 files</sub><br />
