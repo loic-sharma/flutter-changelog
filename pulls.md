@@ -78,7 +78,7 @@
   <sub>[#159452](https://github.com/flutter/flutter/pull/159452) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159452) 94 additions and 99 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete keyboard navigation<br />
-  <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/159455) 440 additions and 46 deletions in 4 files</sub><br />
+  <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/159455) 440 additions and 46 deletions in 4 files</sub><br />
 
 * **[Dicksen](https://github.com/Dicksenz)** &mdash; Add my name to authors<br />
   <sub>[#159468](https://github.com/flutter/flutter/pull/159468) opened on on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159468) 11 additions and 1 deletion in 1 file</sub><br />
