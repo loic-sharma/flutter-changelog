@@ -169,6 +169,10 @@
   <sub>[#159209](https://github.com/flutter/flutter/pull/159209) merged on November 20, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/159209) over 3 hours, 29 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Prettier merge_queue.md
+  <sub>[#158969](https://github.com/flutter/flutter/pull/158969) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158969) over 3 days, 34 additions and 12 deletions in 1 file</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix InkWell overlayColor resolution ignores selected state
   <sub>[#159072](https://github.com/flutter/flutter/pull/159072) merged on November 19, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159072) over 22 hours, 123 additions and 27 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
@@ -180,10 +184,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Terminate the test device if the `flutter` tool is signal-killed.
   <sub>[#159115](https://github.com/flutter/flutter/pull/159115) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159115) over 15 hours, 81 additions and 16 deletions in 2 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Danny Tuppeny](https://github.com/DanTup)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Prettier merge_queue.md
-  <sub>[#158969](https://github.com/flutter/flutter/pull/158969) merged on November 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158969) over 3 days, 34 additions and 12 deletions in 1 file</sub>
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Lam Thanh Nhan](https://github.com/lamnhan066)** &mdash; Add `columnWidth` Property to `DataTable` for Customizable Column Widths
   <sub>[#159279](https://github.com/flutter/flutter/pull/159279) merged on November 22, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159279) over 1 day, 107 additions and 1 deletion in 2 files</sub>
@@ -356,13 +356,21 @@
   <sub>[#158965](https://github.com/flutter/flutter/pull/158965) merged on November 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158965) over 1 hour, 46 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid using platform `ProcessInfo.maxRss` in test.
+  <sub>[#158526](https://github.com/flutter/flutter/pull/158526) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158526) over 22 hours, 10 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Move the logic for SwiftPM enablement to the platform project
   <sub>[#158213](https://github.com/flutter/flutter/pull/158213) merged on November 13, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/158213) over 1 week, 338 additions and 163 deletions in 14 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid using platform `ProcessInfo.maxRss` in test.
-  <sub>[#158526](https://github.com/flutter/flutter/pull/158526) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158526) over 22 hours, 10 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Create merge_queue.md
+  <sub>[#158959](https://github.com/flutter/flutter/pull/158959) merged on November 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158959) over 1 hour, 34 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template
+  <sub>[#156947](https://github.com/flutter/flutter/pull/156947) merged on November 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156947) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; add filesystem error handling to `systemTempDirectory`
   <sub>[#158481](https://github.com/flutter/flutter/pull/158481) merged on November 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158481) over 19 hours, 31 additions and 2 deletions in 2 files</sub>
@@ -372,10 +380,6 @@
   <sub>[#158009](https://github.com/flutter/flutter/pull/158009) merged on November 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158009) over 1 week, 153 additions and 4 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[August](https://github.com/Gustl22)** &mdash; feat: Include web 1.x.x in plugin template
-  <sub>[#156947](https://github.com/flutter/flutter/pull/156947) merged on November 14, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/156947) over 4 weeks, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Parker Lougheed](https://github.com/parlough)</sub>
-
 * **[Greg Spencer](https://github.com/gspencergoog)** &mdash; Make the focus node on SelectableRegion optional.
   <sub>[#158994](https://github.com/flutter/flutter/pull/158994) merged on November 15, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/158994) over 3 hours, 28 additions and 313 deletions in 5 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
@@ -383,10 +387,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Label PRs with gradle and Android paths "platform-android"
   <sub>[#158970](https://github.com/flutter/flutter/pull/158970) merged on November 15, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/158970) over 14 hours, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Create merge_queue.md
-  <sub>[#158959](https://github.com/flutter/flutter/pull/158959) merged on November 14, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158959) over 1 hour, 34 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adds a skip message for analyzer
   <sub>[#158890](https://github.com/flutter/flutter/pull/158890) merged on November 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/158890) over 1 minute, 1 addition and 1 deletion in 1 file</sub>
