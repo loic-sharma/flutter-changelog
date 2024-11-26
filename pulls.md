@@ -35,17 +35,8 @@
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Improve UI-thread animation performance<br />
   <sub>[#159288](https://github.com/flutter/flutter/pull/159288) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159288) 28 additions and 6 deletions in 3 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : `findByPath` requires a specific ordering of project evaluation in `flutter.groovy`<br />
-  <sub>[#159296](https://github.com/flutter/flutter/pull/159296) opened on on November 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159296) 12 additions and 2 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Align comments in ` flutter_build_preview_sdk_test.dart` with build.gradle.kts usage<br />
-  <sub>[#159299](https://github.com/flutter/flutter/pull/159299) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159299) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`<br />
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159301) 8 additions and 3 deletions in 1 file</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove unnecessary semicolon in module_plugin_loader.radle<br />
-  <sub>[#159303](https://github.com/flutter/flutter/pull/159303) opened on on November 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159303) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed typos<br />
   <sub>[#159331](https://github.com/flutter/flutter/pull/159331) opened on on November 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159331) 179 additions and 179 deletions in 59 files</sub><br />
@@ -91,9 +82,6 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Do not rely on Leader/Follower to position DropdownMenu menu<br />
   <sub>[#159436](https://github.com/flutter/flutter/pull/159436) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159436) 0 additions and 42 deletions in 2 files</sub><br />
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint in MainActivity.kt.tmpl<br />
-  <sub>[#159441](https://github.com/flutter/flutter/pull/159441) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159441) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor gradle task runner to share error handler code<br />
   <sub>[#159452](https://github.com/flutter/flutter/pull/159452) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159452) 94 additions and 99 deletions in 1 file</sub><br />
