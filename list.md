@@ -98,7 +98,7 @@
   <sub><details><summary>2 images...</summary>![Screenshot 2024-11-16 at 22 21 36](https://github.com/user-attachments/assets/b3d4e34b-fe2b-4d32-8b0a-2d55e5d23f69)![Screenshot 2024-11-16 at 22 13 43](https://github.com/user-attachments/assets/b74a41de-69c5-4968-82c0-a08d29a3252d)</details></sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build
-  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [54 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub>
+  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [55 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix lint usage of `task` inside `resolve_dependecies.gradle` file
