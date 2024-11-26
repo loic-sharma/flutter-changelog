@@ -71,7 +71,7 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix false positive validation result on form submission with AutovalidateMode.onUnfocus<br />
   <sub>[#159394](https://github.com/flutter/flutter/pull/159394) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159394) 54 additions and 2 deletions in 2 files</sub><br />
 
-* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; fix confusing tests (not working conditions based on broken regex pat…<br />
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] fix confusing tests (not working conditions based on broken regex)<br />
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159396) 27 additions and 31 deletions in 2 files</sub><br />
 
 * **[TheJoeSchr](https://github.com/TheJoeSchr)** &mdash; Fix typo in flutter_command.dart<br />
