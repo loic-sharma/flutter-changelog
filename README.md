@@ -98,7 +98,7 @@
   <sub><details><summary>2 images...</summary>![Screenshot 2024-11-16 at 22 21 36](https://github.com/user-attachments/assets/b3d4e34b-fe2b-4d32-8b0a-2d55e5d23f69)![Screenshot 2024-11-16 at 22 13 43](https://github.com/user-attachments/assets/b74a41de-69c5-4968-82c0-a08d29a3252d)</details></sub>
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fixes initial validation with AutovalidateMode.always on first build<br />
-  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [58 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub><br />
+  <sub>[#156708](https://github.com/flutter/flutter/pull/156708) merged on November 19, 2024 &mdash; **Small:** [59 comments](https://github.com/flutter/flutter/pull/156708) over 1 month, 60 additions and 17 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix lint usage of `task` inside `resolve_dependecies.gradle` file<br />
@@ -541,7 +541,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-12 commits.
+13 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling<br />
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub><br />
@@ -562,6 +562,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; removed unused variable for skia initialization<br />
   <sub>[#56791](https://github.com/flutter/engine/pull/56791) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56791) over 42 minutes, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Eliminate global in platformviews controller<br />
+  <sub>[#56805](https://github.com/flutter/engine/pull/56805) merged on November 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56805) over 17 hours, 38 additions and 44 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Delete FlutterPlatformViewsController.layerPoolSize<br />
   <sub>[#56806](https://github.com/flutter/engine/pull/56806) merged on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56806) over 3 hours, 0 additions and 7 deletions in 2 files</sub><br />
