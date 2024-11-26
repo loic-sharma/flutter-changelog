@@ -1313,7 +1313,7 @@
 2 commits.
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add new JetPack APIs to menus
-  <sub>[#11443](https://github.com/flutter/website/pull/11443) merged on November 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11443) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
+  <sub>[#11443](https://github.com/flutter/website/pull/11443) merged on November 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11443) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Dawit Beyene](https://github.com/daveragos)** &mdash; Updated Doc: changes Center to Container
