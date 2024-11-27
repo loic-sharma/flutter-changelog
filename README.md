@@ -1122,11 +1122,15 @@
 
 ### November 23, 2024 to November 29, 2024
 
-7 commits.
+8 commits.
 
 * **[Fransdhinta D. Prianggoro](https://github.com/fransdhinta)** &mdash; [vector_graphics_compiler] fix: handle parsing stroke-width with an invalid value<br />
   <sub>[#8004](https://github.com/flutter/packages/pull/8004) merged on November 25, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/8004) over 3 weeks, 87 additions and 2 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [file_selector_android] Refactor interactions with `ContentProvider` provided filenames<br />
+  <sub>[#8184](https://github.com/flutter/packages/pull/8184) merged on November 27, 2024 &mdash; **Large:** [20 comments](https://github.com/flutter/packages/pull/8184) over 1 day, 616 additions and 54 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [oskar-zeinomahmalat-sonarsource](https://github.com/oskar-zeinomahmalat-sonarsource), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [file_selector] Update Pigeon version for Linux<br />
   <sub>[#8172](https://github.com/flutter/packages/pull/8172) merged on November 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8172) over 10 hours, 15 additions and 11 deletions in 5 files</sub><br />
