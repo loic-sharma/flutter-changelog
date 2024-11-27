@@ -565,11 +565,15 @@
 
 ### November 23, 2024 to November 29, 2024
 
-23 commits.
+24 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont use dynamic shader metadata path for precompiled shaders.
+  <sub>[#56827](https://github.com/flutter/engine/pull/56827) merged on November 27, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/56827) over 17 hours, 286 additions and 170 deletions in 18 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlColorFilter objects to new source layout
   <sub>[#56785](https://github.com/flutter/engine/pull/56785) merged on November 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/56785) over 1 day, 769 additions and 550 deletions in 40 files</sub>
