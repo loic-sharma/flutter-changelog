@@ -80,3 +80,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add `flutter widget-preview {start, clean}` commands<br />
   <sub>[#159510](https://github.com/flutter/flutter/pull/159510) opened on on November 26, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159510) 752 additions and 244 deletions in 13 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Optimize InkWell widget states resolution<br />
+  <sub>[#159546](https://github.com/flutter/flutter/pull/159546) opened on on November 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159546) 22 additions and 12 deletions in 1 file</sub><br />
+
