@@ -561,7 +561,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-22 commits.
+23 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub>
@@ -642,6 +642,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Revert "iOS: Migrate PlatformViewsController to Objective-C (#56790)"
   <sub>[#56817](https://github.com/flutter/engine/pull/56817) merged on November 26, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/56817) over 1 hour, 1974 additions and 2280 deletions in 24 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Reland: iOS: Eliminate global in platformviews controller
+  <sub>[#56831](https://github.com/flutter/engine/pull/56831) merged on November 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56831) over 11 hours, 38 additions and 44 deletions in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Reland: iOS: Delete FlutterPlatformViewsController.layerPoolSize
   <sub>[#56830](https://github.com/flutter/engine/pull/56830) merged on November 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56830) over 2 hours, 0 additions and 7 deletions in 2 files</sub>
