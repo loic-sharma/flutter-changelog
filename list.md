@@ -1122,7 +1122,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-8 commits.
+9 commits.
 
 * **[Fransdhinta D. Prianggoro](https://github.com/fransdhinta)** &mdash; [vector_graphics_compiler] fix: handle parsing stroke-width with an invalid value
   <sub>[#8004](https://github.com/flutter/packages/pull/8004) merged on November 25, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/8004) over 3 weeks, 87 additions and 2 deletions in 4 files</sub>
@@ -1139,6 +1139,10 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; [flutter_markdown] fix invalid URI's causing unhandled image errors
   <sub>[#8058](https://github.com/flutter/packages/pull/8058) merged on November 26, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8058) over 2 weeks, 148 additions and 14 deletions in 6 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Brett Morgan](https://github.com/domesticmouse)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [image_picker_android] Refactor interactions with ContentProvider provided filenames
+  <sub>[#8188](https://github.com/flutter/packages/pull/8188) merged on November 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8188) over 1 day, 127 additions and 9 deletions in 7 files</sub>
+  <sub>Reviewed by: [oskar-zeinomahmalat-sonarsource](https://github.com/oskar-zeinomahmalat-sonarsource), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Migrate example apps' AppDelegate.swift
   <sub>[#8155](https://github.com/flutter/packages/pull/8155) merged on November 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8155) over 2 days, 165 additions and 41 deletions in 47 files</sub>
