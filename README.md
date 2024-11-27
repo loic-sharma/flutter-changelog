@@ -4,11 +4,15 @@
 
 ### November 23, 2024 to November 29, 2024
 
-15 commits.
+16 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `SelectionListener`/`SelectedContentRange`<br />
   <sub>[#154202](https://github.com/flutter/flutter/pull/154202) merged on November 26, 2024 &mdash; **Extra large:** [227 comments](https://github.com/flutter/flutter/pull/154202) over 3 months, 1664 additions and 34 deletions in 14 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Suppress previous route transition if current route is fullscreenDialog<br />
+  <sub>[#159312](https://github.com/flutter/flutter/pull/159312) merged on November 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159312) over 4 days, 108 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly<br />
   <sub>[#159151](https://github.com/flutter/flutter/pull/159151) merged on November 25, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/159151) over 5 days, 166 additions and 62 deletions in 8 files</sub><br />
@@ -549,7 +553,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-18 commits.
+19 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling<br />
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub><br />
@@ -578,6 +582,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache even more text frame data to skip lookups.<br />
   <sub>[#56798](https://github.com/flutter/engine/pull/56798) merged on November 26, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56798) over 22 hours, 192 additions and 35 deletions in 10 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Delete (publicly) unused DlColorColorSource<br />
+  <sub>[#56825](https://github.com/flutter/engine/pull/56825) merged on November 27, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56825) over 1 hour, 89 additions and 236 deletions in 23 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Rename FlutterPlatformViews_Internal.mm<br />
   <sub>[#56816](https://github.com/flutter/engine/pull/56816) merged on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56816) over 59 minutes, 3 additions and 3 deletions in 3 files</sub><br />
