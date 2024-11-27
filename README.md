@@ -565,7 +565,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-24 commits.
+25 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling<br />
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub><br />
@@ -642,6 +642,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Fix the mapping from exit response strings to the FlPlatformChannelExitResponse enum<br />
   <sub>[#56769](https://github.com/flutter/engine/pull/56769) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56769) over 2 days, 47 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell)</sub><br />
+
+* **[LN Liberda](https://github.com/selfisekai)** &mdash; IWYU: add some missing includes failing with libstdc++13/14<br />
+  <sub>[#56822](https://github.com/flutter/engine/pull/56822) merged on November 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56822) over 21 hours, 14 additions and 0 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Reland: iOS: Migrate PlatformViewsController to Objective-C<br />
   <sub>[#56828](https://github.com/flutter/engine/pull/56828) merged on November 27, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/56828) over 4 hours, 2294 additions and 1974 deletions in 24 files</sub><br />
