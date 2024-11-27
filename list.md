@@ -557,7 +557,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-19 commits.
+20 commits.
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub>
@@ -585,6 +585,10 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache even more text frame data to skip lookups.
   <sub>[#56798](https://github.com/flutter/engine/pull/56798) merged on November 26, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56798) over 22 hours, 192 additions and 35 deletions in 10 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make sampler use string_view instead of std::string.
+  <sub>[#56821](https://github.com/flutter/engine/pull/56821) merged on November 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56821) over 5 hours, 9 additions and 8 deletions in 5 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Delete (publicly) unused DlColorColorSource
