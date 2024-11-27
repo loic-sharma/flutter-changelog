@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-16 commits.
+17 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `SelectionListener`/`SelectedContentRange`
   <sub>[#154202](https://github.com/flutter/flutter/pull/154202) merged on November 26, 2024 &mdash; **Extra large:** [227 comments](https://github.com/flutter/flutter/pull/154202) over 3 months, 1664 additions and 34 deletions in 14 files</sub>
@@ -65,6 +65,10 @@
 * **[userFortyTwo](https://github.com/userFortyTwo)** &mdash; Fix typo in gen_l10n_types.dart
   <sub>[#159035](https://github.com/flutter/flutter/pull/159035) merged on November 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159035) over 1 week, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Reland CupertinoPopupSurface
+  <sub>[#159272](https://github.com/flutter/flutter/pull/159272) merged on November 27, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/159272) over 5 days, 561 additions and 21 deletions in 2 files</sub>
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Set stable color for semantics debugger (#157884)"
   <sub>[#159355](https://github.com/flutter/flutter/pull/159355) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159355) over 2 days, 43 additions and 6 deletions in 3 files</sub>
