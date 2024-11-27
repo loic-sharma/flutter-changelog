@@ -30,6 +30,10 @@
   <sub>[#159352](https://github.com/flutter/flutter/pull/159352) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159352) over 3 days, 58 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
+* **[Matthias Ngeo](https://github.com/Pante)** &mdash; Refactor bottom sheet & related widgets
+  <sub>[#159257](https://github.com/flutter/flutter/pull/159257) merged on November 25, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159257) over 4 days, 29 additions and 62 deletions in 1 file</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Report usage of `deferred-components` to analytics.
   <sub>[#159307](https://github.com/flutter/flutter/pull/159307) merged on November 26, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159307) over 4 days, 87 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -37,10 +41,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `image_filter_test` and `color_filter_test.dart` for Material 3
   <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
-
-* **[Matthias Ngeo](https://github.com/Pante)** &mdash; Refactor bottom sheet & related widgets
-  <sub>[#159257](https://github.com/flutter/flutter/pull/159257) merged on November 25, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159257) over 4 days, 29 additions and 62 deletions in 1 file</sub>
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Roll dartdoc to 8.3.0
   <sub>[#159448](https://github.com/flutter/flutter/pull/159448) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159448) over 49 minutes, 1 addition and 1 deletion in 1 file</sub>
