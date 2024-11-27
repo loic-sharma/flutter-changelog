@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-18 commits.
+19 commits.
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `SelectionListener`/`SelectedContentRange`<br />
   <sub>[#154202](https://github.com/flutter/flutter/pull/154202) merged on November 26, 2024 &mdash; **Extra large:** [227 comments](https://github.com/flutter/flutter/pull/154202) over 3 months, 1664 additions and 34 deletions in 14 files</sub><br />
@@ -73,6 +73,10 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Reland CupertinoPopupSurface<br />
   <sub>[#159272](https://github.com/flutter/flutter/pull/159272) merged on November 27, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/159272) over 5 days, 561 additions and 21 deletions in 2 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_benchmark hello_world_macos__compile to be flaky<br />
+  <sub>[#159543](https://github.com/flutter/flutter/pull/159543) merged on November 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159543) over 6 hours, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Set stable color for semantics debugger (#157884)"<br />
   <sub>[#159355](https://github.com/flutter/flutter/pull/159355) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159355) over 2 days, 43 additions and 6 deletions in 3 files</sub><br />
