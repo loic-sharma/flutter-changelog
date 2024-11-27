@@ -60,7 +60,7 @@
   <sub>[#159410](https://github.com/flutter/flutter/pull/159410) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159410) 266 additions and 7 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` parameter to `Chip`s<br />
-  <sub>[#159422](https://github.com/flutter/flutter/pull/159422) opened on on November 25, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/159422) 452 additions and 9 deletions in 12 files</sub><br />
+  <sub>[#159422](https://github.com/flutter/flutter/pull/159422) opened on on November 25, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159422) 452 additions and 9 deletions in 12 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix "Error: Unable to find git in your PATH" when Command Processor `AutoRun` registry key is defined<br />
   <sub>[#159424](https://github.com/flutter/flutter/pull/159424) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159424) 13 additions and 8 deletions in 1 file</sub><br />
@@ -79,7 +79,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add `flutter widget-preview {start, clean}` commands<br />
   <sub>[#159510](https://github.com/flutter/flutter/pull/159510) opened on on November 26, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159510) 752 additions and 244 deletions in 13 files</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Optimize InkWell widget states resolution<br />
-  <sub>[#159546](https://github.com/flutter/flutter/pull/159546) opened on on November 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159546) 22 additions and 12 deletions in 1 file</sub><br />
 
