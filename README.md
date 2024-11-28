@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-22 commits.
+23 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] On the web platform, use an <img> tag to show an image if it can't be accessed with CORS<br />
   <sub>[#157755](https://github.com/flutter/flutter/pull/157755) merged on November 28, 2024 &mdash; **Large:** [295 comments](https://github.com/flutter/flutter/pull/157755) over 1 month, 1127 additions and 86 deletions in 11 files</sub><br />
@@ -69,6 +69,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Bump AGP/Gradle/Kotlin warn versions<br />
   <sub>[#158839](https://github.com/flutter/flutter/pull/158839) merged on November 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158839) over 1 week, 6 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert "Fix InkWell overlayColor resolution ignores selected state (#159072)<br />
+  <sub>[#159589](https://github.com/flutter/flutter/pull/159589) merged on November 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159589) over 1 hour, 27 additions and 123 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Framework sends a11y message when enabling semantics<br />
   <sub>[#159163](https://github.com/flutter/flutter/pull/159163) merged on November 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159163) over 6 days, 92 additions and 8 deletions in 5 files</sub><br />
