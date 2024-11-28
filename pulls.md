@@ -86,3 +86,6 @@
 * **[Flop](https://github.com/hgraceb)** &mdash; Fix scrollUntilVisible in WidgetTester<br />
   <sub>[#159582](https://github.com/flutter/flutter/pull/159582) opened on on November 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159582) 44 additions and 1 deletion in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert "Fix InkWell overlayColor resolution ignores selected state (#159072)<br />
+  <sub>[#159589](https://github.com/flutter/flutter/pull/159589) opened on on November 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159589) 27 additions and 123 deletions in 2 files</sub><br />
+
