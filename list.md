@@ -23,7 +23,7 @@
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Date picker overlay colors aren't applied on selected state
-  <sub>[#159203](https://github.com/flutter/flutter/pull/159203) merged on November 25, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/159203) over 4 days, 364 additions and 53 deletions in 5 files</sub>
+  <sub>[#159203](https://github.com/flutter/flutter/pull/159203) merged on November 25, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/159203) over 4 days, 364 additions and 53 deletions in 5 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Create `NativeAssetsManifest.json` instead of kernel embedding

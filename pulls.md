@@ -84,5 +84,8 @@
   <sub>[#159570](https://github.com/flutter/flutter/pull/159570) opened on on November 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159570) 22 additions and 1 deletion in 1 file</sub><br />
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Fix scrollUntilVisible in WidgetTester<br />
-  <sub>[#159582](https://github.com/flutter/flutter/pull/159582) opened on on November 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159582) 41 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#159582](https://github.com/flutter/flutter/pull/159582) opened on on November 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159582) 44 additions and 1 deletion in 2 files</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert "Fix Date picker overlay colors aren't applied on selected sta…<br />
+  <sub>[#159583](https://github.com/flutter/flutter/pull/159583) opened on on November 28, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/159583) 53 additions and 364 deletions in 5 files</sub><br />
 
