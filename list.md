@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-21 commits.
+22 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] On the web platform, use an <img> tag to show an image if it can't be accessed with CORS
   <sub>[#157755](https://github.com/flutter/flutter/pull/157755) merged on November 28, 2024 &mdash; **Large:** [295 comments](https://github.com/flutter/flutter/pull/157755) over 1 month, 1127 additions and 86 deletions in 11 files</sub>
@@ -37,6 +37,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Click-and-dragging in widget selection mode updates the inspected widget in DevTools
   <sub>[#159352](https://github.com/flutter/flutter/pull/159352) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159352) over 3 days, 58 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert "Fix Date picker overlay colors aren't applied on selected sta…
+  <sub>[#159583](https://github.com/flutter/flutter/pull/159583) merged on November 28, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159583) over 3 hours, 53 additions and 364 deletions in 5 files</sub>
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Aziz Chebbi](https://github.com/azizChebbi)** &mdash; Fix: Announce only the first error message for better accessibility
   <sub>[#156399](https://github.com/flutter/flutter/pull/156399) merged on November 28, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/156399) over 1 month, 44 additions and 33 deletions in 2 files</sub>
