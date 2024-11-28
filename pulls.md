@@ -83,3 +83,6 @@
 * **[Stan](https://github.com/stan-at-work)** &mdash; Added enum isLight, isDark and isSystem getter to ThemeMode enum<br />
   <sub>[#159570](https://github.com/flutter/flutter/pull/159570) opened on on November 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159570) 22 additions and 1 deletion in 1 file</sub><br />
 
+* **[Flop](https://github.com/hgraceb)** &mdash; Fix scrollUntilVisible in WidgetTester<br />
+  <sub>[#159582](https://github.com/flutter/flutter/pull/159582) opened on on November 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159582) 39 additions and 1 deletion in 2 files</sub><br />
+
