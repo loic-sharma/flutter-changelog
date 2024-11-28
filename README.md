@@ -4,7 +4,11 @@
 
 ### November 23, 2024 to November 29, 2024
 
-19 commits.
+21 commits.
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] On the web platform, use an <img> tag to show an image if it can't be accessed with CORS<br />
+  <sub>[#157755](https://github.com/flutter/flutter/pull/157755) merged on November 28, 2024 &mdash; **Large:** [295 comments](https://github.com/flutter/flutter/pull/157755) over 1 month, 1127 additions and 86 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Slava P.](https://github.com/slavap), [Gildásio Filho](https://github.com/gildaswise), [Mouad Debbar](https://github.com/mdebbar), [Tong Mu](https://github.com/dkwingsmt), and [1 other](https://github.com/flutter/flutter/pull/157755)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `SelectionListener`/`SelectedContentRange`<br />
   <sub>[#154202](https://github.com/flutter/flutter/pull/154202) merged on November 26, 2024 &mdash; **Extra large:** [227 comments](https://github.com/flutter/flutter/pull/154202) over 3 months, 1664 additions and 34 deletions in 14 files</sub><br />
@@ -33,6 +37,10 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Click-and-dragging in widget selection mode updates the inspected widget in DevTools<br />
   <sub>[#159352](https://github.com/flutter/flutter/pull/159352) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159352) over 3 days, 58 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+
+* **[Aziz Chebbi](https://github.com/azizChebbi)** &mdash; Fix: Announce only the first error message for better accessibility<br />
+  <sub>[#156399](https://github.com/flutter/flutter/pull/156399) merged on November 28, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/156399) over 1 month, 44 additions and 33 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Matthias Ngeo](https://github.com/Pante)** &mdash; Refactor bottom sheet & related widgets<br />
   <sub>[#159257](https://github.com/flutter/flutter/pull/159257) merged on November 25, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159257) over 4 days, 29 additions and 62 deletions in 1 file</sub><br />
