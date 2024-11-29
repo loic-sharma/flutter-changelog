@@ -60,7 +60,7 @@
   <sub>[#159410](https://github.com/flutter/flutter/pull/159410) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159410) 266 additions and 7 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` parameter to `Chip`s<br />
-  <sub>[#159422](https://github.com/flutter/flutter/pull/159422) opened on on November 25, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/159422) 411 additions and 1 deletion in 11 files</sub><br />
+  <sub>[#159422](https://github.com/flutter/flutter/pull/159422) opened on on November 25, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/159422) 411 additions and 1 deletion in 11 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix "Error: Unable to find git in your PATH" when Command Processor `AutoRun` registry key is defined<br />
   <sub>[#159424](https://github.com/flutter/flutter/pull/159424) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159424) 13 additions and 8 deletions in 1 file</sub><br />
@@ -88,7 +88,4 @@
 
 * **[Sergi](https://github.com/snackva)** &mdash; refactor _ModalScopeState to simplify animation handling and remove unnecessary ListenableBuilder<br />
   <sub>[#159615](https://github.com/flutter/flutter/pull/159615) opened on on November 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159615) 15 additions and 34 deletions in 1 file</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Menu is detached when MenuAnchor is given tight constraints<br />
-  <sub>[#159619](https://github.com/flutter/flutter/pull/159619) opened on on November 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159619) 92 additions and 7 deletions in 2 files</sub><br />
 
