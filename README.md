@@ -4,7 +4,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-23 commits.
+24 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] On the web platform, use an <img> tag to show an image if it can't be accessed with CORS<br />
   <sub>[#157755](https://github.com/flutter/flutter/pull/157755) merged on November 28, 2024 &mdash; **Large:** [300 comments](https://github.com/flutter/flutter/pull/157755) over 1 month, 1127 additions and 86 deletions in 11 files</sub><br />
@@ -57,6 +57,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `image_filter_test` and `color_filter_test.dart` for Material 3<br />
   <sub>[#158985](https://github.com/flutter/flutter/pull/158985) merged on November 25, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/158985) over 1 week, 125 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; improve `ContainerRenderObjectMixin` error message when `parentData` is not set up properly<br />
+  <sub>[#157846](https://github.com/flutter/flutter/pull/157846) merged on November 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/157846) over 4 weeks, 35 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [chunhtai](https://github.com/chunhtai), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Roll dartdoc to 8.3.0<br />
   <sub>[#159448](https://github.com/flutter/flutter/pull/159448) merged on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159448) over 49 minutes, 1 addition and 1 deletion in 1 file</sub><br />
