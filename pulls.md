@@ -89,3 +89,6 @@
 * **[Sergi](https://github.com/snackva)** &mdash; refactor _ModalScopeState to simplify animation handling and remove unnecessary ListenableBuilder<br />
   <sub>[#159615](https://github.com/flutter/flutter/pull/159615) opened on on November 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159615) 15 additions and 34 deletions in 1 file</sub><br />
 
+* **[Krzysztof Czarnota](https://github.com/czarny)** &mdash; Enabled provisioning updates and device registration during building xcarchive.<br />
+  <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159622) 3 additions and 0 deletions in 1 file</sub><br />
+
