@@ -591,6 +591,10 @@
   <sub>[#56827](https://github.com/flutter/engine/pull/56827) merged on November 27, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/56827) over 17 hours, 286 additions and 170 deletions in 18 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache even more text frame data to skip lookups.
+  <sub>[#56798](https://github.com/flutter/engine/pull/56798) merged on November 26, 2024 &mdash; **Small:** [21 comments](https://github.com/flutter/engine/pull/56798) over 22 hours, 192 additions and 35 deletions in 10 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlColorFilter objects to new source layout
   <sub>[#56785](https://github.com/flutter/engine/pull/56785) merged on November 26, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/56785) over 1 day, 769 additions and 550 deletions in 40 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -610,10 +614,6 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; removed unused variable for skia initialization
   <sub>[#56791](https://github.com/flutter/engine/pull/56791) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56791) over 42 minutes, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [John McDole](https://github.com/jtmcdole)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] cache even more text frame data to skip lookups.
-  <sub>[#56798](https://github.com/flutter/engine/pull/56798) merged on November 26, 2024 &mdash; **Small:** [19 comments](https://github.com/flutter/engine/pull/56798) over 22 hours, 192 additions and 35 deletions in 10 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Apply nullability annotations to FlutterPlatformViewsController
   <sub>[#56839](https://github.com/flutter/engine/pull/56839) merged on November 28, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56839) over 22 hours, 48 additions and 42 deletions in 3 files</sub>
