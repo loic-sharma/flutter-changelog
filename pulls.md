@@ -89,3 +89,6 @@
 * **[Sergi](https://github.com/snackva)** &mdash; refactor _ModalScopeState to simplify animation handling and remove unnecessary ListenableBuilder<br />
   <sub>[#159615](https://github.com/flutter/flutter/pull/159615) opened on on November 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159615) 15 additions and 34 deletions in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix Menu is detached when MenuAnchor is given tight constraints<br />
+  <sub>[#159619](https://github.com/flutter/flutter/pull/159619) opened on on November 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159619) 92 additions and 7 deletions in 2 files</sub><br />
+
