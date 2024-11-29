@@ -86,3 +86,6 @@
 * **[Flop](https://github.com/hgraceb)** &mdash; Fix scrollUntilVisible in WidgetTester<br />
   <sub>[#159582](https://github.com/flutter/flutter/pull/159582) opened on on November 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159582) 44 additions and 1 deletion in 2 files</sub><br />
 
+* **[Sergi](https://github.com/snackva)** &mdash; refactor _ModalScopeState to simplify animation handling and remove unnecessary ListenableBuilder<br />
+  <sub>[#159615](https://github.com/flutter/flutter/pull/159615) opened on on November 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159615) 15 additions and 34 deletions in 1 file</sub><br />
+
