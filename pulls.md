@@ -39,7 +39,7 @@
   <sub>[#159333](https://github.com/flutter/flutter/pull/159333) opened on on November 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159333) 109 additions and 1 deletion in 2 files</sub><br />
 
 * **[sargntpi](https://github.com/sargntpi)** &mdash; Added spellCheckConfiguration to the constructor of CupertinoTextFormFieldRow<br />
-  <sub>[#159385](https://github.com/flutter/flutter/pull/159385) opened on on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159385) 26 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#159385](https://github.com/flutter/flutter/pull/159385) opened on on November 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159385) 26 additions and 0 deletions in 2 files</sub><br />
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Fix unexpected shown of Scrollbar<br />
   <sub>[#159386](https://github.com/flutter/flutter/pull/159386) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159386) 45 additions and 6 deletions in 2 files</sub><br />
