@@ -7,7 +7,7 @@
 24 commits.
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] On the web platform, use an <img> tag to show an image if it can't be accessed with CORS
-  <sub>[#157755](https://github.com/flutter/flutter/pull/157755) merged on November 28, 2024 &mdash; **Large:** [303 comments](https://github.com/flutter/flutter/pull/157755) over 1 month, 1127 additions and 86 deletions in 11 files</sub>
+  <sub>[#157755](https://github.com/flutter/flutter/pull/157755) merged on November 28, 2024 &mdash; **Large:** [304 comments](https://github.com/flutter/flutter/pull/157755) over 1 month, 1127 additions and 86 deletions in 11 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Slava P.](https://github.com/slavap), [Gildásio Filho](https://github.com/gildaswise), [Mouad Debbar](https://github.com/mdebbar), [Tong Mu](https://github.com/dkwingsmt), and [1 other](https://github.com/flutter/flutter/pull/157755)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; Add `SelectionListener`/`SelectedContentRange`
