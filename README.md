@@ -1390,12 +1390,16 @@
 
 ### November 23, 2024 to November 29, 2024
 
-3 commits.
+4 commits.
 
 * **[Warren Runk](https://github.com/wrunk)** &mdash; Fix Web support page highlighting in left nav<br />
   <sub>[#11424](https://github.com/flutter/website/pull/11424) merged on November 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11424) over 5 days, 2 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
   <sub><details><summary>2 images...</summary>![Screenshot 2024-11-21 at 10 08 16](https://github.com/user-attachments/assets/1d1b3656-7463-4320-949a-805e993e6f8d)![Screenshot 2024-11-21 at 10 09 00](https://github.com/user-attachments/assets/92d8514a-3bca-4545-9c65-4953fbe0deaf)</details></sub>
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Add release notes for DevTools 2.41.0<br />
+  <sub>[#11446](https://github.com/flutter/website/pull/11446) merged on December 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11446) over 3 days, 73 additions and 0 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add new JetPack APIs to menus<br />
   <sub>[#11443](https://github.com/flutter/website/pull/11443) merged on November 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11443) over 1 hour, 2 additions and 0 deletions in 1 file</sub><br />
