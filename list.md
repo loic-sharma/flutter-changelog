@@ -1390,7 +1390,7 @@
 
 ### November 23, 2024 to November 29, 2024
 
-4 commits.
+5 commits.
 
 * **[Warren Runk](https://github.com/wrunk)** &mdash; Fix Web support page highlighting in left nav
   <sub>[#11424](https://github.com/flutter/website/pull/11424) merged on November 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11424) over 5 days, 2 additions and 1 deletion in 1 file</sub>
@@ -1404,6 +1404,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add new JetPack APIs to menus
   <sub>[#11443](https://github.com/flutter/website/pull/11443) merged on November 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11443) over 1 hour, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Illia Velichko](https://github.com/iveloff-developer)** &mdash; Standardize naive spelling on Architectural overview page
+  <sub>[#11448](https://github.com/flutter/website/pull/11448) merged on December 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11448) over 51 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Dawit Beyene](https://github.com/daveragos)** &mdash; Updated Doc: changes Center to Container
   <sub>[#11427](https://github.com/flutter/website/pull/11427) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11427) over 3 days, 1 addition and 1 deletion in 1 file</sub>
