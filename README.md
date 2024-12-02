@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### November 30, 2024 to December 6, 2024
+
+1 commits.
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; iPad Scribble flicker and crash<br />
+  <sub>[#159508](https://github.com/flutter/flutter/pull/159508) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159508) over 5 days, 105 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
 ### November 23, 2024 to November 29, 2024
 
-24 commits.
+<details>
+<summary>24 commits...</summary>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] On the web platform, use an <img> tag to show an image if it can't be accessed with CORS<br />
   <sub>[#157755](https://github.com/flutter/flutter/pull/157755) merged on November 28, 2024 &mdash; **Large:** [304 comments](https://github.com/flutter/flutter/pull/157755) over 1 month, 1127 additions and 86 deletions in 11 files</sub><br />
@@ -101,6 +110,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Reland "Set stable color for semantics debugger (#157884)"<br />
   <sub>[#159355](https://github.com/flutter/flutter/pull/159355) merged on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159355) over 2 days, 43 additions and 6 deletions in 3 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
+
+</details>
 
 ### November 16, 2024 to November 22, 2024
 
