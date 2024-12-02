@@ -66,7 +66,7 @@
   <sub>[#159436](https://github.com/flutter/flutter/pull/159436) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159436) 0 additions and 42 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor gradle task runner to share error handler code<br />
-  <sub>[#159452](https://github.com/flutter/flutter/pull/159452) opened on on November 25, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159452) 164 additions and 148 deletions in 1 file</sub><br />
+  <sub>[#159452](https://github.com/flutter/flutter/pull/159452) opened on on November 25, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159452) 209 additions and 189 deletions in 2 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete keyboard navigation<br />
   <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159455) 439 additions and 46 deletions in 4 files</sub><br />
