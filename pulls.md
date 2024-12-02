@@ -63,7 +63,7 @@
   <sub>[#159422](https://github.com/flutter/flutter/pull/159422) opened on on November 25, 2024 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/159422) 405 additions and 1 deletion in 11 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix "Error: Unable to find git in your PATH" when Command Processor `AutoRun` registry key is defined<br />
-  <sub>[#159424](https://github.com/flutter/flutter/pull/159424) opened on on November 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159424) 13 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#159424](https://github.com/flutter/flutter/pull/159424) opened on on November 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159424) 14 additions and 8 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Do not rely on Leader/Follower to position DropdownMenu menu<br />
   <sub>[#159436](https://github.com/flutter/flutter/pull/159436) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159436) 0 additions and 42 deletions in 2 files</sub><br />
@@ -95,9 +95,9 @@
 * **[Adam Langley](https://github.com/Adam-Langley)** &mdash; Fix code signing regex not resilient to whitespace<br />
   <sub>[#159643](https://github.com/flutter/flutter/pull/159643) opened on on December 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159643) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu is detached from the text field<br />
-  <sub>[#159665](https://github.com/flutter/flutter/pull/159665) opened on on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159665) 99 additions and 0 deletions in 2 files</sub><br />
-
 * **[Flop](https://github.com/hgraceb)** &mdash; Format controller.dart of flutter_test<br />
   <sub>[#159667](https://github.com/flutter/flutter/pull/159667) opened on on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159667) 49 additions and 50 deletions in 1 file</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add support for experimental dart data assets (under experimental flag) - part 1<br />
+  <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 794 additions and 137 deletions in 23 files</sub><br />
 

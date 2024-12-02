@@ -333,9 +333,18 @@
 
 ## flutter/engine
 
+### November 30, 2024 to December 6, 2024
+
+1 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 0740ded7b9bf to 5785058c9bb1 (5 revisions)
+  <sub>[#56886](https://github.com/flutter/engine/pull/56886) merged on December 2, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/56886) over 2 days, 356 additions and 228 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 ### November 23, 2024 to November 29, 2024
 
-26 commits.
+<details>
+<summary>26 commits...</summary>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; [iOS] Full keyboard access scrolling
   <sub>[#56606](https://github.com/flutter/engine/pull/56606) merged on November 25, 2024 &mdash; **Medium:** [47 comments](https://github.com/flutter/engine/pull/56606) over 1 week, 295 additions and 25 deletions in 15 files</sub>
@@ -440,6 +449,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] reland: more consistently flush message loops tasks
   <sub>[#56815](https://github.com/flutter/engine/pull/56815) merged on November 26, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56815) over 4 hours, 95 additions and 36 deletions in 6 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+</details>
 
 ### November 16, 2024 to November 22, 2024
 
