@@ -366,7 +366,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-9 commits.
+10 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub>
@@ -404,6 +404,10 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix linux on vivante drivers.
   <sub>[#56862](https://github.com/flutter/engine/pull/56862) merged on December 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56862) over 4 days, 10 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "[iOS] Full keyboard access scrolling (#56606)"
+  <sub>[#56842](https://github.com/flutter/engine/pull/56842) merged on December 2, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56842) over 5 days, 295 additions and 25 deletions in 15 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Chris Bracken](https://github.com/cbracken)</sub>
 
 ### November 23, 2024 to November 29, 2024
 
