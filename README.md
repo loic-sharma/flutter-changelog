@@ -4,7 +4,11 @@
 
 ### November 30, 2024 to December 6, 2024
 
-3 commits.
+4 commits.
+
+* **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
+  <sub>[#158302](https://github.com/flutter/flutter/pull/158302) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158302) over 3 weeks, 8 additions and 24 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; iPad Scribble flicker and crash<br />
   <sub>[#159508](https://github.com/flutter/flutter/pull/159508) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159508) over 5 days, 105 additions and 0 deletions in 3 files</sub><br />
