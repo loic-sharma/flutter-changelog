@@ -90,7 +90,7 @@
   <sub>[#159615](https://github.com/flutter/flutter/pull/159615) opened on on November 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159615) 15 additions and 34 deletions in 1 file</sub><br />
 
 * **[Krzysztof Czarnota](https://github.com/czarny)** &mdash; Enabled provisioning updates and device registration during building xcarchive.<br />
-  <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159622) 7 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
 
 * **[Adam Langley](https://github.com/Adam-Langley)** &mdash; Fix code signing regex not resilient to whitespace<br />
   <sub>[#159643](https://github.com/flutter/flutter/pull/159643) opened on on December 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159643) 1 addition and 1 deletion in 1 file</sub><br />
