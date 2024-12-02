@@ -75,7 +75,7 @@
   <sub>[#159506](https://github.com/flutter/flutter/pull/159506) opened on on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159506) 87 additions and 0 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add `flutter widget-preview {start, clean}` commands<br />
-  <sub>[#159510](https://github.com/flutter/flutter/pull/159510) opened on on November 26, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/159510) 751 additions and 243 deletions in 13 files</sub><br />
+  <sub>[#159510](https://github.com/flutter/flutter/pull/159510) opened on on November 26, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/159510) 751 additions and 243 deletions in 13 files</sub><br />
 
 * **[Stan](https://github.com/stan-at-work)** &mdash; Added enum isLight, isDark and isSystem getter to ThemeMode enum<br />
   <sub>[#159570](https://github.com/flutter/flutter/pull/159570) opened on on November 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159570) 22 additions and 1 deletion in 1 file</sub><br />

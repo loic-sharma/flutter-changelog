@@ -358,7 +358,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-7 commits.
+8 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub>
@@ -388,6 +388,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Sped up SubpixelGlyph::Equal
   <sub>[#56851](https://github.com/flutter/engine/pull/56851) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56851) over 4 days, 13 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[richardexfo](https://github.com/richardexfo)** &mdash; Fix linux on vivante drivers.
+  <sub>[#56862](https://github.com/flutter/engine/pull/56862) merged on December 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56862) over 4 days, 10 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 ### November 23, 2024 to November 29, 2024
 
