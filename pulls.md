@@ -63,7 +63,7 @@
   <sub>[#159422](https://github.com/flutter/flutter/pull/159422) opened on on November 25, 2024 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/159422) 405 additions and 1 deletion in 11 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix "Error: Unable to find git in your PATH" when Command Processor `AutoRun` registry key is defined<br />
-  <sub>[#159424](https://github.com/flutter/flutter/pull/159424) opened on on November 25, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159424) 14 additions and 8 deletions in 1 file</sub><br />
+  <sub>[#159424](https://github.com/flutter/flutter/pull/159424) opened on on November 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159424) 14 additions and 8 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Do not rely on Leader/Follower to position DropdownMenu menu<br />
   <sub>[#159436](https://github.com/flutter/flutter/pull/159436) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159436) 0 additions and 42 deletions in 2 files</sub><br />
@@ -78,7 +78,7 @@
   <sub>[#159506](https://github.com/flutter/flutter/pull/159506) opened on on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159506) 87 additions and 0 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add `flutter widget-preview {start, clean}` commands<br />
-  <sub>[#159510](https://github.com/flutter/flutter/pull/159510) opened on on November 26, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/159510) 752 additions and 244 deletions in 13 files</sub><br />
+  <sub>[#159510](https://github.com/flutter/flutter/pull/159510) opened on on November 26, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/159510) 752 additions and 244 deletions in 13 files</sub><br />
 
 * **[Stan](https://github.com/stan-at-work)** &mdash; Added enum isLight, isDark and isSystem getter to ThemeMode enum<br />
   <sub>[#159570](https://github.com/flutter/flutter/pull/159570) opened on on November 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159570) 22 additions and 1 deletion in 1 file</sub><br />
