@@ -759,9 +759,18 @@
 
 ## flutter/packages
 
+### November 30, 2024 to December 6, 2024
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Limit Android decoding<br />
+  <sub>[#8187](https://github.com/flutter/packages/pull/8187) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8187) over 5 days, 70 additions and 19 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 ### November 23, 2024 to November 29, 2024
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[Fransdhinta D. Prianggoro](https://github.com/fransdhinta)** &mdash; [vector_graphics_compiler] fix: handle parsing stroke-width with an invalid value<br />
   <sub>[#8004](https://github.com/flutter/packages/pull/8004) merged on November 25, 2024 &mdash; **Small:** [29 comments](https://github.com/flutter/packages/pull/8004) over 3 weeks, 87 additions and 2 deletions in 4 files</sub><br />
@@ -798,6 +807,8 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [ci][webview_flutter_android] Manual Roll and skip tests<br />
   <sub>[#8186](https://github.com/flutter/packages/pull/8186) merged on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8186) over 1 hour, 8 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+</details>
 
 ### November 16, 2024 to November 22, 2024
 
