@@ -4,11 +4,15 @@
 
 ### November 30, 2024 to December 6, 2024
 
-1 commits.
+2 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; iPad Scribble flicker and crash
   <sub>[#159508](https://github.com/flutter/flutter/pull/159508) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159508) over 5 days, 105 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.
+  <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 ### November 23, 2024 to November 29, 2024
 
@@ -346,7 +350,12 @@
 
 ### November 30, 2024 to December 6, 2024
 
-4 commits.
+5 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test
+  <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+  <sub><details><summary>1 image...</summary><img width="1528" alt="Screenshot 2024-11-27 at 2 27 54 PM" src="https://github.com/user-attachments/assets/a9029d6f-ee96-4612-83f1-6b69f24e6ce8"></details></sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont cache glyph layout if atlas is invalid.
   <sub>[#56879](https://github.com/flutter/engine/pull/56879) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56879) over 2 days, 44 additions and 1 deletion in 2 files</sub>
