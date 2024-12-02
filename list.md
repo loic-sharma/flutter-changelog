@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-4 commits.
+6 commits.
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158302) over 3 weeks, 8 additions and 24 deletions in 6 files</sub>
@@ -18,9 +18,17 @@
   <sub>[#159424](https://github.com/flutter/flutter/pull/159424) merged on December 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159424) over 1 week, 14 additions and 8 deletions in 1 file</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
+* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc
+  <sub>[#156313](https://github.com/flutter/flutter/pull/156313) merged on December 2, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/156313) over 1 month, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.
   <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Ignore exhaustiveness check for some semantics tests, for now
+  <sub>[#159517](https://github.com/flutter/flutter/pull/159517) merged on December 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159517) over 5 days, 10 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gaaclarke](https://github.com/gaaclarke)</sub>
 
 ### November 23, 2024 to November 29, 2024
 
@@ -358,7 +366,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-8 commits.
+9 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub>
@@ -388,6 +396,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Sped up SubpixelGlyph::Equal
   <sub>[#56851](https://github.com/flutter/engine/pull/56851) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56851) over 4 days, 13 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Always check for errors when propagating task values.
+  <sub>[#56856](https://github.com/flutter/engine/pull/56856) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56856) over 4 days, 12 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Harlen Batagelo](https://github.com/hbatagelo)</sub>
 
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix linux on vivante drivers.
   <sub>[#56862](https://github.com/flutter/engine/pull/56862) merged on December 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56862) over 4 days, 10 additions and 3 deletions in 1 file</sub>
