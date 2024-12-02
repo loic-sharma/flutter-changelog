@@ -96,5 +96,8 @@
   <sub>[#159643](https://github.com/flutter/flutter/pull/159643) opened on on December 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159643) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu is detached from the text field<br />
-  <sub>[#159665](https://github.com/flutter/flutter/pull/159665) opened on on December 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159665) 99 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#159665](https://github.com/flutter/flutter/pull/159665) opened on on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159665) 99 additions and 0 deletions in 2 files</sub><br />
+
+* **[Flop](https://github.com/hgraceb)** &mdash; Format controller.dart of flutter_test<br />
+  <sub>[#159667](https://github.com/flutter/flutter/pull/159667) opened on on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159667) 49 additions and 50 deletions in 1 file</sub><br />
 
