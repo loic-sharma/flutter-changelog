@@ -257,7 +257,7 @@
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Terminate the test device if the `flutter` tool is signal-killed.<br />
-  <sub>[#159115](https://github.com/flutter/flutter/pull/159115) merged on November 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159115) over 15 hours, 81 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#159115](https://github.com/flutter/flutter/pull/159115) merged on November 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159115) over 15 hours, 81 additions and 16 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Danny Tuppeny](https://github.com/DanTup)</sub><br />
 
 * **[Lam Thanh Nhan](https://github.com/lamnhan066)** &mdash; Add `columnWidth` Property to `DataTable` for Customizable Column Widths<br />
