@@ -95,3 +95,6 @@
 * **[Adam Langley](https://github.com/Adam-Langley)** &mdash; Fix code signing regex not resilient to whitespace<br />
   <sub>[#159643](https://github.com/flutter/flutter/pull/159643) opened on on December 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159643) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu is detached from the text field<br />
+  <sub>[#159665](https://github.com/flutter/flutter/pull/159665) opened on on December 2, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159665) 99 additions and 0 deletions in 2 files</sub><br />
+
