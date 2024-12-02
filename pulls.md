@@ -69,7 +69,7 @@
   <sub>[#159452](https://github.com/flutter/flutter/pull/159452) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159452) 120 additions and 130 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete keyboard navigation<br />
-  <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/159455) 440 additions and 46 deletions in 4 files</sub><br />
+  <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159455) 439 additions and 46 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Report usage of `deferred-components` to analytics.<br />
   <sub>[#159506](https://github.com/flutter/flutter/pull/159506) opened on on November 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159506) 87 additions and 0 deletions in 4 files</sub><br />
