@@ -4,11 +4,15 @@
 
 ### November 30, 2024 to December 6, 2024
 
-2 commits.
+3 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; iPad Scribble flicker and crash<br />
   <sub>[#159508](https://github.com/flutter/flutter/pull/159508) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159508) over 5 days, 105 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Fix "Error: Unable to find git in your PATH" when Command Processor `AutoRun` registry key is defined<br />
+  <sub>[#159424](https://github.com/flutter/flutter/pull/159424) merged on December 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159424) over 1 week, 14 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.<br />
   <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub><br />
@@ -350,7 +354,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-5 commits.
+6 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test<br />
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub><br />
@@ -364,6 +368,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 0740ded7b9bf to 5785058c9bb1 (5 revisions)<br />
   <sub>[#56886](https://github.com/flutter/engine/pull/56886) merged on December 2, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/56886) over 2 days, 356 additions and 228 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[LN Liberda](https://github.com/selfisekai)** &mdash; Replace outdated wiki URLs in pull request template<br />
+  <sub>[#56824](https://github.com/flutter/engine/pull/56824) merged on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56824) over 5 days, 7 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; switched reactor to absl::flat_hash_map<br />
   <sub>[#56845](https://github.com/flutter/engine/pull/56845) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56845) over 4 days, 6 additions and 6 deletions in 2 files</sub><br />
