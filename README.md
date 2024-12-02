@@ -852,9 +852,18 @@
 
 ## flutter/website
 
+### November 30, 2024 to December 6, 2024
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update required Node version and npm deps<br />
+  <sub>[#11445](https://github.com/flutter/website/pull/11445) merged on December 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11445) over 4 days, 361 additions and 319 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 ### November 23, 2024 to November 29, 2024
 
-5 commits.
+<details>
+<summary>5 commits...</summary>
 
 * **[Warren Runk](https://github.com/wrunk)** &mdash; Fix Web support page highlighting in left nav<br />
   <sub>[#11424](https://github.com/flutter/website/pull/11424) merged on November 27, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11424) over 5 days, 2 additions and 1 deletion in 1 file</sub><br />
@@ -876,6 +885,8 @@
 * **[Dawit Beyene](https://github.com/daveragos)** &mdash; Updated Doc: changes Center to Container<br />
   <sub>[#11427](https://github.com/flutter/website/pull/11427) merged on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11427) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### November 16, 2024 to November 22, 2024
 
