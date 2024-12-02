@@ -354,7 +354,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-6 commits.
+7 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub>
@@ -371,6 +371,10 @@
 
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Replace outdated wiki URLs in pull request template
   <sub>[#56824](https://github.com/flutter/engine/pull/56824) merged on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56824) over 5 days, 7 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Tristan Ross](https://github.com/RossComputerGuy)** &mdash; [ci] use env for format and support arm64 hosts
+  <sub>[#56268](https://github.com/flutter/engine/pull/56268) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56268) over 1 month, 11 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; switched reactor to absl::flat_hash_map
