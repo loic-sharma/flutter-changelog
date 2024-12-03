@@ -4,12 +4,22 @@
 
 ### November 30, 2024 to December 6, 2024
 
-12 commits.
+15 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods
+  <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+  <sub><details><summary>1 image...</summary><img width="1175" alt="Screenshot 2024-11-12 at 12 10 43" src="https://github.com/user-attachments/assets/a28207c5-0ef7-41fa-a45c-e9401df897a0"></details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu is detached from the text field
   <sub>[#159665](https://github.com/flutter/flutter/pull/159665) merged on December 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159665) over 19 hours, 99 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/d8d9b857-07ed-4d3c-afe2-44518d979e66)![image](https://github.com/user-attachments/assets/a71ea3c8-a408-43a1-8c99-c2612ad4b24b)</details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix fialing lint `Consider using 'register' to avoid unnecessary configuration`
+  <sub>[#159137](https://github.com/flutter/flutter/pull/159137) merged on December 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159137) over 2 weeks, 8 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>2 images...</summary>![Capture d’écran 2024-11-19 132110](https://github.com/user-attachments/assets/ffc98203-5563-4846-aa42-60a0b8defa27)![Capture d’écran 2024-11-19 133050](https://github.com/user-attachments/assets/7671b6f4-5a18-460a-8456-608a40e6da22)</details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove unnecessary semicolon in module_plugin_loader.radle
   <sub>[#159303](https://github.com/flutter/flutter/pull/159303) merged on December 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159303) over 1 week, 1 addition and 1 deletion in 1 file</sub>
@@ -35,6 +45,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Mark Mac_ios microbenchmarks_ios as flakey
   <sub>[#158540](https://github.com/flutter/flutter/pull/158540) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158540) over 2 weeks, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Only include `truncated` field in JSON response if `true`
+  <sub>[#159701](https://github.com/flutter/flutter/pull/159701) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159701) over 21 hours, 8 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Rename `SWIFT_PACKAGE_MANAGER` environment variable to `FLUTTER_SWIFT_PACKAGE_MANAGER`
   <sub>[#159502](https://github.com/flutter/flutter/pull/159502) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159502) over 6 days, 18 additions and 8 deletions in 2 files</sub>
