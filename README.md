@@ -406,7 +406,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-18 commits.
+19 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test<br />
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub><br />
@@ -456,6 +456,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Sped up SubpixelGlyph::Equal<br />
   <sub>[#56851](https://github.com/flutter/engine/pull/56851) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56851) over 4 days, 13 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split keyevent channel into own class<br />
+  <sub>[#56911](https://github.com/flutter/engine/pull/56911) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56911) over 22 hours, 226 additions and 60 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Harlen Batagelo](https://github.com/hbatagelo)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Add tests for errors encoding message channel request and method calls.<br />
   <sub>[#56914](https://github.com/flutter/engine/pull/56914) merged on December 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56914) over 18 hours, 67 additions and 2 deletions in 4 files</sub><br />
