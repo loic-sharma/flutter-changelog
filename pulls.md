@@ -93,5 +93,5 @@
   <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add deprecation notice for Android x86 when building for the target<br />
-  <sub>[#159750](https://github.com/flutter/flutter/pull/159750) opened on on December 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159750) 96 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#159750](https://github.com/flutter/flutter/pull/159750) opened on on December 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159750) 96 additions and 0 deletions in 3 files</sub><br />
 
