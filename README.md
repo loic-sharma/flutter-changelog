@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-10 commits.
+11 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu is detached from the text field<br />
   <sub>[#159665](https://github.com/flutter/flutter/pull/159665) merged on December 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159665) over 19 hours, 99 additions and 0 deletions in 2 files</sub><br />
@@ -31,6 +31,10 @@
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
   <sub>[#156313](https://github.com/flutter/flutter/pull/156313) merged on December 2, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/156313) over 1 month, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Mark Mac_ios microbenchmarks_ios as flakey<br />
+  <sub>[#158540](https://github.com/flutter/flutter/pull/158540) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158540) over 2 weeks, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Rename `SWIFT_PACKAGE_MANAGER` environment variable to `FLUTTER_SWIFT_PACKAGE_MANAGER`<br />
   <sub>[#159502](https://github.com/flutter/flutter/pull/159502) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159502) over 6 days, 18 additions and 8 deletions in 2 files</sub><br />
