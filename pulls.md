@@ -96,5 +96,5 @@
   <sub>[#159667](https://github.com/flutter/flutter/pull/159667) opened on on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159667) 49 additions and 50 deletions in 1 file</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add support for experimental dart data assets (under experimental flag) - part 1<br />
-  <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 794 additions and 137 deletions in 23 files</sub><br />
+  <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
 
