@@ -54,7 +54,7 @@
   <sub>[#159410](https://github.com/flutter/flutter/pull/159410) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159410) 266 additions and 7 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` parameter to `Chip`s<br />
-  <sub>[#159422](https://github.com/flutter/flutter/pull/159422) opened on on November 25, 2024 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/159422) 405 additions and 1 deletion in 11 files</sub><br />
+  <sub>[#159422](https://github.com/flutter/flutter/pull/159422) opened on on November 25, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/159422) 404 additions and 1 deletion in 11 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Do not rely on Leader/Follower to position DropdownMenu menu<br />
   <sub>[#159436](https://github.com/flutter/flutter/pull/159436) opened on on November 25, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159436) 0 additions and 42 deletions in 2 files</sub><br />
