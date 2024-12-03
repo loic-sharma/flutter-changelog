@@ -30,7 +30,7 @@
   <sub>[#159288](https://github.com/flutter/flutter/pull/159288) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159288) 28 additions and 6 deletions in 3 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`<br />
-  <sub>[#159301](https://github.com/flutter/flutter/pull/159301) opened on on November 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159301) 8 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#159301](https://github.com/flutter/flutter/pull/159301) opened on on November 21, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159301) 8 additions and 3 deletions in 1 file</sub><br />
 
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed typos<br />
   <sub>[#159331](https://github.com/flutter/flutter/pull/159331) opened on on November 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159331) 179 additions and 179 deletions in 59 files</sub><br />
@@ -42,7 +42,7 @@
   <sub>[#159385](https://github.com/flutter/flutter/pull/159385) opened on on November 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159385) 26 additions and 0 deletions in 2 files</sub><br />
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Fix unexpected shown of Scrollbar<br />
-  <sub>[#159386](https://github.com/flutter/flutter/pull/159386) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159386) 45 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#159386](https://github.com/flutter/flutter/pull/159386) opened on on November 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159386) 45 additions and 6 deletions in 2 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; SliverMainAxisGroup multiple PinnedHeaderSliver children<br />
   <sub>[#159391](https://github.com/flutter/flutter/pull/159391) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159391) 63 additions and 43 deletions in 2 files</sub><br />
@@ -96,5 +96,5 @@
   <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add deprecation notice for Android x86 when building for the target<br />
-  <sub>[#159750](https://github.com/flutter/flutter/pull/159750) opened on on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159750) 96 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#159750](https://github.com/flutter/flutter/pull/159750) opened on on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159750) 96 additions and 0 deletions in 3 files</sub><br />
 

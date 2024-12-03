@@ -636,21 +636,29 @@
   <sub>[#56727](https://github.com/flutter/engine/pull/56727) merged on November 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/engine/pull/56727) over 1 day, 439 additions and 50 deletions in 21 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Work around wrong pointerId in coalesced events in iOS Safari 18.2
+  <sub>[#56719](https://github.com/flutter/engine/pull/56719) merged on November 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56719) over 1 day, 174 additions and 16 deletions in 3 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Flutter views can gain focus
   <sub>[#54985](https://github.com/flutter/engine/pull/54985) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54985) over 2 months, 33 additions and 49 deletions in 2 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete Impeller sim opt out.
-  <sub>[#56706](https://github.com/flutter/engine/pull/56706) merged on November 22, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/56706) over 3 days, 5 additions and 122 deletions in 5 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: A C++ wrapper to the Impeller API.
+  <sub>[#56682](https://github.com/flutter/engine/pull/56682) merged on November 22, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/56682) over 3 days, 1630 additions and 110 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlColorSource objects to Impeller geometry
   <sub>[#56735](https://github.com/flutter/engine/pull/56735) merged on November 22, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/56735) over 1 day, 1616 additions and 1213 deletions in 93 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: A C++ wrapper to the Impeller API.
-  <sub>[#56682](https://github.com/flutter/engine/pull/56682) merged on November 22, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/engine/pull/56682) over 3 days, 1630 additions and 110 deletions in 6 files</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] delete Impeller sim opt out.
+  <sub>[#56706](https://github.com/flutter/engine/pull/56706) merged on November 22, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/engine/pull/56706) over 3 days, 5 additions and 122 deletions in 5 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; [Flutter GPU] Added support to set Scissor.
+  <sub>[#56302](https://github.com/flutter/engine/pull/56302) merged on November 21, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/56302) over 2 weeks, 123 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split channel messaging out of handlers
   <sub>[#56667](https://github.com/flutter/engine/pull/56667) merged on November 20, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/56667) over 2 days, 1713 additions and 596 deletions in 17 files</sub>
@@ -659,14 +667,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update emulator definitions version to latest available from chrome infra
   <sub>[#56313](https://github.com/flutter/engine/pull/56313) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/56313) over 2 weeks, 12 additions and 12 deletions in 5 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Work around wrong pointerId in coalesced events in iOS Safari 18.2
-  <sub>[#56719](https://github.com/flutter/engine/pull/56719) merged on November 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56719) over 1 day, 174 additions and 16 deletions in 3 files</sub>
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
-
-* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; [Flutter GPU] Added support to set Scissor.
-  <sub>[#56302](https://github.com/flutter/engine/pull/56302) merged on November 21, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/engine/pull/56302) over 2 weeks, 123 additions and 0 deletions in 4 files</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Fix typo in fluttterViewController
   <sub>[#56770](https://github.com/flutter/engine/pull/56770) merged on November 23, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56770) over 43 minutes, 41 additions and 41 deletions in 1 file</sub>
