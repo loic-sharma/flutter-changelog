@@ -41,9 +41,6 @@
 * **[Jackson](https://github.com/sargntpi)** &mdash; Added spellCheckConfiguration to the constructor of CupertinoTextFormFieldRow<br />
   <sub>[#159385](https://github.com/flutter/flutter/pull/159385) opened on on November 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159385) 26 additions and 0 deletions in 2 files</sub><br />
 
-* **[Flop](https://github.com/hgraceb)** &mdash; Fix unexpected shown of Scrollbar<br />
-  <sub>[#159386](https://github.com/flutter/flutter/pull/159386) opened on on November 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159386) 45 additions and 6 deletions in 2 files</sub><br />
-
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] fix confusing tests (not working conditions based on broken regex)<br />
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159396) 27 additions and 31 deletions in 2 files</sub><br />
 
@@ -73,12 +70,6 @@
 
 * **[Stan](https://github.com/stan-at-work)** &mdash; Added enum isLight, isDark and isSystem getter to ThemeMode enum<br />
   <sub>[#159570](https://github.com/flutter/flutter/pull/159570) opened on on November 27, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159570) 22 additions and 1 deletion in 1 file</sub><br />
-
-* **[Flop](https://github.com/hgraceb)** &mdash; Fix scrollUntilVisible in WidgetTester<br />
-  <sub>[#159582](https://github.com/flutter/flutter/pull/159582) opened on on November 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159582) 44 additions and 1 deletion in 2 files</sub><br />
-
-* **[Sergi](https://github.com/snackva)** &mdash; refactor _ModalScopeState to simplify animation handling and remove unnecessary ListenableBuilder<br />
-  <sub>[#159615](https://github.com/flutter/flutter/pull/159615) opened on on November 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159615) 15 additions and 34 deletions in 1 file</sub><br />
 
 * **[Krzysztof Czarnota](https://github.com/czarny)** &mdash; Enabled provisioning updates and device registration during building xcarchive.<br />
   <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
