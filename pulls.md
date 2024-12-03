@@ -51,7 +51,7 @@
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159396) 27 additions and 31 deletions in 2 files</sub><br />
 
 * **[TheJoeSchr](https://github.com/TheJoeSchr)** &mdash; Fix typo in flutter_command.dart<br />
-  <sub>[#159398](https://github.com/flutter/flutter/pull/159398) opened on on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159398) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#159398](https://github.com/flutter/flutter/pull/159398) opened on on November 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159398) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Test `SliverMainAxisGroup` offstage child<br />
   <sub>[#159406](https://github.com/flutter/flutter/pull/159406) opened on on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159406) 43 additions and 5 deletions in 4 files</sub><br />
