@@ -964,7 +964,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-2 commits.
+3 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Publish app architecture 'case-study' pages<br />
   <sub>[#11414](https://github.com/flutter/website/pull/11414) merged on December 2, 2024 &mdash; **Extra large:** [136 comments](https://github.com/flutter/website/pull/11414) over 1 week, 1528 additions and 11 deletions in 21 files</sub><br />
@@ -972,6 +972,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update required Node version and npm deps<br />
   <sub>[#11445](https://github.com/flutter/website/pull/11445) merged on December 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11445) over 4 days, 361 additions and 319 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add Qualtrics survey link to Architecture guidance<br />
+  <sub>[#11452](https://github.com/flutter/website/pull/11452) merged on December 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11452) over 13 hours, 64 additions and 1 deletion in 9 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### November 23, 2024 to November 29, 2024
