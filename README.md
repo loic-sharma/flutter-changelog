@@ -857,7 +857,11 @@
 
 ### November 30, 2024 to December 6, 2024
 
-2 commits.
+3 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Add compatibility with intl 0.20<br />
+  <sub>[#8217](https://github.com/flutter/packages/pull/8217) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8217) over 55 minutes, 12 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Replaces deprecated `whereNotNull()`<br />
   <sub>[#8215](https://github.com/flutter/packages/pull/8215) merged on December 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8215) over 40 minutes, 14 additions and 7 deletions in 7 files</sub><br />
