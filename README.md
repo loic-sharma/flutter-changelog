@@ -4,12 +4,17 @@
 
 ### November 30, 2024 to December 6, 2024
 
-9 commits.
+10 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu is detached from the text field<br />
   <sub>[#159665](https://github.com/flutter/flutter/pull/159665) merged on December 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159665) over 19 hours, 99 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/d8d9b857-07ed-4d3c-afe2-44518d979e66)![image](https://github.com/user-attachments/assets/a71ea3c8-a408-43a1-8c99-c2612ad4b24b)</details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove unnecessary semicolon in module_plugin_loader.radle<br />
+  <sub>[#159303](https://github.com/flutter/flutter/pull/159303) merged on December 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159303) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub><details><summary>1 image...</summary>![Capture d’écran 2024-11-25 215213](https://github.com/user-attachments/assets/c2be911c-981a-4d47-8c52-9802d4855666)</details></sub>
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase<br />
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158302) over 3 weeks, 8 additions and 24 deletions in 6 files</sub><br />
