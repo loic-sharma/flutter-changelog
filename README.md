@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-7 commits.
+8 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu is detached from the text field<br />
   <sub>[#159665](https://github.com/flutter/flutter/pull/159665) merged on December 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159665) over 19 hours, 99 additions and 0 deletions in 2 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
   <sub>[#156313](https://github.com/flutter/flutter/pull/156313) merged on December 2, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/156313) over 1 month, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make native asset tests more robust against flutter upgrading its pinned dependencies<br />
+  <sub>[#159715](https://github.com/flutter/flutter/pull/159715) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159715) over 2 hours, 16 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.<br />
   <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub><br />
@@ -969,7 +973,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-3 commits.
+4 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Publish app architecture 'case-study' pages<br />
   <sub>[#11414](https://github.com/flutter/website/pull/11414) merged on December 2, 2024 &mdash; **Extra large:** [136 comments](https://github.com/flutter/website/pull/11414) over 1 week, 1528 additions and 11 deletions in 21 files</sub><br />
@@ -978,6 +982,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update required Node version and npm deps<br />
   <sub>[#11445](https://github.com/flutter/website/pull/11445) merged on December 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11445) over 4 days, 361 additions and 319 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; fix: capitalization of view and view model<br />
+  <sub>[#11458](https://github.com/flutter/website/pull/11458) merged on December 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11458) over 44 minutes, 49 additions and 49 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add Qualtrics survey link to Architecture guidance<br />
   <sub>[#11452](https://github.com/flutter/website/pull/11452) merged on December 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11452) over 13 hours, 64 additions and 1 deletion in 9 files</sub><br />
