@@ -95,3 +95,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add deprecation notice for Android x86 when building for the target<br />
   <sub>[#159750](https://github.com/flutter/flutter/pull/159750) opened on on December 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159750) 96 additions and 0 deletions in 3 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AlignTransition` without rebuilds<br />
+  <sub>[#159757](https://github.com/flutter/flutter/pull/159757) opened on on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159757) 62 additions and 16 deletions in 2 files</sub><br />
+
