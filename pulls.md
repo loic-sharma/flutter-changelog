@@ -50,9 +50,6 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] fix confusing tests (not working conditions based on broken regex)<br />
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) opened on on November 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159396) 27 additions and 31 deletions in 2 files</sub><br />
 
-* **[TheJoeSchr](https://github.com/TheJoeSchr)** &mdash; Fix typo in flutter_command.dart<br />
-  <sub>[#159398](https://github.com/flutter/flutter/pull/159398) opened on on November 24, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159398) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Test `SliverMainAxisGroup` offstage child<br />
   <sub>[#159406](https://github.com/flutter/flutter/pull/159406) opened on on November 25, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159406) 43 additions and 5 deletions in 4 files</sub><br />
 
@@ -97,4 +94,7 @@
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add support for experimental dart data assets (under experimental flag) - part 1<br />
   <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add deprecation notice for Android x86 when building for the target<br />
+  <sub>[#159750](https://github.com/flutter/flutter/pull/159750) opened on on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159750) 96 additions and 0 deletions in 3 files</sub><br />
 

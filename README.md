@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-11 commits.
+12 commits.
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu is detached from the text field<br />
   <sub>[#159665](https://github.com/flutter/flutter/pull/159665) merged on December 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159665) over 19 hours, 99 additions and 0 deletions in 2 files</sub><br />
@@ -47,6 +47,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.<br />
   <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[TheJoeSchr](https://github.com/TheJoeSchr)** &mdash; Fix typo in flutter_command.dart<br />
+  <sub>[#159398](https://github.com/flutter/flutter/pull/159398) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159398) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Ignore exhaustiveness check for some semantics tests, for now<br />
   <sub>[#159517](https://github.com/flutter/flutter/pull/159517) merged on December 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159517) over 5 days, 10 additions and 0 deletions in 2 files</sub><br />
