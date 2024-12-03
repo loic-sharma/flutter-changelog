@@ -973,7 +973,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-4 commits.
+5 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Publish app architecture 'case-study' pages
   <sub>[#11414](https://github.com/flutter/website/pull/11414) merged on December 2, 2024 &mdash; **Extra large:** [136 comments](https://github.com/flutter/website/pull/11414) over 1 week, 1528 additions and 11 deletions in 21 files</sub>
@@ -982,6 +982,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update required Node version and npm deps
   <sub>[#11445](https://github.com/flutter/website/pull/11445) merged on December 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11445) over 4 days, 361 additions and 319 deletions in 4 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix highlighting of app architecture sidenav entry
+  <sub>[#11457](https://github.com/flutter/website/pull/11457) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11457) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; fix: capitalization of view and view model
   <sub>[#11458](https://github.com/flutter/website/pull/11458) merged on December 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11458) over 44 minutes, 49 additions and 49 deletions in 3 files</sub>
