@@ -366,12 +366,16 @@
 
 ### November 30, 2024 to December 6, 2024
 
-11 commits.
+13 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test<br />
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1528" alt="Screenshot 2024-11-27 at 2 27 54 PM" src="https://github.com/user-attachments/assets/a9029d6f-ee96-4612-83f1-6b69f24e6ce8"></details></sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make a mock messenger that can easily mock channels<br />
+  <sub>[#56867](https://github.com/flutter/engine/pull/56867) merged on December 3, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/engine/pull/56867) over 4 days, 2180 additions and 1703 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [Harlen Batagelo](https://github.com/hbatagelo)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont cache glyph layout if atlas is invalid.<br />
   <sub>[#56879](https://github.com/flutter/engine/pull/56879) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56879) over 2 days, 44 additions and 1 deletion in 2 files</sub><br />
@@ -408,6 +412,10 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix linux on vivante drivers.<br />
   <sub>[#56862](https://github.com/flutter/engine/pull/56862) merged on December 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56862) over 4 days, 10 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c579d193341d to 61bfa9bbb91d (1 revision)<br />
+  <sub>[#56909](https://github.com/flutter/engine/pull/56909) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56909) over 53 minutes, 4 additions and 4 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "[iOS] Full keyboard access scrolling (#56606)"<br />
   <sub>[#56842](https://github.com/flutter/engine/pull/56842) merged on December 2, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56842) over 5 days, 295 additions and 25 deletions in 15 files</sub><br />
