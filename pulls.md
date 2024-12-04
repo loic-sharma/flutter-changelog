@@ -81,5 +81,5 @@
   <sub>[#159757](https://github.com/flutter/flutter/pull/159757) opened on on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159757) 62 additions and 16 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix InkWell overlayColor resolution ignores selected state<br />
-  <sub>[#159784](https://github.com/flutter/flutter/pull/159784) opened on on December 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159784) 123 additions and 27 deletions in 2 files</sub><br />
+  <sub>[#159784](https://github.com/flutter/flutter/pull/159784) opened on on December 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159784) 123 additions and 27 deletions in 2 files</sub><br />
 
