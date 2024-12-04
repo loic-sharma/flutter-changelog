@@ -930,7 +930,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-7 commits.
+9 commits.
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_avfoundation] Split iOS native code into multiple files
   <sub>[#8171](https://github.com/flutter/packages/pull/8171) merged on December 4, 2024 &mdash; **Extra large:** [50 comments](https://github.com/flutter/packages/pull/8171) over 1 week, 844 additions and 676 deletions in 11 files</sub>
@@ -951,6 +951,14 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Replaces deprecated `whereNotNull()`
   <sub>[#8215](https://github.com/flutter/packages/pull/8215) merged on December 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8215) over 40 minutes, 14 additions and 7 deletions in 7 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Add Swift Package Manager integration to image picker examp…
+  <sub>[#8227](https://github.com/flutter/packages/pull/8227) merged on December 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8227) over 1 hour, 212 additions and 68 deletions in 9 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [pigeon] Add Swift Package Manager integration to example app
+  <sub>[#8225](https://github.com/flutter/packages/pull/8225) merged on December 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8225) over 1 hour, 104 additions and 9 deletions in 7 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Annotate deprecated member usage
   <sub>[#8214](https://github.com/flutter/packages/pull/8214) merged on December 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8214) over 21 hours, 30 additions and 3 deletions in 6 files</sub>
