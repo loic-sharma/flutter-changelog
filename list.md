@@ -437,13 +437,13 @@
   <sub>[#56715](https://github.com/flutter/engine/pull/56715) merged on December 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56715) over 2 weeks, 146 additions and 2 deletions in 6 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Tristan Ross](https://github.com/RossComputerGuy)** &mdash; [ci] use env for format and support arm64 hosts
-  <sub>[#56268](https://github.com/flutter/engine/pull/56268) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56268) over 1 month, 11 additions and 12 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] invalidate cached atlas data, take 2.
   <sub>[#56925](https://github.com/flutter/engine/pull/56925) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56925) over 40 minutes, 21 additions and 14 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Tristan Ross](https://github.com/RossComputerGuy)** &mdash; [ci] use env for format and support arm64 hosts
+  <sub>[#56268](https://github.com/flutter/engine/pull/56268) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56268) over 1 month, 11 additions and 12 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add typeface_proxy dependency to the Skia build script for the Android font manager
   <sub>[#56924](https://github.com/flutter/engine/pull/56924) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56924) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
