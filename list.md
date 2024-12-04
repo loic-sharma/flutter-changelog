@@ -442,7 +442,12 @@
 
 ### November 30, 2024 to December 6, 2024
 
-25 commits.
+26 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Start with a smaller memory allocation for CanvasKit
+  <sub>[#56900](https://github.com/flutter/engine/pull/56900) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56900) over 2 days, 4 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Yegor](https://github.com/yjbanov)</sub>
+  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/5f6f2d4d-9155-499e-b20e-a15e3d8b53ab) | ![image](https://github.com/user-attachments/assets/bf1956c4-2d2a-44a8-b781-b110be93bc6a)</details></sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub>
