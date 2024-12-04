@@ -921,7 +921,11 @@
 
 ### November 30, 2024 to December 6, 2024
 
-6 commits.
+7 commits.
+
+* **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_avfoundation] Split iOS native code into multiple files
+  <sub>[#8171](https://github.com/flutter/packages/pull/8171) merged on December 4, 2024 &mdash; **Extra large:** [50 comments](https://github.com/flutter/packages/pull/8171) over 1 week, 844 additions and 676 deletions in 11 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Add Swift Package Manager integration to example apps
   <sub>[#8219](https://github.com/flutter/packages/pull/8219) merged on December 4, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/8219) over 19 hours, 1915 additions and 900 deletions in 96 files</sub>
