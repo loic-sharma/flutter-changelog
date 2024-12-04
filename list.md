@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-18 commits.
+19 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub>
@@ -81,6 +81,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Ignore exhaustiveness check for some semantics tests, for now
   <sub>[#159517](https://github.com/flutter/flutter/pull/159517) merged on December 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159517) over 5 days, 10 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix InkWell overlayColor resolution ignores selected state
+  <sub>[#159784](https://github.com/flutter/flutter/pull/159784) merged on December 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159784) over 3 hours, 123 additions and 27 deletions in 2 files</sub>
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 ### November 23, 2024 to November 29, 2024
 
