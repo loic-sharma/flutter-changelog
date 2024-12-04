@@ -873,7 +873,11 @@
 
 ### November 30, 2024 to December 6, 2024
 
-3 commits.
+4 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes channel names of the named constructors of ProxyApis. <br />
+  <sub>[#8201](https://github.com/flutter/packages/pull/8201) merged on December 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/8201) over 3 days, 399 additions and 5 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [local_auth] Add compatibility with intl 0.20<br />
   <sub>[#8217](https://github.com/flutter/packages/pull/8217) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8217) over 55 minutes, 12 additions and 4 deletions in 4 files</sub><br />
