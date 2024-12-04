@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-21 commits.
+23 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods<br />
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub><br />
@@ -15,6 +15,14 @@
   <sub>[#159665](https://github.com/flutter/flutter/pull/159665) merged on December 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159665) over 19 hours, 99 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/d8d9b857-07ed-4d3c-afe2-44518d979e66)![image](https://github.com/user-attachments/assets/a71ea3c8-a408-43a1-8c99-c2612ad4b24b)</details></sub>
+
+* **[yim](https://github.com/yiiim)** &mdash; Fix `DropdownMenu` focus<br />
+  <sub>[#156412](https://github.com/flutter/flutter/pull/156412) merged on December 4, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156412) over 1 month, 147 additions and 30 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Removes dev dependency plugins from release builds<br />
+  <sub>[#158026](https://github.com/flutter/flutter/pull/158026) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158026) over 1 month, 171 additions and 31 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` parameter to `Chip`s<br />
   <sub>[#159422](https://github.com/flutter/flutter/pull/159422) merged on December 4, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/159422) over 1 week, 404 additions and 1 deletion in 11 files</sub><br />
