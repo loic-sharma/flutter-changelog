@@ -442,7 +442,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-24 commits.
+25 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test<br />
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub><br />
@@ -532,6 +532,10 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix linux on vivante drivers.<br />
   <sub>[#56862](https://github.com/flutter/engine/pull/56862) merged on December 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56862) over 4 days, 10 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 470117150f34 to a2a9428e761f (1 revision)<br />
+  <sub>[#56939](https://github.com/flutter/engine/pull/56939) merged on December 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56939) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from c579d193341d to 61bfa9bbb91d (1 revision)<br />
   <sub>[#56909](https://github.com/flutter/engine/pull/56909) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56909) over 53 minutes, 4 additions and 4 deletions in 3 files</sub><br />
