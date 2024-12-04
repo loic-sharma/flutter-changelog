@@ -621,9 +621,13 @@
 <details>
 <summary>51 commits...</summary>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlImageFilter code to Impeller geometry classes
-  <sub>[#56720](https://github.com/flutter/engine/pull/56720) merged on November 20, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/56720) over 21 hours, 2179 additions and 1378 deletions in 99 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Work around wrong pointerId in coalesced events in iOS Safari 18.2
+  <sub>[#56719](https://github.com/flutter/engine/pull/56719) merged on November 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56719) over 1 day, 174 additions and 16 deletions in 3 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Enable ARC in flutter_cflags_objc[c]
+  <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Replaces Resource's shared_ptr with unique_ptr
   <sub>[#56778](https://github.com/flutter/engine/pull/56778) merged on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56778) over 20 hours, 4 additions and 3 deletions in 1 file</sub>
@@ -635,20 +639,16 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
   <sub><details><summary>1 image...</summary>![setlabel](https://github.com/user-attachments/assets/6ebe247b-76f4-457f-b28b-70ddcd5615a8)</details></sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS,macOS: Enable ARC in flutter_cflags_objc[c]
-  <sub>[#56685](https://github.com/flutter/engine/pull/56685) merged on November 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56685) over 1 hour, 43 additions and 45 deletions in 14 files</sub>
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] support GLES 3.0 MSAA without extension.
   <sub>[#56705](https://github.com/flutter/engine/pull/56705) merged on November 21, 2024 &mdash; **Small:** [31 comments](https://github.com/flutter/engine/pull/56705) over 2 days, 102 additions and 23 deletions in 5 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] migrate DlImageFilter code to Impeller geometry classes
+  <sub>[#56720](https://github.com/flutter/engine/pull/56720) merged on November 20, 2024 &mdash; **Extra large:** [25 comments](https://github.com/flutter/engine/pull/56720) over 21 hours, 2179 additions and 1378 deletions in 99 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Make sure to include all split fonts
   <sub>[#56733](https://github.com/flutter/engine/pull/56733) merged on November 21, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/56733) over 17 hours, 32629 additions and 32592 deletions in 5 files</sub>
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Work around wrong pointerId in coalesced events in iOS Safari 18.2
-  <sub>[#56719](https://github.com/flutter/engine/pull/56719) merged on November 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56719) over 1 day, 174 additions and 16 deletions in 3 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: Impeller playground's shapes should react to controllers
