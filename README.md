@@ -430,7 +430,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-22 commits.
+23 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test<br />
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub><br />
@@ -453,6 +453,10 @@
   <sub>[#56824](https://github.com/flutter/engine/pull/56824) merged on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56824) over 5 days, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] avoid heap allocation in RenderTarget object.<br />
+  <sub>[#56829](https://github.com/flutter/engine/pull/56829) merged on December 4, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/engine/pull/56829) over 1 week, 290 additions and 170 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Save back handling state in Activity/Fragment bundle<br />
   <sub>[#56715](https://github.com/flutter/engine/pull/56715) merged on December 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56715) over 2 weeks, 146 additions and 2 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -466,8 +470,8 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Manual roll dart to 470117150f34d712ee6d8c4558b3c656d973f656<br />
-  <sub>[#56915](https://github.com/flutter/engine/pull/56915) merged on December 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56915) over 1 day, 123 additions and 41 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Ryan Macnak](https://github.com/rmacnak-google)</sub><br />
+  <sub>[#56915](https://github.com/flutter/engine/pull/56915) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56915) over 1 day, 123 additions and 41 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Ryan Macnak](https://github.com/rmacnak-google)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add typeface_proxy dependency to the Skia build script for the Android font manager<br />
   <sub>[#56924](https://github.com/flutter/engine/pull/56924) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56924) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
