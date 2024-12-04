@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-24 commits.
+25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub>
@@ -45,6 +45,10 @@
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158302) over 3 weeks, 8 additions and 24 deletions in 6 files</sub>
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add `flutter widget-preview {start, clean}` commands
+  <sub>[#159510](https://github.com/flutter/flutter/pull/159510) merged on December 4, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/159510) over 1 week, 741 additions and 304 deletions in 14 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; iPad Scribble flicker and crash
   <sub>[#159508](https://github.com/flutter/flutter/pull/159508) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159508) over 5 days, 105 additions and 0 deletions in 3 files</sub>
