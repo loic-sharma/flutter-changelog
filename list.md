@@ -75,7 +75,7 @@
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Format controller.dart of flutter_test
-  <sub>[#159667](https://github.com/flutter/flutter/pull/159667) merged on December 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159667) over 1 day, 49 additions and 50 deletions in 1 file</sub>
+  <sub>[#159667](https://github.com/flutter/flutter/pull/159667) merged on December 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159667) over 1 day, 49 additions and 50 deletions in 1 file</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[TheJoeSchr](https://github.com/TheJoeSchr)** &mdash; Fix typo in flutter_command.dart
