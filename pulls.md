@@ -30,7 +30,7 @@
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) opened on on November 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159301) 8 additions and 3 deletions in 1 file</sub><br />
 
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed typos<br />
-  <sub>[#159331](https://github.com/flutter/flutter/pull/159331) opened on on November 22, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159331) 179 additions and 179 deletions in 59 files</sub><br />
+  <sub>[#159331](https://github.com/flutter/flutter/pull/159331) opened on on November 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/159331) 179 additions and 179 deletions in 59 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStateMap` observer<br />
   <sub>[#159333](https://github.com/flutter/flutter/pull/159333) opened on on November 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159333) 109 additions and 1 deletion in 2 files</sub><br />
