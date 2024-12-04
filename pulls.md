@@ -74,9 +74,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add support for experimental dart data assets (under experimental flag) - part 1<br />
   <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add deprecation notice for Android x86 when building for the target<br />
-  <sub>[#159750](https://github.com/flutter/flutter/pull/159750) opened on on December 3, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159750) 96 additions and 0 deletions in 3 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AlignTransition` without rebuilds<br />
   <sub>[#159757](https://github.com/flutter/flutter/pull/159757) opened on on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159757) 62 additions and 16 deletions in 2 files</sub><br />
 
