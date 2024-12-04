@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-15 commits.
+16 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods<br />
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub><br />
@@ -45,6 +45,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Mark Mac_ios microbenchmarks_ios as flakey<br />
   <sub>[#158540](https://github.com/flutter/flutter/pull/158540) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158540) over 2 weeks, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Increase timeout of Devtools tests<br />
+  <sub>[#159759](https://github.com/flutter/flutter/pull/159759) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159759) over 51 minutes, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Only include `truncated` field in JSON response if `true`<br />
   <sub>[#159701](https://github.com/flutter/flutter/pull/159701) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159701) over 21 hours, 8 additions and 1 deletion in 2 files</sub><br />
