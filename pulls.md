@@ -48,7 +48,7 @@
   <sub>[#159410](https://github.com/flutter/flutter/pull/159410) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159410) 266 additions and 7 deletions in 3 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Do not rely on Leader/Follower to position DropdownMenu menu<br />
-  <sub>[#159436](https://github.com/flutter/flutter/pull/159436) opened on on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159436) 0 additions and 42 deletions in 2 files</sub><br />
+  <sub>[#159436](https://github.com/flutter/flutter/pull/159436) opened on on November 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159436) 0 additions and 42 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor gradle task runner to share error handler code<br />
   <sub>[#159452](https://github.com/flutter/flutter/pull/159452) opened on on November 25, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159452) 209 additions and 189 deletions in 2 files</sub><br />
