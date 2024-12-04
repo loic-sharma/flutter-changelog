@@ -934,7 +934,11 @@
 
 ### November 30, 2024 to December 6, 2024
 
-9 commits.
+10 commits.
+
+* **[Vitaly Sokolov](https://github.com/sokoloff06)** &mdash; [google_adsense] (Experimental) AdSense plugin for Flutter Web<br />
+  <sub>[#6871](https://github.com/flutter/packages/pull/6871) merged on December 4, 2024 &mdash; **Large:** [72 comments](https://github.com/flutter/packages/pull/6871) over 6 months, 1470 additions and 0 deletions in 35 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_avfoundation] Split iOS native code into multiple files<br />
   <sub>[#8171](https://github.com/flutter/packages/pull/8171) merged on December 4, 2024 &mdash; **Extra large:** [50 comments](https://github.com/flutter/packages/pull/8171) over 1 week, 844 additions and 676 deletions in 11 files</sub><br />
