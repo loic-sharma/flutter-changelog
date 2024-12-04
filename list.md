@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-16 commits.
+17 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub>
@@ -15,6 +15,10 @@
   <sub>[#159665](https://github.com/flutter/flutter/pull/159665) merged on December 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159665) over 19 hours, 99 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/d8d9b857-07ed-4d3c-afe2-44518d979e66)![image](https://github.com/user-attachments/assets/a71ea3c8-a408-43a1-8c99-c2612ad4b24b)</details></sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` parameter to `Chip`s
+  <sub>[#159422](https://github.com/flutter/flutter/pull/159422) merged on December 4, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/159422) over 1 week, 404 additions and 1 deletion in 11 files</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix fialing lint `Consider using 'register' to avoid unnecessary configuration`
   <sub>[#159137](https://github.com/flutter/flutter/pull/159137) merged on December 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159137) over 2 weeks, 8 additions and 5 deletions in 1 file</sub>
