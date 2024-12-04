@@ -446,7 +446,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-26 commits.
+27 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Start with a smaller memory allocation for CanvasKit
   <sub>[#56900](https://github.com/flutter/engine/pull/56900) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56900) over 2 days, 4 additions and 1 deletion in 1 file</sub>
@@ -469,6 +469,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 0740ded7b9bf to 5785058c9bb1 (5 revisions)
   <sub>[#56886](https://github.com/flutter/engine/pull/56886) merged on December 2, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/56886) over 2 days, 356 additions and 228 deletions in 6 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove LSAN supressions for Linux embedder
+  <sub>[#56913](https://github.com/flutter/engine/pull/56913) merged on December 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56913) over 1 day, 3 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Replace outdated wiki URLs in pull request template
   <sub>[#56824](https://github.com/flutter/engine/pull/56824) merged on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56824) over 5 days, 7 additions and 7 deletions in 1 file</sub>
