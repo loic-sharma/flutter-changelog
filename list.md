@@ -410,7 +410,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-19 commits.
+20 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub>
@@ -432,6 +432,10 @@
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Replace outdated wiki URLs in pull request template
   <sub>[#56824](https://github.com/flutter/engine/pull/56824) merged on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56824) over 5 days, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Save back handling state in Activity/Fragment bundle
+  <sub>[#56715](https://github.com/flutter/engine/pull/56715) merged on December 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56715) over 2 weeks, 146 additions and 2 deletions in 6 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Tristan Ross](https://github.com/RossComputerGuy)** &mdash; [ci] use env for format and support arm64 hosts
   <sub>[#56268](https://github.com/flutter/engine/pull/56268) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56268) over 1 month, 11 additions and 12 deletions in 2 files</sub>
@@ -1032,7 +1036,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-5 commits.
+7 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Publish app architecture 'case-study' pages
   <sub>[#11414](https://github.com/flutter/website/pull/11414) merged on December 2, 2024 &mdash; **Extra large:** [136 comments](https://github.com/flutter/website/pull/11414) over 1 week, 1528 additions and 11 deletions in 21 files</sub>
@@ -1040,6 +1044,14 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update required Node version and npm deps
   <sub>[#11445](https://github.com/flutter/website/pull/11445) merged on December 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11445) over 4 days, 361 additions and 319 deletions in 4 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Misc cleanup and fixes to app architecture docs
+  <sub>[#11462](https://github.com/flutter/website/pull/11462) merged on December 4, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11462) over 1 hour, 549 additions and 538 deletions in 10 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up duplicated tab panes from test-drive page
+  <sub>[#11460](https://github.com/flutter/website/pull/11460) merged on December 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11460) over 8 hours, 17 additions and 27 deletions in 4 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix highlighting of app architecture sidenav entry
