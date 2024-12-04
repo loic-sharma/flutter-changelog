@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-23 commits.
+24 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods<br />
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub><br />
@@ -15,6 +15,10 @@
   <sub>[#159665](https://github.com/flutter/flutter/pull/159665) merged on December 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159665) over 19 hours, 99 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/d8d9b857-07ed-4d3c-afe2-44518d979e66)![image](https://github.com/user-attachments/assets/a71ea3c8-a408-43a1-8c99-c2612ad4b24b)</details></sub>
+
+* **[YeungKC](https://github.com/YeungKC)** &mdash; Fix: Update PopupMenu position when layout changes<br />
+  <sub>[#157983](https://github.com/flutter/flutter/pull/157983) merged on December 4, 2024 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/157983) over 1 month, 110 additions and 18 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fix `DropdownMenu` focus<br />
   <sub>[#156412](https://github.com/flutter/flutter/pull/156412) merged on December 4, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156412) over 1 month, 147 additions and 30 deletions in 2 files</sub><br />
@@ -83,7 +87,7 @@
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Format controller.dart of flutter_test<br />
-  <sub>[#159667](https://github.com/flutter/flutter/pull/159667) merged on December 4, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159667) over 1 day, 49 additions and 50 deletions in 1 file</sub><br />
+  <sub>[#159667](https://github.com/flutter/flutter/pull/159667) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159667) over 1 day, 49 additions and 50 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[TheJoeSchr](https://github.com/TheJoeSchr)** &mdash; Fix typo in flutter_command.dart<br />
@@ -438,7 +442,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-23 commits.
+24 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] makes UniformBindData 15% faster and adds unit test<br />
   <sub>[#56844](https://github.com/flutter/engine/pull/56844) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56844) over 4 days, 80 additions and 12 deletions in 7 files</sub><br />
@@ -460,6 +464,10 @@
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Replace outdated wiki URLs in pull request template<br />
   <sub>[#56824](https://github.com/flutter/engine/pull/56824) merged on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56824) over 5 days, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added the ability to make untracked opengles handles (migrated textures)<br />
+  <sub>[#56927](https://github.com/flutter/engine/pull/56927) merged on December 4, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/56927) over 21 hours, 90 additions and 7 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] avoid heap allocation in RenderTarget object.<br />
   <sub>[#56829](https://github.com/flutter/engine/pull/56829) merged on December 4, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/engine/pull/56829) over 1 week, 290 additions and 170 deletions in 21 files</sub><br />
@@ -909,7 +917,11 @@
 
 ### November 30, 2024 to December 6, 2024
 
-5 commits.
+6 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Add Swift Package Manager integration to example apps<br />
+  <sub>[#8219](https://github.com/flutter/packages/pull/8219) merged on December 4, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/8219) over 19 hours, 1915 additions and 900 deletions in 96 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [LouiseHsu](https://github.com/LouiseHsu), [Chris Bracken](https://github.com/cbracken), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes channel names of the named constructors of ProxyApis. <br />
   <sub>[#8201](https://github.com/flutter/packages/pull/8201) merged on December 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/8201) over 3 days, 399 additions and 5 deletions in 15 files</sub><br />
@@ -1084,7 +1096,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-10 commits.
+11 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Publish app architecture 'case-study' pages<br />
   <sub>[#11414](https://github.com/flutter/website/pull/11414) merged on December 2, 2024 &mdash; **Extra large:** [136 comments](https://github.com/flutter/website/pull/11414) over 1 week, 1528 additions and 11 deletions in 21 files</sub><br />
@@ -1097,6 +1109,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Misc cleanup and fixes to app architecture docs<br />
   <sub>[#11462](https://github.com/flutter/website/pull/11462) merged on December 4, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11462) over 1 hour, 549 additions and 538 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update deep link docs due to the flutter_deeplinking_enabled flag default value change. <br />
+  <sub>[#11461](https://github.com/flutter/website/pull/11461) merged on December 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11461) over 23 hours, 21 additions and 44 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Hide banner for now<br />
   <sub>[#11455](https://github.com/flutter/website/pull/11455) merged on December 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11455) over 14 hours, 3 additions and 0 deletions in 2 files</sub><br />
