@@ -23,9 +23,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.24.5<br />
   <sub>[#158904](https://github.com/flutter/flutter/pull/158904) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158904) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[denisbganev](https://github.com/denisbganev)** &mdash; Material ButtonStyleButton.icon() constructor param IconAlignment default-safety fix<br />
-  <sub>[#159242](https://github.com/flutter/flutter/pull/159242) opened on on November 21, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159242) 10 additions and 10 deletions in 4 files</sub><br />
-
 * **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Improve UI-thread animation performance<br />
   <sub>[#159288](https://github.com/flutter/flutter/pull/159288) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159288) 28 additions and 6 deletions in 3 files</sub><br />
 
