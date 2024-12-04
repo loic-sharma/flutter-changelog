@@ -1036,7 +1036,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-7 commits.
+10 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Publish app architecture 'case-study' pages<br />
   <sub>[#11414](https://github.com/flutter/website/pull/11414) merged on December 2, 2024 &mdash; **Extra large:** [136 comments](https://github.com/flutter/website/pull/11414) over 1 week, 1528 additions and 11 deletions in 21 files</sub><br />
@@ -1048,6 +1048,18 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Misc cleanup and fixes to app architecture docs<br />
   <sub>[#11462](https://github.com/flutter/website/pull/11462) merged on December 4, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11462) over 1 hour, 549 additions and 538 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Hide banner for now<br />
+  <sub>[#11455](https://github.com/flutter/website/pull/11455) merged on December 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11455) over 14 hours, 3 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor style cleanup and fixes in prep for redesign<br />
+  <sub>[#11456](https://github.com/flutter/website/pull/11456) merged on December 4, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11456) over 14 hours, 146 additions and 162 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Don't require match-url-exactly in sidenav for active page highlighting<br />
+  <sub>[#11459](https://github.com/flutter/website/pull/11459) merged on December 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11459) over 9 hours, 22 additions and 36 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up duplicated tab panes from test-drive page<br />
