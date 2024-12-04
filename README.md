@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-17 commits.
+18 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods<br />
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub><br />
@@ -69,6 +69,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.<br />
   <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Flop](https://github.com/hgraceb)** &mdash; Format controller.dart of flutter_test<br />
+  <sub>[#159667](https://github.com/flutter/flutter/pull/159667) merged on December 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159667) over 1 day, 49 additions and 50 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Bruno Leroux](https://github.com/bleroux)</sub><br />
 
 * **[TheJoeSchr](https://github.com/TheJoeSchr)** &mdash; Fix typo in flutter_command.dart<br />
   <sub>[#159398](https://github.com/flutter/flutter/pull/159398) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159398) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
