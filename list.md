@@ -639,6 +639,10 @@
   <sub>[#56733](https://github.com/flutter/engine/pull/56733) merged on November 21, 2024 &mdash; **Extra large:** [5 comments](https://github.com/flutter/engine/pull/56733) over 17 hours, 32629 additions and 32592 deletions in 5 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Work around wrong pointerId in coalesced events in iOS Safari 18.2
+  <sub>[#56719](https://github.com/flutter/engine/pull/56719) merged on November 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56719) over 1 day, 174 additions and 16 deletions in 3 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Fix: Impeller playground's shapes should react to controllers
   <sub>[#56734](https://github.com/flutter/engine/pull/56734) merged on November 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56734) over 1 hour, 54 additions and 58 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -655,10 +659,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Consume `NativeAssetsManifest.json`
   <sub>[#56727](https://github.com/flutter/engine/pull/56727) merged on November 21, 2024 &mdash; **Medium:** [17 comments](https://github.com/flutter/engine/pull/56727) over 1 day, 439 additions and 50 deletions in 21 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Work around wrong pointerId in coalesced events in iOS Safari 18.2
-  <sub>[#56719](https://github.com/flutter/engine/pull/56719) merged on November 21, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56719) over 1 day, 174 additions and 16 deletions in 3 files</sub>
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Juanjo Tugores](https://github.com/tugorez)** &mdash; Flutter views can gain focus
   <sub>[#54985](https://github.com/flutter/engine/pull/54985) merged on November 18, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/engine/pull/54985) over 2 months, 33 additions and 49 deletions in 2 files</sub>
