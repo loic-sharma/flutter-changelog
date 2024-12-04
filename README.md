@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-19 commits.
+20 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods<br />
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub><br />
@@ -81,6 +81,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Ignore exhaustiveness check for some semantics tests, for now<br />
   <sub>[#159517](https://github.com/flutter/flutter/pull/159517) merged on December 2, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159517) over 5 days, 10 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_benchmark flutter_view_macos__start_up to be flaky<br />
+  <sub>[#159541](https://github.com/flutter/flutter/pull/159541) merged on December 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159541) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix InkWell overlayColor resolution ignores selected state<br />
   <sub>[#159784](https://github.com/flutter/flutter/pull/159784) merged on December 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159784) over 3 hours, 123 additions and 27 deletions in 2 files</sub><br />
@@ -885,7 +889,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-4 commits.
+5 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes channel names of the named constructors of ProxyApis. <br />
   <sub>[#8201](https://github.com/flutter/packages/pull/8201) merged on December 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/8201) over 3 days, 399 additions and 5 deletions in 15 files</sub><br />
@@ -898,6 +902,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Replaces deprecated `whereNotNull()`<br />
   <sub>[#8215](https://github.com/flutter/packages/pull/8215) merged on December 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8215) over 40 minutes, 14 additions and 7 deletions in 7 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Annotate deprecated member usage<br />
+  <sub>[#8214](https://github.com/flutter/packages/pull/8214) merged on December 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8214) over 21 hours, 30 additions and 3 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Limit Android decoding<br />
   <sub>[#8187](https://github.com/flutter/packages/pull/8187) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8187) over 5 days, 70 additions and 19 deletions in 6 files</sub><br />
