@@ -1249,7 +1249,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Add caching and service worker docs to the web FAQ
-  <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub>
+  <sub>[#11397](https://github.com/flutter/website/pull/11397) merged on November 20, 2024 &mdash; **Small:** [24 comments](https://github.com/flutter/website/pull/11397) over 6 days, 91 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Key-Value Data" and "SQL" architecture cookbook recipes
