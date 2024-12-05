@@ -446,7 +446,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-31 commits.
+32 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Start with a smaller memory allocation for CanvasKit<br />
   <sub>[#56900](https://github.com/flutter/engine/pull/56900) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56900) over 2 days, 4 additions and 1 deletion in 1 file</sub><br />
@@ -537,6 +537,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Sped up SubpixelGlyph::Equal<br />
   <sub>[#56851](https://github.com/flutter/engine/pull/56851) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56851) over 4 days, 13 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Drop APNG frames that don't fit entirely within the destination surface.<br />
+  <sub>[#56928](https://github.com/flutter/engine/pull/56928) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56928) over 1 day, 48 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused constant<br />
   <sub>[#56929](https://github.com/flutter/engine/pull/56929) merged on December 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56929) over 3 hours, 0 additions and 2 deletions in 1 file</sub><br />
