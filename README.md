@@ -1133,7 +1133,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-11 commits.
+12 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Publish app architecture 'case-study' pages<br />
   <sub>[#11414](https://github.com/flutter/website/pull/11414) merged on December 2, 2024 &mdash; **Extra large:** [136 comments](https://github.com/flutter/website/pull/11414) over 1 week, 1528 additions and 11 deletions in 21 files</sub><br />
@@ -1145,6 +1145,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Misc cleanup and fixes to app architecture docs<br />
   <sub>[#11462](https://github.com/flutter/website/pull/11462) merged on December 4, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11462) over 1 hour, 549 additions and 538 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Remove photo-filter-carousel recipe<br />
+  <sub>[#11465](https://github.com/flutter/website/pull/11465) merged on December 5, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11465) over 46 minutes, 1 addition and 848 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update deep link docs due to the flutter_deeplinking_enabled flag default value change. <br />
