@@ -30,7 +30,7 @@
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) opened on on November 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159301) 9 additions and 3 deletions in 1 file</sub><br />
 
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed typos<br />
-  <sub>[#159331](https://github.com/flutter/flutter/pull/159331) opened on on November 22, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/159331) 179 additions and 179 deletions in 59 files</sub><br />
+  <sub>[#159331](https://github.com/flutter/flutter/pull/159331) opened on on November 22, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/159331) 178 additions and 178 deletions in 59 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `WidgetStateMap` observer<br />
   <sub>[#159333](https://github.com/flutter/flutter/pull/159333) opened on on November 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159333) 109 additions and 1 deletion in 2 files</sub><br />
@@ -79,4 +79,7 @@
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Add google_adsense to 9_first_party_packages.yml<br />
   <sub>[#159827](https://github.com/flutter/flutter/pull/159827) opened on on December 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159827) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix Date picker overlay colors aren't applied on selected state<br />
+  <sub>[#159839](https://github.com/flutter/flutter/pull/159839) opened on on December 5, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/159839) 364 additions and 53 deletions in 5 files</sub><br />
 
