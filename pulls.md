@@ -63,7 +63,7 @@
   <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
 
 * **[Adam Langley](https://github.com/Adam-Langley)** &mdash; Fix code signing regex not resilient to whitespace<br />
-  <sub>[#159643](https://github.com/flutter/flutter/pull/159643) opened on on December 1, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159643) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#159643](https://github.com/flutter/flutter/pull/159643) opened on on December 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159643) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add support for experimental dart data assets (under experimental flag) - part 1<br />
   <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
@@ -85,4 +85,10 @@
 
 * **[Jaloliddin](https://github.com/jaloliddinmirzo)** &mdash; Drover<br />
   <sub>[#159846](https://github.com/flutter/flutter/pull/159846) opened on on December 5, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/159846) 1848 additions and 310 deletions in 120 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add deprecation notice for Android x86 when building for the target<br />
+  <sub>[#159847](https://github.com/flutter/flutter/pull/159847) opened on on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159847) 96 additions and 0 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add deprecation notice for Android x86 when building for the target<br />
+  <sub>[#159848](https://github.com/flutter/flutter/pull/159848) opened on on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159848) 96 additions and 0 deletions in 3 files</sub><br />
 
