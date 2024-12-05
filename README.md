@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-25 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods<br />
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub><br />
@@ -23,6 +23,11 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix `DropdownMenu` focus<br />
   <sub>[#156412](https://github.com/flutter/flutter/pull/156412) merged on December 4, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156412) over 1 month, 147 additions and 30 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint in MainActivity.kt.tmpl<br />
+  <sub>[#159441](https://github.com/flutter/flutter/pull/159441) merged on December 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159441) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub><details><summary>1 image...</summary>![Capture d’écran 2024-11-25 193428](https://github.com/user-attachments/assets/40729c6f-2c5d-4e56-a413-7b7c6dddddb8)</details></sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Removes dev dependency plugins from release builds<br />
   <sub>[#158026](https://github.com/flutter/flutter/pull/158026) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158026) over 1 month, 171 additions and 31 deletions in 8 files</sub><br />
@@ -85,6 +90,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.<br />
   <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix Date picker overlay colors aren't applied on selected state<br />
+  <sub>[#159839](https://github.com/flutter/flutter/pull/159839) merged on December 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159839) over 8 hours, 364 additions and 53 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add deprecation notice for Android x86 when building for the target<br />
   <sub>[#159750](https://github.com/flutter/flutter/pull/159750) merged on December 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159750) over 19 hours, 96 additions and 0 deletions in 3 files</sub><br />
