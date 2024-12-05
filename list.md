@@ -477,7 +477,12 @@
 
 ### November 30, 2024 to December 6, 2024
 
-33 commits.
+35 commits.
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Add rounded superellipse
+  <sub>[#56726](https://github.com/flutter/engine/pull/56726) merged on December 5, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/56726) over 2 weeks, 530 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+  <sub><details><summary>3 images...</summary><img width="520" alt="image" src="https://github.com/user-attachments/assets/54087467-85cd-4021-91cc-a948866ab5a8"><img width="508" alt="image" src="https://github.com/user-attachments/assets/460a4927-0396-462b-948d-0846a781c92c"><img width="490" alt="image" src="https://github.com/user-attachments/assets/8d7f625d-8a3b-4aba-b3f9-f292b874b606"></details></sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Start with a smaller memory allocation for CanvasKit
   <sub>[#56900](https://github.com/flutter/engine/pull/56900) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56900) over 2 days, 4 additions and 1 deletion in 1 file</sub>
@@ -517,25 +522,29 @@
   <sub>[#56824](https://github.com/flutter/engine/pull/56824) merged on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56824) over 5 days, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added the ability to make untracked opengles handles (migrated textures)
-  <sub>[#56927](https://github.com/flutter/engine/pull/56927) merged on December 4, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/56927) over 21 hours, 90 additions and 7 deletions in 7 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] avoid heap allocation in RenderTarget object.
   <sub>[#56829](https://github.com/flutter/engine/pull/56829) merged on December 4, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/engine/pull/56829) over 1 week, 290 additions and 170 deletions in 21 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Save back handling state in Activity/Fragment bundle
-  <sub>[#56715](https://github.com/flutter/engine/pull/56715) merged on December 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56715) over 2 weeks, 146 additions and 2 deletions in 6 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Justin McCandless](https://github.com/justinmc)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added the ability to make untracked opengles handles (migrated textures)
+  <sub>[#56927](https://github.com/flutter/engine/pull/56927) merged on December 4, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/56927) over 21 hours, 90 additions and 7 deletions in 7 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] invalidate cached atlas data, take 2.
   <sub>[#56925](https://github.com/flutter/engine/pull/56925) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56925) over 40 minutes, 21 additions and 14 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Save back handling state in Activity/Fragment bundle
+  <sub>[#56715](https://github.com/flutter/engine/pull/56715) merged on December 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56715) over 2 weeks, 146 additions and 2 deletions in 6 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Tristan Ross](https://github.com/RossComputerGuy)** &mdash; [ci] use env for format and support arm64 hosts
   <sub>[#56268](https://github.com/flutter/engine/pull/56268) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56268) over 1 month, 11 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moved gles pipelines to untracked handles.
+  <sub>[#56955](https://github.com/flutter/engine/pull/56955) merged on December 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56955) over 17 hours, 57 additions and 1 deletion in 6 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] avoid re-binding winding order and cull mode.
   <sub>[#56943](https://github.com/flutter/engine/pull/56943) merged on December 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56943) over 7 hours, 33 additions and 19 deletions in 1 file</sub>
@@ -573,14 +582,6 @@
   <sub>[#56851](https://github.com/flutter/engine/pull/56851) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56851) over 4 days, 13 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Drop APNG frames that don't fit entirely within the destination surface.
-  <sub>[#56928](https://github.com/flutter/engine/pull/56928) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56928) over 1 day, 48 additions and 2 deletions in 4 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused constant
-  <sub>[#56929](https://github.com/flutter/engine/pull/56929) merged on December 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56929) over 3 hours, 0 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Split keyevent channel into own class
   <sub>[#56911](https://github.com/flutter/engine/pull/56911) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/56911) over 22 hours, 226 additions and 60 deletions in 6 files</sub>
   <sub>Reviewed by: [Harlen Batagelo](https://github.com/hbatagelo)</sub>
@@ -600,6 +601,14 @@
 * **[richardexfo](https://github.com/richardexfo)** &mdash; Fix linux on vivante drivers.
   <sub>[#56862](https://github.com/flutter/engine/pull/56862) merged on December 2, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56862) over 4 days, 10 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Robert Ancell](https://github.com/robert-ancell), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Drop APNG frames that don't fit entirely within the destination surface.
+  <sub>[#56928](https://github.com/flutter/engine/pull/56928) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56928) over 1 day, 48 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused constant
+  <sub>[#56929](https://github.com/flutter/engine/pull/56929) merged on December 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56929) over 3 hours, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 470117150f34 to a2a9428e761f (1 revision)
   <sub>[#56939](https://github.com/flutter/engine/pull/56939) merged on December 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56939) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
