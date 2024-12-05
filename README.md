@@ -1026,7 +1026,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-13 commits.
+14 commits.
 
 * **[Vitaly Sokolov](https://github.com/sokoloff06)** &mdash; [google_adsense] (Experimental) AdSense plugin for Flutter Web<br />
   <sub>[#6871](https://github.com/flutter/packages/pull/6871) merged on December 4, 2024 &mdash; **Large:** [73 comments](https://github.com/flutter/packages/pull/6871) over 6 months, 1470 additions and 0 deletions in 35 files</sub><br />
@@ -1059,6 +1059,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Replaces deprecated `whereNotNull()`<br />
   <sub>[#8215](https://github.com/flutter/packages/pull/8215) merged on December 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8215) over 40 minutes, 14 additions and 7 deletions in 7 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Add Swift Package Manager integration to Google sign in example apps<br />
+  <sub>[#8230](https://github.com/flutter/packages/pull/8230) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8230) over 22 hours, 150 additions and 6 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Adds google_adsense to labeler.yml<br />
   <sub>[#8231](https://github.com/flutter/packages/pull/8231) merged on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8231) over 12 hours, 6 additions and 1 deletion in 2 files</sub><br />
