@@ -103,7 +103,7 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_benchmark flutter_view_macos__start_up to be flaky<br />
-  <sub>[#159541](https://github.com/flutter/flutter/pull/159541) merged on December 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159541) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#159541](https://github.com/flutter/flutter/pull/159541) merged on December 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159541) over 1 week, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix InkWell overlayColor resolution ignores selected state<br />
