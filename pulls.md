@@ -84,5 +84,5 @@
   <sub>[#159848](https://github.com/flutter/flutter/pull/159848) opened on on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159848) 96 additions and 0 deletions in 3 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] configure shader compiler to output GLES3 shaders for Android.<br />
-  <sub>[#159857](https://github.com/flutter/flutter/pull/159857) opened on on December 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159857) 6 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#159857](https://github.com/flutter/flutter/pull/159857) opened on on December 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159857) 7 additions and 1 deletion in 4 files</sub><br />
 
