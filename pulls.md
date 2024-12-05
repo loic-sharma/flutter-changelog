@@ -71,12 +71,6 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Add google_adsense to 9_first_party_packages.yml<br />
   <sub>[#159827](https://github.com/flutter/flutter/pull/159827) opened on on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159827) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Add deprecation notice for Android x86 when building for the target<br />
-  <sub>[#159847](https://github.com/flutter/flutter/pull/159847) opened on on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159847) 96 additions and 0 deletions in 3 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add deprecation notice for Android x86 when building for the target<br />
-  <sub>[#159848](https://github.com/flutter/flutter/pull/159848) opened on on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159848) 96 additions and 0 deletions in 3 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] configure shader compiler to output GLES3 shaders for Android.<br />
-  <sub>[#159857](https://github.com/flutter/flutter/pull/159857) opened on on December 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159857) 7 additions and 1 deletion in 4 files</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for injecting assets into the widget_preview_scaffold<br />
+  <sub>[#159859](https://github.com/flutter/flutter/pull/159859) opened on on December 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159859) 811 additions and 101 deletions in 7 files</sub><br />
 
