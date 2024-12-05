@@ -446,7 +446,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-29 commits.
+30 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Start with a smaller memory allocation for CanvasKit
   <sub>[#56900](https://github.com/flutter/engine/pull/56900) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56900) over 2 days, 4 additions and 1 deletion in 1 file</sub>
@@ -497,6 +497,10 @@
 * **[Tristan Ross](https://github.com/RossComputerGuy)** &mdash; [ci] use env for format and support arm64 hosts
   <sub>[#56268](https://github.com/flutter/engine/pull/56268) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56268) over 1 month, 11 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] avoid re-binding winding order and cull mode.
+  <sub>[#56943](https://github.com/flutter/engine/pull/56943) merged on December 5, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/56943) over 7 hours, 33 additions and 19 deletions in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Implements the naming of untracked gles handles
   <sub>[#56948](https://github.com/flutter/engine/pull/56948) merged on December 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/56948) over 4 hours, 48 additions and 7 deletions in 5 files</sub>
@@ -942,11 +946,15 @@
 
 ### November 30, 2024 to December 6, 2024
 
-10 commits.
+11 commits.
 
 * **[Vitaly Sokolov](https://github.com/sokoloff06)** &mdash; [google_adsense] (Experimental) AdSense plugin for Flutter Web
   <sub>[#6871](https://github.com/flutter/packages/pull/6871) merged on December 4, 2024 &mdash; **Large:** [72 comments](https://github.com/flutter/packages/pull/6871) over 6 months, 1470 additions and 0 deletions in 35 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds event channel support for kotlin and swift
+  <sub>[#7892](https://github.com/flutter/packages/pull/7892) merged on December 5, 2024 &mdash; **Extra large:** [62 comments](https://github.com/flutter/packages/pull/7892) over 1 month, 4144 additions and 283 deletions in 48 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_avfoundation] Split iOS native code into multiple files
   <sub>[#8171](https://github.com/flutter/packages/pull/8171) merged on December 4, 2024 &mdash; **Extra large:** [50 comments](https://github.com/flutter/packages/pull/8171) over 1 week, 844 additions and 676 deletions in 11 files</sub>
