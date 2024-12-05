@@ -71,9 +71,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AlignTransition` without rebuilds<br />
   <sub>[#159757](https://github.com/flutter/flutter/pull/159757) opened on on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159757) 62 additions and 16 deletions in 2 files</sub><br />
 
-* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add handler for `SemanticsAction.scrollToOffset`<br />
-  <sub>[#159811](https://github.com/flutter/flutter/pull/159811) opened on on December 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159811) 198 additions and 48 deletions in 17 files</sub><br />
-
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `CupertinoTextField` accessibility behavior on Linux should match `TextField`<br />
   <sub>[#159823](https://github.com/flutter/flutter/pull/159823) opened on on December 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159823) 26 additions and 8 deletions in 2 files</sub><br />
 
