@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-28 commits.
+29 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub>
@@ -98,6 +98,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix Date picker overlay colors aren't applied on selected state
   <sub>[#159839](https://github.com/flutter/flutter/pull/159839) merged on December 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159839) over 8 hours, 364 additions and 53 deletions in 5 files</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Remove some usages of package:usage
+  <sub>[#159705](https://github.com/flutter/flutter/pull/159705) merged on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159705) over 2 days, 13 additions and 68 deletions in 7 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add deprecation notice for Android x86 when building for the target
   <sub>[#159750](https://github.com/flutter/flutter/pull/159750) merged on December 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159750) over 19 hours, 96 additions and 0 deletions in 3 files</sub>
