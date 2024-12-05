@@ -539,7 +539,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added the ability to make untracked opengles handles (migrated textures)
-  <sub>[#56927](https://github.com/flutter/engine/pull/56927) merged on December 4, 2024 &mdash; **Small:** [16 comments](https://github.com/flutter/engine/pull/56927) over 21 hours, 90 additions and 7 deletions in 7 files</sub>
+  <sub>[#56927](https://github.com/flutter/engine/pull/56927) merged on December 4, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/56927) over 21 hours, 90 additions and 7 deletions in 7 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] avoid heap allocation in RenderTarget object.
