@@ -954,7 +954,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-11 commits.
+13 commits.
 
 * **[Vitaly Sokolov](https://github.com/sokoloff06)** &mdash; [google_adsense] (Experimental) AdSense plugin for Flutter Web<br />
   <sub>[#6871](https://github.com/flutter/packages/pull/6871) merged on December 4, 2024 &mdash; **Large:** [73 comments](https://github.com/flutter/packages/pull/6871) over 6 months, 1470 additions and 0 deletions in 35 files</sub><br />
@@ -972,6 +972,10 @@
   <sub>[#8219](https://github.com/flutter/packages/pull/8219) merged on December 4, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/packages/pull/8219) over 19 hours, 1915 additions and 900 deletions in 96 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [LouiseHsu](https://github.com/LouiseHsu), [Chris Bracken](https://github.com/cbracken), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update iOS/macOS Pigeon versions<br />
+  <sub>[#8226](https://github.com/flutter/packages/pull/8226) merged on December 5, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/8226) over 15 hours, 784 additions and 332 deletions in 22 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes channel names of the named constructors of ProxyApis. <br />
   <sub>[#8201](https://github.com/flutter/packages/pull/8201) merged on December 4, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/packages/pull/8201) over 3 days, 399 additions and 5 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
@@ -983,6 +987,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Replaces deprecated `whereNotNull()`<br />
   <sub>[#8215](https://github.com/flutter/packages/pull/8215) merged on December 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8215) over 40 minutes, 14 additions and 7 deletions in 7 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Adds google_adsense to labeler.yml<br />
+  <sub>[#8231](https://github.com/flutter/packages/pull/8231) merged on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8231) over 12 hours, 6 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Add Swift Package Manager integration to image picker examp…<br />
   <sub>[#8227](https://github.com/flutter/packages/pull/8227) merged on December 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8227) over 1 hour, 212 additions and 68 deletions in 9 files</sub><br />
