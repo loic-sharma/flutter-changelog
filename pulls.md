@@ -68,9 +68,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AlignTransition` without rebuilds<br />
   <sub>[#159757](https://github.com/flutter/flutter/pull/159757) opened on on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159757) 62 additions and 16 deletions in 2 files</sub><br />
 
-* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Add google_adsense to 9_first_party_packages.yml<br />
-  <sub>[#159827](https://github.com/flutter/flutter/pull/159827) opened on on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159827) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for injecting assets into the widget_preview_scaffold<br />
-  <sub>[#159859](https://github.com/flutter/flutter/pull/159859) opened on on December 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159859) 811 additions and 101 deletions in 7 files</sub><br />
+  <sub>[#159859](https://github.com/flutter/flutter/pull/159859) opened on on December 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159859) 691 additions and 14 deletions in 7 files</sub><br />
 
