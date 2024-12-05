@@ -953,7 +953,7 @@
 11 commits.
 
 * **[Vitaly Sokolov](https://github.com/sokoloff06)** &mdash; [google_adsense] (Experimental) AdSense plugin for Flutter Web
-  <sub>[#6871](https://github.com/flutter/packages/pull/6871) merged on December 4, 2024 &mdash; **Large:** [72 comments](https://github.com/flutter/packages/pull/6871) over 6 months, 1470 additions and 0 deletions in 35 files</sub>
+  <sub>[#6871](https://github.com/flutter/packages/pull/6871) merged on December 4, 2024 &mdash; **Large:** [73 comments](https://github.com/flutter/packages/pull/6871) over 6 months, 1470 additions and 0 deletions in 35 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] adds event channel support for kotlin and swift
