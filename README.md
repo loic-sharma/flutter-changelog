@@ -65,6 +65,10 @@
   <sub>[#159510](https://github.com/flutter/flutter/pull/159510) merged on December 4, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/159510) over 1 week, 741 additions and 304 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump Dart SDK to 3.7<br />
+  <sub>[#159812](https://github.com/flutter/flutter/pull/159812) merged on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159812) over 23 hours, 117 additions and 117 deletions in 105 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Migrate module templates to declarative application of the Flutter Gradle Plugin<br />
   <sub>[#159770](https://github.com/flutter/flutter/pull/159770) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159770) over 1 day, 103 additions and 29 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub><br />
@@ -80,10 +84,6 @@
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; doc/improve-hint-text-doc<br />
   <sub>[#156313](https://github.com/flutter/flutter/pull/156313) merged on December 2, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/156313) over 1 month, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump Dart SDK to 3.7<br />
-  <sub>[#159812](https://github.com/flutter/flutter/pull/159812) merged on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159812) over 23 hours, 117 additions and 117 deletions in 105 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Mark Mac_ios microbenchmarks_ios as flakey<br />
   <sub>[#158540](https://github.com/flutter/flutter/pull/158540) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158540) over 2 weeks, 1 addition and 0 deletions in 1 file</sub><br />
