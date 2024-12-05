@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-34 commits.
+35 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Updated Material 3 Progress Indicators Samples
   <sub>[#158925](https://github.com/flutter/flutter/pull/158925) merged on December 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158925) over 3 weeks, 149 additions and 65 deletions in 8 files</sub>
@@ -65,6 +65,10 @@
   <sub>[#159510](https://github.com/flutter/flutter/pull/159510) merged on December 4, 2024 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/159510) over 1 week, 741 additions and 304 deletions in 14 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Migrate module templates to declarative application of the Flutter Gradle Plugin
+  <sub>[#159770](https://github.com/flutter/flutter/pull/159770) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159770) over 1 day, 103 additions and 29 deletions in 8 files</sub>
+  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia)</sub>
+
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; iPad Scribble flicker and crash
   <sub>[#159508](https://github.com/flutter/flutter/pull/159508) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159508) over 5 days, 105 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
@@ -97,9 +101,9 @@
   <sub>[#159720](https://github.com/flutter/flutter/pull/159720) merged on December 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159720) over 2 days, 240 additions and 25 deletions in 4 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Increase timeout of Devtools tests
-  <sub>[#159759](https://github.com/flutter/flutter/pull/159759) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159759) over 51 minutes, 3 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.
+  <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Rename `SWIFT_PACKAGE_MANAGER` environment variable to `FLUTTER_SWIFT_PACKAGE_MANAGER`
   <sub>[#159502](https://github.com/flutter/flutter/pull/159502) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159502) over 6 days, 18 additions and 8 deletions in 2 files</sub>
@@ -109,9 +113,9 @@
   <sub>[#159715](https://github.com/flutter/flutter/pull/159715) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159715) over 2 hours, 16 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
-* **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.
-  <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Increase timeout of Devtools tests
+  <sub>[#159759](https://github.com/flutter/flutter/pull/159759) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159759) over 51 minutes, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Only include `truncated` field in JSON response if `true`
   <sub>[#159701](https://github.com/flutter/flutter/pull/159701) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159701) over 21 hours, 8 additions and 1 deletion in 2 files</sub>
