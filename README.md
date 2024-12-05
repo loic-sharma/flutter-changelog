@@ -4,7 +4,12 @@
 
 ### November 30, 2024 to December 6, 2024
 
-29 commits.
+32 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Updated Material 3 Progress Indicators Samples<br />
+  <sub>[#158925](https://github.com/flutter/flutter/pull/158925) merged on December 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158925) over 3 weeks, 149 additions and 65 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="753" alt="Screenshot 2024-12-04 at 15 54 50" src="https://github.com/user-attachments/assets/285f2803-1a12-470a-9afe-2abcf0548ff4"><img width="753" alt="Screenshot 2024-12-04 at 15 58 35" src="https://github.com/user-attachments/assets/9caebec9-f65e-4baa-8e39-9a4a4a72b205"></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `IconAlignment` to `ButtonStyle` and `styleFrom` methods<br />
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub><br />
@@ -23,6 +28,11 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix `DropdownMenu` focus<br />
   <sub>[#156412](https://github.com/flutter/flutter/pull/156412) merged on December 4, 2024 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/156412) over 1 month, 147 additions and 30 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Bruno Leroux](https://github.com/bleroux), [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Updated Material 3 `Slider` Samples<br />
+  <sub>[#159795](https://github.com/flutter/flutter/pull/159795) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159795) over 1 day, 126 additions and 159 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="840" alt="Screenshot 2024-12-04 at 16 03 47" src="https://github.com/user-attachments/assets/b6db9efe-8416-460e-a745-bdf37c97ed61"></details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint in MainActivity.kt.tmpl<br />
   <sub>[#159441](https://github.com/flutter/flutter/pull/159441) merged on December 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159441) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
@@ -74,6 +84,10 @@
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed typos<br />
   <sub>[#159331](https://github.com/flutter/flutter/pull/159331) merged on December 5, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/159331) over 1 week, 177 additions and 177 deletions in 59 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce Material 3 `year2023` flag to `ProgressIndicatorThemeData`<br />
+  <sub>[#159720](https://github.com/flutter/flutter/pull/159720) merged on December 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159720) over 2 days, 240 additions and 25 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Increase timeout of Devtools tests<br />
   <sub>[#159759](https://github.com/flutter/flutter/pull/159759) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159759) over 51 minutes, 3 additions and 0 deletions in 1 file</sub><br />
