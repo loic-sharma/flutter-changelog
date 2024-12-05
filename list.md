@@ -446,7 +446,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-28 commits.
+29 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Start with a smaller memory allocation for CanvasKit
   <sub>[#56900](https://github.com/flutter/engine/pull/56900) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56900) over 2 days, 4 additions and 1 deletion in 1 file</sub>
@@ -497,6 +497,10 @@
 * **[Tristan Ross](https://github.com/RossComputerGuy)** &mdash; [ci] use env for format and support arm64 hosts
   <sub>[#56268](https://github.com/flutter/engine/pull/56268) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56268) over 1 month, 11 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Implements the naming of untracked gles handles
+  <sub>[#56948](https://github.com/flutter/engine/pull/56948) merged on December 5, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/56948) over 4 hours, 48 additions and 7 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove extra validation checks in GLES backend.
   <sub>[#56944](https://github.com/flutter/engine/pull/56944) merged on December 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56944) over 3 hours, 8 additions and 21 deletions in 1 file</sub>

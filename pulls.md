@@ -27,7 +27,7 @@
   <sub>[#159288](https://github.com/flutter/flutter/pull/159288) opened on on November 21, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159288) 28 additions and 6 deletions in 3 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`<br />
-  <sub>[#159301](https://github.com/flutter/flutter/pull/159301) opened on on November 21, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159301) 8 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#159301](https://github.com/flutter/flutter/pull/159301) opened on on November 21, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159301) 9 additions and 3 deletions in 1 file</sub><br />
 
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed typos<br />
   <sub>[#159331](https://github.com/flutter/flutter/pull/159331) opened on on November 22, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/159331) 179 additions and 179 deletions in 59 files</sub><br />
