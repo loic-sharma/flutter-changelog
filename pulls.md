@@ -74,3 +74,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add handler for `SemanticsAction.scrollToOffset`<br />
   <sub>[#159811](https://github.com/flutter/flutter/pull/159811) opened on on December 4, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159811) 198 additions and 48 deletions in 17 files</sub><br />
 
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `CupertinoTextField` accessibility behavior on Linux should match `TextField`<br />
+  <sub>[#159823](https://github.com/flutter/flutter/pull/159823) opened on on December 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159823) 26 additions and 8 deletions in 2 files</sub><br />
+
