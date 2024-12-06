@@ -16,6 +16,11 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1175" alt="Screenshot 2024-11-12 at 12 10 43" src="https://github.com/user-attachments/assets/a28207c5-0ef7-41fa-a45c-e9401df897a0"></details></sub>
 
+* **[yim](https://github.com/yiiim)** &mdash; Added boundary feature to ReorderableList.<br />
+  <sub>[#146182](https://github.com/flutter/flutter/pull/146182) merged on December 6, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/146182) over 8 months, 158 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tong Mu](https://github.com/dkwingsmt), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
+  <sub><details><summary>1 image...</summary>![Screen Recording 2024-04-03 at 13 01 19](https://github.com/flutter/flutter/assets/12887926/b092e229-5fc6-40a4-acf0-1197ef04c0fb) | ![Screen Recording 2024-04-03 at 13 01 19](https://github.com/flutter/flutter/assets/12887926/561da112-c1ef-48f1-b043-3947f1f0012e)</details></sub>
+
 * **[Flop](https://github.com/hgraceb)** &mdash; Fix the drawing position of OutlineInputBorder<br />
   <sub>[#158440](https://github.com/flutter/flutter/pull/158440) merged on December 6, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/158440) over 3 weeks, 11 additions and 13 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -25,11 +30,6 @@
   <sub>[#159472](https://github.com/flutter/flutter/pull/159472) merged on December 6, 2024 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/159472) over 1 week, 252 additions and 159 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>3 images...</summary>![image](https://github.com/user-attachments/assets/3c22975f-9b8c-4184-8ffe-67f2191bf563)![image](https://github.com/user-attachments/assets/47ac35c3-b516-454f-bd47-2d35d85f172f)![image](https://github.com/user-attachments/assets/faf46e40-5817-4d64-9158-7a57d94a9776)</details></sub>
-
-* **[yim](https://github.com/yiiim)** &mdash; Added boundary feature to ReorderableList.<br />
-  <sub>[#146182](https://github.com/flutter/flutter/pull/146182) merged on December 6, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/146182) over 8 months, 158 additions and 2 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tong Mu](https://github.com/dkwingsmt), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-  <sub><details><summary>1 image...</summary>![Screen Recording 2024-04-03 at 13 01 19](https://github.com/flutter/flutter/assets/12887926/b092e229-5fc6-40a4-acf0-1197ef04c0fb) | ![Screen Recording 2024-04-03 at 13 01 19](https://github.com/flutter/flutter/assets/12887926/561da112-c1ef-48f1-b043-3947f1f0012e)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu is detached from the text field<br />
   <sub>[#159665](https://github.com/flutter/flutter/pull/159665) merged on December 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159665) over 19 hours, 99 additions and 0 deletions in 2 files</sub><br />
