@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-36 commits.
+37 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Updated Material 3 Progress Indicators Samples<br />
   <sub>[#158925](https://github.com/flutter/flutter/pull/158925) merged on December 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158925) over 3 weeks, 149 additions and 65 deletions in 8 files</sub><br />
@@ -15,6 +15,11 @@
   <sub>[#158503](https://github.com/flutter/flutter/pull/158503) merged on December 3, 2024 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/158503) over 3 weeks, 443 additions and 47 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
   <sub><details><summary>1 image...</summary><img width="1175" alt="Screenshot 2024-11-12 at 12 10 43" src="https://github.com/user-attachments/assets/a28207c5-0ef7-41fa-a45c-e9401df897a0"></details></sub>
+
+* **[Flop](https://github.com/hgraceb)** &mdash; Fix the drawing position of OutlineInputBorder<br />
+  <sub>[#158440](https://github.com/flutter/flutter/pull/158440) merged on December 6, 2024 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/158440) over 3 weeks, 11 additions and 13 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
+  <sub><details><summary>1 image...</summary>![Before](https://github.com/user-attachments/assets/98fcda4d-9cfa-4b7a-a68e-f978d4c63481) | ![After](https://github.com/user-attachments/assets/d677e3a8-a88a-44d8-8997-64187537c438)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu menu is detached from the text field<br />
   <sub>[#159665](https://github.com/flutter/flutter/pull/159665) merged on December 3, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159665) over 19 hours, 99 additions and 0 deletions in 2 files</sub><br />
@@ -109,10 +114,6 @@
   <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make native asset tests more robust against flutter upgrading its pinned dependencies<br />
-  <sub>[#159715](https://github.com/flutter/flutter/pull/159715) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159715) over 2 hours, 16 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Increase timeout of Devtools tests<br />
   <sub>[#159759](https://github.com/flutter/flutter/pull/159759) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159759) over 51 minutes, 3 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso)</sub><br />
@@ -124,6 +125,10 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Rename `SWIFT_PACKAGE_MANAGER` environment variable to `FLUTTER_SWIFT_PACKAGE_MANAGER`<br />
   <sub>[#159502](https://github.com/flutter/flutter/pull/159502) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159502) over 6 days, 18 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make native asset tests more robust against flutter upgrading its pinned dependencies<br />
+  <sub>[#159715](https://github.com/flutter/flutter/pull/159715) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159715) over 2 hours, 16 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix Date picker overlay colors aren't applied on selected state<br />
   <sub>[#159839](https://github.com/flutter/flutter/pull/159839) merged on December 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159839) over 8 hours, 364 additions and 53 deletions in 5 files</sub><br />
