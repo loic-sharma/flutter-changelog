@@ -516,7 +516,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-40 commits.
+41 commits.
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Add rounded superellipse
   <sub>[#56726](https://github.com/flutter/engine/pull/56726) merged on December 5, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/56726) over 2 weeks, 530 additions and 0 deletions in 6 files</sub>
@@ -569,25 +569,29 @@
   <sub>[#56913](https://github.com/flutter/engine/pull/56913) merged on December 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56913) over 1 day, 3 additions and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Save back handling state in Activity/Fragment bundle
-  <sub>[#56715](https://github.com/flutter/engine/pull/56715) merged on December 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56715) over 2 weeks, 146 additions and 2 deletions in 6 files</sub>
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] avoid heap allocation in RenderTarget object.
-  <sub>[#56829](https://github.com/flutter/engine/pull/56829) merged on December 4, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/engine/pull/56829) over 1 week, 290 additions and 170 deletions in 21 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] invalidate cached atlas data, take 2.
   <sub>[#56925](https://github.com/flutter/engine/pull/56925) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/56925) over 40 minutes, 21 additions and 14 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Save back handling state in Activity/Fragment bundle
+  <sub>[#56715](https://github.com/flutter/engine/pull/56715) merged on December 4, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/engine/pull/56715) over 2 weeks, 146 additions and 2 deletions in 6 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added the ability to make untracked opengles handles (migrated textures)
   <sub>[#56927](https://github.com/flutter/engine/pull/56927) merged on December 4, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/engine/pull/56927) over 21 hours, 90 additions and 7 deletions in 7 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] avoid heap allocation in RenderTarget object.
+  <sub>[#56829](https://github.com/flutter/engine/pull/56829) merged on December 4, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/engine/pull/56829) over 1 week, 290 additions and 170 deletions in 21 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Tristan Ross](https://github.com/RossComputerGuy)** &mdash; [ci] use env for format and support arm64 hosts
   <sub>[#56268](https://github.com/flutter/engine/pull/56268) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/56268) over 1 month, 11 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Require the GLES multisampled_render_to_texture2 extension for offscreen MSAA
+  <sub>[#56997](https://github.com/flutter/engine/pull/56997) merged on December 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56997) over 14 hours, 21 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Configure Page Width
   <sub>[#56987](https://github.com/flutter/engine/pull/56987) merged on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56987) over 1 hour, 3 additions and 0 deletions in 1 file</sub>
@@ -617,20 +621,16 @@
   <sub>[#56915](https://github.com/flutter/engine/pull/56915) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56915) over 1 day, 123 additions and 41 deletions in 6 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [Ryan Macnak](https://github.com/rmacnak-google)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add typeface_proxy dependency to the Skia build script for the Android font manager
-  <sub>[#56924](https://github.com/flutter/engine/pull/56924) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56924) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump Dart SDK to 3.7
-  <sub>[#56989](https://github.com/flutter/engine/pull/56989) merged on December 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56989) over 5 hours, 54 additions and 54 deletions in 53 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set GLES viewport once, remove extra unbind/validation.
   <sub>[#56902](https://github.com/flutter/engine/pull/56902) merged on December 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56902) over 5 hours, 39 additions and 34 deletions in 2 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; switched reactor to absl::flat_hash_map
   <sub>[#56845](https://github.com/flutter/engine/pull/56845) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56845) over 4 days, 6 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump Dart SDK to 3.7
+  <sub>[#56989](https://github.com/flutter/engine/pull/56989) merged on December 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56989) over 5 hours, 54 additions and 54 deletions in 53 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moved font glyph atlas to flat_hash_map
@@ -640,6 +640,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Sped up SubpixelGlyph::Equal
   <sub>[#56851](https://github.com/flutter/engine/pull/56851) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56851) over 4 days, 13 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add typeface_proxy dependency to the Skia build script for the Android font manager
+  <sub>[#56924](https://github.com/flutter/engine/pull/56924) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56924) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Drop APNG frames that don't fit entirely within the destination surface.
   <sub>[#56928](https://github.com/flutter/engine/pull/56928) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56928) over 1 day, 48 additions and 2 deletions in 4 files</sub>
