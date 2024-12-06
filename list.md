@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-40 commits.
+41 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Updated Material 3 Progress Indicators Samples
   <sub>[#158925](https://github.com/flutter/flutter/pull/158925) merged on December 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158925) over 3 weeks, 149 additions and 65 deletions in 8 files</sub>
@@ -100,6 +100,10 @@
   <sub>[#156313](https://github.com/flutter/flutter/pull/156313) merged on December 2, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/156313) over 1 month, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce Material 3 `year2023` flag to `SliderThemeData`
+  <sub>[#159721](https://github.com/flutter/flutter/pull/159721) merged on December 6, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/159721) over 3 days, 300 additions and 179 deletions in 3 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Mark Mac_ios microbenchmarks_ios as flakey
   <sub>[#158540](https://github.com/flutter/flutter/pull/158540) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158540) over 2 weeks, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
@@ -116,9 +120,9 @@
   <sub>[#159827](https://github.com/flutter/flutter/pull/159827) merged on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159827) over 16 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] configure shader compiler to output GLES3 shaders for Android.
-  <sub>[#159857](https://github.com/flutter/flutter/pull/159857) merged on December 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159857) over 51 minutes, 7 additions and 1 deletion in 4 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.
+  <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce Material 3 `year2023` flag to `ProgressIndicatorThemeData`
   <sub>[#159720](https://github.com/flutter/flutter/pull/159720) merged on December 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159720) over 2 days, 240 additions and 25 deletions in 4 files</sub>
@@ -128,21 +132,21 @@
   <sub>[#159701](https://github.com/flutter/flutter/pull/159701) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159701) over 21 hours, 8 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Rename `SWIFT_PACKAGE_MANAGER` environment variable to `FLUTTER_SWIFT_PACKAGE_MANAGER`
-  <sub>[#159502](https://github.com/flutter/flutter/pull/159502) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159502) over 6 days, 18 additions and 8 deletions in 2 files</sub>
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Increase timeout of Devtools tests
   <sub>[#159759](https://github.com/flutter/flutter/pull/159759) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159759) over 51 minutes, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Rename `SWIFT_PACKAGE_MANAGER` environment variable to `FLUTTER_SWIFT_PACKAGE_MANAGER`
+  <sub>[#159502](https://github.com/flutter/flutter/pull/159502) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159502) over 6 days, 18 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make native asset tests more robust against flutter upgrading its pinned dependencies
   <sub>[#159715](https://github.com/flutter/flutter/pull/159715) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159715) over 2 hours, 16 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
-* **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.
-  <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] configure shader compiler to output GLES3 shaders for Android.
+  <sub>[#159857](https://github.com/flutter/flutter/pull/159857) merged on December 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159857) over 51 minutes, 7 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix Date picker overlay colors aren't applied on selected state
   <sub>[#159839](https://github.com/flutter/flutter/pull/159839) merged on December 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159839) over 8 hours, 364 additions and 53 deletions in 5 files</sub>
