@@ -646,7 +646,7 @@
   <sub>Reviewed by: [Brandon DeRosier](https://github.com/bdero)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Replaces bespoke call captures from mock gles with gmock<br />
-  <sub>[#56995](https://github.com/flutter/engine/pull/56995) merged on December 6, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56995) over 17 hours, 204 additions and 146 deletions in 8 files</sub><br />
+  <sub>[#56995](https://github.com/flutter/engine/pull/56995) merged on December 6, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/engine/pull/56995) over 17 hours, 204 additions and 146 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Drop APNG frames that don't fit entirely within the destination surface.<br />
