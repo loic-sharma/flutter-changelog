@@ -101,7 +101,7 @@
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [LongCatIsLooong](https://github.com/LongCatIsLooong), [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce Material 3 `year2023` flag to `SliderThemeData`
-  <sub>[#159721](https://github.com/flutter/flutter/pull/159721) merged on December 6, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/flutter/pull/159721) over 3 days, 300 additions and 179 deletions in 3 files</sub>
+  <sub>[#159721](https://github.com/flutter/flutter/pull/159721) merged on December 6, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/159721) over 3 days, 300 additions and 179 deletions in 3 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Mark Mac_ios microbenchmarks_ios as flakey
@@ -538,7 +538,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] create a 300 es variant of all GLES shaders to support UBO binding.
-  <sub>[#56960](https://github.com/flutter/engine/pull/56960) merged on December 5, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/engine/pull/56960) over 17 hours, 318 additions and 86 deletions in 36 files</sub>
+  <sub>[#56960](https://github.com/flutter/engine/pull/56960) merged on December 5, 2024 &mdash; **Medium:** [14 comments](https://github.com/flutter/engine/pull/56960) over 17 hours, 318 additions and 86 deletions in 36 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make a mock messenger that can easily mock channels
