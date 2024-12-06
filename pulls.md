@@ -36,7 +36,7 @@
   <sub>[#159385](https://github.com/flutter/flutter/pull/159385) opened on on November 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159385) 26 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] fix confusing tests (not working conditions based on broken regex)<br />
-  <sub>[#159396](https://github.com/flutter/flutter/pull/159396) opened on on November 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159396) 27 additions and 31 deletions in 2 files</sub><br />
+  <sub>[#159396](https://github.com/flutter/flutter/pull/159396) opened on on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159396) 27 additions and 31 deletions in 2 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Test `SliverMainAxisGroup` offstage child<br />
   <sub>[#159406](https://github.com/flutter/flutter/pull/159406) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159406) 43 additions and 5 deletions in 4 files</sub><br />
@@ -73,7 +73,4 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for injecting assets into the widget_preview_scaffold<br />
   <sub>[#159859](https://github.com/flutter/flutter/pull/159859) opened on on December 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159859) 689 additions and 14 deletions in 7 files</sub><br />
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Revert: Fix DropdownMenu rendered behind AppBar<br />
-  <sub>[#159907](https://github.com/flutter/flutter/pull/159907) opened on on December 6, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159907) 1 addition and 78 deletions in 2 files</sub><br />
 
