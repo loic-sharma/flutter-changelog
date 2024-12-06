@@ -1259,7 +1259,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-12 commits.
+14 commits.
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Publish app architecture 'case-study' pages<br />
   <sub>[#11414](https://github.com/flutter/website/pull/11414) merged on December 2, 2024 &mdash; **Extra large:** [136 comments](https://github.com/flutter/website/pull/11414) over 1 week, 1528 additions and 11 deletions in 21 files</sub><br />
@@ -1280,6 +1280,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update deep link docs due to the flutter_deeplinking_enabled flag default value change. <br />
   <sub>[#11461](https://github.com/flutter/website/pull/11461) merged on December 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11461) over 23 hours, 21 additions and 44 deletions in 5 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[CroBurnt](https://github.com/CrotchBurnt)** &mdash; fix typo to dart-swift-concurrency.md<br />
+  <sub>[#11467](https://github.com/flutter/website/pull/11467) merged on December 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11467) over 18 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Hide banner for now<br />
   <sub>[#11455](https://github.com/flutter/website/pull/11455) merged on December 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11455) over 14 hours, 3 additions and 0 deletions in 2 files</sub><br />
@@ -1308,6 +1312,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Add Qualtrics survey link to Architecture guidance<br />
   <sub>[#11452](https://github.com/flutter/website/pull/11452) merged on December 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11452) over 13 hours, 64 additions and 1 deletion in 9 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update text in 'binding to native code'<br />
+  <sub>[#11471](https://github.com/flutter/website/pull/11471) merged on December 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11471) over 9 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 ### November 23, 2024 to November 29, 2024
 
