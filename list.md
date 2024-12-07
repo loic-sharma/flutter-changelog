@@ -4,7 +4,7 @@
 
 ### November 30, 2024 to December 6, 2024
 
-45 commits.
+46 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Updated Material 3 Progress Indicators Samples
   <sub>[#158925](https://github.com/flutter/flutter/pull/158925) merged on December 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158925) over 3 weeks, 149 additions and 65 deletions in 8 files</sub>
@@ -53,33 +53,37 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
   <sub><details><summary>1 image...</summary><img width="840" alt="Screenshot 2024-12-04 at 16 03 47" src="https://github.com/user-attachments/assets/b6db9efe-8416-460e-a745-bdf37c97ed61"></details></sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint in MainActivity.kt.tmpl
-  <sub>[#159441](https://github.com/flutter/flutter/pull/159441) merged on December 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159441) over 1 week, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
-  <sub><details><summary>1 image...</summary>![Capture d’écran 2024-11-25 193428](https://github.com/user-attachments/assets/40729c6f-2c5d-4e56-a413-7b7c6dddddb8)</details></sub>
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Improve UI-thread animation performance
+  <sub>[#159288](https://github.com/flutter/flutter/pull/159288) merged on December 7, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159288) over 2 weeks, 30 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` parameter to `Chip`s
   <sub>[#159422](https://github.com/flutter/flutter/pull/159422) merged on December 4, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/159422) over 1 week, 404 additions and 1 deletion in 11 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Removes dev dependency plugins from release builds
-  <sub>[#158026](https://github.com/flutter/flutter/pull/158026) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158026) over 1 month, 171 additions and 31 deletions in 8 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove unnecessary semicolon in module_plugin_loader.radle
-  <sub>[#159303](https://github.com/flutter/flutter/pull/159303) merged on December 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159303) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint in MainActivity.kt.tmpl
+  <sub>[#159441](https://github.com/flutter/flutter/pull/159441) merged on December 5, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159441) over 1 week, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
-  <sub><details><summary>1 image...</summary>![Capture d’écran 2024-11-25 215213](https://github.com/user-attachments/assets/c2be911c-981a-4d47-8c52-9802d4855666)</details></sub>
+  <sub><details><summary>1 image...</summary>![Capture d’écran 2024-11-25 193428](https://github.com/user-attachments/assets/40729c6f-2c5d-4e56-a413-7b7c6dddddb8)</details></sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix fialing lint `Consider using 'register' to avoid unnecessary configuration`
+  <sub>[#159137](https://github.com/flutter/flutter/pull/159137) merged on December 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159137) over 2 weeks, 8 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>2 images...</summary>![Capture d’écran 2024-11-19 132110](https://github.com/user-attachments/assets/ffc98203-5563-4846-aa42-60a0b8defa27)![Capture d’écran 2024-11-19 133050](https://github.com/user-attachments/assets/7671b6f4-5a18-460a-8456-608a40e6da22)</details></sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : `findByPath` requires a specific ordering of project evaluation in `flutter.groovy`
   <sub>[#159296](https://github.com/flutter/flutter/pull/159296) merged on December 6, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159296) over 2 weeks, 12 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [jesswrd](https://github.com/jesswrd), [Reid Baker](https://github.com/reidbaker)</sub>
   <sub><details><summary>2 images...</summary>![Capture d’écran 2024-11-21 230157](https://github.com/user-attachments/assets/61ab84da-4941-4aa4-a42e-fac4c140f4bd)![Capture d’écran 2024-11-21 230245](https://github.com/user-attachments/assets/417563b7-0416-47bd-9f02-6778d37893ef)</details></sub>
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix fialing lint `Consider using 'register' to avoid unnecessary configuration`
-  <sub>[#159137](https://github.com/flutter/flutter/pull/159137) merged on December 3, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159137) over 2 weeks, 8 additions and 5 deletions in 1 file</sub>
-  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
-  <sub><details><summary>2 images...</summary>![Capture d’écran 2024-11-19 132110](https://github.com/user-attachments/assets/ffc98203-5563-4846-aa42-60a0b8defa27)![Capture d’écran 2024-11-19 133050](https://github.com/user-attachments/assets/7671b6f4-5a18-460a-8456-608a40e6da22)</details></sub>
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; remove unnecessary semicolon in module_plugin_loader.radle
+  <sub>[#159303](https://github.com/flutter/flutter/pull/159303) merged on December 3, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159303) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>1 image...</summary>![Capture d’écran 2024-11-25 215213](https://github.com/user-attachments/assets/c2be911c-981a-4d47-8c52-9802d4855666)</details></sub>
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Removes dev dependency plugins from release builds
+  <sub>[#158026](https://github.com/flutter/flutter/pull/158026) merged on December 4, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/158026) over 1 month, 171 additions and 31 deletions in 8 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[LinXunFeng](https://github.com/LinXunFeng)** &mdash; Fix output path for --appSizeBase
   <sub>[#158302](https://github.com/flutter/flutter/pull/158302) merged on December 2, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/158302) over 3 weeks, 8 additions and 24 deletions in 6 files</sub>
@@ -129,22 +133,6 @@
   <sub>[#159827](https://github.com/flutter/flutter/pull/159827) merged on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159827) over 16 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Only include `truncated` field in JSON response if `true`
-  <sub>[#159701](https://github.com/flutter/flutter/pull/159701) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159701) over 21 hours, 8 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
-
-* **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.
-  <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Increase timeout of Devtools tests
-  <sub>[#159759](https://github.com/flutter/flutter/pull/159759) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159759) over 51 minutes, 3 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] configure shader compiler to output GLES3 shaders for Android.
-  <sub>[#159857](https://github.com/flutter/flutter/pull/159857) merged on December 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159857) over 51 minutes, 7 additions and 1 deletion in 4 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Rename `SWIFT_PACKAGE_MANAGER` environment variable to `FLUTTER_SWIFT_PACKAGE_MANAGER`
   <sub>[#159502](https://github.com/flutter/flutter/pull/159502) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159502) over 6 days, 18 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
@@ -153,9 +141,25 @@
   <sub>[#159715](https://github.com/flutter/flutter/pull/159715) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159715) over 2 hours, 16 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
 
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Only include `truncated` field in JSON response if `true`
+  <sub>[#159701](https://github.com/flutter/flutter/pull/159701) merged on December 3, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159701) over 21 hours, 8 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] configure shader compiler to output GLES3 shaders for Android.
+  <sub>[#159857](https://github.com/flutter/flutter/pull/159857) merged on December 5, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159857) over 51 minutes, 7 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Increase timeout of Devtools tests
+  <sub>[#159759](https://github.com/flutter/flutter/pull/159759) merged on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159759) over 51 minutes, 3 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Introduce Material 3 `year2023` flag to `ProgressIndicatorThemeData`
   <sub>[#159720](https://github.com/flutter/flutter/pull/159720) merged on December 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159720) over 2 days, 240 additions and 25 deletions in 4 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.
+  <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix Date picker overlay colors aren't applied on selected state
   <sub>[#159839](https://github.com/flutter/flutter/pull/159839) merged on December 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159839) over 8 hours, 364 additions and 53 deletions in 5 files</sub>
