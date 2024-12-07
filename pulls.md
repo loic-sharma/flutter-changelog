@@ -74,3 +74,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` to `Tooltip`<br />
   <sub>[#159922](https://github.com/flutter/flutter/pull/159922) opened on on December 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159922) 43 additions and 0 deletions in 2 files</sub><br />
 
+* **[jd](https://github.com/ingdiaz01)** &mdash; Add navigation features to the carousel<br />
+  <sub>[#159928](https://github.com/flutter/flutter/pull/159928) opened on on December 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159928) 39 additions and 14 deletions in 4 files</sub><br />
+
