@@ -72,5 +72,5 @@
   <sub>[#159859](https://github.com/flutter/flutter/pull/159859) opened on on December 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159859) 689 additions and 14 deletions in 7 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Web] Use WebImgElementStrategy to specify when to use <img> element to display images<br />
-  <sub>[#159917](https://github.com/flutter/flutter/pull/159917) opened on on December 7, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159917) 173 additions and 50 deletions in 5 files</sub><br />
+  <sub>[#159917](https://github.com/flutter/flutter/pull/159917) opened on on December 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159917) 173 additions and 50 deletions in 5 files</sub><br />
 
