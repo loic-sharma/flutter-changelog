@@ -71,3 +71,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for injecting assets into the widget_preview_scaffold<br />
   <sub>[#159859](https://github.com/flutter/flutter/pull/159859) opened on on December 5, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159859) 689 additions and 14 deletions in 7 files</sub><br />
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` to `Tooltip`<br />
+  <sub>[#159922](https://github.com/flutter/flutter/pull/159922) opened on on December 7, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159922) 43 additions and 0 deletions in 2 files</sub><br />
+
