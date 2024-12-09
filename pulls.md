@@ -74,3 +74,6 @@
 * **[Flop](https://github.com/hgraceb)** &mdash; Adjust the drawing position of OutlineInputBorder<br />
   <sub>[#159943](https://github.com/flutter/flutter/pull/159943) opened on on December 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159943) 70 additions and 2 deletions in 2 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Ignore codecov/codecov-action patch version updates<br />
+  <sub>[#159996](https://github.com/flutter/flutter/pull/159996) opened on on December 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159996) 3 additions and 0 deletions in 1 file</sub><br />
+
