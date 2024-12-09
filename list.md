@@ -25,7 +25,7 @@
   <sub><details><summary>2 images...</summary><img width="701" alt="Screenshot 2024-12-02 at 18 57 03" src="https://github.com/user-attachments/assets/62d85476-87fd-48e9-aaa9-42d7629d4808"><img width="701" alt="Screenshot 2024-12-02 at 18 57 21" src="https://github.com/user-attachments/assets/36f136d1-a759-4b11-b0a9-8cb6b54b8573"></details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a simple golden-file test to `package:integration_test`.
-  <sub>[#159233](https://github.com/flutter/flutter/pull/159233) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159233) over 2 weeks, 52 additions and 0 deletions in 5 files</sub>
+  <sub>[#159233](https://github.com/flutter/flutter/pull/159233) merged on December 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159233) over 2 weeks, 52 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned
@@ -369,11 +369,15 @@
 
 ### December 7, 2024 to December 13, 2024
 
-1 commits.
+2 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_key_channel_responder_handle_event async
+  <sub>[#56959](https://github.com/flutter/engine/pull/56959) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56959) over 4 days, 111 additions and 125 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 ### November 30, 2024 to December 6, 2024
 
