@@ -12,7 +12,7 @@
   <sub>[#156620](https://github.com/flutter/flutter/pull/156620) opened on on October 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/156620) 12 additions and 5 deletions in 4 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
-  <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/157193) 98 additions and 117 deletions in 5 files</sub><br />
+  <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157193) 98 additions and 117 deletions in 5 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/157515) 2066 additions and 2 deletions in 24 files</sub><br />
