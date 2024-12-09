@@ -369,7 +369,11 @@
 
 ### December 7, 2024 to December 13, 2024
 
-3 commits.
+4 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable all Adrenos older than 630
+  <sub>[#57069](https://github.com/flutter/engine/pull/57069) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57069) over 1 hour, 24 additions and 24 deletions in 2 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub>
