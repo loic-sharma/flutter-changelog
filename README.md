@@ -675,9 +675,22 @@
 
 ## flutter/packages
 
+### December 7, 2024 to December 13, 2024
+
+2 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Clean up Java code<br />
+  <sub>[#8241](https://github.com/flutter/packages/pull/8241) merged on December 9, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8241) over 2 days, 9 additions and 718 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Clean up Java code<br />
+  <sub>[#8240](https://github.com/flutter/packages/pull/8240) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8240) over 2 days, 52 additions and 137 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
 ### November 30, 2024 to December 6, 2024
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Vitaly Sokolov](https://github.com/sokoloff06)** &mdash; [google_adsense] (Experimental) AdSense plugin for Flutter Web<br />
   <sub>[#6871](https://github.com/flutter/packages/pull/6871) merged on December 4, 2024 &mdash; **Large:** [73 comments](https://github.com/flutter/packages/pull/6871) over 6 months, 1470 additions and 0 deletions in 35 files</sub><br />
@@ -734,6 +747,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Limit Android decoding<br />
   <sub>[#8187](https://github.com/flutter/packages/pull/8187) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8187) over 5 days, 70 additions and 19 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+</details>
 
 ### November 23, 2024 to November 29, 2024
 
@@ -797,12 +812,12 @@
   <sub>[#11414](https://github.com/flutter/website/pull/11414) merged on December 2, 2024 &mdash; **Extra large:** [136 comments](https://github.com/flutter/website/pull/11414) over 1 week, 1528 additions and 11 deletions in 21 files</sub><br />
   <sub>Reviewed by: [Robert Brunhage](https://github.com/RobertBrunhage), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
-* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update required Node version and npm deps<br />
-  <sub>[#11445](https://github.com/flutter/website/pull/11445) merged on December 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11445) over 4 days, 361 additions and 319 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Misc cleanup and fixes to app architecture docs<br />
   <sub>[#11462](https://github.com/flutter/website/pull/11462) merged on December 4, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11462) over 1 hour, 549 additions and 538 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update required Node version and npm deps<br />
+  <sub>[#11445](https://github.com/flutter/website/pull/11445) merged on December 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11445) over 4 days, 361 additions and 319 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Remove photo-filter-carousel recipe<br />
@@ -812,10 +827,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update deep link docs due to the flutter_deeplinking_enabled flag default value change. <br />
   <sub>[#11461](https://github.com/flutter/website/pull/11461) merged on December 4, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11461) over 23 hours, 21 additions and 44 deletions in 5 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
-
-* **[CroBurnt](https://github.com/CrotchBurnt)** &mdash; fix typo to dart-swift-concurrency.md<br />
-  <sub>[#11467](https://github.com/flutter/website/pull/11467) merged on December 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11467) over 18 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Hide banner for now<br />
   <sub>[#11455](https://github.com/flutter/website/pull/11455) merged on December 4, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11455) over 14 hours, 3 additions and 0 deletions in 2 files</sub><br />
@@ -836,6 +847,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix highlighting of app architecture sidenav entry<br />
   <sub>[#11457](https://github.com/flutter/website/pull/11457) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11457) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill)</sub><br />
+
+* **[CroBurnt](https://github.com/CrotchBurnt)** &mdash; fix typo to dart-swift-concurrency.md<br />
+  <sub>[#11467](https://github.com/flutter/website/pull/11467) merged on December 6, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11467) over 18 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; fix: capitalization of view and view model<br />
   <sub>[#11458](https://github.com/flutter/website/pull/11458) merged on December 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11458) over 44 minutes, 49 additions and 49 deletions in 3 files</sub><br />
