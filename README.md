@@ -377,11 +377,15 @@
 
 ### December 7, 2024 to December 13, 2024
 
-5 commits.
+6 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.<br />
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; moved device buffer to an untracked handle<br />
+  <sub>[#57021](https://github.com/flutter/engine/pull/57021) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/57021) over 3 days, 86 additions and 8 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable all Adrenos older than 630<br />
   <sub>[#57069](https://github.com/flutter/engine/pull/57069) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57069) over 1 hour, 24 additions and 24 deletions in 2 files</sub><br />
