@@ -75,7 +75,7 @@
   <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159937) 133 additions and 161 deletions in 4 files</sub><br />
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Adjust the drawing position of OutlineInputBorder<br />
-  <sub>[#159943](https://github.com/flutter/flutter/pull/159943) opened on on December 8, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159943) 70 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#159943](https://github.com/flutter/flutter/pull/159943) opened on on December 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159943) 70 additions and 2 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField clips text when large text scale is used<br />
   <sub>[#159975](https://github.com/flutter/flutter/pull/159975) opened on on December 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159975) 60 additions and 6 deletions in 2 files</sub><br />
