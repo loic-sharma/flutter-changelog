@@ -699,7 +699,11 @@
 
 ### December 7, 2024 to December 13, 2024
 
-2 commits.
+3 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Tighten exports and docs.<br />
+  <sub>[#8233](https://github.com/flutter/packages/pull/8233) merged on December 9, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/8233) over 4 days, 489 additions and 326 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Clean up Java code<br />
   <sub>[#8241](https://github.com/flutter/packages/pull/8241) merged on December 9, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8241) over 2 days, 9 additions and 718 deletions in 5 files</sub><br />
