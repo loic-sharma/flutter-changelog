@@ -54,7 +54,7 @@
   <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
 
 * **[Adam Langley](https://github.com/Adam-Langley)** &mdash; Fix code signing regex not resilient to whitespace<br />
-  <sub>[#159643](https://github.com/flutter/flutter/pull/159643) opened on on December 1, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159643) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#159643](https://github.com/flutter/flutter/pull/159643) opened on on December 1, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159643) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add support for experimental dart data assets (under experimental flag) - part 1<br />
   <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
