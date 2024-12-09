@@ -334,9 +334,18 @@
 
 ## flutter/engine
 
+### December 7, 2024 to December 13, 2024
+
+1 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.<br />
+  <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 ### November 30, 2024 to December 6, 2024
 
-49 commits.
+<details>
+<summary>49 commits...</summary>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Add rounded superellipse<br />
   <sub>[#56726](https://github.com/flutter/engine/pull/56726) merged on December 5, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/engine/pull/56726) over 2 weeks, 530 additions and 0 deletions in 6 files</sub><br />
@@ -536,6 +545,8 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Reland "[iOS] Full keyboard access scrolling (#56606)"<br />
   <sub>[#56842](https://github.com/flutter/engine/pull/56842) merged on December 2, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/engine/pull/56842) over 5 days, 295 additions and 25 deletions in 15 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+</details>
 
 ### November 23, 2024 to November 29, 2024
 
