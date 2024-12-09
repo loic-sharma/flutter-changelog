@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-4 commits.
+5 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample<br />
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub><br />
@@ -23,6 +23,10 @@
   <sub>[#159792](https://github.com/flutter/flutter/pull/159792) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159792) over 5 days, 103 additions and 42 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>2 images...</summary><img width="701" alt="Screenshot 2024-12-02 at 18 57 03" src="https://github.com/user-attachments/assets/62d85476-87fd-48e9-aaa9-42d7629d4808"><img width="701" alt="Screenshot 2024-12-02 at 18 57 21" src="https://github.com/user-attachments/assets/36f136d1-a759-4b11-b0a9-8cb6b54b8573"></details></sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; iOS Selection Handle Improvements<br />
+  <sub>[#157815](https://github.com/flutter/flutter/pull/157815) merged on December 9, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/157815) over 1 month, 189 additions and 24 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a simple golden-file test to `package:integration_test`.<br />
   <sub>[#159233](https://github.com/flutter/flutter/pull/159233) merged on December 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159233) over 2 weeks, 52 additions and 0 deletions in 5 files</sub><br />
@@ -737,7 +741,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-3 commits.
+4 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Tighten exports and docs.<br />
   <sub>[#8233](https://github.com/flutter/packages/pull/8233) merged on December 9, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/8233) over 4 days, 489 additions and 326 deletions in 21 files</sub><br />
@@ -746,6 +750,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Clean up Java code<br />
   <sub>[#8241](https://github.com/flutter/packages/pull/8241) merged on December 9, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8241) over 2 days, 9 additions and 718 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [dependabot] Generalizes dependabot commit message prefix <br />
+  <sub>[#8255](https://github.com/flutter/packages/pull/8255) merged on December 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8255) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Clean up Java code<br />
   <sub>[#8240](https://github.com/flutter/packages/pull/8240) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8240) over 2 days, 52 additions and 137 deletions in 6 files</sub><br />
