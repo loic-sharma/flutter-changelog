@@ -780,9 +780,18 @@
 
 ## flutter/website
 
+### December 7, 2024 to December 13, 2024
+
+1 commits.
+
+* **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns<br />
+  <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough), [Luke Greenwood](https://github.com/luketg8), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
+
 ### November 30, 2024 to December 6, 2024
 
-14 commits.
+<details>
+<summary>14 commits...</summary>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Publish app architecture 'case-study' pages<br />
   <sub>[#11414](https://github.com/flutter/website/pull/11414) merged on December 2, 2024 &mdash; **Extra large:** [136 comments](https://github.com/flutter/website/pull/11414) over 1 week, 1528 additions and 11 deletions in 21 files</sub><br />
@@ -839,6 +848,8 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update text in 'binding to native code'<br />
   <sub>[#11471](https://github.com/flutter/website/pull/11471) merged on December 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11471) over 9 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### November 23, 2024 to November 29, 2024
 
