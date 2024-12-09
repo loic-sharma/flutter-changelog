@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-5 commits.
+6 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample<br />
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub><br />
@@ -23,6 +23,10 @@
   <sub>[#159792](https://github.com/flutter/flutter/pull/159792) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159792) over 5 days, 103 additions and 42 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>2 images...</summary><img width="701" alt="Screenshot 2024-12-02 at 18 57 03" src="https://github.com/user-attachments/assets/62d85476-87fd-48e9-aaa9-42d7629d4808"><img width="701" alt="Screenshot 2024-12-02 at 18 57 21" src="https://github.com/user-attachments/assets/36f136d1-a759-4b11-b0a9-8cb6b54b8573"></details></sub>
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add handler for `SemanticsAction.scrollToOffset`<br />
+  <sub>[#159811](https://github.com/flutter/flutter/pull/159811) merged on December 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/159811) over 5 days, 199 additions and 48 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; iOS Selection Handle Improvements<br />
   <sub>[#157815](https://github.com/flutter/flutter/pull/157815) merged on December 9, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/157815) over 1 month, 189 additions and 24 deletions in 8 files</sub><br />
