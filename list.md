@@ -4,7 +4,12 @@
 
 ### December 7, 2024 to December 13, 2024
 
-1 commits.
+2 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `RangeSlider` thumb doesn't align with divisions, thumb padding, and rounded corners
+  <sub>[#159792](https://github.com/flutter/flutter/pull/159792) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159792) over 5 days, 103 additions and 42 deletions in 4 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub>
+  <sub><details><summary>2 images...</summary><img width="701" alt="Screenshot 2024-12-02 at 18 57 03" src="https://github.com/user-attachments/assets/62d85476-87fd-48e9-aaa9-42d7629d4808"><img width="701" alt="Screenshot 2024-12-02 at 18 57 21" src="https://github.com/user-attachments/assets/36f136d1-a759-4b11-b0a9-8cb6b54b8573"></details></sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155615) over 2 months, 2 additions and 2 deletions in 1 file</sub>
