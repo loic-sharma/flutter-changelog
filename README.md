@@ -369,11 +369,15 @@
 
 ### December 7, 2024 to December 13, 2024
 
-2 commits.
+3 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.<br />
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Brandon DeRosier](https://github.com/bdero)** &mdash; Roll Skia to 14f8f6d984ff<br />
+  <sub>[#57068](https://github.com/flutter/engine/pull/57068) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57068) over 2 hours, 21 additions and 7 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Kaylee Lubick](https://github.com/kjlubick)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_key_channel_responder_handle_event async<br />
   <sub>[#56959](https://github.com/flutter/engine/pull/56959) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56959) over 4 days, 111 additions and 125 deletions in 4 files</sub><br />
