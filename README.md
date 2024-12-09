@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 7, 2024 to December 13, 2024
+
+1 commits.
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
+  <sub>[#155615](https://github.com/flutter/flutter/pull/155615) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155615) over 2 months, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 ### November 30, 2024 to December 6, 2024
 
-46 commits.
+<details>
+<summary>46 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Updated Material 3 Progress Indicators Samples<br />
   <sub>[#158925](https://github.com/flutter/flutter/pull/158925) merged on December 5, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/158925) over 3 weeks, 149 additions and 65 deletions in 8 files</sub><br />
@@ -200,6 +209,8 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix InkWell overlayColor resolution ignores selected state<br />
   <sub>[#159784](https://github.com/flutter/flutter/pull/159784) merged on December 4, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159784) over 3 hours, 123 additions and 27 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+
+</details>
 
 ### November 23, 2024 to November 29, 2024
 
