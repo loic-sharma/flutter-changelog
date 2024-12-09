@@ -59,6 +59,9 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add support for experimental dart data assets (under experimental flag) - part 1<br />
   <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Force ndk download when building for Android<br />
+  <sub>[#159756](https://github.com/flutter/flutter/pull/159756) opened on on December 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/159756) 304 additions and 14 deletions in 42 files</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AlignTransition` without rebuilds<br />
   <sub>[#159757](https://github.com/flutter/flutter/pull/159757) opened on on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159757) 62 additions and 16 deletions in 2 files</sub><br />
 
