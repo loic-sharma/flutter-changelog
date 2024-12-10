@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-10 commits.
+12 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub>
@@ -23,6 +23,11 @@
   <sub>[#159792](https://github.com/flutter/flutter/pull/159792) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159792) over 5 days, 103 additions and 42 deletions in 4 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary><img width="701" alt="Screenshot 2024-12-02 at 18 57 03" src="https://github.com/user-attachments/assets/62d85476-87fd-48e9-aaa9-42d7629d4808"><img width="701" alt="Screenshot 2024-12-02 at 18 57 21" src="https://github.com/user-attachments/assets/36f136d1-a759-4b11-b0a9-8cb6b54b8573"></details></sub>
+
+* **[Flop](https://github.com/hgraceb)** &mdash; Adjust the drawing position of OutlineInputBorder
+  <sub>[#159943](https://github.com/flutter/flutter/pull/159943) merged on December 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159943) over 2 days, 70 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub>
+  <sub><details><summary>2 images...</summary>![before1](https://github.com/user-attachments/assets/c4b5ee75-f9f8-4ec0-baa4-7a51430893e6)    |   ![after1](https://github.com/user-attachments/assets/234b16c5-5a9a-4a1c-9f7e-d58e507533a6)![before2](https://github.com/user-attachments/assets/3afc7668-1a3f-49de-8c61-b839a120a950)    |   ![after2](https://github.com/user-attachments/assets/fd9e7f13-9da4-4639-9839-a293c77a76cf)</details></sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add handler for `SemanticsAction.scrollToOffset`
   <sub>[#159811](https://github.com/flutter/flutter/pull/159811) merged on December 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/159811) over 5 days, 199 additions and 48 deletions in 17 files</sub>
@@ -47,6 +52,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Fix android tests using outdated regexs to modify templates
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) merged on December 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159396) over 2 weeks, 27 additions and 31 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `CupertinoTextField` accessibility behavior on Linux should match `TextField`
+  <sub>[#159823](https://github.com/flutter/flutter/pull/159823) merged on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159823) over 5 days, 26 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; fix: SelectableRegion should only finalize selection after changing
   <sub>[#159698](https://github.com/flutter/flutter/pull/159698) merged on December 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159698) over 1 week, 115 additions and 39 deletions in 2 files</sub>
