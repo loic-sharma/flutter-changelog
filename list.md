@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-13 commits.
+14 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub>
@@ -52,6 +52,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Fix android tests using outdated regexs to modify templates
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) merged on December 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159396) over 2 weeks, 27 additions and 31 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Pin pkg:intl to 0.19.0
+  <sub>[#159992](https://github.com/flutter/flutter/pull/159992) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159992) over 1 day, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `CupertinoTextField` accessibility behavior on Linux should match `TextField`
   <sub>[#159823](https://github.com/flutter/flutter/pull/159823) merged on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159823) over 5 days, 26 additions and 8 deletions in 2 files</sub>

@@ -32,9 +32,6 @@
 * **[Jackson](https://github.com/sargntpi)** &mdash; Added spellCheckConfiguration to the constructor of CupertinoTextFormFieldRow<br />
   <sub>[#159385](https://github.com/flutter/flutter/pull/159385) opened on on November 24, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159385) 26 additions and 0 deletions in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Test `SliverMainAxisGroup` offstage child<br />
-  <sub>[#159406](https://github.com/flutter/flutter/pull/159406) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159406) 43 additions and 5 deletions in 4 files</sub><br />
-
 * **[WillKirkmanM](https://github.com/WillKirkmanM)** &mdash; FireFox Browser Support<br />
   <sub>[#159410](https://github.com/flutter/flutter/pull/159410) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159410) 266 additions and 7 deletions in 3 files</sub><br />
 
