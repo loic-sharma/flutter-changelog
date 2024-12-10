@@ -71,9 +71,6 @@
 * **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationRail examples overflow alignment<br />
   <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159937) 133 additions and 161 deletions in 4 files</sub><br />
 
-* **[Flop](https://github.com/hgraceb)** &mdash; Adjust the drawing position of OutlineInputBorder<br />
-  <sub>[#159943](https://github.com/flutter/flutter/pull/159943) opened on on December 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159943) 70 additions and 2 deletions in 2 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Dispose codec after completing frame creation<br />
   <sub>[#159945](https://github.com/flutter/flutter/pull/159945) opened on on December 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159945) 28 additions and 1 deletion in 2 files</sub><br />
 
