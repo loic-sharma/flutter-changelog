@@ -38,9 +38,6 @@
 * **[WillKirkmanM](https://github.com/WillKirkmanM)** &mdash; FireFox Browser Support<br />
   <sub>[#159410](https://github.com/flutter/flutter/pull/159410) opened on on November 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159410) 266 additions and 7 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Do not rely on Leader/Follower to position DropdownMenu menu<br />
-  <sub>[#159436](https://github.com/flutter/flutter/pull/159436) opened on on November 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159436) 0 additions and 42 deletions in 2 files</sub><br />
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete keyboard navigation<br />
   <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159455) 439 additions and 46 deletions in 4 files</sub><br />
 
@@ -72,5 +69,5 @@
   <sub>[#160005](https://github.com/flutter/flutter/pull/160005) opened on on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160005) 50 additions and 60 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Framework sends a11y message when enabling semantics (#159163)"<br />
-  <sub>[#160039](https://github.com/flutter/flutter/pull/160039) opened on on December 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160039) 8 additions and 92 deletions in 5 files</sub><br />
+  <sub>[#160039](https://github.com/flutter/flutter/pull/160039) opened on on December 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160039) 8 additions and 92 deletions in 5 files</sub><br />
 
