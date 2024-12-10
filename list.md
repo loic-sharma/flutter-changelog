@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-7 commits.
+8 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub>
@@ -39,6 +39,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155615) over 2 months, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; fix: SelectableRegion should only finalize selection after changing
+  <sub>[#159698](https://github.com/flutter/flutter/pull/159698) merged on December 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159698) over 1 week, 115 additions and 39 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` to `Tooltip`
   <sub>[#159922](https://github.com/flutter/flutter/pull/159922) merged on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159922) over 2 days, 43 additions and 0 deletions in 2 files</sub>
@@ -381,7 +385,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-6 commits.
+8 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub>
@@ -399,6 +403,10 @@
   <sub>[#57068](https://github.com/flutter/engine/pull/57068) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57068) over 2 hours, 21 additions and 7 deletions in 5 files</sub>
   <sub>Reviewed by: [Kaylee Lubick](https://github.com/kjlubick)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.
+  <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jim Graham](https://github.com/flar)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -406,6 +414,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_key_channel_responder_handle_event async
   <sub>[#56959](https://github.com/flutter/engine/pull/56959) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56959) over 4 days, 111 additions and 125 deletions in 4 files</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "[Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references."
+  <sub>[#57079](https://github.com/flutter/engine/pull/57079) merged on December 10, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/57079) over 43 minutes, 166 additions and 235 deletions in 21 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 ### November 30, 2024 to December 6, 2024
 
