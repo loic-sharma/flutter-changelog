@@ -773,7 +773,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-4 commits.
+5 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Tighten exports and docs.<br />
   <sub>[#8233](https://github.com/flutter/packages/pull/8233) merged on December 9, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/8233) over 4 days, 489 additions and 326 deletions in 21 files</sub><br />
@@ -782,6 +782,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Clean up Java code<br />
   <sub>[#8241](https://github.com/flutter/packages/pull/8241) merged on December 9, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8241) over 2 days, 9 additions and 718 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_action_ios] add localizedSubtitle for iOS<br />
+  <sub>[#8149](https://github.com/flutter/packages/pull/8149) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8149) over 2 weeks, 53 additions and 18 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [dependabot] Generalizes dependabot commit message prefix <br />
   <sub>[#8255](https://github.com/flutter/packages/pull/8255) merged on December 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8255) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
