@@ -516,7 +516,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Add keep alive for 4 frames in render target cache.
-  <sub>[#57020](https://github.com/flutter/engine/pull/57020) merged on December 6, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57020) over 2 hours, 68 additions and 23 deletions in 3 files</sub>
+  <sub>[#57020](https://github.com/flutter/engine/pull/57020) merged on December 6, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/57020) over 2 hours, 68 additions and 23 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: add null check on create impeller context
