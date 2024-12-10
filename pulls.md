@@ -56,9 +56,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Force ndk download when building for Android<br />
   <sub>[#159756](https://github.com/flutter/flutter/pull/159756) opened on on December 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/159756) 304 additions and 14 deletions in 42 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AlignTransition` without rebuilds<br />
-  <sub>[#159757](https://github.com/flutter/flutter/pull/159757) opened on on December 3, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159757) 87 additions and 16 deletions in 2 files</sub><br />
-
 * **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationRail examples overflow alignment<br />
   <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159937) 133 additions and 161 deletions in 4 files</sub><br />
 
