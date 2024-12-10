@@ -393,7 +393,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-8 commits.
+10 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub>
@@ -415,9 +415,17 @@
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub>
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null checks on shell dereference
+  <sub>[#57099](https://github.com/flutter/engine/pull/57099) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57099) over 47 minutes, 41 additions and 8 deletions in 4 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Migrate fuchsia.io Open functions to Open3
+  <sub>[#56818](https://github.com/flutter/engine/pull/56818) merged on December 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56818) over 1 week, 84 additions and 124 deletions in 7 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_key_channel_responder_handle_event async
   <sub>[#56959](https://github.com/flutter/engine/pull/56959) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56959) over 4 days, 111 additions and 125 deletions in 4 files</sub>
