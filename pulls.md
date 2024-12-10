@@ -68,3 +68,6 @@
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds splashBorderRadius property to TabBarTheme<br />
   <sub>[#160046](https://github.com/flutter/flutter/pull/160046) opened on on December 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160046) 81 additions and 2 deletions in 3 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Conductor output updates<br />
+  <sub>[#160054](https://github.com/flutter/flutter/pull/160054) opened on on December 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160054) 16 additions and 16 deletions in 4 files</sub><br />
+
