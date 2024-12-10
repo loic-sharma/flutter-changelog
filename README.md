@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-12 commits.
+13 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample<br />
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub><br />
@@ -64,6 +64,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` to `Tooltip`<br />
   <sub>[#159922](https://github.com/flutter/flutter/pull/159922) merged on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159922) over 2 days, 43 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Framework sends a11y message when enabling semantics (#159163)"<br />
+  <sub>[#160039](https://github.com/flutter/flutter/pull/160039) merged on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160039) over 3 hours, 8 additions and 92 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 ### November 30, 2024 to December 6, 2024
 
@@ -402,7 +406,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-10 commits.
+11 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.<br />
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub><br />
@@ -443,6 +447,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "[Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references."<br />
   <sub>[#57079](https://github.com/flutter/engine/pull/57079) merged on December 10, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/57079) over 43 minutes, 166 additions and 235 deletions in 21 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland:  switch Pipeline to use raw ptr instead of shared ptr for recorded references.<br />
+  <sub>[#57086](https://github.com/flutter/engine/pull/57086) merged on December 10, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/57086) over 15 hours, 235 additions and 167 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 ### November 30, 2024 to December 6, 2024
 

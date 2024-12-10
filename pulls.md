@@ -65,9 +65,9 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `animation_controller.dart`<br />
   <sub>[#160005](https://github.com/flutter/flutter/pull/160005) opened on on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160005) 50 additions and 60 deletions in 2 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Framework sends a11y message when enabling semantics (#159163)"<br />
-  <sub>[#160039](https://github.com/flutter/flutter/pull/160039) opened on on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160039) 8 additions and 92 deletions in 5 files</sub><br />
+* **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds onHover and onLongPress to IconButton widget<br />
+  <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160032) 86 additions and 2 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_releases] Flutter stable 3.27.0 Framework Cherrypicks<br />
-  <sub>[#160045](https://github.com/flutter/flutter/pull/160045) opened on on December 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160045) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#160045](https://github.com/flutter/flutter/pull/160045) opened on on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160045) 1 addition and 1 deletion in 1 file</sub><br />
 
