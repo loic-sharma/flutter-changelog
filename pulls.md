@@ -68,9 +68,6 @@
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds onHover and onLongPress to IconButton widget<br />
   <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160032) 132 additions and 2 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_releases] Flutter stable 3.27.0 Framework Cherrypicks<br />
-  <sub>[#160045](https://github.com/flutter/flutter/pull/160045) opened on on December 10, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160045) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds splashBorderRadius property to TabBarTheme<br />
   <sub>[#160046](https://github.com/flutter/flutter/pull/160046) opened on on December 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160046) 81 additions and 2 deletions in 3 files</sub><br />
 
