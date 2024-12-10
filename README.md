@@ -406,7 +406,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-11 commits.
+12 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.<br />
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub><br />
@@ -419,6 +419,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable all Adrenos older than 630<br />
   <sub>[#57069](https://github.com/flutter/engine/pull/57069) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57069) over 1 hour, 24 additions and 24 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Clean up key embedder responder tests<br />
+  <sub>[#57054](https://github.com/flutter/engine/pull/57054) merged on December 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/57054) over 1 day, 285 additions and 377 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Roll Skia to 14f8f6d984ff<br />
   <sub>[#57068](https://github.com/flutter/engine/pull/57068) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57068) over 2 hours, 21 additions and 7 deletions in 5 files</sub><br />
