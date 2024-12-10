@@ -63,7 +63,7 @@
   <sub>[#159756](https://github.com/flutter/flutter/pull/159756) opened on on December 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/159756) 304 additions and 14 deletions in 42 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `AlignTransition` without rebuilds<br />
-  <sub>[#159757](https://github.com/flutter/flutter/pull/159757) opened on on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159757) 62 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#159757](https://github.com/flutter/flutter/pull/159757) opened on on December 3, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159757) 87 additions and 16 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for injecting assets into the widget_preview_scaffold<br />
   <sub>[#159859](https://github.com/flutter/flutter/pull/159859) opened on on December 5, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/159859) 689 additions and 14 deletions in 7 files</sub><br />
