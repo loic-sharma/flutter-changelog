@@ -69,5 +69,5 @@
   <sub>[#160005](https://github.com/flutter/flutter/pull/160005) opened on on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160005) 50 additions and 60 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Framework sends a11y message when enabling semantics (#159163)"<br />
-  <sub>[#160039](https://github.com/flutter/flutter/pull/160039) opened on on December 10, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160039) 8 additions and 92 deletions in 5 files</sub><br />
+  <sub>[#160039](https://github.com/flutter/flutter/pull/160039) opened on on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160039) 8 additions and 92 deletions in 5 files</sub><br />
 
