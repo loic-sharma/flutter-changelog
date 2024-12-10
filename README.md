@@ -412,7 +412,7 @@
   <sub>Reviewed by: [Kaylee Lubick](https://github.com/kjlubick)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.<br />
-  <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub><br />
+  <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.<br />
