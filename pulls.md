@@ -68,15 +68,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for injecting assets into the widget_preview_scaffold<br />
   <sub>[#159859](https://github.com/flutter/flutter/pull/159859) opened on on December 5, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/159859) 689 additions and 14 deletions in 7 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` to `Tooltip`<br />
-  <sub>[#159922](https://github.com/flutter/flutter/pull/159922) opened on on December 7, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159922) 43 additions and 0 deletions in 2 files</sub><br />
-
 * **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationRail examples overflow alignment<br />
   <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159937) 133 additions and 161 deletions in 4 files</sub><br />
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Adjust the drawing position of OutlineInputBorder<br />
   <sub>[#159943](https://github.com/flutter/flutter/pull/159943) opened on on December 8, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159943) 70 additions and 2 deletions in 2 files</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Ignore codecov/codecov-action patch version updates<br />
-  <sub>[#159996](https://github.com/flutter/flutter/pull/159996) opened on on December 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159996) 3 additions and 0 deletions in 1 file</sub><br />
 

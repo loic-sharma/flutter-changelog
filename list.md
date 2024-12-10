@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-6 commits.
+7 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub>
@@ -39,6 +39,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155615) over 2 months, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` to `Tooltip`
+  <sub>[#159922](https://github.com/flutter/flutter/pull/159922) merged on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159922) over 2 days, 43 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 ### November 30, 2024 to December 6, 2024
 
