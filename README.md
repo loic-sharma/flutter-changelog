@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-9 commits.
+10 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample<br />
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub><br />
@@ -31,6 +31,10 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; iOS Selection Handle Improvements<br />
   <sub>[#157815](https://github.com/flutter/flutter/pull/157815) merged on December 9, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/157815) over 1 month, 189 additions and 24 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for injecting assets into the widget_preview_scaffold<br />
+  <sub>[#159859](https://github.com/flutter/flutter/pull/159859) merged on December 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/159859) over 4 days, 689 additions and 14 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a simple golden-file test to `package:integration_test`.<br />
   <sub>[#159233](https://github.com/flutter/flutter/pull/159233) merged on December 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159233) over 2 weeks, 52 additions and 0 deletions in 5 files</sub><br />
