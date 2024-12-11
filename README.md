@@ -452,7 +452,11 @@
 
 ### December 7, 2024 to December 13, 2024
 
-19 commits.
+21 commits.
+
+* **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux<br />
+  <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Robert Ancell](https://github.com/robert-ancell)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.<br />
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub><br />
@@ -477,6 +481,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.<br />
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove std::vector usage in render pass vk.<br />
+  <sub>[#57132](https://github.com/flutter/engine/pull/57132) merged on December 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/57132) over 3 hours, 67 additions and 54 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Make Felt unzip Chrome into a temporary directory next to the final location of the files<br />
   <sub>[#57109](https://github.com/flutter/engine/pull/57109) merged on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/57109) over 21 hours, 1 addition and 1 deletion in 1 file</sub><br />
