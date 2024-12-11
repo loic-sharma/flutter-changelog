@@ -68,3 +68,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Framework calls setSemanticsTreeEnabled<br />
   <sub>[#160107](https://github.com/flutter/flutter/pull/160107) opened on on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160107) 13 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [flutter_releases] Flutter beta 3.28.0-0.1.pre Framework Cherrypicks<br />
+  <sub>[#160112](https://github.com/flutter/flutter/pull/160112) opened on on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160112) 2 additions and 1 deletion in 2 files</sub><br />
+
