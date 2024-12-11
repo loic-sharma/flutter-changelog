@@ -50,9 +50,6 @@
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add support for experimental dart data assets (under experimental flag) - part 1<br />
   <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Force ndk download when building for Android<br />
-  <sub>[#159756](https://github.com/flutter/flutter/pull/159756) opened on on December 3, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/159756) 304 additions and 14 deletions in 42 files</sub><br />
-
 * **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationRail examples overflow alignment<br />
   <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159937) 133 additions and 161 deletions in 4 files</sub><br />
 
@@ -73,4 +70,7 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; precompile generate_gradle_lockfile script BEFORE updating pub dependencies<br />
   <sub>[#160059](https://github.com/flutter/flutter/pull/160059) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160059) 91 additions and 8 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Migrate module templates to declarative application of the Flutter Gradle Plugin<br />
+  <sub>[#160090](https://github.com/flutter/flutter/pull/160090) opened on on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160090) 103 additions and 29 deletions in 8 files</sub><br />
 
