@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-23 commits.
+24 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon
   <sub>[#160086](https://github.com/flutter/flutter/pull/160086) merged on December 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160086) over 7 hours, 275 additions and 8 deletions in 4 files</sub>
@@ -23,6 +23,11 @@
     alt="RenderFlex overflowed"
     width="523px"
   /></details></sub>
+
+* **[Jackson](https://github.com/sargntpi)** &mdash; Added spellCheckConfiguration to the constructor of CupertinoTextFormFieldRow
+  <sub>[#159385](https://github.com/flutter/flutter/pull/159385) merged on December 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159385) over 2 weeks, 26 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Nate Wilson](https://github.com/nate-thegrate), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
+  <sub><details><summary>3 images...</summary>![image](https://github.com/user-attachments/assets/891721c4-020b-4a3f-9492-e2ba7a475bd5)![image](https://github.com/user-attachments/assets/7b20692d-9444-4ce6-9b43-54bda7de2552)![image](https://github.com/user-attachments/assets/3e86c901-4954-4ac2-9f63-bcdddfa3b43c)</details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `RangeSlider` thumb doesn't align with divisions, thumb padding, and rounded corners
   <sub>[#159792](https://github.com/flutter/flutter/pull/159792) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159792) over 5 days, 103 additions and 42 deletions in 4 files</sub>
