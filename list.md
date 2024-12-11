@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-20 commits.
+22 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon
   <sub>[#160086](https://github.com/flutter/flutter/pull/160086) merged on December 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160086) over 7 hours, 275 additions and 8 deletions in 4 files</sub>
@@ -46,6 +46,10 @@
   <sub>[#157815](https://github.com/flutter/flutter/pull/157815) merged on December 9, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/157815) over 1 month, 189 additions and 24 deletions in 8 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add script to check format of changed dart files
+  <sub>[#160007](https://github.com/flutter/flutter/pull/160007) merged on December 11, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/160007) over 1 day, 412 additions and 1 deletion in 6 files</sub>
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
+
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix false positive validation result on form submission with AutovalidateMode.onUnfocus
   <sub>[#159394](https://github.com/flutter/flutter/pull/159394) merged on December 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/159394) over 2 weeks, 53 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
@@ -69,6 +73,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Fix android tests using outdated regexs to modify templates
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) merged on December 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159396) over 2 weeks, 27 additions and 31 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update changelog with 3.27 changes
+  <sub>[#160105](https://github.com/flutter/flutter/pull/160105) merged on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160105) over 42 minutes, 6 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Conductor output updates
   <sub>[#160054](https://github.com/flutter/flutter/pull/160054) merged on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160054) over 19 hours, 16 additions and 16 deletions in 4 files</sub>
@@ -987,7 +995,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-5 commits.
+6 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub>
@@ -996,6 +1004,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Design pattern index page
   <sub>[#11468](https://github.com/flutter/website/pull/11468) merged on December 11, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/11468) over 5 days, 628 additions and 48 deletions in 67 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update example snippets for 3.27 deprecations and breaking changes
+  <sub>[#11281](https://github.com/flutter/website/pull/11281) merged on December 11, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/11281) over 1 month, 281 additions and 1501 deletions in 181 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for M3 token update
   <sub>[#11480](https://github.com/flutter/website/pull/11480) merged on December 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/11480) over 1 day, 104 additions and 0 deletions in 2 files</sub>
