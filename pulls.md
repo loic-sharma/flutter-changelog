@@ -51,7 +51,7 @@
   <sub>[#159945](https://github.com/flutter/flutter/pull/159945) opened on on December 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159945) 28 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `animation_controller.dart`<br />
-  <sub>[#160005](https://github.com/flutter/flutter/pull/160005) opened on on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160005) 50 additions and 60 deletions in 2 files</sub><br />
+  <sub>[#160005](https://github.com/flutter/flutter/pull/160005) opened on on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160005) 50 additions and 60 deletions in 2 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds onHover and onLongPress to IconButton widget<br />
   <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/160032) 311 additions and 2 deletions in 2 files</sub><br />
