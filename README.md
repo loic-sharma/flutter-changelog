@@ -364,6 +364,10 @@
   <sub>[#159589](https://github.com/flutter/flutter/pull/159589) merged on November 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159589) over 1 hour, 27 additions and 123 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Reland CupertinoPopupSurface<br />
+  <sub>[#159272](https://github.com/flutter/flutter/pull/159272) merged on November 27, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/159272) over 5 days, 561 additions and 21 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Framework sends a11y message when enabling semantics<br />
   <sub>[#159163](https://github.com/flutter/flutter/pull/159163) merged on November 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159163) over 6 days, 92 additions and 8 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
@@ -375,10 +379,6 @@
 * **[userFortyTwo](https://github.com/userFortyTwo)** &mdash; Fix typo in gen_l10n_types.dart<br />
   <sub>[#159035](https://github.com/flutter/flutter/pull/159035) merged on November 25, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159035) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Reland CupertinoPopupSurface<br />
-  <sub>[#159272](https://github.com/flutter/flutter/pull/159272) merged on November 27, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/159272) over 5 days, 561 additions and 21 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_benchmark hello_world_macos__compile to be flaky<br />
   <sub>[#159543](https://github.com/flutter/flutter/pull/159543) merged on November 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159543) over 6 hours, 1 addition and 0 deletions in 1 file</sub><br />
@@ -422,7 +422,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-13 commits.
+14 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.<br />
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub><br />
@@ -447,6 +447,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.<br />
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Dispose pictures created in HtmlViewEmbedder.submitFrame<br />
+  <sub>[#57102](https://github.com/flutter/engine/pull/57102) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57102) over 20 hours, 32 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add support for dart formatter<br />
   <sub>[#57075](https://github.com/flutter/engine/pull/57075) merged on December 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57075) over 1 day, 170 additions and 3 deletions in 2 files</sub><br />
