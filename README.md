@@ -4,7 +4,12 @@
 
 ### December 7, 2024 to December 13, 2024
 
-17 commits.
+18 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon<br />
+  <sub>[#160086](https://github.com/flutter/flutter/pull/160086) merged on December 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160086) over 7 hours, 275 additions and 8 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="803" alt="Screenshot 2024-12-11 at 14 04 57" src="https://github.com/user-attachments/assets/4b330020-28c6-4af9-967b-630c0d43b01a"></details></sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample<br />
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub><br />
