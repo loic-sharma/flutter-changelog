@@ -74,6 +74,3 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; precompile generate_gradle_lockfile script BEFORE updating pub dependencies<br />
   <sub>[#160059](https://github.com/flutter/flutter/pull/160059) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160059) 91 additions and 8 deletions in 3 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon<br />
-  <sub>[#160086](https://github.com/flutter/flutter/pull/160086) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160086) 275 additions and 8 deletions in 4 files</sub><br />
-
