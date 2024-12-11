@@ -1012,7 +1012,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-7 commits.
+8 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns<br />
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub><br />
@@ -1036,6 +1036,10 @@
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update wasm page for CORS headers<br />
   <sub>[#11477](https://github.com/flutter/website/pull/11477) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11477) over 3 hours, 23 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Ali Kamal](https://github.com/alikamal1)** &mdash; Update render engine options<br />
+  <sub>[#11475](https://github.com/flutter/website/pull/11475) merged on December 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11475) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[ViktorVoloshko](https://github.com/ViktorVoloshko)** &mdash; Change description in constructor to a named parameter (as it is mentioned later on that page)<br />
