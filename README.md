@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-18 commits.
+20 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon<br />
   <sub>[#160086](https://github.com/flutter/flutter/pull/160086) merged on December 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160086) over 7 hours, 275 additions and 8 deletions in 4 files</sub><br />
@@ -46,6 +46,10 @@
   <sub>[#157815](https://github.com/flutter/flutter/pull/157815) merged on December 9, 2024 &mdash; **Small:** [30 comments](https://github.com/flutter/flutter/pull/157815) over 1 month, 189 additions and 24 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Fix false positive validation result on form submission with AutovalidateMode.onUnfocus<br />
+  <sub>[#159394](https://github.com/flutter/flutter/pull/159394) merged on December 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/159394) over 2 weeks, 53 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for injecting assets into the widget_preview_scaffold<br />
   <sub>[#159859](https://github.com/flutter/flutter/pull/159859) merged on December 10, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/159859) over 4 days, 689 additions and 14 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
@@ -65,6 +69,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Fix android tests using outdated regexs to modify templates<br />
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) merged on December 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159396) over 2 weeks, 27 additions and 31 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Conductor output updates<br />
+  <sub>[#160054](https://github.com/flutter/flutter/pull/160054) merged on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160054) over 19 hours, 16 additions and 16 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark Linux packages_autoroller bringup<br />
   <sub>[#160056](https://github.com/flutter/flutter/pull/160056) merged on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160056) over 50 minutes, 1 addition and 0 deletions in 1 file</sub><br />
