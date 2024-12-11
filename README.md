@@ -452,7 +452,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-21 commits.
+22 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux<br />
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub><br />
@@ -461,6 +461,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.<br />
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed heap allocations for conical, radial and sweep gradients<br />
+  <sub>[#57143](https://github.com/flutter/engine/pull/57143) merged on December 11, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/57143) over 1 hour, 235 additions and 137 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; moved device buffer to an untracked handle<br />
   <sub>[#57021](https://github.com/flutter/engine/pull/57021) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/57021) over 3 days, 86 additions and 8 deletions in 7 files</sub><br />
