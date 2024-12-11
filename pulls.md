@@ -68,3 +68,9 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update CHANGELOG.md for 3.27 release<br />
   <sub>[#160104](https://github.com/flutter/flutter/pull/160104) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160104) 6 additions and 0 deletions in 1 file</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update changelog with 3.27 changes<br />
+  <sub>[#160105](https://github.com/flutter/flutter/pull/160105) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160105) 6 additions and 0 deletions in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Framework calls setSemanticsTreeEnabled<br />
+  <sub>[#160107](https://github.com/flutter/flutter/pull/160107) opened on on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160107) 13 additions and 0 deletions in 1 file</sub><br />
+
