@@ -954,11 +954,15 @@
 
 ### December 7, 2024 to December 13, 2024
 
-3 commits.
+4 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough), [Luke Greenwood](https://github.com/luketg8), [Eric Windmill](https://github.com/ericwindmill)</sub>
+
+* **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Design pattern index page
+  <sub>[#11468](https://github.com/flutter/website/pull/11468) merged on December 11, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/11468) over 5 days, 628 additions and 48 deletions in 67 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update wasm page for CORS headers
   <sub>[#11477](https://github.com/flutter/website/pull/11477) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11477) over 3 hours, 23 additions and 0 deletions in 1 file</sub>
