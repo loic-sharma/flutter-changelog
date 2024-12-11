@@ -999,7 +999,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-6 commits.
+7 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub>
@@ -1012,6 +1012,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update example snippets for 3.27 deprecations and breaking changes
   <sub>[#11281](https://github.com/flutter/website/pull/11281) merged on December 11, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/11281) over 1 month, 281 additions and 1501 deletions in 181 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub>
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Add Flutter 3.27 commit-based release notes
+  <sub>[#11479](https://github.com/flutter/website/pull/11479) merged on December 11, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/11479) over 1 day, 1477 additions and 12 deletions in 3 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for M3 token update
   <sub>[#11480](https://github.com/flutter/website/pull/11480) merged on December 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/11480) over 1 day, 104 additions and 0 deletions in 2 files</sub>
