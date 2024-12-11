@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-22 commits.
+23 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon<br />
   <sub>[#160086](https://github.com/flutter/flutter/pull/160086) merged on December 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160086) over 7 hours, 275 additions and 8 deletions in 4 files</sub><br />
@@ -49,6 +49,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add script to check format of changed dart files<br />
   <sub>[#160007](https://github.com/flutter/flutter/pull/160007) merged on December 11, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/160007) over 1 day, 412 additions and 1 deletion in 6 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Don't throw `StateError` when listing core devices during tool shutdown<br />
+  <sub>[#160094](https://github.com/flutter/flutter/pull/160094) merged on December 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160094) over 3 hours, 33 additions and 13 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix false positive validation result on form submission with AutovalidateMode.onUnfocus<br />
   <sub>[#159394](https://github.com/flutter/flutter/pull/159394) merged on December 11, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/159394) over 2 weeks, 53 additions and 2 deletions in 2 files</sub><br />
