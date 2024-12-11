@@ -42,7 +42,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for injecting assets into the widget_preview_scaffold<br />
-  <sub>[#159859](https://github.com/flutter/flutter/pull/159859) merged on December 10, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/159859) over 4 days, 689 additions and 14 deletions in 7 files</sub><br />
+  <sub>[#159859](https://github.com/flutter/flutter/pull/159859) merged on December 10, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/159859) over 4 days, 689 additions and 14 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a simple golden-file test to `package:integration_test`.<br />
