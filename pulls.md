@@ -71,6 +71,3 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; precompile generate_gradle_lockfile script BEFORE updating pub dependencies<br />
   <sub>[#160059](https://github.com/flutter/flutter/pull/160059) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160059) 91 additions and 8 deletions in 3 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Migrate module templates to declarative application of the Flutter Gradle Plugin<br />
-  <sub>[#160090](https://github.com/flutter/flutter/pull/160090) opened on on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160090) 103 additions and 29 deletions in 8 files</sub><br />
-
