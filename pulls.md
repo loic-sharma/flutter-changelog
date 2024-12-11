@@ -74,3 +74,6 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a `isSystemTextScaler` matcher<br />
   <sub>[#160120](https://github.com/flutter/flutter/pull/160120) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160120) 66 additions and 0 deletions in 3 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DO NOT SUBMIT] dartfmt trial run<br />
+  <sub>[#160121](https://github.com/flutter/flutter/pull/160121) opened on on December 11, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160121) 461750 additions and 420010 deletions in 4388 files</sub><br />
+

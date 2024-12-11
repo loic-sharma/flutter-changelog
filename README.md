@@ -495,8 +495,8 @@
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] avoid expensive texture labeling w/ no validation layers.<br />
-  <sub>[#57130](https://github.com/flutter/engine/pull/57130) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57130) over 2 hours, 9 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+  <sub>[#57130](https://github.com/flutter/engine/pull/57130) merged on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/57130) over 2 hours, 9 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set UniformBlockBinding once.<br />
   <sub>[#57094](https://github.com/flutter/engine/pull/57094) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57094) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
