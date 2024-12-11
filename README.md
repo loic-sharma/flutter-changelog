@@ -966,7 +966,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-4 commits.
+5 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns<br />
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub><br />
@@ -975,6 +975,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Design pattern index page<br />
   <sub>[#11468](https://github.com/flutter/website/pull/11468) merged on December 11, 2024 &mdash; **Large:** [15 comments](https://github.com/flutter/website/pull/11468) over 5 days, 628 additions and 48 deletions in 67 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for M3 token update<br />
+  <sub>[#11480](https://github.com/flutter/website/pull/11480) merged on December 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/11480) over 1 day, 104 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update wasm page for CORS headers<br />
   <sub>[#11477](https://github.com/flutter/website/pull/11477) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11477) over 3 hours, 23 additions and 0 deletions in 1 file</sub><br />
