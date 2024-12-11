@@ -410,7 +410,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-12 commits.
+13 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub>
@@ -435,6 +435,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add support for dart formatter
+  <sub>[#57075](https://github.com/flutter/engine/pull/57075) merged on December 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57075) over 1 day, 170 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null checks on shell dereference
   <sub>[#57099](https://github.com/flutter/engine/pull/57099) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57099) over 47 minutes, 41 additions and 8 deletions in 4 files</sub>
