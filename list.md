@@ -205,6 +205,10 @@
   <sub>[#158540](https://github.com/flutter/flutter/pull/158540) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158540) over 2 weeks, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.
+  <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
 * **[Anis Alibegić](https://github.com/anisalibegic)** &mdash; Fixed typos
   <sub>[#159331](https://github.com/flutter/flutter/pull/159331) merged on December 5, 2024 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/159331) over 1 week, 177 additions and 177 deletions in 59 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate)</sub>
@@ -216,10 +220,6 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Add google_adsense to 9_first_party_packages.yml
   <sub>[#159827](https://github.com/flutter/flutter/pull/159827) merged on December 5, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159827) over 16 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
-
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Rename `SWIFT_PACKAGE_MANAGER` environment variable to `FLUTTER_SWIFT_PACKAGE_MANAGER`
-  <sub>[#159502](https://github.com/flutter/flutter/pull/159502) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159502) over 6 days, 18 additions and 8 deletions in 2 files</sub>
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Make native asset tests more robust against flutter upgrading its pinned dependencies
   <sub>[#159715](https://github.com/flutter/flutter/pull/159715) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159715) over 2 hours, 16 additions and 3 deletions in 1 file</sub>
@@ -241,9 +241,9 @@
   <sub>[#159720](https://github.com/flutter/flutter/pull/159720) merged on December 5, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/159720) over 2 days, 240 additions and 25 deletions in 4 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
-* **[David Iglesias](https://github.com/ditman)** &mdash; [tool] Removes deprecated --web-renderer parameter.
-  <sub>[#159314](https://github.com/flutter/flutter/pull/159314) merged on December 2, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159314) over 1 week, 219 additions and 115 deletions in 20 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Rename `SWIFT_PACKAGE_MANAGER` environment variable to `FLUTTER_SWIFT_PACKAGE_MANAGER`
+  <sub>[#159502](https://github.com/flutter/flutter/pull/159502) merged on December 3, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159502) over 6 days, 18 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Reland Fix Date picker overlay colors aren't applied on selected state
   <sub>[#159839](https://github.com/flutter/flutter/pull/159839) merged on December 5, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/159839) over 8 hours, 364 additions and 53 deletions in 5 files</sub>
