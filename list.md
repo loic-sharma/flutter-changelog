@@ -422,7 +422,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-14 commits.
+15 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub>
@@ -447,6 +447,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed linear gradient heap allocation for color conversions between dart and display list
+  <sub>[#57108](https://github.com/flutter/engine/pull/57108) merged on December 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57108) over 17 hours, 150 additions and 23 deletions in 8 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Dispose pictures created in HtmlViewEmbedder.submitFrame
   <sub>[#57102](https://github.com/flutter/engine/pull/57102) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57102) over 20 hours, 32 additions and 0 deletions in 2 files</sub>
@@ -826,7 +830,11 @@
 
 ### December 7, 2024 to December 13, 2024
 
-5 commits.
+6 commits.
+
+* **[Naomi Watanabe](https://github.com/napoleon-na)** &mdash; [video_player_avfoundation] Support the audio-only HLS (.m3u8) on iOS
+  <sub>[#7890](https://github.com/flutter/packages/pull/7890) merged on December 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7890) over 1 month, 24 additions and 2 deletions in 4 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Tighten exports and docs.
   <sub>[#8233](https://github.com/flutter/packages/pull/8233) merged on December 9, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/8233) over 4 days, 489 additions and 326 deletions in 21 files</sub>
