@@ -452,7 +452,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-17 commits.
+18 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub>
@@ -477,6 +477,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] changes to DlVertices::Builder and Stopwatch visualizer.
+  <sub>[#57031](https://github.com/flutter/engine/pull/57031) merged on December 11, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/57031) over 4 days, 182 additions and 122 deletions in 13 files</sub>
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] avoid expensive texture labeling w/ no validation layers.
   <sub>[#57130](https://github.com/flutter/engine/pull/57130) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57130) over 2 hours, 9 additions and 1 deletion in 2 files</sub>
