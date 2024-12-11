@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-14 commits.
+17 commits.
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample<br />
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub><br />
@@ -29,6 +29,10 @@
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
   <sub><details><summary>2 images...</summary>![before1](https://github.com/user-attachments/assets/c4b5ee75-f9f8-4ec0-baa4-7a51430893e6)    |   ![after1](https://github.com/user-attachments/assets/234b16c5-5a9a-4a1c-9f7e-d58e507533a6)![before2](https://github.com/user-attachments/assets/3afc7668-1a3f-49de-8c61-b839a120a950)    |   ![after2](https://github.com/user-attachments/assets/fd9e7f13-9da4-4639-9839-a293c77a76cf)</details></sub>
 
+* **[yim](https://github.com/yiiim)** &mdash; fix fade_transition issue<br />
+  <sub>[#157663](https://github.com/flutter/flutter/pull/157663) merged on December 11, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/157663) over 1 month, 41 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add handler for `SemanticsAction.scrollToOffset`<br />
   <sub>[#159811](https://github.com/flutter/flutter/pull/159811) merged on December 9, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/159811) over 5 days, 199 additions and 48 deletions in 17 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -45,6 +49,10 @@
   <sub>[#159233](https://github.com/flutter/flutter/pull/159233) merged on December 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159233) over 2 weeks, 52 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Test `SliverMainAxisGroup` offstage child<br />
+  <sub>[#159406](https://github.com/flutter/flutter/pull/159406) merged on December 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159406) over 2 weeks, 43 additions and 5 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned<br />
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155615) over 2 months, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
@@ -52,6 +60,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Fix android tests using outdated regexs to modify templates<br />
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) merged on December 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159396) over 2 weeks, 27 additions and 31 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; mark Linux packages_autoroller bringup<br />
+  <sub>[#160056](https://github.com/flutter/flutter/pull/160056) merged on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160056) over 50 minutes, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Pin pkg:intl to 0.19.0<br />
   <sub>[#159992](https://github.com/flutter/flutter/pull/159992) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159992) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />

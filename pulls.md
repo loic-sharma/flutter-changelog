@@ -71,3 +71,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Conductor output updates<br />
   <sub>[#160054](https://github.com/flutter/flutter/pull/160054) opened on on December 10, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160054) 16 additions and 16 deletions in 4 files</sub><br />
 
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; precompile generate_gradle_lockfile script BEFORE updating pub dependencies<br />
+  <sub>[#160059](https://github.com/flutter/flutter/pull/160059) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160059) 91 additions and 8 deletions in 3 files</sub><br />
+
