@@ -7,7 +7,7 @@
 24 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon<br />
-  <sub>[#160086](https://github.com/flutter/flutter/pull/160086) merged on December 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160086) over 7 hours, 275 additions and 8 deletions in 4 files</sub><br />
+  <sub>[#160086](https://github.com/flutter/flutter/pull/160086) merged on December 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160086) over 7 hours, 275 additions and 8 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
   <sub><details><summary>1 image...</summary><img width="803" alt="Screenshot 2024-12-11 at 14 04 57" src="https://github.com/user-attachments/assets/4b330020-28c6-4af9-967b-630c0d43b01a"></details></sub>
 
