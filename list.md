@@ -456,7 +456,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-28 commits.
+29 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub>
@@ -465,6 +465,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references.
   <sub>[#57015](https://github.com/flutter/engine/pull/57015) merged on December 9, 2024 &mdash; **Medium:** [19 comments](https://github.com/flutter/engine/pull/57015) over 3 days, 235 additions and 166 deletions in 21 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Migrate layers and layer_tree to DisplayList/Impeller geometry classes
+  <sub>[#57153](https://github.com/flutter/engine/pull/57153) merged on December 12, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/57153) over 14 hours, 1951 additions and 2125 deletions in 101 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed heap allocations for conical, radial and sweep gradients
   <sub>[#57143](https://github.com/flutter/engine/pull/57143) merged on December 11, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/57143) over 1 hour, 235 additions and 137 deletions in 12 files</sub>
@@ -551,7 +555,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Bryan Oltman](https://github.com/bryanoltman)** &mdash; Cast ::GetLastError to int
-  <sub>[#57113](https://github.com/flutter/engine/pull/57113) merged on December 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/57113) over 21 hours, 4 additions and 4 deletions in 1 file</sub>
+  <sub>[#57113](https://github.com/flutter/engine/pull/57113) merged on December 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57113) over 21 hours, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Migrate fuchsia.io Open functions to Open3
