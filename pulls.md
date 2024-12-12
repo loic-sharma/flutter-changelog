@@ -74,3 +74,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DO NOT SUBMIT] dartfmt trial run<br />
   <sub>[#160121](https://github.com/flutter/flutter/pull/160121) opened on on December 11, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160121) 461750 additions and 420010 deletions in 4388 files</sub><br />
 
+* **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
+  <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160176) 13 additions and 6 deletions in 1 file</sub><br />
+
