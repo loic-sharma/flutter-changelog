@@ -7,7 +7,7 @@
 29 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Force automatic ndk download when building for Android<br />
-  <sub>[#159756](https://github.com/flutter/flutter/pull/159756) merged on December 12, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/159756) over 1 week, 382 additions and 14 deletions in 42 files</sub><br />
+  <sub>[#159756](https://github.com/flutter/flutter/pull/159756) merged on December 12, 2024 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/159756) over 1 week, 382 additions and 14 deletions in 42 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon<br />
@@ -483,7 +483,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate layers and layer_tree to DisplayList/Impeller geometry classes<br />
-  <sub>[#57153](https://github.com/flutter/engine/pull/57153) merged on December 12, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/engine/pull/57153) over 14 hours, 1951 additions and 2125 deletions in 101 files</sub><br />
+  <sub>[#57153](https://github.com/flutter/engine/pull/57153) merged on December 12, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/57153) over 14 hours, 1951 additions and 2125 deletions in 101 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed heap allocations for conical, radial and sweep gradients<br />
