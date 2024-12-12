@@ -472,7 +472,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-35 commits.
+36 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub>
@@ -498,13 +498,13 @@
   <sub>[#57069](https://github.com/flutter/engine/pull/57069) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57069) over 1 hour, 24 additions and 24 deletions in 2 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Clean up key embedder responder tests
-  <sub>[#57054](https://github.com/flutter/engine/pull/57054) merged on December 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/57054) over 1 day, 285 additions and 377 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
-
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Roll Skia to 14f8f6d984ff
   <sub>[#57068](https://github.com/flutter/engine/pull/57068) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57068) over 2 hours, 21 additions and 7 deletions in 5 files</sub>
   <sub>Reviewed by: [Kaylee Lubick](https://github.com/kjlubick)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Clean up key embedder responder tests
+  <sub>[#57054](https://github.com/flutter/engine/pull/57054) merged on December 10, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/57054) over 1 day, 285 additions and 377 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont print format strings for blend filter and snapshots.
   <sub>[#57105](https://github.com/flutter/engine/pull/57105) merged on December 12, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/57105) over 1 day, 56 additions and 44 deletions in 18 files</sub>
@@ -558,6 +558,10 @@
   <sub>[#57130](https://github.com/flutter/engine/pull/57130) merged on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/57130) over 2 hours, 9 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; removed c style casts and enabled the lint
+  <sub>[#57162](https://github.com/flutter/engine/pull/57162) merged on December 12, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/57162) over 5 hours, 177 additions and 149 deletions in 33 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null checks on shell dereference
   <sub>[#57099](https://github.com/flutter/engine/pull/57099) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57099) over 47 minutes, 41 additions and 8 deletions in 4 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
@@ -566,25 +570,21 @@
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Dispose pictures created in HtmlViewEmbedder.submitFrame
-  <sub>[#57102](https://github.com/flutter/engine/pull/57102) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57102) over 20 hours, 32 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add support for dart formatter
   <sub>[#57075](https://github.com/flutter/engine/pull/57075) merged on December 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57075) over 1 day, 170 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed linear gradient heap allocation for color conversions between dart and display list
-  <sub>[#57108](https://github.com/flutter/engine/pull/57108) merged on December 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57108) over 17 hours, 150 additions and 23 deletions in 8 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set UniformBlockBinding once.
   <sub>[#57094](https://github.com/flutter/engine/pull/57094) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57094) over 1 day, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlPlatformChannel tests to FlMockBinaryMessenger
-  <sub>[#57140](https://github.com/flutter/engine/pull/57140) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57140) over 22 hours, 32 additions and 28 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Dispose pictures created in HtmlViewEmbedder.submitFrame
+  <sub>[#57102](https://github.com/flutter/engine/pull/57102) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57102) over 20 hours, 32 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed linear gradient heap allocation for color conversions between dart and display list
+  <sub>[#57108](https://github.com/flutter/engine/pull/57108) merged on December 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57108) over 17 hours, 150 additions and 23 deletions in 8 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlBasicMessageChannel tests to FlMockBinaryMessenger
   <sub>[#57115](https://github.com/flutter/engine/pull/57115) merged on December 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/57115) over 1 day, 194 additions and 186 deletions in 3 files</sub>
@@ -598,12 +598,16 @@
   <sub>[#56818](https://github.com/flutter/engine/pull/56818) merged on December 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56818) over 1 week, 84 additions and 124 deletions in 7 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_engine_send_key_event into a standard async function.
+  <sub>[#57112](https://github.com/flutter/engine/pull/57112) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57112) over 1 day, 223 additions and 7 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_key_channel_responder_handle_event async
   <sub>[#56959](https://github.com/flutter/engine/pull/56959) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56959) over 4 days, 111 additions and 125 deletions in 4 files</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_engine_send_key_event into a standard async function.
-  <sub>[#57112](https://github.com/flutter/engine/pull/57112) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57112) over 1 day, 223 additions and 7 deletions in 4 files</sub>
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlPlatformChannel tests to FlMockBinaryMessenger
+  <sub>[#57140](https://github.com/flutter/engine/pull/57140) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57140) over 22 hours, 32 additions and 28 deletions in 1 file</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "[Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references."
@@ -960,7 +964,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-10 commits.
+11 commits.
 
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_actions] add localizedSubtitle for iOS 
   <sub>[#8038](https://github.com/flutter/packages/pull/8038) merged on December 11, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8038) over 1 month, 13 additions and 7 deletions in 4 files</sub>
@@ -985,6 +989,10 @@
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_action_ios] add localizedSubtitle for iOS
   <sub>[#8149](https://github.com/flutter/packages/pull/8149) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8149) over 2 weeks, 53 additions and 18 deletions in 10 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Vitalii](https://github.com/ultraon)** &mdash; [go_router] Fix a typo in a comment in the shell_route.dart
+  <sub>[#8235](https://github.com/flutter/packages/pull/8235) merged on December 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8235) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; disable maps test and manual roll
   <sub>[#8275](https://github.com/flutter/packages/pull/8275) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8275) over 5 hours, 56 additions and 51 deletions in 2 files</sub>
