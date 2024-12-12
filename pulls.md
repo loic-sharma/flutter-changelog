@@ -77,3 +77,6 @@
 * **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix Vertical Stepper Line Interruption by Content<br />
   <sub>[#160177](https://github.com/flutter/flutter/pull/160177) opened on on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160177) 5 additions and 3 deletions in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] `FLUTTER_WEB_AUTO_DETECT` is false by default<br />
+  <sub>[#160191](https://github.com/flutter/flutter/pull/160191) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160191) 0 additions and 44 deletions in 5 files</sub><br />
+
