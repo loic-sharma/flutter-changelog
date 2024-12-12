@@ -452,7 +452,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-22 commits.
+24 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux<br />
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub><br />
@@ -485,6 +485,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.<br />
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Manual Skia roll from 79a7b95e32fe to 0aec6f7bfbc8<br />
+  <sub>[#57134](https://github.com/flutter/engine/pull/57134) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57134) over 4 hours, 7 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove std::vector usage in render pass vk.<br />
   <sub>[#57132](https://github.com/flutter/engine/pull/57132) merged on December 11, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/engine/pull/57132) over 3 hours, 67 additions and 54 deletions in 3 files</sub><br />
@@ -525,6 +529,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.<br />
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Bryan Oltman](https://github.com/bryanoltman)** &mdash; Cast ::GetLastError to int<br />
+  <sub>[#57113](https://github.com/flutter/engine/pull/57113) merged on December 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/57113) over 21 hours, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Migrate fuchsia.io Open functions to Open3<br />
   <sub>[#56818](https://github.com/flutter/engine/pull/56818) merged on December 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56818) over 1 week, 84 additions and 124 deletions in 7 files</sub><br />
