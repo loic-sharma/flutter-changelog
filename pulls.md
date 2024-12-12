@@ -77,3 +77,6 @@
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160176) 13 additions and 6 deletions in 1 file</sub><br />
 
+* **[Ayyoub Kouadir](https://github.com/ayyoub-coder)** &mdash; Fix Vertical Stepper Line Interruption by Content<br />
+  <sub>[#160177](https://github.com/flutter/flutter/pull/160177) opened on on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160177) 5 additions and 3 deletions in 1 file</sub><br />
+
