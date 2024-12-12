@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-24 commits.
+25 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon<br />
   <sub>[#160086](https://github.com/flutter/flutter/pull/160086) merged on December 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160086) over 7 hours, 275 additions and 8 deletions in 4 files</sub><br />
@@ -82,6 +82,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Fix android tests using outdated regexs to modify templates<br />
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) merged on December 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159396) over 2 weeks, 27 additions and 31 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Add entry-point annotations for test-only code.<br />
+  <sub>[#160158](https://github.com/flutter/flutter/pull/160158) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160158) over 2 hours, 7 additions and 0 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update changelog with 3.27 changes<br />
   <sub>[#160105](https://github.com/flutter/flutter/pull/160105) merged on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160105) over 42 minutes, 6 additions and 0 deletions in 1 file</sub><br />
