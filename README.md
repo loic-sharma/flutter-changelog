@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-27 commits.
+28 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon<br />
   <sub>[#160086](https://github.com/flutter/flutter/pull/160086) merged on December 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160086) over 7 hours, 275 additions and 8 deletions in 4 files</sub><br />
@@ -23,6 +23,10 @@
     alt="RenderFlex overflowed"
     width="523px"
   /></details></sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Make animation and router support simulation, and use Spring for Cupertino<br />
+  <sub>[#155575](https://github.com/flutter/flutter/pull/155575) merged on December 12, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/155575) over 2 months, 462 additions and 81 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jackson](https://github.com/sargntpi)** &mdash; Added spellCheckConfiguration to the constructor of CupertinoTextFormFieldRow<br />
   <sub>[#159385](https://github.com/flutter/flutter/pull/159385) merged on December 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159385) over 2 weeks, 26 additions and 0 deletions in 2 files</sub><br />
@@ -464,7 +468,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-34 commits.
+35 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux<br />
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub><br />
@@ -514,6 +518,10 @@
   <sub>[#57160](https://github.com/flutter/engine/pull/57160) merged on December 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57160) over 3 hours, 19 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] exploit perfect hash for SamplerDescriptor.<br />
+  <sub>[#57036](https://github.com/flutter/engine/pull/57036) merged on December 12, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/57036) over 5 days, 222 additions and 244 deletions in 58 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Reduce engine/view controller coupling<br />
   <sub>[#57151](https://github.com/flutter/engine/pull/57151) merged on December 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57151) over 15 hours, 142 additions and 119 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
@@ -546,9 +554,9 @@
   <sub>[#57130](https://github.com/flutter/engine/pull/57130) merged on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/57130) over 2 hours, 9 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set UniformBlockBinding once.<br />
-  <sub>[#57094](https://github.com/flutter/engine/pull/57094) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57094) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null checks on shell dereference<br />
+  <sub>[#57099](https://github.com/flutter/engine/pull/57099) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57099) over 47 minutes, 41 additions and 8 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.<br />
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub><br />
@@ -566,9 +574,9 @@
   <sub>[#57108](https://github.com/flutter/engine/pull/57108) merged on December 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57108) over 17 hours, 150 additions and 23 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null checks on shell dereference<br />
-  <sub>[#57099](https://github.com/flutter/engine/pull/57099) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57099) over 47 minutes, 41 additions and 8 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] set UniformBlockBinding once.<br />
+  <sub>[#57094](https://github.com/flutter/engine/pull/57094) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57094) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlPlatformChannel tests to FlMockBinaryMessenger<br />
   <sub>[#57140](https://github.com/flutter/engine/pull/57140) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57140) over 22 hours, 32 additions and 28 deletions in 1 file</sub><br />
@@ -1100,7 +1108,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-17 commits.
+18 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns<br />
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub><br />
@@ -1115,7 +1123,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; docs: Support for overriding endorsed plugin implementations<br />
-  <sub>[#10891](https://github.com/flutter/website/pull/10891) merged on December 12, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/10891) over 5 months, 10 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#10891](https://github.com/flutter/website/pull/10891) merged on December 12, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/10891) over 5 months, 10 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Add Flutter 3.27 commit-based release notes<br />
@@ -1132,6 +1140,10 @@
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update wasm page for CORS headers<br />
   <sub>[#11477](https://github.com/flutter/website/pull/11477) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11477) over 3 hours, 23 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix link to code excerpt tool docs<br />
+  <sub>[#11466](https://github.com/flutter/website/pull/11466) merged on December 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11466) over 1 week, 6 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Adds a go link for the proposed `KnownValues` annotation doc<br />
