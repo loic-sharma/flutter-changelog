@@ -15,7 +15,7 @@
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/157193) 98 additions and 117 deletions in 5 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
-  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [7 comments](https://github.com/flutter/flutter/pull/157515) 2323 additions and 2 deletions in 29 files</sub><br />
+  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/157515) 2323 additions and 2 deletions in 29 files</sub><br />
 
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; Add File > Close to macOS menu template<br />
   <sub>[#157947](https://github.com/flutter/flutter/pull/157947) opened on on October 31, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/157947) 25 additions and 0 deletions in 3 files</sub><br />
