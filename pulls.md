@@ -66,7 +66,7 @@
   <sub>[#160104](https://github.com/flutter/flutter/pull/160104) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160104) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Framework calls setSemanticsTreeEnabled<br />
-  <sub>[#160107](https://github.com/flutter/flutter/pull/160107) opened on on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160107) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#160107](https://github.com/flutter/flutter/pull/160107) opened on on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160107) 44 additions and 0 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DO NOT SUBMIT] enable dartfmt presubmit check<br />
   <sub>[#160116](https://github.com/flutter/flutter/pull/160116) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160116) 6 additions and 0 deletions in 1 file</sub><br />
