@@ -456,7 +456,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-27 commits.
+28 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub>
@@ -489,6 +489,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use CanvasKit to run tests under engine/
+  <sub>[#54786](https://github.com/flutter/engine/pull/54786) merged on December 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/54786) over 3 months, 238 additions and 245 deletions in 37 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Reduce engine/view controller coupling
   <sub>[#57151](https://github.com/flutter/engine/pull/57151) merged on December 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57151) over 15 hours, 142 additions and 119 deletions in 10 files</sub>
