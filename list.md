@@ -1040,7 +1040,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-8 commits.
+9 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub>
@@ -1065,6 +1065,10 @@
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update wasm page for CORS headers
   <sub>[#11477](https://github.com/flutter/website/pull/11477) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11477) over 3 hours, 23 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Add animated widget design doc
+  <sub>[#11486](https://github.com/flutter/website/pull/11486) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11486) over 9 hours, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Ali Kamal](https://github.com/alikamal1)** &mdash; Update render engine options
   <sub>[#11475](https://github.com/flutter/website/pull/11475) merged on December 11, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11475) over 3 days, 1 addition and 1 deletion in 1 file</sub>
