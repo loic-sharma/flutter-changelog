@@ -948,11 +948,15 @@
 
 ### December 7, 2024 to December 13, 2024
 
-9 commits.
+10 commits.
 
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_actions] add localizedSubtitle for iOS <br />
   <sub>[#8038](https://github.com/flutter/packages/pull/8038) merged on December 11, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8038) over 1 month, 13 additions and 7 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Update for 3.27 stable release<br />
+  <sub>[#8284](https://github.com/flutter/packages/pull/8284) merged on December 12, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/8284) over 2 hours, 519 additions and 317 deletions in 237 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Kate Lovett](https://github.com/Piinks), [Yegor](https://github.com/yjbanov), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Naomi Watanabe](https://github.com/napoleon-na)** &mdash; [video_player_avfoundation] Support the audio-only HLS (.m3u8) on iOS<br />
   <sub>[#7890](https://github.com/flutter/packages/pull/7890) merged on December 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/7890) over 1 month, 24 additions and 2 deletions in 4 files</sub><br />
