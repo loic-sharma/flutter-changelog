@@ -598,6 +598,10 @@
   <sub>[#56936](https://github.com/flutter/engine/pull/56936) merged on December 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56936) over 1 day, 187 additions and 8 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use `eventTarget` when computing pointer offset<br />
+  <sub>[#56949](https://github.com/flutter/engine/pull/56949) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56949) over 20 hours, 48 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Replace outdated wiki URLs in pull request template<br />
   <sub>[#56824](https://github.com/flutter/engine/pull/56824) merged on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56824) over 5 days, 7 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
@@ -605,10 +609,6 @@
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][platform_view] workaround for non-tappable webview<br />
   <sub>[#56804](https://github.com/flutter/engine/pull/56804) merged on December 6, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56804) over 1 week, 186 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [Chris Bracken](https://github.com/cbracken)</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use `eventTarget` when computing pointer offset<br />
-  <sub>[#56949](https://github.com/flutter/engine/pull/56949) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56949) over 20 hours, 48 additions and 7 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove LSAN supressions for Linux embedder<br />
   <sub>[#56913](https://github.com/flutter/engine/pull/56913) merged on December 4, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56913) over 1 day, 3 additions and 9 deletions in 3 files</sub><br />
