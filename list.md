@@ -896,7 +896,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-7 commits.
+8 commits.
 
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_actions] add localizedSubtitle for iOS 
   <sub>[#8038](https://github.com/flutter/packages/pull/8038) merged on December 11, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8038) over 1 month, 13 additions and 7 deletions in 4 files</sub>
@@ -917,6 +917,10 @@
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_action_ios] add localizedSubtitle for iOS
   <sub>[#8149](https://github.com/flutter/packages/pull/8149) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8149) over 2 weeks, 53 additions and 18 deletions in 10 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; disable maps test and manual roll
+  <sub>[#8275](https://github.com/flutter/packages/pull/8275) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8275) over 5 hours, 56 additions and 51 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [dependabot] Generalizes dependabot commit message prefix 
   <sub>[#8255](https://github.com/flutter/packages/pull/8255) merged on December 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8255) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
