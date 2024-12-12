@@ -456,7 +456,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-24 commits.
+25 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub>
@@ -489,6 +489,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a race in the ReactorGLES.PerThreadOperationQueues test
+  <sub>[#57147](https://github.com/flutter/engine/pull/57147) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57147) over 15 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Manual Skia roll from 79a7b95e32fe to 0aec6f7bfbc8
   <sub>[#57134](https://github.com/flutter/engine/pull/57134) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57134) over 4 hours, 7 additions and 7 deletions in 4 files</sub>
@@ -900,7 +904,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-8 commits.
+9 commits.
 
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_actions] add localizedSubtitle for iOS 
   <sub>[#8038](https://github.com/flutter/packages/pull/8038) merged on December 11, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8038) over 1 month, 13 additions and 7 deletions in 4 files</sub>
@@ -933,6 +937,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [path_provider] Clean up Java code
   <sub>[#8240](https://github.com/flutter/packages/pull/8240) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8240) over 2 days, 52 additions and 137 deletions in 6 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from dec2ee5c1f98 to 8495dee1fd4a (1318 revisions)
+  <sub>[#8280](https://github.com/flutter/packages/pull/8280) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8280) over 37 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### November 30, 2024 to December 6, 2024
 
