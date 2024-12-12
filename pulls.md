@@ -74,6 +74,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DO NOT SUBMIT] dartfmt trial run<br />
   <sub>[#160121](https://github.com/flutter/flutter/pull/160121) opened on on December 11, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160121) 461750 additions and 420010 deletions in 4388 files</sub><br />
 
-* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Add entry-point annotations for test-only code.<br />
-  <sub>[#160158](https://github.com/flutter/flutter/pull/160158) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160158) 7 additions and 0 deletions in 7 files</sub><br />
-
