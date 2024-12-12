@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-26 commits.
+27 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add `submenuIcon` property to override the default `SubmenuButton` arrow icon<br />
   <sub>[#160086](https://github.com/flutter/flutter/pull/160086) merged on December 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160086) over 7 hours, 275 additions and 8 deletions in 4 files</sub><br />
@@ -106,6 +106,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Pin pkg:intl to 0.19.0<br />
   <sub>[#159992](https://github.com/flutter/flutter/pull/159992) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159992) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Enable platform view benchmarks in Skwasm<br />
+  <sub>[#160186](https://github.com/flutter/flutter/pull/160186) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160186) over 2 hours, 2 additions and 8 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; `CupertinoTextField` accessibility behavior on Linux should match `TextField`<br />
   <sub>[#159823](https://github.com/flutter/flutter/pull/159823) merged on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159823) over 5 days, 26 additions and 8 deletions in 2 files</sub><br />
