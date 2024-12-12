@@ -1096,7 +1096,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-15 commits.
+17 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub>
@@ -1128,6 +1128,14 @@
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update wasm page for CORS headers
   <sub>[#11477](https://github.com/flutter/website/pull/11477) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11477) over 3 hours, 23 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Adds a go link for the proposed `KnownValues` annotation doc
+  <sub>[#11490](https://github.com/flutter/website/pull/11490) merged on December 12, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11490) over 26 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for `ThemeData.indicatorColor` deprecation
+  <sub>[#11481](https://github.com/flutter/website/pull/11481) merged on December 12, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11481) over 2 days, 87 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Move "Automatic platform adaptations" page to Adaptive design section in Left Nav
