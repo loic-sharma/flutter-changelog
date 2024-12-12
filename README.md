@@ -460,7 +460,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-31 commits.
+33 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux<br />
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub><br />
@@ -493,6 +493,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Roll Skia to 14f8f6d984ff<br />
   <sub>[#57068](https://github.com/flutter/engine/pull/57068) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57068) over 2 hours, 21 additions and 7 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Kaylee Lubick](https://github.com/kjlubick)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont print format strings for blend filter and snapshots.<br />
+  <sub>[#57105](https://github.com/flutter/engine/pull/57105) merged on December 12, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/engine/pull/57105) over 1 day, 56 additions and 44 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.<br />
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub><br />
@@ -557,6 +561,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.<br />
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_engine_send_key_event into a standard async function.<br />
+  <sub>[#57112](https://github.com/flutter/engine/pull/57112) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57112) over 1 day, 223 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlPlatformChannel tests to FlMockBinaryMessenger<br />
   <sub>[#57140](https://github.com/flutter/engine/pull/57140) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57140) over 22 hours, 32 additions and 28 deletions in 1 file</sub><br />
@@ -1080,7 +1088,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-10 commits.
+12 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns<br />
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub><br />
@@ -1105,6 +1113,14 @@
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update wasm page for CORS headers<br />
   <sub>[#11477](https://github.com/flutter/website/pull/11477) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11477) over 3 hours, 23 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[John Ryan](https://github.com/johnpryan)** &mdash; Update Safari bug<br />
+  <sub>[#11488](https://github.com/flutter/website/pull/11488) merged on December 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11488) over 4 hours, 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough), [Kevin Moore](https://github.com/kevmoo)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for component theme update<br />
+  <sub>[#11489](https://github.com/flutter/website/pull/11489) merged on December 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/11489) over 1 hour, 83 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; Typo fix in restore-state-ios.md<br />
   <sub>[#11487](https://github.com/flutter/website/pull/11487) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11487) over 5 hours, 1 addition and 1 deletion in 1 file</sub><br />
