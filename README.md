@@ -456,7 +456,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-29 commits.
+31 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux<br />
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub><br />
@@ -553,6 +553,14 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.<br />
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlPlatformChannel tests to FlMockBinaryMessenger<br />
+  <sub>[#57140](https://github.com/flutter/engine/pull/57140) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57140) over 22 hours, 32 additions and 28 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlBasicMessageChannel tests to FlMockBinaryMessenger<br />
+  <sub>[#57115](https://github.com/flutter/engine/pull/57115) merged on December 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/57115) over 1 day, 194 additions and 186 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Bryan Oltman](https://github.com/bryanoltman)** &mdash; Cast ::GetLastError to int<br />
   <sub>[#57113](https://github.com/flutter/engine/pull/57113) merged on December 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57113) over 21 hours, 4 additions and 4 deletions in 1 file</sub><br />
