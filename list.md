@@ -456,7 +456,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-25 commits.
+26 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub>
@@ -489,6 +489,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] simplify render target size rounding up heuristics.
   <sub>[#57043](https://github.com/flutter/engine/pull/57043) merged on December 10, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57043) over 2 days, 40 additions and 72 deletions in 2 files</sub>
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format _empty.dart
+  <sub>[#57144](https://github.com/flutter/engine/pull/57144) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57144) over 18 hours, 5 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a race in the ReactorGLES.PerThreadOperationQueues test
   <sub>[#57147](https://github.com/flutter/engine/pull/57147) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57147) over 15 hours, 2 additions and 2 deletions in 1 file</sub>
