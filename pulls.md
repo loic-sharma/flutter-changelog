@@ -80,6 +80,3 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Force automatic ndk download when building for Android<br />
-  <sub>[#160260](https://github.com/flutter/flutter/pull/160260) opened on on December 13, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160260) 385 additions and 16 deletions in 43 files</sub><br />
-
