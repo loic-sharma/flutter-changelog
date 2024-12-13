@@ -992,7 +992,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-14 commits.
+15 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Adds Shared preferences as option in shared preferences async android
   <sub>[#7994](https://github.com/flutter/packages/pull/7994) merged on December 13, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/7994) over 1 month, 1478 additions and 838 deletions in 27 files</sub>
@@ -1029,6 +1029,10 @@
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_action_ios] add localizedSubtitle for iOS
   <sub>[#8149](https://github.com/flutter/packages/pull/8149) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8149) over 2 weeks, 53 additions and 18 deletions in 10 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Christian Padilla](https://github.com/ChristianEdwardPadilla)** &mdash; [camera_android_camerax] Remove nonnull annotation from getDefaultPointSize
+  <sub>[#8292](https://github.com/flutter/packages/pull/8292) merged on December 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8292) over 1 hour, 5 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Vitalii](https://github.com/ultraon)** &mdash; [go_router] Fix a typo in a comment in the shell_route.dart
   <sub>[#8235](https://github.com/flutter/packages/pull/8235) merged on December 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8235) over 1 week, 1 addition and 1 deletion in 1 file</sub>
