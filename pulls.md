@@ -80,3 +80,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Stepper` connector not being properly displayed<br />
   <sub>[#160193](https://github.com/flutter/flutter/pull/160193) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160193) 83 additions and 8 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigationDrawerDestination backgroundColor obscures interactions<br />
+  <sub>[#160239](https://github.com/flutter/flutter/pull/160239) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160239) 66 additions and 45 deletions in 2 files</sub><br />
+
