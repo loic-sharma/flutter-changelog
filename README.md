@@ -555,7 +555,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] allow imports to line-break<br />
-  <sub>[#57170](https://github.com/flutter/engine/pull/57170) merged on December 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57170) over 21 hours, 53 additions and 34 deletions in 4 files</sub><br />
+  <sub>[#57170](https://github.com/flutter/engine/pull/57170) merged on December 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57170) over 21 hours, 53 additions and 34 deletions in 4 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Mouad Debbar](https://github.com/mdebbar), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a race in the ReactorGLES.PerThreadOperationQueues test<br />
@@ -1054,6 +1054,10 @@
   <sub>[#8228](https://github.com/flutter/packages/pull/8228) merged on December 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8228) over 1 week, 28 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; disable maps test and manual roll<br />
+  <sub>[#8275](https://github.com/flutter/packages/pull/8275) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8275) over 5 hours, 56 additions and 51 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_action_ios] add localizedSubtitle for iOS<br />
   <sub>[#8149](https://github.com/flutter/packages/pull/8149) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8149) over 2 weeks, 53 additions and 18 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
@@ -1065,10 +1069,6 @@
 * **[Vitalii](https://github.com/ultraon)** &mdash; [go_router] Fix a typo in a comment in the shell_route.dart<br />
   <sub>[#8235](https://github.com/flutter/packages/pull/8235) merged on December 12, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8235) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; disable maps test and manual roll<br />
-  <sub>[#8275](https://github.com/flutter/packages/pull/8275) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8275) over 5 hours, 56 additions and 51 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [dependabot] Generalizes dependabot commit message prefix <br />
   <sub>[#8255](https://github.com/flutter/packages/pull/8255) merged on December 9, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8255) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
