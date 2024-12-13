@@ -984,7 +984,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-12 commits.
+13 commits.
 
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_actions] add localizedSubtitle for iOS 
   <sub>[#8038](https://github.com/flutter/packages/pull/8038) merged on December 11, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8038) over 1 month, 13 additions and 7 deletions in 4 files</sub>
@@ -1009,6 +1009,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Clean up Java code
   <sub>[#8241](https://github.com/flutter/packages/pull/8241) merged on December 9, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8241) over 2 days, 9 additions and 718 deletions in 5 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Rutvik Sanghavi](https://github.com/rjs580)** &mdash; [webview_flutter_android] Allow configuration of WebView file access through `setAllowFileAccess`
+  <sub>[#8228](https://github.com/flutter/packages/pull/8228) merged on December 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8228) over 1 week, 28 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_action_ios] add localizedSubtitle for iOS
   <sub>[#8149](https://github.com/flutter/packages/pull/8149) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8149) over 2 weeks, 53 additions and 18 deletions in 10 files</sub>
