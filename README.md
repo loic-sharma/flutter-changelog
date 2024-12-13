@@ -488,7 +488,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-40 commits.
+41 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux<br />
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub><br />
@@ -538,17 +538,17 @@
   <sub>[#54786](https://github.com/flutter/engine/pull/54786) merged on December 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/54786) over 3 months, 238 additions and 245 deletions in 37 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
-* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Add entry-point annotations for test-only code.<br />
-  <sub>[#57158](https://github.com/flutter/engine/pull/57158) merged on December 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57158) over 1 day, 11 additions and 3 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub><br />
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a race in the ReactorGLES.PerThreadOperationQueues test<br />
+  <sub>[#57147](https://github.com/flutter/engine/pull/57147) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57147) over 15 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format _empty.dart<br />
   <sub>[#57144](https://github.com/flutter/engine/pull/57144) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57144) over 18 hours, 5 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a race in the ReactorGLES.PerThreadOperationQueues test<br />
-  <sub>[#57147](https://github.com/flutter/engine/pull/57147) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57147) over 15 hours, 2 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Add entry-point annotations for test-only code.<br />
+  <sub>[#57158](https://github.com/flutter/engine/pull/57158) merged on December 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57158) over 1 day, 11 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Manual Skia roll from 79a7b95e32fe to 0aec6f7bfbc8<br />
   <sub>[#57134](https://github.com/flutter/engine/pull/57134) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57134) over 4 hours, 7 additions and 7 deletions in 4 files</sub><br />
@@ -574,6 +574,10 @@
   <sub>[#57094](https://github.com/flutter/engine/pull/57094) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57094) over 1 day, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null checks on shell dereference<br />
+  <sub>[#57099](https://github.com/flutter/engine/pull/57099) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57099) over 47 minutes, 41 additions and 8 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Jim Graham](https://github.com/flar)** &mdash; Normalize round rect bounds when coming from Flutter<br />
   <sub>[#57171](https://github.com/flutter/engine/pull/57171) merged on December 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57171) over 1 hour, 17 additions and 8 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -582,37 +586,41 @@
   <sub>[#57162](https://github.com/flutter/engine/pull/57162) merged on December 12, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/engine/pull/57162) over 5 hours, 177 additions and 149 deletions in 33 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] exploit perfect hash for SamplerDescriptor.<br />
-  <sub>[#57036](https://github.com/flutter/engine/pull/57036) merged on December 12, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/57036) over 5 days, 222 additions and 244 deletions in 58 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Reduce engine/view controller coupling<br />
+  <sub>[#57151](https://github.com/flutter/engine/pull/57151) merged on December 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57151) over 15 hours, 142 additions and 119 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reenabled labelling test with a capabilities check.<br />
-  <sub>[#57160](https://github.com/flutter/engine/pull/57160) merged on December 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57160) over 3 hours, 19 additions and 5 deletions in 3 files</sub><br />
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed linear gradient heap allocation for color conversions between dart and display list<br />
+  <sub>[#57108](https://github.com/flutter/engine/pull/57108) merged on December 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57108) over 17 hours, 150 additions and 23 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.<br />
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] exploit perfect hash for SamplerDescriptor.<br />
+  <sub>[#57036](https://github.com/flutter/engine/pull/57036) merged on December 12, 2024 &mdash; **Medium:** [5 comments](https://github.com/flutter/engine/pull/57036) over 5 days, 222 additions and 244 deletions in 58 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add support for dart formatter<br />
   <sub>[#57075](https://github.com/flutter/engine/pull/57075) merged on December 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57075) over 1 day, 170 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed linear gradient heap allocation for color conversions between dart and display list<br />
-  <sub>[#57108](https://github.com/flutter/engine/pull/57108) merged on December 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57108) over 17 hours, 150 additions and 23 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Reduce engine/view controller coupling<br />
-  <sub>[#57151](https://github.com/flutter/engine/pull/57151) merged on December 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57151) over 15 hours, 142 additions and 119 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
-
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null checks on shell dereference<br />
-  <sub>[#57099](https://github.com/flutter/engine/pull/57099) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57099) over 47 minutes, 41 additions and 8 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Dispose pictures created in HtmlViewEmbedder.submitFrame<br />
   <sub>[#57102](https://github.com/flutter/engine/pull/57102) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57102) over 20 hours, 32 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reenabled labelling test with a capabilities check.<br />
+  <sub>[#57160](https://github.com/flutter/engine/pull/57160) merged on December 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57160) over 3 hours, 19 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Migrate fuchsia.io Open functions to Open3<br />
+  <sub>[#56818](https://github.com/flutter/engine/pull/56818) merged on December 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56818) over 1 week, 84 additions and 124 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]limit web view not tappable workaround to a limited depth<br />
+  <sub>[#57193](https://github.com/flutter/engine/pull/57193) merged on December 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/57193) over 41 minutes, 127 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios]enable the webview non tappable workaround by checking subviews recursively<br />
   <sub>[#57168](https://github.com/flutter/engine/pull/57168) merged on December 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/57168) over 3 hours, 118 additions and 1 deletion in 2 files</sub><br />
@@ -630,17 +638,13 @@
   <sub>[#57115](https://github.com/flutter/engine/pull/57115) merged on December 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/57115) over 1 day, 194 additions and 186 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
-* **[Bryan Oltman](https://github.com/bryanoltman)** &mdash; Cast ::GetLastError to int<br />
-  <sub>[#57113](https://github.com/flutter/engine/pull/57113) merged on December 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57113) over 21 hours, 4 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_key_channel_responder_handle_event async<br />
   <sub>[#56959](https://github.com/flutter/engine/pull/56959) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56959) over 4 days, 111 additions and 125 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
-* **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Migrate fuchsia.io Open functions to Open3<br />
-  <sub>[#56818](https://github.com/flutter/engine/pull/56818) merged on December 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56818) over 1 week, 84 additions and 124 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Bryan Oltman](https://github.com/bryanoltman)** &mdash; Cast ::GetLastError to int<br />
+  <sub>[#57113](https://github.com/flutter/engine/pull/57113) merged on December 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57113) over 21 hours, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "[Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references."<br />
   <sub>[#57079](https://github.com/flutter/engine/pull/57079) merged on December 10, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/57079) over 43 minutes, 166 additions and 235 deletions in 21 files</sub><br />
