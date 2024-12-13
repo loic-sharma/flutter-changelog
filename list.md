@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-29 commits.
+30 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Force automatic ndk download when building for Android
   <sub>[#159756](https://github.com/flutter/flutter/pull/159756) merged on December 12, 2024 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/159756) over 1 week, 382 additions and 14 deletions in 42 files</sub>
@@ -90,6 +90,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Show issues in triage even if they've been assigned
   <sub>[#155615](https://github.com/flutter/flutter/pull/155615) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/155615) over 2 months, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds splashBorderRadius property to TabBarTheme
+  <sub>[#160046](https://github.com/flutter/flutter/pull/160046) merged on December 12, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/160046) over 2 days, 66 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Nate Wilson](https://github.com/nate-thegrate)</sub>
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Fix android tests using outdated regexs to modify templates
   <sub>[#159396](https://github.com/flutter/flutter/pull/159396) merged on December 10, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159396) over 2 weeks, 27 additions and 31 deletions in 2 files</sub>
