@@ -1012,7 +1012,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-15 commits.
+17 commits.
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Adds Shared preferences as option in shared preferences async android
   <sub>[#7994](https://github.com/flutter/packages/pull/7994) merged on December 13, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/7994) over 1 month, 1478 additions and 838 deletions in 27 files</sub>
@@ -1021,6 +1021,14 @@
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_actions] add localizedSubtitle for iOS 
   <sub>[#8038](https://github.com/flutter/packages/pull/8038) merged on December 11, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8038) over 1 month, 13 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Jenn Magder](https://github.com/jmagman), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Álvaro Stivi](https://github.com/astivi)** &mdash; [google_adsense] Adds H5 Games Ads support to package.
+  <sub>[#7747](https://github.com/flutter/packages/pull/7747) merged on December 13, 2024 &mdash; **Extra large:** [17 comments](https://github.com/flutter/packages/pull/7747) over 2 months, 1526 additions and 270 deletions in 29 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman), [Vitaly Sokolov](https://github.com/sokoloff06)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Bump Camera Example Plugin Apps Targetsdk Versions
+  <sub>[#8193](https://github.com/flutter/packages/pull/8193) merged on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8193) over 2 weeks, 6 additions and 145 deletions in 9 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Update for 3.27 stable release
   <sub>[#8284](https://github.com/flutter/packages/pull/8284) merged on December 12, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/8284) over 2 hours, 519 additions and 317 deletions in 237 files</sub>
