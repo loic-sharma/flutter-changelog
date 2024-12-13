@@ -476,7 +476,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-38 commits.
+39 commits.
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub>
@@ -490,16 +490,20 @@
   <sub>[#57069](https://github.com/flutter/engine/pull/57069) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57069) over 1 hour, 24 additions and 24 deletions in 2 files</sub>
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; moved device buffer to an untracked handle
+  <sub>[#57021](https://github.com/flutter/engine/pull/57021) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/57021) over 3 days, 86 additions and 8 deletions in 7 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Migrate DlRTree and DlRegion to DisplayList/Impeller geometry classes
+  <sub>[#57175](https://github.com/flutter/engine/pull/57175) merged on December 13, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/engine/pull/57175) over 4 hours, 606 additions and 559 deletions in 30 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate layers and layer_tree to DisplayList/Impeller geometry classes
   <sub>[#57153](https://github.com/flutter/engine/pull/57153) merged on December 12, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/57153) over 14 hours, 1951 additions and 2125 deletions in 101 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed heap allocations for conical, radial and sweep gradients
   <sub>[#57143](https://github.com/flutter/engine/pull/57143) merged on December 11, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/engine/pull/57143) over 1 hour, 235 additions and 137 deletions in 12 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; moved device buffer to an untracked handle
-  <sub>[#57021](https://github.com/flutter/engine/pull/57021) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/engine/pull/57021) over 3 days, 86 additions and 8 deletions in 7 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Roll Skia to 14f8f6d984ff
@@ -522,16 +526,12 @@
   <sub>[#54786](https://github.com/flutter/engine/pull/54786) merged on December 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/54786) over 3 months, 238 additions and 245 deletions in 37 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Normalize round rect bounds when coming from Flutter
-  <sub>[#57171](https://github.com/flutter/engine/pull/57171) merged on December 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57171) over 1 hour, 17 additions and 8 deletions in 1 file</sub>
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format _empty.dart
+  <sub>[#57144](https://github.com/flutter/engine/pull/57144) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57144) over 18 hours, 5 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Reenabled labelling test with a capabilities check.
   <sub>[#57160](https://github.com/flutter/engine/pull/57160) merged on December 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57160) over 3 hours, 19 additions and 5 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format _empty.dart
-  <sub>[#57144](https://github.com/flutter/engine/pull/57144) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57144) over 18 hours, 5 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix a race in the ReactorGLES.PerThreadOperationQueues test
@@ -574,29 +574,29 @@
   <sub>[#57151](https://github.com/flutter/engine/pull/57151) merged on December 12, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57151) over 15 hours, 142 additions and 119 deletions in 10 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null checks on shell dereference
+  <sub>[#57099](https://github.com/flutter/engine/pull/57099) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57099) over 47 minutes, 41 additions and 8 deletions in 4 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use ES3 extension for external images.
   <sub>[#57018](https://github.com/flutter/engine/pull/57018) merged on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57018) over 3 days, 11 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Dispose pictures created in HtmlViewEmbedder.submitFrame
-  <sub>[#57102](https://github.com/flutter/engine/pull/57102) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57102) over 20 hours, 32 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Add support for dart formatter
   <sub>[#57075](https://github.com/flutter/engine/pull/57075) merged on December 11, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57075) over 1 day, 170 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null checks on shell dereference
-  <sub>[#57099](https://github.com/flutter/engine/pull/57099) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57099) over 47 minutes, 41 additions and 8 deletions in 4 files</sub>
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Removed linear gradient heap allocation for color conversions between dart and display list
   <sub>[#57108](https://github.com/flutter/engine/pull/57108) merged on December 11, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57108) over 17 hours, 150 additions and 23 deletions in 8 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Bryan Oltman](https://github.com/bryanoltman)** &mdash; Cast ::GetLastError to int
-  <sub>[#57113](https://github.com/flutter/engine/pull/57113) merged on December 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57113) over 21 hours, 4 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Dispose pictures created in HtmlViewEmbedder.submitFrame
+  <sub>[#57102](https://github.com/flutter/engine/pull/57102) merged on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57102) over 20 hours, 32 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Normalize round rect bounds when coming from Flutter
+  <sub>[#57171](https://github.com/flutter/engine/pull/57171) merged on December 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57171) over 1 hour, 17 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Brandon Castellano](https://github.com/Breakthrough)** &mdash; [engine] Migrate fuchsia.io Open functions to Open3
   <sub>[#56818](https://github.com/flutter/engine/pull/56818) merged on December 10, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/56818) over 1 week, 84 additions and 124 deletions in 7 files</sub>
@@ -614,13 +614,17 @@
   <sub>[#57140](https://github.com/flutter/engine/pull/57140) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57140) over 22 hours, 32 additions and 28 deletions in 1 file</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlBasicMessageChannel tests to FlMockBinaryMessenger
+  <sub>[#57115](https://github.com/flutter/engine/pull/57115) merged on December 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/57115) over 1 day, 194 additions and 186 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_key_channel_responder_handle_event async
   <sub>[#56959](https://github.com/flutter/engine/pull/56959) merged on December 9, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/56959) over 4 days, 111 additions and 125 deletions in 4 files</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlBasicMessageChannel tests to FlMockBinaryMessenger
-  <sub>[#57115](https://github.com/flutter/engine/pull/57115) merged on December 12, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/engine/pull/57115) over 1 day, 194 additions and 186 deletions in 3 files</sub>
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
+* **[Bryan Oltman](https://github.com/bryanoltman)** &mdash; Cast ::GetLastError to int
+  <sub>[#57113](https://github.com/flutter/engine/pull/57113) merged on December 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/engine/pull/57113) over 21 hours, 4 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Revert "[Impeller] switch Pipeline to use raw ptr instead of shared ptr for recorded references."
   <sub>[#57079](https://github.com/flutter/engine/pull/57079) merged on December 10, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/engine/pull/57079) over 43 minutes, 166 additions and 235 deletions in 21 files</sub>
