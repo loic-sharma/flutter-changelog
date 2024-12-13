@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-31 commits.
+32 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Force automatic ndk download when building for Android
   <sub>[#159756](https://github.com/flutter/flutter/pull/159756) merged on December 12, 2024 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/159756) over 1 week, 382 additions and 14 deletions in 42 files</sub>
@@ -78,6 +78,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add support for injecting assets into the widget_preview_scaffold
   <sub>[#159859](https://github.com/flutter/flutter/pull/159859) merged on December 10, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/159859) over 4 days, 689 additions and 14 deletions in 7 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Stepper` connector not being properly displayed
+  <sub>[#160193](https://github.com/flutter/flutter/pull/160193) merged on December 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160193) over 20 hours, 81 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a simple golden-file test to `package:integration_test`.
   <sub>[#159233](https://github.com/flutter/flutter/pull/159233) merged on December 9, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159233) over 2 weeks, 52 additions and 0 deletions in 5 files</sub>
