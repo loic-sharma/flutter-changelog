@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-32 commits.
+33 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Force automatic ndk download when building for Android
   <sub>[#159756](https://github.com/flutter/flutter/pull/159756) merged on December 12, 2024 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/159756) over 1 week, 382 additions and 14 deletions in 42 files</sub>
@@ -41,6 +41,10 @@
   <sub>[#159792](https://github.com/flutter/flutter/pull/159792) merged on December 9, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159792) over 5 days, 103 additions and 42 deletions in 4 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary><img width="701" alt="Screenshot 2024-12-02 at 18 57 03" src="https://github.com/user-attachments/assets/62d85476-87fd-48e9-aaa9-42d7629d4808"><img width="701" alt="Screenshot 2024-12-02 at 18 57 21" src="https://github.com/user-attachments/assets/36f136d1-a759-4b11-b0a9-8cb6b54b8573"></details></sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor gradle task runner to share error handler code
+  <sub>[#159452](https://github.com/flutter/flutter/pull/159452) merged on December 13, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/159452) over 2 weeks, 216 additions and 189 deletions in 2 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Flop](https://github.com/hgraceb)** &mdash; Adjust the drawing position of OutlineInputBorder
   <sub>[#159943](https://github.com/flutter/flutter/pull/159943) merged on December 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159943) over 2 days, 70 additions and 2 deletions in 2 files</sub>
