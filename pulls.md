@@ -51,7 +51,7 @@
   <sub>[#160005](https://github.com/flutter/flutter/pull/160005) opened on on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160005) 50 additions and 60 deletions in 2 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds onHover and onLongPress to IconButton widget<br />
-  <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/160032) 311 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/160032) 311 additions and 2 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; precompile generate_gradle_lockfile script BEFORE updating pub dependencies<br />
   <sub>[#160059](https://github.com/flutter/flutter/pull/160059) opened on on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160059) 111 additions and 8 deletions in 3 files</sub><br />
