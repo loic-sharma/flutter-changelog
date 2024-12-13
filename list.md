@@ -1170,6 +1170,10 @@
   <sub>[#11182](https://github.com/flutter/website/pull/11182) merged on December 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11182) over 2 months, 7 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for component theme update
+  <sub>[#11489](https://github.com/flutter/website/pull/11489) merged on December 12, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11489) over 1 hour, 83 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for M3 token update
   <sub>[#11480](https://github.com/flutter/website/pull/11480) merged on December 11, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/website/pull/11480) over 1 day, 104 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -1197,10 +1201,6 @@
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update Safari bug
   <sub>[#11488](https://github.com/flutter/website/pull/11488) merged on December 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11488) over 4 hours, 4 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough), [Kevin Moore](https://github.com/kevmoo)</sub>
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for component theme update
-  <sub>[#11489](https://github.com/flutter/website/pull/11489) merged on December 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/11489) over 1 hour, 83 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Eli Geller](https://github.com/elitree)** &mdash; Typo fix in restore-state-ios.md
   <sub>[#11487](https://github.com/flutter/website/pull/11487) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11487) over 5 hours, 1 addition and 1 deletion in 1 file</sub>
