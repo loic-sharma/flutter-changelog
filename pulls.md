@@ -83,3 +83,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigationDrawerDestination backgroundColor obscures interactions<br />
   <sub>[#160239](https://github.com/flutter/flutter/pull/160239) opened on on December 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160239) 66 additions and 45 deletions in 2 files</sub><br />
 
+* **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
+  <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
+
