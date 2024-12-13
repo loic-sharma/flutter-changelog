@@ -1196,7 +1196,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-18 commits.
+19 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub>
@@ -1232,6 +1232,10 @@
 
 * **[John Ryan](https://github.com/johnpryan)** &mdash; Update wasm page for CORS headers
   <sub>[#11477](https://github.com/flutter/website/pull/11477) merged on December 9, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11477) over 3 hours, 23 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Update DevTools release notes for cherry pick release 2.40.2
+  <sub>[#11494](https://github.com/flutter/website/pull/11494) merged on December 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11494) over 25 minutes, 17 additions and 18 deletions in 8 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix link to code excerpt tool docs
