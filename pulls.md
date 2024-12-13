@@ -83,3 +83,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu resets text when dropdownMenuEntries is changed<br />
   <sub>[#160256](https://github.com/flutter/flutter/pull/160256) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160256) 54 additions and 6 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Force automatic ndk download when building for Android<br />
+  <sub>[#160260](https://github.com/flutter/flutter/pull/160260) opened on on December 13, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160260) 385 additions and 16 deletions in 43 files</sub><br />
+
