@@ -80,6 +80,9 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside flutter.groovy <br />
+  <sub>[#160250](https://github.com/flutter/flutter/pull/160250) opened on on December 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160250) 14 additions and 19 deletions in 1 file</sub><br />
+
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; Rename Enum AutovalidateMode to AutoValidateMode<br />
   <sub>[#160268](https://github.com/flutter/flutter/pull/160268) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160268) 90 additions and 90 deletions in 11 files</sub><br />
 
