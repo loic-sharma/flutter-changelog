@@ -976,7 +976,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-11 commits.
+12 commits.
 
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_actions] add localizedSubtitle for iOS 
   <sub>[#8038](https://github.com/flutter/packages/pull/8038) merged on December 11, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8038) over 1 month, 13 additions and 7 deletions in 4 files</sub>
@@ -993,6 +993,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Tighten exports and docs.
   <sub>[#8233](https://github.com/flutter/packages/pull/8233) merged on December 9, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/8233) over 4 days, 489 additions and 326 deletions in 21 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Activate leak testing
+  <sub>[#8059](https://github.com/flutter/packages/pull/8059) merged on December 13, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8059) over 1 month, 14 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Clean up Java code
   <sub>[#8241](https://github.com/flutter/packages/pull/8241) merged on December 9, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8241) over 2 days, 9 additions and 718 deletions in 5 files</sub>
