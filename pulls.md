@@ -53,9 +53,6 @@
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds onHover and onLongPress to IconButton widget<br />
   <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/160032) 157 additions and 2 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; precompile generate_gradle_lockfile script BEFORE updating pub dependencies<br />
-  <sub>[#160059](https://github.com/flutter/flutter/pull/160059) opened on on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160059) 111 additions and 8 deletions in 3 files</sub><br />
-
 * **[Lucas Silva de Oliveira](https://github.com/lucassilvaoliveira)** &mdash; Add inversedChildren property to Flex<br />
   <sub>[#160103](https://github.com/flutter/flutter/pull/160103) opened on on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160103) 11 additions and 1 deletion in 1 file</sub><br />
 
@@ -73,6 +70,9 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] `FLUTTER_WEB_AUTO_DETECT` is false by default<br />
   <sub>[#160191](https://github.com/flutter/flutter/pull/160191) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160191) 0 additions and 44 deletions in 5 files</sub><br />
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Handles arguments of `pub add` properly<br />
+  <sub>[#160223](https://github.com/flutter/flutter/pull/160223) opened on on December 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160223) 45 additions and 6 deletions in 2 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute<br />
   <sub>[#160241](https://github.com/flutter/flutter/pull/160241) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160241) 45 additions and 4 deletions in 4 files</sub><br />
