@@ -86,3 +86,6 @@
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; Rename Enum AutovalidateMode to AutoValidateMode<br />
   <sub>[#160268](https://github.com/flutter/flutter/pull/160268) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160268) 90 additions and 90 deletions in 11 files</sub><br />
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Merges changes from stable changelog to master.<br />
+  <sub>[#160284](https://github.com/flutter/flutter/pull/160284) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160284) 5 additions and 0 deletions in 1 file</sub><br />
+
