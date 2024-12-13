@@ -4,7 +4,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-33 commits.
+34 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Force automatic ndk download when building for Android<br />
   <sub>[#159756](https://github.com/flutter/flutter/pull/159756) merged on December 12, 2024 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/159756) over 1 week, 382 additions and 14 deletions in 42 files</sub><br />
@@ -127,9 +127,9 @@
   <sub>[#159992](https://github.com/flutter/flutter/pull/159992) merged on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159992) over 1 day, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigationDrawerDestination backgroundColor obscures interactions<br />
-  <sub>[#160239](https://github.com/flutter/flutter/pull/160239) merged on December 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160239) over 3 hours, 66 additions and 45 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; precompile generate_gradle_lockfile script BEFORE updating pub dependencies<br />
+  <sub>[#160059](https://github.com/flutter/flutter/pull/160059) merged on December 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160059) over 2 days, 111 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Enable platform view benchmarks in Skwasm<br />
   <sub>[#160186](https://github.com/flutter/flutter/pull/160186) merged on December 12, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160186) over 2 hours, 2 additions and 8 deletions in 1 file</sub><br />
@@ -146,6 +146,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` to `Tooltip`<br />
   <sub>[#159922](https://github.com/flutter/flutter/pull/159922) merged on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159922) over 2 days, 43 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Bruno Leroux](https://github.com/bleroux)</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigationDrawerDestination backgroundColor obscures interactions<br />
+  <sub>[#160239](https://github.com/flutter/flutter/pull/160239) merged on December 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160239) over 3 hours, 66 additions and 45 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Framework sends a11y message when enabling semantics (#159163)"<br />
   <sub>[#160039](https://github.com/flutter/flutter/pull/160039) merged on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160039) over 3 hours, 8 additions and 92 deletions in 5 files</sub><br />
