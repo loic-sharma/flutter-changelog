@@ -54,7 +54,7 @@
   <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/160032) 311 additions and 2 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; precompile generate_gradle_lockfile script BEFORE updating pub dependencies<br />
-  <sub>[#160059](https://github.com/flutter/flutter/pull/160059) opened on on December 11, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160059) 111 additions and 8 deletions in 3 files</sub><br />
+  <sub>[#160059](https://github.com/flutter/flutter/pull/160059) opened on on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160059) 111 additions and 8 deletions in 3 files</sub><br />
 
 * **[Lucas Silva de Oliveira](https://github.com/lucassilvaoliveira)** &mdash; Add inversedChildren property to Flex<br />
   <sub>[#160103](https://github.com/flutter/flutter/pull/160103) opened on on December 11, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160103) 11 additions and 1 deletion in 1 file</sub><br />
