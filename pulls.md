@@ -78,7 +78,7 @@
   <sub>[#160191](https://github.com/flutter/flutter/pull/160191) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160191) 0 additions and 44 deletions in 5 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `Stepper` connector not being properly displayed<br />
-  <sub>[#160193](https://github.com/flutter/flutter/pull/160193) opened on on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160193) 83 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#160193](https://github.com/flutter/flutter/pull/160193) opened on on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160193) 81 additions and 8 deletions in 2 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute<br />
   <sub>[#160241](https://github.com/flutter/flutter/pull/160241) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160241) 45 additions and 4 deletions in 4 files</sub><br />
