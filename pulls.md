@@ -80,3 +80,6 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
 
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Changelog update for stable branch.<br />
+  <sub>[#160253](https://github.com/flutter/flutter/pull/160253) opened on on December 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160253) 14 additions and 0 deletions in 1 file</sub><br />
+
