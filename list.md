@@ -988,7 +988,11 @@
 
 ### December 7, 2024 to December 13, 2024
 
-13 commits.
+14 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Adds Shared preferences as option in shared preferences async android
+  <sub>[#7994](https://github.com/flutter/packages/pull/7994) merged on December 13, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/7994) over 1 month, 1478 additions and 838 deletions in 27 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Sinyu](https://github.com/sinyu1012)** &mdash; [quick_actions] add localizedSubtitle for iOS 
   <sub>[#8038](https://github.com/flutter/packages/pull/8038) merged on December 11, 2024 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8038) over 1 month, 13 additions and 7 deletions in 4 files</sub>
