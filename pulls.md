@@ -42,7 +42,7 @@
   <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
 
 * **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationRail examples overflow alignment<br />
-  <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159937) 133 additions and 161 deletions in 4 files</sub><br />
+  <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159937) 122 additions and 151 deletions in 4 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Dispose codec after completing frame creation<br />
   <sub>[#159945](https://github.com/flutter/flutter/pull/159945) opened on on December 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159945) 53 additions and 1 deletion in 2 files</sub><br />
