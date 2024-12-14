@@ -1107,6 +1107,10 @@
   <sub>[#8233](https://github.com/flutter/packages/pull/8233) merged on December 9, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/packages/pull/8233) over 4 days, 489 additions and 326 deletions in 21 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
+* **[Rutvik Sanghavi](https://github.com/rjs580)** &mdash; [webview_flutter_android] Allow configuration of WebView file access through `setAllowFileAccess`<br />
+  <sub>[#8228](https://github.com/flutter/packages/pull/8228) merged on December 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8228) over 1 week, 28 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Activate leak testing<br />
   <sub>[#8059](https://github.com/flutter/packages/pull/8059) merged on December 13, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8059) over 1 month, 14 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -1114,10 +1118,6 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Clean up Java code<br />
   <sub>[#8241](https://github.com/flutter/packages/pull/8241) merged on December 9, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8241) over 2 days, 9 additions and 718 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Rutvik Sanghavi](https://github.com/rjs580)** &mdash; [webview_flutter_android] Allow configuration of WebView file access through `setAllowFileAccess`<br />
-  <sub>[#8228](https://github.com/flutter/packages/pull/8228) merged on December 13, 2024 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8228) over 1 week, 28 additions and 1 deletion in 4 files</sub><br />
-  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; disable maps test and manual roll<br />
   <sub>[#8275](https://github.com/flutter/packages/pull/8275) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8275) over 5 hours, 56 additions and 51 deletions in 2 files</sub><br />
