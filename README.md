@@ -15,6 +15,10 @@
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
   <sub><details><summary>1 image...</summary><img width="803" alt="Screenshot 2024-12-11 at 14 04 57" src="https://github.com/user-attachments/assets/4b330020-28c6-4af9-967b-630c0d43b01a"></details></sub>
 
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Make animation and router support simulation, and use Spring for Cupertino<br />
+  <sub>[#155575](https://github.com/flutter/flutter/pull/155575) merged on December 12, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/155575) over 2 months, 462 additions and 81 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix `SafeArea` DartPad sample<br />
   <sub>[#159344](https://github.com/flutter/flutter/pull/159344) merged on December 9, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159344) over 2 weeks, 31 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -27,10 +31,6 @@
     alt="RenderFlex overflowed"
     width="523px"
   /></details></sub>
-
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; Make animation and router support simulation, and use Spring for Cupertino<br />
-  <sub>[#155575](https://github.com/flutter/flutter/pull/155575) merged on December 12, 2024 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/155575) over 2 months, 462 additions and 81 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Jackson](https://github.com/sargntpi)** &mdash; Added spellCheckConfiguration to the constructor of CupertinoTextFormFieldRow<br />
   <sub>[#159385](https://github.com/flutter/flutter/pull/159385) merged on December 11, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159385) over 2 weeks, 26 additions and 0 deletions in 2 files</sub><br />

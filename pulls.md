@@ -72,7 +72,7 @@
   <sub>[#160191](https://github.com/flutter/flutter/pull/160191) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160191) 0 additions and 44 deletions in 5 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Handles arguments of `pub add` properly<br />
-  <sub>[#160223](https://github.com/flutter/flutter/pull/160223) opened on on December 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160223) 45 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#160223](https://github.com/flutter/flutter/pull/160223) opened on on December 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160223) 32 additions and 8 deletions in 2 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute<br />
   <sub>[#160241](https://github.com/flutter/flutter/pull/160241) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160241) 45 additions and 4 deletions in 4 files</sub><br />
@@ -86,12 +86,6 @@
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; Rename Enum AutovalidateMode to AutoValidateMode<br />
   <sub>[#160268](https://github.com/flutter/flutter/pull/160268) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160268) 90 additions and 90 deletions in 11 files</sub><br />
 
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Merges changes from stable changelog to master.<br />
-  <sub>[#160284](https://github.com/flutter/flutter/pull/160284) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160284) 5 additions and 0 deletions in 1 file</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; DO NOT MERGE: Enable `explicit-package-dependencies`.<br />
   <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160289) 3 additions and 0 deletions in 1 file</sub><br />
-
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [flutter_releases] Flutter stable 3.27.1 Framework Cherrypicks<br />
-  <sub>[#160293](https://github.com/flutter/flutter/pull/160293) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160293) 1 addition and 1 deletion in 1 file</sub><br />
 
