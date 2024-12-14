@@ -89,3 +89,6 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Merges changes from stable changelog to master.<br />
   <sub>[#160284](https://github.com/flutter/flutter/pull/160284) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160284) 5 additions and 0 deletions in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; DO NOT MERGE: Enable `explicit-package-dependencies`.<br />
+  <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160289) 3 additions and 0 deletions in 1 file</sub><br />
+
