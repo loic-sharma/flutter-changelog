@@ -1257,7 +1257,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-22 commits.
+23 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns<br />
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub><br />
@@ -1278,6 +1278,10 @@
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Add Flutter 3.27 commit-based release notes<br />
   <sub>[#11479](https://github.com/flutter/website/pull/11479) merged on December 11, 2024 &mdash; **Large:** [6 comments](https://github.com/flutter/website/pull/11479) over 1 day, 1477 additions and 12 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add a breaking change doc about deep links flag change to the flutter website<br />
+  <sub>[#11493](https://github.com/flutter/website/pull/11493) merged on December 14, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11493) over 21 hours, 70 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Update guides after 3.27 release<br />
   <sub>[#11212](https://github.com/flutter/website/pull/11212) merged on December 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11212) over 2 months, 10 additions and 19 deletions in 3 files</sub><br />
