@@ -89,3 +89,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; DO NOT MERGE: Enable `explicit-package-dependencies`.<br />
   <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160289) 3 additions and 0 deletions in 1 file</sub><br />
 
+* **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; Renames property Form.autoValidateMode to follow camelCase convention<br />
+  <sub>[#160295](https://github.com/flutter/flutter/pull/160295) opened on on December 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160295) 18 additions and 18 deletions in 7 files</sub><br />
+
