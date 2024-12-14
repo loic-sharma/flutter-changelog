@@ -1257,7 +1257,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-23 commits.
+24 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub>
@@ -1321,6 +1321,10 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for `ThemeData.indicatorColor` deprecation
   <sub>[#11481](https://github.com/flutter/website/pull/11481) merged on December 12, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11481) over 2 days, 87 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. documentation on Start building Flutter iOS apps on macOS
+  <sub>[#11472](https://github.com/flutter/website/pull/11472) merged on December 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11472) over 1 week, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Lucas Guimarães](https://github.com/LucasHBG)** &mdash; fix: typo at set-up-universal-links.md
