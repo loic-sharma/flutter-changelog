@@ -66,7 +66,7 @@
   <sub>[#160121](https://github.com/flutter/flutter/pull/160121) opened on on December 11, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160121) 461750 additions and 420010 deletions in 4388 files</sub><br />
 
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
-  <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160176) 13 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] `FLUTTER_WEB_AUTO_DETECT` is false by default<br />
   <sub>[#160191](https://github.com/flutter/flutter/pull/160191) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160191) 0 additions and 44 deletions in 5 files</sub><br />
@@ -90,7 +90,7 @@
   <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160289) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; Renames property Form.autoValidateMode to follow camelCase convention<br />
-  <sub>[#160295](https://github.com/flutter/flutter/pull/160295) opened on on December 14, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160295) 18 additions and 18 deletions in 7 files</sub><br />
+  <sub>[#160295](https://github.com/flutter/flutter/pull/160295) opened on on December 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160295) 18 additions and 18 deletions in 7 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds ListenableBuilder.multiple to make it easier to listen to multiple listenables<br />
   <sub>[#160304](https://github.com/flutter/flutter/pull/160304) opened on on December 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160304) 55 additions and 0 deletions in 2 files</sub><br />
