@@ -1116,7 +1116,7 @@
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Activate leak testing<br />
-  <sub>[#8059](https://github.com/flutter/packages/pull/8059) merged on December 13, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8059) over 1 month, 14 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#8059](https://github.com/flutter/packages/pull/8059) merged on December 13, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8059) over 1 month, 14 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Clean up Java code<br />
