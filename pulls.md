@@ -96,5 +96,5 @@
   <sub>[#160304](https://github.com/flutter/flutter/pull/160304) opened on on December 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160304) 55 additions and 0 deletions in 2 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Added Mohammed Chahboun to authors<br />
-  <sub>[#160311](https://github.com/flutter/flutter/pull/160311) opened on on December 14, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160311) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#160311](https://github.com/flutter/flutter/pull/160311) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160311) 1 addition and 0 deletions in 1 file</sub><br />
 
