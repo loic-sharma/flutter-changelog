@@ -419,7 +419,7 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Suppress previous route transition if current route is fullscreenDialog
-  <sub>[#159312](https://github.com/flutter/flutter/pull/159312) merged on November 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159312) over 4 days, 108 additions and 0 deletions in 4 files</sub>
+  <sub>[#159312](https://github.com/flutter/flutter/pull/159312) merged on November 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159312) over 4 days, 108 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ tool ] Fix expression evaluation not handling errors correctly
