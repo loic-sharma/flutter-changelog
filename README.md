@@ -1261,7 +1261,7 @@
 
 ### December 7, 2024 to December 13, 2024
 
-24 commits.
+26 commits.
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns<br />
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub><br />
@@ -1274,6 +1274,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update example snippets for 3.27 deprecations and breaking changes<br />
   <sub>[#11281](https://github.com/flutter/website/pull/11281) merged on December 11, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/website/pull/11281) over 1 month, 281 additions and 1501 deletions in 181 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Use workspaces for site tooling and excerpt sources<br />
+  <sub>[#11499](https://github.com/flutter/website/pull/11499) merged on December 15, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/website/pull/11499) over 6 hours, 519 additions and 1465 deletions in 364 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[August](https://github.com/Gustl22)** &mdash; docs: Support for overriding endorsed plugin implementations<br />
   <sub>[#10891](https://github.com/flutter/website/pull/10891) merged on December 12, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/10891) over 5 months, 10 additions and 4 deletions in 1 file</sub><br />
@@ -1326,6 +1330,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for `ThemeData.indicatorColor` deprecation<br />
   <sub>[#11481](https://github.com/flutter/website/pull/11481) merged on December 12, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11481) over 2 days, 87 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating note about deep link validator tool in iOS<br />
+  <sub>[#11496](https://github.com/flutter/website/pull/11496) merged on December 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11496) over 1 day, 4 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Binni Goel](https://github.com/droidbg)** &mdash; Fix. documentation on Start building Flutter iOS apps on macOS<br />
   <sub>[#11472](https://github.com/flutter/website/pull/11472) merged on December 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11472) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
