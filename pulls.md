@@ -104,6 +104,3 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format try<br />
   <sub>[#160377](https://github.com/flutter/flutter/pull/160377) opened on on December 16, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160377) 462689 additions and 420824 deletions in 4394 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Ignore cxx folders for all of flutter/flutter<br />
-  <sub>[#160381](https://github.com/flutter/flutter/pull/160381) opened on on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160381) 1 addition and 0 deletions in 1 file</sub><br />
-
