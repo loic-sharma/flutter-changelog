@@ -23,9 +23,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.24.5<br />
   <sub>[#158904](https://github.com/flutter/flutter/pull/158904) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158904) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[WillKirkmanM](https://github.com/WillKirkmanM)** &mdash; FireFox Browser Support<br />
-  <sub>[#159410](https://github.com/flutter/flutter/pull/159410) opened on on November 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159410) 266 additions and 7 deletions in 3 files</sub><br />
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete keyboard navigation<br />
   <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159455) 439 additions and 46 deletions in 4 files</sub><br />
 
@@ -81,7 +78,7 @@
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside flutter.groovy <br />
-  <sub>[#160250](https://github.com/flutter/flutter/pull/160250) opened on on December 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160250) 14 additions and 19 deletions in 1 file</sub><br />
+  <sub>[#160250](https://github.com/flutter/flutter/pull/160250) opened on on December 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160250) 14 additions and 19 deletions in 1 file</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; Rename Enum AutovalidateMode to AutoValidateMode<br />
   <sub>[#160268](https://github.com/flutter/flutter/pull/160268) opened on on December 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160268) 6 additions and 1 deletion in 1 file</sub><br />
@@ -96,11 +93,14 @@
   <sub>[#160304](https://github.com/flutter/flutter/pull/160304) opened on on December 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160304) 55 additions and 0 deletions in 2 files</sub><br />
 
 * **[Martin Anderson](https://github.com/krokyze)** &mdash; Update PopInvokedCallback Deprecated message<br />
-  <sub>[#160324](https://github.com/flutter/flutter/pull/160324) opened on on December 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160324) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#160324](https://github.com/flutter/flutter/pull/160324) opened on on December 15, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160324) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 17 as expected java version<br />
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) opened on on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160349) 12 additions and 12 deletions in 5 files</sub><br />
 
 * **[Łukasz Wiśniewski](https://github.com/vishna)** &mdash; EditableTextState._schedulePeriodicPostFrameCallbacks null error<br />
   <sub>[#160352](https://github.com/flutter/flutter/pull/160352) opened on on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160352) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
+  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/160354) 780 additions and 0 deletions in 28 files</sub><br />
 
