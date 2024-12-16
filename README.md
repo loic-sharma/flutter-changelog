@@ -4,7 +4,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-15 commits.
+16 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands<br />
   <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Manual pub roll with flutter_tools patch<br />
   <sub>[#160174](https://github.com/flutter/flutter/pull/160174) merged on December 16, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/160174) over 4 days, 585 additions and 574 deletions in 71 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly report `dart format` errors<br />
+  <sub>[#160364](https://github.com/flutter/flutter/pull/160364) merged on December 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160364) over 5 hours, 49 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `mac_test.dart` to `explicit-package-dependencies`.<br />
   <sub>[#160375](https://github.com/flutter/flutter/pull/160375) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160375) over 2 hours, 11 additions and 0 deletions in 1 file</sub><br />
@@ -480,7 +484,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-9 commits.
+10 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't close image source too early<br />
   <sub>[#57200](https://github.com/flutter/engine/pull/57200) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57200) over 2 days, 61 additions and 7 deletions in 3 files</sub><br />
@@ -489,6 +493,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlBinaryMessenger using embedder API instead of mock engine.<br />
   <sub>[#57214](https://github.com/flutter/engine/pull/57214) merged on December 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/57214) over 18 hours, 364 additions and 619 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly report `dart format` errors<br />
+  <sub>[#57206](https://github.com/flutter/engine/pull/57206) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57206) over 2 days, 62 additions and 19 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Flutter-GPU.md: Fix spelling<br />
   <sub>[#57216](https://github.com/flutter/engine/pull/57216) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/57216) over 12 hours, 1 addition and 1 deletion in 1 file</sub><br />
