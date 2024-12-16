@@ -940,7 +940,11 @@
 
 ### December 14, 2024 to December 20, 2024
 
-1 commits.
+2 commits.
+
+* **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtools<br />
+  <sub>[#6749](https://github.com/flutter/packages/pull/6749) merged on December 16, 2024 &mdash; **Extra large:** [289 comments](https://github.com/flutter/packages/pull/6749) over 7 months, 5156 additions and 3 deletions in 39 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [sigmundch](https://github.com/sigmundch), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Add optional init parameters.<br />
   <sub>[#8297](https://github.com/flutter/packages/pull/8297) merged on December 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8297) over 2 days, 226 additions and 26 deletions in 14 files</sub><br />
