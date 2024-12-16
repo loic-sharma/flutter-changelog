@@ -957,9 +957,18 @@
 
 ## flutter/website
 
+### December 14, 2024 to December 20, 2024
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Increase required version of node and pnpm
+  <sub>[#11500](https://github.com/flutter/website/pull/11500) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11500) over 1 hour, 286 additions and 245 deletions in 7 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### December 7, 2024 to December 13, 2024
 
-26 commits.
+<details>
+<summary>26 commits...</summary>
 
 * **[Miguel Beltran](https://github.com/miquelbeltran)** &mdash; Add "Command Pattern" and "Result Class" design patterns
   <sub>[#11444](https://github.com/flutter/website/pull/11444) merged on December 9, 2024 &mdash; **Extra large:** [164 comments](https://github.com/flutter/website/pull/11444) over 1 week, 2051 additions and 0 deletions in 17 files</sub>
@@ -1064,6 +1073,8 @@
 * **[ViktorVoloshko](https://github.com/ViktorVoloshko)** &mdash; Change description in constructor to a named parameter (as it is mentioned later on that page)
   <sub>[#11476](https://github.com/flutter/website/pull/11476) merged on December 10, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11476) over 2 days, 6 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Eric Windmill](https://github.com/ericwindmill), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### November 30, 2024 to December 6, 2024
 
