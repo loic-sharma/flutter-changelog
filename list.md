@@ -448,7 +448,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-8 commits.
+9 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't close image source too early
   <sub>[#57200](https://github.com/flutter/engine/pull/57200) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57200) over 2 days, 61 additions and 7 deletions in 3 files</sub>
@@ -477,6 +477,10 @@
 * **[MyriadSoft](https://github.com/MyriadSoft)** &mdash; docs: Fix RGB565 format documentation and bit masks
   <sub>[#57210](https://github.com/flutter/engine/pull/57210) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57210) over 1 day, 30 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[skia-flutter-autoroll](https://github.com/skia-flutter-autoroll)** &mdash; Manual roll Dart SDK from 02aa27c6a075 to 4bfbad776c1a (12 revisions)
+  <sub>[#57226](https://github.com/flutter/engine/pull/57226) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/57226) over 1 hour, 9 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland 'Delete stale package_config.json in gclient sync hook'
   <sub>[#57218](https://github.com/flutter/engine/pull/57218) merged on December 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57218) over 49 minutes, 4 additions and 2 deletions in 1 file</sub>
