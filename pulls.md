@@ -96,5 +96,5 @@
   <sub>[#160304](https://github.com/flutter/flutter/pull/160304) opened on on December 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160304) 55 additions and 0 deletions in 2 files</sub><br />
 
 * **[Martin Anderson](https://github.com/krokyze)** &mdash; Update PopInvokedCallback Deprecated message<br />
-  <sub>[#160324](https://github.com/flutter/flutter/pull/160324) opened on on December 15, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160324) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#160324](https://github.com/flutter/flutter/pull/160324) opened on on December 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160324) 1 addition and 1 deletion in 1 file</sub><br />
 
