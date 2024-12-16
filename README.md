@@ -413,7 +413,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-3 commits.
+5 commits.
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable AHB swapchains on all platforms.<br />
   <sub>[#57213](https://github.com/flutter/engine/pull/57213) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/57213) over 18 hours, 0 additions and 25 deletions in 1 file</sub><br />
@@ -426,6 +426,14 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable RBE in the GN flags for wasm_release builds in the linux_web_engine builder<br />
   <sub>[#57204](https://github.com/flutter/engine/pull/57204) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57204) over 2 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[MyriadSoft](https://github.com/MyriadSoft)** &mdash; docs: Fix RGB565 format documentation and bit masks<br />
+  <sub>[#57210](https://github.com/flutter/engine/pull/57210) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57210) over 1 day, 30 additions and 16 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Reland 'Delete stale package_config.json in gclient sync hook'<br />
+  <sub>[#57218](https://github.com/flutter/engine/pull/57218) merged on December 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57218) over 49 minutes, 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 ### December 7, 2024 to December 13, 2024
 
