@@ -4,7 +4,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-11 commits.
+12 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands
   <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub>
@@ -17,6 +17,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Manual pub roll with flutter_tools patch
   <sub>[#160174](https://github.com/flutter/flutter/pull/160174) merged on December 16, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/160174) over 4 days, 585 additions and 574 deletions in 71 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `integration_test` dependencies to non-`dev_dependencies`.
+  <sub>[#160380](https://github.com/flutter/flutter/pull/160380) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160380) over 1 hour, 107 additions and 20 deletions in 14 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adjust ignores for 'dart format'
   <sub>[#160382](https://github.com/flutter/flutter/pull/160382) merged on December 16, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/160382) over 54 minutes, 249 additions and 134 deletions in 30 files</sub>
@@ -1064,7 +1068,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-3 commits.
+4 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub>
@@ -1076,6 +1080,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Increase required version of node and pnpm
   <sub>[#11500](https://github.com/flutter/website/pull/11500) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11500) over 1 hour, 286 additions and 245 deletions in 7 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Roman Cinis](https://github.com/tsinis)** &mdash; docs: update migrate swift plugin docs with `.gitignore`
+  <sub>[#11497](https://github.com/flutter/website/pull/11497) merged on December 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11497) over 2 days, 9 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 ### December 7, 2024 to December 13, 2024
