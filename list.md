@@ -413,7 +413,11 @@
 
 ### December 14, 2024 to December 20, 2024
 
-5 commits.
+6 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't close image source too early
+  <sub>[#57200](https://github.com/flutter/engine/pull/57200) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57200) over 2 days, 61 additions and 7 deletions in 3 files</sub>
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable AHB swapchains on all platforms.
   <sub>[#57213](https://github.com/flutter/engine/pull/57213) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/57213) over 18 hours, 0 additions and 25 deletions in 1 file</sub>
