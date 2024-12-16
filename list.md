@@ -4,7 +4,19 @@
 
 ### December 14, 2024 to December 20, 2024
 
-3 commits.
+6 commits.
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands
+  <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub>
+  <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix regression to hardcoded AGP/Kotlin values in Android module templates
+  <sub>[#160108](https://github.com/flutter/flutter/pull/160108) merged on December 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160108) over 5 days, 3 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable linux packages-autoroller
+  <sub>[#160266](https://github.com/flutter/flutter/pull/160266) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160266) over 2 days, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Formatter pre-work: Fix syntax in test_fixes
   <sub>[#160371](https://github.com/flutter/flutter/pull/160371) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160371) over 30 minutes, 102 additions and 104 deletions in 4 files</sub>
@@ -432,11 +444,15 @@
 
 ### December 14, 2024 to December 20, 2024
 
-7 commits.
+8 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't close image source too early
   <sub>[#57200](https://github.com/flutter/engine/pull/57200) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57200) over 2 days, 61 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlBinaryMessenger using embedder API instead of mock engine.
+  <sub>[#57214](https://github.com/flutter/engine/pull/57214) merged on December 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/57214) over 18 hours, 364 additions and 619 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Flutter-GPU.md: Fix spelling
   <sub>[#57216](https://github.com/flutter/engine/pull/57216) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/57216) over 12 hours, 1 addition and 1 deletion in 1 file</sub>
