@@ -4,7 +4,11 @@
 
 ### December 14, 2024 to December 20, 2024
 
-2 commits.
+3 commits.
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Formatter pre-work: Fix syntax in test_fixes
+  <sub>[#160371](https://github.com/flutter/flutter/pull/160371) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160371) over 30 minutes, 102 additions and 104 deletions in 4 files</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix a bug to skip `flutter_gen` when synthetic packages are disabled
   <sub>[#160367](https://github.com/flutter/flutter/pull/160367) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160367) over 46 minutes, 45 additions and 1 deletion in 2 files</sub>
