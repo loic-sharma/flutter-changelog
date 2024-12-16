@@ -99,5 +99,5 @@
   <sub>[#160324](https://github.com/flutter/flutter/pull/160324) opened on on December 15, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160324) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 17 as expected java version<br />
-  <sub>[#160349](https://github.com/flutter/flutter/pull/160349) opened on on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160349) 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#160349](https://github.com/flutter/flutter/pull/160349) opened on on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160349) 12 additions and 12 deletions in 5 files</sub><br />
 
