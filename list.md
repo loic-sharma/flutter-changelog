@@ -209,7 +209,7 @@
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Bruno Leroux](https://github.com/bleroux)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Reland] Force automatic ndk download when building for Android
-  <sub>[#160260](https://github.com/flutter/flutter/pull/160260) merged on December 13, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/160260) over 1 hour, 385 additions and 16 deletions in 43 files</sub>
+  <sub>[#160260](https://github.com/flutter/flutter/pull/160260) merged on December 13, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160260) over 1 hour, 385 additions and 16 deletions in 43 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Framework sends a11y message when enabling semantics (#159163)"
@@ -424,11 +424,15 @@
 
 ### December 14, 2024 to December 20, 2024
 
-6 commits.
+7 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't close image source too early
   <sub>[#57200](https://github.com/flutter/engine/pull/57200) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57200) over 2 days, 61 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Brett Morgan](https://github.com/domesticmouse)** &mdash; Flutter-GPU.md: Fix spelling
+  <sub>[#57216](https://github.com/flutter/engine/pull/57216) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/57216) over 12 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable AHB swapchains on all platforms.
   <sub>[#57213](https://github.com/flutter/engine/pull/57213) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/57213) over 18 hours, 0 additions and 25 deletions in 1 file</sub>
