@@ -411,9 +411,18 @@
 
 ## flutter/engine
 
+### December 14, 2024 to December 20, 2024
+
+1 commits.
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable RBE in the GN flags for wasm_release builds in the linux_web_engine builder<br />
+  <sub>[#57204](https://github.com/flutter/engine/pull/57204) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57204) over 2 days, 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 ### December 7, 2024 to December 13, 2024
 
-49 commits.
+<details>
+<summary>49 commits...</summary>
 
 * **[Balint Rozgonyi](https://github.com/RBT22)** &mdash; [Linux] Add Multi-Touch Support for Linux<br />
   <sub>[#54214](https://github.com/flutter/engine/pull/54214) merged on December 11, 2024 &mdash; **Large:** [33 comments](https://github.com/flutter/engine/pull/54214) over 4 months, 593 additions and 1 deletion in 8 files</sub><br />
@@ -611,6 +620,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland:  switch Pipeline to use raw ptr instead of shared ptr for recorded references.<br />
   <sub>[#57086](https://github.com/flutter/engine/pull/57086) merged on December 10, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/engine/pull/57086) over 15 hours, 235 additions and 167 deletions in 21 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
+
+</details>
 
 ### November 30, 2024 to December 6, 2024
 
