@@ -4,15 +4,23 @@
 
 ### December 14, 2024 to December 20, 2024
 
-9 commits.
+11 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands<br />
   <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `TestGoldenComparator` to be useful for non-web (Android, iOS) integration tests<br />
+  <sub>[#160215](https://github.com/flutter/flutter/pull/160215) merged on December 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/160215) over 3 days, 499 additions and 274 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Manual pub roll with flutter_tools patch<br />
   <sub>[#160174](https://github.com/flutter/flutter/pull/160174) merged on December 16, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/160174) over 4 days, 585 additions and 574 deletions in 71 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adjust ignores for 'dart format'<br />
+  <sub>[#160382](https://github.com/flutter/flutter/pull/160382) merged on December 16, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/160382) over 54 minutes, 249 additions and 134 deletions in 30 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix regression to hardcoded AGP/Kotlin values in Android module templates<br />
   <sub>[#160108](https://github.com/flutter/flutter/pull/160108) merged on December 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160108) over 5 days, 3 additions and 3 deletions in 2 files</sub><br />
@@ -906,9 +914,18 @@
 
 ## flutter/packages
 
+### December 14, 2024 to December 20, 2024
+
+1 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Add optional init parameters.<br />
+  <sub>[#8297](https://github.com/flutter/packages/pull/8297) merged on December 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8297) over 2 days, 226 additions and 26 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Vitaly Sokolov](https://github.com/sokoloff06), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 ### December 7, 2024 to December 13, 2024
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Adds Shared preferences as option in shared preferences async android<br />
   <sub>[#7994](https://github.com/flutter/packages/pull/7994) merged on December 13, 2024 &mdash; **Extra large:** [27 comments](https://github.com/flutter/packages/pull/7994) over 1 month, 1478 additions and 838 deletions in 27 files</sub><br />
@@ -977,6 +994,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from dec2ee5c1f98 to 8495dee1fd4a (1318 revisions)<br />
   <sub>[#8280](https://github.com/flutter/packages/pull/8280) merged on December 12, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8280) over 37 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### November 30, 2024 to December 6, 2024
 
