@@ -413,7 +413,15 @@
 
 ### December 14, 2024 to December 20, 2024
 
-1 commits.
+3 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable AHB swapchains on all platforms.<br />
+  <sub>[#57213](https://github.com/flutter/engine/pull/57213) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/57213) over 18 hours, 0 additions and 25 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix Adreno precision issue in gaussian downsample.<br />
+  <sub>[#57212](https://github.com/flutter/engine/pull/57212) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57212) over 19 hours, 32 additions and 34 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable RBE in the GN flags for wasm_release builds in the linux_web_engine builder<br />
   <sub>[#57204](https://github.com/flutter/engine/pull/57204) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57204) over 2 days, 1 addition and 0 deletions in 1 file</sub><br />
@@ -522,7 +530,7 @@
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Delete stale package_config.json in gclient sync hook<br />
-  <sub>[#57195](https://github.com/flutter/engine/pull/57195) merged on December 13, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/engine/pull/57195) over 4 hours, 15 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#57195](https://github.com/flutter/engine/pull/57195) merged on December 13, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/57195) over 4 hours, 15 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; iOS: Add null checks on shell dereference<br />
