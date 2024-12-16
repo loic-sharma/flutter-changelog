@@ -99,8 +99,8 @@
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) opened on on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160349) 12 additions and 12 deletions in 5 files</sub><br />
 
 * **[Łukasz Wiśniewski](https://github.com/vishna)** &mdash; EditableTextState._schedulePeriodicPostFrameCallbacks null error<br />
-  <sub>[#160352](https://github.com/flutter/flutter/pull/160352) opened on on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160352) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#160352](https://github.com/flutter/flutter/pull/160352) opened on on December 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160352) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
-  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/160354) 782 additions and 0 deletions in 28 files</sub><br />
+  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/160354) 786 additions and 0 deletions in 28 files</sub><br />
 
