@@ -104,3 +104,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
   <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/160354) 786 additions and 0 deletions in 28 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly report `dart format` errors<br />
+  <sub>[#160364](https://github.com/flutter/flutter/pull/160364) opened on on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160364) 50 additions and 3 deletions in 2 files</sub><br />
+
