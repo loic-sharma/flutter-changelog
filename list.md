@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 14, 2024 to December 20, 2024
+
+1 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip integration tests that consistently OOM on a Windows platform.
+  <sub>[#160368](https://github.com/flutter/flutter/pull/160368) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160368) over 7 minutes, 7 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 ### December 7, 2024 to December 13, 2024
 
-47 commits.
+<details>
+<summary>47 commits...</summary>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Force automatic ndk download when building for Android
   <sub>[#159756](https://github.com/flutter/flutter/pull/159756) merged on December 12, 2024 &mdash; **Medium:** [23 comments](https://github.com/flutter/flutter/pull/159756) over 1 week, 382 additions and 14 deletions in 42 files</sub>
@@ -206,6 +215,8 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Revert "Framework sends a11y message when enabling semantics (#159163)"
   <sub>[#160039](https://github.com/flutter/flutter/pull/160039) merged on December 10, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160039) over 3 hours, 8 additions and 92 deletions in 5 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+</details>
 
 ### November 30, 2024 to December 6, 2024
 

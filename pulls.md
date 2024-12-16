@@ -27,7 +27,7 @@
   <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159455) 439 additions and 46 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Report usage of `deferred-components` to analytics.<br />
-  <sub>[#159506](https://github.com/flutter/flutter/pull/159506) opened on on November 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159506) 87 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#159506](https://github.com/flutter/flutter/pull/159506) opened on on November 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/159506) 87 additions and 0 deletions in 4 files</sub><br />
 
 * **[Krzysztof Czarnota](https://github.com/czarny)** &mdash; Enabled provisioning updates and device registration during building xcarchive.<br />
   <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
@@ -102,5 +102,5 @@
   <sub>[#160352](https://github.com/flutter/flutter/pull/160352) opened on on December 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160352) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
-  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/160354) 785 additions and 0 deletions in 27 files</sub><br />
+  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/160354) 799 additions and 0 deletions in 27 files</sub><br />
 
