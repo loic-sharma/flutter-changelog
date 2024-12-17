@@ -1144,7 +1144,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-9 commits.
+10 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS<br />
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub><br />
@@ -1153,6 +1153,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update and clean up breaking change guides as of 3.27 release<br />
   <sub>[#11503](https://github.com/flutter/website/pull/11503) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11503) over 1 hour, 443 additions and 380 deletions in 17 files</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Ai toolkit docs<br />
+  <sub>[#11512](https://github.com/flutter/website/pull/11512) merged on December 17, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11512) over 47 minutes, 1473 additions and 7 deletions in 33 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Increase required version of node and pnpm<br />
   <sub>[#11500](https://github.com/flutter/website/pull/11500) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11500) over 1 hour, 286 additions and 245 deletions in 7 files</sub><br />
