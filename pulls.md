@@ -105,5 +105,5 @@
   <sub>[#160398](https://github.com/flutter/flutter/pull/160398) opened on on December 17, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160398) 459596 additions and 417887 deletions in 4387 files</sub><br />
 
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Add more entry-point annotations for test-only code.<br />
-  <sub>[#160421](https://github.com/flutter/flutter/pull/160421) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160421) 7 additions and 0 deletions in 7 files</sub><br />
+  <sub>[#160421](https://github.com/flutter/flutter/pull/160421) opened on on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160421) 7 additions and 0 deletions in 7 files</sub><br />
 
