@@ -104,3 +104,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format try again<br />
   <sub>[#160398](https://github.com/flutter/flutter/pull/160398) opened on on December 17, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160398) 459596 additions and 417887 deletions in 4387 files</sub><br />
 
+* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix: when the same item in the BottomNavigationBar is tapped, there is no animation for the color change.<br />
+  <sub>[#160429](https://github.com/flutter/flutter/pull/160429) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160429) 9 additions and 2 deletions in 1 file</sub><br />
+
