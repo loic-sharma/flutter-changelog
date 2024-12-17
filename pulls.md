@@ -101,6 +101,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
   <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/160354) 803 additions and 0 deletions in 27 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format try<br />
-  <sub>[#160377](https://github.com/flutter/flutter/pull/160377) opened on on December 16, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160377) 462689 additions and 420824 deletions in 4394 files</sub><br />
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix infinite build loop with `DropdownMenu` and `ListenableBuilder`<br />
+  <sub>[#160397](https://github.com/flutter/flutter/pull/160397) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160397) 49 additions and 1 deletion in 2 files</sub><br />
 

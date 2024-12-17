@@ -4,11 +4,15 @@
 
 ### December 14, 2024 to December 20, 2024
 
-16 commits.
+18 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands<br />
   <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix line-dependent tests for formatting<br />
+  <sub>[#160389](https://github.com/flutter/flutter/pull/160389) merged on December 17, 2024 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/160389) over 1 hour, 2682 additions and 2736 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `TestGoldenComparator` to be useful for non-web (Android, iOS) integration tests<br />
   <sub>[#160215](https://github.com/flutter/flutter/pull/160215) merged on December 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/160215) over 3 days, 499 additions and 274 deletions in 7 files</sub><br />
@@ -21,6 +25,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly report `dart format` errors<br />
   <sub>[#160364](https://github.com/flutter/flutter/pull/160364) merged on December 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160364) over 5 hours, 49 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adjust tools tests that would be broken by formatting<br />
+  <sub>[#160393](https://github.com/flutter/flutter/pull/160393) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160393) over 1 hour, 12 additions and 5 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `mac_test.dart` to `explicit-package-dependencies`.<br />
   <sub>[#160375](https://github.com/flutter/flutter/pull/160375) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160375) over 2 hours, 11 additions and 0 deletions in 1 file</sub><br />
@@ -484,11 +492,15 @@
 
 ### December 14, 2024 to December 20, 2024
 
-10 commits.
+11 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't close image source too early<br />
   <sub>[#57200](https://github.com/flutter/engine/pull/57200) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57200) over 2 days, 61 additions and 7 deletions in 3 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Pre-format licenses script<br />
+  <sub>[#57219](https://github.com/flutter/engine/pull/57219) merged on December 17, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/engine/pull/57219) over 6 hours, 1943 additions and 1311 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlBinaryMessenger using embedder API instead of mock engine.<br />
   <sub>[#57214](https://github.com/flutter/engine/pull/57214) merged on December 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/57214) over 18 hours, 364 additions and 619 deletions in 4 files</sub><br />
@@ -1092,7 +1104,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-4 commits.
+5 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS<br />
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub><br />
@@ -1104,6 +1116,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Increase required version of node and pnpm<br />
   <sub>[#11500](https://github.com/flutter/website/pull/11500) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11500) over 1 hour, 286 additions and 245 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Replace some deprecated button properties with supported properties.<br />
+  <sub>[#11505](https://github.com/flutter/website/pull/11505) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11505) over 30 minutes, 19 additions and 19 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Roman Cinis](https://github.com/tsinis)** &mdash; docs: update migrate swift plugin docs with `.gitignore`<br />
