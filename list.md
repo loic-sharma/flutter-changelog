@@ -976,7 +976,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-2 commits.
+3 commits.
 
 * **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtools
   <sub>[#6749](https://github.com/flutter/packages/pull/6749) merged on December 16, 2024 &mdash; **Extra large:** [292 comments](https://github.com/flutter/packages/pull/6749) over 7 months, 5156 additions and 3 deletions in 39 files</sub>
@@ -985,6 +985,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Add optional init parameters.
   <sub>[#8297](https://github.com/flutter/packages/pull/8297) merged on December 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8297) over 2 days, 226 additions and 26 deletions in 14 files</sub>
   <sub>Reviewed by: [Vitaly Sokolov](https://github.com/sokoloff06), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[shared_preferences] Add shared preferences devtools"
+  <sub>[#8314](https://github.com/flutter/packages/pull/8314) merged on December 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/8314) over 2 hours, 3 additions and 5156 deletions in 39 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 ### December 7, 2024 to December 13, 2024
 
