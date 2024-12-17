@@ -1144,7 +1144,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-11 commits.
+12 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub>
@@ -1161,6 +1161,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Increase required version of node and pnpm
   <sub>[#11500](https://github.com/flutter/website/pull/11500) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11500) over 1 hour, 286 additions and 245 deletions in 7 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update banner for Flutter 3.27 release
+  <sub>[#11513](https://github.com/flutter/website/pull/11513) merged on December 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11513) over 45 minutes, 3 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Marya](https://github.com/MaryaBelanger), [Michael Thomsen](https://github.com/mit-mit)</sub>
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add a few design libraries as examples on the widget index
   <sub>[#11509](https://github.com/flutter/website/pull/11509) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11509) over 5 hours, 6 additions and 2 deletions in 1 file</sub>

@@ -66,7 +66,7 @@
   <sub>[#160191](https://github.com/flutter/flutter/pull/160191) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160191) 0 additions and 44 deletions in 5 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute<br />
-  <sub>[#160241](https://github.com/flutter/flutter/pull/160241) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160241) 45 additions and 4 deletions in 4 files</sub><br />
+  <sub>[#160241](https://github.com/flutter/flutter/pull/160241) opened on on December 13, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160241) 45 additions and 4 deletions in 4 files</sub><br />
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
