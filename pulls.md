@@ -44,6 +44,9 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Dispose codec after completing frame creation<br />
   <sub>[#159945](https://github.com/flutter/flutter/pull/159945) opened on on December 8, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159945) 66 additions and 4 deletions in 9 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Preserve aligned expressions<br />
+  <sub>[#160001](https://github.com/flutter/flutter/pull/160001) opened on on December 9, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160001) 94 additions and 12 deletions in 36 files</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `animation_controller.dart`<br />
   <sub>[#160005](https://github.com/flutter/flutter/pull/160005) opened on on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160005) 50 additions and 60 deletions in 2 files</sub><br />
 
@@ -60,7 +63,7 @@
   <sub>[#160116](https://github.com/flutter/flutter/pull/160116) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160116) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
-  <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] `FLUTTER_WEB_AUTO_DETECT` is false by default<br />
   <sub>[#160191](https://github.com/flutter/flutter/pull/160191) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160191) 0 additions and 44 deletions in 5 files</sub><br />
