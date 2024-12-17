@@ -104,3 +104,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format try again<br />
   <sub>[#160398](https://github.com/flutter/flutter/pull/160398) opened on on December 17, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160398) 459596 additions and 417887 deletions in 4387 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Consistently set `Cache.flutterRoot` in `create_test.dart`.<br />
+  <sub>[#160403](https://github.com/flutter/flutter/pull/160403) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160403) 6 additions and 212 deletions in 1 file</sub><br />
+
