@@ -530,6 +530,10 @@
   <sub>[#57214](https://github.com/flutter/engine/pull/57214) merged on December 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/57214) over 18 hours, 364 additions and 619 deletions in 4 files</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
+* **[Hannes Winkler](https://github.com/ardera)** &mdash; embedder: fix bit-order in software pixel format description
+  <sub>[#57156](https://github.com/flutter/engine/pull/57156) merged on December 17, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/engine/pull/57156) over 5 days, 25 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [sodiboo](https://github.com/sodiboo), [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken)</sub>
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; [monorepo] remove Linux Web Framework tests
   <sub>[#57234](https://github.com/flutter/engine/pull/57234) merged on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/57234) over 14 hours, 0 additions and 30 deletions in 1 file</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
@@ -557,10 +561,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Reland: (Add `crossOrigin` property to `<img>` tag used for decoding)++
   <sub>[#57228](https://github.com/flutter/engine/pull/57228) merged on December 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57228) over 17 hours, 71 additions and 15 deletions in 6 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
-
-* **[Hannes Winkler](https://github.com/ardera)** &mdash; embedder: fix bit-order in software pixel format description
-  <sub>[#57156](https://github.com/flutter/engine/pull/57156) merged on December 17, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/engine/pull/57156) over 5 days, 25 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [sodiboo](https://github.com/sodiboo), [Jonah Williams](https://github.com/jonahwilliams), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[MyriadSoft](https://github.com/MyriadSoft)** &mdash; docs: Fix RGB565 format documentation and bit masks
   <sub>[#57210](https://github.com/flutter/engine/pull/57210) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57210) over 1 day, 30 additions and 16 deletions in 1 file</sub>
