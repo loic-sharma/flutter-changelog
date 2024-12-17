@@ -42,13 +42,13 @@
   <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/159937) 122 additions and 151 deletions in 4 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Dispose codec after completing frame creation<br />
-  <sub>[#159945](https://github.com/flutter/flutter/pull/159945) opened on on December 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159945) 54 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#159945](https://github.com/flutter/flutter/pull/159945) opened on on December 8, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/159945) 66 additions and 4 deletions in 9 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Refactor `animation_controller.dart`<br />
   <sub>[#160005](https://github.com/flutter/flutter/pull/160005) opened on on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160005) 50 additions and 60 deletions in 2 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds onHover and onLongPress to IconButton widget<br />
-  <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Medium:** [20 comments](https://github.com/flutter/flutter/pull/160032) 333 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Medium:** [22 comments](https://github.com/flutter/flutter/pull/160032) 333 additions and 2 deletions in 2 files</sub><br />
 
 * **[Lucas Silva de Oliveira](https://github.com/lucassilvaoliveira)** &mdash; Add inversedChildren property to Flex<br />
   <sub>[#160103](https://github.com/flutter/flutter/pull/160103) opened on on December 11, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160103) 11 additions and 1 deletion in 1 file</sub><br />
@@ -106,4 +106,7 @@
 
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix: when the same item in the BottomNavigationBar is tapped, there is no animation for the color change.<br />
   <sub>[#160429](https://github.com/flutter/flutter/pull/160429) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160429) 9 additions and 2 deletions in 1 file</sub><br />
+
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; [native_assets] Preparation existing tests for future of other (i.e. non-Code) assets<br />
+  <sub>[#160436](https://github.com/flutter/flutter/pull/160436) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160436) 13 additions and 2 deletions in 3 files</sub><br />
 
