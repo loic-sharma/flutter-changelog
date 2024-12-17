@@ -1144,7 +1144,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-10 commits.
+11 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS<br />
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub><br />
@@ -1165,6 +1165,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add a few design libraries as examples on the widget index<br />
   <sub>[#11509](https://github.com/flutter/website/pull/11509) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11509) over 5 hours, 6 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Yes, what is new (in 3.27)<br />
+  <sub>[#11511](https://github.com/flutter/website/pull/11511) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11511) over 1 hour, 159 additions and 68 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; document how `FLUTTER_BUILD_MODE` is set during asset transformation<br />
   <sub>[#11510](https://github.com/flutter/website/pull/11510) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11510) over 2 hours, 6 additions and 1 deletion in 1 file</sub><br />
