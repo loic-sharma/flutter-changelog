@@ -975,7 +975,7 @@
 2 commits.
 
 * **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtools<br />
-  <sub>[#6749](https://github.com/flutter/packages/pull/6749) merged on December 16, 2024 &mdash; **Extra large:** [290 comments](https://github.com/flutter/packages/pull/6749) over 7 months, 5156 additions and 3 deletions in 39 files</sub><br />
+  <sub>[#6749](https://github.com/flutter/packages/pull/6749) merged on December 16, 2024 &mdash; **Extra large:** [291 comments](https://github.com/flutter/packages/pull/6749) over 7 months, 5156 additions and 3 deletions in 39 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [sigmundch](https://github.com/sigmundch), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Add optional init parameters.<br />
