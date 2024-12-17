@@ -30,6 +30,10 @@
   <sub>[#160364](https://github.com/flutter/flutter/pull/160364) merged on December 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160364) over 5 hours, 49 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip integration tests that consistently OOM on a Windows platform.
+  <sub>[#160368](https://github.com/flutter/flutter/pull/160368) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160368) over 7 minutes, 7 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 * **[Tess Strickland](https://github.com/sstrickl)** &mdash; Add more entry-point annotations for test-only code.
   <sub>[#160421](https://github.com/flutter/flutter/pull/160421) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160421) over 36 minutes, 7 additions and 0 deletions in 7 files</sub>
   <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
@@ -81,10 +85,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix a bug to skip `flutter_gen` when synthetic packages are disabled
   <sub>[#160367](https://github.com/flutter/flutter/pull/160367) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160367) over 46 minutes, 45 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip integration tests that consistently OOM on a Windows platform.
-  <sub>[#160368](https://github.com/flutter/flutter/pull/160368) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160368) over 7 minutes, 7 additions and 6 deletions in 1 file</sub>
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Merges changes from stable changelog to master.
   <sub>[#160284](https://github.com/flutter/flutter/pull/160284) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160284) over 2 days, 11 additions and 0 deletions in 1 file</sub>
