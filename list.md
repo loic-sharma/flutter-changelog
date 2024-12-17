@@ -22,13 +22,13 @@
   <sub>[#160174](https://github.com/flutter/flutter/pull/160174) merged on December 16, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/160174) over 4 days, 585 additions and 574 deletions in 71 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly report `dart format` errors
-  <sub>[#160364](https://github.com/flutter/flutter/pull/160364) merged on December 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160364) over 5 hours, 49 additions and 3 deletions in 2 files</sub>
-  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename and define `FlutterManifest.generateLocalizations`.
   <sub>[#160401](https://github.com/flutter/flutter/pull/160401) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160401) over 2 hours, 85 additions and 71 deletions in 8 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly report `dart format` errors
+  <sub>[#160364](https://github.com/flutter/flutter/pull/160364) merged on December 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160364) over 5 hours, 49 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Consistently set `Cache.flutterRoot` in `create_test.dart`.
   <sub>[#160403](https://github.com/flutter/flutter/pull/160403) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160403) over 1 hour, 6 additions and 212 deletions in 1 file</sub>
