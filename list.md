@@ -1135,7 +1135,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Peter Trost](https://github.com/Peetee06)** &mdash; Update wide-gamut-framework.md
-  <sub>[#11506](https://github.com/flutter/website/pull/11506) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11506) over 32 minutes, 8 additions and 4 deletions in 1 file</sub>
+  <sub>[#11506](https://github.com/flutter/website/pull/11506) merged on December 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11506) over 32 minutes, 8 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Replace some deprecated button properties with supported properties.
