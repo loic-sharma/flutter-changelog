@@ -1140,7 +1140,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-7 commits.
+9 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub>
@@ -1157,6 +1157,14 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add a few design libraries as examples on the widget index
   <sub>[#11509](https://github.com/flutter/website/pull/11509) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11509) over 5 hours, 6 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; document how `FLUTTER_BUILD_MODE` is set during asset transformation
+  <sub>[#11510](https://github.com/flutter/website/pull/11510) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11510) over 2 hours, 6 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding updated info about Impeller and a link to the "can I use" page
+  <sub>[#11507](https://github.com/flutter/website/pull/11507) merged on December 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11507) over 10 hours, 36 additions and 50 deletions in 2 files</sub>
+  <sub>Reviewed by: [mariamhas](https://github.com/mariamhas), [Parker Lougheed](https://github.com/parlough), [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Peter Trost](https://github.com/Peetee06)** &mdash; Update wide-gamut-framework.md
   <sub>[#11506](https://github.com/flutter/website/pull/11506) merged on December 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11506) over 32 minutes, 8 additions and 4 deletions in 1 file</sub>
