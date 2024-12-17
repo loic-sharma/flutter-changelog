@@ -59,9 +59,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DO NOT SUBMIT] enable dartfmt presubmit check<br />
   <sub>[#160116](https://github.com/flutter/flutter/pull/160116) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160116) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DO NOT SUBMIT] dartfmt trial run<br />
-  <sub>[#160121](https://github.com/flutter/flutter/pull/160121) opened on on December 11, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160121) 461750 additions and 420010 deletions in 4388 files</sub><br />
-
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
@@ -103,4 +100,7 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix infinite build loop with `DropdownMenu` and `ListenableBuilder`<br />
   <sub>[#160397](https://github.com/flutter/flutter/pull/160397) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160397) 49 additions and 1 deletion in 2 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format try again<br />
+  <sub>[#160398](https://github.com/flutter/flutter/pull/160398) opened on on December 17, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160398) 459612 additions and 417893 deletions in 4388 files</sub><br />
 
