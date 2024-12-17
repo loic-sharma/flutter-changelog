@@ -4,7 +4,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-22 commits.
+23 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands<br />
   <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly report `dart format` errors<br />
   <sub>[#160364](https://github.com/flutter/flutter/pull/160364) merged on December 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160364) over 5 hours, 49 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Add more entry-point annotations for test-only code.<br />
+  <sub>[#160421](https://github.com/flutter/flutter/pull/160421) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160421) over 36 minutes, 7 additions and 0 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Consistently set `Cache.flutterRoot` in `create_test.dart`.<br />
   <sub>[#160403](https://github.com/flutter/flutter/pull/160403) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160403) over 1 hour, 6 additions and 212 deletions in 1 file</sub><br />
