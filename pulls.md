@@ -116,3 +116,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Final format<br />
   <sub>[#160456](https://github.com/flutter/flutter/pull/160456) opened on on December 17, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160456) 459876 additions and 418214 deletions in 4401 files</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [monorepo] remove realm checker<br />
+  <sub>[#160457](https://github.com/flutter/flutter/pull/160457) opened on on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160457) 0 additions and 20 deletions in 2 files</sub><br />
+
