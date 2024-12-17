@@ -117,5 +117,5 @@
   <sub>[#160454](https://github.com/flutter/flutter/pull/160454) opened on on December 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160454) 16 additions and 385 deletions in 43 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Final format<br />
-  <sub>[#160456](https://github.com/flutter/flutter/pull/160456) opened on on December 17, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160456) 455415 additions and 416476 deletions in 4406 files</sub><br />
+  <sub>[#160456](https://github.com/flutter/flutter/pull/160456) opened on on December 17, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160456) 455416 additions and 416476 deletions in 4407 files</sub><br />
 
