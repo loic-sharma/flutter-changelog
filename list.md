@@ -512,7 +512,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-12 commits.
+13 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't close image source too early
   <sub>[#57200](https://github.com/flutter/engine/pull/57200) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57200) over 2 days, 61 additions and 7 deletions in 3 files</sub>
@@ -525,6 +525,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Migrate FlBinaryMessenger using embedder API instead of mock engine.
   <sub>[#57214](https://github.com/flutter/engine/pull/57214) merged on December 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/57214) over 18 hours, 364 additions and 619 deletions in 4 files</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [monorepo] remove Linux Web Framework tests
+  <sub>[#57234](https://github.com/flutter/engine/pull/57234) merged on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/engine/pull/57234) over 14 hours, 0 additions and 30 deletions in 1 file</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly report `dart format` errors
   <sub>[#57206](https://github.com/flutter/engine/pull/57206) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57206) over 2 days, 62 additions and 19 deletions in 2 files</sub>
@@ -1132,7 +1136,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-6 commits.
+7 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub>
@@ -1145,6 +1149,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Increase required version of node and pnpm
   <sub>[#11500](https://github.com/flutter/website/pull/11500) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11500) over 1 hour, 286 additions and 245 deletions in 7 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add a few design libraries as examples on the widget index
+  <sub>[#11509](https://github.com/flutter/website/pull/11509) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11509) over 5 hours, 6 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Peter Trost](https://github.com/Peetee06)** &mdash; Update wide-gamut-framework.md
   <sub>[#11506](https://github.com/flutter/website/pull/11506) merged on December 17, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11506) over 32 minutes, 8 additions and 4 deletions in 1 file</sub>
