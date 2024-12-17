@@ -69,7 +69,7 @@
   <sub>[#160241](https://github.com/flutter/flutter/pull/160241) opened on on December 13, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160241) 45 additions and 4 deletions in 4 files</sub><br />
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
-  <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside flutter.groovy <br />
   <sub>[#160250](https://github.com/flutter/flutter/pull/160250) opened on on December 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160250) 14 additions and 19 deletions in 1 file</sub><br />
@@ -103,4 +103,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format try again<br />
   <sub>[#160398](https://github.com/flutter/flutter/pull/160398) opened on on December 17, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160398) 459596 additions and 417887 deletions in 4387 files</sub><br />
+
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Add more entry-point annotations for test-only code.<br />
+  <sub>[#160421](https://github.com/flutter/flutter/pull/160421) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160421) 7 additions and 0 deletions in 7 files</sub><br />
 
