@@ -108,5 +108,5 @@
   <sub>[#160429](https://github.com/flutter/flutter/pull/160429) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160429) 9 additions and 2 deletions in 1 file</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from transitive closure of dependencies<br />
-  <sub>[#160443](https://github.com/flutter/flutter/pull/160443) opened on on December 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160443) 251 additions and 57 deletions in 4 files</sub><br />
+  <sub>[#160443](https://github.com/flutter/flutter/pull/160443) opened on on December 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160443) 250 additions and 57 deletions in 3 files</sub><br />
 

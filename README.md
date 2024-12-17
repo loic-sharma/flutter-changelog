@@ -512,7 +512,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-11 commits.
+12 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Don't close image source too early<br />
   <sub>[#57200](https://github.com/flutter/engine/pull/57200) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57200) over 2 days, 61 additions and 7 deletions in 3 files</sub><br />
@@ -545,6 +545,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Disable RBE in the GN flags for wasm_release builds in the linux_web_engine builder<br />
   <sub>[#57204](https://github.com/flutter/engine/pull/57204) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/57204) over 2 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Reland: (Add `crossOrigin` property to `<img>` tag used for decoding)++<br />
+  <sub>[#57228](https://github.com/flutter/engine/pull/57228) merged on December 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57228) over 17 hours, 71 additions and 15 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[MyriadSoft](https://github.com/MyriadSoft)** &mdash; docs: Fix RGB565 format documentation and bit masks<br />
   <sub>[#57210](https://github.com/flutter/engine/pull/57210) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57210) over 1 day, 30 additions and 16 deletions in 1 file</sub><br />
