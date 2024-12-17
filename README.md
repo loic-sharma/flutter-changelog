@@ -987,7 +987,7 @@
   <sub>Reviewed by: [Vitaly Sokolov](https://github.com/sokoloff06), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[shared_preferences] Add shared preferences devtools"<br />
-  <sub>[#8314](https://github.com/flutter/packages/pull/8314) merged on December 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/8314) over 2 hours, 3 additions and 5156 deletions in 39 files</sub><br />
+  <sub>[#8314](https://github.com/flutter/packages/pull/8314) merged on December 17, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/8314) over 2 hours, 3 additions and 5156 deletions in 39 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 ### December 7, 2024 to December 13, 2024
