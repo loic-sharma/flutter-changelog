@@ -1120,7 +1120,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-5 commits.
+6 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub>
@@ -1132,6 +1132,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Increase required version of node and pnpm
   <sub>[#11500](https://github.com/flutter/website/pull/11500) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11500) over 1 hour, 286 additions and 245 deletions in 7 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Peter Trost](https://github.com/Peetee06)** &mdash; Update wide-gamut-framework.md
+  <sub>[#11506](https://github.com/flutter/website/pull/11506) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11506) over 32 minutes, 8 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Replace some deprecated button properties with supported properties.
