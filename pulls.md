@@ -81,7 +81,7 @@
   <sub>[#160352](https://github.com/flutter/flutter/pull/160352) opened on on December 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160352) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
-  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/160354) 1124 additions and 291 deletions in 92 files</sub><br />
+  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/160354) 1124 additions and 291 deletions in 92 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix infinite build loop with `DropdownMenu` and `ListenableBuilder`<br />
   <sub>[#160397](https://github.com/flutter/flutter/pull/160397) opened on on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160397) 49 additions and 1 deletion in 2 files</sub><br />
@@ -112,4 +112,7 @@
 
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; remove`useMaterial3: true,` in from the template<br />
   <sub>[#160525](https://github.com/flutter/flutter/pull/160525) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160525) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
+  <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
 
