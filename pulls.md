@@ -120,8 +120,8 @@
   <sub>[#160545](https://github.com/flutter/flutter/pull/160545) opened on on December 18, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160545) 455577 additions and 416588 deletions in 4411 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [monorepo] fix web_long_running_tests for monorepo<br />
-  <sub>[#160547](https://github.com/flutter/flutter/pull/160547) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160547) 14 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#160547](https://github.com/flutter/flutter/pull/160547) opened on on December 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160547) 14 additions and 9 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update DEPS, remove `upstream-buildroot`<br />
-  <sub>[#160548](https://github.com/flutter/flutter/pull/160548) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160548) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#160548](https://github.com/flutter/flutter/pull/160548) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160548) 0 additions and 1 deletion in 1 file</sub><br />
 
