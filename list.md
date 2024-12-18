@@ -992,11 +992,15 @@
 
 ### December 14, 2024 to December 20, 2024
 
-5 commits.
+7 commits.
 
 * **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtools
   <sub>[#6749](https://github.com/flutter/packages/pull/6749) merged on December 16, 2024 &mdash; **Extra large:** [292 comments](https://github.com/flutter/packages/pull/6749) over 7 months, 5156 additions and 3 deletions in 39 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [sigmundch](https://github.com/sigmundch), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Group dependabot updates for some gradle dependencies
+  <sub>[#8100](https://github.com/flutter/packages/pull/8100) merged on December 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8100) over 1 month, 14 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Re-enable macOS sandboxing
   <sub>[#8293](https://github.com/flutter/packages/pull/8293) merged on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8293) over 4 days, 30 additions and 60 deletions in 30 files</sub>
@@ -1005,6 +1009,10 @@
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Add optional init parameters.
   <sub>[#8297](https://github.com/flutter/packages/pull/8297) merged on December 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8297) over 2 days, 226 additions and 26 deletions in 14 files</sub>
   <sub>Reviewed by: [Vitaly Sokolov](https://github.com/sokoloff06), [Mouad Debbar](https://github.com/mdebbar)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Applied Gradle Plugins Declaratively All Remaining Example Apps
+  <sub>[#8312](https://github.com/flutter/packages/pull/8312) merged on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8312) over 1 day, 112 additions and 168 deletions in 12 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [shared_preferences] Increase minimum android endorsed version
   <sub>[#8318](https://github.com/flutter/packages/pull/8318) merged on December 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8318) over 23 hours, 8 additions and 4 deletions in 2 files</sub>
