@@ -35,7 +35,7 @@
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Trigger Build
-  <sub>[#160476](https://github.com/flutter/flutter/pull/160476) merged on December 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160476) over 12 minutes, 0 additions and 0 deletions in 0 files</sub>
+  <sub>[#160476](https://github.com/flutter/flutter/pull/160476) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160476) over 12 minutes, 0 additions and 0 deletions in 0 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [monorepo] remove realm checker
