@@ -125,3 +125,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update DEPS, remove `upstream-buildroot`<br />
   <sub>[#160548](https://github.com/flutter/flutter/pull/160548) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160548) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.<br />
+  <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160549) 16 additions and 321 deletions in 3 files</sub><br />
+
