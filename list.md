@@ -1276,7 +1276,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Migration guide for `ThemeData.indicatorColor` deprecation
-  <sub>[#11481](https://github.com/flutter/website/pull/11481) merged on December 12, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11481) over 2 days, 87 additions and 1 deletion in 2 files</sub>
+  <sub>[#11481](https://github.com/flutter/website/pull/11481) merged on December 12, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11481) over 2 days, 87 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Updating note about deep link validator tool in iOS
