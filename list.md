@@ -1168,7 +1168,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-13 commits.
+14 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub>
@@ -1193,6 +1193,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add a few design libraries as examples on the widget index
   <sub>[#11509](https://github.com/flutter/website/pull/11509) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11509) over 5 hours, 6 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Trevor Dunn](https://github.com/trevordunn)** &mdash; Update sql.md to fix url.
+  <sub>[#11515](https://github.com/flutter/website/pull/11515) merged on December 18, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11515) over 23 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add package versions to examples.
   <sub>[#11514](https://github.com/flutter/website/pull/11514) merged on December 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11514) over 22 hours, 22 additions and 19 deletions in 1 file</sub>
