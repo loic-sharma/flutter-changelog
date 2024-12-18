@@ -113,3 +113,6 @@
 * **[Montazer](https://github.com/MrMontazer)** &mdash; Fix TextField issues in RTL<br />
   <sub>[#160516](https://github.com/flutter/flutter/pull/160516) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160516) 9 additions and 6 deletions in 2 files</sub><br />
 
+* **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; remove`useMaterial3: true,` in from the template<br />
+  <sub>[#160525](https://github.com/flutter/flutter/pull/160525) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160525) 0 additions and 1 deletion in 1 file</sub><br />
+
