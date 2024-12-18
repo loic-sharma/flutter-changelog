@@ -4,7 +4,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-25 commits.
+26 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands<br />
   <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Manual pub roll with flutter_tools patch<br />
   <sub>[#160174](https://github.com/flutter/flutter/pull/160174) merged on December 16, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/160174) over 4 days, 585 additions and 574 deletions in 71 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Trigger Build Part Deux<br />
+  <sub>[#160481](https://github.com/flutter/flutter/pull/160481) merged on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160481) over 20 hours, 188 additions and 63 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename and define `FlutterManifest.generateLocalizations`.<br />
   <sub>[#160401](https://github.com/flutter/flutter/pull/160401) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160401) over 2 hours, 85 additions and 71 deletions in 8 files</sub><br />
