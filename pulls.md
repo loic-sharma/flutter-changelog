@@ -81,7 +81,7 @@
   <sub>[#160352](https://github.com/flutter/flutter/pull/160352) opened on on December 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160352) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
-  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/160354) 1124 additions and 291 deletions in 92 files</sub><br />
+  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/160354) 1124 additions and 291 deletions in 92 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix infinite build loop with `DropdownMenu` and `ListenableBuilder`<br />
   <sub>[#160397](https://github.com/flutter/flutter/pull/160397) opened on on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160397) 49 additions and 1 deletion in 2 files</sub><br />
@@ -118,4 +118,10 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Framework<br />
   <sub>[#160545](https://github.com/flutter/flutter/pull/160545) opened on on December 18, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160545) 455577 additions and 416588 deletions in 4411 files</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [monorepo] fix web_long_running_tests for monorepo<br />
+  <sub>[#160547](https://github.com/flutter/flutter/pull/160547) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160547) 14 additions and 9 deletions in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update DEPS, remove `upstream-buildroot`<br />
+  <sub>[#160548](https://github.com/flutter/flutter/pull/160548) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160548) 0 additions and 1 deletion in 1 file</sub><br />
 
