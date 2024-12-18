@@ -116,3 +116,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Framework<br />
+  <sub>[#160545](https://github.com/flutter/flutter/pull/160545) opened on on December 18, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160545) 455577 additions and 416588 deletions in 4411 files</sub><br />
+
