@@ -1118,6 +1118,10 @@
   <sub>[#8215](https://github.com/flutter/packages/pull/8215) merged on December 3, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8215) over 40 minutes, 14 additions and 7 deletions in 7 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Limit Android decoding<br />
+  <sub>[#8187](https://github.com/flutter/packages/pull/8187) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8187) over 5 days, 70 additions and 19 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [various] Add Swift Package Manager integration to Google sign in example apps<br />
   <sub>[#8230](https://github.com/flutter/packages/pull/8230) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8230) over 22 hours, 150 additions and 6 deletions in 8 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
@@ -1137,10 +1141,6 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_maps_flutter] Annotate deprecated member usage<br />
   <sub>[#8214](https://github.com/flutter/packages/pull/8214) merged on December 4, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8214) over 21 hours, 30 additions and 3 deletions in 6 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
-
-* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Limit Android decoding<br />
-  <sub>[#8187](https://github.com/flutter/packages/pull/8187) merged on December 2, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8187) over 5 days, 70 additions and 19 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 </details>
 
