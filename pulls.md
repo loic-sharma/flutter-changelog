@@ -110,7 +110,7 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Test generated localizations<br />
   <sub>[#160479](https://github.com/flutter/flutter/pull/160479) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160479) 19 additions and 1 deletion in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Final format2<br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Framework<br />
   <sub>[#160482](https://github.com/flutter/flutter/pull/160482) opened on on December 18, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160482) 455470 additions and 416516 deletions in 4410 files</sub><br />
 
 * **[nick9822](https://github.com/nick9822)** &mdash; added new ScrollViewKeyboardDismissBehavior variant onDrag with tests<br />
