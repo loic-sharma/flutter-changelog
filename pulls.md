@@ -98,7 +98,7 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Change the startup message for the "flutter daemon" command<br />
   <sub>[#160444](https://github.com/flutter/flutter/pull/160444) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160444) 34 additions and 1 deletion in 2 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Fix formatting issues in dart fix test files<br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; [Formatting] Fix dart fix test files<br />
   <sub>[#160453](https://github.com/flutter/flutter/pull/160453) opened on on December 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/160453) 922 additions and 593 deletions in 36 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Revert "[Reland] Force automatic ndk download when building for Andro…<br />
