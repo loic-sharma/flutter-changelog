@@ -71,9 +71,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; DO NOT MERGE: Enable `explicit-package-dependencies`.<br />
   <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160289) 3 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; Renames property Form.autoValidateMode to follow camelCase convention<br />
-  <sub>[#160295](https://github.com/flutter/flutter/pull/160295) opened on on December 14, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160295) 18 additions and 18 deletions in 7 files</sub><br />
-
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds ListenableBuilder.multiple to make it easier to listen to multiple listenables<br />
   <sub>[#160304](https://github.com/flutter/flutter/pull/160304) opened on on December 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160304) 55 additions and 0 deletions in 2 files</sub><br />
 
@@ -88,9 +85,6 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix infinite build loop with `DropdownMenu` and `ListenableBuilder`<br />
   <sub>[#160397](https://github.com/flutter/flutter/pull/160397) opened on on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160397) 49 additions and 1 deletion in 2 files</sub><br />
-
-* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix: when the same item in the BottomNavigationBar is tapped, there is no animation for the color change.<br />
-  <sub>[#160429](https://github.com/flutter/flutter/pull/160429) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160429) 9 additions and 2 deletions in 1 file</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from transitive closure of dependencies<br />
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) opened on on December 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160443) 250 additions and 57 deletions in 3 files</sub><br />
