@@ -543,7 +543,7 @@
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Reland: (Add `crossOrigin` property to `<img>` tag used for decoding)++
-  <sub>[#57228](https://github.com/flutter/engine/pull/57228) merged on December 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/57228) over 17 hours, 71 additions and 15 deletions in 6 files</sub>
+  <sub>[#57228](https://github.com/flutter/engine/pull/57228) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/engine/pull/57228) over 17 hours, 71 additions and 15 deletions in 6 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly report `dart format` errors
