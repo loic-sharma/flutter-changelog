@@ -818,6 +818,10 @@
   <sub>[#56879](https://github.com/flutter/engine/pull/56879) merged on December 2, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/engine/pull/56879) over 2 days, 44 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use `eventTarget` when computing pointer offset<br />
+  <sub>[#56949](https://github.com/flutter/engine/pull/56949) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56949) over 20 hours, 48 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart SDK from 0740ded7b9bf to 5785058c9bb1 (5 revisions)<br />
   <sub>[#56886](https://github.com/flutter/engine/pull/56886) merged on December 2, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/engine/pull/56886) over 2 days, 356 additions and 228 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -829,10 +833,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Disable group opacity when a RuntimeEffect is in use<br />
   <sub>[#56936](https://github.com/flutter/engine/pull/56936) merged on December 5, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/engine/pull/56936) over 1 day, 187 additions and 8 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Use `eventTarget` when computing pointer offset<br />
-  <sub>[#56949](https://github.com/flutter/engine/pull/56949) merged on December 5, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/engine/pull/56949) over 20 hours, 48 additions and 7 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 * **[LN Liberda](https://github.com/selfisekai)** &mdash; Replace outdated wiki URLs in pull request template<br />
   <sub>[#56824](https://github.com/flutter/engine/pull/56824) merged on December 2, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/engine/pull/56824) over 5 days, 7 additions and 7 deletions in 1 file</sub><br />
