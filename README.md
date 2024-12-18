@@ -992,11 +992,15 @@
 
 ### December 14, 2024 to December 20, 2024
 
-4 commits.
+5 commits.
 
 * **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtools<br />
   <sub>[#6749](https://github.com/flutter/packages/pull/6749) merged on December 16, 2024 &mdash; **Extra large:** [292 comments](https://github.com/flutter/packages/pull/6749) over 7 months, 5156 additions and 3 deletions in 39 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [sigmundch](https://github.com/sigmundch), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Re-enable macOS sandboxing<br />
+  <sub>[#8293](https://github.com/flutter/packages/pull/8293) merged on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8293) over 4 days, 30 additions and 60 deletions in 30 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [google_adsense] Add optional init parameters.<br />
   <sub>[#8297](https://github.com/flutter/packages/pull/8297) merged on December 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8297) over 2 days, 226 additions and 26 deletions in 14 files</sub><br />
