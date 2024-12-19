@@ -117,7 +117,7 @@
   <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160549) 108 additions and 299 deletions in 4 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TickerMode` refactor<br />
-  <sub>[#160566](https://github.com/flutter/flutter/pull/160566) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160566) 27 additions and 24 deletions in 1 file</sub><br />
+  <sub>[#160566](https://github.com/flutter/flutter/pull/160566) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160566) 24 additions and 27 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `ImplicitlyAnimatedWidgetState` code cleanup<br />
   <sub>[#160567](https://github.com/flutter/flutter/pull/160567) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160567) 10 additions and 25 deletions in 1 file</sub><br />
