@@ -111,7 +111,7 @@
   <sub>[#160516](https://github.com/flutter/flutter/pull/160516) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160516) 9 additions and 6 deletions in 2 files</sub><br />
 
 * **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; remove`useMaterial3: true,` in from the template<br />
-  <sub>[#160525](https://github.com/flutter/flutter/pull/160525) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160525) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#160525](https://github.com/flutter/flutter/pull/160525) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160525) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
@@ -139,4 +139,10 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; deprecate `UniqueWidget`<br />
   <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format outside packages<br />
+  <sub>[#160570](https://github.com/flutter/flutter/pull/160570) opened on on December 19, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160570) 41595 additions and 47016 deletions in 2029 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format tool<br />
+  <sub>[#160571](https://github.com/flutter/flutter/pull/160571) opened on on December 19, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160571) 119855 additions and 101421 deletions in 858 files</sub><br />
 
