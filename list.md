@@ -4,7 +4,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-32 commits.
+33 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Framework
   <sub>[#160545](https://github.com/flutter/flutter/pull/160545) merged on December 19, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/160545) over 21 hours, 455815 additions and 416698 deletions in 4411 files</sub>
@@ -53,6 +53,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Upstream and Origin check
   <sub>[#160574](https://github.com/flutter/flutter/pull/160574) merged on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160574) over 1 hour, 20 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso), [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [monorepo] Fix tech debt cost benchmark
+  <sub>[#160609](https://github.com/flutter/flutter/pull/160609) merged on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160609) over 3 hours, 2 additions and 36 deletions in 1 file</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] remove web engine windows build
   <sub>[#160573](https://github.com/flutter/flutter/pull/160573) merged on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160573) over 3 hours, 0 additions and 154 deletions in 2 files</sub>
