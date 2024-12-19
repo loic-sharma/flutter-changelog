@@ -144,5 +144,5 @@
   <sub>[#160571](https://github.com/flutter/flutter/pull/160571) opened on on December 19, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160571) 119855 additions and 101421 deletions in 858 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] remove web engine windows build<br />
-  <sub>[#160573](https://github.com/flutter/flutter/pull/160573) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160573) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#160573](https://github.com/flutter/flutter/pull/160573) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160573) 0 additions and 1 deletion in 1 file</sub><br />
 
