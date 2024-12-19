@@ -98,9 +98,6 @@
 * **[Montazer](https://github.com/MrMontazer)** &mdash; Fix TextField issues in RTL<br />
   <sub>[#160516](https://github.com/flutter/flutter/pull/160516) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160516) 9 additions and 6 deletions in 2 files</sub><br />
 
-* **[Lucas SAUDON](https://github.com/lsaudon)** &mdash; remove`useMaterial3: true,` in from the template<br />
-  <sub>[#160525](https://github.com/flutter/flutter/pull/160525) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160525) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
 
@@ -111,7 +108,7 @@
   <sub>[#160548](https://github.com/flutter/flutter/pull/160548) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160548) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.<br />
-  <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160549) 109 additions and 299 deletions in 5 files</sub><br />
+  <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160549) 109 additions and 289 deletions in 5 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TickerMode` refactor<br />
   <sub>[#160566](https://github.com/flutter/flutter/pull/160566) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160566) 24 additions and 27 deletions in 1 file</sub><br />
