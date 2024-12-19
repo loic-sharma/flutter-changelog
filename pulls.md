@@ -83,9 +83,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
   <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/160354) 1124 additions and 291 deletions in 92 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; Fix infinite build loop with `DropdownMenu` and `ListenableBuilder`<br />
-  <sub>[#160397](https://github.com/flutter/flutter/pull/160397) opened on on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160397) 49 additions and 1 deletion in 2 files</sub><br />
-
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from transitive closure of dependencies<br />
   <sub>[#160443](https://github.com/flutter/flutter/pull/160443) opened on on December 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160443) 250 additions and 57 deletions in 3 files</sub><br />
 
@@ -145,4 +142,7 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Format tool<br />
   <sub>[#160571](https://github.com/flutter/flutter/pull/160571) opened on on December 19, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160571) 119855 additions and 101421 deletions in 858 files</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] remove web engine windows build<br />
+  <sub>[#160573](https://github.com/flutter/flutter/pull/160573) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160573) 0 additions and 1 deletion in 1 file</sub><br />
 

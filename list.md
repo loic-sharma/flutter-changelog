@@ -4,7 +4,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-26 commits.
+27 commits.
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands
   <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub>
@@ -37,6 +37,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip integration tests that consistently OOM on a Windows platform.
   <sub>[#160368](https://github.com/flutter/flutter/pull/160368) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160368) over 7 minutes, 7 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Commit engine.realm as empty
+  <sub>[#160541](https://github.com/flutter/flutter/pull/160541) merged on December 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160541) over 4 hours, 4 additions and 30 deletions in 4 files</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Christopher Fujino](https://github.com/christopherfujino), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Trigger Build
   <sub>[#160476](https://github.com/flutter/flutter/pull/160476) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160476) over 12 minutes, 0 additions and 0 deletions in 0 files</sub>
