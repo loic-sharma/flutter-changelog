@@ -116,9 +116,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.<br />
   <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160549) 109 additions and 299 deletions in 5 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Split build and test builders for web engine<br />
-  <sub>[#160550](https://github.com/flutter/flutter/pull/160550) opened on on December 18, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/160550) 446 additions and 174 deletions in 9 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TickerMode` refactor<br />
   <sub>[#160566](https://github.com/flutter/flutter/pull/160566) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160566) 24 additions and 27 deletions in 1 file</sub><br />
 
