@@ -4,11 +4,15 @@
 
 ### December 14, 2024 to December 20, 2024
 
-31 commits.
+32 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Dart code in engine<br />
   <sub>[#160576](https://github.com/flutter/flutter/pull/160576) merged on December 19, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/160576) over 11 hours, 68404 additions and 68049 deletions in 721 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Framework<br />
+  <sub>[#160545](https://github.com/flutter/flutter/pull/160545) merged on December 19, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/160545) over 21 hours, 455815 additions and 416698 deletions in 4411 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands<br />
   <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub><br />
