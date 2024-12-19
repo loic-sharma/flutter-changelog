@@ -114,7 +114,7 @@
   <sub>[#160548](https://github.com/flutter/flutter/pull/160548) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160548) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.<br />
-  <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160549) 108 additions and 299 deletions in 4 files</sub><br />
+  <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160549) 109 additions and 299 deletions in 5 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Split build and test builders for web engine<br />
   <sub>[#160550](https://github.com/flutter/flutter/pull/160550) opened on on December 18, 2024 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/160550) 446 additions and 174 deletions in 9 files</sub><br />
@@ -127,7 +127,4 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; deprecate `UniqueWidget`<br />
   <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Dart code in engine<br />
-  <sub>[#160576](https://github.com/flutter/flutter/pull/160576) opened on on December 19, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/160576) 68404 additions and 68049 deletions in 721 files</sub><br />
 
