@@ -53,9 +53,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update CHANGELOG.md for 3.27 release<br />
   <sub>[#160104](https://github.com/flutter/flutter/pull/160104) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160104) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; [DO NOT SUBMIT] enable dartfmt presubmit check<br />
-  <sub>[#160116](https://github.com/flutter/flutter/pull/160116) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160116) 6 additions and 0 deletions in 1 file</sub><br />
-
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
@@ -95,9 +92,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Revert "[Reland] Force automatic ndk download when building for Andro…<br />
   <sub>[#160454](https://github.com/flutter/flutter/pull/160454) opened on on December 17, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160454) 16 additions and 385 deletions in 43 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Final format<br />
-  <sub>[#160456](https://github.com/flutter/flutter/pull/160456) opened on on December 17, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160456) 455416 additions and 416476 deletions in 4407 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Test generated localizations<br />
   <sub>[#160479](https://github.com/flutter/flutter/pull/160479) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160479) 19 additions and 1 deletion in 2 files</sub><br />
 
@@ -121,9 +115,6 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.<br />
   <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160549) 108 additions and 299 deletions in 4 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Test<br />
-  <sub>[#160553](https://github.com/flutter/flutter/pull/160553) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160553) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `flutter` repo for engine golds instead of `flutter-engine`.<br />
   <sub>[#160556](https://github.com/flutter/flutter/pull/160556) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160556) 62 additions and 4 deletions in 2 files</sub><br />
