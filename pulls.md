@@ -122,3 +122,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; deprecate `UniqueWidget`<br />
   <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; integration_test: Ignore .build dir for iOS/macOS<br />
+  <sub>[#160614](https://github.com/flutter/flutter/pull/160614) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160614) 13 additions and 0 deletions in 2 files</sub><br />
+
