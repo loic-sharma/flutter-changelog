@@ -63,7 +63,7 @@
   <sub>[#160250](https://github.com/flutter/flutter/pull/160250) opened on on December 13, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160250) 14 additions and 19 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; DO NOT MERGE: Enable `explicit-package-dependencies`.<br />
-  <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160289) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160289) 9 additions and 12 deletions in 1 file</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds ListenableBuilder.multiple to make it easier to listen to multiple listenables<br />
   <sub>[#160304](https://github.com/flutter/flutter/pull/160304) opened on on December 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160304) 55 additions and 0 deletions in 2 files</sub><br />
@@ -76,15 +76,6 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
   <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [36 comments](https://github.com/flutter/flutter/pull/160354) 1124 additions and 291 deletions in 92 files</sub><br />
-
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from transitive closure of dependencies<br />
-  <sub>[#160443](https://github.com/flutter/flutter/pull/160443) opened on on December 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160443) 248 additions and 57 deletions in 3 files</sub><br />
-
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Change the startup message for the "flutter daemon" command<br />
-  <sub>[#160444](https://github.com/flutter/flutter/pull/160444) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160444) 34 additions and 1 deletion in 2 files</sub><br />
-
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; [Formatting] Fix dart fix test files<br />
-  <sub>[#160453](https://github.com/flutter/flutter/pull/160453) opened on on December 17, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/160453) 922 additions and 593 deletions in 36 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Revert "[Reland] Force automatic ndk download when building for Andro…<br />
   <sub>[#160454](https://github.com/flutter/flutter/pull/160454) opened on on December 17, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160454) 16 additions and 385 deletions in 43 files</sub><br />
@@ -121,4 +112,7 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; integration_test: Ignore .build dir for iOS/macOS<br />
   <sub>[#160614](https://github.com/flutter/flutter/pull/160614) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160614) 13 additions and 0 deletions in 2 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; ++<br />
+  <sub>[#160618](https://github.com/flutter/flutter/pull/160618) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160618) 3 additions and 1 deletion in 1 file</sub><br />
 
