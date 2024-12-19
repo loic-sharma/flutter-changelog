@@ -111,9 +111,6 @@
   <sub>[#160614](https://github.com/flutter/flutter/pull/160614) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160614) 13 additions and 0 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; ++<br />
-  <sub>[#160618](https://github.com/flutter/flutter/pull/160618) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160618) 3 additions and 1 deletion in 1 file</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; ++<br />
   <sub>[#160619](https://github.com/flutter/flutter/pull/160619) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160619) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove unused BliPass::EncodeCommands arg and cleanup.<br />
