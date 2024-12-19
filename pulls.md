@@ -56,8 +56,8 @@
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] `FLUTTER_WEB_AUTO_DETECT` is false by default<br />
-  <sub>[#160191](https://github.com/flutter/flutter/pull/160191) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160191) 0 additions and 44 deletions in 5 files</sub><br />
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Make `FLUTTER_WEB_AUTO_DETECT` false by default<br />
+  <sub>[#160191](https://github.com/flutter/flutter/pull/160191) opened on on December 12, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160191) 3 additions and 55 deletions in 7 files</sub><br />
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
