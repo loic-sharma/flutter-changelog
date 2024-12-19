@@ -1176,7 +1176,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-16 commits.
+17 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS<br />
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub><br />
@@ -1205,6 +1205,10 @@
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Add a few design libraries as examples on the widget index<br />
   <sub>[#11509](https://github.com/flutter/website/pull/11509) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11509) over 5 hours, 6 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Moving location of "can I use Impeller?" page<br />
+  <sub>[#11517](https://github.com/flutter/website/pull/11517) merged on December 19, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11517) over 8 hours, 3 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding a link to what's new to the banner<br />
   <sub>[#11518](https://github.com/flutter/website/pull/11518) merged on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11518) over 7 hours, 2 additions and 1 deletion in 1 file</sub><br />
