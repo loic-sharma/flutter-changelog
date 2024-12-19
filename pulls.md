@@ -81,7 +81,7 @@
   <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [23 comments](https://github.com/flutter/flutter/pull/160354) 1124 additions and 291 deletions in 92 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash; Only bundle assets from transitive closure of dependencies<br />
-  <sub>[#160443](https://github.com/flutter/flutter/pull/160443) opened on on December 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160443) 250 additions and 57 deletions in 3 files</sub><br />
+  <sub>[#160443](https://github.com/flutter/flutter/pull/160443) opened on on December 17, 2024 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/160443) 248 additions and 57 deletions in 3 files</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Change the startup message for the "flutter daemon" command<br />
   <sub>[#160444](https://github.com/flutter/flutter/pull/160444) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160444) 34 additions and 1 deletion in 2 files</sub><br />
