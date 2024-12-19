@@ -137,9 +137,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; deprecate `UniqueWidget`<br />
   <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] remove web engine windows build<br />
-  <sub>[#160573](https://github.com/flutter/flutter/pull/160573) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160573) 0 additions and 154 deletions in 2 files</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Dart code in engine<br />
   <sub>[#160576](https://github.com/flutter/flutter/pull/160576) opened on on December 19, 2024 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/160576) 68405 additions and 68050 deletions in 721 files</sub><br />
 
