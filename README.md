@@ -4,7 +4,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-36 commits.
+37 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Framework<br />
   <sub>[#160545](https://github.com/flutter/flutter/pull/160545) merged on December 19, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/160545) over 21 hours, 455815 additions and 416698 deletions in 4411 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `TestGoldenComparator` to be useful for non-web (Android, iOS) integration tests<br />
   <sub>[#160215](https://github.com/flutter/flutter/pull/160215) merged on December 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/160215) over 3 days, 499 additions and 274 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove all remaining use of mock engine<br />
+  <sub>[#160635](https://github.com/flutter/flutter/pull/160635) merged on December 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/160635) over 2 hours, 660 additions and 495 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Split build and test builders for web engine<br />
   <sub>[#160550](https://github.com/flutter/flutter/pull/160550) merged on December 19, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/160550) over 23 hours, 464 additions and 181 deletions in 9 files</sub><br />
@@ -86,9 +90,9 @@
   <sub>[#160421](https://github.com/flutter/flutter/pull/160421) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160421) over 36 minutes, 7 additions and 0 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Consistently set `Cache.flutterRoot` in `create_test.dart`.<br />
-  <sub>[#160403](https://github.com/flutter/flutter/pull/160403) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160403) over 1 hour, 6 additions and 212 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable linux packages-autoroller<br />
+  <sub>[#160266](https://github.com/flutter/flutter/pull/160266) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160266) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Formatter pre-work: Fix syntax in test_fixes<br />
   <sub>[#160371](https://github.com/flutter/flutter/pull/160371) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160371) over 30 minutes, 102 additions and 104 deletions in 4 files</sub><br />
@@ -122,24 +126,20 @@
   <sub>[#160108](https://github.com/flutter/flutter/pull/160108) merged on December 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160108) over 5 days, 3 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable linux packages-autoroller<br />
-  <sub>[#160266](https://github.com/flutter/flutter/pull/160266) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160266) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Normalize localizations with dartfmt in presubmit check<br />
-  <sub>[#160395](https://github.com/flutter/flutter/pull/160395) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160395) over 41 minutes, 17 additions and 7 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Consistently set `Cache.flutterRoot` in `create_test.dart`.<br />
+  <sub>[#160403](https://github.com/flutter/flutter/pull/160403) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160403) over 1 hour, 6 additions and 212 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `--no-implicit-pubspec-resolution` with `flutter config --explicit-package-dependencies`.<br />
   <sub>[#160400](https://github.com/flutter/flutter/pull/160400) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160400) over 1 hour, 7 additions and 28 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adjust tools tests that would be broken by formatting<br />
-  <sub>[#160393](https://github.com/flutter/flutter/pull/160393) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160393) over 1 hour, 12 additions and 5 deletions in 5 files</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Normalize localizations with dartfmt in presubmit check<br />
+  <sub>[#160395](https://github.com/flutter/flutter/pull/160395) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160395) over 41 minutes, 17 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Merges changes from stable changelog to master.<br />
-  <sub>[#160284](https://github.com/flutter/flutter/pull/160284) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160284) over 2 days, 11 additions and 0 deletions in 1 file</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adjust tools tests that would be broken by formatting<br />
+  <sub>[#160393](https://github.com/flutter/flutter/pull/160393) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160393) over 1 hour, 12 additions and 5 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Ignore cxx folders for all of flutter/flutter<br />
@@ -149,6 +149,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Remove more references to deprecated package:usage (executable, runner)<br />
   <sub>[#160369](https://github.com/flutter/flutter/pull/160369) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160369) over 1 hour, 8 additions and 233 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; Merges changes from stable changelog to master.<br />
+  <sub>[#160284](https://github.com/flutter/flutter/pull/160284) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160284) over 2 days, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 ### December 7, 2024 to December 13, 2024
 
