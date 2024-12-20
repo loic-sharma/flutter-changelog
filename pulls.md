@@ -93,7 +93,7 @@
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.<br />
-  <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/160549) 110 additions and 289 deletions in 5 files</sub><br />
+  <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/160549) 110 additions and 289 deletions in 5 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TickerMode` refactor<br />
   <sub>[#160566](https://github.com/flutter/flutter/pull/160566) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160566) 24 additions and 26 deletions in 1 file</sub><br />
@@ -114,5 +114,5 @@
   <sub>[#160643](https://github.com/flutter/flutter/pull/160643) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160643) 27 additions and 84 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update README.md<br />
-  <sub>[#160677](https://github.com/flutter/flutter/pull/160677) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160677) 3 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#160677](https://github.com/flutter/flutter/pull/160677) opened on on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160677) 3 additions and 1 deletion in 1 file</sub><br />
 
