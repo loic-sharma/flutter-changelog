@@ -111,5 +111,8 @@
   <sub>[#160677](https://github.com/flutter/flutter/pull/160677) opened on on December 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160677) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] workarounds for slow Adreno primitive restart performance.<br />
-  <sub>[#160683](https://github.com/flutter/flutter/pull/160683) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160683) 132 additions and 21 deletions in 11 files</sub><br />
+  <sub>[#160683](https://github.com/flutter/flutter/pull/160683) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160683) 135 additions and 20 deletions in 12 files</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] unconditionally skip bash test<br />
+  <sub>[#160690](https://github.com/flutter/flutter/pull/160690) opened on on December 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160690) 1 addition and 1 deletion in 1 file</sub><br />
 
