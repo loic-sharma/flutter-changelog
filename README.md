@@ -1204,7 +1204,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-18 commits.
+19 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS<br />
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub><br />
@@ -1229,6 +1229,10 @@
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding a button to open example in IDX<br />
   <sub>[#11519](https://github.com/flutter/website/pull/11519) merged on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11519) over 7 hours, 18 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Reference `EnableImpeller` not `DisableImpeller`.<br />
+  <sub>[#11523](https://github.com/flutter/website/pull/11523) merged on December 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11523) over 5 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update banner for Flutter 3.27 release<br />
   <sub>[#11513](https://github.com/flutter/website/pull/11513) merged on December 17, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11513) over 45 minutes, 3 additions and 3 deletions in 2 files</sub><br />
