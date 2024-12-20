@@ -108,11 +108,8 @@
   <sub>[#160614](https://github.com/flutter/flutter/pull/160614) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160614) 13 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES SurfaceTexture rendering.<br />
-  <sub>[#160634](https://github.com/flutter/flutter/pull/160634) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160634) 65 additions and 20 deletions in 10 files</sub><br />
+  <sub>[#160634](https://github.com/flutter/flutter/pull/160634) opened on on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160634) 65 additions and 20 deletions in 10 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert rematching DropdownMenu.initialSelection<br />
   <sub>[#160643](https://github.com/flutter/flutter/pull/160643) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160643) 27 additions and 84 deletions in 2 files</sub><br />
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Ensure engine.version is up to date in the monorepo<br />
-  <sub>[#160668](https://github.com/flutter/flutter/pull/160668) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160668) 128 additions and 63 deletions in 6 files</sub><br />
 
