@@ -116,3 +116,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert rematching DropdownMenu.initialSelection<br />
   <sub>[#160643](https://github.com/flutter/flutter/pull/160643) opened on on December 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160643) 27 additions and 84 deletions in 2 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove usage of `Usage` from build system<br />
+  <sub>[#160663](https://github.com/flutter/flutter/pull/160663) opened on on December 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160663) 0 additions and 33 deletions in 14 files</sub><br />
+
