@@ -110,3 +110,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES SurfaceTexture rendering.<br />
   <sub>[#160634](https://github.com/flutter/flutter/pull/160634) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160634) 57 additions and 12 deletions in 9 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor keyboard manager tests<br />
+  <sub>[#160637](https://github.com/flutter/flutter/pull/160637) opened on on December 20, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/160637) 1362 additions and 1172 deletions in 27 files</sub><br />
+
