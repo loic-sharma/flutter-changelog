@@ -89,9 +89,6 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [monorepo] fix web_long_running_tests for monorepo<br />
-  <sub>[#160547](https://github.com/flutter/flutter/pull/160547) opened on on December 18, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160547) 14 additions and 9 deletions in 1 file</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.<br />
   <sub>[#160549](https://github.com/flutter/flutter/pull/160549) opened on on December 18, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160549) 109 additions and 289 deletions in 5 files</sub><br />
 
@@ -107,9 +104,9 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; integration_test: Ignore .build dir for iOS/macOS<br />
   <sub>[#160614](https://github.com/flutter/flutter/pull/160614) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160614) 13 additions and 0 deletions in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; ++<br />
-  <sub>[#160619](https://github.com/flutter/flutter/pull/160619) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160619) 4 additions and 2 deletions in 1 file</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; test if goldens are working w/ framework.<br />
   <sub>[#160629](https://github.com/flutter/flutter/pull/160629) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160629) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES SurfaceTexture rendering.<br />
+  <sub>[#160634](https://github.com/flutter/flutter/pull/160634) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160634) 57 additions and 12 deletions in 9 files</sub><br />
 
