@@ -72,7 +72,7 @@
   <sub>[#160352](https://github.com/flutter/flutter/pull/160352) opened on on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160352) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
-  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/160354) 1398 additions and 572 deletions in 92 files</sub><br />
+  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/160354) 1368 additions and 572 deletions in 92 files</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Revert "[Reland] Force automatic ndk download when building for Andro…<br />
   <sub>[#160454](https://github.com/flutter/flutter/pull/160454) opened on on December 17, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160454) 16 additions and 385 deletions in 43 files</sub><br />
@@ -102,7 +102,7 @@
   <sub>[#160567](https://github.com/flutter/flutter/pull/160567) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160567) 10 additions and 25 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; deprecate `UniqueWidget`<br />
-  <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; integration_test: Ignore .build dir for iOS/macOS<br />
   <sub>[#160614](https://github.com/flutter/flutter/pull/160614) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160614) 13 additions and 0 deletions in 2 files</sub><br />
