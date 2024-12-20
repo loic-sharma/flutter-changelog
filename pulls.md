@@ -110,3 +110,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_tools] unconditionally skip bash test<br />
   <sub>[#160690](https://github.com/flutter/flutter/pull/160690) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160690) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move barrier setting out of render pass builder.<br />
+  <sub>[#160693](https://github.com/flutter/flutter/pull/160693) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160693) 10 additions and 11 deletions in 2 files</sub><br />
+
