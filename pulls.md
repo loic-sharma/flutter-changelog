@@ -104,12 +104,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; deprecate `UniqueWidget`<br />
   <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; integration_test: Ignore .build dir for iOS/macOS<br />
-  <sub>[#160614](https://github.com/flutter/flutter/pull/160614) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160614) 13 additions and 0 deletions in 2 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES SurfaceTexture rendering.<br />
-  <sub>[#160634](https://github.com/flutter/flutter/pull/160634) opened on on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160634) 65 additions and 20 deletions in 10 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert rematching DropdownMenu.initialSelection<br />
   <sub>[#160643](https://github.com/flutter/flutter/pull/160643) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160643) 27 additions and 84 deletions in 2 files</sub><br />
 

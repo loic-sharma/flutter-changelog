@@ -4,7 +4,7 @@
 
 ### December 14, 2024 to December 20, 2024
 
-45 commits.
+48 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Framework<br />
   <sub>[#160545](https://github.com/flutter/flutter/pull/160545) merged on December 19, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/160545) over 21 hours, 455815 additions and 416698 deletions in 4411 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `TestGoldenComparator` to be useful for non-web (Android, iOS) integration tests<br />
   <sub>[#160215](https://github.com/flutter/flutter/pull/160215) merged on December 16, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/160215) over 3 days, 499 additions and 274 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Ensure engine.version is up to date in the monorepo<br />
+  <sub>[#160668](https://github.com/flutter/flutter/pull/160668) merged on December 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160668) over 2 hours, 131 additions and 63 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Roll dart sdk to 3.7.0-266.0.dev<br />
   <sub>[#160624](https://github.com/flutter/flutter/pull/160624) merged on December 20, 2024 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/160624) over 19 hours, 924 additions and 955 deletions in 7 files</sub><br />
@@ -50,25 +54,25 @@
   <sub>[#160550](https://github.com/flutter/flutter/pull/160550) merged on December 19, 2024 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/160550) over 23 hours, 464 additions and 181 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip integration tests that consistently OOM on a Windows platform.<br />
-  <sub>[#160368](https://github.com/flutter/flutter/pull/160368) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160368) over 7 minutes, 7 additions and 6 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
-* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Allow integration test helpers to work on substrings instead of whole strings<br />
-  <sub>[#160437](https://github.com/flutter/flutter/pull/160437) merged on December 20, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/160437) over 3 days, 32 additions and 23 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename and define `FlutterManifest.generateLocalizations`.<br />
+  <sub>[#160401](https://github.com/flutter/flutter/pull/160401) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160401) over 2 hours, 85 additions and 71 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Properly report `dart format` errors<br />
   <sub>[#160364](https://github.com/flutter/flutter/pull/160364) merged on December 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160364) over 5 hours, 49 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename and define `FlutterManifest.generateLocalizations`.<br />
-  <sub>[#160401](https://github.com/flutter/flutter/pull/160401) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160401) over 2 hours, 85 additions and 71 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Allow integration test helpers to work on substrings instead of whole strings<br />
+  <sub>[#160437](https://github.com/flutter/flutter/pull/160437) merged on December 20, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/160437) over 3 days, 32 additions and 23 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Trigger Build Part Deux<br />
   <sub>[#160481](https://github.com/flutter/flutter/pull/160481) merged on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160481) over 20 hours, 188 additions and 63 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Skip integration tests that consistently OOM on a Windows platform.<br />
+  <sub>[#160368](https://github.com/flutter/flutter/pull/160368) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160368) over 7 minutes, 7 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change CRLF line endings to LF to match the `.gitattributes` expectations.<br />
   <sub>[#160557](https://github.com/flutter/flutter/pull/160557) merged on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160557) over 14 hours, 40 additions and 40 deletions in 1 file</sub><br />
@@ -77,6 +81,14 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Upstream and Origin check<br />
   <sub>[#160574](https://github.com/flutter/flutter/pull/160574) merged on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160574) over 1 hour, 20 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso), [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES SurfaceTexture rendering.<br />
+  <sub>[#160634](https://github.com/flutter/flutter/pull/160634) merged on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160634) over 18 hours, 65 additions and 20 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; integration_test: Ignore .build dir for iOS/macOS<br />
+  <sub>[#160614](https://github.com/flutter/flutter/pull/160614) merged on December 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160614) over 22 hours, 13 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove unused BliPass::EncodeCommands arg and cleanup.<br />
   <sub>[#160623](https://github.com/flutter/flutter/pull/160623) merged on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160623) over 19 hours, 46 additions and 61 deletions in 27 files</sub><br />
@@ -94,65 +106,73 @@
   <sub>[#160627](https://github.com/flutter/flutter/pull/160627) merged on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160627) over 42 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update DEPS, remove `upstream-buildroot`<br />
-  <sub>[#160548](https://github.com/flutter/flutter/pull/160548) merged on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160548) over 1 day, 0 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [monorepo] Fix tech debt cost benchmark<br />
-  <sub>[#160609](https://github.com/flutter/flutter/pull/160609) merged on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160609) over 3 hours, 2 additions and 36 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] remove web engine windows build<br />
-  <sub>[#160573](https://github.com/flutter/flutter/pull/160573) merged on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160573) over 3 hours, 0 additions and 154 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `integration_test` dependencies to non-`dev_dependencies`.<br />
-  <sub>[#160380](https://github.com/flutter/flutter/pull/160380) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160380) over 1 hour, 107 additions and 20 deletions in 14 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Add more entry-point annotations for test-only code.<br />
-  <sub>[#160421](https://github.com/flutter/flutter/pull/160421) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160421) over 36 minutes, 7 additions and 0 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix regression to hardcoded AGP/Kotlin values in Android module templates<br />
-  <sub>[#160108](https://github.com/flutter/flutter/pull/160108) merged on December 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160108) over 5 days, 3 additions and 3 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable linux packages-autoroller<br />
-  <sub>[#160266](https://github.com/flutter/flutter/pull/160266) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160266) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix a bug to skip `flutter_gen` when synthetic packages are disabled<br />
-  <sub>[#160367](https://github.com/flutter/flutter/pull/160367) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160367) over 46 minutes, 45 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `mac_test.dart` to `explicit-package-dependencies`.<br />
+  <sub>[#160375](https://github.com/flutter/flutter/pull/160375) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160375) over 2 hours, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `test/commands.shard` (mostly) to `explicit-package-dependencies`.<br />
   <sub>[#160288](https://github.com/flutter/flutter/pull/160288) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160288) over 2 days, 69 additions and 5 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Commit engine.realm as empty<br />
-  <sub>[#160541](https://github.com/flutter/flutter/pull/160541) merged on December 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160541) over 4 hours, 4 additions and 30 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Christopher Fujino](https://github.com/christopherfujino), [Yegor](https://github.com/yjbanov)</sub><br />
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Trigger Build<br />
-  <sub>[#160476](https://github.com/flutter/flutter/pull/160476) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160476) over 12 minutes, 0 additions and 0 deletions in 0 files</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; [monorepo] remove realm checker<br />
-  <sub>[#160457](https://github.com/flutter/flutter/pull/160457) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160457) over 15 minutes, 0 additions and 34 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Consistently set `Cache.flutterRoot` in `create_test.dart`.<br />
-  <sub>[#160403](https://github.com/flutter/flutter/pull/160403) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160403) over 1 hour, 6 additions and 212 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [monorepo] Fix tech debt cost benchmark<br />
+  <sub>[#160609](https://github.com/flutter/flutter/pull/160609) merged on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160609) over 3 hours, 2 additions and 36 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adjust ignores for 'dart format'<br />
   <sub>[#160382](https://github.com/flutter/flutter/pull/160382) merged on December 16, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/160382) over 54 minutes, 249 additions and 134 deletions in 30 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; [monorepo] remove realm checker<br />
+  <sub>[#160457](https://github.com/flutter/flutter/pull/160457) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160457) over 15 minutes, 0 additions and 34 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Formatter pre-work: Fix syntax in test_fixes<br />
+  <sub>[#160371](https://github.com/flutter/flutter/pull/160371) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160371) over 30 minutes, 102 additions and 104 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix a bug to skip `flutter_gen` when synthetic packages are disabled<br />
+  <sub>[#160367](https://github.com/flutter/flutter/pull/160367) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160367) over 46 minutes, 45 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update DEPS, remove `upstream-buildroot`<br />
+  <sub>[#160548](https://github.com/flutter/flutter/pull/160548) merged on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160548) over 1 day, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] remove web engine windows build<br />
+  <sub>[#160573](https://github.com/flutter/flutter/pull/160573) merged on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160573) over 3 hours, 0 additions and 154 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Commit engine.realm as empty<br />
+  <sub>[#160541](https://github.com/flutter/flutter/pull/160541) merged on December 19, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160541) over 4 hours, 4 additions and 30 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Christopher Fujino](https://github.com/christopherfujino), [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `integration_test` dependencies to non-`dev_dependencies`.<br />
+  <sub>[#160380](https://github.com/flutter/flutter/pull/160380) merged on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160380) over 1 hour, 107 additions and 20 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Trigger Build<br />
+  <sub>[#160476](https://github.com/flutter/flutter/pull/160476) merged on December 17, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160476) over 12 minutes, 0 additions and 0 deletions in 0 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+
+* **[Tess Strickland](https://github.com/sstrickl)** &mdash; Add more entry-point annotations for test-only code.<br />
+  <sub>[#160421](https://github.com/flutter/flutter/pull/160421) merged on December 17, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160421) over 36 minutes, 7 additions and 0 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Consistently set `Cache.flutterRoot` in `create_test.dart`.<br />
+  <sub>[#160403](https://github.com/flutter/flutter/pull/160403) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160403) over 1 hour, 6 additions and 212 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Fix regression to hardcoded AGP/Kotlin values in Android module templates<br />
+  <sub>[#160108](https://github.com/flutter/flutter/pull/160108) merged on December 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160108) over 5 days, 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `--no-implicit-pubspec-resolution` with `flutter config --explicit-package-dependencies`.<br />
   <sub>[#160400](https://github.com/flutter/flutter/pull/160400) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160400) over 1 hour, 7 additions and 28 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; re-enable linux packages-autoroller<br />
+  <sub>[#160266](https://github.com/flutter/flutter/pull/160266) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160266) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Normalize localizations with dartfmt in presubmit check<br />
   <sub>[#160395](https://github.com/flutter/flutter/pull/160395) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160395) over 41 minutes, 17 additions and 7 deletions in 2 files</sub><br />
@@ -161,14 +181,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Adjust tools tests that would be broken by formatting<br />
   <sub>[#160393](https://github.com/flutter/flutter/pull/160393) merged on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160393) over 1 hour, 12 additions and 5 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Formatter pre-work: Fix syntax in test_fixes<br />
-  <sub>[#160371](https://github.com/flutter/flutter/pull/160371) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160371) over 30 minutes, 102 additions and 104 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Migrate `mac_test.dart` to `explicit-package-dependencies`.<br />
-  <sub>[#160375](https://github.com/flutter/flutter/pull/160375) merged on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160375) over 2 hours, 11 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Ignore cxx folders for all of flutter/flutter<br />
   <sub>[#160381](https://github.com/flutter/flutter/pull/160381) merged on December 16, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160381) over 46 minutes, 1 addition and 0 deletions in 1 file</sub><br />
