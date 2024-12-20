@@ -71,8 +71,8 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso), [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Ignore codecov/codecov-action patch version updates<br />
-  <sub>[#159996](https://github.com/flutter/flutter/pull/159996) merged on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159996) over 1 week, 3 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
+  <sub>[#159996](https://github.com/flutter/flutter/pull/159996) merged on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159996) over 1 week, 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Sopheap-cloud](https://github.com/Sopheap-cloud), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [monorepo] mark local engine builds as bringup.<br />
   <sub>[#160627](https://github.com/flutter/flutter/pull/160627) merged on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160627) over 42 minutes, 1 addition and 0 deletions in 1 file</sub><br />
