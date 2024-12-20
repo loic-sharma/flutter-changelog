@@ -105,13 +105,10 @@
   <sub>[#160614](https://github.com/flutter/flutter/pull/160614) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160614) 13 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; test if goldens are working w/ framework.<br />
-  <sub>[#160629](https://github.com/flutter/flutter/pull/160629) opened on on December 19, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160629) 2 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#160629](https://github.com/flutter/flutter/pull/160629) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160629) 2 additions and 9 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Fix GLES SurfaceTexture rendering.<br />
   <sub>[#160634](https://github.com/flutter/flutter/pull/160634) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160634) 57 additions and 12 deletions in 9 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor keyboard manager tests<br />
-  <sub>[#160637](https://github.com/flutter/flutter/pull/160637) opened on on December 20, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/160637) 1362 additions and 1172 deletions in 27 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert rematching DropdownMenu.initialSelection<br />
   <sub>[#160643](https://github.com/flutter/flutter/pull/160643) opened on on December 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160643) 27 additions and 84 deletions in 2 files</sub><br />
