@@ -113,3 +113,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor keyboard manager tests<br />
   <sub>[#160637](https://github.com/flutter/flutter/pull/160637) opened on on December 20, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/160637) 1362 additions and 1172 deletions in 27 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert rematching DropdownMenu.initialSelection<br />
+  <sub>[#160643](https://github.com/flutter/flutter/pull/160643) opened on on December 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160643) 27 additions and 84 deletions in 2 files</sub><br />
+
