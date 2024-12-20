@@ -80,6 +80,9 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Test generated localizations<br />
   <sub>[#160479](https://github.com/flutter/flutter/pull/160479) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160479) 19 additions and 1 deletion in 2 files</sub><br />
 
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🔊 [tool] Add a wirelessly connected device name as `displayName`<br />
+  <sub>[#160497](https://github.com/flutter/flutter/pull/160497) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160497) 198 additions and 98 deletions in 31 files</sub><br />
+
 * **[nick9822](https://github.com/nick9822)** &mdash; added new ScrollViewKeyboardDismissBehavior variant onDrag with tests<br />
   <sub>[#160507](https://github.com/flutter/flutter/pull/160507) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160507) 57 additions and 1 deletion in 3 files</sub><br />
 
