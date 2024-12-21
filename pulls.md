@@ -104,6 +104,3 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] delete unused framework-engine test scripts<br />
   <sub>[#160698](https://github.com/flutter/flutter/pull/160698) opened on on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160698) 0 additions and 135 deletions in 2 files</sub><br />
 
-* **[Anushree Jha](https://github.com/anushreejha)** &mdash; Adjust CI runIf conditions for framework and engine-specific tasks<br />
-  <sub>[#160722](https://github.com/flutter/flutter/pull/160722) opened on on December 21, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160722) 74 additions and 74 deletions in 1 file</sub><br />
-
