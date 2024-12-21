@@ -113,6 +113,3 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] delete unused framework-engine test scripts<br />
   <sub>[#160698](https://github.com/flutter/flutter/pull/160698) opened on on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160698) 0 additions and 135 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Consider changes to `DEPS` and `engine/**` to impact most runIf-guarded builds<br />
-  <sub>[#160706](https://github.com/flutter/flutter/pull/160706) opened on on December 21, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160706) 286 additions and 0 deletions in 1 file</sub><br />
-
