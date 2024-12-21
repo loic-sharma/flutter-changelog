@@ -98,17 +98,11 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; deprecate `UniqueWidget`<br />
   <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert rematching DropdownMenu.initialSelection<br />
-  <sub>[#160643](https://github.com/flutter/flutter/pull/160643) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160643) 27 additions and 84 deletions in 2 files</sub><br />
-
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update README.md<br />
   <sub>[#160677](https://github.com/flutter/flutter/pull/160677) opened on on December 20, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160677) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] workarounds for slow Adreno primitive restart performance.<br />
   <sub>[#160683](https://github.com/flutter/flutter/pull/160683) opened on on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160683) 135 additions and 20 deletions in 12 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move barrier setting out of render pass builder.<br />
-  <sub>[#160693](https://github.com/flutter/flutter/pull/160693) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160693) 10 additions and 11 deletions in 2 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] delete unused framework-engine test scripts<br />
   <sub>[#160698](https://github.com/flutter/flutter/pull/160698) opened on on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160698) 0 additions and 135 deletions in 2 files</sub><br />
