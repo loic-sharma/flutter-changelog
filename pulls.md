@@ -101,6 +101,6 @@
 * **[munrocket](https://github.com/munrocket)** &mdash; Precise browser resizing with integration_test and driver<br />
   <sub>[#160678](https://github.com/flutter/flutter/pull/160678) opened on on December 20, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160678) 40 additions and 17 deletions in 2 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; do not layout carrousel if layout constraints are zero<br />
-  <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 40 additions and 3 deletions in 2 files</sub><br />
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; do not layout carousel if layout constraints are zero<br />
+  <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
 
