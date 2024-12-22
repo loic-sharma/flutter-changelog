@@ -101,6 +101,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] workarounds for slow Adreno primitive restart performance.<br />
   <sub>[#160683](https://github.com/flutter/flutter/pull/160683) opened on on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160683) 135 additions and 20 deletions in 12 files</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] delete unused framework-engine test scripts<br />
-  <sub>[#160698](https://github.com/flutter/flutter/pull/160698) opened on on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160698) 0 additions and 135 deletions in 2 files</sub><br />
-
