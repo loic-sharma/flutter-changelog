@@ -55,7 +55,7 @@
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Change the startup message for the "flutter daemon" command<br />
-  <sub>[#160444](https://github.com/flutter/flutter/pull/160444) merged on December 22, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160444) over 4 days, 37 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#160444](https://github.com/flutter/flutter/pull/160444) merged on December 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160444) over 4 days, 37 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove all remaining use of mock engine<br />
