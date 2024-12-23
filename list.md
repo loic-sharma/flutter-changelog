@@ -299,14 +299,14 @@
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary><img width="701" alt="Screenshot 2024-12-02 at 18 57 03" src="https://github.com/user-attachments/assets/62d85476-87fd-48e9-aaa9-42d7629d4808"><img width="701" alt="Screenshot 2024-12-02 at 18 57 21" src="https://github.com/user-attachments/assets/36f136d1-a759-4b11-b0a9-8cb6b54b8573"></details></sub>
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor gradle task runner to share error handler code
-  <sub>[#159452](https://github.com/flutter/flutter/pull/159452) merged on December 13, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/159452) over 2 weeks, 216 additions and 189 deletions in 2 files</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso), [Reid Baker](https://github.com/reidbaker)</sub>
-
 * **[Flop](https://github.com/hgraceb)** &mdash; Adjust the drawing position of OutlineInputBorder
   <sub>[#159943](https://github.com/flutter/flutter/pull/159943) merged on December 10, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159943) over 2 days, 70 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary>![before1](https://github.com/user-attachments/assets/c4b5ee75-f9f8-4ec0-baa4-7a51430893e6)    |   ![after1](https://github.com/user-attachments/assets/234b16c5-5a9a-4a1c-9f7e-d58e507533a6)![before2](https://github.com/user-attachments/assets/3afc7668-1a3f-49de-8c61-b839a120a950)    |   ![after2](https://github.com/user-attachments/assets/fd9e7f13-9da4-4639-9839-a293c77a76cf)</details></sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactor gradle task runner to share error handler code
+  <sub>[#159452](https://github.com/flutter/flutter/pull/159452) merged on December 13, 2024 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/159452) over 2 weeks, 216 additions and 189 deletions in 2 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[yim](https://github.com/yiiim)** &mdash; fix fade_transition issue
   <sub>[#157663](https://github.com/flutter/flutter/pull/157663) merged on December 11, 2024 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/157663) over 1 month, 41 additions and 2 deletions in 3 files</sub>
