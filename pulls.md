@@ -104,6 +104,3 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; do not layout carousel if layout constraints are zero<br />
   <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove bringup: true from web tests.<br />
-  <sub>[#160788](https://github.com/flutter/flutter/pull/160788) opened on on December 23, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160788) 0 additions and 1 deletion in 1 file</sub><br />
-
