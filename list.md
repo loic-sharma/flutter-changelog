@@ -4,7 +4,11 @@
 
 ### December 21, 2024 to December 27, 2024
 
-1 commits.
+2 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.
+  <sub>[#160549](https://github.com/flutter/flutter/pull/160549) merged on December 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/160549) over 4 days, 110 additions and 289 deletions in 5 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove bringup: true from web tests.
   <sub>[#160788](https://github.com/flutter/flutter/pull/160788) merged on December 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160788) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
