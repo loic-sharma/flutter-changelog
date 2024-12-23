@@ -104,3 +104,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; do not layout carousel if layout constraints are zero<br />
   <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
 
+* **[KoyaOnuki](https://github.com/KoyaOnuki)** &mdash; Oonuki/practice2<br />
+  <sub>[#160751](https://github.com/flutter/flutter/pull/160751) opened on on December 23, 2024 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/160751) 1478 additions and 293 deletions in 114 files</sub><br />
+
