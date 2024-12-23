@@ -775,9 +775,18 @@
 
 ## flutter/packages
 
+### December 21, 2024 to December 27, 2024
+
+1 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Cumulative fixes to reopen the tree.
+  <sub>[#8344](https://github.com/flutter/packages/pull/8344) merged on December 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8344) over 3 hours, 34 additions and 16 deletions in 8 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Maurice Parrish](https://github.com/bparrishMines), [Matan Lurey](https://github.com/matanlurey)</sub>
+
 ### December 14, 2024 to December 20, 2024
 
-7 commits.
+<details>
+<summary>7 commits...</summary>
 
 * **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtools
   <sub>[#6749](https://github.com/flutter/packages/pull/6749) merged on December 16, 2024 &mdash; **Extra large:** [292 comments](https://github.com/flutter/packages/pull/6749) over 7 months, 5156 additions and 3 deletions in 39 files</sub>
@@ -806,6 +815,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[shared_preferences] Add shared preferences devtools"
   <sub>[#8314](https://github.com/flutter/packages/pull/8314) merged on December 17, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/8314) over 2 hours, 3 additions and 5156 deletions in 39 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+</details>
 
 ### December 7, 2024 to December 13, 2024
 
