@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 21, 2024 to December 27, 2024
+
+1 commits.
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove bringup: true from web tests.<br />
+  <sub>[#160788](https://github.com/flutter/flutter/pull/160788) merged on December 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160788) over 3 hours, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
 ### December 14, 2024 to December 20, 2024
 
-63 commits.
+<details>
+<summary>63 commits...</summary>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Auto-format Framework<br />
   <sub>[#160545](https://github.com/flutter/flutter/pull/160545) merged on December 19, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/160545) over 21 hours, 455815 additions and 416698 deletions in 4411 files</sub><br />
@@ -257,6 +266,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove dependency on web_tests/artifacts.<br />
   <sub>[#160700](https://github.com/flutter/flutter/pull/160700) merged on December 22, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160700) over 1 day, 5 additions and 15 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+</details>
 
 ### December 7, 2024 to December 13, 2024
 
