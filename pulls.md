@@ -104,3 +104,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; adding my name to authors<br />
   <sub>[#160822](https://github.com/flutter/flutter/pull/160822) opened on on December 24, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160822) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Marco Domingos](https://github.com/marcoedomingos)** &mdash; Added the spacing parameters inside the ExpansionTile<br />
+  <sub>[#160848](https://github.com/flutter/flutter/pull/160848) opened on on December 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160848) 10 additions and 0 deletions in 1 file</sub><br />
+
