@@ -31,13 +31,13 @@
   <sub>[#160576](https://github.com/flutter/flutter/pull/160576) merged on December 19, 2024 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/160576) over 11 hours, 68404 additions and 68049 deletions in 721 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands<br />
-  <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix device buffer nullptr on Intel macOS.<br />
   <sub>[#160645](https://github.com/flutter/flutter/pull/160645) merged on December 22, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160645) over 2 days, 8 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Do not handle directory arguments implicitly for `pub` commands<br />
+  <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] delete unused framework-engine test scripts<br />
   <sub>[#160698](https://github.com/flutter/flutter/pull/160698) merged on December 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160698) over 1 day, 0 additions and 135 deletions in 2 files</sub><br />
