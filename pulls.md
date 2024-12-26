@@ -104,3 +104,6 @@
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
+* **[Yegor](https://github.com/yjbanov)** &mdash; gclient template file clarifications<br />
+  <sub>[#160882](https://github.com/flutter/flutter/pull/160882) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160882) 18 additions and 3 deletions in 2 files</sub><br />
+

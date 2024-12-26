@@ -785,11 +785,15 @@
 
 ### December 21, 2024 to December 27, 2024
 
-3 commits.
+4 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Cumulative fixes to reopen the tree.
   <sub>[#8344](https://github.com/flutter/packages/pull/8344) merged on December 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8344) over 3 hours, 34 additions and 16 deletions in 8 files</sub>
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Maurice Parrish](https://github.com/bparrishMines), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Bump Plugin Example Apps to TargetSdkVersion >= 34
+  <sub>[#8285](https://github.com/flutter/packages/pull/8285) merged on December 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8285) over 2 weeks, 31 additions and 31 deletions in 31 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Gradle Command Test to Only Accept Gradle Declarative Apply
   <sub>[#8325](https://github.com/flutter/packages/pull/8325) merged on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8325) over 1 week, 46 additions and 154 deletions in 5 files</sub>
