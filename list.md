@@ -899,9 +899,18 @@
 
 ## flutter/website
 
+### December 21, 2024 to December 27, 2024
+
+1 commits.
+
+* **[Jefferson Ye](https://github.com/forbesye)** &mdash; fix: move child to right widget in dependency injection page
+  <sub>[#11529](https://github.com/flutter/website/pull/11529) merged on December 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11529) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### December 14, 2024 to December 20, 2024
 
-19 commits.
+<details>
+<summary>19 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Convert 11ty setup, config, and plugins to TS from JS
   <sub>[#11502](https://github.com/flutter/website/pull/11502) merged on December 16, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11502) over 8 hours, 462 additions and 184 deletions in 14 files</sub>
@@ -978,6 +987,8 @@
 * **[Roman Cinis](https://github.com/tsinis)** &mdash; docs: update migrate swift plugin docs with `.gitignore`
   <sub>[#11497](https://github.com/flutter/website/pull/11497) merged on December 16, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11497) over 2 days, 9 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### December 7, 2024 to December 13, 2024
 
