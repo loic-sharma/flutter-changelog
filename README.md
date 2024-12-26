@@ -901,7 +901,11 @@
 
 ### December 21, 2024 to December 27, 2024
 
-2 commits.
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix widget catalog category pages being empty due to liquidjs regression<br />
+  <sub>[#11549](https://github.com/flutter/website/pull/11549) merged on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11549) over 21 minutes, 2 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Marya](https://github.com/MaryaBelanger)</sub><br />
 
 * **[zm999999](https://github.com/zm999999)** &mdash; Fix image suffix mismatch in description<br />
   <sub>[#11542](https://github.com/flutter/website/pull/11542) merged on December 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11542) over 1 day, 8 additions and 8 deletions in 6 files</sub><br />
