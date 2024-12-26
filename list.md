@@ -901,7 +901,11 @@
 
 ### December 21, 2024 to December 27, 2024
 
-1 commits.
+2 commits.
+
+* **[zm999999](https://github.com/zm999999)** &mdash; Fix image suffix mismatch in description
+  <sub>[#11542](https://github.com/flutter/website/pull/11542) merged on December 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11542) over 1 day, 8 additions and 8 deletions in 6 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Jefferson Ye](https://github.com/forbesye)** &mdash; fix: move child to right widget in dependency injection page
   <sub>[#11529](https://github.com/flutter/website/pull/11529) merged on December 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11529) over 4 days, 1 addition and 1 deletion in 1 file</sub>
