@@ -785,11 +785,19 @@
 
 ### December 21, 2024 to December 27, 2024
 
-1 commits.
+3 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Cumulative fixes to reopen the tree.<br />
   <sub>[#8344](https://github.com/flutter/packages/pull/8344) merged on December 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8344) over 3 hours, 34 additions and 16 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Maurice Parrish](https://github.com/bparrishMines), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Update Gradle Command Test to Only Accept Gradle Declarative Apply<br />
+  <sub>[#8325](https://github.com/flutter/packages/pull/8325) merged on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8325) over 1 week, 46 additions and 154 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-create `templates/app`, add deprecation notices for `app_shared` and `skeleton`.<br />
+  <sub>[#8336](https://github.com/flutter/packages/pull/8336) merged on December 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8336) over 5 days, 18 additions and 2 deletions in 82 files</sub><br />
+  <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
 
 ### December 14, 2024 to December 20, 2024
 
