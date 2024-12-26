@@ -792,7 +792,7 @@
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Maurice Parrish](https://github.com/bparrishMines), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bump Plugin Example Apps to TargetSdkVersion >= 34<br />
-  <sub>[#8285](https://github.com/flutter/packages/pull/8285) merged on December 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8285) over 2 weeks, 31 additions and 31 deletions in 31 files</sub><br />
+  <sub>[#8285](https://github.com/flutter/packages/pull/8285) merged on December 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8285) over 2 weeks, 31 additions and 31 deletions in 31 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Update Gradle Command Test to Only Accept Gradle Declarative Apply<br />
