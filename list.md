@@ -4,7 +4,7 @@
 
 ### December 21, 2024 to December 27, 2024
 
-3 commits.
+4 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--template=skeleton` and add a placeholder error message instead.
   <sub>[#160695](https://github.com/flutter/flutter/pull/160695) merged on December 24, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/160695) over 3 days, 660 additions and 1174 deletions in 169 files</sub>
@@ -13,6 +13,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.
   <sub>[#160549](https://github.com/flutter/flutter/pull/160549) merged on December 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/160549) over 4 days, 110 additions and 289 deletions in 5 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; adding my name to authors
+  <sub>[#160822](https://github.com/flutter/flutter/pull/160822) merged on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160822) over 2 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove bringup: true from web tests.
   <sub>[#160788](https://github.com/flutter/flutter/pull/160788) merged on December 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160788) over 3 hours, 0 additions and 1 deletion in 1 file</sub>
