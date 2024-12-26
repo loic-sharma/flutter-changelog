@@ -107,3 +107,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; gclient template file clarifications<br />
   <sub>[#160882](https://github.com/flutter/flutter/pull/160882) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160882) 18 additions and 3 deletions in 2 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify where `gclient` is run from.<br />
+  <sub>[#160889](https://github.com/flutter/flutter/pull/160889) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160889) 1 addition and 1 deletion in 1 file</sub><br />
+
