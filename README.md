@@ -4,7 +4,7 @@
 
 ### December 21, 2024 to December 27, 2024
 
-6 commits.
+8 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--template=skeleton` and add a placeholder error message instead.<br />
   <sub>[#160695](https://github.com/flutter/flutter/pull/160695) merged on December 24, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/160695) over 3 days, 660 additions and 1174 deletions in 169 files</sub><br />
@@ -13,6 +13,14 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.<br />
   <sub>[#160549](https://github.com/flutter/flutter/pull/160549) merged on December 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/160549) over 4 days, 110 additions and 289 deletions in 5 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Make `FLUTTER_WEB_AUTO_DETECT` false by default<br />
+  <sub>[#160191](https://github.com/flutter/flutter/pull/160191) merged on December 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160191) over 2 weeks, 11 additions and 89 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; gclient template file clarifications<br />
+  <sub>[#160882](https://github.com/flutter/flutter/pull/160882) merged on December 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160882) over 21 hours, 18 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; apply dart_style 3.0.1<br />
   <sub>[#160875](https://github.com/flutter/flutter/pull/160875) merged on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160875) over 3 hours, 101 additions and 131 deletions in 40 files</sub><br />

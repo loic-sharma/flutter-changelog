@@ -104,11 +104,8 @@
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; gclient template file clarifications<br />
-  <sub>[#160882](https://github.com/flutter/flutter/pull/160882) opened on on December 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160882) 18 additions and 3 deletions in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify where `gclient` is run from.<br />
-  <sub>[#160889](https://github.com/flutter/flutter/pull/160889) opened on on December 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160889) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#160889](https://github.com/flutter/flutter/pull/160889) opened on on December 26, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160889) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; SearchAnchor viewOnClose<br />
   <sub>[#160892](https://github.com/flutter/flutter/pull/160892) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160892) 97 additions and 0 deletions in 2 files</sub><br />
