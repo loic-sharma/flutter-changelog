@@ -122,9 +122,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; Point to real Cocoon code in Tree-hygiene.md<br />
   <sub>[#160914](https://github.com/flutter/flutter/pull/160914) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160914) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Bump `flutter_template_images` to remove TODO.<br />
-  <sub>[#160917](https://github.com/flutter/flutter/pull/160917) opened on on December 27, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160917) 2 additions and 11 deletions in 3 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix felt build's ninja invocation after monorepo<br />
   <sub>[#160919](https://github.com/flutter/flutter/pull/160919) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160919) 28 additions and 2 deletions in 3 files</sub><br />
 
