@@ -108,5 +108,5 @@
   <sub>[#160882](https://github.com/flutter/flutter/pull/160882) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160882) 18 additions and 3 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify where `gclient` is run from.<br />
-  <sub>[#160889](https://github.com/flutter/flutter/pull/160889) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160889) 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#160889](https://github.com/flutter/flutter/pull/160889) opened on on December 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160889) 2 additions and 2 deletions in 1 file</sub><br />
 
