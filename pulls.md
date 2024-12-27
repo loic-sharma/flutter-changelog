@@ -110,3 +110,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify where `gclient` is run from.<br />
   <sub>[#160889](https://github.com/flutter/flutter/pull/160889) opened on on December 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160889) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; SearchAnchor viewOnClose<br />
+  <sub>[#160892](https://github.com/flutter/flutter/pull/160892) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160892) 97 additions and 0 deletions in 2 files</sub><br />
+
