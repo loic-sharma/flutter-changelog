@@ -47,6 +47,10 @@
   <sub>[#160223](https://github.com/flutter/flutter/pull/160223) merged on December 16, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160223) over 3 days, 38 additions and 32 deletions in 2 files</sub>
   <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub>
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Change the startup message for the "flutter daemon" command
+  <sub>[#160444](https://github.com/flutter/flutter/pull/160444) merged on December 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160444) over 4 days, 37 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 * **[Yegor](https://github.com/yjbanov)** &mdash; [tech debt] delete unused framework-engine test scripts
   <sub>[#160698](https://github.com/flutter/flutter/pull/160698) merged on December 22, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160698) over 1 day, 0 additions and 135 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
@@ -82,10 +86,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Manual pub roll with flutter_tools patch
   <sub>[#160174](https://github.com/flutter/flutter/pull/160174) merged on December 16, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/160174) over 4 days, 585 additions and 574 deletions in 71 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
-* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Change the startup message for the "flutter daemon" command
-  <sub>[#160444](https://github.com/flutter/flutter/pull/160444) merged on December 22, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160444) over 4 days, 37 additions and 1 deletion in 2 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove all remaining use of mock engine
   <sub>[#160635](https://github.com/flutter/flutter/pull/160635) merged on December 20, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/160635) over 2 hours, 660 additions and 495 deletions in 17 files</sub>
