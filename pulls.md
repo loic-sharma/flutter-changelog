@@ -105,7 +105,7 @@
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; gclient template file clarifications<br />
-  <sub>[#160882](https://github.com/flutter/flutter/pull/160882) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160882) 18 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#160882](https://github.com/flutter/flutter/pull/160882) opened on on December 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160882) 18 additions and 3 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify where `gclient` is run from.<br />
   <sub>[#160889](https://github.com/flutter/flutter/pull/160889) opened on on December 26, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160889) 2 additions and 2 deletions in 1 file</sub><br />
@@ -117,5 +117,8 @@
   <sub>[#160905](https://github.com/flutter/flutter/pull/160905) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160905) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add missing DEPS to runIf<br />
-  <sub>[#160913](https://github.com/flutter/flutter/pull/160913) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160913) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#160913](https://github.com/flutter/flutter/pull/160913) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160913) 8 additions and 0 deletions in 1 file</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; Point to real Cocoon code in Tree-hygiene.md<br />
+  <sub>[#160914](https://github.com/flutter/flutter/pull/160914) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160914) 1 addition and 1 deletion in 1 file</sub><br />
 
