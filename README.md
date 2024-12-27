@@ -789,7 +789,7 @@
 
 ### December 21, 2024 to December 27, 2024
 
-4 commits.
+5 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Cumulative fixes to reopen the tree.<br />
   <sub>[#8344](https://github.com/flutter/packages/pull/8344) merged on December 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8344) over 3 hours, 34 additions and 16 deletions in 8 files</sub><br />
@@ -806,6 +806,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-create `templates/app`, add deprecation notices for `app_shared` and `skeleton`.<br />
   <sub>[#8336](https://github.com/flutter/packages/pull/8336) merged on December 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8336) over 5 days, 18 additions and 2 deletions in 82 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds platform for imports that aren't support on a platform<br />
+  <sub>[#8338](https://github.com/flutter/packages/pull/8338) merged on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8338) over 5 days, 176 additions and 11 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### December 14, 2024 to December 20, 2024
 
