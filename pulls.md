@@ -114,5 +114,5 @@
   <sub>[#160892](https://github.com/flutter/flutter/pull/160892) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160892) 97 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sukbin Lee](https://github.com/dolbin-prime)** &mdash; fix Color.from doc comment typo<br />
-  <sub>[#160905](https://github.com/flutter/flutter/pull/160905) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160905) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#160905](https://github.com/flutter/flutter/pull/160905) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160905) 1 addition and 1 deletion in 1 file</sub><br />
 
