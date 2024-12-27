@@ -117,7 +117,7 @@
   <sub>[#160905](https://github.com/flutter/flutter/pull/160905) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160905) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add missing DEPS to runIf<br />
-  <sub>[#160913](https://github.com/flutter/flutter/pull/160913) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160913) 8 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#160913](https://github.com/flutter/flutter/pull/160913) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160913) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Point to real Cocoon code in Tree-hygiene.md<br />
   <sub>[#160914](https://github.com/flutter/flutter/pull/160914) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160914) 1 addition and 1 deletion in 1 file</sub><br />

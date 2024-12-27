@@ -807,7 +807,7 @@
   <sub>[#8336](https://github.com/flutter/packages/pull/8336) merged on December 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8336) over 5 days, 18 additions and 2 deletions in 82 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
 
-* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds platform for imports that aren't support on a platform
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds checks for imports that aren't supported on a platform
   <sub>[#8338](https://github.com/flutter/packages/pull/8338) merged on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8338) over 5 days, 176 additions and 11 deletions in 5 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
