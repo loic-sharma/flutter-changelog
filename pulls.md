@@ -122,3 +122,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix felt build's ninja invocation after monorepo<br />
   <sub>[#160919](https://github.com/flutter/flutter/pull/160919) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160919) 28 additions and 2 deletions in 3 files</sub><br />
 
+* **[Hooshyar](https://github.com/hooshyar)** &mdash; [l10n] Add Kurdish Sorani (ckb) localizations for Material, Cupertino, and Widgets<br />
+  <sub>[#160925](https://github.com/flutter/flutter/pull/160925) opened on on December 27, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/160925) 1393 additions and 74 deletions in 12 files</sub><br />
+
