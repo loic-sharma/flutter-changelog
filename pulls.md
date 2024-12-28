@@ -110,14 +110,11 @@
 * **[Sukbin Lee](https://github.com/dolbin-prime)** &mdash; fix Color.from doc comment typo<br />
   <sub>[#160905](https://github.com/flutter/flutter/pull/160905) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160905) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; Point to real Cocoon code in Tree-hygiene.md<br />
-  <sub>[#160914](https://github.com/flutter/flutter/pull/160914) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160914) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix felt build's ninja invocation after monorepo<br />
   <sub>[#160919](https://github.com/flutter/flutter/pull/160919) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160919) 28 additions and 2 deletions in 3 files</sub><br />
 
 * **[Hooshyar](https://github.com/hooshyar)** &mdash; [l10n] Add Kurdish Sorani (ckb) localizations for Material, Cupertino, and Widgets<br />
-  <sub>[#160925](https://github.com/flutter/flutter/pull/160925) opened on on December 27, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/160925) 1393 additions and 74 deletions in 12 files</sub><br />
+  <sub>[#160925](https://github.com/flutter/flutter/pull/160925) opened on on December 27, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/160925) 1406 additions and 74 deletions in 12 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.<br />
   <sub>[#160937](https://github.com/flutter/flutter/pull/160937) opened on on December 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160937) 67 additions and 3 deletions in 3 files</sub><br />
