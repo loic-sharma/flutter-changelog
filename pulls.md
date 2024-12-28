@@ -119,3 +119,6 @@
 * **[Hooshyar](https://github.com/hooshyar)** &mdash; [l10n] Add Kurdish Sorani (ckb) localizations for Material, Cupertino, and Widgets<br />
   <sub>[#160925](https://github.com/flutter/flutter/pull/160925) opened on on December 27, 2024 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/160925) 1393 additions and 74 deletions in 12 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.<br />
+  <sub>[#160937](https://github.com/flutter/flutter/pull/160937) opened on on December 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160937) 67 additions and 3 deletions in 3 files</sub><br />
+

@@ -4,7 +4,7 @@
 
 ### December 21, 2024 to December 27, 2024
 
-12 commits.
+13 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--template=skeleton` and add a placeholder error message instead.<br />
   <sub>[#160695](https://github.com/flutter/flutter/pull/160695) merged on December 24, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/160695) over 3 days, 660 additions and 1174 deletions in 169 files</sub><br />
@@ -17,6 +17,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.<br />
   <sub>[#160549](https://github.com/flutter/flutter/pull/160549) merged on December 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/160549) over 4 days, 110 additions and 289 deletions in 5 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Turn deprecation message analyze tests back on<br />
+  <sub>[#160554](https://github.com/flutter/flutter/pull/160554) merged on December 27, 2024 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/160554) over 1 week, 178 additions and 203 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Make `FLUTTER_WEB_AUTO_DETECT` false by default<br />
   <sub>[#160191](https://github.com/flutter/flutter/pull/160191) merged on December 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160191) over 2 weeks, 11 additions and 89 deletions in 7 files</sub><br />
