@@ -123,5 +123,5 @@
   <sub>[#160937](https://github.com/flutter/flutter/pull/160937) opened on on December 28, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160937) 67 additions and 3 deletions in 3 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Remove support for imperative apply of Flutter Gradle Plugin<br />
-  <sub>[#160947](https://github.com/flutter/flutter/pull/160947) opened on on December 28, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160947) 0 additions and 63 deletions in 3 files</sub><br />
+  <sub>[#160947](https://github.com/flutter/flutter/pull/160947) opened on on December 28, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/160947) 29 additions and 278 deletions in 6 files</sub><br />
 
