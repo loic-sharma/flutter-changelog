@@ -4,7 +4,7 @@
 
 ### December 21, 2024 to December 27, 2024
 
-9 commits.
+10 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--template=skeleton` and add a placeholder error message instead.
   <sub>[#160695](https://github.com/flutter/flutter/pull/160695) merged on December 24, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/160695) over 3 days, 660 additions and 1174 deletions in 169 files</sub>
@@ -29,6 +29,10 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; apply dart_style 3.0.1
   <sub>[#160875](https://github.com/flutter/flutter/pull/160875) merged on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160875) over 3 hours, 101 additions and 131 deletions in 40 files</sub>
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Clarify where `gclient` is run from.
+  <sub>[#160889](https://github.com/flutter/flutter/pull/160889) merged on December 27, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160889) over 22 hours, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; Add missing DEPS to runIf
   <sub>[#160913](https://github.com/flutter/flutter/pull/160913) merged on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160913) over 1 hour, 8 additions and 0 deletions in 1 file</sub>
