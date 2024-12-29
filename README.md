@@ -829,7 +829,7 @@
 
 ### December 21, 2024 to December 27, 2024
 
-6 commits.
+7 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Cumulative fixes to reopen the tree.<br />
   <sub>[#8344](https://github.com/flutter/packages/pull/8344) merged on December 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8344) over 3 hours, 34 additions and 16 deletions in 8 files</sub><br />
@@ -850,6 +850,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-create `templates/app`, add deprecation notices for `app_shared` and `skeleton`.<br />
   <sub>[#8336](https://github.com/flutter/packages/pull/8336) merged on December 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8336) over 5 days, 18 additions and 2 deletions in 82 files</sub><br />
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Drop vector bits from allowed_unpinned_deps.yaml<br />
+  <sub>[#8327](https://github.com/flutter/packages/pull/8327) merged on December 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8327) over 1 week, 0 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds checks for imports that aren't supported on a platform<br />
   <sub>[#8338](https://github.com/flutter/packages/pull/8338) merged on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8338) over 5 days, 176 additions and 11 deletions in 5 files</sub><br />
