@@ -446,9 +446,18 @@
 
 ## flutter/packages
 
+### December 28, 2024 to January 3, 2025
+
+1 commits.
+
+* **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from permission tests 
+  <sub>[#8350](https://github.com/flutter/packages/pull/8350) merged on December 30, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/8350) over 3 days, 294 additions and 185 deletions in 10 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Jenn Magder](https://github.com/jmagman)</sub>
+
 ### December 21, 2024 to December 27, 2024
 
-7 commits.
+<details>
+<summary>7 commits...</summary>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Cumulative fixes to reopen the tree.
   <sub>[#8344](https://github.com/flutter/packages/pull/8344) merged on December 23, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8344) over 3 hours, 34 additions and 16 deletions in 8 files</sub>
@@ -477,6 +486,8 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Adds checks for imports that aren't supported on a platform
   <sub>[#8338](https://github.com/flutter/packages/pull/8338) merged on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8338) over 5 days, 176 additions and 11 deletions in 5 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+</details>
 
 ### December 14, 2024 to December 20, 2024
 
