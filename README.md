@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### December 28, 2024 to January 3, 2025
+
+1 commits.
+
+* **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Installs the APK regardless of version<br />
+  <sub>[#160432](https://github.com/flutter/flutter/pull/160432) merged on December 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160432) over 1 week, 25 additions and 117 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
 ### December 21, 2024 to December 27, 2024
 
-15 commits.
+<details>
+<summary>15 commits...</summary>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--template=skeleton` and add a placeholder error message instead.<br />
   <sub>[#160695](https://github.com/flutter/flutter/pull/160695) merged on December 24, 2024 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/160695) over 3 days, 660 additions and 1174 deletions in 169 files</sub><br />
@@ -65,6 +74,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Remove bringup: true from web tests.<br />
   <sub>[#160788](https://github.com/flutter/flutter/pull/160788) merged on December 23, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160788) over 3 hours, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
+
+</details>
 
 ### December 14, 2024 to December 20, 2024
 
