@@ -131,9 +131,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit hardcoded `--packages=.dart_tool/package_config.json`.<br />
   <sub>[#160982](https://github.com/flutter/flutter/pull/160982) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160982) 1 addition and 9 deletions in 3 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark platform_channel_sample_test_macos unflaky<br />
-  <sub>[#160989](https://github.com/flutter/flutter/pull/160989) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160989) 0 additions and 1 deletion in 1 file</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark flavors_test_macos unflaky<br />
-  <sub>[#160990](https://github.com/flutter/flutter/pull/160990) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160990) 0 additions and 1 deletion in 1 file</sub><br />
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark analyzer_benchmark unflaky<br />
+  <sub>[#160991](https://github.com/flutter/flutter/pull/160991) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160991) 0 additions and 1 deletion in 1 file</sub><br />
 
