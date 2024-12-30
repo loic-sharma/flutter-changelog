@@ -4,7 +4,11 @@
 
 ### December 28, 2024 to January 3, 2025
 
-1 commits.
+2 commits.
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix docImport issues<br />
+  <sub>[#160918](https://github.com/flutter/flutter/pull/160918) merged on December 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160918) over 2 days, 56 additions and 9 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Sam Rawlins](https://github.com/srawlins)</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Installs the APK regardless of version<br />
   <sub>[#160432](https://github.com/flutter/flutter/pull/160432) merged on December 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160432) over 1 week, 25 additions and 117 deletions in 3 files</sub><br />
