@@ -95,6 +95,9 @@
 * **[munrocket](https://github.com/munrocket)** &mdash; Precise browser resizing with integration_test and driver<br />
   <sub>[#160678](https://github.com/flutter/flutter/pull/160678) opened on on December 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160678) 41 additions and 17 deletions in 2 files</sub><br />
 
+* **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `GestureDetailsWithPositions`<br />
+  <sub>[#160714](https://github.com/flutter/flutter/pull/160714) opened on on December 21, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/160714) 349 additions and 303 deletions in 16 files</sub><br />
+
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; do not layout carousel if layout constraints are zero<br />
   <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
 
