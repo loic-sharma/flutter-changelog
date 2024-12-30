@@ -129,5 +129,5 @@
   <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit hardcoded `--packages=.dart_tool/package_config.json`.<br />
-  <sub>[#160982](https://github.com/flutter/flutter/pull/160982) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160982) 0 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#160982](https://github.com/flutter/flutter/pull/160982) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160982) 1 addition and 9 deletions in 3 files</sub><br />
 
