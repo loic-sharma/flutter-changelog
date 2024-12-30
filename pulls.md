@@ -122,3 +122,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.<br />
   <sub>[#160937](https://github.com/flutter/flutter/pull/160937) opened on on December 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160937) 67 additions and 3 deletions in 3 files</sub><br />
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Bump default Kotlin version from 1.8.22 to 2.1.0<br />
+  <sub>[#160974](https://github.com/flutter/flutter/pull/160974) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160974) 6 additions and 6 deletions in 6 files</sub><br />
+
