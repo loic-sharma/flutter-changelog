@@ -102,7 +102,7 @@
   <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
 
 * **[Marco Domingos](https://github.com/marcoedomingos)** &mdash; Added the spacing parameters inside the ExpansionTile<br />
-  <sub>[#160848](https://github.com/flutter/flutter/pull/160848) opened on on December 25, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160848) 10 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#160848](https://github.com/flutter/flutter/pull/160848) opened on on December 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160848) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
