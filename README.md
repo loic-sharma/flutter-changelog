@@ -4,7 +4,11 @@
 
 ### December 28, 2024 to January 3, 2025
 
-2 commits.
+3 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert: "Move `integration_test` dependencies to non-`dev_dependencies`."<br />
+  <sub>[#160980](https://github.com/flutter/flutter/pull/160980) merged on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160980) over 1 hour, 20 additions and 107 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix docImport issues<br />
   <sub>[#160918](https://github.com/flutter/flutter/pull/160918) merged on December 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160918) over 2 days, 56 additions and 9 deletions in 26 files</sub><br />
