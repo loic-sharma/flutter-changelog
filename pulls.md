@@ -140,3 +140,6 @@
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Roll gn to c97a86a72105f3328a540f5a5ab17d11989ab7dd<br />
   <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161012) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[NabilaWorks](https://github.com/NabilaWorks)** &mdash; Feature/twitter keyboard<br />
+  <sub>[#161025](https://github.com/flutter/flutter/pull/161025) opened on on December 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161025) 72 additions and 2 deletions in 7 files</sub><br />
+
