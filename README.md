@@ -4,7 +4,11 @@
 
 ### December 28, 2024 to January 3, 2025
 
-3 commits.
+4 commits.
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual pub bump<br />
+  <sub>[#160985](https://github.com/flutter/flutter/pull/160985) merged on December 31, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/160985) over 8 hours, 606 additions and 593 deletions in 69 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert: "Move `integration_test` dependencies to non-`dev_dependencies`."<br />
   <sub>[#160980](https://github.com/flutter/flutter/pull/160980) merged on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160980) over 1 hour, 20 additions and 107 deletions in 14 files</sub><br />
