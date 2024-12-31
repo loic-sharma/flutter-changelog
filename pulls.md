@@ -143,3 +143,6 @@
 * **[NabilaWorks](https://github.com/NabilaWorks)** &mdash; Feature/twitter keyboard<br />
   <sub>[#161025](https://github.com/flutter/flutter/pull/161025) opened on on December 31, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161025) 72 additions and 2 deletions in 7 files</sub><br />
 
+* **[NabilaWorks](https://github.com/NabilaWorks)** &mdash; WebKit should respect TextCapitalization.words<br />
+  <sub>[#161027](https://github.com/flutter/flutter/pull/161027) opened on on December 31, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161027) 1 addition and 8 deletions in 1 file</sub><br />
+
