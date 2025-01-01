@@ -532,12 +532,16 @@
 
 ### December 28, 2024 to January 3, 2025
 
-3 commits.
+4 commits.
 
 * **[Angom Geetchandra](https://github.com/GIT-chandra)** &mdash; Fix ValueNotifier example in state-management.md
   <sub>[#11553](https://github.com/flutter/website/pull/11553) merged on January 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11553) over 4 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
   <sub><details><summary>1 image...</summary>![Screenshot 2024-12-27 223344](https://github.com/user-attachments/assets/b1c1603c-19f2-4be8-b8f3-cb52a3d8e380)</details></sub>
+
+* **[olof-dev](https://github.com/olof-dev)** &mdash; Update wide-gamut-framework.md
+  <sub>[#11525](https://github.com/flutter/website/pull/11525) merged on January 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11525) over 1 week, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Beatzoid](https://github.com/Beatzoid)** &mdash; Fix typo on Intro to Dart page
   <sub>[#11556](https://github.com/flutter/website/pull/11556) merged on January 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11556) over 2 days, 1 addition and 1 deletion in 1 file</sub>
