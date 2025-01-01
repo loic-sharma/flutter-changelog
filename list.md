@@ -530,9 +530,18 @@
 
 ## flutter/website
 
+### December 28, 2024 to January 3, 2025
+
+1 commits.
+
+* **[Zarif Muhtasim](https://github.com/roundspecs)** &mdash; fix: corrected typo in documentation ("view mo" to "view model")
+  <sub>[#11558](https://github.com/flutter/website/pull/11558) merged on January 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11558) over 4 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### December 21, 2024 to December 27, 2024
 
-3 commits.
+<details>
+<summary>3 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix widget catalog category pages being empty due to liquidjs regression
   <sub>[#11549](https://github.com/flutter/website/pull/11549) merged on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11549) over 21 minutes, 2 additions and 12 deletions in 2 files</sub>
@@ -545,6 +554,8 @@
 * **[Jefferson Ye](https://github.com/forbesye)** &mdash; fix: move child to right widget in dependency injection page
   <sub>[#11529](https://github.com/flutter/website/pull/11529) merged on December 26, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11529) over 4 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### December 14, 2024 to December 20, 2024
 
