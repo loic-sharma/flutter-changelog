@@ -532,7 +532,16 @@
 
 ### December 28, 2024 to January 3, 2025
 
-1 commits.
+3 commits.
+
+* **[Angom Geetchandra](https://github.com/GIT-chandra)** &mdash; Fix ValueNotifier example in state-management.md<br />
+  <sub>[#11553](https://github.com/flutter/website/pull/11553) merged on January 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11553) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>1 image...</summary>![Screenshot 2024-12-27 223344](https://github.com/user-attachments/assets/b1c1603c-19f2-4be8-b8f3-cb52a3d8e380)</details></sub>
+
+* **[Beatzoid](https://github.com/Beatzoid)** &mdash; Fix typo on Intro to Dart page<br />
+  <sub>[#11556](https://github.com/flutter/website/pull/11556) merged on January 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11556) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Zarif Muhtasim](https://github.com/roundspecs)** &mdash; fix: corrected typo in documentation ("view mo" to "view model")<br />
   <sub>[#11558](https://github.com/flutter/website/pull/11558) merged on January 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11558) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
