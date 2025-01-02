@@ -452,7 +452,11 @@
 
 ### December 28, 2024 to January 3, 2025
 
-1 commits.
+2 commits.
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Add information about shared preferences android to docs<br />
+  <sub>[#8296](https://github.com/flutter/packages/pull/8296) merged on January 2, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8296) over 2 weeks, 42 additions and 6 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from permission tests <br />
   <sub>[#8350](https://github.com/flutter/packages/pull/8350) merged on December 30, 2024 &mdash; **Medium:** [9 comments](https://github.com/flutter/packages/pull/8350) over 3 days, 294 additions and 185 deletions in 10 files</sub><br />
