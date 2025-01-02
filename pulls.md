@@ -59,9 +59,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates<br />
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) opened on on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160349) 12 additions and 12 deletions in 5 files</sub><br />
 
-* **[Łukasz Wiśniewski](https://github.com/vishna)** &mdash; EditableTextState._schedulePeriodicPostFrameCallbacks null error<br />
-  <sub>[#160352](https://github.com/flutter/flutter/pull/160352) opened on on December 16, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160352) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
   <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/160354) 1370 additions and 574 deletions in 93 files</sub><br />
 
@@ -76,9 +73,6 @@
 
 * **[nick9822](https://github.com/nick9822)** &mdash; added new ScrollViewKeyboardDismissBehavior variant onDrag with tests<br />
   <sub>[#160507](https://github.com/flutter/flutter/pull/160507) opened on on December 18, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160507) 57 additions and 1 deletion in 3 files</sub><br />
-
-* **[Montazer](https://github.com/MrMontazer)** &mdash; Fix TextField issues in RTL<br />
-  <sub>[#160516](https://github.com/flutter/flutter/pull/160516) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160516) 50 additions and 6 deletions in 3 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
