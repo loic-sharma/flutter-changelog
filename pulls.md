@@ -155,3 +155,6 @@
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; rev to the latest dart-lang/http and remove older http_multi_server refs<br />
   <sub>[#161067](https://github.com/flutter/flutter/pull/161067) opened on on January 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161067) 2 additions and 6 deletions in 2 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Add `.cxx` directories to app template `.gitignore`<br />
+  <sub>[#161069](https://github.com/flutter/flutter/pull/161069) opened on on January 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161069) 9 additions and 7 deletions in 9 files</sub><br />
+
