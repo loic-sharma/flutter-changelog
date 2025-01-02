@@ -36,8 +36,8 @@
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update docs on `Color` to be more clear about normalized channel values.
-  <sub>[#160798](https://github.com/flutter/flutter/pull/160798) merged on December 27, 2024 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/160798) over 4 days, 88 additions and 36 deletions in 1 file</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+  <sub>[#160798](https://github.com/flutter/flutter/pull/160798) merged on December 27, 2024 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/160798) over 4 days, 88 additions and 36 deletions in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused `engine_hash.dart` script (and test), simplify `engine_hash.sh`.
   <sub>[#160549](https://github.com/flutter/flutter/pull/160549) merged on December 23, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/160549) over 4 days, 110 additions and 289 deletions in 5 files</sub>
