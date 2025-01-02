@@ -108,7 +108,7 @@
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Improve Plugins That Reference V1 Embedding Error Message<br />
-  <sub>[#160890](https://github.com/flutter/flutter/pull/160890) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160890) 75 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#160890](https://github.com/flutter/flutter/pull/160890) opened on on December 27, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160890) 75 additions and 0 deletions in 2 files</sub><br />
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; SearchAnchor viewOnClose<br />
   <sub>[#160892](https://github.com/flutter/flutter/pull/160892) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160892) 97 additions and 0 deletions in 2 files</sub><br />
