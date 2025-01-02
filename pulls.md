@@ -107,6 +107,9 @@
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Improve Plugins That Reference V1 Embedding Error Message<br />
+  <sub>[#160890](https://github.com/flutter/flutter/pull/160890) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160890) 75 additions and 0 deletions in 2 files</sub><br />
+
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; SearchAnchor viewOnClose<br />
   <sub>[#160892](https://github.com/flutter/flutter/pull/160892) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160892) 97 additions and 0 deletions in 2 files</sub><br />
 
@@ -151,4 +154,7 @@
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Test frob engine<br />
   <sub>[#161042](https://github.com/flutter/flutter/pull/161042) opened on on January 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161042) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; rev to the latest dart-lang/http and remove older http_multi_server refs<br />
+  <sub>[#161067](https://github.com/flutter/flutter/pull/161067) opened on on January 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161067) 2 additions and 6 deletions in 2 files</sub><br />
 
