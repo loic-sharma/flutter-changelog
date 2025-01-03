@@ -48,7 +48,7 @@
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
-  <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; DO NOT MERGE: Enable `explicit-package-dependencies`.<br />
   <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160289) 9 additions and 12 deletions in 1 file</sub><br />
@@ -154,4 +154,7 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Add padding for EditableText when scrollable shows scrollbar<br />
   <sub>[#161078](https://github.com/flutter/flutter/pull/161078) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161078) 69 additions and 66 deletions in 2 files</sub><br />
+
+* **[Aser Hailu](https://github.com/asero13th)** &mdash; Create writting-effective-widget-test.md<br />
+  <sub>[#161085](https://github.com/flutter/flutter/pull/161085) opened on on January 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161085) 57 additions and 0 deletions in 1 file</sub><br />
 
