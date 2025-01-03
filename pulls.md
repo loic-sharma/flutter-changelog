@@ -72,7 +72,7 @@
   <sub>[#160497](https://github.com/flutter/flutter/pull/160497) opened on on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160497) 198 additions and 98 deletions in 31 files</sub><br />
 
 * **[nick9822](https://github.com/nick9822)** &mdash; added new ScrollViewKeyboardDismissBehavior variant onDrag with tests<br />
-  <sub>[#160507](https://github.com/flutter/flutter/pull/160507) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160507) 57 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#160507](https://github.com/flutter/flutter/pull/160507) opened on on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160507) 57 additions and 1 deletion in 3 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
@@ -169,4 +169,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Normalize the translation column of the color matrix.<br />
   <sub>[#161109](https://github.com/flutter/flutter/pull/161109) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161109) 40 additions and 42 deletions in 3 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use the in-tree engine by default when using `--local-engine` or `--local-web-sdk`<br />
+  <sub>[#161110](https://github.com/flutter/flutter/pull/161110) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161110) 8 additions and 11 deletions in 2 files</sub><br />
 
