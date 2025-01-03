@@ -4,7 +4,11 @@
 
 ### December 28, 2024 to January 3, 2025
 
-4 commits.
+5 commits.
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump characters, collection, meta<br />
+  <sub>[#161066](https://github.com/flutter/flutter/pull/161066) merged on January 3, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/161066) over 8 hours, 319 additions and 319 deletions in 72 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Manual pub bump<br />
   <sub>[#160985](https://github.com/flutter/flutter/pull/160985) merged on December 31, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/160985) over 8 hours, 606 additions and 593 deletions in 69 files</sub><br />
