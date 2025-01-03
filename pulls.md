@@ -150,7 +150,7 @@
   <sub>[#161069](https://github.com/flutter/flutter/pull/161069) opened on on January 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161069) 9 additions and 0 deletions in 9 files</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Improve the test for `clangd --check` to choose files deterministically<br />
-  <sub>[#161072](https://github.com/flutter/flutter/pull/161072) opened on on January 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161072) 25 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#161072](https://github.com/flutter/flutter/pull/161072) opened on on January 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161072) 25 additions and 4 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Add padding for EditableText when scrollable shows scrollbar<br />
   <sub>[#161078](https://github.com/flutter/flutter/pull/161078) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161078) 69 additions and 66 deletions in 2 files</sub><br />
