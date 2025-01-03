@@ -134,6 +134,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark Linux_pixel_7pro flavors_test unflaky<br />
   <sub>[#160994](https://github.com/flutter/flutter/pull/160994) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160994) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Roll gn to c97a86a72105f3328a540f5a5ab17d11989ab7dd<br />
+  <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161012) 8 additions and 9 deletions in 5 files</sub><br />
+
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Test monorepo PR<br />
   <sub>[#161041](https://github.com/flutter/flutter/pull/161041) opened on on January 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161041) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -145,4 +148,7 @@
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Add `.cxx` directories to app template `.gitignore`<br />
   <sub>[#161069](https://github.com/flutter/flutter/pull/161069) opened on on January 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161069) 9 additions and 0 deletions in 9 files</sub><br />
+
+* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Improve the test for `clangd --check` to choose files deterministically<br />
+  <sub>[#161072](https://github.com/flutter/flutter/pull/161072) opened on on January 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161072) 25 additions and 4 deletions in 1 file</sub><br />
 
