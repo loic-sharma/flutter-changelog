@@ -167,3 +167,6 @@
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; use uuid from package:uuid instead of from package:usage<br />
   <sub>[#161102](https://github.com/flutter/flutter/pull/161102) opened on on January 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161102) 4 additions and 4 deletions in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter_template_images` to `5.0.0`.<br />
+  <sub>[#161105](https://github.com/flutter/flutter/pull/161105) opened on on January 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161105) 3 additions and 3 deletions in 2 files</sub><br />
+
