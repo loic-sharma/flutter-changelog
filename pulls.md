@@ -170,3 +170,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use the in-tree engine by default when using `--local-engine` or `--local-web-sdk`<br />
   <sub>[#161110](https://github.com/flutter/flutter/pull/161110) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161110) 8 additions and 11 deletions in 2 files</sub><br />
 
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix broken link to Hot Reload gif in README<br />
+  <sub>[#161113](https://github.com/flutter/flutter/pull/161113) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161113) 1 addition and 1 deletion in 1 file</sub><br />
+
