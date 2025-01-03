@@ -165,5 +165,5 @@
   <sub>[#161101](https://github.com/flutter/flutter/pull/161101) opened on on January 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161101) 10 additions and 2 deletions in 2 files</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; use uuid from package:uuid instead of from package:usage<br />
-  <sub>[#161102](https://github.com/flutter/flutter/pull/161102) opened on on January 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161102) 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#161102](https://github.com/flutter/flutter/pull/161102) opened on on January 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161102) 4 additions and 4 deletions in 1 file</sub><br />
 
