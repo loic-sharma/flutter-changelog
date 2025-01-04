@@ -4,7 +4,7 @@
 
 ### December 28, 2024 to January 3, 2025
 
-5 commits.
+6 commits.
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump characters, collection, meta<br />
   <sub>[#161066](https://github.com/flutter/flutter/pull/161066) merged on January 3, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/161066) over 8 hours, 319 additions and 319 deletions in 72 files</sub><br />
@@ -25,6 +25,10 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Installs the APK regardless of version<br />
   <sub>[#160432](https://github.com/flutter/flutter/pull/160432) merged on December 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160432) over 1 week, 25 additions and 117 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use the in-tree engine by default when using `--local-engine` or `--local-web-sdk`<br />
+  <sub>[#161110](https://github.com/flutter/flutter/pull/161110) merged on January 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161110) over 2 hours, 8 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 ### December 21, 2024 to December 27, 2024
 
