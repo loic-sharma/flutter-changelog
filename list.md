@@ -460,7 +460,7 @@
 
 ### December 28, 2024 to January 3, 2025
 
-5 commits.
+6 commits.
 
 * **[WenHaozhan](https://github.com/WenHaozhan)** &mdash; [image_picker] Removes use of PHAsset on IOS 14+
   <sub>[#8190](https://github.com/flutter/packages/pull/8190) merged on January 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8190) over 1 month, 14 additions and 159 deletions in 9 files</sub>
@@ -477,6 +477,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete unused templates `skeleton` and `app_shared` and release as `5.0.0`.
   <sub>[#8360](https://github.com/flutter/packages/pull/8360) merged on January 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8360) over 4 days, 5 additions and 16 deletions in 85 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [flutter_markdown] Fix some memory leaks and activate leak testing [prod-leak-fix]
+  <sub>[#8367](https://github.com/flutter/packages/pull/8367) merged on January 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8367) over 1 day, 86 additions and 25 deletions in 9 files</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Discuss stability in README
   <sub>[#8366](https://github.com/flutter/packages/pull/8366) merged on January 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8366) over 21 minutes, 45 additions and 13 deletions in 4 files</sub>
