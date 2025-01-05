@@ -167,6 +167,18 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter_template_images` to `5.0.0`.<br />
   <sub>[#161105](https://github.com/flutter/flutter/pull/161105) opened on on January 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161105) 3 additions and 3 deletions in 2 files</sub><br />
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `dev/`<br />
+  <sub>[#161112](https://github.com/flutter/flutter/pull/161112) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161112) 5 additions and 1 deletion in 3 files</sub><br />
+
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix broken link to Hot Reload gif in README<br />
   <sub>[#161113](https://github.com/flutter/flutter/pull/161113) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161113) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `engine/src/flutter`<br />
+  <sub>[#161115](https://github.com/flutter/flutter/pull/161115) opened on on January 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161115) 54 additions and 11 deletions in 9 files</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter/test`<br />
+  <sub>[#161127](https://github.com/flutter/flutter/pull/161127) opened on on January 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161127) 7 additions and 2 deletions in 3 files</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter_test`<br />
+  <sub>[#161131](https://github.com/flutter/flutter/pull/161131) opened on on January 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161131) 2 additions and 0 deletions in 1 file</sub><br />
 
