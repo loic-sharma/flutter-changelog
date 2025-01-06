@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-12 commits.
+13 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.
   <sub>[#160937](https://github.com/flutter/flutter/pull/160937) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160937) over 1 week, 67 additions and 3 deletions in 3 files</sub>
@@ -13,6 +13,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit hardcoded `--packages=.dart_tool/package_config.json`.
   <sub>[#160982](https://github.com/flutter/flutter/pull/160982) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160982) over 6 days, 1 addition and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove now-unnecessary command `felt analyze`.
+  <sub>[#160986](https://github.com/flutter/flutter/pull/160986) merged on January 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160986) over 1 week, 0 additions and 76 deletions in 4 files</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark firebase_release_smoke_test unflaky
   <sub>[#161006](https://github.com/flutter/flutter/pull/161006) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161006) over 6 days, 0 additions and 1 deletion in 1 file</sub>
