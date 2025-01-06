@@ -146,9 +146,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update error message for when leading/trailing width exceeds `ListTile` width and add missing test<br />
   <sub>[#161091](https://github.com/flutter/flutter/pull/161091) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161091) 36 additions and 4 deletions in 2 files</sub><br />
 
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; update repo to be forward compatible with shelf_web_socket v3.0<br />
-  <sub>[#161101](https://github.com/flutter/flutter/pull/161101) opened on on January 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161101) 10 additions and 2 deletions in 2 files</sub><br />
-
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; use uuid from package:uuid instead of from package:usage<br />
   <sub>[#161102](https://github.com/flutter/flutter/pull/161102) opened on on January 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161102) 4 additions and 4 deletions in 1 file</sub><br />
 
@@ -172,4 +169,7 @@
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; [CP-stable] Revert "Fix DropdownMenu does not rematch initialSelection when entries have changed"<br />
   <sub>[#161177](https://github.com/flutter/flutter/pull/161177) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161177) 61 additions and 198 deletions in 5 files</sub><br />
+
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update golden canary<br />
+  <sub>[#161183](https://github.com/flutter/flutter/pull/161183) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161183) 1 addition and 1 deletion in 1 file</sub><br />
 
