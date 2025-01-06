@@ -254,7 +254,11 @@
 
 ### January 4, 2025 to January 10, 2025
 
-3 commits.
+4 commits.
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update deep link guide with a note for version earlier than 3.27
+  <sub>[#11552](https://github.com/flutter/website/pull/11552) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11552) over 1 week, 34 additions and 16 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Aman Khatri](https://github.com/AmanKhatri-ai)** &mdash; Updated incorrect file name in documentation
   <sub>[#11566](https://github.com/flutter/website/pull/11566) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11566) over 1 day, 1 addition and 1 deletion in 1 file</sub>
