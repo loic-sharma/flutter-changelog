@@ -36,7 +36,7 @@
   <sub>[#160005](https://github.com/flutter/flutter/pull/160005) opened on on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160005) 53 additions and 61 deletions in 2 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds onHover and onLongPress to IconButton widget<br />
-  <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Medium:** [44 comments](https://github.com/flutter/flutter/pull/160032) 399 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Medium:** [44 comments](https://github.com/flutter/flutter/pull/160032) 377 additions and 1 deletion in 2 files</sub><br />
 
 * **[Lucas Silva de Oliveira](https://github.com/lucassilvaoliveira)** &mdash; Add inversedChildren property to Flex<br />
   <sub>[#160103](https://github.com/flutter/flutter/pull/160103) opened on on December 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160103) 11 additions and 1 deletion in 1 file</sub><br />
@@ -150,10 +150,10 @@
   <sub>[#161101](https://github.com/flutter/flutter/pull/161101) opened on on January 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161101) 10 additions and 2 deletions in 2 files</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; use uuid from package:uuid instead of from package:usage<br />
-  <sub>[#161102](https://github.com/flutter/flutter/pull/161102) opened on on January 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161102) 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#161102](https://github.com/flutter/flutter/pull/161102) opened on on January 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161102) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter_template_images` to `5.0.0`.<br />
-  <sub>[#161105](https://github.com/flutter/flutter/pull/161105) opened on on January 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161105) 3 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#161105](https://github.com/flutter/flutter/pull/161105) opened on on January 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161105) 3 additions and 3 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `dev/`<br />
   <sub>[#161112](https://github.com/flutter/flutter/pull/161112) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161112) 5 additions and 1 deletion in 3 files</sub><br />
