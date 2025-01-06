@@ -7,7 +7,7 @@
 4 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.
-  <sub>[#160937](https://github.com/flutter/flutter/pull/160937) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160937) over 1 week, 67 additions and 3 deletions in 3 files</sub>
+  <sub>[#160937](https://github.com/flutter/flutter/pull/160937) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160937) over 1 week, 67 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit hardcoded `--packages=.dart_tool/package_config.json`.
