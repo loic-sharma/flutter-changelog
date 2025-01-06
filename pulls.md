@@ -116,9 +116,6 @@
 * **[Hooshyar](https://github.com/hooshyar)** &mdash; [l10n] Add Kurdish Sorani (ckb) localizations for Material, Cupertino, and Widgets<br />
   <sub>[#160925](https://github.com/flutter/flutter/pull/160925) opened on on December 27, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/160925) 1402 additions and 74 deletions in 12 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.<br />
-  <sub>[#160937](https://github.com/flutter/flutter/pull/160937) opened on on December 28, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160937) 67 additions and 3 deletions in 3 files</sub><br />
-
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Bump default Kotlin version from 1.8.22 to 2.1.0<br />
   <sub>[#160974](https://github.com/flutter/flutter/pull/160974) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160974) 6 additions and 6 deletions in 6 files</sub><br />
 
@@ -145,9 +142,6 @@
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; rev to the latest dart-lang/http and remove older http_multi_server refs<br />
   <sub>[#161067](https://github.com/flutter/flutter/pull/161067) opened on on January 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161067) 2 additions and 6 deletions in 2 files</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Add `.cxx` directories to app template `.gitignore`<br />
-  <sub>[#161069](https://github.com/flutter/flutter/pull/161069) opened on on January 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161069) 9 additions and 0 deletions in 9 files</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Improve the test for `clangd --check` to choose files deterministically<br />
   <sub>[#161072](https://github.com/flutter/flutter/pull/161072) opened on on January 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161072) 25 additions and 4 deletions in 1 file</sub><br />
