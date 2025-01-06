@@ -235,7 +235,15 @@
 
 ### January 4, 2025 to January 10, 2025
 
-1 commits.
+3 commits.
+
+* **[Aman Khatri](https://github.com/AmanKhatri-ai)** &mdash; Updated incorrect file name in documentation<br />
+  <sub>[#11566](https://github.com/flutter/website/pull/11566) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11566) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Aman Khatri](https://github.com/AmanKhatri-ai)** &mdash; Fixed markdown formatting for file names in documentation<br />
+  <sub>[#11565](https://github.com/flutter/website/pull/11565) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11565) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Gregory Clark](https://github.com/w-hat)** &mdash; Add a missing space before `canvaskit`.<br />
   <sub>[#11571](https://github.com/flutter/website/pull/11571) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11571) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
