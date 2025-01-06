@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### January 4, 2025 to January 10, 2025
+
+1 commits.
+
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Filter hook environment
+  <sub>[#161084](https://github.com/flutter/flutter/pull/161084) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161084) over 3 days, 15 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
+
 ### December 28, 2024 to January 3, 2025
 
-6 commits.
+<details>
+<summary>6 commits...</summary>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Bump characters, collection, meta
   <sub>[#161066](https://github.com/flutter/flutter/pull/161066) merged on January 3, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/161066) over 8 hours, 319 additions and 319 deletions in 72 files</sub>
@@ -29,6 +38,8 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use the in-tree engine by default when using `--local-engine` or `--local-web-sdk`
   <sub>[#161110](https://github.com/flutter/flutter/pull/161110) merged on January 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161110) over 2 hours, 8 additions and 11 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+
+</details>
 
 ### December 21, 2024 to December 27, 2024
 
