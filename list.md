@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-4 commits.
+5 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.
   <sub>[#160937](https://github.com/flutter/flutter/pull/160937) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160937) over 1 week, 67 additions and 3 deletions in 3 files</sub>
@@ -13,6 +13,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit hardcoded `--packages=.dart_tool/package_config.json`.
   <sub>[#160982](https://github.com/flutter/flutter/pull/160982) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160982) over 6 days, 1 addition and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove the word normalized, remove minimum/maximum.
+  <sub>[#161106](https://github.com/flutter/flutter/pull/161106) merged on January 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161106) over 2 days, 14 additions and 28 deletions in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; rev to the latest dart-lang/http and remove older http_multi_server refs
   <sub>[#161067](https://github.com/flutter/flutter/pull/161067) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161067) over 3 days, 2 additions and 6 deletions in 2 files</sub>
