@@ -66,7 +66,7 @@
   <sub>[#160454](https://github.com/flutter/flutter/pull/160454) opened on on December 17, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160454) 16 additions and 385 deletions in 43 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Test generated localizations<br />
-  <sub>[#160479](https://github.com/flutter/flutter/pull/160479) opened on on December 17, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160479) 19 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#160479](https://github.com/flutter/flutter/pull/160479) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160479) 19 additions and 1 deletion in 2 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🔊 [tool] Add a wirelessly connected device name as `displayName`<br />
   <sub>[#160497](https://github.com/flutter/flutter/pull/160497) opened on on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160497) 198 additions and 98 deletions in 31 files</sub><br />
@@ -172,4 +172,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.<br />
   <sub>[#161189](https://github.com/flutter/flutter/pull/161189) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161189) 27 additions and 26 deletions in 6 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] null check device buffer in image encoding.<br />
+  <sub>[#161194](https://github.com/flutter/flutter/pull/161194) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161194) 6 additions and 0 deletions in 1 file</sub><br />
 
