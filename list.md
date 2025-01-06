@@ -203,9 +203,18 @@
 
 ## flutter/packages
 
+### January 4, 2025 to January 10, 2025
+
+1 commits.
+
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] fix finish() not completing
+  <sub>[#8324](https://github.com/flutter/packages/pull/8324) merged on January 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8324) over 2 weeks, 72 additions and 14 deletions in 5 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
 ### December 28, 2024 to January 3, 2025
 
-7 commits.
+<details>
+<summary>7 commits...</summary>
 
 * **[WenHaozhan](https://github.com/WenHaozhan)** &mdash; [image_picker] Removes use of PHAsset on IOS 14+
   <sub>[#8190](https://github.com/flutter/packages/pull/8190) merged on January 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8190) over 1 month, 14 additions and 159 deletions in 9 files</sub>
@@ -234,6 +243,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Discuss stability in README
   <sub>[#8366](https://github.com/flutter/packages/pull/8366) merged on January 2, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8366) over 21 minutes, 45 additions and 13 deletions in 4 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+</details>
 
 ### December 21, 2024 to December 27, 2024
 
