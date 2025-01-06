@@ -139,7 +139,7 @@
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Revert rematching DropdownMenu.initialSelection<br />
-  <sub>[#160643](https://github.com/flutter/flutter/pull/160643) merged on December 21, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160643) over 22 hours, 27 additions and 84 deletions in 2 files</sub><br />
+  <sub>[#160643](https://github.com/flutter/flutter/pull/160643) merged on December 21, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160643) over 22 hours, 27 additions and 84 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move barrier setting out of render pass builder.<br />
