@@ -4,7 +4,11 @@
 
 ### January 4, 2025 to January 10, 2025
 
-3 commits.
+4 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.<br />
+  <sub>[#160937](https://github.com/flutter/flutter/pull/160937) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160937) over 1 week, 67 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit hardcoded `--packages=.dart_tool/package_config.json`.<br />
   <sub>[#160982](https://github.com/flutter/flutter/pull/160982) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160982) over 6 days, 1 addition and 9 deletions in 3 files</sub><br />
@@ -35,6 +39,10 @@
   <sub>[#160980](https://github.com/flutter/flutter/pull/160980) merged on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160980) over 1 hour, 20 additions and 107 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use the in-tree engine by default when using `--local-engine` or `--local-web-sdk`<br />
+  <sub>[#161110](https://github.com/flutter/flutter/pull/161110) merged on January 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161110) over 2 hours, 8 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix docImport issues<br />
   <sub>[#160918](https://github.com/flutter/flutter/pull/160918) merged on December 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160918) over 2 days, 56 additions and 9 deletions in 26 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Sam Rawlins](https://github.com/srawlins)</sub><br />
@@ -42,10 +50,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🐛 [tool] Installs the APK regardless of version<br />
   <sub>[#160432](https://github.com/flutter/flutter/pull/160432) merged on December 30, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160432) over 1 week, 25 additions and 117 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use the in-tree engine by default when using `--local-engine` or `--local-web-sdk`<br />
-  <sub>[#161110](https://github.com/flutter/flutter/pull/161110) merged on January 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161110) over 2 hours, 8 additions and 11 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 </details>
 
