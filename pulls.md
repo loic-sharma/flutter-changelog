@@ -176,3 +176,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] null check device buffer in image encoding.<br />
   <sub>[#161194](https://github.com/flutter/flutter/pull/161194) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161194) 6 additions and 0 deletions in 1 file</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree<br />
+  <sub>[#161195](https://github.com/flutter/flutter/pull/161195) opened on on January 6, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161195) 1422 additions and 1370 deletions in 10 files</sub><br />
+
