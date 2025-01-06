@@ -170,3 +170,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update engine instructions for monorepo<br />
   <sub>[#161184](https://github.com/flutter/flutter/pull/161184) opened on on January 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161184) 27 additions and 36 deletions in 2 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.<br />
+  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161188) 5 additions and 70 deletions in 1 file</sub><br />
+

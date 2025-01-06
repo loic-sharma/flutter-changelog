@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-11 commits.
+12 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.<br />
   <sub>[#160937](https://github.com/flutter/flutter/pull/160937) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160937) over 1 week, 67 additions and 3 deletions in 3 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter_template_images` to `5.0.0`.<br />
   <sub>[#161105](https://github.com/flutter/flutter/pull/161105) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161105) over 2 days, 3 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark flavors_test_macos unflaky<br />
+  <sub>[#160990](https://github.com/flutter/flutter/pull/160990) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160990) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update GitHub URL for failing android_semantics_integration_test bringup<br />
   <sub>[#160993](https://github.com/flutter/flutter/pull/160993) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160993) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
