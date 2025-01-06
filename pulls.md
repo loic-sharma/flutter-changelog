@@ -137,9 +137,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Test frob engine<br />
   <sub>[#161042](https://github.com/flutter/flutter/pull/161042) opened on on January 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161042) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Improve the test for `clangd --check` to choose files deterministically<br />
-  <sub>[#161072](https://github.com/flutter/flutter/pull/161072) opened on on January 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161072) 25 additions and 4 deletions in 1 file</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Add padding for EditableText when scrollable shows scrollbar<br />
   <sub>[#161078](https://github.com/flutter/flutter/pull/161078) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161078) 69 additions and 66 deletions in 2 files</sub><br />
 
@@ -171,5 +168,5 @@
   <sub>[#161183](https://github.com/flutter/flutter/pull/161183) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161183) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update engine instructions for monorepo<br />
-  <sub>[#161184](https://github.com/flutter/flutter/pull/161184) opened on on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161184) 28 additions and 33 deletions in 2 files</sub><br />
+  <sub>[#161184](https://github.com/flutter/flutter/pull/161184) opened on on January 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161184) 28 additions and 33 deletions in 2 files</sub><br />
 
