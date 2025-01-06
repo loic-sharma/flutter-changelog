@@ -137,9 +137,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Test frob engine<br />
   <sub>[#161042](https://github.com/flutter/flutter/pull/161042) opened on on January 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161042) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; rev to the latest dart-lang/http and remove older http_multi_server refs<br />
-  <sub>[#161067](https://github.com/flutter/flutter/pull/161067) opened on on January 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161067) 2 additions and 6 deletions in 2 files</sub><br />
-
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Improve the test for `clangd --check` to choose files deterministically<br />
   <sub>[#161072](https://github.com/flutter/flutter/pull/161072) opened on on January 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161072) 25 additions and 4 deletions in 1 file</sub><br />
 
