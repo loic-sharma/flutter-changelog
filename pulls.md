@@ -170,3 +170,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter_test`<br />
   <sub>[#161131](https://github.com/flutter/flutter/pull/161131) opened on on January 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161131) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; [CP-stable] Revert "Fix DropdownMenu does not rematch initialSelection when entries have changed"<br />
+  <sub>[#161177](https://github.com/flutter/flutter/pull/161177) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161177) 61 additions and 198 deletions in 5 files</sub><br />
+
