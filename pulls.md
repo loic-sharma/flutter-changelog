@@ -164,15 +164,15 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; [CP-stable] Revert "Fix DropdownMenu does not rematch initialSelection when entries have changed"<br />
   <sub>[#161177](https://github.com/flutter/flutter/pull/161177) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161177) 61 additions and 198 deletions in 5 files</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Update golden canary<br />
-  <sub>[#161183](https://github.com/flutter/flutter/pull/161183) opened on on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161183) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update engine instructions for monorepo<br />
-  <sub>[#161184](https://github.com/flutter/flutter/pull/161184) opened on on January 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161184) 27 additions and 36 deletions in 2 files</sub><br />
+  <sub>[#161184](https://github.com/flutter/flutter/pull/161184) opened on on January 6, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161184) 27 additions and 36 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.<br />
   <sub>[#161188](https://github.com/flutter/flutter/pull/161188) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161188) 5 additions and 70 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.<br />
   <sub>[#161189](https://github.com/flutter/flutter/pull/161189) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161189) 27 additions and 26 deletions in 6 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Scale any clip path by 1 / DPR.<br />
+  <sub>[#161190](https://github.com/flutter/flutter/pull/161190) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161190) 136 additions and 2 deletions in 2 files</sub><br />
 
