@@ -96,7 +96,7 @@
   <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
 
 * **[Marco Domingos](https://github.com/marcoedomingos)** &mdash; Added the spacing parameters inside the ExpansionTile<br />
-  <sub>[#160848](https://github.com/flutter/flutter/pull/160848) opened on on December 25, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160848) 10 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#160848](https://github.com/flutter/flutter/pull/160848) opened on on December 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160848) 10 additions and 0 deletions in 1 file</sub><br />
 
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
@@ -121,9 +121,6 @@
 
 * **[Pranesh Pyara Shrestha](https://github.com/praneshp1org)** &mdash; Added equalWidthPerRow option to Wrap widget<br />
   <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit hardcoded `--packages=.dart_tool/package_config.json`.<br />
-  <sub>[#160982](https://github.com/flutter/flutter/pull/160982) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160982) 1 addition and 9 deletions in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark analyzer_benchmark unflaky<br />
   <sub>[#160991](https://github.com/flutter/flutter/pull/160991) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160991) 0 additions and 1 deletion in 1 file</sub><br />
