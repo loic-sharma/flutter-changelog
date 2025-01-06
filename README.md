@@ -242,7 +242,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Aman Khatri](https://github.com/AmanKhatri-ai)** &mdash; Fixed markdown formatting for file names in documentation<br />
-  <sub>[#11565](https://github.com/flutter/website/pull/11565) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11565) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#11565](https://github.com/flutter/website/pull/11565) merged on January 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11565) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Gregory Clark](https://github.com/w-hat)** &mdash; Add a missing space before `canvaskit`.<br />
