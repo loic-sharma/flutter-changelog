@@ -177,7 +177,7 @@
   <sub>[#161115](https://github.com/flutter/flutter/pull/161115) opened on on January 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161115) 54 additions and 11 deletions in 9 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter/test`<br />
-  <sub>[#161127](https://github.com/flutter/flutter/pull/161127) opened on on January 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161127) 9 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#161127](https://github.com/flutter/flutter/pull/161127) opened on on January 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161127) 9 additions and 2 deletions in 3 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter_test`<br />
   <sub>[#161131](https://github.com/flutter/flutter/pull/161131) opened on on January 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161131) 2 additions and 0 deletions in 1 file</sub><br />
