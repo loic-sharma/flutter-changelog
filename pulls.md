@@ -72,7 +72,7 @@
   <sub>[#160497](https://github.com/flutter/flutter/pull/160497) opened on on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160497) 198 additions and 98 deletions in 31 files</sub><br />
 
 * **[nick9822](https://github.com/nick9822)** &mdash; added new ScrollViewKeyboardDismissBehavior variant onDrag with tests<br />
-  <sub>[#160507](https://github.com/flutter/flutter/pull/160507) opened on on December 18, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160507) 57 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#160507](https://github.com/flutter/flutter/pull/160507) opened on on December 18, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160507) 57 additions and 1 deletion in 3 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
