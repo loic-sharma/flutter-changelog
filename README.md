@@ -233,9 +233,18 @@
 
 ## flutter/website
 
+### January 4, 2025 to January 10, 2025
+
+1 commits.
+
+* **[Gregory Clark](https://github.com/w-hat)** &mdash; Add a missing space before `canvaskit`.<br />
+  <sub>[#11571](https://github.com/flutter/website/pull/11571) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11571) over 3 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
 ### December 28, 2024 to January 3, 2025
 
-4 commits.
+<details>
+<summary>4 commits...</summary>
 
 * **[Angom Geetchandra](https://github.com/GIT-chandra)** &mdash; Fix ValueNotifier example in state-management.md<br />
   <sub>[#11553](https://github.com/flutter/website/pull/11553) merged on January 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11553) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -253,6 +262,8 @@
 * **[Zarif Muhtasim](https://github.com/roundspecs)** &mdash; fix: corrected typo in documentation ("view mo" to "view model")<br />
   <sub>[#11558](https://github.com/flutter/website/pull/11558) merged on January 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11558) over 4 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### December 21, 2024 to December 27, 2024
 
