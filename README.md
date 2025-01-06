@@ -221,11 +221,15 @@
 
 ### January 4, 2025 to January 10, 2025
 
-1 commits.
+2 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] fix finish() not completing<br />
   <sub>[#8324](https://github.com/flutter/packages/pull/8324) merged on January 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8324) over 2 weeks, 72 additions and 14 deletions in 5 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Updates readme to reflect current status<br />
+  <sub>[#8374](https://github.com/flutter/packages/pull/8374) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8374) over 4 hours, 10 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 ### December 28, 2024 to January 3, 2025
 
