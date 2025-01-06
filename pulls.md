@@ -182,9 +182,3 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter_test`<br />
   <sub>[#161131](https://github.com/flutter/flutter/pull/161131) opened on on January 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161131) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Amanuel Awoke](https://github.com/amandotzip)** &mdash; fixed whoa typo<br />
-  <sub>[#161141](https://github.com/flutter/flutter/pull/161141) opened on on January 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161141) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Giresse Achouakong](https://github.com/gthe1andonly)** &mdash; spelling<br />
-  <sub>[#161143](https://github.com/flutter/flutter/pull/161143) opened on on January 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161143) 1 addition and 1 deletion in 1 file</sub><br />
-
