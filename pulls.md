@@ -182,3 +182,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter_test`<br />
   <sub>[#161131](https://github.com/flutter/flutter/pull/161131) opened on on January 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161131) 2 additions and 0 deletions in 1 file</sub><br />
 
+* **[SilentCatDev](https://github.com/SilentCatD)** &mdash; Keyboard interaction and focus for RangeSlider<br />
+  <sub>[#161154](https://github.com/flutter/flutter/pull/161154) opened on on January 6, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/161154) 817 additions and 281 deletions in 2 files</sub><br />
+
