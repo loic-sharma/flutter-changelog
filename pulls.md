@@ -90,7 +90,7 @@
   <sub>[#160678](https://github.com/flutter/flutter/pull/160678) opened on on December 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160678) 41 additions and 17 deletions in 2 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `GestureDetailsWithPositions`<br />
-  <sub>[#160714](https://github.com/flutter/flutter/pull/160714) opened on on December 21, 2024 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/160714) 349 additions and 303 deletions in 16 files</sub><br />
+  <sub>[#160714](https://github.com/flutter/flutter/pull/160714) opened on on December 21, 2024 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/160714) 349 additions and 303 deletions in 16 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; do not layout carousel if layout constraints are zero<br />
   <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
@@ -172,7 +172,4 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.<br />
   <sub>[#161189](https://github.com/flutter/flutter/pull/161189) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161189) 27 additions and 26 deletions in 6 files</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Scale any clip path by 1 / DPR.<br />
-  <sub>[#161190](https://github.com/flutter/flutter/pull/161190) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161190) 136 additions and 2 deletions in 2 files</sub><br />
 
