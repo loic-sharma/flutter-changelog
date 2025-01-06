@@ -165,7 +165,7 @@
   <sub>[#161177](https://github.com/flutter/flutter/pull/161177) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161177) 61 additions and 198 deletions in 5 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update golden canary<br />
-  <sub>[#161183](https://github.com/flutter/flutter/pull/161183) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161183) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#161183](https://github.com/flutter/flutter/pull/161183) opened on on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161183) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Update engine instructions for monorepo<br />
   <sub>[#161184](https://github.com/flutter/flutter/pull/161184) opened on on January 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161184) 27 additions and 36 deletions in 2 files</sub><br />
