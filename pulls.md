@@ -57,7 +57,7 @@
   <sub>[#160304](https://github.com/flutter/flutter/pull/160304) opened on on December 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160304) 55 additions and 0 deletions in 2 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates<br />
-  <sub>[#160349](https://github.com/flutter/flutter/pull/160349) opened on on December 16, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160349) 12 additions and 12 deletions in 5 files</sub><br />
+  <sub>[#160349](https://github.com/flutter/flutter/pull/160349) opened on on December 16, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160349) 12 additions and 12 deletions in 5 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
   <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/160354) 1370 additions and 574 deletions in 93 files</sub><br />
@@ -169,4 +169,7 @@
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update golden canary<br />
   <sub>[#161183](https://github.com/flutter/flutter/pull/161183) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161183) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Update engine instructions for monorepo<br />
+  <sub>[#161184](https://github.com/flutter/flutter/pull/161184) opened on on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161184) 28 additions and 33 deletions in 2 files</sub><br />
 
