@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-37 commits.
+38 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) over 3 weeks, 12 additions and 12 deletions in 5 files</sub>
@@ -58,6 +58,10 @@
   <sub>[#161188](https://github.com/flutter/flutter/pull/161188) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161188) over 19 hours, 5 additions and 71 deletions in 1 file</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change timing of `onSurfaceDestroyed` to match `onSurfaceCleanup`
+  <sub>[#161252](https://github.com/flutter/flutter/pull/161252) merged on January 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161252) over 2 hours, 27 additions and 17 deletions in 3 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.
   <sub>[#161189](https://github.com/flutter/flutter/pull/161189) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161189) over 2 hours, 27 additions and 26 deletions in 6 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -94,17 +98,17 @@
   <sub>[#161212](https://github.com/flutter/flutter/pull/161212) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161212) over 13 hours, 38 additions and 61 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark analyzer_benchmark unflaky
-  <sub>[#160991](https://github.com/flutter/flutter/pull/160991) merged on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160991) over 1 week, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; rev to the latest dart-lang/http and remove older http_multi_server refs
-  <sub>[#161067](https://github.com/flutter/flutter/pull/161067) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161067) over 3 days, 2 additions and 6 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove the word normalized, remove minimum/maximum.
+  <sub>[#161106](https://github.com/flutter/flutter/pull/161106) merged on January 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161106) over 2 days, 14 additions and 28 deletions in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Filter hook environment
   <sub>[#161084](https://github.com/flutter/flutter/pull/161084) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161084) over 3 days, 15 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont generate final 1x1 mip level to work around Adreno GPU bug
+  <sub>[#161192](https://github.com/flutter/flutter/pull/161192) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161192) over 1 hour, 18 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update golden canary
   <sub>[#161183](https://github.com/flutter/flutter/pull/161183) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161183) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -130,9 +134,9 @@
   <sub>[#161101](https://github.com/flutter/flutter/pull/161101) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161101) over 3 days, 10 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove the word normalized, remove minimum/maximum.
-  <sub>[#161106](https://github.com/flutter/flutter/pull/161106) merged on January 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161106) over 2 days, 14 additions and 28 deletions in 1 file</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark analyzer_benchmark unflaky
+  <sub>[#160991](https://github.com/flutter/flutter/pull/160991) merged on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160991) over 1 week, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; use uuid from package:uuid instead of from package:usage
   <sub>[#161102](https://github.com/flutter/flutter/pull/161102) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161102) over 3 days, 4 additions and 4 deletions in 1 file</sub>
@@ -146,9 +150,9 @@
   <sub>[#161187](https://github.com/flutter/flutter/pull/161187) merged on January 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161187) over 3 hours, 91 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont generate final 1x1 mip level to work around Adreno GPU bug
-  <sub>[#161192](https://github.com/flutter/flutter/pull/161192) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161192) over 1 hour, 18 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; rev to the latest dart-lang/http and remove older http_multi_server refs
+  <sub>[#161067](https://github.com/flutter/flutter/pull/161067) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161067) over 3 days, 2 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Scale any clip path by 1 / DPR.
   <sub>[#161190](https://github.com/flutter/flutter/pull/161190) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161190) over 17 hours, 136 additions and 2 deletions in 2 files</sub>
@@ -321,7 +325,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-5 commits.
+6 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] fix finish() not completing
   <sub>[#8324](https://github.com/flutter/packages/pull/8324) merged on January 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8324) over 2 weeks, 72 additions and 14 deletions in 5 files</sub>
@@ -338,6 +342,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: latest dependencies
   <sub>[#8326](https://github.com/flutter/packages/pull/8326) merged on January 7, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8326) over 2 weeks, 33 additions and 10 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax][video_player_android] Suppresses deprecation of the `SurfaceProducer.Callback.onSurfaceDestroyed` method
+  <sub>[#8388](https://github.com/flutter/packages/pull/8388) merged on January 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8388) over 1 hour, 16 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Updates readme to reflect current status
   <sub>[#8374](https://github.com/flutter/packages/pull/8374) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8374) over 4 hours, 10 additions and 3 deletions in 3 files</sub>
