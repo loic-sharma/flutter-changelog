@@ -4,7 +4,11 @@
 
 ### January 4, 2025 to January 10, 2025
 
-19 commits.
+20 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `flutter` repo for engine golds instead of `flutter-engine`.<br />
+  <sub>[#160556](https://github.com/flutter/flutter/pull/160556) merged on January 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160556) over 2 weeks, 70 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.<br />
   <sub>[#160937](https://github.com/flutter/flutter/pull/160937) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160937) over 1 week, 67 additions and 3 deletions in 3 files</sub><br />
