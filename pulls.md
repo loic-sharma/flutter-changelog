@@ -48,7 +48,7 @@
   <sub>[#160104](https://github.com/flutter/flutter/pull/160104) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160104) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
-  <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
@@ -67,9 +67,6 @@
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; 🔊 [tool] Add a wirelessly connected device name as `displayName`<br />
   <sub>[#160497](https://github.com/flutter/flutter/pull/160497) opened on on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160497) 198 additions and 98 deletions in 31 files</sub><br />
-
-* **[nick9822](https://github.com/nick9822)** &mdash; added new ScrollViewKeyboardDismissBehavior variant onDrag with tests<br />
-  <sub>[#160507](https://github.com/flutter/flutter/pull/160507) opened on on December 18, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/160507) 57 additions and 1 deletion in 3 files</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
@@ -169,4 +166,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable input attachment / self dependency on Adreno 630 and older.<br />
   <sub>[#161274](https://github.com/flutter/flutter/pull/161274) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161274) 42 additions and 2 deletions in 6 files</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Support DDC library bundle format and remove support for DDC module format<br />
+  <sub>[#161276](https://github.com/flutter/flutter/pull/161276) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161276) 352 additions and 468 deletions in 14 files</sub><br />
 
