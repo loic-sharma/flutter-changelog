@@ -134,9 +134,6 @@
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Roll gn to c97a86a72105f3328a540f5a5ab17d11989ab7dd<br />
   <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161012) 8 additions and 9 deletions in 5 files</sub><br />
 
-* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Improve the test for `clangd --check` to choose files deterministically<br />
-  <sub>[#161072](https://github.com/flutter/flutter/pull/161072) opened on on January 2, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161072) 25 additions and 4 deletions in 1 file</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Add padding for EditableText when scrollable shows scrollbar<br />
   <sub>[#161078](https://github.com/flutter/flutter/pull/161078) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161078) 69 additions and 66 deletions in 2 files</sub><br />
 
