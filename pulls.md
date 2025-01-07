@@ -176,9 +176,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] ignore viewpost ime and samsung spam messages.<br />
   <sub>[#161199](https://github.com/flutter/flutter/pull/161199) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161199) 48 additions and 7 deletions in 2 files</sub><br />
 
-* **[SuicaLondon](https://github.com/SuicaLondon)** &mdash; Fix the bug that helper and error text max lines null is not respected<br />
-  <sub>[#161200](https://github.com/flutter/flutter/pull/161200) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161200) 22 additions and 2 deletions in 2 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate engine labeler to top level<br />
   <sub>[#161212](https://github.com/flutter/flutter/pull/161212) opened on on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161212) 38 additions and 61 deletions in 2 files</sub><br />
 
