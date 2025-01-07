@@ -165,7 +165,7 @@
   <sub>[#161184](https://github.com/flutter/flutter/pull/161184) opened on on January 6, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/161184) 43 additions and 52 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.<br />
-  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161188) 5 additions and 71 deletions in 1 file</sub><br />
+  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) opened on on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161188) 5 additions and 71 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] null check device buffer in image encoding.<br />
   <sub>[#161194](https://github.com/flutter/flutter/pull/161194) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161194) 6 additions and 0 deletions in 1 file</sub><br />
@@ -183,5 +183,5 @@
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161223) 1 addition and 2 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField intrinsic width when hint is not visible<br />
-  <sub>[#161235](https://github.com/flutter/flutter/pull/161235) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161235) 111 additions and 40 deletions in 2 files</sub><br />
+  <sub>[#161235](https://github.com/flutter/flutter/pull/161235) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161235) 74 additions and 4 deletions in 2 files</sub><br />
 
