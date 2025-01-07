@@ -14,6 +14,9 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/157515) 1885 additions and 2 deletions in 32 files</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
+  <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158020) 29 additions and 16 deletions in 1 file</sub><br />
+
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog from 3.24.5<br />
   <sub>[#158904](https://github.com/flutter/flutter/pull/158904) opened on on November 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/158904) 6 additions and 0 deletions in 1 file</sub><br />
 
@@ -90,7 +93,7 @@
   <sub>[#160678](https://github.com/flutter/flutter/pull/160678) opened on on December 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160678) 41 additions and 17 deletions in 2 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `GestureDetailsWithPositions`<br />
-  <sub>[#160714](https://github.com/flutter/flutter/pull/160714) opened on on December 21, 2024 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/160714) 349 additions and 303 deletions in 16 files</sub><br />
+  <sub>[#160714](https://github.com/flutter/flutter/pull/160714) opened on on December 21, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/160714) 349 additions and 303 deletions in 16 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; do not layout carousel if layout constraints are zero<br />
   <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
