@@ -325,7 +325,11 @@
 
 ### January 4, 2025 to January 10, 2025
 
-6 commits.
+8 commits.
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Run web tests in wasm (unit + integration).<br />
+  <sub>[#8111](https://github.com/flutter/packages/pull/8111) merged on January 7, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/8111) over 1 month, 282 additions and 72 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] fix finish() not completing<br />
   <sub>[#8324](https://github.com/flutter/packages/pull/8324) merged on January 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8324) over 2 weeks, 72 additions and 14 deletions in 5 files</sub><br />
@@ -342,6 +346,10 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: latest dependencies<br />
   <sub>[#8326](https://github.com/flutter/packages/pull/8326) merged on January 7, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8326) over 2 weeks, 33 additions and 10 deletions in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Olli Helenius](https://github.com/liff)** &mdash; [camera_platform_interface] Add API support query for image streaming<br />
+  <sub>[#8307](https://github.com/flutter/packages/pull/8307) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8307) over 3 weeks, 19 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [camera_android_camerax][video_player_android] Suppresses deprecation of the `SurfaceProducer.Callback.onSurfaceDestroyed` method<br />
   <sub>[#8388](https://github.com/flutter/packages/pull/8388) merged on January 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8388) over 1 hour, 16 additions and 0 deletions in 4 files</sub><br />
