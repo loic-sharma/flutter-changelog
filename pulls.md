@@ -179,3 +179,6 @@
 * **[cedvdb](https://github.com/cedvdb)** &mdash; Enabled provisioning updates and device registration during building xcarchive<br />
   <sub>[#161246](https://github.com/flutter/flutter/pull/161246) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161246) 881 additions and 407 deletions in 4 files</sub><br />
 
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] remove references to archived repos<br />
+  <sub>[#161248](https://github.com/flutter/flutter/pull/161248) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161248) 5 additions and 32 deletions in 2 files</sub><br />
+
