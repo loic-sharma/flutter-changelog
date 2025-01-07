@@ -4,7 +4,11 @@
 
 ### January 4, 2025 to January 10, 2025
 
-20 commits.
+21 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates
+  <sub>[#160349](https://github.com/flutter/flutter/pull/160349) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) over 3 weeks, 12 additions and 12 deletions in 5 files</sub>
+  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `flutter` repo for engine golds instead of `flutter-engine`.
   <sub>[#160556](https://github.com/flutter/flutter/pull/160556) merged on January 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160556) over 2 weeks, 70 additions and 7 deletions in 3 files</sub>

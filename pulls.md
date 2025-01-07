@@ -59,9 +59,6 @@
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds ListenableBuilder.multiple to make it easier to listen to multiple listenables<br />
   <sub>[#160304](https://github.com/flutter/flutter/pull/160304) opened on on December 14, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160304) 55 additions and 0 deletions in 2 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates<br />
-  <sub>[#160349](https://github.com/flutter/flutter/pull/160349) opened on on December 16, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) 12 additions and 12 deletions in 5 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
   <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Extra large:** [42 comments](https://github.com/flutter/flutter/pull/160354) 1370 additions and 574 deletions in 93 files</sub><br />
 
