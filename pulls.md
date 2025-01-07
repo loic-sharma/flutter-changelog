@@ -158,9 +158,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField intrinsic width when hint is not visible<br />
   <sub>[#161235](https://github.com/flutter/flutter/pull/161235) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161235) 74 additions and 4 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable runtime mipmap generation on Adreno.<br />
-  <sub>[#161257](https://github.com/flutter/flutter/pull/161257) opened on on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161257) 67 additions and 12 deletions in 8 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add semantics role and tab<br />
   <sub>[#161260](https://github.com/flutter/flutter/pull/161260) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161260) 473 additions and 30 deletions in 21 files</sub><br />
 
@@ -169,4 +166,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] porter duff workarounds for Adreno GPU.<br />
   <sub>[#161273](https://github.com/flutter/flutter/pull/161273) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161273) 209 additions and 46 deletions in 6 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable input attachment / self dependency on Adreno 630 and older.<br />
+  <sub>[#161274](https://github.com/flutter/flutter/pull/161274) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161274) 42 additions and 2 deletions in 6 files</sub><br />
 
