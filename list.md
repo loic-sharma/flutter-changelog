@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-24 commits.
+27 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) over 3 weeks, 12 additions and 12 deletions in 5 files</sub>
@@ -45,6 +45,18 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.
   <sub>[#161189](https://github.com/flutter/flutter/pull/161189) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161189) over 2 hours, 27 additions and 26 deletions in 6 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark platform_channel_sample_test_macos unflaky
+  <sub>[#160989](https://github.com/flutter/flutter/pull/160989) merged on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160989) over 1 week, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate engine labeler to top level
+  <sub>[#161212](https://github.com/flutter/flutter/pull/161212) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161212) over 13 hours, 38 additions and 61 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark analyzer_benchmark unflaky
+  <sub>[#160991](https://github.com/flutter/flutter/pull/160991) merged on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160991) over 1 week, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; use uuid from package:uuid instead of from package:usage
   <sub>[#161102](https://github.com/flutter/flutter/pull/161102) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161102) over 3 days, 4 additions and 4 deletions in 1 file</sub>
