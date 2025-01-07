@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-34 commits.
+35 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) over 3 weeks, 12 additions and 12 deletions in 5 files</sub>
@@ -21,6 +21,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit hardcoded `--packages=.dart_tool/package_config.json`.
   <sub>[#160982](https://github.com/flutter/flutter/pull/160982) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160982) over 6 days, 1 addition and 9 deletions in 3 files</sub>
   <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Add separate feature flag for the app migration
+  <sub>[#158897](https://github.com/flutter/flutter/pull/158897) merged on January 7, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/158897) over 1 month, 434 additions and 13 deletions in 11 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove now-unnecessary command `felt analyze`.
   <sub>[#160986](https://github.com/flutter/flutter/pull/160986) merged on January 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160986) over 1 week, 0 additions and 76 deletions in 4 files</sub>
@@ -46,13 +50,13 @@
   <sub>[#160890](https://github.com/flutter/flutter/pull/160890) merged on January 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160890) over 1 week, 71 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.
-  <sub>[#161189](https://github.com/flutter/flutter/pull/161189) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161189) over 2 hours, 27 additions and 26 deletions in 6 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.
   <sub>[#161188](https://github.com/flutter/flutter/pull/161188) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161188) over 19 hours, 5 additions and 71 deletions in 1 file</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.
+  <sub>[#161189](https://github.com/flutter/flutter/pull/161189) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161189) over 2 hours, 27 additions and 26 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Martin Anderson](https://github.com/krokyze)** &mdash; Update PopInvokedCallback Deprecated message
   <sub>[#160324](https://github.com/flutter/flutter/pull/160324) merged on January 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160324) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
@@ -94,10 +98,6 @@
   <sub>[#161084](https://github.com/flutter/flutter/pull/161084) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161084) over 3 days, 15 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Engine] Make `SkiaGoldClient` a NOP when the branch is not `main` or `master`.
-  <sub>[#161187](https://github.com/flutter/flutter/pull/161187) merged on January 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161187) over 3 hours, 91 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Kate Lovett](https://github.com/Piinks)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont generate final 1x1 mip level to work around Adreno GPU bug
   <sub>[#161192](https://github.com/flutter/flutter/pull/161192) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161192) over 1 hour, 18 additions and 5 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
@@ -137,6 +137,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `verbose: true` from `canvas_test.dart`.
   <sub>[#161211](https://github.com/flutter/flutter/pull/161211) merged on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161211) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Engine] Make `SkiaGoldClient` a NOP when the branch is not `main` or `master`.
+  <sub>[#161187](https://github.com/flutter/flutter/pull/161187) merged on January 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161187) over 3 hours, 91 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Scale any clip path by 1 / DPR.
   <sub>[#161190](https://github.com/flutter/flutter/pull/161190) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161190) over 17 hours, 136 additions and 2 deletions in 2 files</sub>
