@@ -158,9 +158,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField intrinsic width when hint is not visible<br />
   <sub>[#161235](https://github.com/flutter/flutter/pull/161235) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161235) 74 additions and 4 deletions in 2 files</sub><br />
 
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] remove references to archived repos<br />
-  <sub>[#161248](https://github.com/flutter/flutter/pull/161248) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161248) 8 additions and 35 deletions in 3 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable runtime mipmap generation on Adreno.<br />
   <sub>[#161257](https://github.com/flutter/flutter/pull/161257) opened on on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161257) 67 additions and 12 deletions in 8 files</sub><br />
 
@@ -169,4 +166,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add set semantics enabled API and wire iOS a11y bridge<br />
   <sub>[#161265](https://github.com/flutter/flutter/pull/161265) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161265) 531 additions and 66 deletions in 31 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] porter duff workarounds for Adreno GPU.<br />
+  <sub>[#161273](https://github.com/flutter/flutter/pull/161273) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161273) 209 additions and 46 deletions in 6 files</sub><br />
 
