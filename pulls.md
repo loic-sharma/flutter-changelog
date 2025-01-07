@@ -99,7 +99,7 @@
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Improve Plugins That Reference V1 Embedding Error Message<br />
-  <sub>[#160890](https://github.com/flutter/flutter/pull/160890) opened on on December 27, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160890) 71 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#160890](https://github.com/flutter/flutter/pull/160890) opened on on December 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160890) 71 additions and 0 deletions in 2 files</sub><br />
 
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; SearchAnchor viewOnClose<br />
   <sub>[#160892](https://github.com/flutter/flutter/pull/160892) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160892) 97 additions and 0 deletions in 2 files</sub><br />
@@ -140,9 +140,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `dev/`<br />
   <sub>[#161112](https://github.com/flutter/flutter/pull/161112) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161112) 5 additions and 1 deletion in 3 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix broken link to Hot Reload gif in README<br />
-  <sub>[#161113](https://github.com/flutter/flutter/pull/161113) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161113) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `engine/src/flutter`<br />
   <sub>[#161115](https://github.com/flutter/flutter/pull/161115) opened on on January 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161115) 54 additions and 11 deletions in 9 files</sub><br />
 
@@ -178,4 +175,7 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField intrinsic width when hint is not visible<br />
   <sub>[#161235](https://github.com/flutter/flutter/pull/161235) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161235) 74 additions and 4 deletions in 2 files</sub><br />
+
+* **[cedvdb](https://github.com/cedvdb)** &mdash; Enabled provisioning updates and device registration during building xcarchive<br />
+  <sub>[#161246](https://github.com/flutter/flutter/pull/161246) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161246) 881 additions and 407 deletions in 4 files</sub><br />
 
