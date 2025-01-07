@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-27 commits.
+28 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates<br />
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) over 3 weeks, 12 additions and 12 deletions in 5 files</sub><br />
@@ -45,6 +45,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.<br />
   <sub>[#161189](https://github.com/flutter/flutter/pull/161189) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161189) over 2 hours, 27 additions and 26 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Martin Anderson](https://github.com/krokyze)** &mdash; Update PopInvokedCallback Deprecated message<br />
+  <sub>[#160324](https://github.com/flutter/flutter/pull/160324) merged on January 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160324) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Nate Wilson](https://github.com/nate-thegrate), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark platform_channel_sample_test_macos unflaky<br />
   <sub>[#160989](https://github.com/flutter/flutter/pull/160989) merged on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160989) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
