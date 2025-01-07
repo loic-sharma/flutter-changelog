@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-33 commits.
+34 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) over 3 weeks, 12 additions and 12 deletions in 5 files</sub>
@@ -46,17 +46,21 @@
   <sub>[#160890](https://github.com/flutter/flutter/pull/160890) merged on January 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160890) over 1 week, 71 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.
-  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161188) over 19 hours, 5 additions and 71 deletions in 1 file</sub>
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.
   <sub>[#161189](https://github.com/flutter/flutter/pull/161189) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161189) over 2 hours, 27 additions and 26 deletions in 6 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.
+  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161188) over 19 hours, 5 additions and 71 deletions in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
 * **[Martin Anderson](https://github.com/krokyze)** &mdash; Update PopInvokedCallback Deprecated message
   <sub>[#160324](https://github.com/flutter/flutter/pull/160324) merged on January 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160324) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Nate Wilson](https://github.com/nate-thegrate), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update README on preview status on Android.
+  <sub>[#161253](https://github.com/flutter/flutter/pull/161253) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161253) over 28 minutes, 8 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stamp golden files to verify engine Skia Gold is WAI.
   <sub>[#161240](https://github.com/flutter/flutter/pull/161240) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161240) over 1 hour, 0 additions and 0 deletions in 3 files</sub>
@@ -86,9 +90,9 @@
   <sub>[#161102](https://github.com/flutter/flutter/pull/161102) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161102) over 3 days, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `verbose: true` from `canvas_test.dart`.
-  <sub>[#161211](https://github.com/flutter/flutter/pull/161211) merged on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161211) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Filter hook environment
+  <sub>[#161084](https://github.com/flutter/flutter/pull/161084) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161084) over 3 days, 15 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Engine] Make `SkiaGoldClient` a NOP when the branch is not `main` or `master`.
   <sub>[#161187](https://github.com/flutter/flutter/pull/161187) merged on January 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161187) over 3 hours, 91 additions and 0 deletions in 2 files</sub>
@@ -130,9 +134,9 @@
   <sub>[#161067](https://github.com/flutter/flutter/pull/161067) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161067) over 3 days, 2 additions and 6 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Filter hook environment
-  <sub>[#161084](https://github.com/flutter/flutter/pull/161084) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161084) over 3 days, 15 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `verbose: true` from `canvas_test.dart`.
+  <sub>[#161211](https://github.com/flutter/flutter/pull/161211) merged on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161211) over 11 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Scale any clip path by 1 / DPR.
   <sub>[#161190](https://github.com/flutter/flutter/pull/161190) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161190) over 17 hours, 136 additions and 2 deletions in 2 files</sub>
