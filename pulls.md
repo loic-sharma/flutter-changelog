@@ -149,9 +149,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] null check device buffer in image encoding.<br />
   <sub>[#161194](https://github.com/flutter/flutter/pull/161194) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161194) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree monorepo and formatted version<br />
-  <sub>[#161195](https://github.com/flutter/flutter/pull/161195) opened on on January 6, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161195) 1229 additions and 983 deletions in 10 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] ignore viewpost ime and samsung spam messages.<br />
   <sub>[#161199](https://github.com/flutter/flutter/pull/161199) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161199) 48 additions and 7 deletions in 2 files</sub><br />
 
@@ -169,4 +166,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add semantics role and tab<br />
   <sub>[#161260](https://github.com/flutter/flutter/pull/161260) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161260) 473 additions and 30 deletions in 21 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Add set semantics enabled API and wire iOS a11y bridge<br />
+  <sub>[#161265](https://github.com/flutter/flutter/pull/161265) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161265) 531 additions and 66 deletions in 31 files</sub><br />
 
