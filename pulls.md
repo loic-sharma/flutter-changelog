@@ -12,7 +12,7 @@
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/157193) 98 additions and 117 deletions in 5 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
-  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/157515) 1883 additions and 2 deletions in 32 files</sub><br />
+  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/157515) 1910 additions and 2 deletions in 32 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
   <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158020) 29 additions and 16 deletions in 1 file</sub><br />
@@ -27,7 +27,7 @@
   <sub>[#159506](https://github.com/flutter/flutter/pull/159506) opened on on November 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159506) 87 additions and 0 deletions in 4 files</sub><br />
 
 * **[Krzysztof Czarnota](https://github.com/czarny)** &mdash; Enabled provisioning updates and device registration during building xcarchive.<br />
-  <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
 
 * **[Martin Kustermann](https://github.com/mkustermann)** &mdash; Add support for experimental dart data assets (under experimental flag) - part 1<br />
   <sub>[#159675](https://github.com/flutter/flutter/pull/159675) opened on on December 2, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/159675) 802 additions and 146 deletions in 25 files</sub><br />
@@ -101,9 +101,6 @@
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
-* **[jesswrd](https://github.com/jesswrd)** &mdash; Improve Plugins That Reference V1 Embedding Error Message<br />
-  <sub>[#160890](https://github.com/flutter/flutter/pull/160890) opened on on December 27, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160890) 71 additions and 0 deletions in 2 files</sub><br />
-
 * **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; SearchAnchor viewOnClose<br />
   <sub>[#160892](https://github.com/flutter/flutter/pull/160892) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160892) 97 additions and 0 deletions in 2 files</sub><br />
 
@@ -129,7 +126,7 @@
   <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161012) 8 additions and 9 deletions in 5 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Add padding for EditableText when scrollable shows scrollbar<br />
-  <sub>[#161078](https://github.com/flutter/flutter/pull/161078) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161078) 69 additions and 66 deletions in 2 files</sub><br />
+  <sub>[#161078](https://github.com/flutter/flutter/pull/161078) opened on on January 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161078) 69 additions and 66 deletions in 2 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update error message for when leading/trailing width exceeds `ListTile` width and add missing test<br />
   <sub>[#161091](https://github.com/flutter/flutter/pull/161091) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161091) 36 additions and 4 deletions in 2 files</sub><br />
@@ -169,9 +166,6 @@
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField intrinsic width when hint is not visible<br />
   <sub>[#161235](https://github.com/flutter/flutter/pull/161235) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161235) 74 additions and 4 deletions in 2 files</sub><br />
-
-* **[cedvdb](https://github.com/cedvdb)** &mdash; Enabled provisioning updates and device registration during building xcarchive<br />
-  <sub>[#161246](https://github.com/flutter/flutter/pull/161246) opened on on January 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161246) 881 additions and 407 deletions in 4 files</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] remove references to archived repos<br />
   <sub>[#161248](https://github.com/flutter/flutter/pull/161248) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161248) 5 additions and 32 deletions in 2 files</sub><br />

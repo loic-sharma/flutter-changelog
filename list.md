@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-28 commits.
+29 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) over 3 weeks, 12 additions and 12 deletions in 5 files</sub>
@@ -41,6 +41,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `flutter_template_images` to `5.0.0`.
   <sub>[#161105](https://github.com/flutter/flutter/pull/161105) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161105) over 2 days, 3 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Improve Plugins That Reference V1 Embedding Error Message
+  <sub>[#160890](https://github.com/flutter/flutter/pull/160890) merged on January 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160890) over 1 week, 71 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.
   <sub>[#161189](https://github.com/flutter/flutter/pull/161189) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161189) over 2 hours, 27 additions and 26 deletions in 6 files</sub>
@@ -285,11 +289,15 @@
 
 ### January 4, 2025 to January 10, 2025
 
-3 commits.
+4 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] fix finish() not completing
   <sub>[#8324](https://github.com/flutter/packages/pull/8324) merged on January 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8324) over 2 weeks, 72 additions and 14 deletions in 5 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `onSurfaceCreated` with `onSurfaceAvailable`.
+  <sub>[#8384](https://github.com/flutter/packages/pull/8384) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8384) over 1 hour, 31 additions and 42 deletions in 8 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: latest dependencies
   <sub>[#8326](https://github.com/flutter/packages/pull/8326) merged on January 7, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8326) over 2 weeks, 33 additions and 10 deletions in 4 files</sub>
