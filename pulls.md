@@ -17,6 +17,9 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
   <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158020) 29 additions and 16 deletions in 1 file</sub><br />
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; convert `resolve_dependencies.gradle` to `resolve_dependencies.gradle.kts`<br />
+  <sub>[#159399](https://github.com/flutter/flutter/pull/159399) opened on on November 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159399) 96 additions and 69 deletions in 4 files</sub><br />
+
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete keyboard navigation<br />
   <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159455) 439 additions and 46 deletions in 4 files</sub><br />
 
@@ -48,7 +51,7 @@
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
-  <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; DO NOT MERGE: Enable `explicit-package-dependencies`.<br />
   <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160289) 9 additions and 12 deletions in 1 file</sub><br />
@@ -78,7 +81,7 @@
   <sub>[#160566](https://github.com/flutter/flutter/pull/160566) opened on on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160566) 24 additions and 26 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `ImplicitlyAnimatedWidgetState` code cleanup<br />
-  <sub>[#160567](https://github.com/flutter/flutter/pull/160567) opened on on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160567) 11 additions and 30 deletions in 1 file</sub><br />
+  <sub>[#160567](https://github.com/flutter/flutter/pull/160567) opened on on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160567) 10 additions and 25 deletions in 1 file</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; deprecate `UniqueWidget`<br />
   <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
@@ -134,9 +137,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update error message for when leading/trailing width exceeds `ListTile` width and add missing test<br />
   <sub>[#161091](https://github.com/flutter/flutter/pull/161091) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161091) 36 additions and 4 deletions in 2 files</sub><br />
 
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; use uuid from package:uuid instead of from package:usage<br />
-  <sub>[#161102](https://github.com/flutter/flutter/pull/161102) opened on on January 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161102) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `dev/`<br />
   <sub>[#161112](https://github.com/flutter/flutter/pull/161112) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161112) 5 additions and 1 deletion in 3 files</sub><br />
 
@@ -156,7 +156,7 @@
   <sub>[#161184](https://github.com/flutter/flutter/pull/161184) opened on on January 6, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/161184) 43 additions and 52 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.<br />
-  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) opened on on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161188) 5 additions and 71 deletions in 1 file</sub><br />
+  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) opened on on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161188) 5 additions and 71 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] null check device buffer in image encoding.<br />
   <sub>[#161194](https://github.com/flutter/flutter/pull/161194) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161194) 6 additions and 0 deletions in 1 file</sub><br />
