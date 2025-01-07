@@ -168,7 +168,7 @@
   <sub>[#161184](https://github.com/flutter/flutter/pull/161184) opened on on January 6, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161184) 27 additions and 36 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.<br />
-  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161188) 5 additions and 70 deletions in 1 file</sub><br />
+  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161188) 5 additions and 71 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.<br />
   <sub>[#161189](https://github.com/flutter/flutter/pull/161189) opened on on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161189) 27 additions and 26 deletions in 6 files</sub><br />
@@ -178,4 +178,7 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree monorepo and formatted version<br />
   <sub>[#161195](https://github.com/flutter/flutter/pull/161195) opened on on January 6, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161195) 1233 additions and 983 deletions in 10 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] ignore viewpost ime and samsung spam messages.<br />
+  <sub>[#161199](https://github.com/flutter/flutter/pull/161199) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161199) 48 additions and 7 deletions in 2 files</sub><br />
 
