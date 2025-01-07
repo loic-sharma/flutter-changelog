@@ -179,3 +179,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Migrate engine labeler to top level<br />
   <sub>[#161212](https://github.com/flutter/flutter/pull/161212) opened on on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161212) 38 additions and 61 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu default width does not take label into account<br />
+  <sub>[#161219](https://github.com/flutter/flutter/pull/161219) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161219) 80 additions and 8 deletions in 2 files</sub><br />
+
