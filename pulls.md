@@ -39,7 +39,7 @@
   <sub>[#160005](https://github.com/flutter/flutter/pull/160005) opened on on December 10, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160005) 53 additions and 61 deletions in 2 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Adds onHover and onLongPress to IconButton widget<br />
-  <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Medium:** [44 comments](https://github.com/flutter/flutter/pull/160032) 377 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#160032](https://github.com/flutter/flutter/pull/160032) opened on on December 10, 2024 &mdash; **Medium:** [45 comments](https://github.com/flutter/flutter/pull/160032) 377 additions and 1 deletion in 2 files</sub><br />
 
 * **[Lucas Silva de Oliveira](https://github.com/lucassilvaoliveira)** &mdash; Add inversedChildren property to Flex<br />
   <sub>[#160103](https://github.com/flutter/flutter/pull/160103) opened on on December 11, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160103) 11 additions and 1 deletion in 1 file</sub><br />
@@ -93,7 +93,7 @@
   <sub>[#160678](https://github.com/flutter/flutter/pull/160678) opened on on December 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160678) 41 additions and 17 deletions in 2 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `GestureDetailsWithPositions`<br />
-  <sub>[#160714](https://github.com/flutter/flutter/pull/160714) opened on on December 21, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/160714) 349 additions and 303 deletions in 16 files</sub><br />
+  <sub>[#160714](https://github.com/flutter/flutter/pull/160714) opened on on December 21, 2024 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/160714) 354 additions and 312 deletions in 15 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; do not layout carousel if layout constraints are zero<br />
   <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
@@ -181,4 +181,7 @@
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated string for java range message<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161223) 1 addition and 2 deletions in 1 file</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField intrinsic width when hint is not visible<br />
+  <sub>[#161235](https://github.com/flutter/flutter/pull/161235) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161235) 111 additions and 40 deletions in 2 files</sub><br />
 
