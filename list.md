@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-32 commits.
+33 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) over 3 weeks, 12 additions and 12 deletions in 5 files</sub>
@@ -57,6 +57,10 @@
 * **[Martin Anderson](https://github.com/krokyze)** &mdash; Update PopInvokedCallback Deprecated message
   <sub>[#160324](https://github.com/flutter/flutter/pull/160324) merged on January 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160324) over 3 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Nate Wilson](https://github.com/nate-thegrate), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Stamp golden files to verify engine Skia Gold is WAI.
+  <sub>[#161240](https://github.com/flutter/flutter/pull/161240) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161240) over 1 hour, 0 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix broken link to Hot Reload gif in README
   <sub>[#161113](https://github.com/flutter/flutter/pull/161113) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161113) over 3 days, 1 addition and 1 deletion in 1 file</sub>
