@@ -165,7 +165,7 @@
   <sub>[#161248](https://github.com/flutter/flutter/pull/161248) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161248) 8 additions and 35 deletions in 3 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable runtime mipmap generation on Adreno.<br />
-  <sub>[#161257](https://github.com/flutter/flutter/pull/161257) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161257) 67 additions and 12 deletions in 8 files</sub><br />
+  <sub>[#161257](https://github.com/flutter/flutter/pull/161257) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161257) 67 additions and 12 deletions in 8 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add semantics role and tab<br />
   <sub>[#161260](https://github.com/flutter/flutter/pull/161260) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161260) 473 additions and 30 deletions in 21 files</sub><br />
