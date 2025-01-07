@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-30 commits.
+32 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates<br />
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) over 3 weeks, 12 additions and 12 deletions in 5 files</sub><br />
@@ -46,6 +46,10 @@
   <sub>[#160890](https://github.com/flutter/flutter/pull/160890) merged on January 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160890) over 1 week, 71 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.<br />
+  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161188) over 19 hours, 5 additions and 71 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.<br />
   <sub>[#161189](https://github.com/flutter/flutter/pull/161189) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161189) over 2 hours, 27 additions and 26 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
@@ -53,6 +57,10 @@
 * **[Martin Anderson](https://github.com/krokyze)** &mdash; Update PopInvokedCallback Deprecated message<br />
   <sub>[#160324](https://github.com/flutter/flutter/pull/160324) merged on January 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160324) over 3 weeks, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Nate Wilson](https://github.com/nate-thegrate), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix broken link to Hot Reload gif in README<br />
+  <sub>[#161113](https://github.com/flutter/flutter/pull/161113) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161113) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [Android] Add `.cxx` directories to app template `.gitignore`<br />
   <sub>[#161069](https://github.com/flutter/flutter/pull/161069) merged on January 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161069) over 4 days, 11 additions and 0 deletions in 11 files</sub><br />
@@ -293,7 +301,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-4 commits.
+5 commits.
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] fix finish() not completing<br />
   <sub>[#8324](https://github.com/flutter/packages/pull/8324) merged on January 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8324) over 2 weeks, 72 additions and 14 deletions in 5 files</sub><br />
@@ -301,6 +309,10 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `onSurfaceCreated` with `onSurfaceAvailable`.<br />
   <sub>[#8384](https://github.com/flutter/packages/pull/8384) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8384) over 1 hour, 31 additions and 42 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[jesswrd](https://github.com/jesswrd)** &mdash; Bump Remaining Plugin Example Apps to targetSdkVersion >= 34 and compileSdkVersion >= 34<br />
+  <sub>[#8361](https://github.com/flutter/packages/pull/8361) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8361) over 1 week, 4 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: latest dependencies<br />
