@@ -161,9 +161,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Add set semantics enabled API and wire iOS a11y bridge<br />
   <sub>[#161265](https://github.com/flutter/flutter/pull/161265) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161265) 531 additions and 66 deletions in 31 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] porter duff workarounds for Adreno GPU.<br />
-  <sub>[#161273](https://github.com/flutter/flutter/pull/161273) opened on on January 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161273) 215 additions and 53 deletions in 7 files</sub><br />
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Support DDC library bundle format and remove support for DDC module format<br />
   <sub>[#161276](https://github.com/flutter/flutter/pull/161276) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161276) 352 additions and 468 deletions in 14 files</sub><br />
 
