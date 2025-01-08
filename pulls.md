@@ -158,9 +158,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add semantics role and tab<br />
   <sub>[#161260](https://github.com/flutter/flutter/pull/161260) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161260) 473 additions and 30 deletions in 21 files</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Add set semantics enabled API and wire iOS a11y bridge<br />
-  <sub>[#161265](https://github.com/flutter/flutter/pull/161265) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161265) 531 additions and 66 deletions in 31 files</sub><br />
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Support DDC library bundle format and remove support for DDC module format<br />
   <sub>[#161276](https://github.com/flutter/flutter/pull/161276) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161276) 451 additions and 440 deletions in 14 files</sub><br />
 
