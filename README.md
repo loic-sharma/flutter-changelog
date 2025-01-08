@@ -83,7 +83,7 @@
   <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Nate Wilson](https://github.com/nate-thegrate), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] porter duff workarounds for Adreno GPU.<br />
-  <sub>[#161273](https://github.com/flutter/flutter/pull/161273) merged on January 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161273) over 7 hours, 215 additions and 53 deletions in 7 files</sub><br />
+  <sub>[#161273](https://github.com/flutter/flutter/pull/161273) merged on January 8, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161273) over 7 hours, 215 additions and 53 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable input attachment / self dependency on Adreno 630 and older.<br />
