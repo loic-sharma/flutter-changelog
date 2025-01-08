@@ -86,12 +86,6 @@
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `GestureDetailsWithPositions`<br />
   <sub>[#160714](https://github.com/flutter/flutter/pull/160714) opened on on December 21, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/160714) 354 additions and 312 deletions in 15 files</sub><br />
 
-* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; do not layout carousel if layout constraints are zero<br />
-  <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
-
-* **[Marco Domingos](https://github.com/marcoedomingos)** &mdash; Added the spacing parameters inside the ExpansionTile<br />
-  <sub>[#160848](https://github.com/flutter/flutter/pull/160848) opened on on December 25, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160848) 10 additions and 0 deletions in 1 file</sub><br />
-
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
@@ -157,12 +151,6 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable Adreno 630<br />
   <sub>[#161287](https://github.com/flutter/flutter/pull/161287) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161287) 5 additions and 11 deletions in 2 files</sub><br />
-
-* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(CupertinoButton): Add minWidth and minHeight to replace minSize.<br />
-  <sub>[#161295](https://github.com/flutter/flutter/pull/161295) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161295) 55 additions and 10 deletions in 2 files</sub><br />
-
-* **[bekey](https://github.com/warioddly)** &mdash; Properties were accessed without checking for null<br />
-  <sub>[#161296](https://github.com/flutter/flutter/pull/161296) opened on on January 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161296) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: fix porterduff shader and handle optimized out texture binding in GLES backend.<br />
   <sub>[#161326](https://github.com/flutter/flutter/pull/161326) opened on on January 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161326) 217 additions and 54 deletions in 8 files</sub><br />
