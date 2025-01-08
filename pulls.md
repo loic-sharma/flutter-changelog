@@ -149,6 +149,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: fix porterduff shader and handle optimized out texture binding in GLES backend.<br />
   <sub>[#161326](https://github.com/flutter/flutter/pull/161326) opened on on January 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161326) 217 additions and 54 deletions in 8 files</sub><br />
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; [CP-stable] Revert "fixed keyboardDismissBehavior on scroll without a drag" <br />
-  <sub>[#161329](https://github.com/flutter/flutter/pull/161329) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161329) 3 additions and 46 deletions in 2 files</sub><br />
-
