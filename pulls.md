@@ -135,7 +135,7 @@
   <sub>[#161194](https://github.com/flutter/flutter/pull/161194) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161194) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] ignore viewpost ime and samsung spam messages.<br />
-  <sub>[#161199](https://github.com/flutter/flutter/pull/161199) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161199) 41 additions and 7 deletions in 2 files</sub><br />
+  <sub>[#161199](https://github.com/flutter/flutter/pull/161199) opened on on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161199) 41 additions and 7 deletions in 2 files</sub><br />
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated string for java range message<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161223) 1 addition and 2 deletions in 1 file</sub><br />
@@ -145,9 +145,6 @@
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Support DDC library bundle format and remove support for DDC module format<br />
   <sub>[#161276](https://github.com/flutter/flutter/pull/161276) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161276) 451 additions and 440 deletions in 14 files</sub><br />
-
-* **[Qurbanjan](https://github.com/Qurbanjan)** &mdash; Add Uyghur (ug_CN) localization support<br />
-  <sub>[#161281](https://github.com/flutter/flutter/pull/161281) opened on on January 8, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/161281) 382 additions and 0 deletions in 6 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable Adreno 630<br />
   <sub>[#161287](https://github.com/flutter/flutter/pull/161287) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161287) 5 additions and 11 deletions in 2 files</sub><br />

@@ -187,7 +187,7 @@
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Revert "fixed keyboardDismissBehavior on scroll without a drag"<br />
-  <sub>[#161277](https://github.com/flutter/flutter/pull/161277) merged on January 8, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161277) over 17 hours, 3 additions and 49 deletions in 2 files</sub><br />
+  <sub>[#161277](https://github.com/flutter/flutter/pull/161277) merged on January 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161277) over 17 hours, 3 additions and 49 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_benchmark flutter_gallery_macos__compile to be flaky<br />
