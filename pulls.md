@@ -174,7 +174,7 @@
   <sub>[#161292](https://github.com/flutter/flutter/pull/161292) opened on on January 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161292) 4 additions and 4 deletions in 1 file</sub><br />
 
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(CupertinoButton): Add minWidth and minHeight to replace minSize.<br />
-  <sub>[#161295](https://github.com/flutter/flutter/pull/161295) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161295) 52 additions and 10 deletions in 2 files</sub><br />
+  <sub>[#161295](https://github.com/flutter/flutter/pull/161295) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161295) 55 additions and 10 deletions in 2 files</sub><br />
 
 * **[bekey](https://github.com/warioddly)** &mdash; Properties were accessed without checking for null<br />
   <sub>[#161296](https://github.com/flutter/flutter/pull/161296) opened on on January 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161296) 1 addition and 0 deletions in 1 file</sub><br />
