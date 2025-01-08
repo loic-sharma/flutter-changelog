@@ -401,7 +401,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-10 commits.
+11 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Run web tests in wasm (unit + integration).
   <sub>[#8111](https://github.com/flutter/packages/pull/8111) merged on January 7, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/8111) over 1 month, 282 additions and 72 deletions in 26 files</sub>
@@ -426,6 +426,10 @@
 * **[Olli Helenius](https://github.com/liff)** &mdash; [camera_platform_interface] Add API support query for image streaming
   <sub>[#8307](https://github.com/flutter/packages/pull/8307) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8307) over 3 weeks, 19 additions and 2 deletions in 4 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [go_router_builder] Add a fallback for a not null List or Set param 
+  <sub>[#8349](https://github.com/flutter/packages/pull/8349) merged on January 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8349) over 1 week, 130 additions and 2 deletions in 7 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [ci][video_player_android][camera_android_camerax] Manual roll and fix tests
   <sub>[#8391](https://github.com/flutter/packages/pull/8391) merged on January 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8391) over 19 hours, 21 additions and 5 deletions in 3 files</sub>

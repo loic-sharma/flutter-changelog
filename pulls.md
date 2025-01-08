@@ -134,3 +134,9 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; git ignore .ccls-cache<br />
   <sub>[#161340](https://github.com/flutter/flutter/pull/161340) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161340) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Revert "[SwiftPM] Add separate feature flag for the app migration (#158897)"<br />
+  <sub>[#161342](https://github.com/flutter/flutter/pull/161342) opened on on January 8, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161342) 19 additions and 440 deletions in 11 files</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Actually remove dev dependencies from release builds<br />
+  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161343) 40 additions and 19 deletions in 5 files</sub><br />
+
