@@ -170,3 +170,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable Adreno 630<br />
   <sub>[#161287](https://github.com/flutter/flutter/pull/161287) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161287) 5 additions and 11 deletions in 2 files</sub><br />
 
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "use uuid from package:uuid instead of from package:usage"<br />
+  <sub>[#161292](https://github.com/flutter/flutter/pull/161292) opened on on January 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161292) 4 additions and 4 deletions in 1 file</sub><br />
+
