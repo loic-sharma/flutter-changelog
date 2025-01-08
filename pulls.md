@@ -11,6 +11,9 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/157515) 3576 additions and 2 deletions in 50 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Mark `TextEditingController.text` setter as `@visibleForTesting`<br />
+  <sub>[#157769](https://github.com/flutter/flutter/pull/157769) opened on on October 29, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/157769) 24 additions and 21 deletions in 7 files</sub><br />
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
   <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158020) 29 additions and 16 deletions in 1 file</sub><br />
 
