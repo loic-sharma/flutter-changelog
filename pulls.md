@@ -95,17 +95,11 @@
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
-* **[Gianluca Bettega](https://github.com/Macacoazul01)** &mdash; SearchAnchor viewOnClose<br />
-  <sub>[#160892](https://github.com/flutter/flutter/pull/160892) opened on on December 27, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160892) 97 additions and 0 deletions in 2 files</sub><br />
-
 * **[Sukbin Lee](https://github.com/dolbin-prime)** &mdash; fix Color.from doc comment typo<br />
   <sub>[#160905](https://github.com/flutter/flutter/pull/160905) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160905) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix felt build's ninja invocation after monorepo<br />
   <sub>[#160919](https://github.com/flutter/flutter/pull/160919) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160919) 41 additions and 4 deletions in 7 files</sub><br />
-
-* **[Hooshyar](https://github.com/hooshyar)** &mdash; [l10n] Add Kurdish Sorani (ckb) localizations for Material, Cupertino, and Widgets<br />
-  <sub>[#160925](https://github.com/flutter/flutter/pull/160925) opened on on December 27, 2024 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/160925) 1402 additions and 74 deletions in 12 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Bump default Kotlin version from 1.8.22 to 2.1.0<br />
   <sub>[#160974](https://github.com/flutter/flutter/pull/160974) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160974) 6 additions and 6 deletions in 6 files</sub><br />
@@ -152,9 +146,6 @@
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated string for java range message<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161223) 1 addition and 2 deletions in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField intrinsic width when hint is not visible<br />
-  <sub>[#161235](https://github.com/flutter/flutter/pull/161235) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161235) 74 additions and 4 deletions in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add semantics role and tab<br />
   <sub>[#161260](https://github.com/flutter/flutter/pull/161260) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161260) 473 additions and 30 deletions in 21 files</sub><br />
 
@@ -172,4 +163,7 @@
 
 * **[bekey](https://github.com/warioddly)** &mdash; Properties were accessed without checking for null<br />
   <sub>[#161296](https://github.com/flutter/flutter/pull/161296) opened on on January 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161296) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] reland: fix porterduff shader and handle optimized out texture binding in GLES backend.<br />
+  <sub>[#161326](https://github.com/flutter/flutter/pull/161326) opened on on January 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161326) 217 additions and 54 deletions in 8 files</sub><br />
 
