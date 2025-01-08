@@ -170,3 +170,6 @@
 * **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to Version 3.7.0-307.0.dev<br />
   <sub>[#161278](https://github.com/flutter/flutter/pull/161278) opened on on January 8, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161278) 18 additions and 4831 deletions in 2 files</sub><br />
 
+* **[Qurbanjan](https://github.com/alphapc)** &mdash; Add Uyghur (ug_CN) localization support<br />
+  <sub>[#161281](https://github.com/flutter/flutter/pull/161281) opened on on January 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161281) 189 additions and 0 deletions in 3 files</sub><br />
+
