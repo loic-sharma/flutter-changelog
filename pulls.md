@@ -173,6 +173,3 @@
 * **[bekey](https://github.com/warioddly)** &mdash; Properties were accessed without checking for null<br />
   <sub>[#161296](https://github.com/flutter/flutter/pull/161296) opened on on January 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161296) 1 addition and 0 deletions in 1 file</sub><br />
 
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; CupertinoSheetRoute with drag to dismiss<br />
-  <sub>[#161324](https://github.com/flutter/flutter/pull/161324) opened on on January 8, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161324) 2036 additions and 0 deletions in 9 files</sub><br />
-
