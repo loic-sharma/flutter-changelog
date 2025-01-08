@@ -68,9 +68,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `const AnimationStyle`<br />
   <sub>[#160564](https://github.com/flutter/flutter/pull/160564) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160564) 119 additions and 114 deletions in 25 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `ImplicitlyAnimatedWidgetState` code cleanup<br />
-  <sub>[#160567](https://github.com/flutter/flutter/pull/160567) opened on on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160567) 10 additions and 25 deletions in 1 file</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; deprecate `UniqueWidget`<br />
   <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
 
@@ -116,9 +113,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter_test`<br />
   <sub>[#161131](https://github.com/flutter/flutter/pull/161131) opened on on January 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161131) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; [CP-stable] Revert "Fix DropdownMenu does not rematch initialSelection when entries have changed"<br />
-  <sub>[#161177](https://github.com/flutter/flutter/pull/161177) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161177) 61 additions and 198 deletions in 5 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] null check device buffer in image encoding.<br />
   <sub>[#161194](https://github.com/flutter/flutter/pull/161194) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161194) 6 additions and 0 deletions in 1 file</sub><br />
 
@@ -132,8 +126,8 @@
   <sub>[#161340](https://github.com/flutter/flutter/pull/161340) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161340) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Revert "[SwiftPM] Add separate feature flag for the app migration (#158897)"<br />
-  <sub>[#161342](https://github.com/flutter/flutter/pull/161342) opened on on January 8, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161342) 19 additions and 440 deletions in 11 files</sub><br />
+  <sub>[#161342](https://github.com/flutter/flutter/pull/161342) opened on on January 8, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161342) 13 additions and 434 deletions in 11 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Actually remove dev dependencies from release builds<br />
-  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161343) 44 additions and 29 deletions in 5 files</sub><br />
+  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161343) 47 additions and 29 deletions in 5 files</sub><br />
 
