@@ -4,7 +4,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-42 commits.
+43 commits.
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Set java 11 as expected java version in all templates
   <sub>[#160349](https://github.com/flutter/flutter/pull/160349) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160349) over 3 weeks, 12 additions and 12 deletions in 5 files</sub>
@@ -34,6 +34,14 @@
   <sub>[#161105](https://github.com/flutter/flutter/pull/161105) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161105) over 2 days, 3 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark firebase_release_smoke_test unflaky
+  <sub>[#161006](https://github.com/flutter/flutter/pull/161006) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161006) over 6 days, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Clear selection state when exiting select mode
+  <sub>[#161267](https://github.com/flutter/flutter/pull/161267) merged on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161267) over 1 hour, 12 additions and 13 deletions in 2 files</sub>
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Remove support for imperative apply of Flutter Gradle Plugin
   <sub>[#160947](https://github.com/flutter/flutter/pull/160947) merged on January 7, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/160947) over 1 week, 73 additions and 656 deletions in 10 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
@@ -46,10 +54,6 @@
   <sub>[#161178](https://github.com/flutter/flutter/pull/161178) merged on January 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161178) over 4 hours, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark firebase_release_smoke_test unflaky
-  <sub>[#161006](https://github.com/flutter/flutter/pull/161006) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161006) over 6 days, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Extract analyze test expectations from test fixture
   <sub>[#161108](https://github.com/flutter/flutter/pull/161108) merged on January 7, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/161108) over 3 days, 355 additions and 150 deletions in 10 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -58,17 +62,17 @@
   <sub>[#160890](https://github.com/flutter/flutter/pull/160890) merged on January 7, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160890) over 1 week, 71 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.
-  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161188) over 19 hours, 5 additions and 71 deletions in 1 file</sub>
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.
+  <sub>[#161189](https://github.com/flutter/flutter/pull/161189) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161189) over 2 hours, 27 additions and 26 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Change timing of `onSurfaceDestroyed` to match `onSurfaceCleanup`
   <sub>[#161252](https://github.com/flutter/flutter/pull/161252) merged on January 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161252) over 2 hours, 27 additions and 17 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Rename `shellPath` to `flutterTesterBinPath`.
-  <sub>[#161189](https://github.com/flutter/flutter/pull/161189) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161189) over 2 hours, 27 additions and 26 deletions in 6 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fold `_FlutterTestRunnerImpl` into `FlutterTestRunner`.
+  <sub>[#161188](https://github.com/flutter/flutter/pull/161188) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161188) over 19 hours, 5 additions and 71 deletions in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Allow async platform responses in FlMockBinaryMessenger
   <sub>[#160636](https://github.com/flutter/flutter/pull/160636) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160636) over 2 weeks, 193 additions and 71 deletions in 10 files</sub>
@@ -106,9 +110,9 @@
   <sub>[#161005](https://github.com/flutter/flutter/pull/161005) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161005) over 6 days, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] protect onscreen cmd buffer with render ready semaphore.
-  <sub>[#161140](https://github.com/flutter/flutter/pull/161140) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161140) over 21 hours, 186 additions and 82 deletions in 31 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; update repo to be forward compatible with shelf_web_socket v3.0
+  <sub>[#161101](https://github.com/flutter/flutter/pull/161101) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161101) over 3 days, 10 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; rev to the latest dart-lang/http and remove older http_multi_server refs
   <sub>[#161067](https://github.com/flutter/flutter/pull/161067) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161067) over 3 days, 2 additions and 6 deletions in 2 files</sub>
@@ -117,10 +121,6 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native_assets] Filter hook environment
   <sub>[#161084](https://github.com/flutter/flutter/pull/161084) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161084) over 3 days, 15 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Martin Kustermann](https://github.com/mkustermann)</sub>
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont generate final 1x1 mip level to work around Adreno GPU bug
-  <sub>[#161192](https://github.com/flutter/flutter/pull/161192) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161192) over 1 hour, 18 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Update golden canary
   <sub>[#161183](https://github.com/flutter/flutter/pull/161183) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161183) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
@@ -150,9 +150,9 @@
   <sub>[#160991](https://github.com/flutter/flutter/pull/160991) merged on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160991) over 1 week, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; update repo to be forward compatible with shelf_web_socket v3.0
-  <sub>[#161101](https://github.com/flutter/flutter/pull/161101) merged on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161101) over 3 days, 10 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] protect onscreen cmd buffer with render ready semaphore.
+  <sub>[#161140](https://github.com/flutter/flutter/pull/161140) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161140) over 21 hours, 186 additions and 82 deletions in 31 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; use uuid from package:uuid instead of from package:usage
   <sub>[#161102](https://github.com/flutter/flutter/pull/161102) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161102) over 3 days, 4 additions and 4 deletions in 1 file</sub>
@@ -169,6 +169,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; [Engine] Make `SkiaGoldClient` a NOP when the branch is not `main` or `master`.
   <sub>[#161187](https://github.com/flutter/flutter/pull/161187) merged on January 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161187) over 3 hours, 91 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] dont generate final 1x1 mip level to work around Adreno GPU bug
+  <sub>[#161192](https://github.com/flutter/flutter/pull/161192) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161192) over 1 hour, 18 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Scale any clip path by 1 / DPR.
   <sub>[#161190](https://github.com/flutter/flutter/pull/161190) merged on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161190) over 17 hours, 136 additions and 2 deletions in 2 files</sub>
