@@ -103,7 +103,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Turn on by default
-  <sub>[#161275](https://github.com/flutter/flutter/pull/161275) merged on January 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161275) over 22 hours, 18 additions and 17 deletions in 3 files</sub>
+  <sub>[#161275](https://github.com/flutter/flutter/pull/161275) merged on January 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161275) over 22 hours, 18 additions and 17 deletions in 3 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jenn Magder](https://github.com/jmagman), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make the encoding of a `YamlNode` to a `String` more explicit.
