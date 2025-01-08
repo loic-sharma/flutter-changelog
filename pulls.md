@@ -137,9 +137,6 @@
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated string for java range message<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161223) 1 addition and 2 deletions in 1 file</sub><br />
 
-* **[chunhtai](https://github.com/chunhtai)** &mdash; add semantics role and tab<br />
-  <sub>[#161260](https://github.com/flutter/flutter/pull/161260) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161260) 473 additions and 30 deletions in 21 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable Adreno 630<br />
   <sub>[#161287](https://github.com/flutter/flutter/pull/161287) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161287) 5 additions and 11 deletions in 2 files</sub><br />
 
