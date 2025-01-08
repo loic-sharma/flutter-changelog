@@ -168,5 +168,5 @@
   <sub>[#161276](https://github.com/flutter/flutter/pull/161276) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161276) 352 additions and 468 deletions in 14 files</sub><br />
 
 * **[Qurbanjan](https://github.com/Qurbanjan)** &mdash; Add Uyghur (ug_CN) localization support<br />
-  <sub>[#161281](https://github.com/flutter/flutter/pull/161281) opened on on January 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161281) 189 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#161281](https://github.com/flutter/flutter/pull/161281) opened on on January 8, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/161281) 382 additions and 0 deletions in 6 files</sub><br />
 
