@@ -27,7 +27,7 @@
   <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Add separate feature flag for the app migration
-  <sub>[#158897](https://github.com/flutter/flutter/pull/158897) merged on January 7, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/158897) over 1 month, 434 additions and 13 deletions in 11 files</sub>
+  <sub>[#158897](https://github.com/flutter/flutter/pull/158897) merged on January 7, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/158897) over 1 month, 434 additions and 13 deletions in 11 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Andrew Kolos](https://github.com/andrewkolos), [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Normalize the translation column of the color matrix.
