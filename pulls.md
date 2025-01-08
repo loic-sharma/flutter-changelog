@@ -167,3 +167,6 @@
 * **[Qurbanjan](https://github.com/Qurbanjan)** &mdash; Add Uyghur (ug_CN) localization support<br />
   <sub>[#161281](https://github.com/flutter/flutter/pull/161281) opened on on January 8, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/161281) 382 additions and 0 deletions in 6 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] re-enable Adreno 630<br />
+  <sub>[#161287](https://github.com/flutter/flutter/pull/161287) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161287) 5 additions and 11 deletions in 2 files</sub><br />
+
