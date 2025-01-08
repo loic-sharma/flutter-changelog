@@ -131,3 +131,6 @@
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated string for java range message<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161223) 1 addition and 2 deletions in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; git ignore .ccls-cache<br />
+  <sub>[#161340](https://github.com/flutter/flutter/pull/161340) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161340) 1 addition and 0 deletions in 1 file</sub><br />
+

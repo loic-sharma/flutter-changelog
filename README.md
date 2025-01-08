@@ -401,7 +401,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-9 commits.
+10 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Run web tests in wasm (unit + integration).<br />
   <sub>[#8111](https://github.com/flutter/packages/pull/8111) merged on January 7, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/8111) over 1 month, 282 additions and 72 deletions in 26 files</sub><br />
@@ -438,6 +438,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Updates readme to reflect current status<br />
   <sub>[#8374](https://github.com/flutter/packages/pull/8374) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8374) over 4 hours, 10 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from 8495dee1fd4a to 17025dd88227 (2 revisions)<br />
+  <sub>[#8396](https://github.com/flutter/packages/pull/8396) merged on January 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8396) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 ### December 28, 2024 to January 3, 2025
 
