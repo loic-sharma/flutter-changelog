@@ -159,7 +159,7 @@
   <sub>[#161265](https://github.com/flutter/flutter/pull/161265) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161265) 531 additions and 66 deletions in 31 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] porter duff workarounds for Adreno GPU.<br />
-  <sub>[#161273](https://github.com/flutter/flutter/pull/161273) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161273) 210 additions and 47 deletions in 6 files</sub><br />
+  <sub>[#161273](https://github.com/flutter/flutter/pull/161273) opened on on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161273) 210 additions and 47 deletions in 6 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable input attachment / self dependency on Adreno 630 and older.<br />
   <sub>[#161274](https://github.com/flutter/flutter/pull/161274) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161274) 41 additions and 1 deletion in 5 files</sub><br />
