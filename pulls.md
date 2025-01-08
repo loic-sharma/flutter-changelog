@@ -68,6 +68,9 @@
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `const AnimationStyle`<br />
+  <sub>[#160564](https://github.com/flutter/flutter/pull/160564) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160564) 128 additions and 128 deletions in 26 files</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `TickerMode` refactor<br />
   <sub>[#160566](https://github.com/flutter/flutter/pull/160566) opened on on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160566) 24 additions and 26 deletions in 1 file</sub><br />
 
@@ -81,7 +84,7 @@
   <sub>[#160678](https://github.com/flutter/flutter/pull/160678) opened on on December 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160678) 41 additions and 17 deletions in 2 files</sub><br />
 
 * **[Alex Li](https://github.com/AlexV525)** &mdash; ✨ Introduces `GestureDetailsWithPositions`<br />
-  <sub>[#160714](https://github.com/flutter/flutter/pull/160714) opened on on December 21, 2024 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/160714) 354 additions and 312 deletions in 15 files</sub><br />
+  <sub>[#160714](https://github.com/flutter/flutter/pull/160714) opened on on December 21, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/160714) 355 additions and 313 deletions in 16 files</sub><br />
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; do not layout carousel if layout constraints are zero<br />
   <sub>[#160733](https://github.com/flutter/flutter/pull/160733) opened on on December 22, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160733) 32 additions and 0 deletions in 2 files</sub><br />
@@ -159,11 +162,14 @@
   <sub>[#161265](https://github.com/flutter/flutter/pull/161265) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161265) 531 additions and 66 deletions in 31 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] porter duff workarounds for Adreno GPU.<br />
-  <sub>[#161273](https://github.com/flutter/flutter/pull/161273) opened on on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161273) 210 additions and 47 deletions in 6 files</sub><br />
+  <sub>[#161273](https://github.com/flutter/flutter/pull/161273) opened on on January 7, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161273) 209 additions and 47 deletions in 6 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable input attachment / self dependency on Adreno 630 and older.<br />
   <sub>[#161274](https://github.com/flutter/flutter/pull/161274) opened on on January 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161274) 41 additions and 1 deletion in 5 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Support DDC library bundle format and remove support for DDC module format<br />
   <sub>[#161276](https://github.com/flutter/flutter/pull/161276) opened on on January 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161276) 352 additions and 468 deletions in 14 files</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to Version 3.7.0-307.0.dev<br />
+  <sub>[#161278](https://github.com/flutter/flutter/pull/161278) opened on on January 8, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161278) 18 additions and 4831 deletions in 2 files</sub><br />
 
