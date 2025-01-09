@@ -134,6 +134,3 @@
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support ignoring pointer events on tooltip overlay (#142465)<br />
   <sub>[#161363](https://github.com/flutter/flutter/pull/161363) opened on on January 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161363) 195 additions and 3 deletions in 2 files</sub><br />
 
-* **[Harlen Batagelo](https://github.com/hbatagelo)** &mdash; Fix crash when closing a window with `Alt+F4` in multi-win Flutter on Windows<br />
-  <sub>[#161375](https://github.com/flutter/flutter/pull/161375) opened on on January 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161375) 37 additions and 5 deletions in 2 files</sub><br />
-
