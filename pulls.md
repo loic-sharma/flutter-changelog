@@ -102,11 +102,14 @@
   <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/161343) 60 additions and 27 deletions in 5 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [FGP to Kotlin conversion] Convert app_plugin_loader Gradle plugin to Kotlin<br />
-  <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161352) 339 additions and 51 deletions in 9 files</sub><br />
+  <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/161352) 275 additions and 51 deletions in 9 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support ignoring pointer events on tooltip overlay (#142465)<br />
   <sub>[#161363](https://github.com/flutter/flutter/pull/161363) opened on on January 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161363) 195 additions and 3 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix link to engine docs in CONTRIBUTING.md<br />
   <sub>[#161401](https://github.com/flutter/flutter/pull/161401) opened on on January 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161401) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; integration_test: Add gitignore of golden image<br />
+  <sub>[#161404](https://github.com/flutter/flutter/pull/161404) opened on on January 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161404) 3 additions and 0 deletions in 1 file</sub><br />
 
