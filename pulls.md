@@ -65,9 +65,6 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `const AnimationStyle`<br />
   <sub>[#160564](https://github.com/flutter/flutter/pull/160564) opened on on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160564) 119 additions and 114 deletions in 25 files</sub><br />
 
-* **[munrocket](https://github.com/munrocket)** &mdash; Precise browser resizing with integration_test and driver<br />
-  <sub>[#160678](https://github.com/flutter/flutter/pull/160678) opened on on December 20, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160678) 41 additions and 17 deletions in 2 files</sub><br />
-
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
@@ -93,7 +90,7 @@
   <sub>[#161078](https://github.com/flutter/flutter/pull/161078) opened on on January 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161078) 69 additions and 66 deletions in 2 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update error message for when leading/trailing width exceeds `ListTile` width and add missing test<br />
-  <sub>[#161091](https://github.com/flutter/flutter/pull/161091) opened on on January 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161091) 56 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#161091](https://github.com/flutter/flutter/pull/161091) opened on on January 3, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/161091) 56 additions and 12 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `dev/`<br />
   <sub>[#161112](https://github.com/flutter/flutter/pull/161112) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161112) 5 additions and 1 deletion in 3 files</sub><br />
@@ -124,4 +121,7 @@
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support ignoring pointer events on tooltip overlay (#142465)<br />
   <sub>[#161363](https://github.com/flutter/flutter/pull/161363) opened on on January 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161363) 195 additions and 3 deletions in 2 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; We no longer have a separate engine repo.<br />
+  <sub>[#161400](https://github.com/flutter/flutter/pull/161400) opened on on January 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161400) 1 addition and 36 deletions in 3 files</sub><br />
 
