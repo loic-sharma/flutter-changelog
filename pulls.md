@@ -122,12 +122,12 @@
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated string for java range message<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161223) 1 addition and 2 deletions in 1 file</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; git ignore .ccls-cache<br />
-  <sub>[#161340](https://github.com/flutter/flutter/pull/161340) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161340) 1 addition and 0 deletions in 1 file</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix scaling of trampoline import of GLES textures into Vulkan.<br />
+  <sub>[#161331](https://github.com/flutter/flutter/pull/161331) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161331) 158 additions and 5 deletions in 4 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Revert "[SwiftPM] Add separate feature flag for the app migration (#158897)"<br />
   <sub>[#161342](https://github.com/flutter/flutter/pull/161342) opened on on January 8, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161342) 13 additions and 434 deletions in 11 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Actually remove dev dependencies from release builds<br />
-  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/161343) 55 additions and 22 deletions in 5 files</sub><br />
+  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/161343) 53 additions and 22 deletions in 5 files</sub><br />
 
