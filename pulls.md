@@ -56,12 +56,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Test generated localizations<br />
   <sub>[#160479](https://github.com/flutter/flutter/pull/160479) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160479) 19 additions and 1 deletion in 2 files</sub><br />
 
-* **[Alex Li](https://github.com/AlexV525)** &mdash; 🔊 [tool] Add a wirelessly connected device name as `displayName`<br />
-  <sub>[#160497](https://github.com/flutter/flutter/pull/160497) opened on on December 18, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160497) 198 additions and 98 deletions in 31 files</sub><br />
-
-* **[Alexander Aprelev](https://github.com/aam)** &mdash; Try roll https://github.com/flutter/engine/pull/57253<br />
-  <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
-
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `const AnimationStyle`<br />
   <sub>[#160564](https://github.com/flutter/flutter/pull/160564) opened on on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160564) 119 additions and 114 deletions in 25 files</sub><br />
 
@@ -109,9 +103,6 @@
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated string for java range message<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161223) 1 addition and 2 deletions in 1 file</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix scaling of trampoline import of GLES textures into Vulkan.<br />
-  <sub>[#161331](https://github.com/flutter/flutter/pull/161331) opened on on January 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161331) 211 additions and 5 deletions in 5 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Actually remove dev dependencies from release builds<br />
   <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/161343) 60 additions and 27 deletions in 5 files</sub><br />
