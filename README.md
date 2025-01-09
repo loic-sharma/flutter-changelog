@@ -401,7 +401,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-12 commits.
+14 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Run web tests in wasm (unit + integration).<br />
   <sub>[#8111](https://github.com/flutter/packages/pull/8111) merged on January 7, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/8111) over 1 month, 282 additions and 72 deletions in 26 files</sub><br />
@@ -423,9 +423,17 @@
   <sub>[#8384](https://github.com/flutter/packages/pull/8384) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8384) over 1 hour, 31 additions and 42 deletions in 8 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
 
+* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; [webview_flutter_wkwebview] Add a listener for the canGoBack property change on the iOS platform.<br />
+  <sub>[#8203](https://github.com/flutter/packages/pull/8203) merged on January 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/8203) over 1 month, 72 additions and 2 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Bump Remaining Plugin Example Apps to targetSdkVersion >= 34 and compileSdkVersion >= 34<br />
   <sub>[#8361](https://github.com/flutter/packages/pull/8361) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8361) over 1 week, 4 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Emre](https://github.com/memishood)** &mdash; [flutter_svg] Implement errorBuilder callback<br />
+  <sub>[#8364](https://github.com/flutter/packages/pull/8364) merged on January 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/8364) over 6 days, 125 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Olli Helenius](https://github.com/liff)** &mdash; [camera_platform_interface] Add API support query for image streaming<br />
   <sub>[#8307](https://github.com/flutter/packages/pull/8307) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8307) over 3 weeks, 19 additions and 2 deletions in 4 files</sub><br />
