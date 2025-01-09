@@ -128,3 +128,6 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [FGP to Kotlin conversion] Convert app_plugin_loader Gradle plugin to Kotlin<br />
   <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161352) 235 additions and 42 deletions in 8 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] add opt in flag for SurfaceControl testing.<br />
+  <sub>[#161353](https://github.com/flutter/flutter/pull/161353) opened on on January 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161353) 44 additions and 24 deletions in 11 files</sub><br />
+
