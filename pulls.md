@@ -66,7 +66,7 @@
   <sub>[#160919](https://github.com/flutter/flutter/pull/160919) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160919) 41 additions and 4 deletions in 7 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Bump default Kotlin version from 1.8.22 to 2.1.0<br />
-  <sub>[#160974](https://github.com/flutter/flutter/pull/160974) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160974) 6 additions and 6 deletions in 6 files</sub><br />
+  <sub>[#160974](https://github.com/flutter/flutter/pull/160974) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160974) 4 additions and 4 deletions in 4 files</sub><br />
 
 * **[Pranesh Pyara Shrestha](https://github.com/praneshp1org)** &mdash; Added equalWidthPerRow option to Wrap widget<br />
   <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
@@ -102,7 +102,7 @@
   <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/161343) 60 additions and 27 deletions in 5 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [FGP to Kotlin conversion] Convert app_plugin_loader Gradle plugin to Kotlin<br />
-  <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/161352) 275 additions and 51 deletions in 9 files</sub><br />
+  <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161352) 241 additions and 47 deletions in 8 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support ignoring pointer events on tooltip overlay (#142465)<br />
   <sub>[#161363](https://github.com/flutter/flutter/pull/161363) opened on on January 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161363) 195 additions and 3 deletions in 2 files</sub><br />
