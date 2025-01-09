@@ -99,7 +99,7 @@
   <sub>[#161078](https://github.com/flutter/flutter/pull/161078) opened on on January 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161078) 69 additions and 66 deletions in 2 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update error message for when leading/trailing width exceeds `ListTile` width and add missing test<br />
-  <sub>[#161091](https://github.com/flutter/flutter/pull/161091) opened on on January 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161091) 66 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#161091](https://github.com/flutter/flutter/pull/161091) opened on on January 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161091) 66 additions and 12 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `dev/`<br />
   <sub>[#161112](https://github.com/flutter/flutter/pull/161112) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161112) 5 additions and 1 deletion in 3 files</sub><br />
@@ -116,18 +116,15 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] null check device buffer in image encoding.<br />
   <sub>[#161194](https://github.com/flutter/flutter/pull/161194) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161194) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] ignore viewpost ime and samsung spam messages.<br />
-  <sub>[#161199](https://github.com/flutter/flutter/pull/161199) opened on on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161199) 41 additions and 7 deletions in 2 files</sub><br />
-
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated string for java range message<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) opened on on January 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161223) 1 addition and 2 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix scaling of trampoline import of GLES textures into Vulkan.<br />
   <sub>[#161331](https://github.com/flutter/flutter/pull/161331) opened on on January 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161331) 158 additions and 5 deletions in 4 files</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Revert "[SwiftPM] Add separate feature flag for the app migration (#158897)"<br />
-  <sub>[#161342](https://github.com/flutter/flutter/pull/161342) opened on on January 8, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161342) 13 additions and 434 deletions in 11 files</sub><br />
-
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Actually remove dev dependencies from release builds<br />
-  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/161343) 53 additions and 22 deletions in 5 files</sub><br />
+  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/161343) 53 additions and 22 deletions in 5 files</sub><br />
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [FGP to Kotlin conversion] Convert app_plugin_loader Gradle plugin to Kotlin<br />
+  <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161352) 235 additions and 42 deletions in 8 files</sub><br />
 
