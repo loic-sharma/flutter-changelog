@@ -401,10 +401,14 @@
 
 ### January 4, 2025 to January 10, 2025
 
-11 commits.
+12 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Run web tests in wasm (unit + integration).<br />
   <sub>[#8111](https://github.com/flutter/packages/pull/8111) merged on January 7, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/8111) over 1 month, 282 additions and 72 deletions in 26 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds remaining methods for internal wrapper of the iOS native `IMAAdDisplayContainer`.<br />
+  <sub>[#8153](https://github.com/flutter/packages/pull/8153) merged on January 8, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/packages/pull/8153) over 1 month, 441 additions and 28 deletions in 10 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: latest dependencies<br />

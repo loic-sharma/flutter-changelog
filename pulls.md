@@ -66,7 +66,7 @@
   <sub>[#160542](https://github.com/flutter/flutter/pull/160542) opened on on December 18, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160542) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `const AnimationStyle`<br />
-  <sub>[#160564](https://github.com/flutter/flutter/pull/160564) opened on on December 19, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160564) 119 additions and 114 deletions in 25 files</sub><br />
+  <sub>[#160564](https://github.com/flutter/flutter/pull/160564) opened on on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160564) 119 additions and 114 deletions in 25 files</sub><br />
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; deprecate `UniqueWidget`<br />
   <sub>[#160569](https://github.com/flutter/flutter/pull/160569) opened on on December 19, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160569) 31 additions and 0 deletions in 4 files</sub><br />
@@ -129,5 +129,5 @@
   <sub>[#161342](https://github.com/flutter/flutter/pull/161342) opened on on January 8, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161342) 13 additions and 434 deletions in 11 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Actually remove dev dependencies from release builds<br />
-  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161343) 47 additions and 29 deletions in 5 files</sub><br />
+  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/161343) 55 additions and 22 deletions in 5 files</sub><br />
 
