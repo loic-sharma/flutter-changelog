@@ -532,6 +532,10 @@
   <sub>[#6711](https://github.com/flutter/packages/pull/6711) merged on January 10, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/6711) over 8 months, 1285 additions and 284 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] fix finish() not completing<br />
+  <sub>[#8324](https://github.com/flutter/packages/pull/8324) merged on January 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8324) over 2 weeks, 72 additions and 14 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Run web tests in wasm (unit + integration).<br />
   <sub>[#8111](https://github.com/flutter/packages/pull/8111) merged on January 7, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/8111) over 1 month, 282 additions and 72 deletions in 26 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
@@ -543,10 +547,6 @@
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; go_router_builder: latest dependencies<br />
   <sub>[#8326](https://github.com/flutter/packages/pull/8326) merged on January 7, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8326) over 2 weeks, 33 additions and 10 deletions in 4 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] fix finish() not completing<br />
-  <sub>[#8324](https://github.com/flutter/packages/pull/8324) merged on January 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8324) over 2 weeks, 72 additions and 14 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Anay Wadhera](https://github.com/anayw2001)** &mdash; [url_launcher_windows] Correct logging url<br />
   <sub>[#8107](https://github.com/flutter/packages/pull/8107) merged on January 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8107) over 1 month, 36 additions and 10 deletions in 4 files</sub><br />
