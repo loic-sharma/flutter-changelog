@@ -116,3 +116,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu isCollapsed decoration does not Reduce height<br />
   <sub>[#161427](https://github.com/flutter/flutter/pull/161427) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161427) 71 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove API 30 restriction for SurfaceControl testing.<br />
+  <sub>[#161438](https://github.com/flutter/flutter/pull/161438) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161438) 1 addition and 1 deletion in 1 file</sub><br />
+
