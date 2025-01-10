@@ -65,9 +65,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix felt build's ninja invocation after monorepo<br />
   <sub>[#160919](https://github.com/flutter/flutter/pull/160919) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160919) 41 additions and 4 deletions in 7 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Bump default Kotlin version from 1.8.22 to 2.1.0<br />
-  <sub>[#160974](https://github.com/flutter/flutter/pull/160974) opened on on December 30, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160974) 4 additions and 4 deletions in 4 files</sub><br />
-
 * **[Pranesh Pyara Shrestha](https://github.com/praneshp1org)** &mdash; Added equalWidthPerRow option to Wrap widget<br />
   <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
 
