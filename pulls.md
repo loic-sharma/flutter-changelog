@@ -107,3 +107,6 @@
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support ignoring pointer events on tooltip overlay (#142465)<br />
   <sub>[#161363](https://github.com/flutter/flutter/pull/161363) opened on on January 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161363) 195 additions and 3 deletions in 2 files</sub><br />
 
+* **[q1](https://github.com/ahyangnb)** &mdash; [fix] Scroll Listener does not trigger when keyboard is dismissed #160740.<br />
+  <sub>[#161414](https://github.com/flutter/flutter/pull/161414) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161414) 4 additions and 1 deletion in 1 file</sub><br />
+
