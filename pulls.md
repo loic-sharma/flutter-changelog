@@ -128,3 +128,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Explain more specifically how to use `flutter drive`/what it does<br />
   <sub>[#161450](https://github.com/flutter/flutter/pull/161450) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161450) 31 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; When parsing flavors, handle Xcode build configurations that are not lowercase<br />
+  <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 70 additions and 6 deletions in 2 files</sub><br />
+
