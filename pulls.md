@@ -122,6 +122,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android_engine_test] Remove background/foreground from surface texture trampoline test.<br />
   <sub>[#161441](https://github.com/flutter/flutter/pull/161441) opened on on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161441) 2 additions and 16 deletions in 2 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [impeller] Moved text pixel snapping to the vertex shader<br />
-  <sub>[#161445](https://github.com/flutter/flutter/pull/161445) opened on on January 10, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161445) 223 additions and 82 deletions in 9 files</sub><br />
-
