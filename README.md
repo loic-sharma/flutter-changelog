@@ -486,7 +486,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-16 commits.
+17 commits.
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Run web tests in wasm (unit + integration).<br />
   <sub>[#8111](https://github.com/flutter/packages/pull/8111) merged on January 7, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/8111) over 1 month, 282 additions and 72 deletions in 26 files</sub><br />
@@ -531,6 +531,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [go_router_builder] Add a fallback for a not null List or Set param <br />
   <sub>[#8349](https://github.com/flutter/packages/pull/8349) merged on January 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8349) over 1 week, 130 additions and 2 deletions in 7 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [camera]: Activate leak testing for sub packages<br />
+  <sub>[#8353](https://github.com/flutter/packages/pull/8353) merged on January 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8353) over 1 week, 70 additions and 0 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Rephrases readme to better describe the current status<br />
   <sub>[#8403](https://github.com/flutter/packages/pull/8403) merged on January 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8403) over 1 hour, 8 additions and 3 deletions in 3 files</sub><br />
