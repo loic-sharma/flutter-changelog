@@ -594,7 +594,7 @@
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Fix dependabot test-dependencies group io.mockk regex
-  <sub>[#8406](https://github.com/flutter/packages/pull/8406) merged on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8406) over 18 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>[#8406](https://github.com/flutter/packages/pull/8406) merged on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8406) over 18 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [go_router_builder] Add a fallback for a not null List or Set param 
