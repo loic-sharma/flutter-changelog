@@ -43,6 +43,10 @@
   <sub>[#161109](https://github.com/flutter/flutter/pull/161109) merged on January 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161109) over 4 days, 45 additions and 42 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Support DDC library bundle format and remove support for DDC module format<br />
+  <sub>[#161276](https://github.com/flutter/flutter/pull/161276) merged on January 9, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161276) over 1 day, 451 additions and 440 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor keyboard manager tests<br />
   <sub>[#160637](https://github.com/flutter/flutter/pull/160637) merged on January 9, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/160637) over 2 weeks, 698 additions and 678 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
@@ -102,10 +106,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` parameter to `ReorderableListView`<br />
   <sub>[#160246](https://github.com/flutter/flutter/pull/160246) merged on January 9, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/160246) over 3 weeks, 142 additions and 10 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Support DDC library bundle format and remove support for DDC module format<br />
-  <sub>[#161276](https://github.com/flutter/flutter/pull/161276) merged on January 9, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161276) over 1 day, 451 additions and 440 deletions in 14 files</sub><br />
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Exclude `*texture*` as matching for `a: text input`<br />
   <sub>[#161354](https://github.com/flutter/flutter/pull/161354) merged on January 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161354) over 14 hours, 1 addition and 0 deletions in 1 file</sub><br />
