@@ -486,7 +486,11 @@
 
 ### January 4, 2025 to January 10, 2025
 
-17 commits.
+18 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Better support for semantics in the Link widget
+  <sub>[#6711](https://github.com/flutter/packages/pull/6711) merged on January 10, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/6711) over 8 months, 1285 additions and 284 deletions in 5 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Run web tests in wasm (unit + integration).
   <sub>[#8111](https://github.com/flutter/packages/pull/8111) merged on January 7, 2025 &mdash; **Medium:** [27 comments](https://github.com/flutter/packages/pull/8111) over 1 month, 282 additions and 72 deletions in 26 files</sub>
