@@ -12,7 +12,7 @@
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/157515) 3576 additions and 2 deletions in 50 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
-  <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/158020) 29 additions and 16 deletions in 1 file</sub><br />
+  <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/158020) 29 additions and 16 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; convert `resolve_dependencies.gradle` to `resolve_dependencies.gradle.kts`<br />
   <sub>[#159399](https://github.com/flutter/flutter/pull/159399) opened on on November 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159399) 96 additions and 69 deletions in 4 files</sub><br />
