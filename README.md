@@ -674,7 +674,11 @@
 
 ### January 4, 2025 to January 10, 2025
 
-4 commits.
+5 commits.
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Fixed Italic Highlight on App Architecture Page<br />
+  <sub>[#11580](https://github.com/flutter/website/pull/11580) merged on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11580) over 19 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update deep link guide with a note for version earlier than 3.27<br />
   <sub>[#11552](https://github.com/flutter/website/pull/11552) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11552) over 1 week, 34 additions and 16 deletions in 2 files</sub><br />
