@@ -114,7 +114,7 @@
   <sub>[#161415](https://github.com/flutter/flutter/pull/161415) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161415) 9 additions and 6 deletions in 2 files</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add hintTextWidget property <br />
-  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161424) 33 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161424) 33 additions and 0 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu isCollapsed decoration does not Reduce height<br />
   <sub>[#161427](https://github.com/flutter/flutter/pull/161427) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161427) 71 additions and 1 deletion in 2 files</sub><br />
