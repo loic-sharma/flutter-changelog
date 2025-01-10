@@ -117,8 +117,11 @@
   <sub>[#161427](https://github.com/flutter/flutter/pull/161427) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161427) 71 additions and 1 deletion in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove API 30 restriction for SurfaceControl testing.<br />
-  <sub>[#161438](https://github.com/flutter/flutter/pull/161438) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161438) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#161438](https://github.com/flutter/flutter/pull/161438) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161438) 7 additions and 4 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android_engine_test] Remove background/foreground from surface texture trampoline test.<br />
   <sub>[#161441](https://github.com/flutter/flutter/pull/161441) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161441) 2 additions and 16 deletions in 2 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Moved pixel snapping to the vertex shader<br />
+  <sub>[#161445](https://github.com/flutter/flutter/pull/161445) opened on on January 10, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161445) 223 additions and 82 deletions in 9 files</sub><br />
 
