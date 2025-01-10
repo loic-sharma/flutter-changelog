@@ -678,7 +678,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-10 commits.
+11 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add DevTools release notes for `2.42.0`<br />
   <sub>[#11577](https://github.com/flutter/website/pull/11577) merged on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11577) over 2 days, 31 additions and 0 deletions in 5 files</sub><br />
@@ -696,6 +696,10 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fixed Italic Highlight on App Architecture Page<br />
   <sub>[#11580](https://github.com/flutter/website/pull/11580) merged on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11580) over 19 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add "Flutter Design Patterns and Best Practices" to books page<br />
+  <sub>[#11562](https://github.com/flutter/website/pull/11562) merged on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11562) over 1 week, 12 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update deep link guide with a note for version earlier than 3.27<br />
   <sub>[#11552](https://github.com/flutter/website/pull/11552) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11552) over 1 week, 34 additions and 16 deletions in 2 files</sub><br />
