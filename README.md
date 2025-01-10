@@ -678,7 +678,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-8 commits.
+10 commits.
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add DevTools release notes for `2.42.0`<br />
   <sub>[#11577](https://github.com/flutter/website/pull/11577) merged on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11577) over 2 days, 31 additions and 0 deletions in 5 files</sub><br />
@@ -700,6 +700,14 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Update deep link guide with a note for version earlier than 3.27<br />
   <sub>[#11552](https://github.com/flutter/website/pull/11552) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11552) over 1 week, 34 additions and 16 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[suwon](https://github.com/SuwonJ)** &mdash; Updating unworking zsh script for adding flutter into the PATH<br />
+  <sub>[#11567](https://github.com/flutter/website/pull/11567) merged on January 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11567) over 6 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[CroBurnt](https://github.com/CrotchBurnt)** &mdash; Fix ui-layer.md typo<br />
+  <sub>[#11557](https://github.com/flutter/website/pull/11557) merged on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11557) over 1 week, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Aman Khatri](https://github.com/AmanKhatri-ai)** &mdash; Updated incorrect file name in documentation<br />
   <sub>[#11566](https://github.com/flutter/website/pull/11566) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11566) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
