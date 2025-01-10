@@ -105,7 +105,7 @@
   <sub>[#161363](https://github.com/flutter/flutter/pull/161363) opened on on January 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161363) 195 additions and 3 deletions in 2 files</sub><br />
 
 * **[Mohammed  CHAHBOUN](https://github.com/M97Chahboun)** &mdash; Introducing Mouse region config for RailDestination<br />
-  <sub>[#161381](https://github.com/flutter/flutter/pull/161381) opened on on January 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161381) 124 additions and 28 deletions in 2 files</sub><br />
+  <sub>[#161381](https://github.com/flutter/flutter/pull/161381) opened on on January 9, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161381) 224 additions and 179 deletions in 2 files</sub><br />
 
 * **[q1](https://github.com/ahyangnb)** &mdash; [fix] Scroll Listener does not trigger when keyboard is dismissed #160740.<br />
   <sub>[#161414](https://github.com/flutter/flutter/pull/161414) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161414) 4 additions and 1 deletion in 1 file</sub><br />
@@ -130,4 +130,10 @@
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; When parsing flavors, handle Xcode build configurations that are not lowercase<br />
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 70 additions and 6 deletions in 2 files</sub><br />
+
+* **[Antonin Do Souto](https://github.com/avainfo)** &mdash; Add headerTextColor and headerNavigationButtonColor to DatePickerThemeData<br />
+  <sub>[#161458](https://github.com/flutter/flutter/pull/161458) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161458) 18 additions and 2 deletions in 3 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove "Mac Designed for iPad" as a discoverable `flutter run` device<br />
+  <sub>[#161459](https://github.com/flutter/flutter/pull/161459) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161459) 23 additions and 107 deletions in 7 files</sub><br />
 
