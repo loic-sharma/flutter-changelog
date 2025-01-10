@@ -11,7 +11,7 @@
   <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] fix scaling of trampoline import of GLES textures into Vulkan.
-  <sub>[#161331](https://github.com/flutter/flutter/pull/161331) merged on January 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161331) over 23 hours, 211 additions and 5 deletions in 5 files</sub>
+  <sub>[#161331](https://github.com/flutter/flutter/pull/161331) merged on January 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161331) over 23 hours, 211 additions and 5 deletions in 5 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
   <sub><details><summary>2 images...</summary>![flutter_04](https://github.com/user-attachments/assets/be60b1d0-4e94-491c-b1da-a03d66897f12)![flutter_03](https://github.com/user-attachments/assets/64cca8b7-3ae7-4f40-af26-ae61d9ec6290)</details></sub>
 
