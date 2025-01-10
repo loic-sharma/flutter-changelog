@@ -678,11 +678,20 @@
 
 ### January 4, 2025 to January 10, 2025
 
-6 commits.
+8 commits.
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add DevTools release notes for `2.42.0`<br />
+  <sub>[#11577](https://github.com/flutter/website/pull/11577) merged on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11577) over 2 days, 31 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Kenzie Davisson](https://github.com/kenzieschmoll), [Parker Lougheed](https://github.com/parlough)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="595" alt="Screenshot 2025-01-07 at 5 08 12 PM" src="https://github.com/user-attachments/assets/110329c5-a009-4cb3-9b58-ce836bc376e8" /></details></sub>
 
 * **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; Replace the type `number` with `num` in ARB files<br />
   <sub>[#11576](https://github.com/flutter/website/pull/11576) merged on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11576) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Fixed Broken URL in Dart Fundamentals <br />
+  <sub>[#11578](https://github.com/flutter/website/pull/11578) merged on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11578) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fixed Italic Highlight on App Architecture Page<br />
   <sub>[#11580](https://github.com/flutter/website/pull/11580) merged on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11580) over 19 hours, 1 addition and 1 deletion in 1 file</sub><br />
