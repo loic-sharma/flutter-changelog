@@ -674,7 +674,11 @@
 
 ### January 4, 2025 to January 10, 2025
 
-5 commits.
+6 commits.
+
+* **[Tatsuya Fujisaki](https://github.com/tatsuyafujisaki)** &mdash; Replace the type `number` with `num` in ARB files<br />
+  <sub>[#11576](https://github.com/flutter/website/pull/11576) merged on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11576) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Fixed Italic Highlight on App Architecture Page<br />
   <sub>[#11580](https://github.com/flutter/website/pull/11580) merged on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11580) over 19 hours, 1 addition and 1 deletion in 1 file</sub><br />
