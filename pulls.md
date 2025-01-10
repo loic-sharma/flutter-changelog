@@ -99,7 +99,7 @@
   <sub>[#161194](https://github.com/flutter/flutter/pull/161194) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161194) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Actually remove dev dependencies from release builds<br />
-  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/161343) 60 additions and 27 deletions in 5 files</sub><br />
+  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/161343) 60 additions and 27 deletions in 5 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [FGP to Kotlin conversion] Convert app_plugin_loader Gradle plugin to Kotlin<br />
   <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161352) 241 additions and 47 deletions in 8 files</sub><br />
