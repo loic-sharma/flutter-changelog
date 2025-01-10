@@ -526,7 +526,7 @@
 
 ### January 4, 2025 to January 10, 2025
 
-18 commits.
+19 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Better support for semantics in the Link widget
   <sub>[#6711](https://github.com/flutter/packages/pull/6711) merged on January 10, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/6711) over 8 months, 1285 additions and 284 deletions in 5 files</sub>
@@ -547,6 +547,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] fix finish() not completing
   <sub>[#8324](https://github.com/flutter/packages/pull/8324) merged on January 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8324) over 2 weeks, 72 additions and 14 deletions in 5 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Anay Wadhera](https://github.com/anayw2001)** &mdash; [url_launcher_windows] Correct logging url
+  <sub>[#8107](https://github.com/flutter/packages/pull/8107) merged on January 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8107) over 1 month, 36 additions and 10 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `onSurfaceCreated` with `onSurfaceAvailable`.
   <sub>[#8384](https://github.com/flutter/packages/pull/8384) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8384) over 1 hour, 31 additions and 42 deletions in 8 files</sub>
