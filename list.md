@@ -176,7 +176,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark integration_ui_test_test_macos unflaky
-  <sub>[#160999](https://github.com/flutter/flutter/pull/160999) merged on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160999) over 1 week, 0 additions and 1 deletion in 1 file</sub>
+  <sub>[#160999](https://github.com/flutter/flutter/pull/160999) merged on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160999) over 1 week, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark hot_mode_dev_cycle_macos_target__benchmark unflaky
