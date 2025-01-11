@@ -143,3 +143,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Add enabled property for search anchor named constructor<br />
   <sub>[#161468](https://github.com/flutter/flutter/pull/161468) opened on on January 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161468) 29 additions and 0 deletions in 2 files</sub><br />
 
+* **[Krisna Pranav](https://github.com/krishpranav)** &mdash; ✨ Implement animateToItem Method in CarouselController to Animate to Specific Item<br />
+  <sub>[#161472](https://github.com/flutter/flutter/pull/161472) opened on on January 11, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161472) 314 additions and 162 deletions in 2 files</sub><br />
+
