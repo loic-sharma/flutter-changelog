@@ -24,6 +24,10 @@
   <sub>[#160032](https://github.com/flutter/flutter/pull/160032) merged on January 8, 2025 &mdash; **Medium:** [46 comments](https://github.com/flutter/flutter/pull/160032) over 4 weeks, 377 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub>
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update Style-guide-for-Flutter-repo.md
+  <sub>[#161344](https://github.com/flutter/flutter/pull/161344) merged on January 10, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/161344) over 1 day, 22 additions and 361 deletions in 1 file</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `SurfaceProducer.onSurfaceCleanup`, deprecate `onSurfaceDestroyed`.
   <sub>[#160937](https://github.com/flutter/flutter/pull/160937) merged on January 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160937) over 1 week, 67 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
@@ -31,10 +35,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Use `flutter` repo for engine golds instead of `flutter-engine`.
   <sub>[#160556](https://github.com/flutter/flutter/pull/160556) merged on January 7, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160556) over 2 weeks, 70 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams), [John McDole](https://github.com/jtmcdole)</sub>
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update Style-guide-for-Flutter-repo.md
-  <sub>[#161344](https://github.com/flutter/flutter/pull/161344) merged on January 10, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/161344) over 1 day, 22 additions and 361 deletions in 1 file</sub>
-  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit hardcoded `--packages=.dart_tool/package_config.json`.
   <sub>[#160982](https://github.com/flutter/flutter/pull/160982) merged on January 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160982) over 6 days, 1 addition and 9 deletions in 3 files</sub>
