@@ -140,3 +140,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove "Mac Designed for iPad" as a discoverable `flutter run` device<br />
   <sub>[#161459](https://github.com/flutter/flutter/pull/161459) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161459) 23 additions and 107 deletions in 7 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Add enabled property for search anchor named constructor<br />
+  <sub>[#161468](https://github.com/flutter/flutter/pull/161468) opened on on January 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161468) 29 additions and 0 deletions in 2 files</sub><br />
+
