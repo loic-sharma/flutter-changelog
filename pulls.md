@@ -146,3 +146,6 @@
 * **[Krisna Pranav](https://github.com/krishpranav)** &mdash; ✨ Implement animateToItem Method in CarouselController to Animate to Specific Item<br />
   <sub>[#161472](https://github.com/flutter/flutter/pull/161472) opened on on January 11, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161472) 314 additions and 162 deletions in 2 files</sub><br />
 
+* **[Affan Shaikhsurab](https://github.com/AffanShaikhsurab)** &mdash; [DatePickerThemeData] Add Subheader Color Customization<br />
+  <sub>[#161483](https://github.com/flutter/flutter/pull/161483) opened on on January 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161483) 25 additions and 2 deletions in 3 files</sub><br />
+
