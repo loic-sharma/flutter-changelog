@@ -321,7 +321,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable runtime mipmap generation on Adreno.
-  <sub>[#161257](https://github.com/flutter/flutter/pull/161257) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161257) over 1 hour, 67 additions and 12 deletions in 8 files</sub>
+  <sub>[#161257](https://github.com/flutter/flutter/pull/161257) merged on January 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161257) over 1 hour, 67 additions and 12 deletions in 8 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update Create Pull Request GitHub workflow reviewers
