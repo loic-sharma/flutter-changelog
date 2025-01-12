@@ -152,3 +152,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
   <sub>[#161487](https://github.com/flutter/flutter/pull/161487) opened on on January 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161487) 59 additions and 40 deletions in 2 files</sub><br />
 
+* **[dev-lup](https://github.com/dev-lup)** &mdash; Fix: Ensure CupertinoAlertDialog divider spans full width and resolve<br />
+  <sub>[#161490](https://github.com/flutter/flutter/pull/161490) opened on on January 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161490) 4 additions and 2 deletions in 1 file</sub><br />
+
