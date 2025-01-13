@@ -4,7 +4,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-12 commits.
+13 commits.
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated strings for incompatible Gradle or AGP version in `create` command<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) merged on January 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161223) over 6 days, 40 additions and 3 deletions in 2 files</sub><br />
@@ -38,6 +38,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Udpate documentation on the third_party directories<br />
   <sub>[#161407](https://github.com/flutter/flutter/pull/161407) merged on January 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161407) over 3 days, 7 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Explain more specifically how to use `flutter drive`/what it does<br />
+  <sub>[#161450](https://github.com/flutter/flutter/pull/161450) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161450) over 3 days, 31 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `WEB_SHARD_COUNT`, which no longer exists post-Cirrus.<br />
   <sub>[#161527](https://github.com/flutter/flutter/pull/161527) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161527) over 1 hour, 6 additions and 11 deletions in 1 file</sub><br />
