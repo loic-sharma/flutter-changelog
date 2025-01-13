@@ -150,7 +150,7 @@
   <sub>[#161483](https://github.com/flutter/flutter/pull/161483) opened on on January 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161483) 25 additions and 2 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
-  <sub>[#161487](https://github.com/flutter/flutter/pull/161487) opened on on January 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161487) 59 additions and 40 deletions in 2 files</sub><br />
+  <sub>[#161487](https://github.com/flutter/flutter/pull/161487) opened on on January 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161487) 59 additions and 40 deletions in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Dispose after using ImmutableBuffer<br />
   <sub>[#161488](https://github.com/flutter/flutter/pull/161488) opened on on January 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161488) 79 additions and 24 deletions in 2 files</sub><br />
