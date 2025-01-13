@@ -4,7 +4,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-6 commits.
+7 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate unused `ButtonStyleButton.iconAlignment` property<br />
   <sub>[#160023](https://github.com/flutter/flutter/pull/160023) merged on January 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160023) over 1 month, 10 additions and 0 deletions in 1 file</sub><br />
@@ -21,6 +21,10 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert base application name handling to kotlin source (start of FGP kt conversion)<br />
   <sub>[#155963](https://github.com/flutter/flutter/pull/155963) merged on January 13, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/155963) over 3 months, 173 additions and 30 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute<br />
+  <sub>[#160241](https://github.com/flutter/flutter/pull/160241) merged on January 13, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/160241) over 1 month, 53 additions and 4 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Udpate documentation on the third_party directories<br />
   <sub>[#161407](https://github.com/flutter/flutter/pull/161407) merged on January 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161407) over 3 days, 7 additions and 2 deletions in 1 file</sub><br />

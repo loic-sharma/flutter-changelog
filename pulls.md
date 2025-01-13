@@ -90,7 +90,7 @@
   <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/161343) 37 additions and 20 deletions in 5 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [FGP to Kotlin conversion] Convert app_plugin_loader Gradle plugin to Kotlin<br />
-  <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161352) 238 additions and 51 deletions in 9 files</sub><br />
+  <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161352) 238 additions and 51 deletions in 9 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support ignoring pointer events on tooltip overlay (#142465)<br />
   <sub>[#161363](https://github.com/flutter/flutter/pull/161363) opened on on January 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161363) 195 additions and 3 deletions in 2 files</sub><br />
