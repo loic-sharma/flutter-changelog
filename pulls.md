@@ -164,3 +164,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
+* **[Krisna Pranav](https://github.com/krishpranav)** &mdash; 🌟 Add Infinite Scrolling Support to CarouselView for Seamless Experience 🚀<br />
+  <sub>[#161506](https://github.com/flutter/flutter/pull/161506) opened on on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161506) 92 additions and 43 deletions in 2 files</sub><br />
+
