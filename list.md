@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### January 11, 2025 to January 17, 2025
+
+1 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate unused `ButtonStyleButton.iconAlignment` property
+  <sub>[#160023](https://github.com/flutter/flutter/pull/160023) merged on January 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160023) over 1 month, 10 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Kate Lovett](https://github.com/Piinks)</sub>
+
 ### January 4, 2025 to January 10, 2025
 
-96 commits.
+<details>
+<summary>96 commits...</summary>
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; CupertinoSheetRoute
   <sub>[#157568](https://github.com/flutter/flutter/pull/157568) merged on January 10, 2025 &mdash; **Extra large:** [162 comments](https://github.com/flutter/flutter/pull/157568) over 2 months, 2180 additions and 0 deletions in 9 files</sub>
@@ -391,6 +400,8 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert "use uuid from package:uuid instead of from package:usage"
   <sub>[#161292](https://github.com/flutter/flutter/pull/161292) merged on January 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161292) over 9 hours, 4 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Devon Carew](https://github.com/devoncarew)</sub>
+
+</details>
 
 ### December 28, 2024 to January 3, 2025
 
