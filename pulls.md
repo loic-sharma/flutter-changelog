@@ -159,5 +159,5 @@
   <sub>[#161490](https://github.com/flutter/flutter/pull/161490) opened on on January 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161490) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Fix paths when running clang-tidy on git diffs<br />
-  <sub>[#161496](https://github.com/flutter/flutter/pull/161496) opened on on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161496) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#161496](https://github.com/flutter/flutter/pull/161496) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161496) 2 additions and 0 deletions in 1 file</sub><br />
 
