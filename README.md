@@ -457,9 +457,18 @@
 
 ## flutter/packages
 
+### January 11, 2025 to January 17, 2025
+
+1 commits.
+
+* **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation, camera_avfoundation] never overwrite but only upgrade audio session category<br />
+  <sub>[#7143](https://github.com/flutter/packages/pull/7143) merged on January 13, 2025 &mdash; **Small:** [100 comments](https://github.com/flutter/packages/pull/7143) over 6 months, 162 additions and 16 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### January 4, 2025 to January 10, 2025
 
-20 commits.
+<details>
+<summary>20 commits...</summary>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Better support for semantics in the Link widget<br />
   <sub>[#6711](https://github.com/flutter/packages/pull/6711) merged on January 10, 2025 &mdash; **Extra large:** [34 comments](https://github.com/flutter/packages/pull/6711) over 8 months, 1285 additions and 284 deletions in 5 files</sub><br />
@@ -540,6 +549,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Manual roll Flutter (stable) from 8495dee1fd4a to 17025dd88227 (2 revisions)<br />
   <sub>[#8396](https://github.com/flutter/packages/pull/8396) merged on January 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8396) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### December 28, 2024 to January 3, 2025
 

@@ -93,7 +93,7 @@
   <sub>[#161194](https://github.com/flutter/flutter/pull/161194) opened on on January 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161194) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Actually remove dev dependencies from release builds<br />
-  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/flutter/pull/161343) 39 additions and 22 deletions in 5 files</sub><br />
+  <sub>[#161343](https://github.com/flutter/flutter/pull/161343) opened on on January 8, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/161343) 37 additions and 20 deletions in 5 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [FGP to Kotlin conversion] Convert app_plugin_loader Gradle plugin to Kotlin<br />
   <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161352) 238 additions and 51 deletions in 9 files</sub><br />
@@ -160,9 +160,6 @@
 
 * **[Krisna Pranav](https://github.com/krishpranav)** &mdash; 🌟 Add Infinite Scrolling Support to CarouselView for Seamless Experience 🚀<br />
   <sub>[#161506](https://github.com/flutter/flutter/pull/161506) opened on on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161506) 92 additions and 43 deletions in 2 files</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` glitchy elastic `Tab`  animation<br />
-  <sub>[#161514](https://github.com/flutter/flutter/pull/161514) opened on on January 13, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161514) 429 additions and 128 deletions in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Update package revisions to latest<br />
   <sub>[#161525](https://github.com/flutter/flutter/pull/161525) opened on on January 13, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161525) 188 additions and 188 deletions in 64 files</sub><br />
