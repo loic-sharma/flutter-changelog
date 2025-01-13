@@ -150,7 +150,7 @@
   <sub>[#161490](https://github.com/flutter/flutter/pull/161490) opened on on January 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161490) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Fix paths when running clang-tidy on git diffs<br />
-  <sub>[#161496](https://github.com/flutter/flutter/pull/161496) opened on on January 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161496) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#161496](https://github.com/flutter/flutter/pull/161496) opened on on January 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161496) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
@@ -160,4 +160,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Update package revisions to latest<br />
   <sub>[#161525](https://github.com/flutter/flutter/pull/161525) opened on on January 13, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161525) 188 additions and 188 deletions in 64 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove last two references to Cirrus CI.<br />
+  <sub>[#161530](https://github.com/flutter/flutter/pull/161530) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161530) 0 additions and 7 deletions in 2 files</sub><br />
 
