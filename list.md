@@ -467,11 +467,15 @@
 
 ### January 11, 2025 to January 17, 2025
 
-2 commits.
+3 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation, camera_avfoundation] never overwrite but only upgrade audio session category
   <sub>[#7143](https://github.com/flutter/packages/pull/7143) merged on January 13, 2025 &mdash; **Small:** [100 comments](https://github.com/flutter/packages/pull/7143) over 6 months, 162 additions and 16 deletions in 10 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Olli Helenius](https://github.com/liff)** &mdash; [camera] Add API support query for image streaming
+  <sub>[#8250](https://github.com/flutter/packages/pull/8250) merged on January 13, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8250) over 1 month, 40 additions and 6 deletions in 12 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Igor Kharakhordin](https://github.com/westracer)** &mdash; [webview_flutter_android] Add additional WebSettings methods
   <sub>[#8270](https://github.com/flutter/packages/pull/8270) merged on January 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8270) over 1 month, 277 additions and 1 deletion in 11 files</sub>
