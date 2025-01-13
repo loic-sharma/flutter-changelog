@@ -161,3 +161,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML from bots, test suites and e2e tests<br />
   <sub>[#161537](https://github.com/flutter/flutter/pull/161537) opened on on January 13, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161537) 32 additions and 285 deletions in 8 files</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add support for Metal and Vulkan rendering.<br />
+  <sub>[#161547](https://github.com/flutter/flutter/pull/161547) opened on on January 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161547) 1732 additions and 178 deletions in 47 files</sub><br />
+
