@@ -595,11 +595,19 @@
 
 ### January 11, 2025 to January 17, 2025
 
-1 commits.
+3 commits.
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Add More widgets under 'Animation and motion' in Widget Catalogue
+  <sub>[#11586](https://github.com/flutter/website/pull/11586) merged on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11586) over 7 hours, 35 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update result.md
   <sub>[#11585](https://github.com/flutter/website/pull/11585) merged on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11585) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Gianluca Romeo](https://github.com/gianlucaromeo)** &mdash; Update recommendations.md
+  <sub>[#11582](https://github.com/flutter/website/pull/11582) merged on January 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11582) over 3 days, 0 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub>
 
 ### January 4, 2025 to January 10, 2025
 
