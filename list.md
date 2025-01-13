@@ -578,9 +578,18 @@
 
 ## flutter/website
 
+### January 11, 2025 to January 17, 2025
+
+1 commits.
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Update result.md
+  <sub>[#11585](https://github.com/flutter/website/pull/11585) merged on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11585) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
 ### January 4, 2025 to January 10, 2025
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add DevTools release notes for `2.42.0`
   <sub>[#11577](https://github.com/flutter/website/pull/11577) merged on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11577) over 2 days, 31 additions and 0 deletions in 5 files</sub>
@@ -626,6 +635,8 @@
 * **[Gregory Clark](https://github.com/w-hat)** &mdash; Add a missing space before `canvaskit`.
   <sub>[#11571](https://github.com/flutter/website/pull/11571) merged on January 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11571) over 3 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### December 28, 2024 to January 3, 2025
 
