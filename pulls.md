@@ -117,7 +117,7 @@
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration<br />
-  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/161424) 48 additions and 24 deletions in 1 file</sub><br />
+  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161424) 74 additions and 24 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu isCollapsed decoration does not Reduce height<br />
   <sub>[#161427](https://github.com/flutter/flutter/pull/161427) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161427) 71 additions and 1 deletion in 2 files</sub><br />
@@ -132,7 +132,7 @@
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 70 additions and 6 deletions in 2 files</sub><br />
 
 * **[Antonin Do Souto](https://github.com/avainfo)** &mdash; Add headerTextColor and headerNavigationButtonColor to DatePickerThemeData<br />
-  <sub>[#161458](https://github.com/flutter/flutter/pull/161458) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161458) 36 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#161458](https://github.com/flutter/flutter/pull/161458) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161458) 36 additions and 2 deletions in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove "Mac Designed for iPad" as a discoverable `flutter run` device<br />
   <sub>[#161459](https://github.com/flutter/flutter/pull/161459) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161459) 23 additions and 107 deletions in 7 files</sub><br />
@@ -156,7 +156,7 @@
   <sub>[#161490](https://github.com/flutter/flutter/pull/161490) opened on on January 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161490) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Fix paths when running clang-tidy on git diffs<br />
-  <sub>[#161496](https://github.com/flutter/flutter/pull/161496) opened on on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161496) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#161496](https://github.com/flutter/flutter/pull/161496) opened on on January 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161496) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
