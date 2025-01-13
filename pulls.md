@@ -164,3 +164,6 @@
 * **[Krisna Pranav](https://github.com/krishpranav)** &mdash; 🌟 Add Infinite Scrolling Support to CarouselView for Seamless Experience 🚀<br />
   <sub>[#161506](https://github.com/flutter/flutter/pull/161506) opened on on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161506) 92 additions and 43 deletions in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` glitchy elastic `Tab`  animation<br />
+  <sub>[#161514](https://github.com/flutter/flutter/pull/161514) opened on on January 13, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161514) 429 additions and 128 deletions in 4 files</sub><br />
+
