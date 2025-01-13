@@ -4,7 +4,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-13 commits.
+14 commits.
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated strings for incompatible Gradle or AGP version in `create` command<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) merged on January 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161223) over 6 days, 40 additions and 3 deletions in 2 files</sub><br />
@@ -14,6 +14,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate unused `ButtonStyleButton.iconAlignment` property<br />
   <sub>[#160023](https://github.com/flutter/flutter/pull/160023) merged on January 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160023) over 1 month, 10 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Kate Lovett](https://github.com/Piinks)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add validator execution times to `flutter doctor --verbose`<br />
+  <sub>[#158124](https://github.com/flutter/flutter/pull/158124) merged on January 13, 2025 &mdash; **Large:** [11 comments](https://github.com/flutter/flutter/pull/158124) over 2 months, 802 additions and 543 deletions in 17 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update error message for when leading/trailing width exceeds `ListTile` width and add missing test<br />
   <sub>[#161091](https://github.com/flutter/flutter/pull/161091) merged on January 13, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/161091) over 1 week, 60 additions and 12 deletions in 2 files</sub><br />

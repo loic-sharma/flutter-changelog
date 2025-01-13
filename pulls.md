@@ -161,3 +161,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add support for Metal and Vulkan rendering.<br />
   <sub>[#161547](https://github.com/flutter/flutter/pull/161547) opened on on January 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161547) 1732 additions and 178 deletions in 47 files</sub><br />
 
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Mark `Mac_mokey microbenchmarks` as flakey<br />
+  <sub>[#161550](https://github.com/flutter/flutter/pull/161550) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161550) 1 addition and 0 deletions in 1 file</sub><br />
+
