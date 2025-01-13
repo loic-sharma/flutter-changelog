@@ -4,7 +4,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-7 commits.
+9 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate unused `ButtonStyleButton.iconAlignment` property
   <sub>[#160023](https://github.com/flutter/flutter/pull/160023) merged on January 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160023) over 1 month, 10 additions and 0 deletions in 1 file</sub>
@@ -13,6 +13,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update error message for when leading/trailing width exceeds `ListTile` width and add missing test
   <sub>[#161091](https://github.com/flutter/flutter/pull/161091) merged on January 13, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/161091) over 1 week, 60 additions and 12 deletions in 2 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate)</sub>
+
+* **[Jim Graham](https://github.com/flar)** &mdash; Migrate DisplayList unit tests to DL/Impeller geometry classes
+  <sub>[#161453](https://github.com/flutter/flutter/pull/161453) merged on January 13, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/161453) over 2 days, 1926 additions and 1882 deletions in 25 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Propagate environment variables when `flutter drive` is invoked.
   <sub>[#161452](https://github.com/flutter/flutter/pull/161452) merged on January 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161452) over 2 days, 101 additions and 23 deletions in 8 files</sub>
@@ -29,6 +33,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Udpate documentation on the third_party directories
   <sub>[#161407](https://github.com/flutter/flutter/pull/161407) merged on January 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161407) over 3 days, 7 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Context menu button callback docs clarification
+  <sub>[#161451](https://github.com/flutter/flutter/pull/161451) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161451) over 2 days, 7 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove API 30 restriction for SurfaceControl testing.
   <sub>[#161438](https://github.com/flutter/flutter/pull/161438) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161438) over 2 days, 7 additions and 4 deletions in 2 files</sub>
