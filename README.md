@@ -4,7 +4,12 @@
 
 ### January 11, 2025 to January 17, 2025
 
-11 commits.
+12 commits.
+
+* **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated strings for incompatible Gradle or AGP version in `create` command<br />
+  <sub>[#161223](https://github.com/flutter/flutter/pull/161223) merged on January 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161223) over 6 days, 40 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="1003" alt="image" src="https://github.com/user-attachments/assets/143634ef-fb36-40ce-8934-a5237d574821" /></details></sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate unused `ButtonStyleButton.iconAlignment` property<br />
   <sub>[#160023](https://github.com/flutter/flutter/pull/160023) merged on January 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160023) over 1 month, 10 additions and 0 deletions in 1 file</sub><br />
