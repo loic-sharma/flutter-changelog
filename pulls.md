@@ -170,3 +170,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Clean up engine's analysis_options.yaml<br />
   <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161554) 16 additions and 236 deletions in 2 files</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; WIP<br />
+  <sub>[#161560](https://github.com/flutter/flutter/pull/161560) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161560) 36 additions and 20 deletions in 8 files</sub><br />
+
