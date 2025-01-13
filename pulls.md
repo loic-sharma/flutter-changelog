@@ -164,3 +164,9 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Mark `Mac_mokey microbenchmarks` as flakey<br />
   <sub>[#161550](https://github.com/flutter/flutter/pull/161550) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161550) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] remove obsolete use of Skia goemetry objects in DL utils<br />
+  <sub>[#161553](https://github.com/flutter/flutter/pull/161553) opened on on January 13, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161553) 347 additions and 764 deletions in 8 files</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Clean up engine's analysis_options.yaml<br />
+  <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161554) 16 additions and 235 deletions in 1 file</sub><br />
+
