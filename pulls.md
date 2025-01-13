@@ -41,9 +41,6 @@
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
-* **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
-  <sub>[#160243](https://github.com/flutter/flutter/pull/160243) opened on on December 13, 2024 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160243) 13 additions and 2 deletions in 1 file</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; DO NOT MERGE: Enable `explicit-package-dependencies`.<br />
   <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160289) 9 additions and 12 deletions in 1 file</sub><br />
 
@@ -166,4 +163,7 @@
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `TabBar` glitchy elastic `Tab`  animation<br />
   <sub>[#161514](https://github.com/flutter/flutter/pull/161514) opened on on January 13, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161514) 429 additions and 128 deletions in 4 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Update package revisions to latest<br />
+  <sub>[#161525](https://github.com/flutter/flutter/pull/161525) opened on on January 13, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161525) 188 additions and 188 deletions in 64 files</sub><br />
 
