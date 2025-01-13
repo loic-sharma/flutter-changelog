@@ -132,7 +132,7 @@
   <sub>[#161472](https://github.com/flutter/flutter/pull/161472) opened on on January 11, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161472) 314 additions and 162 deletions in 2 files</sub><br />
 
 * **[Affan Shaikhsurab](https://github.com/AffanShaikhsurab)** &mdash; [DatePickerThemeData] Add Subheader Color Customization<br />
-  <sub>[#161483](https://github.com/flutter/flutter/pull/161483) opened on on January 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161483) 25 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#161483](https://github.com/flutter/flutter/pull/161483) opened on on January 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161483) 25 additions and 2 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
   <sub>[#161487](https://github.com/flutter/flutter/pull/161487) opened on on January 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161487) 59 additions and 40 deletions in 2 files</sub><br />
@@ -157,4 +157,7 @@
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix GIF decode failure<br />
   <sub>[#161536](https://github.com/flutter/flutter/pull/161536) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161536) 36 additions and 23 deletions in 3 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML from bots, test suites and e2e tests<br />
+  <sub>[#161537](https://github.com/flutter/flutter/pull/161537) opened on on January 13, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161537) 32 additions and 285 deletions in 8 files</sub><br />
 
