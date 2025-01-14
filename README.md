@@ -4,12 +4,16 @@
 
 ### January 11, 2025 to January 17, 2025
 
-25 commits.
+26 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete Options Width<br />
   <sub>[#143249](https://github.com/flutter/flutter/pull/143249) merged on January 14, 2025 &mdash; **Extra large:** [196 comments](https://github.com/flutter/flutter/pull/143249) over 11 months, 1688 additions and 263 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub><br />
   <sub><details><summary>3 images...</summary><img width="797" alt="Screenshot 2024-02-09 at 1 29 09 PM" src="https://github.com/flutter/flutter/assets/389558/c49fa584-2550-41f6-ab80-6c20d01412b1"><img width="794" alt="Screenshot 2024-02-09 at 1 23 59 PM" src="https://github.com/flutter/flutter/assets/389558/1326f797-9883-4916-9de3-1939e7648d46">![Screenshot from 2024-06-07 13-39-45](https://github.com/flutter/flutter/assets/389558/8a24c87a-2b5e-4bdc-8347-339d850f5a82) | ![Screenshot from 2024-06-07 13-38-26](https://github.com/flutter/flutter/assets/389558/735248aa-8969-413b-a6cf-4f9b708f9ea8)</details></sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Web] Allow specifying the strategy on when to use <img> element to display images<br />
+  <sub>[#159917](https://github.com/flutter/flutter/pull/159917) merged on January 14, 2025 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/159917) over 1 month, 378 additions and 84 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Levi Lesches](https://github.com/Levi-Lesches), [jezell](https://github.com/jezell), [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated strings for incompatible Gradle or AGP version in `create` command<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) merged on January 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161223) over 6 days, 40 additions and 3 deletions in 2 files</sub><br />
