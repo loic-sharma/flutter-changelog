@@ -140,9 +140,6 @@
 * **[dev-lup](https://github.com/dev-lup)** &mdash; Fix: Ensure CupertinoAlertDialog divider spans full width and resolve<br />
   <sub>[#161490](https://github.com/flutter/flutter/pull/161490) opened on on January 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161490) 4 additions and 2 deletions in 1 file</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; Fix paths when running clang-tidy on git diffs<br />
-  <sub>[#161496](https://github.com/flutter/flutter/pull/161496) opened on on January 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161496) 11 additions and 6 deletions in 2 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
@@ -162,7 +159,7 @@
   <sub>[#161553](https://github.com/flutter/flutter/pull/161553) opened on on January 13, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/161553) 352 additions and 769 deletions in 8 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Clean up engine's analysis_options.yaml<br />
-  <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161554) 16 additions and 258 deletions in 3 files</sub><br />
+  <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161554) 16 additions and 236 deletions in 2 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update changelog for 3.27.2 release<br />
   <sub>[#161566](https://github.com/flutter/flutter/pull/161566) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161566) 12 additions and 0 deletions in 1 file</sub><br />
