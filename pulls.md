@@ -147,13 +147,13 @@
   <sub>[#161547](https://github.com/flutter/flutter/pull/161547) opened on on January 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161547) 1732 additions and 178 deletions in 47 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Clean up engine's analysis_options.yaml<br />
-  <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161554) 16 additions and 236 deletions in 2 files</sub><br />
+  <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161554) 16 additions and 251 deletions in 2 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute (2)<br />
   <sub>[#161577](https://github.com/flutter/flutter/pull/161577) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161577) 55 additions and 6 deletions in 5 files</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] remove no-longer-used repo deps<br />
-  <sub>[#161605](https://github.com/flutter/flutter/pull/161605) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161605) 10 additions and 40 deletions in 3 files</sub><br />
+  <sub>[#161605](https://github.com/flutter/flutter/pull/161605) opened on on January 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161605) 10 additions and 40 deletions in 3 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Invoke ninja at the root of the repo<br />
   <sub>[#161607](https://github.com/flutter/flutter/pull/161607) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161607) 27 additions and 2 deletions in 2 files</sub><br />
@@ -165,5 +165,5 @@
   <sub>[#161611](https://github.com/flutter/flutter/pull/161611) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161611) 3 additions and 61 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable duplicate `linux_host_engine_test`.<br />
-  <sub>[#161613](https://github.com/flutter/flutter/pull/161613) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161613) 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#161613](https://github.com/flutter/flutter/pull/161613) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161613) 5 additions and 5 deletions in 2 files</sub><br />
 
