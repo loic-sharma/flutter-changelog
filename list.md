@@ -637,8 +637,8 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `onSurfaceCreated` with `onSurfaceAvailable`.
-  <sub>[#8384](https://github.com/flutter/packages/pull/8384) merged on January 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8384) over 1 hour, 31 additions and 42 deletions in 8 files</sub>
-  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+  <sub>[#8384](https://github.com/flutter/packages/pull/8384) merged on January 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8384) over 1 hour, 31 additions and 42 deletions in 8 files</sub>
+  <sub>Reviewed by: [Olli Helenius](https://github.com/liff), [Camille Simon](https://github.com/camsim99)</sub>
 
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; [webview_flutter_wkwebview] Add a listener for the canGoBack property change on the iOS platform.
   <sub>[#8203](https://github.com/flutter/packages/pull/8203) merged on January 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/8203) over 1 month, 72 additions and 2 deletions in 4 files</sub>

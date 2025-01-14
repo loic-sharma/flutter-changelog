@@ -24,7 +24,7 @@
   <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/159455) 434 additions and 46 deletions in 4 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Report usage of `deferred-components` to analytics.<br />
-  <sub>[#159506](https://github.com/flutter/flutter/pull/159506) opened on on November 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159506) 87 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#159506](https://github.com/flutter/flutter/pull/159506) opened on on November 26, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159506) 86 additions and 0 deletions in 4 files</sub><br />
 
 * **[Krzysztof Czarnota](https://github.com/czarny)** &mdash; Enabled provisioning updates and device registration during building xcarchive.<br />
   <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
@@ -151,9 +151,6 @@
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Clean up engine's analysis_options.yaml<br />
   <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161554) 16 additions and 236 deletions in 2 files</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add focusable flag to NavigationDestination<br />
-  <sub>[#161568](https://github.com/flutter/flutter/pull/161568) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161568) 50 additions and 25 deletions in 2 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute (2)<br />
   <sub>[#161577](https://github.com/flutter/flutter/pull/161577) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161577) 55 additions and 6 deletions in 5 files</sub><br />
