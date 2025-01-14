@@ -7,7 +7,7 @@
 23 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete Options Width
-  <sub>[#143249](https://github.com/flutter/flutter/pull/143249) merged on January 14, 2025 &mdash; **Extra large:** [195 comments](https://github.com/flutter/flutter/pull/143249) over 11 months, 1688 additions and 263 deletions in 4 files</sub>
+  <sub>[#143249](https://github.com/flutter/flutter/pull/143249) merged on January 14, 2025 &mdash; **Extra large:** [196 comments](https://github.com/flutter/flutter/pull/143249) over 11 months, 1688 additions and 263 deletions in 4 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [LongCatIsLooong](https://github.com/LongCatIsLooong)</sub>
   <sub><details><summary>3 images...</summary><img width="797" alt="Screenshot 2024-02-09 at 1 29 09 PM" src="https://github.com/flutter/flutter/assets/389558/c49fa584-2550-41f6-ab80-6c20d01412b1"><img width="794" alt="Screenshot 2024-02-09 at 1 23 59 PM" src="https://github.com/flutter/flutter/assets/389558/1326f797-9883-4916-9de3-1939e7648d46">![Screenshot from 2024-06-07 13-39-45](https://github.com/flutter/flutter/assets/389558/8a24c87a-2b5e-4bdc-8347-339d850f5a82) | ![Screenshot from 2024-06-07 13-38-26](https://github.com/flutter/flutter/assets/389558/735248aa-8969-413b-a6cf-4f9b708f9ea8)</details></sub>
 
