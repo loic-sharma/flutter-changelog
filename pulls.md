@@ -173,3 +173,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused method<br />
   <sub>[#161572](https://github.com/flutter/flutter/pull/161572) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161572) 0 additions and 14 deletions in 2 files</sub><br />
 
+* **[Antonin Do Souto](https://github.com/avainfo)** &mdash; Fix: Added process_runner Dependency to Resolve Build Errors<br />
+  <sub>[#161581](https://github.com/flutter/flutter/pull/161581) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161581) 37 additions and 2 deletions in 4 files</sub><br />
+
