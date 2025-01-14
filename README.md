@@ -60,6 +60,10 @@
   <sub>[#160241](https://github.com/flutter/flutter/pull/160241) merged on January 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160241) over 1 month, 53 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [chunhtai](https://github.com/chunhtai)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `fetch `with `gclient sync`.<br />
+  <sub>[#161565](https://github.com/flutter/flutter/pull/161565) merged on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161565) over 16 hours, 3 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Udpate documentation on the third_party directories<br />
   <sub>[#161407](https://github.com/flutter/flutter/pull/161407) merged on January 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161407) over 3 days, 7 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -67,10 +71,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; update changelog for 3.27.2 release<br />
   <sub>[#161569](https://github.com/flutter/flutter/pull/161569) merged on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161569) over 17 hours, 12 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `fetch `with `gclient sync`.<br />
-  <sub>[#161565](https://github.com/flutter/flutter/pull/161565) merged on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161565) over 16 hours, 3 additions and 6 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move the analyzer_benchmark to Mac arm64 devicelab bots<br />
   <sub>[#161405](https://github.com/flutter/flutter/pull/161405) merged on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161405) over 4 days, 3 additions and 7 deletions in 1 file</sub><br />
