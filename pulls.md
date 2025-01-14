@@ -167,6 +167,3 @@
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute (2)<br />
   <sub>[#161577](https://github.com/flutter/flutter/pull/161577) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161577) 55 additions and 6 deletions in 5 files</sub><br />
 
-* **[Antonin Do Souto](https://github.com/avainfo)** &mdash; Fix: Added process_runner Dependency to Resolve Build Errors<br />
-  <sub>[#161581](https://github.com/flutter/flutter/pull/161581) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161581) 37 additions and 2 deletions in 4 files</sub><br />
-
