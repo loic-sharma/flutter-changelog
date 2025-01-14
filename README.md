@@ -4,7 +4,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-42 commits.
+43 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete Options Width<br />
   <sub>[#143249](https://github.com/flutter/flutter/pull/143249) merged on January 14, 2025 &mdash; **Extra large:** [196 comments](https://github.com/flutter/flutter/pull/143249) over 11 months, 1688 additions and 263 deletions in 4 files</sub><br />
@@ -44,9 +44,13 @@
   <sub>[#161409](https://github.com/flutter/flutter/pull/161409) merged on January 14, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/161409) over 4 days, 632 additions and 328 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Use wildcards<br />
-  <sub>[#161548](https://github.com/flutter/flutter/pull/161548) merged on January 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161548) over 7 hours, 118 additions and 115 deletions in 51 files</sub><br />
-  <sub>Reviewed by: [Phil Quitslund](https://github.com/pq)</sub><br />
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert base application name handling to kotlin source (start of FGP kt conversion)<br />
+  <sub>[#155963](https://github.com/flutter/flutter/pull/155963) merged on January 13, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/155963) over 3 months, 173 additions and 30 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Propagate environment variables when `flutter drive` is invoked.<br />
+  <sub>[#161452](https://github.com/flutter/flutter/pull/161452) merged on January 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161452) over 2 days, 101 additions and 23 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate DisplayList unit tests to DL/Impeller geometry classes<br />
   <sub>[#161453](https://github.com/flutter/flutter/pull/161453) merged on January 13, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/161453) over 2 days, 1926 additions and 1882 deletions in 25 files</sub><br />
@@ -60,13 +64,9 @@
   <sub>[#161599](https://github.com/flutter/flutter/pull/161599) merged on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161599) over 1 hour, 48 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert base application name handling to kotlin source (start of FGP kt conversion)<br />
-  <sub>[#155963](https://github.com/flutter/flutter/pull/155963) merged on January 13, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/155963) over 3 months, 173 additions and 30 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Propagate environment variables when `flutter drive` is invoked.<br />
-  <sub>[#161452](https://github.com/flutter/flutter/pull/161452) merged on January 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161452) over 2 days, 101 additions and 23 deletions in 8 files</sub><br />
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Use wildcards<br />
+  <sub>[#161548](https://github.com/flutter/flutter/pull/161548) merged on January 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161548) over 7 hours, 118 additions and 115 deletions in 51 files</sub><br />
+  <sub>Reviewed by: [Phil Quitslund](https://github.com/pq)</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute<br />
   <sub>[#160241](https://github.com/flutter/flutter/pull/160241) merged on January 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160241) over 1 month, 53 additions and 4 deletions in 4 files</sub><br />
@@ -108,29 +108,37 @@
   <sub>[#161496](https://github.com/flutter/flutter/pull/161496) merged on January 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161496) over 23 hours, 11 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web:a11y] treat empty tappables as buttons<br />
-  <sub>[#161360](https://github.com/flutter/flutter/pull/161360) merged on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161360) over 4 days, 54 additions and 66 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update guidance on prebuilt artifacts.<br />
+  <sub>[#161251](https://github.com/flutter/flutter/pull/161251) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161251) over 6 days, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix GIF decode failure<br />
-  <sub>[#161536](https://github.com/flutter/flutter/pull/161536) merged on January 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161536) over 1 day, 123 additions and 25 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] remove no-longer-used repo deps<br />
+  <sub>[#161605](https://github.com/flutter/flutter/pull/161605) merged on January 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161605) over 3 hours, 10 additions and 40 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Context menu button callback docs clarification<br />
+  <sub>[#161451](https://github.com/flutter/flutter/pull/161451) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161451) over 2 days, 7 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove API 30 restriction for SurfaceControl testing.<br />
   <sub>[#161438](https://github.com/flutter/flutter/pull/161438) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161438) over 2 days, 7 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Copy `linux_host_engine` as `linux_host_engine_test`, removing `archives: [...]`.<br />
-  <sub>[#161532](https://github.com/flutter/flutter/pull/161532) merged on January 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/161532) over 4 hours, 174 additions and 7 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Update guidance on prebuilt artifacts.<br />
-  <sub>[#161251](https://github.com/flutter/flutter/pull/161251) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161251) over 6 days, 3 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `WEB_SHARD_COUNT`, which no longer exists post-Cirrus.<br />
+  <sub>[#161527](https://github.com/flutter/flutter/pull/161527) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161527) over 1 hour, 6 additions and 11 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove last two references to Cirrus CI.<br />
   <sub>[#161530](https://github.com/flutter/flutter/pull/161530) merged on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161530) over 5 hours, 0 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Copy `linux_host_engine` as `linux_host_engine_test`, removing `archives: [...]`.<br />
+  <sub>[#161532](https://github.com/flutter/flutter/pull/161532) merged on January 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/161532) over 4 hours, 174 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix GIF decode failure<br />
+  <sub>[#161536](https://github.com/flutter/flutter/pull/161536) merged on January 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161536) over 1 day, 123 additions and 25 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Mark `Mac_mokey microbenchmarks` as flakey<br />
   <sub>[#161550](https://github.com/flutter/flutter/pull/161550) merged on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161550) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
@@ -144,21 +152,13 @@
   <sub>[#161450](https://github.com/flutter/flutter/pull/161450) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161450) over 3 days, 31 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Context menu button callback docs clarification<br />
-  <sub>[#161451](https://github.com/flutter/flutter/pull/161451) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161451) over 2 days, 7 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `WEB_SHARD_COUNT`, which no longer exists post-Cirrus.<br />
-  <sub>[#161527](https://github.com/flutter/flutter/pull/161527) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161527) over 1 hour, 6 additions and 11 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web:a11y] treat empty tappables as buttons<br />
+  <sub>[#161360](https://github.com/flutter/flutter/pull/161360) merged on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161360) over 4 days, 54 additions and 66 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Add route settings to CupertinoSheetRoute<br />
   <sub>[#161528](https://github.com/flutter/flutter/pull/161528) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161528) over 5 hours, 41 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
-* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to  Version 3.7.0-323.0.dev<br />
-  <sub>[#161567](https://github.com/flutter/flutter/pull/161567) merged on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161567) over 5 hours, 6 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Update package revisions to latest<br />
   <sub>[#161525](https://github.com/flutter/flutter/pull/161525) merged on January 14, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161525) over 1 day, 188 additions and 188 deletions in 64 files</sub><br />
@@ -175,6 +175,10 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update InputDecoration.border documentation<br />
   <sub>[#161415](https://github.com/flutter/flutter/pull/161415) merged on January 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161415) over 3 days, 10 additions and 7 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to  Version 3.7.0-323.0.dev<br />
+  <sub>[#161567](https://github.com/flutter/flutter/pull/161567) merged on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161567) over 5 hours, 6 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 ### January 4, 2025 to January 10, 2025
 
