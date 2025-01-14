@@ -101,9 +101,6 @@
 * **[q1](https://github.com/ahyangnb)** &mdash; [fix] Scroll Listener does not trigger when keyboard is dismissed #160740.<br />
   <sub>[#161414](https://github.com/flutter/flutter/pull/161414) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161414) 4 additions and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update InputDecoration.border documentation<br />
-  <sub>[#161415](https://github.com/flutter/flutter/pull/161415) opened on on January 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161415) 10 additions and 7 deletions in 2 files</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `felt` link to point to flutter repo instead of the engine repo<br />
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
 
