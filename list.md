@@ -4,7 +4,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-27 commits.
+28 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete Options Width
   <sub>[#143249](https://github.com/flutter/flutter/pull/143249) merged on January 14, 2025 &mdash; **Extra large:** [196 comments](https://github.com/flutter/flutter/pull/143249) over 11 months, 1688 additions and 263 deletions in 4 files</sub>
@@ -107,6 +107,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove API 30 restriction for SurfaceControl testing.
   <sub>[#161438](https://github.com/flutter/flutter/pull/161438) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161438) over 2 days, 7 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Harlen Batagelo](https://github.com/hbatagelo)** &mdash; Fix crash when closing a window with `Alt+F4` in multi-win Flutter on Windows
+  <sub>[#161375](https://github.com/flutter/flutter/pull/161375) merged on January 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161375) over 5 days, 35 additions and 3 deletions in 2 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update InputDecoration.border documentation
   <sub>[#161415](https://github.com/flutter/flutter/pull/161415) merged on January 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161415) over 3 days, 10 additions and 7 deletions in 2 files</sub>
