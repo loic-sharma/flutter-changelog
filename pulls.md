@@ -140,9 +140,6 @@
 * **[Krisna Pranav](https://github.com/krishpranav)** &mdash; 🌟 Add Infinite Scrolling Support to CarouselView for Seamless Experience 🚀<br />
   <sub>[#161506](https://github.com/flutter/flutter/pull/161506) opened on on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161506) 93 additions and 43 deletions in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Update package revisions to latest<br />
-  <sub>[#161525](https://github.com/flutter/flutter/pull/161525) opened on on January 13, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161525) 188 additions and 188 deletions in 64 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML from bots, test suites and e2e tests<br />
   <sub>[#161537](https://github.com/flutter/flutter/pull/161537) opened on on January 13, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161537) 32 additions and 285 deletions in 8 files</sub><br />
 
@@ -160,9 +157,6 @@
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; update changelog for 3.27.2 release<br />
   <sub>[#161569](https://github.com/flutter/flutter/pull/161569) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161569) 12 additions and 0 deletions in 1 file</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove unused method<br />
-  <sub>[#161572](https://github.com/flutter/flutter/pull/161572) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161572) 0 additions and 14 deletions in 2 files</sub><br />
 
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute (2)<br />
   <sub>[#161577](https://github.com/flutter/flutter/pull/161577) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161577) 55 additions and 6 deletions in 5 files</sub><br />
