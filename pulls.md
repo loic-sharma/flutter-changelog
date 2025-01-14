@@ -152,9 +152,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Clean up engine's analysis_options.yaml<br />
   <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161554) 16 additions and 236 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update changelog for 3.27.2 release<br />
-  <sub>[#161566](https://github.com/flutter/flutter/pull/161566) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161566) 12 additions and 0 deletions in 1 file</sub><br />
-
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add focusable flag to NavigationDestination<br />
   <sub>[#161568](https://github.com/flutter/flutter/pull/161568) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161568) 50 additions and 25 deletions in 2 files</sub><br />
 
