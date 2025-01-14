@@ -4,7 +4,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-23 commits.
+24 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete Options Width<br />
   <sub>[#143249](https://github.com/flutter/flutter/pull/143249) merged on January 14, 2025 &mdash; **Extra large:** [196 comments](https://github.com/flutter/flutter/pull/143249) over 11 months, 1688 additions and 263 deletions in 4 files</sub><br />
@@ -27,6 +27,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update error message for when leading/trailing width exceeds `ListTile` width and add missing test<br />
   <sub>[#161091](https://github.com/flutter/flutter/pull/161091) merged on January 13, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/161091) over 1 week, 60 additions and 12 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Use wildcards<br />
+  <sub>[#161548](https://github.com/flutter/flutter/pull/161548) merged on January 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161548) over 7 hours, 118 additions and 115 deletions in 51 files</sub><br />
+  <sub>Reviewed by: [Phil Quitslund](https://github.com/pq)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Migrate DisplayList unit tests to DL/Impeller geometry classes<br />
   <sub>[#161453](https://github.com/flutter/flutter/pull/161453) merged on January 13, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/161453) over 2 days, 1926 additions and 1882 deletions in 25 files</sub><br />
