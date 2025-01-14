@@ -4,7 +4,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-15 commits.
+16 commits.
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated strings for incompatible Gradle or AGP version in `create` command<br />
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) merged on January 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161223) over 6 days, 40 additions and 3 deletions in 2 files</sub><br />
@@ -42,6 +42,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Udpate documentation on the third_party directories<br />
   <sub>[#161407](https://github.com/flutter/flutter/pull/161407) merged on January 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161407) over 3 days, 7 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove last two references to Cirrus CI.<br />
+  <sub>[#161530](https://github.com/flutter/flutter/pull/161530) merged on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161530) over 5 hours, 0 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Mark `Mac_mokey microbenchmarks` as flakey<br />
   <sub>[#161550](https://github.com/flutter/flutter/pull/161550) merged on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161550) over 1 hour, 1 addition and 0 deletions in 1 file</sub><br />
