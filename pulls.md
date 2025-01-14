@@ -155,9 +155,6 @@
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add focusable flag to NavigationDestination<br />
   <sub>[#161568](https://github.com/flutter/flutter/pull/161568) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161568) 50 additions and 25 deletions in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; update changelog for 3.27.2 release<br />
-  <sub>[#161569](https://github.com/flutter/flutter/pull/161569) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161569) 12 additions and 0 deletions in 1 file</sub><br />
-
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute (2)<br />
   <sub>[#161577](https://github.com/flutter/flutter/pull/161577) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161577) 55 additions and 6 deletions in 5 files</sub><br />
 
@@ -166,4 +163,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Invoke ninja at the root of the repo<br />
   <sub>[#161607](https://github.com/flutter/flutter/pull/161607) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161607) 27 additions and 2 deletions in 2 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Skia to e7b8d078851f<br />
+  <sub>[#161609](https://github.com/flutter/flutter/pull/161609) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161609) 1 addition and 1 deletion in 1 file</sub><br />
 
