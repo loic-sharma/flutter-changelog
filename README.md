@@ -4,7 +4,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-24 commits.
+25 commits.
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete Options Width<br />
   <sub>[#143249](https://github.com/flutter/flutter/pull/143249) merged on January 14, 2025 &mdash; **Extra large:** [196 comments](https://github.com/flutter/flutter/pull/143249) over 11 months, 1688 additions and 263 deletions in 4 files</sub><br />
@@ -103,6 +103,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove API 30 restriction for SurfaceControl testing.<br />
   <sub>[#161438](https://github.com/flutter/flutter/pull/161438) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161438) over 2 days, 7 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to  Version 3.7.0-323.0.dev<br />
+  <sub>[#161567](https://github.com/flutter/flutter/pull/161567) merged on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161567) over 5 hours, 6 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 ### January 4, 2025 to January 10, 2025
 
