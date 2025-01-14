@@ -161,3 +161,6 @@
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute (2)<br />
   <sub>[#161577](https://github.com/flutter/flutter/pull/161577) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161577) 55 additions and 6 deletions in 5 files</sub><br />
 
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] remove no-longer-used repo deps<br />
+  <sub>[#161605](https://github.com/flutter/flutter/pull/161605) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161605) 10 additions and 40 deletions in 3 files</sub><br />
+
