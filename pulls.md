@@ -158,15 +158,9 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add support for Metal and Vulkan rendering.<br />
   <sub>[#161547](https://github.com/flutter/flutter/pull/161547) opened on on January 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161547) 1732 additions and 178 deletions in 47 files</sub><br />
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Mark `Mac_mokey microbenchmarks` as flakey<br />
-  <sub>[#161550](https://github.com/flutter/flutter/pull/161550) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161550) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] remove obsolete use of Skia goemetry objects in DL utils<br />
   <sub>[#161553](https://github.com/flutter/flutter/pull/161553) opened on on January 13, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/161553) 352 additions and 769 deletions in 8 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Clean up engine's analysis_options.yaml<br />
-  <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161554) 16 additions and 236 deletions in 2 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; WIP<br />
-  <sub>[#161560](https://github.com/flutter/flutter/pull/161560) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161560) 36 additions and 20 deletions in 8 files</sub><br />
+  <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161554) 16 additions and 258 deletions in 3 files</sub><br />
 

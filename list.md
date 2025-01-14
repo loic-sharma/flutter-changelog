@@ -4,7 +4,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-14 commits.
+15 commits.
 
 * **[Kishan Dhankecha](https://github.com/kishan-dhankecha)** &mdash; Fixed repeated strings for incompatible Gradle or AGP version in `create` command
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) merged on January 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161223) over 6 days, 40 additions and 3 deletions in 2 files</sub>
@@ -42,6 +42,10 @@
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Udpate documentation on the third_party directories
   <sub>[#161407](https://github.com/flutter/flutter/pull/161407) merged on January 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161407) over 3 days, 7 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Mark `Mac_mokey microbenchmarks` as flakey
+  <sub>[#161550](https://github.com/flutter/flutter/pull/161550) merged on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161550) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Explain more specifically how to use `flutter drive`/what it does
   <sub>[#161450](https://github.com/flutter/flutter/pull/161450) merged on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161450) over 3 days, 31 additions and 1 deletion in 2 files</sub>
