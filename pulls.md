@@ -167,6 +167,3 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Invoke ninja at the root of the repo<br />
   <sub>[#161607](https://github.com/flutter/flutter/pull/161607) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161607) 27 additions and 2 deletions in 2 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Check that localization files of stocks app are up-to-date<br />
-  <sub>[#161608](https://github.com/flutter/flutter/pull/161608) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161608) 48 additions and 1 deletion in 3 files</sub><br />
-
