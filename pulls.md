@@ -105,19 +105,13 @@
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 70 additions and 6 deletions in 2 files</sub><br />
 
 * **[Antonin Do Souto](https://github.com/avainfo)** &mdash; Add headerTextColor and headerNavigationButtonColor to DatePickerThemeData<br />
-  <sub>[#161458](https://github.com/flutter/flutter/pull/161458) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161458) 36 additions and 2 deletions in 3 files</sub><br />
+  <sub>[#161458](https://github.com/flutter/flutter/pull/161458) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161458) 36 additions and 2 deletions in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove "Mac Designed for iPad" as a discoverable `flutter run` device<br />
   <sub>[#161459](https://github.com/flutter/flutter/pull/161459) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161459) 24 additions and 106 deletions in 7 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Add enabled property for search anchor named constructor<br />
-  <sub>[#161468](https://github.com/flutter/flutter/pull/161468) opened on on January 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161468) 29 additions and 0 deletions in 2 files</sub><br />
-
 * **[Krisna Pranav](https://github.com/krishpranav)** &mdash; ✨ Implement animateToItem Method in CarouselController to Animate to Specific Item<br />
   <sub>[#161472](https://github.com/flutter/flutter/pull/161472) opened on on January 11, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161472) 314 additions and 162 deletions in 2 files</sub><br />
-
-* **[Affan Shaikhsurab](https://github.com/AffanShaikhsurab)** &mdash; [DatePickerThemeData] Add Subheader Color Customization<br />
-  <sub>[#161483](https://github.com/flutter/flutter/pull/161483) opened on on January 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161483) 25 additions and 3 deletions in 3 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
   <sub>[#161487](https://github.com/flutter/flutter/pull/161487) opened on on January 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161487) 59 additions and 40 deletions in 2 files</sub><br />
@@ -130,9 +124,6 @@
 
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
-
-* **[Krisna Pranav](https://github.com/krishpranav)** &mdash; 🌟 Add Infinite Scrolling Support to CarouselView for Seamless Experience 🚀<br />
-  <sub>[#161506](https://github.com/flutter/flutter/pull/161506) opened on on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161506) 93 additions and 43 deletions in 2 files</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add support for Metal and Vulkan rendering.<br />
   <sub>[#161547](https://github.com/flutter/flutter/pull/161547) opened on on January 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161547) 1732 additions and 178 deletions in 47 files</sub><br />
