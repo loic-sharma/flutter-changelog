@@ -667,7 +667,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-5 commits.
+6 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation, camera_avfoundation] never overwrite but only upgrade audio session category
   <sub>[#7143](https://github.com/flutter/packages/pull/7143) merged on January 13, 2025 &mdash; **Small:** [100 comments](https://github.com/flutter/packages/pull/7143) over 6 months, 162 additions and 16 deletions in 10 files</sub>
@@ -688,6 +688,10 @@
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; [two_dimensional_scrollables] prepare for `const AnimationStyle`
   <sub>[#8397](https://github.com/flutter/packages/pull/8397) merged on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8397) over 5 days, 6 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 17025dd88227 to 68415ad1d920 (4 revisions)
+  <sub>[#8434](https://github.com/flutter/packages/pull/8434) merged on January 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8434) over 2 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 ### January 4, 2025 to January 10, 2025
 
