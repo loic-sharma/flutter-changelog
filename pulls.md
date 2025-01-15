@@ -150,7 +150,7 @@
   <sub>[#161607](https://github.com/flutter/flutter/pull/161607) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161607) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Skia to e7b8d078851f<br />
-  <sub>[#161609](https://github.com/flutter/flutter/pull/161609) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161609) 7 additions and 11 deletions in 3 files</sub><br />
+  <sub>[#161609](https://github.com/flutter/flutter/pull/161609) opened on on January 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161609) 9 additions and 12 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML build artifacts<br />
   <sub>[#161611](https://github.com/flutter/flutter/pull/161611) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161611) 3 additions and 61 deletions in 1 file</sub><br />
