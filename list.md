@@ -334,7 +334,7 @@
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Provide monitor information.
-  <sub>[#161359](https://github.com/flutter/flutter/pull/161359) merged on January 12, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161359) over 3 days, 367 additions and 101 deletions in 17 files</sub>
+  <sub>[#161359](https://github.com/flutter/flutter/pull/161359) merged on January 12, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/161359) over 3 days, 367 additions and 101 deletions in 17 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Update `TextEditingController.text` documentation to recommend against using it in production code
