@@ -140,9 +140,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add support for Metal and Vulkan rendering.<br />
   <sub>[#161547](https://github.com/flutter/flutter/pull/161547) opened on on January 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161547) 1732 additions and 178 deletions in 47 files</sub><br />
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Clean up engine's analysis_options.yaml<br />
-  <sub>[#161554](https://github.com/flutter/flutter/pull/161554) opened on on January 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161554) 16 additions and 251 deletions in 2 files</sub><br />
-
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute (2)<br />
   <sub>[#161577](https://github.com/flutter/flutter/pull/161577) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161577) 55 additions and 6 deletions in 5 files</sub><br />
 
