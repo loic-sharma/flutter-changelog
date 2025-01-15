@@ -42,7 +42,7 @@
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; DO NOT MERGE: Enable `explicit-package-dependencies`.<br />
-  <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/160289) 203 additions and 199 deletions in 5 files</sub><br />
+  <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/160289) 203 additions and 199 deletions in 5 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
   <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Extra large:** [43 comments](https://github.com/flutter/flutter/pull/160354) 1370 additions and 574 deletions in 93 files</sub><br />
