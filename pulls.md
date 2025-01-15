@@ -137,9 +137,6 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add support for Metal and Vulkan rendering.<br />
   <sub>[#161547](https://github.com/flutter/flutter/pull/161547) opened on on January 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161547) 1732 additions and 178 deletions in 47 files</sub><br />
 
-* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute (2)<br />
-  <sub>[#161577](https://github.com/flutter/flutter/pull/161577) opened on on January 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161577) 55 additions and 6 deletions in 5 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Web][Engine] Skip updating selection range during composition<br />
   <sub>[#161593](https://github.com/flutter/flutter/pull/161593) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161593) 19 additions and 7 deletions in 2 files</sub><br />
 
