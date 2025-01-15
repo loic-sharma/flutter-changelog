@@ -15,7 +15,7 @@
   <sub>[#157871](https://github.com/flutter/flutter/pull/157871) opened on on October 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/157871) 384 additions and 67 deletions in 12 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
-  <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158020) 29 additions and 16 deletions in 1 file</sub><br />
+  <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158020) 29 additions and 18 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; convert `resolve_dependencies.gradle` to `resolve_dependencies.gradle.kts`<br />
   <sub>[#159399](https://github.com/flutter/flutter/pull/159399) opened on on November 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159399) 96 additions and 69 deletions in 4 files</sub><br />
@@ -99,7 +99,7 @@
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration<br />
-  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/161424) 74 additions and 24 deletions in 2 files</sub><br />
+  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/161424) 73 additions and 24 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; When parsing flavors, handle Xcode build configurations that are not lowercase<br />
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 70 additions and 6 deletions in 2 files</sub><br />
