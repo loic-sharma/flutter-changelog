@@ -667,11 +667,15 @@
 
 ### January 11, 2025 to January 17, 2025
 
-4 commits.
+5 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation, camera_avfoundation] never overwrite but only upgrade audio session category
   <sub>[#7143](https://github.com/flutter/packages/pull/7143) merged on January 13, 2025 &mdash; **Small:** [100 comments](https://github.com/flutter/packages/pull/7143) over 6 months, 162 additions and 16 deletions in 10 files</sub>
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation] fix playback speed resetting
+  <sub>[#7657](https://github.com/flutter/packages/pull/7657) merged on January 15, 2025 &mdash; **Small:** [34 comments](https://github.com/flutter/packages/pull/7657) over 3 months, 81 additions and 23 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Olli Helenius](https://github.com/liff)** &mdash; [camera] Add API support query for image streaming
   <sub>[#8250](https://github.com/flutter/packages/pull/8250) merged on January 13, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/packages/pull/8250) over 1 month, 40 additions and 6 deletions in 12 files</sub>
