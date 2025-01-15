@@ -170,3 +170,6 @@
 * **[Seth Fuller](https://github.com/sethmfuller)** &mdash; Fix incorrect [enabled] documentation<br />
   <sub>[#161650](https://github.com/flutter/flutter/pull/161650) opened on on January 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161650) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Migrate from SkRSXform to Impeller RSTransform<br />
+  <sub>[#161652](https://github.com/flutter/flutter/pull/161652) opened on on January 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161652) 437 additions and 177 deletions in 42 files</sub><br />
+
