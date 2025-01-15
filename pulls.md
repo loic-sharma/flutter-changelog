@@ -167,3 +167,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_keyboard_manager_handle_event async<br />
   <sub>[#161637](https://github.com/flutter/flutter/pull/161637) opened on on January 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161637) 207 additions and 137 deletions in 4 files</sub><br />
 
+* **[Seth Fuller](https://github.com/sethmfuller)** &mdash; Fix incorrect [enabled] documentation<br />
+  <sub>[#161650](https://github.com/flutter/flutter/pull/161650) opened on on January 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161650) 1 addition and 1 deletion in 1 file</sub><br />
+
