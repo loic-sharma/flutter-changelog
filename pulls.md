@@ -176,3 +176,6 @@
 * **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix FadeForwardsPageTransitionsBuilder incompatibility with transparent routes<br />
   <sub>[#161662](https://github.com/flutter/flutter/pull/161662) opened on on January 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161662) 40 additions and 35 deletions in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Only create one <style> for SelectableRegion<br />
+  <sub>[#161682](https://github.com/flutter/flutter/pull/161682) opened on on January 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161682) 123 additions and 49 deletions in 3 files</sub><br />
+
