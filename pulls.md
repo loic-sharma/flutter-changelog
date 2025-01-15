@@ -152,3 +152,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Only create one <style> for SelectableRegion<br />
   <sub>[#161682](https://github.com/flutter/flutter/pull/161682) opened on on January 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161682) 232 additions and 148 deletions in 5 files</sub><br />
 
+* **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix DropDownMenu initialSelection not reflecting label change<br />
+  <sub>[#161692](https://github.com/flutter/flutter/pull/161692) opened on on January 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161692) 6 additions and 10 deletions in 1 file</sub><br />
+
