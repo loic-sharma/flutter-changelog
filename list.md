@@ -850,7 +850,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-5 commits.
+6 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Add More widgets under 'Animation and motion' in Widget Catalogue
   <sub>[#11586](https://github.com/flutter/website/pull/11586) merged on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11586) over 7 hours, 35 additions and 0 deletions in 1 file</sub>
@@ -859,6 +859,10 @@
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update result.md
   <sub>[#11585](https://github.com/flutter/website/pull/11585) merged on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11585) over 1 day, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Nils van Rijsinge](https://github.com/NilsPvR)** &mdash; Remove explanation for service worker settings
+  <sub>[#11592](https://github.com/flutter/website/pull/11592) merged on January 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11592) over 8 hours, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding AI to the main tabs
   <sub>[#11584](https://github.com/flutter/website/pull/11584) merged on January 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11584) over 4 days, 1 addition and 0 deletions in 1 file</sub>
