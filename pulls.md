@@ -173,3 +173,6 @@
 * **[Jack](https://github.com/vizakenjack)** &mdash; Fix incorrect foregroundColor of CupertinoButton<br />
   <sub>[#161660](https://github.com/flutter/flutter/pull/161660) opened on on January 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161660) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[TheLastFlame](https://github.com/TheLastFlame)** &mdash; Fix FadeForwardsPageTransitionsBuilder incompatibility with transparent routes<br />
+  <sub>[#161662](https://github.com/flutter/flutter/pull/161662) opened on on January 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161662) 40 additions and 35 deletions in 1 file</sub><br />
+
