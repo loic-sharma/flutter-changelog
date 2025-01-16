@@ -18,7 +18,7 @@
   <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/158020) 31 additions and 19 deletions in 1 file</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; convert `resolve_dependencies.gradle` to `resolve_dependencies.gradle.kts`<br />
-  <sub>[#159399](https://github.com/flutter/flutter/pull/159399) opened on on November 24, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/159399) 96 additions and 69 deletions in 4 files</sub><br />
+  <sub>[#159399](https://github.com/flutter/flutter/pull/159399) opened on on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159399) 96 additions and 69 deletions in 4 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete keyboard navigation<br />
   <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/159455) 448 additions and 46 deletions in 4 files</sub><br />
