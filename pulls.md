@@ -129,7 +129,7 @@
   <sub>[#161607](https://github.com/flutter/flutter/pull/161607) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161607) 27 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML build artifacts<br />
-  <sub>[#161611](https://github.com/flutter/flutter/pull/161611) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161611) 3 additions and 61 deletions in 1 file</sub><br />
+  <sub>[#161611](https://github.com/flutter/flutter/pull/161611) opened on on January 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161611) 3 additions and 61 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable duplicate `linux_host_engine_test`.<br />
   <sub>[#161613](https://github.com/flutter/flutter/pull/161613) opened on on January 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161613) 26 additions and 6 deletions in 2 files</sub><br />
@@ -151,4 +151,7 @@
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove spam from test output<br />
   <sub>[#161774](https://github.com/flutter/flutter/pull/161774) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161774) 106 additions and 61 deletions in 16 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove deprecated web-only APIs from dart:ui<br />
+  <sub>[#161775](https://github.com/flutter/flutter/pull/161775) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161775) 2 additions and 288 deletions in 7 files</sub><br />
 
