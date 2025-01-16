@@ -155,3 +155,6 @@
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu.initialSelection` not reflecting `label` change<br />
   <sub>[#161777](https://github.com/flutter/flutter/pull/161777) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161777) 37 additions and 10 deletions in 2 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update social links in readme<br />
+  <sub>[#161778](https://github.com/flutter/flutter/pull/161778) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161778) 3 additions and 3 deletions in 1 file</sub><br />
+
