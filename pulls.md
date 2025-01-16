@@ -138,7 +138,7 @@
   <sub>[#161682](https://github.com/flutter/flutter/pull/161682) opened on on January 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161682) 232 additions and 148 deletions in 5 files</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix DropdownMenu.initialSelection not reflecting label change<br />
-  <sub>[#161692](https://github.com/flutter/flutter/pull/161692) opened on on January 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161692) 5 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#161692](https://github.com/flutter/flutter/pull/161692) opened on on January 15, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/161692) 842 additions and 1871 deletions in 57 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu icon and item icon misalignment<br />
   <sub>[#161717](https://github.com/flutter/flutter/pull/161717) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161717) 62 additions and 2 deletions in 2 files</sub><br />
