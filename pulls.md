@@ -149,3 +149,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu icon and item icon misalignment<br />
   <sub>[#161717](https://github.com/flutter/flutter/pull/161717) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161717) 62 additions and 2 deletions in 2 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Make pressing and moving on CupertinoButton closer to native behavior.<br />
+  <sub>[#161731](https://github.com/flutter/flutter/pull/161731) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161731) 213 additions and 10 deletions in 6 files</sub><br />
+
