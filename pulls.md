@@ -149,6 +149,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Adreno denylist entries.<br />
   <sub>[#161740](https://github.com/flutter/flutter/pull/161740) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161740) 9 additions and 19 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when mips are disabled, also disable from sampler options.<br />
-  <sub>[#161765](https://github.com/flutter/flutter/pull/161765) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161765) 64 additions and 4 deletions in 6 files</sub><br />
-
