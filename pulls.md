@@ -93,7 +93,7 @@
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration<br />
-  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Medium:** [21 comments](https://github.com/flutter/flutter/pull/161424) 190 additions and 139 deletions in 2 files</sub><br />
+  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/161424) 54 additions and 12 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; When parsing flavors, handle Xcode build configurations that are not lowercase<br />
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 70 additions and 6 deletions in 2 files</sub><br />
@@ -137,9 +137,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Only create one <style> for SelectableRegion<br />
   <sub>[#161682](https://github.com/flutter/flutter/pull/161682) opened on on January 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161682) 232 additions and 148 deletions in 5 files</sub><br />
 
-* **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix DropdownMenu.initialSelection not reflecting label change<br />
-  <sub>[#161692](https://github.com/flutter/flutter/pull/161692) opened on on January 15, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/161692) 843 additions and 1872 deletions in 58 files</sub><br />
-
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu icon and item icon misalignment<br />
   <sub>[#161717](https://github.com/flutter/flutter/pull/161717) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161717) 62 additions and 2 deletions in 2 files</sub><br />
 
@@ -154,4 +151,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when mips are disabled, also disable from sampler options.<br />
   <sub>[#161765](https://github.com/flutter/flutter/pull/161765) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161765) 64 additions and 4 deletions in 6 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use 3 fences to synchronize AHB swapchains (like we do for KHR).<br />
+  <sub>[#161767](https://github.com/flutter/flutter/pull/161767) opened on on January 16, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161767) 248 additions and 63 deletions in 5 files</sub><br />
 
