@@ -149,3 +149,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Adreno denylist entries.<br />
   <sub>[#161740](https://github.com/flutter/flutter/pull/161740) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161740) 9 additions and 19 deletions in 2 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove spam from test output<br />
+  <sub>[#161774](https://github.com/flutter/flutter/pull/161774) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161774) 106 additions and 61 deletions in 16 files</sub><br />
+

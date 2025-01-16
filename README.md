@@ -854,7 +854,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-6 commits.
+7 commits.
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Add More widgets under 'Animation and motion' in Widget Catalogue<br />
   <sub>[#11586](https://github.com/flutter/website/pull/11586) merged on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11586) over 7 hours, 35 additions and 0 deletions in 1 file</sub><br />
@@ -862,6 +862,10 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update result.md<br />
   <sub>[#11585](https://github.com/flutter/website/pull/11585) merged on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11585) over 1 day, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Changing a note to a warning and changing master -> main<br />
+  <sub>[#11593](https://github.com/flutter/website/pull/11593) merged on January 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11593) over 1 day, 57 additions and 38 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Nils van Rijsinge](https://github.com/NilsPvR)** &mdash; Remove explanation for service worker settings<br />
