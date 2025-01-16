@@ -96,7 +96,7 @@
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration<br />
-  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/161424) 190 additions and 139 deletions in 2 files</sub><br />
+  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/161424) 190 additions and 139 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; When parsing flavors, handle Xcode build configurations that are not lowercase<br />
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 70 additions and 6 deletions in 2 files</sub><br />
@@ -114,7 +114,7 @@
   <sub>[#161488](https://github.com/flutter/flutter/pull/161488) opened on on January 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161488) 79 additions and 24 deletions in 2 files</sub><br />
 
 * **[dev-lup](https://github.com/dev-lup)** &mdash; Fix: Ensure CupertinoAlertDialog divider spans full width and resolve<br />
-  <sub>[#161490](https://github.com/flutter/flutter/pull/161490) opened on on January 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161490) 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#161490](https://github.com/flutter/flutter/pull/161490) opened on on January 12, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161490) 45 additions and 2 deletions in 2 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
@@ -151,4 +151,7 @@
 
 * **[yim](https://github.com/yiiim)** &mdash; Make pressing and moving on CupertinoButton closer to native behavior.<br />
   <sub>[#161731](https://github.com/flutter/flutter/pull/161731) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161731) 213 additions and 10 deletions in 6 files</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; Set `dart.flutterSdkPath` in vscode's settings.json.<br />
+  <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
