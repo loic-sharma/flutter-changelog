@@ -56,9 +56,6 @@
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Fix felt build's ninja invocation after monorepo<br />
-  <sub>[#160919](https://github.com/flutter/flutter/pull/160919) opened on on December 27, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160919) 41 additions and 4 deletions in 7 files</sub><br />
-
 * **[Pranesh Pyara Shrestha](https://github.com/praneshp1org)** &mdash; Added equalWidthPerRow option to Wrap widget<br />
   <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
 
@@ -142,9 +139,6 @@
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix DropdownMenu.initialSelection not reflecting label change<br />
   <sub>[#161692](https://github.com/flutter/flutter/pull/161692) opened on on January 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161692) 5 additions and 9 deletions in 1 file</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impellerc] correctly pad arrays of vec3s in reflector.<br />
-  <sub>[#161697](https://github.com/flutter/flutter/pull/161697) opened on on January 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161697) 53 additions and 5 deletions in 4 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu icon and item icon misalignment<br />
   <sub>[#161717](https://github.com/flutter/flutter/pull/161717) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161717) 62 additions and 2 deletions in 2 files</sub><br />
