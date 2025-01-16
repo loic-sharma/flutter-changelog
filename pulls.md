@@ -122,7 +122,7 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add support for Metal and Vulkan rendering.<br />
   <sub>[#161547](https://github.com/flutter/flutter/pull/161547) opened on on January 13, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161547) 1732 additions and 178 deletions in 47 files</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Web][Engine] Skip updating selection range during composition<br />
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [Engine][Web] Skip updating selection range during composition<br />
   <sub>[#161593](https://github.com/flutter/flutter/pull/161593) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161593) 19 additions and 7 deletions in 2 files</sub><br />
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add timeouts and retries to calls to `xcrun xcodebuild -list`<br />
@@ -136,9 +136,6 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable duplicate `linux_host_engine_test`.<br />
   <sub>[#161613](https://github.com/flutter/flutter/pull/161613) opened on on January 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161613) 23 additions and 6 deletions in 2 files</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Make fl_keyboard_manager_handle_event async<br />
-  <sub>[#161637](https://github.com/flutter/flutter/pull/161637) opened on on January 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161637) 207 additions and 137 deletions in 4 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Only create one <style> for SelectableRegion<br />
   <sub>[#161682](https://github.com/flutter/flutter/pull/161682) opened on on January 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161682) 232 additions and 148 deletions in 5 files</sub><br />
