@@ -11,7 +11,7 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/157515) 3576 additions and 2 deletions in 50 files</sub><br />
 
-* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Building flavours with native tooling<br />
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Building flavors with native tooling<br />
   <sub>[#157871](https://github.com/flutter/flutter/pull/157871) opened on on October 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/157871) 384 additions and 67 deletions in 12 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
@@ -96,7 +96,7 @@
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration<br />
-  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/161424) 59 additions and 16 deletions in 2 files</sub><br />
+  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/161424) 59 additions and 16 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; When parsing flavors, handle Xcode build configurations that are not lowercase<br />
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 70 additions and 6 deletions in 2 files</sub><br />
