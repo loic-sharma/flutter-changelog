@@ -149,3 +149,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Set `dart.flutterSdkPath` in vscode's settings.json.<br />
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Adreno denylist entries.<br />
+  <sub>[#161740](https://github.com/flutter/flutter/pull/161740) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161740) 9 additions and 19 deletions in 2 files</sub><br />
+
