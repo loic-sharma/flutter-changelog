@@ -152,6 +152,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when mips are disabled, also disable from sampler options.<br />
   <sub>[#161765](https://github.com/flutter/flutter/pull/161765) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161765) 64 additions and 4 deletions in 6 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use 3 fences to synchronize AHB swapchains (like we do for KHR).<br />
-  <sub>[#161767](https://github.com/flutter/flutter/pull/161767) opened on on January 16, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161767) 248 additions and 63 deletions in 5 files</sub><br />
-
