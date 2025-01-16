@@ -140,8 +140,8 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Only create one <style> for SelectableRegion<br />
   <sub>[#161682](https://github.com/flutter/flutter/pull/161682) opened on on January 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161682) 232 additions and 148 deletions in 5 files</sub><br />
 
-* **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix DropDownMenu initialSelection not reflecting label change<br />
-  <sub>[#161692](https://github.com/flutter/flutter/pull/161692) opened on on January 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161692) 6 additions and 10 deletions in 1 file</sub><br />
+* **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix DropdownMenu.initialSelection not reflecting label change<br />
+  <sub>[#161692](https://github.com/flutter/flutter/pull/161692) opened on on January 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161692) 5 additions and 9 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impellerc] correctly pad arrays of vec3s in reflector.<br />
   <sub>[#161697](https://github.com/flutter/flutter/pull/161697) opened on on January 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161697) 53 additions and 5 deletions in 4 files</sub><br />
