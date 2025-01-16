@@ -146,3 +146,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impellerc] correctly pad arrays of vec3s in reflector.<br />
   <sub>[#161697](https://github.com/flutter/flutter/pull/161697) opened on on January 15, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161697) 53 additions and 5 deletions in 4 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu icon and item icon misalignment<br />
+  <sub>[#161717](https://github.com/flutter/flutter/pull/161717) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161717) 62 additions and 2 deletions in 2 files</sub><br />
+
