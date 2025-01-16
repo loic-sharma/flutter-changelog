@@ -71,7 +71,7 @@
   <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Migrate from SkRSXform to Impeller RSTransform
-  <sub>[#161652](https://github.com/flutter/flutter/pull/161652) merged on January 15, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161652) over 10 hours, 437 additions and 177 deletions in 42 files</sub>
+  <sub>[#161652](https://github.com/flutter/flutter/pull/161652) merged on January 15, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/161652) over 10 hours, 437 additions and 177 deletions in 42 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `showLicensePage` does not inherit ambient `Theme`
