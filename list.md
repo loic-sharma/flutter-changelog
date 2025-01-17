@@ -20,6 +20,10 @@
   <sub>[#159917](https://github.com/flutter/flutter/pull/159917) merged on January 14, 2025 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/159917) over 1 month, 378 additions and 84 deletions in 10 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Levi Lesches](https://github.com/Levi-Lesches), [jezell](https://github.com/jezell), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update social links in readme
+  <sub>[#161778](https://github.com/flutter/flutter/pull/161778) merged on January 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161778) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu isCollapsed decoration does not Reduce height
   <sub>[#161427](https://github.com/flutter/flutter/pull/161427) merged on January 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161427) over 5 days, 71 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -29,10 +33,6 @@
   <sub>[#161223](https://github.com/flutter/flutter/pull/161223) merged on January 13, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161223) over 6 days, 40 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub>
   <sub><details><summary>1 image...</summary><img width="1003" alt="image" src="https://github.com/user-attachments/assets/143634ef-fb36-40ce-8934-a5237d574821" /></details></sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update social links in readme
-  <sub>[#161778](https://github.com/flutter/flutter/pull/161778) merged on January 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161778) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate unused `ButtonStyleButton.iconAlignment` property
   <sub>[#160023](https://github.com/flutter/flutter/pull/160023) merged on January 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160023) over 1 month, 10 additions and 0 deletions in 1 file</sub>
