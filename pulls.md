@@ -150,5 +150,8 @@
   <sub>[#161799](https://github.com/flutter/flutter/pull/161799) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161799) 12 additions and 8 deletions in 2 files</sub><br />
 
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; revert removing Twitter, retain BlueSky<br />
-  <sub>[#161803](https://github.com/flutter/flutter/pull/161803) opened on on January 17, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/161803) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#161803](https://github.com/flutter/flutter/pull/161803) opened on on January 17, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/161803) 3 additions and 0 deletions in 1 file</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` test to prevent log dump and test error message.<br />
+  <sub>[#161811](https://github.com/flutter/flutter/pull/161811) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161811) 50 additions and 4 deletions in 1 file</sub><br />
 
