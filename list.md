@@ -818,6 +818,10 @@
   <sub>[#8256](https://github.com/flutter/packages/pull/8256) merged on January 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8256) over 1 month, 8 additions and 249 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Rephrases readme to better describe the current status
+  <sub>[#8403](https://github.com/flutter/packages/pull/8403) merged on January 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8403) over 1 hour, 8 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [John Ryan](https://github.com/johnpryan)</sub>
+
 * **[Emre](https://github.com/memishood)** &mdash; [flutter_svg] Implement errorBuilder callback
   <sub>[#8364](https://github.com/flutter/packages/pull/8364) merged on January 9, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/8364) over 6 days, 125 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Brett Morgan](https://github.com/domesticmouse)</sub>
@@ -837,10 +841,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [camera]: Activate leak testing for sub packages
   <sub>[#8353](https://github.com/flutter/packages/pull/8353) merged on January 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8353) over 1 week, 70 additions and 0 deletions in 10 files</sub>
   <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; [go_router] Rephrases readme to better describe the current status
-  <sub>[#8403](https://github.com/flutter/packages/pull/8403) merged on January 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8403) over 1 hour, 8 additions and 3 deletions in 3 files</sub>
-  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [ci][video_player_android][camera_android_camerax] Manual roll and fix tests
   <sub>[#8391](https://github.com/flutter/packages/pull/8391) merged on January 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8391) over 19 hours, 21 additions and 5 deletions in 3 files</sub>
