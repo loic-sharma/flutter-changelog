@@ -143,6 +143,9 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove deprecated web-only APIs from dart:ui<br />
   <sub>[#161775](https://github.com/flutter/flutter/pull/161775) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161775) 2 additions and 288 deletions in 7 files</sub><br />
 
-* **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu.initialSelection` not reflecting `label` change<br />
-  <sub>[#161777](https://github.com/flutter/flutter/pull/161777) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161777) 37 additions and 10 deletions in 2 files</sub><br />
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP-stable] Fix `TabBar` glitchy elastic `Tab`  animation<br />
+  <sub>[#161783](https://github.com/flutter/flutter/pull/161783) opened on on January 16, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161783) 483 additions and 142 deletions in 5 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP-stable] Suppress previous route transition if current route is fullscreenDialog<br />
+  <sub>[#161784](https://github.com/flutter/flutter/pull/161784) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161784) 108 additions and 0 deletions in 4 files</sub><br />
 
