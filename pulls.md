@@ -150,7 +150,7 @@
   <sub>[#161811](https://github.com/flutter/flutter/pull/161811) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161811) 50 additions and 4 deletions in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Move the analyzer_benchmark to Mac arm64 devicelab bots"<br />
-  <sub>[#161822](https://github.com/flutter/flutter/pull/161822) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161822) 7 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#161822](https://github.com/flutter/flutter/pull/161822) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161822) 7 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Get `et` working for local web engine builds.<br />
   <sub>[#161825](https://github.com/flutter/flutter/pull/161825) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161825) 103 additions and 34 deletions in 4 files</sub><br />
