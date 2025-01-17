@@ -30,6 +30,10 @@
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub>
   <sub><details><summary>1 image...</summary><img width="1003" alt="image" src="https://github.com/user-attachments/assets/143634ef-fb36-40ce-8934-a5237d574821" /></details></sub>
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update social links in readme
+  <sub>[#161778](https://github.com/flutter/flutter/pull/161778) merged on January 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161778) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate unused `ButtonStyleButton.iconAlignment` property
   <sub>[#160023](https://github.com/flutter/flutter/pull/160023) merged on January 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160023) over 1 month, 10 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Kate Lovett](https://github.com/Piinks)</sub>
@@ -69,10 +73,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Refactor `android_engine_test`, make it easier to debug/deflake locally.
   <sub>[#161534](https://github.com/flutter/flutter/pull/161534) merged on January 15, 2025 &mdash; **Large:** [14 comments](https://github.com/flutter/flutter/pull/161534) over 1 day, 555 additions and 75 deletions in 17 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Reid Baker](https://github.com/reidbaker)</sub>
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update social links in readme
-  <sub>[#161778](https://github.com/flutter/flutter/pull/161778) merged on January 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161778) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Engine] Support asymmetrical rounded superellipses
   <sub>[#161409](https://github.com/flutter/flutter/pull/161409) merged on January 14, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/161409) over 4 days, 632 additions and 328 deletions in 10 files</sub>
