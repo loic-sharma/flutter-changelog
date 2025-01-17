@@ -158,6 +158,9 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a README with instructions for editing and running tests for the FGP<br />
   <sub>[#161830](https://github.com/flutter/flutter/pull/161830) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161830) 32 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] prevent Vulkan usage on known emulators.<br />
+  <sub>[#161833](https://github.com/flutter/flutter/pull/161833) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161833) 13 additions and 0 deletions in 1 file</sub><br />
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [FGP Kotlin conversion] Convert `Deeplink` and `IntentFilterCheck`<br />
   <sub>[#161835](https://github.com/flutter/flutter/pull/161835) opened on on January 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161835) 84 additions and 26 deletions in 4 files</sub><br />
 
