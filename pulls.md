@@ -137,9 +137,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove deprecated web-only APIs from dart:ui<br />
   <sub>[#161775](https://github.com/flutter/flutter/pull/161775) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161775) 2 additions and 288 deletions in 7 files</sub><br />
 
-* **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu.initialSelection` not reflecting `label` change<br />
-  <sub>[#161777](https://github.com/flutter/flutter/pull/161777) opened on on January 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161777) 43 additions and 9 deletions in 2 files</sub><br />
-
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Test frob engine<br />
   <sub>[#161794](https://github.com/flutter/flutter/pull/161794) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161794) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -147,7 +144,7 @@
   <sub>[#161799](https://github.com/flutter/flutter/pull/161799) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161799) 12 additions and 5 deletions in 2 files</sub><br />
 
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; revert removing Twitter, retain BlueSky<br />
-  <sub>[#161803](https://github.com/flutter/flutter/pull/161803) opened on on January 17, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/161803) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#161803](https://github.com/flutter/flutter/pull/161803) opened on on January 17, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/161803) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` test to prevent log dump and test error message.<br />
   <sub>[#161811](https://github.com/flutter/flutter/pull/161811) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161811) 50 additions and 4 deletions in 1 file</sub><br />
