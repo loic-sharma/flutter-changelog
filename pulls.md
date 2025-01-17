@@ -164,3 +164,6 @@
 * **[Yegor](https://github.com/yjbanov)** &mdash; fix reorderable_list_test.dart<br />
   <sub>[#161836](https://github.com/flutter/flutter/pull/161836) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161836) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.<br />
+  <sub>[#161841](https://github.com/flutter/flutter/pull/161841) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161841) 21 additions and 0 deletions in 2 files</sub><br />
+
