@@ -426,7 +426,7 @@
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Add `mouseCursor` parameter to `ReorderableListView`
-  <sub>[#160246](https://github.com/flutter/flutter/pull/160246) merged on January 9, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/160246) over 3 weeks, 142 additions and 10 deletions in 2 files</sub>
+  <sub>[#160246](https://github.com/flutter/flutter/pull/160246) merged on January 9, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/160246) over 3 weeks, 142 additions and 10 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; We no longer have a separate engine repo.
