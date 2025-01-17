@@ -16,13 +16,13 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/72ae9fbe-fef9-44a0-9b86-5a4c31fd39cf"  /><img src="https://github.com/user-attachments/assets/2545f35e-ac03-495d-a33b-72b9bc71299b" /></details></sub>
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Web] Allow specifying the strategy on when to use <img> element to display images
-  <sub>[#159917](https://github.com/flutter/flutter/pull/159917) merged on January 14, 2025 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/159917) over 1 month, 378 additions and 84 deletions in 10 files</sub>
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Levi Lesches](https://github.com/Levi-Lesches), [jezell](https://github.com/jezell), [Mouad Debbar](https://github.com/mdebbar)</sub>
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update social links in readme
   <sub>[#161778](https://github.com/flutter/flutter/pull/161778) merged on January 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161778) over 1 hour, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Web] Allow specifying the strategy on when to use <img> element to display images
+  <sub>[#159917](https://github.com/flutter/flutter/pull/159917) merged on January 14, 2025 &mdash; **Medium:** [32 comments](https://github.com/flutter/flutter/pull/159917) over 1 month, 378 additions and 84 deletions in 10 files</sub>
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Levi Lesches](https://github.com/Levi-Lesches), [jezell](https://github.com/jezell), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu isCollapsed decoration does not Reduce height
   <sub>[#161427](https://github.com/flutter/flutter/pull/161427) merged on January 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161427) over 5 days, 71 additions and 1 deletion in 2 files</sub>
