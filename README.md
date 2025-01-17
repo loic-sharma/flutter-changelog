@@ -110,9 +110,9 @@
   <sub>[#161652](https://github.com/flutter/flutter/pull/161652) merged on January 15, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/161652) over 10 hours, 437 additions and 177 deletions in 42 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor event redispatching<br />
-  <sub>[#161701](https://github.com/flutter/flutter/pull/161701) merged on January 17, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/161701) over 1 day, 482 additions and 649 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update social links in readme<br />
+  <sub>[#161778](https://github.com/flutter/flutter/pull/161778) merged on January 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161778) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[NabilaWorks](https://github.com/NabilaWorks)** &mdash; Feature/twitter keyboard<br />
   <sub>[#161025](https://github.com/flutter/flutter/pull/161025) merged on January 15, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161025) over 2 weeks, 72 additions and 2 deletions in 7 files</sub><br />
@@ -121,6 +121,10 @@
 * **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute<br />
   <sub>[#160241](https://github.com/flutter/flutter/pull/160241) merged on January 13, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160241) over 1 month, 53 additions and 4 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Refactor event redispatching<br />
+  <sub>[#161701](https://github.com/flutter/flutter/pull/161701) merged on January 17, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/161701) over 1 day, 482 additions and 649 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Adreno denylist entries.<br />
   <sub>[#161740](https://github.com/flutter/flutter/pull/161740) merged on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161740) over 10 hours, 9 additions and 19 deletions in 2 files</sub><br />
@@ -133,10 +137,6 @@
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Fixed XiaoMi statusBar Bug<br />
   <sub>[#161271](https://github.com/flutter/flutter/pull/161271) merged on January 15, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/161271) over 1 week, 82 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update social links in readme<br />
-  <sub>[#161778](https://github.com/flutter/flutter/pull/161778) merged on January 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161778) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove usage of `Usage` from build system<br />
   <sub>[#160663](https://github.com/flutter/flutter/pull/160663) merged on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160663) over 3 weeks, 0 additions and 52 deletions in 14 files</sub><br />
