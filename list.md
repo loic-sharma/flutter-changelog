@@ -163,7 +163,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix GIF decode failure
-  <sub>[#161536](https://github.com/flutter/flutter/pull/161536) merged on January 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161536) over 1 day, 123 additions and 25 deletions in 2 files</sub>
+  <sub>[#161536](https://github.com/flutter/flutter/pull/161536) merged on January 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161536) over 1 day, 123 additions and 25 deletions in 2 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Last Engine<>Framework lint sync
