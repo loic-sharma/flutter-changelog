@@ -922,7 +922,11 @@
 
 ### January 11, 2025 to January 17, 2025
 
-7 commits.
+8 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Mark `WebGoldenComparator` deprecated.
+  <sub>[#11597](https://github.com/flutter/website/pull/11597) merged on January 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11597) over 23 hours, 99 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Add More widgets under 'Animation and motion' in Widget Catalogue
   <sub>[#11586](https://github.com/flutter/website/pull/11586) merged on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11586) over 7 hours, 35 additions and 0 deletions in 1 file</sub>
