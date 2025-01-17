@@ -153,5 +153,8 @@
   <sub>[#161822](https://github.com/flutter/flutter/pull/161822) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161822) 7 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Get `et` working for local web engine builds.<br />
-  <sub>[#161825](https://github.com/flutter/flutter/pull/161825) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161825) 103 additions and 34 deletions in 4 files</sub><br />
+  <sub>[#161825](https://github.com/flutter/flutter/pull/161825) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161825) 103 additions and 34 deletions in 4 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add HC++ platform view class.<br />
+  <sub>[#161829](https://github.com/flutter/flutter/pull/161829) opened on on January 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161829) 2038 additions and 39 deletions in 12 files</sub><br />
 
