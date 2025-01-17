@@ -146,3 +146,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP-stable] Suppress previous route transition if current route is fullscreenDialog<br />
   <sub>[#161784](https://github.com/flutter/flutter/pull/161784) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161784) 108 additions and 0 deletions in 4 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Make `PipelineOwner` a `base` class<br />
+  <sub>[#161789](https://github.com/flutter/flutter/pull/161789) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161789) 3 additions and 3 deletions in 3 files</sub><br />
+
