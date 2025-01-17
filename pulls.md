@@ -143,3 +143,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Test frob engine<br />
   <sub>[#161794](https://github.com/flutter/flutter/pull/161794) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161794) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix(CupertinoListTile): Click to wait.<br />
+  <sub>[#161799](https://github.com/flutter/flutter/pull/161799) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161799) 1 addition and 1 deletion in 1 file</sub><br />
+
