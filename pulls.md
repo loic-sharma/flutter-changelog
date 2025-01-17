@@ -140,9 +140,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP-stable] Suppress previous route transition if current route is fullscreenDialog<br />
   <sub>[#161784](https://github.com/flutter/flutter/pull/161784) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161784) 108 additions and 0 deletions in 4 files</sub><br />
 
-* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix(SnackBar): standardize naming conventions<br />
-  <sub>[#161793](https://github.com/flutter/flutter/pull/161793) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161793) 9 additions and 9 deletions in 1 file</sub><br />
-
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Test frob engine<br />
   <sub>[#161794](https://github.com/flutter/flutter/pull/161794) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161794) 1 addition and 1 deletion in 1 file</sub><br />
 
