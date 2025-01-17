@@ -39,7 +39,7 @@
   <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/160289) 416 additions and 408 deletions in 10 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add integration test for cutout rotation evaluation<br />
-  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Extra large:** [43 comments](https://github.com/flutter/flutter/pull/160354) 1370 additions and 574 deletions in 93 files</sub><br />
+  <sub>[#160354](https://github.com/flutter/flutter/pull/160354) opened on on December 16, 2024 &mdash; **Large:** [43 comments](https://github.com/flutter/flutter/pull/160354) 796 additions and 0 deletions in 27 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Test generated localizations<br />
   <sub>[#160479](https://github.com/flutter/flutter/pull/160479) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160479) 19 additions and 1 deletion in 2 files</sub><br />
@@ -126,7 +126,7 @@
   <sub>[#161682](https://github.com/flutter/flutter/pull/161682) opened on on January 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161682) 232 additions and 148 deletions in 5 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu icon and item icon misalignment<br />
-  <sub>[#161717](https://github.com/flutter/flutter/pull/161717) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161717) 62 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#161717](https://github.com/flutter/flutter/pull/161717) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161717) 62 additions and 2 deletions in 2 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Make pressing and moving on CupertinoButton closer to native behavior.<br />
   <sub>[#161731](https://github.com/flutter/flutter/pull/161731) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161731) 224 additions and 11 deletions in 7 files</sub><br />
@@ -140,9 +140,6 @@
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu.initialSelection` not reflecting `label` change<br />
   <sub>[#161777](https://github.com/flutter/flutter/pull/161777) opened on on January 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161777) 43 additions and 9 deletions in 2 files</sub><br />
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [CP-stable] Suppress previous route transition if current route is fullscreenDialog<br />
-  <sub>[#161784](https://github.com/flutter/flutter/pull/161784) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161784) 108 additions and 0 deletions in 4 files</sub><br />
-
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Test frob engine<br />
   <sub>[#161794](https://github.com/flutter/flutter/pull/161794) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161794) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -150,8 +147,8 @@
   <sub>[#161799](https://github.com/flutter/flutter/pull/161799) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161799) 12 additions and 5 deletions in 2 files</sub><br />
 
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; revert removing Twitter, retain BlueSky<br />
-  <sub>[#161803](https://github.com/flutter/flutter/pull/161803) opened on on January 17, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/161803) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#161803](https://github.com/flutter/flutter/pull/161803) opened on on January 17, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/161803) 3 additions and 0 deletions in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` test to prevent log dump and test error message.<br />
-  <sub>[#161811](https://github.com/flutter/flutter/pull/161811) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161811) 50 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#161811](https://github.com/flutter/flutter/pull/161811) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161811) 50 additions and 4 deletions in 1 file</sub><br />
 
