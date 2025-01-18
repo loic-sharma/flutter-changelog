@@ -167,3 +167,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.<br />
   <sub>[#161841](https://github.com/flutter/flutter/pull/161841) opened on on January 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161841) 21 additions and 0 deletions in 2 files</sub><br />
 
+* **[ᠵᠠᠭᠠᠨᠵᠠᠪ ᠪᠤᠷᠵᠢᠭᠤᠳ ᠰᠠᠴᠤᠷᠠᠭ](https://github.com/Satsrag)** &mdash; Fix .gitignore to Prevent Tracking of ._ Files on exFAT Volumes<br />
+  <sub>[#161853](https://github.com/flutter/flutter/pull/161853) opened on on January 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161853) 5 additions and 0 deletions in 1 file</sub><br />
+
