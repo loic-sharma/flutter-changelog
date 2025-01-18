@@ -11,7 +11,7 @@
   <sub>Reviewed by: [Thaddée Tyl](https://github.com/espadrine), [Zachary Anderson](https://github.com/zanderso), [Michael Goderbauer](https://github.com/goderbauer), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update social links in readme<br />
-  <sub>[#161778](https://github.com/flutter/flutter/pull/161778) merged on January 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161778) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#161778](https://github.com/flutter/flutter/pull/161778) merged on January 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161778) over 1 hour, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete Options Width<br />
