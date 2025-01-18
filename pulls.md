@@ -168,7 +168,7 @@
   <sub>[#161841](https://github.com/flutter/flutter/pull/161841) opened on on January 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161841) 21 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Migrate unit tests off of Skia geometry classes<br />
-  <sub>[#161855](https://github.com/flutter/flutter/pull/161855) opened on on January 18, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161855) 1253 additions and 1089 deletions in 25 files</sub><br />
+  <sub>[#161855](https://github.com/flutter/flutter/pull/161855) opened on on January 18, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/161855) 1253 additions and 1089 deletions in 25 files</sub><br />
 
 * **[Fichtelcoder](https://github.com/FrankenApps)** &mdash; Update Android integration test package for newer AGP<br />
   <sub>[#161856](https://github.com/flutter/flutter/pull/161856) opened on on January 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161856) 2 additions and 2 deletions in 1 file</sub><br />
