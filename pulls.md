@@ -24,7 +24,7 @@
   <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/159455) 448 additions and 46 deletions in 4 files</sub><br />
 
 * **[Krzysztof Czarnota](https://github.com/czarny)** &mdash; Enabled provisioning updates and device registration during building xcarchive.<br />
-  <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
 
 * **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationRail examples overflow alignment<br />
   <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/159937) 122 additions and 151 deletions in 4 files</sub><br />
@@ -159,13 +159,10 @@
   <sub>[#161830](https://github.com/flutter/flutter/pull/161830) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161830) 32 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] prevent Vulkan usage on known emulators.<br />
-  <sub>[#161833](https://github.com/flutter/flutter/pull/161833) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161833) 13 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#161833](https://github.com/flutter/flutter/pull/161833) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161833) 13 additions and 0 deletions in 1 file</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [FGP Kotlin conversion] Convert `Deeplink` and `IntentFilterCheck`<br />
   <sub>[#161835](https://github.com/flutter/flutter/pull/161835) opened on on January 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161835) 84 additions and 26 deletions in 4 files</sub><br />
-
-* **[Yegor](https://github.com/yjbanov)** &mdash; fix reorderable_list_test.dart<br />
-  <sub>[#161836](https://github.com/flutter/flutter/pull/161836) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161836) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.<br />
   <sub>[#161841](https://github.com/flutter/flutter/pull/161841) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161841) 21 additions and 0 deletions in 2 files</sub><br />
