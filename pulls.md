@@ -165,5 +165,5 @@
   <sub>[#161835](https://github.com/flutter/flutter/pull/161835) opened on on January 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161835) 84 additions and 26 deletions in 4 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.<br />
-  <sub>[#161841](https://github.com/flutter/flutter/pull/161841) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161841) 21 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#161841](https://github.com/flutter/flutter/pull/161841) opened on on January 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161841) 21 additions and 0 deletions in 2 files</sub><br />
 
