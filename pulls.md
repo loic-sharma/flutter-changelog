@@ -164,9 +164,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [FGP Kotlin conversion] Convert `Deeplink` and `IntentFilterCheck`<br />
   <sub>[#161835](https://github.com/flutter/flutter/pull/161835) opened on on January 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161835) 84 additions and 26 deletions in 4 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.<br />
-  <sub>[#161841](https://github.com/flutter/flutter/pull/161841) opened on on January 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161841) 21 additions and 0 deletions in 2 files</sub><br />
-
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Migrate unit tests off of Skia geometry classes<br />
   <sub>[#161855](https://github.com/flutter/flutter/pull/161855) opened on on January 18, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/161855) 1253 additions and 1089 deletions in 25 files</sub><br />
 
