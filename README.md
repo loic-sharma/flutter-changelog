@@ -771,7 +771,7 @@
 
 ### January 11, 2025 to January 17, 2025
 
-8 commits.
+9 commits.
 
 * **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation, camera_avfoundation] never overwrite but only upgrade audio session category<br />
   <sub>[#7143](https://github.com/flutter/packages/pull/7143) merged on January 13, 2025 &mdash; **Small:** [100 comments](https://github.com/flutter/packages/pull/7143) over 6 months, 162 additions and 16 deletions in 10 files</sub><br />
@@ -788,6 +788,10 @@
 * **[Igor Kharakhordin](https://github.com/westracer)** &mdash; [webview_flutter_android] Add additional WebSettings methods<br />
   <sub>[#8270](https://github.com/flutter/packages/pull/8270) merged on January 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8270) over 1 month, 277 additions and 1 deletion in 11 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Update analyzer and formatter<br />
+  <sub>[#8456](https://github.com/flutter/packages/pull/8456) merged on January 18, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8456) over 17 hours, 13 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; [in_app_purchase_storekit] expose `jsonRepresentation` for Transactions<br />
   <sub>[#8430](https://github.com/flutter/packages/pull/8430) merged on January 15, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8430) over 1 day, 52 additions and 8 deletions in 8 files</sub><br />
