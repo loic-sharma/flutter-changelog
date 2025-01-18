@@ -173,3 +173,6 @@
 * **[Fichtelcoder](https://github.com/FrankenApps)** &mdash; Update Android integration test package for newer AGP<br />
   <sub>[#161856](https://github.com/flutter/flutter/pull/161856) opened on on January 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161856) 2 additions and 2 deletions in 1 file</sub><br />
 
+* **[Daniel Luz](https://github.com/mernen)** &mdash; Fix documentation of Flow.clipBehavior<br />
+  <sub>[#161863](https://github.com/flutter/flutter/pull/161863) opened on on January 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161863) 1 addition and 1 deletion in 1 file</sub><br />
+
