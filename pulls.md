@@ -135,7 +135,7 @@
   <sub>[#161775](https://github.com/flutter/flutter/pull/161775) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161775) 2 additions and 288 deletions in 7 files</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Fix `DropdownMenu.initialSelection` not reflecting `label` change<br />
-  <sub>[#161777](https://github.com/flutter/flutter/pull/161777) opened on on January 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161777) 43 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#161777](https://github.com/flutter/flutter/pull/161777) opened on on January 16, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161777) 44 additions and 6 deletions in 2 files</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Test frob engine<br />
   <sub>[#161794](https://github.com/flutter/flutter/pull/161794) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161794) 1 addition and 1 deletion in 1 file</sub><br />
