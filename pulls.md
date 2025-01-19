@@ -173,3 +173,6 @@
 * **[Daniel Luz](https://github.com/mernen)** &mdash; Fix documentation of Flow.clipBehavior<br />
   <sub>[#161863](https://github.com/flutter/flutter/pull/161863) opened on on January 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161863) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Added date picker delegate to support custom calendar systems<br />
+  <sub>[#161874](https://github.com/flutter/flutter/pull/161874) opened on on January 19, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161874) 561 additions and 208 deletions in 6 files</sub><br />
+
