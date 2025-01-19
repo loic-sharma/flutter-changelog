@@ -176,3 +176,6 @@
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Added date picker delegate to support custom calendar systems<br />
   <sub>[#161874](https://github.com/flutter/flutter/pull/161874) opened on on January 19, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161874) 561 additions and 208 deletions in 6 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
+
