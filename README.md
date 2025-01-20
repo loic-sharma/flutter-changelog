@@ -55,7 +55,7 @@
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add validator execution times to `flutter doctor --verbose`<br />
-  <sub>[#158124](https://github.com/flutter/flutter/pull/158124) merged on January 13, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/158124) over 2 months, 802 additions and 543 deletions in 17 files</sub><br />
+  <sub>[#158124](https://github.com/flutter/flutter/pull/158124) merged on January 13, 2025 &mdash; **Large:** [13 comments](https://github.com/flutter/flutter/pull/158124) over 2 months, 802 additions and 543 deletions in 17 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Robert Ancell](https://github.com/robert-ancell), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Actually remove dev dependencies from release builds<br />
