@@ -738,9 +738,18 @@
 
 ## flutter/packages
 
+### January 18, 2025 to January 24, 2025
+
+1 commits.
+
+* **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1<br />
+  <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### January 11, 2025 to January 17, 2025
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[misos1](https://github.com/misos1)** &mdash; [video_player_avfoundation, camera_avfoundation] never overwrite but only upgrade audio session category<br />
   <sub>[#7143](https://github.com/flutter/packages/pull/7143) merged on January 13, 2025 &mdash; **Small:** [100 comments](https://github.com/flutter/packages/pull/7143) over 6 months, 162 additions and 16 deletions in 10 files</sub><br />
@@ -777,6 +786,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Flutter (stable) from 17025dd88227 to 68415ad1d920 (4 revisions)<br />
   <sub>[#8434](https://github.com/flutter/packages/pull/8434) merged on January 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8434) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### January 4, 2025 to January 10, 2025
 
