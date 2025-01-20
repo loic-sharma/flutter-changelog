@@ -177,7 +177,7 @@
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
 
 * **[Gagan Yadav](https://github.com/gaganyadav80)** &mdash; fix: appbar leading width is not square for custom toolbar height<br />
-  <sub>[#161880](https://github.com/flutter/flutter/pull/161880) opened on on January 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161880) 11 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#161880](https://github.com/flutter/flutter/pull/161880) opened on on January 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161880) 11 additions and 2 deletions in 2 files</sub><br />
 
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Fix issue #156954: Wrong dateHelpText in MaterialLocalizationIt<br />
   <sub>[#161889](https://github.com/flutter/flutter/pull/161889) opened on on January 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161889) 13 additions and 2 deletions in 3 files</sub><br />
