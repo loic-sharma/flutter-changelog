@@ -143,6 +143,9 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` test to prevent log dump and test error message.<br />
   <sub>[#161811](https://github.com/flutter/flutter/pull/161811) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161811) 50 additions and 4 deletions in 1 file</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb cannot reach extreme ends<br />
+  <sub>[#161814](https://github.com/flutter/flutter/pull/161814) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161814) 96 additions and 7 deletions in 2 files</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Move the analyzer_benchmark to Mac arm64 devicelab bots"<br />
   <sub>[#161822](https://github.com/flutter/flutter/pull/161822) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161822) 7 additions and 3 deletions in 1 file</sub><br />
 
