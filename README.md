@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### January 18, 2025 to January 24, 2025
+
+1 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ flutter_tool ] Fix flakiness in doctor_test.dart<br />
+  <sub>[#161917](https://github.com/flutter/flutter/pull/161917) merged on January 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161917) over 2 hours, 521 additions and 723 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
+
 ### January 11, 2025 to January 17, 2025
 
-80 commits.
+<details>
+<summary>80 commits...</summary>
 
 * **[Luke Pighetti](https://github.com/lukepighetti)** &mdash; revert removing Twitter, retain BlueSky<br />
   <sub>[#161803](https://github.com/flutter/flutter/pull/161803) merged on January 18, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/161803) over 11 hours, 3 additions and 0 deletions in 1 file</sub><br />
@@ -329,6 +338,8 @@
 * **[jacobsimionato](https://github.com/jacobsimionato)** &mdash; Revert "Autocomplete Options Width"<br />
   <sub>[#161666](https://github.com/flutter/flutter/pull/161666) merged on January 15, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161666) over 6 hours, 241 additions and 1666 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [John McDole](https://github.com/jtmcdole)</sub><br />
+
+</details>
 
 ### January 4, 2025 to January 10, 2025
 
