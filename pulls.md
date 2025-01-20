@@ -185,3 +185,6 @@
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Fix issue #156954: Wrong dateHelpText in MaterialLocalizationIt<br />
   <sub>[#161889](https://github.com/flutter/flutter/pull/161889) opened on on January 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161889) 13 additions and 2 deletions in 3 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for detecting previews and generating code<br />
+  <sub>[#161911](https://github.com/flutter/flutter/pull/161911) opened on on January 20, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161911) 512 additions and 26 deletions in 7 files</sub><br />
+
