@@ -146,9 +146,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add HC++ platform view class.<br />
   <sub>[#161829](https://github.com/flutter/flutter/pull/161829) opened on on January 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161829) 2038 additions and 39 deletions in 12 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a README with instructions for editing and running tests for the FGP<br />
-  <sub>[#161830](https://github.com/flutter/flutter/pull/161830) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161830) 32 additions and 0 deletions in 1 file</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] prevent Vulkan usage on known emulators.<br />
   <sub>[#161833](https://github.com/flutter/flutter/pull/161833) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161833) 13 additions and 0 deletions in 1 file</sub><br />
 
