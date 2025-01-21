@@ -942,9 +942,27 @@
 
 ## flutter/website
 
+### January 18, 2025 to January 24, 2025
+
+3 commits.
+
+* **[Cell](https://github.com/CellCS)** &mdash; Issue-11599: update dart:js_interop hyperlink
+  <sub>[#11600](https://github.com/flutter/website/pull/11600) merged on January 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11600) over 4 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Tirth](https://github.com/piedcipher)</sub>
+  <sub><details><summary>3 images...</summary>![image](https://github.com/user-attachments/assets/3b0633c3-d3f7-4468-a24d-8ceddafcd4cd)![image](https://github.com/user-attachments/assets/ac866a2f-92ee-40c2-b636-38d0a40be059)![image](https://github.com/user-attachments/assets/d4c53ede-f31d-4002-a8ec-0ea50448116a)</details></sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter engine license location
+  <sub>[#11594](https://github.com/flutter/website/pull/11594) merged on January 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11594) over 5 days, 2 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough), [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up copy and formatting on Android deployment page
+  <sub>[#11609](https://github.com/flutter/website/pull/11609) merged on January 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11609) over 3 hours, 143 additions and 115 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### January 11, 2025 to January 17, 2025
 
-10 commits.
+<details>
+<summary>10 commits...</summary>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix more engine links after monorepo
   <sub>[#11596](https://github.com/flutter/website/pull/11596) merged on January 17, 2025 &mdash; **Small:** [43 comments](https://github.com/flutter/website/pull/11596) over 1 day, 35 additions and 35 deletions in 15 files</sub>
@@ -985,6 +1003,8 @@
 * **[Gianluca Romeo](https://github.com/gianlucaromeo)** &mdash; Update recommendations.md
   <sub>[#11582](https://github.com/flutter/website/pull/11582) merged on January 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11582) over 3 days, 0 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Eric Windmill](https://github.com/ericwindmill)</sub>
+
+</details>
 
 ### January 4, 2025 to January 10, 2025
 

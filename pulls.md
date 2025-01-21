@@ -71,9 +71,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter_test`<br />
   <sub>[#161131](https://github.com/flutter/flutter/pull/161131) opened on on January 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161131) 2 additions and 0 deletions in 1 file</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; [FGP to Kotlin conversion] Convert app_plugin_loader Gradle plugin to Kotlin<br />
-  <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161352) 238 additions and 51 deletions in 9 files</sub><br />
-
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support ignoring pointer events on tooltip overlay (#142465)<br />
   <sub>[#161363](https://github.com/flutter/flutter/pull/161363) opened on on January 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161363) 190 additions and 3 deletions in 2 files</sub><br />
 
@@ -140,14 +137,8 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Move the analyzer_benchmark to Mac arm64 devicelab bots"<br />
   <sub>[#161822](https://github.com/flutter/flutter/pull/161822) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161822) 7 additions and 3 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add HC++ platform view class.<br />
-  <sub>[#161829](https://github.com/flutter/flutter/pull/161829) opened on on January 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161829) 2038 additions and 39 deletions in 12 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] prevent Vulkan usage on known emulators.<br />
   <sub>[#161833](https://github.com/flutter/flutter/pull/161833) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161833) 13 additions and 0 deletions in 1 file</sub><br />
-
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [FGP Kotlin conversion] Convert `Deeplink` and `IntentFilterCheck`<br />
-  <sub>[#161835](https://github.com/flutter/flutter/pull/161835) opened on on January 17, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161835) 84 additions and 26 deletions in 4 files</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Migrate unit tests off of Skia geometry classes<br />
   <sub>[#161855](https://github.com/flutter/flutter/pull/161855) opened on on January 18, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/161855) 1257 additions and 1089 deletions in 25 files</sub><br />
