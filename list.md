@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-12 commits.
+13 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub>
@@ -24,6 +24,10 @@
   <sub>[#161717](https://github.com/flutter/flutter/pull/161717) merged on January 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161717) over 5 days, 62 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
   <sub><details><summary>2 images...</summary>![Image](https://github.com/user-attachments/assets/c45b199d-a502-4449-834f-7660af4bb0f0)![Image](https://github.com/user-attachments/assets/22a94cbb-c177-4732-b58d-a3ff8b4ac0cd)</details></sub>
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] backfilling TextContents unit tests
+  <sub>[#161625](https://github.com/flutter/flutter/pull/161625) merged on January 21, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/161625) over 6 days, 312 additions and 121 deletions in 7 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not handle Dart isolate messages if the isolate is being shut down
   <sub>[#161824](https://github.com/flutter/flutter/pull/161824) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161824) over 4 days, 3 additions and 1 deletion in 1 file</sub>

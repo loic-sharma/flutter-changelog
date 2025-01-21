@@ -179,3 +179,6 @@
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog for 3.27.3 release<br />
+  <sub>[#161977](https://github.com/flutter/flutter/pull/161977) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161977) 5 additions and 0 deletions in 1 file</sub><br />
+
