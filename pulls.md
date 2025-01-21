@@ -21,7 +21,7 @@
   <sub>[#159399](https://github.com/flutter/flutter/pull/159399) opened on on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159399) 96 additions and 69 deletions in 4 files</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete keyboard navigation<br />
-  <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/159455) 448 additions and 46 deletions in 4 files</sub><br />
+  <sub>[#159455](https://github.com/flutter/flutter/pull/159455) opened on on November 26, 2024 &mdash; **Medium:** [10 comments](https://github.com/flutter/flutter/pull/159455) 448 additions and 46 deletions in 4 files</sub><br />
 
 * **[Krzysztof Czarnota](https://github.com/czarny)** &mdash; Enabled provisioning updates and device registration during building xcarchive.<br />
   <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
