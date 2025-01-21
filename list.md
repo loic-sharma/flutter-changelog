@@ -157,7 +157,7 @@
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] remove Adreno denylist entries.
-  <sub>[#161740](https://github.com/flutter/flutter/pull/161740) merged on January 17, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161740) over 10 hours, 9 additions and 19 deletions in 2 files</sub>
+  <sub>[#161740](https://github.com/flutter/flutter/pull/161740) merged on January 17, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161740) over 10 hours, 9 additions and 19 deletions in 2 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Replace `fetch `with `gclient sync`.
