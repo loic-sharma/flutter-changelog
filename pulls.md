@@ -182,3 +182,9 @@
 * **[Wasmund1](https://github.com/Wasmund1)** &mdash; Drag handle semantic role<br />
   <sub>[#161941](https://github.com/flutter/flutter/pull/161941) opened on on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161941) 2 additions and 0 deletions in 2 files</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SegmentedButton` border doesn't respect hovered, focused state<br />
+  <sub>[#161942](https://github.com/flutter/flutter/pull/161942) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161942) 193 additions and 67 deletions in 4 files</sub><br />
+
+* **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; expose Semantics.identifier as Windows UIA AutomationId<br />
+  <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
+
