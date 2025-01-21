@@ -798,11 +798,15 @@
 
 ### January 18, 2025 to January 24, 2025
 
-1 commits.
+2 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1<br />
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Allow blank lines in federated package changes<br />
+  <sub>[#8468](https://github.com/flutter/packages/pull/8468) merged on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8468) over 3 hours, 6 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### January 11, 2025 to January 17, 2025
 
