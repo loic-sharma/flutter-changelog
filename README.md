@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-13 commits.
+14 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`<br />
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub><br />
@@ -44,6 +44,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Cleanup dead code<br />
   <sub>[#161913](https://github.com/flutter/flutter/pull/161913) merged on January 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161913) over 4 hours, 0 additions and 13 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.<br />
+  <sub>[#161841](https://github.com/flutter/flutter/pull/161841) merged on January 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161841) over 3 days, 21 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Cleanup dead code 2<br />
   <sub>[#161916](https://github.com/flutter/flutter/pull/161916) merged on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161916) over 13 hours, 0 additions and 67 deletions in 3 files</sub><br />
