@@ -944,7 +944,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-3 commits.
+6 commits.
 
 * **[Cell](https://github.com/CellCS)** &mdash; Issue-11599: update dart:js_interop hyperlink<br />
   <sub>[#11600](https://github.com/flutter/website/pull/11600) merged on January 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11600) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -957,6 +957,18 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up copy and formatting on Android deployment page<br />
   <sub>[#11609](https://github.com/flutter/website/pull/11609) merged on January 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11609) over 3 hours, 143 additions and 115 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Jonathan](https://github.com/jonathanmach)** &mdash; Update  context-menus.md link references<br />
+  <sub>[#11602](https://github.com/flutter/website/pull/11602) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11602) over 3 days, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Travis Kraemer](https://github.com/TravisKraemer)** &mdash; Update ~ to $HOME to fix issues with programs using dart/flutter executables<br />
+  <sub>[#11603](https://github.com/flutter/website/pull/11603) merged on January 21, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11603) over 3 days, 5 additions and 5 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parishith Ragumar](https://github.com/ragupari)** &mdash; Typo in Update buttons.md<br />
+  <sub>[#11605](https://github.com/flutter/website/pull/11605) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11605) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### January 11, 2025 to January 17, 2025
