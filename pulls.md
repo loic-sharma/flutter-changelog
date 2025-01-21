@@ -119,9 +119,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Only create one <style> for SelectableRegion<br />
   <sub>[#161682](https://github.com/flutter/flutter/pull/161682) opened on on January 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161682) 232 additions and 148 deletions in 5 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu icon and item icon misalignment<br />
-  <sub>[#161717](https://github.com/flutter/flutter/pull/161717) opened on on January 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161717) 62 additions and 2 deletions in 2 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Make pressing and moving on CupertinoButton closer to native behavior.<br />
   <sub>[#161731](https://github.com/flutter/flutter/pull/161731) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161731) 224 additions and 11 deletions in 7 files</sub><br />
 
@@ -181,4 +178,7 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for detecting previews and generating code<br />
   <sub>[#161911](https://github.com/flutter/flutter/pull/161911) opened on on January 20, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161911) 543 additions and 26 deletions in 7 files</sub><br />
+
+* **[oussama berhili](https://github.com/berhili098)** &mdash; (Dev): Format all files<br />
+  <sub>[#161938](https://github.com/flutter/flutter/pull/161938) opened on on January 21, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161938) 3118 additions and 398 deletions in 14 files</sub><br />
 

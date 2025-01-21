@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-5 commits.
+7 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ flutter_tool ] Fix flakiness in doctor_test.dart<br />
   <sub>[#161917](https://github.com/flutter/flutter/pull/161917) merged on January 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161917) over 2 hours, 521 additions and 723 deletions in 10 files</sub><br />
@@ -14,6 +14,15 @@
   <sub>[#161811](https://github.com/flutter/flutter/pull/161811) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161811) over 3 days, 50 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1341" alt="Screenshot 2025-01-17 at 17 37 30" src="https://github.com/user-attachments/assets/fa3a6b46-07ae-4f41-9f8c-821943acdd4c" /><img width="1341" alt="Screenshot 2025-01-17 at 17 36 50" src="https://github.com/user-attachments/assets/6ffd2d19-fa61-4dc5-b5e7-bb0fc8c07008" /></details></sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu icon and item icon misalignment<br />
+  <sub>[#161717](https://github.com/flutter/flutter/pull/161717) merged on January 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161717) over 5 days, 62 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub><br />
+  <sub><details><summary>2 images...</summary>![Image](https://github.com/user-attachments/assets/c45b199d-a502-4449-834f-7660af4bb0f0)![Image](https://github.com/user-attachments/assets/22a94cbb-c177-4732-b58d-a3ff8b4ac0cd)</details></sub>
+
+* **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
+  <sub>[#154941](https://github.com/flutter/flutter/pull/154941) merged on January 21, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/154941) over 4 months, 82 additions and 12 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Cleanup dead code<br />
   <sub>[#161913](https://github.com/flutter/flutter/pull/161913) merged on January 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161913) over 4 hours, 0 additions and 13 deletions in 6 files</sub><br />
