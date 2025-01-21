@@ -149,9 +149,6 @@
 * **[Fichtelcoder](https://github.com/FrankenApps)** &mdash; Update Android integration test package for newer AGP<br />
   <sub>[#161856](https://github.com/flutter/flutter/pull/161856) opened on on January 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161856) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Daniel Luz](https://github.com/mernen)** &mdash; Fix documentation of Flow.clipBehavior<br />
-  <sub>[#161863](https://github.com/flutter/flutter/pull/161863) opened on on January 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161863) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Added date picker delegate to support custom calendar systems<br />
   <sub>[#161874](https://github.com/flutter/flutter/pull/161874) opened on on January 19, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161874) 487 additions and 113 deletions in 4 files</sub><br />
 
@@ -178,4 +175,7 @@
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to version Version 3.8.0-19.0.dev<br />
+  <sub>[#161979](https://github.com/flutter/flutter/pull/161979) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161979) 11 additions and 11 deletions in 2 files</sub><br />
 
