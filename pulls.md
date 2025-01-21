@@ -75,7 +75,7 @@
   <sub>[#161352](https://github.com/flutter/flutter/pull/161352) opened on on January 9, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161352) 238 additions and 51 deletions in 9 files</sub><br />
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support ignoring pointer events on tooltip overlay (#142465)<br />
-  <sub>[#161363](https://github.com/flutter/flutter/pull/161363) opened on on January 9, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161363) 190 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#161363](https://github.com/flutter/flutter/pull/161363) opened on on January 9, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161363) 190 additions and 3 deletions in 2 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `felt` link to point to flutter repo instead of the engine repo<br />
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
@@ -181,4 +181,7 @@
 
 * **[oussama berhili](https://github.com/berhili098)** &mdash; (Dev): Format all files<br />
   <sub>[#161938](https://github.com/flutter/flutter/pull/161938) opened on on January 21, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161938) 3118 additions and 398 deletions in 14 files</sub><br />
+
+* **[Wasmund1](https://github.com/Wasmund1)** &mdash; Drag handle semantic role<br />
+  <sub>[#161941](https://github.com/flutter/flutter/pull/161941) opened on on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161941) 2 additions and 0 deletions in 2 files</sub><br />
 
