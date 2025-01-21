@@ -137,9 +137,6 @@
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix(CupertinoListTile): Click to wait.<br />
   <sub>[#161799](https://github.com/flutter/flutter/pull/161799) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161799) 12 additions and 5 deletions in 2 files</sub><br />
 
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` test to prevent log dump and test error message.<br />
-  <sub>[#161811](https://github.com/flutter/flutter/pull/161811) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161811) 50 additions and 4 deletions in 1 file</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb cannot reach extreme ends<br />
   <sub>[#161814](https://github.com/flutter/flutter/pull/161814) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161814) 96 additions and 7 deletions in 2 files</sub><br />
 
