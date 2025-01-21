@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-14 commits.
+15 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub>
@@ -52,6 +52,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Cleanup dead code 2
   <sub>[#161916](https://github.com/flutter/flutter/pull/161916) merged on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161916) over 13 hours, 0 additions and 67 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Daniel Luz](https://github.com/mernen)** &mdash; Fix documentation of Flow.clipBehavior
+  <sub>[#161863](https://github.com/flutter/flutter/pull/161863) merged on January 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161863) over 3 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Tirth](https://github.com/piedcipher), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Get `et` working for local web engine builds.
   <sub>[#161825](https://github.com/flutter/flutter/pull/161825) merged on January 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161825) over 3 days, 103 additions and 34 deletions in 4 files</sub>
