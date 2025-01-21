@@ -432,7 +432,7 @@
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams), [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; add semantics role and tab
-  <sub>[#161260](https://github.com/flutter/flutter/pull/161260) merged on January 11, 2025 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/161260) over 3 days, 579 additions and 133 deletions in 34 files</sub>
+  <sub>[#161260](https://github.com/flutter/flutter/pull/161260) merged on January 11, 2025 &mdash; **Large:** [32 comments](https://github.com/flutter/flutter/pull/161260) over 3 days, 579 additions and 133 deletions in 34 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Omit hardcoded `--packages=.dart_tool/package_config.json`.
