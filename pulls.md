@@ -164,6 +164,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SegmentedButton` border doesn't respect hovered, focused state<br />
   <sub>[#161942](https://github.com/flutter/flutter/pull/161942) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161942) 193 additions and 67 deletions in 4 files</sub><br />
 
-* **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; expose Semantics.identifier as Windows UIA AutomationId<br />
+* **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [WIP] expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
 
