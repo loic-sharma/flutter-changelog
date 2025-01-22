@@ -102,7 +102,7 @@
   <sub>[#161822](https://github.com/flutter/flutter/pull/161822) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161822) 7 additions and 3 deletions in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
-  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161826) 83 additions and 35 deletions in 2 files</sub><br />
+  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161826) 83 additions and 35 deletions in 2 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Add separate feature flag for the app migration<br />
   <sub>[#161832](https://github.com/flutter/flutter/pull/161832) opened on on January 17, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161832) 434 additions and 13 deletions in 11 files</sub><br />
