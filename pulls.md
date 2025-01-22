@@ -161,6 +161,3 @@
 * **[Ryan Ferrell](https://github.com/importRyan)** &mdash; Avoid iOS text selection crash by returning nil range<br />
   <sub>[#161996](https://github.com/flutter/flutter/pull/161996) opened on on January 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161996) 29 additions and 2 deletions in 3 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add piping and bringup nodes for `_vulkan` and `_opengles` suites.<br />
-  <sub>[#162020](https://github.com/flutter/flutter/pull/162020) opened on on January 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162020) 70 additions and 22 deletions in 11 files</sub><br />
-
