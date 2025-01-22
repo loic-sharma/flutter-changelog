@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-27 commits.
+28 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub>
@@ -23,6 +23,11 @@
   <sub>[#161811](https://github.com/flutter/flutter/pull/161811) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161811) over 3 days, 50 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub>
   <sub><details><summary>2 images...</summary><img width="1341" alt="Screenshot 2025-01-17 at 17 37 30" src="https://github.com/user-attachments/assets/fa3a6b46-07ae-4f41-9f8c-821943acdd4c" /><img width="1341" alt="Screenshot 2025-01-17 at 17 36 50" src="https://github.com/user-attachments/assets/6ffd2d19-fa61-4dc5-b5e7-bb0fc8c07008" /></details></sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove spam from test output
+  <sub>[#161774](https://github.com/flutter/flutter/pull/161774) merged on January 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161774) over 5 days, 72 additions and 74 deletions in 10 files</sub>
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/30689c9e-ae99-41ff-bbf6-cb4b0f2c1a6a) | ![image](https://github.com/user-attachments/assets/a73a7536-cade-475e-9e16-96eda73fc6f5)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownMenu icon and item icon misalignment
   <sub>[#161717](https://github.com/flutter/flutter/pull/161717) merged on January 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161717) over 5 days, 62 additions and 2 deletions in 2 files</sub>
