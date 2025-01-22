@@ -83,9 +83,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Dispose after using ImmutableBuffer<br />
   <sub>[#161488](https://github.com/flutter/flutter/pull/161488) opened on on January 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161488) 79 additions and 24 deletions in 2 files</sub><br />
 
-* **[dev-lup](https://github.com/dev-lup)** &mdash; Fix: Ensure CupertinoAlertDialog divider spans full width and resolve<br />
-  <sub>[#161490](https://github.com/flutter/flutter/pull/161490) opened on on January 12, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161490) 45 additions and 2 deletions in 2 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
