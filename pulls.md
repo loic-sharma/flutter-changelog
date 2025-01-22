@@ -20,9 +20,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; convert `resolve_dependencies.gradle` to `resolve_dependencies.gradle.kts`<br />
   <sub>[#159399](https://github.com/flutter/flutter/pull/159399) opened on on November 24, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/159399) 96 additions and 69 deletions in 4 files</sub><br />
 
-* **[Krzysztof Czarnota](https://github.com/czarny)** &mdash; Enabled provisioning updates and device registration during building xcarchive.<br />
-  <sub>[#159622](https://github.com/flutter/flutter/pull/159622) opened on on November 29, 2024 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/159622) 11 additions and 0 deletions in 4 files</sub><br />
-
 * **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationRail examples overflow alignment<br />
   <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/159937) 122 additions and 151 deletions in 4 files</sub><br />
 

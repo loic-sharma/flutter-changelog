@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-19 commits.
+20 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`<br />
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub><br />
@@ -36,6 +36,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not handle Dart isolate messages if the isolate is being shut down<br />
   <sub>[#161824](https://github.com/flutter/flutter/pull/161824) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161824) over 4 days, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to version Version 3.8.0-19.0.dev<br />
+  <sub>[#161989](https://github.com/flutter/flutter/pull/161989) merged on January 22, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/161989) over 14 hours, 1576 additions and 3246 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlKeyboardViewDelegate<br />
   <sub>[#161705](https://github.com/flutter/flutter/pull/161705) merged on January 21, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/161705) over 5 days, 61 additions and 388 deletions in 9 files</sub><br />
