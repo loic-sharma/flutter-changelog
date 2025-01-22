@@ -167,3 +167,6 @@
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [WIP] expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
 
+* **[Ryan Ferrell](https://github.com/importRyan)** &mdash; Avoid iOS text selection crash by returning nil range<br />
+  <sub>[#161996](https://github.com/flutter/flutter/pull/161996) opened on on January 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161996) 29 additions and 2 deletions in 3 files</sub><br />
+
