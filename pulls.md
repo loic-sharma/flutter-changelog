@@ -50,18 +50,6 @@
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Roll gn to c97a86a72105f3328a540f5a5ab17d11989ab7dd<br />
   <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161012) 8 additions and 9 deletions in 5 files</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `dev/`<br />
-  <sub>[#161112](https://github.com/flutter/flutter/pull/161112) opened on on January 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161112) 5 additions and 1 deletion in 3 files</sub><br />
-
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `engine/src/flutter`<br />
-  <sub>[#161115](https://github.com/flutter/flutter/pull/161115) opened on on January 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161115) 54 additions and 11 deletions in 9 files</sub><br />
-
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter/test`<br />
-  <sub>[#161127](https://github.com/flutter/flutter/pull/161127) opened on on January 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161127) 5 additions and 1 deletion in 3 files</sub><br />
-
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Call codec.dispose in `flutter_test`<br />
-  <sub>[#161131](https://github.com/flutter/flutter/pull/161131) opened on on January 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161131) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `felt` link to point to flutter repo instead of the engine repo<br />
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
 
