@@ -75,7 +75,7 @@
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration<br />
-  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/161424) 54 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) opened on on January 10, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/161424) 54 additions and 12 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; When parsing flavors, handle Xcode build configurations that are not lowercase<br />
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 70 additions and 6 deletions in 2 files</sub><br />
