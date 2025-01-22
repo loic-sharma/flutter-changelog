@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-25 commits.
+27 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub>
@@ -32,6 +32,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable older xclipse gpu driver.
   <sub>[#161981](https://github.com/flutter/flutter/pull/161981) merged on January 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161981) over 4 hours, 46 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `font-subset` a standalone `run_tests.py` variant.
+  <sub>[#162016](https://github.com/flutter/flutter/pull/162016) merged on January 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162016) over 1 hour, 4 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] backfilling TextContents unit tests
   <sub>[#161625](https://github.com/flutter/flutter/pull/161625) merged on January 21, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/161625) over 6 days, 312 additions and 121 deletions in 7 files</sub>
@@ -84,6 +88,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Cleanup dead code 2
   <sub>[#161916](https://github.com/flutter/flutter/pull/161916) merged on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161916) over 13 hours, 0 additions and 67 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Chikamatsu Kazuya](https://github.com/chika3742)** &mdash; Match CupertinoPageTransitionsBuilder animation duration to CupertinoPageRoute (2)
+  <sub>[#161577](https://github.com/flutter/flutter/pull/161577) merged on January 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161577) over 1 week, 55 additions and 6 deletions in 5 files</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML from bots, test suites and e2e tests
   <sub>[#161537](https://github.com/flutter/flutter/pull/161537) merged on January 22, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/161537) over 1 week, 32 additions and 285 deletions in 8 files</sub>

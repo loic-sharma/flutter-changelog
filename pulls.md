@@ -9,7 +9,7 @@
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/157193) 107 additions and 123 deletions in 5 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
-  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/157515) 3693 additions and 2 deletions in 50 files</sub><br />
+  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/157515) 3652 additions and 2 deletions in 50 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Building flavors with native tooling<br />
   <sub>[#157871](https://github.com/flutter/flutter/pull/157871) opened on on October 30, 2024 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/157871) 399 additions and 85 deletions in 12 files</sub><br />
@@ -103,9 +103,6 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Add separate feature flag for the app migration<br />
   <sub>[#161832](https://github.com/flutter/flutter/pull/161832) opened on on January 17, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161832) 434 additions and 13 deletions in 11 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] adjust coverage origin when rounding out SaveLayer bounds.<br />
-  <sub>[#161838](https://github.com/flutter/flutter/pull/161838) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161838) 37 additions and 1 deletion in 2 files</sub><br />
 
 * **[Fichtelcoder](https://github.com/FrankenApps)** &mdash; Update Android integration test package for newer AGP<br />
   <sub>[#161856](https://github.com/flutter/flutter/pull/161856) opened on on January 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161856) 2 additions and 2 deletions in 1 file</sub><br />
