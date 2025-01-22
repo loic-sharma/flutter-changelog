@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-28 commits.
+29 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub>
@@ -77,6 +77,10 @@
 * **[Seth Fuller](https://github.com/sethmfuller)** &mdash; Fix incorrect [enabled] documentation
   <sub>[#161650](https://github.com/flutter/flutter/pull/161650) merged on January 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161650) over 1 week, 1 addition and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Add enabled property for search anchor named constructor
+  <sub>[#161468](https://github.com/flutter/flutter/pull/161468) merged on January 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161468) over 1 week, 29 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [chunhtai](https://github.com/chunhtai), [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Krzysztof Czarnota](https://github.com/czarny)** &mdash; Enabled provisioning updates and device registration during building xcarchive.
   <sub>[#159622](https://github.com/flutter/flutter/pull/159622) merged on January 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/159622) over 1 month, 11 additions and 0 deletions in 4 files</sub>
