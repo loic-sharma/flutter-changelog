@@ -173,9 +173,6 @@
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
 
-* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to version Version 3.8.0-19.0.dev<br />
-  <sub>[#161979](https://github.com/flutter/flutter/pull/161979) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161979) 11 additions and 11 deletions in 2 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable older xclipse gpu driver.<br />
   <sub>[#161981](https://github.com/flutter/flutter/pull/161981) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161981) 46 additions and 3 deletions in 3 files</sub><br />
 
