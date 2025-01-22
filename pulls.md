@@ -128,6 +128,9 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] prevent Vulkan usage on known emulators.<br />
   <sub>[#161833](https://github.com/flutter/flutter/pull/161833) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161833) 13 additions and 0 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] adjust coverage origin when rounding out SaveLayer bounds.<br />
+  <sub>[#161838](https://github.com/flutter/flutter/pull/161838) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161838) 37 additions and 1 deletion in 2 files</sub><br />
+
 * **[Fichtelcoder](https://github.com/FrankenApps)** &mdash; Update Android integration test package for newer AGP<br />
   <sub>[#161856](https://github.com/flutter/flutter/pull/161856) opened on on January 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161856) 2 additions and 2 deletions in 1 file</sub><br />
 
