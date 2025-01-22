@@ -125,3 +125,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `windows_host_engine_test` to presubmit, remove lint exceptions.<br />
   <sub>[#162032](https://github.com/flutter/flutter/pull/162032) opened on on January 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162032) 7 additions and 43 deletions in 5 files</sub><br />
 
+* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to Version 3.8.0-24.0.dev<br />
+  <sub>[#162035](https://github.com/flutter/flutter/pull/162035) opened on on January 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162035) 4 additions and 4 deletions in 2 files</sub><br />
+
