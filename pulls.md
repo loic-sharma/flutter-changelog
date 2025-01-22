@@ -125,3 +125,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `windows_host_engine_test` to presubmit, remove lint exceptions.<br />
   <sub>[#162032](https://github.com/flutter/flutter/pull/162032) opened on on January 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162032) 7 additions and 43 deletions in 5 files</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML renderer from framework tests<br />
+  <sub>[#162038](https://github.com/flutter/flutter/pull/162038) opened on on January 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162038) 558 additions and 986 deletions in 49 files</sub><br />
+
