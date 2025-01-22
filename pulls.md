@@ -38,9 +38,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Test generated localizations<br />
   <sub>[#160479](https://github.com/flutter/flutter/pull/160479) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160479) 19 additions and 1 deletion in 2 files</sub><br />
 
-* **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `const AnimationStyle`<br />
-  <sub>[#160564](https://github.com/flutter/flutter/pull/160564) opened on on December 19, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160564) 117 additions and 114 deletions in 25 files</sub><br />
-
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [iOS][Engine] Fix view removal process for AutofillContextAction.cancel<br />
   <sub>[#160653](https://github.com/flutter/flutter/pull/160653) opened on on December 20, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160653) 26 additions and 2 deletions in 2 files</sub><br />
 
