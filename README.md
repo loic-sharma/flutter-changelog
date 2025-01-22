@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-29 commits.
+31 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`<br />
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub><br />
@@ -23,6 +23,10 @@
   <sub>[#161811](https://github.com/flutter/flutter/pull/161811) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161811) over 3 days, 50 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1341" alt="Screenshot 2025-01-17 at 17 37 30" src="https://github.com/user-attachments/assets/fa3a6b46-07ae-4f41-9f8c-821943acdd4c" /><img width="1341" alt="Screenshot 2025-01-17 at 17 36 50" src="https://github.com/user-attachments/assets/6ffd2d19-fa61-4dc5-b5e7-bb0fc8c07008" /></details></sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove deprecated web-only APIs from dart:ui<br />
+  <sub>[#161775](https://github.com/flutter/flutter/pull/161775) merged on January 22, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/161775) over 5 days, 2 additions and 335 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Yegor](https://github.com/yjbanov), [Kevin Moore](https://github.com/kevmoo)</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove spam from test output<br />
   <sub>[#161774](https://github.com/flutter/flutter/pull/161774) merged on January 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161774) over 5 days, 72 additions and 74 deletions in 10 files</sub><br />
@@ -77,6 +81,10 @@
 * **[Seth Fuller](https://github.com/sethmfuller)** &mdash; Fix incorrect [enabled] documentation<br />
   <sub>[#161650](https://github.com/flutter/flutter/pull/161650) merged on January 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161650) over 1 week, 1 addition and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Greg Spencer](https://github.com/gspencergoog)</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds cupertino picker semantics test<br />
+  <sub>[#161768](https://github.com/flutter/flutter/pull/161768) merged on January 22, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/161768) over 6 days, 68 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Add enabled property for search anchor named constructor<br />
   <sub>[#161468](https://github.com/flutter/flutter/pull/161468) merged on January 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161468) over 1 week, 29 additions and 0 deletions in 2 files</sub><br />
