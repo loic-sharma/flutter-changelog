@@ -98,9 +98,6 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add timeouts and retries to calls to `xcrun xcodebuild -list`<br />
   <sub>[#161594](https://github.com/flutter/flutter/pull/161594) opened on on January 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161594) 54 additions and 9 deletions in 8 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Invoke ninja at the root of the repo<br />
-  <sub>[#161607](https://github.com/flutter/flutter/pull/161607) opened on on January 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161607) 27 additions and 2 deletions in 2 files</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML build artifacts<br />
   <sub>[#161611](https://github.com/flutter/flutter/pull/161611) opened on on January 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161611) 3 additions and 61 deletions in 1 file</sub><br />
 
