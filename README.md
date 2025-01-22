@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-23 commits.
+24 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`<br />
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub><br />
@@ -80,6 +80,10 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Cleanup dead code 2<br />
   <sub>[#161916](https://github.com/flutter/flutter/pull/161916) merged on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161916) over 13 hours, 0 additions and 67 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML from bots, test suites and e2e tests<br />
+  <sub>[#161537](https://github.com/flutter/flutter/pull/161537) merged on January 22, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/161537) over 1 week, 32 additions and 285 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire), [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Merge changelog for 3.27.3 release<br />
   <sub>[#161977](https://github.com/flutter/flutter/pull/161977) merged on January 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161977) over 3 hours, 5 additions and 0 deletions in 1 file</sub><br />
