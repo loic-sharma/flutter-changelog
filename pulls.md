@@ -98,23 +98,11 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Only create one <style> for SelectableRegion<br />
   <sub>[#161682](https://github.com/flutter/flutter/pull/161682) opened on on January 15, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161682) 232 additions and 148 deletions in 5 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Make pressing and moving on CupertinoButton closer to native behavior.<br />
-  <sub>[#161731](https://github.com/flutter/flutter/pull/161731) opened on on January 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161731) 224 additions and 11 deletions in 7 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Set `dart.flutterSdkPath` in vscode's settings.json.<br />
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove deprecated web-only APIs from dart:ui<br />
-  <sub>[#161775](https://github.com/flutter/flutter/pull/161775) opened on on January 16, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161775) 2 additions and 335 deletions in 9 files</sub><br />
-
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Test frob engine<br />
   <sub>[#161794](https://github.com/flutter/flutter/pull/161794) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161794) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix(CupertinoListTile): Click to wait.<br />
-  <sub>[#161799](https://github.com/flutter/flutter/pull/161799) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161799) 12 additions and 5 deletions in 2 files</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Slider` thumb cannot reach extreme ends<br />
-  <sub>[#161814](https://github.com/flutter/flutter/pull/161814) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161814) 96 additions and 7 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Revert "Move the analyzer_benchmark to Mac arm64 devicelab bots"<br />
   <sub>[#161822](https://github.com/flutter/flutter/pull/161822) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161822) 7 additions and 3 deletions in 1 file</sub><br />
@@ -128,17 +116,8 @@
 * **[Fichtelcoder](https://github.com/FrankenApps)** &mdash; Update Android integration test package for newer AGP<br />
   <sub>[#161856](https://github.com/flutter/flutter/pull/161856) opened on on January 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161856) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Sarbagya Dhaubanjar](https://github.com/sarbagyastha)** &mdash; Added date picker delegate to support custom calendar systems<br />
-  <sub>[#161874](https://github.com/flutter/flutter/pull/161874) opened on on January 19, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161874) 487 additions and 113 deletions in 4 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
-
-* **[Gagan Yadav](https://github.com/gaganyadav80)** &mdash; fix: appbar leading width is not square for custom toolbar height<br />
-  <sub>[#161880](https://github.com/flutter/flutter/pull/161880) opened on on January 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161880) 87 additions and 2 deletions in 3 files</sub><br />
-
-* **[Paulik8](https://github.com/Paulik8)** &mdash; Fix issue #156954: Wrong dateHelpText in MaterialLocalizationIt<br />
-  <sub>[#161889](https://github.com/flutter/flutter/pull/161889) opened on on January 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161889) 13 additions and 2 deletions in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for detecting previews and generating code<br />
   <sub>[#161911](https://github.com/flutter/flutter/pull/161911) opened on on January 20, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161911) 543 additions and 26 deletions in 7 files</sub><br />

@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-22 commits.
+23 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub>
@@ -14,6 +14,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ flutter_tool ] Fix flakiness in doctor_test.dart
   <sub>[#161917](https://github.com/flutter/flutter/pull/161917) merged on January 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161917) over 2 hours, 521 additions and 723 deletions in 10 files</sub>
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Expand the `.ci.yaml` and `builder.json` linter
+  <sub>[#161991](https://github.com/flutter/flutter/pull/161991) merged on January 22, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/161991) over 16 hours, 432 additions and 51 deletions in 6 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` test to prevent log dump and test error message.
   <sub>[#161811](https://github.com/flutter/flutter/pull/161811) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161811) over 3 days, 50 additions and 4 deletions in 1 file</sub>
