@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-18 commits.
+19 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub>
@@ -44,6 +44,10 @@
 * **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available
   <sub>[#154941](https://github.com/flutter/flutter/pull/154941) merged on January 21, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/154941) over 4 months, 82 additions and 12 deletions in 4 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ThemeData.indicatorColor` in favor of `TabBarThemeData.indicatorColor`
+  <sub>[#160024](https://github.com/flutter/flutter/pull/160024) merged on January 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160024) over 1 month, 152 additions and 58 deletions in 7 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark Linux_pixel_7pro flavors_test unflaky
   <sub>[#160994](https://github.com/flutter/flutter/pull/160994) merged on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160994) over 3 weeks, 0 additions and 1 deletion in 1 file</sub>
