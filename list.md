@@ -4,7 +4,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-20 commits.
+22 commits.
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub>
@@ -60,6 +60,14 @@
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Cleanup dead code
   <sub>[#161913](https://github.com/flutter/flutter/pull/161913) merged on January 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161913) over 4 hours, 0 additions and 13 deletions in 6 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Seth Fuller](https://github.com/sethmfuller)** &mdash; Fix incorrect [enabled] documentation
+  <sub>[#161650](https://github.com/flutter/flutter/pull/161650) merged on January 22, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161650) over 1 week, 1 addition and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Greg Spencer](https://github.com/gspencergoog)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `windows_host_engine_test`.
+  <sub>[#161992](https://github.com/flutter/flutter/pull/161992) merged on January 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161992) over 15 hours, 69 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.
   <sub>[#161841](https://github.com/flutter/flutter/pull/161841) merged on January 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161841) over 3 days, 21 additions and 0 deletions in 2 files</sub>

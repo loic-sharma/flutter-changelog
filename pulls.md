@@ -126,7 +126,7 @@
   <sub>[#161832](https://github.com/flutter/flutter/pull/161832) opened on on January 17, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/161832) 434 additions and 13 deletions in 11 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] adjust coverage origin when rounding out SaveLayer bounds.<br />
-  <sub>[#161838](https://github.com/flutter/flutter/pull/161838) opened on on January 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161838) 37 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#161838](https://github.com/flutter/flutter/pull/161838) opened on on January 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161838) 37 additions and 1 deletion in 2 files</sub><br />
 
 * **[Fichtelcoder](https://github.com/FrankenApps)** &mdash; Update Android integration test package for newer AGP<br />
   <sub>[#161856](https://github.com/flutter/flutter/pull/161856) opened on on January 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161856) 2 additions and 2 deletions in 1 file</sub><br />
@@ -146,9 +146,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for detecting previews and generating code<br />
   <sub>[#161911](https://github.com/flutter/flutter/pull/161911) opened on on January 20, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161911) 543 additions and 26 deletions in 7 files</sub><br />
 
-* **[oussama berhili](https://github.com/berhili098)** &mdash; (Dev): Format all files<br />
-  <sub>[#161938](https://github.com/flutter/flutter/pull/161938) opened on on January 21, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161938) 3118 additions and 398 deletions in 14 files</sub><br />
-
 * **[Wasmund1](https://github.com/Wasmund1)** &mdash; Drag handle semantic role<br />
   <sub>[#161941](https://github.com/flutter/flutter/pull/161941) opened on on January 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161941) 2 additions and 0 deletions in 2 files</sub><br />
 
@@ -157,7 +154,4 @@
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [WIP] expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
-
-* **[Ryan Ferrell](https://github.com/importRyan)** &mdash; Avoid iOS text selection crash by returning nil range<br />
-  <sub>[#161996](https://github.com/flutter/flutter/pull/161996) opened on on January 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161996) 29 additions and 2 deletions in 3 files</sub><br />
 
