@@ -125,3 +125,6 @@
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 298 additions and 0 deletions in 2 files</sub><br />
 
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
+  <sub>[#162068](https://github.com/flutter/flutter/pull/162068) opened on on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162068) 3 additions and 3 deletions in 2 files</sub><br />
+
