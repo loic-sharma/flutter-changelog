@@ -968,7 +968,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-6 commits.
+7 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1<br />
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub><br />
@@ -985,6 +985,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [rfw] Activate leak testing<br />
   <sub>[#8370](https://github.com/flutter/packages/pull/8370) merged on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8370) over 2 weeks, 63 additions and 1 deletion in 9 files</sub><br />
   <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Reference alternate macOS implementations<br />
+  <sub>[#8487](https://github.com/flutter/packages/pull/8487) merged on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8487) over 2 hours, 14 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Olli Helenius](https://github.com/liff)** &mdash; [camera] Add API support query for image streaming (app-facing)<br />
   <sub>[#8422](https://github.com/flutter/packages/pull/8422) merged on January 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8422) over 1 week, 40 additions and 20 deletions in 5 files</sub><br />
