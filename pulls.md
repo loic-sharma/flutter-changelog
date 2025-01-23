@@ -119,3 +119,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Keyboard tidy ups<br />
   <sub>[#162054](https://github.com/flutter/flutter/pull/162054) opened on on January 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162054) 1459 additions and 697 deletions in 11 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace hacky code creating fake devices<br />
+  <sub>[#162056](https://github.com/flutter/flutter/pull/162056) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162056) 14 additions and 37 deletions in 2 files</sub><br />
+
