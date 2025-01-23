@@ -59,7 +59,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Migrate unit tests off of Skia geometry classes
-  <sub>[#161855](https://github.com/flutter/flutter/pull/161855) merged on January 22, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/161855) over 4 days, 1281 additions and 1087 deletions in 25 files</sub>
+  <sub>[#161855](https://github.com/flutter/flutter/pull/161855) merged on January 22, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/161855) over 4 days, 1281 additions and 1087 deletions in 25 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to version Version 3.8.0-19.0.dev
@@ -899,11 +899,19 @@
 
 ### January 18, 2025 to January 24, 2025
 
-2 commits.
+4 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtool
+  <sub>[#8322](https://github.com/flutter/packages/pull/8322) merged on January 23, 2025 &mdash; **Extra large:** [15 comments](https://github.com/flutter/packages/pull/8322) over 1 month, 4580 additions and 1 deletion in 38 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
+
+* **[Olli Helenius](https://github.com/liff)** &mdash; [camera] Add API support query for image streaming (app-facing)
+  <sub>[#8422](https://github.com/flutter/packages/pull/8422) merged on January 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8422) over 1 week, 40 additions and 20 deletions in 5 files</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Allow blank lines in federated package changes
   <sub>[#8468](https://github.com/flutter/packages/pull/8468) merged on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8468) over 3 hours, 6 additions and 3 deletions in 2 files</sub>
