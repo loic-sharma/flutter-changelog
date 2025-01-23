@@ -976,14 +976,14 @@
 
 ### January 18, 2025 to January 24, 2025
 
-7 commits.
+8 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1<br />
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtool<br />
-  <sub>[#8322](https://github.com/flutter/packages/pull/8322) merged on January 23, 2025 &mdash; **Extra large:** [20 comments](https://github.com/flutter/packages/pull/8322) over 1 month, 4580 additions and 1 deletion in 38 files</sub><br />
+  <sub>[#8322](https://github.com/flutter/packages/pull/8322) merged on January 23, 2025 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/8322) over 1 month, 4580 additions and 1 deletion in 38 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [video_player] Activate leak testing<br />
@@ -993,6 +993,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [rfw] Activate leak testing<br />
   <sub>[#8370](https://github.com/flutter/packages/pull/8370) merged on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8370) over 2 weeks, 63 additions and 1 deletion in 9 files</sub><br />
   <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub><br />
+
+* **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update in_app_purchase_android version in in_app_purchase<br />
+  <sub>[#8463](https://github.com/flutter/packages/pull/8463) merged on January 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/8463) over 3 days, 14 additions and 13 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [image_picker] Reference alternate macOS implementations<br />
   <sub>[#8487](https://github.com/flutter/packages/pull/8487) merged on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8487) over 2 hours, 14 additions and 3 deletions in 3 files</sub><br />
