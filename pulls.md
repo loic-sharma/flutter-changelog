@@ -56,9 +56,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; When parsing flavors, handle Xcode build configurations that are not lowercase<br />
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 72 additions and 6 deletions in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove "Mac Designed for iPad" as a discoverable `flutter run` device<br />
-  <sub>[#161459](https://github.com/flutter/flutter/pull/161459) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161459) 24 additions and 106 deletions in 7 files</sub><br />
-
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
   <sub>[#161487](https://github.com/flutter/flutter/pull/161487) opened on on January 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161487) 59 additions and 40 deletions in 2 files</sub><br />
 
@@ -112,4 +109,7 @@
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation<br />
   <sub>[#162097](https://github.com/flutter/flutter/pull/162097) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162097) 127 additions and 3 deletions in 2 files</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Fix skwasm target in wasm_debug_unopt build.<br />
+  <sub>[#162100](https://github.com/flutter/flutter/pull/162100) opened on on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162100) 7 additions and 4 deletions in 5 files</sub><br />
 
