@@ -114,7 +114,7 @@
   <sub>[#162038](https://github.com/flutter/flutter/pull/162038) opened on on January 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162038) 558 additions and 986 deletions in 49 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: flutter_tester is a host artifact<br />
-  <sub>[#162047](https://github.com/flutter/flutter/pull/162047) opened on on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162047) 5 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#162047](https://github.com/flutter/flutter/pull/162047) opened on on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162047) 5 additions and 12 deletions in 2 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; remove conditional code for handling very old AGP versions<br />
   <sub>[#162053](https://github.com/flutter/flutter/pull/162053) opened on on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162053) 12 additions and 17 deletions in 1 file</sub><br />
