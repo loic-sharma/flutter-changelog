@@ -62,9 +62,6 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
   <sub>[#161487](https://github.com/flutter/flutter/pull/161487) opened on on January 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161487) 59 additions and 40 deletions in 2 files</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Dispose after using ImmutableBuffer<br />
-  <sub>[#161488](https://github.com/flutter/flutter/pull/161488) opened on on January 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161488) 79 additions and 24 deletions in 2 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
@@ -117,5 +114,5 @@
   <sub>[#162038](https://github.com/flutter/flutter/pull/162038) opened on on January 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162038) 558 additions and 986 deletions in 49 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: flutter_tester is a host artifact<br />
-  <sub>[#162047](https://github.com/flutter/flutter/pull/162047) opened on on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162047) 4 additions and 12 deletions in 2 files</sub><br />
+  <sub>[#162047](https://github.com/flutter/flutter/pull/162047) opened on on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162047) 5 additions and 12 deletions in 2 files</sub><br />
 
