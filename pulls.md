@@ -114,7 +114,7 @@
   <sub>[#162047](https://github.com/flutter/flutter/pull/162047) opened on on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162047) 5 additions and 12 deletions in 2 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; remove conditional code for handling very old AGP versions<br />
-  <sub>[#162053](https://github.com/flutter/flutter/pull/162053) opened on on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162053) 12 additions and 17 deletions in 1 file</sub><br />
+  <sub>[#162053](https://github.com/flutter/flutter/pull/162053) opened on on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162053) 21 additions and 21 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Keyboard tidy ups<br />
   <sub>[#162054](https://github.com/flutter/flutter/pull/162054) opened on on January 23, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162054) 1459 additions and 697 deletions in 11 files</sub><br />
