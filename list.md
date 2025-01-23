@@ -1000,7 +1000,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-9 commits.
+10 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub>
@@ -1011,7 +1011,7 @@
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
 * **[Affan Shaikhsurab](https://github.com/AffanShaikhsurab)** &mdash; [go _route] fragment parameter added
-  <sub>[#8232](https://github.com/flutter/packages/pull/8232) merged on January 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8232) over 1 month, 102 additions and 24 deletions in 8 files</sub>
+  <sub>[#8232](https://github.com/flutter/packages/pull/8232) merged on January 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8232) over 1 month, 102 additions and 24 deletions in 8 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [video_player] Activate leak testing
@@ -1021,6 +1021,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [rfw] Activate leak testing
   <sub>[#8370](https://github.com/flutter/packages/pull/8370) merged on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8370) over 2 weeks, 63 additions and 1 deletion in 9 files</sub>
   <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] fixes event channel dart instance name usage and adds test
+  <sub>[#8483](https://github.com/flutter/packages/pull/8483) merged on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8483) over 21 hours, 197 additions and 10 deletions in 14 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update in_app_purchase_android version in in_app_purchase
   <sub>[#8463](https://github.com/flutter/packages/pull/8463) merged on January 23, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/8463) over 3 days, 14 additions and 13 deletions in 5 files</sub>
