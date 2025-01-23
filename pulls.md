@@ -120,7 +120,7 @@
   <sub>[#162054](https://github.com/flutter/flutter/pull/162054) opened on on January 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162054) 1459 additions and 697 deletions in 11 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace hacky code creating fake devices<br />
-  <sub>[#162056](https://github.com/flutter/flutter/pull/162056) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162056) 14 additions and 37 deletions in 2 files</sub><br />
+  <sub>[#162056](https://github.com/flutter/flutter/pull/162056) opened on on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162056) 14 additions and 37 deletions in 2 files</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 298 additions and 0 deletions in 2 files</sub><br />
