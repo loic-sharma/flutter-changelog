@@ -196,7 +196,7 @@
   <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Show error on macOS if missing Local Network permissions
-  <sub>[#161846](https://github.com/flutter/flutter/pull/161846) merged on January 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/161846) over 5 days, 145 additions and 38 deletions in 2 files</sub>
+  <sub>[#161846](https://github.com/flutter/flutter/pull/161846) merged on January 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161846) over 5 days, 145 additions and 38 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Shift `mac_clang_tidy` to a Linux orchestrator.
