@@ -54,7 +54,7 @@
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; When parsing flavors, handle Xcode build configurations that are not lowercase<br />
-  <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 72 additions and 6 deletions in 2 files</sub><br />
+  <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161455) 72 additions and 6 deletions in 2 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
   <sub>[#161487](https://github.com/flutter/flutter/pull/161487) opened on on January 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161487) 59 additions and 40 deletions in 2 files</sub><br />
@@ -99,11 +99,8 @@
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML renderer from framework tests<br />
-  <sub>[#162038](https://github.com/flutter/flutter/pull/162038) opened on on January 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162038) 991 additions and 1461 deletions in 49 files</sub><br />
+  <sub>[#162038](https://github.com/flutter/flutter/pull/162038) opened on on January 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162038) 965 additions and 1417 deletions in 49 files</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 299 additions and 0 deletions in 2 files</sub><br />
-
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Align nav bar bottom transition with large title animation<br />
-  <sub>[#162097](https://github.com/flutter/flutter/pull/162097) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162097) 127 additions and 3 deletions in 2 files</sub><br />
 
