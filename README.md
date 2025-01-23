@@ -911,7 +911,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-4 commits.
+5 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1<br />
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub><br />
@@ -920,6 +920,10 @@
 * **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtool<br />
   <sub>[#8322](https://github.com/flutter/packages/pull/8322) merged on January 23, 2025 &mdash; **Extra large:** [15 comments](https://github.com/flutter/packages/pull/8322) over 1 month, 4580 additions and 1 deletion in 38 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [video_player] Activate leak testing<br />
+  <sub>[#8379](https://github.com/flutter/packages/pull/8379) merged on January 23, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/8379) over 2 weeks, 55 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Olli Helenius](https://github.com/liff)** &mdash; [camera] Add API support query for image streaming (app-facing)<br />
   <sub>[#8422](https://github.com/flutter/packages/pull/8422) merged on January 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8422) over 1 week, 40 additions and 20 deletions in 5 files</sub><br />
