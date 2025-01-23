@@ -57,7 +57,7 @@
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161455) 72 additions and 6 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Remove "Mac Designed for iPad" as a discoverable `flutter run` device<br />
-  <sub>[#161459](https://github.com/flutter/flutter/pull/161459) opened on on January 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161459) 24 additions and 106 deletions in 7 files</sub><br />
+  <sub>[#161459](https://github.com/flutter/flutter/pull/161459) opened on on January 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161459) 24 additions and 106 deletions in 7 files</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
   <sub>[#161487](https://github.com/flutter/flutter/pull/161487) opened on on January 12, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161487) 59 additions and 40 deletions in 2 files</sub><br />
