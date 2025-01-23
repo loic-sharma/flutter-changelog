@@ -50,9 +50,6 @@
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Roll gn to c97a86a72105f3328a540f5a5ab17d11989ab7dd<br />
   <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161012) 8 additions and 9 deletions in 5 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `felt` link to point to flutter repo instead of the engine repo<br />
-  <sub>[#161423](https://github.com/flutter/flutter/pull/161423) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161423) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; When parsing flavors, handle Xcode build configurations that are not lowercase<br />
   <sub>[#161455](https://github.com/flutter/flutter/pull/161455) opened on on January 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161455) 72 additions and 6 deletions in 2 files</sub><br />
 
@@ -77,6 +74,9 @@
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
   <sub>[#161826](https://github.com/flutter/flutter/pull/161826) opened on on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161826) 83 additions and 35 deletions in 2 files</sub><br />
 
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Removes dev dependencies from generated plugin registrant for non-Android platforms<br />
+  <sub>[#161828](https://github.com/flutter/flutter/pull/161828) opened on on January 17, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161828) 584 additions and 74 deletions in 9 files</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Add separate feature flag for the app migration<br />
   <sub>[#161832](https://github.com/flutter/flutter/pull/161832) opened on on January 17, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161832) 434 additions and 13 deletions in 11 files</sub><br />
 
@@ -100,6 +100,9 @@
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 299 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Skip clip entity replay that cannot impact current clip.<br />
+  <sub>[#162113](https://github.com/flutter/flutter/pull/162113) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162113) 4 additions and 0 deletions in 1 file</sub><br />
 
 * **[jesswrd](https://github.com/jesswrd)** &mdash; Add to Setup Path Example to Engine README<br />
   <sub>[#162115](https://github.com/flutter/flutter/pull/162115) opened on on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162115) 5 additions and 1 deletion in 2 files</sub><br />
