@@ -108,16 +108,13 @@
   <sub>[#162032](https://github.com/flutter/flutter/pull/162032) opened on on January 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162032) 7 additions and 44 deletions in 5 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML renderer from framework tests<br />
-  <sub>[#162038](https://github.com/flutter/flutter/pull/162038) opened on on January 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162038) 558 additions and 986 deletions in 49 files</sub><br />
+  <sub>[#162038](https://github.com/flutter/flutter/pull/162038) opened on on January 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162038) 991 additions and 1463 deletions in 49 files</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: flutter_tester is a host artifact<br />
   <sub>[#162047](https://github.com/flutter/flutter/pull/162047) opened on on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162047) 5 additions and 12 deletions in 2 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; remove conditional code for handling very old AGP versions<br />
   <sub>[#162053](https://github.com/flutter/flutter/pull/162053) opened on on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162053) 21 additions and 21 deletions in 1 file</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Keyboard tidy ups<br />
-  <sub>[#162054](https://github.com/flutter/flutter/pull/162054) opened on on January 23, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162054) 1459 additions and 697 deletions in 11 files</sub><br />
 
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 298 additions and 0 deletions in 2 files</sub><br />
