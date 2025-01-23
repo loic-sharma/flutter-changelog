@@ -107,9 +107,6 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: flutter_tester is a host artifact<br />
   <sub>[#162047](https://github.com/flutter/flutter/pull/162047) opened on on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162047) 5 additions and 12 deletions in 2 files</sub><br />
 
-* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; remove conditional code for handling very old AGP versions<br />
-  <sub>[#162053](https://github.com/flutter/flutter/pull/162053) opened on on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162053) 19 additions and 21 deletions in 1 file</sub><br />
-
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 298 additions and 0 deletions in 2 files</sub><br />
 
