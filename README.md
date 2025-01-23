@@ -1004,7 +1004,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-10 commits.
+12 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1<br />
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub><br />
@@ -1021,6 +1021,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [video_player] Activate leak testing<br />
   <sub>[#8379](https://github.com/flutter/packages/pull/8379) merged on January 23, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/8379) over 2 weeks, 55 additions and 0 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Polina Cherkasova](https://github.com/polina-c), [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Kabo](https://github.com/kaboc)** &mdash; [go_router] Fix return type of current state getter to be non-nullable<br />
+  <sub>[#8173](https://github.com/flutter/packages/pull/8173) merged on January 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8173) over 1 month, 19 additions and 17 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [rfw] Activate leak testing<br />
   <sub>[#8370](https://github.com/flutter/packages/pull/8370) merged on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8370) over 2 weeks, 63 additions and 1 deletion in 9 files</sub><br />
@@ -1044,6 +1048,10 @@
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [tool] Allow blank lines in federated package changes<br />
   <sub>[#8468](https://github.com/flutter/packages/pull/8468) merged on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8468) over 3 hours, 6 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[shared_preferences] Add shared preferences devtool"<br />
+  <sub>[#8493](https://github.com/flutter/packages/pull/8493) merged on January 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/8493) over 4 hours, 1 addition and 4580 deletions in 38 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### January 11, 2025 to January 17, 2025
