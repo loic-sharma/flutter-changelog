@@ -168,7 +168,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unskip test.<br />
-  <sub>[#162106](https://github.com/flutter/flutter/pull/162106) merged on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162106) over 44 minutes, 2 additions and 6 deletions in 1 file</sub><br />
+  <sub>[#162106](https://github.com/flutter/flutter/pull/162106) merged on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162106) over 44 minutes, 2 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Add ability to maintain bottom view padding in `NavigationBar` safe area<br />
