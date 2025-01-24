@@ -116,3 +116,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move FlTextInputHandler from FlView<br />
   <sub>[#162131](https://github.com/flutter/flutter/pull/162131) opened on on January 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162131) 296 additions and 483 deletions in 20 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Replace `OverlayEntry` in `Draggable` with `OverlayPortal`.<br />
+  <sub>[#162133](https://github.com/flutter/flutter/pull/162133) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162133) 139 additions and 61 deletions in 3 files</sub><br />
+
