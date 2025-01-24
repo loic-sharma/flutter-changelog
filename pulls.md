@@ -104,3 +104,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Replace `OverlayEntry` in `Draggable` with `OverlayPortal`.<br />
   <sub>[#162133](https://github.com/flutter/flutter/pull/162133) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162133) 139 additions and 58 deletions in 3 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use a supported description of macOS in drone dimensions.<br />
+  <sub>[#162164](https://github.com/flutter/flutter/pull/162164) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162164) 3 additions and 3 deletions in 2 files</sub><br />
+
