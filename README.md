@@ -43,8 +43,8 @@
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration<br />
-  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) merged on January 23, 2025 &mdash; **Small:** [42 comments](https://github.com/flutter/flutter/pull/161424) over 1 week, 52 additions and 12 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno D'Luka](https://github.com/bdlukaa), [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
+  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) merged on January 23, 2025 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/161424) over 1 week, 52 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno D'Luka](https://github.com/bdlukaa), [Zixuan Li](https://github.com/PIG208), [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete keyboard navigation<br />
   <sub>[#159455](https://github.com/flutter/flutter/pull/159455) merged on January 23, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/159455) over 1 month, 450 additions and 46 deletions in 4 files</sub><br />
