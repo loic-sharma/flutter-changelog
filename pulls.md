@@ -95,9 +95,6 @@
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 299 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Skip clip entity replay that cannot impact current clip.<br />
-  <sub>[#162113](https://github.com/flutter/flutter/pull/162113) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162113) 34 additions and 0 deletions in 4 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move FlTextInputHandler from FlView<br />
   <sub>[#162131](https://github.com/flutter/flutter/pull/162131) opened on on January 24, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162131) 296 additions and 483 deletions in 20 files</sub><br />
 
