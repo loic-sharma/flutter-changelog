@@ -1029,7 +1029,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-13 commits.
+14 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub>
@@ -1038,6 +1038,10 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] Tool for migrating from legacy shared_preferences to shared_preferences_async
   <sub>[#8229](https://github.com/flutter/packages/pull/8229) merged on January 24, 2025 &mdash; **Medium:** [33 comments](https://github.com/flutter/packages/pull/8229) over 1 month, 334 additions and 15 deletions in 8 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from CameraExposureTests and CameraFocusTests
+  <sub>[#8351](https://github.com/flutter/packages/pull/8351) merged on January 24, 2025 &mdash; **Large:** [28 comments](https://github.com/flutter/packages/pull/8351) over 3 weeks, 857 additions and 148 deletions in 25 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtool
   <sub>[#8322](https://github.com/flutter/packages/pull/8322) merged on January 23, 2025 &mdash; **Extra large:** [21 comments](https://github.com/flutter/packages/pull/8322) over 1 month, 4580 additions and 1 deletion in 38 files</sub>
