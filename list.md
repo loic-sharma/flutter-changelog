@@ -1129,7 +1129,7 @@
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; [local_auth_darwin] Handle when FaceID hardware is available but permissions have been denied for the app
-  <sub>[#8348](https://github.com/flutter/packages/pull/8348) merged on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8348) over 3 weeks, 30 additions and 4 deletions in 4 files</sub>
+  <sub>[#8348](https://github.com/flutter/packages/pull/8348) merged on January 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8348) over 3 weeks, 30 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; [two_dimensional_scrollables] prepare for `const AnimationStyle`
