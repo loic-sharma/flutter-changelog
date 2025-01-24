@@ -1248,7 +1248,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-9 commits.
+10 commits.
 
 * **[Cell](https://github.com/CellCS)** &mdash; Issue-11599: update dart:js_interop hyperlink<br />
   <sub>[#11600](https://github.com/flutter/website/pull/11600) merged on January 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11600) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1270,6 +1270,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Clean up copy and formatting on Android deployment page<br />
   <sub>[#11609](https://github.com/flutter/website/pull/11609) merged on January 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11609) over 3 hours, 143 additions and 115 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update platforms.yml to indicated that api 35 is supported.<br />
+  <sub>[#11617](https://github.com/flutter/website/pull/11617) merged on January 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11617) over 1 hour, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Navigate to a new screen ... > Add additional navigation methods <br />
   <sub>[#11612](https://github.com/flutter/website/pull/11612) merged on January 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11612) over 31 minutes, 33 additions and 3 deletions in 2 files</sub><br />
