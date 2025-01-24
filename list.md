@@ -1053,7 +1053,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-16 commits.
+17 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub>
@@ -1082,6 +1082,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ios_platform_images] Switch to `loadImage`
   <sub>[#8216](https://github.com/flutter/packages/pull/8216) merged on January 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8216) over 1 month, 6 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
+
+* **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtool
+  <sub>[#8494](https://github.com/flutter/packages/pull/8494) merged on January 24, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/packages/pull/8494) over 21 hours, 4581 additions and 2 deletions in 39 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [video_player] Activate leak testing
   <sub>[#8379](https://github.com/flutter/packages/pull/8379) merged on January 23, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/8379) over 2 weeks, 55 additions and 0 deletions in 3 files</sub>
