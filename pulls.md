@@ -113,3 +113,27 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Make CupertinoSheetRoute usable with Cupertino(Sliver)NavigationBar<br />
   <sub>[#162181](https://github.com/flutter/flutter/pull/162181) opened on on January 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162181) 24 additions and 6 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] check both linear sampling props for AHBs. (#162043)<br />
+  <sub>[#162187](https://github.com/flutter/flutter/pull/162187) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162187) 6 additions and 3 deletions in 1 file</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][impeller] prevent PowerVR from using Vulkan backend. (#161841)<br />
+  <sub>[#162188](https://github.com/flutter/flutter/pull/162188) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162188) 21 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] adjust coverage origin when rounding out SaveLayer bounds  (#161838)<br />
+  <sub>[#162189](https://github.com/flutter/flutter/pull/162189) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162189) 40 additions and 1 deletion in 3 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impellerc] correctly pad arrays of vec3s in reflector. (#161697)<br />
+  <sub>[#162190](https://github.com/flutter/flutter/pull/162190) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162190) 53 additions and 5 deletions in 4 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] remove Adreno denylist entries. (#161740)<br />
+  <sub>[#162191](https://github.com/flutter/flutter/pull/162191) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162191) 9 additions and 19 deletions in 2 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] use 3 fences to synchronize AHB swapchains (like we do for KHR)<br />
+  <sub>[#162192](https://github.com/flutter/flutter/pull/162192) opened on on January 24, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162192) 221 additions and 172 deletions in 7 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] when mips are disabled, also disable from sampler options (#161765)<br />
+  <sub>[#162193](https://github.com/flutter/flutter/pull/162193) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162193) 61 additions and 4 deletions in 6 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Update partial repaint to use a fullsize onscreen. (#161626)<br />
+  <sub>[#162194](https://github.com/flutter/flutter/pull/162194) opened on on January 24, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162194) 310 additions and 70 deletions in 14 files</sub><br />
+
