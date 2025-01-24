@@ -29,14 +29,14 @@
   <sub>[#161459](https://github.com/flutter/flutter/pull/161459) merged on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161459) over 1 week, 24 additions and 106 deletions in 7 files</sub><br />
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ flutter_tool ] Fix flakiness in doctor_test.dart<br />
-  <sub>[#161917](https://github.com/flutter/flutter/pull/161917) merged on January 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161917) over 2 hours, 521 additions and 723 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
-
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `ListTile` test to prevent log dump and test error message.<br />
   <sub>[#161811](https://github.com/flutter/flutter/pull/161811) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161811) over 3 days, 50 additions and 4 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1341" alt="Screenshot 2025-01-17 at 17 37 30" src="https://github.com/user-attachments/assets/fa3a6b46-07ae-4f41-9f8c-821943acdd4c" /><img width="1341" alt="Screenshot 2025-01-17 at 17 36 50" src="https://github.com/user-attachments/assets/6ffd2d19-fa61-4dc5-b5e7-bb0fc8c07008" /></details></sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ flutter_tool ] Fix flakiness in doctor_test.dart<br />
+  <sub>[#161917](https://github.com/flutter/flutter/pull/161917) merged on January 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161917) over 2 hours, 521 additions and 723 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Expand the `.ci.yaml` and `builder.json` linter<br />
   <sub>[#161991](https://github.com/flutter/flutter/pull/161991) merged on January 22, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/161991) over 16 hours, 432 additions and 51 deletions in 6 files</sub><br />
