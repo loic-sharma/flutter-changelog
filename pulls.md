@@ -137,3 +137,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Update partial repaint to use a fullsize onscreen. (#161626)<br />
   <sub>[#162194](https://github.com/flutter/flutter/pull/162194) opened on on January 24, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162194) 310 additions and 70 deletions in 14 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Skip clip entity replay that cannot impact current clip. (#162113)<br />
+  <sub>[#162195](https://github.com/flutter/flutter/pull/162195) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162195) 38 additions and 0 deletions in 4 files</sub><br />
+
