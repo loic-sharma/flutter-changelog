@@ -81,7 +81,7 @@
   <sub>[#161832](https://github.com/flutter/flutter/pull/161832) opened on on January 17, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/161832) 434 additions and 13 deletions in 11 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
-  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for detecting previews and generating code<br />
   <sub>[#161911](https://github.com/flutter/flutter/pull/161911) opened on on January 20, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/161911) 552 additions and 26 deletions in 7 files</sub><br />
