@@ -116,3 +116,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Replace `OverlayEntry` in `Draggable` with `OverlayPortal`.<br />
   <sub>[#162133](https://github.com/flutter/flutter/pull/162133) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162133) 139 additions and 58 deletions in 3 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Make InputDecorator start padding compliant with M3 spec<br />
+  <sub>[#162157](https://github.com/flutter/flutter/pull/162157) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162157) 225 additions and 60 deletions in 5 files</sub><br />
+
