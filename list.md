@@ -1041,7 +1041,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-14 commits.
+15 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub>
@@ -1062,6 +1062,10 @@
 * **[Affan Shaikhsurab](https://github.com/AffanShaikhsurab)** &mdash; [go _route] fragment parameter added
   <sub>[#8232](https://github.com/flutter/packages/pull/8232) merged on January 23, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/packages/pull/8232) over 1 month, 102 additions and 24 deletions in 8 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ios_platform_images] Switch to `loadImage`
+  <sub>[#8216](https://github.com/flutter/packages/pull/8216) merged on January 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8216) over 1 month, 6 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub>
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [video_player] Activate leak testing
   <sub>[#8379](https://github.com/flutter/packages/pull/8379) merged on January 23, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/packages/pull/8379) over 2 weeks, 55 additions and 0 deletions in 3 files</sub>

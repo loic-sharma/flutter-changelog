@@ -104,3 +104,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Use a supported description of macOS in drone dimensions.<br />
   <sub>[#162164](https://github.com/flutter/flutter/pull/162164) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162164) 3 additions and 3 deletions in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when a command pool has many unused buffers, trim the pool after resetting it.<br />
+  <sub>[#162171](https://github.com/flutter/flutter/pull/162171) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162171) 84 additions and 11 deletions in 4 files</sub><br />
+
