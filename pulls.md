@@ -86,9 +86,6 @@
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [WIP] expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML renderer from framework tests<br />
-  <sub>[#162038](https://github.com/flutter/flutter/pull/162038) opened on on January 22, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162038) 944 additions and 1340 deletions in 48 files</sub><br />
-
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 299 additions and 0 deletions in 2 files</sub><br />
 
