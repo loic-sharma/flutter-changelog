@@ -138,5 +138,5 @@
   <sub>[#162195](https://github.com/flutter/flutter/pull/162195) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162195) 38 additions and 0 deletions in 4 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Update semantics merge logic to take into account ignore pointer<br />
-  <sub>[#162200](https://github.com/flutter/flutter/pull/162200) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162200) 58 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#162200](https://github.com/flutter/flutter/pull/162200) opened on on January 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162200) 58 additions and 1 deletion in 2 files</sub><br />
 
