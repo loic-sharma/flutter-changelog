@@ -104,9 +104,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix link to hotfix documentation best practices<br />
   <sub>[#162116](https://github.com/flutter/flutter/pull/162116) opened on on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162116) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [beta] Show error on macOS if missing Local Network permissions<br />
-  <sub>[#162119](https://github.com/flutter/flutter/pull/162119) opened on on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162119) 145 additions and 38 deletions in 2 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move FlTextInputHandler from FlView<br />
   <sub>[#162131](https://github.com/flutter/flutter/pull/162131) opened on on January 24, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162131) 296 additions and 483 deletions in 20 files</sub><br />
 
