@@ -221,7 +221,7 @@
   <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] check both linear sampling props for AHBs.<br />
-  <sub>[#162043](https://github.com/flutter/flutter/pull/162043) merged on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162043) over 16 hours, 6 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#162043](https://github.com/flutter/flutter/pull/162043) merged on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162043) over 16 hours, 6 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Show error on macOS if missing Local Network permissions<br />
