@@ -96,21 +96,25 @@
   <sub>[#160974](https://github.com/flutter/flutter/pull/160974) merged on January 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160974) over 3 weeks, 31 additions and 17 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: flutter_tester is a host artifact<br />
-  <sub>[#162047](https://github.com/flutter/flutter/pull/162047) merged on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162047) over 19 hours, 5 additions and 12 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Do not handle Dart isolate messages if the isolate is being shut down<br />
   <sub>[#161824](https://github.com/flutter/flutter/pull/161824) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161824) over 4 days, 3 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
-  <sub>[#154941](https://github.com/flutter/flutter/pull/154941) merged on January 21, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/154941) over 4 months, 82 additions and 12 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; flutter_tools: flutter_tester is a host artifact<br />
+  <sub>[#162047](https://github.com/flutter/flutter/pull/162047) merged on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162047) over 19 hours, 5 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.<br />
+  <sub>[#161841](https://github.com/flutter/flutter/pull/161841) merged on January 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161841) over 3 days, 21 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Remove FlKeyboardViewDelegate<br />
   <sub>[#161705](https://github.com/flutter/flutter/pull/161705) merged on January 21, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/161705) over 5 days, 61 additions and 388 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[saltedpotatos](https://github.com/saltedpotatos)** &mdash; Don't crash flutter tool if Chrome is not available<br />
+  <sub>[#154941](https://github.com/flutter/flutter/pull/154941) merged on January 21, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/154941) over 4 months, 82 additions and 12 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Keyboard tidy ups<br />
   <sub>[#162054](https://github.com/flutter/flutter/pull/162054) merged on January 23, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162054) over 13 hours, 1459 additions and 697 deletions in 11 files</sub><br />
@@ -124,21 +128,17 @@
   <sub>[#161788](https://github.com/flutter/flutter/pull/161788) merged on January 22, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/161788) over 5 days, 118 additions and 9 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [John McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a README with instructions for editing and running tests for the FGP<br />
-  <sub>[#161830](https://github.com/flutter/flutter/pull/161830) merged on January 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/161830) over 5 days, 32 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a better error message when `flutter drive --target` is used incorrectly.<br />
   <sub>[#162023](https://github.com/flutter/flutter/pull/162023) merged on January 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162023) over 9 hours, 97 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.<br />
-  <sub>[#161841](https://github.com/flutter/flutter/pull/161841) merged on January 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161841) over 3 days, 21 additions and 0 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [John McDole](https://github.com/jtmcdole)</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark Linux_pixel_7pro flavors_test unflaky<br />
   <sub>[#160994](https://github.com/flutter/flutter/pull/160994) merged on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160994) over 3 weeks, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a README with instructions for editing and running tests for the FGP<br />
+  <sub>[#161830](https://github.com/flutter/flutter/pull/161830) merged on January 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/161830) over 5 days, 32 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Cleanup dead code<br />
   <sub>[#161913](https://github.com/flutter/flutter/pull/161913) merged on January 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161913) over 4 hours, 0 additions and 13 deletions in 6 files</sub><br />
@@ -180,9 +180,9 @@
   <sub>[#159622](https://github.com/flutter/flutter/pull/159622) merged on January 22, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/159622) over 1 month, 11 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix source offset in PathBuilder::AddPath<br />
-  <sub>[#162052](https://github.com/flutter/flutter/pull/162052) merged on January 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162052) over 1 day, 27 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
+  <sub>[#162017](https://github.com/flutter/flutter/pull/162017) merged on January 23, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/162017) over 15 hours, 185 additions and 184 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unskip test.<br />
   <sub>[#162106](https://github.com/flutter/flutter/pull/162106) merged on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162106) over 44 minutes, 2 additions and 6 deletions in 1 file</sub><br />
@@ -204,9 +204,9 @@
   <sub>[#161846](https://github.com/flutter/flutter/pull/161846) merged on January 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161846) over 5 days, 145 additions and 38 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add piping and bringup nodes for `_vulkan` and `_opengles` suites.<br />
-  <sub>[#162020](https://github.com/flutter/flutter/pull/162020) merged on January 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162020) over 2 hours, 73 additions and 23 deletions in 12 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [John McDole](https://github.com/jtmcdole)</sub><br />
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix source offset in PathBuilder::AddPath<br />
+  <sub>[#162052](https://github.com/flutter/flutter/pull/162052) merged on January 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162052) over 1 day, 27 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Shift `mac_clang_tidy` to a Linux orchestrator.<br />
   <sub>[#162042](https://github.com/flutter/flutter/pull/162042) merged on January 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/162042) over 17 hours, 30 additions and 0 deletions in 2 files</sub><br />
@@ -220,13 +220,13 @@
   <sub>[#161834](https://github.com/flutter/flutter/pull/161834) merged on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161834) over 5 days, 36 additions and 1 deletion in 4 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add piping and bringup nodes for `_vulkan` and `_opengles` suites.<br />
+  <sub>[#162020](https://github.com/flutter/flutter/pull/162020) merged on January 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162020) over 2 hours, 73 additions and 23 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [John McDole](https://github.com/jtmcdole)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] check both linear sampling props for AHBs.<br />
   <sub>[#162043](https://github.com/flutter/flutter/pull/162043) merged on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162043) over 16 hours, 6 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
-* **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
-  <sub>[#162017](https://github.com/flutter/flutter/pull/162017) merged on January 23, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/162017) over 15 hours, 185 additions and 184 deletions in 21 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Roll dependencies<br />
   <sub>[#162068](https://github.com/flutter/flutter/pull/162068) merged on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162068) over 1 hour, 3 additions and 3 deletions in 2 files</sub><br />
