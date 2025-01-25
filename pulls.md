@@ -132,5 +132,5 @@
   <sub>[#162207](https://github.com/flutter/flutter/pull/162207) opened on on January 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162207) 101 additions and 12 deletions in 4 files</sub><br />
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix FGP's generateLockfiles task always executing its action at configuration time<br />
-  <sub>[#162220](https://github.com/flutter/flutter/pull/162220) opened on on January 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162220) 9 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#162220](https://github.com/flutter/flutter/pull/162220) opened on on January 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162220) 9 additions and 7 deletions in 1 file</sub><br />
 
