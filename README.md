@@ -68,6 +68,10 @@
   <sub>[#161518](https://github.com/flutter/flutter/pull/161518) merged on January 25, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/161518) over 1 week, 41 additions and 12 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ThemeData.indicatorColor` in favor of `TabBarThemeData.indicatorColor`<br />
+  <sub>[#160024](https://github.com/flutter/flutter/pull/160024) merged on January 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160024) over 1 month, 152 additions and 58 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+
 * **[Nate Wilson](https://github.com/nate-thegrate)** &mdash; `const AnimationStyle`<br />
   <sub>[#160564](https://github.com/flutter/flutter/pull/160564) merged on January 22, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/160564) over 1 month, 117 additions and 114 deletions in 25 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
@@ -91,10 +95,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.<br />
   <sub>[#161841](https://github.com/flutter/flutter/pull/161841) merged on January 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161841) over 3 days, 21 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [John McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ThemeData.indicatorColor` in favor of `TabBarThemeData.indicatorColor`<br />
-  <sub>[#160024](https://github.com/flutter/flutter/pull/160024) merged on January 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160024) over 1 month, 152 additions and 58 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `font-subset` a standalone `run_tests.py` variant.<br />
   <sub>[#162016](https://github.com/flutter/flutter/pull/162016) merged on January 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162016) over 1 hour, 4 additions and 4 deletions in 4 files</sub><br />
