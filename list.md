@@ -1272,7 +1272,7 @@
 
 ### January 18, 2025 to January 24, 2025
 
-10 commits.
+11 commits.
 
 * **[Cell](https://github.com/CellCS)** &mdash; Issue-11599: update dart:js_interop hyperlink
   <sub>[#11600](https://github.com/flutter/website/pull/11600) merged on January 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11600) over 4 days, 1 addition and 1 deletion in 1 file</sub>
@@ -1286,6 +1286,10 @@
 * **[Fedor Blagodyr](https://github.com/feduke-nukem)** &mdash; Corrects Swift background threads example
   <sub>[#11610](https://github.com/flutter/website/pull/11610) merged on January 23, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11610) over 1 day, 2 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Update instructions to increase OS version
+  <sub>[#11620](https://github.com/flutter/website/pull/11620) merged on January 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11620) over 3 hours, 23 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter engine license location
   <sub>[#11594](https://github.com/flutter/website/pull/11594) merged on January 21, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11594) over 5 days, 2 additions and 2 deletions in 1 file</sub>
