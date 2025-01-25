@@ -34,6 +34,10 @@
   <sub>Reviewed by: [Bruno Leroux](https://github.com/bleroux)</sub><br />
   <sub><details><summary>2 images...</summary><img width="1341" alt="Screenshot 2025-01-17 at 17 37 30" src="https://github.com/user-attachments/assets/fa3a6b46-07ae-4f41-9f8c-821943acdd4c" /><img width="1341" alt="Screenshot 2025-01-17 at 17 36 50" src="https://github.com/user-attachments/assets/6ffd2d19-fa61-4dc5-b5e7-bb0fc8c07008" /></details></sub>
 
+* **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration<br />
+  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) merged on January 23, 2025 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/161424) over 1 week, 52 additions and 12 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno D'Luka](https://github.com/bdlukaa), [Zixuan Li](https://github.com/PIG208), [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ flutter_tool ] Fix flakiness in doctor_test.dart<br />
   <sub>[#161917](https://github.com/flutter/flutter/pull/161917) merged on January 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161917) over 2 hours, 521 additions and 723 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Daco Harkes](https://github.com/dcharkes)</sub><br />
@@ -41,10 +45,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Expand the `.ci.yaml` and `builder.json` linter<br />
   <sub>[#161991](https://github.com/flutter/flutter/pull/161991) merged on January 22, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/161991) over 16 hours, 432 additions and 51 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub><br />
-
-* **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration<br />
-  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) merged on January 23, 2025 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/161424) over 1 week, 52 additions and 12 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno D'Luka](https://github.com/bdlukaa), [Zixuan Li](https://github.com/PIG208), [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; Autocomplete keyboard navigation<br />
   <sub>[#159455](https://github.com/flutter/flutter/pull/159455) merged on January 23, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/159455) over 1 month, 450 additions and 46 deletions in 4 files</sub><br />
