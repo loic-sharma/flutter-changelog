@@ -131,6 +131,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] when a command pool has many unused buffers, reset with release resources flag.<br />
   <sub>[#162207](https://github.com/flutter/flutter/pull/162207) opened on on January 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162207) 101 additions and 12 deletions in 4 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; feat: Add selectionColor property for SelectableText<br />
-  <sub>[#162211](https://github.com/flutter/flutter/pull/162211) opened on on January 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162211) 32 additions and 4 deletions in 2 files</sub><br />
-
