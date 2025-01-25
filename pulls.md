@@ -101,9 +101,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Don't install xcode when doing `local_engine` web builds on mac.<br />
   <sub>[#162164](https://github.com/flutter/flutter/pull/162164) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162164) 12 additions and 2 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when a command pool has many unused buffers, reset with release resources flag.<br />
-  <sub>[#162171](https://github.com/flutter/flutter/pull/162171) opened on on January 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162171) 101 additions and 12 deletions in 4 files</sub><br />
-
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; feat: Add selectionColor property to selectable text<br />
   <sub>[#162177](https://github.com/flutter/flutter/pull/162177) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162177) 47 additions and 5 deletions in 2 files</sub><br />
 
