@@ -1308,7 +1308,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [SwiftPM] Update instructions to increase OS version
-  <sub>[#11620](https://github.com/flutter/website/pull/11620) merged on January 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11620) over 3 hours, 23 additions and 4 deletions in 1 file</sub>
+  <sub>[#11620](https://github.com/flutter/website/pull/11620) merged on January 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11620) over 3 hours, 23 additions and 4 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Update Flutter engine license location
