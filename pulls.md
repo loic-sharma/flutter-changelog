@@ -89,9 +89,6 @@
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 299 additions and 0 deletions in 2 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Move FlTextInputHandler from FlView<br />
-  <sub>[#162131](https://github.com/flutter/flutter/pull/162131) opened on on January 24, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162131) 296 additions and 483 deletions in 20 files</sub><br />
-
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Stable] Revert: Fix DropdownMenu rendered behind AppBar (#159907)<br />
   <sub>[#162132](https://github.com/flutter/flutter/pull/162132) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162132) 52 additions and 63 deletions in 3 files</sub><br />
 
@@ -139,4 +136,7 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: RangeError when selecting text in SelectionArea<br />
   <sub>[#162228](https://github.com/flutter/flutter/pull/162228) opened on on January 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162228) 85 additions and 1 deletion in 2 files</sub><br />
+
+* **[Paulik8](https://github.com/Paulik8)** &mdash; Added equals and hashCode for TextInputConfiguration and AutofillConfiguration<br />
+  <sub>[#162238](https://github.com/flutter/flutter/pull/162238) opened on on January 26, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162238) 403 additions and 0 deletions in 4 files</sub><br />
 
