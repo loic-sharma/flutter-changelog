@@ -137,3 +137,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Allow the Slider to always show the value indicator.<br />
   <sub>[#162223](https://github.com/flutter/flutter/pull/162223) opened on on January 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162223) 459 additions and 123 deletions in 6 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: RangeError when selecting text in SelectionArea<br />
+  <sub>[#162228](https://github.com/flutter/flutter/pull/162228) opened on on January 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162228) 85 additions and 1 deletion in 2 files</sub><br />
+
