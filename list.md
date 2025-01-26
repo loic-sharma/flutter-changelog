@@ -245,7 +245,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unskip test.
-  <sub>[#162106](https://github.com/flutter/flutter/pull/162106) merged on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162106) over 44 minutes, 2 additions and 6 deletions in 1 file</sub>
+  <sub>[#162106](https://github.com/flutter/flutter/pull/162106) merged on January 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162106) over 44 minutes, 2 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix source offset in PathBuilder::AddPath
