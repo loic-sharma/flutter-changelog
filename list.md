@@ -725,9 +725,18 @@
 
 ## flutter/packages
 
+### January 25, 2025 to January 31, 2025
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android type mismatch regression
+  <sub>[#8512](https://github.com/flutter/packages/pull/8512) merged on January 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8512) over 3 hours, 261 additions and 38 deletions in 10 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
 ### January 18, 2025 to January 24, 2025
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [in_app_purchase] Update Play Billing library to 7.1.1
   <sub>[#8218](https://github.com/flutter/packages/pull/8218) merged on January 20, 2025 &mdash; **Extra large:** [30 comments](https://github.com/flutter/packages/pull/8218) over 1 month, 1630 additions and 1935 deletions in 51 files</sub>
@@ -796,6 +805,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[shared_preferences] Add shared preferences devtool"
   <sub>[#8493](https://github.com/flutter/packages/pull/8493) merged on January 23, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/packages/pull/8493) over 4 hours, 1 addition and 4580 deletions in 38 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+</details>
 
 ### January 11, 2025 to January 17, 2025
 
