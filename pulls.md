@@ -125,6 +125,9 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Skip clip entity replay that cannot impact current clip. (#162113)<br />
   <sub>[#162195](https://github.com/flutter/flutter/pull/162195) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162195) 38 additions and 0 deletions in 4 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make swapchain related external fence/semaphore extensions optional.<br />
+  <sub>[#162205](https://github.com/flutter/flutter/pull/162205) opened on on January 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162205) 99 additions and 7 deletions in 4 files</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] when a command pool has many unused buffers, reset with release resources flag.<br />
   <sub>[#162207](https://github.com/flutter/flutter/pull/162207) opened on on January 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162207) 101 additions and 12 deletions in 4 files</sub><br />
 
