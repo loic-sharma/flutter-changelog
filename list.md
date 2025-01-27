@@ -707,7 +707,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [shared_preferences] update List<String> encode/decode
-  <sub>[#8335](https://github.com/flutter/packages/pull/8335) merged on January 24, 2025 &mdash; **Large:** [66 comments](https://github.com/flutter/packages/pull/8335) over 1 month, 894 additions and 303 deletions in 18 files</sub>
+  <sub>[#8335](https://github.com/flutter/packages/pull/8335) merged on January 24, 2025 &mdash; **Large:** [68 comments](https://github.com/flutter/packages/pull/8335) over 1 month, 894 additions and 303 deletions in 18 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from CameraExposureTests and CameraFocusTests
