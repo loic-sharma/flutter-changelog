@@ -147,5 +147,8 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Fix update_engine_version_test in presence of FLUTTER_PREBUILT_ENGINE_VERSION env vars.<br />
-  <sub>[#162270](https://github.com/flutter/flutter/pull/162270) opened on on January 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162270) 61 additions and 57 deletions in 1 file</sub><br />
+  <sub>[#162270](https://github.com/flutter/flutter/pull/162270) opened on on January 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162270) 64 additions and 60 deletions in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Table implements redepth<br />
+  <sub>[#162282](https://github.com/flutter/flutter/pull/162282) opened on on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162282) 35 additions and 0 deletions in 2 files</sub><br />
 
