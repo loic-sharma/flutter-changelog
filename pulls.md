@@ -137,3 +137,6 @@
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Added equals and hashCode for TextInputConfiguration and AutofillConfiguration<br />
   <sub>[#162238](https://github.com/flutter/flutter/pull/162238) opened on on January 26, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162238) 403 additions and 0 deletions in 4 files</sub><br />
 
+* **[Johnson ](https://github.com/johnson1940)** &mdash; added borderRadius for the divider<br />
+  <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
+
