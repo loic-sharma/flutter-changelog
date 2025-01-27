@@ -4,11 +4,15 @@
 
 ### January 25, 2025 to January 31, 2025
 
-2 commits.
+3 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable the Android Engine OpenGLES/Vulkan suites.<br />
   <sub>[#162258](https://github.com/flutter/flutter/pull/162258) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162258) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `felt` link to point to flutter repo instead of the engine repo<br />
+  <sub>[#161423](https://github.com/flutter/flutter/pull/161423) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161423) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix debug build for CanvasKit<br />
   <sub>[#162198](https://github.com/flutter/flutter/pull/162198) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162198) over 2 days, 12 additions and 4 deletions in 2 files</sub><br />
@@ -826,9 +830,18 @@
 
 ## flutter/website
 
+### January 25, 2025 to January 31, 2025
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update footer for new redesign<br />
+  <sub>[#11623](https://github.com/flutter/website/pull/11623) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11623) over 17 hours, 132 additions and 113 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [John Ryan](https://github.com/johnpryan)</sub><br />
+
 ### January 18, 2025 to January 24, 2025
 
-11 commits.
+<details>
+<summary>11 commits...</summary>
 
 * **[Cell](https://github.com/CellCS)** &mdash; Issue-11599: update dart:js_interop hyperlink<br />
   <sub>[#11600](https://github.com/flutter/website/pull/11600) merged on January 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11600) over 4 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -874,6 +887,8 @@
 * **[Parishith Ragumar](https://github.com/ragupari)** &mdash; Typo in Update buttons.md<br />
   <sub>[#11605](https://github.com/flutter/website/pull/11605) merged on January 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11605) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### January 11, 2025 to January 17, 2025
 
