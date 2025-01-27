@@ -840,7 +840,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-4 commits.
+5 commits.
 
 * **[James Williams](https://github.com/jwill)** &mdash; Create a "Flutter for Jetpack Compose developers" page
   <sub>[#11232](https://github.com/flutter/website/pull/11232) merged on January 27, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/website/pull/11232) over 3 months, 875 additions and 1 deletion in 2 files</sub>
@@ -852,6 +852,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update footer for new redesign
   <sub>[#11623](https://github.com/flutter/website/pull/11623) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11623) over 17 hours, 132 additions and 113 deletions in 8 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [John Ryan](https://github.com/johnpryan)</sub>
+
+* **[Reza Farjam](https://github.com/reza00farjam)** &mdash; Add documentation for `RefreshIndicator.adaptive()` in platform adaptations
+  <sub>[#11627](https://github.com/flutter/website/pull/11627) merged on January 27, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/11627) over 7 hours, 2 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [John Ryan](https://github.com/johnpryan)</sub>
 
 * **[Wizston](https://github.com/wizston)** &mdash; Minor Website Text Correction
