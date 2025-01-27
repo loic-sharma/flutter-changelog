@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-3 commits.
+4 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable the Android Engine OpenGLES/Vulkan suites.
   <sub>[#162258](https://github.com/flutter/flutter/pull/162258) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162258) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
@@ -17,6 +17,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix debug build for CanvasKit
   <sub>[#162198](https://github.com/flutter/flutter/pull/162198) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162198) over 2 days, 12 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Ryan Ferrell](https://github.com/importRyan)** &mdash; Avoid iOS text selection crash by returning nil range
+  <sub>[#161996](https://github.com/flutter/flutter/pull/161996) merged on January 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161996) over 5 days, 29 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Chris Bracken](https://github.com/cbracken)</sub>
 
 ### January 18, 2025 to January 24, 2025
 
