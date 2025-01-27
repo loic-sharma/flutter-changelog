@@ -2,9 +2,22 @@
 
 ## flutter/flutter
 
+### January 25, 2025 to January 31, 2025
+
+2 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable the Android Engine OpenGLES/Vulkan suites.<br />
+  <sub>[#162258](https://github.com/flutter/flutter/pull/162258) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162258) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix debug build for CanvasKit<br />
+  <sub>[#162198](https://github.com/flutter/flutter/pull/162198) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162198) over 2 days, 12 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 ### January 18, 2025 to January 24, 2025
 
-81 commits.
+<details>
+<summary>81 commits...</summary>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField intrinsic width when hint is not visible<br />
   <sub>[#161235](https://github.com/flutter/flutter/pull/161235) merged on January 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/161235) over 2 weeks, 156 additions and 17 deletions in 2 files</sub><br />
@@ -335,6 +348,8 @@
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_mokey run_debug_test_android to be flaky<br />
   <sub>[#161656](https://github.com/flutter/flutter/pull/161656) merged on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161656) over 6 days, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+</details>
 
 ### January 11, 2025 to January 17, 2025
 
