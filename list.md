@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-5 commits.
+6 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [DisplayList] Move nested canvas enums into their own TU.
   <sub>[#162037](https://github.com/flutter/flutter/pull/162037) merged on January 27, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/162037) over 5 days, 706 additions and 731 deletions in 64 files</sub>
@@ -17,6 +17,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `felt` link to point to flutter repo instead of the engine repo
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161423) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Don't depend on Dart from FML.
+  <sub>[#162271](https://github.com/flutter/flutter/pull/162271) merged on January 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162271) over 2 hours, 1 addition and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix debug build for CanvasKit
   <sub>[#162198](https://github.com/flutter/flutter/pull/162198) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162198) over 2 days, 12 additions and 4 deletions in 2 files</sub>

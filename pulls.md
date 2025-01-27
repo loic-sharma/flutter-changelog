@@ -153,5 +153,5 @@
   <sub>[#162282](https://github.com/flutter/flutter/pull/162282) opened on on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162282) 36 additions and 0 deletions in 2 files</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; DO NOT SUBMIT (testing)<br />
-  <sub>[#162284](https://github.com/flutter/flutter/pull/162284) opened on on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162284) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#162284](https://github.com/flutter/flutter/pull/162284) opened on on January 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162284) 1 addition and 1 deletion in 1 file</sub><br />
 
