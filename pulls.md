@@ -134,6 +134,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: RangeError when selecting text in SelectionArea<br />
   <sub>[#162228](https://github.com/flutter/flutter/pull/162228) opened on on January 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162228) 85 additions and 1 deletion in 2 files</sub><br />
 
+* **[Seunghyun Min](https://github.com/MinSeungHyun)** &mdash; Add missing space between DayPeriodControl and time control in time picker<br />
+  <sub>[#162230](https://github.com/flutter/flutter/pull/162230) opened on on January 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162230) 65 additions and 19 deletions in 2 files</sub><br />
+
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Added equals and hashCode for TextInputConfiguration and AutofillConfiguration<br />
   <sub>[#162238](https://github.com/flutter/flutter/pull/162238) opened on on January 26, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162238) 403 additions and 0 deletions in 4 files</sub><br />
 
