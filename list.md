@@ -16,6 +16,10 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/6c4deed2-eb61-4c0a-912e-dba364013038)![image](https://github.com/user-attachments/assets/1dee5cda-9885-47c1-92a6-afbbc2312266)</details></sub>
 
+* **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration
+  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) merged on January 23, 2025 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/161424) over 1 week, 52 additions and 12 deletions in 2 files</sub>
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno D'Luka](https://github.com/bdlukaa), [Zixuan Li](https://github.com/PIG208), [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub>
+
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix failing lint : findByPath requires a specific ordering of project evaluation in `aar_init_script.gradle`
   <sub>[#159301](https://github.com/flutter/flutter/pull/159301) merged on January 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/159301) over 2 months, 7 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [jesswrd](https://github.com/jesswrd), [Gray Mackall](https://github.com/gmackall)</sub>
@@ -37,10 +41,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Pin `customer_testing` to the SHA specified in `tests.version`
   <sub>[#162048](https://github.com/flutter/flutter/pull/162048) merged on January 25, 2025 &mdash; **Medium:** [17 comments](https://github.com/flutter/flutter/pull/162048) over 2 days, 139 additions and 163 deletions in 7 files</sub>
   <sub>Reviewed by: [Harri Kirik](https://github.com/harri35), [Greg Price](https://github.com/gnprice), [Zachary Anderson](https://github.com/zanderso), [John McDole](https://github.com/jtmcdole)</sub>
-
-* **[Mahesh Jamdade](https://github.com/maheshj01)** &mdash; feat: Add `hint` (Widget) property to InputDecoration
-  <sub>[#161424](https://github.com/flutter/flutter/pull/161424) merged on January 23, 2025 &mdash; **Small:** [43 comments](https://github.com/flutter/flutter/pull/161424) over 1 week, 52 additions and 12 deletions in 2 files</sub>
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno D'Luka](https://github.com/bdlukaa), [Zixuan Li](https://github.com/PIG208), [Bruno Leroux](https://github.com/bleroux), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ flutter_tool ] Fix flakiness in doctor_test.dart
   <sub>[#161917](https://github.com/flutter/flutter/pull/161917) merged on January 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/161917) over 2 hours, 521 additions and 723 deletions in 10 files</sub>
