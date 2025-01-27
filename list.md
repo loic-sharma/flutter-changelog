@@ -20,8 +20,8 @@
 <summary>81 commits...</summary>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix TextField intrinsic width when hint is not visible
-  <sub>[#161235](https://github.com/flutter/flutter/pull/161235) merged on January 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/161235) over 2 weeks, 156 additions and 17 deletions in 2 files</sub>
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
+  <sub>[#161235](https://github.com/flutter/flutter/pull/161235) merged on January 24, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/161235) over 2 weeks, 156 additions and 17 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Nate Wilson](https://github.com/nate-thegrate)</sub>
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/88c42a31-d83e-4eb8-8286-dce5b07ef089)![image](https://github.com/user-attachments/assets/5b7380f8-4bc8-4d37-974e-0c8f5b08b185)</details></sub>
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField clips text when large text scale is used
