@@ -66,7 +66,7 @@
   <sub>[#161794](https://github.com/flutter/flutter/pull/161794) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161794) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
-  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) opened on on January 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/161826) 83 additions and 35 deletions in 2 files</sub><br />
+  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) opened on on January 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/161826) 83 additions and 35 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Removes dev dependencies from generated plugin registrant for non-Android platforms<br />
   <sub>[#161828](https://github.com/flutter/flutter/pull/161828) opened on on January 17, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/161828) 533 additions and 83 deletions in 9 files</sub><br />
@@ -151,4 +151,7 @@
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; DO NOT SUBMIT (testing)<br />
   <sub>[#162284](https://github.com/flutter/flutter/pull/162284) opened on on January 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162284) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role checks<br />
+  <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162290) 135 additions and 0 deletions in 2 files</sub><br />
 

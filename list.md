@@ -727,7 +727,15 @@
 
 ### January 25, 2025 to January 31, 2025
 
-1 commits.
+3 commits.
+
+* **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_platform_interface] Platform view support
+  <sub>[#8453](https://github.com/flutter/packages/pull/8453) merged on January 27, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8453) over 1 week, 81 additions and 17 deletions in 7 files</sub>
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [multicast_dns] Rewrite `_readFQDN` to avoid recursion
+  <sub>[#8390](https://github.com/flutter/packages/pull/8390) merged on January 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8390) over 2 weeks, 89 additions and 68 deletions in 4 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android type mismatch regression
   <sub>[#8512](https://github.com/flutter/packages/pull/8512) merged on January 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8512) over 3 hours, 261 additions and 38 deletions in 10 files</sub>
