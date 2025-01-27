@@ -140,9 +140,6 @@
 * **[Johnson ](https://github.com/johnson1940)** &mdash; added borderRadius for the divider<br />
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add TextFormField.errorBuilder<br />
-  <sub>[#162255](https://github.com/flutter/flutter/pull/162255) opened on on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162255) 48 additions and 1 deletion in 2 files</sub><br />
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Fix update_engine_version_test in presence of FLUTTER_PREBUILT_ENGINE_VERSION env vars.<br />
   <sub>[#162270](https://github.com/flutter/flutter/pull/162270) opened on on January 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162270) 61 additions and 57 deletions in 1 file</sub><br />
 
