@@ -836,7 +836,11 @@
 
 ### January 25, 2025 to January 31, 2025
 
-3 commits.
+4 commits.
+
+* **[James Williams](https://github.com/jwill)** &mdash; Create a "Flutter for Jetpack Compose developers" page<br />
+  <sub>[#11232](https://github.com/flutter/website/pull/11232) merged on January 27, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/website/pull/11232) over 3 months, 875 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove a few bootstrap variable and util usages<br />
   <sub>[#11624](https://github.com/flutter/website/pull/11624) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11624) over 17 hours, 65 additions and 101 deletions in 10 files</sub><br />
