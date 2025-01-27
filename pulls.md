@@ -146,3 +146,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add TextFormField.errorBuilder<br />
   <sub>[#162255](https://github.com/flutter/flutter/pull/162255) opened on on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162255) 48 additions and 1 deletion in 2 files</sub><br />
 
+* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to version Version 3.8.0-39.0.dev<br />
+  <sub>[#162259](https://github.com/flutter/flutter/pull/162259) opened on on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162259) 13 additions and 11 deletions in 2 files</sub><br />
+

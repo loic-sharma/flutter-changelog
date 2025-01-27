@@ -727,7 +727,7 @@
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[adsonpleal](https://github.com/adsonpleal)** &mdash; [shared_preferences] Add shared preferences devtool<br />
-  <sub>[#8494](https://github.com/flutter/packages/pull/8494) merged on January 24, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/8494) over 21 hours, 4581 additions and 2 deletions in 39 files</sub><br />
+  <sub>[#8494](https://github.com/flutter/packages/pull/8494) merged on January 24, 2025 &mdash; **Extra large:** [10 comments](https://github.com/flutter/packages/pull/8494) over 21 hours, 4581 additions and 2 deletions in 39 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [video_player] Activate leak testing<br />
