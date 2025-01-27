@@ -836,7 +836,11 @@
 
 ### January 25, 2025 to January 31, 2025
 
-1 commits.
+2 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove a few bootstrap variable and util usages<br />
+  <sub>[#11624](https://github.com/flutter/website/pull/11624) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11624) over 17 hours, 65 additions and 101 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [John Ryan](https://github.com/johnpryan)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update footer for new redesign<br />
   <sub>[#11623](https://github.com/flutter/website/pull/11623) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11623) over 17 hours, 132 additions and 113 deletions in 8 files</sub><br />
