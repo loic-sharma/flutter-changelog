@@ -931,10 +931,14 @@
 
 ### January 25, 2025 to January 31, 2025
 
-8 commits.
+9 commits.
 
 * **[James Williams](https://github.com/jwill)** &mdash; Create a "Flutter for Jetpack Compose developers" page
   <sub>[#11232](https://github.com/flutter/website/pull/11232) merged on January 27, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/website/pull/11232) over 3 months, 875 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; Add documentation for the new Flutter inspector
+  <sub>[#11629](https://github.com/flutter/website/pull/11629) merged on January 28, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/website/pull/11629) over 22 hours, 696 additions and 78 deletions in 18 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update the Flutter SDK Archive
