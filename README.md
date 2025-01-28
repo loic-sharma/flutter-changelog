@@ -4,11 +4,15 @@
 
 ### January 25, 2025 to January 31, 2025
 
-8 commits.
+9 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add missing `properties: ...` and move to presubmit.<br />
   <sub>[#162170](https://github.com/flutter/flutter/pull/162170) merged on January 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162170) over 3 days, 30 additions and 26 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Fix update_engine_version_test in presence of FLUTTER_PREBUILT_ENGINE_VERSION env vars.<br />
+  <sub>[#162270](https://github.com/flutter/flutter/pull/162270) merged on January 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162270) over 5 hours, 64 additions and 60 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [DisplayList] Move nested canvas enums into their own TU.<br />
   <sub>[#162037](https://github.com/flutter/flutter/pull/162037) merged on January 27, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/162037) over 5 days, 706 additions and 731 deletions in 64 files</sub><br />
