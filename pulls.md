@@ -62,9 +62,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Set `dart.flutterSdkPath` in vscode's settings.json.<br />
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jia Hao](https://github.com/jiahaog)** &mdash; Test frob engine<br />
-  <sub>[#161794](https://github.com/flutter/flutter/pull/161794) opened on on January 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161794) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
   <sub>[#161826](https://github.com/flutter/flutter/pull/161826) opened on on January 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/161826) 83 additions and 35 deletions in 2 files</sub><br />
 
