@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-14 commits.
+17 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `scenario_app/android` and rename to `ios_scenario_app`.
   <sub>[#160992](https://github.com/flutter/flutter/pull/160992) merged on January 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/160992) over 4 weeks, 164 additions and 6597 deletions in 252 files</sub>
@@ -18,6 +18,10 @@
   <sub>[#162170](https://github.com/flutter/flutter/pull/162170) merged on January 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162170) over 3 days, 30 additions and 26 deletions in 2 files</sub>
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Started adjusting uvs to match pixel snapping.
+  <sub>[#162049](https://github.com/flutter/flutter/pull/162049) merged on January 28, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/162049) over 5 days, 254 additions and 95 deletions in 10 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Fix update_engine_version_test in presence of FLUTTER_PREBUILT_ENGINE_VERSION env vars.
   <sub>[#162270](https://github.com/flutter/flutter/pull/162270) merged on January 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162270) over 5 hours, 64 additions and 60 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -30,9 +34,17 @@
   <sub>[#162258](https://github.com/flutter/flutter/pull/162258) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162258) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside flutter.groovy 
+  <sub>[#160250](https://github.com/flutter/flutter/pull/160250) merged on January 28, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/160250) over 1 month, 14 additions and 19 deletions in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make swapchain related external fence/semaphore extensions optional.
   <sub>[#162205](https://github.com/flutter/flutter/pull/162205) merged on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162205) over 2 days, 99 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Support hot restart for DDC library bundle format
+  <sub>[#162123](https://github.com/flutter/flutter/pull/162123) merged on January 28, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/162123) over 4 days, 217 additions and 33 deletions in 10 files</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Nicholas Shahan](https://github.com/nshahan), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `felt` link to point to flutter repo instead of the engine repo
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161423) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
