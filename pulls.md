@@ -78,7 +78,7 @@
   <sub>[#161911](https://github.com/flutter/flutter/pull/161911) opened on on January 20, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/161911) 551 additions and 25 deletions in 7 files</sub><br />
 
 * **[Wasmund1](https://github.com/Wasmund1)** &mdash; Drag handle semantic role<br />
-  <sub>[#161941](https://github.com/flutter/flutter/pull/161941) opened on on January 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161941) 2 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#161941](https://github.com/flutter/flutter/pull/161941) opened on on January 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161941) 2 additions and 0 deletions in 2 files</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SegmentedButton` border doesn't respect hovered, focused, selected states<br />
   <sub>[#161942](https://github.com/flutter/flutter/pull/161942) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161942) 193 additions and 67 deletions in 4 files</sub><br />
@@ -125,9 +125,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Skip clip entity replay that cannot impact current clip. (#162113)<br />
   <sub>[#162195](https://github.com/flutter/flutter/pull/162195) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162195) 38 additions and 0 deletions in 4 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make swapchain related external fence/semaphore extensions optional.<br />
-  <sub>[#162205](https://github.com/flutter/flutter/pull/162205) opened on on January 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162205) 99 additions and 7 deletions in 4 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] when a command pool has many unused buffers, reset with release resources flag.<br />
   <sub>[#162207](https://github.com/flutter/flutter/pull/162207) opened on on January 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162207) 101 additions and 12 deletions in 4 files</sub><br />
 
@@ -147,11 +144,17 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
 
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Fix update_engine_version_test in presence of FLUTTER_PREBUILT_ENGINE_VERSION env vars.<br />
-  <sub>[#162270](https://github.com/flutter/flutter/pull/162270) opened on on January 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162270) 64 additions and 60 deletions in 1 file</sub><br />
+  <sub>[#162270](https://github.com/flutter/flutter/pull/162270) opened on on January 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162270) 64 additions and 60 deletions in 1 file</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; DO NOT SUBMIT (testing)<br />
   <sub>[#162284](https://github.com/flutter/flutter/pull/162284) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162284) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role checks<br />
   <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162290) 142 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Skia to f22419dbed05<br />
+  <sub>[#162293](https://github.com/flutter/flutter/pull/162293) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162293) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Apparently it is illegal to use `stderr` in this project.<br />
+  <sub>[#162294](https://github.com/flutter/flutter/pull/162294) opened on on January 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162294) 2 additions and 4 deletions in 2 files</sub><br />
 

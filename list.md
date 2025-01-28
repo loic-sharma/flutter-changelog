@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-6 commits.
+7 commits.
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [DisplayList] Move nested canvas enums into their own TU.
   <sub>[#162037](https://github.com/flutter/flutter/pull/162037) merged on January 27, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/162037) over 5 days, 706 additions and 731 deletions in 64 files</sub>
@@ -13,6 +13,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable the Android Engine OpenGLES/Vulkan suites.
   <sub>[#162258](https://github.com/flutter/flutter/pull/162258) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162258) over 1 hour, 0 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make swapchain related external fence/semaphore extensions optional.
+  <sub>[#162205](https://github.com/flutter/flutter/pull/162205) merged on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162205) over 2 days, 99 additions and 7 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `felt` link to point to flutter repo instead of the engine repo
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161423) over 2 weeks, 1 addition and 1 deletion in 1 file</sub>
