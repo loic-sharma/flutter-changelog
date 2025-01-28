@@ -156,8 +156,11 @@
   <sub>[#162330](https://github.com/flutter/flutter/pull/162330) opened on on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162330) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places<br />
-  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) opened on on January 28, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/162336) 147 additions and 244 deletions in 16 files</sub><br />
+  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) opened on on January 28, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/162336) 141 additions and 251 deletions in 16 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Previews ] Add support for detecting previews and generating code (#161911)""<br />
   <sub>[#162337](https://github.com/flutter/flutter/pull/162337) opened on on January 28, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162337) 549 additions and 25 deletions in 7 files</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] Add table semantics role<br />
+  <sub>[#162339](https://github.com/flutter/flutter/pull/162339) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162339) 74 additions and 7 deletions in 9 files</sub><br />
 
