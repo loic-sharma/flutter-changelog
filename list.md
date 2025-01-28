@@ -11,7 +11,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for detecting previews and generating code
-  <sub>[#161911](https://github.com/flutter/flutter/pull/161911) merged on January 28, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/161911) over 1 week, 551 additions and 25 deletions in 7 files</sub>
+  <sub>[#161911](https://github.com/flutter/flutter/pull/161911) merged on January 28, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/161911) over 1 week, 551 additions and 25 deletions in 7 files</sub>
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add missing `properties: ...` and move to presubmit.
