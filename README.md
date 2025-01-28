@@ -759,7 +759,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-8 commits.
+9 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon<br />
   <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub><br />
@@ -780,6 +780,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [vector_graphics] Fix memory leaks and activate leak testing [prod-leak-fix]<br />
   <sub>[#8373](https://github.com/flutter/packages/pull/8373) merged on January 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8373) over 3 weeks, 36 additions and 11 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; [go_router] Add missing await keyword to onTap callback in the code example in `navigation.md`<br />
+  <sub>[#8343](https://github.com/flutter/packages/pull/8343) merged on January 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8343) over 1 month, 6 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj), [chunhtai](https://github.com/chunhtai)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android type mismatch regression<br />
   <sub>[#8512](https://github.com/flutter/packages/pull/8512) merged on January 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8512) over 3 hours, 261 additions and 38 deletions in 10 files</sub><br />
