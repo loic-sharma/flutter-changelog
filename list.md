@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-13 commits.
+14 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `scenario_app/android` and rename to `ios_scenario_app`.
   <sub>[#160992](https://github.com/flutter/flutter/pull/160992) merged on January 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/160992) over 4 weeks, 164 additions and 6597 deletions in 252 files</sub>
@@ -49,6 +49,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix debug build for CanvasKit
   <sub>[#162198](https://github.com/flutter/flutter/pull/162198) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162198) over 2 days, 12 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Table implements redepth
+  <sub>[#162282](https://github.com/flutter/flutter/pull/162282) merged on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162282) over 19 hours, 36 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove dependency on `Usage` from `Pub` class
   <sub>[#162279](https://github.com/flutter/flutter/pull/162279) merged on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162279) over 19 hours, 0 additions and 181 deletions in 10 files</sub>
