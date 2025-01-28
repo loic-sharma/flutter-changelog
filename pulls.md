@@ -152,3 +152,6 @@
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Fix to Linux_pixel_7pro integration_ui_keyboard_resize test flakiness<br />
   <sub>[#162308](https://github.com/flutter/flutter/pull/162308) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162308) 5 additions and 1 deletion in 1 file</sub><br />
 
+* **[Archie Sengupta](https://github.com/ArchishmanSengupta)** &mdash; Feat: Add Support For 24 Hour Format In showTimePicker<br />
+  <sub>[#162323](https://github.com/flutter/flutter/pull/162323) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162323) 96 additions and 10 deletions in 2 files</sub><br />
+
