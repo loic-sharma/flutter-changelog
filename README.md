@@ -727,7 +727,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-3 commits.
+4 commits.
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_platform_interface] Platform view support<br />
   <sub>[#8453](https://github.com/flutter/packages/pull/8453) merged on January 27, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8453) over 1 week, 81 additions and 17 deletions in 7 files</sub><br />
@@ -740,6 +740,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android type mismatch regression<br />
   <sub>[#8512](https://github.com/flutter/packages/pull/8512) merged on January 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8512) over 3 hours, 261 additions and 38 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; update the `const` in StatefulShellRouteData generation<br />
+  <sub>[#8502](https://github.com/flutter/packages/pull/8502) merged on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8502) over 2 days, 58 additions and 2 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
 
 ### January 18, 2025 to January 24, 2025
 
