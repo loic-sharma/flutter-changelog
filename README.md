@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-9 commits.
+10 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add missing `properties: ...` and move to presubmit.<br />
   <sub>[#162170](https://github.com/flutter/flutter/pull/162170) merged on January 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162170) over 3 days, 30 additions and 26 deletions in 2 files</sub><br />
@@ -29,6 +29,10 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; fix `felt` link to point to flutter repo instead of the engine repo<br />
   <sub>[#161423](https://github.com/flutter/flutter/pull/161423) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161423) over 2 weeks, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Apparently it is illegal to use `stderr` in this project.<br />
+  <sub>[#162294](https://github.com/flutter/flutter/pull/162294) merged on January 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162294) over 2 hours, 2 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Don't depend on Dart from FML.<br />
   <sub>[#162271](https://github.com/flutter/flutter/pull/162271) merged on January 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162271) over 2 hours, 1 addition and 6 deletions in 1 file</sub><br />

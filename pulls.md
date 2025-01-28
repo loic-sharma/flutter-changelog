@@ -149,6 +149,3 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Skia to f22419dbed05<br />
   <sub>[#162293](https://github.com/flutter/flutter/pull/162293) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162293) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Apparently it is illegal to use `stderr` in this project.<br />
-  <sub>[#162294](https://github.com/flutter/flutter/pull/162294) opened on on January 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162294) 2 additions and 4 deletions in 2 files</sub><br />
-
