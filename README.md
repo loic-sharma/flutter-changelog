@@ -727,7 +727,11 @@
 
 ### January 25, 2025 to January 31, 2025
 
-4 commits.
+5 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon<br />
+  <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_platform_interface] Platform view support<br />
   <sub>[#8453](https://github.com/flutter/packages/pull/8453) merged on January 27, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8453) over 1 week, 81 additions and 17 deletions in 7 files</sub><br />
