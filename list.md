@@ -931,10 +931,14 @@
 
 ### January 25, 2025 to January 31, 2025
 
-6 commits.
+7 commits.
 
 * **[James Williams](https://github.com/jwill)** &mdash; Create a "Flutter for Jetpack Compose developers" page
   <sub>[#11232](https://github.com/flutter/website/pull/11232) merged on January 27, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/website/pull/11232) over 3 months, 875 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Move animation conceptual content out of tutorial and into introduction
+  <sub>[#11633](https://github.com/flutter/website/pull/11633) merged on January 28, 2025 &mdash; **Large:** [16 comments](https://github.com/flutter/website/pull/11633) over 2 hours, 291 additions and 290 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add a few new requested FAQs
