@@ -12,7 +12,7 @@
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/157515) 3642 additions and 2 deletions in 50 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Building flavors with native tooling<br />
-  <sub>[#157871](https://github.com/flutter/flutter/pull/157871) opened on on October 30, 2024 &mdash; **Medium:** [15 comments](https://github.com/flutter/flutter/pull/157871) 399 additions and 85 deletions in 12 files</sub><br />
+  <sub>[#157871](https://github.com/flutter/flutter/pull/157871) opened on on October 30, 2024 &mdash; **Medium:** [16 comments](https://github.com/flutter/flutter/pull/157871) 399 additions and 85 deletions in 12 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
   <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/158020) 31 additions and 19 deletions in 1 file</sub><br />
@@ -67,9 +67,6 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for detecting previews and generating code<br />
-  <sub>[#161911](https://github.com/flutter/flutter/pull/161911) opened on on January 20, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/161911) 551 additions and 25 deletions in 7 files</sub><br />
 
 * **[Wasmund1](https://github.com/Wasmund1)** &mdash; Drag handle semantic role<br />
   <sub>[#161941](https://github.com/flutter/flutter/pull/161941) opened on on January 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161941) 2 additions and 0 deletions in 2 files</sub><br />
@@ -148,4 +145,7 @@
 
 * **[Archie Sengupta](https://github.com/ArchishmanSengupta)** &mdash; Feat: Add Support For 24 Hour Format In showTimePicker<br />
   <sub>[#162323](https://github.com/flutter/flutter/pull/162323) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162323) 96 additions and 10 deletions in 2 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll package:vm_service to 15.0.0 and package:leak_tracker to 10.0.9<br />
+  <sub>[#162325](https://github.com/flutter/flutter/pull/162325) opened on on January 28, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162325) 232 additions and 232 deletions in 65 files</sub><br />
 
