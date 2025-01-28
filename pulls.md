@@ -155,3 +155,9 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update README.md to not have engine link for android<br />
   <sub>[#162330](https://github.com/flutter/flutter/pull/162330) opened on on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162330) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places<br />
+  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) opened on on January 28, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/162336) 147 additions and 244 deletions in 16 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Previews ] Add support for detecting previews and generating code (#161911)""<br />
+  <sub>[#162337](https://github.com/flutter/flutter/pull/162337) opened on on January 28, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162337) 549 additions and 25 deletions in 7 files</sub><br />
+
