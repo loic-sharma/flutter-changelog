@@ -131,6 +131,9 @@
 * **[Johnson ](https://github.com/johnson1940)** &mdash; added borderRadius for the divider<br />
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
 
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Back integrate translations from TC<br />
+  <sub>[#162274](https://github.com/flutter/flutter/pull/162274) opened on on January 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162274) 1708 additions and 8 deletions in 9 files</sub><br />
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role checks<br />
   <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162290) 180 additions and 3 deletions in 4 files</sub><br />
 
