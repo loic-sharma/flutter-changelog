@@ -4,7 +4,11 @@
 
 ### January 25, 2025 to January 31, 2025
 
-7 commits.
+8 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add missing `properties: ...` and move to presubmit.
+  <sub>[#162170](https://github.com/flutter/flutter/pull/162170) merged on January 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162170) over 3 days, 30 additions and 26 deletions in 2 files</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [DisplayList] Move nested canvas enums into their own TU.
   <sub>[#162037](https://github.com/flutter/flutter/pull/162037) merged on January 27, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/162037) over 5 days, 706 additions and 731 deletions in 64 files</sub>
