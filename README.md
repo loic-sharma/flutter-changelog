@@ -4,7 +4,11 @@
 
 ### January 25, 2025 to January 31, 2025
 
-10 commits.
+11 commits.
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `scenario_app/android` and rename to `ios_scenario_app`.<br />
+  <sub>[#160992](https://github.com/flutter/flutter/pull/160992) merged on January 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/160992) over 4 weeks, 164 additions and 6597 deletions in 252 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add missing `properties: ...` and move to presubmit.<br />
   <sub>[#162170](https://github.com/flutter/flutter/pull/162170) merged on January 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162170) over 3 days, 30 additions and 26 deletions in 2 files</sub><br />
