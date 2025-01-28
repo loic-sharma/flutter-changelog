@@ -138,7 +138,7 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; DO NOT SUBMIT (testing)<br />
-  <sub>[#162284](https://github.com/flutter/flutter/pull/162284) opened on on January 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162284) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#162284](https://github.com/flutter/flutter/pull/162284) opened on on January 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162284) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role checks<br />
   <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162290) 142 additions and 0 deletions in 2 files</sub><br />
