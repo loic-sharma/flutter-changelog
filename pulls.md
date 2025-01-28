@@ -80,9 +80,6 @@
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 299 additions and 0 deletions in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Replace `OverlayEntry` in `Draggable` with `OverlayPortal`.<br />
-  <sub>[#162133](https://github.com/flutter/flutter/pull/162133) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162133) 139 additions and 58 deletions in 3 files</sub><br />
-
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; feat: Add selectionColor property to selectable text<br />
   <sub>[#162177](https://github.com/flutter/flutter/pull/162177) opened on on January 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162177) 47 additions and 5 deletions in 2 files</sub><br />
 
@@ -118,9 +115,6 @@
 
 * **[yim](https://github.com/yiiim)** &mdash; Allow the Slider to always show the value indicator.<br />
   <sub>[#162223](https://github.com/flutter/flutter/pull/162223) opened on on January 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162223) 460 additions and 125 deletions in 7 files</sub><br />
-
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: RangeError when selecting text in SelectionArea<br />
-  <sub>[#162228](https://github.com/flutter/flutter/pull/162228) opened on on January 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162228) 85 additions and 1 deletion in 2 files</sub><br />
 
 * **[Seunghyun Min](https://github.com/MinSeungHyun)** &mdash; Add missing space between DayPeriodControl and time control in time picker<br />
   <sub>[#162230](https://github.com/flutter/flutter/pull/162230) opened on on January 26, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/162230) 65 additions and 19 deletions in 2 files</sub><br />
@@ -159,7 +153,7 @@
   <sub>[#162330](https://github.com/flutter/flutter/pull/162330) opened on on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162330) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places<br />
-  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) opened on on January 28, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/162336) 128 additions and 264 deletions in 18 files</sub><br />
+  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) opened on on January 28, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/162336) 128 additions and 264 deletions in 18 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Previews ] Add support for detecting previews and generating code (#161911)""<br />
   <sub>[#162337](https://github.com/flutter/flutter/pull/162337) opened on on January 28, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162337) 549 additions and 25 deletions in 7 files</sub><br />
