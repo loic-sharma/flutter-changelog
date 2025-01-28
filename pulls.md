@@ -86,9 +86,6 @@
 * **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
   <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 299 additions and 0 deletions in 2 files</sub><br />
 
-* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Stable] Revert: Fix DropdownMenu rendered behind AppBar (#159907)<br />
-  <sub>[#162132](https://github.com/flutter/flutter/pull/162132) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162132) 52 additions and 63 deletions in 3 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Replace `OverlayEntry` in `Draggable` with `OverlayPortal`.<br />
   <sub>[#162133](https://github.com/flutter/flutter/pull/162133) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162133) 139 additions and 58 deletions in 3 files</sub><br />
 
