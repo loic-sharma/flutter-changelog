@@ -747,7 +747,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-6 commits.
+7 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon
   <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub>
@@ -760,6 +760,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [multicast_dns] Rewrite `_readFQDN` to avoid recursion
   <sub>[#8390](https://github.com/flutter/packages/pull/8390) merged on January 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8390) over 2 weeks, 89 additions and 68 deletions in 4 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [vector_graphics] Fix memory leaks and activate leak testing [prod-leak-fix]
+  <sub>[#8373](https://github.com/flutter/packages/pull/8373) merged on January 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8373) over 3 weeks, 36 additions and 11 deletions in 7 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android type mismatch regression
   <sub>[#8512](https://github.com/flutter/packages/pull/8512) merged on January 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8512) over 3 hours, 261 additions and 38 deletions in 10 files</sub>
