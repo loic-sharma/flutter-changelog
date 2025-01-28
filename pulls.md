@@ -132,7 +132,7 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role checks<br />
-  <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162290) 202 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162290) 202 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Skia to f22419dbed05<br />
   <sub>[#162293](https://github.com/flutter/flutter/pull/162293) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162293) 40 additions and 3 deletions in 2 files</sub><br />
@@ -153,5 +153,5 @@
   <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162326) 396 additions and 91 deletions in 13 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update README.md to not have engine link for android<br />
-  <sub>[#162330](https://github.com/flutter/flutter/pull/162330) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162330) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#162330](https://github.com/flutter/flutter/pull/162330) opened on on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162330) 1 addition and 1 deletion in 1 file</sub><br />
 
