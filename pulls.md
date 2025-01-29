@@ -74,9 +74,6 @@
 * **[Johnson ](https://github.com/johnson1940)** &mdash; added borderRadius for the divider<br />
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Skia to f22419dbed05<br />
-  <sub>[#162293](https://github.com/flutter/flutter/pull/162293) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162293) 40 additions and 3 deletions in 2 files</sub><br />
-
 * **[Chris Norman](https://github.com/ChrisCRCB)** &mdash; fix slider semantic label<br />
   <sub>[#162304](https://github.com/flutter/flutter/pull/162304) opened on on January 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162304) 4 additions and 1 deletion in 2 files</sub><br />
 
@@ -87,7 +84,7 @@
   <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162326) 401 additions and 84 deletions in 15 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Uprev fuchsia components<br />
-  <sub>[#162338](https://github.com/flutter/flutter/pull/162338) opened on on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162338) 54 additions and 5 deletions in 11 files</sub><br />
+  <sub>[#162338](https://github.com/flutter/flutter/pull/162338) opened on on January 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162338) 54 additions and 5 deletions in 11 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
@@ -103,7 +100,4 @@
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reenable linux_web_engine mac tests on Mac-14<br />
   <sub>[#162409](https://github.com/flutter/flutter/pull/162409) opened on on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162409) 2 additions and 2 deletions in 2 files</sub><br />
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed the text aspect ratio<br />
-  <sub>[#162415](https://github.com/flutter/flutter/pull/162415) opened on on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162415) 50 additions and 1 deletion in 2 files</sub><br />
 
