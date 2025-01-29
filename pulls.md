@@ -146,3 +146,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for building and launching the widget preview scaffold<br />
   <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162326) 396 additions and 91 deletions in 13 files</sub><br />
 
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` crashes when provided menuStyle with small maximumSize<br />
+  <sub>[#162380](https://github.com/flutter/flutter/pull/162380) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162380) 55 additions and 2 deletions in 2 files</sub><br />
+
