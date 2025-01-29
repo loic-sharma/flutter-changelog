@@ -4,7 +4,12 @@
 
 ### January 25, 2025 to January 31, 2025
 
-29 commits.
+30 commits.
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Tab` linear and elastic animation blink
+  <sub>[#162315](https://github.com/flutter/flutter/pull/162315) merged on January 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162315) over 21 hours, 432 additions and 98 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+  <sub><details><summary>1 image...</summary><img width="1048" alt="Screenshot 2025-01-28 at 17 27 50" src="https://github.com/user-attachments/assets/4ba587a5-24d0-40ce-817c-366d004abc05" /></details></sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for detecting previews and generating code
   <sub>[#161911](https://github.com/flutter/flutter/pull/161911) merged on January 28, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/161911) over 1 week, 551 additions and 25 deletions in 7 files</sub>
