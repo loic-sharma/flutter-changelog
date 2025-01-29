@@ -83,21 +83,6 @@
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; feat: Add selectionColor property to selectable text<br />
   <sub>[#162177](https://github.com/flutter/flutter/pull/162177) opened on on January 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162177) 47 additions and 5 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] use 3 fences to synchronize AHB swapchains (like we do for KHR)<br />
-  <sub>[#162192](https://github.com/flutter/flutter/pull/162192) opened on on January 24, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162192) 221 additions and 172 deletions in 7 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] when mips are disabled, also disable from sampler options (#161765)<br />
-  <sub>[#162193](https://github.com/flutter/flutter/pull/162193) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162193) 61 additions and 4 deletions in 6 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Update partial repaint to use a fullsize onscreen. (#161626)<br />
-  <sub>[#162194](https://github.com/flutter/flutter/pull/162194) opened on on January 24, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162194) 310 additions and 70 deletions in 14 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Skip clip entity replay that cannot impact current clip. (#162113)<br />
-  <sub>[#162195](https://github.com/flutter/flutter/pull/162195) opened on on January 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162195) 38 additions and 0 deletions in 4 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] when a command pool has many unused buffers, reset with release resources flag.<br />
-  <sub>[#162207](https://github.com/flutter/flutter/pull/162207) opened on on January 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162207) 101 additions and 12 deletions in 4 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Allow the Slider to always show the value indicator.<br />
   <sub>[#162223](https://github.com/flutter/flutter/pull/162223) opened on on January 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162223) 460 additions and 125 deletions in 7 files</sub><br />
 
