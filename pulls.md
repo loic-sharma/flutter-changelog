@@ -71,9 +71,6 @@
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [WIP] expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
 
-* **[Seunghyun Min](https://github.com/MinSeungHyun)** &mdash; Add missing space between DayPeriodControl and time control in time picker<br />
-  <sub>[#162230](https://github.com/flutter/flutter/pull/162230) opened on on January 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/162230) 75 additions and 30 deletions in 2 files</sub><br />
-
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Added equals and hashCode for TextInputConfiguration and AutofillConfiguration<br />
   <sub>[#162238](https://github.com/flutter/flutter/pull/162238) opened on on January 26, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162238) 403 additions and 0 deletions in 4 files</sub><br />
 
@@ -92,17 +89,11 @@
 * **[Chris Norman](https://github.com/ChrisCRCB)** &mdash; fix slider semantic label<br />
   <sub>[#162304](https://github.com/flutter/flutter/pull/162304) opened on on January 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162304) 4 additions and 1 deletion in 2 files</sub><br />
 
-* **[Archie Sengupta](https://github.com/ArchishmanSengupta)** &mdash; Feat: Add Support For 24 Hour Format In showTimePicker<br />
-  <sub>[#162323](https://github.com/flutter/flutter/pull/162323) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162323) 96 additions and 10 deletions in 2 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll package:vm_service to 15.0.0 and package:leak_tracker to 10.0.9<br />
   <sub>[#162325](https://github.com/flutter/flutter/pull/162325) opened on on January 28, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162325) 264 additions and 264 deletions in 65 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for building and launching the widget preview scaffold<br />
   <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162326) 396 additions and 91 deletions in 13 files</sub><br />
-
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` crashes when provided menuStyle with small maximumSize<br />
-  <sub>[#162380](https://github.com/flutter/flutter/pull/162380) opened on on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162380) 55 additions and 2 deletions in 2 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
@@ -111,5 +102,5 @@
   <sub>[#162404](https://github.com/flutter/flutter/pull/162404) opened on on January 29, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162404) 716 additions and 13165 deletions in 73 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] SurfaceTransaction updates for HC++.<br />
-  <sub>[#162405](https://github.com/flutter/flutter/pull/162405) opened on on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162405) 44 additions and 12 deletions in 3 files</sub><br />
+  <sub>[#162405](https://github.com/flutter/flutter/pull/162405) opened on on January 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162405) 44 additions and 12 deletions in 3 files</sub><br />
 
