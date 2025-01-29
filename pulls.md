@@ -81,7 +81,7 @@
   <sub>[#162274](https://github.com/flutter/flutter/pull/162274) opened on on January 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162274) 1708 additions and 8 deletions in 9 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role checks<br />
-  <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162290) 211 additions and 30 deletions in 5 files</sub><br />
+  <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162290) 211 additions and 30 deletions in 5 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Skia to f22419dbed05<br />
   <sub>[#162293](https://github.com/flutter/flutter/pull/162293) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162293) 40 additions and 3 deletions in 2 files</sub><br />
@@ -105,5 +105,5 @@
   <sub>[#162405](https://github.com/flutter/flutter/pull/162405) opened on on January 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162405) 53 additions and 13 deletions in 3 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ plumbing.<br />
-  <sub>[#162407](https://github.com/flutter/flutter/pull/162407) opened on on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162407) 28 additions and 14 deletions in 11 files</sub><br />
+  <sub>[#162407](https://github.com/flutter/flutter/pull/162407) opened on on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162407) 29 additions and 15 deletions in 12 files</sub><br />
 
