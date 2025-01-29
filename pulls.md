@@ -39,7 +39,7 @@
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
 * **[Pranesh Pyara Shrestha](https://github.com/praneshp1org)** &mdash; Added equalWidthPerRow option to Wrap widget<br />
-  <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
+  <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Roll gn to c97a86a72105f3328a540f5a5ab17d11989ab7dd<br />
   <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161012) 8 additions and 9 deletions in 5 files</sub><br />
@@ -103,4 +103,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] SurfaceTransaction updates for HC++.<br />
   <sub>[#162405](https://github.com/flutter/flutter/pull/162405) opened on on January 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162405) 52 additions and 13 deletions in 3 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ plumbing.<br />
+  <sub>[#162407](https://github.com/flutter/flutter/pull/162407) opened on on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162407) 28 additions and 14 deletions in 11 files</sub><br />
 
