@@ -992,7 +992,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-10 commits.
+16 commits.
 
 * **[James Williams](https://github.com/jwill)** &mdash; Create a "Flutter for Jetpack Compose developers" page<br />
   <sub>[#11232](https://github.com/flutter/website/pull/11232) merged on January 27, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/website/pull/11232) over 3 months, 875 additions and 1 deletion in 2 files</sub><br />
@@ -1017,6 +1017,30 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add a few new requested FAQs<br />
   <sub>[#11619](https://github.com/flutter/website/pull/11619) merged on January 27, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11619) over 3 days, 41 additions and 12 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [John Ryan](https://github.com/johnpryan)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove most of the remaining bootstrap util usages<br />
+  <sub>[#11637](https://github.com/flutter/website/pull/11637) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11637) over 13 hours, 93 additions and 131 deletions in 8 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add cache bust to avoid layout issues with latest changes<br />
+  <sub>[#11636](https://github.com/flutter/website/pull/11636) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11636) over 15 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add hover interaction styles to header buttons and links<br />
+  <sub>[#11638](https://github.com/flutter/website/pull/11638) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11638) over 12 hours, 16 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update outdated data and backend links causing redirects<br />
+  <sub>[#11635](https://github.com/flutter/website/pull/11635) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11635) over 15 hours, 8 additions and 8 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix unclosed code font span on data layer page<br />
+  <sub>[#11634](https://github.com/flutter/website/pull/11634) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11634) over 15 hours, 3 additions and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; More accessible alert/aside style<br />
+  <sub>[#11639](https://github.com/flutter/website/pull/11639) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11639) over 11 hours, 90 additions and 76 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove a few bootstrap variable and util usages<br />
   <sub>[#11624](https://github.com/flutter/website/pull/11624) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11624) over 17 hours, 65 additions and 101 deletions in 10 files</sub><br />
