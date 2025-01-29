@@ -60,7 +60,7 @@
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
-  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) opened on on January 17, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/161826) 83 additions and 35 deletions in 2 files</sub><br />
+  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) opened on on January 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161826) 83 additions and 35 deletions in 2 files</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Removes dev dependencies from generated plugin registrant for non-Android platforms<br />
   <sub>[#161828](https://github.com/flutter/flutter/pull/161828) opened on on January 17, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/161828) 533 additions and 83 deletions in 9 files</sub><br />
@@ -121,7 +121,4 @@
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add 2 retries for hybrid composition platform views.<br />
-  <sub>[#162400](https://github.com/flutter/flutter/pull/162400) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162400) 20 additions and 4 deletions in 1 file</sub><br />
 
