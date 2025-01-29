@@ -4,11 +4,15 @@
 
 ### January 25, 2025 to January 31, 2025
 
-27 commits.
+28 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Previews ] Add support for detecting previews and generating code<br />
   <sub>[#161911](https://github.com/flutter/flutter/pull/161911) merged on January 28, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/161911) over 1 week, 551 additions and 25 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub><br />
+
+* **[Flop](https://github.com/hgraceb)** &mdash; Fix scrollUntilVisible in WidgetTester<br />
+  <sub>[#159582](https://github.com/flutter/flutter/pull/159582) merged on January 29, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/159582) over 2 months, 53 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Pass-through `maxLines` in `DropdownMenu`<br />
   <sub>[#161903](https://github.com/flutter/flutter/pull/161903) merged on January 29, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/161903) over 1 week, 51 additions and 0 deletions in 2 files</sub><br />
