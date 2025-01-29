@@ -86,6 +86,9 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for building and launching the widget preview scaffold<br />
   <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162326) 401 additions and 84 deletions in 15 files</sub><br />
 
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Uprev fuchsia components<br />
+  <sub>[#162338](https://github.com/flutter/flutter/pull/162338) opened on on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162338) 54 additions and 5 deletions in 11 files</sub><br />
+
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
