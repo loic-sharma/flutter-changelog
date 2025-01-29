@@ -15,7 +15,7 @@
   <sub>[#157871](https://github.com/flutter/flutter/pull/157871) opened on on October 30, 2024 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/157871) 401 additions and 127 deletions in 14 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
-  <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/158020) 31 additions and 19 deletions in 1 file</sub><br />
+  <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/158020) 31 additions and 19 deletions in 1 file</sub><br />
 
 * **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationRail examples overflow alignment<br />
   <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/159937) 122 additions and 151 deletions in 4 files</sub><br />
@@ -102,5 +102,5 @@
   <sub>[#162404](https://github.com/flutter/flutter/pull/162404) opened on on January 29, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162404) 716 additions and 13165 deletions in 73 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] SurfaceTransaction updates for HC++.<br />
-  <sub>[#162405](https://github.com/flutter/flutter/pull/162405) opened on on January 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162405) 44 additions and 12 deletions in 3 files</sub><br />
+  <sub>[#162405](https://github.com/flutter/flutter/pull/162405) opened on on January 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162405) 52 additions and 13 deletions in 3 files</sub><br />
 
