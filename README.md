@@ -46,6 +46,10 @@
   <sub>[#162205](https://github.com/flutter/flutter/pull/162205) merged on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162205) over 2 days, 99 additions and 7 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places<br />
+  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) merged on January 29, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/162336) over 5 hours, 128 additions and 264 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Support hot restart for DDC library bundle format<br />
   <sub>[#162123](https://github.com/flutter/flutter/pull/162123) merged on January 28, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/162123) over 4 days, 217 additions and 33 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Nicholas Shahan](https://github.com/nshahan), [Ben Konyi](https://github.com/bkonyi)</sub><br />
@@ -81,10 +85,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update README.md to include googler post verification steps<br />
   <sub>[#162272](https://github.com/flutter/flutter/pull/162272) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162272) over 1 day, 4 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places<br />
-  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) merged on January 29, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/162336) over 5 hours, 128 additions and 264 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update README.md to not have engine link for android<br />
   <sub>[#162330](https://github.com/flutter/flutter/pull/162330) merged on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162330) over 6 hours, 1 addition and 1 deletion in 1 file</sub><br />
