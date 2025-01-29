@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-21 commits.
+23 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `scenario_app/android` and rename to `ios_scenario_app`.
   <sub>[#160992](https://github.com/flutter/flutter/pull/160992) merged on January 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/160992) over 4 weeks, 164 additions and 6597 deletions in 252 files</sub>
@@ -73,6 +73,14 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix debug build for CanvasKit
   <sub>[#162198](https://github.com/flutter/flutter/pull/162198) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162198) over 2 days, 12 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places
+  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) merged on January 29, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/162336) over 5 hours, 128 additions and 264 deletions in 18 files</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update README.md to not have engine link for android
+  <sub>[#162330](https://github.com/flutter/flutter/pull/162330) merged on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162330) over 6 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Table implements redepth
   <sub>[#162282](https://github.com/flutter/flutter/pull/162282) merged on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162282) over 19 hours, 36 additions and 0 deletions in 2 files</sub>
