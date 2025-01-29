@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-30 commits.
+32 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Tab` linear and elastic animation blink<br />
   <sub>[#162315](https://github.com/flutter/flutter/pull/162315) merged on January 29, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/162315) over 21 hours, 432 additions and 98 deletions in 2 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `scenario_app/android` and rename to `ios_scenario_app`.<br />
   <sub>[#160992](https://github.com/flutter/flutter/pull/160992) merged on January 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/160992) over 4 weeks, 164 additions and 6597 deletions in 252 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Zachary Anderson](https://github.com/zanderso), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Back integrate translations from TC<br />
+  <sub>[#162274](https://github.com/flutter/flutter/pull/162274) merged on January 29, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162274) over 2 days, 1708 additions and 8 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add instructions to download the Gradle wrapper to FGP readme, and add to gitignore<br />
   <sub>[#162332](https://github.com/flutter/flutter/pull/162332) merged on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162332) over 5 hours, 10 additions and 3 deletions in 3 files</sub><br />
@@ -54,6 +58,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable the Android Engine OpenGLES/Vulkan suites.<br />
   <sub>[#162258](https://github.com/flutter/flutter/pull/162258) merged on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162258) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
+  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) merged on January 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161826) over 1 week, 83 additions and 35 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places<br />
   <sub>[#162336](https://github.com/flutter/flutter/pull/162336) merged on January 29, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/162336) over 5 hours, 128 additions and 264 deletions in 18 files</sub><br />

@@ -56,9 +56,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Set `dart.flutterSdkPath` in vscode's settings.json.<br />
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
-  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) opened on on January 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161826) 83 additions and 35 deletions in 2 files</sub><br />
-
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Removes dev dependencies from generated plugin registrant for non-Android platforms<br />
   <sub>[#161828](https://github.com/flutter/flutter/pull/161828) opened on on January 17, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/161828) 533 additions and 83 deletions in 9 files</sub><br />
 
@@ -76,9 +73,6 @@
 
 * **[Johnson ](https://github.com/johnson1940)** &mdash; added borderRadius for the divider<br />
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Back integrate translations from TC<br />
-  <sub>[#162274](https://github.com/flutter/flutter/pull/162274) opened on on January 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162274) 1708 additions and 8 deletions in 9 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role checks<br />
   <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162290) 211 additions and 30 deletions in 5 files</sub><br />
