@@ -119,3 +119,6 @@
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix `DropdownMenu` crashes when provided menuStyle with small maximumSize<br />
   <sub>[#162380](https://github.com/flutter/flutter/pull/162380) opened on on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162380) 55 additions and 2 deletions in 2 files</sub><br />
 
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
+  <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
+
