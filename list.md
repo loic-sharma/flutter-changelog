@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-23 commits.
+24 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `scenario_app/android` and rename to `ios_scenario_app`.
   <sub>[#160992](https://github.com/flutter/flutter/pull/160992) merged on January 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/160992) over 4 weeks, 164 additions and 6597 deletions in 252 files</sub>
@@ -73,6 +73,10 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix debug build for CanvasKit
   <sub>[#162198](https://github.com/flutter/flutter/pull/162198) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162198) over 2 days, 12 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update README.md to include googler post verification steps
+  <sub>[#162272](https://github.com/flutter/flutter/pull/162272) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162272) over 1 day, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places
   <sub>[#162336](https://github.com/flutter/flutter/pull/162336) merged on January 29, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/162336) over 5 hours, 128 additions and 264 deletions in 18 files</sub>
@@ -795,7 +799,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-10 commits.
+11 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon
   <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub>
@@ -808,6 +812,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [multicast_dns] Rewrite `_readFQDN` to avoid recursion
   <sub>[#8390](https://github.com/flutter/packages/pull/8390) merged on January 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8390) over 2 weeks, 89 additions and 68 deletions in 4 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Fixes trailing `?` by comparing iterables
+  <sub>[#8521](https://github.com/flutter/packages/pull/8521) merged on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8521) over 11 hours, 181 additions and 23 deletions in 9 files</sub>
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Re-land [shared_preferences] Add shared preferences devtool
   <sub>[#8519](https://github.com/flutter/packages/pull/8519) merged on January 28, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/8519) over 6 hours, 4581 additions and 2 deletions in 39 files</sub>
