@@ -44,9 +44,6 @@
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Roll gn to c97a86a72105f3328a540f5a5ab17d11989ab7dd<br />
   <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161012) 8 additions and 9 deletions in 5 files</sub><br />
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; Make `chip.dart` use `WidgetStatesController`<br />
-  <sub>[#161487](https://github.com/flutter/flutter/pull/161487) opened on on January 12, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161487) 42 additions and 32 deletions in 1 file</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
@@ -69,22 +66,10 @@
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
 
 * **[Wasmund1](https://github.com/Wasmund1)** &mdash; Drag handle semantic role<br />
-  <sub>[#161941](https://github.com/flutter/flutter/pull/161941) opened on on January 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161941) 2 additions and 0 deletions in 2 files</sub><br />
-
-* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `SegmentedButton` border doesn't respect hovered, focused, selected states<br />
-  <sub>[#161942](https://github.com/flutter/flutter/pull/161942) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161942) 193 additions and 67 deletions in 4 files</sub><br />
+  <sub>[#161941](https://github.com/flutter/flutter/pull/161941) opened on on January 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/161941) 2 additions and 0 deletions in 2 files</sub><br />
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [WIP] expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
-
-* **[Ahmed R.](https://github.com/ahmedrasar)** &mdash; Introduce `DropdownMenu` automatic matching<br />
-  <sub>[#162062](https://github.com/flutter/flutter/pull/162062) opened on on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162062) 299 additions and 0 deletions in 2 files</sub><br />
-
-* **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; feat: Add selectionColor property to selectable text<br />
-  <sub>[#162177](https://github.com/flutter/flutter/pull/162177) opened on on January 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162177) 47 additions and 5 deletions in 2 files</sub><br />
-
-* **[yim](https://github.com/yiiim)** &mdash; Allow the Slider to always show the value indicator.<br />
-  <sub>[#162223](https://github.com/flutter/flutter/pull/162223) opened on on January 26, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162223) 460 additions and 125 deletions in 7 files</sub><br />
 
 * **[Seunghyun Min](https://github.com/MinSeungHyun)** &mdash; Add missing space between DayPeriodControl and time control in time picker<br />
   <sub>[#162230](https://github.com/flutter/flutter/pull/162230) opened on on January 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/162230) 75 additions and 30 deletions in 2 files</sub><br />
@@ -99,7 +84,7 @@
   <sub>[#162274](https://github.com/flutter/flutter/pull/162274) opened on on January 27, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162274) 1708 additions and 8 deletions in 9 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role checks<br />
-  <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162290) 180 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#162290](https://github.com/flutter/flutter/pull/162290) opened on on January 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162290) 211 additions and 30 deletions in 5 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Skia to f22419dbed05<br />
   <sub>[#162293](https://github.com/flutter/flutter/pull/162293) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162293) 40 additions and 3 deletions in 2 files</sub><br />
@@ -121,4 +106,10 @@
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML from the engine's test suites<br />
+  <sub>[#162404](https://github.com/flutter/flutter/pull/162404) opened on on January 29, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/162404) 716 additions and 13165 deletions in 73 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] SurfaceTransaction updates for HC++.<br />
+  <sub>[#162405](https://github.com/flutter/flutter/pull/162405) opened on on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162405) 44 additions and 12 deletions in 3 files</sub><br />
 

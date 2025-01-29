@@ -824,7 +824,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-11 commits.
+12 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon<br />
   <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub><br />
@@ -843,7 +843,7 @@
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Re-land [shared_preferences] Add shared preferences devtool<br />
-  <sub>[#8519](https://github.com/flutter/packages/pull/8519) merged on January 28, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/8519) over 6 hours, 4581 additions and 2 deletions in 39 files</sub><br />
+  <sub>[#8519](https://github.com/flutter/packages/pull/8519) merged on January 28, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/packages/pull/8519) over 6 hours, 4581 additions and 2 deletions in 39 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [vector_graphics] Fix memory leaks and activate leak testing [prod-leak-fix]<br />
@@ -865,6 +865,10 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; update the `const` in StatefulShellRouteData generation<br />
   <sub>[#8502](https://github.com/flutter/packages/pull/8502) merged on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8502) over 2 days, 58 additions and 2 deletions in 9 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "Re-land [shared_preferences] Add shared preferences devtool"<br />
+  <sub>[#8529](https://github.com/flutter/packages/pull/8529) merged on January 29, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/packages/pull/8529) over 17 minutes, 2 additions and 4581 deletions in 39 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[shared_preferences] Add shared preferences devtool"<br />
   <sub>[#8515](https://github.com/flutter/packages/pull/8515) merged on January 28, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/8515) over 3 hours, 2 additions and 4581 deletions in 39 files</sub><br />
