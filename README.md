@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-20 commits.
+21 commits.
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `scenario_app/android` and rename to `ios_scenario_app`.<br />
   <sub>[#160992](https://github.com/flutter/flutter/pull/160992) merged on January 28, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/160992) over 4 weeks, 164 additions and 6597 deletions in 252 files</sub><br />
@@ -85,6 +85,10 @@
 * **[Ryan Ferrell](https://github.com/importRyan)** &mdash; Avoid iOS text selection crash by returning nil range<br />
   <sub>[#161996](https://github.com/flutter/flutter/pull/161996) merged on January 27, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161996) over 5 days, 29 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [Chris Bracken](https://github.com/cbracken)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Previews ] Add support for detecting previews and generating code (#161911)""<br />
+  <sub>[#162337](https://github.com/flutter/flutter/pull/162337) merged on January 29, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162337) over 5 hours, 549 additions and 25 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 ### January 18, 2025 to January 24, 2025
 
