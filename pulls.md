@@ -101,3 +101,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Reenable linux_web_engine mac tests on Mac-14<br />
   <sub>[#162409](https://github.com/flutter/flutter/pull/162409) opened on on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162409) 2 additions and 2 deletions in 2 files</sub><br />
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed the text aspect ratio<br />
+  <sub>[#162415](https://github.com/flutter/flutter/pull/162415) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162415) 50 additions and 1 deletion in 2 files</sub><br />
+
