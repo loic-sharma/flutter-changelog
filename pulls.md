@@ -63,7 +63,7 @@
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
 
 * **[Wasmund1](https://github.com/Wasmund1)** &mdash; Drag handle semantic role<br />
-  <sub>[#161941](https://github.com/flutter/flutter/pull/161941) opened on on January 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/161941) 2 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#161941](https://github.com/flutter/flutter/pull/161941) opened on on January 21, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/161941) 2 additions and 0 deletions in 2 files</sub><br />
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [WIP] expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
