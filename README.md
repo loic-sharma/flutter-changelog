@@ -824,7 +824,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-12 commits.
+13 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon<br />
   <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub><br />
@@ -833,6 +833,10 @@
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_platform_interface] Platform view support<br />
   <sub>[#8453](https://github.com/flutter/packages/pull/8453) merged on January 27, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8453) over 1 week, 81 additions and 17 deletions in 7 files</sub><br />
   <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Alejandro Castillo](https://github.com/alejandro-all-win-software)** &mdash; [in_app_purchase_storekit] Add Swift Package Manager compatibility<br />
+  <sub>[#8469](https://github.com/flutter/packages/pull/8469) merged on January 29, 2025 &mdash; **Small:** [49 comments](https://github.com/flutter/packages/pull/8469) over 1 week, 119 additions and 63 deletions in 41 files</sub><br />
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Jenn Magder](https://github.com/jmagman), [LouiseHsu](https://github.com/LouiseHsu)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [multicast_dns] Rewrite `_readFQDN` to avoid recursion<br />
   <sub>[#8390](https://github.com/flutter/packages/pull/8390) merged on January 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8390) over 2 weeks, 89 additions and 68 deletions in 4 files</sub><br />
