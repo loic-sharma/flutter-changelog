@@ -7,7 +7,7 @@
 30 commits.
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Tab` linear and elastic animation blink
-  <sub>[#162315](https://github.com/flutter/flutter/pull/162315) merged on January 29, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162315) over 21 hours, 432 additions and 98 deletions in 2 files</sub>
+  <sub>[#162315](https://github.com/flutter/flutter/pull/162315) merged on January 29, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/162315) over 21 hours, 432 additions and 98 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>1 image...</summary><img width="1048" alt="Screenshot 2025-01-28 at 17 27 50" src="https://github.com/user-attachments/assets/4ba587a5-24d0-40ce-817c-366d004abc05" /></details></sub>
 
