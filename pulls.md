@@ -158,6 +158,3 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Previews ] Add support for detecting previews and generating code (#161911)""<br />
   <sub>[#162337](https://github.com/flutter/flutter/pull/162337) opened on on January 28, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162337) 549 additions and 25 deletions in 7 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft] Add table semantics role<br />
-  <sub>[#162339](https://github.com/flutter/flutter/pull/162339) opened on on January 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162339) 74 additions and 7 deletions in 9 files</sub><br />
-
