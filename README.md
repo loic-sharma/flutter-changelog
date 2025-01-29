@@ -843,7 +843,7 @@
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Re-land [shared_preferences] Add shared preferences devtool<br />
-  <sub>[#8519](https://github.com/flutter/packages/pull/8519) merged on January 28, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/packages/pull/8519) over 6 hours, 4581 additions and 2 deletions in 39 files</sub><br />
+  <sub>[#8519](https://github.com/flutter/packages/pull/8519) merged on January 28, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/packages/pull/8519) over 6 hours, 4581 additions and 2 deletions in 39 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [vector_graphics] Fix memory leaks and activate leak testing [prod-leak-fix]<br />
