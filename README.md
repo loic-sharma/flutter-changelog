@@ -4,7 +4,11 @@
 
 ### January 25, 2025 to January 31, 2025
 
-32 commits.
+33 commits.
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add WidgetPreview and @Preview() annotation<br />
+  <sub>[#159219](https://github.com/flutter/flutter/pull/159219) merged on January 29, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/159219) over 2 months, 80 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `Tab` linear and elastic animation blink<br />
   <sub>[#162315](https://github.com/flutter/flutter/pull/162315) merged on January 29, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/162315) over 21 hours, 432 additions and 98 deletions in 2 files</sub><br />
