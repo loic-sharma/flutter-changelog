@@ -90,7 +90,7 @@
   <sub>[#162404](https://github.com/flutter/flutter/pull/162404) opened on on January 29, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162404) 730 additions and 13166 deletions in 75 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ plumbing.<br />
-  <sub>[#162407](https://github.com/flutter/flutter/pull/162407) opened on on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162407) 45 additions and 28 deletions in 15 files</sub><br />
+  <sub>[#162407](https://github.com/flutter/flutter/pull/162407) opened on on January 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162407) 45 additions and 28 deletions in 15 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Add new web contributors to web triage doc.<br />
   <sub>[#162420](https://github.com/flutter/flutter/pull/162420) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162420) 2 additions and 0 deletions in 1 file</sub><br />
