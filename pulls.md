@@ -57,7 +57,7 @@
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Removes dev dependencies from generated plugin registrant for non-Android platforms<br />
-  <sub>[#161828](https://github.com/flutter/flutter/pull/161828) opened on on January 17, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/161828) 255 additions and 79 deletions in 6 files</sub><br />
+  <sub>[#161828](https://github.com/flutter/flutter/pull/161828) opened on on January 17, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/161828) 255 additions and 79 deletions in 6 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
@@ -75,7 +75,7 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
 
 * **[Chris Norman](https://github.com/ChrisCRCB)** &mdash; fix slider semantic label<br />
-  <sub>[#162304](https://github.com/flutter/flutter/pull/162304) opened on on January 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162304) 4 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#162304](https://github.com/flutter/flutter/pull/162304) opened on on January 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162304) 4 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll package:vm_service to 15.0.0 and package:leak_tracker to 10.0.9<br />
   <sub>[#162325](https://github.com/flutter/flutter/pull/162325) opened on on January 28, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162325) 264 additions and 264 deletions in 65 files</sub><br />
@@ -102,5 +102,5 @@
   <sub>[#162409](https://github.com/flutter/flutter/pull/162409) opened on on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162409) 2 additions and 2 deletions in 2 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Add new web contributors to web triage doc.<br />
-  <sub>[#162420](https://github.com/flutter/flutter/pull/162420) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162420) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#162420](https://github.com/flutter/flutter/pull/162420) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162420) 2 additions and 0 deletions in 1 file</sub><br />
 
