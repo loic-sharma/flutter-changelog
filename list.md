@@ -35,6 +35,10 @@
   <sub>[#162274](https://github.com/flutter/flutter/pull/162274) merged on January 29, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162274) over 2 days, 1708 additions and 8 deletions in 9 files</sub>
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid NaN values when setting up for the fast squircle blur shader
+  <sub>[#162421](https://github.com/flutter/flutter/pull/162421) merged on January 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162421) over 2 hours, 38 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add instructions to download the Gradle wrapper to FGP readme, and add to gitignore
   <sub>[#162332](https://github.com/flutter/flutter/pull/162332) merged on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162332) over 5 hours, 10 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -51,17 +55,13 @@
   <sub>[#162049](https://github.com/flutter/flutter/pull/162049) merged on January 28, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/162049) over 5 days, 254 additions and 95 deletions in 10 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Gagan Yadav](https://github.com/gaganyadav80)** &mdash; fix: appbar leading width is not square for custom toolbar height
-  <sub>[#161880](https://github.com/flutter/flutter/pull/161880) merged on January 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161880) over 1 week, 87 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Tirth](https://github.com/piedcipher)</sub>
-
 * **[Alexander Aprelev](https://github.com/aam)** &mdash; Fix update_engine_version_test in presence of FLUTTER_PREBUILT_ENGINE_VERSION env vars.
   <sub>[#162270](https://github.com/flutter/flutter/pull/162270) merged on January 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162270) over 5 hours, 64 additions and 60 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid NaN values when setting up for the fast squircle blur shader
-  <sub>[#162421](https://github.com/flutter/flutter/pull/162421) merged on January 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162421) over 2 hours, 38 additions and 3 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Gagan Yadav](https://github.com/gaganyadav80)** &mdash; fix: appbar leading width is not square for custom toolbar height
+  <sub>[#161880](https://github.com/flutter/flutter/pull/161880) merged on January 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161880) over 1 week, 87 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Tirth](https://github.com/piedcipher)</sub>
 
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [DisplayList] Move nested canvas enums into their own TU.
   <sub>[#162037](https://github.com/flutter/flutter/pull/162037) merged on January 27, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/162037) over 5 days, 706 additions and 731 deletions in 64 files</sub>
