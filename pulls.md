@@ -104,3 +104,9 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar.onVisible documentation<br />
   <sub>[#162448](https://github.com/flutter/flutter/pull/162448) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162448) 7 additions and 0 deletions in 1 file</sub><br />
 
+* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix syntax error in comment pseudocode<br />
+  <sub>[#162453](https://github.com/flutter/flutter/pull/162453) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162453) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable Vulkan on Emulators.<br />
+  <sub>[#162454](https://github.com/flutter/flutter/pull/162454) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162454) 24 additions and 0 deletions in 3 files</sub><br />
+
