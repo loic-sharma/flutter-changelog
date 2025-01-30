@@ -56,9 +56,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Set `dart.flutterSdkPath` in vscode's settings.json.<br />
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Removes dev dependencies from generated plugin registrant for non-Android platforms<br />
-  <sub>[#161828](https://github.com/flutter/flutter/pull/161828) opened on on January 17, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/161828) 255 additions and 79 deletions in 6 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
 
@@ -100,9 +97,6 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a special case for the Fuchsia SDK ftl.fidl file in the license script<br />
   <sub>[#162423](https://github.com/flutter/flutter/pull/162423) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162423) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix syntax error in comment pseudocode<br />
-  <sub>[#162453](https://github.com/flutter/flutter/pull/162453) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162453) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable Vulkan on Emulators.<br />
   <sub>[#162454](https://github.com/flutter/flutter/pull/162454) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162454) 24 additions and 0 deletions in 3 files</sub><br />
