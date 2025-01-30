@@ -4,7 +4,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-54 commits.
+55 commits.
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add WidgetPreview and @Preview() annotation<br />
   <sub>[#159219](https://github.com/flutter/flutter/pull/159219) merged on January 29, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/159219) over 2 months, 80 additions and 0 deletions in 2 files</sub><br />
@@ -71,9 +71,29 @@
   <sub>[#162049](https://github.com/flutter/flutter/pull/162049) merged on January 28, 2025 &mdash; **Medium:** [13 comments](https://github.com/flutter/flutter/pull/162049) over 5 days, 254 additions and 95 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add HC++ platform view class.<br />
+  <sub>[#161829](https://github.com/flutter/flutter/pull/161829) merged on January 30, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/161829) over 1 week, 2047 additions and 50 deletions in 15 files</sub><br />
+  <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
+
 * **[Gagan Yadav](https://github.com/gaganyadav80)** &mdash; fix: appbar leading width is not square for custom toolbar height<br />
   <sub>[#161880](https://github.com/flutter/flutter/pull/161880) merged on January 29, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161880) over 1 week, 87 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc), [Tirth](https://github.com/piedcipher)</sub><br />
+
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places<br />
+  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) merged on January 29, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/162336) over 5 hours, 128 additions and 264 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix `flutter doctor` instructions displayed when `cmdline-tools` (Android SDK) cannot be found<br />
+  <sub>[#162281](https://github.com/flutter/flutter/pull/162281) merged on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162281) over 2 days, 16 additions and 8 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; Removes dev dependencies from generated plugin registrant for non-Android platforms<br />
+  <sub>[#161828](https://github.com/flutter/flutter/pull/161828) merged on January 30, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/161828) over 1 week, 255 additions and 79 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
+  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) merged on January 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161826) over 1 week, 83 additions and 35 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove more (simple) usage of package:usage<br />
   <sub>[#162354](https://github.com/flutter/flutter/pull/162354) merged on January 30, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162354) over 1 day, 29 additions and 1077 deletions in 36 files</sub><br />
@@ -82,22 +102,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside flutter.groovy <br />
   <sub>[#160250](https://github.com/flutter/flutter/pull/160250) merged on January 28, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/160250) over 1 month, 14 additions and 19 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
-
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix `flutter doctor` instructions displayed when `cmdline-tools` (Android SDK) cannot be found<br />
-  <sub>[#162281](https://github.com/flutter/flutter/pull/162281) merged on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162281) over 2 days, 16 additions and 8 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
-  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) merged on January 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161826) over 1 week, 83 additions and 35 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places<br />
-  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) merged on January 29, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/162336) over 5 hours, 128 additions and 264 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; Removes dev dependencies from generated plugin registrant for non-Android platforms<br />
-  <sub>[#161828](https://github.com/flutter/flutter/pull/161828) merged on January 30, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/161828) over 1 week, 255 additions and 79 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make swapchain related external fence/semaphore extensions optional.<br />
   <sub>[#162205](https://github.com/flutter/flutter/pull/162205) merged on January 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162205) over 2 days, 99 additions and 7 deletions in 4 files</sub><br />
@@ -135,49 +139,49 @@
   <sub>[#162405](https://github.com/flutter/flutter/pull/162405) merged on January 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162405) over 9 hours, 53 additions and 13 deletions in 3 files</sub><br />
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Correctly read the repetitionCount for images<br />
-  <sub>[#162414](https://github.com/flutter/flutter/pull/162414) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162414) over 1 hour, 27 additions and 1 deletion in 2 files</sub><br />
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
-
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [DisplayList] Don't call Skia Ganesh methods when its not available.<br />
   <sub>[#162345](https://github.com/flutter/flutter/pull/162345) merged on January 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162345) over 4 hours, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix tests to prepare for `--explicit-package-dependencies` and a bug.<br />
-  <sub>[#162289](https://github.com/flutter/flutter/pull/162289) merged on January 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162289) over 1 day, 29 additions and 41 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix debug build for CanvasKit<br />
-  <sub>[#162198](https://github.com/flutter/flutter/pull/162198) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162198) over 2 days, 12 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Correctly read the repetitionCount for images<br />
+  <sub>[#162414](https://github.com/flutter/flutter/pull/162414) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162414) over 1 hour, 27 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Skia to f22419dbed05<br />
   <sub>[#162293](https://github.com/flutter/flutter/pull/162293) merged on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162293) over 1 day, 40 additions and 3 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove engine PRs link from team-windows triage<br />
-  <sub>[#162263](https://github.com/flutter/flutter/pull/162263) merged on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162263) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix various typos<br />
-  <sub>[#162295](https://github.com/flutter/flutter/pull/162295) merged on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162295) over 1 day, 12 additions and 12 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add 2 retries for hybrid composition platform views.<br />
-  <sub>[#162400](https://github.com/flutter/flutter/pull/162400) merged on January 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162400) over 4 hours, 21 additions and 4 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Don't depend on Dart from FML.<br />
-  <sub>[#162271](https://github.com/flutter/flutter/pull/162271) merged on January 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162271) over 2 hours, 1 addition and 6 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Fix debug build for CanvasKit<br />
+  <sub>[#162198](https://github.com/flutter/flutter/pull/162198) merged on January 27, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162198) over 2 days, 12 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a currently unused `runs_in_merge_queue` property to `Linux analyze`.<br />
   <sub>[#162335](https://github.com/flutter/flutter/pull/162335) merged on January 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162335) over 4 hours, 3 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Remove engine PRs link from team-windows triage<br />
+  <sub>[#162263](https://github.com/flutter/flutter/pull/162263) merged on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162263) over 2 days, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Apparently it is illegal to use `stderr` in this project.<br />
   <sub>[#162294](https://github.com/flutter/flutter/pull/162294) merged on January 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162294) over 2 hours, 2 additions and 4 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; Don't depend on Dart from FML.<br />
+  <sub>[#162271](https://github.com/flutter/flutter/pull/162271) merged on January 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162271) over 2 hours, 1 addition and 6 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons), [Zachary Anderson](https://github.com/zanderso)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix tests to prepare for `--explicit-package-dependencies` and a bug.<br />
+  <sub>[#162289](https://github.com/flutter/flutter/pull/162289) merged on January 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162289) over 1 day, 29 additions and 41 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add 2 retries for hybrid composition platform views.<br />
+  <sub>[#162400](https://github.com/flutter/flutter/pull/162400) merged on January 29, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162400) over 4 hours, 21 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Fix various typos<br />
+  <sub>[#162295](https://github.com/flutter/flutter/pull/162295) merged on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162295) over 1 day, 12 additions and 12 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role checks<br />
   <sub>[#162290](https://github.com/flutter/flutter/pull/162290) merged on January 29, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162290) over 1 day, 211 additions and 30 deletions in 5 files</sub><br />
