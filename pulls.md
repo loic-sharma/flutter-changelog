@@ -57,7 +57,7 @@
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Removes dev dependencies from generated plugin registrant for non-Android platforms<br />
-  <sub>[#161828](https://github.com/flutter/flutter/pull/161828) opened on on January 17, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/flutter/pull/161828) 255 additions and 79 deletions in 6 files</sub><br />
+  <sub>[#161828](https://github.com/flutter/flutter/pull/161828) opened on on January 17, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/161828) 255 additions and 79 deletions in 6 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
@@ -81,7 +81,7 @@
   <sub>[#162338](https://github.com/flutter/flutter/pull/162338) opened on on January 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162338) 54 additions and 5 deletions in 11 files</sub><br />
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`<br />
-  <sub>[#162360](https://github.com/flutter/flutter/pull/162360) opened on on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162360) 22 additions and 24 deletions in 12 files</sub><br />
+  <sub>[#162360](https://github.com/flutter/flutter/pull/162360) opened on on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162360) 22 additions and 24 deletions in 12 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
@@ -90,7 +90,7 @@
   <sub>[#162404](https://github.com/flutter/flutter/pull/162404) opened on on January 29, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162404) 730 additions and 13166 deletions in 75 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ plumbing.<br />
-  <sub>[#162407](https://github.com/flutter/flutter/pull/162407) opened on on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162407) 45 additions and 28 deletions in 15 files</sub><br />
+  <sub>[#162407](https://github.com/flutter/flutter/pull/162407) opened on on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162407) 45 additions and 28 deletions in 15 files</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Add new web contributors to web triage doc.<br />
   <sub>[#162420](https://github.com/flutter/flutter/pull/162420) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162420) 2 additions and 0 deletions in 1 file</sub><br />
@@ -100,9 +100,6 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a special case for the Fuchsia SDK ftl.fidl file in the license script<br />
   <sub>[#162423](https://github.com/flutter/flutter/pull/162423) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162423) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar.onVisible documentation<br />
-  <sub>[#162448](https://github.com/flutter/flutter/pull/162448) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162448) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[PurplePolyhedron](https://github.com/PurplePolyhedron)** &mdash; fix syntax error in comment pseudocode<br />
   <sub>[#162453](https://github.com/flutter/flutter/pull/162453) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162453) 1 addition and 1 deletion in 1 file</sub><br />
