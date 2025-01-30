@@ -45,7 +45,7 @@
   <sub>Reviewed by: [LouiseHsu](https://github.com/LouiseHsu)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid NaN values when setting up for the fast squircle blur shader
-  <sub>[#162421](https://github.com/flutter/flutter/pull/162421) merged on January 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162421) over 2 hours, 38 additions and 3 deletions in 3 files</sub>
+  <sub>[#162421](https://github.com/flutter/flutter/pull/162421) merged on January 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162421) over 2 hours, 38 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add instructions to download the Gradle wrapper to FGP readme, and add to gitignore
@@ -1121,7 +1121,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-16 commits.
+17 commits.
 
 * **[James Williams](https://github.com/jwill)** &mdash; Create a "Flutter for Jetpack Compose developers" page
   <sub>[#11232](https://github.com/flutter/website/pull/11232) merged on January 27, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/website/pull/11232) over 3 months, 875 additions and 1 deletion in 2 files</sub>
@@ -1146,6 +1146,10 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add a few new requested FAQs
   <sub>[#11619](https://github.com/flutter/website/pull/11619) merged on January 27, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11619) over 3 days, 41 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [John Ryan](https://github.com/johnpryan)</sub>
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; More updates to new inspector docs
+  <sub>[#11642](https://github.com/flutter/website/pull/11642) merged on January 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11642) over 1 day, 17 additions and 4 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove most of the remaining bootstrap util usages
   <sub>[#11637](https://github.com/flutter/website/pull/11637) merged on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11637) over 13 hours, 93 additions and 131 deletions in 8 files</sub>
