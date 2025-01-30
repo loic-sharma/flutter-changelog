@@ -52,7 +52,7 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable Vulkan on Emulators.
-  <sub>[#162454](https://github.com/flutter/flutter/pull/162454) merged on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162454) over 2 hours, 24 additions and 0 deletions in 3 files</sub>
+  <sub>[#162454](https://github.com/flutter/flutter/pull/162454) merged on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162454) over 2 hours, 24 additions and 0 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable the Android Engine OpenGLES/Vulkan suites.
