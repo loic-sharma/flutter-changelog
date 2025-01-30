@@ -72,7 +72,7 @@
   <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162326) 526 additions and 86 deletions in 16 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Uprev fuchsia components<br />
-  <sub>[#162338](https://github.com/flutter/flutter/pull/162338) opened on on January 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162338) 53 additions and 4 deletions in 11 files</sub><br />
+  <sub>[#162338](https://github.com/flutter/flutter/pull/162338) opened on on January 28, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/162338) 3220 additions and 6 deletions in 13 files</sub><br />
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`<br />
   <sub>[#162360](https://github.com/flutter/flutter/pull/162360) opened on on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162360) 22 additions and 24 deletions in 12 files</sub><br />
