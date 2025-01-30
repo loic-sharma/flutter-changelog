@@ -69,7 +69,7 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162248) 52 additions and 1 deletion in 4 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for building and launching the widget preview scaffold<br />
-  <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162326) 401 additions and 84 deletions in 15 files</sub><br />
+  <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162326) 525 additions and 86 deletions in 16 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Uprev fuchsia components<br />
   <sub>[#162338](https://github.com/flutter/flutter/pull/162338) opened on on January 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162338) 53 additions and 4 deletions in 11 files</sub><br />
@@ -91,7 +91,4 @@
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a special case for the Fuchsia SDK ftl.fidl file in the license script<br />
   <sub>[#162423](https://github.com/flutter/flutter/pull/162423) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162423) 2 additions and 1 deletion in 2 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable Vulkan on Emulators.<br />
-  <sub>[#162454](https://github.com/flutter/flutter/pull/162454) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162454) 24 additions and 0 deletions in 3 files</sub><br />
 
