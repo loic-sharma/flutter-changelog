@@ -74,9 +74,6 @@
 * **[Chris Norman](https://github.com/ChrisCRCB)** &mdash; fix slider semantic label<br />
   <sub>[#162304](https://github.com/flutter/flutter/pull/162304) opened on on January 28, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/162304) 4 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll package:vm_service to 15.0.0 and package:leak_tracker to 10.0.9<br />
-  <sub>[#162325](https://github.com/flutter/flutter/pull/162325) opened on on January 28, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/162325) 264 additions and 264 deletions in 65 files</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for building and launching the widget preview scaffold<br />
   <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162326) 401 additions and 84 deletions in 15 files</sub><br />
 
