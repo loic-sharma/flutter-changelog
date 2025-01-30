@@ -47,6 +47,9 @@
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; [remake] Remove default for stripped option, don't strip by default on android<br />
+  <sub>[#161546](https://github.com/flutter/flutter/pull/161546) opened on on January 13, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/161546) 797 additions and 2 deletions in 3 files</sub><br />
+
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] libImpeller: Add support for Metal and Vulkan rendering.<br />
   <sub>[#161547](https://github.com/flutter/flutter/pull/161547) opened on on January 13, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/161547) 1747 additions and 178 deletions in 47 files</sub><br />
 
@@ -72,7 +75,7 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162248) 18 additions and 1 deletion in 1 file</sub><br />
 
 * **[Chris Norman](https://github.com/ChrisCRCB)** &mdash; fix slider semantic label<br />
-  <sub>[#162304](https://github.com/flutter/flutter/pull/162304) opened on on January 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162304) 4 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#162304](https://github.com/flutter/flutter/pull/162304) opened on on January 28, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/162304) 4 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Roll package:vm_service to 15.0.0 and package:leak_tracker to 10.0.9<br />
   <sub>[#162325](https://github.com/flutter/flutter/pull/162325) opened on on January 28, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162325) 264 additions and 264 deletions in 65 files</sub><br />
@@ -100,4 +103,10 @@
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Add new web contributors to web triage doc.<br />
   <sub>[#162420](https://github.com/flutter/flutter/pull/162420) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162420) 2 additions and 0 deletions in 1 file</sub><br />
+
+* **[Paulik8](https://github.com/Paulik8)** &mdash; Improved error message when PageController is not attached to PageView<br />
+  <sub>[#162422](https://github.com/flutter/flutter/pull/162422) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162422) 171 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a special case for the Fuchsia SDK ftl.fidl file in the license script<br />
+  <sub>[#162423](https://github.com/flutter/flutter/pull/162423) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162423) 1 addition and 0 deletions in 1 file</sub><br />
 
