@@ -93,7 +93,7 @@
   <sub>[#162522](https://github.com/flutter/flutter/pull/162522) opened on on January 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162522) 148 additions and 69 deletions in 6 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add lint ignores to Flutter JNI.<br />
-  <sub>[#162527](https://github.com/flutter/flutter/pull/162527) opened on on January 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162527) 7 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#162527](https://github.com/flutter/flutter/pull/162527) opened on on January 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162527) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML build artifacts<br />
   <sub>[#162528](https://github.com/flutter/flutter/pull/162528) opened on on January 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162528) 3 additions and 61 deletions in 1 file</sub><br />
