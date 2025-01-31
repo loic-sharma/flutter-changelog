@@ -71,9 +71,6 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML from the engine's test suites<br />
-  <sub>[#162404](https://github.com/flutter/flutter/pull/162404) opened on on January 29, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162404) 730 additions and 13166 deletions in 75 files</sub><br />
-
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Improved error message when PageController is not attached to PageView<br />
   <sub>[#162422](https://github.com/flutter/flutter/pull/162422) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162422) 171 additions and 0 deletions in 2 files</sub><br />
 
@@ -92,9 +89,9 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add lint ignores to Flutter JNI.<br />
   <sub>[#162527](https://github.com/flutter/flutter/pull/162527) opened on on January 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162527) 8 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML build artifacts<br />
-  <sub>[#162528](https://github.com/flutter/flutter/pull/162528) opened on on January 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162528) 3 additions and 61 deletions in 1 file</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Disable Vulkan on Emulators. (#162454)<br />
   <sub>[#162536](https://github.com/flutter/flutter/pull/162536) opened on on January 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162536) 24 additions and 0 deletions in 3 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Unskip some paragraph tests that are passing now<br />
+  <sub>[#162537](https://github.com/flutter/flutter/pull/162537) opened on on January 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162537) 81 additions and 111 deletions in 3 files</sub><br />
 
