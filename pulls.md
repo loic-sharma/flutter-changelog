@@ -14,9 +14,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
   <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/158020) 31 additions and 19 deletions in 1 file</sub><br />
 
-* **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationRail examples overflow alignment<br />
-  <sub>[#159937](https://github.com/flutter/flutter/pull/159937) opened on on December 7, 2024 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/159937) 142 additions and 448 deletions in 5 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update CHANGELOG.md for 3.27 release<br />
   <sub>[#160104](https://github.com/flutter/flutter/pull/160104) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160104) 6 additions and 0 deletions in 1 file</sub><br />
 
@@ -94,4 +91,10 @@
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove use of globals from widget-preview commands<br />
   <sub>[#162522](https://github.com/flutter/flutter/pull/162522) opened on on January 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162522) 148 additions and 69 deletions in 6 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add lint ignores to Flutter JNI.<br />
+  <sub>[#162527](https://github.com/flutter/flutter/pull/162527) opened on on January 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162527) 7 additions and 0 deletions in 1 file</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML build artifacts<br />
+  <sub>[#162528](https://github.com/flutter/flutter/pull/162528) opened on on January 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162528) 3 additions and 61 deletions in 1 file</sub><br />
 
