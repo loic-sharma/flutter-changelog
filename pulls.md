@@ -87,11 +87,14 @@
   <sub>[#162423](https://github.com/flutter/flutter/pull/162423) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162423) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Simplify hash table iteration.<br />
-  <sub>[#162483](https://github.com/flutter/flutter/pull/162483) opened on on January 30, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162483) 220 additions and 289 deletions in 1 file</sub><br />
+  <sub>[#162483](https://github.com/flutter/flutter/pull/162483) opened on on January 30, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/162483) 220 additions and 289 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ external view embedder and JNI plumbing.<br />
   <sub>[#162493](https://github.com/flutter/flutter/pull/162493) opened on on January 31, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162493) 866 additions and 36 deletions in 17 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Drop link to engine.version which is no longer checked in.<br />
   <sub>[#162497](https://github.com/flutter/flutter/pull/162497) opened on on January 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162497) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Tool ] Remove use of globals from widget-preview commands<br />
+  <sub>[#162522](https://github.com/flutter/flutter/pull/162522) opened on on January 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162522) 148 additions and 69 deletions in 6 files</sub><br />
 
