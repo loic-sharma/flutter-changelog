@@ -1004,7 +1004,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-20 commits.
+21 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon
   <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub>
@@ -1057,6 +1057,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android type mismatch regression
   <sub>[#8512](https://github.com/flutter/packages/pull/8512) merged on January 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8512) over 3 hours, 261 additions and 38 deletions in 10 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [vector_graphics] Revert leak tracker change
+  <sub>[#8544](https://github.com/flutter/packages/pull/8544) merged on January 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8544) over 27 minutes, 15 additions and 32 deletions in 7 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; [shared_preferences_tool] Loosen vm_service constraint to allow for 15
   <sub>[#8539](https://github.com/flutter/packages/pull/8539) merged on January 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8539) over 5 hours, 2 additions and 2 deletions in 1 file</sub>
