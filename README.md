@@ -21,7 +21,7 @@
   <sub><details><summary>2 images...</summary><img width="577" alt="Screenshot 2024-11-18 at 18 02 01" src="https://github.com/user-attachments/assets/d390c92f-dd62-4c42-b6b7-d4f101078618"><img width="577" alt="Screenshot 2024-11-18 at 18 01 49" src="https://github.com/user-attachments/assets/632e8d19-11bf-45c7-9be9-5c4fc308f3ea"></details></sub>
 
 * **[Christofer](https://github.com/yaostyle)** &mdash; Fix NavigationRail examples overflow alignment<br />
-  <sub>[#159937](https://github.com/flutter/flutter/pull/159937) merged on January 31, 2025 &mdash; **Large:** [16 comments](https://github.com/flutter/flutter/pull/159937) over 1 month, 142 additions and 448 deletions in 5 files</sub><br />
+  <sub>[#159937](https://github.com/flutter/flutter/pull/159937) merged on January 31, 2025 &mdash; **Large:** [17 comments](https://github.com/flutter/flutter/pull/159937) over 1 month, 142 additions and 448 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser), [Bruno Leroux](https://github.com/bleroux)</sub><br />
   <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/b9f54cd2-b2d1-44ee-a159-f1f04ed011e2" alt="NavigationRail Example 1 - Before" height="450"><img src="https://github.com/user-attachments/assets/be78bee7-f03d-40ff-ae36-679416c9c3d2" alt="NavigationRail Example 2 - Before" height="450"><img src="https://github.com/user-attachments/assets/c6a3f060-dc9a-44d3-9ab3-3eea5f6183d6" alt="NavigationRail Example 1 - After" height="450"><img src="https://github.com/user-attachments/assets/6b35753b-e2ab-4053-8dd7-d983531b2c74" alt="NavigationRail Example 2 - After" height="450"></details></sub>
 
