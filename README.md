@@ -218,7 +218,7 @@
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Delete `FlutterCommand.usageValues`<br />
-  <sub>[#162468](https://github.com/flutter/flutter/pull/162468) merged on January 30, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162468) over 38 minutes, 172 additions and 252 deletions in 15 files</sub><br />
+  <sub>[#162468](https://github.com/flutter/flutter/pull/162468) merged on January 30, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162468) over 38 minutes, 172 additions and 252 deletions in 15 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update README.md to include googler post verification steps<br />
@@ -958,7 +958,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-17 commits.
+18 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon<br />
   <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub><br />
@@ -995,6 +995,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [vector_graphics] Fix memory leaks and activate leak testing [prod-leak-fix]<br />
   <sub>[#8373](https://github.com/flutter/packages/pull/8373) merged on January 28, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/packages/pull/8373) over 3 weeks, 36 additions and 11 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Carson Underwood](https://github.com/cunderw)** &mdash; [flutter_markdown] Allow tables to be scrollable with IntrinsicColumnWidth<br />
+  <sub>[#8526](https://github.com/flutter/packages/pull/8526) merged on January 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8526) over 2 days, 89 additions and 3 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [Brett Morgan](https://github.com/domesticmouse)</sub><br />
 
 * **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; [go_router] Add missing await keyword to onTap callback in the code example in `navigation.md`<br />
   <sub>[#8343](https://github.com/flutter/packages/pull/8343) merged on January 28, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8343) over 1 month, 6 additions and 2 deletions in 3 files</sub><br />
