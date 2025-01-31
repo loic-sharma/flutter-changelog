@@ -364,6 +364,10 @@
   <sub>[#161518](https://github.com/flutter/flutter/pull/161518) merged on January 25, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/161518) over 1 week, 41 additions and 12 deletions in 9 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.
+  <sub>[#161841](https://github.com/flutter/flutter/pull/161841) merged on January 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161841) over 3 days, 21 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [John McDole](https://github.com/jtmcdole)</sub>
+
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Deprecate `ThemeData.indicatorColor` in favor of `TabBarThemeData.indicatorColor`
   <sub>[#160024](https://github.com/flutter/flutter/pull/160024) merged on January 22, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/160024) over 1 month, 152 additions and 58 deletions in 7 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
@@ -384,13 +388,9 @@
   <sub>[#162032](https://github.com/flutter/flutter/pull/162032) merged on January 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162032) over 21 hours, 7 additions and 44 deletions in 5 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [impeller] prevent PowerVR from using Vulkan backend.
-  <sub>[#161841](https://github.com/flutter/flutter/pull/161841) merged on January 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161841) over 3 days, 21 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [John McDole](https://github.com/jtmcdole)</sub>
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Migrate unit tests off of Skia geometry classes
-  <sub>[#161855](https://github.com/flutter/flutter/pull/161855) merged on January 22, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/161855) over 4 days, 1281 additions and 1087 deletions in 25 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `font-subset` a standalone `run_tests.py` variant.
+  <sub>[#162016](https://github.com/flutter/flutter/pull/162016) merged on January 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162016) over 1 hour, 4 additions and 4 deletions in 4 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Android templates: update default Kotlin from 1.8.22 to 2.1.0, update default Gradle from 8.9 to 8.12
   <sub>[#160974](https://github.com/flutter/flutter/pull/160974) merged on January 23, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160974) over 3 weeks, 31 additions and 17 deletions in 7 files</sub>
@@ -408,9 +408,9 @@
   <sub>[#161625](https://github.com/flutter/flutter/pull/161625) merged on January 21, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/161625) over 6 days, 312 additions and 121 deletions in 7 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Make `font-subset` a standalone `run_tests.py` variant.
-  <sub>[#162016](https://github.com/flutter/flutter/pull/162016) merged on January 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162016) over 1 hour, 4 additions and 4 deletions in 4 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Migrate unit tests off of Skia geometry classes
+  <sub>[#161855](https://github.com/flutter/flutter/pull/161855) merged on January 22, 2025 &mdash; **Extra large:** [6 comments](https://github.com/flutter/flutter/pull/161855) over 4 days, 1281 additions and 1087 deletions in 25 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to version Version 3.8.0-19.0.dev
   <sub>[#161989](https://github.com/flutter/flutter/pull/161989) merged on January 22, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/161989) over 14 hours, 1576 additions and 3246 deletions in 4 files</sub>
@@ -432,17 +432,17 @@
   <sub>[#162054](https://github.com/flutter/flutter/pull/162054) merged on January 23, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162054) over 13 hours, 1459 additions and 697 deletions in 11 files</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark Linux_pixel_7pro flavors_test unflaky
-  <sub>[#160994](https://github.com/flutter/flutter/pull/160994) merged on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160994) over 3 weeks, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Reid Baker](https://github.com/reidbaker)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a better error message when `flutter drive --target` is used incorrectly.
+  <sub>[#162023](https://github.com/flutter/flutter/pull/162023) merged on January 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162023) over 9 hours, 97 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Add a README with instructions for editing and running tests for the FGP
   <sub>[#161830](https://github.com/flutter/flutter/pull/161830) merged on January 23, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/161830) over 5 days, 32 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add a better error message when `flutter drive --target` is used incorrectly.
-  <sub>[#162023](https://github.com/flutter/flutter/pull/162023) merged on January 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162023) over 9 hours, 97 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Mark Linux_pixel_7pro flavors_test unflaky
+  <sub>[#160994](https://github.com/flutter/flutter/pull/160994) merged on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160994) over 3 weeks, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Experiment with a `files-changed.json` per PR
   <sub>[#161788](https://github.com/flutter/flutter/pull/161788) merged on January 22, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/161788) over 5 days, 118 additions and 9 deletions in 4 files</sub>
@@ -496,17 +496,17 @@
   <sub>[#162089](https://github.com/flutter/flutter/pull/162089) merged on January 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162089) over 1 day, 75 additions and 52 deletions in 5 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Skip clip entity replay that cannot impact current clip.
-  <sub>[#162113](https://github.com/flutter/flutter/pull/162113) merged on January 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162113) over 22 hours, 38 additions and 0 deletions in 4 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unskip test.
+  <sub>[#162106](https://github.com/flutter/flutter/pull/162106) merged on January 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162106) over 44 minutes, 2 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix link to hotfix documentation best practices
+  <sub>[#162116](https://github.com/flutter/flutter/pull/162116) merged on January 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162116) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add piping and bringup nodes for `_vulkan` and `_opengles` suites.
   <sub>[#162020](https://github.com/flutter/flutter/pull/162020) merged on January 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162020) over 2 hours, 73 additions and 23 deletions in 12 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [John McDole](https://github.com/jtmcdole)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Make glIsTexture mockable for use by the ReactorGLES.NameUntrackedHandle test
-  <sub>[#162082](https://github.com/flutter/flutter/pull/162082) merged on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162082) over 3 hours, 26 additions and 3 deletions in 3 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Shift `mac_clang_tidy` to a Linux orchestrator.
   <sub>[#162042](https://github.com/flutter/flutter/pull/162042) merged on January 23, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/162042) over 17 hours, 30 additions and 0 deletions in 2 files</sub>
@@ -528,13 +528,13 @@
   <sub>[#161834](https://github.com/flutter/flutter/pull/161834) merged on January 23, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161834) over 5 days, 36 additions and 1 deletion in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Skip clip entity replay that cannot impact current clip.
+  <sub>[#162113](https://github.com/flutter/flutter/pull/162113) merged on January 24, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162113) over 22 hours, 38 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when a command pool has many unused buffers, reset with release resources flag.
   <sub>[#162171](https://github.com/flutter/flutter/pull/162171) merged on January 24, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162171) over 5 hours, 101 additions and 12 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Unskip test.
-  <sub>[#162106](https://github.com/flutter/flutter/pull/162106) merged on January 23, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162106) over 44 minutes, 2 additions and 6 deletions in 1 file</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Fix source offset in PathBuilder::AddPath
   <sub>[#162052](https://github.com/flutter/flutter/pull/162052) merged on January 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162052) over 1 day, 27 additions and 1 deletion in 2 files</sub>
@@ -552,9 +552,9 @@
   <sub>[#162068](https://github.com/flutter/flutter/pull/162068) merged on January 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162068) over 1 hour, 3 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Hossein Yousefi](https://github.com/HosseinYousefi)</sub>
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix link to hotfix documentation best practices
-  <sub>[#162116](https://github.com/flutter/flutter/pull/162116) merged on January 24, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162116) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Kevin Chisholm](https://github.com/itsjustkevin)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Make glIsTexture mockable for use by the ReactorGLES.NameUntrackedHandle test
+  <sub>[#162082](https://github.com/flutter/flutter/pull/162082) merged on January 23, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162082) over 3 hours, 26 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Daco Harkes](https://github.com/dcharkes)** &mdash; [native assets] Cleanup dead code 2
   <sub>[#161916](https://github.com/flutter/flutter/pull/161916) merged on January 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161916) over 13 hours, 0 additions and 67 deletions in 3 files</sub>
