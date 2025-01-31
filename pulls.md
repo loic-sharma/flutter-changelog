@@ -92,3 +92,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ external view embedder and JNI plumbing.<br />
   <sub>[#162493](https://github.com/flutter/flutter/pull/162493) opened on on January 31, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162493) 866 additions and 36 deletions in 17 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Drop link to engine.version which is no longer checked in.<br />
+  <sub>[#162497](https://github.com/flutter/flutter/pull/162497) opened on on January 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162497) 1 addition and 1 deletion in 1 file</sub><br />
+
