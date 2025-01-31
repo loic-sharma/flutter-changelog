@@ -66,6 +66,10 @@
   <sub>[#162332](https://github.com/flutter/flutter/pull/162332) merged on January 29, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162332) over 5 hours, 10 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Bartek Pacia](https://github.com/bartekpacia), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places<br />
+  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) merged on January 29, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/162336) over 5 hours, 128 additions and 264 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add missing `properties: ...` and move to presubmit.<br />
   <sub>[#162170](https://github.com/flutter/flutter/pull/162170) merged on January 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162170) over 3 days, 30 additions and 26 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
@@ -98,25 +102,21 @@
   <sub>[#161829](https://github.com/flutter/flutter/pull/161829) merged on January 30, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/161829) over 1 week, 2047 additions and 50 deletions in 15 files</sub><br />
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove more (simple) usage of package:usage<br />
+  <sub>[#162354](https://github.com/flutter/flutter/pull/162354) merged on January 30, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162354) over 1 day, 29 additions and 1077 deletions in 36 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
 * **[Camille Simon](https://github.com/camsim99)** &mdash; Removes dev dependencies from generated plugin registrant for non-Android platforms<br />
   <sub>[#161828](https://github.com/flutter/flutter/pull/161828) merged on January 30, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/161828) over 1 week, 255 additions and 79 deletions in 6 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
-* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
-  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) merged on January 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161826) over 1 week, 83 additions and 35 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; Refactor code inside flutter.groovy <br />
   <sub>[#160250](https://github.com/flutter/flutter/pull/160250) merged on January 28, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/160250) over 1 month, 14 additions and 19 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; remove more (simple) usage of package:usage<br />
-  <sub>[#162354](https://github.com/flutter/flutter/pull/162354) merged on January 30, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162354) over 1 day, 29 additions and 1077 deletions in 36 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
-
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [engine, web] return switch expressions in many places<br />
-  <sub>[#162336](https://github.com/flutter/flutter/pull/162336) merged on January 29, 2025 &mdash; **Medium:** [9 comments](https://github.com/flutter/flutter/pull/162336) over 5 hours, 128 additions and 264 deletions in 18 files</sub><br />
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [Android] Fix integration test to check if dev dependencies are removed from release builds + address no non-dev dependency plugin edge case<br />
+  <sub>[#161826](https://github.com/flutter/flutter/pull/161826) merged on January 29, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/161826) over 1 week, 83 additions and 35 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Fix `flutter doctor` instructions displayed when `cmdline-tools` (Android SDK) cannot be found<br />
   <sub>[#162281](https://github.com/flutter/flutter/pull/162281) merged on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162281) over 2 days, 16 additions and 8 deletions in 3 files</sub><br />
