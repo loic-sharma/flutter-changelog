@@ -1028,7 +1028,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-22 commits.
+23 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon<br />
   <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub><br />
@@ -1085,6 +1085,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android type mismatch regression<br />
   <sub>[#8512](https://github.com/flutter/packages/pull/8512) merged on January 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8512) over 3 hours, 261 additions and 38 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [tool] Add --xcode-warnings-exceptions flag<br />
+  <sub>[#8524](https://github.com/flutter/packages/pull/8524) merged on January 31, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/8524) over 3 days, 124 additions and 9 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [vector_graphics] Revert leak tracker change<br />
   <sub>[#8544](https://github.com/flutter/packages/pull/8544) merged on January 31, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8544) over 27 minutes, 15 additions and 32 deletions in 7 files</sub><br />
