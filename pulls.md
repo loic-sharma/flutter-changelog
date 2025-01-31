@@ -92,3 +92,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Unskip some paragraph tests that are passing now<br />
   <sub>[#162537](https://github.com/flutter/flutter/pull/162537) opened on on January 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162537) 82 additions and 111 deletions in 3 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [reland] delete `FlutterCommand.usageValues`<br />
+  <sub>[#162550](https://github.com/flutter/flutter/pull/162550) opened on on January 31, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162550) 172 additions and 252 deletions in 15 files</sub><br />
+
