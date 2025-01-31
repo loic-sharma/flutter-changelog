@@ -93,5 +93,5 @@
   <sub>[#162483](https://github.com/flutter/flutter/pull/162483) opened on on January 30, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162483) 220 additions and 289 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ external view embedder and JNI plumbing.<br />
-  <sub>[#162493](https://github.com/flutter/flutter/pull/162493) opened on on January 31, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162493) 866 additions and 36 deletions in 17 files</sub><br />
+  <sub>[#162493](https://github.com/flutter/flutter/pull/162493) opened on on January 31, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162493) 866 additions and 36 deletions in 17 files</sub><br />
 
