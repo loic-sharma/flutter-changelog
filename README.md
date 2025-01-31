@@ -974,7 +974,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-19 commits.
+20 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon<br />
   <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub><br />
@@ -1027,6 +1027,10 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [shared_preferences] Fix Android type mismatch regression<br />
   <sub>[#8512](https://github.com/flutter/packages/pull/8512) merged on January 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8512) over 3 hours, 261 additions and 38 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; [shared_preferences_tool] Loosen vm_service constraint to allow for 15<br />
+  <sub>[#8539](https://github.com/flutter/packages/pull/8539) merged on January 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8539) over 5 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update CODEOWNERS for pkg:animations<br />
   <sub>[#8534](https://github.com/flutter/packages/pull/8534) merged on January 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8534) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
