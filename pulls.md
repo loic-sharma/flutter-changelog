@@ -78,7 +78,7 @@
   <sub>[#162422](https://github.com/flutter/flutter/pull/162422) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162422) 171 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a special case for the Fuchsia SDK ftl.fidl file in the license script<br />
-  <sub>[#162423](https://github.com/flutter/flutter/pull/162423) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162423) 2 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#162423](https://github.com/flutter/flutter/pull/162423) opened on on January 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162423) 2 additions and 1 deletion in 2 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Simplify hash table iteration.<br />
   <sub>[#162483](https://github.com/flutter/flutter/pull/162483) opened on on January 30, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/162483) 220 additions and 289 deletions in 1 file</sub><br />
