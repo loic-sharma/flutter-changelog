@@ -92,6 +92,3 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Simplify hash table iteration.<br />
   <sub>[#162483](https://github.com/flutter/flutter/pull/162483) opened on on January 30, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162483) 220 additions and 289 deletions in 1 file</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] Avoid NaN values when setting up for the fast squircle blu…<br />
-  <sub>[#162485](https://github.com/flutter/flutter/pull/162485) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162485) 38 additions and 3 deletions in 3 files</sub><br />
-
