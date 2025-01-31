@@ -1216,7 +1216,7 @@
 
 ### January 25, 2025 to January 31, 2025
 
-17 commits.
+20 commits.
 
 * **[James Williams](https://github.com/jwill)** &mdash; Create a "Flutter for Jetpack Compose developers" page
   <sub>[#11232](https://github.com/flutter/website/pull/11232) merged on January 27, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/website/pull/11232) over 3 months, 875 additions and 1 deletion in 2 files</sub>
@@ -1224,6 +1224,10 @@
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; Add documentation for the new Flutter inspector
   <sub>[#11629](https://github.com/flutter/website/pull/11629) merged on January 28, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/website/pull/11629) over 22 hours, 696 additions and 78 deletions in 18 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Removal and replacement of bootstrap
+  <sub>[#11644](https://github.com/flutter/website/pull/11644) merged on January 31, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/website/pull/11644) over 1 day, 1394 additions and 1828 deletions in 81 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update to new layout and sidenav
@@ -1241,6 +1245,14 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add a few new requested FAQs
   <sub>[#11619](https://github.com/flutter/website/pull/11619) merged on January 27, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11619) over 3 days, 41 additions and 12 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [John Ryan](https://github.com/johnpryan)</sub>
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Update DevTools release notes for cherry pick release
+  <sub>[#11653](https://github.com/flutter/website/pull/11653) merged on January 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11653) over 14 minutes, 15 additions and 13 deletions in 6 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Elliott Brooks](https://github.com/elliette)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update current version for Flutter 3.27.3
+  <sub>[#11652](https://github.com/flutter/website/pull/11652) merged on January 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11652) over 15 minutes, 8 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; More updates to new inspector docs
   <sub>[#11642](https://github.com/flutter/website/pull/11642) merged on January 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11642) over 1 day, 17 additions and 4 deletions in 1 file</sub>
