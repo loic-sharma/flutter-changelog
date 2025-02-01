@@ -83,9 +83,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Drop link to engine.version which is no longer checked in.<br />
   <sub>[#162497](https://github.com/flutter/flutter/pull/162497) opened on on January 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162497) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add lint ignores to Flutter JNI.<br />
-  <sub>[#162527](https://github.com/flutter/flutter/pull/162527) opened on on January 31, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162527) 8 additions and 0 deletions in 1 file</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Disable Vulkan on Emulators. (#162454)<br />
   <sub>[#162536](https://github.com/flutter/flutter/pull/162536) opened on on January 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162536) 24 additions and 0 deletions in 3 files</sub><br />
 
