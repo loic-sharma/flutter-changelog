@@ -95,3 +95,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides<br />
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) opened on on February 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) 91 additions and 168 deletions in 22 files</sub><br />
 
+* **[Martin Pellicer](https://github.com/martinpelli)** &mdash; Add childrenSpacing property to ExpansionTile<br />
+  <sub>[#162556](https://github.com/flutter/flutter/pull/162556) opened on on February 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162556) 88 additions and 0 deletions in 3 files</sub><br />
+
