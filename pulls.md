@@ -110,3 +110,6 @@
 * **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; Add localization for `Back` and `Cancel` buttons in CupertinoNavigationBar<br />
   <sub>[#162581](https://github.com/flutter/flutter/pull/162581) opened on on February 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162581) 754 additions and 111 deletions in 85 files</sub><br />
 
+* **[mathymess](https://github.com/mathymess)** &mdash; fix: README.md: typo: jank -> junk<br />
+  <sub>[#162583](https://github.com/flutter/flutter/pull/162583) opened on on February 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162583) 1 addition and 1 deletion in 1 file</sub><br />
+
