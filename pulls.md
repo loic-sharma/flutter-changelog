@@ -104,3 +104,6 @@
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add action for configuring default action of EditableText.onTapUpOutside<br />
   <sub>[#162575](https://github.com/flutter/flutter/pull/162575) opened on on February 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162575) 273 additions and 1 deletion in 5 files</sub><br />
 
+* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add role check in SemanticsNode._isDifferentFromCurrentSemanticAnnotation function.<br />
+  <sub>[#162578](https://github.com/flutter/flutter/pull/162578) opened on on February 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162578) 30 additions and 1 deletion in 2 files</sub><br />
+
