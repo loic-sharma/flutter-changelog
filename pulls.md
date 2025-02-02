@@ -96,7 +96,7 @@
   <sub>[#162556](https://github.com/flutter/flutter/pull/162556) opened on on February 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162556) 88 additions and 0 deletions in 3 files</sub><br />
 
 * **[Huy](https://github.com/huycozy)** &mdash; Fix DropdownMenu example RenderFlex overflowed error<br />
-  <sub>[#162558](https://github.com/flutter/flutter/pull/162558) opened on on February 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162558) 91 additions and 46 deletions in 2 files</sub><br />
+  <sub>[#162558](https://github.com/flutter/flutter/pull/162558) opened on on February 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162558) 91 additions and 46 deletions in 2 files</sub><br />
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing properties to _ArcPaintPredicate.<br />
   <sub>[#162572](https://github.com/flutter/flutter/pull/162572) opened on on February 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162572) 206 additions and 0 deletions in 2 files</sub><br />
