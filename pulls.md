@@ -119,3 +119,6 @@
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Changed docs for hintOverrides field of SemanticsProperties<br />
   <sub>[#162632](https://github.com/flutter/flutter/pull/162632) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162632) 5 additions and 6 deletions in 1 file</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Trigger display_cutout_rotation flutter driver test in ci. <br />
+  <sub>[#162641](https://github.com/flutter/flutter/pull/162641) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162641) 38 additions and 0 deletions in 3 files</sub><br />
+
