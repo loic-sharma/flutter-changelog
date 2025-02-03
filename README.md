@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### February 1, 2025 to February 7, 2025
+
+1 commits.
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Implement hot reload using the DDC library bundle format<br />
+  <sub>[#162498](https://github.com/flutter/flutter/pull/162498) merged on February 3, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/162498) over 3 days, 866 additions and 360 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
+
 ### January 25, 2025 to January 31, 2025
 
-84 commits.
+<details>
+<summary>84 commits...</summary>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Add WidgetPreview and @Preview() annotation<br />
   <sub>[#159219](https://github.com/flutter/flutter/pull/159219) merged on January 29, 2025 &mdash; **Small:** [40 comments](https://github.com/flutter/flutter/pull/159219) over 2 months, 80 additions and 0 deletions in 2 files</sub><br />
@@ -346,6 +355,8 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; Reland "[ Widget Previews ] Add support for detecting previews and generating code (#161911)""<br />
   <sub>[#162337](https://github.com/flutter/flutter/pull/162337) merged on January 29, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162337) over 5 hours, 549 additions and 25 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+</details>
 
 ### January 18, 2025 to January 24, 2025
 
