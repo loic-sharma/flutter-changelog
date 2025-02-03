@@ -119,3 +119,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add a data driven fix for InputDecoration.maintainHintHeight<br />
   <sub>[#162600](https://github.com/flutter/flutter/pull/162600) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162600) 55 additions and 0 deletions in 3 files</sub><br />
 
+* **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to set viewport<br />
+  <sub>[#162602](https://github.com/flutter/flutter/pull/162602) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162602) 142 additions and 0 deletions in 4 files</sub><br />
+
