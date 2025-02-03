@@ -726,9 +726,18 @@
 
 ## flutter/packages
 
+### February 1, 2025 to February 7, 2025
+
+1 commits.
+
+* **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter] Support for Ground Overlay - platform interface<br />
+  <sub>[#8518](https://github.com/flutter/packages/pull/8518) merged on February 3, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/8518) over 6 days, 886 additions and 8 deletions in 12 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub><br />
+
 ### January 25, 2025 to January 31, 2025
 
-23 commits.
+<details>
+<summary>23 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates the internal wrapper to use `@ProxyApi` from pigeon<br />
   <sub>[#8311](https://github.com/flutter/packages/pull/8311) merged on January 28, 2025 &mdash; **Extra large:** [22 comments](https://github.com/flutter/packages/pull/8311) over 1 month, 24976 additions and 27676 deletions in 187 files</sub><br />
@@ -821,6 +830,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Revert "[shared_preferences] Add shared preferences devtool"<br />
   <sub>[#8515](https://github.com/flutter/packages/pull/8515) merged on January 28, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/packages/pull/8515) over 3 hours, 2 additions and 4581 deletions in 39 files</sub><br />
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+</details>
 
 ### January 18, 2025 to January 24, 2025
 
