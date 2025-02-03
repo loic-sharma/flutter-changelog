@@ -732,7 +732,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-2 commits.
+3 commits.
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [pigeon] [swift] Fix `PigeonError` sendability conformance in Swift 6
   <sub>[#8302](https://github.com/flutter/packages/pull/8302) merged on February 3, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8302) over 1 month, 45 additions and 18 deletions in 12 files</sub>
@@ -741,6 +741,10 @@
 * **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter] Support for Ground Overlay - platform interface
   <sub>[#8518](https://github.com/flutter/packages/pull/8518) merged on February 3, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/8518) over 6 days, 886 additions and 8 deletions in 12 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Maurice Parrish](https://github.com/bparrishMines)</sub>
+
+* **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] reorg generator files
+  <sub>[#8532](https://github.com/flutter/packages/pull/8532) merged on February 3, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8532) over 4 days, 106 additions and 101 deletions in 38 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 ### January 25, 2025 to January 31, 2025
 
@@ -931,7 +935,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-8 commits.
+9 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added
   <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub>
@@ -940,6 +944,10 @@
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add test orientation recipe
   <sub>[#11657](https://github.com/flutter/website/pull/11657) merged on February 3, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11657) over 2 days, 412 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Stop including jquery in site
+  <sub>[#11655](https://github.com/flutter/website/pull/11655) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11655) over 2 days, 13 additions and 15 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unnecessary and unused policies from headers

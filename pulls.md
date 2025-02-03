@@ -113,3 +113,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Increase conical gradient precision. (#162543)<br />
   <sub>[#162619](https://github.com/flutter/flutter/pull/162619) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162619) 62 additions and 62 deletions in 4 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Exclude build.gradle.kts files from automatic lockfile generation in display rotation <br />
+  <sub>[#162622](https://github.com/flutter/flutter/pull/162622) opened on on February 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162622) 3 additions and 0 deletions in 1 file</sub><br />
+
