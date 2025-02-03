@@ -185,7 +185,7 @@
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Increase conical gradient precision.<br />
-  <sub>[#162543](https://github.com/flutter/flutter/pull/162543) merged on February 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162543) over 3 hours, 62 additions and 62 deletions in 4 files</sub><br />
+  <sub>[#162543](https://github.com/flutter/flutter/pull/162543) merged on February 1, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162543) over 3 hours, 62 additions and 62 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Jim Graham](https://github.com/flar), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; Add new web contributors to web triage doc.<br />
