@@ -935,7 +935,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-9 commits.
+10 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added<br />
   <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub><br />
@@ -944,6 +944,10 @@
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add test orientation recipe<br />
   <sub>[#11657](https://github.com/flutter/website/pull/11657) merged on February 3, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11657) over 2 days, 412 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Update corepack to fix linkcheck workflow failure<br />
+  <sub>[#11667](https://github.com/flutter/website/pull/11667) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11667) over 11 minutes, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Stop including jquery in site<br />
