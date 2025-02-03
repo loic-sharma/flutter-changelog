@@ -8,7 +8,7 @@
 * **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; integration_test example Android app: migrate to Gradle KTS<br />
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/157193) 107 additions and 123 deletions in 5 files</sub><br />
 
-* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
+* **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement regular windows for the Windows platform<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/157515) 4409 additions and 2 deletions in 52 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
@@ -105,7 +105,7 @@
   <sub>[#162600](https://github.com/flutter/flutter/pull/162600) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162600) 55 additions and 0 deletions in 3 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use recompile-restart instruction when hot restarting on the web<br />
-  <sub>[#162616](https://github.com/flutter/flutter/pull/162616) opened on on February 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162616) 84 additions and 1 deletion in 9 files</sub><br />
+  <sub>[#162616](https://github.com/flutter/flutter/pull/162616) opened on on February 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162616) 84 additions and 1 deletion in 9 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Increase conical gradient precision. (#162543)<br />
   <sub>[#162619](https://github.com/flutter/flutter/pull/162619) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162619) 62 additions and 62 deletions in 4 files</sub><br />
@@ -115,4 +115,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Warn that integration tests are not run automatically<br />
   <sub>[#162626](https://github.com/flutter/flutter/pull/162626) opened on on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162626) 4 additions and 0 deletions in 1 file</sub><br />
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; [CP][Beta] Unblock drag gestures in CupertinoSheetRoute content<br />
+  <sub>[#162629](https://github.com/flutter/flutter/pull/162629) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162629) 71 additions and 6 deletions in 2 files</sub><br />
 

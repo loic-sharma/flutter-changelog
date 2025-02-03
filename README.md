@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-4 commits.
+6 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove default for stripped option in `engine/src/flutter/tools/gn`, don't strip by default on android<br />
   <sub>[#161546](https://github.com/flutter/flutter/pull/161546) merged on February 3, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/161546) over 2 weeks, 506 additions and 2 deletions in 3 files</sub><br />
@@ -18,9 +18,17 @@
   <sub>[#162404](https://github.com/flutter/flutter/pull/162404) merged on February 3, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/162404) over 5 days, 730 additions and 13166 deletions in 75 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Unskip some paragraph tests that are passing now<br />
+  <sub>[#162537](https://github.com/flutter/flutter/pull/162537) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162537) over 3 days, 82 additions and 111 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`<br />
   <sub>[#162591](https://github.com/flutter/flutter/pull/162591) merged on February 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162591) over 10 hours, 22 additions and 24 deletions in 12 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [reland] delete `FlutterCommand.usageValues`<br />
+  <sub>[#162550](https://github.com/flutter/flutter/pull/162550) merged on February 3, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162550) over 2 days, 173 additions and 266 deletions in 16 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 ### January 25, 2025 to January 31, 2025
 
