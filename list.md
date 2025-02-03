@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-9 commits.
+10 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove default for stripped option in `engine/src/flutter/tools/gn`, don't strip by default on android
   <sub>[#161546](https://github.com/flutter/flutter/pull/161546) merged on February 3, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/161546) over 2 weeks, 506 additions and 2 deletions in 3 files</sub>
@@ -17,6 +17,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert `SkiaException` to `TestFailure` on post-submit.
   <sub>[#162623](https://github.com/flutter/flutter/pull/162623) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162623) over 45 minutes, 63 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Exclude build.gradle.kts files from automatic lockfile generation in display rotation 
+  <sub>[#162622](https://github.com/flutter/flutter/pull/162622) merged on February 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162622) over 2 hours, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML from the engine's test suites
   <sub>[#162404](https://github.com/flutter/flutter/pull/162404) merged on February 3, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/162404) over 5 days, 730 additions and 13166 deletions in 75 files</sub>
