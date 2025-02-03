@@ -107,9 +107,6 @@
 * **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; Add localization for `Back` and `Cancel` buttons in CupertinoNavigationBar<br />
   <sub>[#162581](https://github.com/flutter/flutter/pull/162581) opened on on February 2, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162581) 754 additions and 111 deletions in 85 files</sub><br />
 
-* **[Aldian Umbu](https://github.com/alb3st)** &mdash; Sign in register<br />
-  <sub>[#162588](https://github.com/flutter/flutter/pull/162588) opened on on February 3, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162588) 2685 additions and 675 deletions in 103 files</sub><br />
-
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`<br />
   <sub>[#162591](https://github.com/flutter/flutter/pull/162591) opened on on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162591) 22 additions and 24 deletions in 12 files</sub><br />
 

@@ -4,7 +4,11 @@
 
 ### February 1, 2025 to February 7, 2025
 
-1 commits.
+2 commits.
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove default for stripped option in `engine/src/flutter/tools/gn`, don't strip by default on android
+  <sub>[#161546](https://github.com/flutter/flutter/pull/161546) merged on February 3, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/161546) over 2 weeks, 506 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Implement hot reload using the DDC library bundle format
   <sub>[#162498](https://github.com/flutter/flutter/pull/162498) merged on February 3, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/162498) over 3 days, 866 additions and 360 deletions in 21 files</sub>
@@ -201,7 +205,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add lint ignores to Flutter JNI.
-  <sub>[#162527](https://github.com/flutter/flutter/pull/162527) merged on February 1, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162527) over 1 day, 8 additions and 0 deletions in 1 file</sub>
+  <sub>[#162527](https://github.com/flutter/flutter/pull/162527) merged on February 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162527) over 1 day, 8 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] SurfaceTransaction updates for HC++.
