@@ -119,6 +119,3 @@
 * **[AthulJoseph](https://github.com/AthulJoseph27)** &mdash; Added support to set viewport<br />
   <sub>[#162602](https://github.com/flutter/flutter/pull/162602) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162602) 142 additions and 0 deletions in 4 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Move frame_reference.dart to the html/ folder<br />
-  <sub>[#162608](https://github.com/flutter/flutter/pull/162608) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162608) 6 additions and 90 deletions in 7 files</sub><br />
-
