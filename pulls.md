@@ -9,7 +9,7 @@
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/157193) 107 additions and 123 deletions in 5 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement createRegularWindow and add it to the reference app<br />
-  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/157515) 4291 additions and 2 deletions in 51 files</sub><br />
+  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [10 comments](https://github.com/flutter/flutter/pull/157515) 4409 additions and 2 deletions in 52 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
   <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/158020) 31 additions and 19 deletions in 1 file</sub><br />
