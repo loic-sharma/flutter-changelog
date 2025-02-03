@@ -935,12 +935,17 @@
 
 ### February 1, 2025 to February 7, 2025
 
-10 commits.
+11 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added<br />
   <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
   <sub><details><summary>1 image...</summary><img width="143" alt="image" src="https://github.com/user-attachments/assets/497921b6-df79-47ba-bfb7-5a520b09cab5" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add dropdown to switch between Flutter-related sites<br />
+  <sub>[#11659](https://github.com/flutter/website/pull/11659) merged on February 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11659) over 2 days, 256 additions and 22 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary><img width="240" alt="Flutter site switcher expanded in light mode" src="https://github.com/user-attachments/assets/4393530e-2e48-4354-9358-8ccc2ec147da" /></details></sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add test orientation recipe<br />
   <sub>[#11657](https://github.com/flutter/website/pull/11657) merged on February 3, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11657) over 2 days, 412 additions and 0 deletions in 6 files</sub><br />

@@ -77,9 +77,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Disable Vulkan on Emulators. (#162454)<br />
   <sub>[#162536](https://github.com/flutter/flutter/pull/162536) opened on on January 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162536) 24 additions and 0 deletions in 3 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Unskip some paragraph tests that are passing now<br />
-  <sub>[#162537](https://github.com/flutter/flutter/pull/162537) opened on on January 31, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162537) 82 additions and 111 deletions in 3 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides<br />
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) opened on on February 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) 91 additions and 168 deletions in 22 files</sub><br />
 
@@ -114,5 +111,8 @@
   <sub>[#162619](https://github.com/flutter/flutter/pull/162619) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162619) 62 additions and 62 deletions in 4 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Exclude build.gradle.kts files from automatic lockfile generation in display rotation <br />
-  <sub>[#162622](https://github.com/flutter/flutter/pull/162622) opened on on February 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162622) 3 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#162622](https://github.com/flutter/flutter/pull/162622) opened on on February 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162622) 3 additions and 0 deletions in 1 file</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Warn that integration tests are not run automatically<br />
+  <sub>[#162626](https://github.com/flutter/flutter/pull/162626) opened on on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162626) 4 additions and 0 deletions in 1 file</sub><br />
 
