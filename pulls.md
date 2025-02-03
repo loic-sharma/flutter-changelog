@@ -116,6 +116,3 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Warn that integration tests are not run automatically<br />
   <sub>[#162626](https://github.com/flutter/flutter/pull/162626) opened on on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162626) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; [CP][Beta] Unblock drag gestures in CupertinoSheetRoute content<br />
-  <sub>[#162629](https://github.com/flutter/flutter/pull/162629) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162629) 71 additions and 6 deletions in 2 files</sub><br />
-
