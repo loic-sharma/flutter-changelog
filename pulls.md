@@ -114,5 +114,8 @@
   <sub>[#162632](https://github.com/flutter/flutter/pull/162632) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162632) 5 additions and 6 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Trigger display_cutout_rotation flutter driver test in ci. <br />
-  <sub>[#162641](https://github.com/flutter/flutter/pull/162641) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162641) 38 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#162641](https://github.com/flutter/flutter/pull/162641) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162641) 39 additions and 0 deletions in 4 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; FYI matanlurey (does not require review, but probably should) on dev/test infra.<br />
+  <sub>[#162642](https://github.com/flutter/flutter/pull/162642) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162642) 3 additions and 2 deletions in 1 file</sub><br />
 
