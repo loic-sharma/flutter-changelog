@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-2 commits.
+4 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove default for stripped option in `engine/src/flutter/tools/gn`, don't strip by default on android
   <sub>[#161546](https://github.com/flutter/flutter/pull/161546) merged on February 3, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/161546) over 2 weeks, 506 additions and 2 deletions in 3 files</sub>
@@ -13,6 +13,14 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Implement hot reload using the DDC library bundle format
   <sub>[#162498](https://github.com/flutter/flutter/pull/162498) merged on February 3, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/162498) over 3 days, 866 additions and 360 deletions in 21 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Nicholas Shahan](https://github.com/nshahan)</sub>
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML from the engine's test suites
+  <sub>[#162404](https://github.com/flutter/flutter/pull/162404) merged on February 3, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/162404) over 5 days, 730 additions and 13166 deletions in 75 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`
+  <sub>[#162591](https://github.com/flutter/flutter/pull/162591) merged on February 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162591) over 10 hours, 22 additions and 24 deletions in 12 files</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 ### January 25, 2025 to January 31, 2025
 
@@ -935,7 +943,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-11 commits.
+13 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added
   <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub>
@@ -950,6 +958,10 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add test orientation recipe
   <sub>[#11657](https://github.com/flutter/website/pull/11657) merged on February 3, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11657) over 2 days, 412 additions and 0 deletions in 6 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add cache bust for new dropdown functionality
+  <sub>[#11668](https://github.com/flutter/website/pull/11668) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11668) over 2 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update corepack to fix linkcheck workflow failure
   <sub>[#11667](https://github.com/flutter/website/pull/11667) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11667) over 11 minutes, 1 addition and 1 deletion in 1 file</sub>
@@ -970,6 +982,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Properly center text of cookie notice
   <sub>[#11662](https://github.com/flutter/website/pull/11662) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11662) over 1 day, 4 additions and 7 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Illia Velichko](https://github.com/iveloff-developer)** &mdash; Fix inaccuracy in src/content/app-architecture/guide.md.
+  <sub>[#11647](https://github.com/flutter/website/pull/11647) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11647) over 3 days, 7 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Illia Velichko](https://github.com/iveloff-developer)** &mdash; Fix inaccuracy in src/content/app-architecture/case-study/index.md.
   <sub>[#11648](https://github.com/flutter/website/pull/11648) merged on February 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11648) over 3 days, 4 additions and 4 deletions in 1 file</sub>
