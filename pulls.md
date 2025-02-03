@@ -110,3 +110,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use recompile-restart instruction when hot restarting on the web<br />
   <sub>[#162616](https://github.com/flutter/flutter/pull/162616) opened on on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162616) 84 additions and 1 deletion in 9 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Increase conical gradient precision. (#162543)<br />
+  <sub>[#162619](https://github.com/flutter/flutter/pull/162619) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162619) 62 additions and 62 deletions in 4 files</sub><br />
+

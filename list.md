@@ -929,9 +929,31 @@
 
 ## flutter/website
 
+### February 1, 2025 to February 7, 2025
+
+4 commits.
+
+* **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added
+  <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+  <sub><details><summary>1 image...</summary><img width="143" alt="image" src="https://github.com/user-attachments/assets/497921b6-df79-47ba-bfb7-5a520b09cab5" /></details></sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unnecessary and unused policies from headers
+  <sub>[#11665](https://github.com/flutter/website/pull/11665) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11665) over 17 hours, 0 additions and 8 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Ensure body is scrollable if sidenav is dismissed
+  <sub>[#11660](https://github.com/flutter/website/pull/11660) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11660) over 2 days, 12 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Properly center text of cookie notice
+  <sub>[#11662](https://github.com/flutter/website/pull/11662) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11662) over 1 day, 4 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### January 25, 2025 to January 31, 2025
 
-22 commits.
+<details>
+<summary>22 commits...</summary>
 
 * **[James Williams](https://github.com/jwill)** &mdash; Create a "Flutter for Jetpack Compose developers" page
   <sub>[#11232](https://github.com/flutter/website/pull/11232) merged on January 27, 2025 &mdash; **Large:** [55 comments](https://github.com/flutter/website/pull/11232) over 3 months, 875 additions and 1 deletion in 2 files</sub>
@@ -1020,6 +1042,8 @@
 * **[Wizston](https://github.com/wizston)** &mdash; Minor Website Text Correction
   <sub>[#11618](https://github.com/flutter/website/pull/11618) merged on January 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11618) over 3 days, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [John Ryan](https://github.com/johnpryan)</sub>
+
+</details>
 
 ### January 18, 2025 to January 24, 2025
 
