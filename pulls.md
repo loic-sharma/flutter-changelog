@@ -111,7 +111,7 @@
   <sub>[#162588](https://github.com/flutter/flutter/pull/162588) opened on on February 3, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162588) 2685 additions and 675 deletions in 103 files</sub><br />
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`<br />
-  <sub>[#162591](https://github.com/flutter/flutter/pull/162591) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162591) 22 additions and 24 deletions in 12 files</sub><br />
+  <sub>[#162591](https://github.com/flutter/flutter/pull/162591) opened on on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162591) 22 additions and 24 deletions in 12 files</sub><br />
 
 * **[Gaspard Ruan](https://github.com/gaspardruan)** &mdash; Update code comments for navigation_bar.dart<br />
   <sub>[#162596](https://github.com/flutter/flutter/pull/162596) opened on on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162596) 6 additions and 2 deletions in 1 file</sub><br />
