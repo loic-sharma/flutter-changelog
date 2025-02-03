@@ -931,12 +931,16 @@
 
 ### February 1, 2025 to February 7, 2025
 
-4 commits.
+8 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added<br />
   <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
   <sub><details><summary>1 image...</summary><img width="143" alt="image" src="https://github.com/user-attachments/assets/497921b6-df79-47ba-bfb7-5a520b09cab5" /></details></sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add test orientation recipe<br />
+  <sub>[#11657](https://github.com/flutter/website/pull/11657) merged on February 3, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11657) over 2 days, 412 additions and 0 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Remove unnecessary and unused policies from headers<br />
   <sub>[#11665](https://github.com/flutter/website/pull/11665) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11665) over 17 hours, 0 additions and 8 deletions in 1 file</sub><br />
@@ -948,6 +952,18 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Properly center text of cookie notice<br />
   <sub>[#11662](https://github.com/flutter/website/pull/11662) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11662) over 1 day, 4 additions and 7 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Illia Velichko](https://github.com/iveloff-developer)** &mdash; Fix inaccuracy in src/content/app-architecture/case-study/index.md.<br />
+  <sub>[#11648](https://github.com/flutter/website/pull/11648) merged on February 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11648) over 3 days, 4 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[uchronia](https://github.com/uchronia)** &mdash; Fixed minor typo from "it can simply code" to "it can simplify code"<br />
+  <sub>[#11650](https://github.com/flutter/website/pull/11650) merged on February 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11650) over 3 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[uchronia](https://github.com/uchronia)** &mdash; Grammatical polish for grammatical number and subject-verb agreement issues.<br />
+  <sub>[#11651](https://github.com/flutter/website/pull/11651) merged on February 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11651) over 3 days, 10 additions and 10 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 ### January 25, 2025 to January 31, 2025
