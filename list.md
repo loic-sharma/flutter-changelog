@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-6 commits.
+7 commits.
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove default for stripped option in `engine/src/flutter/tools/gn`, don't strip by default on android
   <sub>[#161546](https://github.com/flutter/flutter/pull/161546) merged on February 3, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/161546) over 2 weeks, 506 additions and 2 deletions in 3 files</sub>
@@ -21,6 +21,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Unskip some paragraph tests that are passing now
   <sub>[#162537](https://github.com/flutter/flutter/pull/162537) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162537) over 3 days, 82 additions and 111 deletions in 3 files</sub>
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [FML] Make logging available in constexpr contexts.
+  <sub>[#162343](https://github.com/flutter/flutter/pull/162343) merged on February 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162343) over 5 days, 21 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`
   <sub>[#162591](https://github.com/flutter/flutter/pull/162591) merged on February 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162591) over 10 hours, 22 additions and 24 deletions in 12 files</sub>
