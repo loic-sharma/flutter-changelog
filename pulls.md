@@ -59,9 +59,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for building and launching the widget preview scaffold<br />
   <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162326) 483 additions and 88 deletions in 17 files</sub><br />
 
-* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Uprev fuchsia components<br />
-  <sub>[#162338](https://github.com/flutter/flutter/pull/162338) opened on on January 28, 2025 &mdash; **Extra large:** [5 comments](https://github.com/flutter/flutter/pull/162338) 3220 additions and 6 deletions in 13 files</sub><br />
-
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
@@ -118,4 +115,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; FYI matanlurey (does not require review, but probably should) on dev/test infra.<br />
   <sub>[#162642](https://github.com/flutter/flutter/pull/162642) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162642) 3 additions and 2 deletions in 1 file</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Verify the existence of debug symbols in `gradle_plugin_bundle_test`<br />
+  <sub>[#162645](https://github.com/flutter/flutter/pull/162645) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162645) 8 additions and 0 deletions in 1 file</sub><br />
 

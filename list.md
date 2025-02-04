@@ -971,7 +971,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-13 commits.
+14 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added
   <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub>
@@ -1009,6 +1009,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Properly center text of cookie notice
   <sub>[#11662](https://github.com/flutter/website/pull/11662) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11662) over 1 day, 4 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Debug Flutter apps from code > make platform agnostic
+  <sub>[#11669](https://github.com/flutter/website/pull/11669) merged on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11669) over 9 minutes, 43 additions and 47 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Illia Velichko](https://github.com/iveloff-developer)** &mdash; Fix inaccuracy in src/content/app-architecture/guide.md.
