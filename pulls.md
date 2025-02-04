@@ -128,3 +128,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Plattform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 252 additions and 22 deletions in 16 files</sub><br />
 
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Increase timeout for Linux flutter_packaging_test<br />
+  <sub>[#162673](https://github.com/flutter/flutter/pull/162673) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162673) 1 addition and 0 deletions in 1 file</sub><br />
+
