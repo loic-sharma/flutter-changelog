@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-29 commits.
+30 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub>
@@ -19,6 +19,11 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove default for stripped option in `engine/src/flutter/tools/gn`, don't strip by default on android
   <sub>[#161546](https://github.com/flutter/flutter/pull/161546) merged on February 3, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/161546) over 2 weeks, 506 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adjust padding for Cupertino sheet content
+  <sub>[#162481](https://github.com/flutter/flutter/pull/162481) merged on February 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162481) over 4 days, 117 additions and 8 deletions in 2 files</sub>
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
+  <sub><details><summary>2 images...</summary><img width="396" alt="Screenshot 2025-01-30 at 11 21 36 AM" src="https://github.com/user-attachments/assets/4e27db47-8d54-44c7-8cba-58790b88fef3" /><img width="396" alt="Screenshot 2025-01-30 at 11 19 54 AM" src="https://github.com/user-attachments/assets/68f056f2-7731-4a56-8124-187d7efae020" /></details></sub>
 
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(CupertinoButton): Add minWidth and minHeight to replace minSize.
   <sub>[#161295](https://github.com/flutter/flutter/pull/161295) merged on February 3, 2025 &mdash; **Small:** [58 comments](https://github.com/flutter/flutter/pull/161295) over 3 weeks, 79 additions and 3 deletions in 5 files</sub>
