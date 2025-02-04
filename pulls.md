@@ -36,7 +36,7 @@
   <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Roll gn to c97a86a72105f3328a540f5a5ab17d11989ab7dd<br />
-  <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161012) 8 additions and 9 deletions in 5 files</sub><br />
+  <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161012) 8 additions and 8 deletions in 5 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
@@ -57,7 +57,7 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/162248) 181 additions and 46 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for building and launching the widget preview scaffold<br />
-  <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/162326) 483 additions and 88 deletions in 17 files</sub><br />
+  <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/162326) 484 additions and 88 deletions in 17 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
