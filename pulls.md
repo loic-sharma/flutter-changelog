@@ -18,7 +18,7 @@
   <sub>[#160104](https://github.com/flutter/flutter/pull/160104) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160104) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
-  <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
+  <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; DO NOT MERGE: Enable `explicit-package-dependencies`.<br />
   <sub>[#160289](https://github.com/flutter/flutter/pull/160289) opened on on December 14, 2024 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/160289) 443 additions and 405 deletions in 22 files</sub><br />
@@ -33,7 +33,7 @@
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
 * **[Pranesh Pyara Shrestha](https://github.com/praneshp1org)** &mdash; Added equalWidthPerRow option to Wrap widget<br />
-  <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
+  <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Roll gn to c97a86a72105f3328a540f5a5ab17d11989ab7dd<br />
   <sub>[#161012](https://github.com/flutter/flutter/pull/161012) opened on on December 31, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/161012) 7 additions and 8 deletions in 5 files</sub><br />
@@ -62,9 +62,6 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
-* **[Paulik8](https://github.com/Paulik8)** &mdash; Improved error message when PageController is not attached to PageView<br />
-  <sub>[#162422](https://github.com/flutter/flutter/pull/162422) opened on on January 30, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162422) 171 additions and 0 deletions in 2 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Simplify hash table iteration.<br />
   <sub>[#162483](https://github.com/flutter/flutter/pull/162483) opened on on January 30, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/162483) 220 additions and 289 deletions in 1 file</sub><br />
 
@@ -85,9 +82,6 @@
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing properties to _ArcPaintPredicate.<br />
   <sub>[#162572](https://github.com/flutter/flutter/pull/162572) opened on on February 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162572) 206 additions and 0 deletions in 2 files</sub><br />
-
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add role check in SemanticsNode._isDifferentFromCurrentSemanticAnnotation function.<br />
-  <sub>[#162578](https://github.com/flutter/flutter/pull/162578) opened on on February 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162578) 30 additions and 1 deletion in 2 files</sub><br />
 
 * **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; Add localization for `Back` and `Cancel` buttons in CupertinoNavigationBar<br />
   <sub>[#162581](https://github.com/flutter/flutter/pull/162581) opened on on February 2, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162581) 754 additions and 111 deletions in 85 files</sub><br />
