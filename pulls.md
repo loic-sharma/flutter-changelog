@@ -57,7 +57,7 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/162248) 181 additions and 46 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for building and launching the widget preview scaffold<br />
-  <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [10 comments](https://github.com/flutter/flutter/pull/162326) 484 additions and 88 deletions in 17 files</sub><br />
+  <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/flutter/pull/162326) 484 additions and 88 deletions in 17 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
@@ -124,4 +124,7 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds animateToItem to the CarouselController<br />
   <sub>[#162694](https://github.com/flutter/flutter/pull/162694) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162694) 132 additions and 0 deletions in 2 files</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors platform_view_android_delegate test<br />
+  <sub>[#162696](https://github.com/flutter/flutter/pull/162696) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162696) 15 additions and 10 deletions in 3 files</sub><br />
 
