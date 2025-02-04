@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-26 commits.
+27 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub>
@@ -67,6 +67,10 @@
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`
   <sub>[#162591](https://github.com/flutter/flutter/pull/162591) merged on February 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162591) over 10 hours, 22 additions and 24 deletions in 12 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; No, but really increase the timeout to 60 minutes
+  <sub>[#162680](https://github.com/flutter/flutter/pull/162680) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162680) over 5 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Increase timeout for Linux flutter_packaging_test
   <sub>[#162673](https://github.com/flutter/flutter/pull/162673) merged on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162673) over 5 minutes, 1 addition and 0 deletions in 1 file</sub>

@@ -86,9 +86,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing properties to _ArcPaintPredicate.<br />
   <sub>[#162572](https://github.com/flutter/flutter/pull/162572) opened on on February 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162572) 206 additions and 0 deletions in 2 files</sub><br />
 
-* **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add action for configuring default action of EditableText.onTapUpOutside<br />
-  <sub>[#162575](https://github.com/flutter/flutter/pull/162575) opened on on February 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162575) 273 additions and 1 deletion in 5 files</sub><br />
-
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add role check in SemanticsNode._isDifferentFromCurrentSemanticAnnotation function.<br />
   <sub>[#162578](https://github.com/flutter/flutter/pull/162578) opened on on February 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162578) 30 additions and 1 deletion in 2 files</sub><br />
 
@@ -129,5 +126,5 @@
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 252 additions and 22 deletions in 16 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Skip web hot reload tests that test execution for all platforms for now<br />
-  <sub>[#162682](https://github.com/flutter/flutter/pull/162682) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162682) 3 additions and 9 deletions in 3 files</sub><br />
+  <sub>[#162682](https://github.com/flutter/flutter/pull/162682) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162682) 3 additions and 9 deletions in 3 files</sub><br />
 
