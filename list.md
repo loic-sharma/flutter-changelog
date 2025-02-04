@@ -4,11 +4,20 @@
 
 ### February 1, 2025 to February 7, 2025
 
-11 commits.
+13 commits.
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor
+  <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tong Mu](https://github.com/dkwingsmt), [Bruno Leroux](https://github.com/bleroux), [chunhtai](https://github.com/chunhtai)</sub>
+  <sub><details><summary>1 image...</summary><img width="1027" alt="image" src="https://github.com/user-attachments/assets/d69661c9-8435-4d9c-b200-474968cb57eb"></details></sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove default for stripped option in `engine/src/flutter/tools/gn`, don't strip by default on android
   <sub>[#161546](https://github.com/flutter/flutter/pull/161546) merged on February 3, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/161546) over 2 weeks, 506 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(CupertinoButton): Add minWidth and minHeight to replace minSize.
+  <sub>[#161295](https://github.com/flutter/flutter/pull/161295) merged on February 3, 2025 &mdash; **Small:** [58 comments](https://github.com/flutter/flutter/pull/161295) over 3 weeks, 79 additions and 3 deletions in 5 files</sub>
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Implement hot reload using the DDC library bundle format
   <sub>[#162498](https://github.com/flutter/flutter/pull/162498) merged on February 3, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/162498) over 3 days, 866 additions and 360 deletions in 21 files</sub>
