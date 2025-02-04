@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-22 commits.
+23 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub>
@@ -27,6 +27,10 @@
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add Benchmarks and examples to compare swiftui and flutter 
   <sub>[#160681](https://github.com/flutter/flutter/pull/160681) merged on February 4, 2025 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/160681) over 1 month, 1046 additions and 0 deletions in 22 files</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] do not send SemanticsAction.focus inside frame
+  <sub>[#162554](https://github.com/flutter/flutter/pull/162554) merged on February 4, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/162554) over 3 days, 452 additions and 81 deletions in 11 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Implement hot reload using the DDC library bundle format
   <sub>[#162498](https://github.com/flutter/flutter/pull/162498) merged on February 3, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/162498) over 3 days, 866 additions and 360 deletions in 21 files</sub>
