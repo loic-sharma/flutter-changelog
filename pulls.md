@@ -119,3 +119,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix warnings on startup about display monitor<br />
   <sub>[#162653](https://github.com/flutter/flutter/pull/162653) opened on on February 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162653) 47 additions and 20 deletions in 3 files</sub><br />
 
+* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run Mac_arm64 framework_tests_misc on Mac-14 with Xcode 16<br />
+  <sub>[#162670](https://github.com/flutter/flutter/pull/162670) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162670) 6 additions and 1 deletion in 1 file</sub><br />
+
