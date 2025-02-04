@@ -99,7 +99,7 @@
   <sub>[#162596](https://github.com/flutter/flutter/pull/162596) opened on on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162596) 6 additions and 2 deletions in 1 file</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add a data driven fix for InputDecoration.maintainHintHeight<br />
-  <sub>[#162600](https://github.com/flutter/flutter/pull/162600) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162600) 48 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#162600](https://github.com/flutter/flutter/pull/162600) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162600) 51 additions and 0 deletions in 3 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use recompile-restart instruction when hot restarting on the web<br />
   <sub>[#162616](https://github.com/flutter/flutter/pull/162616) opened on on February 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162616) 107 additions and 39 deletions in 11 files</sub><br />
