@@ -126,5 +126,5 @@
   <sub>[#162694](https://github.com/flutter/flutter/pull/162694) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162694) 132 additions and 0 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors platform_view_android_delegate test<br />
-  <sub>[#162696](https://github.com/flutter/flutter/pull/162696) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162696) 15 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#162696](https://github.com/flutter/flutter/pull/162696) opened on on February 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162696) 15 additions and 10 deletions in 3 files</sub><br />
 
