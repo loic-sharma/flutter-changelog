@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-32 commits.
+33 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub>
@@ -84,6 +84,10 @@
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`
   <sub>[#162591](https://github.com/flutter/flutter/pull/162591) merged on February 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162591) over 10 hours, 22 additions and 24 deletions in 12 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds urlspan to support link semantics in Android
+  <sub>[#162419](https://github.com/flutter/flutter/pull/162419) merged on February 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162419) over 5 days, 139 additions and 5 deletions in 4 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; No, but really increase the timeout to 60 minutes
   <sub>[#162680](https://github.com/flutter/flutter/pull/162680) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162680) over 5 minutes, 1 addition and 0 deletions in 1 file</sub>
