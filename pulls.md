@@ -119,3 +119,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 252 additions and 22 deletions in 16 files</sub><br />
 
+* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to  Version 3.8.0-70.0.dev <br />
+  <sub>[#162691](https://github.com/flutter/flutter/pull/162691) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162691) 4 additions and 4 deletions in 2 files</sub><br />
+
