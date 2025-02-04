@@ -116,3 +116,6 @@
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Verify the existence of debug symbols in `gradle_plugin_bundle_test`<br />
   <sub>[#162645](https://github.com/flutter/flutter/pull/162645) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162645) 8 additions and 0 deletions in 1 file</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix warnings on startup about display monitor<br />
+  <sub>[#162653](https://github.com/flutter/flutter/pull/162653) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162653) 12 additions and 8 deletions in 2 files</sub><br />
+
