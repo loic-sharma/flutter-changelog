@@ -32,13 +32,13 @@
   <sub>[#162554](https://github.com/flutter/flutter/pull/162554) merged on February 4, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/162554) over 3 days, 452 additions and 81 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Implement hot reload using the DDC library bundle format<br />
-  <sub>[#162498](https://github.com/flutter/flutter/pull/162498) merged on February 3, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/162498) over 3 days, 866 additions and 360 deletions in 21 files</sub><br />
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
-
 * **[Jack](https://github.com/vizakenjack)** &mdash; Add color to CupertinoButton.filled constructor<br />
   <sub>[#161660](https://github.com/flutter/flutter/pull/161660) merged on February 4, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/161660) over 2 weeks, 30 additions and 5 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Implement hot reload using the DDC library bundle format<br />
+  <sub>[#162498](https://github.com/flutter/flutter/pull/162498) merged on February 3, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/162498) over 3 days, 866 additions and 360 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert `SkiaException` to `TestFailure` on post-submit.<br />
   <sub>[#162623](https://github.com/flutter/flutter/pull/162623) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162623) over 45 minutes, 63 additions and 1 deletion in 2 files</sub><br />
