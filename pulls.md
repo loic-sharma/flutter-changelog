@@ -95,9 +95,6 @@
 * **[Gaspard Ruan](https://github.com/gaspardruan)** &mdash; Update code comments for navigation_bar.dart<br />
   <sub>[#162596](https://github.com/flutter/flutter/pull/162596) opened on on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162596) 6 additions and 2 deletions in 1 file</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use recompile-restart instruction when hot restarting on the web<br />
-  <sub>[#162616](https://github.com/flutter/flutter/pull/162616) opened on on February 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162616) 107 additions and 39 deletions in 11 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Increase conical gradient precision. (#162543)<br />
   <sub>[#162619](https://github.com/flutter/flutter/pull/162619) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162619) 62 additions and 62 deletions in 4 files</sub><br />
 
@@ -119,12 +116,9 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 252 additions and 22 deletions in 16 files</sub><br />
 
-* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to  Version 3.8.0-70.0.dev <br />
-  <sub>[#162691](https://github.com/flutter/flutter/pull/162691) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162691) 4 additions and 4 deletions in 2 files</sub><br />
-
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds animateToItem to the CarouselController<br />
   <sub>[#162694](https://github.com/flutter/flutter/pull/162694) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162694) 132 additions and 0 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors platform_view_android_delegate test<br />
-  <sub>[#162696](https://github.com/flutter/flutter/pull/162696) opened on on February 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162696) 15 additions and 10 deletions in 3 files</sub><br />
+  <sub>[#162696](https://github.com/flutter/flutter/pull/162696) opened on on February 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162696) 15 additions and 10 deletions in 3 files</sub><br />
 
