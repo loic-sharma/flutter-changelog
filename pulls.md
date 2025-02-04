@@ -107,6 +107,9 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Increase conical gradient precision. (#162543)<br />
   <sub>[#162619](https://github.com/flutter/flutter/pull/162619) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162619) 62 additions and 62 deletions in 4 files</sub><br />
 
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Get analytics welcome message under test<br />
+  <sub>[#162627](https://github.com/flutter/flutter/pull/162627) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162627) 49 additions and 3 deletions in 2 files</sub><br />
+
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Changed docs for hintOverrides field of SemanticsProperties<br />
   <sub>[#162632](https://github.com/flutter/flutter/pull/162632) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162632) 5 additions and 6 deletions in 1 file</sub><br />
 

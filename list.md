@@ -826,11 +826,15 @@
 
 ### February 1, 2025 to February 7, 2025
 
-3 commits.
+4 commits.
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [pigeon] [swift] Fix `PigeonError` sendability conformance in Swift 6
   <sub>[#8302](https://github.com/flutter/packages/pull/8302) merged on February 3, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8302) over 1 month, 45 additions and 18 deletions in 12 files</sub>
   <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal), [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [interactive_media_ads] Adds internal wrapper for iOS native `IMAAdPodInfo`
+  <sub>[#8429](https://github.com/flutter/packages/pull/8429) merged on February 4, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/packages/pull/8429) over 2 weeks, 495 additions and 7 deletions in 11 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Alexander Troshkov](https://github.com/aednlaxer)** &mdash; [google_maps_flutter] Support for Ground Overlay - platform interface
   <sub>[#8518](https://github.com/flutter/packages/pull/8518) merged on February 3, 2025 &mdash; **Large:** [12 comments](https://github.com/flutter/packages/pull/8518) over 6 days, 886 additions and 8 deletions in 12 files</sub>
