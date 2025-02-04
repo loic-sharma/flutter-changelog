@@ -111,7 +111,7 @@
   <sub>[#162645](https://github.com/flutter/flutter/pull/162645) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162645) 8 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix warnings on startup about display monitor<br />
-  <sub>[#162653](https://github.com/flutter/flutter/pull/162653) opened on on February 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162653) 47 additions and 20 deletions in 3 files</sub><br />
+  <sub>[#162653](https://github.com/flutter/flutter/pull/162653) opened on on February 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162653) 54 additions and 20 deletions in 3 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 252 additions and 22 deletions in 16 files</sub><br />
