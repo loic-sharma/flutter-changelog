@@ -4,12 +4,17 @@
 
 ### February 1, 2025 to February 7, 2025
 
-21 commits.
+22 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub>
   <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Tong Mu](https://github.com/dkwingsmt), [Bruno Leroux](https://github.com/bleroux), [chunhtai](https://github.com/chunhtai)</sub>
   <sub><details><summary>1 image...</summary><img width="1027" alt="image" src="https://github.com/user-attachments/assets/d69661c9-8435-4d9c-b200-474968cb57eb"></details></sub>
+
+* **[Bartek Pacia](https://github.com/bartekpacia)** &mdash; Fix FGP's generateLockfiles task always executing its action at configuration time
+  <sub>[#162220](https://github.com/flutter/flutter/pull/162220) merged on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162220) over 1 week, 9 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [jesswrd](https://github.com/jesswrd), [Reid Baker](https://github.com/reidbaker)</sub>
+  <sub><details><summary>1 image...</summary>![drake](https://github.com/user-attachments/assets/50ffcda6-263d-48c8-8853-207e757da6e0)</details></sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove default for stripped option in `engine/src/flutter/tools/gn`, don't strip by default on android
   <sub>[#161546](https://github.com/flutter/flutter/pull/161546) merged on February 3, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/161546) over 2 weeks, 506 additions and 2 deletions in 3 files</sub>
