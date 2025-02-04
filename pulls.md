@@ -122,6 +122,3 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 252 additions and 22 deletions in 16 files</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Skip web hot reload tests that test execution for all platforms for now<br />
-  <sub>[#162682](https://github.com/flutter/flutter/pull/162682) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162682) 3 additions and 9 deletions in 3 files</sub><br />
-
