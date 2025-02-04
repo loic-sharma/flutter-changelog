@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-30 commits.
+31 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor<br />
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub><br />
@@ -48,6 +48,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert `SkiaException` to `TestFailure` on post-submit.<br />
   <sub>[#162623](https://github.com/flutter/flutter/pull/162623) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162623) over 45 minutes, 63 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support ignoring pointer events on tooltip overlay (#142465)<br />
+  <sub>[#161363](https://github.com/flutter/flutter/pull/161363) merged on February 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/161363) over 3 weeks, 190 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Nate Wilson](https://github.com/nate-thegrate), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; delete references to `Usage` in config_test.dart<br />
   <sub>[#162648](https://github.com/flutter/flutter/pull/162648) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162648) over 18 hours, 22 additions and 28 deletions in 1 file</sub><br />
