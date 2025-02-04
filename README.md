@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-28 commits.
+29 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor<br />
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub><br />
@@ -95,6 +95,10 @@
 * **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [FML] Make logging available in constexpr contexts.<br />
   <sub>[#162343](https://github.com/flutter/flutter/pull/162343) merged on February 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162343) over 5 days, 21 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub><br />
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; delete `Usage` in doctor tests<br />
+  <sub>[#162646](https://github.com/flutter/flutter/pull/162646) merged on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162646) over 18 hours, 24 additions and 97 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar.onVisible documentation<br />
   <sub>[#162448](https://github.com/flutter/flutter/pull/162448) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162448) over 4 days, 7 additions and 0 deletions in 1 file</sub><br />
