@@ -57,7 +57,7 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/flutter/pull/162248) 181 additions and 46 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for building and launching the widget preview scaffold<br />
-  <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/162326) 483 additions and 88 deletions in 17 files</sub><br />
+  <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/162326) 483 additions and 88 deletions in 17 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
@@ -94,9 +94,6 @@
 
 * **[Gaspard Ruan](https://github.com/gaspardruan)** &mdash; Update code comments for navigation_bar.dart<br />
   <sub>[#162596](https://github.com/flutter/flutter/pull/162596) opened on on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162596) 6 additions and 2 deletions in 1 file</sub><br />
-
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Add a data driven fix for InputDecoration.maintainHintHeight<br />
-  <sub>[#162600](https://github.com/flutter/flutter/pull/162600) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162600) 51 additions and 0 deletions in 3 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use recompile-restart instruction when hot restarting on the web<br />
   <sub>[#162616](https://github.com/flutter/flutter/pull/162616) opened on on February 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162616) 107 additions and 39 deletions in 11 files</sub><br />
