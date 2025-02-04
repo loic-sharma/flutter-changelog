@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-18 commits.
+20 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor<br />
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub><br />
@@ -20,12 +20,16 @@
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Add Benchmarks and examples to compare swiftui and flutter <br />
-  <sub>[#160681](https://github.com/flutter/flutter/pull/160681) merged on February 4, 2025 &mdash; **Large:** [29 comments](https://github.com/flutter/flutter/pull/160681) over 1 month, 1046 additions and 0 deletions in 22 files</sub><br />
+  <sub>[#160681](https://github.com/flutter/flutter/pull/160681) merged on February 4, 2025 &mdash; **Large:** [30 comments](https://github.com/flutter/flutter/pull/160681) over 1 month, 1046 additions and 0 deletions in 22 files</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Implement hot reload using the DDC library bundle format<br />
   <sub>[#162498](https://github.com/flutter/flutter/pull/162498) merged on February 3, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/162498) over 3 days, 866 additions and 360 deletions in 21 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Nicholas Shahan](https://github.com/nshahan)</sub><br />
+
+* **[Jack](https://github.com/vizakenjack)** &mdash; Add color to CupertinoButton.filled constructor<br />
+  <sub>[#161660](https://github.com/flutter/flutter/pull/161660) merged on February 4, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/161660) over 2 weeks, 30 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Convert `SkiaException` to `TestFailure` on post-submit.<br />
   <sub>[#162623](https://github.com/flutter/flutter/pull/162623) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162623) over 45 minutes, 63 additions and 1 deletion in 2 files</sub><br />
@@ -54,6 +58,10 @@
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`<br />
   <sub>[#162591](https://github.com/flutter/flutter/pull/162591) merged on February 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162591) over 10 hours, 22 additions and 24 deletions in 12 files</sub><br />
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete two unused test fixtures in `flutter_tools`.<br />
+  <sub>[#162643](https://github.com/flutter/flutter/pull/162643) merged on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162643) over 42 minutes, 0 additions and 220 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Increased the glyph atlas resolution 2x<br />
   <sub>[#162555](https://github.com/flutter/flutter/pull/162555) merged on February 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162555) over 2 days, 62 additions and 3 deletions in 4 files</sub><br />
