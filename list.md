@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-20 commits.
+21 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub>
@@ -58,6 +58,10 @@
 * **[Moritz](https://github.com/mosuem)** &mdash; Upgrade `package:intl` to `0.20.2`
   <sub>[#162591](https://github.com/flutter/flutter/pull/162591) merged on February 3, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162591) over 10 hours, 22 additions and 24 deletions in 12 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino), [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Update `generate_gradle_lockfiles.dart` to handle batch updating kotlin Gradle files
+  <sub>[#162628](https://github.com/flutter/flutter/pull/162628) merged on February 4, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/162628) over 5 hours, 119 additions and 23 deletions in 4 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete two unused test fixtures in `flutter_tools`.
   <sub>[#162643](https://github.com/flutter/flutter/pull/162643) merged on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162643) over 42 minutes, 0 additions and 220 deletions in 2 files</sub>
