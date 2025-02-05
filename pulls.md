@@ -96,7 +96,7 @@
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 251 additions and 24 deletions in 16 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds animateToItem to the CarouselController<br />
-  <sub>[#162694](https://github.com/flutter/flutter/pull/162694) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162694) 132 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#162694](https://github.com/flutter/flutter/pull/162694) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162694) 152 additions and 0 deletions in 2 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Delete some verbose vm service logging<br />
   <sub>[#162709](https://github.com/flutter/flutter/pull/162709) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162709) 0 additions and 16 deletions in 1 file</sub><br />
