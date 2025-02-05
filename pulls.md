@@ -99,7 +99,7 @@
   <sub>[#162750](https://github.com/flutter/flutter/pull/162750) opened on on February 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162750) 43 additions and 37 deletions in 10 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; testo buildo.<br />
-  <sub>[#162769](https://github.com/flutter/flutter/pull/162769) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162769) 0 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#162769](https://github.com/flutter/flutter/pull/162769) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162769) 0 additions and 5 deletions in 2 files</sub><br />
 
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove outdated ignores<br />
   <sub>[#162773](https://github.com/flutter/flutter/pull/162773) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162773) 32 additions and 114 deletions in 60 files</sub><br />
