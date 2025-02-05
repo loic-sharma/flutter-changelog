@@ -20,6 +20,11 @@
   <sub>[#161546](https://github.com/flutter/flutter/pull/161546) merged on February 3, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/161546) over 2 weeks, 506 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Seunghyun Min](https://github.com/MinSeungHyun)** &mdash; Add missing space between DayPeriodControl and time control in time picker
+  <sub>[#162230](https://github.com/flutter/flutter/pull/162230) merged on February 4, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162230) over 1 week, 75 additions and 30 deletions in 2 files</sub>
+  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
+  <sub><details><summary>1 image...</summary>![Simulator Screenshot - iPhone 14 Pro - 2025-01-26 at 22 01 55](https://github.com/user-attachments/assets/99034ccf-7006-44d9-9642-3ceb1ffd4fb5)  ![Simulator Screenshot - iPhone 14 Pro - 2025-01-27 at 16 17 16](https://github.com/user-attachments/assets/93b233ec-e66f-4d06-bdd6-474a841dc1a8) | ![Simulator Screenshot - iPhone 14 Pro - 2025-01-26 at 21 59 04](https://github.com/user-attachments/assets/319e6c83-c63a-4415-8d19-62359b0a93a0)  ![Simulator Screenshot - iPhone 14 Pro - 2025-01-27 at 16 17 42](https://github.com/user-attachments/assets/4753b5c6-46f5-4b21-80ef-bc568364198e)</details></sub>
+
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adjust padding for Cupertino sheet content
   <sub>[#162481](https://github.com/flutter/flutter/pull/162481) merged on February 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162481) over 4 days, 117 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
@@ -28,11 +33,6 @@
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(CupertinoButton): Add minWidth and minHeight to replace minSize.
   <sub>[#161295](https://github.com/flutter/flutter/pull/161295) merged on February 3, 2025 &mdash; **Small:** [58 comments](https://github.com/flutter/flutter/pull/161295) over 3 weeks, 79 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni), [Nate Wilson](https://github.com/nate-thegrate), [Justin McCandless](https://github.com/justinmc)</sub>
-
-* **[Seunghyun Min](https://github.com/MinSeungHyun)** &mdash; Add missing space between DayPeriodControl and time control in time picker
-  <sub>[#162230](https://github.com/flutter/flutter/pull/162230) merged on February 4, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/162230) over 1 week, 75 additions and 30 deletions in 2 files</sub>
-  <sub>Reviewed by: [Nate Wilson](https://github.com/nate-thegrate), [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
-  <sub><details><summary>1 image...</summary>![Simulator Screenshot - iPhone 14 Pro - 2025-01-26 at 22 01 55](https://github.com/user-attachments/assets/99034ccf-7006-44d9-9642-3ceb1ffd4fb5)  ![Simulator Screenshot - iPhone 14 Pro - 2025-01-27 at 16 17 16](https://github.com/user-attachments/assets/93b233ec-e66f-4d06-bdd6-474a841dc1a8) | ![Simulator Screenshot - iPhone 14 Pro - 2025-01-26 at 21 59 04](https://github.com/user-attachments/assets/319e6c83-c63a-4415-8d19-62359b0a93a0)  ![Simulator Screenshot - iPhone 14 Pro - 2025-01-27 at 16 17 42](https://github.com/user-attachments/assets/4753b5c6-46f5-4b21-80ef-bc568364198e)</details></sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Make CupertinoSheetRoute usable with Cupertino(Sliver)NavigationBar
   <sub>[#162181](https://github.com/flutter/flutter/pull/162181) merged on February 5, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/162181) over 1 week, 111 additions and 6 deletions in 3 files</sub>
