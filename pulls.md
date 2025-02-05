@@ -54,7 +54,7 @@
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/162248) 206 additions and 57 deletions in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add support for building and launching the widget preview scaffold<br />
-  <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/162326) 494 additions and 88 deletions in 17 files</sub><br />
+  <sub>[#162326](https://github.com/flutter/flutter/pull/162326) opened on on January 28, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/flutter/pull/162326) 494 additions and 88 deletions in 17 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
@@ -109,7 +109,4 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] wire up Java Transaction to AHB swapchain.<br />
   <sub>[#162750](https://github.com/flutter/flutter/pull/162750) opened on on February 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162750) 43 additions and 37 deletions in 10 files</sub><br />
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Increase timeout for Linux web_tool_tests to 60m<br />
-  <sub>[#162752](https://github.com/flutter/flutter/pull/162752) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162752) 1 addition and 0 deletions in 1 file</sub><br />
 

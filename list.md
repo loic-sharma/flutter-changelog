@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-47 commits.
+48 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub>
@@ -66,13 +66,13 @@
   <sub>[#162493](https://github.com/flutter/flutter/pull/162493) merged on February 5, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162493) over 5 days, 870 additions and 36 deletions in 18 files</sub>
   <sub>Reviewed by: [John McCutchan](https://github.com/johnmccutchan)</sub>
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; delete references to `Usage` in config_test.dart
-  <sub>[#162648](https://github.com/flutter/flutter/pull/162648) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162648) over 18 hours, 22 additions and 28 deletions in 1 file</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Exclude build.gradle.kts files from automatic lockfile generation in display rotation 
   <sub>[#162622](https://github.com/flutter/flutter/pull/162622) merged on February 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162622) over 2 hours, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; delete references to `Usage` in config_test.dart
+  <sub>[#162648](https://github.com/flutter/flutter/pull/162648) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162648) over 18 hours, 22 additions and 28 deletions in 1 file</sub>
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Benji Farquhar](https://github.com/BenjiFarquhar)** &mdash; Support ignoring pointer events on tooltip overlay (#142465)
   <sub>[#161363](https://github.com/flutter/flutter/pull/161363) merged on February 4, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/161363) over 3 weeks, 190 additions and 3 deletions in 2 files</sub>
@@ -134,17 +134,17 @@
   <sub>[#162643](https://github.com/flutter/flutter/pull/162643) merged on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162643) over 42 minutes, 0 additions and 220 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [FML] Make logging available in constexpr contexts.
-  <sub>[#162343](https://github.com/flutter/flutter/pull/162343) merged on February 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162343) over 5 days, 21 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Increased the glyph atlas resolution 2x
   <sub>[#162555](https://github.com/flutter/flutter/pull/162555) merged on February 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162555) over 2 days, 62 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run web benchmarks at -O2 to evaluate performance.
-  <sub>[#162625](https://github.com/flutter/flutter/pull/162625) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162625) over 3 hours, 2 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [FML] Make logging available in constexpr contexts.
+  <sub>[#162343](https://github.com/flutter/flutter/pull/162343) merged on February 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162343) over 5 days, 21 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Increase timeout for Linux web_tool_tests to 60m
+  <sub>[#162752](https://github.com/flutter/flutter/pull/162752) merged on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162752) over 26 minutes, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Wait until all scripts are loaded in the page before running main for the DDC library bundle format
   <sub>[#162707](https://github.com/flutter/flutter/pull/162707) merged on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162707) over 58 minutes, 52 additions and 36 deletions in 10 files</sub>
@@ -158,24 +158,28 @@
   <sub>[#162696](https://github.com/flutter/flutter/pull/162696) merged on February 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162696) over 2 hours, 15 additions and 10 deletions in 3 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Warn that integration tests are not run automatically
-  <sub>[#162626](https://github.com/flutter/flutter/pull/162626) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162626) over 2 hours, 4 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Run web benchmarks at -O2 to evaluate performance.
+  <sub>[#162625](https://github.com/flutter/flutter/pull/162625) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162625) over 3 hours, 2 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix warnings on startup about display monitor
   <sub>[#162653](https://github.com/flutter/flutter/pull/162653) merged on February 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162653) over 19 hours, 54 additions and 20 deletions in 3 files</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Warn that integration tests are not run automatically
+  <sub>[#162626](https://github.com/flutter/flutter/pull/162626) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162626) over 2 hours, 4 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to  Version 3.8.0-70.0.dev 
   <sub>[#162691](https://github.com/flutter/flutter/pull/162691) merged on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162691) over 1 hour, 4 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use recompile-restart instruction when hot restarting on the web
-  <sub>[#162616](https://github.com/flutter/flutter/pull/162616) merged on February 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162616) over 1 day, 107 additions and 39 deletions in 11 files</sub>
-  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Skip web hot reload tests that test execution for all platforms for now
   <sub>[#162682](https://github.com/flutter/flutter/pull/162682) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162682) over 1 hour, 3 additions and 9 deletions in 3 files</sub>
+  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
+
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use recompile-restart instruction when hot restarting on the web
+  <sub>[#162616](https://github.com/flutter/flutter/pull/162616) merged on February 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162616) over 1 day, 107 additions and 39 deletions in 11 files</sub>
   <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; delete `Usage` in doctor tests
@@ -1131,7 +1135,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-16 commits.
+17 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added
   <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub>
@@ -1169,6 +1173,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Properly center text of cookie notice
   <sub>[#11662](https://github.com/flutter/website/pull/11662) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11662) over 1 day, 4 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Remove flutter_gdb from docs (it's deprecated).
+  <sub>[#11679](https://github.com/flutter/website/pull/11679) merged on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11679) over 22 minutes, 0 additions and 32 deletions in 4 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Clarify that deferred components is only for Android and web
