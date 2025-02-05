@@ -89,9 +89,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; FYI matanlurey (does not require review, but probably should) on dev/test infra.<br />
   <sub>[#162642](https://github.com/flutter/flutter/pull/162642) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162642) 3 additions and 2 deletions in 1 file</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; Verify the existence of debug symbols in `gradle_plugin_bundle_test`<br />
-  <sub>[#162645](https://github.com/flutter/flutter/pull/162645) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162645) 8 additions and 0 deletions in 1 file</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 251 additions and 24 deletions in 16 files</sub><br />
 
