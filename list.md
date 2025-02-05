@@ -1172,7 +1172,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Clarify that deferred components is only for Android and web
-  <sub>[#11676](https://github.com/flutter/website/pull/11676) merged on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11676) over 28 minutes, 39 additions and 50 deletions in 1 file</sub>
+  <sub>[#11676](https://github.com/flutter/website/pull/11676) merged on February 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11676) over 28 minutes, 39 additions and 50 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amos](https://github.com/AmosHuKe)** &mdash; Fix link reference in /get-started/flutter-for/android-devs.md
