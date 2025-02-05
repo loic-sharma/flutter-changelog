@@ -110,3 +110,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; testo buildo.<br />
   <sub>[#162769](https://github.com/flutter/flutter/pull/162769) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162769) 0 additions and 3 deletions in 1 file</sub><br />
 
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove outdated ignores<br />
+  <sub>[#162773](https://github.com/flutter/flutter/pull/162773) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162773) 32 additions and 114 deletions in 60 files</sub><br />
+
