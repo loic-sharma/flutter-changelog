@@ -42,7 +42,7 @@
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
-  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
 
 * **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [WIP] expose Semantics.identifier as Windows UIA AutomationId<br />
   <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
