@@ -44,9 +44,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
 
-* **[Paulik8](https://github.com/Paulik8)** &mdash; Added equals and hashCode for TextInputConfiguration and AutofillConfiguration<br />
-  <sub>[#162238](https://github.com/flutter/flutter/pull/162238) opened on on January 26, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/162238) 403 additions and 0 deletions in 4 files</sub><br />
-
 * **[Johnson ](https://github.com/johnson1940)** &mdash; added borderRadius for the divider<br />
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/162248) 206 additions and 57 deletions in 2 files</sub><br />
 
@@ -55,9 +52,6 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162467) 185 additions and 45 deletions in 13 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Disable Vulkan on Emulators. (#162454)<br />
-  <sub>[#162536](https://github.com/flutter/flutter/pull/162536) opened on on January 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162536) 24 additions and 0 deletions in 3 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides<br />
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) opened on on February 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) 91 additions and 169 deletions in 23 files</sub><br />
@@ -97,9 +91,6 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; testo buildo.<br />
   <sub>[#162769](https://github.com/flutter/flutter/pull/162769) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162769) 0 additions and 5 deletions in 2 files</sub><br />
-
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove outdated ignores<br />
-  <sub>[#162773](https://github.com/flutter/flutter/pull/162773) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162773) 32 additions and 114 deletions in 60 files</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Return more eagerly when toggling service extensions<br />
   <sub>[#162774](https://github.com/flutter/flutter/pull/162774) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162774) 33 additions and 20 deletions in 1 file</sub><br />
