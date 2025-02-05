@@ -110,9 +110,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Refactors platform_view_android_delegate test<br />
   <sub>[#162696](https://github.com/flutter/flutter/pull/162696) opened on on February 4, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162696) 15 additions and 10 deletions in 3 files</sub><br />
 
-* **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; move tool test ownership from andrew to ben<br />
-  <sub>[#162706](https://github.com/flutter/flutter/pull/162706) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162706) 37 additions and 37 deletions in 1 file</sub><br />
-
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Wait until all scripts are loaded in the page before running main for the DDC library bundle format<br />
-  <sub>[#162707](https://github.com/flutter/flutter/pull/162707) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162707) 49 additions and 36 deletions in 9 files</sub><br />
+  <sub>[#162707](https://github.com/flutter/flutter/pull/162707) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162707) 52 additions and 36 deletions in 10 files</sub><br />
 

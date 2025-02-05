@@ -4,7 +4,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-39 commits.
+40 commits.
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement RawMenuAnchor
   <sub>[#158255](https://github.com/flutter/flutter/pull/158255) merged on February 3, 2025 &mdash; **Extra large:** [262 comments](https://github.com/flutter/flutter/pull/158255) over 2 months, 5310 additions and 1260 deletions in 9 files</sub>
@@ -54,17 +54,17 @@
   <sub>[#162623](https://github.com/flutter/flutter/pull/162623) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162623) over 45 minutes, 63 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Reid Baker](https://github.com/reidbaker)</sub>
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Exclude build.gradle.kts files from automatic lockfile generation in display rotation 
-  <sub>[#162622](https://github.com/flutter/flutter/pull/162622) merged on February 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162622) over 2 hours, 2 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Uprev fuchsia components
+  <sub>[#162338](https://github.com/flutter/flutter/pull/162338) merged on February 4, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/162338) over 6 days, 3220 additions and 6 deletions in 13 files</sub>
+  <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; delete references to `Usage` in config_test.dart
   <sub>[#162648](https://github.com/flutter/flutter/pull/162648) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162648) over 18 hours, 22 additions and 28 deletions in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Uprev fuchsia components
-  <sub>[#162338](https://github.com/flutter/flutter/pull/162338) merged on February 4, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/162338) over 6 days, 3220 additions and 6 deletions in 13 files</sub>
-  <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Exclude build.gradle.kts files from automatic lockfile generation in display rotation 
+  <sub>[#162622](https://github.com/flutter/flutter/pull/162622) merged on February 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162622) over 2 hours, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Remove HTML from the engine's test suites
   <sub>[#162404](https://github.com/flutter/flutter/pull/162404) merged on February 3, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/162404) over 5 days, 730 additions and 13166 deletions in 75 files</sub>
@@ -94,6 +94,10 @@
   <sub>[#162607](https://github.com/flutter/flutter/pull/162607) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162607) over 1 day, 22 additions and 11 deletions in 4 files</sub>
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added opacity note to `withValues` docstring
+  <sub>[#162612](https://github.com/flutter/flutter/pull/162612) merged on February 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162612) over 1 day, 7 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [Seth Ladd](https://github.com/sethladd)</sub>
+
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds urlspan to support link semantics in Android
   <sub>[#162419](https://github.com/flutter/flutter/pull/162419) merged on February 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162419) over 5 days, 139 additions and 5 deletions in 4 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub>
@@ -114,17 +118,13 @@
   <sub>[#162643](https://github.com/flutter/flutter/pull/162643) merged on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162643) over 42 minutes, 0 additions and 220 deletions in 2 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [FML] Make logging available in constexpr contexts.
-  <sub>[#162343](https://github.com/flutter/flutter/pull/162343) merged on February 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162343) over 5 days, 21 additions and 2 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Increased the glyph atlas resolution 2x
   <sub>[#162555](https://github.com/flutter/flutter/pull/162555) merged on February 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162555) over 2 days, 62 additions and 3 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar.onVisible documentation
-  <sub>[#162448](https://github.com/flutter/flutter/pull/162448) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162448) over 4 days, 7 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [FML] Make logging available in constexpr contexts.
+  <sub>[#162343](https://github.com/flutter/flutter/pull/162343) merged on February 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162343) over 5 days, 21 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jason Simmons](https://github.com/jason-simmons)</sub>
 
 * **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to version Version  3.8.0-67.0.dev
   <sub>[#162259](https://github.com/flutter/flutter/pull/162259) merged on February 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162259) over 1 week, 161 additions and 132 deletions in 6 files</sub>
@@ -161,6 +161,10 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; delete `Usage` in doctor tests
   <sub>[#162646](https://github.com/flutter/flutter/pull/162646) merged on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162646) over 18 hours, 24 additions and 97 deletions in 1 file</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Update SnackBar.onVisible documentation
+  <sub>[#162448](https://github.com/flutter/flutter/pull/162448) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162448) over 4 days, 7 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Taha Tesser](https://github.com/TahaTesser)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; [reland] delete `FlutterCommand.usageValues`
   <sub>[#162550](https://github.com/flutter/flutter/pull/162550) merged on February 3, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162550) over 2 days, 173 additions and 266 deletions in 16 files</sub>
