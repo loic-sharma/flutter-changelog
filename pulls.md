@@ -59,6 +59,9 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
+  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162467) 185 additions and 45 deletions in 13 files</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Disable Vulkan on Emulators. (#162454)<br />
   <sub>[#162536](https://github.com/flutter/flutter/pull/162536) opened on on January 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162536) 24 additions and 0 deletions in 3 files</sub><br />
 
