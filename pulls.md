@@ -110,3 +110,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] wire up Java Transaction to AHB swapchain.<br />
   <sub>[#162750](https://github.com/flutter/flutter/pull/162750) opened on on February 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162750) 43 additions and 37 deletions in 10 files</sub><br />
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Revert web_benchmarks back to default optimization level (`-O4`)<br />
+  <sub>[#162762](https://github.com/flutter/flutter/pull/162762) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162762) 0 additions and 1 deletion in 1 file</sub><br />
+
