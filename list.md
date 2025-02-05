@@ -1135,7 +1135,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-17 commits.
+18 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added
   <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub>
@@ -1173,6 +1173,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Properly center text of cookie notice
   <sub>[#11662](https://github.com/flutter/website/pull/11662) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11662) over 1 day, 4 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Added new course to courses.md
+  <sub>[#11663](https://github.com/flutter/website/pull/11663) merged on February 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11663) over 3 days, 3 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Remove flutter_gdb from docs (it's deprecated).
