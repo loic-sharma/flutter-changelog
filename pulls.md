@@ -89,6 +89,9 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 251 additions and 24 deletions in 16 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [windows/linux] add ability to enable Impeller on windows and linux desktop.<br />
+  <sub>[#162684](https://github.com/flutter/flutter/pull/162684) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162684) 98 additions and 2 deletions in 14 files</sub><br />
+
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Delete some verbose vm service logging<br />
   <sub>[#162709](https://github.com/flutter/flutter/pull/162709) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162709) 0 additions and 16 deletions in 1 file</sub><br />
 
