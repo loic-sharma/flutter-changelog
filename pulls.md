@@ -113,3 +113,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] wire up Java Transaction to AHB swapchain.<br />
   <sub>[#162750](https://github.com/flutter/flutter/pull/162750) opened on on February 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162750) 43 additions and 37 deletions in 10 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Increase timeout for Linux web_tool_tests to 60m<br />
+  <sub>[#162752](https://github.com/flutter/flutter/pull/162752) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162752) 1 addition and 0 deletions in 1 file</sub><br />
+
