@@ -110,3 +110,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Remove outdated ignores<br />
   <sub>[#162773](https://github.com/flutter/flutter/pull/162773) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162773) 32 additions and 114 deletions in 60 files</sub><br />
 
+* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Return more eagerly when toggling service extensions<br />
+  <sub>[#162774](https://github.com/flutter/flutter/pull/162774) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162774) 31 additions and 18 deletions in 1 file</sub><br />
+
