@@ -44,9 +44,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
 
-* **[Loïc PÉRON](https://github.com/loic-peron-inetum-public)** &mdash; [WIP] expose Semantics.identifier as Windows UIA AutomationId<br />
-  <sub>[#161955](https://github.com/flutter/flutter/pull/161955) opened on on January 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/161955) 62 additions and 5 deletions in 14 files</sub><br />
-
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Added equals and hashCode for TextInputConfiguration and AutofillConfiguration<br />
   <sub>[#162238](https://github.com/flutter/flutter/pull/162238) opened on on January 26, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/162238) 403 additions and 0 deletions in 4 files</sub><br />
 
@@ -108,5 +105,5 @@
   <sub>[#162773](https://github.com/flutter/flutter/pull/162773) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162773) 32 additions and 114 deletions in 60 files</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Return more eagerly when toggling service extensions<br />
-  <sub>[#162774](https://github.com/flutter/flutter/pull/162774) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162774) 31 additions and 18 deletions in 1 file</sub><br />
+  <sub>[#162774](https://github.com/flutter/flutter/pull/162774) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162774) 33 additions and 20 deletions in 1 file</sub><br />
 
