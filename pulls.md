@@ -59,9 +59,6 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ external view embedder and JNI plumbing.<br />
-  <sub>[#162493](https://github.com/flutter/flutter/pull/162493) opened on on January 31, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162493) 870 additions and 36 deletions in 18 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Disable Vulkan on Emulators. (#162454)<br />
   <sub>[#162536](https://github.com/flutter/flutter/pull/162536) opened on on January 31, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162536) 24 additions and 0 deletions in 3 files</sub><br />
 
@@ -100,9 +97,6 @@
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Adds animateToItem to the CarouselController<br />
   <sub>[#162694](https://github.com/flutter/flutter/pull/162694) opened on on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162694) 132 additions and 0 deletions in 2 files</sub><br />
-
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Wait until all scripts are loaded in the page before running main for the DDC library bundle format<br />
-  <sub>[#162707](https://github.com/flutter/flutter/pull/162707) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162707) 52 additions and 36 deletions in 10 files</sub><br />
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Delete some verbose vm service logging<br />
   <sub>[#162709](https://github.com/flutter/flutter/pull/162709) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162709) 0 additions and 16 deletions in 1 file</sub><br />
