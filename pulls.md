@@ -116,3 +116,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; EditableText should not allow horizontal scrolling on iOS<br />
   <sub>[#162841](https://github.com/flutter/flutter/pull/162841) opened on on February 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162841) 95 additions and 1 deletion in 2 files</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Update generated scaffold project to include early preview rendering<br />
+  <sub>[#162847](https://github.com/flutter/flutter/pull/162847) opened on on February 6, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162847) 507 additions and 33 deletions in 9 files</sub><br />
+
