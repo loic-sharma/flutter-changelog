@@ -84,7 +84,7 @@
   <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162713) 80 additions and 27 deletions in 1 file</sub><br />
 
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
-  <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162731) 23 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162731) 23 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ wire up dart platform channel code and integration test.<br />
   <sub>[#162751](https://github.com/flutter/flutter/pull/162751) opened on on February 5, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162751) 467 additions and 18 deletions in 22 files</sub><br />
@@ -97,4 +97,7 @@
 
 * **[Dimitar Kyurtov](https://github.com/dkyurtov)** &mdash; replace deprecated [UIScreen mainScreen] in iOS<br />
   <sub>[#162785](https://github.com/flutter/flutter/pull/162785) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162785) 181 additions and 69 deletions in 6 files</sub><br />
+
+* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Fixed minor typos and applied style guide suggestions<br />
+  <sub>[#162805](https://github.com/flutter/flutter/pull/162805) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162805) 13 additions and 14 deletions in 1 file</sub><br />
 
