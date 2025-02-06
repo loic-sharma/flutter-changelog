@@ -114,5 +114,5 @@
   <sub>[#162840](https://github.com/flutter/flutter/pull/162840) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162840) 14 additions and 69 deletions in 10 files</sub><br />
 
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; EditableText should not allow horizontal scrolling on iOS<br />
-  <sub>[#162841](https://github.com/flutter/flutter/pull/162841) opened on on February 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162841) 226 additions and 130 deletions in 3 files</sub><br />
+  <sub>[#162841](https://github.com/flutter/flutter/pull/162841) opened on on February 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162841) 95 additions and 1 deletion in 2 files</sub><br />
 
