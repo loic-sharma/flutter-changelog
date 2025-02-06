@@ -90,7 +90,7 @@
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162731) 23 additions and 3 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ wire up dart platform channel code and integration test.<br />
-  <sub>[#162751](https://github.com/flutter/flutter/pull/162751) opened on on February 5, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162751) 443 additions and 15 deletions in 20 files</sub><br />
+  <sub>[#162751](https://github.com/flutter/flutter/pull/162751) opened on on February 5, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162751) 470 additions and 18 deletions in 21 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; testo buildo.<br />
   <sub>[#162769](https://github.com/flutter/flutter/pull/162769) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162769) 0 additions and 5 deletions in 2 files</sub><br />
