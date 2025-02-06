@@ -104,3 +104,6 @@
 * **[Johannes Pietilä Löhnn](https://github.com/lohnn)** &mdash; RenderConstrainedBox takes constraints when measuring intrinsic sizes<br />
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 21 additions and 4 deletions in 1 file</sub><br />
 
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the flutter tool and test harness<br />
+  <sub>[#162836](https://github.com/flutter/flutter/pull/162836) opened on on February 6, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162836) 37 additions and 714 deletions in 17 files</sub><br />
+
