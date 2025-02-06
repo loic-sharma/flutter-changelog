@@ -30,7 +30,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>2 images...</summary><img width="396" alt="Screenshot 2025-01-30 at 11 21 36 AM" src="https://github.com/user-attachments/assets/4e27db47-8d54-44c7-8cba-58790b88fef3" /><img width="396" alt="Screenshot 2025-01-30 at 11 19 54 AM" src="https://github.com/user-attachments/assets/68f056f2-7731-4a56-8124-187d7efae020" /></details></sub>
 
-* **[dev-lup](https://github.com/dev-lup)** &mdash; Fix: Ensure CupertinoAlertDialog divider spans full width and resolve
+* **[Harshit Sharma](https://github.com/dev-lup)** &mdash; Fix: Ensure CupertinoAlertDialog divider spans full width and resolve
   <sub>[#161490](https://github.com/flutter/flutter/pull/161490) merged on February 6, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/flutter/pull/161490) over 3 weeks, 53 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [chunhtai](https://github.com/chunhtai)</sub>
 
