@@ -65,9 +65,6 @@
 * **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; Add localization for `Back` and `Cancel` buttons in CupertinoNavigationBar<br />
   <sub>[#162581](https://github.com/flutter/flutter/pull/162581) opened on on February 2, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162581) 754 additions and 111 deletions in 85 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Increase conical gradient precision. (#162543)<br />
-  <sub>[#162619](https://github.com/flutter/flutter/pull/162619) opened on on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162619) 62 additions and 62 deletions in 4 files</sub><br />
-
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Get analytics welcome message under test<br />
   <sub>[#162627](https://github.com/flutter/flutter/pull/162627) opened on on February 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162627) 49 additions and 3 deletions in 2 files</sub><br />
 
@@ -107,6 +104,6 @@
 * **[Johannes Pietilä Löhnn](https://github.com/lohnn)** &mdash; RenderConstrainedBox takes constraints when measuring intrinsic sizes<br />
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 21 additions and 4 deletions in 1 file</sub><br />
 
-* **[Harshit Sharma](https://github.com/dev-lup)** &mdash; Fix/remove use material3<br />
+* **[Harshit Sharma](https://github.com/dev-lup)** &mdash; Fix: Remove instances of useMaterial3: true in framework, samples and codelabs<br />
   <sub>[#162827](https://github.com/flutter/flutter/pull/162827) opened on on February 6, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162827) 411 additions and 882 deletions in 203 files</sub><br />
 
