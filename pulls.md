@@ -81,13 +81,16 @@
   <sub>[#162709](https://github.com/flutter/flutter/pull/162709) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162709) 0 additions and 16 deletions in 1 file</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; support running et fetch from anywhere<br />
-  <sub>[#162712](https://github.com/flutter/flutter/pull/162712) opened on on February 5, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/162712) 232 additions and 138 deletions in 14 files</sub><br />
+  <sub>[#162712](https://github.com/flutter/flutter/pull/162712) opened on on February 5, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/162712) 232 additions and 138 deletions in 14 files</sub><br />
 
 * **[ash-google](https://github.com/ash-google)** &mdash; Add SDK version validation to the dependency checker.<br />
   <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162713) 80 additions and 27 deletions in 1 file</sub><br />
 
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162731) 23 additions and 3 deletions in 1 file</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ wire up dart platform channel code and integration test.<br />
+  <sub>[#162751](https://github.com/flutter/flutter/pull/162751) opened on on February 5, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162751) 439 additions and 15 deletions in 19 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; testo buildo.<br />
   <sub>[#162769](https://github.com/flutter/flutter/pull/162769) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162769) 0 additions and 5 deletions in 2 files</sub><br />
