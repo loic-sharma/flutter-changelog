@@ -45,7 +45,7 @@
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
 
 * **[Johnson ](https://github.com/johnson1940)** &mdash; added borderRadius for the divider<br />
-  <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/162248) 206 additions and 57 deletions in 2 files</sub><br />
+  <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/162248) 206 additions and 57 deletions in 2 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
@@ -87,7 +87,7 @@
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162731) 99 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ wire up dart platform channel code and integration test.<br />
-  <sub>[#162751](https://github.com/flutter/flutter/pull/162751) opened on on February 5, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162751) 467 additions and 18 deletions in 22 files</sub><br />
+  <sub>[#162751](https://github.com/flutter/flutter/pull/162751) opened on on February 5, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162751) 473 additions and 18 deletions in 23 files</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Return more eagerly when toggling service extensions<br />
   <sub>[#162774](https://github.com/flutter/flutter/pull/162774) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162774) 33 additions and 20 deletions in 1 file</sub><br />
