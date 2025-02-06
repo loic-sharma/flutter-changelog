@@ -107,3 +107,6 @@
 * **[Johannes Pietilä Löhnn](https://github.com/lohnn)** &mdash; RenderConstrainedBox takes constraints when measuring intrinsic sizes<br />
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 21 additions and 4 deletions in 1 file</sub><br />
 
+* **[Harshit Sharma](https://github.com/dev-lup)** &mdash; Fix/remove use material3<br />
+  <sub>[#162827](https://github.com/flutter/flutter/pull/162827) opened on on February 6, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162827) 411 additions and 882 deletions in 203 files</sub><br />
+
