@@ -1004,7 +1004,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-7 commits.
+8 commits.
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [pigeon] [swift] Fix `PigeonError` sendability conformance in Swift 6
   <sub>[#8302](https://github.com/flutter/packages/pull/8302) merged on February 3, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8302) over 1 month, 45 additions and 18 deletions in 12 files</sub>
@@ -1029,6 +1029,10 @@
 * **[andrechalella](https://github.com/andrechalella)** &mdash; [flutter_markdown] Make custom table column alignments work when text wraps
   <sub>[#8340](https://github.com/flutter/packages/pull/8340) merged on February 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8340) over 1 month, 62 additions and 90 deletions in 4 files</sub>
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [quick_actions] Update Android Pigeon version
+  <sub>[#8580](https://github.com/flutter/packages/pull/8580) merged on February 6, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/8580) over 1 hour, 275 additions and 133 deletions in 8 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] reorg generator files
   <sub>[#8532](https://github.com/flutter/packages/pull/8532) merged on February 3, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8532) over 4 days, 106 additions and 101 deletions in 38 files</sub>
