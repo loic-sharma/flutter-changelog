@@ -89,9 +89,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ wire up dart platform channel code and integration test.<br />
   <sub>[#162751](https://github.com/flutter/flutter/pull/162751) opened on on February 5, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162751) 470 additions and 18 deletions in 21 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; testo buildo.<br />
-  <sub>[#162769](https://github.com/flutter/flutter/pull/162769) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162769) 0 additions and 5 deletions in 2 files</sub><br />
-
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Return more eagerly when toggling service extensions<br />
   <sub>[#162774](https://github.com/flutter/flutter/pull/162774) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162774) 33 additions and 20 deletions in 1 file</sub><br />
 
