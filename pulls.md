@@ -84,7 +84,7 @@
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162731) 99 additions and 3 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] HC++ wire up dart platform channel code and integration test.<br />
-  <sub>[#162751](https://github.com/flutter/flutter/pull/162751) opened on on February 5, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/162751) 474 additions and 18 deletions in 23 files</sub><br />
+  <sub>[#162751](https://github.com/flutter/flutter/pull/162751) opened on on February 5, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/162751) 477 additions and 18 deletions in 23 files</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Return more eagerly when toggling service extensions<br />
   <sub>[#162774](https://github.com/flutter/flutter/pull/162774) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162774) 33 additions and 20 deletions in 1 file</sub><br />
@@ -105,5 +105,14 @@
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 21 additions and 4 deletions in 1 file</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the flutter tool and test harness<br />
-  <sub>[#162836](https://github.com/flutter/flutter/pull/162836) opened on on February 6, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162836) 37 additions and 714 deletions in 17 files</sub><br />
+  <sub>[#162836](https://github.com/flutter/flutter/pull/162836) opened on on February 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162836) 37 additions and 714 deletions in 17 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the framework<br />
+  <sub>[#162837](https://github.com/flutter/flutter/pull/162837) opened on on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162837) 22 additions and 75 deletions in 4 files</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the engine (outside html/ folder)<br />
+  <sub>[#162840](https://github.com/flutter/flutter/pull/162840) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162840) 14 additions and 69 deletions in 10 files</sub><br />
+
+* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; EditableText should not allow horizontal scrolling on iOS<br />
+  <sub>[#162841](https://github.com/flutter/flutter/pull/162841) opened on on February 6, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/162841) 226 additions and 130 deletions in 3 files</sub><br />
 
