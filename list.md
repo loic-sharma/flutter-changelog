@@ -1199,7 +1199,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-18 commits.
+19 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added
   <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub>
@@ -1214,6 +1214,10 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add test orientation recipe
   <sub>[#11657](https://github.com/flutter/website/pull/11657) merged on February 3, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11657) over 2 days, 412 additions and 0 deletions in 6 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor updates to new orientation recipe
+  <sub>[#11682](https://github.com/flutter/website/pull/11682) merged on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11682) over 18 minutes, 66 additions and 62 deletions in 7 files</sub>
+  <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add cache bust for new dropdown functionality
   <sub>[#11668](https://github.com/flutter/website/pull/11668) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11668) over 2 minutes, 1 addition and 1 deletion in 1 file</sub>
