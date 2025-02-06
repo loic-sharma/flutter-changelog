@@ -328,7 +328,7 @@
   <sub>Reviewed by: [Andrew Kolos](https://github.com/andrewkolos)</sub>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; [Reland] Fix `Tab` linear and elastic animation blink (#162315)
-  <sub>[#162450](https://github.com/flutter/flutter/pull/162450) merged on January 31, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/162450) over 17 hours, 988 additions and 194 deletions in 2 files</sub>
+  <sub>[#162450](https://github.com/flutter/flutter/pull/162450) merged on January 31, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/162450) over 17 hours, 988 additions and 194 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
   <sub><details><summary>1 image...</summary><img width="1048" alt="Screenshot 2025-01-28 at 17 27 50" src="https://github.com/user-attachments/assets/4ba587a5-24d0-40ce-817c-366d004abc05" /></details></sub>
 
