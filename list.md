@@ -119,7 +119,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add role check in SemanticsNode._isDifferentFromCurrentSemanticAnnotation function.
-  <sub>[#162578](https://github.com/flutter/flutter/pull/162578) merged on February 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162578) over 3 days, 30 additions and 1 deletion in 2 files</sub>
+  <sub>[#162578](https://github.com/flutter/flutter/pull/162578) merged on February 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162578) over 3 days, 30 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; delete references to `Usage` in config_test.dart
@@ -1243,7 +1243,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-22 commits.
+23 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; style added in searchbar
   <sub>[#11683](https://github.com/flutter/website/pull/11683) merged on February 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11683) over 9 hours, 3 additions and 1 deletion in 1 file</sub>
@@ -1294,6 +1294,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Properly center text of cookie notice
   <sub>[#11662](https://github.com/flutter/website/pull/11662) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11662) over 1 day, 4 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update a few deep link notes to support iOS
+  <sub>[#11687](https://github.com/flutter/website/pull/11687) merged on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11687) over 2 hours, 14 additions and 21 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update integration testing docs for Android and iOS.
