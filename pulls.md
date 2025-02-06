@@ -80,9 +80,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Delete some verbose vm service logging<br />
   <sub>[#162709](https://github.com/flutter/flutter/pull/162709) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162709) 0 additions and 16 deletions in 1 file</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; support running et fetch from anywhere<br />
-  <sub>[#162712](https://github.com/flutter/flutter/pull/162712) opened on on February 5, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/162712) 232 additions and 138 deletions in 14 files</sub><br />
-
 * **[ash-google](https://github.com/ash-google)** &mdash; Add SDK version validation to the dependency checker.<br />
   <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162713) 80 additions and 27 deletions in 1 file</sub><br />
 
