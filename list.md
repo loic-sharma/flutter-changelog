@@ -1199,7 +1199,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-19 commits.
+21 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; button border-radius added
   <sub>[#11664](https://github.com/flutter/website/pull/11664) merged on February 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/website/pull/11664) over 1 day, 1 addition and 2 deletions in 1 file</sub>
@@ -1213,6 +1213,10 @@
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Add test orientation recipe
   <sub>[#11657](https://github.com/flutter/website/pull/11657) merged on February 3, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/website/pull/11657) over 2 days, 412 additions and 0 deletions in 6 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Enable forcing a specific tab with query parameters
+  <sub>[#11681](https://github.com/flutter/website/pull/11681) merged on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11681) over 1 hour, 25 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Minor updates to new orientation recipe
@@ -1241,6 +1245,10 @@
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Properly center text of cookie notice
   <sub>[#11662](https://github.com/flutter/website/pull/11662) merged on February 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11662) over 1 day, 4 additions and 7 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update integration testing docs for Android and iOS.
+  <sub>[#11680](https://github.com/flutter/website/pull/11680) merged on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11680) over 1 hour, 124 additions and 79 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Added new course to courses.md
