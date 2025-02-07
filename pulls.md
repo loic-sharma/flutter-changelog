@@ -99,7 +99,7 @@
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Generate a correct `.flutter-plugin-dependencies` file for iOS/macOS projects<br />
-  <sub>[#162834](https://github.com/flutter/flutter/pull/162834) opened on on February 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162834) 40 additions and 4 deletions in 5 files</sub><br />
+  <sub>[#162834](https://github.com/flutter/flutter/pull/162834) opened on on February 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162834) 40 additions and 4 deletions in 5 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the flutter tool and test harness<br />
   <sub>[#162836](https://github.com/flutter/flutter/pull/162836) opened on on February 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162836) 37 additions and 714 deletions in 17 files</sub><br />
@@ -148,4 +148,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Add missing API level check for hcpp<br />
   <sub>[#162901](https://github.com/flutter/flutter/pull/162901) opened on on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162901) 6 additions and 1 deletion in 1 file</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Make sure to opt hcpp tests into using hcpp<br />
+  <sub>[#162906](https://github.com/flutter/flutter/pull/162906) opened on on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162906) 4 additions and 4 deletions in 2 files</sub><br />
 
