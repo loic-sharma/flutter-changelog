@@ -143,3 +143,9 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu does not gain focus when tapped.<br />
   <sub>[#162874](https://github.com/flutter/flutter/pull/162874) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162874) 26 additions and 3 deletions in 2 files</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement merged UI and platform thread<br />
+  <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162883) 600 additions and 878 deletions in 30 files</sub><br />
+
+* **[Shay Molcho](https://github.com/shaymolcho)** &mdash; Added missing period for consistency and readability<br />
+  <sub>[#162887](https://github.com/flutter/flutter/pull/162887) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162887) 1 addition and 1 deletion in 1 file</sub><br />
+
