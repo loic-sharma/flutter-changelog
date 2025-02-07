@@ -1058,7 +1058,7 @@
 
 ### February 1, 2025 to February 7, 2025
 
-11 commits.
+12 commits.
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_avfoundation] iOS platform view support<br />
   <sub>[#8237](https://github.com/flutter/packages/pull/8237) merged on February 7, 2025 &mdash; **Extra large:** [127 comments](https://github.com/flutter/packages/pull/8237) over 2 months, 1569 additions and 549 deletions in 32 files</sub><br />
@@ -1095,6 +1095,10 @@
 * **[andrechalella](https://github.com/andrechalella)** &mdash; [flutter_markdown] Make custom table column alignments work when text wraps<br />
   <sub>[#8340](https://github.com/flutter/packages/pull/8340) merged on February 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8340) over 1 month, 62 additions and 90 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router] Add `preload` parameter to `StatefulShellBranchData.$branch`<br />
+  <sub>[#8545](https://github.com/flutter/packages/pull/8545) merged on February 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8545) over 6 days, 22 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [quick_actions] Update Android Pigeon version<br />
   <sub>[#8580](https://github.com/flutter/packages/pull/8580) merged on February 6, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/packages/pull/8580) over 1 hour, 275 additions and 133 deletions in 8 files</sub><br />
