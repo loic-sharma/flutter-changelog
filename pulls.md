@@ -93,13 +93,13 @@
   <sub>[#162805](https://github.com/flutter/flutter/pull/162805) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162805) 13 additions and 14 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [raw_menu_anchor.0.dart] Remove misdrawn emojis.<br />
-  <sub>[#162807](https://github.com/flutter/flutter/pull/162807) opened on on February 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162807) 7 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#162807](https://github.com/flutter/flutter/pull/162807) opened on on February 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162807) 7 additions and 9 deletions in 2 files</sub><br />
 
 * **[Johannes Pietilä Löhnn](https://github.com/lohnn)** &mdash; RenderConstrainedBox takes constraints when measuring intrinsic sizes<br />
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Generate a correct `.flutter-plugin-dependencies` file for iOS/macOS projects<br />
-  <sub>[#162834](https://github.com/flutter/flutter/pull/162834) opened on on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162834) 40 additions and 4 deletions in 5 files</sub><br />
+  <sub>[#162834](https://github.com/flutter/flutter/pull/162834) opened on on February 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162834) 40 additions and 4 deletions in 5 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the flutter tool and test harness<br />
   <sub>[#162836](https://github.com/flutter/flutter/pull/162836) opened on on February 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162836) 37 additions and 714 deletions in 17 files</sub><br />
@@ -145,4 +145,7 @@
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
   <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162889) 14 additions and 12 deletions in 3 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Add missing API level check for hcpp<br />
+  <sub>[#162901](https://github.com/flutter/flutter/pull/162901) opened on on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162901) 6 additions and 1 deletion in 1 file</sub><br />
 
