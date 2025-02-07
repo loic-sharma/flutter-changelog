@@ -122,9 +122,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move sliders component to separate file<br />
   <sub>[#162858](https://github.com/flutter/flutter/pull/162858) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162858) 3306 additions and 3299 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp gestures.<br />
-  <sub>[#162859](https://github.com/flutter/flutter/pull/162859) opened on on February 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162859) 5 additions and 21 deletions in 3 files</sub><br />
-
 * **[q1](https://github.com/ahyangnb)** &mdash; [new] Fix DropdownButton extra padding when alignDropdown: true<br />
   <sub>[#162860](https://github.com/flutter/flutter/pull/162860) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162860) 21 additions and 46 deletions in 2 files</sub><br />
 
