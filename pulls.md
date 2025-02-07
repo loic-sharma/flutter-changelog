@@ -47,6 +47,9 @@
 * **[Johnson ](https://github.com/johnson1940)** &mdash; added borderRadius for the divider<br />
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Small:** [26 comments](https://github.com/flutter/flutter/pull/162248) 206 additions and 57 deletions in 2 files</sub><br />
 
+* **[Harri Kirik](https://github.com/harri35)** &mdash; Fix to Linux_pixel_7pro integration_ui_keyboard_resize test flakiness<br />
+  <sub>[#162308](https://github.com/flutter/flutter/pull/162308) opened on on January 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162308) 22 additions and 19 deletions in 2 files</sub><br />
+
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
