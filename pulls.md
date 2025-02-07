@@ -125,3 +125,6 @@
 * **[sigmundch](https://github.com/sigmundch)** &mdash; Add new builder for experiment with dynamic modules.<br />
   <sub>[#162855](https://github.com/flutter/flutter/pull/162855) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162855) 104 additions and 0 deletions in 2 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Make PVC1 and PVC2 share a platform view registry.<br />
+  <sub>[#162857](https://github.com/flutter/flutter/pull/162857) opened on on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162857) 31 additions and 27 deletions in 6 files</sub><br />
+
