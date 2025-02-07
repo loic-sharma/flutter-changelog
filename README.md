@@ -1045,7 +1045,11 @@
 
 ### February 1, 2025 to February 7, 2025
 
-9 commits.
+10 commits.
+
+* **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from AvailableCamerasTests, CameraOrientationTests and ThreadSafeEventChannelTests<br />
+  <sub>[#8363](https://github.com/flutter/packages/pull/8363) merged on February 7, 2025 &mdash; **Extra large:** [50 comments](https://github.com/flutter/packages/pull/8363) over 1 month, 1278 additions and 413 deletions in 50 files</sub><br />
+  <sub>Reviewed by: [hellohuanlin](https://github.com/hellohuanlin), [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [pigeon] [swift] Fix `PigeonError` sendability conformance in Swift 6<br />
   <sub>[#8302](https://github.com/flutter/packages/pull/8302) merged on February 3, 2025 &mdash; **Small:** [25 comments](https://github.com/flutter/packages/pull/8302) over 1 month, 45 additions and 18 deletions in 12 files</sub><br />
