@@ -140,3 +140,6 @@
 * **[prdalai](https://github.com/prdalai)** &mdash; Removed redundant useMaterial3: true where unnecessary<br />
   <sub>[#162862](https://github.com/flutter/flutter/pull/162862) opened on on February 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162862) 157 additions and 157 deletions in 63 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu does not gain focus when tapped.<br />
+  <sub>[#162874](https://github.com/flutter/flutter/pull/162874) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162874) 20 additions and 3 deletions in 2 files</sub><br />
+
