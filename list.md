@@ -258,8 +258,8 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Start removing unsound null safety from the web SDK tools.
-  <sub>[#162850](https://github.com/flutter/flutter/pull/162850) merged on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162850) over 20 hours, 48 additions and 184 deletions in 7 files</sub>
-  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub>
+  <sub>[#162850](https://github.com/flutter/flutter/pull/162850) merged on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162850) over 20 hours, 48 additions and 184 deletions in 7 files</sub>
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added opacity note to `withValues` docstring
   <sub>[#162612](https://github.com/flutter/flutter/pull/162612) merged on February 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162612) over 1 day, 7 additions and 0 deletions in 1 file</sub>
