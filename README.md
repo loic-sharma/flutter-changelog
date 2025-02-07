@@ -184,7 +184,7 @@
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `--verbose` from devicelab task executions.<br />
-  <sub>[#162644](https://github.com/flutter/flutter/pull/162644) merged on February 7, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162644) over 3 days, 21 additions and 77 deletions in 14 files</sub><br />
+  <sub>[#162644](https://github.com/flutter/flutter/pull/162644) merged on February 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162644) over 3 days, 21 additions and 77 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Reid Baker](https://github.com/reidbaker), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; chore(canvaskit): remove SurfaceFrame from Surface<br />
