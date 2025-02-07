@@ -59,9 +59,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides<br />
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) opened on on February 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) 91 additions and 169 deletions in 23 files</sub><br />
 
-* **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing properties to _ArcPaintPredicate.<br />
-  <sub>[#162572](https://github.com/flutter/flutter/pull/162572) opened on on February 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162572) 206 additions and 0 deletions in 2 files</sub><br />
-
 * **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; Add localization for `Back` and `Cancel` buttons in CupertinoNavigationBar<br />
   <sub>[#162581](https://github.com/flutter/flutter/pull/162581) opened on on February 2, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162581) 754 additions and 111 deletions in 85 files</sub><br />
 
@@ -92,9 +89,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Fixed minor typos and applied style guide suggestions<br />
   <sub>[#162805](https://github.com/flutter/flutter/pull/162805) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162805) 13 additions and 14 deletions in 1 file</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [raw_menu_anchor.0.dart] Remove misdrawn emojis.<br />
-  <sub>[#162807](https://github.com/flutter/flutter/pull/162807) opened on on February 6, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162807) 7 additions and 9 deletions in 2 files</sub><br />
-
 * **[Johannes Pietilä Löhnn](https://github.com/lohnn)** &mdash; RenderConstrainedBox takes constraints when measuring intrinsic sizes<br />
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
 
@@ -123,7 +117,7 @@
   <sub>[#162855](https://github.com/flutter/flutter/pull/162855) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162855) 104 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Make PVC1 and PVC2 share a platform view registry.<br />
-  <sub>[#162857](https://github.com/flutter/flutter/pull/162857) opened on on February 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162857) 32 additions and 14 deletions in 6 files</sub><br />
+  <sub>[#162857](https://github.com/flutter/flutter/pull/162857) opened on on February 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162857) 29 additions and 13 deletions in 5 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move sliders component to separate file<br />
   <sub>[#162858](https://github.com/flutter/flutter/pull/162858) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162858) 3306 additions and 3299 deletions in 2 files</sub><br />
