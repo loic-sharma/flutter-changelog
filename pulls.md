@@ -123,7 +123,7 @@
   <sub>[#162847](https://github.com/flutter/flutter/pull/162847) opened on on February 6, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162847) 507 additions and 33 deletions in 9 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove SkSL bundling and dump skp on compilation.<br />
-  <sub>[#162849](https://github.com/flutter/flutter/pull/162849) opened on on February 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162849) 16 additions and 910 deletions in 55 files</sub><br />
+  <sub>[#162849](https://github.com/flutter/flutter/pull/162849) opened on on February 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162849) 20 additions and 918 deletions in 56 files</sub><br />
 
 * **[sigmundch](https://github.com/sigmundch)** &mdash; Add new builder for experiment with dynamic modules.<br />
   <sub>[#162855](https://github.com/flutter/flutter/pull/162855) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162855) 104 additions and 0 deletions in 2 files</sub><br />
