@@ -128,3 +128,9 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Make PVC1 and PVC2 share a platform view registry.<br />
   <sub>[#162857](https://github.com/flutter/flutter/pull/162857) opened on on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162857) 31 additions and 27 deletions in 6 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move sliders component to separate file<br />
+  <sub>[#162858](https://github.com/flutter/flutter/pull/162858) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162858) 3306 additions and 3299 deletions in 2 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp gestures.<br />
+  <sub>[#162859](https://github.com/flutter/flutter/pull/162859) opened on on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162859) 5 additions and 21 deletions in 3 files</sub><br />
+
