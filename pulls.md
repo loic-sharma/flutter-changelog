@@ -96,7 +96,7 @@
   <sub>[#162805](https://github.com/flutter/flutter/pull/162805) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162805) 13 additions and 14 deletions in 1 file</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; [raw_menu_anchor.0.dart] Remove misdrawn emojis.<br />
-  <sub>[#162807](https://github.com/flutter/flutter/pull/162807) opened on on February 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162807) 7 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#162807](https://github.com/flutter/flutter/pull/162807) opened on on February 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162807) 7 additions and 9 deletions in 2 files</sub><br />
 
 * **[Johannes Pietilä Löhnn](https://github.com/lohnn)** &mdash; RenderConstrainedBox takes constraints when measuring intrinsic sizes<br />
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
