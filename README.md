@@ -27,7 +27,7 @@
   <sub><details><summary>1 image...</summary>![drake](https://github.com/user-attachments/assets/50ffcda6-263d-48c8-8853-207e757da6e0)</details></sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Support CupertinoSliverNavigationBar.search with condensed large title<br />
-  <sub>[#159120](https://github.com/flutter/flutter/pull/159120) merged on February 7, 2025 &mdash; **Large:** [69 comments](https://github.com/flutter/flutter/pull/159120) over 2 months, 645 additions and 83 deletions in 5 files</sub><br />
+  <sub>[#159120](https://github.com/flutter/flutter/pull/159120) merged on February 7, 2025 &mdash; **Large:** [71 comments](https://github.com/flutter/flutter/pull/159120) over 2 months, 645 additions and 83 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Mykhailo B](https://github.com/Michae1Weiss), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed translated text's subpixel alignment.<br />
