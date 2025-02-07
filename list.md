@@ -1050,7 +1050,11 @@
 
 ### February 1, 2025 to February 7, 2025
 
-10 commits.
+11 commits.
+
+* **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_avfoundation] iOS platform view support
+  <sub>[#8237](https://github.com/flutter/packages/pull/8237) merged on February 7, 2025 &mdash; **Extra large:** [127 comments](https://github.com/flutter/packages/pull/8237) over 2 months, 1569 additions and 549 deletions in 32 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from AvailableCamerasTests, CameraOrientationTests and ThreadSafeEventChannelTests
   <sub>[#8363](https://github.com/flutter/packages/pull/8363) merged on February 7, 2025 &mdash; **Extra large:** [50 comments](https://github.com/flutter/packages/pull/8363) over 1 month, 1278 additions and 413 deletions in 50 files</sub>
