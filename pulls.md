@@ -141,11 +141,11 @@
   <sub>[#162874](https://github.com/flutter/flutter/pull/162874) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162874) 26 additions and 3 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement merged UI and platform thread<br />
-  <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162883) 600 additions and 878 deletions in 30 files</sub><br />
-
-* **[Shay Molcho](https://github.com/shaymolcho)** &mdash; Added missing period for consistency and readability<br />
-  <sub>[#162887](https://github.com/flutter/flutter/pull/162887) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162887) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162883) 605 additions and 881 deletions in 31 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
   <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162889) 14 additions and 12 deletions in 3 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Enable `*_module_test_ios` tests that are skipped on presubmit.<br />
+  <sub>[#162892](https://github.com/flutter/flutter/pull/162892) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162892) 0 additions and 4 deletions in 1 file</sub><br />
 
