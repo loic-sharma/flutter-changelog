@@ -83,9 +83,6 @@
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162731) 99 additions and 3 deletions in 2 files</sub><br />
 
-* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Return more eagerly when toggling service extensions<br />
-  <sub>[#162774](https://github.com/flutter/flutter/pull/162774) opened on on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162774) 33 additions and 20 deletions in 1 file</sub><br />
-
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162780) 28 additions and 19 deletions in 12 files</sub><br />
 
@@ -148,4 +145,7 @@
 
 * **[Shay Molcho](https://github.com/shaymolcho)** &mdash; Added missing period for consistency and readability<br />
   <sub>[#162887](https://github.com/flutter/flutter/pull/162887) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162887) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
+  <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162889) 14 additions and 12 deletions in 3 files</sub><br />
 
