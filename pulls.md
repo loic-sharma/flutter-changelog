@@ -111,7 +111,7 @@
   <sub>[#162847](https://github.com/flutter/flutter/pull/162847) opened on on February 6, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162847) 525 additions and 37 deletions in 10 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove SkSL bundling and dump skp on compilation.<br />
-  <sub>[#162849](https://github.com/flutter/flutter/pull/162849) opened on on February 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162849) 22 additions and 918 deletions in 55 files</sub><br />
+  <sub>[#162849](https://github.com/flutter/flutter/pull/162849) opened on on February 7, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/162849) 22 additions and 918 deletions in 55 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move sliders component to separate file<br />
   <sub>[#162858](https://github.com/flutter/flutter/pull/162858) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162858) 3306 additions and 3299 deletions in 2 files</sub><br />
