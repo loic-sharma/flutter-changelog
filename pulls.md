@@ -111,10 +111,10 @@
   <sub>[#162847](https://github.com/flutter/flutter/pull/162847) opened on on February 6, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162847) 525 additions and 37 deletions in 10 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove SkSL bundling and dump skp on compilation.<br />
-  <sub>[#162849](https://github.com/flutter/flutter/pull/162849) opened on on February 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162849) 20 additions and 918 deletions in 56 files</sub><br />
+  <sub>[#162849](https://github.com/flutter/flutter/pull/162849) opened on on February 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162849) 22 additions and 918 deletions in 55 files</sub><br />
 
 * **[sigmundch](https://github.com/sigmundch)** &mdash; Add new builder for experiment with dynamic modules.<br />
-  <sub>[#162855](https://github.com/flutter/flutter/pull/162855) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162855) 104 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#162855](https://github.com/flutter/flutter/pull/162855) opened on on February 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162855) 296 additions and 6 deletions in 6 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Make PVC1 and PVC2 share a platform view registry.<br />
   <sub>[#162857](https://github.com/flutter/flutter/pull/162857) opened on on February 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162857) 29 additions and 13 deletions in 5 files</sub><br />
@@ -137,6 +137,6 @@
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
   <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162889) 14 additions and 12 deletions in 3 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Make sure to opt hcpp tests into using hcpp<br />
-  <sub>[#162906](https://github.com/flutter/flutter/pull/162906) opened on on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162906) 4 additions and 4 deletions in 2 files</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Lower minimum java file count to 1.<br />
+  <sub>[#162915](https://github.com/flutter/flutter/pull/162915) opened on on February 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162915) 1 addition and 1 deletion in 1 file</sub><br />
 
