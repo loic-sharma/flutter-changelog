@@ -138,5 +138,5 @@
   <sub>[#162932](https://github.com/flutter/flutter/pull/162932) opened on on February 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162932) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [windows] Implement merged UI and platform thread<br />
-  <sub>[#162935](https://github.com/flutter/flutter/pull/162935) opened on on February 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162935) 122 additions and 29 deletions in 17 files</sub><br />
+  <sub>[#162935](https://github.com/flutter/flutter/pull/162935) opened on on February 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162935) 160 additions and 64 deletions in 18 files</sub><br />
 
