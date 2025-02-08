@@ -26,13 +26,13 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [jesswrd](https://github.com/jesswrd)</sub>
   <sub><details><summary>1 image...</summary>![drake](https://github.com/user-attachments/assets/50ffcda6-263d-48c8-8853-207e757da6e0)</details></sub>
 
-* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Support CupertinoSliverNavigationBar.search with condensed large title
-  <sub>[#159120](https://github.com/flutter/flutter/pull/159120) merged on February 7, 2025 &mdash; **Large:** [71 comments](https://github.com/flutter/flutter/pull/159120) over 2 months, 645 additions and 83 deletions in 5 files</sub>
-  <sub>Reviewed by: [Mykhailo B](https://github.com/Michae1Weiss), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
-
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed translated text's subpixel alignment.
   <sub>[#162824](https://github.com/flutter/flutter/pull/162824) merged on February 7, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/162824) over 20 hours, 188 additions and 23 deletions in 12 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Support CupertinoSliverNavigationBar.search with condensed large title
+  <sub>[#159120](https://github.com/flutter/flutter/pull/159120) merged on February 7, 2025 &mdash; **Large:** [71 comments](https://github.com/flutter/flutter/pull/159120) over 2 months, 645 additions and 83 deletions in 5 files</sub>
+  <sub>Reviewed by: [Mykhailo B](https://github.com/Michae1Weiss), [Kate Lovett](https://github.com/Piinks), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Remove default for stripped option in `engine/src/flutter/tools/gn`, don't strip by default on android
   <sub>[#161546](https://github.com/flutter/flutter/pull/161546) merged on February 3, 2025 &mdash; **Large:** [34 comments](https://github.com/flutter/flutter/pull/161546) over 2 weeks, 506 additions and 2 deletions in 3 files</sub>
@@ -85,7 +85,7 @@
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert the `preview-device` feature, tests, and code that only existed for it.
-  <sub>[#162835](https://github.com/flutter/flutter/pull/162835) merged on February 8, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/162835) over 1 day, 24 additions and 1195 deletions in 30 files</sub>
+  <sub>[#162835](https://github.com/flutter/flutter/pull/162835) merged on February 8, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162835) over 1 day, 24 additions and 1195 deletions in 30 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Implement hot reload using the DDC library bundle format
