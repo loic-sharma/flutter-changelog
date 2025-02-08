@@ -122,9 +122,6 @@
 * **[prdalai](https://github.com/prdalai)** &mdash; Removed redundant useMaterial3: true where unnecessary<br />
   <sub>[#162862](https://github.com/flutter/flutter/pull/162862) opened on on February 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162862) 157 additions and 157 deletions in 63 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu does not gain focus when tapped.<br />
-  <sub>[#162874](https://github.com/flutter/flutter/pull/162874) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162874) 37 additions and 5 deletions in 2 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement merged UI and platform thread<br />
   <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162883) 605 additions and 881 deletions in 31 files</sub><br />
 
@@ -133,4 +130,7 @@
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Change the default optimization level to `-O2` for wasm in release mode.<br />
   <sub>[#162917](https://github.com/flutter/flutter/pull/162917) opened on on February 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162917) 31 additions and 17 deletions in 2 files</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; showDialogs adds a `requestFocus` parameter.<br />
+  <sub>[#162928](https://github.com/flutter/flutter/pull/162928) opened on on February 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162928) 174 additions and 0 deletions in 7 files</sub><br />
 
