@@ -138,5 +138,8 @@
   <sub>[#162932](https://github.com/flutter/flutter/pull/162932) opened on on February 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162932) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [windows] Implement merged UI and platform thread<br />
-  <sub>[#162935](https://github.com/flutter/flutter/pull/162935) opened on on February 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162935) 160 additions and 64 deletions in 18 files</sub><br />
+  <sub>[#162935](https://github.com/flutter/flutter/pull/162935) opened on on February 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162935) 187 additions and 64 deletions in 23 files</sub><br />
+
+* **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add focus check to onTapUpOutside<br />
+  <sub>[#162939](https://github.com/flutter/flutter/pull/162939) opened on on February 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162939) 75 additions and 1 deletion in 2 files</sub><br />
 
