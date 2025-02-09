@@ -209,6 +209,14 @@
   <sub>[#162779](https://github.com/flutter/flutter/pull/162779) merged on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162779) over 4 hours, 13 additions and 6 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Start removing unsound null safety from the web SDK tools.<br />
+  <sub>[#162850](https://github.com/flutter/flutter/pull/162850) merged on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162850) over 20 hours, 48 additions and 184 deletions in 7 files</sub><br />
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add button flag to NavigationDestination<br />
+  <sub>[#161568](https://github.com/flutter/flutter/pull/161568) merged on February 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161568) over 2 weeks, 36 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; Roll gn to c97a86a72105f3328a540f5a5ab17d11989ab7dd<br />
   <sub>[#161012](https://github.com/flutter/flutter/pull/161012) merged on February 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161012) over 1 month, 7 additions and 8 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
@@ -217,10 +225,6 @@
   <sub>[#162537](https://github.com/flutter/flutter/pull/162537) merged on February 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162537) over 3 days, 82 additions and 111 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add button flag to NavigationDestination<br />
-  <sub>[#161568](https://github.com/flutter/flutter/pull/161568) merged on February 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/161568) over 2 weeks, 36 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
-
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Move frame_reference.dart to the html/ folder<br />
   <sub>[#162608](https://github.com/flutter/flutter/pull/162608) merged on February 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162608) over 4 days, 6 additions and 90 deletions in 7 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
@@ -228,10 +232,6 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update `year2023` flag deprecation message<br />
   <sub>[#162607](https://github.com/flutter/flutter/pull/162607) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162607) over 1 day, 22 additions and 11 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Make PVC1 and PVC2 share a platform view registry.<br />
-  <sub>[#162857](https://github.com/flutter/flutter/pull/162857) merged on February 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162857) over 20 hours, 29 additions and 13 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; chore(canvaskit): remove SurfaceFrame from Surface<br />
   <sub>[#162825](https://github.com/flutter/flutter/pull/162825) merged on February 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162825) over 4 hours, 74 additions and 80 deletions in 2 files</sub><br />
@@ -269,29 +269,29 @@
   <sub>[#162673](https://github.com/flutter/flutter/pull/162673) merged on February 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162673) over 5 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Lower minimum java file count to 1.<br />
-  <sub>[#162915](https://github.com/flutter/flutter/pull/162915) merged on February 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162915) over 3 minutes, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Make PVC1 and PVC2 share a platform view registry.<br />
+  <sub>[#162857](https://github.com/flutter/flutter/pull/162857) merged on February 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162857) over 20 hours, 29 additions and 13 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; No, but really increase the timeout to 60 minutes<br />
   <sub>[#162680](https://github.com/flutter/flutter/pull/162680) merged on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162680) over 5 minutes, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Christopher Fujino](https://github.com/christopherfujino)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Make sure to opt hcpp tests into using hcpp<br />
-  <sub>[#162906](https://github.com/flutter/flutter/pull/162906) merged on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162906) over 1 hour, 4 additions and 4 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Lower minimum java file count to 1.<br />
+  <sub>[#162915](https://github.com/flutter/flutter/pull/162915) merged on February 8, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162915) over 3 minutes, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Start removing unsound null safety from the web SDK tools.<br />
-  <sub>[#162850](https://github.com/flutter/flutter/pull/162850) merged on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162850) over 20 hours, 48 additions and 184 deletions in 7 files</sub><br />
-  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Ben Konyi](https://github.com/bkonyi)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp gestures.<br />
+  <sub>[#162859](https://github.com/flutter/flutter/pull/162859) merged on February 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162859) over 16 hours, 5 additions and 21 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Added opacity note to `withValues` docstring<br />
   <sub>[#162612](https://github.com/flutter/flutter/pull/162612) merged on February 4, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162612) over 1 day, 7 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add team-ios label to relevant PRs<br />
-  <sub>[#162491](https://github.com/flutter/flutter/pull/162491) merged on February 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162491) over 1 week, 11 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; Make sure to opt hcpp tests into using hcpp<br />
+  <sub>[#162906](https://github.com/flutter/flutter/pull/162906) merged on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162906) over 1 hour, 4 additions and 4 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Increased the glyph atlas resolution 2x<br />
   <sub>[#162555](https://github.com/flutter/flutter/pull/162555) merged on February 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162555) over 2 days, 62 additions and 3 deletions in 4 files</sub><br />
@@ -309,13 +309,13 @@
   <sub>[#162628](https://github.com/flutter/flutter/pull/162628) merged on February 4, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/162628) over 5 hours, 119 additions and 23 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp gestures.<br />
-  <sub>[#162859](https://github.com/flutter/flutter/pull/162859) merged on February 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162859) over 16 hours, 5 additions and 21 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Add missing API level check for hcpp<br />
   <sub>[#162901](https://github.com/flutter/flutter/pull/162901) merged on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162901) over 1 hour, 6 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Add team-ios label to relevant PRs<br />
+  <sub>[#162491](https://github.com/flutter/flutter/pull/162491) merged on February 7, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162491) over 1 week, 11 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use recompile-restart instruction when hot restarting on the web<br />
   <sub>[#162616](https://github.com/flutter/flutter/pull/162616) merged on February 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162616) over 1 day, 107 additions and 39 deletions in 11 files</sub><br />
