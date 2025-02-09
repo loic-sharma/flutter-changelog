@@ -143,3 +143,6 @@
 * **[YoheiFF](https://github.com/YoheiFF)** &mdash; Flutter<br />
   <sub>[#162952](https://github.com/flutter/flutter/pull/162952) opened on on February 9, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/162952) 4729 additions and 752 deletions in 110 files</sub><br />
 
+* **[pathconnected](https://github.com/pathconnected)** &mdash; SliverResizingHeader maxScrollObstructionExtent<br />
+  <sub>[#162955](https://github.com/flutter/flutter/pull/162955) opened on on February 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162955) 54 additions and 1 deletion in 2 files</sub><br />
+
