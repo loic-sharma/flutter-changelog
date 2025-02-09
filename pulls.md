@@ -141,5 +141,5 @@
   <sub>[#162939](https://github.com/flutter/flutter/pull/162939) opened on on February 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162939) 75 additions and 1 deletion in 2 files</sub><br />
 
 * **[YoheiFF](https://github.com/YoheiFF)** &mdash; Flutter<br />
-  <sub>[#162952](https://github.com/flutter/flutter/pull/162952) opened on on February 9, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/162952) 4729 additions and 752 deletions in 110 files</sub><br />
+  <sub>[#162952](https://github.com/flutter/flutter/pull/162952) opened on on February 9, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/162952) 4729 additions and 752 deletions in 110 files</sub><br />
 
