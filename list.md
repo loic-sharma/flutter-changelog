@@ -47,6 +47,10 @@
   <sub>[#161285](https://github.com/flutter/flutter/pull/161285) merged on February 7, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/161285) over 1 month, 696 additions and 130 deletions in 9 files</sub>
   <sub>Reviewed by: [Greg Spencer](https://github.com/gspencergoog)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree monorepo and formatted version
+  <sub>[#161195](https://github.com/flutter/flutter/pull/161195) merged on February 6, 2025 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/161195) over 1 month, 1391 additions and 944 deletions in 10 files</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
 * **[Mitchell Goodwin](https://github.com/MitchellGoodwin)** &mdash; Adjust padding for Cupertino sheet content
   <sub>[#162481](https://github.com/flutter/flutter/pull/162481) merged on February 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162481) over 4 days, 117 additions and 8 deletions in 2 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub>
@@ -59,10 +63,6 @@
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(CupertinoButton): Add minWidth and minHeight to replace minSize.
   <sub>[#161295](https://github.com/flutter/flutter/pull/161295) merged on February 3, 2025 &mdash; **Small:** [58 comments](https://github.com/flutter/flutter/pull/161295) over 3 weeks, 79 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Nate Wilson](https://github.com/nate-thegrate), [Victor Sanni](https://github.com/victorsanni)</sub>
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Introduce caching mechanism during compile semantics tree monorepo and formatted version
-  <sub>[#161195](https://github.com/flutter/flutter/pull/161195) merged on February 6, 2025 &mdash; **Extra large:** [70 comments](https://github.com/flutter/flutter/pull/161195) over 1 month, 1391 additions and 944 deletions in 10 files</sub>
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Make CupertinoSheetRoute usable with Cupertino(Sliver)NavigationBar
   <sub>[#162181](https://github.com/flutter/flutter/pull/162181) merged on February 5, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/162181) over 1 week, 111 additions and 6 deletions in 3 files</sub>
