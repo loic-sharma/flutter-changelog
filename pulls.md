@@ -90,7 +90,7 @@
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Generate a correct `.flutter-plugin-dependencies` file for iOS/macOS projects<br />
-  <sub>[#162834](https://github.com/flutter/flutter/pull/162834) opened on on February 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162834) 40 additions and 4 deletions in 5 files</sub><br />
+  <sub>[#162834](https://github.com/flutter/flutter/pull/162834) opened on on February 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162834) 50 additions and 4 deletions in 7 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the flutter tool and test harness<br />
   <sub>[#162836](https://github.com/flutter/flutter/pull/162836) opened on on February 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162836) 39 additions and 696 deletions in 17 files</sub><br />
@@ -139,4 +139,7 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Include device lab version for how to run test<br />
   <sub>[#163010](https://github.com/flutter/flutter/pull/163010) opened on on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163010) 2 additions and 0 deletions in 1 file</sub><br />
+
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds hasSelectedState parameter to matchesSemantics for migration<br />
+  <sub>[#163014](https://github.com/flutter/flutter/pull/163014) opened on on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163014) 1 addition and 0 deletions in 1 file</sub><br />
 
