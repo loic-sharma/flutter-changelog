@@ -1045,7 +1045,11 @@
 
 ### February 8, 2025 to February 14, 2025
 
-3 commits.
+4 commits.
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated the "why" for the withOpacity deprecation.
+  <sub>[#11700](https://github.com/flutter/website/pull/11700) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11700) over 3 hours, 29 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant use material3
   <sub>[#11693](https://github.com/flutter/website/pull/11693) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11693) over 2 days, 2 additions and 13 deletions in 9 files</sub>
