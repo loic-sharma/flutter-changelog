@@ -116,9 +116,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement merged UI and platform thread<br />
   <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162883) 774 additions and 898 deletions in 42 files</sub><br />
 
-* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
-  <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162889) 17 additions and 24 deletions in 6 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Remove overlay when platform views are removed from screen.<br />
   <sub>[#162908](https://github.com/flutter/flutter/pull/162908) opened on on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162908) 162 additions and 13 deletions in 11 files</sub><br />
 
@@ -137,6 +134,6 @@
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix M3 theme default decorationColor<br />
   <sub>[#162982](https://github.com/flutter/flutter/pull/162982) opened on on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162982) 25 additions and 63 deletions in 5 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update engine.version for 3.29.0 release<br />
-  <sub>[#163003](https://github.com/flutter/flutter/pull/163003) opened on on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163003) 1 addition and 1 deletion in 1 file</sub><br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add runtime flag to determine if HCPP is supported.<br />
+  <sub>[#163004](https://github.com/flutter/flutter/pull/163004) opened on on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163004) 84 additions and 2 deletions in 11 files</sub><br />
 

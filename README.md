@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-4 commits.
+5 commits.
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/160243) over 1 month, 13 additions and 2 deletions in 1 file</sub><br />
@@ -13,6 +13,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove SkSL bundling and dump skp on compilation.<br />
   <sub>[#162849](https://github.com/flutter/flutter/pull/162849) merged on February 10, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/162849) over 3 days, 22 additions and 918 deletions in 55 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
+  <sub>[#162889](https://github.com/flutter/flutter/pull/162889) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162889) over 2 days, 17 additions and 24 deletions in 6 files</sub><br />
+  <sub>Reviewed by: [sigmundch](https://github.com/sigmundch), [Nicholas Shahan](https://github.com/nshahan), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Drop link to engine.version which is no longer checked in.<br />
   <sub>[#162497](https://github.com/flutter/flutter/pull/162497) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162497) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
