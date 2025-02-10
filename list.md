@@ -987,9 +987,18 @@
 
 ## flutter/website
 
+### February 8, 2025 to February 14, 2025
+
+1 commits.
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update "Obfuscate your app" topic to be more platform agnostic.
+  <sub>[#11690](https://github.com/flutter/website/pull/11690) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11690) over 2 days, 83 additions and 68 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### February 1, 2025 to February 7, 2025
 
-24 commits.
+<details>
+<summary>24 commits...</summary>
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; style added in searchbar
   <sub>[#11683](https://github.com/flutter/website/pull/11683) merged on February 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11683) over 9 hours, 3 additions and 1 deletion in 1 file</sub>
@@ -1089,6 +1098,8 @@
 * **[uchronia](https://github.com/uchronia)** &mdash; Grammatical polish for grammatical number and subject-verb agreement issues.
   <sub>[#11651](https://github.com/flutter/website/pull/11651) merged on February 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11651) over 3 days, 10 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+</details>
 
 ### January 25, 2025 to January 31, 2025
 
