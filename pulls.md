@@ -65,9 +65,6 @@
 * **[Andrew Kolos](https://github.com/andrewkolos)** &mdash; Delete some verbose vm service logging<br />
   <sub>[#162709](https://github.com/flutter/flutter/pull/162709) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162709) 0 additions and 16 deletions in 1 file</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Backfill subpixel unit tests<br />
-  <sub>[#162710](https://github.com/flutter/flutter/pull/162710) opened on on February 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162710) 177 additions and 13 deletions in 1 file</sub><br />
-
 * **[ash-google](https://github.com/ash-google)** &mdash; Add SDK version validation to the dependency checker.<br />
   <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162713) 103 additions and 48 deletions in 1 file</sub><br />
 
@@ -130,9 +127,6 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds hasSelectedState parameter to matchesSemantics for migration<br />
   <sub>[#163014](https://github.com/flutter/flutter/pull/163014) opened on on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163014) 1 addition and 0 deletions in 1 file</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #162644: Remove `--verbose` from devicelab task executions.<br />
-  <sub>[#163017](https://github.com/flutter/flutter/pull/163017) opened on on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163017) 20 additions and 76 deletions in 13 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add HCPP platform views benchmark and integration test.<br />
   <sub>[#163018](https://github.com/flutter/flutter/pull/163018) opened on on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163018) 251 additions and 2 deletions in 7 files</sub><br />

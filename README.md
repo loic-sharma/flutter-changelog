@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-12 commits.
+16 commits.
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/160243) over 1 month, 13 additions and 2 deletions in 1 file</sub><br />
@@ -26,6 +26,14 @@
   <sub>[#162774](https://github.com/flutter/flutter/pull/162774) merged on February 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162774) over 4 days, 40 additions and 27 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #162644: Remove `--verbose` from devicelab task executions.<br />
+  <sub>[#163017](https://github.com/flutter/flutter/pull/163017) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163017) over 49 minutes, 20 additions and 76 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] robustify safaridriver launch sequence<br />
+  <sub>[#162919](https://github.com/flutter/flutter/pull/162919) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162919) over 2 days, 168 additions and 105 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
+
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix doc reference typos<br />
   <sub>[#162893](https://github.com/flutter/flutter/pull/162893) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162893) over 3 days, 6 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
@@ -37,6 +45,14 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides<br />
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) over 1 week, 91 additions and 169 deletions in 23 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Include device lab version for how to run test<br />
+  <sub>[#163010](https://github.com/flutter/flutter/pull/163010) merged on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163010) over 2 hours, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub><br />
+
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Change the default optimization level to `-O2` for wasm in release mode.<br />
+  <sub>[#162917](https://github.com/flutter/flutter/pull/162917) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162917) over 2 days, 33 additions and 17 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
   <sub>[#162889](https://github.com/flutter/flutter/pull/162889) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162889) over 2 days, 17 additions and 24 deletions in 6 files</sub><br />
