@@ -26,9 +26,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Test generated localizations<br />
   <sub>[#160479](https://github.com/flutter/flutter/pull/160479) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160479) 19 additions and 1 deletion in 2 files</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [iOS][Engine] Fix view removal process for AutofillContextAction.cancel<br />
-  <sub>[#160653](https://github.com/flutter/flutter/pull/160653) opened on on December 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160653) 26 additions and 2 deletions in 2 files</sub><br />
-
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
 
@@ -52,9 +49,6 @@
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162467) 185 additions and 45 deletions in 13 files</sub><br />
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides<br />
-  <sub>[#162553](https://github.com/flutter/flutter/pull/162553) opened on on February 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) 91 additions and 169 deletions in 23 files</sub><br />
 
 * **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; Add localization for `Back` and `Cancel` buttons in CupertinoNavigationBar<br />
   <sub>[#162581](https://github.com/flutter/flutter/pull/162581) opened on on February 2, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162581) 757 additions and 114 deletions in 85 files</sub><br />
@@ -90,7 +84,7 @@
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Generate a correct `.flutter-plugin-dependencies` file for iOS/macOS projects<br />
-  <sub>[#162834](https://github.com/flutter/flutter/pull/162834) opened on on February 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162834) 50 additions and 4 deletions in 7 files</sub><br />
+  <sub>[#162834](https://github.com/flutter/flutter/pull/162834) opened on on February 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162834) 50 additions and 4 deletions in 7 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the flutter tool and test harness<br />
   <sub>[#162836](https://github.com/flutter/flutter/pull/162836) opened on on February 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162836) 39 additions and 696 deletions in 17 files</sub><br />

@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-6 commits.
+7 commits.
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/160243) over 1 month, 13 additions and 2 deletions in 1 file</sub>
@@ -17,6 +17,10 @@
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Improved error message when PageController is not attached to PageView
   <sub>[#162422](https://github.com/flutter/flutter/pull/162422) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162422) over 1 week, 171 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides
+  <sub>[#162553](https://github.com/flutter/flutter/pull/162553) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) over 1 week, 91 additions and 169 deletions in 23 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools
   <sub>[#162889](https://github.com/flutter/flutter/pull/162889) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162889) over 2 days, 17 additions and 24 deletions in 6 files</sub>
