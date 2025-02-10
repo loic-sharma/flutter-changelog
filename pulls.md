@@ -63,7 +63,7 @@
   <sub>[#162709](https://github.com/flutter/flutter/pull/162709) opened on on February 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162709) 0 additions and 16 deletions in 1 file</sub><br />
 
 * **[ash-google](https://github.com/ash-google)** &mdash; Add SDK version validation to the dependency checker.<br />
-  <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162713) 80 additions and 27 deletions in 1 file</sub><br />
+  <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162713) 103 additions and 48 deletions in 1 file</sub><br />
 
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162731) 99 additions and 3 deletions in 2 files</sub><br />
