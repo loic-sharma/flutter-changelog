@@ -108,7 +108,7 @@
   <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162883) 774 additions and 898 deletions in 42 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Remove overlay when platform views are removed from screen.<br />
-  <sub>[#162908](https://github.com/flutter/flutter/pull/162908) opened on on February 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162908) 203 additions and 32 deletions in 15 files</sub><br />
+  <sub>[#162908](https://github.com/flutter/flutter/pull/162908) opened on on February 7, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/162908) 203 additions and 32 deletions in 15 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; showDialogs adds a `requestFocus` parameter.<br />
   <sub>[#162928](https://github.com/flutter/flutter/pull/162928) opened on on February 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162928) 226 additions and 0 deletions in 9 files</sub><br />
