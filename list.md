@@ -1029,7 +1029,11 @@
 
 ### February 8, 2025 to February 14, 2025
 
-2 commits.
+3 commits.
+
+* **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant use material3
+  <sub>[#11693](https://github.com/flutter/website/pull/11693) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11693) over 2 days, 2 additions and 13 deletions in 9 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove reference to Visual Samples Index
   <sub>[#11699](https://github.com/flutter/website/pull/11699) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11699) over 4 hours, 19 additions and 15 deletions in 11 files</sub>
