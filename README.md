@@ -817,7 +817,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-3 commits.
+4 commits.
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from CameraSettingsTests, CameraMethodChannelTests and CameraSessionPresetsTests<br />
   <sub>[#8592](https://github.com/flutter/packages/pull/8592) merged on February 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/8592) over 1 day, 480 additions and 335 deletions in 29 files</sub><br />
@@ -826,6 +826,10 @@
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from FLTCamPhotoCaptureTests, FLTSavePhotoDelegateTests and StreamingTests<br />
   <sub>[#8590](https://github.com/flutter/packages/pull/8590) merged on February 10, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/8590) over 1 day, 329 additions and 97 deletions in 19 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[oussama berhili](https://github.com/berhili098)** &mdash; [shared_preferences]Fix : SetState returning future<br />
+  <sub>[#8398](https://github.com/flutter/packages/pull/8398) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8398) over 1 month, 8 additions and 3 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add deprecation notices to READMEs<br />
   <sub>[#8598](https://github.com/flutter/packages/pull/8598) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8598) over 1 hour, 59 additions and 9 deletions in 18 files</sub><br />
