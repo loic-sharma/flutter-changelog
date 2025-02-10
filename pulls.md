@@ -27,7 +27,7 @@
   <sub>[#160479](https://github.com/flutter/flutter/pull/160479) opened on on December 17, 2024 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/160479) 19 additions and 1 deletion in 2 files</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [iOS][Engine] Fix view removal process for AutofillContextAction.cancel<br />
-  <sub>[#160653](https://github.com/flutter/flutter/pull/160653) opened on on December 20, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160653) 26 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#160653](https://github.com/flutter/flutter/pull/160653) opened on on December 20, 2024 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/160653) 26 additions and 2 deletions in 2 files</sub><br />
 
 * **[thomas](https://github.com/thomasrahimi)** &mdash; Introduced conditions, which allow to separate flutter and dart-sdk for packaging in Linux distributions<br />
   <sub>[#160878](https://github.com/flutter/flutter/pull/160878) opened on on December 26, 2024 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/160878) 20 additions and 4 deletions in 1 file</sub><br />
@@ -136,4 +136,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add runtime flag to determine if HCPP is supported.<br />
   <sub>[#163004](https://github.com/flutter/flutter/pull/163004) opened on on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163004) 84 additions and 2 deletions in 11 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Include device lab version for how to run test<br />
+  <sub>[#163010](https://github.com/flutter/flutter/pull/163010) opened on on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163010) 2 additions and 0 deletions in 1 file</sub><br />
 
