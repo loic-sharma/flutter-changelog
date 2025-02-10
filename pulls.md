@@ -81,7 +81,7 @@
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Generate a correct `.flutter-plugin-dependencies` file for iOS/macOS projects<br />
-  <sub>[#162834](https://github.com/flutter/flutter/pull/162834) opened on on February 6, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162834) 50 additions and 4 deletions in 7 files</sub><br />
+  <sub>[#162834](https://github.com/flutter/flutter/pull/162834) opened on on February 6, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162834) 50 additions and 4 deletions in 7 files</sub><br />
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the flutter tool and test harness<br />
   <sub>[#162836](https://github.com/flutter/flutter/pull/162836) opened on on February 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162836) 39 additions and 696 deletions in 17 files</sub><br />
@@ -108,7 +108,7 @@
   <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162883) 774 additions and 898 deletions in 42 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Remove overlay when platform views are removed from screen.<br />
-  <sub>[#162908](https://github.com/flutter/flutter/pull/162908) opened on on February 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162908) 162 additions and 13 deletions in 11 files</sub><br />
+  <sub>[#162908](https://github.com/flutter/flutter/pull/162908) opened on on February 7, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162908) 203 additions and 32 deletions in 15 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; showDialogs adds a `requestFocus` parameter.<br />
   <sub>[#162928](https://github.com/flutter/flutter/pull/162928) opened on on February 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162928) 226 additions and 0 deletions in 9 files</sub><br />
