@@ -807,9 +807,18 @@
 
 ## flutter/packages
 
+### February 8, 2025 to February 14, 2025
+
+1 commits.
+
+* **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from FLTCamPhotoCaptureTests, FLTSavePhotoDelegateTests and StreamingTests<br />
+  <sub>[#8590](https://github.com/flutter/packages/pull/8590) merged on February 10, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/8590) over 1 day, 329 additions and 97 deletions in 19 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
 ### February 1, 2025 to February 7, 2025
 
-12 commits.
+<details>
+<summary>12 commits...</summary>
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_avfoundation] iOS platform view support<br />
   <sub>[#8237](https://github.com/flutter/packages/pull/8237) merged on February 7, 2025 &mdash; **Extra large:** [127 comments](https://github.com/flutter/packages/pull/8237) over 2 months, 1569 additions and 549 deletions in 32 files</sub><br />
@@ -858,6 +867,8 @@
 * **[Tarrin Neal](https://github.com/tarrinneal)** &mdash; [pigeon] reorg generator files<br />
   <sub>[#8532](https://github.com/flutter/packages/pull/8532) merged on February 3, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8532) over 4 days, 106 additions and 101 deletions in 38 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+</details>
 
 ### January 25, 2025 to January 31, 2025
 
