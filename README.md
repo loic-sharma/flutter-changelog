@@ -1144,7 +1144,7 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update integration testing docs for Android and iOS.<br />
-  <sub>[#11680](https://github.com/flutter/website/pull/11680) merged on February 6, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11680) over 1 hour, 124 additions and 79 deletions in 1 file</sub><br />
+  <sub>[#11680](https://github.com/flutter/website/pull/11680) merged on February 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11680) over 1 hour, 124 additions and 79 deletions in 1 file</sub><br />
   <sub>Reviewed by: [deleSerna](https://github.com/deleSerna), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Ishaq Hassan](https://github.com/ishaquehassan)** &mdash; Added new course to courses.md<br />
