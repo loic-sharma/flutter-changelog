@@ -110,9 +110,6 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Update generated scaffold project to include early preview rendering<br />
   <sub>[#162847](https://github.com/flutter/flutter/pull/162847) opened on on February 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162847) 525 additions and 37 deletions in 10 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove SkSL bundling and dump skp on compilation.<br />
-  <sub>[#162849](https://github.com/flutter/flutter/pull/162849) opened on on February 7, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/162849) 22 additions and 918 deletions in 55 files</sub><br />
-
 * **[q1](https://github.com/ahyangnb)** &mdash; [new] Fix DropdownButton extra padding when alignDropdown: true<br />
   <sub>[#162860](https://github.com/flutter/flutter/pull/162860) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162860) 21 additions and 46 deletions in 2 files</sub><br />
 
