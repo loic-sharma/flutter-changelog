@@ -134,3 +134,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds hasSelectedState parameter to matchesSemantics for migration<br />
   <sub>[#163014](https://github.com/flutter/flutter/pull/163014) opened on on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163014) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #162644: Remove `--verbose` from devicelab task executions.<br />
+  <sub>[#163017](https://github.com/flutter/flutter/pull/163017) opened on on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163017) 20 additions and 76 deletions in 13 files</sub><br />
+
