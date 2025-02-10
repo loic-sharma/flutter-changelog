@@ -123,7 +123,7 @@
   <sub>[#162862](https://github.com/flutter/flutter/pull/162862) opened on on February 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162862) 157 additions and 157 deletions in 63 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [macOS] Implement merged UI and platform thread<br />
-  <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162883) 773 additions and 898 deletions in 42 files</sub><br />
+  <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162883) 774 additions and 898 deletions in 42 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
   <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162889) 17 additions and 24 deletions in 6 files</sub><br />
