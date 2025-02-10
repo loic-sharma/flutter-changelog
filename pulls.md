@@ -114,7 +114,7 @@
   <sub>[#162849](https://github.com/flutter/flutter/pull/162849) opened on on February 7, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/162849) 22 additions and 918 deletions in 55 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move sliders component to separate file<br />
-  <sub>[#162858](https://github.com/flutter/flutter/pull/162858) opened on on February 7, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/162858) 3312 additions and 3299 deletions in 3 files</sub><br />
+  <sub>[#162858](https://github.com/flutter/flutter/pull/162858) opened on on February 7, 2025 &mdash; **Extra large:** [9 comments](https://github.com/flutter/flutter/pull/162858) 3312 additions and 3299 deletions in 3 files</sub><br />
 
 * **[q1](https://github.com/ahyangnb)** &mdash; [new] Fix DropdownButton extra padding when alignDropdown: true<br />
   <sub>[#162860](https://github.com/flutter/flutter/pull/162860) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162860) 21 additions and 46 deletions in 2 files</sub><br />
@@ -142,4 +142,7 @@
 
 * **[pathconnected](https://github.com/pathconnected)** &mdash; SliverResizingHeader maxScrollObstructionExtent<br />
   <sub>[#162955](https://github.com/flutter/flutter/pull/162955) opened on on February 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162955) 54 additions and 1 deletion in 2 files</sub><br />
+
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix M3 theme default decorationColor<br />
+  <sub>[#162982](https://github.com/flutter/flutter/pull/162982) opened on on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162982) 25 additions and 63 deletions in 5 files</sub><br />
 
