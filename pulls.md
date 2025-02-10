@@ -126,7 +126,7 @@
   <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162883) 621 additions and 889 deletions in 33 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
-  <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162889) 14 additions and 12 deletions in 3 files</sub><br />
+  <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162889) 17 additions and 19 deletions in 6 files</sub><br />
 
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Change the default optimization level to `-O2` for wasm in release mode.<br />
   <sub>[#162917](https://github.com/flutter/flutter/pull/162917) opened on on February 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162917) 31 additions and 17 deletions in 2 files</sub><br />
