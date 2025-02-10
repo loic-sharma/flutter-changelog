@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-16 commits.
+17 commits.
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/160243) over 1 month, 13 additions and 2 deletions in 1 file</sub><br />
@@ -21,6 +21,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] rrect_blur: scale max radius clamp by transform<br />
   <sub>[#161238](https://github.com/flutter/flutter/pull/161238) merged on February 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/161238) over 1 month, 43 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [iOS][Engine] Fix view removal process for AutofillContextAction.cancel<br />
+  <sub>[#160653](https://github.com/flutter/flutter/pull/160653) merged on February 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160653) over 1 month, 26 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Return more eagerly when toggling service extensions<br />
   <sub>[#162774](https://github.com/flutter/flutter/pull/162774) merged on February 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162774) over 4 days, 40 additions and 27 deletions in 2 files</sub><br />
@@ -1045,18 +1049,30 @@
 
 ### February 8, 2025 to February 14, 2025
 
-4 commits.
+7 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated the "why" for the withOpacity deprecation.<br />
   <sub>[#11700](https://github.com/flutter/website/pull/11700) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11700) over 3 hours, 29 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update performance profiling docs.<br />
+  <sub>[#11688](https://github.com/flutter/website/pull/11688) merged on February 10, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11688) over 4 days, 87 additions and 128 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 * **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant use material3<br />
   <sub>[#11693](https://github.com/flutter/website/pull/11693) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11693) over 2 days, 2 additions and 13 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix layout of side-by-side code and content on mobile<br />
+  <sub>[#11692](https://github.com/flutter/website/pull/11692) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11692) over 2 days, 7 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove reference to Visual Samples Index<br />
   <sub>[#11699](https://github.com/flutter/website/pull/11699) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11699) over 4 hours, 19 additions and 15 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Make background parsing a little more platform agnostic.<br />
+  <sub>[#11689](https://github.com/flutter/website/pull/11689) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11689) over 4 days, 1 addition and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update "Obfuscate your app" topic to be more platform agnostic.<br />
