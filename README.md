@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-8 commits.
+9 commits.
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/160243) over 1 month, 13 additions and 2 deletions in 1 file</sub><br />
@@ -21,6 +21,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] rrect_blur: scale max radius clamp by transform<br />
   <sub>[#161238](https://github.com/flutter/flutter/pull/161238) merged on February 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/161238) over 1 month, 43 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; FYI matanlurey (does not require review, but probably should) on dev/test infra.<br />
+  <sub>[#162642](https://github.com/flutter/flutter/pull/162642) merged on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162642) over 6 days, 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides<br />
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) over 1 week, 91 additions and 169 deletions in 23 files</sub><br />
@@ -833,7 +837,11 @@
 
 ### February 8, 2025 to February 14, 2025
 
-4 commits.
+5 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Add errors for ProxyAPI callback methods and null instances when reading in a ProxyApiBaseCodec<br />
+  <sub>[#8567](https://github.com/flutter/packages/pull/8567) merged on February 10, 2025 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/8567) over 6 days, 646 additions and 1067 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from CameraSettingsTests, CameraMethodChannelTests and CameraSessionPresetsTests<br />
   <sub>[#8592](https://github.com/flutter/packages/pull/8592) merged on February 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/8592) over 1 day, 480 additions and 335 deletions in 29 files</sub><br />
