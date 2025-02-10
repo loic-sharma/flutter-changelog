@@ -114,7 +114,7 @@
   <sub>[#162849](https://github.com/flutter/flutter/pull/162849) opened on on February 7, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/162849) 22 additions and 918 deletions in 55 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Refactor: Move sliders component to separate file<br />
-  <sub>[#162858](https://github.com/flutter/flutter/pull/162858) opened on on February 7, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/162858) 3312 additions and 3299 deletions in 3 files</sub><br />
+  <sub>[#162858](https://github.com/flutter/flutter/pull/162858) opened on on February 7, 2025 &mdash; **Extra large:** [12 comments](https://github.com/flutter/flutter/pull/162858) 3753 additions and 3299 deletions in 9 files</sub><br />
 
 * **[q1](https://github.com/ahyangnb)** &mdash; [new] Fix DropdownButton extra padding when alignDropdown: true<br />
   <sub>[#162860](https://github.com/flutter/flutter/pull/162860) opened on on February 7, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162860) 21 additions and 46 deletions in 2 files</sub><br />
@@ -127,9 +127,6 @@
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
   <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162889) 17 additions and 24 deletions in 6 files</sub><br />
-
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Change the default optimization level to `-O2` for wasm in release mode.<br />
-  <sub>[#162917](https://github.com/flutter/flutter/pull/162917) opened on on February 8, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162917) 31 additions and 17 deletions in 2 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; showDialogs adds a `requestFocus` parameter.<br />
   <sub>[#162928](https://github.com/flutter/flutter/pull/162928) opened on on February 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162928) 226 additions and 0 deletions in 9 files</sub><br />
