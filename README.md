@@ -4,7 +4,11 @@
 
 ### February 8, 2025 to February 14, 2025
 
-2 commits.
+3 commits.
+
+* **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
+  <sub>[#160243](https://github.com/flutter/flutter/pull/160243) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/160243) over 1 month, 13 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Drop link to engine.version which is no longer checked in.<br />
   <sub>[#162497](https://github.com/flutter/flutter/pull/162497) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162497) over 1 week, 0 additions and 1 deletion in 1 file</sub><br />
@@ -809,11 +813,19 @@
 
 ### February 8, 2025 to February 14, 2025
 
-1 commits.
+3 commits.
+
+* **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from CameraSettingsTests, CameraMethodChannelTests and CameraSessionPresetsTests<br />
+  <sub>[#8592](https://github.com/flutter/packages/pull/8592) merged on February 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/8592) over 1 day, 480 additions and 335 deletions in 29 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from FLTCamPhotoCaptureTests, FLTSavePhotoDelegateTests and StreamingTests<br />
   <sub>[#8590](https://github.com/flutter/packages/pull/8590) merged on February 10, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/8590) over 1 day, 329 additions and 97 deletions in 19 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add deprecation notices to READMEs<br />
+  <sub>[#8598](https://github.com/flutter/packages/pull/8598) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8598) over 1 hour, 59 additions and 9 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Ander Dobo](https://github.com/anderdobo)</sub><br />
 
 ### February 1, 2025 to February 7, 2025
 

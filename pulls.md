@@ -117,7 +117,7 @@
   <sub>[#162883](https://github.com/flutter/flutter/pull/162883) opened on on February 7, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/162883) 774 additions and 898 deletions in 42 files</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Add experimental hot reload flag support to flutter tools<br />
-  <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162889) 17 additions and 24 deletions in 6 files</sub><br />
+  <sub>[#162889](https://github.com/flutter/flutter/pull/162889) opened on on February 7, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162889) 17 additions and 24 deletions in 6 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Remove overlay when platform views are removed from screen.<br />
   <sub>[#162908](https://github.com/flutter/flutter/pull/162908) opened on on February 7, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162908) 162 additions and 13 deletions in 11 files</sub><br />
