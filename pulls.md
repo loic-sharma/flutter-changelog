@@ -12,7 +12,7 @@
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/157515) 4409 additions and 2 deletions in 52 files</sub><br />
 
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
-  <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/158020) 31 additions and 19 deletions in 1 file</sub><br />
+  <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/158020) 31 additions and 19 deletions in 1 file</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update CHANGELOG.md for 3.27 release<br />
   <sub>[#160104](https://github.com/flutter/flutter/pull/160104) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160104) 6 additions and 0 deletions in 1 file</sub><br />
@@ -126,5 +126,5 @@
   <sub>[#163035](https://github.com/flutter/flutter/pull/163035) opened on on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163035) 140 additions and 1 deletion in 3 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds all semantics roles<br />
-  <sub>[#163075](https://github.com/flutter/flutter/pull/163075) opened on on February 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163075) 139 additions and 1 deletion in 5 files</sub><br />
+  <sub>[#163075](https://github.com/flutter/flutter/pull/163075) opened on on February 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163075) 139 additions and 1 deletion in 5 files</sub><br />
 
