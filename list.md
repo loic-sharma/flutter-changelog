@@ -4,7 +4,11 @@
 
 ### February 8, 2025 to February 14, 2025
 
-25 commits.
+26 commits.
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Implement merged platform and UI thread
+  <sub>[#162944](https://github.com/flutter/flutter/pull/162944) merged on February 11, 2025 &mdash; **Medium:** [18 comments](https://github.com/flutter/flutter/pull/162944) over 2 days, 310 additions and 20 deletions in 19 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Chinmay Garde](https://github.com/chinmaygarde), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/160243) over 1 month, 13 additions and 2 deletions in 1 file</sub>
