@@ -921,7 +921,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-5 commits.
+6 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Add errors for ProxyAPI callback methods and null instances when reading in a ProxyApiBaseCodec<br />
   <sub>[#8567](https://github.com/flutter/packages/pull/8567) merged on February 10, 2025 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/8567) over 6 days, 646 additions and 1067 deletions in 20 files</sub><br />
@@ -934,6 +934,10 @@
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from FLTCamPhotoCaptureTests, FLTSavePhotoDelegateTests and StreamingTests<br />
   <sub>[#8590](https://github.com/flutter/packages/pull/8590) merged on February 10, 2025 &mdash; **Medium:** [4 comments](https://github.com/flutter/packages/pull/8590) over 1 day, 329 additions and 97 deletions in 19 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[David Iglesias](https://github.com/ditman)** &mdash; [ci] Manually roll master, set -Xmx4G<br />
+  <sub>[#8586](https://github.com/flutter/packages/pull/8586) merged on February 11, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8586) over 3 days, 21 additions and 34 deletions in 21 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[oussama berhili](https://github.com/berhili098)** &mdash; [shared_preferences]Fix : SetState returning future<br />
   <sub>[#8398](https://github.com/flutter/packages/pull/8398) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8398) over 1 month, 8 additions and 3 deletions in 3 files</sub><br />
