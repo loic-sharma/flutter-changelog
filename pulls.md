@@ -14,9 +14,6 @@
 * **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
   <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/158020) 31 additions and 19 deletions in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update CHANGELOG.md for 3.27 release<br />
-  <sub>[#160104](https://github.com/flutter/flutter/pull/160104) opened on on December 11, 2024 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/160104) 6 additions and 0 deletions in 1 file</sub><br />
-
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
