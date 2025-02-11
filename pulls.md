@@ -122,3 +122,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds all semantics roles<br />
   <sub>[#163075](https://github.com/flutter/flutter/pull/163075) opened on on February 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163075) 139 additions and 1 deletion in 5 files</sub><br />
 
+* **[Siva](https://github.com/a-siva)** &mdash; Roll Dart to Version 3.8.0-89.0.dev<br />
+  <sub>[#163081](https://github.com/flutter/flutter/pull/163081) opened on on February 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163081) 2 additions and 2 deletions in 2 files</sub><br />
+
