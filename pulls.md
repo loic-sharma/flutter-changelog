@@ -35,9 +35,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
-* **[Gray Mackall](https://github.com/gmackall)** &mdash; [wip][remake] Restore old back handling for FlutterFragmentActivity<br />
-  <sub>[#161545](https://github.com/flutter/flutter/pull/161545) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161545) 24 additions and 0 deletions in 2 files</sub><br />
-
 * **[yim](https://github.com/yiiim)** &mdash; Set `dart.flutterSdkPath` in vscode's settings.json.<br />
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
