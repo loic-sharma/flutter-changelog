@@ -1093,7 +1093,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-14 commits.
+15 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow any attributes from markdown-attrs<br />
   <sub>[#11705](https://github.com/flutter/website/pull/11705) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11705) over 14 hours, 0 additions and 1 deletion in 1 file</sub><br />
@@ -1111,6 +1111,10 @@
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated the "why" for the withOpacity deprecation.<br />
   <sub>[#11700](https://github.com/flutter/website/pull/11700) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11700) over 3 hours, 29 additions and 6 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Further feedback for Flutter web<br />
+  <sub>[#11628](https://github.com/flutter/website/pull/11628) merged on February 11, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/website/pull/11628) over 2 weeks, 93 additions and 41 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Kevin Moore](https://github.com/kevmoo), [Yegor](https://github.com/yjbanov), [Amanda Fitch](https://github.com/antfitch)</sub><br />
 
 * **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Adding "Flutter for JetPack compose devs" to the sidenav<br />
   <sub>[#11704](https://github.com/flutter/website/pull/11704) merged on February 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11704) over 15 hours, 2 additions and 0 deletions in 1 file</sub><br />

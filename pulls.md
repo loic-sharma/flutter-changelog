@@ -125,6 +125,3 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp tapping, again, and add test.<br />
   <sub>[#163035](https://github.com/flutter/flutter/pull/163035) opened on on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163035) 140 additions and 1 deletion in 3 files</sub><br />
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [CP] all jittery glyph fixes<br />
-  <sub>[#163058](https://github.com/flutter/flutter/pull/163058) opened on on February 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163058) 824 additions and 236 deletions in 21 files</sub><br />
-
