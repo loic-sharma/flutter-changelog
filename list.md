@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-29 commits.
+30 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Implement merged platform and UI thread
   <sub>[#162944](https://github.com/flutter/flutter/pull/162944) merged on February 11, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/162944) over 2 days, 310 additions and 20 deletions in 19 files</sub>
@@ -89,6 +89,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) over 1 week, 91 additions and 169 deletions in 23 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Cleanup PreviewDetector code
+  <sub>[#163050](https://github.com/flutter/flutter/pull/163050) merged on February 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163050) over 1 hour, 31 additions and 13 deletions in 1 file</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update gen_keycodes output to new engine location.
   <sub>[#162479](https://github.com/flutter/flutter/pull/162479) merged on February 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162479) over 1 week, 1 addition and 15 deletions in 2 files</sub>

@@ -125,3 +125,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp tapping, again, and add test.<br />
   <sub>[#163035](https://github.com/flutter/flutter/pull/163035) opened on on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163035) 140 additions and 1 deletion in 3 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] mirror tile mode requires highp for Adreno.<br />
+  <sub>[#163066](https://github.com/flutter/flutter/pull/163066) opened on on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163066) 3 additions and 3 deletions in 1 file</sub><br />
+
