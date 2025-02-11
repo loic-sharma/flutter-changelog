@@ -1085,12 +1085,16 @@
 
 ### February 8, 2025 to February 14, 2025
 
-11 commits.
+12 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow any attributes from markdown-attrs<br />
   <sub>[#11705](https://github.com/flutter/website/pull/11705) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11705) over 14 hours, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
   <sub><details><summary>1 image...</summary>![Rename a Flutter flavor](/assets/images/docs/flavors/flavors-ios-app-names.png)</details></sub>
+
+* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Add breaking change page for completing Navigator behavior<br />
+  <sub>[#11684](https://github.com/flutter/website/pull/11684) merged on February 11, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/website/pull/11684) over 5 days, 72 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Alex Li](https://github.com/AlexV525), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant use material3<br />
   <sub>[#11693](https://github.com/flutter/website/pull/11693) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11693) over 2 days, 2 additions and 13 deletions in 9 files</sub><br />

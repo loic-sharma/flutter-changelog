@@ -96,7 +96,7 @@
   <sub>[#162841](https://github.com/flutter/flutter/pull/162841) opened on on February 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162841) 95 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Update generated scaffold project to include early preview rendering<br />
-  <sub>[#162847](https://github.com/flutter/flutter/pull/162847) opened on on February 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162847) 537 additions and 41 deletions in 12 files</sub><br />
+  <sub>[#162847](https://github.com/flutter/flutter/pull/162847) opened on on February 6, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/162847) 543 additions and 41 deletions in 12 files</sub><br />
 
 * **[prdalai](https://github.com/prdalai)** &mdash; Removed redundant useMaterial3: true where unnecessary<br />
   <sub>[#162862](https://github.com/flutter/flutter/pull/162862) opened on on February 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162862) 157 additions and 157 deletions in 63 files</sub><br />
