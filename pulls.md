@@ -42,7 +42,7 @@
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
-  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/161879) 186 additions and 15 deletions in 7 files</sub><br />
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/161879) 136 additions and 15 deletions in 6 files</sub><br />
 
 * **[Johnson ](https://github.com/johnson1940)** &mdash; added borderRadius for the divider<br />
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/162248) 29705 additions and 30889 deletions in 1006 files</sub><br />
