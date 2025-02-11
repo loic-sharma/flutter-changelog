@@ -36,7 +36,7 @@
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update conductor to support monorepos<br />
-  <sub>[#161704](https://github.com/flutter/flutter/pull/161704) opened on on January 16, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/161704) 454 additions and 1271 deletions in 13 files</sub><br />
+  <sub>[#161704](https://github.com/flutter/flutter/pull/161704) opened on on January 16, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/161704) 454 additions and 1271 deletions in 13 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Set `dart.flutterSdkPath` in vscode's settings.json.<br />
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
