@@ -128,6 +128,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add HCPP platform views benchmark and integration test.<br />
   <sub>[#163018](https://github.com/flutter/flutter/pull/163018) opened on on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163018) 251 additions and 2 deletions in 7 files</sub><br />
 
-* **[MaherSafadii](https://github.com/MaherSafadii)** &mdash; Change CupertinoSliverNavigationBar's stretch default value to true<br />
+* **[MaherSafadii](https://github.com/MaherSafadii)** &mdash; Change CupertinoSliverNavigationBar's stretch parameter's default value to true<br />
   <sub>[#163026](https://github.com/flutter/flutter/pull/163026) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163026) 4 additions and 4 deletions in 1 file</sub><br />
 
