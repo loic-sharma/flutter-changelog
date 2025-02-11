@@ -114,7 +114,7 @@
   <sub>[#162955](https://github.com/flutter/flutter/pull/162955) opened on on February 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162955) 54 additions and 1 deletion in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds hasSelectedState parameter to matchesSemantics for migration<br />
-  <sub>[#163014](https://github.com/flutter/flutter/pull/163014) opened on on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163014) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#163014](https://github.com/flutter/flutter/pull/163014) opened on on February 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163014) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[MaherSafadii](https://github.com/MaherSafadii)** &mdash; Change CupertinoSliverNavigationBar's stretch parameter's default value to true<br />
   <sub>[#163026](https://github.com/flutter/flutter/pull/163026) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163026) 4 additions and 4 deletions in 1 file</sub><br />
