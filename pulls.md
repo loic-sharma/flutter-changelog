@@ -129,5 +129,5 @@
   <sub>[#163035](https://github.com/flutter/flutter/pull/163035) opened on on February 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163035) 140 additions and 1 deletion in 3 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Cleanup PreviewDetector code<br />
-  <sub>[#163050](https://github.com/flutter/flutter/pull/163050) opened on on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163050) 31 additions and 13 deletions in 1 file</sub><br />
+  <sub>[#163050](https://github.com/flutter/flutter/pull/163050) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163050) 31 additions and 13 deletions in 1 file</sub><br />
 

@@ -1085,7 +1085,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-13 commits.
+14 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow any attributes from markdown-attrs<br />
   <sub>[#11705](https://github.com/flutter/website/pull/11705) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11705) over 14 hours, 0 additions and 1 deletion in 1 file</sub><br />
@@ -1118,6 +1118,10 @@
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove reference to Visual Samples Index<br />
   <sub>[#11699](https://github.com/flutter/website/pull/11699) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11699) over 4 hours, 19 additions and 15 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Jonathan](https://github.com/FlamongoBird)** &mdash; Update buttons.md<br />
+  <sub>[#11691](https://github.com/flutter/website/pull/11691) merged on February 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11691) over 3 days, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for the material theme system updates<br />
