@@ -77,9 +77,6 @@
 * **[Dimitar Kyurtov](https://github.com/dkyurtov)** &mdash; replace deprecated [UIScreen mainScreen] in iOS<br />
   <sub>[#162785](https://github.com/flutter/flutter/pull/162785) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162785) 181 additions and 69 deletions in 6 files</sub><br />
 
-* **[davidhicks980](https://github.com/davidhicks980)** &mdash; [widgets/raw_menu_anchor.dart] Fixed minor typos and applied style guide suggestions<br />
-  <sub>[#162805](https://github.com/flutter/flutter/pull/162805) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162805) 13 additions and 14 deletions in 1 file</sub><br />
-
 * **[Johannes Pietilä Löhnn](https://github.com/lohnn)** &mdash; RenderConstrainedBox takes constraints when measuring intrinsic sizes<br />
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
 
