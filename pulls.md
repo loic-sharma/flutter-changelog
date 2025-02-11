@@ -95,9 +95,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; EditableText should not allow horizontal scrolling on iOS<br />
   <sub>[#162841](https://github.com/flutter/flutter/pull/162841) opened on on February 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162841) 95 additions and 1 deletion in 2 files</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Update generated scaffold project to include early preview rendering<br />
-  <sub>[#162847](https://github.com/flutter/flutter/pull/162847) opened on on February 6, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/162847) 543 additions and 41 deletions in 12 files</sub><br />
-
 * **[prdalai](https://github.com/prdalai)** &mdash; Removed redundant useMaterial3: true where unnecessary<br />
   <sub>[#162862](https://github.com/flutter/flutter/pull/162862) opened on on February 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162862) 157 additions and 157 deletions in 63 files</sub><br />
 
@@ -126,5 +123,8 @@
   <sub>[#163030](https://github.com/flutter/flutter/pull/163030) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163030) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp tapping, again, and add test.<br />
-  <sub>[#163035](https://github.com/flutter/flutter/pull/163035) opened on on February 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163035) 140 additions and 1 deletion in 3 files</sub><br />
+  <sub>[#163035](https://github.com/flutter/flutter/pull/163035) opened on on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163035) 140 additions and 1 deletion in 3 files</sub><br />
+
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [CP] all jittery glyph fixes<br />
+  <sub>[#163058](https://github.com/flutter/flutter/pull/163058) opened on on February 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163058) 824 additions and 236 deletions in 21 files</sub><br />
 
