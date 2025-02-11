@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-34 commits.
+35 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Implement merged platform and UI thread<br />
   <sub>[#162944](https://github.com/flutter/flutter/pull/162944) merged on February 11, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/162944) over 2 days, 310 additions and 20 deletions in 19 files</sub><br />
@@ -42,9 +42,9 @@
   <sub>[#161238](https://github.com/flutter/flutter/pull/161238) merged on February 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/161238) over 1 month, 43 additions and 4 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [iOS][Engine] Fix view removal process for AutofillContextAction.cancel<br />
-  <sub>[#160653](https://github.com/flutter/flutter/pull/160653) merged on February 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160653) over 1 month, 26 additions and 2 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
+* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Return more eagerly when toggling service extensions<br />
+  <sub>[#162774](https://github.com/flutter/flutter/pull/162774) merged on February 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162774) over 4 days, 40 additions and 27 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Update generated scaffold project to include early preview rendering<br />
   <sub>[#162847](https://github.com/flutter/flutter/pull/162847) merged on February 11, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/162847) over 4 days, 543 additions and 41 deletions in 12 files</sub><br />
@@ -54,9 +54,9 @@
   <sub>[#162855](https://github.com/flutter/flutter/pull/162855) merged on February 11, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/162855) over 4 days, 296 additions and 6 deletions in 6 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
-* **[Jacob MacDonald](https://github.com/jakemac53)** &mdash; Return more eagerly when toggling service extensions<br />
-  <sub>[#162774](https://github.com/flutter/flutter/pull/162774) merged on February 10, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162774) over 4 days, 40 additions and 27 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Kenzie Davisson](https://github.com/kenzieschmoll)</sub><br />
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [iOS][Engine] Fix view removal process for AutofillContextAction.cancel<br />
+  <sub>[#160653](https://github.com/flutter/flutter/pull/160653) merged on February 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160653) over 1 month, 26 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Remove overlay when platform views are removed from screen.<br />
   <sub>[#162908](https://github.com/flutter/flutter/pull/162908) merged on February 11, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/162908) over 3 days, 191 additions and 32 deletions in 14 files</sub><br />
@@ -65,6 +65,10 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds dialog and alertdialog role<br />
   <sub>[#162692](https://github.com/flutter/flutter/pull/162692) merged on February 11, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/162692) over 6 days, 211 additions and 38 deletions in 11 files</sub><br />
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp tapping, again, and add test.<br />
+  <sub>[#163035](https://github.com/flutter/flutter/pull/163035) merged on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163035) over 15 hours, 140 additions and 1 deletion in 3 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp overlay layer intersection.<br />
   <sub>[#163024](https://github.com/flutter/flutter/pull/163024) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163024) over 17 hours, 203 additions and 3 deletions in 3 files</sub><br />
@@ -86,13 +90,13 @@
   <sub>[#163017](https://github.com/flutter/flutter/pull/163017) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163017) over 49 minutes, 20 additions and 76 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] robustify safaridriver launch sequence<br />
-  <sub>[#162919](https://github.com/flutter/flutter/pull/162919) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162919) over 2 days, 168 additions and 105 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides<br />
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) over 1 week, 91 additions and 169 deletions in 23 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] robustify safaridriver launch sequence<br />
+  <sub>[#162919](https://github.com/flutter/flutter/pull/162919) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162919) over 2 days, 168 additions and 105 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; FYI matanlurey (does not require review, but probably should) on dev/test infra.<br />
   <sub>[#162642](https://github.com/flutter/flutter/pull/162642) merged on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162642) over 6 days, 3 additions and 2 deletions in 1 file</sub><br />
