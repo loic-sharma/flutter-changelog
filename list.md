@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-30 commits.
+32 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Implement merged platform and UI thread
   <sub>[#162944](https://github.com/flutter/flutter/pull/162944) merged on February 11, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/162944) over 2 days, 310 additions and 20 deletions in 19 files</sub>
@@ -54,6 +54,10 @@
   <sub>[#162908](https://github.com/flutter/flutter/pull/162908) merged on February 11, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/162908) over 3 days, 191 additions and 32 deletions in 14 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds dialog and alertdialog role
+  <sub>[#162692](https://github.com/flutter/flutter/pull/162692) merged on February 11, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/162692) over 6 days, 211 additions and 38 deletions in 11 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp overlay layer intersection.
   <sub>[#163024](https://github.com/flutter/flutter/pull/163024) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163024) over 17 hours, 203 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McCutchan](https://github.com/johnmccutchan)</sub>
@@ -89,6 +93,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) over 1 week, 91 additions and 169 deletions in 23 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from 99789828cc95 to d9d7f103b6b7 (12 revisions)
+  <sub>[#163060](https://github.com/flutter/flutter/pull/163060) merged on February 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163060) over 2 hours, 21 additions and 851 deletions in 3 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Cleanup PreviewDetector code
   <sub>[#163050](https://github.com/flutter/flutter/pull/163050) merged on February 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163050) over 1 hour, 31 additions and 13 deletions in 1 file</sub>
