@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-18 commits.
+20 commits.
 
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Add additional information to DeviceLab readme for running DeviceLab tests locally<br />
   <sub>[#160243](https://github.com/flutter/flutter/pull/160243) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/160243) over 1 month, 13 additions and 2 deletions in 1 file</sub><br />
@@ -13,6 +13,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [flutter_tools] remove SkSL bundling and dump skp on compilation.<br />
   <sub>[#162849](https://github.com/flutter/flutter/pull/162849) merged on February 10, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/162849) over 3 days, 22 additions and 918 deletions in 55 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix Linux keyboard support for AltGr<br />
+  <sub>[#162495](https://github.com/flutter/flutter/pull/162495) merged on February 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162495) over 1 week, 13 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Improved error message when PageController is not attached to PageView<br />
   <sub>[#162422](https://github.com/flutter/flutter/pull/162422) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162422) over 1 week, 171 additions and 0 deletions in 2 files</sub><br />
@@ -53,6 +57,10 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides<br />
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) over 1 week, 91 additions and 169 deletions in 23 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update gen_keycodes output to new engine location.<br />
+  <sub>[#162479](https://github.com/flutter/flutter/pull/162479) merged on February 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162479) over 1 week, 1 addition and 15 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Include device lab version for how to run test<br />
   <sub>[#163010](https://github.com/flutter/flutter/pull/163010) merged on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163010) over 2 hours, 2 additions and 0 deletions in 1 file</sub><br />
