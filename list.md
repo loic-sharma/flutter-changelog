@@ -15,7 +15,7 @@
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix Linux keyboard support for AltGr
-  <sub>[#162495](https://github.com/flutter/flutter/pull/162495) merged on February 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162495) over 1 week, 13 additions and 7 deletions in 4 files</sub>
+  <sub>[#162495](https://github.com/flutter/flutter/pull/162495) merged on February 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162495) over 1 week, 13 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Improved error message when PageController is not attached to PageView
