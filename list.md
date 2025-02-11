@@ -1085,7 +1085,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-12 commits.
+13 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow any attributes from markdown-attrs
   <sub>[#11705](https://github.com/flutter/website/pull/11705) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11705) over 14 hours, 0 additions and 1 deletion in 1 file</sub>
@@ -1093,7 +1093,7 @@
   <sub><details><summary>1 image...</summary>![Rename a Flutter flavor](/assets/images/docs/flavors/flavors-ios-app-names.png)</details></sub>
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Add breaking change page for completing Navigator behavior
-  <sub>[#11684](https://github.com/flutter/website/pull/11684) merged on February 11, 2025 &mdash; **Small:** [27 comments](https://github.com/flutter/website/pull/11684) over 5 days, 72 additions and 0 deletions in 2 files</sub>
+  <sub>[#11684](https://github.com/flutter/website/pull/11684) merged on February 11, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/website/pull/11684) over 5 days, 72 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Alex Li](https://github.com/AlexV525), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant use material3
@@ -1119,6 +1119,10 @@
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove reference to Visual Samples Index
   <sub>[#11699](https://github.com/flutter/website/pull/11699) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11699) over 4 hours, 19 additions and 15 deletions in 11 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Migration guide for the material theme system updates
+  <sub>[#11707](https://github.com/flutter/website/pull/11707) merged on February 11, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/website/pull/11707) over 10 hours, 78 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Pierre](https://github.com/guidezpl), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; Update wasm docs to be clear that additional headers are now optional
   <sub>[#11706](https://github.com/flutter/website/pull/11706) merged on February 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11706) over 14 hours, 4 additions and 4 deletions in 1 file</sub>
