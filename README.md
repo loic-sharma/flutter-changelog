@@ -659,7 +659,7 @@
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Fixed the text aspect ratio<br />
-  <sub>[#162415](https://github.com/flutter/flutter/pull/162415) merged on January 31, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/162415) over 1 day, 49 additions and 8 deletions in 2 files</sub><br />
+  <sub>[#162415](https://github.com/flutter/flutter/pull/162415) merged on January 31, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/162415) over 1 day, 49 additions and 8 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make swapchain related external fence/semaphore extensions optional.<br />
