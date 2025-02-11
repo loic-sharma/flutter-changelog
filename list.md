@@ -1083,6 +1083,10 @@
 
 8 commits.
 
+* **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant use material3
+  <sub>[#11693](https://github.com/flutter/website/pull/11693) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11693) over 2 days, 2 additions and 13 deletions in 9 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated the "why" for the withOpacity deprecation.
   <sub>[#11700](https://github.com/flutter/website/pull/11700) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11700) over 3 hours, 29 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Seth Ladd](https://github.com/sethladd), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
@@ -1090,10 +1094,6 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update performance profiling docs.
   <sub>[#11688](https://github.com/flutter/website/pull/11688) merged on February 10, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11688) over 4 days, 87 additions and 128 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
-
-* **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant use material3
-  <sub>[#11693](https://github.com/flutter/website/pull/11693) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11693) over 2 days, 2 additions and 13 deletions in 9 files</sub>
-  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix layout of side-by-side code and content on mobile
   <sub>[#11692](https://github.com/flutter/website/pull/11692) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11692) over 2 days, 7 additions and 0 deletions in 1 file</sub>
