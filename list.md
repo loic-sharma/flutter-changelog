@@ -1053,7 +1053,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-7 commits.
+8 commits.
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated the "why" for the withOpacity deprecation.
   <sub>[#11700](https://github.com/flutter/website/pull/11700) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11700) over 3 hours, 29 additions and 6 deletions in 1 file</sub>
@@ -1073,6 +1073,10 @@
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove reference to Visual Samples Index
   <sub>[#11699](https://github.com/flutter/website/pull/11699) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11699) over 4 hours, 19 additions and 15 deletions in 11 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Ios integration tests
+  <sub>[#11703](https://github.com/flutter/website/pull/11703) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11703) over 42 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Make background parsing a little more platform agnostic.
