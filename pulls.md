@@ -42,7 +42,7 @@
   <sub>[#161736](https://github.com/flutter/flutter/pull/161736) opened on on January 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161736) 2 additions and 1 deletion in 1 file</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
-  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/flutter/pull/161879) 142 additions and 15 deletions in 6 files</sub><br />
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/161879) 143 additions and 15 deletions in 5 files</sub><br />
 
 * **[Johnson ](https://github.com/johnson1940)** &mdash; added borderRadius for the divider<br />
   <sub>[#162248](https://github.com/flutter/flutter/pull/162248) opened on on January 27, 2025 &mdash; **Extra large:** [28 comments](https://github.com/flutter/flutter/pull/162248) 29705 additions and 30889 deletions in 1006 files</sub><br />
@@ -70,6 +70,9 @@
 
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162731) 99 additions and 3 deletions in 2 files</sub><br />
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Convert dependency version checker to Kotlin source<br />
+  <sub>[#162771](https://github.com/flutter/flutter/pull/162771) opened on on February 5, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/162771) 599 additions and 374 deletions in 6 files</sub><br />
 
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162780) 28 additions and 19 deletions in 12 files</sub><br />
