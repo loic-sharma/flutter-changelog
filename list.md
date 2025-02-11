@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-28 commits.
+29 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Implement merged platform and UI thread
   <sub>[#162944](https://github.com/flutter/flutter/pull/162944) merged on February 11, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/162944) over 2 days, 310 additions and 20 deletions in 19 files</sub>
@@ -25,6 +25,10 @@
 * **[Paulik8](https://github.com/Paulik8)** &mdash; Improved error message when PageController is not attached to PageView
   <sub>[#162422](https://github.com/flutter/flutter/pull/162422) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162422) over 1 week, 171 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix `SkiaException` -> `TestFailure`, add tests.
+  <sub>[#163054](https://github.com/flutter/flutter/pull/163054) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163054) over 57 minutes, 134 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart to 3.8.0-76.0.dev
   <sub>[#162913](https://github.com/flutter/flutter/pull/162913) merged on February 11, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/162913) over 3 days, 51025 additions and 52448 deletions in 8 files</sub>
