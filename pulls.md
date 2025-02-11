@@ -117,7 +117,7 @@
   <sub>[#163014](https://github.com/flutter/flutter/pull/163014) opened on on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163014) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp overlay layer intersection.<br />
-  <sub>[#163024](https://github.com/flutter/flutter/pull/163024) opened on on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163024) 203 additions and 3 deletions in 3 files</sub><br />
+  <sub>[#163024](https://github.com/flutter/flutter/pull/163024) opened on on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163024) 203 additions and 3 deletions in 3 files</sub><br />
 
 * **[MaherSafadii](https://github.com/MaherSafadii)** &mdash; Change CupertinoSliverNavigationBar's stretch parameter's default value to true<br />
   <sub>[#163026](https://github.com/flutter/flutter/pull/163026) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163026) 4 additions and 4 deletions in 1 file</sub><br />
@@ -127,4 +127,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix hcpp tapping, again, and add test.<br />
   <sub>[#163035](https://github.com/flutter/flutter/pull/163035) opened on on February 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163035) 140 additions and 1 deletion in 3 files</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Cleanup PreviewDetector code<br />
+  <sub>[#163050](https://github.com/flutter/flutter/pull/163050) opened on on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163050) 31 additions and 13 deletions in 1 file</sub><br />
 
