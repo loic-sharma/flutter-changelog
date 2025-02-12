@@ -29,6 +29,9 @@
 * **[Pranesh Pyara Shrestha](https://github.com/praneshp1org)** &mdash; Added equalWidthPerRow option to Wrap widget<br />
   <sub>[#160977](https://github.com/flutter/flutter/pull/160977) opened on on December 30, 2024 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/160977) 173 additions and 51 deletions in 5 files</sub><br />
 
+* **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove AlarmClock from BrowserImageDecoder<br />
+  <sub>[#161481](https://github.com/flutter/flutter/pull/161481) opened on on January 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161481) 18 additions and 58 deletions in 1 file</sub><br />
+
 * **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
@@ -106,9 +109,6 @@
 
 * **[pathconnected](https://github.com/pathconnected)** &mdash; SliverResizingHeader maxScrollObstructionExtent<br />
   <sub>[#162955](https://github.com/flutter/flutter/pull/162955) opened on on February 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162955) 54 additions and 1 deletion in 2 files</sub><br />
-
-* **[chunhtai](https://github.com/chunhtai)** &mdash; Adds hasSelectedState parameter to matchesSemantics for migration<br />
-  <sub>[#163014](https://github.com/flutter/flutter/pull/163014) opened on on February 10, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163014) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[MaherSafadii](https://github.com/MaherSafadii)** &mdash; Change CupertinoSliverNavigationBar's stretch parameter's default value to true<br />
   <sub>[#163026](https://github.com/flutter/flutter/pull/163026) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163026) 4 additions and 4 deletions in 1 file</sub><br />
