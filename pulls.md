@@ -98,3 +98,6 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Manually roll customer_testing to enable rfw tests<br />
   <sub>[#163030](https://github.com/flutter/flutter/pull/163030) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163030) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; Increase timeout for Windows build_android_host_app_with_module_aar<br />
+  <sub>[#163161](https://github.com/flutter/flutter/pull/163161) opened on on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163161) 1 addition and 0 deletions in 1 file</sub><br />
+

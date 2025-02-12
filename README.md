@@ -39,7 +39,7 @@
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; explicitly set packageConfigPath for strategy providers<br />
-  <sub>[#163080](https://github.com/flutter/flutter/pull/163080) merged on February 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163080) over 22 hours, 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#163080](https://github.com/flutter/flutter/pull/163080) merged on February 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163080) over 22 hours, 2 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Add RoundSuperellipse class, containment check and stroking<br />
