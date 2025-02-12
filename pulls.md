@@ -96,7 +96,7 @@
   <sub>[#163030](https://github.com/flutter/flutter/pull/163030) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163030) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add missing null check to java object for hcpp mode.<br />
-  <sub>[#163165](https://github.com/flutter/flutter/pull/163165) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163165) 4 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#163165](https://github.com/flutter/flutter/pull/163165) opened on on February 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163165) 4 additions and 2 deletions in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create VersionUtils class and unit tests and extract logic out of flutter.groovy<br />
   <sub>[#163166](https://github.com/flutter/flutter/pull/163166) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163166) 97 additions and 45 deletions in 3 files</sub><br />
