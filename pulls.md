@@ -11,9 +11,6 @@
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement regular windows for the Windows platform<br />
   <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/157515) 4409 additions and 2 deletions in 52 files</sub><br />
 
-* **[Mohellebi abdessalem](https://github.com/AbdeMohlbi)** &mdash; update `mostRecentSemanticVersion` to handle strings like "8.6-rc-2"<br />
-  <sub>[#158020](https://github.com/flutter/flutter/pull/158020) opened on on November 1, 2024 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/158020) 30 additions and 18 deletions in 1 file</sub><br />
-
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
 
