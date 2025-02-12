@@ -1213,7 +1213,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-16 commits.
+17 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow any attributes from markdown-attrs<br />
   <sub>[#11705](https://github.com/flutter/website/pull/11705) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11705) over 14 hours, 0 additions and 1 deletion in 1 file</sub><br />
@@ -1247,6 +1247,10 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update performance profiling docs.<br />
   <sub>[#11688](https://github.com/flutter/website/pull/11688) merged on February 10, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11688) over 4 days, 87 additions and 128 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add back support for showing announcement banner<br />
+  <sub>[#11712](https://github.com/flutter/website/pull/11712) merged on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11712) over 15 hours, 65 additions and 17 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Marya](https://github.com/MaryaBelanger)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix layout of side-by-side code and content on mobile<br />
   <sub>[#11692](https://github.com/flutter/website/pull/11692) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11692) over 2 days, 7 additions and 0 deletions in 1 file</sub><br />
