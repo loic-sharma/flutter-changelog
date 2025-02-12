@@ -1213,7 +1213,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-17 commits.
+18 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow any attributes from markdown-attrs<br />
   <sub>[#11705](https://github.com/flutter/website/pull/11705) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11705) over 14 hours, 0 additions and 1 deletion in 1 file</sub><br />
@@ -1227,6 +1227,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Analyze and format with Dart 3.7<br />
   <sub>[#11702](https://github.com/flutter/website/pull/11702) merged on February 12, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/website/pull/11702) over 1 day, 5497 additions and 9099 deletions in 687 files</sub><br />
   <sub>Reviewed by: [Marya](https://github.com/MaryaBelanger)</sub><br />
+
+* **[Kevin Chisholm](https://github.com/itsjustkevin)** &mdash; [release] Add 3.29 changes<br />
+  <sub>[#11698](https://github.com/flutter/website/pull/11698) merged on February 12, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/website/pull/11698) over 2 days, 754 additions and 1 deletion in 4 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Add breaking change page for completing Navigator behavior<br />
   <sub>[#11684](https://github.com/flutter/website/pull/11684) merged on February 11, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/website/pull/11684) over 5 days, 72 additions and 0 deletions in 2 files</sub><br />
