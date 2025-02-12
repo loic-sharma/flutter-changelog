@@ -119,6 +119,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] speculative fix for hcpp crashes.<br />
   <sub>[#163108](https://github.com/flutter/flutter/pull/163108) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163108) 4 additions and 0 deletions in 1 file</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Detect and invalidate stale task runner tasks<br />
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Detect and ignore stale task runner tasks<br />
   <sub>[#163129](https://github.com/flutter/flutter/pull/163129) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163129) 87 additions and 4 deletions in 7 files</sub><br />
 
