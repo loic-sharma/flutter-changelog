@@ -1188,13 +1188,13 @@
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary>![Rename a Flutter flavor](/assets/images/docs/flavors/flavors-ios-app-names.png)</details></sub>
 
-* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Add breaking change page for completing Navigator behavior
-  <sub>[#11684](https://github.com/flutter/website/pull/11684) merged on February 11, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/website/pull/11684) over 5 days, 72 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Alex Li](https://github.com/AlexV525), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
-
 * **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant use material3
   <sub>[#11693](https://github.com/flutter/website/pull/11693) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11693) over 2 days, 2 additions and 13 deletions in 9 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Enguerrand ARMINJON](https://github.com/EArminjon)** &mdash; Add breaking change page for completing Navigator behavior
+  <sub>[#11684](https://github.com/flutter/website/pull/11684) merged on February 11, 2025 &mdash; **Small:** [28 comments](https://github.com/flutter/website/pull/11684) over 5 days, 72 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Alex Li](https://github.com/AlexV525), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[gaaclarke](https://github.com/gaaclarke)** &mdash; Updated the "why" for the withOpacity deprecation.
   <sub>[#11700](https://github.com/flutter/website/pull/11700) merged on February 10, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/website/pull/11700) over 3 hours, 29 additions and 6 deletions in 1 file</sub>
