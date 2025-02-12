@@ -68,9 +68,6 @@
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162780) 28 additions and 19 deletions in 12 files</sub><br />
 
-* **[Dimitar Kyurtov](https://github.com/dkyurtov)** &mdash; replace deprecated [UIScreen mainScreen] in iOS<br />
-  <sub>[#162785](https://github.com/flutter/flutter/pull/162785) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162785) 181 additions and 69 deletions in 6 files</sub><br />
-
 * **[Johannes Pietilä Löhnn](https://github.com/lohnn)** &mdash; RenderConstrainedBox takes constraints when measuring intrinsic sizes<br />
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
 
