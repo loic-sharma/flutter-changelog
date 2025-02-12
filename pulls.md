@@ -98,3 +98,6 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Manually roll customer_testing to enable rfw tests<br />
   <sub>[#163030](https://github.com/flutter/flutter/pull/163030) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163030) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] increment shared_ptr for jni impl.<br />
+  <sub>[#163152](https://github.com/flutter/flutter/pull/163152) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163152) 2 additions and 1 deletion in 1 file</sub><br />
+
