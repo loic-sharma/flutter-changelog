@@ -98,3 +98,12 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; Increase timeout for Windows build_android_host_app_with_module_aar<br />
   <sub>[#163161](https://github.com/flutter/flutter/pull/163161) opened on on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163161) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add missing null check to java object for hcpp mode.<br />
+  <sub>[#163165](https://github.com/flutter/flutter/pull/163165) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163165) 4 additions and 2 deletions in 1 file</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Create VersionUtils class and unit tests and extract logic out of flutter.groovy<br />
+  <sub>[#163166](https://github.com/flutter/flutter/pull/163166) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163166) 97 additions and 45 deletions in 3 files</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_releases] Flutter beta 3.30.0-0.1.pre Framework Cherrypicks<br />
+  <sub>[#163167](https://github.com/flutter/flutter/pull/163167) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163167) 2 additions and 1 deletion in 2 files</sub><br />
+
