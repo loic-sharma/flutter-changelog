@@ -965,11 +965,15 @@
 
 ### February 8, 2025 to February 14, 2025
 
-7 commits.
+8 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Add errors for ProxyAPI callback methods and null instances when reading in a ProxyApiBaseCodec<br />
   <sub>[#8567](https://github.com/flutter/packages/pull/8567) merged on February 10, 2025 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/8567) over 6 days, 646 additions and 1067 deletions in 20 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add support for `TypedStatefulShellBranch`'s `preload`<br />
+  <sub>[#8587](https://github.com/flutter/packages/pull/8587) merged on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8587) over 3 days, 34 additions and 3 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove OCMock from CameraSettingsTests, CameraMethodChannelTests and CameraSessionPresetsTests<br />
   <sub>[#8592](https://github.com/flutter/packages/pull/8592) merged on February 10, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/8592) over 1 day, 480 additions and 335 deletions in 29 files</sub><br />
