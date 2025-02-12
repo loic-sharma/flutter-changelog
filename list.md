@@ -4,7 +4,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-49 commits.
+50 commits.
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Implement merged platform and UI thread
   <sub>[#162944](https://github.com/flutter/flutter/pull/162944) merged on February 11, 2025 &mdash; **Medium:** [19 comments](https://github.com/flutter/flutter/pull/162944) over 2 days, 310 additions and 20 deletions in 19 files</sub>
@@ -42,9 +42,9 @@
   <sub>[#162422](https://github.com/flutter/flutter/pull/162422) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162422) over 1 week, 171 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart to 3.8.0-76.0.dev
-  <sub>[#162913](https://github.com/flutter/flutter/pull/162913) merged on February 11, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/162913) over 3 days, 51025 additions and 52448 deletions in 8 files</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Siva](https://github.com/a-siva)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] rrect_blur: scale max radius clamp by transform
+  <sub>[#161238](https://github.com/flutter/flutter/pull/161238) merged on February 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/161238) over 1 month, 43 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] mirror tile mode requires highp for Adreno.
   <sub>[#163066](https://github.com/flutter/flutter/pull/163066) merged on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163066) over 9 hours, 89 additions and 91 deletions in 2 files</sub>
@@ -66,9 +66,9 @@
   <sub>[#163054](https://github.com/flutter/flutter/pull/163054) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163054) over 57 minutes, 134 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] rrect_blur: scale max radius clamp by transform
-  <sub>[#161238](https://github.com/flutter/flutter/pull/161238) merged on February 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/161238) over 1 month, 43 additions and 4 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart to 3.8.0-76.0.dev
+  <sub>[#162913](https://github.com/flutter/flutter/pull/162913) merged on February 11, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/162913) over 3 days, 51025 additions and 52448 deletions in 8 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Siva](https://github.com/a-siva)</sub>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [iOS][Engine] Fix view removal process for AutofillContextAction.cancel
   <sub>[#160653](https://github.com/flutter/flutter/pull/160653) merged on February 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160653) over 1 month, 26 additions and 2 deletions in 2 files</sub>
@@ -110,17 +110,21 @@
   <sub>[#163018](https://github.com/flutter/flutter/pull/163018) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163018) over 5 hours, 251 additions and 2 deletions in 7 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #162644: Remove `--verbose` from devicelab task executions.
-  <sub>[#163017](https://github.com/flutter/flutter/pull/163017) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163017) over 49 minutes, 20 additions and 76 deletions in 13 files</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Try golden-testing on a Mokey (`bringup: true`), retry on an emulator
   <sub>[#163029](https://github.com/flutter/flutter/pull/163029) merged on February 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163029) over 45 minutes, 115 additions and 19 deletions in 8 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #162644: Remove `--verbose` from devicelab task executions.
+  <sub>[#163017](https://github.com/flutter/flutter/pull/163017) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163017) over 49 minutes, 20 additions and 76 deletions in 13 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add runtime flag to determine if HCPP is supported.
   <sub>[#163004](https://github.com/flutter/flutter/pull/163004) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163004) over 4 hours, 95 additions and 4 deletions in 13 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix doc reference typos
+  <sub>[#162893](https://github.com/flutter/flutter/pull/162893) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162893) over 3 days, 6 additions and 2 deletions in 3 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] robustify safaridriver launch sequence
   <sub>[#162919](https://github.com/flutter/flutter/pull/162919) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162919) over 2 days, 168 additions and 105 deletions in 3 files</sub>
@@ -130,13 +134,17 @@
   <sub>[#162642](https://github.com/flutter/flutter/pull/162642) merged on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162642) over 6 days, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
-* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Fix doc reference typos
-  <sub>[#162893](https://github.com/flutter/flutter/pull/162893) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162893) over 3 days, 6 additions and 2 deletions in 3 files</sub>
-  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Remove the redirects from src/build_overrides to src/flutter/build_overrides
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) over 1 week, 91 additions and 169 deletions in 23 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update gen_keycodes output to new engine location.
+  <sub>[#162479](https://github.com/flutter/flutter/pull/162479) merged on February 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162479) over 1 week, 1 addition and 15 deletions in 2 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken)</sub>
+
+* **[Jonny Wang](https://github.com/jrwang)** &mdash; Update .ci.yaml to support Fuchsia cherrypick branches
+  <sub>[#163000](https://github.com/flutter/flutter/pull/163000) merged on February 12, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163000) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds hasSelectedState parameter to matchesSemantics for migration
   <sub>[#163014](https://github.com/flutter/flutter/pull/163014) merged on February 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163014) over 1 day, 1 addition and 0 deletions in 1 file</sub>
@@ -146,10 +154,6 @@
   <sub>[#163010](https://github.com/flutter/flutter/pull/163010) merged on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163010) over 2 hours, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub>
 
-* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Change the default optimization level to `-O2` for wasm in release mode.
-  <sub>[#162917](https://github.com/flutter/flutter/pull/162917) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162917) over 2 days, 33 additions and 17 deletions in 2 files</sub>
-  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
-
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from 99789828cc95 to d9d7f103b6b7 (12 revisions)
   <sub>[#163060](https://github.com/flutter/flutter/pull/163060) merged on February 11, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163060) over 2 hours, 21 additions and 851 deletions in 3 files</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
@@ -158,33 +162,17 @@
   <sub>[#162889](https://github.com/flutter/flutter/pull/162889) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162889) over 2 days, 17 additions and 24 deletions in 6 files</sub>
   <sub>Reviewed by: [sigmundch](https://github.com/sigmundch), [Nicholas Shahan](https://github.com/nshahan), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
+* **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; Change the default optimization level to `-O2` for wasm in release mode.
+  <sub>[#162917](https://github.com/flutter/flutter/pull/162917) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162917) over 2 days, 33 additions and 17 deletions in 2 files</sub>
+  <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Cleanup PreviewDetector code
   <sub>[#163050](https://github.com/flutter/flutter/pull/163050) merged on February 11, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163050) over 1 hour, 31 additions and 13 deletions in 1 file</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo), [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Update gen_keycodes output to new engine location.
-  <sub>[#162479](https://github.com/flutter/flutter/pull/162479) merged on February 11, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162479) over 1 week, 1 addition and 15 deletions in 2 files</sub>
-  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Matan Lurey](https://github.com/matanlurey), [Chris Bracken](https://github.com/cbracken)</sub>
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Drop link to engine.version which is no longer checked in.
   <sub>[#162497](https://github.com/flutter/flutter/pull/162497) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162497) over 1 week, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from a9dbb2479c26 to 6f17f2ebb2e5 (2 revisions)
-  <sub>[#163109](https://github.com/flutter/flutter/pull/163109) merged on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163109) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
-  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 5b56d9a91633 to a9dbb2479c26 (6 revisions)
-  <sub>[#163100](https://github.com/flutter/flutter/pull/163100) merged on February 12, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163100) over 1 hour, 291 additions and 10 deletions in 3 files</sub>
-  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from d9d7f103b6b7 to fcef25f18e4d (3 revisions)
-  <sub>[#163098](https://github.com/flutter/flutter/pull/163098) merged on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163098) over 1 hour, 287 additions and 6 deletions in 3 files</sub>
-  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
-
-* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_benchmark basic_material_app_macos__compile to be flaky
-  <sub>[#162365](https://github.com/flutter/flutter/pull/162365) merged on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162365) over 1 week, 1 addition and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 8c377e8bedd2 to 5b56d9a91633 (9 revisions)
   <sub>[#163021](https://github.com/flutter/flutter/pull/163021) merged on February 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163021) over 3 hours, 2 additions and 2 deletions in 2 files</sub>
@@ -194,9 +182,25 @@
   <sub>[#163112](https://github.com/flutter/flutter/pull/163112) merged on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163112) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from a9dbb2479c26 to 6f17f2ebb2e5 (2 revisions)
+  <sub>[#163109](https://github.com/flutter/flutter/pull/163109) merged on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163109) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 5b56d9a91633 to a9dbb2479c26 (6 revisions)
+  <sub>[#163100](https://github.com/flutter/flutter/pull/163100) merged on February 12, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163100) over 1 hour, 291 additions and 10 deletions in 3 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 180ed4fc263d to 8c377e8bedd2 (4 revisions)
   <sub>[#162998](https://github.com/flutter/flutter/pull/162998) merged on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162998) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from d9d7f103b6b7 to fcef25f18e4d (3 revisions)
+  <sub>[#163098](https://github.com/flutter/flutter/pull/163098) merged on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163098) over 1 hour, 287 additions and 6 deletions in 3 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Mac_benchmark basic_material_app_macos__compile to be flaky
+  <sub>[#162365](https://github.com/flutter/flutter/pull/162365) merged on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162365) over 1 week, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 22f96cc60dec to 180ed4fc263d (2 revisions)
   <sub>[#162974](https://github.com/flutter/flutter/pull/162974) merged on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162974) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
