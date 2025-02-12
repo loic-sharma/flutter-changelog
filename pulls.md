@@ -116,3 +116,6 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; CupertinoSliverNavigationBar.search fidelity updates<br />
   <sub>[#163089](https://github.com/flutter/flutter/pull/163089) opened on on February 11, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163089) 116 additions and 35 deletions in 5 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] speculative fix for hcpp crashes.<br />
+  <sub>[#163108](https://github.com/flutter/flutter/pull/163108) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163108) 4 additions and 0 deletions in 1 file</sub><br />
+
