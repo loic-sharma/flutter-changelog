@@ -107,3 +107,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_releases] Flutter beta 3.30.0-0.1.pre Framework Cherrypicks<br />
   <sub>[#163167](https://github.com/flutter/flutter/pull/163167) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163167) 2 additions and 1 deletion in 2 files</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update iOS / macOS triage links<br />
+  <sub>[#163171](https://github.com/flutter/flutter/pull/163171) opened on on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163171) 1 addition and 3 deletions in 1 file</sub><br />
+
