@@ -45,7 +45,7 @@
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
-  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162467) 185 additions and 45 deletions in 13 files</sub><br />
+  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162467) 185 additions and 45 deletions in 13 files</sub><br />
 
 * **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; Add localization for `Back` and `Cancel` buttons in CupertinoNavigationBar<br />
   <sub>[#162581](https://github.com/flutter/flutter/pull/162581) opened on on February 2, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162581) 757 additions and 114 deletions in 85 files</sub><br />
@@ -86,15 +86,6 @@
 * **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; EditableText should not allow horizontal scrolling on iOS<br />
   <sub>[#162841](https://github.com/flutter/flutter/pull/162841) opened on on February 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162841) 95 additions and 1 deletion in 2 files</sub><br />
 
-* **[prdalai](https://github.com/prdalai)** &mdash; Removed redundant useMaterial3: true where unnecessary<br />
-  <sub>[#162862](https://github.com/flutter/flutter/pull/162862) opened on on February 7, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/162862) 157 additions and 157 deletions in 63 files</sub><br />
-
-* **[yim](https://github.com/yiiim)** &mdash; showDialogs adds a `requestFocus` parameter.<br />
-  <sub>[#162928](https://github.com/flutter/flutter/pull/162928) opened on on February 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162928) 226 additions and 0 deletions in 9 files</sub><br />
-
-* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix(CupertinoDatePicker): font is inconsistent<br />
-  <sub>[#162932](https://github.com/flutter/flutter/pull/162932) opened on on February 8, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162932) 1 addition and 0 deletions in 1 file</sub><br />
-
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add focus check to onTapUpOutside<br />
   <sub>[#162939](https://github.com/flutter/flutter/pull/162939) opened on on February 8, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162939) 75 additions and 1 deletion in 2 files</sub><br />
 
@@ -106,7 +97,4 @@
 
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Manually roll customer_testing to enable rfw tests<br />
   <sub>[#163030](https://github.com/flutter/flutter/pull/163030) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163030) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; docs(ListTile): update documentation for the contentPadding property<br />
-  <sub>[#163147](https://github.com/flutter/flutter/pull/163147) opened on on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163147) 5 additions and 3 deletions in 1 file</sub><br />
 

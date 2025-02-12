@@ -1213,7 +1213,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-18 commits.
+19 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow any attributes from markdown-attrs
   <sub>[#11705](https://github.com/flutter/website/pull/11705) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11705) over 14 hours, 0 additions and 1 deletion in 1 file</sub>
@@ -1250,6 +1250,10 @@
 
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update performance profiling docs.
   <sub>[#11688](https://github.com/flutter/website/pull/11688) merged on February 10, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/website/pull/11688) over 4 days, 87 additions and 128 deletions in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add banner for 3.29 release
+  <sub>[#11713](https://github.com/flutter/website/pull/11713) merged on February 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11713) over 14 minutes, 3 additions and 3 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add back support for showing announcement banner
