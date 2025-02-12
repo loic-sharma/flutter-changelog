@@ -175,7 +175,7 @@
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from f31c733c86c4 to 25937c31f153 (2 revisions)
-  <sub>[#163127](https://github.com/flutter/flutter/pull/163127) merged on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163127) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+  <sub>[#163127](https://github.com/flutter/flutter/pull/163127) merged on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163127) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 180ed4fc263d to 8c377e8bedd2 (4 revisions)
