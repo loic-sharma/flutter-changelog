@@ -99,7 +99,7 @@
   <sub>[#163154](https://github.com/flutter/flutter/pull/163154) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163154) 82 additions and 32 deletions in 5 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create VersionUtils class and unit tests and extract logic out of flutter.groovy<br />
-  <sub>[#163166](https://github.com/flutter/flutter/pull/163166) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163166) 107 additions and 45 deletions in 3 files</sub><br />
+  <sub>[#163166](https://github.com/flutter/flutter/pull/163166) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163166) 109 additions and 45 deletions in 3 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; test on presub.<br />
   <sub>[#163181](https://github.com/flutter/flutter/pull/163181) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163181) 7 additions and 7 deletions in 3 files</sub><br />

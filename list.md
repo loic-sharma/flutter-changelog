@@ -1360,12 +1360,16 @@
 
 ### February 8, 2025 to February 14, 2025
 
-25 commits.
+26 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow any attributes from markdown-attrs
   <sub>[#11705](https://github.com/flutter/website/pull/11705) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11705) over 14 hours, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary>![Rename a Flutter flavor](/assets/images/docs/flavors/flavors-ios-app-names.png)</details></sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update iOS and Android docs for flavors.
+  <sub>[#11709](https://github.com/flutter/website/pull/11709) merged on February 13, 2025 &mdash; **Large:** [31 comments](https://github.com/flutter/website/pull/11709) over 1 day, 519 additions and 204 deletions in 8 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2), [Reid Baker](https://github.com/reidbaker), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant use material3
   <sub>[#11693](https://github.com/flutter/website/pull/11693) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11693) over 2 days, 2 additions and 13 deletions in 9 files</sub>
