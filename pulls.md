@@ -116,3 +116,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix buttons with icons ignore provided `foregroundColor`<br />
   <sub>[#163201](https://github.com/flutter/flutter/pull/163201) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163201) 283 additions and 7 deletions in 13 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField icon not vertically centered<br />
+  <sub>[#163205](https://github.com/flutter/flutter/pull/163205) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163205) 36 additions and 5 deletions in 2 files</sub><br />
+
