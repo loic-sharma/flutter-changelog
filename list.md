@@ -1140,7 +1140,11 @@
 
 ### February 8, 2025 to February 14, 2025
 
-11 commits.
+12 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Change callback methods with a non-null return type to non-null
+  <sub>[#8564](https://github.com/flutter/packages/pull/8564) merged on February 13, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/8564) over 1 week, 2674 additions and 3225 deletions in 28 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [google_sign_in_ios] Adds Swift Package Manager support
   <sub>[#7356](https://github.com/flutter/packages/pull/7356) merged on February 12, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/7356) over 6 months, 155 additions and 90 deletions in 21 files</sub>
