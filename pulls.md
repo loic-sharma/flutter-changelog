@@ -113,3 +113,6 @@
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(FixedExtentScrollController): Add parent class properties to the constructor.<br />
   <sub>[#163190](https://github.com/flutter/flutter/pull/163190) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163190) 71 additions and 1 deletion in 2 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Fix buttons with icons ignore provided `foregroundColor`<br />
+  <sub>[#163201](https://github.com/flutter/flutter/pull/163201) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163201) 283 additions and 7 deletions in 13 files</sub><br />
+
