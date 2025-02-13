@@ -101,12 +101,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create VersionUtils class and unit tests and extract logic out of flutter.groovy<br />
   <sub>[#163166](https://github.com/flutter/flutter/pull/163166) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163166) 107 additions and 45 deletions in 3 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_releases] Flutter beta 3.30.0-0.1.pre Framework Cherrypicks<br />
-  <sub>[#163167](https://github.com/flutter/flutter/pull/163167) opened on on February 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163167) 2 additions and 1 deletion in 2 files</sub><br />
-
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Use `transferToImageBitmap` instead of `createImageBitmap`<br />
-  <sub>[#163175](https://github.com/flutter/flutter/pull/163175) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163175) 8 additions and 7 deletions in 1 file</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; test on presub.<br />
   <sub>[#163181](https://github.com/flutter/flutter/pull/163181) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163181) 7 additions and 7 deletions in 3 files</sub><br />
 
@@ -116,11 +110,8 @@
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(FixedExtentScrollController): Add parent class properties to the constructor.<br />
   <sub>[#163190](https://github.com/flutter/flutter/pull/163190) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163190) 71 additions and 1 deletion in 2 files</sub><br />
 
-* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField icon not vertically centered<br />
-  <sub>[#163205](https://github.com/flutter/flutter/pull/163205) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163205) 37 additions and 6 deletions in 2 files</sub><br />
-
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
-  <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163215) 10 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove android 34 redundant emulator tests<br />
   <sub>[#163227](https://github.com/flutter/flutter/pull/163227) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163227) 7 additions and 27 deletions in 1 file</sub><br />

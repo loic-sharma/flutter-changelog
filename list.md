@@ -1140,7 +1140,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-12 commits.
+13 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Change callback methods with a non-null return type to non-null
   <sub>[#8564](https://github.com/flutter/packages/pull/8564) merged on February 13, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/8564) over 1 week, 2674 additions and 3225 deletions in 28 files</sub>
@@ -1161,6 +1161,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add support for `TypedStatefulShellBranch`'s `preload`
   <sub>[#8587](https://github.com/flutter/packages/pull/8587) merged on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8587) over 3 days, 34 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove remaining OCMock usage in tests
+  <sub>[#8624](https://github.com/flutter/packages/pull/8624) merged on February 13, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/8624) over 1 hour, 701 additions and 264 deletions in 21 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [video_player] Re-enables `asset videos live stream duration != 0` test for Android
   <sub>[#8610](https://github.com/flutter/packages/pull/8610) merged on February 12, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8610) over 19 hours, 0 additions and 9 deletions in 1 file</sub>
