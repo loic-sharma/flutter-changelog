@@ -107,3 +107,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; test on presub.<br />
   <sub>[#163181](https://github.com/flutter/flutter/pull/163181) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163181) 7 additions and 7 deletions in 3 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Update time picker dialog input size<br />
+  <sub>[#163184](https://github.com/flutter/flutter/pull/163184) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163184) 38 additions and 4 deletions in 2 files</sub><br />
+
