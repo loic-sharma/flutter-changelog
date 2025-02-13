@@ -114,7 +114,7 @@
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Vulkan on known bad exynos SoCs.<br />
-  <sub>[#163236](https://github.com/flutter/flutter/pull/163236) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163236) 46 additions and 0 deletions in 3 files</sub><br />
+  <sub>[#163236](https://github.com/flutter/flutter/pull/163236) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163236) 46 additions and 0 deletions in 3 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add gradle lockfiles for display_cutout_rotation<br />
   <sub>[#163241](https://github.com/flutter/flutter/pull/163241) opened on on February 13, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163241) 448 additions and 0 deletions in 3 files</sub><br />
@@ -123,5 +123,5 @@
   <sub>[#163242](https://github.com/flutter/flutter/pull/163242) opened on on February 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163242) 14 additions and 4 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; remove frame policy benchmark.<br />
-  <sub>[#163245](https://github.com/flutter/flutter/pull/163245) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163245) 0 additions and 182 deletions in 6 files</sub><br />
+  <sub>[#163245](https://github.com/flutter/flutter/pull/163245) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163245) 0 additions and 182 deletions in 6 files</sub><br />
 
