@@ -114,5 +114,5 @@
   <sub>[#163190](https://github.com/flutter/flutter/pull/163190) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163190) 71 additions and 1 deletion in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix DropdownButtonFormField icon not vertically centered<br />
-  <sub>[#163205](https://github.com/flutter/flutter/pull/163205) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163205) 36 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#163205](https://github.com/flutter/flutter/pull/163205) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163205) 33 additions and 5 deletions in 2 files</sub><br />
 
