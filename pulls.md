@@ -119,9 +119,9 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Show 'started' messages, explain how to debug hangs in the Android JUnit tests<br />
   <sub>[#163242](https://github.com/flutter/flutter/pull/163242) opened on on February 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163242) 14 additions and 4 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; remove frame policy benchmark.<br />
-  <sub>[#163245](https://github.com/flutter/flutter/pull/163245) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163245) 0 additions and 182 deletions in 6 files</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [skwasm] Use `transferToImageBitmap` instead of `createImageBitmap`<br />
   <sub>[#163251](https://github.com/flutter/flutter/pull/163251) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163251) 20 additions and 26 deletions in 4 files</sub><br />
+
+* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): pass the default text style down the tree<br />
+  <sub>[#163259](https://github.com/flutter/flutter/pull/163259) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163259) 40 additions and 1 deletion in 2 files</sub><br />
 
