@@ -96,7 +96,7 @@
   <sub>[#163030](https://github.com/flutter/flutter/pull/163030) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163030) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create VersionUtils class and unit tests and extract logic out of flutter.groovy<br />
-  <sub>[#163166](https://github.com/flutter/flutter/pull/163166) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163166) 97 additions and 45 deletions in 3 files</sub><br />
+  <sub>[#163166](https://github.com/flutter/flutter/pull/163166) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163166) 107 additions and 45 deletions in 3 files</sub><br />
 
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; [flutter_releases] Flutter beta 3.30.0-0.1.pre Framework Cherrypicks<br />
   <sub>[#163167](https://github.com/flutter/flutter/pull/163167) opened on on February 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163167) 2 additions and 1 deletion in 2 files</sub><br />
@@ -118,4 +118,7 @@
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163215) 10 additions and 6 deletions in 3 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] correct API availibility checks for hcpp.<br />
+  <sub>[#163226](https://github.com/flutter/flutter/pull/163226) opened on on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163226) 5 additions and 4 deletions in 2 files</sub><br />
 
