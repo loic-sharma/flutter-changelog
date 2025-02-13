@@ -104,3 +104,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update engine.version file, ensure post-submit CI can find the binaries<br />
   <sub>[#163267](https://github.com/flutter/flutter/pull/163267) opened on on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163267) 14 additions and 3 deletions in 3 files</sub><br />
 
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Align web terminal messages with the VM<br />
+  <sub>[#163268](https://github.com/flutter/flutter/pull/163268) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163268) 25 additions and 12 deletions in 1 file</sub><br />
+
