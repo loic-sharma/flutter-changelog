@@ -116,9 +116,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Vulkan on known bad exynos SoCs.<br />
   <sub>[#163236](https://github.com/flutter/flutter/pull/163236) opened on on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163236) 46 additions and 0 deletions in 3 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Add gradle lockfiles for display_cutout_rotation<br />
-  <sub>[#163241](https://github.com/flutter/flutter/pull/163241) opened on on February 13, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163241) 448 additions and 0 deletions in 3 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Show 'started' messages, explain how to debug hangs in the Android JUnit tests<br />
   <sub>[#163242](https://github.com/flutter/flutter/pull/163242) opened on on February 13, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163242) 14 additions and 4 deletions in 2 files</sub><br />
 
