@@ -122,3 +122,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] correct API availibility checks for hcpp.<br />
   <sub>[#163226](https://github.com/flutter/flutter/pull/163226) opened on on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163226) 5 additions and 4 deletions in 2 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove android 34 redundant emulator tests<br />
+  <sub>[#163227](https://github.com/flutter/flutter/pull/163227) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163227) 7 additions and 27 deletions in 1 file</sub><br />
+
