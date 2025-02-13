@@ -110,3 +110,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; fix: Update time picker dialog input size<br />
   <sub>[#163184](https://github.com/flutter/flutter/pull/163184) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163184) 38 additions and 4 deletions in 2 files</sub><br />
 
+* **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; feat(FixedExtentScrollController): Add parent class properties to the constructor.<br />
+  <sub>[#163190](https://github.com/flutter/flutter/pull/163190) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163190) 71 additions and 1 deletion in 2 files</sub><br />
+
