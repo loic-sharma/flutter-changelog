@@ -1456,7 +1456,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-27 commits.
+28 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow any attributes from markdown-attrs
   <sub>[#11705](https://github.com/flutter/website/pull/11705) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11705) over 14 hours, 0 additions and 1 deletion in 1 file</sub>
@@ -1533,6 +1533,10 @@
 
 * **[Eric Windmill](https://github.com/ericwindmill)** &mdash; Remove reference to Visual Samples Index
   <sub>[#11699](https://github.com/flutter/website/pull/11699) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/website/pull/11699) over 4 hours, 19 additions and 15 deletions in 11 files</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Bennajah](https://github.com/bennajah)** &mdash; migrate Android Gradle scripts to Kotlin KTS
+  <sub>[#11720](https://github.com/flutter/website/pull/11720) merged on February 14, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/website/pull/11720) over 19 hours, 23 additions and 16 deletions in 1 file</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Matias de Andrea](https://github.com/deandreamatias)** &mdash; Add flutter_branch_sdk to deep-links-flag-change
