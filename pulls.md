@@ -104,3 +104,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove bringup for android_display_cutout<br />
   <sub>[#163312](https://github.com/flutter/flutter/pull/163312) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163312) 0 additions and 1 deletion in 1 file</sub><br />
 
+* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints<br />
+  <sub>[#163314](https://github.com/flutter/flutter/pull/163314) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163314) 173 additions and 12 deletions in 7 files</sub><br />
+
