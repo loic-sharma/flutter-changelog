@@ -1232,7 +1232,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-13 commits.
+14 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Change callback methods with a non-null return type to non-null<br />
   <sub>[#8564](https://github.com/flutter/packages/pull/8564) merged on February 13, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/8564) over 1 week, 2674 additions and 3225 deletions in 28 files</sub><br />
@@ -1281,6 +1281,10 @@
 * **[oussama berhili](https://github.com/berhili098)** &mdash; [shared_preferences]Fix : SetState returning future<br />
   <sub>[#8398](https://github.com/flutter/packages/pull/8398) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8398) over 1 month, 8 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Fix crash when setting activeFormat on FLTCaptureDevice<br />
+  <sub>[#8630](https://github.com/flutter/packages/pull/8630) merged on February 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8630) over 3 hours, 9 additions and 6 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add deprecation notices to READMEs<br />
   <sub>[#8598](https://github.com/flutter/packages/pull/8598) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8598) over 1 hour, 59 additions and 9 deletions in 18 files</sub><br />
