@@ -634,7 +634,7 @@
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Run Mac_arm64 framework_tests_misc on Mac-14 with Xcode 16<br />
-  <sub>[#162670](https://github.com/flutter/flutter/pull/162670) merged on February 5, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162670) over 1 day, 6 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#162670](https://github.com/flutter/flutter/pull/162670) merged on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162670) over 1 day, 6 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Uprev fuchsia components<br />
