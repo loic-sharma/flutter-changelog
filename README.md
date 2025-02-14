@@ -1232,7 +1232,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-14 commits.
+16 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Change callback methods with a non-null return type to non-null<br />
   <sub>[#8564](https://github.com/flutter/packages/pull/8564) merged on February 13, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/8564) over 1 week, 2674 additions and 3225 deletions in 28 files</sub><br />
@@ -1281,6 +1281,14 @@
 * **[oussama berhili](https://github.com/berhili098)** &mdash; [shared_preferences]Fix : SetState returning future<br />
   <sub>[#8398](https://github.com/flutter/packages/pull/8398) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8398) over 1 month, 8 additions and 3 deletions in 3 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update CODEOWNERS<br />
+  <sub>[#8628](https://github.com/flutter/packages/pull/8628) merged on February 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8628) over 18 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub><br />
+
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [flutter_adaptive_scaffold] Fix some memory leaks<br />
+  <sub>[#8546](https://github.com/flutter/packages/pull/8546) merged on February 14, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8546) over 1 week, 18 additions and 5 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Fix crash when setting activeFormat on FLTCaptureDevice<br />
   <sub>[#8630](https://github.com/flutter/packages/pull/8630) merged on February 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8630) over 3 hours, 9 additions and 6 deletions in 4 files</sub><br />

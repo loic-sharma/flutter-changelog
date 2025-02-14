@@ -74,9 +74,6 @@
 * **[MaherSafadii](https://github.com/MaherSafadii)** &mdash; Change CupertinoSliverNavigationBar's stretch parameter's default value to true<br />
   <sub>[#163026](https://github.com/flutter/flutter/pull/163026) opened on on February 11, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163026) 4 additions and 4 deletions in 1 file</sub><br />
 
-* **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Manually roll customer_testing to enable rfw tests<br />
-  <sub>[#163030](https://github.com/flutter/flutter/pull/163030) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163030) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create VersionUtils class and unit tests and extract logic out of flutter.groovy<br />
   <sub>[#163166](https://github.com/flutter/flutter/pull/163166) opened on on February 12, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163166) 105 additions and 45 deletions in 3 files</sub><br />
 
@@ -89,6 +86,9 @@
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
 
+* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): pass the default text style down the tree<br />
+  <sub>[#163259](https://github.com/flutter/flutter/pull/163259) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163259) 46 additions and 1 deletion in 2 files</sub><br />
+
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update engine.version file, ensure post-submit CI can find the binaries<br />
   <sub>[#163267](https://github.com/flutter/flutter/pull/163267) opened on on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163267) 26 additions and 3 deletions in 4 files</sub><br />
 
@@ -97,9 +97,6 @@
 
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Guard against zero item extent for carousel<br />
   <sub>[#163310](https://github.com/flutter/flutter/pull/163310) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163310) 31 additions and 0 deletions in 2 files</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove bringup for android_display_cutout<br />
-  <sub>[#163312](https://github.com/flutter/flutter/pull/163312) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163312) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints<br />
   <sub>[#163314](https://github.com/flutter/flutter/pull/163314) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163314) 173 additions and 12 deletions in 7 files</sub><br />
