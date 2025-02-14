@@ -101,3 +101,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update engine.version file, ensure post-submit CI can find the binaries<br />
   <sub>[#163267](https://github.com/flutter/flutter/pull/163267) opened on on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163267) 26 additions and 3 deletions in 4 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update integration test and benchmark Android .gitignore files to match the current app template<br />
+  <sub>[#163276](https://github.com/flutter/flutter/pull/163276) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163276) 260 additions and 19 deletions in 23 files</sub><br />
+
