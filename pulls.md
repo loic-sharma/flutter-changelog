@@ -113,3 +113,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when binding to READ_FRAMEBUFFER, treat multisampled textures as single sampled.<br />
   <sub>[#163345](https://github.com/flutter/flutter/pull/163345) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163345) 7 additions and 1 deletion in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix failing chrome_dev_mode tests<br />
+  <sub>[#163346](https://github.com/flutter/flutter/pull/163346) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163346) 2 additions and 2 deletions in 1 file</sub><br />
+
