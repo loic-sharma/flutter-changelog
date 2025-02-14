@@ -89,7 +89,7 @@
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): pass the default text style down the tree<br />
   <sub>[#163259](https://github.com/flutter/flutter/pull/163259) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163259) 46 additions and 1 deletion in 2 files</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update engine.version file, ensure post-submit CI can find the binaries<br />
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update engine.version file for 3.30.0-0.1.pre release<br />
   <sub>[#163267](https://github.com/flutter/flutter/pull/163267) opened on on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163267) 26 additions and 3 deletions in 4 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update integration test and benchmark Android .gitignore files to match the current app template<br />
@@ -103,4 +103,7 @@
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Run Mac_arm64 framework_tests_misc on Mac-14 with Xcode 16<br />
   <sub>[#163316](https://github.com/flutter/flutter/pull/163316) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163316) 6 additions and 1 deletion in 1 file</sub><br />
+
+* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update update_engine_version to support RC post-submit<br />
+  <sub>[#163333](https://github.com/flutter/flutter/pull/163333) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163333) 26 additions and 0 deletions in 2 files</sub><br />
 
