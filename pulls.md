@@ -98,3 +98,6 @@
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path<br />
   <sub>[#163282](https://github.com/flutter/flutter/pull/163282) opened on on February 14, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/163282) 917 additions and 265 deletions in 11 files</sub><br />
 
+* **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Guard against zero item extent for carousel<br />
+  <sub>[#163310](https://github.com/flutter/flutter/pull/163310) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163310) 31 additions and 0 deletions in 2 files</sub><br />
+
