@@ -107,3 +107,6 @@
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Move DWDS initialization into the onLoadEndCallback for the DDC library bundle format<br />
   <sub>[#163338](https://github.com/flutter/flutter/pull/163338) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163338) 8 additions and 20 deletions in 1 file</sub><br />
 
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Invalidate scaffold project if SDK changes and regenerate pubspec on change<br />
+  <sub>[#163343](https://github.com/flutter/flutter/pull/163343) opened on on February 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163343) 333 additions and 11 deletions in 5 files</sub><br />
+
