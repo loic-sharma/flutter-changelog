@@ -98,9 +98,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Run Mac_arm64 framework_tests_misc on Mac-14 with Xcode 16<br />
   <sub>[#163316](https://github.com/flutter/flutter/pull/163316) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163316) 6 additions and 1 deletion in 1 file</sub><br />
 
-* **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update update_engine_version to support RC post-submit<br />
-  <sub>[#163333](https://github.com/flutter/flutter/pull/163333) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163333) 26 additions and 0 deletions in 2 files</sub><br />
-
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add semantics role to table rows.<br />
   <sub>[#163337](https://github.com/flutter/flutter/pull/163337) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163337) 118 additions and 37 deletions in 5 files</sub><br />
 
@@ -112,7 +109,4 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when binding to READ_FRAMEBUFFER, treat multisampled textures as single sampled.<br />
   <sub>[#163345](https://github.com/flutter/flutter/pull/163345) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163345) 7 additions and 1 deletion in 1 file</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; Fix failing chrome_dev_mode tests<br />
-  <sub>[#163346](https://github.com/flutter/flutter/pull/163346) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163346) 2 additions and 2 deletions in 1 file</sub><br />
 
