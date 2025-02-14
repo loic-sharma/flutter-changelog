@@ -95,9 +95,6 @@
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Guard against zero item extent for carousel<br />
   <sub>[#163310](https://github.com/flutter/flutter/pull/163310) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163310) 31 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): replace the height parameter with constraints<br />
-  <sub>[#163314](https://github.com/flutter/flutter/pull/163314) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163314) 173 additions and 12 deletions in 7 files</sub><br />
-
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Run Mac_arm64 framework_tests_misc on Mac-14 with Xcode 16<br />
   <sub>[#163316](https://github.com/flutter/flutter/pull/163316) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163316) 6 additions and 1 deletion in 1 file</sub><br />
 
