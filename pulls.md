@@ -80,9 +80,6 @@
 * **[Victor Eronmosele](https://github.com/victoreronmosele)** &mdash; Manually roll customer_testing to enable rfw tests<br />
   <sub>[#163030](https://github.com/flutter/flutter/pull/163030) opened on on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163030) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Add experimental support for web-based widget preview environment<br />
-  <sub>[#163154](https://github.com/flutter/flutter/pull/163154) opened on on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163154) 82 additions and 32 deletions in 5 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create VersionUtils class and unit tests and extract logic out of flutter.groovy<br />
   <sub>[#163166](https://github.com/flutter/flutter/pull/163166) opened on on February 12, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163166) 104 additions and 45 deletions in 3 files</sub><br />
 
