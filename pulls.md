@@ -104,6 +104,6 @@
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update update_engine_version to support RC post-submit<br />
   <sub>[#163333](https://github.com/flutter/flutter/pull/163333) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163333) 26 additions and 0 deletions in 2 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add semantics role to table rows.<br />
-  <sub>[#163337](https://github.com/flutter/flutter/pull/163337) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163337) 118 additions and 36 deletions in 5 files</sub><br />
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Move DWDS initialization into the onLoadEndCallback for the DDC library bundle format<br />
+  <sub>[#163338](https://github.com/flutter/flutter/pull/163338) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163338) 8 additions and 20 deletions in 1 file</sub><br />
 
