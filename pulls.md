@@ -101,3 +101,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update integration test and benchmark Android .gitignore files to match the current app template<br />
   <sub>[#163276](https://github.com/flutter/flutter/pull/163276) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163276) 260 additions and 19 deletions in 23 files</sub><br />
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path<br />
+  <sub>[#163282](https://github.com/flutter/flutter/pull/163282) opened on on February 14, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163282) 917 additions and 265 deletions in 11 files</sub><br />
+
