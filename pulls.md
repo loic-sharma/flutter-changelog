@@ -89,9 +89,6 @@
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
 
-* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): pass the default text style down the tree<br />
-  <sub>[#163259](https://github.com/flutter/flutter/pull/163259) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163259) 40 additions and 1 deletion in 2 files</sub><br />
-
 * **[Christopher Fujino](https://github.com/christopherfujino)** &mdash; Update engine.version file, ensure post-submit CI can find the binaries<br />
   <sub>[#163267](https://github.com/flutter/flutter/pull/163267) opened on on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163267) 26 additions and 3 deletions in 4 files</sub><br />
 
