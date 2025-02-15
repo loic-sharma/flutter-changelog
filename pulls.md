@@ -116,3 +116,6 @@
 * **[Dibash Poudel](https://github.com/dbspoudel)** &mdash; Fix Null check operator used on a null value<br />
   <sub>[#163356](https://github.com/flutter/flutter/pull/163356) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163356) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant `useMaterial3: true`<br />
+  <sub>[#163372](https://github.com/flutter/flutter/pull/163372) opened on on February 15, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163372) 402 additions and 773 deletions in 196 files</sub><br />
+
