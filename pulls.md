@@ -102,7 +102,7 @@
   <sub>[#163337](https://github.com/flutter/flutter/pull/163337) opened on on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163337) 118 additions and 37 deletions in 5 files</sub><br />
 
 * **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Move DWDS initialization into the onLoadEndCallback for the DDC library bundle format<br />
-  <sub>[#163338](https://github.com/flutter/flutter/pull/163338) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163338) 8 additions and 20 deletions in 1 file</sub><br />
+  <sub>[#163338](https://github.com/flutter/flutter/pull/163338) opened on on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163338) 8 additions and 20 deletions in 1 file</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Invalidate scaffold project if SDK changes and regenerate pubspec on change<br />
   <sub>[#163343](https://github.com/flutter/flutter/pull/163343) opened on on February 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163343) 337 additions and 11 deletions in 5 files</sub><br />
@@ -115,4 +115,7 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [web][a11y]Replace  _childContainerElement with transformOrigin<br />
   <sub>[#163355](https://github.com/flutter/flutter/pull/163355) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163355) 7 additions and 57 deletions in 1 file</sub><br />
+
+* **[Dibash Poudel](https://github.com/dbspoudel)** &mdash; Fix Null check operator used on a null value<br />
+  <sub>[#163356](https://github.com/flutter/flutter/pull/163356) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163356) 1 addition and 1 deletion in 1 file</sub><br />
 
