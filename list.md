@@ -1285,7 +1285,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-17 commits.
+18 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Change callback methods with a non-null return type to non-null
   <sub>[#8564](https://github.com/flutter/packages/pull/8564) merged on February 13, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/8564) over 1 week, 2674 additions and 3225 deletions in 28 files</sub>
@@ -1310,6 +1310,10 @@
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add support for `TypedStatefulShellBranch`'s `preload`
   <sub>[#8587](https://github.com/flutter/packages/pull/8587) merged on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8587) over 3 days, 34 additions and 3 deletions in 5 files</sub>
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Enable `permissive-` for Windows plugin examples
+  <sub>[#8636](https://github.com/flutter/packages/pull/8636) merged on February 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8636) over 8 hours, 83 additions and 62 deletions in 13 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Remove remaining OCMock usage in tests
   <sub>[#8624](https://github.com/flutter/packages/pull/8624) merged on February 13, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/packages/pull/8624) over 1 hour, 701 additions and 264 deletions in 21 files</sub>
