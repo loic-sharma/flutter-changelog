@@ -1285,7 +1285,7 @@
 
 ### February 8, 2025 to February 14, 2025
 
-16 commits.
+17 commits.
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Change callback methods with a non-null return type to non-null<br />
   <sub>[#8564](https://github.com/flutter/packages/pull/8564) merged on February 13, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/8564) over 1 week, 2674 additions and 3225 deletions in 28 files</sub><br />
@@ -1302,6 +1302,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Add errors for ProxyAPI callback methods and null instances when reading in a ProxyApiBaseCodec<br />
   <sub>[#8567](https://github.com/flutter/packages/pull/8567) merged on February 10, 2025 &mdash; **Extra large:** [26 comments](https://github.com/flutter/packages/pull/8567) over 6 days, 646 additions and 1067 deletions in 20 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Update task queue handling<br />
+  <sub>[#8627](https://github.com/flutter/packages/pull/8627) merged on February 15, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/packages/pull/8627) over 1 day, 1080 additions and 81 deletions in 35 files</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [go_router_builder] Add support for `TypedStatefulShellBranch`'s `preload`<br />
   <sub>[#8587](https://github.com/flutter/packages/pull/8587) merged on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8587) over 3 days, 34 additions and 3 deletions in 5 files</sub><br />
