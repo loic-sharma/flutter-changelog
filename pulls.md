@@ -101,9 +101,6 @@
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add semantics role to table rows.<br />
   <sub>[#163337](https://github.com/flutter/flutter/pull/163337) opened on on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163337) 118 additions and 37 deletions in 5 files</sub><br />
 
-* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Move DWDS initialization into the onLoadEndCallback for the DDC library bundle format<br />
-  <sub>[#163338](https://github.com/flutter/flutter/pull/163338) opened on on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163338) 8 additions and 20 deletions in 1 file</sub><br />
-
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Invalidate scaffold project if SDK changes and regenerate pubspec on change<br />
   <sub>[#163343](https://github.com/flutter/flutter/pull/163343) opened on on February 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163343) 337 additions and 11 deletions in 5 files</sub><br />
 
