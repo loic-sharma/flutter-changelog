@@ -134,3 +134,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Container's child state loss.<br />
   <sub>[#163419](https://github.com/flutter/flutter/pull/163419) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163419) 178 additions and 83 deletions in 5 files</sub><br />
 
+* **[Masahiro Aoki](https://github.com/mafreud)** &mdash; [ReorderableListView] Always wrap child with Material<br />
+  <sub>[#163428](https://github.com/flutter/flutter/pull/163428) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163428) 11 additions and 4 deletions in 1 file</sub><br />
+
