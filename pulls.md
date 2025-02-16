@@ -137,3 +137,6 @@
 * **[Masahiro Aoki](https://github.com/mafreud)** &mdash; [ReorderableListView] Always wrap child with Material<br />
   <sub>[#163428](https://github.com/flutter/flutter/pull/163428) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163428) 11 additions and 4 deletions in 1 file</sub><br />
 
+* **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; Hot Restart should dispose all previous Platform Views (macOS)<br />
+  <sub>[#163439](https://github.com/flutter/flutter/pull/163439) opened on on February 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163439) 53 additions and 0 deletions in 4 files</sub><br />
+
