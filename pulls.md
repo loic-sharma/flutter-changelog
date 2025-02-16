@@ -117,8 +117,11 @@
   <sub>[#163356](https://github.com/flutter/flutter/pull/163356) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163356) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant `useMaterial3: true`<br />
-  <sub>[#163376](https://github.com/flutter/flutter/pull/163376) opened on on February 15, 2025 &mdash; **Large:** [7 comments](https://github.com/flutter/flutter/pull/163376) 402 additions and 777 deletions in 195 files</sub><br />
+  <sub>[#163376](https://github.com/flutter/flutter/pull/163376) opened on on February 15, 2025 &mdash; **Large:** [8 comments](https://github.com/flutter/flutter/pull/163376) 402 additions and 777 deletions in 195 files</sub><br />
 
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
   <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
+
+* **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [flutter_tools] Fix VS Code package.json path on macOS with case-sensitive file system<br />
+  <sub>[#163409](https://github.com/flutter/flutter/pull/163409) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163409) 2 additions and 2 deletions in 2 files</sub><br />
 
