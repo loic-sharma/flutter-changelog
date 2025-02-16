@@ -125,3 +125,6 @@
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [flutter_tools] Fix VS Code package.json path on macOS with case-sensitive file system<br />
   <sub>[#163409](https://github.com/flutter/flutter/pull/163409) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163409) 2 additions and 2 deletions in 3 files</sub><br />
 
+* **[Walid Ashik](https://github.com/walid-ashik)** &mdash; Add BorderRadiusGeometry to Divider Widget for Customisable Border Radius<br />
+  <sub>[#163414](https://github.com/flutter/flutter/pull/163414) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163414) 57 additions and 5 deletions in 2 files</sub><br />
+
