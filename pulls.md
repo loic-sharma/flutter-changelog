@@ -128,3 +128,6 @@
 * **[Walid Ashik](https://github.com/walid-ashik)** &mdash; Add BorderRadiusGeometry to Divider Widget for Customisable Border Radius<br />
   <sub>[#163414](https://github.com/flutter/flutter/pull/163414) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163414) 57 additions and 5 deletions in 2 files</sub><br />
 
+* **[Kouki Badr](https://github.com/koukibadr)** &mdash; feat(CupertinoDatePicker): add a two points time seperator column<br />
+  <sub>[#163417](https://github.com/flutter/flutter/pull/163417) opened on on February 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163417) 90 additions and 0 deletions in 2 files</sub><br />
+
