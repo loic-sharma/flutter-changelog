@@ -147,5 +147,5 @@
   <sub>[#163476](https://github.com/flutter/flutter/pull/163476) opened on on February 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163476) 160 additions and 0 deletions in 15 files</sub><br />
 
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement MenuControllerDecorator for animating menus.<br />
-  <sub>[#163481](https://github.com/flutter/flutter/pull/163481) opened on on February 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/163481) 2016 additions and 66 deletions in 6 files</sub><br />
+  <sub>[#163481](https://github.com/flutter/flutter/pull/163481) opened on on February 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/163481) 2018 additions and 66 deletions in 6 files</sub><br />
 
