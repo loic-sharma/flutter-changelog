@@ -149,3 +149,6 @@
 * **[davidhicks980](https://github.com/davidhicks980)** &mdash; Implement MenuControllerDecorator for animating menus.<br />
   <sub>[#163481](https://github.com/flutter/flutter/pull/163481) opened on on February 17, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/163481) 2018 additions and 66 deletions in 6 files</sub><br />
 
+* **[camfrandsen](https://github.com/camfrandsen)** &mdash; Add Option to disable full selection on focus on TextField, TestFormField, and EditableText<br />
+  <sub>[#163491](https://github.com/flutter/flutter/pull/163491) opened on on February 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163491) 47 additions and 0 deletions in 4 files</sub><br />
+
