@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### February 15, 2025 to February 21, 2025
+
+1 commits.
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 40ce5ef20d22 to 7e3129d5db11 (1 revision)<br />
+  <sub>[#163451](https://github.com/flutter/flutter/pull/163451) merged on February 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163451) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
 ### February 8, 2025 to February 14, 2025
 
-122 commits.
+<details>
+<summary>122 commits...</summary>
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix buttons with icons ignore provided `foregroundColor`<br />
   <sub>[#162880](https://github.com/flutter/flutter/pull/162880) merged on February 13, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/162880) over 5 days, 283 additions and 7 deletions in 13 files</sub><br />
@@ -497,6 +506,8 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 22f96cc60dec to 180ed4fc263d (2 revisions)<br />
   <sub>[#162974](https://github.com/flutter/flutter/pull/162974) merged on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162974) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+</details>
 
 ### February 1, 2025 to February 7, 2025
 
