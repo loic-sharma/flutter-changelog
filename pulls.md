@@ -152,3 +152,6 @@
 * **[camfrandsen](https://github.com/camfrandsen)** &mdash; Add Option to disable full selection on focus on TextField, TestFormField, and EditableText<br />
   <sub>[#163491](https://github.com/flutter/flutter/pull/163491) opened on on February 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163491) 47 additions and 0 deletions in 4 files</sub><br />
 
+* **[Brendan](https://github.com/2bndy5)** &mdash; engine: report mouse backward and forward buttons on linux<br />
+  <sub>[#163500](https://github.com/flutter/flutter/pull/163500) opened on on February 17, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163500) 9 additions and 1 deletion in 1 file</sub><br />
+
