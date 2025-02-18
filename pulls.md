@@ -167,3 +167,6 @@
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; docs(CHANGELOG): add v3.29 release entry<br />
   <sub>[#163538](https://github.com/flutter/flutter/pull/163538) opened on on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163538) 6 additions and 0 deletions in 1 file</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; update module_host_with_custom_build_v2_embedding to target android 35 and to use the latest gradle and agp versions<br />
+  <sub>[#163542](https://github.com/flutter/flutter/pull/163542) opened on on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163542) 9 additions and 7 deletions in 3 files</sub><br />
+

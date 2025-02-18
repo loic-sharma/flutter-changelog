@@ -1114,9 +1114,18 @@
 
 ## flutter/website
 
+### February 15, 2025 to February 21, 2025
+
+1 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix empty codeblock on layout tutorial after 3.7 reformat<br />
+  <sub>[#11727](https://github.com/flutter/website/pull/11727) merged on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11727) over 18 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Marya](https://github.com/MaryaBelanger)</sub><br />
+
 ### February 8, 2025 to February 14, 2025
 
-30 commits.
+<details>
+<summary>30 commits...</summary>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Allow any attributes from markdown-attrs<br />
   <sub>[#11705](https://github.com/flutter/website/pull/11705) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11705) over 14 hours, 0 additions and 1 deletion in 1 file</sub><br />
@@ -1238,6 +1247,8 @@
 * **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update "Obfuscate your app" topic to be more platform agnostic.<br />
   <sub>[#11690](https://github.com/flutter/website/pull/11690) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11690) over 2 days, 83 additions and 68 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+</details>
 
 ### February 1, 2025 to February 7, 2025
 
