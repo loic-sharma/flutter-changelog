@@ -155,9 +155,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback.<br />
   <sub>[#163501](https://github.com/flutter/flutter/pull/163501) opened on on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163501) 105 additions and 4 deletions in 3 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace hard coded numbers with mouse button defines<br />
-  <sub>[#163503](https://github.com/flutter/flutter/pull/163503) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163503) 3 additions and 3 deletions in 1 file</sub><br />
-
 * **[aaryalotwala](https://github.com/aaryalotwala)** &mdash; Custom widget<br />
   <sub>[#163507](https://github.com/flutter/flutter/pull/163507) opened on on February 18, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/163507) 6112 additions and 948 deletions in 194 files</sub><br />
 
