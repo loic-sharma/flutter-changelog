@@ -138,7 +138,7 @@
   <sub>[#163428](https://github.com/flutter/flutter/pull/163428) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163428) 11 additions and 4 deletions in 1 file</sub><br />
 
 * **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; Hot Restart should dispose all previous Platform Views (macOS)<br />
-  <sub>[#163439](https://github.com/flutter/flutter/pull/163439) opened on on February 16, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163439) 53 additions and 0 deletions in 4 files</sub><br />
+  <sub>[#163439](https://github.com/flutter/flutter/pull/163439) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163439) 53 additions and 0 deletions in 4 files</sub><br />
 
 * **[Harkirat Singh](https://github.com/0xharkirat)** &mdash; Set `debugShowCheckedModeBanner` Default to `false` <br />
   <sub>[#163444](https://github.com/flutter/flutter/pull/163444) opened on on February 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163444) 6 additions and 6 deletions in 3 files</sub><br />
@@ -154,9 +154,6 @@
 
 * **[Greg Price](https://github.com/gnprice)** &mdash; Control paint order / z-order of slivers<br />
   <sub>[#163511](https://github.com/flutter/flutter/pull/163511) opened on on February 18, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/163511) 272 additions and 98 deletions in 4 files</sub><br />
-
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Don't create a redundant typography context.<br />
-  <sub>[#163513](https://github.com/flutter/flutter/pull/163513) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163513) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; docs(CHANGELOG): add v3.29 release entry<br />
   <sub>[#163538](https://github.com/flutter/flutter/pull/163538) opened on on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163538) 6 additions and 0 deletions in 1 file</sub><br />
