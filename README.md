@@ -4,11 +4,15 @@
 
 ### February 15, 2025 to February 21, 2025
 
-16 commits.
+18 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing properties to _ArcPaintPredicate.<br />
   <sub>[#162572](https://github.com/flutter/flutter/pull/162572) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162572) over 2 weeks, 206 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path<br />
+  <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Invalidate `pod install` output if `.flutter-plugins-dependencies` content changes.<br />
   <sub>[#163275](https://github.com/flutter/flutter/pull/163275) merged on February 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/163275) over 4 days, 95 additions and 1 deletion in 2 files</sub><br />
@@ -41,6 +45,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when binding to READ_FRAMEBUFFER, treat multisampled textures as single sampled.<br />
   <sub>[#163345](https://github.com/flutter/flutter/pull/163345) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163345) over 3 days, 32 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Alexander Dahlberg](https://github.com/Swiftaxe), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the engine (outside html/ folder)<br />
+  <sub>[#162840](https://github.com/flutter/flutter/pull/162840) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162840) over 1 week, 14 additions and 69 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; update module_host_with_custom_build_v2_embedding to target android 35 and to use the latest gradle and agp versions<br />
   <sub>[#163542](https://github.com/flutter/flutter/pull/163542) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163542) over 1 hour, 9 additions and 7 deletions in 3 files</sub><br />

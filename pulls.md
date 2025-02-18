@@ -62,9 +62,6 @@
 * **[Johannes Pietilä Löhnn](https://github.com/lohnn)** &mdash; RenderConstrainedBox takes constraints when measuring intrinsic sizes<br />
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the engine (outside html/ folder)<br />
-  <sub>[#162840](https://github.com/flutter/flutter/pull/162840) opened on on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162840) 14 additions and 69 deletions in 10 files</sub><br />
-
 * **[pathconnected](https://github.com/pathconnected)** &mdash; SliverResizingHeader maxScrollObstructionExtent<br />
   <sub>[#162955](https://github.com/flutter/flutter/pull/162955) opened on on February 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162955) 54 additions and 1 deletion in 2 files</sub><br />
 
