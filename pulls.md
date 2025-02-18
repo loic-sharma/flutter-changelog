@@ -102,7 +102,7 @@
   <sub>[#163337](https://github.com/flutter/flutter/pull/163337) opened on on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163337) 118 additions and 37 deletions in 5 files</sub><br />
 
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Invalidate scaffold project if SDK changes and regenerate pubspec on change<br />
-  <sub>[#163343](https://github.com/flutter/flutter/pull/163343) opened on on February 14, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163343) 337 additions and 11 deletions in 5 files</sub><br />
+  <sub>[#163343](https://github.com/flutter/flutter/pull/163343) opened on on February 14, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/163343) 337 additions and 11 deletions in 5 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when binding to READ_FRAMEBUFFER, treat multisampled textures as single sampled.<br />
   <sub>[#163345](https://github.com/flutter/flutter/pull/163345) opened on on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163345) 32 additions and 1 deletion in 3 files</sub><br />
