@@ -4,7 +4,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-18 commits.
+20 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing properties to _ArcPaintPredicate.
   <sub>[#162572](https://github.com/flutter/flutter/pull/162572) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162572) over 2 weeks, 206 additions and 0 deletions in 2 files</sub>
@@ -34,6 +34,10 @@
   <sub>[#163503](https://github.com/flutter/flutter/pull/163503) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163503) over 13 hours, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] use macro definition to shrink repetitive JNI code size.
+  <sub>[#163395](https://github.com/flutter/flutter/pull/163395) merged on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163395) over 3 days, 54 additions and 244 deletions in 1 file</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update integration test and benchmark Android .gitignore files to match the current app template
   <sub>[#163276](https://github.com/flutter/flutter/pull/163276) merged on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163276) over 4 days, 260 additions and 19 deletions in 23 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
@@ -53,6 +57,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; update module_host_with_custom_build_v2_embedding to target android 35 and to use the latest gradle and agp versions
   <sub>[#163542](https://github.com/flutter/flutter/pull/163542) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163542) over 1 hour, 9 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows_arm64 plugin_test_windows to be flaky
+  <sub>[#163123](https://github.com/flutter/flutter/pull/163123) merged on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163123) over 6 days, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Dart SDK from fcef25f18e4d to 023ac80cef14 (1 revision)
   <sub>[#163110](https://github.com/flutter/flutter/pull/163110) merged on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163110) over 6 days, 7 additions and 5 deletions in 3 files</sub>
