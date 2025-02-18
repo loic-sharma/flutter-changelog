@@ -78,7 +78,7 @@
   <sub>[#163190](https://github.com/flutter/flutter/pull/163190) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163190) 71 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
-  <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): pass the default text style down the tree<br />
   <sub>[#163259](https://github.com/flutter/flutter/pull/163259) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163259) 46 additions and 1 deletion in 2 files</sub><br />
@@ -147,5 +147,5 @@
   <sub>[#163556](https://github.com/flutter/flutter/pull/163556) opened on on February 18, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163556) 115 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] fix API level check for Android.<br />
-  <sub>[#163558](https://github.com/flutter/flutter/pull/163558) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163558) 20 additions and 10 deletions in 4 files</sub><br />
+  <sub>[#163558](https://github.com/flutter/flutter/pull/163558) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163558) 24 additions and 13 deletions in 4 files</sub><br />
 
