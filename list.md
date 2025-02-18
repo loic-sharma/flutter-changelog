@@ -4,7 +4,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-15 commits.
+16 commits.
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing properties to _ArcPaintPredicate.
   <sub>[#162572](https://github.com/flutter/flutter/pull/162572) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162572) over 2 weeks, 206 additions and 0 deletions in 2 files</sub>
@@ -17,6 +17,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove bringup for android_display_cutout
   <sub>[#163312](https://github.com/flutter/flutter/pull/163312) merged on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163312) over 4 days, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Change `cardTheme`, `dialogTheme`, and `tabBarTheme` type to `xxxThemeData`
+  <sub>[#157292](https://github.com/flutter/flutter/pull/157292) merged on February 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157292) over 4 months, 13 additions and 71 deletions in 2 files</sub>
+  <sub>Reviewed by: [Pierre](https://github.com/guidezpl)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create VersionUtils class and unit tests and extract logic out of flutter.groovy
   <sub>[#163166](https://github.com/flutter/flutter/pull/163166) merged on February 18, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163166) over 5 days, 105 additions and 45 deletions in 3 files</sub>
