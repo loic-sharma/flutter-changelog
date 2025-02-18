@@ -152,9 +152,6 @@
 * **[Brendan](https://github.com/2bndy5)** &mdash; engine: report mouse backward and forward buttons on linux<br />
   <sub>[#163500](https://github.com/flutter/flutter/pull/163500) opened on on February 17, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/163500) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[aaryalotwala](https://github.com/aaryalotwala)** &mdash; Custom widget<br />
-  <sub>[#163507](https://github.com/flutter/flutter/pull/163507) opened on on February 18, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/163507) 6112 additions and 948 deletions in 194 files</sub><br />
-
 * **[Greg Price](https://github.com/gnprice)** &mdash; Control paint order / z-order of slivers<br />
   <sub>[#163511](https://github.com/flutter/flutter/pull/163511) opened on on February 18, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/163511) 272 additions and 98 deletions in 4 files</sub><br />
 
