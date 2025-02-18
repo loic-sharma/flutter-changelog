@@ -65,9 +65,6 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the engine (outside html/ folder)<br />
   <sub>[#162840](https://github.com/flutter/flutter/pull/162840) opened on on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162840) 14 additions and 69 deletions in 10 files</sub><br />
 
-* **[Renzo Olivares](https://github.com/Renzo-Olivares)** &mdash; EditableText should not allow horizontal scrolling on iOS<br />
-  <sub>[#162841](https://github.com/flutter/flutter/pull/162841) opened on on February 6, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162841) 95 additions and 1 deletion in 2 files</sub><br />
-
 * **[pathconnected](https://github.com/pathconnected)** &mdash; SliverResizingHeader maxScrollObstructionExtent<br />
   <sub>[#162955](https://github.com/flutter/flutter/pull/162955) opened on on February 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162955) 54 additions and 1 deletion in 2 files</sub><br />
 
@@ -154,7 +151,4 @@
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; docs(CHANGELOG): add v3.29 release entry<br />
   <sub>[#163538](https://github.com/flutter/flutter/pull/163538) opened on on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163538) 6 additions and 0 deletions in 1 file</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; update module_host_with_custom_build_v2_embedding to target android 35 and to use the latest gradle and agp versions<br />
-  <sub>[#163542](https://github.com/flutter/flutter/pull/163542) opened on on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163542) 9 additions and 7 deletions in 3 files</sub><br />
 
