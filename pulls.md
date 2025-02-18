@@ -164,3 +164,6 @@
 * **[aaryalotwala](https://github.com/aaryalotwala)** &mdash; Custom widget<br />
   <sub>[#163507](https://github.com/flutter/flutter/pull/163507) opened on on February 18, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/163507) 6112 additions and 948 deletions in 194 files</sub><br />
 
+* **[Greg Price](https://github.com/gnprice)** &mdash; Control paint order / z-order of slivers<br />
+  <sub>[#163511](https://github.com/flutter/flutter/pull/163511) opened on on February 18, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163511) 267 additions and 97 deletions in 4 files</sub><br />
+
