@@ -83,9 +83,6 @@
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): pass the default text style down the tree<br />
   <sub>[#163259](https://github.com/flutter/flutter/pull/163259) opened on on February 13, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163259) 46 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update integration test and benchmark Android .gitignore files to match the current app template<br />
-  <sub>[#163276](https://github.com/flutter/flutter/pull/163276) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163276) 260 additions and 19 deletions in 23 files</sub><br />
-
 * **[Navaron Bracke](https://github.com/navaronbracke)** &mdash; Guard against zero item extent for carousel<br />
   <sub>[#163310](https://github.com/flutter/flutter/pull/163310) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163310) 31 additions and 0 deletions in 2 files</sub><br />
 
