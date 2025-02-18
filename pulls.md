@@ -114,7 +114,7 @@
   <sub>[#163355](https://github.com/flutter/flutter/pull/163355) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163355) 7 additions and 57 deletions in 1 file</sub><br />
 
 * **[Dibash Poudel](https://github.com/dbspoudel)** &mdash; Fix Null check operator used on a null value<br />
-  <sub>[#163356](https://github.com/flutter/flutter/pull/163356) opened on on February 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163356) 71 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#163356](https://github.com/flutter/flutter/pull/163356) opened on on February 14, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163356) 23 additions and 1 deletion in 2 files</sub><br />
 
 * **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant `useMaterial3: true`<br />
   <sub>[#163376](https://github.com/flutter/flutter/pull/163376) opened on on February 15, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/163376) 402 additions and 777 deletions in 195 files</sub><br />
@@ -167,6 +167,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Control paint order / z-order of slivers<br />
   <sub>[#163511](https://github.com/flutter/flutter/pull/163511) opened on on February 18, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/163511) 272 additions and 98 deletions in 4 files</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Done create a redundant typography context.<br />
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Don't create a redundant typography context.<br />
   <sub>[#163513](https://github.com/flutter/flutter/pull/163513) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163513) 1 addition and 1 deletion in 1 file</sub><br />
 
