@@ -958,9 +958,18 @@
 
 ## flutter/packages
 
+### February 15, 2025 to February 21, 2025
+
+1 commits.
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Adopt task queues for Android
+  <sub>[#8622](https://github.com/flutter/packages/pull/8622) merged on February 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8622) over 4 days, 74 additions and 220 deletions in 9 files</sub>
+  <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub>
+
 ### February 8, 2025 to February 14, 2025
 
-18 commits.
+<details>
+<summary>18 commits...</summary>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Change callback methods with a non-null return type to non-null
   <sub>[#8564](https://github.com/flutter/packages/pull/8564) merged on February 13, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/packages/pull/8564) over 1 week, 2674 additions and 3225 deletions in 28 files</sub>
@@ -1033,6 +1042,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Add deprecation notices to READMEs
   <sub>[#8598](https://github.com/flutter/packages/pull/8598) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8598) over 1 hour, 59 additions and 9 deletions in 18 files</sub>
   <sub>Reviewed by: [Ander Dobo](https://github.com/anderdobo)</sub>
+
+</details>
 
 ### February 1, 2025 to February 7, 2025
 
