@@ -1028,7 +1028,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-3 commits.
+4 commits.
 
 * **[dani](https://github.com/Dan-Crane)** &mdash; [shared_preferences] Fix JSON parsing issue with _decodeValue<br />
   <sub>[#8211](https://github.com/flutter/packages/pull/8211) merged on February 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8211) over 2 months, 64 additions and 6 deletions in 4 files</sub><br />
@@ -1037,6 +1037,10 @@
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [camera_avfoundation] Migrate tests to Swift - part 2<br />
   <sub>[#8613](https://github.com/flutter/packages/pull/8613) merged on February 18, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/packages/pull/8613) over 6 days, 738 additions and 982 deletions in 19 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes potential race condition caused by a ProxyApi constructor message call being made in  an async method<br />
+  <sub>[#8656](https://github.com/flutter/packages/pull/8656) merged on February 18, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/8656) over 3 hours, 982 additions and 424 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Adopt task queues for Android<br />
   <sub>[#8622](https://github.com/flutter/packages/pull/8622) merged on February 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8622) over 4 days, 74 additions and 220 deletions in 9 files</sub><br />
