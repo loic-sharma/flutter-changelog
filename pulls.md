@@ -167,3 +167,6 @@
 * **[Greg Price](https://github.com/gnprice)** &mdash; Control paint order / z-order of slivers<br />
   <sub>[#163511](https://github.com/flutter/flutter/pull/163511) opened on on February 18, 2025 &mdash; **Medium:** [2 comments](https://github.com/flutter/flutter/pull/163511) 272 additions and 98 deletions in 4 files</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Done create a redundant typography context.<br />
+  <sub>[#163513](https://github.com/flutter/flutter/pull/163513) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163513) 1 addition and 1 deletion in 1 file</sub><br />
+
