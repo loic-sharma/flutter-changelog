@@ -131,3 +131,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Use java for looking up Android API level.<br />
   <sub>[#163558](https://github.com/flutter/flutter/pull/163558) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163558) 29 additions and 23 deletions in 5 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Fix crash when using BackdropFilters in certain GLES drivers.<br />
+  <sub>[#163581](https://github.com/flutter/flutter/pull/163581) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163581) 66 additions and 4 deletions in 7 files</sub><br />
+
