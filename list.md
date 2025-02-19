@@ -11,7 +11,7 @@
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path
-  <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [18 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub>
+  <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [19 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Invalidate `pod install` output if `.flutter-plugins-dependencies` content changes.
