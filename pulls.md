@@ -44,9 +44,6 @@
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162467) 187 additions and 46 deletions in 13 files</sub><br />
 
-* **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; Add localization for `Back` and `Cancel` buttons in CupertinoNavigationBar<br />
-  <sub>[#162581](https://github.com/flutter/flutter/pull/162581) opened on on February 2, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162581) 757 additions and 114 deletions in 85 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 251 additions and 24 deletions in 16 files</sub><br />
 

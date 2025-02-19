@@ -155,6 +155,10 @@
   <sub>[#162849](https://github.com/flutter/flutter/pull/162849) merged on February 10, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/162849) over 3 days, 22 additions and 918 deletions in 55 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; explicitly set packageConfigPath for strategy providers
+  <sub>[#163080](https://github.com/flutter/flutter/pull/163080) merged on February 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163080) over 22 hours, 2 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
+
 * **[yim](https://github.com/yiiim)** &mdash; Refactor SliverMainAxisGroup for reverse mode.
   <sub>[#161849](https://github.com/flutter/flutter/pull/161849) merged on February 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161849) over 3 weeks, 46 additions and 48 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
@@ -162,10 +166,6 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix Linux keyboard support for AltGr
   <sub>[#162495](https://github.com/flutter/flutter/pull/162495) merged on February 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162495) over 1 week, 13 additions and 7 deletions in 4 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jessy Yameogo](https://github.com/jyameo)** &mdash; explicitly set packageConfigPath for strategy providers
-  <sub>[#163080](https://github.com/flutter/flutter/pull/163080) merged on February 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163080) over 22 hours, 2 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Dispose codec after completing frame creation
   <sub>[#159945](https://github.com/flutter/flutter/pull/159945) merged on February 11, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/159945) over 2 months, 73 additions and 5 deletions in 5 files</sub>
