@@ -153,7 +153,7 @@
   <sub>[#163671](https://github.com/flutter/flutter/pull/163671) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163671) 27 additions and 7 deletions in 1 file</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Check for tracked engine.version before overriding<br />
-  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) opened on on February 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163672) 6 additions and 2 deletions in 2 files</sub><br />
+  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) opened on on February 19, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163672) 23 additions and 15 deletions in 2 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; enclosingElement -> enclosingElement3<br />
   <sub>[#163681](https://github.com/flutter/flutter/pull/163681) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163681) 1 addition and 1 deletion in 1 file</sub><br />
