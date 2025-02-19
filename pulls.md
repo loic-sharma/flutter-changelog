@@ -149,3 +149,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP] Disable Vulkan on known bad Xclipse GPU drivrs<br />
   <sub>[#163616](https://github.com/flutter/flutter/pull/163616) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163616) 48 additions and 0 deletions in 4 files</sub><br />
 
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; pure_android_host_apps android versions update<br />
+  <sub>[#163617](https://github.com/flutter/flutter/pull/163617) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163617) 14 additions and 9 deletions in 6 files</sub><br />
+
