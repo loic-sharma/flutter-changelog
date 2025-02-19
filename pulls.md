@@ -116,7 +116,7 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add mostly constructor for EdgeInsets<br />
   <sub>[#163589](https://github.com/flutter/flutter/pull/163589) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163589) 47 additions and 0 deletions in 2 files</sub><br />
 
-* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Accessibility number bug<br />
+* **[LouiseHsu](https://github.com/LouiseHsu)** &mdash; Fix extra numbers showing up when enabling VoiceControl<br />
   <sub>[#163593](https://github.com/flutter/flutter/pull/163593) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163593) 170 additions and 0 deletions in 2 files</sub><br />
 
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add `some` constructors to `EdgeInsetsGeometry` and `BorderRadiusGeometry` subclasses <br />
