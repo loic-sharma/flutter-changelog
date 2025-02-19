@@ -4,7 +4,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-20 commits.
+21 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path
   <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub>
@@ -57,6 +57,10 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; update module_host_with_custom_build_v2_embedding to target android 35 and to use the latest gradle and agp versions
   <sub>[#163542](https://github.com/flutter/flutter/pull/163542) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163542) over 1 hour, 9 additions and 7 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Revert "[Impeller] add support for rational bezier conics to Path (#63282)"
+  <sub>[#163624](https://github.com/flutter/flutter/pull/163624) merged on February 19, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/163624) over 2 hours, 266 additions and 924 deletions in 11 files</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Flutter GitHub Bot](https://github.com/fluttergithubbot)** &mdash; Marks Windows_arm64 plugin_test_windows to be flaky
   <sub>[#163123](https://github.com/flutter/flutter/pull/163123) merged on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163123) over 6 days, 1 addition and 0 deletions in 1 file</sub>
