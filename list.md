@@ -1192,7 +1192,11 @@
 
 ### February 15, 2025 to February 21, 2025
 
-2 commits.
+3 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix enabling and disabling active tabs from custom shortcode
+  <sub>[#11731](https://github.com/flutter/website/pull/11731) merged on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11731) over 16 hours, 49 additions and 36 deletions in 6 files</sub>
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Show set up entries in sidenav when child page is open
   <sub>[#11732](https://github.com/flutter/website/pull/11732) merged on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11732) over 14 hours, 40 additions and 1 deletion in 2 files</sub>
