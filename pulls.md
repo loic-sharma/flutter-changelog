@@ -42,7 +42,7 @@
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
-  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162467) 187 additions and 46 deletions in 13 files</sub><br />
+  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162467) 187 additions and 46 deletions in 13 files</sub><br />
 
 * **[Mykhailo B](https://github.com/Michae1Weiss)** &mdash; Add localization for `Back` and `Cancel` buttons in CupertinoNavigationBar<br />
   <sub>[#162581](https://github.com/flutter/flutter/pull/162581) opened on on February 2, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/flutter/pull/162581) 757 additions and 114 deletions in 85 files</sub><br />
@@ -117,7 +117,7 @@
   <sub>[#163428](https://github.com/flutter/flutter/pull/163428) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163428) 11 additions and 4 deletions in 1 file</sub><br />
 
 * **[Harkirat Singh](https://github.com/0xharkirat)** &mdash; Set `debugShowCheckedModeBanner` Default to `false` <br />
-  <sub>[#163444](https://github.com/flutter/flutter/pull/163444) opened on on February 17, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163444) 6 additions and 6 deletions in 3 files</sub><br />
+  <sub>[#163444](https://github.com/flutter/flutter/pull/163444) opened on on February 17, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163444) 6 additions and 6 deletions in 3 files</sub><br />
 
 * **[camfrandsen](https://github.com/camfrandsen)** &mdash; Add Option to disable full selection on focus on TextField, TestFormField, and EditableText<br />
   <sub>[#163491](https://github.com/flutter/flutter/pull/163491) opened on on February 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163491) 47 additions and 0 deletions in 4 files</sub><br />

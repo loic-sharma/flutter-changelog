@@ -1028,7 +1028,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-4 commits.
+5 commits.
 
 * **[dani](https://github.com/Dan-Crane)** &mdash; [shared_preferences] Fix JSON parsing issue with _decodeValue
   <sub>[#8211](https://github.com/flutter/packages/pull/8211) merged on February 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8211) over 2 months, 64 additions and 6 deletions in 4 files</sub>
@@ -1041,6 +1041,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes potential race condition caused by a ProxyApi constructor message call being made in  an async method
   <sub>[#8656](https://github.com/flutter/packages/pull/8656) merged on February 18, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/8656) over 3 hours, 982 additions and 424 deletions in 18 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Pigeon for task queue changes
+  <sub>[#8654](https://github.com/flutter/packages/pull/8654) merged on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8654) over 6 hours, 22 additions and 38 deletions in 11 files</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Adopt task queues for Android
   <sub>[#8622](https://github.com/flutter/packages/pull/8622) merged on February 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8622) over 4 days, 74 additions and 220 deletions in 9 files</sub>
