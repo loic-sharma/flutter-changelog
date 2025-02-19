@@ -4,7 +4,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-26 commits.
+28 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path
   <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub>
@@ -25,6 +25,10 @@
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Invalidate scaffold project if SDK changes and regenerate pubspec on change
   <sub>[#163343](https://github.com/flutter/flutter/pull/163343) merged on February 19, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/163343) over 4 days, 337 additions and 11 deletions in 5 files</sub>
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback.
+  <sub>[#163501](https://github.com/flutter/flutter/pull/163501) merged on February 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163501) over 1 day, 118 additions and 20 deletions in 4 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
 * **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; Hot Restart should dispose all previous Platform Views (macOS)
   <sub>[#163439](https://github.com/flutter/flutter/pull/163439) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163439) over 2 days, 67 additions and 0 deletions in 4 files</sub>
@@ -69,6 +73,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when binding to READ_FRAMEBUFFER, treat multisampled textures as single sampled.
   <sub>[#163345](https://github.com/flutter/flutter/pull/163345) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163345) over 3 days, 32 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Alexander Dahlberg](https://github.com/Swiftaxe), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
+
+* **[mariamhas](https://github.com/mariamhas)** &mdash; Create g3_bug.yml
+  <sub>[#163151](https://github.com/flutter/flutter/pull/163151) merged on February 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163151) over 1 week, 136 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the engine (outside html/ folder)
   <sub>[#162840](https://github.com/flutter/flutter/pull/162840) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162840) over 1 week, 14 additions and 69 deletions in 10 files</sub>

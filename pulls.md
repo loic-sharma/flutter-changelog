@@ -69,7 +69,7 @@
   <sub>[#163316](https://github.com/flutter/flutter/pull/163316) opened on on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163316) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add semantics role to table rows.<br />
-  <sub>[#163337](https://github.com/flutter/flutter/pull/163337) opened on on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163337) 118 additions and 37 deletions in 5 files</sub><br />
+  <sub>[#163337](https://github.com/flutter/flutter/pull/163337) opened on on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163337) 113 additions and 30 deletions in 4 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] treat ImageFilter.shader as not being equal to itself.<br />
   <sub>[#163348](https://github.com/flutter/flutter/pull/163348) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) 28 additions and 4 deletions in 2 files</sub><br />
