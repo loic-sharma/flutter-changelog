@@ -140,9 +140,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add mostly constructor for EdgeInsets<br />
   <sub>[#163589](https://github.com/flutter/flutter/pull/163589) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163589) 47 additions and 0 deletions in 2 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update CupertinoActionSheet background color opacity<br />
-  <sub>[#163592](https://github.com/flutter/flutter/pull/163592) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163592) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add `some` constructors to `EdgeInsetsGeometry` and `BorderRadiusGeometry` subclasses <br />
   <sub>[#163601](https://github.com/flutter/flutter/pull/163601) opened on on February 19, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163601) 395 additions and 0 deletions in 4 files</sub><br />
 
@@ -160,4 +157,7 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove duplicate sources in the `web_sdk`.<br />
   <sub>[#163636](https://github.com/flutter/flutter/pull/163636) opened on on February 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163636) 0 additions and 2 deletions in 1 file</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Handle null exceptions calling `renderObject`<br />
+  <sub>[#163642](https://github.com/flutter/flutter/pull/163642) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163642) 19 additions and 6 deletions in 1 file</sub><br />
 
