@@ -1192,7 +1192,11 @@
 
 ### February 15, 2025 to February 21, 2025
 
-1 commits.
+2 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Show set up entries in sidenav when child page is open
+  <sub>[#11732](https://github.com/flutter/website/pull/11732) merged on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11732) over 14 hours, 40 additions and 1 deletion in 2 files</sub>
+  <sub>Reviewed by: [John Ryan](https://github.com/johnpryan), [Marya](https://github.com/MaryaBelanger)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix empty codeblock on layout tutorial after 3.7 reformat
   <sub>[#11727](https://github.com/flutter/website/pull/11727) merged on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11727) over 18 hours, 2 additions and 2 deletions in 1 file</sub>
