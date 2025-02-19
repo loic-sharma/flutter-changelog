@@ -156,5 +156,8 @@
   <sub>[#163619](https://github.com/flutter/flutter/pull/163619) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163619) 10 additions and 5 deletions in 2 files</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Validate Gold integration<br />
-  <sub>[#163629](https://github.com/flutter/flutter/pull/163629) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163629) 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>[#163629](https://github.com/flutter/flutter/pull/163629) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163629) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove duplicate sources in the `web_sdk`.<br />
+  <sub>[#163636](https://github.com/flutter/flutter/pull/163636) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163636) 0 additions and 2 deletions in 1 file</sub><br />
 

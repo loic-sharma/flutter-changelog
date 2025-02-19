@@ -155,6 +155,10 @@
   <sub>[#162849](https://github.com/flutter/flutter/pull/162849) merged on February 10, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/162849) over 3 days, 22 additions and 918 deletions in 55 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Matan Lurey](https://github.com/matanlurey)</sub>
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unsound artifacts, remove `*Sound` qualifier.
+  <sub>[#163015](https://github.com/flutter/flutter/pull/163015) merged on February 12, 2025 &mdash; **Medium:** [12 comments](https://github.com/flutter/flutter/pull/163015) over 1 day, 116 additions and 340 deletions in 11 files</sub>
+  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan), [Srujan Gaddam](https://github.com/srujzs), [Ben Konyi](https://github.com/bkonyi), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
+
 * **[Jessy Yameogo](https://github.com/jyameo)** &mdash; explicitly set packageConfigPath for strategy providers
   <sub>[#163080](https://github.com/flutter/flutter/pull/163080) merged on February 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163080) over 22 hours, 2 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs)</sub>
@@ -191,6 +195,14 @@
   <sub>[#162422](https://github.com/flutter/flutter/pull/162422) merged on February 10, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162422) over 1 week, 171 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Kate Lovett](https://github.com/Piinks)</sub>
 
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] rrect_blur: scale max radius clamp by transform
+  <sub>[#161238](https://github.com/flutter/flutter/pull/161238) merged on February 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/161238) over 1 month, 43 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart to 3.8.0-76.0.dev
+  <sub>[#162913](https://github.com/flutter/flutter/pull/162913) merged on February 11, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/162913) over 3 days, 51025 additions and 52448 deletions in 8 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Siva](https://github.com/a-siva)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix `SkiaException` -> `TestFailure`, add tests.
   <sub>[#163054](https://github.com/flutter/flutter/pull/163054) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163054) over 57 minutes, 134 additions and 6 deletions in 3 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
@@ -198,10 +210,6 @@
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll vulkan-deps to 9edf248c597b
   <sub>[#162549](https://github.com/flutter/flutter/pull/162549) merged on February 11, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/162549) over 1 week, 1409 additions and 396 deletions in 15 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove unsound artifacts, remove `*Sound` qualifier.
-  <sub>[#163015](https://github.com/flutter/flutter/pull/163015) merged on February 12, 2025 &mdash; **Medium:** [8 comments](https://github.com/flutter/flutter/pull/163015) over 1 day, 116 additions and 340 deletions in 11 files</sub>
-  <sub>Reviewed by: [Srujan Gaddam](https://github.com/srujzs), [Ben Konyi](https://github.com/bkonyi), [Jackson Gardner](https://github.com/eyebrowsoffire)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Generate a correct `.flutter-plugin-dependencies` file for iOS/macOS projects
   <sub>[#162834](https://github.com/flutter/flutter/pull/162834) merged on February 12, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162834) over 5 days, 53 additions and 4 deletions in 7 files</sub>
@@ -226,14 +234,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove the unused `non_nullable` integration test suite.
   <sub>[#163246](https://github.com/flutter/flutter/pull/163246) merged on February 13, 2025 &mdash; **Extra large:** [3 comments](https://github.com/flutter/flutter/pull/163246) over 2 hours, 0 additions and 1873 deletions in 72 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; [Impeller] rrect_blur: scale max radius clamp by transform
-  <sub>[#161238](https://github.com/flutter/flutter/pull/161238) merged on February 10, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/161238) over 1 month, 43 additions and 4 deletions in 3 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll Dart to 3.8.0-76.0.dev
-  <sub>[#162913](https://github.com/flutter/flutter/pull/162913) merged on February 11, 2025 &mdash; **Extra large:** [4 comments](https://github.com/flutter/flutter/pull/162913) over 3 days, 51025 additions and 52448 deletions in 8 files</sub>
-  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Siva](https://github.com/a-siva)</sub>
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; [iOS][Engine] Fix view removal process for AutofillContextAction.cancel
   <sub>[#160653](https://github.com/flutter/flutter/pull/160653) merged on February 10, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/160653) over 1 month, 26 additions and 2 deletions in 2 files</sub>
