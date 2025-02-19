@@ -138,7 +138,7 @@
   <sub>[#163583](https://github.com/flutter/flutter/pull/163583) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163583) 18 additions and 74 deletions in 3 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add mostly constructor for EdgeInsets<br />
-  <sub>[#163589](https://github.com/flutter/flutter/pull/163589) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163589) 20 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#163589](https://github.com/flutter/flutter/pull/163589) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163589) 20 additions and 0 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update CupertinoActionSheet background color opacity<br />
   <sub>[#163592](https://github.com/flutter/flutter/pull/163592) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163592) 2 additions and 2 deletions in 1 file</sub><br />
