@@ -135,7 +135,7 @@
   <sub>[#163581](https://github.com/flutter/flutter/pull/163581) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163581) 66 additions and 4 deletions in 7 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace update semantics handler with signal.<br />
-  <sub>[#163583](https://github.com/flutter/flutter/pull/163583) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163583) 18 additions and 74 deletions in 3 files</sub><br />
+  <sub>[#163583](https://github.com/flutter/flutter/pull/163583) opened on on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163583) 18 additions and 74 deletions in 3 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add mostly constructor for EdgeInsets<br />
   <sub>[#163589](https://github.com/flutter/flutter/pull/163589) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163589) 47 additions and 0 deletions in 2 files</sub><br />
