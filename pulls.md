@@ -42,7 +42,7 @@
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
-  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162467) 187 additions and 46 deletions in 13 files</sub><br />
+  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162467) 187 additions and 46 deletions in 13 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 251 additions and 24 deletions in 16 files</sub><br />
@@ -139,4 +139,13 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [web][a11y]Delete _childContainerElement<br />
   <sub>[#163662](https://github.com/flutter/flutter/pull/163662) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163662) 5 additions and 65 deletions in 1 file</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try running on S24<br />
+  <sub>[#163665](https://github.com/flutter/flutter/pull/163665) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163665) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][iOS] always post new task during gesture dispatch.<br />
+  <sub>[#163666](https://github.com/flutter/flutter/pull/163666) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163666) 45 additions and 2 deletions in 3 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback. (#163501)<br />
+  <sub>[#163667](https://github.com/flutter/flutter/pull/163667) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163667) 118 additions and 20 deletions in 4 files</sub><br />
 
