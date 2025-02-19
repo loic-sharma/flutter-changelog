@@ -120,7 +120,7 @@
   <sub>[#163491](https://github.com/flutter/flutter/pull/163491) opened on on February 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163491) 47 additions and 0 deletions in 4 files</sub><br />
 
 * **[Brendan](https://github.com/2bndy5)** &mdash; engine: report mouse backward and forward buttons on linux<br />
-  <sub>[#163500](https://github.com/flutter/flutter/pull/163500) opened on on February 17, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163500) 13 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#163500](https://github.com/flutter/flutter/pull/163500) opened on on February 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163500) 13 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; docs(CHANGELOG): add v3.29 release entry<br />
   <sub>[#163538](https://github.com/flutter/flutter/pull/163538) opened on on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163538) 6 additions and 0 deletions in 1 file</sub><br />
