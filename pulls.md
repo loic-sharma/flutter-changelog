@@ -146,3 +146,6 @@
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add `some` constructors to `EdgeInsetsGeometry` and `BorderRadiusGeometry` subclasses <br />
   <sub>[#163601](https://github.com/flutter/flutter/pull/163601) opened on on February 19, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163601) 395 additions and 0 deletions in 4 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP] Disable Vulkan on known bad Xclipse GPU drivrs<br />
+  <sub>[#163616](https://github.com/flutter/flutter/pull/163616) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163616) 48 additions and 0 deletions in 4 files</sub><br />
+
