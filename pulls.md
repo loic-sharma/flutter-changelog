@@ -62,9 +62,6 @@
 * **[pathconnected](https://github.com/pathconnected)** &mdash; SliverResizingHeader maxScrollObstructionExtent<br />
   <sub>[#162955](https://github.com/flutter/flutter/pull/162955) opened on on February 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162955) 54 additions and 1 deletion in 2 files</sub><br />
 
-* **[MaherSafadii](https://github.com/MaherSafadii)** &mdash; Change CupertinoSliverNavigationBar's stretch parameter's default value to true<br />
-  <sub>[#163026](https://github.com/flutter/flutter/pull/163026) opened on on February 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163026) 4 additions and 4 deletions in 1 file</sub><br />
-
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
 
@@ -73,9 +70,6 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add semantics role to table rows.<br />
   <sub>[#163337](https://github.com/flutter/flutter/pull/163337) opened on on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163337) 118 additions and 37 deletions in 5 files</sub><br />
-
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Invalidate scaffold project if SDK changes and regenerate pubspec on change<br />
-  <sub>[#163343](https://github.com/flutter/flutter/pull/163343) opened on on February 14, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/163343) 337 additions and 11 deletions in 5 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] treat ImageFilter.shader as not being equal to itself.<br />
   <sub>[#163348](https://github.com/flutter/flutter/pull/163348) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) 28 additions and 4 deletions in 2 files</sub><br />
@@ -142,4 +136,7 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] always post new task during gesture dispatch.<br />
   <sub>[#163646](https://github.com/flutter/flutter/pull/163646) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163646) 45 additions and 2 deletions in 3 files</sub><br />
+
+* **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Add `Message.resourceId` and `locale` to all `L10nException` error messages<br />
+  <sub>[#163654](https://github.com/flutter/flutter/pull/163654) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163654) 10 additions and 10 deletions in 1 file</sub><br />
 

@@ -4,7 +4,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-23 commits.
+25 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path
   <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub>
@@ -21,6 +21,14 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove bringup for android_display_cutout
   <sub>[#163312](https://github.com/flutter/flutter/pull/163312) merged on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163312) over 4 days, 0 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub>
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Invalidate scaffold project if SDK changes and regenerate pubspec on change
+  <sub>[#163343](https://github.com/flutter/flutter/pull/163343) merged on February 19, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/163343) over 4 days, 337 additions and 11 deletions in 5 files</sub>
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub>
+
+* **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; Hot Restart should dispose all previous Platform Views (macOS)
+  <sub>[#163439](https://github.com/flutter/flutter/pull/163439) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163439) over 2 days, 67 additions and 0 deletions in 4 files</sub>
+  <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Change `cardTheme`, `dialogTheme`, and `tabBarTheme` type to `xxxThemeData`
   <sub>[#157292](https://github.com/flutter/flutter/pull/157292) merged on February 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157292) over 4 months, 13 additions and 71 deletions in 2 files</sub>
