@@ -1028,7 +1028,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-5 commits.
+6 commits.
 
 * **[dani](https://github.com/Dan-Crane)** &mdash; [shared_preferences] Fix JSON parsing issue with _decodeValue<br />
   <sub>[#8211](https://github.com/flutter/packages/pull/8211) merged on February 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8211) over 2 months, 64 additions and 6 deletions in 4 files</sub><br />
@@ -1041,6 +1041,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes potential race condition caused by a ProxyApi constructor message call being made in  an async method<br />
   <sub>[#8656](https://github.com/flutter/packages/pull/8656) merged on February 18, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/8656) over 3 hours, 982 additions and 424 deletions in 18 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+* **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Platform interface for camera animation duration<br />
+  <sub>[#8596](https://github.com/flutter/packages/pull/8596) merged on February 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8596) over 1 week, 64 additions and 1 deletion in 6 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Update Pigeon for task queue changes<br />
   <sub>[#8654](https://github.com/flutter/packages/pull/8654) merged on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/packages/pull/8654) over 6 hours, 22 additions and 38 deletions in 11 files</sub><br />
