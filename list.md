@@ -4,7 +4,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-30 commits.
+31 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path
   <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub>
@@ -17,6 +17,10 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing properties to _ArcPaintPredicate.
   <sub>[#162572](https://github.com/flutter/flutter/pull/162572) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162572) over 2 weeks, 206 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
+
+* **[Dimitar Kyurtov](https://github.com/dkyurtov)** &mdash; replace deprecated [UIScreen mainScreen] in iOS
+  <sub>[#162785](https://github.com/flutter/flutter/pull/162785) merged on February 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162785) over 1 week, 181 additions and 69 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Invalidate `pod install` output if `.flutter-plugins-dependencies` content changes.
   <sub>[#163275](https://github.com/flutter/flutter/pull/163275) merged on February 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/163275) over 4 days, 95 additions and 1 deletion in 2 files</sub>
