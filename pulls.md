@@ -111,7 +111,7 @@
   <sub>[#163558](https://github.com/flutter/flutter/pull/163558) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163558) 29 additions and 23 deletions in 5 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Fix crash when using BackdropFilters in certain GLES drivers.<br />
-  <sub>[#163581](https://github.com/flutter/flutter/pull/163581) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163581) 66 additions and 4 deletions in 7 files</sub><br />
+  <sub>[#163581](https://github.com/flutter/flutter/pull/163581) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163581) 65 additions and 4 deletions in 7 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace update semantics handler with signal.<br />
   <sub>[#163583](https://github.com/flutter/flutter/pull/163583) opened on on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163583) 18 additions and 74 deletions in 3 files</sub><br />
@@ -121,9 +121,6 @@
 
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add `some` constructors to `EdgeInsetsGeometry` and `BorderRadiusGeometry` subclasses <br />
   <sub>[#163601](https://github.com/flutter/flutter/pull/163601) opened on on February 19, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163601) 395 additions and 0 deletions in 4 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP] Disable Vulkan on known bad Xclipse GPU drivrs<br />
-  <sub>[#163616](https://github.com/flutter/flutter/pull/163616) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163616) 48 additions and 0 deletions in 4 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; pure_android_host_apps android versions update<br />
   <sub>[#163617](https://github.com/flutter/flutter/pull/163617) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163617) 14 additions and 9 deletions in 6 files</sub><br />

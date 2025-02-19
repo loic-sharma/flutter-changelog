@@ -4,7 +4,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-25 commits.
+26 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path<br />
   <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub><br />
@@ -41,6 +41,10 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace hard coded numbers with mouse button defines<br />
   <sub>[#163503](https://github.com/flutter/flutter/pull/163503) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163503) over 13 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add a test to run on Galaxy S24<br />
+  <sub>[#163357](https://github.com/flutter/flutter/pull/163357) merged on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163357) over 4 days, 22 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove duplicate sources in the `web_sdk`.<br />
   <sub>[#163636](https://github.com/flutter/flutter/pull/163636) merged on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163636) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
