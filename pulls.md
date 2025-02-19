@@ -149,3 +149,9 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback. (#163501)<br />
   <sub>[#163667](https://github.com/flutter/flutter/pull/163667) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163667) 119 additions and 20 deletions in 5 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update how to use VSCode with `clangd` after the monorepo merge<br />
+  <sub>[#163671](https://github.com/flutter/flutter/pull/163671) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163671) 27 additions and 7 deletions in 1 file</sub><br />
+
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Check for tracked engine.version before overriding<br />
+  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) opened on on February 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163672) 6 additions and 2 deletions in 2 files</sub><br />
+
