@@ -6,13 +6,13 @@
 
 20 commits.
 
+* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path
+  <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing properties to _ArcPaintPredicate.
   <sub>[#162572](https://github.com/flutter/flutter/pull/162572) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162572) over 2 weeks, 206 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub>
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path
-  <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [20 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Invalidate `pod install` output if `.flutter-plugins-dependencies` content changes.
   <sub>[#163275](https://github.com/flutter/flutter/pull/163275) merged on February 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/163275) over 4 days, 95 additions and 1 deletion in 2 files</sub>
