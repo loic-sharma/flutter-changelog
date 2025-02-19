@@ -140,3 +140,6 @@
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Handle null exceptions calling `renderObject`<br />
   <sub>[#163642](https://github.com/flutter/flutter/pull/163642) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163642) 19 additions and 6 deletions in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] always post new task during gesture dispatch.<br />
+  <sub>[#163646](https://github.com/flutter/flutter/pull/163646) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163646) 45 additions and 2 deletions in 3 files</sub><br />
+
