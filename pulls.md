@@ -114,7 +114,7 @@
   <sub>[#163617](https://github.com/flutter/flutter/pull/163617) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163617) 14 additions and 9 deletions in 6 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add comboBox role for DropdownMenu<br />
-  <sub>[#163638](https://github.com/flutter/flutter/pull/163638) opened on on February 19, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163638) 415 additions and 119 deletions in 9 files</sub><br />
+  <sub>[#163638](https://github.com/flutter/flutter/pull/163638) opened on on February 19, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163638) 303 additions and 2 deletions in 9 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Handle null exceptions calling `renderObject`<br />
   <sub>[#163642](https://github.com/flutter/flutter/pull/163642) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163642) 19 additions and 6 deletions in 1 file</sub><br />
@@ -154,9 +154,6 @@
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Fix text glitch when returning to foreground.<br />
   <sub>[#163754](https://github.com/flutter/flutter/pull/163754) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163754) 8 additions and 3 deletions in 2 files</sub><br />
-
-* **[mariamhas](https://github.com/mariamhas)** &mdash; Revert "Create g3_bug.yml"<br />
-  <sub>[#163757](https://github.com/flutter/flutter/pull/163757) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163757) 0 additions and 136 deletions in 1 file</sub><br />
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"<br />
   <sub>[#163761](https://github.com/flutter/flutter/pull/163761) opened on on February 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163761) 386 additions and 9 deletions in 13 files</sub><br />
