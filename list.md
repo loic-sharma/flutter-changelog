@@ -1247,7 +1247,7 @@
   <sub>[#8628](https://github.com/flutter/packages/pull/8628) merged on February 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8628) over 18 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [flutter_adaptive_scaffold] Fix some memory leaks
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [flutter_adaptive_scaffold] Fix some memory leaks [prod-leak-fix]
   <sub>[#8546](https://github.com/flutter/packages/pull/8546) merged on February 14, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8546) over 1 week, 18 additions and 5 deletions in 3 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub>
 
