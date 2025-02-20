@@ -128,9 +128,6 @@
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Try running on S24<br />
   <sub>[#163665](https://github.com/flutter/flutter/pull/163665) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163665) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][iOS] always post new task during gesture dispatch.<br />
-  <sub>[#163666](https://github.com/flutter/flutter/pull/163666) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163666) 46 additions and 2 deletions in 4 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback. (#163501)<br />
   <sub>[#163667](https://github.com/flutter/flutter/pull/163667) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163667) 122 additions and 20 deletions in 5 files</sub><br />
 
