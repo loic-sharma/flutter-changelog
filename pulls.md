@@ -153,7 +153,7 @@
   <sub>[#163763](https://github.com/flutter/flutter/pull/163763) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163763) 56 additions and 53 deletions in 1 file</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] include more tests in the fuchsia builders<br />
-  <sub>[#163776](https://github.com/flutter/flutter/pull/163776) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163776) 153 additions and 54 deletions in 2 files</sub><br />
+  <sub>[#163776](https://github.com/flutter/flutter/pull/163776) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163776) 157 additions and 54 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress stderr during Xcode command line installation check<br />
   <sub>[#163785](https://github.com/flutter/flutter/pull/163785) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163785) 65 additions and 28 deletions in 2 files</sub><br />
