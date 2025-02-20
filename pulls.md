@@ -161,3 +161,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Drag handles only need to be tested on mobile platforms.<br />
   <sub>[#163723](https://github.com/flutter/flutter/pull/163723) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163723) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [Windows] Enable merged platform and UI thread by default<br />
+  <sub>[#163726](https://github.com/flutter/flutter/pull/163726) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163726) 34 additions and 25 deletions in 2 files</sub><br />
+
