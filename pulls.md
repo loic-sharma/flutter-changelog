@@ -152,12 +152,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163733) 43 additions and 1 deletion in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Fix text glitch when returning to foreground.<br />
-  <sub>[#163754](https://github.com/flutter/flutter/pull/163754) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163754) 8 additions and 3 deletions in 2 files</sub><br />
-
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"<br />
   <sub>[#163761](https://github.com/flutter/flutter/pull/163761) opened on on February 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163761) 386 additions and 9 deletions in 13 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] reorder tests in test_suites.yaml and update the comment<br />
-  <sub>[#163763](https://github.com/flutter/flutter/pull/163763) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163763) 54 additions and 51 deletions in 1 file</sub><br />
+  <sub>[#163763](https://github.com/flutter/flutter/pull/163763) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163763) 56 additions and 53 deletions in 1 file</sub><br />
 
