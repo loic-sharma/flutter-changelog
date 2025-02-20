@@ -167,6 +167,3 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163733) 43 additions and 1 deletion in 2 files</sub><br />
 
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta]Check for tracked engine.version before overriding<br />
-  <sub>[#163738](https://github.com/flutter/flutter/pull/163738) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163738) 75 additions and 36 deletions in 3 files</sub><br />
-
