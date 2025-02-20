@@ -4,7 +4,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-41 commits.
+42 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path<br />
   <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub><br />
@@ -19,12 +19,16 @@
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer), [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
 * **[Dimitar Kyurtov](https://github.com/dkyurtov)** &mdash; replace deprecated [UIScreen mainScreen] in iOS<br />
-  <sub>[#162785](https://github.com/flutter/flutter/pull/162785) merged on February 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162785) over 1 week, 181 additions and 69 deletions in 6 files</sub><br />
+  <sub>[#162785](https://github.com/flutter/flutter/pull/162785) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/162785) over 1 week, 181 additions and 69 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Invalidate `pod install` output if `.flutter-plugins-dependencies` content changes.<br />
   <sub>[#163275](https://github.com/flutter/flutter/pull/163275) merged on February 18, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/163275) over 4 days, 95 additions and 1 deletion in 2 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Jonah Williams](https://github.com/jonahwilliams), [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; Fix the issue where DropdownMenu does not gain focus when tapped.<br />
+  <sub>[#162874](https://github.com/flutter/flutter/pull/162874) merged on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162874) over 1 week, 37 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: </sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove bringup for android_display_cutout<br />
   <sub>[#163312](https://github.com/flutter/flutter/pull/163312) merged on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163312) over 4 days, 0 additions and 1 deletion in 1 file</sub><br />
@@ -46,13 +50,17 @@
   <sub>[#163501](https://github.com/flutter/flutter/pull/163501) merged on February 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163501) over 1 day, 118 additions and 20 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; showDialogs adds a `requestFocus` parameter.<br />
+  <sub>[#162928](https://github.com/flutter/flutter/pull/162928) merged on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162928) over 1 week, 226 additions and 0 deletions in 9 files</sub><br />
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Create helper method to dispatch object creation and disposal.<br />
   <sub>[#163637](https://github.com/flutter/flutter/pull/163637) merged on February 20, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163637) over 7 hours, 90 additions and 14 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; showDialogs adds a `requestFocus` parameter.<br />
-  <sub>[#162928](https://github.com/flutter/flutter/pull/162928) merged on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162928) over 1 week, 226 additions and 0 deletions in 9 files</sub><br />
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
+* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Change `cardTheme`, `dialogTheme`, and `tabBarTheme` type to `xxxThemeData`<br />
+  <sub>[#157292](https://github.com/flutter/flutter/pull/157292) merged on February 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157292) over 4 months, 13 additions and 71 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Pierre](https://github.com/guidezpl)</sub><br />
 
 * **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; Hot Restart should dispose all previous Platform Views (macOS)<br />
   <sub>[#163439](https://github.com/flutter/flutter/pull/163439) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163439) over 2 days, 67 additions and 0 deletions in 4 files</sub><br />
@@ -61,10 +69,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Create VersionUtils class and unit tests and extract logic out of flutter.groovy<br />
   <sub>[#163166](https://github.com/flutter/flutter/pull/163166) merged on February 18, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163166) over 5 days, 105 additions and 45 deletions in 3 files</sub><br />
   <sub>Reviewed by: [ash-google](https://github.com/ash-google), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Change `cardTheme`, `dialogTheme`, and `tabBarTheme` type to `xxxThemeData`<br />
-  <sub>[#157292](https://github.com/flutter/flutter/pull/157292) merged on February 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157292) over 4 months, 13 additions and 71 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Pierre](https://github.com/guidezpl)</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace hard coded numbers with mouse button defines<br />
   <sub>[#163503](https://github.com/flutter/flutter/pull/163503) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163503) over 13 hours, 3 additions and 3 deletions in 1 file</sub><br />
@@ -98,25 +102,21 @@
   <sub>[#163276](https://github.com/flutter/flutter/pull/163276) merged on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163276) over 4 days, 260 additions and 19 deletions in 23 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Don't create a redundant typography context.<br />
-  <sub>[#163513](https://github.com/flutter/flutter/pull/163513) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163513) over 13 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when binding to READ_FRAMEBUFFER, treat multisampled textures as single sampled.<br />
   <sub>[#163345](https://github.com/flutter/flutter/pull/163345) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163345) over 3 days, 32 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Alexander Dahlberg](https://github.com/Swiftaxe), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Don't create a redundant typography context.<br />
+  <sub>[#163513](https://github.com/flutter/flutter/pull/163513) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163513) over 13 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Allow flutter tools to detach a running Chrome session<br />
   <sub>[#163349](https://github.com/flutter/flutter/pull/163349) merged on February 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163349) over 4 days, 97 additions and 8 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Srujan Gaddam](https://github.com/srujzs)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Move `preview_detector_test.dart` from `general.shard` to `commands.shard`<br />
-  <sub>[#163619](https://github.com/flutter/flutter/pull/163619) merged on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163619) over 6 hours, 10 additions and 5 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
-
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the engine (outside html/ folder)<br />
-  <sub>[#162840](https://github.com/flutter/flutter/pull/162840) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162840) over 1 week, 14 additions and 69 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
+* **[mariamhas](https://github.com/mariamhas)** &mdash; Create g3_bug.yml<br />
+  <sub>[#163151](https://github.com/flutter/flutter/pull/163151) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163151) over 1 week, 136 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; update module_host_with_custom_build_v2_embedding to target android 35 and to use the latest gradle and agp versions<br />
   <sub>[#163542](https://github.com/flutter/flutter/pull/163542) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163542) over 1 hour, 9 additions and 7 deletions in 3 files</sub><br />
@@ -130,9 +130,13 @@
   <sub>[#163681](https://github.com/flutter/flutter/pull/163681) merged on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163681) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[mariamhas](https://github.com/mariamhas)** &mdash; Create g3_bug.yml<br />
-  <sub>[#163151](https://github.com/flutter/flutter/pull/163151) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163151) over 1 week, 136 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub><br />
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Move `preview_detector_test.dart` from `general.shard` to `commands.shard`<br />
+  <sub>[#163619](https://github.com/flutter/flutter/pull/163619) merged on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163619) over 6 hours, 10 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16), [Jessy Yameogo](https://github.com/jyameo)</sub><br />
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the engine (outside html/ folder)<br />
+  <sub>[#162840](https://github.com/flutter/flutter/pull/162840) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162840) over 1 week, 14 additions and 69 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "[Impeller] add support for rational bezier conics to Path (#63282)"<br />
   <sub>[#163645](https://github.com/flutter/flutter/pull/163645) merged on February 19, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/163645) over 1 hour, 924 additions and 266 deletions in 11 files</sub><br />
