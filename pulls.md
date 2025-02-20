@@ -161,6 +161,3 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] reorder tests in test_suites.yaml and update the comment<br />
   <sub>[#163763](https://github.com/flutter/flutter/pull/163763) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163763) 54 additions and 51 deletions in 1 file</sub><br />
 
-* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Migrate rendering tests and benchmarks to DL geometry<br />
-  <sub>[#163766](https://github.com/flutter/flutter/pull/163766) opened on on February 20, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/163766) 1191 additions and 1052 deletions in 27 files</sub><br />
-
