@@ -164,3 +164,9 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [Windows] Enable merged platform and UI thread by default<br />
   <sub>[#163726](https://github.com/flutter/flutter/pull/163726) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163726) 34 additions and 25 deletions in 2 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
+  <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163733) 43 additions and 1 deletion in 2 files</sub><br />
+
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash;  Refactor writing of package config in tests<br />
+  <sub>[#163734](https://github.com/flutter/flutter/pull/163734) opened on on February 20, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163734) 480 additions and 855 deletions in 46 files</sub><br />
+
