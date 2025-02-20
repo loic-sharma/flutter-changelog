@@ -1148,7 +1148,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-6 commits.
+7 commits.
 
 * **[dani](https://github.com/Dan-Crane)** &mdash; [shared_preferences] Fix JSON parsing issue with _decodeValue
   <sub>[#8211](https://github.com/flutter/packages/pull/8211) merged on February 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8211) over 2 months, 64 additions and 6 deletions in 4 files</sub>
@@ -1157,6 +1157,10 @@
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [camera_avfoundation] Migrate tests to Swift - part 2
   <sub>[#8613](https://github.com/flutter/packages/pull/8613) merged on February 18, 2025 &mdash; **Extra large:** [18 comments](https://github.com/flutter/packages/pull/8613) over 6 days, 738 additions and 982 deletions in 19 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [hellohuanlin](https://github.com/hellohuanlin)</sub>
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Updates generated pigeon code to ensure the internal wrapper immediately sends constructor calls
+  <sub>[#8657](https://github.com/flutter/packages/pull/8657) merged on February 20, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/packages/pull/8657) over 1 day, 460 additions and 271 deletions in 4 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes potential race condition caused by a ProxyApi constructor message call being made in  an async method
   <sub>[#8656](https://github.com/flutter/packages/pull/8656) merged on February 18, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/8656) over 3 hours, 982 additions and 424 deletions in 18 files</sub>
