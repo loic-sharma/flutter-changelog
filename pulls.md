@@ -150,11 +150,17 @@
   <sub>[#163671](https://github.com/flutter/flutter/pull/163671) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163671) 27 additions and 7 deletions in 1 file</sub><br />
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Check for tracked engine.version before overriding<br />
-  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) opened on on February 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163672) 75 additions and 36 deletions in 3 files</sub><br />
+  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) opened on on February 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163672) 75 additions and 36 deletions in 3 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; enclosingElement -> enclosingElement3<br />
   <sub>[#163681](https://github.com/flutter/flutter/pull/163681) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163681) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Skip Xcode install on mac_mokey Android tests<br />
   <sub>[#163685](https://github.com/flutter/flutter/pull/163685) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163685) 8 additions and 0 deletions in 1 file</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Use `visualViewport.scale` to determine device pixel ratio.<br />
+  <sub>[#163688](https://github.com/flutter/flutter/pull/163688) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163688) 27 additions and 2 deletions in 4 files</sub><br />
+
+* **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
+  <sub>[#163690](https://github.com/flutter/flutter/pull/163690) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163690) 33 additions and 3 deletions in 2 files</sub><br />
 
