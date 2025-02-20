@@ -155,3 +155,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update CupertinoActionSheet transition rounded corner<br />
   <sub>[#163700](https://github.com/flutter/flutter/pull/163700) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163700) 70 additions and 2 deletions in 2 files</sub><br />
 
+* **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Use the Dart isolate ownership API on the root isolate<br />
+  <sub>[#163703](https://github.com/flutter/flutter/pull/163703) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163703) 63 additions and 4 deletions in 2 files</sub><br />
+
