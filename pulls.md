@@ -65,9 +65,6 @@
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
 
-* **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; Add semantics role to table rows.<br />
-  <sub>[#163337](https://github.com/flutter/flutter/pull/163337) opened on on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163337) 113 additions and 30 deletions in 4 files</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] treat ImageFilter.shader as not being equal to itself.<br />
   <sub>[#163348](https://github.com/flutter/flutter/pull/163348) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) 28 additions and 4 deletions in 2 files</sub><br />
 
@@ -113,9 +110,6 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; pure_android_host_apps android versions update<br />
   <sub>[#163617](https://github.com/flutter/flutter/pull/163617) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163617) 14 additions and 9 deletions in 6 files</sub><br />
 
-* **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add comboBox role for DropdownMenu<br />
-  <sub>[#163638](https://github.com/flutter/flutter/pull/163638) opened on on February 19, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163638) 303 additions and 2 deletions in 9 files</sub><br />
-
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Handle null exceptions calling `renderObject`<br />
   <sub>[#163642](https://github.com/flutter/flutter/pull/163642) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163642) 19 additions and 6 deletions in 1 file</sub><br />
 
@@ -157,4 +151,7 @@
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] reorder tests in test_suites.yaml and update the comment<br />
   <sub>[#163763](https://github.com/flutter/flutter/pull/163763) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163763) 56 additions and 53 deletions in 1 file</sub><br />
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] include more tests in the fuchsia builders<br />
+  <sub>[#163776](https://github.com/flutter/flutter/pull/163776) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163776) 153 additions and 54 deletions in 2 files</sub><br />
 
