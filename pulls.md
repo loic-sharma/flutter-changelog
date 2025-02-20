@@ -60,7 +60,7 @@
   <sub>[#162809](https://github.com/flutter/flutter/pull/162809) opened on on February 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162809) 72 additions and 4 deletions in 2 files</sub><br />
 
 * **[pathconnected](https://github.com/pathconnected)** &mdash; SliverResizingHeader maxScrollObstructionExtent<br />
-  <sub>[#162955](https://github.com/flutter/flutter/pull/162955) opened on on February 9, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162955) 54 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#162955](https://github.com/flutter/flutter/pull/162955) opened on on February 9, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162955) 54 additions and 1 deletion in 2 files</sub><br />
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
@@ -143,12 +143,12 @@
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"<br />
   <sub>[#163761](https://github.com/flutter/flutter/pull/163761) opened on on February 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163761) 386 additions and 9 deletions in 13 files</sub><br />
 
-* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] reorder tests in test_suites.yaml and update the comment<br />
-  <sub>[#163763](https://github.com/flutter/flutter/pull/163763) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163763) 56 additions and 53 deletions in 1 file</sub><br />
-
-* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] include more tests in the fuchsia builders<br />
-  <sub>[#163776](https://github.com/flutter/flutter/pull/163776) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163776) 157 additions and 54 deletions in 2 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress stderr during Xcode command line installation check<br />
   <sub>[#163785](https://github.com/flutter/flutter/pull/163785) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163785) 68 additions and 28 deletions in 2 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gradle memory properties in example and test projects<br />
+  <sub>[#163798](https://github.com/flutter/flutter/pull/163798) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163798) 35 additions and 35 deletions in 35 files</sub><br />
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] reorder tests in test_suites.yaml and update the comment<br />
+  <sub>[#163799](https://github.com/flutter/flutter/pull/163799) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163799) 56 additions and 53 deletions in 1 file</sub><br />
 
