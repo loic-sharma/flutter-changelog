@@ -68,9 +68,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] treat ImageFilter.shader as not being equal to itself.<br />
   <sub>[#163348](https://github.com/flutter/flutter/pull/163348) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) 28 additions and 4 deletions in 2 files</sub><br />
 
-* **[Sangam Shrestha](https://github.com/2shrestha22)** &mdash; Remove redundant `useMaterial3: true`<br />
-  <sub>[#163376](https://github.com/flutter/flutter/pull/163376) opened on on February 15, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/163376) 402 additions and 777 deletions in 195 files</sub><br />
-
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
   <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
 
@@ -91,9 +88,6 @@
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; docs(CHANGELOG): add v3.29 release entry<br />
   <sub>[#163538](https://github.com/flutter/flutter/pull/163538) opened on on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163538) 6 additions and 0 deletions in 1 file</sub><br />
-
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Android-API-And-Related-Versions.md<br />
-  <sub>[#163556](https://github.com/flutter/flutter/pull/163556) opened on on February 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/163556) 122 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Use java for looking up Android API level.<br />
   <sub>[#163558](https://github.com/flutter/flutter/pull/163558) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163558) 29 additions and 23 deletions in 5 files</sub><br />

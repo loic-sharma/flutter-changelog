@@ -4,7 +4,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-52 commits.
+53 commits.
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make Flutter version information accessible at runtime<br />
   <sub>[#140783](https://github.com/flutter/flutter/pull/140783) merged on February 20, 2025 &mdash; **Medium:** [65 comments](https://github.com/flutter/flutter/pull/140783) over 13 months, 386 additions and 9 deletions in 13 files</sub><br />
@@ -62,33 +62,37 @@
   <sub>[#163312](https://github.com/flutter/flutter/pull/163312) merged on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163312) over 4 days, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Camille Simon](https://github.com/camsim99)</sub><br />
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Invalidate scaffold project if SDK changes and regenerate pubspec on change<br />
-  <sub>[#163343](https://github.com/flutter/flutter/pull/163343) merged on February 19, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/163343) over 4 days, 337 additions and 11 deletions in 5 files</sub><br />
-  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] always post new task during gesture dispatch.<br />
   <sub>[#163646](https://github.com/flutter/flutter/pull/163646) merged on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163646) over 2 hours, 45 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Invalidate scaffold project if SDK changes and regenerate pubspec on change<br />
+  <sub>[#163343](https://github.com/flutter/flutter/pull/163343) merged on February 19, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/163343) over 4 days, 337 additions and 11 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web:a11y] wheel events switch to pointer mode<br />
   <sub>[#163582](https://github.com/flutter/flutter/pull/163582) merged on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163582) over 17 hours, 111 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback.<br />
-  <sub>[#163501](https://github.com/flutter/flutter/pull/163501) merged on February 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163501) over 1 day, 118 additions and 20 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Create helper method to dispatch object creation and disposal.<br />
+  <sub>[#163637](https://github.com/flutter/flutter/pull/163637) merged on February 20, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163637) over 7 hours, 90 additions and 14 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; showDialogs adds a `requestFocus` parameter.<br />
   <sub>[#162928](https://github.com/flutter/flutter/pull/162928) merged on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162928) over 1 week, 226 additions and 0 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback.<br />
+  <sub>[#163501](https://github.com/flutter/flutter/pull/163501) merged on February 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163501) over 1 day, 118 additions and 20 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Check for tracked engine.version before overriding<br />
   <sub>[#163672](https://github.com/flutter/flutter/pull/163672) merged on February 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163672) over 4 hours, 75 additions and 36 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Create helper method to dispatch object creation and disposal.<br />
-  <sub>[#163637](https://github.com/flutter/flutter/pull/163637) merged on February 20, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163637) over 7 hours, 90 additions and 14 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Create Android-API-And-Related-Versions.md<br />
+  <sub>[#163556](https://github.com/flutter/flutter/pull/163556) merged on February 20, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/163556) over 2 days, 122 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; Hot Restart should dispose all previous Platform Views (macOS)<br />
   <sub>[#163439](https://github.com/flutter/flutter/pull/163439) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163439) over 2 days, 67 additions and 0 deletions in 4 files</sub><br />
@@ -114,33 +118,33 @@
   <sub>[#163621](https://github.com/flutter/flutter/pull/163621) merged on February 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163621) over 4 hours, 84 additions and 87 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Reid Baker](https://github.com/reidbaker), [John McDole](https://github.com/jtmcdole)</sub><br />
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add a test to run on Galaxy S24<br />
-  <sub>[#163357](https://github.com/flutter/flutter/pull/163357) merged on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163357) over 4 days, 22 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+* **[Kate Lovett](https://github.com/Piinks)** &mdash; Validate Gold integration<br />
+  <sub>[#163629](https://github.com/flutter/flutter/pull/163629) merged on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163629) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] use macro definition to shrink repetitive JNI code size.<br />
   <sub>[#163395](https://github.com/flutter/flutter/pull/163395) merged on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163395) over 3 days, 54 additions and 244 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
+* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Don't create a redundant typography context.<br />
+  <sub>[#163513](https://github.com/flutter/flutter/pull/163513) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163513) over 13 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Update integration test and benchmark Android .gitignore files to match the current app template<br />
   <sub>[#163276](https://github.com/flutter/flutter/pull/163276) merged on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163276) over 4 days, 260 additions and 19 deletions in 23 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Kate Lovett](https://github.com/Piinks)** &mdash; Validate Gold integration<br />
-  <sub>[#163629](https://github.com/flutter/flutter/pull/163629) merged on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163629) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
-  <sub>Reviewed by: [Victor Sanni](https://github.com/victorsanni)</sub><br />
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove duplicate sources in the `web_sdk`.<br />
+  <sub>[#163636](https://github.com/flutter/flutter/pull/163636) merged on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163636) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] when binding to READ_FRAMEBUFFER, treat multisampled textures as single sampled.<br />
   <sub>[#163345](https://github.com/flutter/flutter/pull/163345) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163345) over 3 days, 32 additions and 1 deletion in 3 files</sub><br />
   <sub>Reviewed by: [Alexander Dahlberg](https://github.com/Swiftaxe), [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
-* **[Chinmay Garde](https://github.com/chinmaygarde)** &mdash; [Impeller] Don't create a redundant typography context.<br />
-  <sub>[#163513](https://github.com/flutter/flutter/pull/163513) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163513) over 13 hours, 1 addition and 1 deletion in 1 file</sub><br />
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Add a test to run on Galaxy S24<br />
+  <sub>[#163357](https://github.com/flutter/flutter/pull/163357) merged on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163357) over 4 days, 22 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove duplicate sources in the `web_sdk`.<br />
-  <sub>[#163636](https://github.com/flutter/flutter/pull/163636) merged on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163636) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; update module_host_with_custom_build_v2_embedding to target android 35 and to use the latest gradle and agp versions<br />
   <sub>[#163542](https://github.com/flutter/flutter/pull/163542) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163542) over 1 hour, 9 additions and 7 deletions in 3 files</sub><br />
