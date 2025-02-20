@@ -7,7 +7,7 @@
 49 commits.
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make Flutter version information accessible at runtime
-  <sub>[#140783](https://github.com/flutter/flutter/pull/140783) merged on February 20, 2025 &mdash; **Medium:** [64 comments](https://github.com/flutter/flutter/pull/140783) over 13 months, 386 additions and 9 deletions in 13 files</sub>
+  <sub>[#140783](https://github.com/flutter/flutter/pull/140783) merged on February 20, 2025 &mdash; **Medium:** [65 comments](https://github.com/flutter/flutter/pull/140783) over 13 months, 386 additions and 9 deletions in 13 files</sub>
   <sub>Reviewed by: [Greg Price](https://github.com/gnprice), [Ian Hickson](https://github.com/Hixie), [Alex Li](https://github.com/AlexV525), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [windows] Implement merged UI and platform thread
