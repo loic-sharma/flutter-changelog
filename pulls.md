@@ -159,5 +159,5 @@
   <sub>[#163754](https://github.com/flutter/flutter/pull/163754) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163754) 8 additions and 3 deletions in 2 files</sub><br />
 
 * **[mariamhas](https://github.com/mariamhas)** &mdash; Revert "Create g3_bug.yml"<br />
-  <sub>[#163757](https://github.com/flutter/flutter/pull/163757) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163757) 0 additions and 136 deletions in 1 file</sub><br />
+  <sub>[#163757](https://github.com/flutter/flutter/pull/163757) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163757) 0 additions and 136 deletions in 1 file</sub><br />
 
