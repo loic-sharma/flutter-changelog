@@ -134,9 +134,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update how to use VSCode with `clangd` after the monorepo merge<br />
   <sub>[#163671](https://github.com/flutter/flutter/pull/163671) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163671) 27 additions and 7 deletions in 1 file</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Use `visualViewport.scale` to determine device pixel ratio.<br />
-  <sub>[#163688](https://github.com/flutter/flutter/pull/163688) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163688) 27 additions and 2 deletions in 4 files</sub><br />
-
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163690) 33 additions and 3 deletions in 2 files</sub><br />
 
