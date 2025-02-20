@@ -83,7 +83,7 @@
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Check for tracked engine.version before overriding
-  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) merged on February 20, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163672) over 4 hours, 75 additions and 36 deletions in 3 files</sub>
+  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) merged on February 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163672) over 4 hours, 75 additions and 36 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from 023ac80cef14 to 2cecb16348e4
