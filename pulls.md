@@ -114,7 +114,7 @@
   <sub>[#163617](https://github.com/flutter/flutter/pull/163617) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163617) 14 additions and 9 deletions in 6 files</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Add comboBox role for DropdownMenu<br />
-  <sub>[#163638](https://github.com/flutter/flutter/pull/163638) opened on on February 19, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163638) 374 additions and 118 deletions in 9 files</sub><br />
+  <sub>[#163638](https://github.com/flutter/flutter/pull/163638) opened on on February 19, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163638) 415 additions and 118 deletions in 9 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Handle null exceptions calling `renderObject`<br />
   <sub>[#163642](https://github.com/flutter/flutter/pull/163642) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163642) 19 additions and 6 deletions in 1 file</sub><br />
@@ -160,4 +160,7 @@
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"<br />
   <sub>[#163761](https://github.com/flutter/flutter/pull/163761) opened on on February 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163761) 376 additions and 9 deletions in 13 files</sub><br />
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] reorder tests in test_suites.yaml and update the comment<br />
+  <sub>[#163763](https://github.com/flutter/flutter/pull/163763) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163763) 55 additions and 52 deletions in 1 file</sub><br />
 

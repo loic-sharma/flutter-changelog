@@ -47,7 +47,7 @@
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Avoid implicitly setting `determineDevDependencies: true` (it's not a safe operation)
-  <sub>[#163711](https://github.com/flutter/flutter/pull/163711) merged on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163711) over 8 hours, 121 additions and 4 deletions in 4 files</sub>
+  <sub>[#163711](https://github.com/flutter/flutter/pull/163711) merged on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163711) over 8 hours, 121 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] remove Skia interfaces from iOS platform code.
