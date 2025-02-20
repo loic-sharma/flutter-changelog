@@ -4,7 +4,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-40 commits.
+41 commits.
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [Impeller] add support for rational bezier conics to Path
   <sub>[#163282](https://github.com/flutter/flutter/pull/163282) merged on February 18, 2025 &mdash; **Large:** [22 comments](https://github.com/flutter/flutter/pull/163282) over 4 days, 924 additions and 266 deletions in 11 files</sub>
@@ -70,6 +70,10 @@
   <sub>[#163503](https://github.com/flutter/flutter/pull/163503) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163503) over 13 hours, 3 additions and 3 deletions in 1 file</sub>
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Check for tracked engine.version before overriding
+  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) merged on February 20, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163672) over 4 hours, 75 additions and 36 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from 023ac80cef14 to 2cecb16348e4
   <sub>[#163621](https://github.com/flutter/flutter/pull/163621) merged on February 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163621) over 4 hours, 84 additions and 87 deletions in 10 files</sub>
   <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Reid Baker](https://github.com/reidbaker), [John McDole](https://github.com/jtmcdole)</sub>
@@ -102,17 +106,13 @@
   <sub>[#163345](https://github.com/flutter/flutter/pull/163345) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163345) over 3 days, 32 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Alexander Dahlberg](https://github.com/Swiftaxe), [Chinmay Garde](https://github.com/chinmaygarde)</sub>
 
-* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Move `preview_detector_test.dart` from `general.shard` to `commands.shard`
-  <sub>[#163619](https://github.com/flutter/flutter/pull/163619) merged on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163619) over 6 hours, 10 additions and 5 deletions in 2 files</sub>
-  <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16), [Jessy Yameogo](https://github.com/jyameo)</sub>
-
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Allow flutter tools to detach a running Chrome session
   <sub>[#163349](https://github.com/flutter/flutter/pull/163349) merged on February 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163349) over 4 days, 97 additions and 8 deletions in 3 files</sub>
   <sub>Reviewed by: [Ben Konyi](https://github.com/bkonyi), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
-* **[mariamhas](https://github.com/mariamhas)** &mdash; Create g3_bug.yml
-  <sub>[#163151](https://github.com/flutter/flutter/pull/163151) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163151) over 1 week, 136 additions and 0 deletions in 1 file</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Move `preview_detector_test.dart` from `general.shard` to `commands.shard`
+  <sub>[#163619](https://github.com/flutter/flutter/pull/163619) merged on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163619) over 6 hours, 10 additions and 5 deletions in 2 files</sub>
+  <sub>Reviewed by: [Derek Xu](https://github.com/derekxu16), [Jessy Yameogo](https://github.com/jyameo)</sub>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Cleanup everything HTML from the engine (outside html/ folder)
   <sub>[#162840](https://github.com/flutter/flutter/pull/162840) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162840) over 1 week, 14 additions and 69 deletions in 10 files</sub>
@@ -129,6 +129,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; enclosingElement -> enclosingElement3
   <sub>[#163681](https://github.com/flutter/flutter/pull/163681) merged on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163681) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[mariamhas](https://github.com/mariamhas)** &mdash; Create g3_bug.yml
+  <sub>[#163151](https://github.com/flutter/flutter/pull/163151) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163151) over 1 week, 136 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; Reland "[Impeller] add support for rational bezier conics to Path (#63282)"
   <sub>[#163645](https://github.com/flutter/flutter/pull/163645) merged on February 19, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/163645) over 1 hour, 924 additions and 266 deletions in 11 files</sub>

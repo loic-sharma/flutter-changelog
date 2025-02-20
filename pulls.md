@@ -143,9 +143,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update how to use VSCode with `clangd` after the monorepo merge<br />
   <sub>[#163671](https://github.com/flutter/flutter/pull/163671) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163671) 27 additions and 7 deletions in 1 file</sub><br />
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Check for tracked engine.version before overriding<br />
-  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) opened on on February 19, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163672) 75 additions and 36 deletions in 3 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Skip Xcode install on mac_mokey Android tests<br />
   <sub>[#163685](https://github.com/flutter/flutter/pull/163685) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163685) 8 additions and 0 deletions in 1 file</sub><br />
 
