@@ -132,7 +132,7 @@
   <sub>[#163667](https://github.com/flutter/flutter/pull/163667) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163667) 122 additions and 20 deletions in 5 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update how to use VSCode with `clangd` after the monorepo merge<br />
-  <sub>[#163671](https://github.com/flutter/flutter/pull/163671) opened on on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163671) 27 additions and 7 deletions in 1 file</sub><br />
+  <sub>[#163671](https://github.com/flutter/flutter/pull/163671) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163671) 27 additions and 7 deletions in 1 file</sub><br />
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163690) 33 additions and 3 deletions in 2 files</sub><br />
@@ -157,4 +157,7 @@
 
 * **[mariamhas](https://github.com/mariamhas)** &mdash; Revert "Create g3_bug.yml"<br />
   <sub>[#163757](https://github.com/flutter/flutter/pull/163757) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163757) 0 additions and 136 deletions in 1 file</sub><br />
+
+* **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"<br />
+  <sub>[#163761](https://github.com/flutter/flutter/pull/163761) opened on on February 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163761) 376 additions and 9 deletions in 13 files</sub><br />
 
