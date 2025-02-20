@@ -74,6 +74,14 @@
   <sub>[#163582](https://github.com/flutter/flutter/pull/163582) merged on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163582) over 17 hours, 111 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Check for tracked engine.version before overriding
+  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) merged on February 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163672) over 4 hours, 75 additions and 36 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[yim](https://github.com/yiiim)** &mdash; showDialogs adds a `requestFocus` parameter.
+  <sub>[#162928](https://github.com/flutter/flutter/pull/162928) merged on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162928) over 1 week, 226 additions and 0 deletions in 9 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
+
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Create helper method to dispatch object creation and disposal.
   <sub>[#163637](https://github.com/flutter/flutter/pull/163637) merged on February 20, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163637) over 7 hours, 90 additions and 14 deletions in 3 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
@@ -81,10 +89,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback.
   <sub>[#163501](https://github.com/flutter/flutter/pull/163501) merged on February 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163501) over 1 day, 118 additions and 20 deletions in 4 files</sub>
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub>
-
-* **[yim](https://github.com/yiiim)** &mdash; showDialogs adds a `requestFocus` parameter.
-  <sub>[#162928](https://github.com/flutter/flutter/pull/162928) merged on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162928) over 1 week, 226 additions and 0 deletions in 9 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; Hot Restart should dispose all previous Platform Views (macOS)
   <sub>[#163439](https://github.com/flutter/flutter/pull/163439) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163439) over 2 days, 67 additions and 0 deletions in 4 files</sub>
@@ -105,10 +109,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; It is now safe to call `getBuildMode().release`
   <sub>[#163712](https://github.com/flutter/flutter/pull/163712) merged on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163712) over 8 hours, 2 additions and 10 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Check for tracked engine.version before overriding
-  <sub>[#163672](https://github.com/flutter/flutter/pull/163672) merged on February 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163672) over 4 hours, 75 additions and 36 deletions in 3 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from 023ac80cef14 to 2cecb16348e4
   <sub>[#163621](https://github.com/flutter/flutter/pull/163621) merged on February 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163621) over 4 hours, 84 additions and 87 deletions in 10 files</sub>
