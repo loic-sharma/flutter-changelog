@@ -140,9 +140,6 @@
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163690) 33 additions and 3 deletions in 2 files</sub><br />
 
-* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update CupertinoActionSheet transition rounded corner<br />
-  <sub>[#163700](https://github.com/flutter/flutter/pull/163700) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163700) 70 additions and 2 deletions in 2 files</sub><br />
-
 * **[Liam Appelbe](https://github.com/liamappelbe)** &mdash; Use the Dart isolate ownership API on the root isolate<br />
   <sub>[#163703](https://github.com/flutter/flutter/pull/163703) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163703) 63 additions and 4 deletions in 2 files</sub><br />
 
@@ -157,4 +154,7 @@
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163733) 43 additions and 1 deletion in 2 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Fix text glitch when returning to foreground.<br />
+  <sub>[#163754](https://github.com/flutter/flutter/pull/163754) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163754) 8 additions and 3 deletions in 2 files</sub><br />
 
