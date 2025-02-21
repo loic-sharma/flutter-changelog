@@ -1247,7 +1247,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-7 commits.
+8 commits.
 
 * **[dani](https://github.com/Dan-Crane)** &mdash; [shared_preferences] Fix JSON parsing issue with _decodeValue
   <sub>[#8211](https://github.com/flutter/packages/pull/8211) merged on February 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8211) over 2 months, 64 additions and 6 deletions in 4 files</sub>
@@ -1263,6 +1263,10 @@
 
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [pigeon] Fixes potential race condition caused by a ProxyApi constructor message call being made in  an async method
   <sub>[#8656](https://github.com/flutter/packages/pull/8656) merged on February 18, 2025 &mdash; **Large:** [4 comments](https://github.com/flutter/packages/pull/8656) over 3 hours, 982 additions and 424 deletions in 18 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[August](https://github.com/Gustl22)** &mdash; [video_player] Fixes mechanism to detect identifier in multiline WebVTT captions
+  <sub>[#8555](https://github.com/flutter/packages/pull/8555) merged on February 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8555) over 2 weeks, 30 additions and 4 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
 * **[Joonas Kerttula](https://github.com/jokerttu)** &mdash; [google_maps_flutter] Platform interface for camera animation duration

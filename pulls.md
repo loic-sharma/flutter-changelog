@@ -149,6 +149,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update DelegatedTransition animation parameter correctly<br />
   <sub>[#163853](https://github.com/flutter/flutter/pull/163853) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163853) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] keeps AiksContext initialized.<br />
+  <sub>[#163873](https://github.com/flutter/flutter/pull/163873) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163873) 127 additions and 151 deletions in 23 files</sub><br />
+
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Marks Mac_benchmark basic_material_app_macos__compile to be flaky"<br />
   <sub>[#163878](https://github.com/flutter/flutter/pull/163878) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163878) 0 additions and 1 deletion in 1 file</sub><br />
 
