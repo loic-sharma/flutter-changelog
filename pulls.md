@@ -155,3 +155,6 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] include more tests in the fuchsia builders<br />
   <sub>[#163800](https://github.com/flutter/flutter/pull/163800) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163800) 158 additions and 55 deletions in 2 files</sub><br />
 
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Shorten method signature to make invokations fit one line.<br />
+  <sub>[#163822](https://github.com/flutter/flutter/pull/163822) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163822) 12 additions and 12 deletions in 3 files</sub><br />
+
