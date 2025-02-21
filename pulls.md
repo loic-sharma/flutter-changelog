@@ -152,3 +152,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Shorten method signature to make invokations fit one line.<br />
   <sub>[#163822](https://github.com/flutter/flutter/pull/163822) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163822) 12 additions and 12 deletions in 3 files</sub><br />
 
+* **[Ashish Beck](https://github.com/ashishbeck)** &mdash; Added `semanticsIdentifier` to `Text` Widgets<br />
+  <sub>[#163843](https://github.com/flutter/flutter/pull/163843) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163843) 220 additions and 8 deletions in 6 files</sub><br />
+
