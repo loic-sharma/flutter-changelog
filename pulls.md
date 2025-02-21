@@ -147,7 +147,7 @@
   <sub>[#163853](https://github.com/flutter/flutter/pull/163853) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163853) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [engine] keeps AiksContext initialized.<br />
-  <sub>[#163873](https://github.com/flutter/flutter/pull/163873) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163873) 127 additions and 164 deletions in 24 files</sub><br />
+  <sub>[#163873](https://github.com/flutter/flutter/pull/163873) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163873) 132 additions and 156 deletions in 24 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Marks Mac_benchmark basic_material_app_macos__compile to be flaky"<br />
   <sub>[#163878](https://github.com/flutter/flutter/pull/163878) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163878) 0 additions and 1 deletion in 1 file</sub><br />
@@ -160,4 +160,7 @@
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] update dep references from older repos to newer (current SOT) repos<br />
   <sub>[#163891](https://github.com/flutter/flutter/pull/163891) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163891) 9 additions and 22 deletions in 3 files</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Check if simctl is installed before trying to list devices or runtimes<br />
+  <sub>[#163895](https://github.com/flutter/flutter/pull/163895) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163895) 62 additions and 2 deletions in 2 files</sub><br />
 
