@@ -128,9 +128,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/163733) 104 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gradle memory properties in example and test projects<br />
-  <sub>[#163798](https://github.com/flutter/flutter/pull/163798) opened on on February 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163798) 35 additions and 35 deletions in 35 files</sub><br />
-
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] include more tests in the fuchsia builders<br />
   <sub>[#163800](https://github.com/flutter/flutter/pull/163800) opened on on February 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163800) 102 additions and 0 deletions in 2 files</sub><br />
 
