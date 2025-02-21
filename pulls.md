@@ -152,3 +152,6 @@
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Added a default StrutStyle in Text Widget<br />
   <sub>[#163846](https://github.com/flutter/flutter/pull/163846) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163846) 66 additions and 3 deletions in 4 files</sub><br />
 
+* **[Jay](https://github.com/chul0061)** &mdash; Fix korean cupertino datepicker datetime order<br />
+  <sub>[#163850](https://github.com/flutter/flutter/pull/163850) opened on on February 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163850) 2 additions and 1 deletion in 2 files</sub><br />
+

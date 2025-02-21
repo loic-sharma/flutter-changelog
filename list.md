@@ -498,12 +498,12 @@
   <sub>[#162692](https://github.com/flutter/flutter/pull/162692) merged on February 11, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/162692) over 6 days, 211 additions and 38 deletions in 11 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] don't use glFramebufferBlit for onscreen restore.
+  <sub>[#163327](https://github.com/flutter/flutter/pull/163327) merged on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163327) over 1 hour, 32 additions and 3 deletions in 3 files</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Forward fix `package:flutter_gen` removal in `resident_runner_test.dart`
   <sub>[#163170](https://github.com/flutter/flutter/pull/163170) merged on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163170) over 48 minutes, 4 additions and 4 deletions in 1 file</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Opt-out of `--explicit-package-dependencies` for `flutter_gen_test`.
-  <sub>[#163174](https://github.com/flutter/flutter/pull/163174) merged on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163174) over 43 minutes, 34 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update iOS / macOS triage links
@@ -522,9 +522,9 @@
   <sub>[#163108](https://github.com/flutter/flutter/pull/163108) merged on February 12, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163108) over 11 hours, 4 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; remove frame policy benchmark.
-  <sub>[#163245](https://github.com/flutter/flutter/pull/163245) merged on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163245) over 1 hour, 0 additions and 182 deletions in 6 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Use `transferToImageBitmap` instead of `createImageBitmap`
+  <sub>[#163175](https://github.com/flutter/flutter/pull/163175) merged on February 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163175) over 1 day, 43 additions and 7 deletions in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] increment shared_ptr for jni impl.
   <sub>[#163152](https://github.com/flutter/flutter/pull/163152) merged on February 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163152) over 1 hour, 2 additions and 1 deletion in 1 file</sub>
@@ -534,9 +534,9 @@
   <sub>[#163004](https://github.com/flutter/flutter/pull/163004) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163004) over 4 hours, 95 additions and 4 deletions in 13 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Show 'started' messages, explain how to debug hangs in the Android JUnit tests
-  <sub>[#163242](https://github.com/flutter/flutter/pull/163242) merged on February 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163242) over 3 hours, 14 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
+* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turned on ImageFilter.compose for web CupertinoDesktopTextSelectionToolbar
+  <sub>[#163229](https://github.com/flutter/flutter/pull/163229) merged on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163229) over 4 hours, 5 additions and 17 deletions in 2 files</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [devicelab] dont strip symbols in platform views layout test.
   <sub>[#163101](https://github.com/flutter/flutter/pull/163101) merged on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163101) over 1 hour, 4 additions and 0 deletions in 1 file</sub>
@@ -550,9 +550,9 @@
   <sub>[#163035](https://github.com/flutter/flutter/pull/163035) merged on February 11, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163035) over 15 hours, 140 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] don't use glFramebufferBlit for onscreen restore.
-  <sub>[#163327](https://github.com/flutter/flutter/pull/163327) merged on February 14, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163327) over 1 hour, 32 additions and 3 deletions in 3 files</sub>
-  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `.flutter-plugins-dependencies` to `FlutterBuildSystem`; update logic, add tests.
+  <sub>[#163278](https://github.com/flutter/flutter/pull/163278) merged on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163278) over 3 hours, 84 additions and 6 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add missing null check to java object for hcpp mode.
   <sub>[#163165](https://github.com/flutter/flutter/pull/163165) merged on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163165) over 2 hours, 4 additions and 2 deletions in 1 file</sub>
@@ -570,9 +570,9 @@
   <sub>[#163162](https://github.com/flutter/flutter/pull/163162) merged on February 12, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163162) over 41 minutes, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Christopher Fujino](https://github.com/christopherfujino)</sub>
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Use `transferToImageBitmap` instead of `createImageBitmap`
-  <sub>[#163175](https://github.com/flutter/flutter/pull/163175) merged on February 14, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163175) over 1 day, 43 additions and 7 deletions in 2 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Show 'started' messages, explain how to debug hangs in the Android JUnit tests
+  <sub>[#163242](https://github.com/flutter/flutter/pull/163242) merged on February 13, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163242) over 3 hours, 14 additions and 4 deletions in 2 files</sub>
+  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Re-land #162644: Remove `--verbose` from devicelab task executions.
   <sub>[#163017](https://github.com/flutter/flutter/pull/163017) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163017) over 49 minutes, 20 additions and 76 deletions in 13 files</sub>
@@ -590,9 +590,9 @@
   <sub>[#162893](https://github.com/flutter/flutter/pull/162893) merged on February 10, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162893) over 3 days, 6 additions and 2 deletions in 3 files</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `.flutter-plugins-dependencies` to `FlutterBuildSystem`; update logic, add tests.
-  <sub>[#163278](https://github.com/flutter/flutter/pull/163278) merged on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163278) over 3 hours, 84 additions and 6 deletions in 2 files</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Ben Konyi](https://github.com/bkonyi)</sub>
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Call glDebugMessageControlKHR only if the KHR_debug extension is available
+  <sub>[#163273](https://github.com/flutter/flutter/pull/163273) merged on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163273) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; FYI matanlurey (does not require review, but probably should) on dev/test infra.
   <sub>[#162642](https://github.com/flutter/flutter/pull/162642) merged on February 10, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/162642) over 6 days, 3 additions and 2 deletions in 1 file</sub>
@@ -602,21 +602,21 @@
   <sub>[#162553](https://github.com/flutter/flutter/pull/162553) merged on February 10, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162553) over 1 week, 91 additions and 169 deletions in 23 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
-* **[gaaclarke](https://github.com/gaaclarke)** &mdash; Turned on ImageFilter.compose for web CupertinoDesktopTextSelectionToolbar
-  <sub>[#163229](https://github.com/flutter/flutter/pull/163229) merged on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163229) over 4 hours, 5 additions and 17 deletions in 2 files</sub>
-  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Tong Mu](https://github.com/dkwingsmt)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; remove frame policy benchmark.
+  <sub>[#163245](https://github.com/flutter/flutter/pull/163245) merged on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163245) over 1 hour, 0 additions and 182 deletions in 6 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [canvaskit] Add configuration option to force multi-Surface rendering
   <sub>[#163087](https://github.com/flutter/flutter/pull/163087) merged on February 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163087) over 20 hours, 48 additions and 1 deletion in 3 files</sub>
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] correct API availibility checks for hcpp.
-  <sub>[#163226](https://github.com/flutter/flutter/pull/163226) merged on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163226) over 1 hour, 5 additions and 4 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; [Impeller] Call glDebugMessageControlKHR only if the KHR_debug extension is available
-  <sub>[#163273](https://github.com/flutter/flutter/pull/163273) merged on February 14, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163273) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Opt-out of `--explicit-package-dependencies` for `flutter_gen_test`.
+  <sub>[#163174](https://github.com/flutter/flutter/pull/163174) merged on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163174) over 43 minutes, 34 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Vulkan on known bad exynos SoCs.
+  <sub>[#163236](https://github.com/flutter/flutter/pull/163236) merged on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163236) over 2 hours, 46 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] add HCPP platform views benchmark and integration test.
   <sub>[#163018](https://github.com/flutter/flutter/pull/163018) merged on February 11, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163018) over 5 hours, 251 additions and 2 deletions in 7 files</sub>
@@ -626,8 +626,8 @@
   <sub>[#162710](https://github.com/flutter/flutter/pull/162710) merged on February 13, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162710) over 1 week, 177 additions and 13 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] disable Vulkan on known bad exynos SoCs.
-  <sub>[#163236](https://github.com/flutter/flutter/pull/163236) merged on February 13, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163236) over 2 hours, 46 additions and 0 deletions in 3 files</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [android] correct API availibility checks for hcpp.
+  <sub>[#163226](https://github.com/flutter/flutter/pull/163226) merged on February 13, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163226) over 1 hour, 5 additions and 4 deletions in 2 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Include device lab version for how to run test
