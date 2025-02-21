@@ -129,7 +129,7 @@
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/163733) 104 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gradle memory properties in example and test projects<br />
-  <sub>[#163798](https://github.com/flutter/flutter/pull/163798) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163798) 35 additions and 35 deletions in 35 files</sub><br />
+  <sub>[#163798](https://github.com/flutter/flutter/pull/163798) opened on on February 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163798) 35 additions and 35 deletions in 35 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] include more tests in the fuchsia builders<br />
   <sub>[#163800](https://github.com/flutter/flutter/pull/163800) opened on on February 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163800) 100 additions and 0 deletions in 2 files</sub><br />
@@ -158,12 +158,9 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Marks Mac_benchmark flutter_view_macos__start_up to be flaky"<br />
   <sub>[#163880](https://github.com/flutter/flutter/pull/163880) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163880) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Marks Windows_mokey native_assets_android to be flaky"<br />
-  <sub>[#163881](https://github.com/flutter/flutter/pull/163881) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163881) 0 additions and 1 deletion in 1 file</sub><br />
-
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Marks Linux_pixel_7pro service_extensions_test to be flaky"<br />
-  <sub>[#163882](https://github.com/flutter/flutter/pull/163882) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163882) 0 additions and 1 deletion in 1 file</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools<br />
   <sub>[#163890](https://github.com/flutter/flutter/pull/163890) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163890) 11 additions and 1 deletion in 4 files</sub><br />
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] update dep references from older repos to newer (current SOT) repos<br />
+  <sub>[#163891](https://github.com/flutter/flutter/pull/163891) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163891) 9 additions and 22 deletions in 3 files</sub><br />
 
