@@ -1379,7 +1379,11 @@
 
 ### February 15, 2025 to February 21, 2025
 
-3 commits.
+4 commits.
+
+* **[M Sanjana](https://github.com/MS-Rex)** &mdash; fix-typo in "flutter analyze --suggestions" command on Android Java Gradle migration guide Page<br />
+  <sub>[#11729](https://github.com/flutter/website/pull/11729) merged on February 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11729) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix enabling and disabling active tabs from custom shortcode<br />
   <sub>[#11731](https://github.com/flutter/website/pull/11731) merged on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11731) over 16 hours, 49 additions and 36 deletions in 6 files</sub><br />
