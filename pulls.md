@@ -132,10 +132,7 @@
   <sub>[#163726](https://github.com/flutter/flutter/pull/163726) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163726) 34 additions and 25 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
-  <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/163733) 110 additions and 0 deletions in 2 files</sub><br />
-
-* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Add integration test for Gradle-initiated android builds with flavors<br />
-  <sub>[#163737](https://github.com/flutter/flutter/pull/163737) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163737) 43 additions and 37 deletions in 3 files</sub><br />
+  <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/163733) 104 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress stderr during Xcode command line installation check<br />
   <sub>[#163785](https://github.com/flutter/flutter/pull/163785) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163785) 68 additions and 28 deletions in 2 files</sub><br />
@@ -154,4 +151,7 @@
 
 * **[Ashish Beck](https://github.com/ashishbeck)** &mdash; Added `semanticsIdentifier` to `Text` Widgets<br />
   <sub>[#163843](https://github.com/flutter/flutter/pull/163843) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163843) 220 additions and 8 deletions in 6 files</sub><br />
+
+* **[Mairramer](https://github.com/Mairramer)** &mdash; Added a default StrutStyle in Text Widget<br />
+  <sub>[#163846](https://github.com/flutter/flutter/pull/163846) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163846) 66 additions and 3 deletions in 4 files</sub><br />
 
