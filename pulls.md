@@ -75,7 +75,7 @@
   <sub>[#163419](https://github.com/flutter/flutter/pull/163419) opened on on February 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163419) 178 additions and 83 deletions in 5 files</sub><br />
 
 * **[Masahiro Aoki](https://github.com/mafreud)** &mdash; [ReorderableListView] Always wrap child with Material<br />
-  <sub>[#163428](https://github.com/flutter/flutter/pull/163428) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163428) 11 additions and 4 deletions in 1 file</sub><br />
+  <sub>[#163428](https://github.com/flutter/flutter/pull/163428) opened on on February 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163428) 11 additions and 4 deletions in 1 file</sub><br />
 
 * **[camfrandsen](https://github.com/camfrandsen)** &mdash; Add Option to disable full selection on focus on TextField, TestFormField, and EditableText<br />
   <sub>[#163491](https://github.com/flutter/flutter/pull/163491) opened on on February 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163491) 47 additions and 0 deletions in 4 files</sub><br />
