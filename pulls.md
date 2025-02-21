@@ -153,7 +153,7 @@
   <sub>[#163873](https://github.com/flutter/flutter/pull/163873) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163873) 127 additions and 164 deletions in 24 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Marks Mac_benchmark basic_material_app_macos__compile to be flaky"<br />
-  <sub>[#163878](https://github.com/flutter/flutter/pull/163878) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163878) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#163878](https://github.com/flutter/flutter/pull/163878) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163878) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Marks Mac_benchmark flutter_view_macos__start_up to be flaky"<br />
   <sub>[#163880](https://github.com/flutter/flutter/pull/163880) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163880) 0 additions and 1 deletion in 1 file</sub><br />
