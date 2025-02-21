@@ -155,3 +155,6 @@
 * **[Jay](https://github.com/chul0061)** &mdash; Fix korean cupertino datepicker datetime order<br />
   <sub>[#163850](https://github.com/flutter/flutter/pull/163850) opened on on February 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163850) 3 additions and 2 deletions in 3 files</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update DelegatedTransition animation parameter correctly<br />
+  <sub>[#163853](https://github.com/flutter/flutter/pull/163853) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163853) 1 addition and 1 deletion in 1 file</sub><br />
+
