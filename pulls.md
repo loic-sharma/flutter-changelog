@@ -138,7 +138,7 @@
   <sub>[#163798](https://github.com/flutter/flutter/pull/163798) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163798) 35 additions and 35 deletions in 35 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] include more tests in the fuchsia builders<br />
-  <sub>[#163800](https://github.com/flutter/flutter/pull/163800) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163800) 158 additions and 55 deletions in 2 files</sub><br />
+  <sub>[#163800](https://github.com/flutter/flutter/pull/163800) opened on on February 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163800) 158 additions and 55 deletions in 2 files</sub><br />
 
 * **[Ashish Beck](https://github.com/ashishbeck)** &mdash; Added `semanticsIdentifier` to `Text` Widgets<br />
   <sub>[#163843](https://github.com/flutter/flutter/pull/163843) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163843) 220 additions and 8 deletions in 6 files</sub><br />
