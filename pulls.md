@@ -150,5 +150,5 @@
   <sub>[#163843](https://github.com/flutter/flutter/pull/163843) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163843) 220 additions and 8 deletions in 6 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Added a default StrutStyle in Text Widget<br />
-  <sub>[#163846](https://github.com/flutter/flutter/pull/163846) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163846) 66 additions and 3 deletions in 4 files</sub><br />
+  <sub>[#163846](https://github.com/flutter/flutter/pull/163846) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163846) 66 additions and 3 deletions in 4 files</sub><br />
 
