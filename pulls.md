@@ -137,9 +137,6 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Add integration test for Gradle-initiated android builds with flavors<br />
   <sub>[#163737](https://github.com/flutter/flutter/pull/163737) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163737) 43 additions and 37 deletions in 3 files</sub><br />
 
-* **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"<br />
-  <sub>[#163761](https://github.com/flutter/flutter/pull/163761) opened on on February 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163761) 386 additions and 9 deletions in 13 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress stderr during Xcode command line installation check<br />
   <sub>[#163785](https://github.com/flutter/flutter/pull/163785) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163785) 68 additions and 28 deletions in 2 files</sub><br />
 
