@@ -137,6 +137,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163733) 43 additions and 1 deletion in 2 files</sub><br />
 
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Add integration test for Gradle-initiated android builds with flavors<br />
+  <sub>[#163737](https://github.com/flutter/flutter/pull/163737) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163737) 43 additions and 37 deletions in 3 files</sub><br />
+
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"<br />
   <sub>[#163761](https://github.com/flutter/flutter/pull/163761) opened on on February 20, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163761) 386 additions and 9 deletions in 13 files</sub><br />
 
