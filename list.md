@@ -50,7 +50,7 @@
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Mouad Debbar](https://github.com/mdebbar)</sub>
 
 * **[StanleyCocos](https://github.com/StanleyCocos)** &mdash; fix(CupertinoDatePicker): font is inconsistent
-  <sub>[#162932](https://github.com/flutter/flutter/pull/162932) merged on February 20, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/162932) over 1 week, 26 additions and 0 deletions in 2 files</sub>
+  <sub>[#162932](https://github.com/flutter/flutter/pull/162932) merged on February 20, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/162932) over 1 week, 26 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub>
 
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Add missing properties to _ArcPaintPredicate.
