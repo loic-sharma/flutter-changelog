@@ -128,9 +128,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [15 comments](https://github.com/flutter/flutter/pull/163733) 104 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Suppress stderr during Xcode command line installation check<br />
-  <sub>[#163785](https://github.com/flutter/flutter/pull/163785) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163785) 68 additions and 28 deletions in 2 files</sub><br />
-
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gradle memory properties in example and test projects<br />
   <sub>[#163798](https://github.com/flutter/flutter/pull/163798) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163798) 35 additions and 35 deletions in 35 files</sub><br />
 
