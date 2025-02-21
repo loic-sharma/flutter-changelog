@@ -155,3 +155,6 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Shorten method signature to make invokations fit one line.<br />
   <sub>[#163822](https://github.com/flutter/flutter/pull/163822) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163822) 12 additions and 12 deletions in 3 files</sub><br />
 
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][Reland] Fix `Tab` linear and elastic animation blink (#162315)<br />
+  <sub>[#163830](https://github.com/flutter/flutter/pull/163830) opened on on February 21, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/163830) 988 additions and 194 deletions in 2 files</sub><br />
+
