@@ -137,9 +137,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gradle memory properties in example and test projects<br />
   <sub>[#163798](https://github.com/flutter/flutter/pull/163798) opened on on February 20, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163798) 35 additions and 35 deletions in 35 files</sub><br />
 
-* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] reorder tests in test_suites.yaml and update the comment<br />
-  <sub>[#163799](https://github.com/flutter/flutter/pull/163799) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163799) 58 additions and 55 deletions in 1 file</sub><br />
-
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] include more tests in the fuchsia builders<br />
   <sub>[#163800](https://github.com/flutter/flutter/pull/163800) opened on on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163800) 158 additions and 55 deletions in 2 files</sub><br />
 
