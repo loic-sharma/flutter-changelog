@@ -161,3 +161,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Check if simctl is installed before trying to list devices or runtimes<br />
   <sub>[#163895](https://github.com/flutter/flutter/pull/163895) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163895) 62 additions and 2 deletions in 2 files</sub><br />
 
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Roll .ci.yaml changes into the LUCI configuration only when the master branch is updated<br />
+  <sub>[#163897](https://github.com/flutter/flutter/pull/163897) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163897) 3 additions and 0 deletions in 1 file</sub><br />
+
