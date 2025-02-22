@@ -131,9 +131,6 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] include more tests in the fuchsia builders<br />
   <sub>[#163800](https://github.com/flutter/flutter/pull/163800) opened on on February 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163800) 102 additions and 0 deletions in 2 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] switch iOS to slimpeller variant.<br />
-  <sub>[#163808](https://github.com/flutter/flutter/pull/163808) opened on on February 21, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/163808) 89 additions and 350 deletions in 24 files</sub><br />
-
 * **[Ashish Beck](https://github.com/ashishbeck)** &mdash; Added `semanticsIdentifier` to `Text` Widgets<br />
   <sub>[#163843](https://github.com/flutter/flutter/pull/163843) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163843) 220 additions and 8 deletions in 6 files</sub><br />
 
