@@ -93,7 +93,7 @@
   <sub>[#163583](https://github.com/flutter/flutter/pull/163583) opened on on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163583) 18 additions and 74 deletions in 3 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add mostly constructor for EdgeInsets<br />
-  <sub>[#163589](https://github.com/flutter/flutter/pull/163589) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163589) 47 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#163589](https://github.com/flutter/flutter/pull/163589) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163589) 145 additions and 0 deletions in 6 files</sub><br />
 
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add `some` constructors to `EdgeInsetsGeometry`, `BorderRadiusGeometry` and `BoxBorder` subclasses <br />
   <sub>[#163601](https://github.com/flutter/flutter/pull/163601) opened on on February 19, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/163601) 582 additions and 1 deletion in 7 files</sub><br />
