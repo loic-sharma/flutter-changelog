@@ -168,5 +168,5 @@
   <sub>[#163906](https://github.com/flutter/flutter/pull/163906) opened on on February 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163906) 7 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData<br />
-  <sub>[#163909](https://github.com/flutter/flutter/pull/163909) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163909) 55 additions and 15 deletions in 3 files</sub><br />
+  <sub>[#163909](https://github.com/flutter/flutter/pull/163909) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163909) 54 additions and 18 deletions in 3 files</sub><br />
 
