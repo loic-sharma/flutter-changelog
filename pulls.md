@@ -173,3 +173,6 @@
 * **[Dibash Poudel](https://github.com/dbspoudel)** &mdash; add assert message for BoxShape.circle and borderRadius check<br />
   <sub>[#163917](https://github.com/flutter/flutter/pull/163917) opened on on February 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163917) 9 additions and 2 deletions in 1 file</sub><br />
 
+* **[masato](https://github.com/masal9pse)** &mdash; Add enableDrag property to CupertinoSheetRoute and showCupertinoSheet<br />
+  <sub>[#163923](https://github.com/flutter/flutter/pull/163923) opened on on February 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163923) 83 additions and 6 deletions in 2 files</sub><br />
+
