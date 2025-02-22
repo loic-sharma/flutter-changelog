@@ -126,7 +126,7 @@
   <sub>[#163726](https://github.com/flutter/flutter/pull/163726) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163726) 34 additions and 25 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
-  <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/163733) 117 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [21 comments](https://github.com/flutter/flutter/pull/163733) 117 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ashish Beck](https://github.com/ashishbeck)** &mdash; Added `semanticsIdentifier` to `Text` Widgets<br />
   <sub>[#163843](https://github.com/flutter/flutter/pull/163843) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163843) 220 additions and 8 deletions in 6 files</sub><br />
