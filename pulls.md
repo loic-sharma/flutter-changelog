@@ -176,3 +176,6 @@
 * **[masato](https://github.com/masal9pse)** &mdash; Add enableDrag property to CupertinoSheetRoute and showCupertinoSheet<br />
   <sub>[#163923](https://github.com/flutter/flutter/pull/163923) opened on on February 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163923) 83 additions and 6 deletions in 2 files</sub><br />
 
+* **[Dara Adedeji](https://github.com/SunkenInTime)** &mdash; docs: Clarify Transform.rotate origin interaction with alignment<br />
+  <sub>[#163934](https://github.com/flutter/flutter/pull/163934) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163934) 26 additions and 1 deletion in 1 file</sub><br />
+
