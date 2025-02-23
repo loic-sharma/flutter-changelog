@@ -63,7 +63,7 @@
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] treat ImageFilter.shader as not being equal to itself.<br />
-  <sub>[#163348](https://github.com/flutter/flutter/pull/163348) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) 28 additions and 4 deletions in 2 files</sub><br />
+  <sub>[#163348](https://github.com/flutter/flutter/pull/163348) opened on on February 14, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) 40 additions and 1 deletion in 5 files</sub><br />
 
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
   <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
@@ -184,4 +184,7 @@
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Prepare FlutterKeyboardManager for multi-view<br />
   <sub>[#163962](https://github.com/flutter/flutter/pull/163962) opened on on February 23, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163962) 426 additions and 354 deletions in 13 files</sub><br />
+
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #163840 - CupertinoButton cursor doesn't change to clickable on desktop<br />
+  <sub>[#163967](https://github.com/flutter/flutter/pull/163967) opened on on February 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163967) 103 additions and 1 deletion in 2 files</sub><br />
 
