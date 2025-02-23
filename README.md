@@ -1487,7 +1487,7 @@
 
 ### February 15, 2025 to February 21, 2025
 
-4 commits.
+5 commits.
 
 * **[M Sanjana](https://github.com/MS-Rex)** &mdash; fix-typo in "flutter analyze --suggestions" command on Android Java Gradle migration guide Page<br />
   <sub>[#11729](https://github.com/flutter/website/pull/11729) merged on February 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11729) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1504,6 +1504,10 @@
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Fix empty codeblock on layout tutorial after 3.7 reformat<br />
   <sub>[#11727](https://github.com/flutter/website/pull/11727) merged on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11727) over 18 hours, 2 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Marya](https://github.com/MaryaBelanger)</sub><br />
+
+* **[Nandan Magdum](https://github.com/nandanmagdum)** &mdash; Fix minor spelling mistake in Flutter Architectural Overview page<br />
+  <sub>[#11734](https://github.com/flutter/website/pull/11734) merged on February 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11734) over 21 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 ### February 8, 2025 to February 14, 2025
 
