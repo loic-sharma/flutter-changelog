@@ -98,9 +98,6 @@
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add `some` constructors to `EdgeInsetsGeometry`, `BorderRadiusGeometry` and `BoxBorder` subclasses <br />
   <sub>[#163601](https://github.com/flutter/flutter/pull/163601) opened on on February 19, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/163601) 582 additions and 1 deletion in 7 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; pure_android_host_apps android versions update<br />
-  <sub>[#163617](https://github.com/flutter/flutter/pull/163617) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163617) 16 additions and 9 deletions in 7 files</sub><br />
-
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Handle null exceptions calling `renderObject`<br />
   <sub>[#163642](https://github.com/flutter/flutter/pull/163642) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163642) 19 additions and 6 deletions in 1 file</sub><br />
 
@@ -190,4 +187,7 @@
 
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
   <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 9 additions and 3 deletions in 1 file</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Prepare TextInputPlugin for multi-view<br />
+  <sub>[#164014](https://github.com/flutter/flutter/pull/164014) opened on on February 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164014) 909 additions and 569 deletions in 19 files</sub><br />
 
