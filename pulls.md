@@ -185,9 +185,6 @@
 * **[Dominik Honnef](https://github.com/dominikh)** &mdash; Fix minor issues in documentation of WidgetsApp<br />
   <sub>[#163942](https://github.com/flutter/flutter/pull/163942) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163942) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Prepare FlutterKeyboardManager for multi-view<br />
-  <sub>[#163962](https://github.com/flutter/flutter/pull/163962) opened on on February 23, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/163962) 427 additions and 362 deletions in 14 files</sub><br />
-
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #163840 - CupertinoButton cursor doesn't change to clickable on desktop<br />
   <sub>[#163967](https://github.com/flutter/flutter/pull/163967) opened on on February 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163967) 103 additions and 1 deletion in 2 files</sub><br />
 
