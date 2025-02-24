@@ -167,6 +167,9 @@
 * **[Dara Adedeji](https://github.com/SunkenInTime)** &mdash; docs: Clarify Transform.rotate origin interaction with alignment<br />
   <sub>[#163934](https://github.com/flutter/flutter/pull/163934) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163934) 26 additions and 1 deletion in 1 file</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] OpenGL MSAA for desktop/web devices.<br />
+  <sub>[#163939](https://github.com/flutter/flutter/pull/163939) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163939) 108 additions and 23 deletions in 5 files</sub><br />
+
 * **[Dominik Honnef](https://github.com/dominikh)** &mdash; Fix minor issues in documentation of WidgetsApp<br />
   <sub>[#163942](https://github.com/flutter/flutter/pull/163942) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163942) 2 additions and 2 deletions in 1 file</sub><br />
 
