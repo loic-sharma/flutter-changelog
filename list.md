@@ -4,7 +4,11 @@
 
 ### February 22, 2025 to February 28, 2025
 
-7 commits.
+8 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] Fix ImageFilter.shader equality to consider uniform values.
+  <sub>[#163348](https://github.com/flutter/flutter/pull/163348) merged on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) over 1 week, 40 additions and 1 deletion in 5 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] retry safaridriver session creation
   <sub>[#163791](https://github.com/flutter/flutter/pull/163791) merged on February 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163791) over 3 days, 45 additions and 10 deletions in 1 file</sub>
