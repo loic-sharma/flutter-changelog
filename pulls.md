@@ -42,7 +42,7 @@
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162467) 187 additions and 46 deletions in 13 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Platform thread<br />
-  <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/162671) 251 additions and 24 deletions in 16 files</sub><br />
+  <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162671) 251 additions and 24 deletions in 16 files</sub><br />
 
 * **[ash-google](https://github.com/ash-google)** &mdash; Add SDK version validation to the dependency checker.<br />
   <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162713) 103 additions and 48 deletions in 1 file</sub><br />
