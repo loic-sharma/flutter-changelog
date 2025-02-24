@@ -175,7 +175,7 @@
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; [remake] Restore old back handling for FlutterFragmentActivity
-  <sub>[#161545](https://github.com/flutter/flutter/pull/161545) merged on February 21, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/161545) over 1 month, 27 additions and 0 deletions in 2 files</sub>
+  <sub>[#161545](https://github.com/flutter/flutter/pull/161545) merged on February 21, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/161545) over 1 month, 27 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Remove bringup for android_display_cutout
