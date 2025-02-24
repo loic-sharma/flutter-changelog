@@ -188,3 +188,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Fixed the issue that Slider's secondaryTrackValue is not updated.<br />
   <sub>[#163996](https://github.com/flutter/flutter/pull/163996) opened on on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163996) 85 additions and 0 deletions in 2 files</sub><br />
 
+* **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
+  <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 9 additions and 3 deletions in 1 file</sub><br />
+
