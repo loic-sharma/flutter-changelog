@@ -4,11 +4,15 @@
 
 ### February 22, 2025 to February 28, 2025
 
-11 commits.
+12 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"
+  <sub>[#163761](https://github.com/flutter/flutter/pull/163761) merged on February 24, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/163761) over 4 days, 386 additions and 9 deletions in 13 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] Fix ImageFilter.shader equality to consider uniform values.
   <sub>[#163348](https://github.com/flutter/flutter/pull/163348) merged on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) over 1 week, 40 additions and 1 deletion in 5 files</sub>
