@@ -930,9 +930,18 @@
 
 ## flutter/packages
 
+### February 22, 2025 to February 28, 2025
+
+1 commits.
+
+* **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Improve README and API doc comments<br />
+  <sub>[#8560](https://github.com/flutter/packages/pull/8560) merged on February 24, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/packages/pull/8560) over 2 weeks, 100 additions and 84 deletions in 13 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
 ### February 15, 2025 to February 21, 2025
 
-9 commits.
+<details>
+<summary>9 commits...</summary>
 
 * **[dani](https://github.com/Dan-Crane)** &mdash; [shared_preferences] Fix JSON parsing issue with _decodeValue<br />
   <sub>[#8211](https://github.com/flutter/packages/pull/8211) merged on February 18, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/packages/pull/8211) over 2 months, 64 additions and 6 deletions in 4 files</sub><br />
@@ -969,6 +978,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [google_sign_in] Adopt task queues for Android<br />
   <sub>[#8622](https://github.com/flutter/packages/pull/8622) merged on February 18, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8622) over 4 days, 74 additions and 220 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Camille Simon](https://github.com/camsim99)</sub><br />
+
+</details>
 
 ### February 8, 2025 to February 14, 2025
 

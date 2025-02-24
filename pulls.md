@@ -194,6 +194,3 @@
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
   <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 9 additions and 3 deletions in 1 file</sub><br />
 
-* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code<br />
-  <sub>[#164003](https://github.com/flutter/flutter/pull/164003) opened on on February 24, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/164003) 17 additions and 41379 deletions in 88 files</sub><br />
-
