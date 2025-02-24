@@ -4,7 +4,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-6 commits.
+7 commits.
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] retry safaridriver session creation
   <sub>[#163791](https://github.com/flutter/flutter/pull/163791) merged on February 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163791) over 3 days, 45 additions and 10 deletions in 1 file</sub>
@@ -21,6 +21,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Add integration test for Gradle-initiated android builds with flavors
   <sub>[#163737](https://github.com/flutter/flutter/pull/163737) merged on February 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163737) over 3 days, 43 additions and 37 deletions in 3 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 322bb2226654 to 994168b1ba10 (3 revisions)
+  <sub>[#164007](https://github.com/flutter/flutter/pull/164007) merged on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164007) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 28017200173a to 322bb2226654 (1 revision)
   <sub>[#163987](https://github.com/flutter/flutter/pull/163987) merged on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163987) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
