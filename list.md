@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### February 22, 2025 to February 28, 2025
+
+1 commits.
+
+* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Add integration test for Gradle-initiated android builds with flavors
+  <sub>[#163737](https://github.com/flutter/flutter/pull/163737) merged on February 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163737) over 3 days, 43 additions and 37 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
+
 ### February 15, 2025 to February 21, 2025
 
-92 commits.
+<details>
+<summary>92 commits...</summary>
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Make Flutter version information accessible at runtime
   <sub>[#140783](https://github.com/flutter/flutter/pull/140783) merged on February 20, 2025 &mdash; **Medium:** [65 comments](https://github.com/flutter/flutter/pull/140783) over 13 months, 386 additions and 9 deletions in 13 files</sub>
@@ -376,6 +385,8 @@
 * **[mariamhas](https://github.com/mariamhas)** &mdash; Revert "Create g3_bug.yml"
   <sub>[#163757](https://github.com/flutter/flutter/pull/163757) merged on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163757) over 18 minutes, 0 additions and 136 deletions in 1 file</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+</details>
 
 ### February 8, 2025 to February 14, 2025
 
