@@ -185,3 +185,6 @@
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #163840 - CupertinoButton cursor doesn't change to clickable on desktop<br />
   <sub>[#163967](https://github.com/flutter/flutter/pull/163967) opened on on February 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163967) 103 additions and 1 deletion in 2 files</sub><br />
 
+* **[yim](https://github.com/yiiim)** &mdash; Fixed the issue that Slider's secondaryTrackValue is not updated.<br />
+  <sub>[#163996](https://github.com/flutter/flutter/pull/163996) opened on on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163996) 85 additions and 0 deletions in 2 files</sub><br />
+
