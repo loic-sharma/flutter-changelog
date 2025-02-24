@@ -4,7 +4,11 @@
 
 ### February 22, 2025 to February 28, 2025
 
-9 commits.
+10 commits.
+
+* **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code<br />
+  <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] Fix ImageFilter.shader equality to consider uniform values.<br />
   <sub>[#163348](https://github.com/flutter/flutter/pull/163348) merged on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) over 1 week, 40 additions and 1 deletion in 5 files</sub><br />
@@ -1086,9 +1090,19 @@
 
 ## flutter/website
 
+### February 22, 2025 to February 28, 2025
+
+1 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add iOS 18.4 beta warnings<br />
+  <sub>[#11740](https://github.com/flutter/website/pull/11740) merged on February 24, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11740) over 1 hour, 25 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Andrew Brogdon](https://github.com/RedBrogdon)</sub><br />
+  <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/6a6c258a-ea00-4c49-93f7-aec4f91c4df0)![image](https://github.com/user-attachments/assets/fd5273e2-654a-4c73-ba38-86c97b2fede3)</details></sub>
+
 ### February 15, 2025 to February 21, 2025
 
-5 commits.
+<details>
+<summary>5 commits...</summary>
 
 * **[M Sanjana](https://github.com/MS-Rex)** &mdash; fix-typo in "flutter analyze --suggestions" command on Android Java Gradle migration guide Page<br />
   <sub>[#11729](https://github.com/flutter/website/pull/11729) merged on February 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11729) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1109,6 +1123,8 @@
 * **[Nandan Magdum](https://github.com/nandanmagdum)** &mdash; Fix minor spelling mistake in Flutter Architectural Overview page<br />
   <sub>[#11734](https://github.com/flutter/website/pull/11734) merged on February 23, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11734) over 21 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+</details>
 
 ### February 8, 2025 to February 14, 2025
 
