@@ -1028,7 +1028,7 @@
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [flutter_adaptive_scaffold] Fix some memory leaks [prod-leak-fix]<br />
-  <sub>[#8546](https://github.com/flutter/packages/pull/8546) merged on February 14, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/8546) over 1 week, 18 additions and 5 deletions in 3 files</sub><br />
+  <sub>[#8546](https://github.com/flutter/packages/pull/8546) merged on February 14, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/packages/pull/8546) over 1 week, 18 additions and 5 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[oussama berhili](https://github.com/berhili098)** &mdash; [shared_preferences]Fix : SetState returning future<br />
