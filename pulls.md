@@ -191,3 +191,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Prepare TextInputPlugin for multi-view<br />
   <sub>[#164014](https://github.com/flutter/flutter/pull/164014) opened on on February 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164014) 909 additions and 569 deletions in 19 files</sub><br />
 
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] enable assets_unittests<br />
+  <sub>[#164019](https://github.com/flutter/flutter/pull/164019) opened on on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164019) 13 additions and 3 deletions in 2 files</sub><br />
+
