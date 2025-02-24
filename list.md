@@ -1027,6 +1027,10 @@
   <sub>[#8586](https://github.com/flutter/packages/pull/8586) merged on February 11, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/packages/pull/8586) over 3 days, 21 additions and 34 deletions in 21 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Brett Morgan](https://github.com/domesticmouse), [Gray Mackall](https://github.com/gmackall), [Tarrin Neal](https://github.com/tarrinneal)</sub>
 
+* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [flutter_adaptive_scaffold] Fix some memory leaks [prod-leak-fix]
+  <sub>[#8546](https://github.com/flutter/packages/pull/8546) merged on February 14, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/packages/pull/8546) over 1 week, 18 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub>
+
 * **[oussama berhili](https://github.com/berhili098)** &mdash; [shared_preferences]Fix : SetState returning future
   <sub>[#8398](https://github.com/flutter/packages/pull/8398) merged on February 10, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/packages/pull/8398) over 1 month, 8 additions and 3 deletions in 3 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Tarrin Neal](https://github.com/tarrinneal)</sub>
@@ -1034,10 +1038,6 @@
 * **[Michael Goderbauer](https://github.com/goderbauer)** &mdash; Update CODEOWNERS
   <sub>[#8628](https://github.com/flutter/packages/pull/8628) merged on February 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8628) over 18 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai)</sub>
-
-* **[Valentin Vignal](https://github.com/ValentinVignal)** &mdash; [flutter_adaptive_scaffold] Fix some memory leaks [prod-leak-fix]
-  <sub>[#8546](https://github.com/flutter/packages/pull/8546) merged on February 14, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/packages/pull/8546) over 1 week, 18 additions and 5 deletions in 3 files</sub>
-  <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt), [Greg Spencer](https://github.com/gspencergoog), [Kate Lovett](https://github.com/Piinks)</sub>
 
 * **[Marcin Chudy](https://github.com/mchudy)** &mdash; [camera] Fix crash when setting activeFormat on FLTCaptureDevice
   <sub>[#8630](https://github.com/flutter/packages/pull/8630) merged on February 14, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8630) over 3 hours, 9 additions and 6 deletions in 4 files</sub>
