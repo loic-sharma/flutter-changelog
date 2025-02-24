@@ -185,9 +185,6 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] enable assets_unittests<br />
   <sub>[#164019](https://github.com/flutter/flutter/pull/164019) opened on on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164019) 13 additions and 3 deletions in 2 files</sub><br />
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; DO NOT SUBMIT - led testing<br />
-  <sub>[#164027](https://github.com/flutter/flutter/pull/164027) opened on on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164027) 2 additions and 0 deletions in 1 file</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update multiple flutters benchmark test to latest gradle and agp and gradle defined dependencies <br />
   <sub>[#164029](https://github.com/flutter/flutter/pull/164029) opened on on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164029) 15 additions and 15 deletions in 3 files</sub><br />
 
