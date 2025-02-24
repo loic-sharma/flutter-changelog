@@ -55,14 +55,14 @@
   <sub>[#162935](https://github.com/flutter/flutter/pull/162935) merged on February 20, 2025 &mdash; **Small:** [31 comments](https://github.com/flutter/flutter/pull/162935) over 1 week, 115 additions and 56 deletions in 13 files</sub>
   <sub>Reviewed by: [Tobias Käs](https://github.com/weltkante), [Loïc Sharma](https://github.com/loic-sharma)</sub>
 
-* **[Justin McCandless](https://github.com/justinmc)** &mdash; Secure paste milestone 2
-  <sub>[#159013](https://github.com/flutter/flutter/pull/159013) merged on February 21, 2025 &mdash; **Extra large:** [77 comments](https://github.com/flutter/flutter/pull/159013) over 3 months, 4034 additions and 309 deletions in 124 files</sub>
-  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
-
 * **[Lucas Goldner](https://github.com/lucas-goldner)** &mdash; feat: Add selectionColor property to selectable text
   <sub>[#162177](https://github.com/flutter/flutter/pull/162177) merged on February 21, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/162177) over 3 weeks, 34 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Navaron Bracke](https://github.com/navaronbracke), [Justin McCandless](https://github.com/justinmc), [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/ab71a6d7-af87-4a0e-a87a-f16d8b03aaf8)</details></sub>
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; Secure paste milestone 2
+  <sub>[#159013](https://github.com/flutter/flutter/pull/159013) merged on February 21, 2025 &mdash; **Extra large:** [77 comments](https://github.com/flutter/flutter/pull/159013) over 3 months, 4034 additions and 309 deletions in 124 files</sub>
+  <sub>Reviewed by: [Renzo Olivares](https://github.com/Renzo-Olivares)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; CupertinoSliverNavigationBar.search fidelity updates
   <sub>[#163089](https://github.com/flutter/flutter/pull/163089) merged on February 21, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/flutter/pull/163089) over 1 week, 161 additions and 48 deletions in 5 files</sub>

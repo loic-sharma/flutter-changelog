@@ -126,7 +126,7 @@
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/163733) 130 additions and 0 deletions in 2 files</sub><br />
 
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash;  Refactor writing of package config in tests<br />
-  <sub>[#163734](https://github.com/flutter/flutter/pull/163734) opened on on February 20, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/163734) 490 additions and 848 deletions in 47 files</sub><br />
+  <sub>[#163734](https://github.com/flutter/flutter/pull/163734) opened on on February 20, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/163734) 490 additions and 848 deletions in 47 files</sub><br />
 
 * **[Ashish Beck](https://github.com/ashishbeck)** &mdash; Added `semanticsIdentifier` to `Text` Widgets<br />
   <sub>[#163843](https://github.com/flutter/flutter/pull/163843) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163843) 220 additions and 8 deletions in 6 files</sub><br />
