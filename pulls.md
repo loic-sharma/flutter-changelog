@@ -164,9 +164,6 @@
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [stable] Remove engine.version until we actually are ready to release.<br />
   <sub>[#163903](https://github.com/flutter/flutter/pull/163903) opened on on February 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163903) 0 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable text cache.<br />
-  <sub>[#163906](https://github.com/flutter/flutter/pull/163906) opened on on February 22, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163906) 7 additions and 0 deletions in 1 file</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData<br />
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163909) 54 additions and 18 deletions in 3 files</sub><br />
 

@@ -4,7 +4,11 @@
 
 ### February 22, 2025 to February 28, 2025
 
-3 commits.
+4 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable text cache.
+  <sub>[#163906](https://github.com/flutter/flutter/pull/163906) merged on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163906) over 2 days, 7 additions and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Add integration test for Gradle-initiated android builds with flavors
   <sub>[#163737](https://github.com/flutter/flutter/pull/163737) merged on February 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163737) over 3 days, 43 additions and 37 deletions in 3 files</sub>
