@@ -147,7 +147,7 @@
   <sub>[#163890](https://github.com/flutter/flutter/pull/163890) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163890) 11 additions and 1 deletion in 4 files</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] update dep references from older repos to newer (current SOT) repos<br />
-  <sub>[#163891](https://github.com/flutter/flutter/pull/163891) opened on on February 21, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163891) 9 additions and 22 deletions in 3 files</sub><br />
+  <sub>[#163891](https://github.com/flutter/flutter/pull/163891) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163891) 6 additions and 18 deletions in 3 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Check if simctl is installed before trying to list devices or runtimes<br />
   <sub>[#163895](https://github.com/flutter/flutter/pull/163895) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163895) 77 additions and 2 deletions in 2 files</sub><br />
