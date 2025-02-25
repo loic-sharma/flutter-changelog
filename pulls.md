@@ -200,3 +200,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]fix reorderable_list_test.dart<br />
   <sub>[#164050](https://github.com/flutter/flutter/pull/164050) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164050) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix spelling in navigation bar docs<br />
+  <sub>[#164067](https://github.com/flutter/flutter/pull/164067) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164067) 1 addition and 1 deletion in 1 file</sub><br />
+
