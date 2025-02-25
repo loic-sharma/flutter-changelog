@@ -4,7 +4,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-30 commits.
+33 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code<br />
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub><br />
@@ -55,6 +55,14 @@
   <sub>[#163796](https://github.com/flutter/flutter/pull/163796) merged on February 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163796) over 4 days, 76 additions and 67 deletions in 14 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Check if simctl is installed before trying to list devices or runtimes<br />
+  <sub>[#163895](https://github.com/flutter/flutter/pull/163895) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163895) over 3 days, 77 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update dragDevices doc to include default PointerDeviceKind.trackpad<br />
+  <sub>[#163898](https://github.com/flutter/flutter/pull/163898) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163898) over 3 days, 5 additions and 4 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Callum Moffat](https://github.com/moffatman), [Kate Lovett](https://github.com/Piinks), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Increase the timeout for Mac web_tool_tests to 45 minutes<br />
   <sub>[#164118](https://github.com/flutter/flutter/pull/164118) merged on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164118) over 2 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jackson Gardner](https://github.com/eyebrowsoffire)</sub><br />
@@ -102,6 +110,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Add integration test for Gradle-initiated android builds with flavors<br />
   <sub>[#163737](https://github.com/flutter/flutter/pull/163737) merged on February 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163737) over 3 days, 43 additions and 37 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Revert "Marks Linux_pixel_7pro service_extensions_test to be flaky"<br />
+  <sub>[#163882](https://github.com/flutter/flutter/pull/163882) merged on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163882) over 4 days, 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 521c27acf504 to 3ce6f25dc13e (1 revision)<br />
   <sub>[#164105](https://github.com/flutter/flutter/pull/164105) merged on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164105) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1173,12 +1185,16 @@
 
 ### February 22, 2025 to February 28, 2025
 
-2 commits.
+3 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add iOS 18.4 beta warnings<br />
   <sub>[#11740](https://github.com/flutter/website/pull/11740) merged on February 24, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11740) over 1 hour, 25 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Andrew Brogdon](https://github.com/RedBrogdon)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/6a6c258a-ea00-4c49-93f7-aec4f91c4df0)![image](https://github.com/user-attachments/assets/fd5273e2-654a-4c73-ba38-86c97b2fede3)</details></sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `--debug` to `flutter build apk`.<br />
+  <sub>[#11744](https://github.com/flutter/website/pull/11744) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11744) over 1 hour, 3 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub><br />
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Change flutter.dev/go/expansible-state-mixin to flutter.dev/go/codeshare-expansion-tile<br />
   <sub>[#11741](https://github.com/flutter/website/pull/11741) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11741) over 29 minutes, 2 additions and 1 deletion in 1 file</sub><br />
