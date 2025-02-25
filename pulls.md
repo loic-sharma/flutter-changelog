@@ -146,9 +146,6 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Check if simctl is installed before trying to list devices or runtimes<br />
   <sub>[#163895](https://github.com/flutter/flutter/pull/163895) opened on on February 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163895) 77 additions and 2 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix and test an edge case in `findPackageConfigFile`.<br />
-  <sub>[#163902](https://github.com/flutter/flutter/pull/163902) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163902) 50 additions and 1 deletion in 2 files</sub><br />
-
 * **[Jackson Gardner](https://github.com/eyebrowsoffire)** &mdash; [stable] Remove engine.version until we actually are ready to release.<br />
   <sub>[#163903](https://github.com/flutter/flutter/pull/163903) opened on on February 22, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163903) 0 additions and 1 deletion in 1 file</sub><br />
 
@@ -187,9 +184,6 @@
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update multiple flutters benchmark test to latest gradle and agp and gradle defined dependencies <br />
   <sub>[#164029](https://github.com/flutter/flutter/pull/164029) opened on on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164029) 15 additions and 15 deletions in 3 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] increase backdrop cached task limit.<br />
-  <sub>[#164036](https://github.com/flutter/flutter/pull/164036) opened on on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164036) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up expanded state in web engine<br />
   <sub>[#164048](https://github.com/flutter/flutter/pull/164048) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164048) 133 additions and 0 deletions in 6 files</sub><br />

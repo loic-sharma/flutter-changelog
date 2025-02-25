@@ -4,7 +4,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-21 commits.
+22 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code<br />
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub><br />
@@ -26,6 +26,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [ui] Fix ImageFilter.shader equality to consider uniform values.<br />
   <sub>[#163348](https://github.com/flutter/flutter/pull/163348) merged on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163348) over 1 week, 40 additions and 1 deletion in 5 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix and test an edge case in `findPackageConfigFile`.<br />
+  <sub>[#163902](https://github.com/flutter/flutter/pull/163902) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163902) over 3 days, 50 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Sigurd Meldgaard](https://github.com/sigurdm)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] switch iOS to slimpeller variant.<br />
   <sub>[#163808](https://github.com/flutter/flutter/pull/163808) merged on February 24, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/163808) over 3 days, 126 additions and 398 deletions in 25 files</sub><br />
