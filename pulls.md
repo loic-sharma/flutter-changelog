@@ -203,3 +203,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix spelling in navigation bar docs<br />
   <sub>[#164067](https://github.com/flutter/flutter/pull/164067) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164067) 1 addition and 1 deletion in 1 file</sub><br />
 
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix incorrect scaffold docs<br />
+  <sub>[#164068](https://github.com/flutter/flutter/pull/164068) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164068) 1 addition and 1 deletion in 1 file</sub><br />
+
