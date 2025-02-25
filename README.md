@@ -4,11 +4,16 @@
 
 ### February 22, 2025 to February 28, 2025
 
-17 commits.
+19 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code<br />
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Fix `RangeSlider` renders track when track colors are transparent <br />
+  <sub>[#162386](https://github.com/flutter/flutter/pull/162386) merged on February 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162386) over 3 weeks, 47 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="755" alt="Screenshot 2025-02-12 at 15 56 21" src="https://github.com/user-attachments/assets/e8c88bd8-3c87-46e2-9f29-b945128ae93a" /><img width="755" alt="Screenshot 2025-02-12 at 15 56 09" src="https://github.com/user-attachments/assets/5f9244e8-4d51-40f3-a3fc-afdf9dff9b35" /></details></sub>
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"<br />
   <sub>[#163761](https://github.com/flutter/flutter/pull/163761) merged on February 24, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/163761) over 4 days, 386 additions and 9 deletions in 13 files</sub><br />
@@ -21,6 +26,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] switch iOS to slimpeller variant.<br />
   <sub>[#163808](https://github.com/flutter/flutter/pull/163808) merged on February 24, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/163808) over 3 days, 126 additions and 398 deletions in 25 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Walid Ashik](https://github.com/walid-ashik)** &mdash; Add BorderRadiusGeometry to Divider Widget for Customisable Border Radius<br />
+  <sub>[#163414](https://github.com/flutter/flutter/pull/163414) merged on February 25, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/163414) over 1 week, 57 additions and 5 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Faisal Ahmed](https://github.com/NerdFaisal404), [Tong Mu](https://github.com/dkwingsmt), [Mitchell Goodwin](https://github.com/MitchellGoodwin)</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; SliverMainAxisGroup multiple PinnedHeaderSliver children<br />
   <sub>[#163528](https://github.com/flutter/flutter/pull/163528) merged on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163528) over 6 days, 135 additions and 45 deletions in 2 files</sub><br />
