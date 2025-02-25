@@ -93,7 +93,7 @@
   <sub>[#163589](https://github.com/flutter/flutter/pull/163589) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163589) 145 additions and 0 deletions in 6 files</sub><br />
 
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add `some` constructors to `EdgeInsetsGeometry`, `BorderRadiusGeometry` and `BoxBorder` subclasses <br />
-  <sub>[#163601](https://github.com/flutter/flutter/pull/163601) opened on on February 19, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/163601) 582 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#163601](https://github.com/flutter/flutter/pull/163601) opened on on February 19, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/163601) 582 additions and 1 deletion in 7 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Handle null exceptions calling `renderObject`<br />
   <sub>[#163642](https://github.com/flutter/flutter/pull/163642) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163642) 19 additions and 6 deletions in 1 file</sub><br />
@@ -177,7 +177,7 @@
   <sub>[#163967](https://github.com/flutter/flutter/pull/163967) opened on on February 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163967) 97 additions and 1 deletion in 2 files</sub><br />
 
 * **[yim](https://github.com/yiiim)** &mdash; Fixed the issue that Slider's secondaryTrackValue is not updated.<br />
-  <sub>[#163996](https://github.com/flutter/flutter/pull/163996) opened on on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163996) 85 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#163996](https://github.com/flutter/flutter/pull/163996) opened on on February 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163996) 85 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
   <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 42 additions and 3 deletions in 2 files</sub><br />
