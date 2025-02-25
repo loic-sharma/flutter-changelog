@@ -4,7 +4,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-16 commits.
+17 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code<br />
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub><br />
@@ -21,6 +21,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] switch iOS to slimpeller variant.<br />
   <sub>[#163808](https://github.com/flutter/flutter/pull/163808) merged on February 24, 2025 &mdash; **Large:** [5 comments](https://github.com/flutter/flutter/pull/163808) over 3 days, 126 additions and 398 deletions in 25 files</sub><br />
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[yim](https://github.com/yiiim)** &mdash; SliverMainAxisGroup multiple PinnedHeaderSliver children<br />
+  <sub>[#163528](https://github.com/flutter/flutter/pull/163528) merged on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163528) over 6 days, 135 additions and 45 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
 
 * **[Yegor](https://github.com/yjbanov)** &mdash; [web] retry safaridriver session creation<br />
   <sub>[#163791](https://github.com/flutter/flutter/pull/163791) merged on February 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163791) over 3 days, 45 additions and 10 deletions in 1 file</sub><br />
