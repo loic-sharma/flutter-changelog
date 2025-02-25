@@ -505,6 +505,10 @@
   <sub>[#163153](https://github.com/flutter/flutter/pull/163153) merged on February 12, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/163153) over 2 hours, 14 additions and 380 deletions in 27 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams), [Ben Konyi](https://github.com/bkonyi)</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix Linux keyboard support for AltGr<br />
+  <sub>[#162495](https://github.com/flutter/flutter/pull/162495) merged on February 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162495) over 1 week, 13 additions and 7 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
 * **[hellohuanlin](https://github.com/hellohuanlin)** &mdash; [ios][secure_paste]show menu item based on info sent from framework<br />
   <sub>[#161103](https://github.com/flutter/flutter/pull/161103) merged on February 11, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/161103) over 1 month, 404 additions and 3 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc)</sub><br />
@@ -528,10 +532,6 @@
 * **[yim](https://github.com/yiiim)** &mdash; Refactor SliverMainAxisGroup for reverse mode.<br />
   <sub>[#161849](https://github.com/flutter/flutter/pull/161849) merged on February 14, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/161849) over 3 weeks, 46 additions and 48 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix Linux keyboard support for AltGr<br />
-  <sub>[#162495](https://github.com/flutter/flutter/pull/162495) merged on February 11, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162495) over 1 week, 13 additions and 7 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; fix: Dispose codec after completing frame creation<br />
   <sub>[#159945](https://github.com/flutter/flutter/pull/159945) merged on February 11, 2025 &mdash; **Small:** [17 comments](https://github.com/flutter/flutter/pull/159945) over 2 months, 73 additions and 5 deletions in 5 files</sub><br />
