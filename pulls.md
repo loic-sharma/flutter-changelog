@@ -93,7 +93,7 @@
   <sub>[#163589](https://github.com/flutter/flutter/pull/163589) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163589) 145 additions and 0 deletions in 6 files</sub><br />
 
 * **[Amal Krishna](https://github.com/amal-stack)** &mdash; Add `some` constructors to `EdgeInsetsGeometry`, `BorderRadiusGeometry` and `BoxBorder` subclasses <br />
-  <sub>[#163601](https://github.com/flutter/flutter/pull/163601) opened on on February 19, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/163601) 582 additions and 1 deletion in 7 files</sub><br />
+  <sub>[#163601](https://github.com/flutter/flutter/pull/163601) opened on on February 19, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/163601) 610 additions and 1 deletion in 7 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Handle null exceptions calling `renderObject`<br />
   <sub>[#163642](https://github.com/flutter/flutter/pull/163642) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163642) 19 additions and 6 deletions in 1 file</sub><br />
