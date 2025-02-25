@@ -1112,12 +1112,16 @@
 
 ### February 22, 2025 to February 28, 2025
 
-1 commits.
+2 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add iOS 18.4 beta warnings<br />
   <sub>[#11740](https://github.com/flutter/website/pull/11740) merged on February 24, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11740) over 1 hour, 25 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Andrew Brogdon](https://github.com/RedBrogdon)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/6a6c258a-ea00-4c49-93f7-aec4f91c4df0)![image](https://github.com/user-attachments/assets/fd5273e2-654a-4c73-ba38-86c97b2fede3)</details></sub>
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Change flutter.dev/go/expansible-state-mixin to flutter.dev/go/codeshare-expansion-tile<br />
+  <sub>[#11741](https://github.com/flutter/website/pull/11741) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11741) over 29 minutes, 2 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 ### February 15, 2025 to February 21, 2025
 
