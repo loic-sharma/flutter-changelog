@@ -141,7 +141,7 @@
   <sub>[#163853](https://github.com/flutter/flutter/pull/163853) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163853) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools<br />
-  <sub>[#163890](https://github.com/flutter/flutter/pull/163890) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163890) 11 additions and 1 deletion in 4 files</sub><br />
+  <sub>[#163890](https://github.com/flutter/flutter/pull/163890) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163890) 12 additions and 1 deletion in 5 files</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Check if simctl is installed before trying to list devices or runtimes<br />
   <sub>[#163895](https://github.com/flutter/flutter/pull/163895) opened on on February 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163895) 77 additions and 2 deletions in 2 files</sub><br />
