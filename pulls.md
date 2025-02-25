@@ -39,7 +39,7 @@
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
-  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162467) 184 additions and 47 deletions in 13 files</sub><br />
+  <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162467) 184 additions and 47 deletions in 13 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [wip] [Linux] Merge UI And Platform thread<br />
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162671) 251 additions and 24 deletions in 16 files</sub><br />
@@ -128,9 +128,6 @@
 * **[Ashish Beck](https://github.com/ashishbeck)** &mdash; Added `semanticsIdentifier` to `Text` Widgets<br />
   <sub>[#163843](https://github.com/flutter/flutter/pull/163843) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163843) 220 additions and 8 deletions in 6 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; pure_android_host_apps/android_host_app_v2_embedding multiple gradle and AGP versions<br />
-  <sub>[#163849](https://github.com/flutter/flutter/pull/163849) opened on on February 21, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163849) 30 additions and 9 deletions in 2 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools<br />
   <sub>[#163890](https://github.com/flutter/flutter/pull/163890) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163890) 12 additions and 1 deletion in 5 files</sub><br />
 
@@ -161,17 +158,11 @@
 * **[Dominik Honnef](https://github.com/dominikh)** &mdash; Fix minor issues in documentation of WidgetsApp<br />
   <sub>[#163942](https://github.com/flutter/flutter/pull/163942) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163942) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #163840 - CupertinoButton cursor doesn't change to clickable on desktop<br />
-  <sub>[#163967](https://github.com/flutter/flutter/pull/163967) opened on on February 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163967) 97 additions and 1 deletion in 2 files</sub><br />
-
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
   <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 42 additions and 3 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Prepare TextInputPlugin for multi-view<br />
   <sub>[#164014](https://github.com/flutter/flutter/pull/164014) opened on on February 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164014) 909 additions and 569 deletions in 19 files</sub><br />
-
-* **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Delete all legacy Skia-oriented method overloads in DlCanvas<br />
-  <sub>[#164054](https://github.com/flutter/flutter/pull/164054) opened on on February 25, 2025 &mdash; **Large:** [1 comment](https://github.com/flutter/flutter/pull/164054) 347 additions and 637 deletions in 57 files</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix spelling in navigation bar docs<br />
   <sub>[#164067](https://github.com/flutter/flutter/pull/164067) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164067) 1 addition and 1 deletion in 1 file</sub><br />
@@ -189,7 +180,7 @@
   <sub>[#164109](https://github.com/flutter/flutter/pull/164109) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164109) 10 additions and 114 deletions in 10 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make DLOG into LOG for startup errors.<br />
-  <sub>[#164110](https://github.com/flutter/flutter/pull/164110) opened on on February 25, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164110) 9 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#164110](https://github.com/flutter/flutter/pull/164110) opened on on February 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164110) 9 additions and 9 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Reenable linux_web_engine mac tests on Mac-14<br />
   <sub>[#164119](https://github.com/flutter/flutter/pull/164119) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164119) 2 additions and 2 deletions in 2 files</sub><br />
@@ -198,5 +189,11 @@
   <sub>[#164123](https://github.com/flutter/flutter/pull/164123) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164123) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] mediatek.<br />
-  <sub>[#164126](https://github.com/flutter/flutter/pull/164126) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164126) 5 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#164126](https://github.com/flutter/flutter/pull/164126) opened on on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164126) 5 additions and 0 deletions in 1 file</sub><br />
+
+* **[Justin McCandless](https://github.com/justinmc)** &mdash; [stable] Cherry pick changelog update<br />
+  <sub>[#164143](https://github.com/flutter/flutter/pull/164143) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164143) 1 addition and 0 deletions in 1 file</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Add platform view to integration_test example<br />
+  <sub>[#164144](https://github.com/flutter/flutter/pull/164144) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164144) 164 additions and 17 deletions in 10 files</sub><br />
 
