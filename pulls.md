@@ -171,7 +171,7 @@
   <sub>[#163942](https://github.com/flutter/flutter/pull/163942) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163942) 2 additions and 2 deletions in 1 file</sub><br />
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #163840 - CupertinoButton cursor doesn't change to clickable on desktop<br />
-  <sub>[#163967](https://github.com/flutter/flutter/pull/163967) opened on on February 23, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163967) 97 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#163967](https://github.com/flutter/flutter/pull/163967) opened on on February 23, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163967) 97 additions and 1 deletion in 2 files</sub><br />
 
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
   <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 42 additions and 3 deletions in 2 files</sub><br />
@@ -195,7 +195,7 @@
   <sub>[#164109](https://github.com/flutter/flutter/pull/164109) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164109) 10 additions and 114 deletions in 10 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make DLOG into LOG for startup errors.<br />
-  <sub>[#164110](https://github.com/flutter/flutter/pull/164110) opened on on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164110) 9 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#164110](https://github.com/flutter/flutter/pull/164110) opened on on February 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164110) 9 additions and 9 deletions in 1 file</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Reenable linux_web_engine mac tests on Mac-14<br />
   <sub>[#164119](https://github.com/flutter/flutter/pull/164119) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164119) 2 additions and 2 deletions in 2 files</sub><br />
