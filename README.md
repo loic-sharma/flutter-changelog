@@ -4,7 +4,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-26 commits.
+27 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code<br />
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub><br />
@@ -78,6 +78,10 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable text cache.<br />
   <sub>[#163906](https://github.com/flutter/flutter/pull/163906) merged on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163906) over 2 days, 7 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [fuchsia] enable assets_unittests<br />
+  <sub>[#164019](https://github.com/flutter/flutter/pull/164019) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164019) over 23 hours, 13 additions and 3 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; pure_android_host_apps android versions update<br />
   <sub>[#163617](https://github.com/flutter/flutter/pull/163617) merged on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163617) over 5 days, 16 additions and 9 deletions in 7 files</sub><br />
