@@ -4,7 +4,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-24 commits.
+25 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code<br />
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub><br />
@@ -82,6 +82,10 @@
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; Add integration test for Gradle-initiated android builds with flavors<br />
   <sub>[#163737](https://github.com/flutter/flutter/pull/163737) merged on February 24, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163737) over 3 days, 43 additions and 37 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 521c27acf504 to 3ce6f25dc13e (1 revision)<br />
+  <sub>[#164105](https://github.com/flutter/flutter/pull/164105) merged on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164105) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from a141a3ceef87 to 521c27acf504 (8 revisions)<br />
   <sub>[#164083](https://github.com/flutter/flutter/pull/164083) merged on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164083) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
