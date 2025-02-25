@@ -4,7 +4,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-25 commits.
+26 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub>
@@ -18,6 +18,10 @@
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"
   <sub>[#163761](https://github.com/flutter/flutter/pull/163761) merged on February 24, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/163761) over 4 days, 386 additions and 9 deletions in 13 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Ben Konyi](https://github.com/bkonyi)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Wire view focus event and focus request
+  <sub>[#163930](https://github.com/flutter/flutter/pull/163930) merged on February 25, 2025 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/163930) over 3 days, 716 additions and 1 deletion in 38 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Walid Ashik](https://github.com/walid-ashik)** &mdash; Add BorderRadiusGeometry to Divider Widget for Customisable Border Radius
   <sub>[#163414](https://github.com/flutter/flutter/pull/163414) merged on February 25, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/163414) over 1 week, 57 additions and 5 deletions in 2 files</sub>

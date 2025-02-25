@@ -36,7 +36,7 @@
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
-  <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
+  <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/162467) 187 additions and 46 deletions in 13 files</sub><br />
@@ -132,7 +132,7 @@
   <sub>[#163843](https://github.com/flutter/flutter/pull/163843) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163843) 220 additions and 8 deletions in 6 files</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; pure_android_host_apps/android_host_app_v2_embedding multiple gradle and AGP versions<br />
-  <sub>[#163849](https://github.com/flutter/flutter/pull/163849) opened on on February 21, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163849) 30 additions and 9 deletions in 2 files</sub><br />
+  <sub>[#163849](https://github.com/flutter/flutter/pull/163849) opened on on February 21, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/163849) 30 additions and 9 deletions in 2 files</sub><br />
 
 * **[Jay](https://github.com/chul0061)** &mdash; Fix korean cupertino datepicker datetime order<br />
   <sub>[#163850](https://github.com/flutter/flutter/pull/163850) opened on on February 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163850) 3 additions and 2 deletions in 3 files</sub><br />
