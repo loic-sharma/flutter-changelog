@@ -200,9 +200,9 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix incorrect scaffold docs<br />
   <sub>[#164068](https://github.com/flutter/flutter/pull/164068) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164068) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Intercept error when iOS 18.4 crashes with JIT mode and give guided error<br />
-  <sub>[#164072](https://github.com/flutter/flutter/pull/164072) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164072) 122 additions and 0 deletions in 2 files</sub><br />
-
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Fix incorrectly checking for invalid environment variables in the tool<br />
   <sub>[#164101](https://github.com/flutter/flutter/pull/164101) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164101) 0 additions and 39 deletions in 2 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move AHB check to Vulkan, use Vulkan surface on 29.<br />
+  <sub>[#164109](https://github.com/flutter/flutter/pull/164109) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164109) 11 additions and 115 deletions in 10 files</sub><br />
 

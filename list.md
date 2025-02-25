@@ -4,7 +4,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-22 commits.
+23 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub>
@@ -46,6 +46,10 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `AndroidRenderingApi` from `common` to `shell/platform/android`
   <sub>[#163796](https://github.com/flutter/flutter/pull/163796) merged on February 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163796) over 4 days, 76 additions and 67 deletions in 14 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] increase backdrop cached task limit.
+  <sub>[#164036](https://github.com/flutter/flutter/pull/164036) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164036) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Windows] Use enum to configure UI thread policy
   <sub>[#163727](https://github.com/flutter/flutter/pull/163727) merged on February 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163727) over 5 days, 100 additions and 21 deletions in 10 files</sub>
