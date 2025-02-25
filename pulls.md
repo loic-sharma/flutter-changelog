@@ -209,3 +209,6 @@
 * **[Victoria Ashworth](https://github.com/vashworth)** &mdash; Intercept error when iOS 18.4 crashes with JIT mode and give guided error<br />
   <sub>[#164072](https://github.com/flutter/flutter/pull/164072) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164072) 122 additions and 0 deletions in 2 files</sub><br />
 
+* **[Danil Abdrafikov](https://github.com/Holofox)** &mdash; Fix RangeMaintainingScrollPhysics behavior for reversed scrollables<br />
+  <sub>[#164088](https://github.com/flutter/flutter/pull/164088) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164088) 15 additions and 17 deletions in 1 file</sub><br />
+
