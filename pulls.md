@@ -206,3 +206,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move AHB check to Vulkan, use Vulkan surface on 29.<br />
   <sub>[#164109](https://github.com/flutter/flutter/pull/164109) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164109) 11 additions and 115 deletions in 10 files</sub><br />
 
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make DLOG into LOG for startup errors.<br />
+  <sub>[#164110](https://github.com/flutter/flutter/pull/164110) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164110) 9 additions and 9 deletions in 1 file</sub><br />
+
