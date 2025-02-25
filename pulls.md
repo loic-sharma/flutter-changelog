@@ -180,7 +180,7 @@
   <sub>[#163996](https://github.com/flutter/flutter/pull/163996) opened on on February 24, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163996) 85 additions and 0 deletions in 2 files</sub><br />
 
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
-  <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 9 additions and 3 deletions in 1 file</sub><br />
+  <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 42 additions and 3 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Prepare TextInputPlugin for multi-view<br />
   <sub>[#164014](https://github.com/flutter/flutter/pull/164014) opened on on February 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164014) 909 additions and 569 deletions in 19 files</sub><br />
