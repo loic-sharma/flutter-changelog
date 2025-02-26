@@ -131,9 +131,6 @@
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; modify toggle mode style with DatePickerTheme<br />
   <sub>[#164102](https://github.com/flutter/flutter/pull/164102) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164102) 85 additions and 9 deletions in 6 files</sub><br />
 
-* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Update fuchsia_test_scripts_version to the latest version<br />
-  <sub>[#164123](https://github.com/flutter/flutter/pull/164123) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164123) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [stable] Cherry pick changelog update<br />
   <sub>[#164143](https://github.com/flutter/flutter/pull/164143) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164143) 1 addition and 0 deletions in 1 file</sub><br />
 

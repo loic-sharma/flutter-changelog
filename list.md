@@ -1138,7 +1138,19 @@
 
 ### February 22, 2025 to February 28, 2025
 
-6 commits.
+11 commits.
+
+* **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix 90°-off preview rotation
+  <sub>[#8629](https://github.com/flutter/packages/pull/8629) merged on February 26, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8629) over 1 week, 1321 additions and 221 deletions in 23 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; [go_router_builder]: Handle invaild params
+  <sub>[#8405](https://github.com/flutter/packages/pull/8405) merged on February 26, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/8405) over 1 month, 353 additions and 171 deletions in 22 files</sub>
+  <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub>
+
+* **[Andrzej Przedecki](https://github.com/aprzedecki)** &mdash; [go_router] Secured empty matches in canPop
+  <sub>[#8557](https://github.com/flutter/packages/pull/8557) merged on February 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8557) over 3 weeks, 22 additions and 1 deletion in 4 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Improve README and API doc comments
   <sub>[#8560](https://github.com/flutter/packages/pull/8560) merged on February 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/8560) over 2 weeks, 100 additions and 84 deletions in 13 files</sub>
@@ -1151,6 +1163,14 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Prevent browser from navigating when followLink isn't called
   <sub>[#8675](https://github.com/flutter/packages/pull/8675) merged on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8675) over 4 days, 159 additions and 19 deletions in 4 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [pigeon] Timestamp test steps in CI
+  <sub>[#8716](https://github.com/flutter/packages/pull/8716) merged on February 26, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8716) over 4 hours, 31 additions and 17 deletions in 1 file</sub>
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub>
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [tool] Update targetsdk version to 35 from 32
+  <sub>[#8694](https://github.com/flutter/packages/pull/8694) merged on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8694) over 1 day, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Bump androidx.test:core to 1.4.0
   <sub>[#8710](https://github.com/flutter/packages/pull/8710) merged on February 26, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/packages/pull/8710) over 23 hours, 14 additions and 15 deletions in 14 files</sub>
