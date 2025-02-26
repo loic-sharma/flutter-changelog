@@ -36,7 +36,7 @@
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
-  <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
+  <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162467) 184 additions and 47 deletions in 13 files</sub><br />
@@ -88,9 +88,6 @@
 
 * **[Hannah Jin](https://github.com/hannah-hyj)** &mdash; [draft][not ready for review yet][web][a11y]Delete _childContainerElement<br />
   <sub>[#163662](https://github.com/flutter/flutter/pull/163662) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163662) 5 additions and 65 deletions in 1 file</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback. (#163501)<br />
-  <sub>[#163667](https://github.com/flutter/flutter/pull/163667) opened on on February 19, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163667) 122 additions and 20 deletions in 5 files</sub><br />
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163690) 33 additions and 3 deletions in 2 files</sub><br />
@@ -152,7 +149,7 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Update fuchsia_test_scripts_version to the latest version<br />
   <sub>[#164123](https://github.com/flutter/flutter/pull/164123) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164123) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] detect mediatek soc and fall back the GLES.<br />
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] detect mediatek soc and fall back to GLES.<br />
   <sub>[#164126](https://github.com/flutter/flutter/pull/164126) opened on on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164126) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [stable] Cherry pick changelog update<br />

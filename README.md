@@ -80,7 +80,7 @@
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move AHB check to Vulkan, use Vulkan surface on 29.<br />
-  <sub>[#164109](https://github.com/flutter/flutter/pull/164109) merged on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164109) over 10 hours, 10 additions and 114 deletions in 10 files</sub><br />
+  <sub>[#164109](https://github.com/flutter/flutter/pull/164109) merged on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164109) over 10 hours, 10 additions and 114 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Check if simctl is installed before trying to list devices or runtimes<br />
@@ -1221,16 +1221,24 @@
 
 ### February 22, 2025 to February 28, 2025
 
-4 commits.
+6 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add iOS 18.4 beta warnings<br />
   <sub>[#11740](https://github.com/flutter/website/pull/11740) merged on February 24, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11740) over 1 hour, 25 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Andrew Brogdon](https://github.com/RedBrogdon)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/6a6c258a-ea00-4c49-93f7-aec4f91c4df0)![image](https://github.com/user-attachments/assets/fd5273e2-654a-4c73-ba38-86c97b2fede3)</details></sub>
 
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Make link check command more reliable<br />
+  <sub>[#11746](https://github.com/flutter/website/pull/11746) merged on February 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11746) over 17 minutes, 13 additions and 6 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Brett Morgan](https://github.com/domesticmouse)</sub><br />
+
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `--debug` to `flutter build apk`.<br />
   <sub>[#11744](https://github.com/flutter/website/pull/11744) merged on February 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11744) over 1 hour, 3 additions and 2 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub><br />
+
+* **[Benoit Bergeron](https://github.com/Thorinos)** &mdash; Update generated files location in internationalization doc<br />
+  <sub>[#11730](https://github.com/flutter/website/pull/11730) merged on February 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11730) over 1 week, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Andrei Nazarov](https://github.com/andreynazarov3333)** &mdash; Fix count variable assignment bug in code example<br />
   <sub>[#11725](https://github.com/flutter/website/pull/11725) merged on February 26, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11725) over 1 week, 5 additions and 4 deletions in 1 file</sub><br />
