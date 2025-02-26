@@ -1154,7 +1154,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-12 commits.
+13 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix 90°-off preview rotation
   <sub>[#8629](https://github.com/flutter/packages/pull/8629) merged on February 26, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8629) over 1 week, 1321 additions and 221 deletions in 23 files</sub>
@@ -1179,6 +1179,10 @@
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [url_launcher][web] Prevent browser from navigating when followLink isn't called
   <sub>[#8675](https://github.com/flutter/packages/pull/8675) merged on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/packages/pull/8675) over 4 days, 159 additions and 19 deletions in 4 files</sub>
   <sub>Reviewed by: [David Iglesias](https://github.com/ditman)</sub>
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Dependabot to update major and minor versions of test dependencies, ignore patch
+  <sub>[#8712](https://github.com/flutter/packages/pull/8712) merged on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8712) over 21 hours, 6 additions and 6 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [local_auth] Update to use flutter.targetSdkVersion
   <sub>[#8695](https://github.com/flutter/packages/pull/8695) merged on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8695) over 1 day, 1 addition and 1 deletion in 1 file</sub>
