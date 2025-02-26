@@ -1233,12 +1233,16 @@
 
 ### February 22, 2025 to February 28, 2025
 
-6 commits.
+7 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add iOS 18.4 beta warnings<br />
   <sub>[#11740](https://github.com/flutter/website/pull/11740) merged on February 24, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/website/pull/11740) over 1 hour, 25 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [Jenn Magder](https://github.com/jmagman), [Andrew Brogdon](https://github.com/RedBrogdon)</sub><br />
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/6a6c258a-ea00-4c49-93f7-aec4f91c4df0)![image](https://github.com/user-attachments/assets/fd5273e2-654a-4c73-ba38-86c97b2fede3)</details></sub>
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 3 progress indicators and slider guides for theme migration<br />
+  <sub>[#11733](https://github.com/flutter/website/pull/11733) merged on February 26, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/11733) over 4 days, 48 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Make link check command more reliable<br />
   <sub>[#11746](https://github.com/flutter/website/pull/11746) merged on February 26, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11746) over 17 minutes, 13 additions and 6 deletions in 2 files</sub><br />
