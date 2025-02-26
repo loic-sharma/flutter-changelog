@@ -44,7 +44,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools<br />
-  <sub>[#163890](https://github.com/flutter/flutter/pull/163890) merged on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163890) over 4 days, 12 additions and 2 deletions in 6 files</sub><br />
+  <sub>[#163890](https://github.com/flutter/flutter/pull/163890) merged on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163890) over 4 days, 12 additions and 2 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Fix and test an edge case in `findPackageConfigFile`.<br />
@@ -1121,11 +1121,15 @@
 
 ### February 22, 2025 to February 28, 2025
 
-1 commits.
+2 commits.
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Improve README and API doc comments<br />
   <sub>[#8560](https://github.com/flutter/packages/pull/8560) merged on February 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/8560) over 2 weeks, 100 additions and 84 deletions in 13 files</sub><br />
   <sub>Reviewed by: [Joonas Kerttula](https://github.com/jokerttu), [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Lengthen custom tests timeout<br />
+  <sub>[#8715](https://github.com/flutter/packages/pull/8715) merged on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8715) over 2 hours, 2 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 ### February 15, 2025 to February 21, 2025
 

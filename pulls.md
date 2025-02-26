@@ -51,7 +51,7 @@
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/162731) 99 additions and 3 deletions in 2 files</sub><br />
 
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
-  <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162780) 28 additions and 19 deletions in 12 files</sub><br />
+  <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162780) 28 additions and 19 deletions in 12 files</sub><br />
 
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
@@ -88,9 +88,6 @@
 
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163690) 33 additions and 3 deletions in 2 files</sub><br />
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [Windows] Enable merged platform and UI thread by default<br />
-  <sub>[#163726](https://github.com/flutter/flutter/pull/163726) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163726) 38 additions and 24 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/163733) 130 additions and 0 deletions in 2 files</sub><br />
