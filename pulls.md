@@ -53,9 +53,6 @@
 * **[gbbosak](https://github.com/gbbosak)** &mdash; [fuchsia] Remove explicit LogSink and InspectSink routing and use dictionaries instead<br />
   <sub>[#162780](https://github.com/flutter/flutter/pull/162780) opened on on February 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/162780) 28 additions and 19 deletions in 12 files</sub><br />
 
-* **[pathconnected](https://github.com/pathconnected)** &mdash; Set SliverResizingHeader's maxScrollObstructionExtent to minExtent<br />
-  <sub>[#162955](https://github.com/flutter/flutter/pull/162955) opened on on February 9, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162955) 54 additions and 1 deletion in 2 files</sub><br />
-
 * **[Kamil Szczęk](https://github.com/kszczek)** &mdash; fix(doctor): add an alternative path for the Dart plugin<br />
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
 
@@ -168,8 +165,5 @@
   <sub>[#164143](https://github.com/flutter/flutter/pull/164143) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164143) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Add platform view to integration_test example<br />
-  <sub>[#164144](https://github.com/flutter/flutter/pull/164144) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164144) 162 additions and 17 deletions in 10 files</sub><br />
-
-* **[rubaisha khurshid](https://github.com/rubaisha15)** &mdash; Work_buddies_Feb26<br />
-  <sub>[#164156](https://github.com/flutter/flutter/pull/164156) opened on on February 25, 2025 &mdash; **Extra large:** [1 comment](https://github.com/flutter/flutter/pull/164156) 1509 additions and 948 deletions in 63 files</sub><br />
+  <sub>[#164144](https://github.com/flutter/flutter/pull/164144) opened on on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164144) 162 additions and 17 deletions in 10 files</sub><br />
 
