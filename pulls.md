@@ -155,3 +155,6 @@
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [stable] Cherry pick changelog update<br />
   <sub>[#164143](https://github.com/flutter/flutter/pull/164143) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164143) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Add experimental IntegrationTest.takeScreenshot<br />
+  <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164171) 15 additions and 5 deletions in 2 files</sub><br />
+
