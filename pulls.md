@@ -111,7 +111,7 @@
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163909) 54 additions and 18 deletions in 3 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Animate fill for material app bar<br />
-  <sub>[#163913](https://github.com/flutter/flutter/pull/163913) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163913) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#163913](https://github.com/flutter/flutter/pull/163913) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163913) 42 additions and 1 deletion in 4 files</sub><br />
 
 * **[Dibash Poudel](https://github.com/dbspoudel)** &mdash; add assert message for BoxShape.circle and borderRadius check<br />
   <sub>[#163917](https://github.com/flutter/flutter/pull/163917) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163917) 12 additions and 8 deletions in 2 files</sub><br />
