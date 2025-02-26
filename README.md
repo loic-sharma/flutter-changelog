@@ -71,13 +71,17 @@
   <sub>[#163849](https://github.com/flutter/flutter/pull/163849) merged on February 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163849) over 4 days, 30 additions and 9 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `AndroidRenderingApi` from `common` to `shell/platform/android`<br />
-  <sub>[#163796](https://github.com/flutter/flutter/pull/163796) merged on February 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163796) over 4 days, 76 additions and 67 deletions in 14 files</sub><br />
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make DLOG into LOG for startup errors.<br />
   <sub>[#164110](https://github.com/flutter/flutter/pull/164110) merged on February 26, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164110) over 12 hours, 9 additions and 9 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] detect mediatek soc and fall back to GLES.<br />
+  <sub>[#164126](https://github.com/flutter/flutter/pull/164126) merged on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164126) over 10 hours, 5 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Move `AndroidRenderingApi` from `common` to `shell/platform/android`<br />
+  <sub>[#163796](https://github.com/flutter/flutter/pull/163796) merged on February 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163796) over 4 days, 76 additions and 67 deletions in 14 files</sub><br />
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run new gallery transition perf benchmark on Galaxy S24<br />
   <sub>[#163665](https://github.com/flutter/flutter/pull/163665) merged on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163665) over 6 days, 0 additions and 1 deletion in 1 file</sub><br />
@@ -106,10 +110,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] increase backdrop cached task limit.<br />
   <sub>[#164036](https://github.com/flutter/flutter/pull/164036) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164036) over 17 hours, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] detect mediatek soc and fall back to GLES.<br />
-  <sub>[#164126](https://github.com/flutter/flutter/pull/164126) merged on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164126) over 10 hours, 5 additions and 0 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] update dep references from older repos to newer (current SOT) repos<br />
   <sub>[#163891](https://github.com/flutter/flutter/pull/163891) merged on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163891) over 2 days, 6 additions and 18 deletions in 3 files</sub><br />
