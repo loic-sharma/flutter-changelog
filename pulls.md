@@ -65,9 +65,6 @@
 * **[Kostia Sokolovskyi](https://github.com/ksokolovskyi)** &mdash; Fix Container's child state loss.<br />
   <sub>[#163419](https://github.com/flutter/flutter/pull/163419) opened on on February 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163419) 178 additions and 83 deletions in 5 files</sub><br />
 
-* **[camfrandsen](https://github.com/camfrandsen)** &mdash; Add Option to disable full selection on focus on TextField, TestFormField, and EditableText<br />
-  <sub>[#163491](https://github.com/flutter/flutter/pull/163491) opened on on February 17, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163491) 47 additions and 0 deletions in 4 files</sub><br />
-
 * **[Brendan](https://github.com/2bndy5)** &mdash; engine: report mouse backward and forward buttons on linux<br />
   <sub>[#163500](https://github.com/flutter/flutter/pull/163500) opened on on February 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163500) 13 additions and 1 deletion in 1 file</sub><br />
 
@@ -92,8 +89,8 @@
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163690) 33 additions and 3 deletions in 2 files</sub><br />
 
-* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [Windows] Enable merged platform and UI thread by default<br />
-  <sub>[#163726](https://github.com/flutter/flutter/pull/163726) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163726) 34 additions and 25 deletions in 2 files</sub><br />
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [Windows] Enable merged platform and UI thread by default<br />
+  <sub>[#163726](https://github.com/flutter/flutter/pull/163726) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163726) 38 additions and 24 deletions in 2 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/163733) 130 additions and 0 deletions in 2 files</sub><br />
@@ -144,7 +141,7 @@
   <sub>[#164143](https://github.com/flutter/flutter/pull/164143) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164143) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add experimental IntegrationTest.takeScreenshot<br />
-  <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164171) 18 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164171) 18 additions and 5 deletions in 2 files</sub><br />
 
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][web] robustify safaridriver launch sequence<br />
   <sub>[#164191](https://github.com/flutter/flutter/pull/164191) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164191) 168 additions and 105 deletions in 3 files</sub><br />
@@ -160,4 +157,13 @@
 
 * **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #163840 - CupertinoButton cursor doesn't change to clickable on desktop<br />
   <sub>[#164196](https://github.com/flutter/flutter/pull/164196) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164196) 97 additions and 1 deletion in 2 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; remove last usages of min/compile/target SdkVersion, align sourceCompatibility across repo and update android version documentation<br />
+  <sub>[#164198](https://github.com/flutter/flutter/pull/164198) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164198) 58 additions and 15 deletions in 3 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Align jvmTarget usages across codebase, while editing build.gradle files align them with android version documentation<br />
+  <sub>[#164200](https://github.com/flutter/flutter/pull/164200) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164200) 38 additions and 38 deletions in 5 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: move AHB check into Flutter main, don't disable ImageReader on 29.<br />
+  <sub>[#164201](https://github.com/flutter/flutter/pull/164201) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164201) 9 additions and 114 deletions in 10 files</sub><br />
 
