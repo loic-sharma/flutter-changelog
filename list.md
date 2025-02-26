@@ -4,7 +4,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-33 commits.
+34 commits.
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub>
@@ -14,6 +14,10 @@
   <sub>[#162386](https://github.com/flutter/flutter/pull/162386) merged on February 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162386) over 3 weeks, 47 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Qun Cheng](https://github.com/QuncCccccc)</sub>
   <sub><details><summary>2 images...</summary><img width="755" alt="Screenshot 2025-02-12 at 15 56 21" src="https://github.com/user-attachments/assets/e8c88bd8-3c87-46e2-9f29-b945128ae93a" /><img width="755" alt="Screenshot 2025-02-12 at 15 56 09" src="https://github.com/user-attachments/assets/5f9244e8-4d51-40f3-a3fc-afdf9dff9b35" /></details></sub>
+
+* **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Clean up leak tracker instrumentation tech debt.
+  <sub>[#164070](https://github.com/flutter/flutter/pull/164070) merged on February 25, 2025 &mdash; **Large:** [6 comments](https://github.com/flutter/flutter/pull/164070) over 19 hours, 99 additions and 598 deletions in 34 files</sub>
+  <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
 
 * **[Jonas Uekötter](https://github.com/ueman)** &mdash; Reland "Make Flutter version information accessible at runtime (#140783)"
   <sub>[#163761](https://github.com/flutter/flutter/pull/163761) merged on February 24, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/163761) over 4 days, 386 additions and 9 deletions in 13 files</sub>
@@ -87,13 +91,13 @@
   <sub>[#163897](https://github.com/flutter/flutter/pull/163897) merged on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163897) over 2 days, 3 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
-* **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] update dep references from older repos to newer (current SOT) repos
-  <sub>[#163891](https://github.com/flutter/flutter/pull/163891) merged on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163891) over 2 days, 6 additions and 18 deletions in 3 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Disable text cache.
   <sub>[#163906](https://github.com/flutter/flutter/pull/163906) merged on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163906) over 2 days, 7 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
+
+* **[Devon Carew](https://github.com/devoncarew)** &mdash; [deps] update dep references from older repos to newer (current SOT) repos
+  <sub>[#163891](https://github.com/flutter/flutter/pull/163891) merged on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163891) over 2 days, 6 additions and 18 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Update multiple flutters benchmark test to latest gradle and agp and gradle defined dependencies 
   <sub>[#164029](https://github.com/flutter/flutter/pull/164029) merged on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164029) over 23 hours, 15 additions and 15 deletions in 3 files</sub>
@@ -1193,7 +1197,7 @@
   <sub><details><summary>2 images...</summary>![image](https://github.com/user-attachments/assets/6a6c258a-ea00-4c49-93f7-aec4f91c4df0)![image](https://github.com/user-attachments/assets/fd5273e2-654a-4c73-ba38-86c97b2fede3)</details></sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `--debug` to `flutter build apk`.
-  <sub>[#11744](https://github.com/flutter/website/pull/11744) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11744) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
+  <sub>[#11744](https://github.com/flutter/website/pull/11744) merged on February 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11744) over 1 hour, 3 additions and 2 deletions in 1 file</sub>
   <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Change flutter.dev/go/expansible-state-mixin to flutter.dev/go/codeshare-expansion-tile
