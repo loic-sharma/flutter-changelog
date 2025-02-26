@@ -101,9 +101,6 @@
 * **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash;  Refactor writing of package config in tests<br />
   <sub>[#163734](https://github.com/flutter/flutter/pull/163734) opened on on February 20, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/163734) 658 additions and 848 deletions in 47 files</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools<br />
-  <sub>[#163890](https://github.com/flutter/flutter/pull/163890) opened on on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163890) 12 additions and 2 deletions in 6 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData<br />
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163909) 54 additions and 18 deletions in 3 files</sub><br />
 
@@ -148,4 +145,19 @@
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add experimental IntegrationTest.takeScreenshot<br />
   <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164171) 18 additions and 5 deletions in 2 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable][web] robustify safaridriver launch sequence<br />
+  <sub>[#164191](https://github.com/flutter/flutter/pull/164191) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164191) 168 additions and 105 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] robustify safaridriver launch sequence<br />
+  <sub>[#164192](https://github.com/flutter/flutter/pull/164192) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164192) 168 additions and 105 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Intercept error when iOS 18.4 crashes with JIT mode and give guided error<br />
+  <sub>[#164193](https://github.com/flutter/flutter/pull/164193) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164193) 125 additions and 0 deletions in 2 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; android_host_app_v2_embedding update dependencies and documentation<br />
+  <sub>[#164195](https://github.com/flutter/flutter/pull/164195) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164195) 10 additions and 10 deletions in 3 files</sub><br />
+
+* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #163840 - CupertinoButton cursor doesn't change to clickable on desktop<br />
+  <sub>[#164196](https://github.com/flutter/flutter/pull/164196) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164196) 97 additions and 1 deletion in 2 files</sub><br />
 
