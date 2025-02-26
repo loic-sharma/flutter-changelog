@@ -155,9 +155,12 @@
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Align jvmTarget usages across codebase, while editing build.gradle files align them with android version documentation<br />
   <sub>[#164200](https://github.com/flutter/flutter/pull/164200) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164200) 38 additions and 38 deletions in 5 files</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run run_debug_test_android and run_release_test in prod<br />
-  <sub>[#164231](https://github.com/flutter/flutter/pull/164231) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164231) 0 additions and 2 deletions in 1 file</sub><br />
-
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove as-clause in doc-import; they don't work yet<br />
   <sub>[#164234](https://github.com/flutter/flutter/pull/164234) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164234) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Increase customer test timeout to 60 minutes<br />
+  <sub>[#164239](https://github.com/flutter/flutter/pull/164239) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164239) 3 additions and 1 deletion in 1 file</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools"<br />
+  <sub>[#164240](https://github.com/flutter/flutter/pull/164240) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164240) 15 additions and 5 deletions in 8 files</sub><br />
 
