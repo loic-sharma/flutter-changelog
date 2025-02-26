@@ -60,7 +60,7 @@
   <sub>[#163215](https://github.com/flutter/flutter/pull/163215) opened on on February 13, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163215) 33 additions and 6 deletions in 3 files</sub><br />
 
 * **[Mayuresh More](https://github.com/MayureshMore)** &mdash; [Documentation] Appended fallback comment in .vscode.<br />
-  <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#163396](https://github.com/flutter/flutter/pull/163396) opened on on February 15, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163396) 2 additions and 0 deletions in 1 file</sub><br />
 
 * **[Byoungchan Lee](https://github.com/bc-lee)** &mdash; [flutter_tools] Fix VS Code package.json path on macOS with case-sensitive file system<br />
   <sub>[#163409](https://github.com/flutter/flutter/pull/163409) opened on on February 16, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163409) 2 additions and 2 deletions in 3 files</sub><br />
@@ -134,9 +134,6 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] OpenGL MSAA for desktop/web devices.<br />
   <sub>[#163939](https://github.com/flutter/flutter/pull/163939) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163939) 108 additions and 23 deletions in 5 files</sub><br />
 
-* **[Dominik Honnef](https://github.com/dominikh)** &mdash; Fix minor issues in documentation of WidgetsApp<br />
-  <sub>[#163942](https://github.com/flutter/flutter/pull/163942) opened on on February 22, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163942) 2 additions and 2 deletions in 1 file</sub><br />
-
 * **[Ujjwal Pratap Singh](https://github.com/ujjwaltwitx)** &mdash; fixes issue #154744<br />
   <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 42 additions and 3 deletions in 2 files</sub><br />
 
@@ -159,7 +156,7 @@
   <sub>[#164109](https://github.com/flutter/flutter/pull/164109) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164109) 10 additions and 114 deletions in 10 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make DLOG into LOG for startup errors.<br />
-  <sub>[#164110](https://github.com/flutter/flutter/pull/164110) opened on on February 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164110) 9 additions and 9 deletions in 1 file</sub><br />
+  <sub>[#164110](https://github.com/flutter/flutter/pull/164110) opened on on February 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164110) 9 additions and 9 deletions in 1 file</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Update fuchsia_test_scripts_version to the latest version<br />
   <sub>[#164123](https://github.com/flutter/flutter/pull/164123) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164123) 1 addition and 1 deletion in 1 file</sub><br />
