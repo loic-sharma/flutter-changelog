@@ -92,9 +92,6 @@
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Infer placeholder types on both templates and localizations<br />
   <sub>[#163690](https://github.com/flutter/flutter/pull/163690) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163690) 33 additions and 3 deletions in 2 files</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Drag handles only need to be tested on mobile platforms.<br />
-  <sub>[#163723](https://github.com/flutter/flutter/pull/163723) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163723) 1 addition and 1 deletion in 1 file</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [Windows] Enable merged platform and UI thread by default<br />
   <sub>[#163726](https://github.com/flutter/flutter/pull/163726) opened on on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163726) 34 additions and 25 deletions in 2 files</sub><br />
 
@@ -143,18 +140,12 @@
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; modify toggle mode style with DatePickerTheme<br />
   <sub>[#164102](https://github.com/flutter/flutter/pull/164102) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164102) 85 additions and 9 deletions in 6 files</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] make DLOG into LOG for startup errors.<br />
-  <sub>[#164110](https://github.com/flutter/flutter/pull/164110) opened on on February 25, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164110) 9 additions and 9 deletions in 1 file</sub><br />
-
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; Update fuchsia_test_scripts_version to the latest version<br />
   <sub>[#164123](https://github.com/flutter/flutter/pull/164123) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164123) 1 addition and 1 deletion in 1 file</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] detect mediatek soc and fall back to GLES.<br />
-  <sub>[#164126](https://github.com/flutter/flutter/pull/164126) opened on on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164126) 5 additions and 0 deletions in 1 file</sub><br />
 
 * **[Justin McCandless](https://github.com/justinmc)** &mdash; [stable] Cherry pick changelog update<br />
   <sub>[#164143](https://github.com/flutter/flutter/pull/164143) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164143) 1 addition and 0 deletions in 1 file</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add experimental IntegrationTest.takeScreenshot<br />
-  <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164171) 15 additions and 5 deletions in 2 files</sub><br />
+  <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164171) 18 additions and 5 deletions in 2 files</sub><br />
 
