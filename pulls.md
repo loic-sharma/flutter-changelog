@@ -162,5 +162,5 @@
   <sub>[#164239](https://github.com/flutter/flutter/pull/164239) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164239) 3 additions and 1 deletion in 1 file</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools"<br />
-  <sub>[#164240](https://github.com/flutter/flutter/pull/164240) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164240) 15 additions and 5 deletions in 8 files</sub><br />
+  <sub>[#164240](https://github.com/flutter/flutter/pull/164240) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164240) 15 additions and 5 deletions in 8 files</sub><br />
 
