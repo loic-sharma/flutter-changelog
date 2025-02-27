@@ -158,9 +158,6 @@
 * **[Sam Rawlins](https://github.com/srawlins)** &mdash; Remove as-clause in doc-import; they don't work yet<br />
   <sub>[#164234](https://github.com/flutter/flutter/pull/164234) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164234) 2 additions and 2 deletions in 1 file</sub><br />
 
-* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Increase customer test timeout to 60 minutes<br />
-  <sub>[#164239](https://github.com/flutter/flutter/pull/164239) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164239) 3 additions and 1 deletion in 1 file</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Remove package:js in favor of dart:js_interop<br />
   <sub>[#164254](https://github.com/flutter/flutter/pull/164254) opened on on February 27, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/164254) 1002 additions and 1857 deletions in 58 files</sub><br />
 
