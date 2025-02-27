@@ -167,3 +167,6 @@
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker label<br />
   <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164292) 17 additions and 52 deletions in 1 file</sub><br />
 
+* **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Handle RPCErrorKind.kConnectionDisposed<br />
+  <sub>[#164299](https://github.com/flutter/flutter/pull/164299) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164299) 129 additions and 5 deletions in 7 files</sub><br />
+
