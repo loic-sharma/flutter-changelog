@@ -149,3 +149,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document how `engine.version` (is/will be) computed<br />
   <sub>[#164335](https://github.com/flutter/flutter/pull/164335) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164335) 97 additions and 0 deletions in 5 files</sub><br />
 
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove Cheserton's File<br />
+  <sub>[#164340](https://github.com/flutter/flutter/pull/164340) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164340) 0 additions and 1 deletion in 1 file</sub><br />
+
