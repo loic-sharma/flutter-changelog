@@ -140,18 +140,12 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Handle RPCErrorKind.kConnectionDisposed<br />
   <sub>[#164299](https://github.com/flutter/flutter/pull/164299) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164299) 129 additions and 5 deletions in 7 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete and update stale documentation regarding engine/engine hash.<br />
-  <sub>[#164324](https://github.com/flutter/flutter/pull/164324) opened on on February 27, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/164324) 46 additions and 156 deletions in 6 files</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix flutter doctor usage of eglinfo in failure cases.<br />
   <sub>[#164334](https://github.com/flutter/flutter/pull/164334) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164334) 10 additions and 2 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove Cheserton's File<br />
-  <sub>[#164340](https://github.com/flutter/flutter/pull/164340) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164340) 0 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#164340](https://github.com/flutter/flutter/pull/164340) opened on on February 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164340) 0 additions and 1 deletion in 1 file</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [stable] Cherry-pick change to CanvasKit build flags to fix double download<br />
   <sub>[#164341](https://github.com/flutter/flutter/pull/164341) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164341) 13 additions and 5 deletions in 3 files</sub><br />
-
-* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add empty `io.flutter.app.FlutterApplication` to give deprecation notice, and un-break projects that have not migrated<br />
-  <sub>[#164343](https://github.com/flutter/flutter/pull/164343) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164343) 38 additions and 1 deletion in 7 files</sub><br />
 
