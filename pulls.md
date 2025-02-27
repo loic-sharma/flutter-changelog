@@ -152,3 +152,6 @@
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete and update stale documentation regarding engine/engine hash.<br />
   <sub>[#164324](https://github.com/flutter/flutter/pull/164324) opened on on February 27, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/164324) 46 additions and 156 deletions in 6 files</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix flutter doctor usage of eglinfo in failure cases.<br />
+  <sub>[#164334](https://github.com/flutter/flutter/pull/164334) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164334) 10 additions and 2 deletions in 2 files</sub><br />
+
