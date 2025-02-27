@@ -69,7 +69,7 @@
   <sub>[#163558](https://github.com/flutter/flutter/pull/163558) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163558) 95 additions and 32 deletions in 6 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace update semantics handler with signal.<br />
-  <sub>[#163583](https://github.com/flutter/flutter/pull/163583) opened on on February 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163583) 18 additions and 74 deletions in 3 files</sub><br />
+  <sub>[#163583](https://github.com/flutter/flutter/pull/163583) opened on on February 19, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/163583) 18 additions and 74 deletions in 3 files</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Handle null exceptions calling `renderObject`<br />
   <sub>[#163642](https://github.com/flutter/flutter/pull/163642) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163642) 19 additions and 6 deletions in 1 file</sub><br />
