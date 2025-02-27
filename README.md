@@ -1182,7 +1182,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-13 commits.
+14 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix 90°-off preview rotation<br />
   <sub>[#8629](https://github.com/flutter/packages/pull/8629) merged on February 26, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8629) over 1 week, 1321 additions and 221 deletions in 23 files</sub><br />
@@ -1191,6 +1191,10 @@
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; [go_router_builder]: Handle invaild params<br />
   <sub>[#8405](https://github.com/flutter/packages/pull/8405) merged on February 26, 2025 &mdash; **Large:** [21 comments](https://github.com/flutter/packages/pull/8405) over 1 month, 353 additions and 171 deletions in 22 files</sub><br />
   <sub>Reviewed by: [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; Manual roll Flutter from 911aa7547ed7 to 043b71954ce7<br />
+  <sub>[#8693](https://github.com/flutter/packages/pull/8693) merged on February 27, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/packages/pull/8693) over 2 days, 63 additions and 21 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
 
 * **[Andrzej Przedecki](https://github.com/aprzedecki)** &mdash; [go_router] Secured empty matches in canPop<br />
   <sub>[#8557](https://github.com/flutter/packages/pull/8557) merged on February 26, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/packages/pull/8557) over 3 weeks, 22 additions and 1 deletion in 4 files</sub><br />
