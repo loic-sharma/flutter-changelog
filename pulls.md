@@ -45,7 +45,7 @@
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162671) 251 additions and 24 deletions in 16 files</sub><br />
 
 * **[ash-google](https://github.com/ash-google)** &mdash; Add SDK version validation to the dependency checker.<br />
-  <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162713) 103 additions and 48 deletions in 1 file</sub><br />
+  <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162713) 110 additions and 1 deletion in 2 files</sub><br />
 
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/162731) 99 additions and 3 deletions in 2 files</sub><br />
@@ -72,7 +72,7 @@
   <sub>[#163538](https://github.com/flutter/flutter/pull/163538) opened on on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163538) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] Use java for looking up Android API level.<br />
-  <sub>[#163558](https://github.com/flutter/flutter/pull/163558) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163558) 29 additions and 23 deletions in 5 files</sub><br />
+  <sub>[#163558](https://github.com/flutter/flutter/pull/163558) opened on on February 18, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163558) 31 additions and 24 deletions in 5 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace update semantics handler with signal.<br />
   <sub>[#163583](https://github.com/flutter/flutter/pull/163583) opened on on February 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163583) 18 additions and 74 deletions in 3 files</sub><br />
@@ -161,6 +161,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Increase customer test timeout to 60 minutes<br />
   <sub>[#164239](https://github.com/flutter/flutter/pull/164239) opened on on February 26, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164239) 3 additions and 1 deletion in 1 file</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Reland "Add a buildtools directory and move third_party/ninja to the project root in order to match the expectations of depot_tools"<br />
-  <sub>[#164240](https://github.com/flutter/flutter/pull/164240) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164240) 15 additions and 5 deletions in 8 files</sub><br />
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Remove package:js in favor of dart:js_interop<br />
+  <sub>[#164254](https://github.com/flutter/flutter/pull/164254) opened on on February 27, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/164254) 1002 additions and 1857 deletions in 58 files</sub><br />
 
