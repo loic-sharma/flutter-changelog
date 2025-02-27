@@ -146,9 +146,12 @@
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix flutter doctor usage of eglinfo in failure cases.<br />
   <sub>[#164334](https://github.com/flutter/flutter/pull/164334) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164334) 10 additions and 2 deletions in 2 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document how `engine.version` (is/will be) computed<br />
-  <sub>[#164335](https://github.com/flutter/flutter/pull/164335) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164335) 97 additions and 0 deletions in 5 files</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove Cheserton's File<br />
   <sub>[#164340](https://github.com/flutter/flutter/pull/164340) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164340) 0 additions and 1 deletion in 1 file</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [stable] Cherry-pick change to CanvasKit build flags to fix double download<br />
+  <sub>[#164341](https://github.com/flutter/flutter/pull/164341) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164341) 13 additions and 5 deletions in 3 files</sub><br />
+
+* **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-stable]Add empty `io.flutter.app.FlutterApplication` to give deprecation notice, and un-break projects that have not migrated<br />
+  <sub>[#164343](https://github.com/flutter/flutter/pull/164343) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164343) 38 additions and 1 deletion in 7 files</sub><br />
 
