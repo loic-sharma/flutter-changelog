@@ -162,7 +162,7 @@
   <sub>[#164254](https://github.com/flutter/flutter/pull/164254) opened on on February 27, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/164254) 1002 additions and 1857 deletions in 58 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] dependency cleanup<br />
-  <sub>[#164256](https://github.com/flutter/flutter/pull/164256) opened on on February 27, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164256) 23 additions and 30 deletions in 4 files</sub><br />
+  <sub>[#164256](https://github.com/flutter/flutter/pull/164256) opened on on February 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164256) 23 additions and 30 deletions in 4 files</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add momentary varient of CupertinoSlidingSegmentedControl<br />
   <sub>[#164262](https://github.com/flutter/flutter/pull/164262) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164262) 53 additions and 2 deletions in 2 files</sub><br />
