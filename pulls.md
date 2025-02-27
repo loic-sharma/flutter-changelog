@@ -161,3 +161,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Remove package:js in favor of dart:js_interop<br />
   <sub>[#164254](https://github.com/flutter/flutter/pull/164254) opened on on February 27, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/164254) 1002 additions and 1857 deletions in 58 files</sub><br />
 
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] dependency cleanup<br />
+  <sub>[#164256](https://github.com/flutter/flutter/pull/164256) opened on on February 27, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164256) 23 additions and 30 deletions in 4 files</sub><br />
+
