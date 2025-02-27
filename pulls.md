@@ -131,9 +131,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] robustify safaridriver launch sequence<br />
   <sub>[#164192](https://github.com/flutter/flutter/pull/164192) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164192) 168 additions and 105 deletions in 3 files</sub><br />
 
-* **[Srivats Venkataraman](https://github.com/srivats22)** &mdash; #163840 - CupertinoButton cursor doesn't change to clickable on desktop<br />
-  <sub>[#164196](https://github.com/flutter/flutter/pull/164196) opened on on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164196) 106 additions and 1 deletion in 2 files</sub><br />
-
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Align jvmTarget usages across codebase, while editing build.gradle files align them with android version documentation<br />
   <sub>[#164200](https://github.com/flutter/flutter/pull/164200) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164200) 38 additions and 38 deletions in 5 files</sub><br />
 
@@ -147,7 +144,7 @@
   <sub>[#164262](https://github.com/flutter/flutter/pull/164262) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164262) 53 additions and 2 deletions in 2 files</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] move several uses of (deprecated) pkg:js to js_interop_unsafe<br />
-  <sub>[#164264](https://github.com/flutter/flutter/pull/164264) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164264) 31 additions and 24 deletions in 4 files</sub><br />
+  <sub>[#164264](https://github.com/flutter/flutter/pull/164264) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164264) 31 additions and 24 deletions in 4 files</sub><br />
 
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker label<br />
   <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164292) 17 additions and 52 deletions in 1 file</sub><br />
@@ -157,4 +154,10 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Write an identical value to `bin/cache/engine.stamp` to prepare for migration<br />
   <sub>[#164317](https://github.com/flutter/flutter/pull/164317) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164317) 48 additions and 1 deletion in 3 files</sub><br />
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Only repaint views that need to be painted<br />
+  <sub>[#164322](https://github.com/flutter/flutter/pull/164322) opened on on February 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164322) 10 additions and 1 deletion in 2 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Delete and update stale documentation regarding engine/engine hash.<br />
+  <sub>[#164324](https://github.com/flutter/flutter/pull/164324) opened on on February 27, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/164324) 45 additions and 152 deletions in 6 files</sub><br />
 
