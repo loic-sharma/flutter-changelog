@@ -42,7 +42,7 @@
   <sub>[#162671](https://github.com/flutter/flutter/pull/162671) opened on on February 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162671) 251 additions and 24 deletions in 16 files</sub><br />
 
 * **[ash-google](https://github.com/ash-google)** &mdash; Add SDK version validation to the dependency checker.<br />
-  <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162713) 110 additions and 1 deletion in 2 files</sub><br />
+  <sub>[#162713](https://github.com/flutter/flutter/pull/162713) opened on on February 5, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/162713) 110 additions and 1 deletion in 2 files</sub><br />
 
 * **[Lasse R.H. Nielsen](https://github.com/lrhn)** &mdash; Make `realAsyncZone` run microtasks and timers in the correct zone.<br />
   <sub>[#162731](https://github.com/flutter/flutter/pull/162731) opened on on February 5, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/162731) 99 additions and 3 deletions in 2 files</sub><br />
@@ -143,9 +143,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Handle RPCErrorKind.kConnectionDisposed<br />
   <sub>[#164299](https://github.com/flutter/flutter/pull/164299) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164299) 129 additions and 5 deletions in 7 files</sub><br />
 
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Write an identical value to `bin/cache/engine.stamp` to prepare for migration<br />
-  <sub>[#164317](https://github.com/flutter/flutter/pull/164317) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164317) 48 additions and 1 deletion in 3 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: Only repaint views that need to be painted<br />
   <sub>[#164322](https://github.com/flutter/flutter/pull/164322) opened on on February 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164322) 10 additions and 1 deletion in 2 files</sub><br />
 
@@ -154,4 +151,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix flutter doctor usage of eglinfo in failure cases.<br />
   <sub>[#164334](https://github.com/flutter/flutter/pull/164334) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164334) 10 additions and 2 deletions in 2 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document how `engine.version` (is/will be) computed<br />
+  <sub>[#164335](https://github.com/flutter/flutter/pull/164335) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164335) 97 additions and 0 deletions in 5 files</sub><br />
 
