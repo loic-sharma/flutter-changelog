@@ -86,9 +86,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/163733) 130 additions and 0 deletions in 2 files</sub><br />
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash;  Refactor writing of package config in tests<br />
-  <sub>[#163734](https://github.com/flutter/flutter/pull/163734) opened on on February 20, 2025 &mdash; **Extra large:** [8 comments](https://github.com/flutter/flutter/pull/163734) 658 additions and 848 deletions in 47 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData<br />
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163909) 54 additions and 18 deletions in 3 files</sub><br />
 
@@ -163,4 +160,7 @@
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] move several uses of (deprecated) pkg:js to js_interop_unsafe<br />
   <sub>[#164264](https://github.com/flutter/flutter/pull/164264) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164264) 31 additions and 24 deletions in 4 files</sub><br />
+
+* **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker label<br />
+  <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164292) 20 additions and 52 deletions in 1 file</sub><br />
 
