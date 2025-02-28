@@ -92,6 +92,9 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Prepare TextInputPlugin for multi-view<br />
   <sub>[#164014](https://github.com/flutter/flutter/pull/164014) opened on on February 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164014) 909 additions and 569 deletions in 19 files</sub><br />
 
+* **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `OverlayPortal.overlayChildLayoutBuilder`<br />
+  <sub>[#164034](https://github.com/flutter/flutter/pull/164034) opened on on February 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164034) 913 additions and 129 deletions in 10 files</sub><br />
+
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix spelling in navigation bar docs<br />
   <sub>[#164067](https://github.com/flutter/flutter/pull/164067) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164067) 1 addition and 1 deletion in 1 file</sub><br />
 
@@ -139,4 +142,7 @@
 
 * **[Eric Seidel](https://github.com/eseidel)** &mdash; Update linux_host_engine.json ci/host_release description<br />
   <sub>[#164402](https://github.com/flutter/flutter/pull/164402) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164402) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [stable] Cherrypick fix for stretched embedded app on mobile<br />
+  <sub>[#164406](https://github.com/flutter/flutter/pull/164406) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164406) 100 additions and 64 deletions in 3 files</sub><br />
 
