@@ -30,7 +30,7 @@
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
-  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [30 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [31 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
@@ -60,7 +60,7 @@
   <sub>[#163419](https://github.com/flutter/flutter/pull/163419) opened on on February 16, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163419) 178 additions and 83 deletions in 5 files</sub><br />
 
 * **[Brendan](https://github.com/2bndy5)** &mdash; engine: report mouse backward and forward buttons on linux<br />
-  <sub>[#163500](https://github.com/flutter/flutter/pull/163500) opened on on February 17, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163500) 13 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#163500](https://github.com/flutter/flutter/pull/163500) opened on on February 17, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163500) 13 additions and 1 deletion in 1 file</sub><br />
 
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; docs(CHANGELOG): add v3.29 release entry<br />
   <sub>[#163538](https://github.com/flutter/flutter/pull/163538) opened on on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163538) 6 additions and 0 deletions in 1 file</sub><br />
@@ -145,4 +145,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix window creation callback for multi-window<br />
   <sub>[#164353](https://github.com/flutter/flutter/pull/164353) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164353) 4 additions and 3 deletions in 3 files</sub><br />
+
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support forward and back buttons<br />
+  <sub>[#164356](https://github.com/flutter/flutter/pull/164356) opened on on February 28, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164356) 285 additions and 91 deletions in 4 files</sub><br />
 
