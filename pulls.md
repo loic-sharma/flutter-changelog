@@ -30,10 +30,10 @@
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
-  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [35 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
-  <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
+  <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162467) 184 additions and 47 deletions in 13 files</sub><br />
@@ -131,18 +131,15 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Handle RPCErrorKind.kConnectionDisposed<br />
   <sub>[#164299](https://github.com/flutter/flutter/pull/164299) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164299) 129 additions and 5 deletions in 7 files</sub><br />
 
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix flutter doctor usage of eglinfo in failure cases.<br />
-  <sub>[#164334](https://github.com/flutter/flutter/pull/164334) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164334) 10 additions and 2 deletions in 2 files</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [stable] Cherry-pick change to CanvasKit build flags to fix double download<br />
   <sub>[#164341](https://github.com/flutter/flutter/pull/164341) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164341) 13 additions and 5 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't process cursor changes until view is realized.<br />
-  <sub>[#164349](https://github.com/flutter/flutter/pull/164349) opened on on February 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164349) 6 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#164349](https://github.com/flutter/flutter/pull/164349) opened on on February 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164349) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Fix window creation callback for multi-window<br />
   <sub>[#164353](https://github.com/flutter/flutter/pull/164353) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164353) 4 additions and 3 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support forward and back buttons<br />
-  <sub>[#164356](https://github.com/flutter/flutter/pull/164356) opened on on February 28, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164356) 285 additions and 91 deletions in 4 files</sub><br />
+  <sub>[#164356](https://github.com/flutter/flutter/pull/164356) opened on on February 28, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/164356) 285 additions and 91 deletions in 4 files</sub><br />
 
