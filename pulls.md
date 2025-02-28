@@ -80,9 +80,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add brightnessOf method for theme<br />
   <sub>[#163733](https://github.com/flutter/flutter/pull/163733) opened on on February 20, 2025 &mdash; **Small:** [33 comments](https://github.com/flutter/flutter/pull/163733) 130 additions and 0 deletions in 2 files</sub><br />
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash;  Refactor writing of package config in tests<br />
-  <sub>[#163734](https://github.com/flutter/flutter/pull/163734) opened on on February 20, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/163734) 658 additions and 842 deletions in 47 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add yearShape property to DatePickerThemeData<br />
   <sub>[#163909](https://github.com/flutter/flutter/pull/163909) opened on on February 22, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163909) 54 additions and 18 deletions in 3 files</sub><br />
 
