@@ -90,7 +90,7 @@
   <sub>[#164002](https://github.com/flutter/flutter/pull/164002) opened on on February 24, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164002) 42 additions and 3 deletions in 2 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [macOS] Prepare TextInputPlugin for multi-view<br />
-  <sub>[#164014](https://github.com/flutter/flutter/pull/164014) opened on on February 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164014) 909 additions and 569 deletions in 19 files</sub><br />
+  <sub>[#164014](https://github.com/flutter/flutter/pull/164014) opened on on February 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164014) 483 additions and 208 deletions in 10 files</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; `OverlayPortal.overlayChildLayoutBuilder`<br />
   <sub>[#164034](https://github.com/flutter/flutter/pull/164034) opened on on February 24, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164034) 913 additions and 129 deletions in 10 files</sub><br />
@@ -138,11 +138,14 @@
   <sub>[#164400](https://github.com/flutter/flutter/pull/164400) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164400) 38 additions and 3 deletions in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-forward #164317: Use `bin/cache/engine.stamp`<br />
-  <sub>[#164401](https://github.com/flutter/flutter/pull/164401) opened on on February 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164401) 219 additions and 19 deletions in 5 files</sub><br />
+  <sub>[#164401](https://github.com/flutter/flutter/pull/164401) opened on on February 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164401) 219 additions and 19 deletions in 5 files</sub><br />
 
 * **[Eric Seidel](https://github.com/eseidel)** &mdash; Update linux_host_engine.json ci/host_release description<br />
   <sub>[#164402](https://github.com/flutter/flutter/pull/164402) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164402) 1 addition and 1 deletion in 1 file</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [stable] Cherrypick fix for stretched embedded app on mobile<br />
   <sub>[#164406](https://github.com/flutter/flutter/pull/164406) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164406) 100 additions and 64 deletions in 3 files</sub><br />
+
+* **[Bernardo Ferrari](https://github.com/bernaferrari)** &mdash; Add `withDurationAndBounce` to `SpringDescription`<br />
+  <sub>[#164411](https://github.com/flutter/flutter/pull/164411) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164411) 89 additions and 0 deletions in 2 files</sub><br />
 
