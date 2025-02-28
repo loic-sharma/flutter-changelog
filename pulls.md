@@ -107,9 +107,6 @@
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] robustify safaridriver launch sequence<br />
   <sub>[#164192](https://github.com/flutter/flutter/pull/164192) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164192) 168 additions and 105 deletions in 3 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [web] Remove package:js in favor of dart:js_interop<br />
-  <sub>[#164254](https://github.com/flutter/flutter/pull/164254) opened on on February 27, 2025 &mdash; **Extra large:** [0 comments](https://github.com/flutter/flutter/pull/164254) 1002 additions and 1857 deletions in 58 files</sub><br />
-
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add momentary varient of CupertinoSlidingSegmentedControl<br />
   <sub>[#164262](https://github.com/flutter/flutter/pull/164262) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164262) 53 additions and 2 deletions in 2 files</sub><br />
 
@@ -135,5 +132,5 @@
   <sub>[#164391](https://github.com/flutter/flutter/pull/164391) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164391) 177 additions and 18 deletions in 8 files</sub><br />
 
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In update_engine_version_test.dart, do not populate the test environment with the host platform environment<br />
-  <sub>[#164395](https://github.com/flutter/flutter/pull/164395) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164395) 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>[#164395](https://github.com/flutter/flutter/pull/164395) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164395) 2 additions and 2 deletions in 1 file</sub><br />
 

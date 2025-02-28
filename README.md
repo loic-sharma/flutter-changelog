@@ -171,7 +171,7 @@
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Jason Simmons](https://github.com/jason-simmons)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Write an identical value to `bin/cache/engine.stamp` to prepare for migration<br />
-  <sub>[#164317](https://github.com/flutter/flutter/pull/164317) merged on February 28, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164317) over 7 hours, 164 additions and 6 deletions in 5 files</sub><br />
+  <sub>[#164317](https://github.com/flutter/flutter/pull/164317) merged on February 28, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164317) over 7 hours, 164 additions and 6 deletions in 5 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Update dragDevices doc to include default PointerDeviceKind.trackpad<br />
