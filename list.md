@@ -1354,7 +1354,7 @@
   <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub>
 
 * **[Filip Hracek](https://github.com/filiph)** &mdash; [google_maps_flutter] Improve README and API doc comments
-  <sub>[#8560](https://github.com/flutter/packages/pull/8560) merged on February 24, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/packages/pull/8560) over 2 weeks, 100 additions and 84 deletions in 13 files</sub>
+  <sub>[#8560](https://github.com/flutter/packages/pull/8560) merged on February 24, 2025 &mdash; **Small:** [19 comments](https://github.com/flutter/packages/pull/8560) over 2 weeks, 100 additions and 84 deletions in 13 files</sub>
   <sub>Reviewed by: [Joonas Kerttula](https://github.com/jokerttu), [stuartmorgan](https://github.com/stuartmorgan), [Reid Baker](https://github.com/reidbaker)</sub>
 
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [ci] Lengthen custom tests timeout
