@@ -30,7 +30,7 @@
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
-  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [31 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [34 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
 
 * **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
   <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />

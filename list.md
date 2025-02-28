@@ -1515,7 +1515,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-13 commits.
+14 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add iOS 18.4 beta warnings
   <sub>[#11740](https://github.com/flutter/website/pull/11740) merged on February 24, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/11740) over 1 hour, 25 additions and 0 deletions in 2 files</sub>
@@ -1525,6 +1525,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 3 progress indicators and slider guides for theme migration
   <sub>[#11733](https://github.com/flutter/website/pull/11733) merged on February 26, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/11733) over 4 days, 48 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Gray Mackall](https://github.com/gmackall)** &mdash; Add notice on v1 embedding removal to 3.29.0 breaking changes
+  <sub>[#11749](https://github.com/flutter/website/pull/11749) merged on February 28, 2025 &mdash; **Small:** [23 comments](https://github.com/flutter/website/pull/11749) over 1 day, 79 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Reid Baker](https://github.com/reidbaker), [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce new "On this page" design
   <sub>[#11701](https://github.com/flutter/website/pull/11701) merged on February 28, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11701) over 2 weeks, 451 additions and 233 deletions in 18 files</sub>
