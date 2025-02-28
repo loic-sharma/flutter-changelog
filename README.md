@@ -1482,7 +1482,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-12 commits.
+13 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add iOS 18.4 beta warnings<br />
   <sub>[#11740](https://github.com/flutter/website/pull/11740) merged on February 24, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/11740) over 1 hour, 25 additions and 0 deletions in 2 files</sub><br />
@@ -1492,6 +1492,10 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 3 progress indicators and slider guides for theme migration<br />
   <sub>[#11733](https://github.com/flutter/website/pull/11733) merged on February 26, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/website/pull/11733) over 4 days, 48 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Introduce new "On this page" design<br />
+  <sub>[#11701](https://github.com/flutter/website/pull/11701) merged on February 28, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11701) over 2 weeks, 451 additions and 233 deletions in 18 files</sub><br />
+  <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Update pnpm and deps to resolve dependabot surfaced vulnerability<br />
   <sub>[#11747](https://github.com/flutter/website/pull/11747) merged on February 27, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/website/pull/11747) over 1 day, 401 additions and 411 deletions in 2 files</sub><br />
