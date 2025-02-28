@@ -32,9 +32,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
 
-* **[Mikhail Novoseltsev](https://github.com/Sameri11)** &mdash; [tool] Allow using archiveName in android bundle build<br />
-  <sub>[#162390](https://github.com/flutter/flutter/pull/162390) opened on on January 29, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/162390) 58 additions and 48 deletions in 2 files</sub><br />
-
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162467) 184 additions and 47 deletions in 13 files</sub><br />
 
@@ -107,9 +104,6 @@
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Cupertino] Fix incorrect scaffold docs<br />
   <sub>[#164068](https://github.com/flutter/flutter/pull/164068) opened on on February 25, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164068) 1 addition and 1 deletion in 1 file</sub><br />
 
-* **[Jonas Uekötter](https://github.com/ueman)** &mdash; Fix incorrectly checking for invalid environment variables in the tool<br />
-  <sub>[#164101](https://github.com/flutter/flutter/pull/164101) opened on on February 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/164101) 32 additions and 39 deletions in 2 files</sub><br />
-
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; modify toggle mode style with DatePickerTheme<br />
   <sub>[#164102](https://github.com/flutter/flutter/pull/164102) opened on on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164102) 85 additions and 9 deletions in 6 files</sub><br />
 
@@ -136,7 +130,4 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't process cursor changes until view is realized.<br />
   <sub>[#164349](https://github.com/flutter/flutter/pull/164349) opened on on February 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164349) 6 additions and 1 deletion in 1 file</sub><br />
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support forward and back buttons<br />
-  <sub>[#164356](https://github.com/flutter/flutter/pull/164356) opened on on February 28, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/164356) 285 additions and 91 deletions in 4 files</sub><br />
 
