@@ -128,9 +128,15 @@
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update the `RefreshProgressIndicator` widget to the 2024 Material Design appearance<br />
   <sub>[#164384](https://github.com/flutter/flutter/pull/164384) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164384) 158 additions and 36 deletions in 3 files</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; Convert AppLinkSettings to kotlin <br />
-  <sub>[#164391](https://github.com/flutter/flutter/pull/164391) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164391) 177 additions and 18 deletions in 8 files</sub><br />
-
 * **[Jason Simmons](https://github.com/jason-simmons)** &mdash; In update_engine_version_test.dart, do not populate the test environment with the host platform environment<br />
   <sub>[#164395](https://github.com/flutter/flutter/pull/164395) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164395) 2 additions and 2 deletions in 1 file</sub><br />
+
+* **[Giacomo Pignoni](https://github.com/GiacomoPignoni)** &mdash; [Web] fix Image fit when using ImgElementPlatformView<br />
+  <sub>[#164400](https://github.com/flutter/flutter/pull/164400) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164400) 38 additions and 3 deletions in 2 files</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Roll-forward #164317: Use `bin/cache/engine.stamp`<br />
+  <sub>[#164401](https://github.com/flutter/flutter/pull/164401) opened on on February 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164401) 176 additions and 6 deletions in 5 files</sub><br />
+
+* **[Eric Seidel](https://github.com/eseidel)** &mdash; Update linux_host_engine.json ci/host_release description<br />
+  <sub>[#164402](https://github.com/flutter/flutter/pull/164402) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164402) 1 addition and 1 deletion in 1 file</sub><br />
 
