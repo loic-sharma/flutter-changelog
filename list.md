@@ -1348,7 +1348,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-19 commits.
+20 commits.
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix 90°-off preview rotation
   <sub>[#8629](https://github.com/flutter/packages/pull/8629) merged on February 26, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8629) over 1 week, 1321 additions and 221 deletions in 23 files</sub>
@@ -1393,6 +1393,10 @@
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Dependabot to update major and minor versions of test dependencies, ignore patch
   <sub>[#8712](https://github.com/flutter/packages/pull/8712) merged on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8712) over 21 hours, 6 additions and 6 deletions in 1 file</sub>
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [video_player] Disable flaky `testAudioOnlyHLSControls`
+  <sub>[#8757](https://github.com/flutter/packages/pull/8757) merged on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8757) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Maurice Parrish](https://github.com/bparrishMines)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_plugin_android_lifecycle] Removes flutter.compileSdkVersion for 35 to support flutter versions prior to 3.27
   <sub>[#8758](https://github.com/flutter/packages/pull/8758) merged on February 28, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8758) over 35 minutes, 6 additions and 2 deletions in 3 files</sub>
