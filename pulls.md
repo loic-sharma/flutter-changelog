@@ -9,7 +9,7 @@
   <sub>[#157193](https://github.com/flutter/flutter/pull/157193) opened on on October 18, 2024 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/157193) 107 additions and 123 deletions in 5 files</sub><br />
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: implement regular windows for the Windows platform<br />
-  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/157515) 4494 additions and 2 deletions in 52 files</sub><br />
+  <sub>[#157515](https://github.com/flutter/flutter/pull/157515) opened on on October 24, 2024 &mdash; **Extra large:** [11 comments](https://github.com/flutter/flutter/pull/157515) 2340 additions and 0 deletions in 28 files</sub><br />
 
 * **[gship](https://github.com/gship)** &mdash; Update focus.1.dart<br />
   <sub>[#160176](https://github.com/flutter/flutter/pull/160176) opened on on December 12, 2024 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/160176) 11 additions and 5 deletions in 1 file</sub><br />
@@ -130,4 +130,16 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't process cursor changes until view is realized.<br />
   <sub>[#164349](https://github.com/flutter/flutter/pull/164349) opened on on February 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164349) 6 additions and 1 deletion in 1 file</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update Material 2 `IconButton` padding documentation<br />
+  <sub>[#164383](https://github.com/flutter/flutter/pull/164383) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164383) 6 additions and 0 deletions in 1 file</sub><br />
+
+* **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update the `RefreshProgressIndicator` widget to the 2024 Material Design appearance<br />
+  <sub>[#164384](https://github.com/flutter/flutter/pull/164384) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164384) 158 additions and 36 deletions in 3 files</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Convert AppLinkSettings to kotlin <br />
+  <sub>[#164391](https://github.com/flutter/flutter/pull/164391) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164391) 177 additions and 18 deletions in 8 files</sub><br />
+
+* **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix race condition causing crash when interacting with an animating scrollable<br />
+  <sub>[#164392](https://github.com/flutter/flutter/pull/164392) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164392) 45 additions and 4 deletions in 2 files</sub><br />
 
