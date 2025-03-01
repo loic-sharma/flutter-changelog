@@ -137,3 +137,6 @@
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [stable] Cherrypick fix for stretched embedded app on mobile<br />
   <sub>[#164406](https://github.com/flutter/flutter/pull/164406) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164406) 100 additions and 64 deletions in 3 files</sub><br />
 
+* **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command<br />
+  <sub>[#164437](https://github.com/flutter/flutter/pull/164437) opened on on March 1, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164437) 19 additions and 0 deletions in 3 files</sub><br />
+
