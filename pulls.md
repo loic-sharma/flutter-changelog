@@ -110,6 +110,9 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Feat: Add momentary varient of CupertinoSlidingSegmentedControl<br />
   <sub>[#164262](https://github.com/flutter/flutter/pull/164262) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164262) 53 additions and 2 deletions in 2 files</sub><br />
 
+* **[René Kilczan](https://github.com/rekire)** &mdash; Keyboard type update<br />
+  <sub>[#164274](https://github.com/flutter/flutter/pull/164274) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164274) 50 additions and 1 deletion in 2 files</sub><br />
+
 * **[Mairon Lucas](https://github.com/MaironLucas)** &mdash; animate cupertino time picker label<br />
   <sub>[#164292](https://github.com/flutter/flutter/pull/164292) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164292) 17 additions and 52 deletions in 1 file</sub><br />
 
