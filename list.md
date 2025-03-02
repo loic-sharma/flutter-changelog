@@ -1059,7 +1059,7 @@
   <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub>
 
 * **[sigmundch](https://github.com/sigmundch)** &mdash; Add new builder for experiment with dynamic modules.
-  <sub>[#162855](https://github.com/flutter/flutter/pull/162855) merged on February 11, 2025 &mdash; **Medium:** [6 comments](https://github.com/flutter/flutter/pull/162855) over 4 days, 296 additions and 6 deletions in 6 files</sub>
+  <sub>[#162855](https://github.com/flutter/flutter/pull/162855) merged on February 11, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/flutter/pull/162855) over 4 days, 296 additions and 6 deletions in 6 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole), [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; Add gradle lockfiles for display_cutout_rotation
