@@ -146,9 +146,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Remove attach target on deactivation of widget from overlay portal controller<br />
   <sub>[#164439](https://github.com/flutter/flutter/pull/164439) opened on on March 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164439) 6 additions and 1 deletion in 1 file</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; android: Build universal gen_snapshot for Android<br />
-  <sub>[#164453](https://github.com/flutter/flutter/pull/164453) opened on on March 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164453) 43 additions and 22 deletions in 3 files</sub><br />
-
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add `buildMode`, `icuDataPath` and `engineRevision` interpolations for custom devices<br />
   <sub>[#164455](https://github.com/flutter/flutter/pull/164455) opened on on March 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164455) 118 additions and 5 deletions in 3 files</sub><br />
 
