@@ -631,6 +631,10 @@
   <sub>[#163646](https://github.com/flutter/flutter/pull/163646) merged on February 19, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163646) over 2 hours, 45 additions and 2 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [John McDole](https://github.com/jtmcdole)</sub><br />
 
+* **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; Hot Restart should dispose all previous Platform Views (macOS)<br />
+  <sub>[#163439](https://github.com/flutter/flutter/pull/163439) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163439) over 2 days, 67 additions and 0 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
 * **[Ben Konyi](https://github.com/bkonyi)** &mdash; [ Widget Preview ] Invalidate scaffold project if SDK changes and regenerate pubspec on change<br />
   <sub>[#163343](https://github.com/flutter/flutter/pull/163343) merged on February 19, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/163343) over 4 days, 337 additions and 11 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Jessy Yameogo](https://github.com/jyameo)</sub><br />
@@ -643,14 +647,6 @@
   <sub>[#162928](https://github.com/flutter/flutter/pull/162928) merged on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/162928) over 1 week, 226 additions and 0 deletions in 9 files</sub><br />
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub><br />
 
-* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gradle memory properties in example and test projects<br />
-  <sub>[#163798](https://github.com/flutter/flutter/pull/163798) merged on February 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163798) over 21 hours, 35 additions and 35 deletions in 35 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback.<br />
-  <sub>[#163501](https://github.com/flutter/flutter/pull/163501) merged on February 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163501) over 1 day, 118 additions and 20 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
-
 * **[John McDole](https://github.com/jtmcdole)** &mdash; Check for tracked engine.version before overriding<br />
   <sub>[#163672](https://github.com/flutter/flutter/pull/163672) merged on February 20, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163672) over 4 hours, 75 additions and 36 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -658,6 +654,14 @@
 * **[Polina Cherkasova](https://github.com/polina-c)** &mdash; Create helper method to dispatch object creation and disposal.<br />
   <sub>[#163637](https://github.com/flutter/flutter/pull/163637) merged on February 20, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163637) over 7 hours, 90 additions and 14 deletions in 3 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] ensure that OpenGL "flipped" textures do not leak via texture readback.<br />
+  <sub>[#163501](https://github.com/flutter/flutter/pull/163501) merged on February 19, 2025 &mdash; **Small:** [10 comments](https://github.com/flutter/flutter/pull/163501) over 1 day, 118 additions and 20 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde)</sub><br />
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Update gradle memory properties in example and test projects<br />
+  <sub>[#163798](https://github.com/flutter/flutter/pull/163798) merged on February 21, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163798) over 21 hours, 35 additions and 35 deletions in 35 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Qun Cheng](https://github.com/QuncCccccc)** &mdash; Change `cardTheme`, `dialogTheme`, and `tabBarTheme` type to `xxxThemeData`<br />
   <sub>[#157292](https://github.com/flutter/flutter/pull/157292) merged on February 18, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/157292) over 4 months, 13 additions and 71 deletions in 2 files</sub><br />
@@ -671,17 +675,9 @@
   <sub>[#163556](https://github.com/flutter/flutter/pull/163556) merged on February 20, 2025 &mdash; **Small:** [20 comments](https://github.com/flutter/flutter/pull/163556) over 2 days, 122 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
-* **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; Hot Restart should dispose all previous Platform Views (macOS)<br />
-  <sub>[#163439](https://github.com/flutter/flutter/pull/163439) merged on February 19, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/163439) over 2 days, 67 additions and 0 deletions in 4 files</sub><br />
-  <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Replace hard coded numbers with mouse button defines<br />
   <sub>[#163503](https://github.com/flutter/flutter/pull/163503) merged on February 18, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163503) over 13 hours, 3 additions and 3 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
-
-* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove duplicate sources in the `web_sdk`.<br />
-  <sub>[#163636](https://github.com/flutter/flutter/pull/163636) merged on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163636) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
-  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub><br />
 
 * **[Kate Lovett](https://github.com/Piinks)** &mdash; Validate Gold integration<br />
   <sub>[#163629](https://github.com/flutter/flutter/pull/163629) merged on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163629) over 2 hours, 1 addition and 1 deletion in 1 file</sub><br />
@@ -723,13 +719,17 @@
   <sub>[#163879](https://github.com/flutter/flutter/pull/163879) merged on February 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163879) over 1 hour, 0 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
-* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from 023ac80cef14 to 2cecb16348e4<br />
-  <sub>[#163621](https://github.com/flutter/flutter/pull/163621) merged on February 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163621) over 4 hours, 84 additions and 87 deletions in 10 files</sub><br />
-  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Reid Baker](https://github.com/reidbaker), [John McDole](https://github.com/jtmcdole)</sub><br />
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update how to use VSCode with `clangd` after the monorepo merge<br />
   <sub>[#163671](https://github.com/flutter/flutter/pull/163671) merged on February 21, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163671) over 1 day, 27 additions and 7 deletions in 1 file</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove duplicate sources in the `web_sdk`.<br />
+  <sub>[#163636](https://github.com/flutter/flutter/pull/163636) merged on February 19, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/163636) over 1 hour, 0 additions and 2 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Nicholas Shahan](https://github.com/nshahan)</sub><br />
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Manual roll of Dart SDK from 023ac80cef14 to 2cecb16348e4<br />
+  <sub>[#163621](https://github.com/flutter/flutter/pull/163621) merged on February 19, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/163621) over 4 hours, 84 additions and 87 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [Reid Baker](https://github.com/reidbaker), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Nate Biggs](https://github.com/biggs0125)** &mdash; Allow flutter tools to detach a running Chrome session<br />
   <sub>[#163349](https://github.com/flutter/flutter/pull/163349) merged on February 19, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163349) over 4 days, 97 additions and 8 deletions in 3 files</sub><br />
@@ -755,10 +755,6 @@
   <sub>[#163799](https://github.com/flutter/flutter/pull/163799) merged on February 21, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163799) over 17 hours, 58 additions and 55 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
 
-* **[Reid Baker](https://github.com/reidbaker)** &mdash; update module_host_with_custom_build_v2_embedding to target android 35 and to use the latest gradle and agp versions<br />
-  <sub>[#163542](https://github.com/flutter/flutter/pull/163542) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163542) over 1 hour, 9 additions and 7 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub><br />
-
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; enclosingElement -> enclosingElement3<br />
   <sub>[#163681](https://github.com/flutter/flutter/pull/163681) merged on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163681) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -774,6 +770,10 @@
 * **[Brandon DeRosier](https://github.com/bdero)** &mdash; Remove legacy scenec stuff from flutter_tool<br />
   <sub>[#163569](https://github.com/flutter/flutter/pull/163569) merged on February 21, 2025 &mdash; **Medium:** [3 comments](https://github.com/flutter/flutter/pull/163569) over 2 days, 3 additions and 300 deletions in 18 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; update module_host_with_custom_build_v2_embedding to target android 35 and to use the latest gradle and agp versions<br />
+  <sub>[#163542](https://github.com/flutter/flutter/pull/163542) merged on February 18, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163542) over 1 hour, 9 additions and 7 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web] DRY up access to headers required for multi-threaded WebAssembly<br />
   <sub>[#163555](https://github.com/flutter/flutter/pull/163555) merged on February 20, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/163555) over 2 days, 20 additions and 19 deletions in 4 files</sub><br />
