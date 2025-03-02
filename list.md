@@ -58,14 +58,14 @@
   <sub>[#161731](https://github.com/flutter/flutter/pull/161731) merged on February 28, 2025 &mdash; **Small:** [32 comments](https://github.com/flutter/flutter/pull/161731) over 1 month, 254 additions and 11 deletions in 6 files</sub>
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Tong Mu](https://github.com/dkwingsmt)</sub>
 
+* **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Wire view focus event and focus request
+  <sub>[#163930](https://github.com/flutter/flutter/pull/163930) merged on February 25, 2025 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/163930) over 3 days, 716 additions and 1 deletion in 38 files</sub>
+  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
+
 * **[yim](https://github.com/yiiim)** &mdash; Drag handles only need to be tested on mobile platforms.
   <sub>[#163723](https://github.com/flutter/flutter/pull/163723) merged on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163723) over 1 week, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Tong Mu](https://github.com/dkwingsmt)</sub>
   <sub><details><summary>2 images...</summary><img src="https://github.com/user-attachments/assets/25575f7c-4856-4954-9c59-9cf2e009d63b" width="300">![image](https://github.com/user-attachments/assets/1ec094e1-4611-44cf-83dd-1a6f2dc7d33c)</details></sub>
-
-* **[Matej Knopp](https://github.com/knopp)** &mdash; [Embedder] Wire view focus event and focus request
-  <sub>[#163930](https://github.com/flutter/flutter/pull/163930) merged on February 25, 2025 &mdash; **Large:** [33 comments](https://github.com/flutter/flutter/pull/163930) over 3 days, 716 additions and 1 deletion in 38 files</sub>
-  <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Robert Ancell](https://github.com/robert-ancell), [Loïc Sharma](https://github.com/loic-sharma), [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Hannes Hultergård](https://github.com/Hannnes1)** &mdash; Add action for configuring default action of EditableText.onTapUpOutside
   <sub>[#162575](https://github.com/flutter/flutter/pull/162575) merged on February 28, 2025 &mdash; **Small:** [16 comments](https://github.com/flutter/flutter/pull/162575) over 3 weeks, 269 additions and 1 deletion in 5 files</sub>
@@ -111,17 +111,17 @@
   <sub>[#163528](https://github.com/flutter/flutter/pull/163528) merged on February 25, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163528) over 6 days, 135 additions and 45 deletions in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks)</sub>
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Add platform view to integration_test example
-  <sub>[#164144](https://github.com/flutter/flutter/pull/164144) merged on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164144) over 4 hours, 162 additions and 17 deletions in 10 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Yegor](https://github.com/yjbanov)** &mdash; [web] retry safaridriver session creation
+  <sub>[#163791](https://github.com/flutter/flutter/pull/163791) merged on February 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163791) over 3 days, 45 additions and 10 deletions in 1 file</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Victoria Ashworth](https://github.com/vashworth)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove the last vestiges of null-unsafety in `flutter_tools`.
   <sub>[#164026](https://github.com/flutter/flutter/pull/164026) merged on February 27, 2025 &mdash; **Medium:** [5 comments](https://github.com/flutter/flutter/pull/164026) over 2 days, 20 additions and 309 deletions in 34 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar), [Jonah Williams](https://github.com/jonahwilliams), [Srujan Gaddam](https://github.com/srujzs)</sub>
 
-* **[Yegor](https://github.com/yjbanov)** &mdash; [web] retry safaridriver session creation
-  <sub>[#163791](https://github.com/flutter/flutter/pull/163791) merged on February 24, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163791) over 3 days, 45 additions and 10 deletions in 1 file</sub>
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen), [Victoria Ashworth](https://github.com/vashworth)</sub>
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; [iOS] Add platform view to integration_test example
+  <sub>[#164144](https://github.com/flutter/flutter/pull/164144) merged on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164144) over 4 hours, 162 additions and 17 deletions in 10 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Delete all legacy Skia-oriented method overloads in DlCanvas
   <sub>[#164054](https://github.com/flutter/flutter/pull/164054) merged on February 26, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/164054) over 23 hours, 347 additions and 637 deletions in 57 files</sub>
@@ -131,21 +131,25 @@
   <sub>[#163853](https://github.com/flutter/flutter/pull/163853) merged on February 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163853) over 1 week, 93 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Mitchell Goodwin](https://github.com/MitchellGoodwin), [Justin McCandless](https://github.com/justinmc)</sub>
 
-* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash;  Refactor writing of package config in tests
-  <sub>[#163734](https://github.com/flutter/flutter/pull/163734) merged on February 28, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/163734) over 1 week, 658 additions and 842 deletions in 47 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Show Linux driver information in flutter doctor
+  <sub>[#163980](https://github.com/flutter/flutter/pull/163980) merged on February 26, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/163980) over 2 days, 546 additions and 0 deletions in 3 files</sub>
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Wires up expanded state in web engine
   <sub>[#164048](https://github.com/flutter/flutter/pull/164048) merged on February 27, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164048) over 2 days, 132 additions and 0 deletions in 7 files</sub>
   <sub>Reviewed by: [Mouad Debbar](https://github.com/mdebbar)</sub>
 
+* **[Sigurd Meldgaard](https://github.com/sigurdm)** &mdash;  Refactor writing of package config in tests
+  <sub>[#163734](https://github.com/flutter/flutter/pull/163734) merged on February 28, 2025 &mdash; **Large:** [9 comments](https://github.com/flutter/flutter/pull/163734) over 1 week, 658 additions and 842 deletions in 47 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Jonas Uekötter](https://github.com/ueman)** &mdash; Fix incorrectly checking for invalid environment variables in the tool
+  <sub>[#164101](https://github.com/flutter/flutter/pull/164101) merged on February 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/164101) over 3 days, 32 additions and 39 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Taha Tesser](https://github.com/TahaTesser)</sub>
+
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; pure_android_host_apps/android_host_app_v2_embedding multiple gradle and AGP versions
   <sub>[#163849](https://github.com/flutter/flutter/pull/163849) merged on February 25, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/163849) over 4 days, 30 additions and 9 deletions in 2 files</sub>
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub>
-
-* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Show Linux driver information in flutter doctor
-  <sub>[#163980](https://github.com/flutter/flutter/pull/163980) merged on February 26, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/163980) over 2 days, 546 additions and 0 deletions in 3 files</sub>
-  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] detect mediatek soc and fall back to GLES.
   <sub>[#164126](https://github.com/flutter/flutter/pull/164126) merged on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164126) over 10 hours, 5 additions and 0 deletions in 1 file</sub>
@@ -163,17 +167,13 @@
   <sub>[#163796](https://github.com/flutter/flutter/pull/163796) merged on February 25, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/163796) over 4 days, 76 additions and 67 deletions in 14 files</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] move several uses of (deprecated) pkg:js to js_interop_unsafe
-  <sub>[#164264](https://github.com/flutter/flutter/pull/164264) merged on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164264) over 13 hours, 31 additions and 24 deletions in 4 files</sub>
-  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
-
 * **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] dependency cleanup
   <sub>[#164256](https://github.com/flutter/flutter/pull/164256) merged on February 27, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164256) over 18 hours, 25 additions and 30 deletions in 4 files</sub>
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
-* **[Jonas Uekötter](https://github.com/ueman)** &mdash; Fix incorrectly checking for invalid environment variables in the tool
-  <sub>[#164101](https://github.com/flutter/flutter/pull/164101) merged on February 28, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/164101) over 3 days, 32 additions and 39 deletions in 2 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey), [Taha Tesser](https://github.com/TahaTesser)</sub>
+* **[Kevin Moore](https://github.com/kevmoo)** &mdash; [web_ui] move several uses of (deprecated) pkg:js to js_interop_unsafe
+  <sub>[#164264](https://github.com/flutter/flutter/pull/164264) merged on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164264) over 13 hours, 31 additions and 24 deletions in 4 files</sub>
+  <sub>Reviewed by: [Harry Terkelsen](https://github.com/harryterkelsen)</sub>
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Support forward and back buttons
   <sub>[#164356](https://github.com/flutter/flutter/pull/164356) merged on February 28, 2025 &mdash; **Medium:** [1 comment](https://github.com/flutter/flutter/pull/164356) over 11 hours, 285 additions and 91 deletions in 4 files</sub>
@@ -235,25 +235,25 @@
   <sub>[#164410](https://github.com/flutter/flutter/pull/164410) merged on March 1, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164410) over 8 hours, 33 additions and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move AHB check to Vulkan, use Vulkan surface on 29.
-  <sub>[#164109](https://github.com/flutter/flutter/pull/164109) merged on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164109) over 10 hours, 10 additions and 114 deletions in 10 files</sub>
-  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
-
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Document how `engine.version` (is/will be) computed
   <sub>[#164335](https://github.com/flutter/flutter/pull/164335) merged on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164335) over 2 hours, 97 additions and 0 deletions in 5 files</sub>
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
-* **[John McDole](https://github.com/jtmcdole)** &mdash; Enable luci_flags for faster builds
-  <sub>[#164069](https://github.com/flutter/flutter/pull/164069) merged on February 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164069) over 12 hours, 8 additions and 0 deletions in 2 files</sub>
-  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] move AHB check to Vulkan, use Vulkan surface on 29.
+  <sub>[#164109](https://github.com/flutter/flutter/pull/164109) merged on February 26, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164109) over 10 hours, 10 additions and 114 deletions in 10 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run new gallery transition perf benchmark on Galaxy S24
+  <sub>[#163665](https://github.com/flutter/flutter/pull/163665) merged on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163665) over 6 days, 0 additions and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [iOS] increase backdrop cached task limit.
   <sub>[#164036](https://github.com/flutter/flutter/pull/164036) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164036) over 17 hours, 1 addition and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [gaaclarke](https://github.com/gaaclarke)</sub>
 
-* **[Zachary Anderson](https://github.com/zanderso)** &mdash; Run new gallery transition perf benchmark on Galaxy S24
-  <sub>[#163665](https://github.com/flutter/flutter/pull/163665) merged on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163665) over 6 days, 0 additions and 1 deletion in 1 file</sub>
-  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
+* **[John McDole](https://github.com/jtmcdole)** &mdash; Enable luci_flags for faster builds
+  <sub>[#164069](https://github.com/flutter/flutter/pull/164069) merged on February 25, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164069) over 12 hours, 8 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Zachary Anderson](https://github.com/zanderso)</sub>
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Windows] Use enum to configure UI thread policy
   <sub>[#163727](https://github.com/flutter/flutter/pull/163727) merged on February 25, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/163727) over 5 days, 100 additions and 21 deletions in 10 files</sub>
