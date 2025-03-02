@@ -152,3 +152,6 @@
 * **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; when resetting FlutterPlatformViewsController, clear out some additional internal state to prevent it from carrying over across a Hot Restart<br />
   <sub>[#164456](https://github.com/flutter/flutter/pull/164456) opened on on March 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164456) 1 addition and 0 deletions in 1 file</sub><br />
 
+* **[Jon](https://github.com/9AZX)** &mdash; Provide monitor list, display size, refresh rate, and more for Windows<br />
+  <sub>[#164460](https://github.com/flutter/flutter/pull/164460) opened on on March 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164460) 441 additions and 25 deletions in 14 files</sub><br />
+
