@@ -1629,7 +1629,7 @@
 
 ### February 22, 2025 to February 28, 2025
 
-16 commits.
+17 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add iOS 18.4 beta warnings
   <sub>[#11740](https://github.com/flutter/website/pull/11740) merged on February 24, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/11740) over 1 hour, 25 additions and 0 deletions in 2 files</sub>
@@ -1659,6 +1659,10 @@
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Fix broken link for iOS 18.4 warning
   <sub>[#11752](https://github.com/flutter/website/pull/11752) merged on February 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11752) over 10 minutes, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Matej Knopp](https://github.com/knopp)** &mdash; Add `/go/multi-window-api-ffi` design doc redirect
+  <sub>[#11762](https://github.com/flutter/website/pull/11762) merged on March 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11762) over 8 hours, 1 addition and 0 deletions in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add help guide for SocketException error
