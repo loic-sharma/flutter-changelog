@@ -927,9 +927,18 @@
 
 ## flutter/packages
 
+### March 1, 2025 to March 7, 2025
+
+1 commits.
+
+* **[Neil Self](https://github.com/neilself)** &mdash; [google_sign_in] Add Android account name field as optional (platform interface changes)<br />
+  <sub>[#8735](https://github.com/flutter/packages/pull/8735) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8735) over 3 days, 10 additions and 2 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
+
 ### February 22, 2025 to February 28, 2025
 
-21 commits.
+<details>
+<summary>21 commits...</summary>
 
 * **[Camille Simon](https://github.com/camsim99)** &mdash; [camera_android_camerax] Fix 90°-off preview rotation<br />
   <sub>[#8629](https://github.com/flutter/packages/pull/8629) merged on February 26, 2025 &mdash; **Extra large:** [36 comments](https://github.com/flutter/packages/pull/8629) over 1 week, 1321 additions and 221 deletions in 23 files</sub><br />
@@ -1014,6 +1023,8 @@
 * **[stuartmorgan](https://github.com/stuartmorgan)** &mdash; [various] Remove plugin-level `integration_test` dependencies<br />
   <sub>[#8711](https://github.com/flutter/packages/pull/8711) merged on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8711) over 22 hours, 0 additions and 24 deletions in 12 files</sub><br />
   <sub>Reviewed by: [Loïc Sharma](https://github.com/loic-sharma), [Tarrin Neal](https://github.com/tarrinneal)</sub><br />
+
+</details>
 
 ### February 15, 2025 to February 21, 2025
 
