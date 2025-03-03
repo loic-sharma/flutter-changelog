@@ -4,7 +4,15 @@
 
 ### March 1, 2025 to March 7, 2025
 
-3 commits.
+5 commits.
+
+* **[Jenn Magder](https://github.com/jmagman)** &mdash; Run run_debug_test_android and run_release_test in prod
+  <sub>[#164231](https://github.com/flutter/flutter/pull/164231) merged on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164231) over 4 days, 0 additions and 2 deletions in 1 file</sub>
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub>
+
+* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Enable extra test suits and correct the error reasons
+  <sub>[#164338](https://github.com/flutter/flutter/pull/164338) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164338) over 3 days, 129 additions and 30 deletions in 6 files</sub>
+  <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Linux SDK from AO1KirSDI7-MVYNPN... to Rt6pxGFLVAJHduM0V...
   <sub>[#164474](https://github.com/flutter/flutter/pull/164474) merged on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164474) over 8 hours, 2 additions and 2 deletions in 2 files</sub>
@@ -933,7 +941,11 @@
 
 ### March 1, 2025 to March 7, 2025
 
-1 commits.
+2 commits.
+
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_plugin_android_lifecycle] Uses flutter.compileSdkVersion, bumps minimum flutter version to 3.27
+  <sub>[#8760](https://github.com/flutter/packages/pull/8760) merged on March 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8760) over 3 days, 8 additions and 4 deletions in 3 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Neil Self](https://github.com/neilself)** &mdash; [google_sign_in] Add Android account name field as optional (platform interface changes)
   <sub>[#8735](https://github.com/flutter/packages/pull/8735) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8735) over 3 days, 10 additions and 2 deletions in 3 files</sub>
