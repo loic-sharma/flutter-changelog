@@ -4,7 +4,11 @@
 
 ### March 1, 2025 to March 7, 2025
 
-6 commits.
+7 commits.
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] match dequeued images to FIF.
+  <sub>[#164422](https://github.com/flutter/flutter/pull/164422) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164422) over 2 days, 90 additions and 12 deletions in 2 files</sub>
+  <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run run_debug_test_android and run_release_test in prod
   <sub>[#164231](https://github.com/flutter/flutter/pull/164231) merged on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164231) over 4 days, 0 additions and 2 deletions in 1 file</sub>
@@ -1108,7 +1112,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-2 commits.
+4 commits.
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Close And Menu Toggle
   <sub>[#11760](https://github.com/flutter/website/pull/11760) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11760) over 2 days, 22 additions and 0 deletions in 2 files</sub>
@@ -1116,6 +1120,14 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update set-up-app-links.md
   <sub>[#11761](https://github.com/flutter/website/pull/11761) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11761) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New design doc: Drawing apple squircles
+  <sub>[#11764](https://github.com/flutter/website/pull/11764) merged on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11764) over 1 hour, 1 addition and 0 deletions in 1 file</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Update flavors guide for Android.
+  <sub>[#11758](https://github.com/flutter/website/pull/11758) merged on March 3, 2025 &mdash; **Medium:** [7 comments](https://github.com/flutter/website/pull/11758) over 2 days, 297 additions and 134 deletions in 10 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 ### February 22, 2025 to February 28, 2025
