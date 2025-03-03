@@ -2,9 +2,18 @@
 
 ## flutter/flutter
 
+### March 1, 2025 to March 7, 2025
+
+1 commits.
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 101eee8fce59 to ee155b6e0a04 (1 revision)
+  <sub>[#164467](https://github.com/flutter/flutter/pull/164467) merged on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164467) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
+
 ### February 22, 2025 to February 28, 2025
 
-125 commits.
+<details>
+<summary>125 commits...</summary>
 
 * **[Mouad Debbar](https://github.com/mdebbar)** &mdash; [web] Actual removal of HTML code
   <sub>[#164003](https://github.com/flutter/flutter/pull/164003) merged on February 24, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164003) over 3 hours, 18 additions and 41492 deletions in 89 files</sub>
@@ -510,6 +519,8 @@
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] Reland: move AHB check into Flutter main, don't disable ImageReader on 29.
   <sub>[#164201](https://github.com/flutter/flutter/pull/164201) merged on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164201) over 3 hours, 9 additions and 114 deletions in 10 files</sub>
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub>
+
+</details>
 
 ### February 15, 2025 to February 21, 2025
 
