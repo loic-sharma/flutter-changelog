@@ -126,7 +126,7 @@
   <sub>[#164341](https://github.com/flutter/flutter/pull/164341) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164341) 13 additions and 5 deletions in 3 files</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't process cursor changes until view is realized.<br />
-  <sub>[#164349](https://github.com/flutter/flutter/pull/164349) opened on on February 28, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164349) 6 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#164349](https://github.com/flutter/flutter/pull/164349) opened on on February 28, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164349) 6 additions and 1 deletion in 1 file</sub><br />
 
 * **[Taha Tesser](https://github.com/TahaTesser)** &mdash; Update the `RefreshProgressIndicator` widget to the 2024 Material Design appearance<br />
   <sub>[#164384](https://github.com/flutter/flutter/pull/164384) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164384) 158 additions and 36 deletions in 3 files</sub><br />
@@ -177,5 +177,11 @@
   <sub>[#164511](https://github.com/flutter/flutter/pull/164511) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164511) 64 additions and 1 deletion in 2 files</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Overhaul `update_engine_version.{sh|ps1}` to reflect the new computation flow<br />
-  <sub>[#164513](https://github.com/flutter/flutter/pull/164513) opened on on March 3, 2025 &mdash; **Large:** [0 comments](https://github.com/flutter/flutter/pull/164513) 220 additions and 311 deletions in 4 files</sub><br />
+  <sub>[#164513](https://github.com/flutter/flutter/pull/164513) opened on on March 3, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/164513) 219 additions and 307 deletions in 4 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] detect external GPU on macOS.<br />
+  <sub>[#164516](https://github.com/flutter/flutter/pull/164516) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164516) 76 additions and 19 deletions in 5 files</sub><br />
+
+* **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Adds oval shortcut to `DisplayListMatrixClipState::clip{RRect,RSuperellipse}` <br />
+  <sub>[#164519](https://github.com/flutter/flutter/pull/164519) opened on on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164519) 6 additions and 0 deletions in 1 file</sub><br />
 

@@ -4,7 +4,11 @@
 
 ### March 1, 2025 to March 7, 2025
 
-11 commits.
+14 commits.
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; android: Build universal gen_snapshot for Android
+  <sub>[#164453](https://github.com/flutter/flutter/pull/164453) merged on March 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164453) over 1 day, 51 additions and 22 deletions in 3 files</sub>
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] match dequeued images to FIF.
   <sub>[#164422](https://github.com/flutter/flutter/pull/164422) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164422) over 2 days, 90 additions and 12 deletions in 2 files</sub>
@@ -21,6 +25,14 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a `isSystemTextScaler` matcher
   <sub>[#160120](https://github.com/flutter/flutter/pull/160120) merged on March 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160120) over 2 months, 99 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [A11y] Add radio group role
+  <sub>[#164154](https://github.com/flutter/flutter/pull/164154) merged on March 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164154) over 5 days, 271 additions and 0 deletions in 8 files</sub>
+  <sub>Reviewed by: [chunhtai](https://github.com/chunhtai), [Yegor](https://github.com/yjbanov)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Update `update_dart_sdk.sh|ps1` and related to use `bin/cache/engine.stamp|realm`.
+  <sub>[#164498](https://github.com/flutter/flutter/pull/164498) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164498) over 2 hours, 5 additions and 5 deletions in 3 files</sub>
+  <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `engine_hash.sh`, which is no longer used by google3.
   <sub>[#164502](https://github.com/flutter/flutter/pull/164502) merged on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164502) over 58 minutes, 0 additions and 141 deletions in 2 files</sub>
