@@ -4,7 +4,11 @@
 
 ### March 1, 2025 to March 7, 2025
 
-2 commits.
+3 commits.
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Linux SDK from AO1KirSDI7-MVYNPN... to Rt6pxGFLVAJHduM0V...
+  <sub>[#164474](https://github.com/flutter/flutter/pull/164474) merged on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164474) over 8 hours, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from ee155b6e0a04 to 1e9fa50fc296 (1 revision)
   <sub>[#164471](https://github.com/flutter/flutter/pull/164471) merged on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164471) over 1 hour, 1 addition and 1 deletion in 1 file</sub>
@@ -1086,9 +1090,22 @@
 
 ## flutter/website
 
+### March 1, 2025 to March 7, 2025
+
+2 commits.
+
+* **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Close And Menu Toggle
+  <sub>[#11760](https://github.com/flutter/website/pull/11760) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11760) over 2 days, 22 additions and 0 deletions in 2 files</sub>
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Tirth](https://github.com/piedcipher)** &mdash; Update set-up-app-links.md
+  <sub>[#11761](https://github.com/flutter/website/pull/11761) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11761) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
 ### February 22, 2025 to February 28, 2025
 
-17 commits.
+<details>
+<summary>17 commits...</summary>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Add iOS 18.4 beta warnings
   <sub>[#11740](https://github.com/flutter/website/pull/11740) merged on February 24, 2025 &mdash; **Small:** [14 comments](https://github.com/flutter/website/pull/11740) over 1 hour, 25 additions and 0 deletions in 2 files</sub>
@@ -1159,6 +1176,8 @@
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Change flutter.dev/go/expansible-state-mixin to flutter.dev/go/codeshare-expansion-tile
   <sub>[#11741](https://github.com/flutter/website/pull/11741) merged on February 25, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11741) over 29 minutes, 2 additions and 1 deletion in 1 file</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+</details>
 
 ### February 15, 2025 to February 21, 2025
 

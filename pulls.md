@@ -104,6 +104,9 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Add experimental IntegrationTest.takeScreenshot<br />
   <sub>[#164171](https://github.com/flutter/flutter/pull/164171) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164171) 18 additions and 5 deletions in 2 files</sub><br />
 
+* **[Harri Kirik](https://github.com/harri35)** &mdash; Add flag to disable automatic device reboot for DeviceLab tests<br />
+  <sub>[#164184](https://github.com/flutter/flutter/pull/164184) opened on on February 26, 2025 &mdash; **Small:** [13 comments](https://github.com/flutter/flutter/pull/164184) 57 additions and 1 deletion in 5 files</sub><br />
+
 * **[flutteractionsbot](https://github.com/flutteractionsbot)** &mdash; [CP-beta][web] robustify safaridriver launch sequence<br />
   <sub>[#164192](https://github.com/flutter/flutter/pull/164192) opened on on February 26, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164192) 168 additions and 105 deletions in 3 files</sub><br />
 
@@ -119,9 +122,6 @@
 * **[Danny Tuppeny](https://github.com/DanTup)** &mdash; [flutter_tool] Handle RPCErrorKind.kConnectionDisposed<br />
   <sub>[#164299](https://github.com/flutter/flutter/pull/164299) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164299) 129 additions and 5 deletions in 7 files</sub><br />
 
-* **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Enable extra test suits and correct the error reasons<br />
-  <sub>[#164338](https://github.com/flutter/flutter/pull/164338) opened on on February 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164338) 129 additions and 30 deletions in 6 files</sub><br />
-
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [stable] Cherry-pick change to CanvasKit build flags to fix double download<br />
   <sub>[#164341](https://github.com/flutter/flutter/pull/164341) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164341) 13 additions and 5 deletions in 3 files</sub><br />
 
@@ -134,8 +134,8 @@
 * **[Giacomo Pignoni](https://github.com/GiacomoPignoni)** &mdash; [Web] fix Image fit when using ImgElementPlatformView<br />
   <sub>[#164400](https://github.com/flutter/flutter/pull/164400) opened on on February 28, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164400) 38 additions and 3 deletions in 2 files</sub><br />
 
-* **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [stable] Cherrypick fix for stretched embedded app on mobile<br />
-  <sub>[#164406](https://github.com/flutter/flutter/pull/164406) opened on on February 28, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164406) 100 additions and 64 deletions in 3 files</sub><br />
+* **[Reid Baker](https://github.com/reidbaker)** &mdash; Update ktlint to 1.5<br />
+  <sub>[#164409](https://github.com/flutter/flutter/pull/164409) opened on on February 28, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164409) 54 additions and 48 deletions in 6 files</sub><br />
 
 * **[Nils Reichardt](https://github.com/nilsreichardt)** &mdash; Add `--ignore-timeouts` flag for `flutter test` command<br />
   <sub>[#164437](https://github.com/flutter/flutter/pull/164437) opened on on March 1, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164437) 19 additions and 0 deletions in 3 files</sub><br />
@@ -153,7 +153,7 @@
   <sub>[#164460](https://github.com/flutter/flutter/pull/164460) opened on on March 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164460) 441 additions and 25 deletions in 14 files</sub><br />
 
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert removal of generateDDCMainModule<br />
-  <sub>[#164463](https://github.com/flutter/flutter/pull/164463) opened on on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164463) 34 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#164463](https://github.com/flutter/flutter/pull/164463) opened on on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164463) 34 additions and 0 deletions in 1 file</sub><br />
 
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Hero animation for page transition<br />
   <sub>[#164469](https://github.com/flutter/flutter/pull/164469) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164469) 89 additions and 71 deletions in 2 files</sub><br />
@@ -162,5 +162,11 @@
   <sub>[#164473](https://github.com/flutter/flutter/pull/164473) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164473) 102 additions and 6 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigationBar indicator overlay color<br />
-  <sub>[#164484](https://github.com/flutter/flutter/pull/164484) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164484) 4 additions and 3 deletions in 2 files</sub><br />
+  <sub>[#164484](https://github.com/flutter/flutter/pull/164484) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164484) 6 additions and 5 deletions in 3 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP] Disable Vulkan on MediaTek SoC.<br />
+  <sub>[#164495](https://github.com/flutter/flutter/pull/164495) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164495) 6 additions and 0 deletions in 2 files</sub><br />
+
+* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Move AHB check into Flutter main, don't disable ImageReader on 29.<br />
+  <sub>[#164496](https://github.com/flutter/flutter/pull/164496) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164496) 15 additions and 115 deletions in 11 files</sub><br />
 
