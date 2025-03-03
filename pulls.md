@@ -120,7 +120,7 @@
   <sub>[#164299](https://github.com/flutter/flutter/pull/164299) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164299) 129 additions and 5 deletions in 7 files</sub><br />
 
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Enable extra test suits and correct the error reasons<br />
-  <sub>[#164338](https://github.com/flutter/flutter/pull/164338) opened on on February 27, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164338) 129 additions and 30 deletions in 6 files</sub><br />
+  <sub>[#164338](https://github.com/flutter/flutter/pull/164338) opened on on February 27, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164338) 129 additions and 30 deletions in 6 files</sub><br />
 
 * **[Harry Terkelsen](https://github.com/harryterkelsen)** &mdash; [stable] Cherry-pick change to CanvasKit build flags to fix double download<br />
   <sub>[#164341](https://github.com/flutter/flutter/pull/164341) opened on on February 27, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164341) 13 additions and 5 deletions in 3 files</sub><br />
