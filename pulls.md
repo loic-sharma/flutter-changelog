@@ -161,3 +161,6 @@
 * **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Update sheet route bottom padding with top padding<br />
   <sub>[#164473](https://github.com/flutter/flutter/pull/164473) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164473) 102 additions and 6 deletions in 2 files</sub><br />
 
+* **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigationBar indicator overlay color<br />
+  <sub>[#164484](https://github.com/flutter/flutter/pull/164484) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164484) 4 additions and 3 deletions in 2 files</sub><br />
+
