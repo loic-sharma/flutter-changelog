@@ -27,7 +27,7 @@
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
-  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [36 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Medium:** [38 comments](https://github.com/flutter/flutter/pull/161879) 309 additions and 59 deletions in 6 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162467) 184 additions and 47 deletions in 13 files</sub><br />
@@ -143,9 +143,6 @@
 * **[Valentin Hăloiu](https://github.com/vially)** &mdash; Add `buildMode`, `icuDataPath` and `engineRevision` interpolations for custom devices<br />
   <sub>[#164455](https://github.com/flutter/flutter/pull/164455) opened on on March 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164455) 118 additions and 5 deletions in 3 files</sub><br />
 
-* **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; when resetting FlutterPlatformViewsController, clear out some additional internal state to prevent it from carrying over across a Hot Restart<br />
-  <sub>[#164456](https://github.com/flutter/flutter/pull/164456) opened on on March 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164456) 79 additions and 0 deletions in 3 files</sub><br />
-
 * **[Jon](https://github.com/9AZX)** &mdash; Provide monitor list, display size, refresh rate, and more for Windows<br />
   <sub>[#164460](https://github.com/flutter/flutter/pull/164460) opened on on March 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164460) 441 additions and 25 deletions in 14 files</sub><br />
 
@@ -178,9 +175,6 @@
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Overhaul `update_engine_version.{sh|ps1}` to reflect the new computation flow<br />
   <sub>[#164513](https://github.com/flutter/flutter/pull/164513) opened on on March 3, 2025 &mdash; **Large:** [2 comments](https://github.com/flutter/flutter/pull/164513) 219 additions and 307 deletions in 4 files</sub><br />
-
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] detect external GPU on macOS.<br />
-  <sub>[#164516](https://github.com/flutter/flutter/pull/164516) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164516) 76 additions and 19 deletions in 5 files</sub><br />
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Adds oval shortcut to `DisplayListMatrixClipState::clip{RRect,RSuperellipse}` <br />
   <sub>[#164519](https://github.com/flutter/flutter/pull/164519) opened on on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164519) 6 additions and 0 deletions in 1 file</sub><br />
