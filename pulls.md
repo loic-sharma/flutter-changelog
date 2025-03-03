@@ -150,8 +150,11 @@
   <sub>[#164455](https://github.com/flutter/flutter/pull/164455) opened on on March 2, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164455) 118 additions and 5 deletions in 3 files</sub><br />
 
 * **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; when resetting FlutterPlatformViewsController, clear out some additional internal state to prevent it from carrying over across a Hot Restart<br />
-  <sub>[#164456](https://github.com/flutter/flutter/pull/164456) opened on on March 2, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164456) 1 addition and 0 deletions in 1 file</sub><br />
+  <sub>[#164456](https://github.com/flutter/flutter/pull/164456) opened on on March 2, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164456) 79 additions and 0 deletions in 3 files</sub><br />
 
 * **[Jon](https://github.com/9AZX)** &mdash; Provide monitor list, display size, refresh rate, and more for Windows<br />
   <sub>[#164460](https://github.com/flutter/flutter/pull/164460) opened on on March 2, 2025 &mdash; **Medium:** [0 comments](https://github.com/flutter/flutter/pull/164460) 441 additions and 25 deletions in 14 files</sub><br />
+
+* **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert removal of generateDDCMainModule<br />
+  <sub>[#164463](https://github.com/flutter/flutter/pull/164463) opened on on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164463) 34 additions and 0 deletions in 1 file</sub><br />
 
