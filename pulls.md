@@ -158,3 +158,6 @@
 * **[Jia Hao](https://github.com/jiahaog)** &mdash; Revert removal of generateDDCMainModule<br />
   <sub>[#164463](https://github.com/flutter/flutter/pull/164463) opened on on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164463) 34 additions and 0 deletions in 1 file</sub><br />
 
+* **[Kishan Rathore](https://github.com/rkishan516)** &mdash; Fix: Hero animation for page transition<br />
+  <sub>[#164469](https://github.com/flutter/flutter/pull/164469) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164469) 89 additions and 71 deletions in 2 files</sub><br />
+
