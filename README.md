@@ -4,7 +4,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-21 commits.
+23 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: make the text input plugin use the correct view on the Windows platform<br />
   <sub>[#163847](https://github.com/flutter/flutter/pull/163847) merged on March 4, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163847) over 1 week, 202 additions and 23 deletions in 5 files</sub><br />
@@ -54,9 +54,17 @@
   <sub>[#164494](https://github.com/flutter/flutter/pull/164494) merged on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164494) over 1 hour, 0 additions and 121 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Don't process cursor changes until view is realized.<br />
+  <sub>[#164349](https://github.com/flutter/flutter/pull/164349) merged on March 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164349) over 4 days, 6 additions and 1 deletion in 1 file</sub><br />
+  <sub>Reviewed by: [Matthew Kosarek](https://github.com/mattkae)</sub><br />
+
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Enable extra test suits and correct the error reasons<br />
   <sub>[#164338](https://github.com/flutter/flutter/pull/164338) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164338) over 3 days, 129 additions and 30 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from f8f5c61d4197 to 15b0d7575e64 (1 revision)<br />
+  <sub>[#164547](https://github.com/flutter/flutter/pull/164547) merged on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164547) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 16f8a49764f4 to f8f5c61d4197 (2 revisions)<br />
   <sub>[#164540](https://github.com/flutter/flutter/pull/164540) merged on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164540) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
@@ -1176,7 +1184,12 @@
 
 ### March 1, 2025 to March 7, 2025
 
-4 commits.
+5 commits.
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend upgrade to iOS 18.4 beta 2 if on beta 1<br />
+  <sub>[#11766](https://github.com/flutter/website/pull/11766) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11766) over 17 hours, 3 additions and 20 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/d9827ad2-5311-483a-9afb-907b2e0d05f4)</details></sub>
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Close And Menu Toggle<br />
   <sub>[#11760](https://github.com/flutter/website/pull/11760) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11760) over 2 days, 22 additions and 0 deletions in 2 files</sub><br />
