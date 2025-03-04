@@ -1204,7 +1204,12 @@
 
 ### March 1, 2025 to March 7, 2025
 
-9 commits.
+12 commits.
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add new design for previous and next page buttons<br />
+  <sub>[#11770](https://github.com/flutter/website/pull/11770) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11770) over 1 hour, 76 additions and 68 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+  <sub><details><summary>2 images...</summary><img width="640" alt="Screenshot of the wide-layout version of the buttons" src="https://github.com/user-attachments/assets/91f85ac2-d005-4cb1-b453-f08c303efb4e" /><img width="400" alt="Screenshot of the narrow-layout version of the buttons" src="https://github.com/user-attachments/assets/2d3a347c-e5fa-4b91-908e-17fb40ddd3f0" /></details></sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend upgrade to iOS 18.4 beta 2 if on beta 1<br />
   <sub>[#11766](https://github.com/flutter/website/pull/11766) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11766) over 17 hours, 3 additions and 20 deletions in 2 files</sub><br />
@@ -1212,12 +1217,20 @@
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/d9827ad2-5311-483a-9afb-907b2e0d05f4)</details></sub>
 
 * **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Update DevTools release notes for cherry pick release 2.42.3<br />
-  <sub>[#11721](https://github.com/flutter/website/pull/11721) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11721) over 2 weeks, 18 additions and 13 deletions in 6 files</sub><br />
+  <sub>[#11721](https://github.com/flutter/website/pull/11721) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11721) over 2 weeks, 18 additions and 13 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Elliott Brooks](https://github.com/elliette), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
+
+* **[Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)** &mdash; Replacing screenshot of error with text<br />
+  <sub>[#11769](https://github.com/flutter/website/pull/11769) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11769) over 1 hour, 3 additions and 1 deletion in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Close And Menu Toggle<br />
   <sub>[#11760](https://github.com/flutter/website/pull/11760) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11760) over 2 days, 22 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add sidenav links back to setup selection pages<br />
+  <sub>[#11771](https://github.com/flutter/website/pull/11771) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11771) over 49 minutes, 10 additions and 0 deletions in 1 file</sub><br />
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update impeller.md for web<br />
   <sub>[#11768](https://github.com/flutter/website/pull/11768) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11768) over 10 hours, 4 additions and 5 deletions in 1 file</sub><br />
