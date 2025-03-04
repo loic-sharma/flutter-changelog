@@ -4,7 +4,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-23 commits.
+24 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: make the text input plugin use the correct view on the Windows platform
   <sub>[#163847](https://github.com/flutter/flutter/pull/163847) merged on March 4, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163847) over 1 week, 202 additions and 23 deletions in 5 files</sub>
@@ -13,6 +13,10 @@
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; android: Build universal gen_snapshot for Android
   <sub>[#164453](https://github.com/flutter/flutter/pull/164453) merged on March 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164453) over 1 day, 51 additions and 22 deletions in 3 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Jason Simmons](https://github.com/jason-simmons)** &mdash; Move flutter/third_party/txt into flutter/txt
+  <sub>[#164248](https://github.com/flutter/flutter/pull/164248) merged on March 4, 2025 &mdash; **Extra large:** [2 comments](https://github.com/flutter/flutter/pull/164248) over 5 days, 814 additions and 1285 deletions in 119 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Overhaul `update_engine_version.{sh|ps1}` to reflect the new computation flow
   <sub>[#164513](https://github.com/flutter/flutter/pull/164513) merged on March 4, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/164513) over 4 hours, 219 additions and 307 deletions in 4 files</sub>
@@ -1184,12 +1188,16 @@
 
 ### March 1, 2025 to March 7, 2025
 
-5 commits.
+6 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend upgrade to iOS 18.4 beta 2 if on beta 1
   <sub>[#11766](https://github.com/flutter/website/pull/11766) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11766) over 17 hours, 3 additions and 20 deletions in 2 files</sub>
   <sub>Reviewed by: [Jenn Magder](https://github.com/jmagman), [hellohuanlin](https://github.com/hellohuanlin), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
   <sub><details><summary>1 image...</summary>![image](https://github.com/user-attachments/assets/d9827ad2-5311-483a-9afb-907b2e0d05f4)</details></sub>
+
+* **[Kenzie Davisson](https://github.com/kenzieschmoll)** &mdash; Update DevTools release notes for cherry pick release 2.42.3
+  <sub>[#11721](https://github.com/flutter/website/pull/11721) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11721) over 2 weeks, 18 additions and 13 deletions in 6 files</sub>
+  <sub>Reviewed by: [Elliott Brooks](https://github.com/elliette), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Close And Menu Toggle
   <sub>[#11760](https://github.com/flutter/website/pull/11760) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11760) over 2 days, 22 additions and 0 deletions in 2 files</sub>
