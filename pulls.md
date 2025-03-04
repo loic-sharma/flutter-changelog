@@ -153,7 +153,7 @@
   <sub>[#164473](https://github.com/flutter/flutter/pull/164473) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164473) 102 additions and 6 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigationBar indicator overlay color<br />
-  <sub>[#164484](https://github.com/flutter/flutter/pull/164484) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164484) 6 additions and 5 deletions in 3 files</sub><br />
+  <sub>[#164484](https://github.com/flutter/flutter/pull/164484) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164484) 31 additions and 52 deletions in 7 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP] Disable Vulkan on MediaTek SoC.<br />
   <sub>[#164495](https://github.com/flutter/flutter/pull/164495) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164495) 6 additions and 0 deletions in 2 files</sub><br />
