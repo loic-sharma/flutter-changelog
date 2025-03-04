@@ -27,7 +27,7 @@
   <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
 
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
-  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Large:** [41 comments](https://github.com/flutter/flutter/pull/161879) 407 additions and 157 deletions in 6 files</sub><br />
+  <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/161879) 411 additions and 157 deletions in 6 files</sub><br />
 
 * **[chunhtai](https://github.com/chunhtai)** &mdash; Adds semantics role and adjust semantics for navigation bar<br />
   <sub>[#162467](https://github.com/flutter/flutter/pull/162467) opened on on January 30, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/162467) 184 additions and 47 deletions in 13 files</sub><br />
@@ -175,4 +175,7 @@
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Call onWindowDestroyed when windows closed.<br />
   <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
+
+* **[dyno-nexsoft](https://github.com/dyno-nexsoft)** &mdash; fix: ProgressIndicatorThemeData strokeWidth not working<br />
+  <sub>[#164542](https://github.com/flutter/flutter/pull/164542) opened on on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164542) 1 addition and 1 deletion in 1 file</sub><br />
 
