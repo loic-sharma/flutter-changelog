@@ -4,7 +4,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-26 commits.
+27 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: make the text input plugin use the correct view on the Windows platform<br />
   <sub>[#163847](https://github.com/flutter/flutter/pull/163847) merged on March 4, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163847) over 1 week, 202 additions and 23 deletions in 5 files</sub><br />
@@ -37,6 +37,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a `isSystemTextScaler` matcher<br />
   <sub>[#160120](https://github.com/flutter/flutter/pull/160120) merged on March 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160120) over 2 months, 99 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
+
+* **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Web] Improve onboarding docs<br />
+  <sub>[#164246](https://github.com/flutter/flutter/pull/164246) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164246) over 5 days, 42 additions and 8 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; Eliminate platform-specific logging in core engine<br />
   <sub>[#164522](https://github.com/flutter/flutter/pull/164522) merged on March 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164522) over 3 hours, 12 additions and 30 deletions in 2 files</sub><br />
