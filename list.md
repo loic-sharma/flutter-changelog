@@ -4,7 +4,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-16 commits.
+17 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; android: Build universal gen_snapshot for Android
   <sub>[#164453](https://github.com/flutter/flutter/pull/164453) merged on March 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164453) over 1 day, 51 additions and 22 deletions in 3 files</sub>
@@ -29,6 +29,10 @@
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a `isSystemTextScaler` matcher
   <sub>[#160120](https://github.com/flutter/flutter/pull/160120) merged on March 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160120) over 2 months, 99 additions and 0 deletions in 4 files</sub>
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub>
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; Eliminate platform-specific logging in core engine
+  <sub>[#164522](https://github.com/flutter/flutter/pull/164522) merged on March 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164522) over 3 hours, 12 additions and 30 deletions in 2 files</sub>
+  <sub>Reviewed by: [Jonah Williams](https://github.com/jonahwilliams)</sub>
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [A11y] Add radio group role
   <sub>[#164154](https://github.com/flutter/flutter/pull/164154) merged on March 3, 2025 &mdash; **Small:** [7 comments](https://github.com/flutter/flutter/pull/164154) over 5 days, 271 additions and 0 deletions in 8 files</sub>
