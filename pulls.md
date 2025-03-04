@@ -173,3 +173,6 @@
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; [Impeller] Adds oval shortcut to `DisplayListMatrixClipState::clip{RRect,RSuperellipse}` <br />
   <sub>[#164519](https://github.com/flutter/flutter/pull/164519) opened on on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164519) 6 additions and 0 deletions in 1 file</sub><br />
 
+* **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Call onWindowDestroyed when windows closed.<br />
+  <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
+

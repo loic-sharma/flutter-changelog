@@ -4,7 +4,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-17 commits.
+18 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; android: Build universal gen_snapshot for Android
   <sub>[#164453](https://github.com/flutter/flutter/pull/164453) merged on March 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164453) over 1 day, 51 additions and 22 deletions in 3 files</sub>
@@ -53,6 +53,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Enable extra test suits and correct the error reasons
   <sub>[#164338](https://github.com/flutter/flutter/pull/164338) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164338) over 3 days, 129 additions and 30 deletions in 6 files</sub>
   <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 52d06100a044 to 6912d66c0c7a (1 revision)
+  <sub>[#164526](https://github.com/flutter/flutter/pull/164526) merged on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164526) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from a11cc17d0133 to 52d06100a044 (2 revisions)
   <sub>[#164515](https://github.com/flutter/flutter/pull/164515) merged on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164515) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
@@ -989,7 +993,11 @@
 
 ### March 1, 2025 to March 7, 2025
 
-2 commits.
+3 commits.
+
+* **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes crash with nil `WKFrameInfo.request`
+  <sub>[#8766](https://github.com/flutter/packages/pull/8766) merged on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8766) over 3 days, 73 additions and 21 deletions in 8 files</sub>
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub>
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_plugin_android_lifecycle] Uses flutter.compileSdkVersion, bumps minimum flutter version to 3.27
   <sub>[#8760](https://github.com/flutter/packages/pull/8760) merged on March 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8760) over 3 days, 8 additions and 4 deletions in 3 files</sub>
