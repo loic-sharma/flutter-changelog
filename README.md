@@ -4,7 +4,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-24 commits.
+25 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: make the text input plugin use the correct view on the Windows platform<br />
   <sub>[#163847](https://github.com/flutter/flutter/pull/163847) merged on March 4, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163847) over 1 week, 202 additions and 23 deletions in 5 files</sub><br />
@@ -101,6 +101,10 @@
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 101eee8fce59 to ee155b6e0a04 (1 revision)<br />
   <sub>[#164467](https://github.com/flutter/flutter/pull/164467) merged on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164467) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
+
+* **[Alexander Aprelev](https://github.com/aam)** &mdash; Reland dart sdks that were causing dartaotruntime issues in g3  (#164307)<br />
+  <sub>[#164554](https://github.com/flutter/flutter/pull/164554) merged on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164554) over 1 hour, 9 additions and 11 deletions in 4 files</sub><br />
+  <sub>Reviewed by: [Siva](https://github.com/a-siva)</sub><br />
 
 ### February 22, 2025 to February 28, 2025
 
@@ -1017,7 +1021,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-4 commits.
+5 commits.
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_android] Platform view support<br />
   <sub>[#8466](https://github.com/flutter/packages/pull/8466) merged on March 4, 2025 &mdash; **Extra large:** [94 comments](https://github.com/flutter/packages/pull/8466) over 1 month, 2291 additions and 708 deletions in 44 files</sub><br />
@@ -1026,6 +1030,10 @@
 * **[Maurice Parrish](https://github.com/bparrishMines)** &mdash; [webview_flutter_wkwebview] Fixes crash with nil `WKFrameInfo.request`<br />
   <sub>[#8766](https://github.com/flutter/packages/pull/8766) merged on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/packages/pull/8766) over 3 days, 73 additions and 21 deletions in 8 files</sub><br />
   <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan)</sub><br />
+
+* **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; [go_router_builder]: Fix `The argument type 'String?' can't be assigned to the parameter type 'String' because 'String?' ` on path and query params<br />
+  <sub>[#8737](https://github.com/flutter/packages/pull/8737) merged on March 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8737) over 4 days, 17 additions and 11 deletions in 10 files</sub><br />
+  <sub>Reviewed by: [Karibash](https://github.com/Karibash), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [flutter_plugin_android_lifecycle] Uses flutter.compileSdkVersion, bumps minimum flutter version to 3.27<br />
   <sub>[#8760](https://github.com/flutter/packages/pull/8760) merged on March 3, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/packages/pull/8760) over 3 days, 8 additions and 4 deletions in 3 files</sub><br />
@@ -1204,7 +1212,7 @@
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; DevTools Release notes for version 2.44.0<br />
-  <sub>[#11767](https://github.com/flutter/website/pull/11767) merged on March 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11767) over 18 hours, 80 additions and 0 deletions in 5 files</sub><br />
+  <sub>[#11767](https://github.com/flutter/website/pull/11767) merged on March 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11767) over 18 hours, 80 additions and 0 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update set-up-app-links.md<br />
