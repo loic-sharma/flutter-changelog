@@ -1188,7 +1188,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-6 commits.
+7 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend upgrade to iOS 18.4 beta 2 if on beta 1<br />
   <sub>[#11766](https://github.com/flutter/website/pull/11766) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11766) over 17 hours, 3 additions and 20 deletions in 2 files</sub><br />
@@ -1202,6 +1202,10 @@
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Close And Menu Toggle<br />
   <sub>[#11760](https://github.com/flutter/website/pull/11760) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11760) over 2 days, 22 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Elliott Brooks](https://github.com/elliette)** &mdash; DevTools Release notes for version 2.44.0<br />
+  <sub>[#11767](https://github.com/flutter/website/pull/11767) merged on March 4, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/website/pull/11767) over 18 hours, 80 additions and 0 deletions in 5 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub><br />
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update set-up-app-links.md<br />
   <sub>[#11761](https://github.com/flutter/website/pull/11761) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11761) over 2 days, 1 addition and 1 deletion in 1 file</sub><br />
