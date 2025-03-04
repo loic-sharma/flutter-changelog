@@ -4,7 +4,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-25 commits.
+26 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: make the text input plugin use the correct view on the Windows platform
   <sub>[#163847](https://github.com/flutter/flutter/pull/163847) merged on March 4, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163847) over 1 week, 202 additions and 23 deletions in 5 files</sub>
@@ -65,6 +65,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Enable extra test suits and correct the error reasons
   <sub>[#164338](https://github.com/flutter/flutter/pull/164338) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164338) over 3 days, 129 additions and 30 deletions in 6 files</sub>
   <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub>
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 15b0d7575e64 to 20266c9ca4c0 (3 revisions)
+  <sub>[#164558](https://github.com/flutter/flutter/pull/164558) merged on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164558) over 1 hour, 2 additions and 12 deletions in 3 files</sub>
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub>
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from f8f5c61d4197 to 15b0d7575e64 (1 revision)
   <sub>[#164547](https://github.com/flutter/flutter/pull/164547) merged on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164547) over 1 hour, 2 additions and 2 deletions in 2 files</sub>
@@ -1196,7 +1200,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-7 commits.
+9 commits.
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; Recommend upgrade to iOS 18.4 beta 2 if on beta 1
   <sub>[#11766](https://github.com/flutter/website/pull/11766) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11766) over 17 hours, 3 additions and 20 deletions in 2 files</sub>
@@ -1210,6 +1214,14 @@
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Close And Menu Toggle
   <sub>[#11760](https://github.com/flutter/website/pull/11760) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11760) over 2 days, 22 additions and 0 deletions in 2 files</sub>
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub>
+
+* **[Michael Thomsen](https://github.com/mit-mit)** &mdash; Update impeller.md for web
+  <sub>[#11768](https://github.com/flutter/website/pull/11768) merged on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/website/pull/11768) over 10 hours, 4 additions and 5 deletions in 1 file</sub>
+  <sub>Reviewed by: [Yegor](https://github.com/yjbanov), [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Parker Lougheed](https://github.com/parlough)** &mdash; Add a feedback widget to end of each page
+  <sub>[#11759](https://github.com/flutter/website/pull/11759) merged on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11759) over 3 days, 164 additions and 25 deletions in 9 files</sub>
+  <sub>Reviewed by: [Amanda Fitch](https://github.com/antfitch)</sub>
 
 * **[Elliott Brooks](https://github.com/elliette)** &mdash; DevTools Release notes for version 2.44.0
   <sub>[#11767](https://github.com/flutter/website/pull/11767) merged on March 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11767) over 18 hours, 80 additions and 0 deletions in 5 files</sub>
