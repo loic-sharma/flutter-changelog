@@ -171,7 +171,7 @@
   <sub>[#164519](https://github.com/flutter/flutter/pull/164519) opened on on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164519) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Call onWindowDestroyed when windows closed.<br />
-  <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
+  <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [9 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
 
 * **[dyno-nexsoft](https://github.com/dyno-nexsoft)** &mdash; fix: ProgressIndicatorThemeData strokeWidth not working<br />
   <sub>[#164542](https://github.com/flutter/flutter/pull/164542) opened on on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164542) 1 addition and 1 deletion in 1 file</sub><br />
@@ -185,6 +185,6 @@
 * **[Matej Knopp](https://github.com/knopp)** &mdash; WIP: [Embedder] Only call removeview callback when raster thread is done with the view<br />
   <sub>[#164571](https://github.com/flutter/flutter/pull/164571) opened on on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164571) 12 additions and 7 deletions in 1 file</sub><br />
 
-* **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use DeviceLocal textures for gifs on non-iOS devices.<br />
-  <sub>[#164573](https://github.com/flutter/flutter/pull/164573) opened on on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164573) 15 additions and 0 deletions in 2 files</sub><br />
+* **[Srujan Gaddam](https://github.com/srujzs)** &mdash; Use dwds 24.3.6 and pass uri for the reload scripts path to FrontendServerDdcLibraryBundleProvider<br />
+  <sub>[#164582](https://github.com/flutter/flutter/pull/164582) opened on on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164582) 24 additions and 25 deletions in 3 files</sub><br />
 

@@ -4,11 +4,15 @@
 
 ### March 1, 2025 to March 7, 2025
 
-27 commits.
+28 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: make the text input plugin use the correct view on the Windows platform<br />
   <sub>[#163847](https://github.com/flutter/flutter/pull/163847) merged on March 4, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163847) over 1 week, 202 additions and 23 deletions in 5 files</sub><br />
   <sub>Reviewed by: [Justin McCandless](https://github.com/justinmc), [Loïc Sharma](https://github.com/loic-sharma)</sub><br />
+
+* **[Kamil Szczęk](https://github.com/kszczek)** &mdash; feat(Tooltip): pass the default text style down the tree<br />
+  <sub>[#163259](https://github.com/flutter/flutter/pull/163259) merged on March 4, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/163259) over 2 weeks, 65 additions and 11 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; android: Build universal gen_snapshot for Android<br />
   <sub>[#164453](https://github.com/flutter/flutter/pull/164453) merged on March 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164453) over 1 day, 51 additions and 22 deletions in 3 files</sub><br />
@@ -55,7 +59,7 @@
   <sub>Reviewed by: [Alexander Aprelev](https://github.com/aam), [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `engine_hash.sh`, which is no longer used by google3.<br />
-  <sub>[#164502](https://github.com/flutter/flutter/pull/164502) merged on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164502) over 58 minutes, 0 additions and 141 deletions in 2 files</sub><br />
+  <sub>[#164502](https://github.com/flutter/flutter/pull/164502) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164502) over 58 minutes, 0 additions and 141 deletions in 2 files</sub><br />
   <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub><br />
 
 * **[Matan Lurey](https://github.com/matanlurey)** &mdash; Remove `find_engine_commit.dart`, which is unused in the monorepo.<br />
