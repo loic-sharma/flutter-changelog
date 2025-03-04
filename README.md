@@ -719,7 +719,7 @@
   <sub>Reviewed by: [Chinmay Garde](https://github.com/chinmaygarde), [Chris Bracken](https://github.com/cbracken)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Skip Xcode install on mac_mokey Android tests<br />
-  <sub>[#163685](https://github.com/flutter/flutter/pull/163685) merged on February 20, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163685) over 17 hours, 8 additions and 0 deletions in 1 file</sub><br />
+  <sub>[#163685](https://github.com/flutter/flutter/pull/163685) merged on February 20, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/163685) over 17 hours, 8 additions and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker)</sub><br />
 
 * **[Jim Graham](https://github.com/flar)** &mdash; [DisplayList] Migrate rendering tests and benchmarks to DL geometry<br />
