@@ -153,7 +153,7 @@
   <sub>[#164473](https://github.com/flutter/flutter/pull/164473) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164473) 102 additions and 6 deletions in 2 files</sub><br />
 
 * **[Bruno Leroux](https://github.com/bleroux)** &mdash; Fix NavigationBar indicator overlay color<br />
-  <sub>[#164484](https://github.com/flutter/flutter/pull/164484) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164484) 31 additions and 52 deletions in 7 files</sub><br />
+  <sub>[#164484](https://github.com/flutter/flutter/pull/164484) opened on on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164484) 31 additions and 52 deletions in 7 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP] Disable Vulkan on MediaTek SoC.<br />
   <sub>[#164495](https://github.com/flutter/flutter/pull/164495) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164495) 6 additions and 0 deletions in 2 files</sub><br />
@@ -174,8 +174,11 @@
   <sub>[#164519](https://github.com/flutter/flutter/pull/164519) opened on on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164519) 6 additions and 0 deletions in 1 file</sub><br />
 
 * **[Robert Ancell](https://github.com/robert-ancell)** &mdash; Call onWindowDestroyed when windows closed.<br />
-  <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
+  <sub>[#164527](https://github.com/flutter/flutter/pull/164527) opened on on March 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164527) 187 additions and 20 deletions in 6 files</sub><br />
 
 * **[dyno-nexsoft](https://github.com/dyno-nexsoft)** &mdash; fix: ProgressIndicatorThemeData strokeWidth not working<br />
   <sub>[#164542](https://github.com/flutter/flutter/pull/164542) opened on on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164542) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[Darien Romero Leiva](https://github.com/DarienRomero)** &mdash; Add documentation for the secondary button<br />
+  <sub>[#164550](https://github.com/flutter/flutter/pull/164550) opened on on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164550) 3 additions and 0 deletions in 1 file</sub><br />
 
