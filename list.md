@@ -4,11 +4,15 @@
 
 ### March 1, 2025 to March 7, 2025
 
-15 commits.
+16 commits.
 
 * **[Chris Bracken](https://github.com/cbracken)** &mdash; android: Build universal gen_snapshot for Android
   <sub>[#164453](https://github.com/flutter/flutter/pull/164453) merged on March 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164453) over 1 day, 51 additions and 22 deletions in 3 files</sub>
   <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jonah Williams](https://github.com/jonahwilliams)</sub>
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Overhaul `update_engine_version.{sh|ps1}` to reflect the new computation flow
+  <sub>[#164513](https://github.com/flutter/flutter/pull/164513) merged on March 4, 2025 &mdash; **Large:** [3 comments](https://github.com/flutter/flutter/pull/164513) over 4 hours, 219 additions and 307 deletions in 4 files</sub>
+  <sub>Reviewed by: [John McDole](https://github.com/jtmcdole)</sub>
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Android] match dequeued images to FIF.
   <sub>[#164422](https://github.com/flutter/flutter/pull/164422) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/flutter/pull/164422) over 2 days, 90 additions and 12 deletions in 2 files</sub>
