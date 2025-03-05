@@ -16,7 +16,7 @@
   <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/8f9b472a-e624-4eef-9cea-e81b80f32b86" width="400"/><img src="https://github.com/user-attachments/assets/ffaf62fc-a82f-4c7a-9ff1-52374f4f2a67" width="400"/><img src="https://github.com/user-attachments/assets/3dfde2b0-bcc6-492a-8d97-ecabdf97f6f0" width="400"/><img src="https://github.com/user-attachments/assets/32b2a665-a0da-498f-acdb-598553940964" width="400"/></details></sub>
 
 * **[Victor Sanni](https://github.com/victorsanni)** &mdash; Fix race condition causing crash when interacting with an animating scrollable
-  <sub>[#164392](https://github.com/flutter/flutter/pull/164392) merged on March 5, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/164392) over 4 days, 57 additions and 1 deletion in 2 files</sub>
+  <sub>[#164392](https://github.com/flutter/flutter/pull/164392) merged on March 5, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/164392) over 4 days, 57 additions and 1 deletion in 2 files</sub>
   <sub>Reviewed by: [Kate Lovett](https://github.com/Piinks), [chunhtai](https://github.com/chunhtai)</sub>
 
 * **[ash-google](https://github.com/ash-google)** &mdash; Enforce minSdk constraint for Android Flutter
@@ -1277,7 +1277,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-12 commits.
+13 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add new design for previous and next page buttons
   <sub>[#11770](https://github.com/flutter/website/pull/11770) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11770) over 1 hour, 76 additions and 68 deletions in 4 files</sub>
@@ -1319,6 +1319,10 @@
 
 * **[Tirth](https://github.com/piedcipher)** &mdash; Update set-up-app-links.md
   <sub>[#11761](https://github.com/flutter/website/pull/11761) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11761) over 2 days, 1 addition and 1 deletion in 1 file</sub>
+  <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
+
+* **[Amanda Fitch](https://github.com/antfitch)** &mdash; Make wording in nested nav recipe device-agnostic.
+  <sub>[#11775](https://github.com/flutter/website/pull/11775) merged on March 5, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11775) over 21 hours, 12 additions and 7 deletions in 2 files</sub>
   <sub>Reviewed by: [Shams Zakhour (ignore Sfshaza)](https://github.com/sfshaza2)</sub>
 
 * **[Tong Mu](https://github.com/dkwingsmt)** &mdash; New design doc: Drawing apple squircles
