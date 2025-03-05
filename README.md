@@ -4,7 +4,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-31 commits.
+33 commits.
 
 * **[Matthew Kosarek](https://github.com/mattkae)** &mdash; feature: make the text input plugin use the correct view on the Windows platform<br />
   <sub>[#163847](https://github.com/flutter/flutter/pull/163847) merged on March 4, 2025 &mdash; **Small:** [18 comments](https://github.com/flutter/flutter/pull/163847) over 1 week, 202 additions and 23 deletions in 5 files</sub><br />
@@ -42,6 +42,10 @@
   <sub>[#160120](https://github.com/flutter/flutter/pull/160120) merged on March 3, 2025 &mdash; **Small:** [8 comments](https://github.com/flutter/flutter/pull/160120) over 2 months, 99 additions and 0 deletions in 4 files</sub><br />
   <sub>Reviewed by: [Michael Goderbauer](https://github.com/goderbauer)</sub><br />
 
+* **[Paul Sturm](https://github.com/PaulAllanSturm)** &mdash; when resetting FlutterPlatformViewsController, clear out some additional internal state to prevent it from carrying over across a Hot Restart<br />
+  <sub>[#164456](https://github.com/flutter/flutter/pull/164456) merged on March 5, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/flutter/pull/164456) over 2 days, 79 additions and 0 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
+
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use DeviceLocal textures for gifs on non-iOS devices.<br />
   <sub>[#164573](https://github.com/flutter/flutter/pull/164573) merged on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164573) over 2 hours, 15 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
@@ -77,6 +81,10 @@
 * **[zijiehe@](https://github.com/zijiehe-google-com)** &mdash; [Fuchsia] Enable extra test suits and correct the error reasons<br />
   <sub>[#164338](https://github.com/flutter/flutter/pull/164338) merged on March 3, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/flutter/pull/164338) over 3 days, 129 additions and 30 deletions in 6 files</sub><br />
   <sub>Reviewed by: [Jonny Wang](https://github.com/jrwang)</sub><br />
+
+* **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Fuchsia Linux SDK from Rt6pxGFLVAJHduM0V... to fhm5z889sA5T1AQao...<br />
+  <sub>[#164583](https://github.com/flutter/flutter/pull/164583) merged on March 5, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164583) over 1 hour, 2 additions and 2 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Flutter GitHub Bot](https://github.com/fluttergithubbot)</sub><br />
 
 * **[engine-flutter-autoroll](https://github.com/engine-flutter-autoroll)** &mdash; Roll Skia from 20266c9ca4c0 to 46705a22edc3 (2 revisions)<br />
   <sub>[#164580](https://github.com/flutter/flutter/pull/164580) merged on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164580) over 1 hour, 1 addition and 1 deletion in 1 file</sub><br />
