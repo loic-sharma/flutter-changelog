@@ -60,7 +60,7 @@
   <sub>Reviewed by: [Chris Bracken](https://github.com/cbracken), [hellohuanlin](https://github.com/hellohuanlin)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [Impeller] use DeviceLocal textures for gifs on non-iOS devices.<br />
-  <sub>[#164573](https://github.com/flutter/flutter/pull/164573) merged on March 4, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164573) over 2 hours, 15 additions and 0 deletions in 2 files</sub><br />
+  <sub>[#164573](https://github.com/flutter/flutter/pull/164573) merged on March 4, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164573) over 2 hours, 15 additions and 0 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Matan Lurey](https://github.com/matanlurey)</sub><br />
 
 * **[Loïc Sharma](https://github.com/loic-sharma)** &mdash; [Web] Improve onboarding docs<br />
