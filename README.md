@@ -16,8 +16,8 @@
   <sub><details><summary>4 images...</summary><img src="https://github.com/user-attachments/assets/8f9b472a-e624-4eef-9cea-e81b80f32b86" width="400"/><img src="https://github.com/user-attachments/assets/ffaf62fc-a82f-4c7a-9ff1-52374f4f2a67" width="400"/><img src="https://github.com/user-attachments/assets/3dfde2b0-bcc6-492a-8d97-ecabdf97f6f0" width="400"/><img src="https://github.com/user-attachments/assets/32b2a665-a0da-498f-acdb-598553940964" width="400"/></details></sub>
 
 * **[ash-google](https://github.com/ash-google)** &mdash; Enforce minSdk constraint for Android Flutter<br />
-  <sub>[#164251](https://github.com/flutter/flutter/pull/164251) merged on March 5, 2025 &mdash; **Medium:** [52 comments](https://github.com/flutter/flutter/pull/164251) over 6 days, 349 additions and 7 deletions in 2 files</sub><br />
-  <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall), [Reid Baker](https://github.com/reidbaker)</sub><br />
+  <sub>[#164251](https://github.com/flutter/flutter/pull/164251) merged on March 5, 2025 &mdash; **Medium:** [54 comments](https://github.com/flutter/flutter/pull/164251) over 6 days, 349 additions and 7 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Gray Mackall](https://github.com/gmackall)** &mdash; Implement `clipPath` Mutator for hcpp<br />
   <sub>[#164525](https://github.com/flutter/flutter/pull/164525) merged on March 5, 2025 &mdash; **Medium:** [11 comments](https://github.com/flutter/flutter/pull/164525) over 1 day, 389 additions and 1 deletion in 4 files</sub><br />
@@ -56,7 +56,7 @@
   <sub>Reviewed by: [Gray Mackall](https://github.com/gmackall)</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [macos] prefer integrated GPU.<br />
-  <sub>[#164569](https://github.com/flutter/flutter/pull/164569) merged on March 5, 2025 &mdash; **Small:** [11 comments](https://github.com/flutter/flutter/pull/164569) over 8 hours, 17 additions and 1 deletion in 1 file</sub><br />
+  <sub>[#164569](https://github.com/flutter/flutter/pull/164569) merged on March 5, 2025 &mdash; **Small:** [12 comments](https://github.com/flutter/flutter/pull/164569) over 8 hours, 17 additions and 1 deletion in 1 file</sub><br />
   <sub>Reviewed by: [Matej Knopp](https://github.com/knopp), [gaaclarke](https://github.com/gaaclarke)</sub><br />
 
 * **[LongCatIsLooong](https://github.com/LongCatIsLooong)** &mdash; Add a `isSystemTextScaler` matcher<br />
