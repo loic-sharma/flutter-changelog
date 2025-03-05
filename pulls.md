@@ -23,9 +23,6 @@
 * **[Koji Wakamiya](https://github.com/koji-1009)** &mdash; Remove AlarmClock from BrowserImageDecoder<br />
   <sub>[#161481](https://github.com/flutter/flutter/pull/161481) opened on on January 12, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/161481) 18 additions and 58 deletions in 1 file</sub><br />
 
-* **[yim](https://github.com/yiiim)** &mdash; Allow the animation to skip a duration before starting.<br />
-  <sub>[#161497](https://github.com/flutter/flutter/pull/161497) opened on on January 13, 2025 &mdash; **Small:** [3 comments](https://github.com/flutter/flutter/pull/161497) 116 additions and 22 deletions in 3 files</sub><br />
-
 * **[Matej Knopp](https://github.com/knopp)** &mdash; [Linux] Move rendering to raster thread<br />
   <sub>[#161879](https://github.com/flutter/flutter/pull/161879) opened on on January 19, 2025 &mdash; **Large:** [42 comments](https://github.com/flutter/flutter/pull/161879) 411 additions and 157 deletions in 6 files</sub><br />
 
