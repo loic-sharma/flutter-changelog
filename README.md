@@ -27,13 +27,13 @@
   <sub>[#163259](https://github.com/flutter/flutter/pull/163259) merged on March 4, 2025 &mdash; **Small:** [22 comments](https://github.com/flutter/flutter/pull/163259) over 2 weeks, 65 additions and 11 deletions in 2 files</sub><br />
   <sub>Reviewed by: [LongCatIsLooong](https://github.com/LongCatIsLooong), [Justin McCandless](https://github.com/justinmc)</sub><br />
 
-* **[Chris Bracken](https://github.com/cbracken)** &mdash; android: Build universal gen_snapshot for Android<br />
-  <sub>[#164453](https://github.com/flutter/flutter/pull/164453) merged on March 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164453) over 1 day, 51 additions and 22 deletions in 3 files</sub><br />
-  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
-
 * **[Harri Kirik](https://github.com/harri35)** &mdash; Fix to Linux_pixel_7pro integration_ui_keyboard_resize test flakiness<br />
   <sub>[#162308](https://github.com/flutter/flutter/pull/162308) merged on March 5, 2025 &mdash; **Small:** [24 comments](https://github.com/flutter/flutter/pull/162308) over 1 month, 33 additions and 19 deletions in 2 files</sub><br />
   <sub>Reviewed by: [Reid Baker](https://github.com/reidbaker), [Matan Lurey](https://github.com/matanlurey), [Justin McCandless](https://github.com/justinmc)</sub><br />
+
+* **[Chris Bracken](https://github.com/cbracken)** &mdash; android: Build universal gen_snapshot for Android<br />
+  <sub>[#164453](https://github.com/flutter/flutter/pull/164453) merged on March 3, 2025 &mdash; **Small:** [6 comments](https://github.com/flutter/flutter/pull/164453) over 1 day, 51 additions and 22 deletions in 3 files</sub><br />
+  <sub>Reviewed by: [Victoria Ashworth](https://github.com/vashworth), [Jonah Williams](https://github.com/jonahwilliams)</sub><br />
 
 * **[Jenn Magder](https://github.com/jmagman)** &mdash; Run run_debug_test_android and run_release_test in prod<br />
   <sub>[#164231](https://github.com/flutter/flutter/pull/164231) merged on March 3, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164231) over 4 days, 0 additions and 2 deletions in 1 file</sub><br />
