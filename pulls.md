@@ -53,9 +53,6 @@
 * **[Ricardo Dalarme](https://github.com/ricardodalarme)** &mdash; docs(CHANGELOG): add v3.29 release entry<br />
   <sub>[#163538](https://github.com/flutter/flutter/pull/163538) opened on on February 18, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/163538) 6 additions and 0 deletions in 1 file</sub><br />
 
-* **[Elliott Brooks](https://github.com/elliette)** &mdash; [Widget Inspector] Handle null exceptions calling `renderObject`<br />
-  <sub>[#163642](https://github.com/flutter/flutter/pull/163642) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163642) 19 additions and 6 deletions in 1 file</sub><br />
-
 * **[Bent Hillerkus](https://github.com/benthillerkus)** &mdash; [Gen-l10n] Add `Message.resourceId` and `locale` to all `L10nException` error messages<br />
   <sub>[#163654](https://github.com/flutter/flutter/pull/163654) opened on on February 19, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/163654) 48 additions and 22 deletions in 3 files</sub><br />
 
@@ -150,7 +147,7 @@
   <sub>[#164495](https://github.com/flutter/flutter/pull/164495) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164495) 6 additions and 0 deletions in 2 files</sub><br />
 
 * **[Jonah Williams](https://github.com/jonahwilliams)** &mdash; [CP][Impeller] Move AHB check into Flutter main, don't disable ImageReader on 29.<br />
-  <sub>[#164496](https://github.com/flutter/flutter/pull/164496) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164496) 15 additions and 115 deletions in 11 files</sub><br />
+  <sub>[#164496](https://github.com/flutter/flutter/pull/164496) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164496) 16 additions and 115 deletions in 11 files</sub><br />
 
 * **[Mairramer](https://github.com/Mairramer)** &mdash; Fix Android SystemUiOverlayStyle issue when showing CupertinoSheet<br />
   <sub>[#164511](https://github.com/flutter/flutter/pull/164511) opened on on March 3, 2025 &mdash; **Small:** [0 comments](https://github.com/flutter/flutter/pull/164511) 64 additions and 1 deletion in 2 files</sub><br />
@@ -193,4 +190,7 @@
 
 * **[Wdestroier](https://github.com/Wdestroier)** &mdash; Support launching a HTTPS URL<br />
   <sub>[#164720](https://github.com/flutter/flutter/pull/164720) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164720) 1 addition and 1 deletion in 1 file</sub><br />
+
+* **[icnahom](https://github.com/icnahom)** &mdash; Fix typo in carousel.dart<br />
+  <sub>[#164727](https://github.com/flutter/flutter/pull/164727) opened on on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/flutter/pull/164727) 1 addition and 1 deletion in 1 file</sub><br />
 

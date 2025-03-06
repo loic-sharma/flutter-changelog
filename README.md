@@ -1154,7 +1154,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-10 commits.
+11 commits.
 
 * **[Paweł Jakubowski](https://github.com/FirentisTFW)** &mdash; [video_player_android] Platform view support<br />
   <sub>[#8466](https://github.com/flutter/packages/pull/8466) merged on March 4, 2025 &mdash; **Extra large:** [94 comments](https://github.com/flutter/packages/pull/8466) over 1 month, 2291 additions and 708 deletions in 44 files</sub><br />
@@ -1175,6 +1175,10 @@
 * **[Cao Gia Hiếu](https://github.com/CaoGiaHieu-dev)** &mdash; [go_router_builder]: Fix `The argument type 'String?' can't be assigned to the parameter type 'String' because 'String?' ` on path and query params<br />
   <sub>[#8737](https://github.com/flutter/packages/pull/8737) merged on March 4, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/packages/pull/8737) over 4 days, 17 additions and 11 deletions in 10 files</sub><br />
   <sub>Reviewed by: [Karibash](https://github.com/Karibash), [chunhtai](https://github.com/chunhtai), [Hannah Jin](https://github.com/hannah-hyj)</sub><br />
+
+* **[Neil Self](https://github.com/neilself)** &mdash; [google_sign_in] Add Android account name field as optional (implementation package changes)<br />
+  <sub>[#8805](https://github.com/flutter/packages/pull/8805) merged on March 6, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/packages/pull/8805) over 20 hours, 167 additions and 16 deletions in 20 files</sub><br />
+  <sub>Reviewed by: [stuartmorgan](https://github.com/stuartmorgan), [Camille Simon](https://github.com/camsim99)</sub><br />
 
 * **[Reid Baker](https://github.com/reidbaker)** &mdash; [various] Updates packages to use flutter.compileSdkVersion<br />
   <sub>[#8734](https://github.com/flutter/packages/pull/8734) merged on March 6, 2025 &mdash; **Small:** [4 comments](https://github.com/flutter/packages/pull/8734) over 6 days, 142 additions and 72 deletions in 58 files</sub><br />
@@ -1349,7 +1353,7 @@
 
 ### March 1, 2025 to March 7, 2025
 
-14 commits.
+15 commits.
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add new design for previous and next page buttons<br />
   <sub>[#11770](https://github.com/flutter/website/pull/11770) merged on March 4, 2025 &mdash; **Small:** [2 comments](https://github.com/flutter/website/pull/11770) over 1 hour, 76 additions and 68 deletions in 4 files</sub><br />
@@ -1371,6 +1375,10 @@
 
 * **[Bhavy Zala](https://github.com/zalabhavy)** &mdash; Close And Menu Toggle<br />
   <sub>[#11760](https://github.com/flutter/website/pull/11760) merged on March 3, 2025 &mdash; **Small:** [5 comments](https://github.com/flutter/website/pull/11760) over 2 days, 22 additions and 0 deletions in 2 files</sub><br />
+  <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
+
+* **[Matan Lurey](https://github.com/matanlurey)** &mdash; Add `flutter.dev/to/team-infra`.<br />
+  <sub>[#11780](https://github.com/flutter/website/pull/11780) merged on March 6, 2025 &mdash; **Small:** [1 comment](https://github.com/flutter/website/pull/11780) over 16 hours, 1 addition and 0 deletions in 1 file</sub><br />
   <sub>Reviewed by: [Parker Lougheed](https://github.com/parlough)</sub><br />
 
 * **[Parker Lougheed](https://github.com/parlough)** &mdash; Add sidenav links back to setup selection pages<br />
